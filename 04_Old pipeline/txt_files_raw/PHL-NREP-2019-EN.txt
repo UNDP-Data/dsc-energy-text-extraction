@@ -1,0 +1,3160 @@
+File Name: PHL-NREP-2019-EN
+Year: 2019
+Country Name: Philippines
+Country Code: PHL
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2019
+Start Year: 2017
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+© IRENA 2017
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed 
+and/or stored, provided that appropriate acknowledgement is given of IRENA as the source and copyright 
+holder. Material in this publication that is attributed to third parties may be subject to separate terms of use and 
+restrictions, and appropriate permissions from these third parties may need to be secured before any use of such 
+material.
+ISBN 978-92-9260-003-7 (print)
+ISBN 978-92-9260-004-4 (PDF)
+Citation: 
+IRENA (2017), Renewables Readiness Assessment: The Philippines, International Renewable Energy Agency, 
+Abu Dhabi.
+About IRENA 
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports 
+countries in their transition to a sustainable energy future, and serves as the principal platform for international 
+cooperation, a centre of excellence, and a repository of policy, technology, resource and financial knowledge 
+on renewable energy. IRENA promotes the widespread adoption and sustainable use of all forms of renewable 
+energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable 
+development, energy access, energy security and low-carbon economic growth and prosperity.
+Acknowledgement
+The International Renewable Energy Agency (IRENA) and the Department of Energy of the Republic of the 
+Philippines would like to express sincere appreciation for the invaluable contributions of numerous energy 
+experts and stakeholders in the preparation of this joint publication. This report benefited greatly from their 
+review and insightful comments and input. Special thanks to His Excellency Alfonso G. Cusi, the Energy Secretary; 
+Richie Avigale Ramos-Pilares, Assistant Secretary for the Renewable Energy Management Bureau, Gaspar G. 
+Escobar, Jr., Chief, Technical Services and Management Division of Renewable Energy Management Bureau; Pete 
+H. Maniego, Jr., Chairman of the National Renewable Energy Board; Lily L. Gutierrez and Enrique Gallardo, Jr., of 
+the United States Agency for International Development; and Maria Eloida Balamiento, Senior Energy Adviser for 
+EU-SWITCH, Policy Support Component. 
+Contributors: Yong Chen and Gürbüz Gönül (IRENA), Mario C. Marasigan (Department of Energy, Philippines) 
+and Renato T. Goco (consultant)
+The contribution of Hendrik Meller and Ferdinand Larona of the German International Cooperation Agency 
+(Gesellschaft für Internationale Zusammenarbeit), specifically with respect to mapping out the administrative 
+procedures for on-grid solar PV project development, is also greatly appreciated. 
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the reliability 
+of the material in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party content providers 
+provides a warranty of any kind, either expressed or implied, and they accept no responsibility or liability for any consequence of use of 
+the publication or material herein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA. The mention of specific companies 
+or certain projects or products does not imply that they are endorsed or recommended by IRENA in preference to others of a similar RENEWABLES
+READINESS ASSESSMENT
+THE PHILIPPINESIn recognition of the importance of indigenous energy options to enhance the economic growth 
+and improve livelihoods, the Philippine Department of Energy (PDOE) has been exploring a 
+variety of options to build an energy independent future supplied by sustainable, stable, secure, 
+sufficient, accessible and reasonably-priced energy sources. In pursuit of this ultimate goal, the 
+Philippines has stepped up its efforts in promoting the deployment of indigenous renewables 
+energy over the past few years. 
+Blessed with abundant renewable energy resources, including geothermal, biomass, solar, wind 
+and hydrological energy sources, the Philippines has already made significant achievements in 
+developing these resources, such as being the second largest geothermal power producer in 
+the world. The use of new renewable energy sources, such as solar and wind energy, has also 
+dramatically increased thanks to the great interest from the private sector and as a result of the 
+favourable policy framework that is in place. 
+Nevertheless, the rapid scale-up of renewables reached a milestone where a systematic assessment 
+became necessary. In this context, the PDOE through its Renewable Energy Management Bureau 
+(REMB) has closely collaborated with International Renewable Energy Agency (IRENA) to conduct 
+a Renewables Readiness Assessment (RRA). The process aims to identify the gaps that must be 
+filled or narrowed if the national goal of being energy independent is to be achieved. Through the 
+process, constructive engagement from the bilateral and multilateral co-operation agencies, financial 
+FOREWORD
+from the
+Secretary of Energyinstitutions and the private sector, was sought. To this end, this study has also defined the priorities 
+that the PDOE would like to continue working in close co-operation with relevant stakeholders. This 
+would provide directional guidance for them to direct their resources towards a common target. 
+The Philippines has already initiated some of the recommended actions in the RRA report; for 
+example, a mini-grid study for the Philippines with the continued support from IRENA. In line 
+with the recommendations, REMB has been substantially strengthened with additional staff to 
+better serve the renewable energy sector. 
+Lastly, on behalf of the PDOE, I would like to express our gratitude to IRENA as well as other 
+development partners including Asian Development Bank, Germany’s International Cooperation 
+Agency (GIZ), the United States Agency for International Development (USAID) and the European 
+Union (EU) for their invaluable support and technical assistance, and we look forward to a long 
+and fruitful relationship in the future. 
+Alfonso G. Cusi
+Secretary of Energy
+The PhilippinesLike many countries in South East Asia, the Philippines faces the challenge of a growing population 
+and rising demand for energy to power its economic growth. Yet nearly half of its primary energy 
+supply is imported, making the country vulnerable to rising costs for fuel imports and global oil 
+price volatility. At the same time, the Philippines is frequently exposed to tropical storms and 
+natural disasters that adversely impact its energy infrastructure. 
+In response to these challenges, the Philippines has resolved to bolster its energy security 
+and pursue low-carbon economic development while taking an active part in global efforts to 
+address climate change. Renewable energy technologies have become increasingly prominent 
+in national planning and policy-making and are gaining importance in the realisation of the 
+country’s sustainable development objectives. In 2011, the Philippines set an ambitious renewable 
+energy target of 15.3 gigawatts by 2030. With the entry into force of the Paris Agreement, 
+renewable energy is poised to play an even bigger role in meeting climate objectives and in the 
+decarbonisation of the energy sector.
+This Renewables Readiness Assessment (RRA), undertaken in co-operation with the government 
+of the Philippines, examines the energy sector holistically and identifies barriers, as well as key 
+actions to accelerate renewable energy deployment. In this regard, it puts forward options to 
+strengthen the Philippines’ renewable energy policy, regulatory and institutional framework. 
+It includes an assessment of the country’s grid infrastructure and examines the institutional 
+capacity in the Philippine renewable energy sector, along with the potential for electrification 
+through renewable-based mini- and micro-grid solutions.
+FOREWORD
+from the IRENA 
+Director-GeneralSome 30 countries, spanning Africa, the Caribbean, Latin America, the Middle East and the AsiaPacific region, have undertaken the RRA process since 2011, exchanging knowledge and supporting 
+international co-operation to promote clean, indigenous renewable energy technologies. 
+IRENA wishes to thank the Renewable Energy Management Bureau at the Department of Energy 
+of the Philippines for providing continuously strong and valuable support. I am encouraged by 
+the active participation and contributions of the international community, including the Asian 
+Development Bank, Germany’s International Cooperation Agency (GIZ), the United States Agency 
+for International Development (USAID) and the European Union (EU). A range of stakeholders 
+in the Philippines, meanwhile, provided enthusiastic and serious engagement, without which the 
+process could not have succeeded.
+I sincerely hope these RRA findings will strengthen the pursuit of renewable energy solutions. 
+IRENA stands ready to support the Philippines as the country strives for a sustainable energy 
+future.
+Adnan Z. Amin
+Director-General
+International Renewable Energy AgencyCONTENTS
+FIGURES VIII
+TABLES VIII
+BOXES VIII
+ABBREVIATIONS IX
+EXECUTIVE SUMMARY XI
+INTRODUCTION 1
+1.1 Country background 1
+1.2 Renewables Readiness Assessment 2
+ENERGY CONTEXT 5
+2.1 Energy supply and demand 5
+2.2 Electric power system 7
+2.3 Rural electrification 9
+2.4 Legal and regulatory frameworks 12
+2.5 Key institutions of the energy sector 14
+RENEWABLE ENERGY DEVELOPMENT IN THE PHILIPPINES 17
+3.1 Renewable energy resource potential and development 17
+• Geothermal energy 17
+• Hydropower 19
+• Solar energy 20
+• Wind energy 22
+• Biomass and biofuels 23
+• Ocean energy 25
+3.2 Key supportive initiatives for renewable energy deployment 26
+• National Renewable Energy Program 2011-2030 26
+• Mapping out administrative procedures for 
+on-grid solar PV project development 27
+• Financing initiatives supporting renewable energy developers 30
+• Renewable Portfolio Standards 31
+3.3 Renewable-powered mini/microgrids 31
+01
+02
+03KEY CHALLENGES AND RECOMMENDATIONS 35
+ 4.1 Political commitment 35
+• Challenges 35
+• General recommendations 36
+• Proposed action: establish a solid foundation for sustaining political 
+commitment through a broad public awareness campaign 36
+ 4.2 Grid stability study 36
+• Challenges 36
+• General recommendation 36
+• Proposed action: grid infrastructure assessment 36
+ 4.3 Institutional capacity analysis 37
+• Challenges 37
+• General recommendations 37
+• Proposed action: assessment of institutional capacity in the Philippines 
+renewable energy sector 37
+ 4.4 National mini/microgrid study 38
+• Challenges 38
+• General recommendation 39
+• Proposed action: study on potential of renewable 
+energy mini/microgrids for electricity access 39
+Annex 1: Summary of rural electrification projects in the Philippines 40
+Annex 2: Renewable Energy Act of 2008 41
+REFERENCES 45
+04FIGURES
+Figure 1: Annual GDP growth, 2010-2014 1
+Figure 2: Philippine exposure to climate change (map) 2
+Figure 3: Trends in total primary energy supply, 2004-2015 5
+Figure 4: Energy dependence ratio, 2004-2015 6
+Figure 5: Total primary energy supply by source, 2015 6
+Figure 6: Final energy consumption by sector, 2011 and 2015 7
+Figure 7: Installed electricity generating capacity in the Philippines 7
+Figure 8: Electricity consumption by sector in the Philippines 8
+Figure 9: Solar energy resource in the Philippines 20
+Figure 10: Wind energy resource in the Philippines 23
+Figure 11: Timeline for NREP implementation 26
+TABLES
+Table 1: Geothermal projects identified in the Philippine Energy Plan (2012-2030) 19
+Table 2: Wind energy resource potential in the Philippines 22
+Table 3: Potential electricity generation capacity from biomass-based fuel 24
+Table 4: Comparative overview of project development for on-grid solar PV 28
+Table 5: Eligible FiT projects, January 2015 44
+BOXES
+Box 1: Missionary Electrification Development Plan 12
+Box 2: Cavite Pig City 25ABBREVIATIONS
+AMORE Alliance for Mindanao Off-grid Rural Electrification
+ASEAN Association of Southeast Asian Nations
+CEPALCO Cagayan Electric Power and Light Company
+EPIRA Electric Power Industry Reform Act
+ERC Energy Regulatory Commission
+FiT Feed-in-Tariff
+GDP gross domestic product
+GIZ German International Cooperation Agency (Deutsche 
+ Gesellschaft für Internationale Zusammenarbeit)
+GW, GWh gigawatt, gigawatt-hour
+IPP independent power producer
+kW, kWh kilowatt, kilowatt-hour
+m/s metre per second
+Meralco Manila Electric Company
+MW megawatt
+NREB National Renewable Energy Board
+NGCP National Grid Corporation of the Philippines
+NPC-SPUG National Power Corporation Small Power Utilities Group
+NREL National Renewable Energy Laboratory
+NREP National Renewable Energy Program
+PHP Philippine Peso
+PSA power supply agreement 
+QTP qualified third party
+RPS renewable portfolio standard
+RRA Renewables Readiness Assessment
+TPES total primary energy supply
+TRANSCO National Transmission Corporation
+UCME Universal Charge for Missionary Electrification
+USAID United States Agency for International Development 
+USD US DollarEXECUTIVE 
+SUMMARYThe Philippines is a net fossil energy importer and depends heavily on imports 
+of oil for transport, and coal for power generation. On average, nearly half the 
+country’s primary energy supply is imported. In addition, due to its geographical 
+location, the country’s energy infrastructure is frequently exposed to tropical 
+storms. At the same time, strong power grid interconnections with other countries 
+in the Association of Southeast Asian Nations (ASEAN) as part of the proposed 
+ASEAN Power Grid may not be realised in the near future. 
+As a result, the country continues to face energy security challenges. Energy 
+independence has become a central aim of policy development to ensure 
+sustainable, reliable, secure, sufficient and accessible energy.
+In 2011, the Philippines set an ambitious renewable energy target to raise installed 
+generation capacity by 2030 to almost three times its 2010 level i.e. from 
+5,438 megawatts (MW) to 15,304 MW. This was established in the National 
+Renewable Energy Program (NREP), which serves as the blueprint for the 
+implementation of the Renewable Energy Act of 2008. This has put the country 
+on a course to meet half its electricity demand with renewables and thus to 
+strengthen energy security. At the same time, this would reduce electricity tariffs 
+in remote areas and islands. 
+One year after the target was set, Feed-in-Tariffs (FiTs) were issued by the Energy 
+Regulatory Commission (ERC). The Philippines has since then made remarkable 
+achievements in renewable energy deployment. This has taken place not only in 
+the northern region, where the wind resource is great, but also through urban 
+rooftop solar PV. This has been due largely to dramatically declining costs 
+for renewable energy technologies like solar and onshore wind, as well as to 
+attractive FiT schemes. As a result, the industry has also grown rapidly, 
+fuelled by increasing domestic and overseas 
+investments and thus transforming power 
+markets and business models. ASEAN recently 
+set a regional renewable energy target of 23% 
+by 2025, and this has provided the Philippines 
+with an additional important reason for pursuing 
+cleaner and sustainable alternative energy. Yet 
+emerging concerns need to be resolved in relation 
+to future policy making and institutional evolution 
+in the renewable energy sector. Only then will the 
+country maintain its development momentum and 
+achieve the ultimate policy objective of energy 
+independence by replacing imported fossil fuels 
+with indigenous renewables. 
+The Renewables Readiness Assessment (RRA) 
+identified and analysed key challenges, 
+recommended action to deal with issues it 
+revealed and offered guidance on fine tuning the 
+Philippine renewable energy policy, regulatory and 
+institutional framework. 
+Recommended actions 
+1. Raise awareness to ensure sustained political 
+commitment
+ In the Philippines, public awareness plays a 
+very important role in influencing the political 
+commitments, decisions and the orientation 
+of public policies. Raising public awareness on 
+the benefits of renewable energy applications 
+is hence essential. The Philippines has the 
+second highest electricity tariff in the region so 
+the economic benefits of adopting renewables 
+have major implications for the general public, 
+especially in the rural areas and islands, where 
+fuel costs are prohibitively high. This is one of 
+the important economic factors explaining 
+regular interruption of the power supply. 
+Renewable energy sources have proved to 
+be the most cost-effective options in these 
+settings, thanks to their near-zero marginal 
+production costs for electricity. Some renewable 
+energy technologies, notably solar PV, have 
+experienced sharp cost reductions. Affordability 
+could thus be significantly improved if capital 
+costs were brought down with the support of 
+the government. 
+ A range of different stakeholders should initiate 
+a series of public campaigns with the assistance, 
+participation and resources of the development 
+partners. Educational programmes could be set 
+up to provide the public with real examples and 
+can also be used to provide practitioners with 
+hands-on experience.
+2. Assess the country’s grid infrastructure
+ A comprehensive grid evaluation with a focus on 
+grid stability is recommended for the islands of 
+Luzon, Visayas and Mindanao. This includes an 
+analysis of the present state of the infrastructure, 
+quality of service and power flow, and stability 
+assessments responding to solar or wind 
+generation inputs at various points and different 
+penetration levels. This would better explain how 
+the connection of variable renewable sources 
+affects the grids to thus minimise potential grid 
+operation problems. 
+ The results allow the development of proactive 
+energy planning relating to generation, transmission and distribution networks, producing 
+the standards and guidelines for future gridconnected solar PV and wind systems. 
+ The completion of this recommended study should 
+be followed by a training programme. This would 
+equip the utilities with the knowledge necessary to 
+understand the results and also modify the model 
+when there are changes to the grid.
+3. Examine institutional capacity in the Philippine 
+renewable energy sector 
+ A thorough institutional capacity assessment 
+of the Department of Energy Renewable 
+Energy Management Bureau and other relevant 
+agencies is recommended accompanied by an 
+assessment of stakeholders. Its aim should be to 
+analyse their legal mandates and responsibilities 
+for implementing the Renewable Energy Act 
+and the NREP in comparison to their current 
+functions and capacity. It should examine 
+the existing co-ordinating mechanisms of 
+these agencies alongside new and emerging 
+challenges in the Philippine renewable energy 
+development, and the new sets of skills and 
+personnel required to overcome them.  This will draw out and build on the Renewable 
+Energy Management Bureau’s current expertise. 
+It will identify the existing skills of current 
+personnel, analysing its wide network to intensify 
+collaborative action, and will explore the efficient 
+use of available resources. The programme will 
+identify the skills and resource deficiencies within 
+the Renewable Energy Management Bureau and 
+key stakeholders in order to address their capacitybuilding needs. The ultimate goal is to equip the 
+Renewable Energy Management Bureau with the 
+appropriate capacity level while improving the 
+ability of other key stakeholders in the sector to 
+function and perform in a co-ordinated fashion.
+ As a result of the study, recommendations on 
+improving these capacities will be presented to 
+the Department of Energy and other 
+governmental agencies most relevant to 
+renewable energy sector institutional 
+development in the Philippines. The results can 
+also be presented to development partners 
+to design more effective capacity-building 
+programmes aided by various technical 
+assistance programmes.
+4. Study potential for renewable electrification 
+through mini- and microgrids
+ The recommended study should cover a range 
+of topics. These include an estimation of physical 
+regulatory frameworks, technological options/
+guidelines, business models and long-term 
+social and economic benefits that such systems 
+can generate for society as a whole. It would 
+concentrate on islands and remote regions 
+without electricity where mini-grids powered by 
+renewable energy can be economically viable 
+and also used to promote rural development. 
+ The recommended study should also consider 
+potential sites for mini-grids and explore 
+renewable energy technology options and 
+available resources that could be tapped 
+for power supply. It should identify barriers 
+and concerns and come up with alternative 
+approaches and recommendations to promoting 
+renewable energy in off-grid areas. In particular, 
+it should examine the franchise areas of electric 
+co-operatives with the highest mini-grid 
+potential. Mini-grids offer numerous advantages, 
+including easier power service restoration after 
+a natural disaster, improved quality of life and 
+income-generating opportunities. These should 
+be studied in relation to rural electrification in 
+the Philippines. 
+ Finally, the study should produce recommendations to develop the policies and 
+regulatory frameworks necessary to promote 
+investment in mini-grids and facilitate private 
+Wind turbines in Pililla, Rizal
+Photo: Alternergy Wind One CorporationINTRODUCTION1.1 Country background
+The Republic of the Philippines (“the Philippines”) is a country in Southeast Asia 
+composed of an archipelago of 7,107 islands in three main groups: Luzon, Visayas 
+and Mindanao. The population exceeds 100 million, approximately 55% of which 
+still lives in rural areas. The country is divided into 18 regions and administered 
+under 81 provincial governments (Worldometers, 2015; World Bank, 2014).
+From 2010 to 2014, the Philippine economy grew at an average annual rate of 6.3% 
+(World Bank, 2015) despite the devastation caused by a series of natural disasters 
+throughout 2013, including super typhoon Yolanda (Haiyan).1
+ This has made the 
+country among the strongest economies in ASEAN, as illustrated in Figure 1. The 
+2016 growth rate was estimated by the Asian Development Bank and the World 
+Bank at 6.3% and 6.5% respectively. This would rank the Philippines as the country 
+with the third fastest economic growth after China and Vietnam, according to the 
+Economic Planning Secretary and National Economic and Development Authority. 
+01
+Figure 1. Annual GDP growth, 2010-2014 
+Source: World Bank, 2015
+12
+2010 2011 2012 2013 2014
+10
+8
+6
+4
+2
+0
+-4
+-2
+East Asia & Pacific
+(developing only)
+Indonesia
+Cambodia
+Malaysia
+Thailand
+Brunei Darussalam
+PhilippinesDue largely to its geographical location and densely 
+inhabited coastal regions, the Philippines is highly 
+exposed to severe tropical weather and extremely 
+vulnerable to climate change, as shown in Figure 2. 
+The people affected by these natural disasters often 
+bear significant economic loss and as a result can fall 
+back into poverty. For instance, in several provinces 
+in the Autonomous Region of Muslim Mindanao, 
+poverty incidence exceeds 55%. In the Eastern 
+Visayas, which was struck by typhoon Yolanda, it 
+is 37%. The National Capital Region has the lowest 
+incidence of poverty, which is at 2.6% according to 
+the National Statistical Coordination Board (NSCB, 
+2015). Among the three, the Autonomous Region 
+The Philippines has set an ambitious renewable 
+energy target to raise installed generation capacity 
+by 2030 to almost three times its 2010 level. The 
+ASEAN region recently set a renewable energy 
+target of 23% by 2025, providing the Philippines with 
+an additional important reason to pursue cleaner 
+and sustainable alternative energy. There are a range 
+of social benefits, too. Scaling up renewable energy 
+system deployment will not only improve energy 
+supply security given its indigenous renewable 
+energy resources but also create a variety of job 
+opportunities for local people, for which there is high 
+demand. 
+In this context, the RRA was conducted at the 
+of Muslim Mindanao has the highest proportion of 
+areas in the country lacking electricity (apart from 
+areas affected by Yolanda) (National Electrification 
+Administration, 2015).
+With 274 disasters over the past two decades, the 
+Philippines has been ranked as the country with 
+the fourth highest number of natural disasters in 
+the world after the United States of America, China 
+and India. During that period, 130 million people in 
+the Philippines were affected by these disasters – 
+the fourth highest number in the world after China, 
+India and Bangladesh (United Nations International 
+Strategy for Disaster Reduction, 2015). 
+Figure 2. Philippine exposure to climate change
+Source: Philippine Department of Environment and Natural Resources, 2013
+Cluster II – extreme heating events, 
+extreme rainfall events, disturbed water 
+budget, sea level rise
+Cluster III – extreme heating events, 
+disturbed water budget, sea level rise
+Cluster IV – extreme heating events, sea 
+level rise
+Cluster XI – sea level rise
+Cluster V – extreme rainfall events, sea 
+level rise
+Cluster I – extreme heating events, sea 
+level rise
+Cluster X – extreme heating events, 
+increasing ocean temperature, extreme 
+rainfall events, disturbed water budget, 
+sea level rise
+Cluster IX – extreme heating events, 
+extreme rainfall events, disturbed water 
+budget, sea level rise
+Cluster VIII – extreme heating events, 
+increasing ocean temperature, extreme 
+rainfall events, sea level rise
+Cluster VII – extreme heating events, 
+increasing ocean temperature, sea level 
+rise
+Cluster VI – sea level rise
+Bureau. The aim was to assess the country’s position 
+on renewable energy development and deployment, 
+and to identify the issues to resolve to unlock the 
+remaining potential renewable energy sources in the 
+Philippines.
+1.2 Renewables Readiness Assessment
+IRENA developed the RRA as a tool for carrying 
+out a comprehensive evaluation of the conditions 
+for renewable energy deployment in a particular 
+country. The RRA is a country-led and consultative 
+process. It provides a venue for multi-stakeholder 
+dialogue to identify challenges to renewable 2
+ It is also known as the Republic Act No. 9513: An Act Promoting the Development, Utilization and Commercialization of Renewable Energy 
+ Resources and for Other Purposes. The full text of the act is available at www.doe.gov.ph/laws-and-issuances/republic-act-no-9513.
+recommendations are presented to governments to 
+guide the development of new policies or reform 
+of existing policies to open up a more enabling 
+environment for renewable energy. The RRA also 
+consolidates existing efforts and mobilises available 
+resources for priority action.
+IRENA and the Department of Energy worked 
+alongside a local expert to conduct research, set 
+the process in motion and co-ordinate with relevant 
+stakeholders. The first step in the RRA process was 
+to prepare a background paper which presented 
+an overview of the geographical, economic and 
+social environment of the Philippines. It describes 
+the present status of the energy sector, available 
+renewable energy resources, and the energy 
+policies, programmes and strategies adopted thus 
+far to advance renewables use. 
+To prepare the background paper, a review of recent 
+studies and reports by the country’s development 
+partners such as the Asian Development Bank, the 
+United States Agency for International Development 
+(USAID) and the World Bank was carried out to 
+assess what has already been done. These studies 
+identified challenges and deficiencies affecting the 
+renewable energy sector and outlined interventions 
+to resolve concerns relating to renewable energy 
+development and deployment.
+The local team interviewed key stakeholders (project 
+developers, financial institutions, government 
+agencies and academia) to validate these issues 
+and to gather first-hand information on what is 
+already happening on the ground. 
+Four focus groups examined the critical issues raised 
+during the interviews and literature review to identify 
+root causes and conceive possible interventions. In 
+particular, they discussed the following renewable 
+energy sector concerns: (a) lengthy and costly 
+permitting process (b) lack of appropriate (technical) 
+human resources in the sector and (c) ineffective 
+design and lack of implementation of the National 
+Renewable Energy Program (NREP) to accelerate 
+renewable energy deployment.
+An issues paper was then prepared to consolidate the 
+outputs of these activities including the salient findings 
+and recommendations of past studies on renewable 
+energy development. It features an issues map that 
+presents in graphic form how challenges interrelate 
+and draws attention to the greatest bottlenecks. 
+The paper reinforces the findings of past studies and 
+reveals persisting challenges to renewable energy 
+development. It also generates recommendations 
+to resolve them. 
+In co-ordination with the German International 
+Cooperation Agency (Gesellschaft für Internationale 
+Zusammenarbeit – GIZ), IRENA and the Department 
+of Energy jointly organised and conducted a round 
+table and action planning workshop. This brought 
+together stakeholders from across the whole 
+country to discuss appropriate action to overcome 
+barriers to renewable energy deployment. 
+Three bottlenecks were prioritised for discussion. 
+They are related to a) institutional capacity 
+development b) proactive power system planning 
+and c) permits. The two-day workshop culminated 
+in a session to prioritise possible interventions and 
+converted them into actions incorporated in the 
+recommendations section of this report. The RRA 
+recommendations will be presented to the National 
+Renewable Energy Board (NREB), a multi-sector 
+body that oversees the direction of the renewable 
+energy sector and guides the development of the 
+National Renewable Energy Program (NREP). The 
+NREP serves an implementation roadmap for the 
+Renewable Energy Act of 2008.2
+The Philippines RRA assesses the current state of the 
+renewable energy sector and its challenges. It makes 
+recommendations to bridge the implementation 
+gaps in the sector and accelerate the use of the 
+country’s abundant renewable energy resources.ENERGY
+CONTEXT 02
+As a net fossil energy importer, and a country whose energy infrastructure is inevitably 
+exposed to tropical storms, the Philippines has constantly battled with energy supply 
+security. The threat of power shortages in 2015 was successfully reduced. However, 
+this experience sent a warning signal to decision makers and has provoked public 
+debate on the appropriate type of power grid for the Philippines in future. This is 
+a particular concern because the Philippines may not be able to establish strong 
+interconnections with the ASEAN Power Grid due to its geographical location.3 
+Energy independence is therefore the core of energy policy development in the 
+Philippines to ensure sustainable, reliable, secure, sufficient and accessible energy.
+2.1 Energy supply and demand
+Between 2004 and 2015, global oil prices surged from around 20 US dollars (USD) per 
+barrel in 2004 to peak at USD 147/barrel in 2007. Since 2014, Philippine total primary 
+energy supply (TPES) has returned to its 2005 level following the dip observed in 
+2007-2009. This is because one-third of national energy demand correlates largely 
+with the changes of oil prices over that period, as shown in Figure 3. 
+Figure 3. Trends in total primary energy supply, 2004-2015 
+Source: Based on data from the Philippine Department of Energy, 2015
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+MTOE*
+*million tonnes of oil equivalent Year
+0
+10
+20
+30
+40
+50
+60Figure 4. Energy dependence ratio, 2004-2015
+2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015
+38%
+39%
+40%
+41%
+42%
+43%
+44%
+45%
+46%
+47%
+48%
+49%
+Source: IRENA
+The Philippines has over that decade been heavily 
+dependent on imported energy – mostly oil and 
+coal for transport and power generation. Over 
+the period, on average nearly half the TPES was 
+imported, as shown in Figure 4. According to the 
+Philippine Department of Energy, the importation 
+of coal reached a record high of 15.2 million tonnes 
+of coal equivalent in 2014 – mostly from Indonesia. 
+Figure 5 indicates that coal accounted for 22% of 
+Since the Philippines is both in the tropical region and 
+the Pacific “Ring of Fire”, biomass and geothermal 
+energy contributed about 12% and 20% respectively 
+to TPES in 2015. The Philippines produces the 
+greatest amount of geothermal electricity in the 
+world while the majority of biomass is consumed 
+in traditional ways. The other renewables represent 
+about 8% of TPES, including hydropower, solar and 
+wind.4
+Between 2011 and 2015, the residential sector 
+experienced a fairly major increase in share of total 
+final energy consumption, rising from 26% to nearly 
+31%, as shown in Figure 6. In addition to electricity, 
+fuelwood, charcoal, liquefied petroleum gas and 
+kerosene remain the major sources of household 
+energy in the Philippines.
+TPES in 2015. The share of oil in TPES has stagnated 
+at about 30%, and natural gas at 7%-8%. With a 
+significant number of coal power projects in the 
+pipeline, amounting to nearly six gigawatts (GW), 
+the energy dependency ratio measured in million 
+tonnes of oil equivalent could rise even higher. 
+This would therefore have a negative impact on 
+energy and electricity security despite lower energy 
+commodity prices globally. 
+4
+ The share of solar PV and wind energy accounts for a tiny 
+ proportion of TPES. Nevertheless, with solar and wind 
+ technology costs experiencing sharp reductions and significantly 
+ improved system performance, renewable energy could provide 
+Figure 5. Total primary energy supply
+by source, 2015
+4% 22%
+32%
+4% 20%
+12% 6%
+Coal
+Oil
+Natural Gas
+Traditional biomass
+Hydropower
+Geothermal
+Solar, wind and biofuelsFigure 6 indicates that industry and transport 
+experienced a fall of around 2% in share of final 
+energy consumption in the period 2011-2015. Over 
+the same timeframe, the commercial sector share 
+2.2 Electric power system
+The Philippines has three main power grid systems 
+as well as off-grid systems serving the three major 
+island groups Luzon, Visayas and Mindanao. 
+Total installed generating capacity has reached 
+17,943 MW,5 out of which only 15,933 MW is dependable6
+capacity that can be made available to generate 
+electricity whenever needed. This accounts for nearly 
+90% of the total. Dependable grid-connected capacity 
+is currently 12,970 MW.7 Of this, Luzon accounts for 
+5
+Bhd f 2014
+barely changed. The final energy consumption 
+share of agriculture, forestry and other sectors 
+doubled but was still insignificant given its very 
+small percentage of the total.
+Figure 6. Final energy consumption by sector, 2011 and 2015
+Industrial Commercial Residential Transport Agriculture, forestry & others
+2011 2015
+23.1%
+11.1%
+2.6%
+32.1%
+30.1%
+25.9%
+11.9%
+1.3%
+34.7%
+26.1%
+Source: Philippine Department of Energy, 2016
+9,706 MW, Visayas accounts for 1,801 MW and Mindanao 
+accounts for 1,463 MW to meet peak demand of 
+8,617 MW, 1,612 MW and 1,428 MW respectively. This 
+suggests that reserve capacity ranges from 2% in 
+Mindanao to 11% in Luzon, which is fairly modest. 
+Generation capacity based on fossil fuel accounts for 
+72% of the total, and geothermal and hydropower 
+account for most of the remainder, as illustrated in 
+Figure 7. This shows the insignificance of variable 
+renewable energy sources such as wind and solar 
+power in the power system at the moment.
+Figure 7. Installed electricity generating capacity in the Philippines
+Luzon Visayas Mindanao
+Installed power generation capacity (MW)Coal Oil-based Natural Gas Geothermal Hydropower Wind Biomass
+0
+2,000
+4,000
+6,000
+8,000
+10,000
+12,000
+14,000
+Source: Philippine Department of Energy, 20158At present, the Luzon and Visayas grids are 
+interconnected, and there is a plan to interconnect 
+the Mindanao grid with the Visayas grid by 2018. 
+Half the generating capacity in the Mindanao grid is 
+from hydropower. However, for an isolated grid, the 
+security of power supply can be a concern; it is more 
+vulnerable to disruption due to seasonal variations 
+in the hydrological resource and the physical power 
+infrastructure. This is especially the case when a 
+large portion of the generator fleet is utility-scale 
+centralised power, and reserve capacity is very 
+low. The bombing incidents of late 2015 put 16 
+transmission line towers out of service and caused 
+significant stress to power supply in Mindanao. 
+All three power grids are owned by the Government 
+of the Philippines through the National Transmission 
+Corporation, known as TRANSCO. They are operated 
+and managed9
+ by the National Grid Corporation of 
+the Philippines (NGCP) while generation assets10 are 
+being privatised in accordance with the Electric Power 
+Industry Reform Act of 2001 (EPIRA).11 The three grids 
+cover the service areas of 15 out of a total of 18 regions, 
+leaving the rest served by electric co-operatives12 and 
+private utilities on a franchise area coverage basis.
+Unlike TPES, electricity consumption had seen the 
+steady growth charted in Figure 8. This indicates that 
+electricity is an essential product for the Filipinos, 
+especially during the summer when the weather 
+is hot and humid. During that season, the use of 
+air conditioning units and other cooling devices is 
+necessary for residential and commercial sectors in 
+particular. Reliability and adequacy of power supply 
+capacity were put to serious test in 2015 as a result of a 
+hot summer combined with low precipitation caused 
+by the powerful El Niño effect. Power shortages 
+loomed, and panic broke out across the country. 
+The potential crisis was avoided mainly owing to 
+the Department of Energy’s Interruptible Load 
+Program, which delivered effective demand-side 
+management. This has encouraged businesses with 
+a load exceeding or equal to 1 MW to participate in 
+the Interruptible Load Program by running their own 
+generator sets (gen-sets) instead of drawing power 
+from the grid. Distribution utilities have requested 
+participating customers to switch from the grid to 
+their own generation systems when there is a power 
+supply deficit. In return, they will be compensated by 
+the distribution utility for their actual fuel costs plus 
+a certain margin to be agreed by the customer and 
+distribution utility. The grid peak load was therefore 
+significantly reduced (ERC, 2014). 
+9
+ This lasts 25 years under the Franchise Law enshrined in RA 
+ 9511 and can then be renewed for another 25 years. www.ngcp. 
+ ph/corporate.asp. 
+10 Except for rural electrification through National Power 
+ Corporation Small Power Utilities Group (NPC-SPUG). 
+11 It is also known as the Republic Act No. 9136: An Act Ordaining 
+ Reforms in the Electric Power Industry, Amending for the Purpose 
+ of Certain Laws and for Other Purposes. The full text of this Act 
+ is available at: www.neda.gov.ph/wp-content/uploads/2013/12/ 
+ R.A.-9136.pdf.
+12 Electric co-operatives are non-profit, member-owned entities 
+ that operate a distribution system to provide retail electricity 
+ services within an exclusive franchise area. The National 
+ Electrification Administration supports electric co-operatives 
+ by providing loans and capacity-building, for example. It 
+ regulates their key activities such as election of officers.
+13 www.transco.ph/downloads.
+Figure 8. Electricity consumption by sector in the Philippines 
+Residential Commercial Industrial Others Own-use System losses
+0
+10,000
+20,000
+30,000
+40,000
+50,000
+60,000
+70,000
+80,000
+90,000
+2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014
+Electricity Consumption (GWh)
+Year
+* Gigawatt-hours
+Source: Philippine Department of Energy, 201513Demand for electricity will continue to rise along 
+with the continued GDP growth.14 However, an 
+Economist Intelligence Unit analysis has shown that 
+the Philippine electricity consumption growth rate 
+(5.7%) will in any case outstrip the growth rate of 
+energy generation (5.3%) in 2015-2020.15
+Hence the question is not whether additional 
+electricity generating capacities in all three 
+grids are needed but what power generation 
+portfolio the country should develop from a longterm perspective, taking energy security into 
+consideration.
+2.3 Rural electrification 
+The Philippine rural electrification programme 
+started in the early 1960s, when the Philippine 
+government declared its commitment to universal 
+electrification. It established the Electrification 
+Administration, which quickly began financing over 
+200 small-scale generation-distribution systems. In 
+1972, 36 rural electric co-operatives were launched 
+and started operating with the financial support of 
+USAID and the Philippine government while more 
+formed on their own. The rural electric co-operative 
+model has to a large extent been considered a 
+good practice. However, some of the newly formed 
+electric co-operatives failed to follow strict costrecovery criteria. They thus suffered significant 
+financial deficits mostly due to the high cost of 
+power purchase from main grid, which in turn limits 
+low-income consumer access to electricity.
+Since 2001, as part of the power sector reform 
+engaged under the EPIRA, the government 
+has mandated the National Electrification 
+Administration and the National Power Corporation 
+Small Power Utilities Group (NPC-SPUG) to lead 
+rural electrification activities to achieve the 90% 
+electrification goal. Of these two, the National 
+Electrification Administration carries out the 
+Barangay Line Enhancement Program and Sitio 
+Electrification Program, both of which extend 
+distribution lines to unelectrified barangays, 
+sitios16 and households. The National Electrification 
+Administration implements these programmes 
+through the electric co-operatives by providing 
+them with the funds to extend their distribution 
+networks. 
+NPC-SPUG provides power and/or distribution 
+services to small, isolated and island grids. It 
+provides power to 78 small islands and eight 
+isolated grid areas nationwide by operating 92 
+land-based diesel power plants, 11 power barges, 17 
+mini-grids, 154 microgrids, a hybrid grid-connected 
+wind plant and a mini-hydropower plant. 
+In most off-grid areas, especially isolated islands, 
+electricity is generated by diesel gen-sets, resulting 
+in high electricity costs. The average energy price 
+set by the Manila Electric Company (Meralco) retail 
+tariffs was 8.82 Philippines Pesos (PHP) in 2013,17 
+and the NPC-SPUG notified rate for its operations 
+in Mindoro area was PHP 6.19 per kilowatt-hour 
+(kWh) as of October 2015. This was higher than 
+the highest main grid rate i.e. for Luzon at PHP 
+5.71/kWh. It was more than double the rate applied 
+to grid-connected consumers in Mindanao i.e. PHP 
+2.95/kWh. The biggest component of this tariff 
+is the generation component (65% of the overall 
+retail tariff) (NPC-SPUG, 2015; Somani et al., 2013). 
+To sustain operations in off-grid areas, revenue 
+is collected under the EPIRA from sales in the 
+missionary areas18 and from the Universal Charge for 
+Missionary Electrification fund (UCME – a common 
+tariff charged to all electricity end-users). It is used 
+to cover the cost difference that the Power Sector 
+Assets and Liabilities Management Corporation 
+(often known as PSALM) would not able to recoup 
+from end-users. 
+In past years, governmental programmes have taken 
+place to achieve its target to reach 90% household 
+electrification by 2017.
+14 The International Monetary Fund has estimated an average 4.6% GDP growth rate for the Philippines in 2011-2035. Sources: International 
+ Monetary Fund (2013); Organisation for Economic Co-operation and Development (2013).
+15 http://country.eiu.com/ArticleIndustry.aspx?articleid=1173164301&Country=Philippines&topic=Industry&subtopic=Energy#. 
+16 A barangay is the smallest government unit in the Philippines, composed of a group of households. A sitio is a smaller cluster of households 
+ within a barangay.
+17 USD 1 = PHP 43.135 (June 2013).
+18 As explained in Box 1.The Renewable Energy Management Bureau in 2008 
+initiated a complementary programme entitled 
+the Household (Sitio) Electrification Program. This 
+supplies household lighting to off-grid areas using 
+mature renewable energy technologies such as PV 
+solar home systems, PV streetlights and microhydropower. The Household (Sitio) Electrification 
+Program is a continuation of the Department of 
+Energy’s Barangay Electrification Program, which 
+started in 1998 and played a role in completing 
+barangay electrification by 2010. The Household 
+(Sitio) Electrification Program aims to contribute 
+to the national government’s goal to attain 90% 
+household electrification level by 2017. 
+Generally, solar PV systems are the most common 
+renewable energy technology for household 
+lighting purposes. However, micro-hydropower 
+systems are a better strategy when hydropower 
+resource is available within a reasonable distance of 
+clustered household beneficiaries. 
+Between its inception and June 2016, the Household 
+(Sitio) Electrification Program was able to complete 
+the energisation of 33,304 households. It installed 
+1,610 communal PV lighting systems (solar home 
+systems and streetlights) in various off-grid areas 
+nationwide with an aggregate capacity of 930 kW.
+The overall electrification rate is now at around 
+87.5% while only 73%19 of rural households have 
+access to electricity (World Bank, 2015). A table 
+of rural electrification programmes is presented in 
+Annex 1. 
+The Missionary Electrification Development 
+Plan, explained in Box 1, is one such government 
+initiative supported by development partners – the 
+World Bank and the United Nations Development 
+Programme. The World Bank also supported the 
+implementation of the Rural Power Project with 
+USD 40 million funding to the Development Bank 
+of the Philippines under the Global Environment 
+Facility. The Rural Power Project aimed to reduce 
+poverty and improve the quality of life of 10,000 
+rural households in the hard-to-reach, isolated and 
+poorest areas of the country, particularly Mindanao. 
+The Global Environment Facility’s financial support 
+takes the form of a long-term partial credit 
+efficiency of selected electric co-operatives. This 
+loan guarantee fund also shares the risks faced by 
+primary lenders such as microfinance institutions 
+(Rural Power Project, 2014). When it closed in 
+2012, the Rural Power Project had achieved some 
+of its development objectives to electrify rural 
+households with solar home systems via a publicprivate partnership with the Department of Energy. 
+The Development of Bank of the Philippines 
+managed the microfinance credit. 
+The approach taken for its Sustainable Solar Market 
+Packages is known to be the successful feature of 
+the Rural Power Project. It made barangay clusters 
+commercially viable despite the usual requirement 
+for large-scale solar business operations to overcome 
+transaction costs (Rural Power Project, 2014). 
+Over 21,000 rural solar home systems have been 
+connected, exceeding the target 20,000 (World 
+Bank, 2012). Most Rural Power Project strategies are 
+stand-alone solar systems but in the next phase they 
+may include small wind home systems and picohydropower (Rural Power Project, 2014).
+In addition, many rural electrification initiatives have 
+taken place with the support of the Department 
+of Energy and development partners, and active 
+engagement at the regional levels. The Alliance for 
+Mindanao Off-grid Rural Electrification (AMORE) 
+programme was co-ordinated from 2002 to 2009 
+for three purposes: lighting up households, energy 
+access for education in school and safe water supply 
+for income generation.
+By September 2009, the end of the programme’s 
+phase II, AMORE had provided electricity to 44,000 
+pupils in over 200 rural schools and more than 
+13,000 households in over 400 remote rural villages 
+(barangays) in 12 provinces in Muslim Mindanao. 
+It used stand-alone solar and micro-hydropower 
+systems and was supported by the Department of 
+Energy, USAID, NGOs and Winrock International, a 
+US-based foundation. AMORE improved the living 
+standards of rural households dependent on fishing 
+and farming by providing safe water using solar 
+battery chargers and solar-powered drinking water 
+systems.developed rural electrification using a resident 
+autonomy commercial approach. This encouraged 
+rural households not only to be energy and service 
+providers but also financing institutions. Community 
+members were organised into Barangay Renewable 
+Energy and Community Development Associations. 
+These were trained to operate and maintain the 
+renewable energy systems and raise their own 
+funds. One of the successful features of the AMORE 
+rural programme is a building operations and 
+maintenance fund mechanism in each community 
+for the efficient ongoing collection of community 
+funds to cover expenses (AMORE 2014).
+These rural electrification programmes were 
+instigated by the public sector. However, the private 
+sector can also participate in rural electrification 
+through two schemes: (1) the New Power Producers 
+scheme and (2) the Qualified Third Party (QTP) 
+Programme. The New Power Producers scheme 
+involves the full or partial takeover of an NPC-SPUG 
+area. The QTP scheme on the other hand allows the 
+delivery of electricity services to “unviable”20 areas 
+that the electric co-operative has waived from 
+its franchise coverage. The New Power Producer 
+scheme covers all the NPC-SPUG areas in which 
+power supply is predominantly fuelled by diesel. 
+A New Power Producer for a particular NPC-SPUG 
+area is chosen through a competitive selection 
+process and is entitled to receive subsidies from the 
+UCME. The scheme permits the assets of NPC-SPUG 
+to be used or new power plants and distribution 
+network to be constructed. 
+Through a public notice in 2005, the Department 
+of Energy designated 428 barangays as remote 
+and unviable areas open for QTP participation. 
+These areas are exempt from the electric cooperative/distribution utility franchise coverage 
+and are thus made available to QTPs. However, only 
+three accredited QTPs exist to date: PowerSource 
+Philippines, DMCI Power Corporation and Sabang 
+Renewable Energy Corporation. The PowerSource 
+Philippines is the first ever QTP in the country and 
+provides power to barangay Rio Tuba, Bataraza and 
+Palawan. DMCI Power, on the other hand, provides 
+generation and distribution services to Semirara 
+Island in Antique (GIZ, 2013). Sabang Renewable 
+Energy Corporation is the third QTP which was 
+awarded the service contract in September 2015 
+and is operating in Sabang, Puerto Princesa. 
+Unlike the New Power Producer scheme for NPCSPUG areas, QTPs do not go through a competitive 
+selection process although they are entitled to the 
+UCME. Instead, QTPs are subject to the Department 
+of Energy accreditation process. After this, they file 
+for approval of the retail rate and final authorisation 
+from the ERC. There are still numerous unviable 
+areas eligible for the QTP scheme. At the moment, 
+no takers are to be found for these remaining areas, 
+largely due to the regulatory challenge at the national 
+level. They will thus in the meantime be included in 
+the government’s electrification programmes.
+19 Equivalent to around 2.4 million households (National 
+ Electrification Administration, 2015).
+20 Unviable areas are generally remote, isolated locations in which 
+ the electric co-operative could not provide electricity services.
+NorthWind Poer Deelopment Corportion’33 MW The Missionary Electrification Development Plan 2012-2016 is an outline of the Philippine 
+government’s plan to increase the electrification rate in missionary areas that the main grid 
+cannot reach. 
+The Universal Charge for Missionary Electrification (UCME) is a subsidy designed to be funded 
+by the customers of the general on-grid distribution areas (GIZ, 2013). It is intended to act as a 
+financial incentive to the private sector to provide electricity to missionary areas using off-grid 
+systems powered by renewables and/or hybrid fuels. The UCME incentive rate is determined, 
+fixed and approved by the ERC based on the Missionary Electrification Development Plan. 
+The NPC-SPUG is the NPC functional unit for pursuing the Missionary Electrification 
+Development Plan. New Power Producers are able to serve or take over existing NPC-SPUG 
+areas, technically and financially, during the course of the competitive bidding process. As all 
+the existing NPC-SPUG areas are open to private sector, any NPC-SPUG area should privatise 
+its power generation facilities and associated power delivery systems by leasing or selling its 
+assets when it ceases to serve in one area. While the NPC-SPUG acts as the NPC functional 
+unit for pursuing the Missionary Electrification Development Plan, New Power Producers can 
+work in missionary areas though a competitive bidding process.
+The Philippine Rural Electrification Service Project has provided electricity through solar home 
+systems to 108 villages and through small diesel-fuelled mini-grid systems to another 102 
+villages. As one of the QTP rural electrification projects, PowerSource Philippines provides 
+generation and distribution to Rio Tuba. For the other remote areas, it deploys the Community 
+Energizer Platform (CEP™), a combined microgrid infrastructure.
+Box 1: 
+Missionary Electrification 
+Development Plan 
+Wind turbines in the Philippines
+Photo: Shutterstock
+Source: Department of Energy, 2014
+2.4 Legal and regulatory frameworks 
+The legal and regulatory framework for the energy 
+sector was set up in 1936 through the Public Service 
+Act (Commonwealth Act No. 146), which established 
+the Public Service Commission with the mandate to 
+issue the certificates authorising the operation of 
+public services. This was followed by a number of 
+key decrees and acts outlined below.
+• Presidential Decree No. 910 signed on 22 March 
+1972 to create the Energy Development Board, 
+composed of the heads of the key government 
+ministries such as the Ministry of Finance, 
+Ministry of Economic Planning, as well as the 
+head of the Philippine National Oil Company 
+and the Chairman of the Energy Development 
+Board. The board has an overarching role to coordinate the formulation and implementation of 
+energy policies, regulations and programmes, • The Department of Energy Act (Republic Act 
+No. 7638)21 approved by the President on 
+9 December 1992. This act creates the 
+Department of Energy of the Philippines and sets 
+forth its powers and functions, and composition. 
+The Department of Energy is made up of four 
+bureaus and one administrative support service 
+unit. It acts under the leadership of the Secretary, 
+three Undersecretaries and three Assistant 
+Secretaries. It performs a wide range of duties 
+from energy policy formulation to facilitating 
+the engagement of private enterprises in variety 
+of energy projects. 
+• The Electric Power Industry Reform Act 
+(EPIRA; Republic Act No. 9136)22 approved by 
+the President on 8 June 2001. Its main aim is 
+to improve the reliability of power supply and 
+reduce tariffs. This is achieved by opening up the 
+power market to competition by restructuring 
+the power industry from a vertical to horizontal 
+model and privatising the NPC. 
+• The Renewable Energy Act (Republic Act 
+No. 9513)23 approved by the President on 16 
+December 2008. This act aims to accelerate the 
+exploration, development and utilisation of all 
+forms of renewable energy resources including 
+hybridisation with other energy sources. It 
+provided for the creation of the NREB. Among 
+other functions, this was mandated to set the 
+sector Renewable Portfolio Standard (RPS) on 
+a per grid basis and minimum renewable power 
+generation capacities in off-grid areas. 
+The EPIRA and the Renewable Energy Act have provided 
+the most important framework to achieve energy 
+security and clean energy generation in the country. 
+Electric Power Industry Reform Act (EPIRA)
+The EPIRA provided a structure for reforming the 
+electric power industry to allow more private sector 
+participation and attain power security. The EPIRA’s 
+primary objectives are to ensure and accelerate 
+total electrification; to ensure the quality, reliability, 
+security and affordability of the supply of electric 
+power; to ensure transparent and reasonable prices 
+in a regime of free and fair competition; and to 
+encourage private sector capital and participation 
+into the sector. To achieve this, the EPIRA restructures 
+the power industry by unbundling it into four sectors: 
+(1) generation (2) transmission (3) distribution and 
+(4) supply. Before the EPIRA, the government 
+operated the electricity sector as a vertically 
+integrated industry. This led to the reorganisation of 
+certain government agencies and the creation of new 
+entities: the Wholesale Electricity Spot Market, the 
+Power Sector Assets and Liabilities and Management 
+Corporation, and TRANSCO. The functions of these 
+entities will be described in the next section. 
+The EPIRA emphasises the importance of private 
+sector support and renewable energy deployment 
+to provide electricity to remote areas. The Rules 
+and Regulations to Implement Republic Act No. 
+913624 lay down the requirements described below.
+• Section 6 (Provision of Service in Unviable 
+Areas) in Rule 7 on Distribution Section 
+provides that, in remote and unviable areas 
+where the distribution utility is unable to 
+serve for any reason as authorised by the ERC 
+in accordance with the Act, the areas shall be 
+opened to other qualified third parties that 
+may provide the service pursuant to Rule 14 
+on Provision of Electricity by Qualified Third 
+Parties (QTP). 
+• Section 3 (Obligations of SPUG) in Rule 13 
+on Missionary Electrification prescribes that, 
+whenever feasible, SPUG shall utilise Renewable 
+Energy Resources. 
+Private sector participation is possible under two 
+general schemes, the QTP for the unviable areas 
+and the New Power Producer for SPUG generation.
+21 Republic Act No. 7638: An Act Creating the Department of Energy Rationalizing the Organization and Functions of Government Agencies 22 Related to Energy and for Other Purposes. The full text of this act is available at www.doe.gov.ph/republic-act-no-7638-0. Republic Act No. 
+ 9136: An Act Ordaining Reforms in the Electric Power Industry, Amending for the Purpose of Certain Laws and for Other Purposes. The full 
+f hiiilbldh//ld/2013/12/RA9136dfRenewable Energy Act 
+The Philippines Renewable Energy Act was 
+considered the first in Southeast Asia to act as 
+comprehensive legislation on renewable energy. 
+The primary goal of the act is to achieve energy 
+self-reliance through the accelerated exploration 
+and development of renewable energy resources. 
+To attain this objective, the Renewable Energy 
+Act offers various fiscal and non-fiscal incentives 
+to private sector investors, renewable energy 
+equipment manufacturers and suppliers, and 
+renewable energy project developers. 
+The non-fiscal incentives in the Renewable Energy 
+Act include the RPS and FiT. The RPS mandates a 
+minimum percentage of renewable energy generation 
+for on-grid systems while the FiT guarantees a fixed 
+price for at least 12 years for systems within the RPS. 
+However, the RPS has not yet been set and is still 
+under public consultation and design.
+To make use of the incentives, project developers 
+must first secure a renewable energy service contract 
+from the Department of Energy Renewable Energy 
+Management Bureau. In addition, renewable energy 
+equipment manufacturers, fabricators and suppliers 
+must be accredited to avail of the incentives. 
+The NREB was created through this act. It is 
+composed of representatives from various 
+government agencies and from relevant 
+stakeholders. It is supported by a technical 
+secretariat from the Department of Energy 
+Renewable Energy Management Bureau sourced 
+from the Technical Services Management Division.
+More details can be found in Annex 2. 
+2.5 Key institutions of the energy sector
+Under the two above-mentioned acts, the role 
+of the Department of Energy was expanded, and 
+several key institutions were established. These now 
+play important roles in governing the energy sector 
+in the Philippines. 
+Philippine Department of Energy 
+This key department of the government was 
+created in 1992 pursuant to RA No. 7638, also 
+known as Department of Energy Act of 1992. 
+It is responsible for preparing, integrating, coordinating, supervising and controlling all plans, 
+programmes, projects and activities of the 
+Government of the Philippines relative to energy 
+exploration, development, utilisation, distribution 
+and conservation (Department of Energy, n.d.).25 
+To this end, the Philippine Department of Energy 
+takes a long-term and sustainable perspective 
+when it designs energy policies and regulations. 
+This is to ensure the provision of reliable, accessible 
+and sufficient energy sources in a sustainable 
+and secure fashion to all. To deal with the excess 
+dependence on energy, the Department of Energy 
+has over the past decade stepped up its efforts to
+strengthen the security of energy supply by 
+harnessing more indigenous energy resources 
+coupled with measures to improve energy efficiency 
+and conservation. 
+As it evolves, the Department of Energy has 
+assumed additional responsibilities and functions 
+including that mandated by the EPIRA and 
+Renewable Energy Act of 2008.
+Renewable Energy Management Bureau 
+The Renewable Energy Management Bureau is an 
+integral part of the Department of Energy with 
+the mandate to formulate and implement policies, 
+plans and programmes related to the accelerated 
+development, transformation, utilisation and 
+commercialisation of renewable energy resources 
+including emerging energy technologies. It has five 
+divisions: biomass; hydropower and ocean energy; 
+geothermal; solar and wind power. In addition, a 
+special division provides technical services to the 
+NREB. 
+As a result of the recent rapid deployment of 
+renewable energy projects in the Philippines, 
+particularly in response to FiTs issued in 2012, the 
+human resources capacity at the Renewable Energy 
+Management Bureau was overstretched. In 2015, 
+the Philippine Department of Energy management 
+decided to reinforce the Renewable Energy 
+Management Bureau staffing in recognition of this 
+emerging challenge. Energy Regulatory Commission. The EPIRA 
+converted the Energy Regulatory Board into the 
+ERC, strengthening its role over the industry. It is 
+the only regulatory body created by the EPIRA 
+that exerts control over the four components of the 
+industry, i.e. generation, transmission, distribution 
+and supply. The ERC role is to promote competition, 
+encourage market development, ensure customer 
+choice and penalise abuse of market power in the 
+restructured electricity industry.
+National Transmission Corporation. TRANSCO is 
+the system operator of the nationwide electrical 
+transmission and sub-transmission system. It 
+assumes the authority and responsibility of 
+the NPC for the planning, construction and 
+centralised operation and maintenance of its 
+high voltage transmission facilities, including grid 
+interconnections. 
+Wholesale Electricity Spot Market. The role 
+of this market is to provide the mechanism for 
+identifying and setting the price of actual variations 
+from the quantities transacted under contracts 
+between sellers and purchasers of electricity. It was 
+envisioned to create a more competitive electricity 
+market and offer a reasonable and more affordable 
+rate to end-users. The Philippine Electricity Market 
+Corporation was incorporated on the initiative of 
+the Department of Energy as the governance arm 
+of the Wholesale Electricity Spot Market. 
+Power Sector Assets and Liabilities Management 
+Corporation. Often known as PSALM, this 
+corporation is owned and controlled by the 
+government. It takes ownership of NPC generation 
+assets, liabilities, independent power producer 
+(IPP) contracts, real estate and other disposable 
+assets. The principal purpose of the Power Sector 
+Assets and Liabilities Management Corporation is to 
+manage the orderly privatisation of NPC assets and 
+IPP contracts in order to liquidate all NPC financial 
+obligations in an optimal manner. The sale of NPC 
+assets increases private sector participation in the 
+industry.
+National Renewable Energy Board. This was 
+created pursuant to the Renewable Energy Act and is 
+composed of representatives of various government 
+agencies and from relevant stakeholders. The NREB 
+is supported by a Renewable Energy Management 
+Bureau technical secretariat, specifically from the 
+Technical Services Management Division. The tasks 
+of the NREB are described below. 
+• To evaluate and recommend to the Department 
+of Energy the mandated RPS and minimum 
+renewable energy generation capacities in offgrid areas as it deems appropriate.
+• To recommend specific action to facilitate the 
+implementation of the NREP.
+• To monitor and review the implementation of 
+the NREP, including compliance with the RPS 
+and minimum renewable energy generation 
+capacities in off-grid areas.
+• To oversee and monitor the utilisation of the 
+Renewable Energy Trust Fund. This fund’s 
+implementing guidelines have not yet been 
+finalised. 
+• To cause or initiate the establishment of a 
+one-stop facilitation scheme to accelerate 
+implementation of renewable energy projects. 
+The 20 MW MibrrRENEWABLE 
+ENERGY 
+DEVELOPMENT
+IN THE PHILIPPINES
+NorthWind Poer Deelopment Corportion’33MW 03
+The Philippines has been increasing its efforts to develop renewable energy since 
+passing the Renewable Energy Act. In 2011, the NREP was launched and has set 
+a roadmap for the Philippines towards a reliable, affordable and resilient energy 
+future powered by independent indigenous renewable energy sources. The NREP 
+target to triple installed generation capacity by 2030 has put the country on a 
+course to meet half its electricity demand with renewables and thus to strengthen 
+energy security while reducing electricity tariffs in remote areas and islands.
+Since the FiTs were put in place in 2012, and also thanks to the sharp decline 
+in costs of technologies like solar and onshore wind, the Philippines has made 
+remarkable achievements in renewable energy deployment. These have taken 
+place not only in the northern region, which has a strong wind resource, but 
+also in cities through the use of rooftop solar PVs. As a result, the industry has 
+also grown rapidly, fuelled by growing domestic and overseas investments, thus 
+transforming the power markets and business models. 
+Nevertheless, emerging challenges need to be overcome through future policy 
+making and institutional evolution in the renewable energy sector if the country is 
+to maintain its development momentum. This will be discussed in the next chapter. 
+3.1 Renewable energy resource potential and development
+The country’s location offers great potential for geothermal, hydropower and 
+ocean energy, and fairly good resources of solar and wind energy. 
+Geothermal energy
+After the 1970s global oil crisis, the country established the Philippine National its geological advantage given its position on the 
+Pacific “Ring of Fire”. The first geothermal power 
+plant was built in 1977 on the island of Leyte. 
+Over two waves of rapid development from 1976 
+to 2001,26 total installed geothermal electricity 
+generation capacity in the Philippines ramped up to 
+about 1,900 MW. At that time, this represented about 
+22% of the national power generation capacity mix, 
+and 23% of the world’s total geothermal electricity 
+generation capacity. In terms of net capacity 
+addition, growth slowed down after this period 
+given decommissioned capacities such as the 
+110 MW facility in Tiwi. From 2010 to 2015, the 
+country experienced a net decrease of 34 MW, 
+contributing to the loss of 2% in total electricity 
+generated from geothermal energy (Bertani, 2015). 
+In 2015, with the total installed geothermal electricity 
+generation capacity reaching about 1,900 MW, the 
+Philippines is second largest in the world after the US, 
+according to the International Geothermal Association. 
+It generates not only 14% of total national electricity 
+output but also a significant amount of budgetary 
+saving from avoided fuel imports. 
+The Philippine Department of Energy estimates 
+significant remaining potential – as much as 
+2,600 MW. Bertani (2015) has forecast that by 
+2020 geothermal power will increase in the 
+Philippines by more than 600 MW. In the most 
+recent Philippine Energy Plan (2012-2030), 
+the Department of Energy identified 26 sites 
+to increase existing installed capacity by 62% 
+throughout the 18-year planning period, as shown 
+in Table 1. The total estimated potential capacity 
+of these sites will reach 1,165 MW. The majority of 
+the listed areas have either been awarded or have 
+submitted an application for a Renewable Energy 
+Service Contract (Bertani, 2015).
+The 20 MW Maibarara geothermal power plant 
+was the most recent award. It started up on a 
+commercial basis in February 2014. The plant 
+is linked by a transmission line to the Luzon grid 
+five kilometres (km) in length. This goes through 
+Meralco’s distribution system. More are in the 
+pipeline. For instance, the Philippine Department of 
+Energy approved the Declaration of Commerciality 
+of the 31 MW Bacman geothermal project, which is 
+an expansion project within the Bacman geothermal 
+production field with total project cost amounting 
+to approximately USD 129 billion. The plant was 
+expected to come online by the first quarter of 2019. 
+26 First wave (1976-1984): 330 MW MakBan, 330 MW Tiwi, 112.5 
+ MW Tangonan I and 112.5MW Palinpinon I. Second wave (1990- 
+ 2001): 95.73 MW Makban, 610.18 MW Unified Leyte, 151.5 MW 
+ Bacman, 108.48 MW Mindanao, and 80 MW Palinpinon II.Table 1. Geothermal projects identified in the Philippine Energy Plan (2012-2030)
+Region Site Location Generation capacity 
+(MW)
+Cordillera 
+Administrative 
+Region
+Kalinga Kalinga 120
+Daklan Benguet 60
+Buguis-Tinoc Ifugao 60
+Acupan-Itogon Benguet 20
+Mainit-Sadanga Mt. Province 80
+II Cagua-Baua Cagayan 45
+III Natib Bataan 40
+IV-A
+Mabini Batangas 20
+San Juan Batangas 20
+IV-B Montelago Oriental Mindoro 40
+V
+Del Gallego (Mt. Labo) Camarines Sur 65
+Camarines Sur 
+Geothermal Project Camarines Sur 70
+Southern Bicol Sorsogon 40
+VI Mandalagan Negros Occidental 20
+VII Lagunao Negros Oriental 60
+VIII
+Biliran Biliran 50
+Bato-Lunas Leyte 65
+IX Lakewood Zamboanga del Sur 40
+X
+Ampiro Misamis Occidental 30
+Balingasag Misamis Oriental 20
+Sapad-Salvador Lanao del Norte 30
+XI
+Amacan Compostela Valley 40
+Mt. Zion North Cotabato 20
+Mt. Matutum General Santos 20
+Mt. Parker South Cotabato 60
+XIII Mainit Surigao del Norte 30
+TOTAL 1,165
+Source: Philippine Energy Plan (2012-2030)
+Hydropower
+The country is rich in hydropower resources. The 
+first mini-hydropower plant, which had an electricity 
+generation capacity of 560 kW, was installed as 
+early as 1913 in Camp John Hay, Northern Luzon. 
+the NPC in 1936. The NPC was given the exclusive 
+rights to develop all streams, lakes and rivers for 
+power generation.
+However, the National Electrification Administration 
+received a mandate in 1979 to develop the to develop power projects under a Build-OperateTransfer scheme introduced in 1987. In addition, 
+the Mini-Hydroelectric Power Incentives Act of 
+1991 (Republic Act No. 7156)27 aims to grant minihydroelectric power developers the necessary 
+incentives and privileges to provide an environment 
+conducive to the maximum development of the 
+Philippine hydroelectric power resources. Prior to 
+the Renewable Energy Act of 2008, hydroelectric 
+power capacity amounting to 3,291 MW had been 
+installed. This had risen to 3,543 MW by 2014. 
+The assessment has identified untapped 
+hydropower resource amounting to 13,097 MW. Of 
+this, 11,223 MW is suitable for large hydropower in 
+the 18 potential sites identified across the country, 
+accounting for nearly 86% of the total potential. 
+The rest consists of mini- and micro-hydropower 
+schemes in 888 locations significantly more spread 
+out than the large hydropower sites.28
+Solar energy
+Updated resource potential data produced by 
+the Philippine Department of Energy with the US 
+National Renewable Energy Laboratory (NREL) 
+show that the Philippine average solar energy 
+resource is fairly good. This is based on the NREL’s 
+previous assessment conducted in 2000 while 
+applying a new methodology, calibrating the 
+Climatological Solar Radiation Model results with 
+ground measurement validation. NREL assessed 
+the annual average solar resource at 5.1 kWh per 
+metre squared (m2) per day. The highest solar 
+irradiance occurs in April at 6.1 kWh/m2 per day 
+throughout the country and is at its most intense in 
+the northwestern part of Luzon (Region I) (NREL, 
+2015). As illustrated in Figure 9, the solar resource 
+data with 3 km resolution presented in IRENA’s 
+Global Atlas also show similar results. It also shows 
+that the solar resources in the southern areas are 
+also fairly good. 
+The data show the resource distributed fairly evenly 
+across the country, varying by 10%-20% in any given 
+month. This qualifies both northern and southern 
+parts of the country for solar power generation. 
+However, when factoring in seasonal variation 
+between the wet months of May to October and dry 
+months of November to May, solar irradiance changes 
+substantially by 30%-50% due to cloud coverage.
+Figure 9. Solar energy resource in the Philippines
+VAISALA Global solar
+dataset 3km with
+units in W/m2/day
+77.9574 W / m2
+124.892 W / m2
+145.328 W / m2
+160.063 W / m2
+172.654 W / m2
+184.423 W / m2
+206.783 W / m2
+236.519 W / m2
+27 Republic Act No. 7156: An Act Granting Incentives to Mini- 
+ Hydroelectric Power Developers and for Other Purposes.
+28 Contributed by Andresito F. Ulgado, Hydropower Division Chief 
+ of the Department of Energy – Renewable Energy Management 
+ Bureau.Beyond the country’s physical assets, rising 
+electricity demand and job creation potential are 
+additional incentives for solar. This is particularly 
+true for remote areas, rural electrification and 
+efforts to reduce dependency on imported fuels.
+The first on-grid solar farm in the country is the 
+Cagayan Electric Power and Light Company’s 
+(CEPALCO) PV power plant in Cagayan de Oro 
+in Northern Mindanao (Region X), which has a 
+capacity of one megawatt-peak. CEPALCO is a 
+private investor-owned utility serving Cagayan de 
+Oro city and three nearby municipalities in Misamis 
+Oriental. The 1 MW embedded generation solar 
+PV plant operates in conjunction with CEPALCO’s 
+7 MW run-of-river small hydropower plant. Electricity 
+produced is fed to CEPALCO’s distribution network 
+(Global Environment Facility, 2005). During its 
+first year of operation, the actual generated power 
+reached 1.5 GWh, which is 19% higher than the 
+projected 1.2 GWh (Abaya, 2005). 
+Notwithstanding this early installation, the real 
+evolution of the solar PV market began with the 
+implementation of a long overdue FiT for solar 
+PV projects granted by the ERC in 2012.29 The 
+USD 0.24/kWh FiT attracted considerable attention 
+from investors and the development community. 
+Its first round ended with a combined generation 
+capacity of 108 MW across six projects. These were 
+fully financed by equity capital due to the unique 
+policy design. They were the first to come online 
+and first to get served by FiTs. 
+The San Carlos Solar Energy (SaCaSol) project is 
+the second stand-alone and first eligible solar farm 
+in the Philippines to supply power to the Visayas 
+grid. It was developed in two phases: Phase 1 with 
+13 MW and Phase 2 with 9 MW and has a total 
+gross capacity of 22 MW. It was inaugurated and 
+commissioned in May 2014.
+Given the dramatic fall in costs, solar PV has been 
+increasingly economically attractive to end-users, 
+particularly industrial and commercial companies. 
+Several commercial and industrial establishments 
+have installed solar rooftop systems to reduce 
+their electricity consumption from the distribution 
+The installation provides 30% of the shopping mall’s 
+electricity requirements, giving a monthly saving of 
+more than PHP 100,000 (USD 2,000) in power costs 
+(Philippine Star, 2014). Solar Philippines, the company 
+that designed and installed the Central Mall’s solar 
+rooftop system, also developed a similar system for 
+SM North EDSA Mall under the FiT schemeand will 
+be constructing a solar rooftop for at least two more 
+malls. There are over 500 major shopping malls across 
+the country appropriate for similar systems.
+Smaller capacity rooftop installations can benefit 
+from the net-metering scheme enabled by the 
+Renewable Energy Act. In 2013, the ERC Resolution 
+No. 9, Series of 2013 (Resolution Adopting the Rules 
+Enabling the Net-Metering Program) presented the 
+rules for enacting the net-metering programme for 
+renewable energy technologies. Under this scheme, 
+consumers who generate their own electricity may 
+sell their excess supply to their distribution utility. The 
+net-metering is limited to 100 kW capacities from 
+solar, wind, or biomass systems installed within the 
+consumer’s premises (ERC, 2013). A net-metering 
+agreement is entered into by the consumer and its 
+electricity distribution utility. Currently, Meralco, 
+Visayan Electric Company (known as VECO) and 
+Davao Light are the private distribution utilities with 
+systems and procedures in place to operate a “twoway” grid with its consumers subscribed under 
+the net-metering programme. The Department 
+of Energy and GIZ have prepared a net-metering 
+guidebook that outlines the steps required to enter 
+the programme. 
+The cap set originally at 50 MW was quickly met, and 
+the industry filed a request to scale up. On 27 March 
+2015, the ERC responded positively with the approval 
+for the proposed ceiling expansion to 500 MW with 
+the timeframe extended to 15 March 2016. At the same 
+time, the FiT was reduced to USD 0.18/kwh. 
+By April 2016, the total installed solar power 
+generation capacity had reached nearly 800 MW – 
+95% of which was installed in Luzon and Visayas. 
+The government is considering a switch to auction 
+schemes aimed at reducing the overall costs of 
+solar PV installations in the country, especially in Table 2. Wind energy resource potential in the Philippines30
+Wind resource 
+utility-scale
+Wind power
+W/m2
+Wind speed
+m/s
+Total area
+km2
+Total capacity 
+installed MW
+Total power 
+GWh/year
+Good 300-400 6.4-7.0 5,541 38,400 85,400
+Excellent 400-500 7.0-8.0 2,841 19,700 52,200
+Excellent 500-700 8.0-8.8 2,258 15,600 47,900
+Excellent 700-1,250 8.8-10.1 415 2,900 9,700
+TOTAL 11,055 76,600 196,200
+Source: NREL, 2014
+view of the significantly oversubscribed service 
+contracts from the Department of Energy. By the 
+end of March 2016, these had amounted to nearly 
+4 GW, consisting of 147 service contracts – including 
+4.3 MW off-grid. 
+Wind energy
+Meteorological data from both PAG-ASA, the 
+NREL’s computerised geographic information 
+system (GIS) and IRENA’s Global Atlas for 
+Renewable Energy depicted in Figure 10 show 
+fairly good wind energy potential for the 
+Philippines. The greatest wind resources are in 
+northern and central areas such as Batanes and 
+Babuyan and the northern and central Luzon areas. 
+As shown in Table 2 below, 11,055 km2 of windy 
+territory has been identified as a “good-to-excellent” 
+wind resource. The wind speeds in these sites are 
+6.4-10.1 metres per second (m/s) and wind power 
+density values are 300-1,250 watts/m2 (W/m2) 
+(40 m hub height). This makes them theoretically 
+suitable for grid-connected electricity generation. 
+Using conservative assumptions of about 
+7 MW/km2, these areas could support more than 
+76,000 MW of potential installed capacity, providing 
+more than 195 billion kWh per year. 
+Under USAID’s Capacity for Low Emission 
+Development Strategies, NREL updated the previous 
+wind resource estimates in 2014 after modernising 
+its approaches. The output is a geospatial wind 
+toolkit that provides wind resource data at specific 
+sites across the country. This assessment expands 
+the datasets from 40 m (2001 NREL wind atlas) to 
+50 m, 80 m, 100 m, 140 m and 200 m. The geospatial 
+toolkit visually explores data and combines 
+renewable energy information with other base and 
+infrastructure data. The toolkit includes data layers 
+on transmission lines, infrastructure (airports, wind 
+manufacturing facilities, existing wind farms etc.) 
+land ownership (restricted areas, indigenous people, 
+lands among others), topography etc. The updated 
+atlas provides valuable preliminary information 
+that will allow investors and project developers to 
+identify economically viable wind sites. Another 
+output is the wind prospector. This web-based 
+application can be downloaded to obtain detailed 
+wind and meteorological data. The wind geospatial 
+toolkit and prospector may be accessed on the 
+NREL’s website. The resource assessment will 
+continue in order to further populate the data and 
+to estimate the potential power generation from 
+wind resources across the country.31
+30 The results were computerised by the NREL resource data 
+ assessment methodology based on GIS data. It used the 
+ following assumptions: turbine size 500 kW; hub height 40 m; 
+ rotor diameter 38 m; turbine spacing 10 D by 5 D; capacity/km2 
+6.9 MW. 31 Raw data are available at www.nrel.gov/international/ra_ 
+ philippines.html. Analysis of raw wind measurement data is yet 
+ to be concluded to determine the potential capacities from 
+ wind energy resources across the country.Figure 10. Wind energy resource in the Philippines
+Global Atlas for Renewable Energy (IRENA); map data: 3TIER 2015; base map: Google 2016
+Average WS 1km
+at 100m height
+DTU 2015
+3 m/s
+4 m/s
+5 m/s
+6 m/s
+7 m/s
+8 m/s
+9 m/s
+10 m/s
+11m/s
+12 m/s
+Some of the latest developments in Ilocos Norte 
+include the EDC Burgos Wind Power Corporation 150 
+MW wind farm in Burgos, the 18.9 MW NorthWind 
+Power Development Corporation’s Phase 2 in Bangui 
+and the North Luzon Renewable Energy Corporation 
+81 MW wind farm in Pagudpud. Full integration of 
+the total capacities generated by these wind farms 
+has already been achieved following the completed 
+upgrade of transmission network capacity. They had 
+initially stalled due to its technical limitations, as it 
+could only export a maximum power of 110 MW to 
+the rest of the Luzon grid. So far, total installed wind 
+farms capacity is 393.9 MW.
+Biomass and biofuels
+The Philippines produces a large amount of 
+agricultural residues annually from farm land 
+amounting to 14 million hectares, accounting for 
+nearly half its total area. Rice husk and straw make 
+up the lion’s share of the residue, while the rest 
+includes coconut shell and sugarcane bagasse, for 
+instance. Forest residue, municipal solid wastes and 
+animal manure from the husbandry industry are 
+also part of the biomass feedstock. 
+An investigation on resource potential conducted 
+net available capacity for power generation from 
+different types of biomass feedstock33 across 
+the country (De Guzman, 2014). The indicative 
+megawatts were calculated at a 70% capacity, 
+reflecting biomass resources that can be reasonably 
+collected and used for power generation.
+The biomass resources considered in the assessment 
+varied per main island group, i.e Luzon, Visayas and 
+Mindanao, as shown in Table 3. In Luzon, the biomass 
+commodities quantified were rice residues, corn 
+residues, coconut husks, coconut shell, coconut coir 
+and coconut fronds, pig and poultry manure, and 
+solid waste. Luzon leads on biomass resources with 
+2,094 MW due to its abundant coconut (husk, shell 
+and frond) resources followed by rice and livestock 
+manure. Isabela province alone (the second largest in 
+the Philippines) has the potential to generate about 
+800 MW electricity mainly from the by-products of 
+its massive corn production. Known as the “sugar 
+bowl of the Philippines”, Visayas’ resource base 
+comprises sugarcane residues, rice residues, corn 
+residues, coconut, poultry and hog animal wastes. 
+The major sugar mills in the region own and operate 
+their own power-generating boilers.
+32 The results of the study are still preliminary and under evaluation 
+bhDf EIn Mindanao, the biomass resources quantified 
+include rice residues, corn residues, sugarcane 
+residues, coconut residues, plantation crops (cassava 
+residues, banana wastes, pineapple wastes, rubber 
+wastes, empty palm fruit) and emerging energy 
+crops (sweet sorghum, bamboo, napier grass). 
+Bukidnon has been identified as offering the most 
+abundant residual rice straw, cornstalk and bagasse 
+that may be utilised for power production. Coconut 
+has the potential to be the major power generator, 
+particularly in the province of Davao del Sur, 
+which has 200 MW equivalent (MWe), and Davao 
+City (130 MWe), offering a combined potential 
+330 MWe. Corn presents a significant source of 
+power too, especially in Bukidnon, which has a 
+90 MWe potential. In addition, Bukidnon produces 
+large amounts of sugarcane residues, offering a 
+potential 43 MWe. Several energy crop plantations 
+exist in Mindanao, including at least 440 hectares 
+of Napier grass, 200 hectares of bamboo and sweet 
+sorghum. Almost all plantations are owned and 
+cultivated by biomass power companies. Some state 
+universities, as well as the Department of Agriculture, 
+grow sweet sorghum for energy crop research. 
+Table 3. Potential electricity generation capacity from biomass-based fuel
+Major island group Potential biomass
+power generation (MW)
+Luzon 2,094
+Visayas 1,513
+Mindanao 843
+TOTAL 4,450 
+Source: De Guzman, 2014
+However, the biomass energy resources thus far used 
+for non-power applications are mainly required for 
+household cooking, contributing to about 12% of 
+national TPES (based on 2013 data) as shown in Figure 
+5. Installed biomass-based power generation capacity 
+amounted to 119 MW producing 152 GWh of power in 
+2013. This represented around 60% of the potential 
+generation capacity estimated from available biomass 
+resources (International Energy Agency, 2015). 
+The Biofuels Act of 2006 (Republic Act No. 9367),34 
+which entered into force in 2007, provides the legal 
+mandate for blending bio-liquid fuels, i.e. bioethanol 
+and biodiesel, into liquid transport fuels. Blending 
+requirements have increased progressively to current 
+levels of 10% for bioethanol and 2% for biodiesel, up 
+from an initial 5% and 1% respectively. This reflects the 
+enlargement of production and feedstock capacity. 
+Meanwhile, the promotion of biofuel use in the transport 
+sector has driven growth in the domestic sugar industry 
+and cultivation of coconut and other oil-rich plants. 
+Notwithstanding a range of incentive schemes, 
+including a value added tax exemption and financing 
+through public institutions, the prices of domestically 
+blending requirement. The government may review its 
+biofuel programmes in the light of experience to date. 
+The largest biomass power plant is the 21 MW First 
+Farmers Holding Corporation’s cogeneration plant, 
+which primarily uses bagasse from its sugar milling 
+operation as feedstock. Electricity produced is utilised 
+by the sugar mill and refinery while surplus electricity 
+is sold to the Wholesale Electricity Spot Market. Rice 
+husks, the by-product of the rice milling process, are 
+used by several rice mills to fire rice grain dryers and 
+other crops such as corn, coffee, legumes and cassava 
+(Ragudo, 2011).
+Similarly, commercial livestock farms generate 
+significant amount of animal wastes. Biogas recovery 
+to fuel gas engines for power generation is a clean 
+and cost-effective strategy for managing wastes. The 
+power they generate may be used in farm operations 
+for lighting or cooling livestock housing, generating 
+power cost savings. Cavite Pig City is a large hog farm 
+with a population of 100,000 heads, which invested in a 
+1.1 MW biogas facility to manage its animal wastes. This 
+generates power used in the farm (Box 2).Cavite Pig City is a highly efficient swine farrow-to-finish facility located in Cavite City, south 
+of Metro Manila. The facility houses around 100,000 heads at any given time. The original 
+waste management system consists of a series of seven lagoons into which swine slurry/waste 
+water is collected and resides for 30 days. However, the lagoon system cannot fully process 
+the waste water. Cavite Pig City decided to develop a biogas power facility in 2009 to address 
+the animal waste problem and to generate power cost savings.
+The lagoons were replaced with a two-stage biogas digester that improved the quality of the 
+treated wastes. Biogas, a product of the digestion process, is used to fuel a 1.1 MW combined 
+heat and power generation set. The electricity produced is used by the facility to operate a cool 
+cell ventilation system in the barns and a mill that processes pelletised feeds for the animals. 
+The hot water generated by cooling the engine is used to heat the nursery for newborn pigs. 
+Heat also goes to the feed mill boiler that produces steam for the pelletising process. The solid 
+by-products of the digestion process are sold as organic fertiliser. 
+Box 2: 
+Cavite Pig City
+Wind turbines in the Philippines
+Photo: Shutterstock
+Source: Dresser, 2010
+Ocean energy 
+The exploration of ocean energy potential in 
+the Philippines began with a study of the ocean 
+resource assessment conducted by Mindanao State 
+University in the 1980s. The result indicated the 
+theoretical potential could be as much as 170 GW of 
+electricity generation capacity thanks largely to the 
+Philippines’ geographical location. Several private 
+and public institutions conducted further studies 
+in the 1990s and 2000s on ocean energy potential, 
+including wave energy and ocean thermal energy 
+conversion. 
+On the basis of the prevous relevant studies, 
+estimated ocean energy generation capacity of 
+70.5 MW was proposed for development in 2013-
+2030 in the Philippines Energy Plan 2012-2030 
+(Department of Energy, 2012). However, the 
+sites identified in the plan require more detailed 
+viability. The first of the potential sites is the 
+10 MW Cabangan ocean thermal project in Zambales 
+Province in Luzon. This is being developed by Bell 
+Pirie Power Corporation with a service contract to 
+explore, develop, build and operate a power plant 
+in 1,300 hectares of sea. This was awarded by the 
+Philippine Department of Energy. 
+The offshore power facility will be housed on a shipbased platform. It is expected to start commercial 
+operation in 2018 and evacuate the electricity to the 
+mainland via a undersea power cable. H&WB Asia 
+Pacific Corporation (Pte Ltd) is another example of 
+a private investor developing ocean energy in the 
+Philippines. It was awarded service contracts to develop 
+four separate sites with a total capacity of 20 MW. 
+The government hopes the facilities will help 
+stimulate investor interest in exploring and 
+developing the untapped potential of the country’s 3.2 Key supportive initiatives for 
+renewable energy deployment
+A number of important initiatives have been taken 
+to scale up renewable energy systems deployment 
+in the Philippines. The NREP has drawn up a longterm roadmap with a target set on the basis of a 
+bottom-up approach. International development 
+partners have also been increasing their efforts to 
+support the country with technical assistance on 
+various aspects. All these have made significant 
+contributions to the development of renewable 
+energy sources in the Philippines. 
+National Renewable Energy Program 
+2011-2030
+The NREP was launched in 2011, three years after the 
+enactment of the Renewable Energy Act. It serves 
+as the blueprint for implementing the Renewable 
+Energy Act. It set an aggressive target to triple the 
+2010 renewable energy capacity level (5,438 MW) 
+to 15,304 MW by 2030, as illustrated in Figure 11. 
+This is 61% of projected power demand by 2030.
+Figure 11. Timeline for NREP implementation 
+Source: NREP 2011-2030
+Consolidated Milestones
+Implementation of sectoral sub-programs and the policy and program support component
+2011 2015 2020 2025 2030
+Targets for renewable-based power generation capacity
+2027
+Existing RE
+capacity, 2010:
+5,438 MW
+7,594 MW
+by 2015
+12,751 MW
+by 2020
+15,219 MW
+by 2025
+15,304 MW
+by 2030
+Promulgation of
+remaining policy
+mechanisms, rules
+under the RE Law
+completed by end-2011
+Target additional
+biomass capacity
+of 276.7 MW is
+reached
+Target additional 
+wind capacity of 
+2,345 MW is
+reached by 2022
+Target additional 
+solar capacity of 
+284 MW is
+reached by 2030
+1
+st Ocean
+Energy facility
+operational by 2018
+Target additional hydro capacity of 5,394 
+MW is reached by 2025
+Target additional geothermal capacity 
+of 1,495 MW is reached
+Target additional ocean power capacity of 
+70.5 MW is reached by 2025
+The policy mechanisms and instruments set forth 
+in the Renewable Energy Act ought to create an 
+enabling environment to attract investors into 
+the renewable energy sector. They are in some 
+senses the key determining factors for renewable 
+energy investments and serve as basis for financial 
+projections. However, there have been delays in 
+developing and implementing the renewable energy 
+policy mechanisms. The Renewable Energy Act was 
+passed in 2008, mandating the FiT scheme as policy 
+The delayed implementation of policy instruments 
+contributed to the time lag in renewable energy 
+project development. 
+As a result, the fulfilment of the renewable energy 
+target set in the NREP has also been delayed 
+significantly. However, the Department of Energy is 
+optimistic that although it has taken a long time to 
+add to installed capacity, more renewable energy 
+power plants will be constructed in the next few 2015, the Department of Energy had awarded 622 
+renewable energy service contracts, which had an 
+aggregated total capacity of almost 10,000 MW. 
+The NREP is designed to undergo a biennial review 
+that it initiates itself and can be revised as necessary. 
+It was first reviewed in 2013 but was not updated. 
+The primary recommendation of that review was 
+to fast-track the enforcement of the FiT and RPS 
+(Department of Energy, 2013). The NREP is once 
+again under evaluation, and the launch of an improved 
+NREP is expected thereafter. This revised design and 
+active NREP implementation would be expected 
+to accelerate and advance renewable energy 
+development. 
+Mapping out administrative procedures for 
+on-grid solar PV project development35
+With the proper policies in place, private sector 
+interest in renewable energy has been high. Yet the 
+permitting procedures, administrative applications 
+and regulations on grid interconnection designed 
+by relevant government agencies are complex. The 
+complexity makes the project development process 
+tedious, and this has become a barrier to renewable 
+energy project development in the Philippines. 
+In addition, there is a lack of harmonisation and 
+standardisation of administrative processes at the 
+regional and local level. This is complicating compliance 
+with the requirements and creating additional delays 
+and cost to the project developer.
+What is more, administrative barriers make a financial 
+impact on the overall costs of renewable energy 
+projects. Administrative costs indirectly affect soft 
+cost components such as capital costs and profit. 
+High administrative costs indicate risks, which reduce 
+the predictability and cost security of the renewable 
+energy project. Financing institutions thus usually 
+demand a risk premium, which will raise capital costs.
+To provide a clear overview of the administrative and 
+regulatory requirements for on-grid solar PV project 
+development in the Philippines, the Department of 
+Energy and GIZ have developed the Solar Photovoltaic 
+(SPV) Guidebook. This has subsequently been split 
+into two electronic guidebooks (e-guidebooks) under 
+Solar PV Project Development in the Philippines. This 
+maps out the administrative procedures for on-grid 
+solar PV project development. It was created under 
+the “Support of the Climate Change Commission” 
+project funded by the International Climate Initiative 
+of the German Federal Ministry for the Environment, 
+Nature Conservation, Building and Nuclear Safety 
+(Bundesministerium für Umwelt, Naturschutz, Bau 
+und Reaktorsicherheit).
+The SPV Guidebook analysed the legal and 
+administrative milestones and the procedures 
+necessary for granting incentives and other privileges 
+specified in Chapter VII of the Renewable Energy Act 
+of 2008 and in Section 18 of the Rules and Regulations 
+Implementing RA No. 9513. The assessment process 
+has verified the outcome of the guidelines and 
+measured the efficiency of compliance. This will further 
+unblock a possible impasse during the process and 
+will provide the avenue for necessary improvement. 
+Ideally, investment policies and administrative 
+guidelines should be predictable and easy to comply 
+with if they are to generate interest from the private 
+sector. The guidelines should ensure clear business 
+direction and niche market opportunities including 
+the assurance of long-term company existence. 
+Strong business policy and legal support will build 
+investor confidence.
+Since the regulation in the Philippines is mostly the 
+same for other renewable energy technologies, the 
+SPV Guidebook can be used as a reference tool 
+for project development for the other renewable 
+energy resources. More information is available on 
+the ASEAN RE Guidelines web platform at www.
+re-guidelines.info (Renewable Energy Support 
+Programme for ASEAN, 2014).
+A project developer can pursue four major types 
+of business models for on-grid solar PV projects, 
+namely FiTs, a Power Supply Agreement (PSA) with 
+distribution utilities, commercial contracting and netmetering. Table 4 below gives a comparative overview 
+of project development for the four business models 
+and their milestones. In general, the table also holds 
+true for other renewable energy projects, such as 
+wind, hydropower or biomass.Table 4. Comparative overview of project development for on-grid solar PV 
+Milestones Business models
+Project development phases
+Milestone documents/certificates/contracts/
+agreements
+FiT
+Direct 
+negotiation
+PSA
+Competitive 
+selection
+B2B
+Commercial 
+contracting
+Net-metering
+application
+1 Project preparation
+1.1 Renewable energy application X X X
+1.2 Net-metering application to the distribution utility X
+1.3 Renewable energy service contract X X X
+2 Pre-development preparation
+2.1 BOI Project Registration X X X
+2.2 NCIP Certificate X X X
+2.3 DENR Environmental Compliance Certificate X X X
+2.4 DENR Permit to Operate X X X
+2.5 DAR Order of Conversion X X X
+2.6 LGU Resolution of Support from host barangays X X X
+2.7 LGU Resolution of Support from host municipality and 
+provincial government XXX
+2.8 LGU Building Permit (submit to distribution utility) XXXX
+2.9 LGU Electrical Permit (submit to distribution utility) XXXX
+2.10 Distribution impact study (performed by distribution 
+utility) X
+2.11 LGU Certificate of Final Inspection (submit to 
+distribution utility) X
+2.12 Department of Energy Certificate of Confirmation of 
+Commerciality XXX
+3 Development
+3.1 Department of Energy Confirmation of 
+Electromechanical Completion XXX
+3.2 Department of Energy Certificate of Endorsement for 
+FiT Eligibility X
+3.3 ERC Certificate of Compliance X X X X 
+4 Registration and connection
+4.1 NGCP/distribution utility Connection Agreement X X X
+4.2 NGCP Transmission Service Agreement X X X
+4.3 NGCP/distribution utility Metering Service Agreement X X X
+4.4 TRANSCO Renewable Energy Payment Agreement X
+4.5 Registration on the Wholesale Electricity Spot Market X X X
+4.6 Registration on the Interim Mindanao Electricity 
+Market (in Mindanao alone, which has no wholesale 
+electricity spot market)
+X
+4.7 Distribution utility PSA X X
+4.8 ERC PSA approval X
+4.9 Distribution utility Connection Agreement X X
+Source: GIZ2013The involvement of various government agencies in 
+the permitting process, such as the ERC, Department 
+of Energy and the Department of Environment 
+and Natural Resources, ensures a comprehensive 
+regulatory process. However, it makes it tedious as 
+investors/developers are obliged to follow all the 
+procedures including the timelines and milestones 
+of the agencies concerned. People usually express 
+doubts about the process when authorities do not 
+react promptly, a public authority uses its discretion 
+improperly, or simply as a result of the high number 
+of public authorities involved. In one public forum, 
+a solar developer revealed that no less than 160 
+signatures were needed for its project before it 
+was able to start construction. It revealed that the 
+permitting process took almost three years while 
+actual construction (over 20 MW of solar PV) took 
+less than a year.
+The milestones for each phase of the project cycle 
+(especially for solar projects) are presented below.
+Project preparation
+The renewable energy developer has to prepare 
+and submit its response to the legal, technical and 
+financial requirements to the Department of Energy 
+to show its serious intention to develop the project. 
+During this stage, the renewable energy developer 
+assesses a suitable location for solar project 
+development. Necessary data/information have 
+to be collected, and desk studies and site surveys 
+carried out. 
+A so-called “blocking system”, which allocates 
+specified areas for development, determines 
+whether permission is given to develop a renewable 
+energy project in the Philippines. In practice, the 
+developer must apply to the Department of Energy 
+with a request for a Renewable Energy Service 
+Contract. This entitles the developer to fiscal and 
+non-fiscal incentives under the Renewable Energy 
+Act, provided all other requirements are met.
+Pre-development
+This phase is crucial, especially under the milestone 
+approach through which the Renewable Energy 
+Service Contract is terminated if the developer does 
+not satisfy all the requirements within 12 months. 
+Numerous permits or licences must be obtained from 
+of Agrarian Reform, National Commission on 
+Indigenous People and local government units. 
+Financial support must be secured and mobilised 
+from financial institutions or investors. A financial 
+closure must be reached in order to commence 
+physical construction and equipment procurement 
+and go on to the next phase (development stage). 
+Development
+After securing the Department of Energy 
+Certificate of Conversion from pre-development 
+to development, the renewable energy developer 
+proceeds with the construction of the plant. In 
+the development stage the developer will work 
+on the financial closure, equipment procurement 
+and physical construction of the solar PV power 
+plant. When the power plant construction reaches 
+electromechanical completion (about 80% of 
+the way through the project) the Department of 
+Energy conducts final inspection. Several permits/
+certifications must be obtained especially before the 
+solar PV plant can begin its commercial operation. 
+Where solar PV projects use FiTs, the Certificate 
+of FiT Eligibility must be issued by Department of 
+Energy and endorsed to the ERC. Where solar PV 
+projects use a PSA between the distribution utility 
+and the developer, ERC approval is required for the 
+PSA. In both cases the solar PV project developer 
+must obtain a Certificate of Compliance from 
+the ERC which allows the power plant to go into 
+commercial operation. 
+Registration and connection
+The solar PV project developer must obtain an 
+approval, allowing the power plant to be connected 
+to the grid through a connection agreement. The 
+agreement will allow the developer to connect 
+the power plant to the power grid. Where the 
+power plant is to be connected to the distribution 
+network, the renewable energy developer must 
+seek approval from the relevant distribution utility 
+owning the franchise in the area. Where the power 
+plant is to be directly connected to the national 
+transmission grid, the solar PV project developer 
+secures a connection agreement with the national 
+grid company, NGCP. After a connection permit is 
+secured, a service agreement must be applied for. 
+Two agreements constitute the service agreement: 
+a transmission service agreement and a metering except for embedded systems, where this is carried 
+out by the distribution utility owning the distribution 
+system. This means a metering agreement must be 
+signed between the renewable energy developer 
+and either NGCP or the distribution utility.
+Financing initiatives supporting renewable 
+energy developers
+Although there has been strong growth in renewable 
+energy project applications and installations, the 
+majority of private renewable energy projects 
+is funded by corporate balance sheets rather 
+than project finance. Local commercial banks are 
+recognising the business potential of renewable 
+energy and are becoming more open to lending to 
+renewable energy projects. Nevertheless, the high 
+risk perception associated with renewables means 
+lending terms for renewable energy projects are 
+still conservative, especially for new renewable 
+energy players still establishing their financial track 
+record (Milo, 2013).
+While the bulk of the total project cost is allotted 
+to the actual construction of the renewable energy 
+power facility, significant expenses are also incurred 
+during the pre-development or preparatory phase 
+of the project cycle. Pre-development activities 
+include conducting feasibility studies, detailed 
+engineering design, permitting, public consultations 
+and other preparatory activities. 
+At this early stage of project development, there 
+are very few sources of local financing. Larger 
+companies can finance their own pre-development 
+activities but this is challenging for newer and 
+smaller companies. In this context, governmental 
+financial institutions, particularly the Land Bank of 
+the Philippines and the Development Bank of the 
+Philippines, offer special loan packages or strategies. 
+These help developers fund the renewable energy 
+preparatory phase as described below.
+1. Development Bank of the Philippines. This 
+provides loans for preparatory activities and 
+can provide 0% finance for feasibility studies for 
+renewable energy projects. These type of loans 
+are usually bundled or tied in with the main 
+project loan (Cruz, 2014). 
+2. Land Bank of the Philippines. This is the 
+Programme and Fund Manager for the Project 
+Preparation Fund created by the United Nations 
+Development Programme’s project, entitled 
+Capacity Building to Remove Barriers to 
+Renewable Energy Development (CREDP). The 
+Project Preparation Fund is a partial loan fund 
+that provides 0% loan interest for up to 50% 
+of the project preparatory costs (Center for 
+Environment Studies and Management, 2011) 
+(Calado and Ramos, 2014). 
+The Development Bank of the Philippines and the 
+Land Bank of the Philippines have provided sizeable 
+loans for renewable energy and other environmental 
+projects over the years. They are the largest providers 
+of local debt financing for renewable energy 
+projects (Milo Sjardin, 2013). Both governmental 
+financial institutions are recipients of most Official 
+Development Assistance (ODA) funds intended to 
+provide financial support to developmental projects, 
+including clean energy projects. The evaluation 
+process and lending terms are generally the same 
+if the governmental financial institutions are using 
+their internal funds (Cruz, 2014) (Calado and Ramos, 
+2014). The Development Bank of the Philippines 
+and the Land Bank of the Philippines are able to 
+offer loans with long tenor but the interest rates are 
+usually level with commercial rates. 
+The Environmental Development Project is the 
+Development Bank of the Philippines’ primary lending 
+facility for green investments. In addition to renewable 
+energy, it supports investments in industrial pollution 
+prevention and control, solid and hazardous waste 
+management, and water supply and sanitation. It is 
+funded by a JPY 24.8 billion (USD 210 million) loan from 
+the Japan International Cooperation Agency. In 2014, 
+the Environmental Development Project approved 
+17 renewable energy loan applications amounting to 
+PHP 5.8 billion (USD 129 million) (Development Bank 
+of the Philippines, 2015). 
+The challenge for project developers is to access 
+funds from local banks. Financial institutions require 
+proponents to put up 25%-30% of the total project 
+cost as equity share. Some companies are unable 
+to raise domestic equity, while foreign ownership is 
+constitutionally limited to 40%. Local commercial banks, including Bank of 
+the Philippine Islands, Banco de Oro and Rizal 
+Commercial Banking Corporation, have funded 
+renewable energy projects mostly through 
+corporate debt financing. Project finance is not yet 
+widely adopted for renewable energy. New and 
+smaller industry players thus do not find it easy to 
+secure debt for project development. 
+The Bank of the Philippine Islands is one of the 
+more aggressive commercial banks funding clean 
+energy projects. It works with the International 
+Finance Corporation’s Sustainable Energy Finance 
+Program to provide financing for energy efficiency 
+and renewable energy projects. In 2013, the Bank of 
+the Philippine Islands and the Sustainable Energy 
+Finance Program reported total outstanding loans 
+of PHP 9.77 billion (USD 232 million) to clean energy 
+projects. The credit risk instruments provided by 
+the Sustainable Energy Finance Program are an 
+effective risk mitigation mechanism that allows 
+the Bank of the Philippine Islands to finance clean 
+energy projects (Gatdula, 2014). 
+The United Nations project entitled Capacity 
+Building to Remove Barriers to Renewable Energy 
+Development project, known as CBRED, initiated 
+a Loan Guarantee Fund to spread the risk among 
+the guarantor, lender and borrower-proponent of 
+renewable energy projects. The Local Government 
+Unit Guarantee Corporation (LGU Guarantee) is 
+the fund manager for the Loan Guarantee Fund. 
+This guarantee fund was designed especially for 
+renewable energy projects as a financial instrument 
+mitigating risk to encourage more banks to lend to 
+renewable energy. However, Loan Guarantee Fund 
+coverage is limited to PHP 20 million (USD 0.47 
+million), which is appropriate for smaller renewable 
+energy projects (Center for Environment Studies 
+and Management, 2011). 
+Since its inception in 2008, the fund has guaranteed 
+one mini-hydropower project in Mindanao, which 
+is now operating. LGU Guarantee Corporation 
+is also the Guarantee Program Manager of the 
+World Bank’s Electric Cooperative Partial Credit 
+Guarantee Program. This is intended to provide 
+partial credit guarantee to electric co-operatives 
+for power distribution system upgrades, including 
+renewable energy projects implemented by or 
+in joint partnership with electric co-operatives 
+or renewable energy projects whose power offtaker is an electric co-operative. An additional 
+USD 40 million from the World Bank’s Philippine 
+Renewable Energy Development Project expands 
+the Electric Cooperative Partial Credit Guarantee 
+Program (LGU Guarantee Corporation, 2013).
+Renewable Portfolio Standard
+The RPS is a policy instrument obliging the power 
+suppliers to produce or acquire a certain percentage 
+of electricity from renewable energy sources. It was 
+required as one of the policy mechanisms mandated 
+by the Renewable Energy Act of 2008 (RA No. 
+9513). Its purpose is to contribute to the growth 
+of renewable energy by diversifying energy supply 
+and to help reduce greenhouse gas emissions.
+However, it is not fully operating despite public 
+consultations and technical working group 
+meetings across the country in 2011-2013. The 
+delay was due in part to the thrust created by the 
+FiT implementation in 2012. Over recent years, like 
+other countries experiencing the mounting pressure 
+of FiTs on the governmental budget, the Philippines 
+has been seeking an alternative policy tool that can 
+be sustained over the long term.
+The Philippine Department of Energy thus revived 
+the RPS and issued draft RPS rules in the form of 
+a draft government circular in June 2016. Proposals 
+called for at least a 30% share of renewables in 
+the country’s installed total power generation 
+capacity, with the continued support of other policy 
+instruments such as FiTs. The NREB and Department 
+of Energy are working closely together and engaging 
+with other stakeholders to advance the development 
+of RPS and the implementation rules. 
+About half the rural population 
+and a fifth of households 
+without electricity are found in 
+remote or isolated areas3.3 Renewable-powered mini/
+microgrids
+It has been widely recognised that meeting demand 
+for electricity in rural/remote areas by extending 
+the main grid would be increasingly difficult and 
+uneconomic, if not completely impossible. This is 
+due to increasing connection costs per consumer, 
+low-level economic activities and associated high 
+costs encountered when managing rural systems. 
+This is largely the case with the electrification of 
+rural and isolated areas in the Philippines, usually 
+islands. 
+About half the rural population lives in these types 
+of remote/isolated areas, including about 20% of the 
+households without electricity access. Many areas 
+connected to the mini- or microgrids powered mostly 
+by diesel have electricity only four to seven hours per 
+day due to operational and economic constraints. 
+Owing to these remote or isolated locations, the 
+diesel is usually very expensive, creating high 
+electricity prices for end-users. To achieve the 90% 
+household electrification rate – the target set by the 
+government – many regions would have to make 
+greater efforts to provide electricity. This would at 
+least meet basic needs through stand-alone power 
+generation facilities such as solar home systems.
+In most cases, stand-alone power generation 
+systems are unable to deliver the reliable high/
+near-grid quality electricity essential to supporting 
+productive use, creating new businesses and 
+generating revenues/incomes. There has been a 
+sharp decline in renewable energy system costs, 
+and interest is growing from private sector, known 
+as the QTP in the Philippines. This sector wishes 
+to provide electricity services to the rural and 
+isolated areas, particularly the remote and unviable 
+villages. Hybrid micro/mini-grid systems36 with 
+diesel and renewable energy sources are able to 
+meet the technical requirements for industrial and 
+commercial applications and thus generate the 
+sustained demand for energy supply. 
+However, only three private companies i.e. Power 
+Source Philippines, DMCI Power and Sabang 
+Renewable Energy Corporation have thus far taken 
+action and operate as an “alternative electricity 
+provider”.37 They serve Rio Tuba, Palawan and 
+Malapascua Island in Daanbantayan, Cebu, Semirara 
+Island in Antique and Sabang, and Puerto Princesa City. 
+Clearly, there is a gap between policy design and 
+reality. The reasons behind the lack of private 
+sector engagement merit further investigation. 
+A study of this kind will help identify incentives 
+and policy measures that need to be put in place, 
+and the needs for further improvements in the 
+legal and regulatory frameworks. This will allow 
+and encourage the private sector, or “alternative 
+electricity provider”, to participate in and scale 
+up the business of providing electricity services to 
+remote and unviable areas in the Philippines. 
+36 Mini/microgrid is a modern concept for a small-scale 
+ decentralised generation system with the capacity to integrate 
+ different energy sources and energy storage technologies on 
+ a modular basis. It can operate off the main grid or be integrated 
+ into a grid-connected model. In rural settings, it typically 
+ operates in off-grid mode. 
+37 Reference to the term used by SolarPower Europe.NorthWind Po
+er Deelopment Corportion’33MW KEY CHALLENGES AND 
+RECOMMENDATIONS 
+North Lon Reneble EnergCorportion’81 MW 04
+The Philippines has rapidly ramped up its renewable energy deployment in recent 
+years, particularly since the FiTs have been introduced, attracting a great deal 
+of attention from the private sector. However, this has brought about a variety 
+of challenges that could obstruct the further development of renewable energy 
+resources in the country. 
+This chapter discusses some of the priority concerns identified from literature 
+reviews and the insights gained from respondent interviews, focus groups and 
+multi-stakeholder round table discussions. We present general recommendations 
+as well as specific recommended action to deal with them. 
+The RRA process co-ordinates development partners, financial institutions and 
+the private sector in contributing to the formulation and implementation of an 
+articulated list of activities and initiatives identified by the stakeholders and 
+experts in the RRA. 
+4.1 Political commitment
+Challenges
+Since the Renewable Energy Act was signed in 2008, the Philippines has made 
+remarkable progress in renewable energy development. However, the government 
+has given many private sector stakeholders mixed signals. On the one hand it called 
+for an increase to investment in renewable energy, especially from the private sector. 
+On the other it expressed concern about the high capital costs of renewable energy 
+and variability of its supply. The government has reiterated that its energy sector 
+objective has always been reliable power that is “preferably clean” and “reasonably 
+priced”. This has caused some confusion in the renewable energy industry. Private General recommendation
+Strong political commitment is an extremely 
+important factor for nurturing a healthy and sustained 
+market for renewable energy development. This 
+commitment should not only be clear and strong 
+but also consistent and able to withstand changes 
+of administration. This would guarantee investor and 
+developer confidence in the Philippine government 
+as a reliable partner in the investment or development 
+of renewable energy projects. 
+Recommended action: 
+Raise awareness to ensure sustained 
+political commitment
+In the Philippines, public awareness plays a 
+very important role in influencing the political 
+commitments, decisions and orientation of public 
+policies. For a country with the second highest 
+electricity tariffs in the region, the economic 
+benefits of adopting renewables are of great 
+interest to the public. This is especially the case 
+in rural areas and islands, where fuel costs are 
+prohibitively high, and is one of the important 
+economic factors explaining electricity service 
+provision disruption. The renewable energy sources 
+have proved the most cost-effective options in 
+these settings thanks to the near-zero marginal 
+production costs of electricity. Costs of certain 
+renewable energy technologies, especially solar PV, 
+have fallen dramatically. If capital costs could be 
+bought down with support from the government, 
+affordability could be significantly improved. 
+Different stakeholders should launch a series of public 
+campaigns with the assistance and participation 
+of the development partners allocating resources 
+to the endeavour. Educational programmes could 
+be set up to provide real examples to the public 
+and can also be used to provide practitioners with 
+hands-on experience. 
+4.2 Grid infrastructure study
+Challenges
+The Philippines has taken the lead in the region and 
+introduced a comprehensive set of policy tools and 
+interest from investors and developers means there 
+is a surplus in applications for renewable energy 
+projects, especially for solar PV. 
+This poses a growing challenge for the grid 
+operators. It is particularly tough in areas where the 
+grid is relatively weak or demand is low while variable 
+renewable energy resources are geographically 
+distributed across a small area. One example is 
+Northern Luzon, which offers 337 MW of installed 
+generation capacity from wind resource, most of 
+which is on its northern coastline. According to the 
+national grid corporation NGCP, frequency limit 
+violations increased by more than one-third in 2015 
+compared to the previous year and were caused 
+partly by the rapid increase in variable renewables 
+in the main grids. This indicates mounting stress 
+on the Philippines power system. In some areas, 
+solar and wind power have to be curtailed to 
+ensure reliable grid operation. Although the share 
+of variable renewables in the main power grids is 
+comparatively low, evidence of grid instability is 
+emerging and has to be addressed. 
+General recommendation
+Variability is the primary technical challenge 
+experienced by variable renewable energy sources. 
+A low share does not cause much concern for the 
+grid operator. However, when there is an expansion 
+in renewable energy generating capacity in the grid, 
+its operators have to deal with variability on both 
+the demand and supply side, particularly in the 
+case of utility-scale solar PV and wind parks. This 
+requires new capabilities and methods to control 
+and regulate the power system to ensure reliable 
+power supply. 
+To accomplish this goal, further intelligence on 
+the power system condition is needed through 
+a grid infrastructure assessment examining grid 
+stability at a time when variable renewable energy 
+penetration is high. 
+Recommended action: 
+Assess the country’s grid infrastructure 
+A comprehensive grid evaluation is recommended 
+concentrating on grid stability in Luzon, Visayas as power flow and stability analysis in response to 
+solar or wind generation inputs at various points 
+and different penetration levels. This will provide 
+a better understanding of the impact of variable 
+renewable resource connection on the grids and thus 
+minimise potential grid operation problems. Load 
+profiles and future electricity demand should also be 
+part of the study. The existing and pipelined utilityscale and small-scale variable renewable energy 
+generation projects, primarily solar PV, also need to be 
+investigated. This should be aligned with research into 
+the need to improve the transmission and distribution 
+grids, enabling the networks to be more flexible and 
+resilient and to respond quickly to variations and 
+abnormal situations. An islanded model of mini/
+microgrids in the bulk power system could be one 
+option for designing and configuring the future grid. 
+The results should produce proactive energy 
+planning including the generation, transmission and 
+distribution network. This provides the standards 
+and guidelines for future solar PV grid-connected 
+systems. 
+The completion of this recommended study should 
+be followed by a training programme. This would 
+equip the utilities with the knowledge necessary to 
+understand the results and also modify the model 
+when there are changes to the grid. 
+4.3 Institutional capacity analysis
+Challenges
+The Renewable Energy Act provides a legislative 
+framework for renewable energy development in 
+the Philippines including the institutional set-up. 
+The Renewable Energy Management Bureau and 
+NREB are the primary architects of the country’s 
+renewable energy sector. However, a number of 
+key stakeholders are playing an important part in 
+the development of the renewable energy sector in 
+the Philippines, particularly in engaging renewable 
+energy developers. They include, for instance, 
+the ERC, TRANSCO, the National Electrification 
+Administration, NPC and its branch focusing on 
+off-grid electrification (SPUG), as well as local 
+government units.
+institutions against a backdrop of rapid renewables 
+deployment in the Philippines. This is due largely to 
+the mismatch between physical project applications 
+or installations and institutional capacity-building. 
+Nonetheless, this matter has been recognised and 
+to an extent dealt with. For instance, the Renewable 
+Energy Management Bureau had scaled staff down 
+to about 80 in 2008-2014 but this increased by 
+50% in 2014-2016, providing it with sufficient staff 
+to perform its duties. This is an indicator of the 
+renewable energy boom in the Philippines. 
+Yet the rapid growth of renewables requires capacity 
+improvement in all the relevant institutions, not 
+just the Renewable Energy Management Bureau. 
+New and emerging issues are also likely to further 
+require the bureau’s attention and capacity, though 
+not quite yet. 
+To some extent, this has contributed to the 
+further increase in renewable energy projects that 
+have received service contracts. Without a clear 
+institutional framework guiding and explaining the 
+role of each player, the implementation of the NREP 
+has not been easy.
+General recommendations
+A well designed and functional institutional framework 
+helps sustain renewable energy programmes including 
+NREP, mainstream the administrative procedure and 
+identify the areas across the renewable energy sector 
+in which an effective capacity-building programme 
+may be needed. 
+A thorough assessment and analysis is thus 
+recommended on renewable energy institutional 
+structure, including mandates, the capacity of each 
+agency or stakeholder, and the interaction/coordination between them. 
+Recommended action: 
+Examine institutional capacity in the 
+Philippine renewable energy sector
+A thorough institutional capacity assessment of 
+the Department of Energy Renewable Energy 
+Management Bureau and other key relevant 
+agencies and stakeholders is recommended. This NREP. It compares this to the current functions and 
+capacity of the concerned agencies, co-ordinating 
+mechanisms in place, and new and emerging 
+challenges in Philippine renewable energy 
+development that would require new sets of skills 
+and staff to address. 
+More specifically, it evaluates the Renewable 
+Energy Management Bureau current capability 
+and established expertise against the mandates, 
+and builds on them. It identifies the existing skills 
+of current personnel, analysing its wide network 
+to intensify collaborative action, and exploring 
+the efficient use of available resources. This 
+recommended action will also consider the need 
+and possibility for creating a third-party entity 
+supporting the Renewable Energy Management 
+Bureau on service contract review of application 
+submitted by developers for the request of 
+authorisations of permits. This will be based on 
+the preliminary results of the institutional capacity 
+and the future needs assessment. This will help 
+improve the ability of the other key stakeholders in 
+the sector to function and perform in a co-ordinated 
+fashion.
+The study results will yield recommendations to 
+enhance capacities, which will be presented to the 
+Department of Energy and other governmental 
+agencies most relevant to institutional development 
+affecting renewable energy in the Philippines. 
+The results can be also presented to development 
+partners for the purpose of designing more 
+effective capacity-building programmes aided by 
+various technical assistance programmes.
+4.4 National mini/microgrid study
+Challenges
+About 6.1 million households have no electricity 
+in the Philippines, most of whom are farmers and 
+fishermen who live in remote, unviable areas and 
+islands. Unviable areas have been defined as a 
+geographical area within the franchise zone of a 
+distribution utility where immediate distribution line 
+extension is not feasible. Because of the country’s 
+geography, achieving 90% household electrification 
+by 2017 is not easy, especially if it involves connecting 
+Mini-grids can be a viable and cost-effective solution 
+to electrification where the distance from the main 
+grid is too great and the population density too low 
+to justify a grid connection on economic grounds. 
+Mini-grids provide an improved service compared 
+to household systems. Depending on local resources 
+and technologies employed, they can be as good 
+as a well functioning grid. From a long-term and 
+development perspective, it thus makes sense 
+to deploy mini-grid installations in areas with no 
+electricity. Renewable energy systems, and especially 
+both solar PV for power generation and run-of-river 
+small hydropower, have become highly cost-effective 
+compared to mini-grids powered by diesel gen-sets. 
+This is due to falling technology costs.
+For areas with mini-grids already installed, high and 
+volatile fuel costs make it more difficult to produce 
+continuous electricity. For instance, diesel in some 
+islands can exceed USD 1.3 per litre, nearly 60% 
+more expensive than the Philippines average due 
+to the high transportation cost. High expenditure 
+on diesel fuels for rural electrification resulted in a 
+shortfall of USD 70 million in operational costs in 
+2011, according to the Philippines NPC. This has also 
+contributed to very limited service in most of the 
+islands, lasting between four and 12 hours. 
+These diesel-fuelled power facilities can be 
+retrofitted or hybridised with renewable energy 
+technologies if substantial energy resources are 
+available. The Philippine long-term energy scenario 
+states that it will remain substantially dependent on 
+imported oil for the next two decades. Renewablepowered or hybrid mini-grids will thus improve 
+national energy security.
+In this context, a number of studies related to minigrids have been conducted with support from 
+different development partners. However, those 
+studies either examined mini-grid potential at the 
+project, community or island level, or a particular 
+policy or scheme relevant to mini-grids or offgrid electrification. At the national level, there is 
+little understanding of why mini-grids powered by 
+renewables are strategically important to energy 
+security nor what the current regime requires to 
+mainstream such mini-grids in future. Nevertheless, 
+the whole spectrum of issues related to mini-grids potential, the policy and regulatory framework, 
+technological options, business models, and social 
+and economic benefits. 
+General recommendation
+Establishing an enabling environment for minigrids based on renewable energy is recommended; 
+it would shift the model for universal energy 
+access and increase energy security. To achieve 
+this objective, a comprehensive national study 
+on mini-grids powered by renewable energy is 
+recommended. 
+Recommended action: 
+Study potential for renewable electrification 
+through mini- and microgrids
+The recommended study should estimate physical 
+potential and cover the policy and regulatory 
+framework, technological options/guidelines and 
+business models. This will yield an understanding 
+of the long-term social and economic benefits 
+that such systems can generate for the whole of 
+society. Its geographical focus is on islands and 
+remote regions with no electricity, where mini-grids 
+powered by renewables can be economically viable 
+and also encourage rural development. 
+The recommended study will also research 
+potential sites for mini-grids and explore renewable 
+energy technology options and available resources 
+for power supply. It will identify problems and 
+barriers, and come up with alternative approaches 
+and recommendations to promoting renewable 
+energy in off-grid areas, especially in the electric 
+co-operative franchise areas. This is where the 
+sites with high mini-grid potential are to be found. 
+Mini-grids offer abundant benefits, including the 
+ability to restore power more easily after a disaster, 
+improved quality of life and new opportunities for 
+income generation when providing power to rural 
+areas. All these impacts should be studied. 
+The study will generate recommendations for 
+developing the policy and regulatory frameworks 
+necessary to promote mini-grid investments and to 
+facilitate private sector engagement. Annex 1. Summary of rural electrification projects in the Philippines
+No. Project name Partners Brief description 
+1 USAID AMORE project
+USAID, barangay 
+renewable energy 
+community 
+development 
+associations 
+This project provided renewable energy systems to 
+remote off-grid communities in Mindanao affected 
+by conflict and with no electricity. It consulted 
+with the relevant communities throughout project 
+implementation, and organised and trained 
+the barangay renewable energy community 
+development associations. They were shown how 
+to operate and maintain renewable energy systems, 
+sell solar systems and manage the community’s 
+operation and maintenance funds, which it had 
+raised itself. The profit earned from selling systems 
+is reinvested in new systems.
+2.
+Philippine Rural 
+Electrification Service 
+Project
+NPC-SPUG
+This project successfully provided electricity to 5,129 
+households in 108 barangays using PV systems, and 
+12,183 households in 102 barangays using a dieselfired mini-grid system. It was intended to be passed 
+on to a QTP upon completion in 2009. However, 
+there was no interest in carrying the responsibility 
+further. NPC-SPUG currently acts as an interim 
+QTP for the Philippine Rural Electrification Service 
+Project areas (Department of Energy, 2012).
+3.
+Solar Power 
+Technology Support 
+Project
+Department of 
+Agrarian Reform, 
+Government of Spain
+This project is an integrated social fund and 
+agricultural support project. It used PV energy 
+systems as enabling technology for agricultural and 
+rural enterprise development in agrarian reform 
+communities.
+4.
+Philippine National Oil 
+Company Solar Home 
+Distribution Project
+Philippine National Oil 
+Company
+This project aimed to distribute 15,000 solar home 
+systems. It bears 60% of the total cost of the 
+system while the remaining 40% is paid by the 
+end-users. The Philippine National Oil Company 
+partnered with local microfinance institutions to 
+help the beneficiaries pay for their solar home 
+systems in instalments with minimal interest. Using 
+this approach, the maintenance and upkeep of the 
+solar systems was sustained.Annex 2. Overview of the Renewable Energy Act of 2008
+The Renewable Energy Act 2008 (Republic Act 
+No. 9513) is the first comprehensive renewable 
+energy legislation enacted in Southeast Asia. The 
+Act co-ordinates with and provides support to 
+other Philippine government policies. The objective 
+is to ensure the provision of reliable indigenous 
+renewable energy sources to replace imported 
+fossil fuels. Its approach is to create an enabling 
+environment to make renewables financially 
+attractive to investors by providing fiscal incentives 
+and implementing non-fiscal economic instruments.
+To achieve the desired target, the Renewable 
+Energy Act created two important institutions 
+tasked with policy planning and implementation. 
+The Department of Energy Renewable Energy 
+Management Division was transformed into the 
+Renewable Energy Management Bureau. This is the 
+policy development, planning and implementation 
+arm supporting the growth of the renewable 
+energy industry as mandated by Section 32 of 
+the Renewable Energy Act. It also has the task of 
+supervising and monitoring the activities of other 
+governmental agencies related to renewables, as 
+well as monitoring private entities to ensure they 
+comply with existing rules. 
+The second arm is known as the National Renewable 
+Energy Board (NREB). It was created pursuant 
+to Section 27 of the Renewable Energy Act. The 
+NREB is a multi-stakeholder body composed of 
+one representative each from various government 
+agencies, renewable energy project developers, 
+distribution utilities, electric co-operatives and 
+governmental financial institutions, NGOs and 
+others. Its activities are supported by a technical 
+secretariat at the Department of Energy Renewable 
+Energy Management Bureau. Its role is advisory 
+in nature, gathering inputs from its members, 
+recommending specific action for implementing 
+policies and programmes, and overseeing the use 
+of the Renewable Energy Trust Fund.38
+The Renewable Energy Trust Fund was also 
+established under the Renewable Energy Act with 
+the aim of financing the activities that accelerate the 
+exploration and commercialisation of the country’s 
+renewable energy resources in line with Section 28 of 
+the Renewable Energy Act. Eligible activities under 
+the Renewable Energy Trust Fund are renewable 
+energy resource assessment, capacity-building and 
+technical research on emerging renewable energy 
+technologies such as ocean energy. The Rules and 
+Regulations Implementing RA No. 951339 identify 
+the monetary sources of the Renewable Energy 
+Trust Fund. They include:
+• proceeds from emission fees collected from all 
+generating facilities (RA No. 8749 Philippine 
+Clean Air Act)
+• 1.5% of the net annual income of the Philippine 
+Charity Sweepstake Office
+• 1.5% of the net annual income of the Philippine 
+Amusement and Gaming Corporation
+• 1.5% of the net annual dividends remitted to the 
+National Treasury by the Philippine National Oil 
+Company and its subsidiaries
+• 1.5% of the proceeds of the government share 
+collected from the development and use of 
+indigenous non-renewable energy resources
+• contributions, grants and donations made to the 
+Renewable Energy Trust Fund
+• any revenue generated from the utilisation of 
+the Renewable Energy Trust Fund
+• proceeds from fines and penalties imposed 
+under the Renewable Energy Act.
+38 The Renewable Energy Trust Fund has yet to be established 
+ and will be described below.
+39 The text of these implementing Rules and Regulations is 
+ available at www.doe.gov.ph/sites/default/files/pdf/issuances/ 
+ dc2009-05-0008.pdf.In addition to the institutional frameworks it created, 
+the Renewable Energy Act introduced a number 
+of fiscal and economic incentives in Chapter VII. 
+To make use of the fiscal privileges and incentives, 
+renewable energy project developers, manufacturers, 
+fabricators and suppliers of locally produced 
+renewable energy equipment must register with 
+the Department of Energy Renewable Energy 
+Management Bureau and Board of Investments. 
+They must also secure Certificates of Endorsements 
+from the Renewable Energy Management Bureau for 
+each transaction. The fiscal incentives and privileges 
+of renewable energy development are listed below.
+• Income tax holiday valid for the first seven years 
+of commercial operations. 
+• Duty-free imports of renewable energy 
+machinery. This incentive is valid for ten years 
+after a certification of entitlement to incentives 
+is issued.
+• Special realty tax rates on equipment and 
+machinery. These taxes on civil works, 
+equipment, machinery and other improvements 
+exclusively used for renewable energy facilities 
+cannot exceed 1.5% of their original costs. 
+• Net operating loss carry-over. The operating 
+loss by the renewable energy developer in the 
+first three years after the start of commercial 
+operation is carried over as a deduction from 
+gross income for the next seven consecutive 
+taxable years. 
+• Corporate income tax rate of 10% on net taxable 
+income. This is valid after the income tax holiday.
+• Accelerated depreciation of plant, machinery 
+and equipment used for the exploration, 
+development and utilisation of renewable energy 
+resources. These can be depreciated using a rate 
+not more than twice the rate which would have 
+been used otherwise.
+• Zero percent (0%) Value Added Tax on sales 
+of fuel or power generated from renewable 
+sources.
+• Tax credit on domestic capital equipment and 
+services. This tax credit is equivalent to 100% of 
+of the combined Value Added Tax and customs 
+duties on renewable energy machinery and 
+equipment had these items been imported. 
+This is given to a renewable energy project 
+developer that purchases them from a domestic 
+manufacturer or supplier.
+• Cash incentive for missionary electrification. 
+Developers of renewable energy projects for 
+missionary electrification are entitled to a cash 
+incentive per kilowatt-hour rate generated.
+In addition to fiscal incentives, the Renewable 
+Energy Act has also provided for economic or 
+non-fiscal stimuli to create a friendlier market for 
+systems based on renewable energy. The renewable 
+energy policy mechanisms to be implemented are 
+explained below.
+• Renewable Portfolio Standards. This policy 
+requires electricity generators, distribution 
+utilities or suppliers to source or produce a 
+specified portion of their electricity supply 
+from eligible renewable energy sources. This 
+will be imposed on all electric power industry 
+participants serving on grid areas, on a per grid 
+basis upon determination by the NREB (Section 
+4 of the Rules and Regulations Implementing 
+Republic Act No. 9513). The NREB sets the 
+required minimum percentage that must 
+generated from renewable energy resources. 
+o The RPS rules have been drafted by the 
+Department of Energy and will be finalised 
+when the minimum percentage of required 
+renewable energy generation has been set 
+by the NREB. The NREB’s guiding target 
+in setting the RPS is to bring the share of 
+renewable energy to the power generation 
+mix to at least 35% by 2030 (NREB 48th 
+Minutes of Meeting, 2014).
+• Renewable energy market (REM). Under the 
+Renewable Energy Act (Section 4), “Renewable 
+Energy Market” (REM) refers to the market where 
+the trading of renewable energy certificates 
+equivalent to an amount of power generated Act No. 9513 (Section 10) further specifies: 
+“the REM shall be a sub-market of the WESM 
+[Wholesale Electricity Spot Market] where 
+the trading of Renewable Energy Certificates 
+may be made.” The renewable energy market 
+will facilitate the compliance of electric power 
+participants to the RPS. A renewable energy 
+registrar will be established and operated by 
+the Philippines Electricity Market Corporation 
+(PEMC). It will issue, keep and verify renewable 
+energy certificates corresponding to energy 
+generated from eligible renewable energy 
+facilities. Electricity generators, distribution 
+utilities or suppliers not be able to meet the 
+required minimum generation of renewable 
+energy can purchase renewable energy 
+certificates to make up for the gap and comply 
+with the RPS (Section 8, Renewable Energy Act). 
+o The renewable energy market is still being 
+set up. Its implementing rules are still being 
+finalised. The Department of Energy and 
+PEMC formed a joint steering committee to 
+formulate its framework and rules and to 
+set it up as a sub-market of the Wholesale 
+Electricity Spot Market (Department Order 
+DO 2010-06-0012). 
+• Feed-in Tariff. Applicable only to solar, wind, 
+biomass and run-of river hydropower, the FiT 
+guarantees fixed tariffs for not less than 12 
+years for these resources (Section 7, Renewable 
+Energy Act). The FiT rates proposed by the NREB 
+for the capacity allocations were approved by 
+the ERC in 2012 (ERC Resolution No. 10, Series 
+of 2012). The rate for wind projects was cut in 
+October 2015 to PHP 7.40/kWh for the additional 
+installation target of 200 MW.
+• Renewable energy power plants are deemed 
+eligible for FiTs once a Certificate of Compliance 
+has been issued by the ERC. Own-use generating 
+plants, and renewable energy plants operating 
+commercially before the establishment of the 
+FiT, were not eligible under this scheme. Inclusion 
+was made on a first-come first-serve basis 
+until the capacity allocations had been filled. 
+Payments are charged to all electricity end-users 
+as a uniform fee entitled a FiT-Allowance (FiTAll). This covers the FiT payments to renewable 
+energy power generators. As the designated 
+fund administrator for FiT-All, TRANSCO 
+disburses the appropriate FiT payments to the 
+corresponding renewable energy generator 
+(ERC Resolution series No 16, 2010).
+o Solar and wind power associations requested 
+an increase in their cap allocations even 
+before the FiT system was introduced. In 
+2015, a large volume of solar energy projects 
+in progress coincided with a looming power 
+supply crisis caused by the El Niño effect, 
+which can reduce hydropower generation. 
+The Department of Energy thus increased 
+the FiT installation targets for solar from 
+50 MW to 500 MW (Department of Energy 
+Certification, April 2014). Increasing the solar 
+capacity allocation is expected to encourage 
+more solar power plant development, helping 
+alleviate power supply deficiency. The ERC 
+approved the solar FiT rate of PHP 8.69/kWh 
+(ERC Resolution series No. 06, 2015) for the 
+additional solar installation target.
+o The Department of Energy increased the 
+capacity allocations for wind power plants to 
+400 MW (Department of Energy Certification, 
+April 2015) since the wind FiT had already 
+been oversubscribed. The ERC accordingly 
+approved a FiT rate of PHP 7.40/kWh 
+(ERC Resolution series No. 14, 2015) for the 
+additional increase. The table below shows the 
+number of eligible FiT projects and their total 
+installed capacities under the FiT scheme.Table 5. Eligible FiT projects, January 2015
+Capacity 
+allocation/ 
+installation target 
+(MW)
+Number of 
+eligible projects
+Total approved 
+FiT capacities
+Subscribed 
+allocation (%)
+Biomass 250 5 21.651 6%
+Hydropower 250 3 12.60 5%
+Solar 500 1 22 4%
+Wind 200 3 249.9 124%
+Source: Philippine Department of Energy, January 2015
+• Green Energy Option. The Green Energy Option 
+scheme provides the end-users with the option 
+to choose renewable energy resources as their 
+sources of energy. Once the Department of 
+Energy has ascertained its technical viability, 
+end-users may directly contract from renewable 
+energy facilities their energy requirements 
+distributed through their respective distribution 
+utilities (Section 9, Rules and Regulations 
+Implementing Republic Act No. 9513). 
+o The rules and mechanics of the Green Energy 
+Option are being finalised by the Department 
+of Energy with inputs from the NREB and 
+must be approved by the ERC before it can 
+be implemented.
+• Net-metering. “Net-metering is a consumerbased renewable energy incentive scheme 
+wherein electric power generated by an enduser from an eligible on-site Renewable Energy 
+generating facility and delivered to the local 
+distribution grid may be used to offset electric 
+energy provided by the DU [distribution utility] 
+to the end-user during the applicable period” 
+(Section 7, Rules and Regulations Implementing 
+Republic Act No. 9513). This is limited to 
+small capacity generation not greater than 
+100 kW. The distribution utility is entitled to 
+any renewable energy certificate resulting from 
+net-metering agreements with its customers 
+that it may use to comply with the RPS 
+requirements. 
+o The ERC adopted the rules enabling the netmetering programme for renewable energy 
+on 27 May 2013 (Resolution No. 9, Series 
+of 2013) and implemented them by July 
+2013. Thus, net-metering is the first policy 
+mechanism to be implemented under the 
+Renewable Energy Act.
+o The private distribution utilities Meralco, 
+VECO and Davao Light have already accepted 
+and entered net-metering agreements with 
+some of their power generation consumers. 
+o A net-metering guidebook was developed 
+by GIZ to assist interested electricity endusers to enter into net-metering agreements 
+with their distribution utilities (www.doe.gov.
+ph/netmeteringguide/).REFERENCES
+German International Cooperation Agency (Gesellschaft für Internationale Zusammenarbeit) (GIZ) (2012), 
+ASEAN Guideline on Off-grid Rural Electrification Approaches, GIZ, published under GIZ Renewable Energy 
+Support Program (RESP), Jakarta, Indonesia
+Somani, S. et al. (2013), The Energy Report, Philippines: Growth and Opportunities in the Philippine Electric 
+Power Sector, 2013-2014 edition, KPMG Global Energy Institute, Manila, Philippines.
+Asian Power (2013), “Country Report: Philippines”, Charlton Media Group, Singapore viewed 27 April, 2014, 
+available at http://asian-power.com/sites/default/files/asianpower/print/APApr_2013_lores%206.pdf. 
+Philippine Department of Energy (2012), 21st EPIRA Implementation Status Report,(Period Covering May 
+2012 to October 2012), available at www.doe.gov.ph/sites/default/files/pdf/electric_power/power_industry_
+reforms/21st_epira_status_report.pdf. 
+Foley, G. and Logarta Jr., J. (2007), Chapter 3: Power and Politics in the Philippines, in the book titled” the 
+Challenge of Rural Electrification: Strategies for Developing Countries”, edited by Douglas F. Barnes, Earthscan, 
+New York
+Philippine Department of Energy (2004), Department Circular No. DC 2004-01-001 Prescribing The Rules 
+and Procedures for Private Sector Participation in Existing NPC-SPUG Areas Pursuant to Rule 13 off the 
+Implementing Rules and Regulations of the Electric Power Industry Reform Act o 2001 (EPIRA-IRR), available 
+at: www.doe.gov.ph/department-circular-no-2004-01-001
+Philippine Department of Energy (2012a), 2012-2016 Missionary Electrification Development Plan (2012 MEDP), 
+available at: www.doe.gov.ph/2012-2016-MEDP
+Rural Power Project (2014), Information Materials: Rural Power Development-Empowering Rural Communities 
+through Access to Sustainable Energy, Department of Energy, Manila, Philippines, viewed 18 March, 2014, (www.
+doe.gov.ph/microsites/rpp/infomats%20into%202.htm). 
+Alliance for Mindanao Off-grid Rural Electrification (2014), “Making Lives Brighter in Rural Communities”, 
+retrieved 11 March, 2014, Mindanao, the Philippines (http://amore.org.ph/what-we-do/making-lives-brighter).
+World Bank (2012), “Implementation Status & Results, Philippines Rural Power Project (P066397)”, viewed 18 
+March, 2014 (www.worldbank.org/projects/P066397/rural-power-project?lang=en). 
+National Electrification Administration (2015), Status of Energization,
+National Power Corporation Small Power Utilities Group (NPC-SPUG) (2015), NPC-SPUG Electricity Rate, 
+available online at www.napocor.gov.ph/index.php/2013-09-13-01-23-51/spug-rates. 
+Department of Energy (2012), 2012-2017 Missionary Electrification Development Plan (MEDP), Department of 
+Energy, Manila, Philippines.
+Bertani, R. (2015), “Geothermal Power Generation in the World 2010-2014”, updated report, Proceedings of the 
+World Geothermal Congress 2015, Melbourne, Australia, 19-25 April 2015, available at https://pangea.stanford.Elliot, D., et al. (2001), Wind Energy Resource Atlas of the Philippines, National Renewable Energy Laboratory, 
+Golden, CO, US.
+De Guzman, R. (2014), “Biomass Resource Assessment for Selected Sites in Luzon, Visayas, and Mindanao”, 
+Powerpoint presentation, Department of Energy Renewable Energy Management Bureau,
+Ragudo, T. (2011), Status of Adoption of UPLB Flatbed Dryer, International Society for Southeast Asian 
+Agricultural Science, Los Baños, the Philippines
+International Energy Agency (2015), World Energy Outlook 2015, OECD/IEA, Paris, France. http://www.
+worldenergyoutlook.org/weo2015/
+Department of Energy (2012), Philippine Energy Plan 2012-2030, Department of Energy, Manila, Philippines, 
+available at https://www.doe.gov.ph/pep/philippine-energy-plan-2012-2030
+GIZ (2013), Administrative Procedures: Rules and Processes for On-grid PV Project Development in the 
+Philippines, developed by Eslareon, available at www.giz.de/fachexpertise/downloads/giz2013-enadministrative-procedures-philippines-on-grid.pdf. 
+Milo Sjardin, M. K. (2013), “Renewable Energy in the Philippines: Financial Flows and Barriers for Investment”, 
+presentation made during the interim workshop for the Analysis and Investment for Low-Emission Growth 
+(AILEG) Project for the Philippine Government, Manila, Philippines. 
+Department of Energy (2014), Installation Target of Solar Energy Generation Under the Feed-In-Tariff System, 
+Department of Energy Certification, Manila, Philippines.
+Department of Energy (2015), Installation Target of Wind Energy Generation Under the Feed-In-Tariff (FiT) 
+System, Department of Energy Certification, Manila, Philippines.
+NREL, 2015. Philippines Geospacial Toolkit. Available online at https://maps.nrel.gov/gst-philippines/#/?aL=p
+U2Lqp%255Bv%255D%3Dt%26pU2Lqp%255Bd%255D%3D1&bL=groad&cE=0&lR=0&mC=15.580710739162123
+%2C121.651611328125&zL=7 
+NREL, 2014. Philippines Wind Resource Maps and Data, available online at www.nrel.gov/international/ra_
+philippines.html. 

@@ -1,0 +1,2019 @@
+File Name: PLW-NSAPES-2009-EN
+Year: 2009
+Country Name: Palau
+Country Code: PLW
+Category: NSAPES
+Document Title: nan
+Exists?: Y
+Publication Date: 2009
+Start Year: 2009
+End Year: 2020
+Language: EN
+------------------------------------------------
+
+Republic of Palau
+Strategic Action Plan Energy Sector
+A Framework for the Implementation of Palau’s National Energy Policy
+Palau Energy Policy Development Working Group
+Koror, Republic of Palau
+October 2009LIST OF ACRONYMS .....................................................................................3
+1.0 FOREWORD..........................................................................................5
+2.0 INTRODUCTION....................................................................................6
+2.1 Background................................................................................................................................6
+2.2 Palau’s Energy Sector ...............................................................................................................7
+3.0 POLICY AND STRATEGIC PLAN.........................................................9
+3.1 Targets........................................................................................................................................9
+3.2 Relation between Policy and Strategic Action Plan................................................................9
+3.3 Project Development ...............................................................................................................10
+4.0 PLANNING ASSUMPTIONS...............................................................11
+4.1 Institutional Arrangements ....................................................................................................11
+4.2 Energy Demand Forecast........................................................................................................11
+4.3 Political Risk ............................................................................................................................12
+4.4 Technological Development....................................................................................................13
+4.5 Climate Change .......................................................................................................................14
+4.6 Continued Availability of Funding from Development Partners........................................14
+4.7 Monitoring and Evaluation ....................................................................................................14
+5.0 STRATEGIES AND ACTIONS ............................................................15
+5.1 Improved Institutional Arrangements for Energy Sector Management ............................15
+5.2 Energy Efficiency and Energy Conservation........................................................................19
+5.3 Renewable Energy...................................................................................................................22
+5.4 Imported Fuels and Hydrocarbons........................................................................................25
+5.5 Electric Power..........................................................................................................................28
+6.0 PROJECT PIPELINE...........................................................................316.1 Energy Conservation...............................................................................................................32
+6.2 Renewable Energies ................................................................................................................35
+6.3 Electric Power..........................................................................................................................45
+List of Acronyms
+AC Alternating Current
+ACP African, Caribbean, Pacific countries (associated with EU)
+ADB Asian Development Bank
+ADO Automotive diesel oil
+BPW Bureau of Public Works
+CIF Cost+insurance+freight
+COFA Compact of Free Association
+CPI Consumer Price Index
+CROP Council of Regional Organisations of the Pacific
+CTF Compact Trust Fund
+DC Direct Current
+DSM Demand Side Management
+EDF European Development Fund
+EEZ Exclusive Economic Zone
+EIA Environmental Impact Assessment
+EIRR Economic Internal Rate of Return
+ENSO El Niño/El Niña oceanic climate cycle
+EQPB Environmental Quality Protection Board
+EU European Union
+FY Fiscal Year
+FSM Federated States of Micronesia
+GDP Gross Domestic Product
+GEF Global Environment Facility
+GHG Greenhouse Gas
+GEM Green Energy Micronesia
+GWh Giga watt hours
+IFC International Financial Center
+IPP Independent Power ProducerIUCN International Union for the Conservation of Nature
+JICA Japan International Cooperation Agency
+kV Kilo-Volts (thousands of volts)
+kVA Kilo-Volt-Amperes (Thousands of Volt Amperes of power)
+kW Kilo-Watt (Thousands of Watts of power)
+kWh Kilo-Watt-Hour (Thousands of Watt Hours of energy)
+kWp Kilo-Watts peak power (at standard conditions) from PV panels 
+LPG Liquefied Petroleum Gas
+MNRET Ministry of Natural Resources, Environment and Tourism
+MPIIC Ministry of Public Infrastructure, Industries and Commerce
+MDG Millennium Development Goals
+MoE Ministry of Education
+MoF Ministry of Finance
+MOPS Mean of Platts Singapore Published Price
+MoS Ministry of State
+MSC Micronesian Shipping Commission
+NEP National Energy Plan
+NEC National Energy Committee
+NDBP National Development Bank of Palau
+NGO Non-Governmental Organization
+OEK Olbiil Era Kelulau (legislature)
+OERC Office of Environmental Response and Coordination
+OGTF Oil & Gas Taskforce
+OP Office of the President
+OPS Office of Planning & Statistics
+PALARIS Palau Automated Land and Resource Information Systems Office
+PCC Palau Community College
+PCAA Palau Community Action Agency
+PEO Palau Energy Office
+PHA Palau Housing Authority
+PIC Pacific Island Country
+PICTA Pacific Island Countries Trade Agreement
+PIEPSAP Pacific Islands Energy Policies and Strategic Action Planning
+PIFS Pacific Islands Forum Secretariat
+PPA Power Purchase Agreement
+PPUC Palau Public Utilities Corporation
+PV Photovoltaic
+RMI Republic of the Marshall Islands
+ROP Republic of Palau
+SEDREA Social and Economic Development through Renewable Energy 
+Applications
+SGP GEF Small Grants Programme
+SPPA Small Power Purchase Agreement
+USDA United States Department of Agriculture
+UNDP United Nations Development Programme1.0 Foreword 
+Palau, like the rest of the world, faces two major energy challenges. The first is to 
+deliver clean, secure, affordable energy for all citizens of Palau while treating the 
+environment responsibly. The second is to respond to the risks of climate change 
+by adaptation to changes and by mitigation through reducing the greenhouse 
+gases caused by the production and use of energy. In addition Palau faces a 
+challenge that it shares with other small island countries, namely it’s extremely 
+high dependence from imported fuels.
+This Strategic Action Plan for our Energy Sector has been developed in an 
+inclusive and participatory process involving more than 30 public and private 
+sector agencies. It forms the basis for our strategic actions which will ensure that 
+the policy vision becomes a reality. The National Energy Policy and this Strategic 
+Action Plan should also provide road map towards a greener and less vulnerable 
+energy future for Palau. The vision is for a reliable and resilient energy sector
+delivering Palau sustainable, low emissions energy services, through:
+ Providing clear direction on the future of Palau’s energy sector
+ Appropriate regulation to securely deliver energy services at competitive 
+prices
+ Maximizing cost-effective energy efficiency and renewable energy resources
+and conservation of energy while safeguarding our environment 
+ Promoting environmentally sustainable energy technologies with the aim to 
+substitute imported fossil fuels
+ Supporting consumers through the transition towards a new energy sector.
+Adjustments have to be introduced at multiple policy levels to effectively promote 
+clean, reliable, efficient and sustainable energy for all citizens of Palau. The 
+National Energy Policy and its Strategic Action Plan will guide the public and 
+private sectors of Palau in cooperation and our regional and international 
+development partners to establish a sustainable energy sector. Through 
+implementation of this policy Palau will become an international leader in creating 
+a green and renewable energy society. 2.0 Introduction
+2.1 Background
+Energy is a vital resource underpinning all aspects of our society and 
+fundamentally influencing Palau's environmental sustainability. Being almost 100 
+% dependent on imported energy, Palau is highly vulnerable to international 
+energy market movements and price volatility. Palau’s energy security is not 
+guaranteed and energy supply interruptions undermine economic growth and 
+social development. Palau is a small country lacking significant economies of 
+scale and has dispersed outer islands’ populations that are difficult to serve. This 
+Energy Sector Strategic Action Plan (SAP) is a dynamic document based on the 
+National Energy Policy of Palau. It reflects the reality of market uncertainty and 
+will be regularly updated and reviewed to consider past successes, failures and 
+lessons learned. Actions and strategies will be adjusted accordingly.
+Addressing energy sector issues requires collaborative leadership, smart 
+planning, adequate institutional arrangements, common goals, political will, and a 
+shared national vision. It is necessary to incorporate data collection efforts, 
+including market assessment and market potential studies to enhance the 
+technical processes of the energy sector long-term procurement planning. The 
+Strategic Plan presented here summarizes the efforts of the Energy Working 
+Group which has compiled the plan in a collaborative and inclusive exercise 
+stretching from April to October 2009. 
+Energy Sector strategic planning exercises have to maintain a high level of 
+flexibility in order to react to fluctuations in international markets. The following 
+graph shows price volatility on the international crude oil market that the world 
+has experienced in the last 12 months. It is clear that under such market 
+conditions a high level of responsiveness and flexibility is an absolute must. The 
+chart below showing the development of the world market price for crude oil 
+illustrates the market volatility that energy planners have to deal with.Moreover, technology may also change rapidly and planning efforts have to consider 
+these changes in the areas of both conventional and renewable energy. 
+Considerable benefits can be achieved through early adoption of new technologies. 
+2.2 Palau’s Energy Sector
+The Republic of Palau relies heavily on imported fuels for commercial energy needs 
+including 100% of transport and electricity generation (the chief uses), and a majority 
+of household use including cooking, transport, refrigeration, and lighting. Petroleum 
+products are supplied in small quantities via coastal tankers (5,000 - 6,000 tons) from 
+Guam by Mobil and Shell. Current annual import is estimated around 12 million 
+gallons. Petroleum product pricing is not regulated. Oil companies build their retail 
+prices based on Singapore MOPS prices (Mean of Platts Singapore Published Price) 
+plus cost of supply plus profit. According to the Shell representative target rate of 
+return on investment is 15%- 20%. Diesel and gasoline are both moderately taxed at 
+a rate of $0.05/gal.
+In the last two years, price volatility for petroleum has been high with an upward trend 
+until mid 2008 and a sharp drop as a result of the global recession. International 
+crude oil prices increased from US$50/bbl in mid June 2005 to above US$140/bbl in 
+June 2008. Reasons for these price developments are complex but despite the 
+significant drop in world market prices due to weakening demand, it does appear that 
+an era of ‘cheap oil’ (less than US$ 50/bbl) is over. After hitting a bottom of less than 
+40 US$ towards the end of 2008, crude and product prices have been on the rise 
+again and are currently around US$ 70. At these price levels fuel imports will remain 
+a major component of the country’s import bill. Petroleum storage capacity in Palau is 
+approximately 10 million gallons of product, PPUC has 6 million gallon of storage, 
+most of which is in need of rehabilitation.
+There is a high probability that Palau has exploitable hydrocarbon reserves. The first 
+petroleum exploration license was signed in 1977. Since then, there has been 
+continued interest in exploring Palau’s territorial waters for the potential of oil and 
+gas. Currently, one company has petroleum licenses with the States of Kayangel, 
+Hatahobei, and Angaur respectively. However, to date, no exploratory drilling has 
+occurred. Taking into account Palau’s need to develop an oil and gas sector that 
+conforms to international standards and regulations as well as its socioeconomic 
+reality, the Executive Branch requested the assistance of the World Bank (WB) Oil, 
+Gas, and Mining Policy Division. 
+Electricity is supplied by the Palau Public Utilities Corporation (PPUC). The utility was 
+established under the PUC act of February 1994 and is owned by the Government 
+but operated as a commercial enterprise. PPUC is required to break even on 
+operating and maintenance costs. PPUC is currently led by a CEO and consists of 
+six departments headed by six managers (Generation, Distribution, System Control, 
+Business Office, Accounting and Finance, Auxiliary Services. Total staff of PPUC is 
+currently 130. PPUC is supervised by a board of directors who are appointed by the 
+President. In the past, it was observed that the board repeatedly acted outside its 
+supervisory role and interfered with day to day operations.PPUC has a current installed capacity of a little over 35 MWs, with power plants 
+located at Malakal, Aimeliik, Peleliu, Angaur, and Kayangel. The Malakal and Aimeliik 
+plants supply power to a central grid on the islands of Koror and Babeldaob. The two 
+13.8 kV distribution grids are interconnected by a 34.5 kV undersea cable. In addition 
+to PPUC’s generators there are approximately 5 MW installed at Hotels, large stores 
+and two fish processing plants. These facilities generate their own power when 
+PPUC cannot supply total demand of the grid.
+PPUC has been continuously unable to supply the total demand for electric power 
+and has often had to resort to power rationing. The economic cost of un-served 
+demand is significant, considering the disruptions that affect the household, public 
+and commercial sectors. The cause for the continued power interruptions is
+inadequate maintenance of the utility’s generation assets resulting in a shortfall of 
+approximately 1.5 MW during peak hours. The situation is exacerbated by the lack of 
+standardization and related high O&M cost. Power disruptions reduce PPUC’s 
+revenues and undermine their financial position. The utility has recently gone through 
+a change in management and board and the new management has taken immediate 
+action to address the crisis. Although the crisis has been mitigated in the meantime, 
+PPUC is still extremely vulnerable to generator break-downs. 
+Electricity demand as recorded and billed by PPUC has not grown significantly over 
+the last 10 years. It has been more or less stagnant at 80 GWh per annum. Peak 
+load is about 15 MW and occurs in the evening hours. In contrast to energy demand, 
+the number of accounts has shown significant growth at an average rate of 4.5% per 
+annum between 2001 and 2007 with the commercial sector showing the largest 
+growth of 7.5%. It should be noted that growth in energy demand may be disguised 
+as in recent years more and more power has been generated by large users in the 
+tourism and commercial sectors.
+The Palau Energy Office (PEO) located at the Ministry of Infrastructure, Industry and 
+Commerce is the government agency dealing with some energy sector issues. It acts 
+as an international contact point and represents Palau in overseas energy meetings. 
+It also acts as a project management unit for some renewable energy and energy 
+efficiency projects. The PEO initiated the Palau Energy Conservation Strategy 
+(PECS) in response to Executive Order 234 of 2005. 
+A number of studies have noted that the institutional arrangements for energy sector 
+are inadequate. With no operational budget, no clear legal mandate and only one full 
+time officer the Energy Office has limited capacity to influence the energy sector 
+management The PEO has no regulatory function. The PEO requires strengthening 
+through the establishment of a clear mandate, appropriate resource allocation and 
+adequate capacity building. The PEO should focus on policy, sector planning, 
+regulation and knowledge management and delegate project implementation 
+activities to technical agencies such as PPUC.
+The Office of the President has appointed an Advisor to the President on Energy 
+matters and the Acting Director for the Office of Environmental Response and 
+Coordination (OERC) acts as focal point for energy in Palau. The role of the focal 
+point is screening projects and policies in the sector.3.0 Policy and Strategic Plan
+3.1 Targets
+The National Energy Policy states the Government's policies for the planning and 
+management of the nation's energy sector over the next 10 years. The rationale for 
+this time horizon is the 20:30:30 policy target that has been formulated. This policy 
+target envisions a 20 % contribution of renewable energy to the energy mix by 2020 
+and a 30 % reduction in energy consumption though energy efficiency and 
+conservation efforts. Currently, renewable energy only makes a small contribution of 
+less than 1 % towards Palau’s total energy supply and experiences are limited to 
+solar PV and solar hot water units. 
+Achieving a target of 20% by 2020 will require expansion into other forms of 
+renewable energy such as wind, waste (landfill gas), hydropower and perhaps 
+marine energy (wave energy and currents). At current world market prices for fuel 
+and local tariffs for electricity, only solar water heaters can be considered financially 
+viable options. I.e. an increased renewable energy contribution will require subsidies 
+or increases in electricity tariffs. Financing a transition towards a greener energy 
+through tariff increases is not considered feasible, given the state of Palau’s 
+economy and it is hoped that development partners will assist closing the gap 
+between supply cost for renewable energy and conventional energy. In the field of 
+energy conservation, numerous efforts under way to improve energy efficiency both 
+on the supply and demand side. Achieving a 30 % reduction in primary energy 
+consumption by 2020 is feasible but will require more efforts in demand and supply 
+side management, improvements in transport sector efficiency and the introduction of 
+regulations that curb wasteful practices.
+3.2 Relation between Policy and Strategic Action Plan
+The National Energy Policy (NEP) provides explicit framework within which public 
+and private energy sector participants can make informed planning and investment 
+decision. The policies also define the nature and extent of Government's control and 
+management of the energy sector.
+The purpose of the Strategic Action Plan (ESSAP) is to restate Palau's energy 
+policies in the form of a more detailed action program including specific targets and 
+guidelines. It will provide the blueprint for Government's in planning and management 
+of energy programs over the life of the policy statement. It also provides indicators to 
+measure progress in the implementation of the NEP and the SAP. The SAP does not 
+override existing strategic plans such as the Palau Energy Conservation Strategy 
+(PECS) the Energy Efficiency Action Plan or PPUC’s Strategic Plan. These initiatives 
+are seen as an integral part of this SAP and their progress and achievements will be 
+monitored under the framework of the overall plan.
+While some of the targets may take longer to achieve than others, it is important that 
+Government remain committed to its National Energy Policy as a whole and, most importantly, provide the institutional and administrative resources necessary to 
+achieve its policies. 
+In many cases, these policies, strategies and guidelines will appear self-evident. 
+However, it remains essential for Government to have them committed to paper and 
+adopted at the most senior level if they are to become, and to remain, the focus of 
+Government's longer term planning and management of Palau’s energy sector.
+Aligning this planning effort with related statewide long-term resource plans, such as 
+those associated with water, environment, land use, and greenhouse gas mitigation 
+is considered a prerequisite for its successful implementation. 
+Moreover, strategic success demands a parallel approach of planning and doing. It is 
+obvious that strategic implementation is much more important than strategic 
+planning. Implementation requires the work of the entire nation, whereas strategic
+planning only requires the planning team. Part of the challenge of planning often 
+stems from the failure to link the plans with ongoing implementation. Regularly 
+evaluating performance with respect to the goals and strategies established in the
+current Plan is a necessary prerequisite for the success of the project.
+3.3 Project Development
+The development of the project pipeline is fully integrated with the policy and 
+strategic planning described above. Activities follow the guidelines and assumptions 
+provided and include a review of all data and information on energy sector projects 
+that have been implemented or are under implementation. Broad consultations have 
+been undertaken in order to establish a preliminary list of project ideas for further 
+assessment and ranking. Focus was given to renewable energy and energy 
+efficiency projects. Conventional projects in the area of power generation/distribution 
+and petroleum products have been included if justified (urgency, good economic 
+performance, significant contribution to energy security). 
+Project priorities have been developed using a transparent ranking method that 
+includes criteria such as:
+ technical feasibility
+ economic performance (least cost supply)
+ social impacts
+ environmental characteristics 
+ probability to attract finance. 
+Project development will also include an assessment of risks associated with the 
+proposed actions and projects. 
+As with the policy and strategic planning we expect several feedback loops during 
+stakeholder consultations and we will aim at integrating these with the consultations 
+on policy as the two aspects are closely linked.4.0 Planning Assumptions
+Energy Planning takes place under a great deal of uncertainty and has to rely on a 
+set of assumptions. This set of assumptions has to be reviewed on a regular basis 
+and adjusted when required. It will be an important task for the NEC and PEO to 
+regularly review the assumptions discussed in the following and ensure that these 
+assumptions are valid:
+4.1 Institutional Arrangements
+The Working Group noted that past institutional arrangements for energy sector have 
+been inadequate. Ultimately the consensus has been that the Energy office would be 
+best positioned to implement energy related policies and regulations as an 
+independent authority. At the minimum, it is necessary to establish the PEO as a 
+Division or Bureau with a regular budget allocation. It should be noted that effective 
+institutional arrangements are a precondition for maximizing Palau’s benefits from 
+funding opportunities that are available to Palau from a number of resources. Donors 
+have also shown willingness to support the Government with technical assistance 
+and temporary funding of staff. 
+4.2 Energy Demand Forecast
+Energy demand will only see moderate growth rates of about 5% annually in both the 
+fuel and the electricity sector. This is due to:
+ Current per capita consumption in Palau is considerably higher than in all 
+other Pacific Island Nations.
+ Electrification rates are near 100 % and no significant incremental growth can 
+be expected from new customers.
+ The policy of cost covering tariffs and the widespread introduction of prepaid 
+meters will reduce demand growth.
+ Energy conservation programs will show impact from 2012 onwards
+ Petroleum prices are unlikely to fall drastically and for the next 2 years an 
+average world market price of 100 – 120 US$ per barrel of oil seems to be a 
+reasonable guess.
+ Even if lower oil prices are going to materialize, this is likely to be associated 
+with continued recession and perhaps depression of the world economy, 
+which in turn will have a dampening effect on energy demand in Palau and 
+elsewhere.
+Forecasting electricity demand development in the main grid is however, 
+uncertain. Demand increases will be mostly driven be developments in the 
+tourism industry and therefore tend to be shown in lumpy increments. Whether or 
+not a new hotel will have a major impact on demand also depends on the choice 
+of the developers who can either opt for their own generation (as is currently the 
+case with some existing larger hotels). It is therefore prudent to also consider a 
+low and a high case scenario with respect to demand for peak power and energy. 
+A high case scenario would entail growth rates of 7.5 % p.a. and a low case 
+scenario would be in the vicinity of 1 %. In this context it should be noted that at 
+current electricity rates and fuel cost, self-generation is more expensive than 
+connecting to PPUC. I.e. enterprises that have resorted to this solution have done so purely for energy security purposes. The following chart displays the 
+band of developments with respect to peak power demand in PPUC’s system. A 
+low case scenario of very low growth could materialize in case of a prolonged 
+recession of the global economy. Serious conservation efforts could reduce 
+demand growth further and result in negative growth. This is in fact intended in as 
+a policy target. The high case would be associated with rapid global recovery and 
+a significant improvement of Palau’s competitive position as a tourist destination. 
+Maximum renewable energy contribution is determined by the systems minimum 
+demand and system stability considerations. The higher the contribution from 
+erratic renewable energy resources, namely wind and solar, the more planning 
+and system integration efforts are required. Current system parameter suggests 
+that the main system in Koror and Babeldaob can absorb approximately 9 – 12
+GWh per annum without major system integration efforts such as short term 
+storage. This represents an installed capacity of renewable energies in the order 
+of 4 - 5 MW in case solar and wind are used as the main sources. Hydropower 
+and landfill gas use have higher capacity factors than solar and wind and are 
+easier to integrate. It should be noted that any serious conservation effort in the 
+electricity sector towards the target of 30% will make renewable energy 
+integration more difficult as the load profile will be reduced.
+Growth Scenarios Peak Demand
+PPUC
+0.0
+5.0
+10.0
+15.0
+20.0
+25.0
+30.0
+35.0
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 Year
+MW
+4.3 Political Risk
+Current government and its successors will maintain cornerstones of the current 
+energy policy such as the ‘user pays principle’ or the principle of cost covering 
+tariffs. This is due to the facts that:
+ Continued subsidies further strain the already difficult fiscal position of the 
+Government.
+ Consumption subsidies will reduce likelihood of obtaining grants and 
+concessionary loans from development partners. Tariffs below cost recovery levels undermine the already difficult financial 
+position of PPUC.
+The above may not hold if Palau becomes a major producer of hydrocarbons. 
+Experience in other countries has shown that the general public expects to 
+participate in the wealth created by hydrocarbon production through low energy 
+prices.
+Current and successive Governments will continue to adhere to good governance 
+in the area of procurement and contract awards. Transparency, order, timeliness, 
+even-handedness and, where practicable, competition to the process of awarding 
+contracts to developers, energy service companies (ESCOs) and fuels suppliers
+will prevail. The following guidelines and procedures are recommended:
+Transparency: A feature of successful implementation models has been 
+transparency. It allows open demonstration of the project’s consistency with the 
+national interest, and also encourages participation by more reputable and 
+serious developers and suppliers. Transparent processes require an independent 
+scrutiny of unsolicited proposals. All unsolicited proposals should be first checked 
+by the Energy Administration. In case of doubt, regional organisations such as 
+Pacific Power Association have the competence and capacity to assist the 
+Government in assessing unsolicited proposals.
+Competition vs. Negotiation: Competitive award of contracts should be the rule 
+for all energy sector procurement processes. Competitive process ensures
+transparency and a fair price. It also serves to discourage less reputable 
+operators. The negotiation process tends to have open-ended timelines giving it a 
+high degree of uncertainty for developer, purchaser and government. 
+Unstructured negotiations are also time-consuming for all participants and often
+cause expenditure of resources. Competitive procurement of projects using the 
+Independent Power Producer (IPP) modality should be awarded on the basis of 
+competition using a Standard Power Purchase Agreement as a basis for
+international tenders1. This approach normally results in the best outcome for the 
+economy of a country.
+Policy over Politics; Policies, once adopted and legislated should take priority 
+over day-to-day politics. Politicians are assumed to support the principle that long 
+term economic and social benefits derived form well planned strategies and 
+actions are more valuable than short term political gains.
+4.4 Technological Development
+It is assumed that technological development will continue at a historical pace, 
+both in the areas of conventional and renewable energy technologies. It is 
+assumed that prices for photovoltaic equipment will fall moderately as new 
+production capacities will remove the supply constraints experienced over the last 
+ 
+1
+PPUC has been provided with a Standard Power Purchase Agreement by the consultant three years. (Capital cost of US$ 7,000 per kW installed grid connected PV and 
+supply cost below 0.40 US$/kWh are considered achievable within the next 10 
+years). Resource assessments and data collection will be necessary to determine 
+technical feasibility and economic performance of hydropower, wind and waste to 
+energy option. It is assumed, however, that these technologies have the potential 
+to deliver energy at lower cost than solar. If for instance wind energy can supply 
+electricity at a modest capacity factor of 16% supply cost (at US$ 3,000 per kW 
+installed) would be in the order of 0.25 US$/kWh and thus competitive with diesel 
+generation. Landfill gas based generation (assuming the old landfill in Koror can 
+be fitted out with a unit of 100 – 150 kW) would supply electricity at cost in the 
+order of 0.16 US$/kWh. It is also assumed that ocean energy technology such as 
+wave and tidal generators will become commercial technologies within a decade.
+4.5 Climate Change
+Extreme weather events such as hurricanes and typhoons have damaged and 
+destroyed wind generators, photovoltaic equipment, transmission systems and 
+other energy technology in the Pacific region and elsewhere. Given the likelihood 
+of an increase in frequency of such events in the future, energy technology 
+employed in Palau has to be cyclone proof and withstand winds up to 70 m/s.
+4.6 Continued Availability of Funding from Development 
+Partners
+It is assumed that current development partners of Palau will continue to support 
+the country with grant aid and concessionary loans. While funding levels after the 
+U.S. Compact agreement are likely to fall, new opportunities may emerge from 
+green energy initiatives and carbon trading under the Kyoto Protocol and its 
+successor. It is also assumed that development partners will respond positively to 
+the suggestions and priority actions contained in this plan. 
+4.7 Monitoring and Evaluation
+For all actions listed in the following strategic plan, lead agencies and 
+participating agencies have been identified. The lead agency is responsible for 
+the implementation of the respective actions. In addition, implementation 
+timelines have been determined for each action. 
+It is assumed that the implementation of this Strategic Plan is regularly monitored 
+by the National Energy Committee (NEC). At the minimum this committee 
+consisting of representatives of the Office of the President, the Senate, the 
+House, the Chamber of Commerce, PPUC, PEO, and PCC convenes every six 
+months to review progress made in the implementation of the ESSAP. The 
+progress review should also include amendments and adaptations to the plan. In the following, strategies and actions will be listed together with performance indicators, implementation arrangements, timeframes and 
+budgets. Funding sources may be indicative. 
+5.1 Improved Institutional Arrangements for Energy Sector Management
+Policy Summary: Provide the Energy Office with the authority and support required for effective and transparent implementation of the 
+National Energy Policy and the related Strategic Action Plan.
+Strategy 1.1 Establish a fully functional, adequately resourced energy administration
+A new energy policy for GoP will induce change and trigger a re-balancing of stakeholders’ positions and will require a re-organization of 
+institutional roles and responsibilities. This offers the opportunity to review and reformulate its mandate. At the same time its resources 
+need to be improved and a budget needs to be allocated.
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time 
+Frame
+Budget/ 
+Source
+1.1.1 Submit final energy policy 
+providing a clear mandate to the Palau 
+Energy Office
+Executive 
+Committee for 
+NEP 
+OEK, PEO, 
+OP
+Energy policy passed, 
+signed into law, participation 
+in energy sector decision 
+making, participation of 
+Head of PEO in oversight of 
+PPUC as member of the 
+PPUC board
+Dec 2009 European Union 
+EDF 9
+1.1.2 Create a Bureau or Division of 
+Energy 
+MoF OEK, MPIIC, 
+PEO
+Bureau or Division created 
+and $ Line Item Budget 
+allocated
+Jan 2010 Ministry of 
+Infrastructure 
+and Existing 
+Petroleum tax
+(.05) RPPL
+Potential 
+Development 
+Partnerspolicy, planning and regulatory 
+functions and establish appropriate 
+mechanisms to delegate project 
+implementation and participation in 
+training activities to technical 
+organizations, the private sector and 
+NGOs
+NGOsoperators licensed
+Regular PEO 
+budget, EDF 10, 
+SEDERA
+1.1.4 Establish a free-standing energy 
+committee or Commission, or Advisory 
+Group through Executive Order
+Office of the 
+President
+PEO, MPIIC Free-standing Jan 2010 Regular budget
+1.1.5 Energy office takes a lead role in 
+regional and international cooperation
+PEO NEC, OP Promulgation of legislations 
+and policies and MOUS and 
+joint venture with private 
+sector & NGOs
+Continuos 
+task starting 
+Jan 2010
+$ 25,000 p.a.
+Regular PEO 
+budget, EDF 10, 
+SEDREA
+1.1.6 Design and implement a sectorwide capacity building programNEC PEO, PPUC, 
+PCC, MoS, 
+MPIIC, PCAA, 
+AGs Office 
+Number of individuals 
+trained, certificates obtained
+Continuous 
+task starting 
+Jan 2010
+$200,000
+EDF 10 / 
+SEDREA 
+1.1.7 Align energy policies with other 
+resource policies and strategic plans 
+and translate into performance-based 
+budget
+PEO NEC, OP, 
+PPUC
+Cross references in other 
+policies MoUs and joint 
+declarations
+Continuos 
+task starting 
+Jan 2010
+$ 30,000 p.a.
+Regular PEO 
+budget
+Strategy 1.2 Ensure that all projects, investments and activities in the energy sector produce the 
+maximum economic, social and environmental benefits for Palau
+In order to ensure economic efficiency in the energy sector there is a need to constantly review energy supply, delivery, and distribution 
+methods and make recommendations for efficient operation and reliability. The strategy will address procurement regulations, economics, Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+1.2.1 Develop, regularly update and 
+manage national energy database to 
+support effective analysis and project 
+development
+PEO / PPUC –
+collocate PPUC 
+database w. 
+PEO
+Oil companies, 
+Statistics 
+office, 
+PALARIS 
+Information accessible 
+on internet and in 
+publications, 
+Dec 2010 $ 100,000
+Regular PEO 
+budget, 
+SEDREA project
+1.2.2 Coordinate donor initiatives in 
+the energy sector and ensure 
+compatibility of donor funded projects 
+with the National Energy Policy and its 
+related Strategic Action Plan
+Grants 
+Clearinghouse 
+Office 
+PEO, PPUC, 
+OP, MoF, MoS
+Donors fund projects 
+including in the SAP 
+project pipeline
+Continuous 
+task starting 
+Jan 2010
+Regular PEO 
+budget
+1.2.3 Scrutinize all unsolicited energy 
+sector proposals offered to GoP
+PEO, 
+Coordination 
+with Office of 
+the President 
+and the Ministry 
+of State
+PPUC, Continuos task 
+starting Jan 
+2010
+Regular PEO 
+budget, 
+developers 
+budgets
+Strategy 1.3 Encourage private sector participation and competition in the supply of fuels, electricity 
+and energy sector services 
+An enabling framework for private sector participation in all aspects of energy production and supply will allow a broad range of 
+stakeholders including households and businesses to become active participants and investors in the energy sector Building capacity in 
+Palau’s private sector 
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Sourcein training and capacity building 
+activities organised by the energy 
+office
+Energy 
+Service 
+Company, 
+CoC, EQPB, 
+BTA, etc.
+participation in capacity 
+building
+budget, 
+SEDERA project
+1.3.2 Study opportunities and options 
+for private sector participation and 
+public private partnerships in electricity 
+supply 
+PEO NEC, OP, 
+MoF, MoS
+Study on PPP options 
+published and accepted 
+by NEC and OEK.
+Dec 2010 $ 75,000
+Special budget 
+allocation
+1.3.3 Develop a Standard Power 
+Purchase Agreement for small, 
+independent power producers and 
+project developers
+PEO NEC, PPUC, 
+Attorney 
+General, 
+OGTF
+PPA triggers private 
+sector investment in 
+power supply
+Continuos task 
+starting Jan 
+2010
+Regular PEO 
+budget, 
+developers 
+budgetsPolicy: Recognizing that improving the efficiency of energy use has greater short term impact on reducing fossil fuel consumption of 
+fossil energy than any other action, taxes and policies will be revised to encourage the import and sale of: appliances, vehicles and boats 
+having the highest energy efficiency; develop energy efficiency standards for new buildings and renovations including homes, 
+businesses and government premises. The policy target is set at a 30 % reduction in overall energy consumption by 2020.
+Strategy 2.1 Ensure constant improvement of energy efficient equipment, appliances, vehicles and 
+housing
+Monitoring of utility bills and examination of load profiles, tariff incentives, load factors, energy-use patterns, and specific energy 
+consumption figured will present opportunities to reduce consumption or shift loads to off peak periods. 
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+2.1.1 Review current transport 
+systems with respect to efficiency 
+reliability, and affordability
+PEO NEC, MPIIC, 
+Customs, 
+OPS, Division 
+of 
+Transportation, 
+Bureau of 
+Public Safety, 
+Shipping 
+Agents, MoF
+Study published, 
+recommendations for 
+policy and legislation 
+regarding vehicle 
+importation
+Dec 2010 $ 50,000
+SEDREA project
+2.1.2 Continue Implementation of the 
+Palau Energy Efficiency Action Plan 
+and the Palau Energy Conservation 
+Strategy 
+PEO MRD, PPUC, 
+NGOs, MPIIC, 
+PCAA, 
+promotion by 
+Executive 
+Branch
+Energy savings against 
+2008 baseline
+Dec 2010 $ 500,000
+EU/EDF 9/EDF 
+10, SEDREA, 
+IUCN
+2.1.3 Promote energy efficient housing 
+through concessionary finance for 
+efficient building features and 
+appliances
+NDBP PEO, NGOs, 
+SGP, USDA, 
+Palau 
+Housing, OEK, 
+Grant Office
+Number of loans
+Total loan portfolio (US$)
+Continuous 
+task starting 
+June 2009
+$ 500,000
+IUCN Italian 
+Governmentprogram for major equipment and 
+appliances (fridges, freezers, aircons, 
+lights, washing machines etc)
+OEK, PPUClabelled
+possibly 
+SEDREA and/or 
+EDF 10
+2.1.5 Adopt an Energy Code for 
+inclusion into National Building code
+PEO NDBP, PPUC, 
+Private, SLM 
+MPIIC, OERC, 
+OEK – CIP 
+Committee
+Energy code 
+incorporated into building
+code, licensed inspectors 
+appointed
+Dec 2010 Regular PEO 
+Budget
+Strategy 2.2 Constantly educate general public, government and private sectors on energy efficiency 
+and energy conservation opportunities
+Public awareness and information campaigns aimed at educating the general public, the private sector and decision makers and public 
+servants about energy conservation and energy efficiency will reduce wasteful practices and change consumer behaviour. Special training 
+for energy conservation personnel will enhance implementation of conservation measures
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+2.2.1 Design energy conservation 
+curricula and training material for all 
+educational institutions in Palau
+starting with primary school 
+PEO NEC, MoE, 
+PCC, Media, 
+PCAA, Private 
+Schools, 
+NGOs
+Energy conservation has 
+become a regular subject 
+in Palau’s educational 
+system
+Dec 2013 $ 120,000
+Possibly EDF 10 
+and SEDERA 
+project
+2.2.2 Continue training of Government
+ECOs and expand training to include 
+private sector and NGO 
+representatives
+PEO PPUC, NGOs Results of skill survey to 
+be performed in 2012
+Dec 2012 $ 50,000
+EDF 10, 
+SEDREA, IUCN
+2.2.3 Develop a comprehensive set of 
+educational material related to energy 
+PEO PEO, NGOs, 
+MOE, NDBP, 
+PPUCCROP 
+Materials developed and 
+distributed
+Ongoing $50,000 
+SEDREA & EDF 
+10subregional partners 
+2.2.4 Establish an energy conservation 
+web site allowing the public to retrieve 
+relevant data and information on 
+energy efficient equipment, incentive 
+programs (concessionary loans) and 
+conservation tips 
+PEO Energy offices 
+Guam Saipan, 
+CROP 
+agencies, 
+SPC, SOPAC, 
+US DoE, 
+Grants Office, 
+SBDC, MoS
+Quality information and 
+material accessible on 
+internet
+Dec 2011 $ 20,000
+possibly 
+SEDREA and/or 
+EDF 10Policy:
+Renewable energies have the potential to reduce dependency on imported fuels and to reduce the country’s vulnerability towards price 
+shocks. Renewable energies will therefore be promoted so that such energy will provide a minimum of 20% of electrical energy
+generated in Palau the end of 2020. Promotion of renewable energy use will continue with the aim to completely substitute all fossil fuel 
+use on the long term, reducing Palau’s carbon footprint to a minimum.
+Strategy 3.1 Compile and assess all data and information necessary to embark upon a widespread 
+program of renewable energy promotion and investment
+In order to prepare the a nationwide renewable energy promotion the national potential for all renewable energy sources is fully understood 
+based upon current and reliable data and information that will be made available to Government, households, businesses and investors. In 
+addition, technologies need to be rated and prioritized
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+3.1.1 Assess in detail the national 
+potential of renewable energies (solar, 
+wind, hydro, ocean, waste, biomass) 
+and compile national resource 
+database
+PEO NEC, PPUC, 
+development 
+partners, 
+PALARIS, 
+Database developed and 
+accessible for general 
+public, data published
+Dec 2012 $ 350,000
+EDF 10, 
+SEDERA project
+3.1.2 Develop standards for approved 
+and recommended renewable energy 
+technologies and compile list of 
+certified technologies eligible for 
+concessionary finance
+PEO MPIIC, private 
+sector, NDBP, 
+PPUC, PCC
+List of recommended RE 
+equipment published
+Training & Certification 
+on RE Technology
+Dec 2011 $ 100,000
+EDF 10, 
+SEDERA, IUCN
+3.1.3 Keep current on renewable 
+energy technology development and 
+update list of recommended 
+technologies accordingly
+PEO PPUC, MPIIC, 
+Private, 
+NDBP, PCC
+New entries in list of 
+recommended 
+technologies, seminars 
+and conferences 
+attended
+Continuos task 
+starting Jan 
+2010
+$ 50,000
+PEO regular 
+budgetinvestments
+Investment in renewable energy is important to reduce the negative economic, social and environmental impacts of energy production and 
+consumption in Palau. Currently, renewable energy contributes relatively little to primary energy and even less to the consumption of 
+commercial energy. A comprehensive enabling framework will create the basis for significant investment in RE.
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+3.2.1 Establish legal and regulatory 
+framework for small scale household 
+sector investment in renewable energy 
+(net metering, grid access)
+PEO PPUC, NDBP, 
+Palau Housing 
+Authority
+Net metering bill signed 
+into law (should not be 
+detrimental to PPUCs 
+economic viability and 
+should maintain fair 
+market prices for 
+customers)
+Dec 2009 $ 0
+3.2.2 Develop Standard Power 
+Purchase Agreement for medium 
+scale renewable energy investments 
+PPUC PEO, MPIIC, 
+private sector, 
+PPUC, NDBP
+SPPA drafted and 
+published
+Promotion campaign
+Signed agreement
+Private developers 
+investing in IPP projects
+Dec 2011 $ 100,000
+PPUC Regular 
+Budget
+3.2.3 Identify and develop medium 
+scale projects conducive for IPP 
+investment (hydro, wind) and tender 
+projects competitively
+PPUC PEO, NGOs, 
+PCC
+Approved
+Project identified & 
+tendered
+Continuos task 
+starting Jan 
+2010
+$ 50,000
+PPUC regular 
+budget
+3.2.4 Establish innovative financing 
+mechanisms and subsidy schemes to 
+facilitate high up-front investments 
+necessary for renewable energy 
+NDBP PEO, NEC Loan volume disbursed 
+for renewable energy 
+finance
+Dec 2015 $ 1,000,000
+SEDERA3.2.5 Explore all carbon finance 
+opportunities for renewable energies
+PEO, OP NDBP, MoF, 
+MoS
+Study on carbon finance 
+opportunities published
+Dec 2011 $ 20,000
+Possibly 
+SEDERA
+3.2.6 Educate general public on 
+renewable energy opportunities
+PEO CROP 
+agencies, 
+NGOs, NDBP
+Quality information and 
+material accessible on 
+internet
+Dec 2011 $ 100,000 
+SEDERA or 
+EDF 10
+Strategy 3.3 Prepare and implement a project pipeline of priority renewable energy projects and seek 
+funding for priorities
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+3.3.1 Convert outer island power 
+supply systems to hybrid configuration 
+and operate systems in efficient mode
+PPUC PEO, Resp. 
+St. Govts
+Fuel consumption 
+reduced to 50 % of 2009 
+baseline
+Dec 2016 $ 3,000,000
+EDF 10, other 
+donors
+3.3.2 Explore opportunities for waste 
+to energy project on Koror Babeldaob
+PEO PPUC, PW 
+Koror State 
+Govt.
+Study published Dec 2012 $ 80,000
+EDF 10, 
+SEDERA, IUCN
+3.3.3 Promote solar hot water systems 
+for all new high cost residential and 
+commercial buildings
+NDBP Private sector, 
+NDBP, Palau 
+Housing 
+Authority
+Number of solar water 
+heaters installed
+Continuous 
+task starting 
+Jan 2010
+PEO regular 
+budget
+3.3.4 Design and implement pilot 
+projects for small and medium scale 
+wind energy generation (2 - 100 kW) 
+once study proves feasible for wind 
+PEO NEC, PPUC, 
+Palau Housing 
+Authority
+kW of wind energy 
+connected to the grid
+Dec 2014 $ 300,000
+EDF 10
+3.3.5 Develop and apply a standard PEO & PPUC NEC, regional 
+ii
+Study on carbon finance Dec 2011 $ 20,000proposals offered to the government
+Standard procedures 
+published 
+3.3.6 Implement a grid connected 
+solar project on Koror with a high 
+educational impact
+Palau Olympic 
+Committee
+PEO, PPUC, 
+MCCA
+Power consumption of 
+POC reduced by 90%
+Dec 2010 $800,000 
+Possibly EDF 10
+3.3.7 Engage with all development 
+partners in order to promote priority 
+projects of the SAP
+PPUC PPUC, NEC, 
+MoF, OP, 
+MPIIC, MCCA
+Donors accept projects 
+from pipeline
+Continuous 
+task starting 
+Jan 2010
+$ 0
+5.4 Imported Fuels and Hydrocarbons
+Policy: Recognizing the cost of total national dependence on imported petroleum fuels, international standards will be developed and 
+enforced for any storage, handling and transport of petroleum products. Opportunities and mechanisms for obtaining competitive fuel 
+prices will be pursued. Further the Government will ensure that there are fair wholesale and retail fuel prices and it will require suppliers 
+to regularly provide data on imports and sales by product. A high priority will be given on developing the legal framework and capacity to 
+ensure that Palau’s benefits from hydrocarbon exploration and production are maximized.
+Strategy 4.1 Ensure that both continued reliance imported fuels and any eventual production of 
+hydrocarbons within Palau’s territory support cultural, economic, social and environmental 
+development throughout the Republic of Palau
+A hydrocarbon code, model agreements, and related environmental, operational, and tax regulation, taking into account any existing or 
+proposed legislation will be prepared. This legal framework will be developed under OERC and will also cover other aspects of petroleum 
+supply
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+SourcePCS, 
+Petroleum 
+Suppliers
+Private sector engaged 
+in exploration activities
+$423,000
+4.1.2 Monitor and pursue sub-regional 
+bulk procurement initiative between 
+FSM, RMI & ROP
+MSC OTGF, PPUC, 
+Petroleum 
+Suppliers
+Regional procurement 
+initiative established
+June 2010 IFC
+4.1.3 Establish a supply and demand 
+information for all class, grades and 
+categories of petroleum products for 
+integration into National Energy Sector 
+database
+MPIIC / PEO OPS, 
+Petroleum 
+suppliers, 
+PPUC, MoF, 
+Shipping 
+Agencies, Port 
+Operators
+Information accessible 
+on internet and in 
+publications
+Dec 2011 PPUC / 
+SEDREA
+4.1.4 Provide training opportunities for 
+appropriate representatives on 
+petroleum production and contract 
+negotiations for emerging countries
+NEC PPUC, PEO 
+Petroleum 
+Suppliers, 
+MoS, MPIIC, 
+UNDP, OGTF
+Number of people trained 
+and certificates obtained
+Continuous 
+task starting 
+Jan 2010
+$200,000
+World Bank and 
+development 
+partners
+Strategy 4.2 Encourage competition in the supply and distribution of fuel and ensure that products 
+quality and storage facilities meet the required minimum national and international 
+standards
+International oil companies have up until now ensured that product and safety standards be maintained. The emergence of new players in 
+the fuel supply area requires actions aimed to maintain these standards in the presence of local and/or regional suppliers 
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Sourcemonitor statistics 2010
+Regular PEO 
+budget
+4.2.2 Develop oil spill/accident 
+response procedures for all major 
+handlers/users of petroleum products
+NEMO / EQPB PPUC, oil 
+companies, 
+BMR, PEO, 
+Marine Law, 
+MoJ, MoH, 
+OERC
+Petroleum and 
+Environmental Safety 
+Regulations established
+Response procedures 
+published Quarterly
+Ongoing trainings/drills
+Inventory of spill equip
+Dec 2011 $ 15,000
+Regular PEO 
+budget
+4.2.3 Conduct awareness training on 
+safety issues pertaining to handling, 
+transportation, storage, quality and 
+use of petroleum products
+EQPB Oil companies, 
+PPUC, NGOs, 
+NEMO, 
+Customs, 
+MPIIC, MoJ
+Awareness campaign 
+conducted
+Every 6 months
+starting 2010
+$25,000
+OEK / 
+Development 
+Partners
+4.2.4 Rehabilitate PPUC tank farm and 
+conduct study on maximising 
+economic benefits from its use
+PPUC PEO, oil 
+companies, 
+EQPB, 
+Aimeliik St. 
+Govt., MSC, 
+World Bank, 
+JICA
+Schedule of Rehab.
+Fuel Contracts/MOU
+Dec 2011 $ 1,000,000, 
+PPUC, possibly 
+private investors Policy Summary: Laws and regulations will be introduced to ensure security, reliability and efficiency of electricity supply. PPUC will be 
+allowed to recover all cost associated with the supply of electricity. Private sector participation in electricity supply will be encouraged 
+through a transparent enabling framework.
+Strategy 5.1 Establish a regulatory framework and tariff regime that underpins PPUC’s commercial 
+viability and ability to effectively plan and implement necessary upgrading of its assets
+On the basis of PPUC’s revised strategic plan developed with JICA assistance, the regulatory framework needs to be improved and 
+strategic planning of PPUC performed in an integrated manner. All means to ensure timely collection of adequate revenues need to be 
+explored
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+5.1.1 Conduct an independent tariff 
+review for PPUC including its outer 
+island operations as well as 
+Independent Power Producers (IPPs)
+PEO NEC, PPUC, 
+UNDP, IPPs
+Tariff regime including 
+adjustment formula 
+approved by OEK 
+December 
+2009 / ongoing
+$ 100,000
+SEDREA project
+5.1.2 Regularly and automatically 
+implement tariff adjustments as 
+recommended in tariff study and also 
+explore fuel price hedging
+PPUC NEC, PEO Response procedures 
+published
+Semi-annual 
+adjustment / 
+monthly 
+tracking 
+beginning Jan 
+2010
+$ 0
+5.1.3 Install pre-paid meters for all 
+PPUC customers and conduct 
+awareness campaign on benefits of 
+pre-paid metering
+PPUC PEO, Pacfic 
+Power 
+Associations
+Number of pre-paid 
+meters installed
+Arrears reduced
+Appropriate prepaid 
+meter specs available 
+Dec 2010 $ 500,000 
+Regular PPUC 
+budget, 
+SEDREA for 
+awareness
+5.1.4 Develop and up-date an 
+integrated system management and 
+expansion plan for PPUC
+PPUC PEO, NEC, 
+JICA
+Revised Plan approved Annually every 
+July
+$ 150,000
+JICAby end of 2013
+Operational parameters include quality of power supply, reduction of un-scheduled outages, reduction of technical and non-technical 
+losses, and appropriate staffing levels 
+Actions Leading 
+Agency
+Participating 
+Agency(ies)
+Performance Indicators Time Frame Budget/ 
+Source
+5.2.1 Procure and install more efficient 
+generation equipment for power 
+systems on Peleliu, Angaur and 
+Kayangel
+PPUC PEO Equipment 
+commissioned, specific 
+fuel consumption 
+improved to 11 kWh per 
+gallon of diesel
+Dec 2009 $ 200,000
+PPUC budget
+5.2.2 Procure and install two 2 MW 
+emergency capacity to increase 
+reserve margin of main system 
+PPUC PEO Equipment installed, 
+planned and un-planned 
+generation outages 
+reduced to less than 3 %
+Feb 2010 $ 2,000,000
+(second-hand)
+PPUC budget
+5.2.3 Rehabilitate generation 
+equipment and perform deferred 
+maintenance on all generator sets
+PPUC PEO Available capacity 
+increased to 20 MW
+Dec 2012 $ 7,000,000 
+Regular PPUC 
+budget
+5.2.4 Systematically upgrade PPUC’s 
+generation assets in line with PPUC 
+expansion strategy
+PPUC PEO, NEC, 
+JICA
+20 MW new generation Two Phases 
+@10MW:
+Dec 2012
+Dec 2015
+$ 40,000,000
+PPUC, possibly 
+JICA
+5.2.5 Upgrade PPUCs distribution 
+system
+PPUC PEO, NEC, 
+JICA
+Improved and stable 
+power grid for Babeldaob
+2015 100,000,000
+PPUC, multilateral lenders
+5.2.6 Promote and enhance academic, 
+professional, and apprentice training 
+and develop/exchange of technologies 
+and technological information
+PPUC PPA, PCC,
+Equipment 
+Suppliers, 
+Palau National 
+Scholarship 
+Trained and qualified 
+local mechanical and 
+electrical engineers
+Improvement in 
+Ongoing $ 500,000
+PNSB, DOI, 
+PPUC, PPA, 
+SEDREA 5.2.7 Create strong incentives and 
+compensation to attract local 
+employment
+PPUC/ PPA PPUC Board, 
+Regional: 
+FSM, RMI, 
+GUAM (Power 
+Co.)
+Retain local skills and 
+expertise
+Ongoing 100,000,000
+ND
+5.2.8 Analyse in detail reasons for 
+technical losses and implement loss 
+reduction program 
+PPUC / PPA PEO Losses reduced by 
+replacement of inefficient 
+power equipment
+Priority list of equipment 
+published
+PPA Study (DOI) 
+completed / results
+Ongoing 
+internally
+Jan 2010
+PPA/DOI 
+(Regional 
+Initiative)
+5.2.9 Move to Renewable Energy 
+Platforms
+PPUC/ PEO PPA 30% by 2020 2020 100,000,000
+PPUC / multilateral lendersg py pjy 
+Palau’s energy sector. Hydrocarbon sector projects have not been included in the project pipeline 
+as the legal framework for such projects has not yet been finalized. The level of formation on 
+individual projects may vary as the projects are in different stages of development. Most projects 
+sheets listed in the following pipeline require further refinement. 
+Typical implementation arrangements include resource assessments, feasibility and engineering 
+studies to determine the final design of the project. It is intended to follow the least cost supply 
+principle as far as donor preferences and other constraints allow this. Then a competitive 
+procurement of equipment and services will follow. This Strategic Plan fully subscribes to the 
+principle of competitive procurement at all levels.
+Unsolicited proposals require scrutiny by independent experts followed by price tests (competitive 
+tenders) once technical feasibility and economic performance has been established.Koror Wastewater Systems Improvements
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ High cost of energy due to outdated sewer pumps
+ Excessive and costly maintenance and repair due to aging and old pump systems
+ Raw sewer spilling into the mangrove areas and surrounding water
+ Potential source for spreading of diseases
+OBJECTIVES (What are the principal objectives that address the problem?)
+ Reduce fuel consumption and lower cost of energy for ROP Government
+ Clean environment and clean water to support ocean based sustainable livelihood
+ Healthy community
+PROJECT DESCRIPTION (How will these objectives be met?)
+Replacement of 12 sewer pumps and 3 backup power generators in various locations throughout 
+communities in Koror State. The project will eliminate occasional raw sewage spill to the mangrove areas 
+and the surrounding ocean; with the location of the sewer pumps located directly in the communities, with 
+some sites that are only few meters away from private homes, break down or malfunctioning of the sewer 
+pump would cause direct spillage of the raw sewer in the driveways and walkways. These spillage or 
+overflow of contaminated water and raw sewage can cause health issues, contaminate fishing grounds and 
+close swimming areas that could have negative impact in our tourism industry.
+PREREQUISITES What must happen before this can proceed?
+Securing funding for implementation
+Installation of new sewer pumps
+Installation of new power generator backup
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+Lower energy consumption and reduction of billing cost to the ROP Government
+Healthy community
+Cleaner environment
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Verify demand increase on wastewater system M M
+Equipment maintenance (capacity building) H M
+Purchasing of wrong pumps and back-up generators H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Survey location / Design 1
+Procurement and delivery of equipment 6
+Installation / Operational / Lifetime Continuous
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+TBD 1,500,000.00
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+Ministry of Public Infrastructure, Industries and Commerce / Bureau of Public Works
+STATUS (Where is the project in its implementation cycle? 
+No funding, looking for interested donor / development partner
+Priority (High, Medium Low?)
+Highggy y gy
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+Wasteful enrgy use and inefficient energy consumption
+OBJECTIVES (What are the principal objectives that address the problem?)
+Reduce wasteful practices
+Change consumer behavior
+Enhance implementation of conservation
+PROJECT DESCRIPTION (How will these objectives be met?)
+Design energy conservation curricula & training programs
+Develop a comprehensive set of educational materials
+Establish an energy conservation website/ programs
+PREREQUISITES What must happen before this can proceed?
+ Secure funding
+ Establish partnerships
+ Collect data
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+Energy conservation valued
+Investments in RE technologies & energy efficient equipment
+Reduction of fossil fuel consumption
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Unreliable information sources High Medium
+Lack of appropriate funding High Medium
+Lack of collaboration with agency cooperation High Medium
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 12-36 months
+Construction and delivery? 12-36 months
+Operation/Lifetime Ongoing
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+TBD
+Total 700,000
+BRESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC
+STATUS (Where is the project in its implementation cycle? 
+Concept moving towards implementation (design)
+Priority (High, Medium Low?)
+Medium - Highyp
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ Carbon footprint
+ Cost of energy
+ High dependency from fossil fuels
+OBJECTIVES (What are the principal objectives that address the problem?)
+Install PV system for Koror airport connected to the grid to reduce reliance on fossil fuels and reduce carbon 
+footprint
+PROJECT DESCRIPTION (How will these objectives be met?)
+Pilot project of grid connection, a PV system of 160KW to interconnect with main grid with greatest 
+potential for population growth. 
+PREREQUISITES What must happen before this can proceed?
+Feasibility has been done, funding has been provided with implementation to follow shortly
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+1. Greatest potential for population growth w. less dependency on fossil fuels
+2. High visibility
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Maintenance H H
+Vandalism M L
+Natural disaster H L
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 3
+Construction and delivery? 6
+Operation/Lifetime 180
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+JICA 4,000,000
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PEO / PPUC
+STATUS (Where is the project in its implementation cycle? 
+Funded through JICA, awaiting implementation
+Priority (High, Medium Low?)
+HighPeleliu Renewable Energy Hybrid Systems
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ High Cost of electricity supply for Outer Island systems (PPUC looses $ 600,000 each year in Outer 
+Island systems
+ High environmental vulnerability of Outer Island eco-systems (risk of fuel spills)
+OBJECTIVES (What are the principal objectives that address the problem?)
+Reduce fuel consumption and operating cost of Peleliu power system
+Optimize load management and decrease specific fuel consumption
+Introduce demand side management and increase awareness amongst consumers 
+PROJECT DESCRIPTION (How will these objectives be met?)
+A solar-diesel hybrid system including a 125 kW PV system and dispatchable short term storage (batteries) 
+will be installed. Technicians will be trained in system operation and maintenance, particularly in optimizing 
+dispatch of the battery unit in order to ensure operation of the diesel units at low specific fuel consumption 
+points. An education campaign for the consumers will raise awareness regarding demand management and 
+potential for energy conservation on the demand side. Monitoring of the project will allow to quantify 
+impact of the intervention against the pre-project baseline and provide input for planning of similar 
+measures 
+PREREQUISITES What must happen before this can proceed?
+1. Design study and tender documents for international competitive bidding for supply and installation
+2. Installation of smaller diesel units by PPUC (under way)
+3. Securing of funding for operation
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+1. Security of Peleliu power supply enhanced through renewable energy utilization
+2. Reduction of specific fuel consumption for power generation by 35%
+3. Reduction of electricity cost for consumers
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Unchecked demand increase may outstrip renewable capacity M M
+Technical failure through poor choice of hardware and or contractor H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 1
+Construction and delivery? 12
+Operation/Lifetime 180
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+Not determined, possible project for EU Energy Facility 2,000,000
+TOTAL 2,000,000
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC in cooperation with PEO
+STATUS (Where is the project in its implementation cycle? 
+Project concept only, no design, no funding
+Priority (High, Medium Low?)
+HighAngaur Renewable Energy Hybrid Systems
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ High Cost of electricity supply for Outer Island systems (PPUC looses $ 600,000 each year in Outer 
+Island systems
+ High environmental vulnerability of Outer Island eco-systems (risk of fuel spills)
+OBJECTIVES (What are the principal objectives that address the problem?)
+Reduce fuel consumption and operating cost of Angaur power system
+Optimize load management and decrease specific fuel consumption
+Introduce demand side management and increase awareness amongst consumers 
+PROJECT DESCRIPTION (How will these objectives be met?)
+A solar-diesel hybrid system including a 50 kW PV system and dispatchable short term storage (batteries) 
+will be installed. Technicians will be trained in system operation and maintenance, particularly in optimizing 
+dispatch of the battery unit in order to ensure operation of the diesel units at low specific fuel consumption 
+points. An education campaign for the consumers will raise awareness regarding demand management and 
+potential for energy conservation on the demand side. Monitoring of the project will allow to quantify 
+impact of the intervention against the pre-project baseline and provide input for planning of similar 
+measures 
+PREREQUISITES What must happen before this can proceed?
+Design study and tender documents for international competitive bidding for supply and installation
+Installation of smaller diesel units by PPUC (under way)
+Securing of funding for operation
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+Security of Angaur power supply enhanced through renewable energy utilization
+Reduction of specific fuel consumption for power generation by 35%
+Reduction of electricity cost for consumers
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Unchecked demand increase may outstrip renewable capacity M M
+Technical failure through poor choice of hardware and or contractor H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 1
+Construction and delivery? 12
+Operation/Lifetime 180
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+Not determined 800,000
+TOTAL 800,000
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC in cooperation with PEO
+STATUS (Where is the project in its implementation cycle? 
+Project concept only, no design, no funding
+Priority (High, Medium Low?)
+HighKayangel Renewable Energy Hybrid Systems
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ High Cost of electricity supply for Outer Island systems (PPUC looses $ 600,000 each year in Outer 
+Island systems
+ High environmental vulnerability of Outer Island eco-systems (risk of fuel spills)
+OBJECTIVES (What are the principal objectives that address the problem?)
+Reduce fuel consumption and operating cost of Kayangel power system
+Optimize load management and decrease specific fuel consumption
+Introduce demand side management and increase awareness amongst consumers 
+PROJECT DESCRIPTION (How will these objectives be met?)
+A solar-diesel hybrid system including a 30 kW PV system and dispatchable short term storage (batteries) 
+will be installed. Technicians will be trained in system operation and maintenance, particularly in optimizing 
+dispatch of the battery unit in order to ensure operation of the diesel units at low specific fuel consumption 
+points. An education campaign for the consumers will raise awareness regarding demand management and 
+potential for energy conservation on the demand side. Monitoring of the project will allow to quantify 
+impact of the intervention against the pre-project baseline and provide input for planning of similar 
+measures 
+PREREQUISITES What must happen before this can proceed?
+4. Design study and tender documents for international competitive bidding for supply and installation
+5. Installation of smaller diesel units by PPUC
+6. Securing of funding for implementation
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+Security of Kayangel power supply enhanced through renewable energy utilization
+Reduction of specific fuel consumption for power generation by 35%
+Reduction of electricity cost for consumers
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Unchecked demand increase may outstrip renewable capacity M M
+Technical failure through poor choice of hardware and/or contractor H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 1
+Construction and delivery? 12
+Operation/Lifetime 180
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+Not determined 450,000
+TOTAL 450,000
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC in cooperation with PEO
+STATUS (Where is the project in its implementation cycle? 
+Project concept only, no design, no funding
+Priority (High, Medium Low?)
+HighEnergy conservation and Renewable Energy to Support Sport and Environment in Palau
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+The Palau Olympic Committee as operator of Palau’s sports facilities is financially burdened by high energy 
+cost to operate sports facilities such as racetrack, swimming pool, gym and baseball field.
+OBJECTIVES (What are the principal objectives that address the problem?)
+1. To promote sustainable, green energy through an awareness campaign based on the theme ‘Youth, Sport 
+and Environment’. 
+2. To reduce PNOC’s energy cost by 90% through energy conservation and renewable energy use.
+3. To reduce PNOC’s overall electricity consumption by 10 % through energy conservation measures
+PROJECT DESCRIPTION (How will these objectives be met?)
+The first technical component is reducing electricity consumption through conservation measures by 10 – 15 
+%. This can be achieved without any decline in the utility of the facilities. A full energy audit will be 
+conducted for all PNOC facilities in co-operation with the Palau Energy Office in order to determine the 
+exact nature of the most promising conservation measures. In order to compensate for the total average 
+monthly consumption after energy conservation measures, a solar installation of 115 kW peak will be 
+required.
+PREREQUISITES What must happen before this can proceed?
+Secure Funding under EDF 10 or other donor facility
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+1. Increased conservation awareness of amongst young people in Palau
+2. Reduction of PNOC’s fossil energy consumption to zero
+3. Cost saving of US$ 80,000 – 100,000 p.a. for PNOC
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Shortfall in net energy supply* M L
+Lack of capacity within PEO M H
+* output estimates conservative
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 2
+Construction and delivery? 9
+Operation/Lifetime 240
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+EDF 10 1,200,000
+PNOC 80,000
+Total 1,280,000
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PNOC in close cooperation with PPUC and PEO
+STATUS (Where is the project in its implementation cycle? 
+Proposal developed and submitted to donor
+Priority (High, Medium Low?)Ngiwal State renewable energy pilot project Phase 1
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ Increasing fuel cost
+ Increasing dependency on fossil fuel
+OBJECTIVES (What are the principal objectives that address the problem?)
+Decrease electricity bill for local government and the community 
+Reduce carbon footprint
+Reduce fossil fuel dependency
+PROJECT DESCRIPTION (How will these objectives be met?)
+Convert 100% of the local government facilities into renewable energy (solar) and provide supplemental 
+power supply to the elderly and persons with limited income.
+PREREQUISITES What must happen before this can proceed?
+Feasibility Study
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+1. Reduce electrical billing cost to the local government
+2. Reduce electrical billing cost to the elderly and persons on limited income
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+New sub-division development (housing project) High High
+Lack of technical expertise High High
+Excessive cost due to import shipping cost Medium Medium
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 1
+Construction and delivery 12
+Operation / Lifetime Ongoing
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+Donor / other sources to be determined 1,800,000.00
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+Palau Energy Office (Admin Agency) and PPUC (implementing)
+STATUS (Where is the project in its implementation cycle? 
+Concept – No design – no funding
+Priority (High, Medium Low?)
+MediumAssessment of Hydro Resources on Babeldaob
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ Inadequacy of power supply of Babeldaob
+ High cost of power generation
+OBJECTIVES (What are the principal objectives that address the problem?)
+Reduce cost and align existing power supply
+Provide efficient and reliable power source
+Supplement to existing power supply and alternate to fossil fuel
+Untapped resources can be used as alternative energy
+PROJECT DESCRIPTION (How will these objectives be met?)
+Hydro power system of 100 kW – 300 kW installed at primary locations and coordinated with PPUC for 
+operation and maintenance. Training in place with developing partners in Hydro power system and transfer 
+of technology. An education awareness program for the consumers regarding the power source of hydro as 
+alternative energy should be launched. Necessary infrastructure would need to be constructed.
+PREREQUISITES What must happen before this can proceed?
+1. Conduct feasibility study
+2. Adopt / design study and intended document for bidding process
+3. Funding
+4. Hydrological measurement and site surveys
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+1. Security of Babeldaob power supply enhanced for renewable energy utilization
+2. Major consumer savings
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Drought H L
+Acquisition of land H H
+Limited specialized /technical manpower H M
+Accessibility to site M M
+Destruction of environmental and habitat surrounding H H
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 4
+Construction and delivery? 36
+Operation/Lifetime Ongoing
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+EU 500,000.00
+Development Partners/ Donor Organizations
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC / MPIIC / PEO
+STATUS (Where is the project in its implementation cycle? 
+Project Concept
+Priority (High, Medium Low?)Wind Resource Assessment
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+ Palau is committed to reduce carbon footprint and lessen dependency from fossil fuels
+ Wind is a resource available but its real feasibility has not been assessed
+OBJECTIVES (What are the principal objectives that address the problem?)
+Conduct wind study to identify if there are any feasible wind alleys in Palau and if there are then, then 
+conduct a viability study for distribution.
+PROJECT DESCRIPTION (How will these objectives be met?)
+1
+st Phase: 2 year study with measuring towers in selected study sites. A minimum of 4 sites pre-determined 
+in outlying states
+2
+nd Phase: If wind alleys are feasible then comparative cost-benefit analysis considering distribution
+PREREQUISITES What must happen before this can proceed?
+Funding / Determine Sites
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+ Reduction of fuel consumption
+ May reach where there is no grid
+ Replenishes grid (overall energy production)
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+High maintenance cost (assess effect on marine environment) M H
+Technical capacity H M
+Volume needed to make cost effective H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 3
+Construction and delivery? 3
+Operation/Lifetime 24
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+EDF 10 250,00.00
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PEO
+STATUS (Where is the project in its implementation cycle? 
+Pending funding and site assessments
+Priority (High, Medium Low?)
+Highpppy ggpy
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+Aging generators are prone to break downs, Insufficient reserve capacity to meet demand 
+OBJECTIVES (What are the principal objectives that address the problem?)
+Bridge capacity until base load generators are replaced, 
+Standby capacity
+PROJECT DESCRIPTION (How will these objectives be met?)
+Procurement and installation of 2x2 MW to 2x5 MW second hand generator sets in Malakal power plant
+PREREQUISITES What must happen before this can proceed?
+Selection of equipment and contractor 
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+1. Provide necessary capacity for system stabilization and high quality power supply
+2. Provision of reserves capacity will minimize system outage and reduce economic cost of unserved 
+electricity demand 
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Second hand generator can incur substantial maintenance cost M M
+Breakdown of generators (can be mitigated through warrantee clauses 
+in procurement contract)
+M M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 0
+Construction and delivery? 6
+Operation/Lifetime 120
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+PPUC 2,000,000.00
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC
+STATUS (Where is the project in its implementation cycle? 
+Project under way, funded through PPUC, installation expected in 2010
+Priority (High, Medium Low?)
+HighReplacement of Base Load Generators PPUC 
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+Aging generators – (26 years – 13 year, 10 years) have high specific fuel consumption which in turn forces 
+PPUC to charge higher tariffs
+OBJECTIVES (What are the principal objectives that address the problem?)
+Decrease in average specific fuel consumption, Reduction of generation cost, Enhance reliability of power 
+supply
+PROJECT DESCRIPTION (How will these objectives be met?)
+Replace 20 MW of capacity by 4x5 MW generators and ancillary equipment in two places.
+PREREQUISITES What must happen before this can proceed?
+System design study, Identification of funding source
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+1. More efficient electricity generaion will result in lower supply cost which will benefit all consumers of 
+PPUC supply
+2. Reduction
+3. Reduction of energy consumption
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Capacity to maintain new technology M M
+Introduction of different generator sets may induce higher level of 
+complexity and higher cost of spare part management
+H H
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Design 6-12
+Construction and delivery? 12-18
+Operation/Lifetime 360
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+JICA -Phase one 20,000,000
+PPUC –Phase two
+Palau Government
+Total 20,000,000
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC
+STATUS (Where is the project in its implementation cycle? HighAirai to Ngechsar connection
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+Single line connectivity only, high loss of load probability in Airai
+OBJECTIVES (What are the principal objectives that address the problem?)
+1. Loop grid connectivity
+2. Allow secondary connection and redundancy
+PROJECT DESCRIPTION (How will these objectives be met?)
+Connect Airai Power distribution lines to Ngeschar system with a 10 Kilometers line
+PREREQUISITES What must happen before this can proceed?
+Field Study, engineering design
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+Grid stability, less outages, reduced economic loss due to unserved power demand
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Lack of funding H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Engineering study design 6
+Construction 12
+Lifetime 240
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+PPUC, MLA 6,000,000.00
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC
+STATUS (Where is the project in its implementation cycle? 
+Concept
+Priority (High, Medium Low?)
+MediumUpgrading of Koror Substation
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+Koror Substation currently requires step down transformation from 34.5 KV to 13.8 KV for distribution 
+from Aimeliik power plant. This incurs considerable distribution losses
+OBJECTIVES (What are the principal objectives that address the problem?)
+Decrease line loss and facilitate distribution from Aimeliik
+Enhance system reliability and redundancy
+PROJECT DESCRIPTION (How will these objectives be met?)
+Procurement and installation of a 34.5 kV submarine cable and which connects Aimeliik with Koror
+PREREQUISITES What must happen before this can proceed?
+Engineering Study, Design
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+Reduced loss of load probability, reduction of transmission losses and lower supply cost within grid
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Lack of funding H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Engineering Design 12
+Construction 15
+Lifetime 360
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+PPUC, MLA To be determined
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC
+STATUS (Where is the project in its implementation cycle? 
+Project Concept
+Priority (High, Medium Low?)
+HighPower distribution – Ngiwal / Ngaraard
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+Weak grid and high risk of load loss from single line power distribution system
+OBJECTIVES (What are the principal objectives that address the problem?)
+1. Enhance gird capacity
+2. Reduce risk of load loss 
+3. Allow supply of Northern Babeldaob by Capitol generator during outages
+PROJECT DESCRIPTION (How will these objectives be met?)
+Connect Ngiwal to Ngaraard with 3 kM high voltage line
+PREREQUISITES What must happen before this can proceed?
+Engineering Study, Design
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+Enhanced grid stability, reduce loss of load probability in Northern Babeldaob
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+Lack of funding H M
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+Engineering, Design, Tender 6
+Construction 9
+Lifetime 240
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+PPUC budget $1,000,000.00
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC
+STATUS (Where is the project in its implementation cycle? 
+Project concept
+Priority (High, Medium Low?)
+HighSubmarine cable from Aimeliik to Koror (T-Dock)
+PROBLEM (What are the compelling reasons that this project should go ahead?)
+Single line power distribution system
+OBJECTIVES (What are the principal objectives that address the problem?)
+Stabilize power distribution system by having redundancy
+PROJECT DESCRIPTION (How will these objectives be met?)
+A 5KM submarine cable extending from Aimeliik Power plant substation to Koror substation at T-Dock.
+PREREQUISITES What must happen before this can proceed?
+Study
+BENEFITS (What are the social and economic benefits to Palau of doing this?)
+RISKS (What might prevent this from fixing the problem?)
+Source of risk Consequence
+(H/M/L)
+Likelihood
+(H/M/L)
+TIMING (What is the expected timeframe for the key deliverables?)
+Description of deliverable / milestone / lead time Time from funding (Months)
+FUNDING (What will this project cost, and how accurate is that estimate?)
+Source (budget, donor, private investor) Cost US$
+RESPONSIBILITY (Which agency will ultimately be responsible for delivering this?)
+PPUC
+STATUS (Where is the project in its implementation cycle? 
+Priority (High, Medium Low?)
+Medium

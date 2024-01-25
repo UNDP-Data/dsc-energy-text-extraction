@@ -1,0 +1,2716 @@
+File Name: PHL-NEEP-2016-FR
+Year: 2016
+Country Name: Philippines
+Country Code: PHL
+Category: NEEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2016
+Start Year: 2016
+End Year: 2020
+Language: FR
+------------------------------------------------
+
+ 
+ 
+Rdtitth
+Philippines Energy Efficiency 
+and Conservation Action Plan 
+2016-2020 Switch Asia Policy Support Component in the 
+Philippines
+Philippines Energy Efficiency and Conservation 
+Action Plan 2016-2020 
+Recommendations to the 
+Philippine Department of Energy 
+Final Report 
+Submitted by:
+Mr Mark Lister 
+September 2015 
+Funded by:
+The European Commission; The Switch-Asia Programme 
+www.switch-asia.eu
+Operated by:
+Delegation of the European Union to the Philippines 
+http://eeas.europa.eu/delegations/philippines/index_en.htm 
+Technical assistance provided by:TABLE OF CONTENTS 
+ 
+EXECUTIVE SUMMARY ................................................................................................... 1
+1 INTRODUCTION ......................................................................................................... 2
+1.1 Foundations for Development of this Action Plan ................................................. 2
+1.2 From Plans to Reality: Priorities for Short Term Action and Resource 
+Allocation ................................................................................................... 6
+2 INDUSTRIAL SECTOR ENERGY EFFICIENCY ACTION PLAN ................................ 9
+2.1 Why this sector is important to energy use in the Philippines ............................... 9
+2.2 Pathway to 2030 Energy Efficiency Roadmap targets .......................................... 9
+2.3 Programs and Actions to Progress .................................................................... 10
+2.3.1 IND-A: Industry Energy Management and Opportunity Identification 
+Program .................................................................................................. 10
+2.3.2 IND-B: Energy Efficiency Intermediary and ESCO Development 
+Program .................................................................................................. 13
+2.3.3 IND-C: Demand Response and Demand Side Management Program .... 15
+2.4 Summary of Industrial Energy Efficiency initiatives ............................................ 17
+3 TRANSPORT SECTOR ENERGY EFFICIENCY ACTION PLAN .............................. 18
+3.1 Why the transport sector is important to energy use in the Philippines .............. 18
+3.2 Pathway to 2030 Energy Efficiency Roadmap targets ........................................ 19
+3.3 Programs and Actions to Progress .................................................................... 20
+3.3.1 TRA-A: Vehicle Efficiency Improvement Program ................................... 20
+3.3.2 TRA-B: Driver Awareness Program ........................................................ 22
+3.3.3 TRA-C: Freight Transport Energy Efficiency Partnership Program .......... 24
+3.4 Summary of Transport Energy Efficiency Initiatives ........................................... 25
+4 COMMERCIAL BUILDINGS SECTOR ENERGY EFFICIENCY ACTION PLAN ....... 26
+4.1 Why this sector is important to energy use in the Philippines ............................. 26
+4.2 Pathway to 2030 Energy Efficiency Roadmap targets ........................................ 27
+4.3 Programs and Actions to Progress .................................................................... 27
+4.3.1 COM-A: Government Buildings Efficiency Program ................................ 27
+4.3.2 COM-B: Building Codes Program ........................................................... 30
+4.3.3 COM-C: Building Information and Ratings Program ................................ 31
+4.4 Summary of Commercial Buildings Energy Efficiency Initiatives ........................ 34
+5 RESIDENTIAL BUILDINGS SECTOR ENERGY EFFICIENCY ACTION PLAN ........ 35
+5.1 Why this sector is important to energy use in the Philippines ............................. 35
+5.2 Pathway to 2030 Energy Efficiency Roadmap targets ........................................ 35
+5.3 Programs and Actions to Progress .................................................................... 35
+5.3.1 RES-A: Appliance Standards and Labeling Program .............................. 35
+5.3.2 RES-B: Bulk Purchase and Large Employers’ Staff Energy Efficiency 
+Loans Program ....................................................................................... 37
+5.3.3 RES-C: Behavioral Information Program ................................................. 395.4 Summary of Residential Sector Energy Efficiency Initiatives.............................. 41
+6 CROSS SECTORAL ENERGY EFFICIENCY ACTIONS ........................................... 42
+6.1 Defining the need for cross-sectoral energy efficiency actions ........................... 42
+6.2 Programs and Actions to Progress .................................................................... 43
+6.2.1 CS-A: A new vehicle for public-private collaboration on energy 
+efficiency ................................................................................................. 43
+6.2.2 CS-B: Energy Efficiency Revolving Fund and Finance Sector Capacity 
+Building ................................................................................................... 46
+6.2.3 CS-C: Energy Efficiency Data Management, Monitoring and Evaluation 
+Program .................................................................................................. 48
+6.3 Summary of Cross-Sectoral Energy Efficiency Initiatives ................................... 52
+7 REFERENCES .......................................................................................................... 53
+ANNEXES 
+ANNEX 1 - SUMMARY OF RECOMMENDED ACTION PLAN PROGRAMS AND 
+INITIATIVES .................................................................................................. 54 
+ANNEX 2 - PEOPLE AND ORGANIZATIONS CONSULTED ......................................... 60 
+LIST OF FIGURES 
+Figure 1 An Energy Efficiency Roadmap for the Philippines, 2014-2030 ....................... 3
+Figure 2 Aspects of a Strong Energy Efficiency ‘Ecosystem’ ......................................... 4 
+Figure 3 Foundational energy efficiency policies considered to be effective .................. 5 
+Figure 4 Breakdown of 2009 Final Energy Consumption by Industrial Subsector .......... 9 
+Figure 5 Percentage share of vehicle types in the Philippines Vehicle Fleet, 2012 ...... 18 
+Figure 6 The Building Life Cycle and Selected Energy Efficiency Opportunities .......... 26 
+Figure 7 Appliance Bulk Purchase Incentive Program through corporate payroll ......... 38 
+Figure 8 Cross-cutting dimensions of the energy efficiency ‘ecosystem’ or enabling 
+environment ................................................................................................... 42 
+LIST OF TABLES 
+Table 1 Industrial Sector Energy Efficiency Targets to 2020 and 2030 ......................... 9 
+Table 2 Industrial Sector Energy Efficiency Initiatives 2016-2020 ............................... 17 
+Table 3 Transport Sector Energy Efficiency Targets to 2020 and 2030 ...................... 19 
+Table 4 Transport Sector Energy Efficiency Initiatives 2016-2020 .............................. 25 
+Table 5 Commercial Buildings Sector Energy Efficiency Targets to 2020 and 2030 ... 27 
+Table 6 Commercial Buildings Sector Energy Efficiency Initiatives 2016-2020 ........... 34 
+Table 7 Residential Buildings Sector Energy Efficiency Targets to 2020 and 2030 ..... 35 
+Table 8 Residential Buildings Sector Energy Efficiency Initiatives 2016-2020 ............ 41 
+Table 9 Proposed Proxy Indicators for Energy Efficiency Monitoring and Evaluation .. 49 
+Table 10 Cross-Sectoral Energy Efficiency Initiatives 2016-2020 ................................. 52 ABBREVIATIONS 
+ADB Asian Development Bank 
+APEC Asia-Pacific Economic Cooperation 
+APERC Asia-Pacific Energy Research Center 
+ASEAN Association of South East Asian Nations 
+BERDE Building for Ecologically Responsive Design Excellence 
+BOI Board of Investments 
+BPO Business Process Outsourcing 
+CNG Compressed Natural Gas 
+CO2 Carbon Dioxide 
+DBP Development Bank of the Philippines 
+DENR Department of Environment and Natural Resources 
+DOE Department of Energy 
+DOST Department of Science and Technology 
+DPWH Department of Public Works and Highways 
+DSM Demand-side Management 
+DTI Department of Trade and Industry 
+EE Energy efficiency 
+EEC, EE&C Energy efficiency and conservation 
+EECD Energy Efficiency and Conservation Division 
+Enercon Bill draft Energy Efficiency and Conservation Act 
+ENMAP Energy Managers Association of the Philippines 
+EPPB Energy Policy and Planning Bureau 
+ESCO Energy Service Company 
+EUMB Energy Utilization Management Bureau 
+GEF Global Environment Facility 
+GEMP Government Energy Management Program 
+GDP Gross Domestic Product 
+GIZ Deutsche Gesellschaft für Internationale Zusammenarbeit 
+GWh Gigawatt-hour 
+HEMS High Efficiency Motors 
+IEA International Energy Agency 
+IEC Information, Education and Communication 
+IFC International Finance Corporation 
+ILP Interruptible Load Program 
+IPMVP International Performance Measurement and Verification Protocol 
+ISO International Standards Organization 
+IT Information technology 
+JICA Japan International Cooperation Agency 
+KTOE kiloton of oil equivalent 
+LED light-emitting diode 
+LGU local government unit 
+LOE liters of oil equivalent 
+LPG liquid petroleum gas 
+LTO Land Transportation Office 
+MEPS Minimum Energy Performance Standards 
+MMDA Metropolitan Manila Development Authority 
+MWe Megawatts equivalent 
+NAMA Nationally Appropriate Mitigation Action 
+PEEAB Philippines Energy Efficiency Advisory Board (proposed) 
+PEZA Philippine Economic Zone Authority PIEEP Philippine Industrial Energy Efficiency Project 
+PUV Public utility vehicle 
+TESDA Technical Education and Skills Development Authority 
+TVET Technical and Vocational Training and Education 
+UNIDO United Nations Industrial Development Organization 
+WEIGHTS AND MEASURES 
+KTOE kilotons of oil equivalent 
+MWh megawatt-hours 
+PHP Philippine pesos EXECUTIVE SUMMARY 
+The Philippines has a long history of action on energy efficiency, in recognition of the 
+potential that it provides to meet energy demand and in response to strong sustained 
+economic growth in recent years. In 2014 the Philippines Government approved a 
+stronger set of ambitions for energy efficiency action that sought to coordinate and 
+focus existing effort and to ensure that energy efficiency plays its part in addressing 
+looming energy supply constraints in a cost-effective and timely manner. With 
+support from the EU-SWITCH Policy Support program, the Energy Efficiency and 
+Conservation Roadmap 2014-2030 set out high level directions across the key 
+energy using sectors of industry, transport, commercial buildings and residential 
+consumers, along with a more ambitious target to achieve a 40% reduction in energy 
+intensity by 2030, equating to a saving against the business-as-usual baseline of 
+10,665 KTOE. This target is realistic and achievable according to both the current 
+trajectory of Philippines energy use and the known economy-wide potential for 
+energy efficiency. 
+There are many potential actions that the Department of Energy and Government 
+more broadly can take to catalyze energy efficiency action. Responsibility for policy 
+that guides the key energy using sectors resides with a range of different Government Departments, including notably the Department of Trade and Industry, 
+Department of Transport and Communications, and Department of Public Works and 
+Highways. Beyond better coordination within Government, and most importantly, 
+activity and investment by the private sector must be harnessed if targets are to be 
+realized. 
+In recognition of the need to stimulate activity across different aspects of the enabling 
+environment, or energy efficiency ‘ecosystem’, the Action Plan casts the Department 
+of Energy as a coordinator, facilitator and technical advisor on energy efficiency, 
+rather than as lead implementer. In some cases this requires a sharpening and refocusing of current policy activities, and in others, new approaches will be required. 
+This Action Plan gives more detail to the Roadmap by articulating actions to 2020 
+that will set the Philippines in the path to greater energy efficiency. It contains a total 
+of 39 initiatives across all energy using sectors, as well as key initiatives to establish 
+a stronger institutional framework, build energy efficiency understanding and capacity 
+in the finance sector, and establish performance monitoring frameworks. Taken 
+together, they represent an ambitious leadership platform for a marked upswing in 
+energy efficiency for the Philippines. 
+Determining the resources that need to be allocated to the priority actions that should 
+be taken is made difficult by both the breadth and size of the task, and by the 
+expectation of a change in Government administration following general elections to 
+be held in the first half of 2016. A preliminary assessment of priority actions and 
+likely resource requirements is provided, to assist the Department of Energy with its 
+resource allocation tasks. It is hoped that this Action Plan, and the programmatic 
+guidance it sets out, will form a cornerstone of Department of Energy planning and 
+budgeting for energy efficiency initiatives to be pursued over the next five years. 1 INTRODUCTION 
+1.1 Foundations for Development of this 
+Action Plan 
+The EU-SWITCH Policy Support Component for the Philippines is a project funded 
+by the European Union under its SWITCH-Asia Programme, which aims to provide 
+policy support to the Philippine Government in implementing Sustainable Consumption and Production-related policy instruments. One of the key result areas is to 
+facilitate the development and implementation of policies and regulations related to 
+energy efficiency by raising the quality of public-private partnerships, and enhancing 
+the capacity of the Department of Energy (DOE) and other stakeholders to analyze 
+policy impacts and formulate appropriate policy instruments. Under this key result 
+area, the project is tasked to undertake activities that will support DOE and other 
+relevant entities’ efforts in the promotion of energy efficiency standards and explore 
+opportunities to promote energy efficient products. 
+In late 2013 the Philippines Department of Energy, with assistance from EU-SWITCH 
+Policy Support, embarked on an initiative to create a more robust and comprehensive policy framework to address energy efficiency in the country. This effort was 
+premised on the fact that, while energy efficiency has long been a stated priority for 
+the Government, existing efforts have been fragmented and could benefit from a 
+strengthened overarching framework and long term targets under a more coordinated approach. It also recognized growing concern over forecast energy supply 
+shortages in the country due to a sustained period of rapid economic growth in 
+recent years, and an acknowledgement of the value of energy efficiency in creating 
+additional energy system capacity to meet this expanding energy demand. 
+The DOE formally adopted its more ambitious Energy Efficiency and Conservation 
+Roadmap for 2014-2030 in July 2014, which set out high level targets and milestones 
+for the short, medium and long term. The Roadmap set out some suggested areas 
+for future effort across key energy using sectors of industry, commercial buildings, 
+residential buildings, and transport, as well as proposing some cross-cutting 
+measures which support the growth of energy efficiency implementation in all 
+sectors. The work drew on both a review of the existing status of energy efficiency 
+policy and implementation in the Philippines, as well as broadly referencing 
+international experience of good practice and energy efficiency potential in setting 
+more ambitious long term targets than those currently in place. A summary of the 
+recommendations of the National Energy Efficiency Roadmap 2014-2030 is 
+presented in Figure 1 overleaf. 
+The Roadmap, however, does not provide the necessary level of detail to drive 
+programmatic action within Government, and the allocation of specific resources and 
+responsibilities to ensure programs are developed and implemented in each of these 
+key sectors. In recognition of this, in early 2015 the Department of Energy requested 
+further EU-SWITCH support to create a series of sectoral initiatives for the period 
+2016-2020, that would elaborate further detail on the Roadmap and together form the 
+National Energy Efficiency and Conservation Action Plan for 2016-2020. It is 
+intended that the Action Plan will define specific activities and establish implementation parameters for each sector listed in the Action Plan, including resources, 
+institutional arrangements, stakeholder engagement, and timeframes for completion. The five sections of this document that follow outline the sectoral recommendations that, 
+taken together, form the National Energy Efficiency and Conservation Action Plan 2016-
+2020. Building on the broad foundations of the Roadmap, it forms a concrete set of 
+recommendations to Government on which future energy efficiency programs can be built by 
+the incoming administration following Presidential elections to be held in May 2016. 
+In considering the best way to catalyze and expand energy efficiency actions, the Action Plan 
+takes the perspective of aiming to grow the energy efficiency ‘ecosystem’ – that is, taking a 
+systems approach to the range of actors, policy instruments and market conditions that are 
+needed for successful energy efficiency implementation. Often energy efficiency initiatives 
+are targeted at one or other of the actors involved in energy efficiency rather than 
+considering this broader view, however it is the interaction and connectivity of the different 
+actors in this system and its overall strength that leads to energy efficiency take-up. 
+Government, and specifically the Department of Energy, is only one part of this ecosystem, 
+with the Department positioned to play an important role as coordinator, catalyst and 
+technical advisor to others, rather than as the sole lead energy efficiency agency. DOE has 
+a range of tools, whether part of its mandated role or more informally, that it can deploy to 
+influence, strengthen and guide behavior and public and private sector decision-making. 
+Many of the initiatives outlined in this Action Plan are actions of Government, but they are 
+suggested with a view to encouraging implementation partners to play their own roles, and to 
+develop their own actions in response to market needs. Overall, the Roadmap and Action 
+Plan should be widely communicated so that the objectives of Government are well known, 
+and so that other partners can conceive of their activities within a coordinated framework 
+towards energy efficiency action. 
+Some characteristics of a successful energy efficiency ecosystem are outlined in Figure 2. 
+Figure 2 Aspects of a Strong Energy Efficiency ‘Ecosystem’In terms of the actions DOE can take within this ecosystem, the barriers to further energy 
+efficiency uptake are well studied, and the policy responses that have proven effective are 
+also well documented. 
+A recent report by the UN Economic Commission for Europe (2015) has attempted to 
+summarize the policy options available to Government, by undertaking detailed analysis of 
+what energy efficiency policies have worked elsewhere as effective catalysts. While this 
+work mostly draws on the experience of European and West Asian countries, rather than that 
+of the Philippines and its ASEAN counterparts, it remains a useful framework to inform the 
+potential initiatives available to DOE in pursuing greater energy efficiency implementation. 
+Figure 3 provides a summary of the sector-specific and cross-sectoral policies considered to 
+be most effective in this work. 
+Figure 3 Foundational energy efficiency policies considered to be effective 
+Source: UNECE, 2015 
+Cross-sectoral: Governance 
+Enabling frameworks 
+National strategies, plans and targets 
+Institutional arrangements: 
+Energy efficiency operational agencies 
+Coordination mechanisms 
+Cities and Regions 
+Data, statistics and evaluation
+Cross-sectoral: Finance 
+Government and leveraged loans finance 
+Public-private finance from ESCOs 
+Funds Guarantees, risk sharing 
+Fiscal Policies: tax incentives rebates etc. 
+Government grants 
+International climate finance 
+Policies for Utilities to enable all sectors 
+Utility cost-reflective pricing 
+Energy efficiency regulatory mandates 
+Utility Energy Service Companies (ESCOs) 
+Utility white certificates 
+International Financial Institutions (IFI) finance for utility 
+energy efficiency 
+Voluntary energy efficiency programs
+Policies for
+Households 
+Insulation, retrofits 
+for existing homes 
+Minimum energy 
+performance 
+standards (MEPS) 
+and building codes 
+Energy efficiency 
+certification 
+Appliance MEPS and 
+labeling 
+High efficiency 
+appliance 
+endorsement 
+Efficient lighting
+Transport 
+Policies 
+Fiscal policies for 
+transport 
+Passenger Light 
+Duty Vehicle Fuel 
+Economy Standards 
+and Labeling 
+Heavy Duty Vehicle 
+Fuel Economy 
+Standards 
+Eco driving 
+Public Transport 
+and low energy 
+modes 
+Business 
+Sector Policies 
+Energy 
+management, 
+ISO 50001 
+Commercial 
+Buildings 
+Capacity building 
+Small and 
+Medium 
+Enterprises 
+(SMEs) 
+MEPS for 
+industrial 
+equipment 
+Voluntary 
+agreements 
+Industry 
+innovation While this provides a ‘menu’ of effective energy efficiency actions and is a relatively 
+exhaustive list, the Philippines remains at an early stage of its journey towards a stronger 
+energy efficiency ecosystem. Recommended 2016-2020 initiatives that follow for transport, 
+residential buildings and appliances, commercial buildings and industry, as well as 
+suggested cross-sectoral measures, reference both the agreed Roadmap to 2030 and the 
+above suite of possibilities, but can only go so far given the existing state of energy efficiency 
+implementation, institutional capacities, and the peculiarities of the Philippine energy sector. 
+Therefore, the recommended initiatives in this Action Plan have an emphasis on pragmatic, 
+realistic and achievable actions in the short term, and in the context of the overall journey of 
+the Philippines towards better energy efficiency. In many cases, they are continuations of 
+existing programs for which resources and working arrangements are already established, as 
+it is more realistic to take this approach than to require the setting up of new roles and 
+responsibilities. In others, new approaches where required have been recommended. 
+The reader should note that, while some initiatives have been presented as relating mostly to 
+a single energy-using sector, it is clear that such actions will strengthen the energy efficiency 
+ecosystem for other sectors as well. For example, development of the energy services 
+(ESCO) industry as a support to the industrial sector will also provide impetus to commercial 
+building energy efficiency projects, while appliance standards proposed for the residential 
+sector will have impact on other sectors using similar equipment, and the standards 
+development program can equally be extended to industrial appliances such as electric 
+motors. The initiatives must therefore be viewed as a whole, rather than sector-by-sector, to 
+understand the intended interactions between different energy efficiency actors. 
+1.2 From Plans to Reality: Priorities for Short 
+Term Action and Resource Allocation 
+In making recommendations to the Philippines government on appropriate energy efficiency 
+actions, it would also be helpful to provide some guidance on the required resourcing levels 
+to implement each program, to assist with budget planning. As part and parcel of this 
+assessment, it is helpful to provide guidance on which if the proposed initiatives are most 
+readily implementable, and would have the greatest impact. However, these two issues –
+allocation of budget and resources to programmatic initiatives, and the expected impact of 
+such initiatives, are largely a function of each other. Well-resourced and planned initiatives 
+will obviously have greater impact than those without such support. 
+It is clear, with the backdrop of targets and objectives approved in 2014 as part of the Energy 
+Efficiency and Conservation Roadmap 2014-2030, that the increase in energy efficiency 
+focus of the Philippines Government and subsequent required resource allocation will need 
+to be at a significant scale: 
+x The Roadmap and the actions of this Action Plan set out the first steps of the journey 
+towards an ambitious target to achieve accumulated energy savings of 10,665 KTOE 
+by 2030. This means finding new savings each year of approximately 600 KTOE, 
+and retaining the savings of previous years, to reach the target. Against the expected 
+business-as-usual energy demand, this represents a 20.2% saving by the end of the 
+period to 2030. 
+x If measured purely in terms of electricity generation, achievement of the Roadmap 
+targets would mean that annual energy demand would be reduced in 2030 by the 
+amount generated by 15,000MW of electricity generation capacity, alleviating the 
+need for a great deal of new generation infrastructure in the next 15 years. In the forecast to save as much as 6,000MW of generation capacity from being required, 
+through savings of approx. 4,155 KTOE. 
+x In the context of rising economic growth, targets for reduction in overall energy 
+intensity are even greater representing a decrease in energy intensity between 2005 
+and 2030 of over 40%. This compares favorably with international and regional 
+ASEAN benchmarks and targets for energy intensity reduction. 
+x A saving of this magnitude would lead to a reduction of approximately 21 million tons 
+of CO2 by 2030, which is more than 15% of current national emissions. 
+x If we assume a levelized cost of achieving energy savings at about US$25/MWh 
+(taking the midpoint of the $0-50/MWh range for energy efficiency measures as quoted by recent estimates1), this suggests that a savings of 10,665 KTOE p.a. (approx. 
+124 million MWh) would require an overall investment in the region of US$3.1 billion 
+(PHP 140 billion) over the period, or in the region of USD $200 million per year. This 
+suggests an investment cost for the five years of the 2016-2020 Action Plan of the 
+order of $1 billion (PHP 45 billion).2 Government investment will be a fraction of this 
+amount and must be principally deployed to leverage and incentivize private sector 
+debt and equity investors, rather than to implement energy efficiency projects per se. 
+The foregoing figures are conservative, demonstrate the scale of realistic and achievable 
+cost-effective energy efficiency potential, and are in line with energy efficiency’s studied 
+potential in other countries. 
+This Action Plan puts forward a wide range of initiatives in the hope of creating a comprehensive platform for future energy efficiency action across all sectors. Initiatives are 
+summarized at the end of each section, with some indication of timeframe in which they 
+might be progressed based on existing constraints, and key agencies that will need to take 
+carriage of their implementation. Annex 1 also provides a further preliminary assessment of 
+which initiatives may be prioritized based on a few key parameters, including potential 
+contribution to meeting overall targets, speed of deployment, government’s readiness and 
+capacity to implement, and need for additional resources to support their adoption. 
+Highlighted initiatives in the Annex form a basis for early discussion about initial program 
+resource allocation. 
+Budgetary determinations are a matter for Departmental and Congressional consideration 
+and are made in the context of Presidential elections that will be held in the Philippines in 
+May 2016. With an expected change of administration in the near future, recommendations 
+made in this Action Plan are made without the benefit of knowledge about the policy priorities 
+of the future government, nor of the relative weight that may be applied to activity in each 
+sector. It is therefore premature to pre-empt these deliberations of Government in this 
+document. 
+Having said this, many of the initiatives outlined in the Action Plan are not resource intensive 
+and, in line with Part 1.1, cast DOE as a facilitator and catalyst of private sector investment, 
+rather than as a direct investor itself. Some of the presented initiatives can be pursued in the 
+short term through realignment and focus of existing activity, rather than through new budget 
+allocations. Once there is greater clarity on the implementation priorities to be taken forward 
+from this Action Plan, there must be further work undertaken on the required resource 
+ 
+1 See for example http://www.lazard.com/media/1777/levelized_cost_of_energy_-_version_80.pdf 
+2 Alongside this high-level calculation of investment need, it is noted that recent detailed modeling by private 
+sector companies, using different assumptions about the range and cost-effectiveness of required energy allocation and its integration into national budget formulation and financial planning 
+processes. Indeed, as it developed the Philippines Government will need to form a view in 
+higher resolution as to what proportion of the required investment in energy efficiency will be 
+financed by end-users through available disposable income or working capital, by public 
+spending, by debt through developmental and commercial lenders, and by equity capital 
+flowing through ESCOs and project developers. To that end, this Action Plan is also 
+intended as a framing document for potential funders of future energy efficiency policy 
+development activities, such as private sector investors, development finance institutions and 
+bilateral donors, to better determine where their investments, programmatic support activities 
+and funding might be most usefully allocated. 
+Follow-up Action Plans will also be required for later periods, likely to be the two five-year 
+periods 2021-2025 and 2026-2030, that can take more ambitious steps beyond 2020, and 
+draw upon a review of the outcomes and experiences gained in the first five-year period of 
+this Plan. 2 INDUSTRIAL SECTOR ENERGY 
+EFFICIENCY ACTION PLAN 
+2.1 Why this sector is important to energy use in 
+the Philippines 
+Industrial growth in the Philippines has been strong in recent years, underpinned by ongoing 
+growth in certain key sectors, which sees industry consume a rapidly growing share of 
+energy over the period to 2030. Key industries are as depicted in Figure 4. 
+Figure 4 Breakdown of 2009 Final Energy Consumption by Industrial Subsector 
+Source: Adapted from JICA, 2011 
+This indicates the primacy of a few individual sectors of key importance to industrial energy 
+use – namely cement, food processing (including a large sugar industry), and mining/minerals processing – that ought to be the focus of future industrial energy efficiency 
+efforts. 
+2.2 Pathway to 2030 Energy Efficiency Roadmap 
+targets 
+Table 1 Industrial Sector Energy Efficiency Targets to 2020 and 2030 
+2013 
+actual 
+2020 2030 
+Baseline industrial energy consumption (KTOE) 8,893 12,871 20,587 
+Targeted industrial energy consumption (KTOE) 11,751 17,499 
+Targeted savings (KTOE) 1,120 3,088 
+% saving over business as usual 8.7% 15.0% 
+Source: DoE EPPB data 
+Cement and 
+Construction, 
+27.4% 
+Mining, 
+Minerals and 
+Metals 
+processing, 
+All Other 
+Manufacturing, 
+10.4% 
+Machinery and 
+Equipment, 
+8.6% 
+Chemicals, 5.2% 
+Sugar, 15.5% 
+Other food 
+processing and 
+manufacturing, 
+20.7% 
+Food processing 
+and 
+Manufacturing, 
+36.2% The 2030 energy savings target for industrial energy use has been set at 15% lower 
+consumption than 2030 baseline, which sees a targeted interim reduction in industrial energy 
+use of 1,120 KTOE, or 5,106 GWh, by 2020. This is the equivalent of taking a 300MW 
+power plant off line by the end of the five-year Action Plan period. There is a range of levers 
+available to DOE in extending and deepening its implementation of energy efficiency with the 
+industrial sector. 
+Consultation with government agencies and representatives of different industries has 
+revealed the following specific sectors that warrant specific focus: 
+x Cement 
+x Steel 
+x Semi-Conductor Manufacturing – especially with existing Government interests in 
+moving beyond assembly activities towards silicon wafer manufacture. 
+x Sugar 
+Further, the DTI Board of Investments (BOI) has set up 32 industry development roadmaps 
+with a focus on manufacturing in areas of comparative advantage for the Philippines. 
+Supported by GIZ, ‘greening’ of these manufacturing industry roadmaps has been identified 
+as a priority, and is underway with a targeted completion date of end 2015. Some industries 
+in the manufacturing sector have self-selected ‘power and electricity’ as a key development 
+area, and these industries should also be a focus of future efforts for energy efficiency. 
+Moreover, energy efficiency is an important activity to underpin both economic productivity 
+and reduced environmental impact of industry envisaged under the process of greening the 
+industry roadmaps. 
+Business Process Outsourcing (BPO) is a large and rapidly growing services sector of the 
+Philippines economy. However, in terms of energy needs, this sector sits more closely with 
+the energy efficiency opportunities available in commercial and office buildings. This industry 
+is better addressed in coverage of the commercial buildings sector. 
+2.3 Programs and Actions to Progress 
+2.3.1 IND-A: Industry Energy Management and Opportunity Identification Program 
+There is a great deal of evidence that points to the value of reporting and monitoring of 
+energy use and energy efficiency opportunities at industrial sites. While this approach often 
+meets some resistance from companies because it tends to impose compliance costs, this is 
+more than outweighed by the savings brought about through a sharpened management 
+focus on energy efficiency opportunities. Importantly, this sharpened focus must be 
+reinforced with pathways to project implementation to ensure that industrial managers not 
+only see the opportunities but also know how to proceed to realize the benefits. 
+The Energy Efficiency and Conservation Bill (Enercon Bill) pending with Congress imposes 
+legislative reporting requirements on energy users above a certain threshold (i.e. those who 
+use in excess of 1 million or 2 million liters of oil equivalent per annum). However, in the 
+absence of this Bill passing into law, DOE can still encourage reporting and follow up of 
+opportunities, both in its own right and as a necessary preparation of large industrial users 
+for the passage of the Enercon Bill. Measures include the release of reporting templates and 
+procedures that would be required by the Enercon Bill and allocation of responsibilities to 
+officers internally for energy conservation reporting; awareness raising on DOE’s own audit 
+program that is available to industrial users and potential new requirements for large users to 
+ndertake adits and report on opportnitiesand importantlstrengthening of spport to the ESCO industry to allow confidence in their services to be built among industrial energy users. 
+Another area for longer-term consideration may be for DOE to start to study the energy 
+saving impacts of district energy production (e.g. district cooling systems for commercial/business districts or industrial park eco-zones; district steam generation for co-located 
+industrial buyers of metered steam) and support the identification of project investment 
+opportunities. With the exception of this final point, each of these items is covered 
+throughout this Action Plan and those covering other sectors. 
+Other key efforts to capitalize on EE opportunities in industry revolve around the Philippine 
+Industrial Energy Efficiency Project (PIEEP), which is a joint project of the Global Environment Facility, the United Nations for Industrial Development Organization, DOE, DTI and 
+DOST. The key thrust of the PIEEP has been in capacity building for energy efficiency 
+through introduction of energy management standards (ISO50001), systems optimization, 
+and expansion of financing opportunities for industrial energy efficiency investments. Key 
+activities include: 
+x The training of 40 energy management experts and the delivery of awareness training 
+to 300 factories, with the aim of operational improvements and ISO50001 certification; 
+x Training of experts, equipment vendors and factory personnel in systems optimization 
+for pumps, compressed air, fans, motors, steam boilers, as well as training on the use 
+of UNIDO tools; 
+x Training materials and tools for finance managers to develop bankable projects and 
+energy efficiency project evaluation criteria. 
+The lessons of the PIEEP are highly valuable and can assist in further rollout of industry 
+skills in identifying and structuring projects. The next phase of the PIEEP is moving from 
+ISO50001 training and energy management systems towards a focus on the SME sector, 
+financing and ESCO development. 
+Another key initiative is the High-Efficiency Motors (HEMS) initiative supported by EUSWITCH. The program aims to tackle the inefficient use of motors in industry, and estimates 
+that motors account for as much as 65-70% of industrial electricity consumption. Initially 
+targeting the sugar milling industry, the project supports the decision making process 
+towards more efficient motors through demonstration and pilots, financing and service 
+provider capacity building, information dissemination and business matching. Lessons from 
+this initiative are directly relevant to other electric motor-intensive industries. 
+Despite these existing initiatives, even where opportunities are identified and implementation 
+pathways established, DOE still has no direct mandate to provide fiscal incentives to industry 
+for EE (or any other purpose). However DTI’s Board of Investments, through the Investment 
+Priority Plan 2014-16, already allows for financial incentives for EE upgrades in the form of 
+e.g. duty free importation of equipment, and tax holidays on revenues derived from projects. 
+It appears that these incentives are not being widely taken up, and the means by which the 
+scheme is administered needs further clarification. Moreover the level of take-up under 
+existing efforts remains low, pointing to the need for further awareness rising of energy 
+efficiency programs and opportunities among industrial energy users, and coordination with 
+finance and service provider activity to ensure that implementation pathways are better 
+established. 
+The Philippine Economic Zone Authority (PEZA) is also very active in giving EE incentives 
+for inbound investment, as well as requiring compliance measures by industrial companies 
+wishing to establish a presence in the Philippines. More technical guidance is required to 
+support this effort as well as extend reach of incentives to existing companies. Lastly, DOE can further support the effort to identify EE opportunities and incentivize their 
+realization through work to refresh existing very old materials on energy conservation in 
+industry as a standing resource. These materials were last updated in the 1980s and can 
+serve as an additional resource to support decision-making by industrial energy users on 
+energy efficiency projects. 
+2.3.1.1 Recommended 2016-2020 Program Actions 
+Create a mechanism for DOE to have direct EE input into the Investment Priority Plan 
+development process for 2017-19, with a view to clarifying incentives and expectations for 
+large energy using sectors. Linked to this, DOE is already working with DTI – Board of 
+Investments on its process to ‘green’ its Manufacturing Industry Roadmaps, as a basis for 
+cooperation. 
+Scale up and broaden the sectors targeted by the PIEEP and HEMS projects to priority 
+sectors of Cement, Steel, Semi-Conductor Manufacturing and Sugar, subject to funding 
+availability, and support stronger direct links to project financing initiatives. Coordination 
+between the capacity building activities of these funded programs and overall DOE capacity 
+building is critical, as both programs are busy with capacity building for end users, financiers 
+and ESCOs as also contemplated in sections of this Action Plan.
+DOE to provide support PEZA and DTI with technical advice specifying what inbound 
+equipment should be eligible for EE incentives, accredited ESCO providers, and disseminating energy efficiency information to locators. As part of this technical work, DOE can 
+establish indicative benchmarks for identified key energy using sectors, providing information 
+about expected levels of energy use per unit of output for key inward investment sectors. 
+Link EE incentive provision by DTI to the establishment of a compliant data collection 
+regime, performance against benchmarks, and initiation of other EE management practices, 
+in preparation for the Enercon Bill and as a precursor to obtaining any available incentives or 
+benefits. This will assist in administration of overall data collection and monitoring regimes. 
+Further awareness raising about the existence of these incentives by DTI is also required.
+Update Published DOE Guides to Industrial Energy Efficiency Projects across 
+technologies, project types, project management issues, and financing options for wider 
+distribution via PEZA and other DTI channels. 
+2.3.1.2 Monitoring and Milestones towards 2030 targets 
+x Investment Priority Plan 2017-19 to clarify available DTI energy efficiency incentives 
+x Measurable increase in industry-specific energy efficiency objectives contained within 
+manufacturing sector roadmaps being developed by DTI 
+x PIEEP and HEMS continued and expanded to 2020, with stronger coordination on 
+capacity building activities across industrial energy efficiency implementation partners 
+x PEZA to issue clear guidelines on eligibility of locators to receive energy efficiency 
+incentives, and accredited providers, by 2017 
+x Establishment of a data collection regime and initiation of other EE management 
+practices in industry by 2018 
+x Update DOE Guides to Industrial Energy Efficiency Projects by 2017 2.3.2 IND-B: Energy Efficiency Intermediary and ESCO 
+Development Program 
+Where industrial EE opportunities are identified and have management support, there needs 
+to be a robust model for implementation. This requires both information and understanding 
+on the part of the energy users and their onsite energy managers (as addressed above), as 
+well as the existence of a functioning and effective energy efficiency service companies 
+(ESCOs) that can physically deliver upgrades, provide confidence to energy users about the 
+success of their energy efficiency projects, and ensure that savings are sustained to 
+underpin financing agreements under any performance contracting period. 
+Many countries have long experience with the ESCO sector and reasons for its growth are 
+relatively well understood. A number of actions can be undertaken to ensure that confidence 
+in ESCOs can be built such that more energy efficiency projects are completed. The industry 
+development activities that follow have been effective in growing the ESCO market in other 
+countries. It is also noted that ESCO industry development activities are private sector in 
+nature and may be best handled by a dedicated industry representative body that can 
+administer such issues, building on existing work of the Energy Efficiency Practitioners’
+Association of the Philippines (ENPAP) and other recent private sector efforts to support the 
+ESCO industry. 
+As well as the proposed structural measures, there is an ongoing need for awareness raising 
+and capacity building among both ESCOs and their customers on the different contracting 
+and financing models, and the nature of the opportunities to work with ESCOs. Some of this 
+work is already underway through initiatives such as the HEMS and UNIDO projects, and 
+should be continued and strengthened as part of coordinated overall efforts to improve the 
+uptake of energy efficiency services. 
+2.3.2.1 Recommended 2016-2020 Program Actions 
+Coordinate ESCO sector capacity building activities – there are a number of efforts 
+underway that recognize the importance of the ESCO sector to energy efficiency implementation and aim to strengthen the sector. These include programs planned by UNIDO, HEMS 
+and emerging efforts to support a reformation of an ESCO industry body (ESCOPHIL) 
+targeting for example, the finance sector and the small to medium enterprise sector. 
+Coordination is necessary for this activity to ensure that duplication is avoided, and DOE is 
+well placed to administer such coordination. Specific consideration should also be given to 
+engagement of DOE on the issue of guarantee cover for ESCO projects, both for credit risk 
+and project performance risk; the lack of such cover and resultant lack of confidence in 
+ESCO services and creditworthiness is hampering implementation efforts at present. DOE 
+aggregation of projects and creation of mechanisms for risk cover could facilitate such cover 
+being better provided by the finance and insurance sectors. 
+Create standard ESCO contracts for bidding procedures – following on from the 
+proposed DOE Guides to Industrial Energy Efficiency Projects as outlined above is the need 
+for DOE to create a standard contractual basis for the conduct of tender processes for 
+energy performance contracting. The performance contract between an ESCO and its 
+customer guarantees that the ESCO will deliver an agreed level of savings, or compensate 
+the customer for any shortfall. In essence, it is an instrument by which risk is shared 
+between the ESCO and its customer. However, if the basis of this risk sharing agreement 
+differs between competing bids, it is extremely difficult for energy users to compare bids 
+against one another in a competitive bidding process. The creation of a standard legal document on which bids can be based is an important first step to improving the ability of 
+energy users to procure ESCOs.3 
+Create Standard Monitoring and Verification (M&V) Guidelines for Energy Efficiency 
+Projects – similarly to the need for standard legal contracts to allow customers to compare 
+different ESCO offerings during competitive tending, there also needs to be an understood 
+method of recourse in the case of dispute over achieved energy savings from projects to 
+assist in reducing the perception of high performance risk of ESCO projects. This gives rise 
+to the need for a clear and consistent regime of monitoring and verification to be articulated 
+at the outset of any EE project. DOE can provide clear best practice guidelines on this issue, 
+with direct reference to the International Performance Measurement and Verification Protocol 
+(IPMVP) promulgated by the Efficiency Valuation Organization (EVO). 
+Strengthen ESCO Accreditation – it is very important for energy efficiency project 
+proponents to have confidence in the ESCO counterparties with which it may engage, as it 
+will need to enter into multi-year contracts with these counterparties for ‘pay through savings’ 
+type projects. DOE has a role to play in providing such confidence through the accreditation 
+of ESCOs both as technically and financially sound. ESCO accreditation by DOE is already 
+in place, however the rigor of the process by which ESCOs become accredited needs to be 
+revisited. In many countries such accreditation processes are ultimately owned by industry 
+representative bodies rather than by government. 
+Create an ESCO pilot site for industry – largely for promotional and explanatory purposes, 
+it would be useful for DOE to work with private sector energy efficiency providers on a 
+flagship industrial site and act as a direct facilitator of a large ESCO project, in order to 
+communicate the value of such projects and the potential of energy efficiency to a wider 
+audience. This initiative would also serve a practical purpose of providing a direct link to 
+operational issues to inform policy making, and to allow for adjustments and refinements to 
+ongoing ESCO sector support initiatives. Suggested flagship sites might include airports, 
+food and beverage manufacturing facilities, or a large cement plant.
+2.3.2.2 Monitoring and Milestones towards 2030 targets 
+x Coordination strengthened between DOE and implementation partners on ESCO 
+sector capacity building and training activities by 2016, including proposed remedies 
+for guarantee cover for ESCO projects 
+x Publication of standard performance contract documents for use in energy efficiency 
+project bidding processes by 2016 
+x Training performed and guidelines published for project monitoring and verification 
+procedures by 2017 
+x Overhaul of the ESCO accreditation scheme completed by 2017 
+x Completion of a DOE-brokered energy performance contract for a major industrial 
+site by 2018 
+ 
+3 Once an ESCO provider is chosen by a customer, both parties are free to negotiate contractual changes, 2.3.3 IND-C: Demand Response and Demand Side 
+Management Program 
+At times of high electricity demand, utilities have traditionally leveraged peaking power plants 
+to increase power generation to meet requirements. Demand response works from the other 
+side of the equation – instead of adding more generation to the system, it pays energy users 
+to reduce consumption. Utilities pay for demand response capacity because it is typically 
+cheaper and easier to procure than traditional generation. Demand response provides 
+system and local reliability benefits, in that they enable utilities to avoid the use of rolling 
+brownouts when there is not enough generation to satisfy demand. 
+Demand response allows energy users of all kinds to act as “virtual power plants,” adding 
+stability to the grid by voluntarily lowering their demand for electricity. Participants in demand 
+response programs get paid for providing demand response capacity, which avoids the need 
+for utilities to find additional generation capacity at a higher cost. While any consumer can 
+typically play a role in demand response activity, mechanisms typically target heavy industrial 
+users as they offer the largest and most easily manageable opportunities to impact overall 
+energy demand. 
+In 2014 the Philippines Government instituted the Interruptible Load Program (ILP), which 
+recognized the important role that demand response can play in times of constrained supply, 
+as expected to persist in Luzon between 2015-2018. This program has called for the 
+voluntary enlistment of large corporations and government owned enterprises that have 
+backup generation capacity, with the aim of providing a means for covering an expected 
+700MW shortfall in generation capacity during the period. The ILP encourages heavy 
+electricity consumers with loads of at least 1MW to run their own generator sets to ease 
+demand from the grid and, in exchange, they are compensated for using their own power. 
+Beyond recognition of the wider social value of ‘switching off’ from the grid and using 
+alternative generation for payment through the ILP, dedicated demand response providers 
+can identify ways for facilities to participate in demand response programs without using 
+additional generation, and without significantly affecting business operations, comfort, or 
+product quality. Demand response energy reduction measures are customized for each 
+facility and can include turning off lighting, air conditioning, pumps, and other non-essential 
+equipment. Financial support for such activity is justified, similarly to using backup 
+generation, by the reduction in costs it imposes on utilities to either find new sources of 
+supply or to pay higher wholesale power prices at times of peak demand, with the added 
+benefit of reducing greenhouse gases and overall energy costs. 
+2.3.3.1 Recommended 2016-2020 Program Actions 
+While the ILP has provided a good start towards recognition of the value of demand 
+response, a more comprehensive program needs to consider incentive payments by utilities 
+to those users who find semi-permanent or permanent means of reducing peak power 
+consumption. Many of the finer details of such a comprehensive regulatory framework, that 
+would empower utilities to pursue this work and to administer stronger demand response 
+programs, still need to be worked out including responsibilities, funding/financial model, and 
+requirements for regulatory change. Importantly, constraints placed by the requirement that 
+any company undertaking electric utility activities have at least 60% Filipino ownership 
+appear to be hindering utility energy efficiency deployment. This Action Plan proposes that 
+DOE prepare an analytical paper setting out the framework and regulatory steps that 
+would need to be taken to implement a comprehensive and best-practice Demand 
+Response Strategybuilding on and extending existing work on the ILPand considering the In the medium term, there is need for a comprehensive energy efficiency strategy for the 
+power sector, which incorporates both the demand response activities and regulatory 
+authority of distribution utilities, as well as building a culture of energy efficiency throughout 
+the electricity generation, transmission and distribution system, and establishing rules and 
+regulatory arrangements that are supporting of energy efficiency activity by utility companies. 
+2.3.3.2 Monitoring and Milestones towards 2030 targets 
+x Framework for Demand Response completed, incorporating the ILP and other 
+regulatory requirements and enablers for utilities to participate in demand response 
+and demand-side management activities, by 2017 with a view to developing a Power 
+Sector Energy Efficiency Strategy by 2020 2.4 Summary of Industrial Energy Efficiency 
+initiatives 
+Table 2 Industrial Sector Energy Efficiency Initiatives 2016-2020 
+Program Proposed Action By When Responsibilities
+IND-A: Industry Energy 
+Management and 
+Opportunity 
+Identification
+Create a mechanism for DOE to have 
+direct EE input into the Investment Priority 
+Plan development process for 2017-19 and 
+to assist DTI to ‘green’ industry roadmaps 
+with energy efficiency measures 
+2016 DOE, DTI-BOI 
+Scale up and broaden the sectors targeted 
+by the PIEEP and HEMS projects to priority 
+sectors of Cement, Steel, Semi-Conductor 
+Manufacturing and Sugar 
+2017 UNIDO, EU, DOE 
+Provide technical assistance to PEZA on 
+qualifying EE service providers and 
+technologies 
+2017 DOE, PEZA 
+Link EE incentive provision by DTI to the 
+establishment of a compliant data 
+collection regime 
+2018 DOE, DTI 
+Update and refresh existing DOE reference 
+material on industrial energy efficiency 
+opportunities 
+2017 DOE, EU-SWITCH 
+IND-B: ESCO 
+Development Program
+Create coordinated platform for ESCO 
+sector training capacity building activities, 
+and consideration of guarantee support 
+2016 DOE, ESCOPHIL, 
+UNIDO, HEMS, other 
+capacity providers 
+Develop standard ESCO contracts for 
+bidding 
+2017 DOE, industry partners 
+Develop Project M&V Guidelines in line 
+with IPMVP
+2017 DOE, Efficiency 
+Valuation Organization 
+(EVO) 
+Overhaul ESCO Accreditation process 2017 DOE, industry partners 
+Create an ESCO pilot site for industry 2018 DOE, ESCO and site 
+counterparties 
+IND-C: Demand 
+Response and Demand 
+Side Management 
+Program
+Prepare an analytical paper setting out the 
+framework and regulatory steps that would 
+need to be taken to implement a 
+comprehensive Demand Response 
+Strategy 
+2017 DOE, utility 
+representatives, 
+regulators, market 
+operators
+Establish a Power Sector Energy Efficiency 
+Strategy
+2020 DOE, utility 
+representatives, 
+regulators, market 
+operators 3 TRANSPORT SECTOR ENERGY 
+EFFICIENCY ACTION PLAN 
+3.1 Why the transport sector is important to 
+energy use in the Philippines 
+Transport is the largest energy-using sector in the Philippines, accounting for consumption of 
+11,195 KTOE in 2010. This represents 34% of total national energy use. DoE expects 
+strong growth in transport energy use based on continued population and economic growth 
+by 2030 to 19,444 KTOE. 
+Within the transport sector, oil-based fuels dominate with diesel fuel accounting for around 
+50% of energy consumption (JICA, 2011). Road-based transport is by far the largest energy 
+user, accounting for 88% of transport energy use; sea transport accounts for 7% and 
+domestic air transport 4%, while rail transport energy use is minimal (DoE EPPB, 2012). 
+Accordingly, this Action Plan focuses on road transport initiatives in the period to 2020, with 
+other measures for non-road transport being a consideration for the longer term only. 
+On 2012 data from the Land Transportation Office (LTO), the breakup of road transport 
+vehicles in use was as follows in Figure 5. 
+Figure 5 Percentage share of vehicle types in the Philippines Vehicle Fleet, 2012 
+ Source: LTO (2012) 
+While two-wheelers dominate the overall fleet, their fuel use per unit remains significantly 
+lower than for cars and light duty vehicles, which presents a higher opportunity for fuel 
+savings. Motorcycles and tricycles contribute just 8% of transport greenhouse gas 
+emissions, while trucks and PUVs contribute as much as 73% (TTPI, 2010). LTO data also 
+shows that approximately 18% of the country’s vehicle fleet (890,000 units) is used for public 
+transportwhile 806% is registered as private vehicles3.2 Pathway to 2030 Energy Efficiency Roadmap 
+targets 
+Table 3 Transport Sector Energy Efficiency Targets to 2020 and 2030 
+2013 
+actual 
+2020 2030 
+Baseline transport energy consumption (KTOE) 11,195 14,734 19,444 
+Targeted transport energy consumption (KTOE) 12,483 14,583 
+Targeted savings (KTOE) 2,252 4,861 
+% saving over business as usual 14.3% 25.0% 
+Source: DoE EPPB data 
+The 2030 energy savings target for energy use in transport has been set at 25% lower 
+consumption than the business-as-usual baseline, which sees a targeted interim reduction in 
+transport energy use of 2,252 KTOE by 2020. This more aggressive target is justified based 
+on a sharply increasing baseline and the known opportunities in vehicle improvements that 
+could be implemented within the period to 2030. Meeting the 2020 interim target would be 
+the equivalent of permanently removing approximately 250,000 standard cars from the road, 
+which would constitute about 5% of the Philippines overall vehicle fleet. 
+It is important to note that DOE does not hold many policy levers related to energy use in the 
+transport sector. In pinpointing useful initiatives to be taken forward in the short to medium 
+term, it is worth examining the determinants of energy use in transport in detail. According to 
+the US Center for Climate and Energy Solutions, there are four main determinants of energy 
+used (and subsequent greenhouse gas emissions) in transport: 
+1. Fuel types and energy sources 
+2. Vehicle Efficiency 
+3. Vehicle Use and Distance Travelled 
+4. System Efficiency 
+DOE has some involvement on the first two of these areas; however genuine influence on 
+the second two areas are the responsibility of the Department of Transport and Communications (DOTC) and other urban development agencies such as MMDA. Roles and 
+responsibilities on all aspects of transport are currently overlapping; for example, while DOE 
+can play some role in relation to vehicle efficiency standards, key instruments of enforcement 
+related to vehicle taxes and licensing rest with the Land Transportation Office (LTO) and the 
+Land Transport Franchising and Regulatory Board (LTFRB). DOE can only therefore seek to 
+coordinate energy discussions and try to focus these agencies more squarely on energy 
+efficiency goals, rather than directly take responsibility for implementation. 
+Within the ‘avoid/shift/improve’ rubric for sustainable transport policy, DOE can focus on
+improvement of the efficiency of the vehicle stock and to some extent on driver training, 
+rather than changing the country’s transport task, creating modal shift (which must be 
+underpinned by substantial infrastructure investment), improving city traffic conditions or 
+creating new transport options. This Action Plan notes, however, the existence of many 
+Government programs that are focused on avoiding the need for vehicular transport and 
+improving system efficiency, such as DOTC’s efforts to develop a ‘Road Based Public 
+Transport Reform’ initiative for modernizing the PUV fleet and undertaking institutional 
+reforms (to be submitted as a Nationally Appropriate Mitigation Action (NAMA)), and its study 
+into the movement of people and goods in Metro Manila as part of understanding the current 
+transport task and future needs. This Action Plan is therefore targeted at what vehicles get driven and how they are driven, 
+rather than broader issues of infrastructure investments for greater system efficiency, though 
+DOE encourages such programs to reinforce and strengthen its own efforts towards creating 
+a more enabling environment for efficient energy use in the transport sector. 
+The Action Plan notes that there are important co-benefits of energy savings in the transport 
+sector. While the focus is on reduced energy use, reduced air pollution, resultant health 
+impacts, and economic productivity are acknowledged as key drivers of plans for energy 
+efficiency in the transport sector. 
+3.3 Programs and Actions to Progress 
+3.3.1 TRA-A: Vehicle Efficiency Improvement Program 
+Leaving issues of transport infrastructure and system efficiency aside, as above, ensuring 
+the fuel efficiency of the existing passenger vehicle fleet is a priority. Fuel efficiency is 
+dependent on many parameters of a vehicle, including its engine parameters, aerodynamic 
+drag, weight, and rolling resistance. There have been advances in all areas of vehicle 
+design in recent decades including through better design and also the shift towards 
+alternative fuel vehicles such as hybrid drives and electric vehicles. 
+There is much that needs to be done to improve vehicle fuel efficiency in the Philippines. 
+However, introduction of mandatory policies to remove inefficient existing vehicles from the 
+road are difficult to introduce, both practically and politically, and policy levers available to 
+DOE are relatively limited. DOE can, however, provide important informational inputs on the 
+existing levels of fuel efficiency of the vehicle fleet, appropriate levels of efficiency to be 
+targeted, technologies for alternative fuel vehicles, and advice to other agencies of 
+Government who may be in a position to introduce incentives or disincentives for more fuel 
+efficient vehicle manufacture and sale. 
+3.3.1.1 Recommended 2016-2020 Program Actions 
+Baseline Assessment for new light duty vehicles - the first stage in establishing clearer 
+requirements for passenger vehicle efficiency and in understanding the potential impact of 
+new measures is to improve information about the level of efficiency of the current vehicle 
+fleet. Clean Air Asia is currently performing a baseline assessment for new light duty vehicle 
+performance in the country, which will be used as the foundation for establishing this 
+information.
+New vehicle labeling - vehicle labeling follows on naturally from a better understanding of 
+the fuel efficiency of the vehicle fleet. It is also something on which DOE (rather than DOTC 
+and its agencies) could take the lead, based on actions to develop a better understanding of 
+the fuel efficiency of the vehicle fleet that are already underway. The vehicle manufacturing 
+industry is aware of the role vehicle labeling can play through discussions with DENR that 
+commenced before 2012, and is broadly supportive of this direction.
+Vehicle labeling typically refers to requirements for new light duty vehicles being sold to carry 
+stickers with information on vehicle fuel efficiency, or for information to be displayed about 
+the vehicle in the showroom, online or through other media. Schemes can be designed with 
+reference to similar schemes in successful operation in other countries, such as the United 
+States which through its Environment Protection Agency has a strong model of vehicle 
+labeling requirementsMore consultation with industry will be required as any labeling Clean Air Asia is cooperating with DOE with regards to developing an action plan for 
+establishing a vehicle fuel efficiency labeling scheme. Enforcement of the scheme is a key 
+issue – roles and responsibilities need to be formalized, potentially through an Executive or 
+Administrative Order. 
+Investigate the integration of vehicle labeling into vehicle inspection and registration 
+regimes – the current regime of vehicle inspection and registration is the responsibility of 
+agencies of DOTC such as LTO and LTFRB. Once better information and labeling is 
+established, it is possible to consider the inclusion and streamlining of fuel efficiency with the 
+existing LTO and LTFRB inspection and vehicle tax regime. Currently emissions testing of 
+vehicles is already a requirement of vehicle registration; this can be extended to require a 
+Certificate of Compliance with emerging fuel efficiency standards. Extra charges can be 
+levied for inefficient vehicles as a means of disincentive for keeping older, polluting vehicles 
+on the road. 
+Importantly, such a measure would require fuel economy standards to be put in place and 
+therefore goes beyond vehicle labeling as a market information strategy. This is a bigger 
+issue that needs a revision of the process of applying for new motor vehicle types (as the 
+Clean Air Act provisions are limited to Certificates of Compliance being based against the 
+emission standards). Differentiated tax rates that can incentivize fuel efficient vehicle subsegments maybe looked into and the information through the labeling scheme can be utilized 
+in the formulation of “fuel-economy” based fiscal policies.
+Further work is required to examine the most appropriate approach to deployment of such a 
+fiscal scheme, including the overall economic impacts on different groups, the appropriate 
+means of financially administering the scheme, and the intended impact on fuel efficiency. In 
+regard to this, New Zealand’s approach has been mentioned as a possible scheme to be 
+replicated in the Philippines, as it uses existing vehicle testing regimes for vehicle supplier 
+countries rather than needing the establishment of extensive testing facilities in-country, and 
+is therefore less resource-intensive. There are other initiatives such as the ‘gas guzzler’ tax 
+levied in the United States on vehicle manufacturers, that can provide incentives towards 
+production and sale of more efficient private vehicles. 
+Continue and strengthen management of Vehicle Conversion Programs – DOE has a 
+number of existing activities that consider the conversion of existing vehicles to cleaner 
+burning fuels and/or replacement with electric vehicles. DOE has advised that its capacity is 
+fully extended in delivery of these existing programs, and no further rollout of programs to 
+2020 is proposed. In summary, DOE is suggested to: 
+x Consider further rollout of E-trikes in the mid-term review of that initiative. 
+x Continue its Auto LPG program by upholding the current incentives for license 
+extension4
+x In conjunction with TESDA, support TVET training for vehicle conversion, to overcome issues with substandard conversions experienced in early stages of 
+Formulate a transport and urban energy efficiency Inter-Agency Committee – while 
+noting that DOE does not have a lead role in determining transport system efficiency or 
+influencing user behavior, given the current limited stage of development of work to develop 
+linkages between consideration of energy and transport, it may be necessary to formalize 
+new arrangements to tackle key overlapping. An Executive Order that establishes a 
+ 
+4 It is noted that LPG costs substantially less than gasoline in the Philippines and offers a comparable driving range to 
+conventional fuel. This offsets its lower calorific value, which generally results in lower vehicle fuel economy. This initiative Committee for Energy Use in Transport could be required to take this work forward. Key 
+activities for such a Committee in the first instance would be to
+a) perform a study into the model that could be deployed by DOTC for recognition of 
+vehicle efficiency through vehicle taxes levied by LTO and LTFRB, as suggested 
+above, as a precursor to introduction of such measures. 
+b) Perform a study recommending actions to reintegrate consideration of energy use 
+existing into holistic urban planning activities, itself currently relatively uncoordinated 
+between DOTC, DPWH, MMDA and local governments. 
+c) Form guidelines on energy-efficient transport infrastructure investments to be made 
+by LGUs, in particular targeting efficient street lighting where international standards 
+exist but are not prescribed during LGU procurement processes. Such guidelines 
+could be trialed through a pilot efficient transport infrastructure investment initiative, in 
+conjunction with the APEC Low Carbon Model Towns initiative (refer also Part 4.3.2.1 
+of this document). 
+3.3.1.2 Monitoring and Milestones towards 2030 targets 
+x Baseline Assessment of new light duty vehicles completed by 2016 
+x New inter-agency committee on Energy Use in Transport established by 2017 
+x New light duty vehicle labeling requirements in place by 2017 
+x Study on recognition of vehicle efficiency in vehicle inspection regimes and vehicle 
+taxes completed by 2018 
+3.3.2 TRA-B: Driver Awareness Program 
+Driver training and information to improve awareness on fuel efficiency has been provided for 
+many years in the Philippines. The now largely defunct Fuel Economy Run Program tested 
+new passenger vehicles to establish their fuel efficiency and mileage, and this has been 
+selectively continued by private sector partners in recent years, including through: 
+x Volkswagen – in conjunction with Shell, has staged a series of ‘Eco Fun Runs’ aimed 
+at highlighting and publicizing the efficiency of its product offering in the Philippines, 
+which gained wide mainstream media coverage. 
+x Honda – similarly to Volkswagen has staged a number of events aimed at publicity of 
+the fuel efficiency of its vehicle fleet. 
+x Petron – staged a “SafeRun” event in 2012 whereby motorcycle manufacturers and 
+enthusiasts could test the fuel efficiency of their motorcycles. 
+x In February 2015, the Car Awards Group Inc. (CAGI) devised and released a local 
+benchmark for vehicle fuel efficiency under Philippine driving conditions. 
+DOE has indicated a desire to continue such work in 2015, either through its own programs 
+or in partnership with vehicle suppliers. 
+Additionally, the Fuel Conservation and Efficiency in Road Transport (FCERT) program has 
+encompassed a variety of publicity campaigns promoting conservation of transport fuel 
+across different media, seminars and workshops, and promotional material including 
+publications and other collateral. Under the FCERT program workshops for jeepney drivers 
+have also been held commencing December 2012 in partnership with University of the 
+Philippines National Engineering Center; these workshops have since been extended with 
+private sector partners. It would be desirable for training and workshops to also cover the 
+benefits of emerging technologies and fuels that have the promise of lower fuel consumption, 
+both as environmental and economic measures that may benefit transport company It is difficult for DOE to lead activities involving mandatory requirements of private or PUV 
+drivers, as such regulation and control is led by DOTC, and its agencies such as LTO and 
+LTFRB. While it may be desirable to mandate driver education requirements as a precondition of licensing, any additional action would require more coordination with DOTC as 
+lead, and is likely to remain on a voluntary basis only. 
+3.3.2.1 Recommended 2016-2020 Program Actions 
+DOE to co-ordinate and re-launch a Fuel Economy Run competition – given a wealth of 
+private sector interest and promotional opportunity in the efficiency of private vehicles, DOE 
+is well placed to coordinate a large scale activity to publicize and promote vehicle fuel 
+efficiency. This should extend beyond previous activities to consider different elements of 
+efficiency according to a range of possible categories: 
+x Comparing groups of new cars across different manufacturers according to classification by similar engine capacities 
+x Comparing groups of five year old cars across different manufacturers according to 
+classification by similar engine capacities 
+x Comparing groups of ten year old cars across different manufacturers according to 
+classification by similar engine capacities 
+x Comparing fuel types (and costs) from different fuel suppliers in the same vehicle 
+x Comparing different technologies (e.g. catalytic converters, turbos, clean burning fuel 
+technologies in the same vehicle 
+Measurements can be taken according to locally developed benchmarks as well as 
+international benchmarks. 
+A wealth of information on the performance of different vehicles and the efficacy of fuels 
+available on the market could be generated from such a program. Importantly, the expanded 
+program should consider existing vehicles as well as simply new vehicles, and may even be 
+extended to include PUVs such as buses and jeepneys. It is very likely that financial support 
+would be forthcoming from private sector participants given the promotional opportunities 
+that would arise from a comprehensive and well-run program. The activity could be refined 
+and repeated in future years, based on the success of the initial staging of this expanded 
+Fuel Economy Run Initiative. 
+Extend driver awareness training through Development Academy of the Philippines 
+and UP National Engineering Center and include technology awareness as well as 
+driving techniques. This existing activity should continue to be supported and consideration of its expansion should be investigated. 
+3.3.2.2 Monitoring and Milestones towards 2030 targets 
+x Successful staging and publication of Fuel Economy Run by 2016
+x Number of drivers trained increased by 2017 over 2014 levels 3.3.3 TRA-C: Freight Transport Energy Efficiency 
+Partnership Program 
+Freight transport accounts for a growing percentage of transport energy use and is an area in 
+need of further attention, as trucks and heavy vehicles account for as much as 33% of overall 
+greenhouse gas emissions from transport in the Philippines despite making up only 5% of 
+the vehicle fleet. There is currently very little in the way of government policy targeting this 
+area. An initiative is currently underway coordinated by the Export Development Council to 
+create a “Philippine Multimodal Transportation and Logistics Industry Road Map”; however 
+this needs a layer of Government coordination and support if it is to gain traction. The 
+existing effort proposes capacity extension and efficiency enhancement involving the 
+material implementation of policies and the adaptation of efficiency measures in its second 
+Phase, envisaged for 2017-22. 
+In the longer term, large-scale infrastructure decisions must be made about the best way in 
+which to move goods in the Philippines. This may consider broader issues of balance, 
+reliability, efficiency, and sustainability in the overall freight system and a shift from a 
+predominantly road-based infrastructure to a multimodal infrastructure, including rail. 
+3.3.3.1 Recommended 2016-2020 Program Actions 
+Investigate the formation of a Partnership to develop a National Efficient Freight and 
+Logistics Master Plan. Such a plan would aim to initiate measures for the more efficient 
+movement of freight in the country with the joint aims of improved productivity and reduced 
+energy use. Such a Master Plan would ultimately need to be owned by DOTC, however 
+DOE could provide important context and technical advice relating to the energy efficiency of 
+different vehicles and transport modes, and the potential alternative logistics models that 
+may be effectively deployed. 
+3.3.3.2 Monitoring and Milestones towards 2030 targets 
+x DOE involvement in development of a National Efficient Freight and Logistics Master 
+Plan, in coordination with the Export Development Council and other agencies, by 
+2020 3.4 Summary of Transport Energy Efficiency 
+Initiatives 
+Table 4 Transport Sector Energy Efficiency Initiatives 2016-2020 
+Program Proposed Action By When Responsibilities
+TRA-A: Vehicle 
+Efficiency 
+Improvement 
+Program
+Complete baseline assessment for efficiency of 
+new light duty vehicles
+2016 DOE, Clean Air Asia 
+Roll out new vehicle labeling for energy use 2017 DOE, CAMPI 
+Vehicle inspection regimes 
+x Include fuel efficiency rating with emissions 
+compliance testing 
+x Investigate differentiated vehicle taxes for 
+efficient vehicles 
+2018
+2018
+LTO, LTFRB
+LTO, LTFRB
+Vehicle conversion programs 
+x extend Auto-LPG program for taxi fleet 
+x support TVET training for LPG vehicle 
+conversion 
+x E-Trikes – focus on current delivery; 
+consider further rollout in mid term review
+2016
+2016
+2018
+DOE
+DOE, TESDA
+DOE, ADB 
+Formulate a transport and urban energy 
+efficiency Inter-Agency Committee 
+2017 DOE, DOTC, MMDA, 
+DPWH, LGUs 
+TRA-B: Vehicle 
+Efficiency and Driver 
+Awareness Program
+Re-launch Fuel Economy Run initiative 2016 DOE, CAMPI, vehicle 
+manufacturers, fuel 
+suppliers
+Driver training program rollout Ongoing Development 
+Academy of the 
+Philippines, UP 
+National Engineering 
+Center, DOE
+TRA-C: Freight 
+Transport Energy 
+Efficiency 
+Partnership
+Form partnership to develop a National Efficient 
+Freight and Logistics Master Plan
+National Efficient Freight and Logistics Master 
+Plan developed 
+2017 
+2020
+EDC, DOE, DPWH, 
+DTI
+EDC, DOE, DPWH, 
+DTI4 COMMERCIAL BUILDINGS SECTOR 
+ENERGY EFFICIENCY ACTION PLAN 
+4.1 Why this sector is important to energy use in 
+the Philippines 
+Commercial buildings account for approximately 10% of energy use in the Philippines. 
+Strong ongoing growth in building and construction of commercial buildings is expected, 
+associated with ongoing economic growth and encouragement of inward investment, as well 
+as a sharp expansion in the hotels and hospitality sector. This growth is concentrated in key 
+business and tourism districts of the country. An increasing trend towards business process 
+outsourcing has also changed the commercial building usage mix towards longer hours of 
+operation and emphasis on different energy uses (towards IT and data center management). 
+Efficient buildings are the product of concerted efforts to target energy savings through 
+different activities across the ‘building life-cycle’. Not all of these are the responsibility of 
+DOE, which necessitates partnership and collaboration. A representative of the kinds of 
+initiatives that can be run as part of a comprehensive commercial building energy efficiency 
+action plan is as follows in Figure 6, with typical actions to support energy efficiency 
+highlighted in red. 
+Figure 6 The Building Life Cycle and Selected Energy Efficiency Opportunities 
+Source: adapted from WRI Ross Center for Sustainable Cities, 2015 
+While DOE cannot tackle all of these areas in the short to medium term, this building life 
+cycle is an important framework within which to consider current and future programs. 
+Many building efficiency programs target new buildings, however the cost-effectiveness of 
+undertaking existing building refurbishments when key plant and equipment is reaching the 
+end of its useful life is well studied. Ageing building stock in major building districts such as 
+Makati and Ortigas in metropolitan Manila presents good opportunities for retrofitting and 
+building management programs. Many planks of rapid energy efficiency deployment, across 
+tidlid fiiild btthd i
+Building 
+Codes 
+Building 
+Ratings and 
+Information 
+Financing, 
+Support for 
+ESCOs 
+Awareness 
+raising, facility 
+management 
+programs 
+Incentives the relatively short term for increased uptake. However, measures proposed for commercial 
+buildings take account of the capacity in DOE to implement complicated policy schemes for 
+the sector, and also point to the important role of the private sector and other agencies of 
+Government in delivery of programs for this sector. 
+It should also be noted that some initiatives proposed for other sectors will have a clear 
+bearing on commercial building energy efficiency, particularly through standards for 
+appliances and measures to improve finance availability and the strength of the ESCO 
+sector. These measures are largely proposed in other parts of this document under Action 
+Plans for other sectors. 
+4.2 Pathway to 2030 Energy Efficiency Roadmap 
+targets 
+Table 5 Commercial Building Sector Energy Efficiency Targets to 2020 and 2030 
+2013 
+actual 
+2020 2030 
+Baseline commercial buildings energy consumption (KTOE) 2,481 3,221 4,821 
+Targeted commercial buildings energy consumption (KTOE) 2,897 3,615 
+Targeted savings (KTOE) 324 1,206 
+% saving over business as usual 10.0% 25.0% 
+Source: DoE EPPB data 
+DOE’s 2030 target for energy efficiency from commercial buildings is 25% savings against 
+the baseline; its interim target is to save 324 KTOE or 10% of commercial building energy 
+consumption by 2020. This is the equivalent of taking a 90 MW power plant off line for the 
+entire five-year Action Plan period. This is considered achievable through a range of 
+measures that can be deployed in commercial buildings that are individually cost-effective, 
+meaning that they can generate positive income streams that allow for finance to be repaid 
+by energy savings in relatively short timeframes. This cost-effectiveness presents an 
+opportunity for intermediaries like ESCOs to create new financing pathways for execution of 
+existing building upgrades. Further, the substantial role of government as a property owner 
+and manager can be better utilized to provide market examples and models for commercial 
+building refurbishment. 
+4.3 Programs and Actions to Progress 
+4.3.1 COM-A: Government Buildings Efficiency Program 
+Government buildings have been a key success story for Philippines energy efficiency, with 
+substantial consolidated savings achieved from over 590 government agency reports. 
+Building on circulars and administrative orders that require government agencies to reduce 
+fuel and electricity consumption by at least 10% and adopt other efficiency measures, DoE’s 
+Government Energy Management Program (GEMP) is a continuing program that requires 
+establishment of energy conservation programs and dedicated staff for each agency, 
+including government departments, bureaus, government owned and controlled corporations, 
+academic institutions and others. DoE conducts awareness raising for government agencies, 
+conducts spot checks on agencies for compliance with the requirements, and recognizes 
+good performersAdditionallythe ADB-supported Philippine Energy Efficiency Project included a component of retrofitting of lighting in government buildings and public facilities, 
+including office buildings, street lighting, traffic lights and other public lighting. 
+A key feature of the GEMP program has been its ability to generate credible monitoring 
+reports about energy use and savings generated, something that has been lacking in other 
+sectors. Consolidated reporting indicates that as much as PHP 2 billion was saved on energy 
+costs between 2005 and 2013. 
+While DOE has already been active in supporting the upgrade and refurbishment of 
+government buildings, much more can be done to go deeper than the required 10% savings. 
+Government plays an important role in commercial building energy efficiency, as a 
+substantial owner and manager of non-residential properties and facilities, which provides a 
+clear opportunity to act as a market leader. This covers both Government’s own municipal 
+offices and also significant energy using sites that have not yet been targeted, such as 
+educational, health care, military and other municipal facilities. Harnessing the power of 
+private sector service delivery models can also catalyze deeper energy efficiency uptake in 
+non-residential buildings and provide models for others to adopt. 
+There is a plethora of legislative instruments that relate to energy use in Government 
+buildings that have been passed in recent years that demonstrate recognition of the 
+opportunity to improve energy efficiency in Government operations. It is noted that, in 
+December 2014, Joint House Resolution 21 was passed by the House of Representatives 
+which was targeted at addressing shortfalls in power supply that were projected to begin in 
+2015. This Resolution was mostly targeted at the powers granted to the President to 
+undertake emergency procurement of additional generation capacity. However, it also 
+contained an assertion that “all government offices and institutions are authorized to retrofit 
+their offices and buildings with, among others, energy efficient LED bulbs, air conditioning 
+units with inverters, and solar energy systems, subject to emergency procurement 
+procedures.” While the provisions of this Resolution were not fully agreed by the Senate and 
+ultimately not passed, and took effect only until 31 July 2015 in any case, the intent indicates 
+both an understanding of the contribution that government buildings can make to overall 
+energy demand and a willingness of Government to examine current procurement practices 
+for energy efficiency. 
+4.3.1.1 Recommended 2016-2020 Program Actions 
+Strengthen the GEMP with higher targets and retro-commissioning resources - 
+Administrative Order No. 110-A, which institutionalizes the GEMP, is now almost ten years 
+old. This program has been very successful in both building capacity within government 
+agencies to understand energy efficiency opportunities, seeing them implemented and in 
+creating a regime for energy reporting.
+It is proposed that DOE expand the GEMP through a new Administrative Order to reflect an 
+updated understanding of the depth of opportunity to upgrade facilities in Government 
+Buildings, with extension to all government owned buildings and facilities. This should reflect 
+its expanded ambition for the buildings sector as articulated in the Energy Efficiency 
+Roadmap; namely, that all Government buildings should achieve savings of 25% by 2030 
+against baseline energy use. 
+Some support for this new target can be offered in the form of retro-commissioning advice 
+provided to government building managers. According to the American Council on an 
+Energy-Efficient Economy, retro-commissioning or “existing building commissioning” is a 
+systematic process for identifying and implementing operational and maintenance the process is to optimize the performance of building subsystems as well as how they 
+function together. Retro-commissioning is important because deferred maintenance takes a 
+toll on commercial buildings in the form of wasted energy and finances. Retro-commissioning 
+focuses on operations and maintenance improvements and diagnostic testing (although 
+needed capital improvements may also be identified and recommended through the 
+process). 
+DOE has an existing audit program, whereby facility managers can avail of resources to 
+assess energy efficiency opportunities by way of audit. However, the need for capital to 
+implement audit recommendations can lead to low levels of take-up. Retro-commissioning 
+may be an attractive option under these circumstances and can also lead to permanent 
+energy savings with little or no capital outlay. It is proposed that the existing audit program 
+be supplemented with a retro-commissioning advisory resource. 
+There also needs to be stronger links with private sector finance initiatives being developed 
+under these Action Plans so that identified opportunities have access to other sources of 
+finance than Government’s own funds. There is a clear overlap with ESCO sector 
+development activities; ESCO services could be better utilized by Government Departments 
+given reforms to Government procurement practice (see below). 
+Procurement assistance program - It is apparent that existing purchasing and procurement 
+rules impede the ability of government to implement energy efficiency projects. Typically, 
+government procurement is on the basis of tender for prescribed assets, which can be 
+assessed according to fixed criteria such as rated outputs, price, product specifications, etc. 
+This approach is confirmed by the Procurement Service website which specifies simply that 
+the Service ‘buys electrical supplies’ in the form of lamps, batteries and ballasts. 
+The implementing rules and regulations of Republic Act 9184 set out the requirements for 
+Government procurement processes. Procurement of energy efficiency services can be 
+challenging, as it effectively involves procurement of an intangible stream of reduced 
+expenses that may be difficult to situate in terms of the required purchasing processes. 
+There are a couple of key issues to be overcome: 
+x Direct budget ‘disincentives’ – government departments and agencies typically 
+receive an allocation for electricity and other energy costs as part of annual budget 
+disbursement. Energy efficiency activities can reduce this required amount for a department or agency, and be can be financed through energy savings over a ‘payback 
+period’, usually several years. However, it is very common for budget allocations for 
+energy use to be reduced after energy efficiency projects, based on the reduced outgoings. This leaves no capital to pay for the upgrade through the achieved savings. 
+Managers are therefore reluctant to undertake projects that will lead to future cuts in 
+budget allocation. Better understanding of this dynamic is required when making 
+budget allocations. 
+x The requirement for multi-year contracts – as noted, utilization of ESCO services and 
+payment through savings under performance contracts typically requires an agreement between the department or agency and the energy efficiency service provider, 
+which may span a number of years. This does not sit well with procurement processes and systems that consider discrete purchase of goods or services, and can create 
+additional barriers to uptake of energy efficiency projects in government buildings. 
+Based on consultations, there is willingness for Government’s Procurement Services to work 
+on potential changes to procurement rules and/or exemptions for energy efficiency 
+procurement. This is an important initiative to run alongside other efforts to catalyze the 
+take-up of energy efficiency projects in the Government sector.Pilot ESCO deployment program on selected Government sites - While ESCO Sector 
+development activities are listed under the Industrial Sector part of this Action Plan, one 
+method for practically supporting the growth of the ESCO sector is for Government to call for 
+bids on the upgrade of one or more of its significant energy-using sites. Government is in the 
+position to specify its requirements for this tender which reinforce its other efforts to build 
+good practice for the ESCO sector, with emphasis on the use of accredited ESCOs and bestpractice contracting and monitoring and verification protocols. This model tendering process 
+will help to establish momentum for the ESCO sector. This could build on work towards 
+procurement reform that would enable easier Government procurement for energy efficiency 
+services, and pave the way for further and deeper implementation of energy efficiency in 
+Government buildings.
+Sites have not been chosen, but it would be advantageous to consider those sites which may 
+have common features with other similar buildings that would make the model ESCO 
+deployment process relatively replicable. Sites such as hospitals, publicly owned 
+educational campuses such as the University of the Philippines (UP), or flagship Government 
+buildings in Quezon City or Malacañang would make good candidates. 
+4.3.1.2 Monitoring and Milestones towards 2030 targets 
+x New procurement rules and guidance established by 2018 
+x Large-scale ESCO retrofit project at a government site completed by 2018 
+x Reported achievements of the GEMP program increased by 2020 
+4.3.2 COM-B: Building Codes Program 
+DOE has developed guidelines on the Energy Conserving Designs of Buildings, which were 
+completed in 2008 as an activity of the former Philippine Efficient Lighting Market Transformation Project (PELMATP), supported by UNDP and GEF. The Guidelines were developed 
+through a consensus development process facilitated by the Institute of Integrated Electrical 
+Engineers of the Philippines, Inc., the Philippine Lighting Industry Association, and the 
+Energy Efficiency Practitioners Association of the Philippines together with various 
+Government agencies and other stakeholders. The Guidelines are detailed and aim to 
+prescribe minimum requirements for energy conserving design of new buildings, and provide 
+methods for determining compliance. 
+More recently, work has been rapidly progressed on a Green Building Code that is being 
+trialed in Mandaluyong City. Supported by the IFC, the Mandaluyong experience with Green 
+Building Code implementation has been used to re-formulate this document into a draft 
+referral code of the National Building Code, tabled before Congress in June 2015, so that its 
+measures can take effect at the city level across the whole country.
+In the first instance, and for the sake of administrative simplicity, the draft referral code 
+applies to larger buildings only (i.e. it applies only to buildings of more than 10,000m2
+ for 
+hotels and offices, and more than 15,000m2
+ for malls). This will limit the energy savings 
+impact, as in many cases (especially outside of Metro Manila and Metro Cebu) proposed 
+construction sites will be smaller than this threshold. An extensive training program for city 
+officials and the enforcement effort will also be required. 4.3.2.1 Recommended 2016-2020 Program Actions 
+Permanent coordination mechanism established for DOE/DPWH collaboration on 
+codes - the implementation of the green building code as a referral code to the National 
+Building Code will be reviewed three years after first approval. DOE is already part of the 
+working group to consider the integration of energy efficient and other environmental 
+measures into building codes and must assist with the review process by recommending 
+appropriateness and stringency of measures, as well as new mechanisms for the application 
+of the green building code to permits for existing building refurbishment, and for expanding to 
+smaller buildings. This assistance should reference the existing work completed on the 
+guidelines on Energy Conserving Designs of Buildings. Formalization and articulation of this 
+role is important to ensure that the appropriate input to the process is made when required.
+DOE can also help with calculation and assessment of embodied energy in construction 
+process, and in increasing motivation and recognition through existing awards programs 
+such as the annual Don Emilio Abello Awards. 
+Support for LGU training on building codes rollout - It is recognized that further rollout of 
+green building codes will be resource intensive, with the need for LGU training and 
+establishment of procedural requirements at the LGU level. DOE can support efforts by IFC 
+and others by developing materials and tools and participating in training for LGU adoption of 
+green building codes. Participating LGUs will have the ability to set their own thresholds for 
+energy use and size of buildings to which codes will be applied through the use of town 
+ordinances. 
+A next step should also be to target rollout of green building codes to LGUs and municipalities already earmarked for participation in the Low Carbon Model Town (LCMT) initiative, 
+which is among the regional initiatives APEC is undertaking along with an Energy Smart 
+Communities Initiative. APEC Energy Ministers will consider expansion of the LMCT 
+initiative at upcoming meetings, and this is a good opportunity to create linkage with the 
+rollout of green building codes. 
+4.3.2.2 Monitoring and Milestones towards 2030 targets 
+x DOE participation in training for LGUs on implementing energy efficiency requirements in building codes by 2017 
+x DOE input to Green Building Code mid term review process in 2019 
+4.3.3 COM-C: Building Information and Ratings 
+Program 
+There are a number of building information and ratings initiatives well underway in the 
+Philippines. The Philippine Energy Efficiency Project – Efficient Building Initiative aimed to 
+reduce energy consumption and greenhouse gases in the Philippines through introduction of 
+a unified Green Building Certification System, that streamlined existing initiatives into a single 
+nascent system. A 2011 tender process saw the appointment of the Philippine Green 
+Building Council to develop and implement this rating system, leading to the design and June 
+2013 launch of the Building for Ecologically Responsive Design Excellence (BERDE) suite of 
+nine rating tools, which are growing their penetration of the market. 
+IFC has also been actively developing another tool known as ‘EDGE’ (Excellence in Design many countries. The EDGE tool is a voluntary initiative that targets incremental improvements in energy, water and materials use in all buildings across five broad categories, 
+including households and different types of commercial buildings. While some other ratings 
+tools tend to target high levels of performance, the EDGE tool is geared towards a simple, 
+quick, affordable and accessible rating system. It only applies to new buildings and does not 
+consider the actual operational performance of buildings. 
+In relation to better information on actual performance of commercial buildings, there is a lot 
+of interest in creating a single, reliable measure for benchmarking office building energy 
+efficiency. This is also in line with APEC Peer Review Recommendations for the sector, 
+which suggested development of a comprehensive and mandatory building energy 
+consumption survey in order to better understand the types of buildings and their energy 
+consumption. There is also a range of international building energy benchmarking 
+experience that can be drawn upon. 
+The Philippines has particular issues for creating a comparable measure based on the 
+prevalence of BPO activities in office space that have different requirements to international 
+standards, typically running 24/7 and having a higher density of staff members per square 
+meter. As such there may also be a need to differentiate between different types of office 
+building. It has been noted that there is no single ideal benchmark, based on different end 
+uses for any given building. However measures could be adjusted or presented on the basis 
+of energy consumption per unit of area (i.e. per m2
+), density (per person-hour) and unit of 
+economic output (per business revenue in pesos). Further work could support a benchmark 
+being developed using the Government building stock as a starting point, and studies must 
+be undertaken to determine the appropriate level of energy use benchmark with reference to 
+overall energy efficiency objectives. Progression of this work is currently under discussion 
+with the EU-SWITCH Policy Support team. 
+DOE can further build on efforts to improve building information by encouraging expansion of 
+the breadth of coverage of ratings tools to include operational reporting and existing 
+buildings, and also by linking their use to the rollout of incentives and access to finance for 
+energy efficiency retrofits. 
+4.3.3.1 Recommended 2016-2020 Program Actions 
+Develop an energy performance benchmark for government buildings, with a view to 
+creating the market standard for all commercial buildings - similar to industrial energy 
+efficiency, better information on the current performance of the commercial building stock is 
+necessary in order to track progress and penetration of efficiency programs. Creation of an 
+energy benchmark for government buildings is proposed, by which underperformance can be 
+identified and measures to address them designed through retrofitting and linkage to other 
+initiatives under this Action Plan. Government buildings are proposed as a first stage since 
+good information about current building performance is available through the GEMP 
+program. This benchmark setting exercise can lead to establishment of performance ratings 
+or energy use benchmarks for different categories across the entire public and private 
+building stock according to their use (e.g. buildings with mostly BPO facilities will have 
+different energy requirements to other traditional office space). 
+Create linkage between building performance benchmarks and availability of funding 
+and incentives – as above, it is important that building benchmarks and ratings are used as 
+a basis for further policy, if they are to gain currency and relevance, and thereby influence 
+levels of energy efficiency activity by catalyzing new projects. To that end, further work is 
+required to formally link achievement of benchmarks and ratings levels to eligibility for funding qualification or implementation support. This work must be developed in tandem 
+with other initiatives to create energy efficiency incentives and services (see Part 6 of this 
+document). 
+Establish a mandatory performance disclosure requirement for commercial buildings 
+on sale or lease – some countries have successfully implemented a mandatory requirement 
+for commercial building vendors to disclose the energy performance of a building before it 
+can be sold. Mandatory performance disclosure can send a powerful market signal for 
+energy efficiency. Disclosing energy performance according to agreed benchmarks provides 
+access to consistent and meaningful information about building performance, making it 
+easier for companies to buy or rent more energy efficient office space. An informed market 
+rewards better performing buildings and creates a strong market-based incentive for owners 
+to improve their properties with cost-effective energy efficient upgrades that are attractive to 
+buyers and tenants and increase return on investment, by allowing ratings to feed into and 
+influence property price determinations. 
+In order to successfully implement such a scheme in the Philippines, more work needs to be 
+done on the parameters for implementation, including the legislative basis for making 
+building energy performance disclosure mandatory, under what circumstances energy 
+performance needs to be disclosed, using what format or tool, and for which properties. 
+4.3.3.2 Monitoring and Milestones towards 2030 targets 
+x Benchmarks established for operating energy use in Government buildings by 2017 
+x Mandatory disclosure of building performance on sale or lease introduced by 2020 4.4 Summary of Commercial Buildings Energy 
+Efficiency Initiatives 
+Table 6 Commercial Building Sector Energy Efficiency Initiatives 2016-2020 
+Program Proposed Action By When Responsibility 
+COM-A: Government 
+Buildings Efficiency 
+Program
+Strengthen and extend the GEMP 
+program 
+2017 DOE 
+New Guidelines released for 
+government procurement of energy 
+efficiency services
+2017 DOE, Procurement 
+Services
+Complete a model ESCO 
+procurement and implementation 
+project at a high-profile Government 
+building site
+2018 DOE 
+COM-B: Building 
+Codes Program
+Permanent co-ordination body 
+established for EE input to Green 
+Building Code development
+2017 DPWH, DOE, IFC, 
+LGUs
+Establish Building Code training 
+program for selected LGUs 2017
+DPWH, DOE, IFC, 
+LGUs
+Inclusion of energy efficiency in threeyear review process of Green Building 
+Codes 2019 DPWH, DOE
+COM-C: Building 
+Information and 
+Ratings Program
+Develop annual performance 
+information tool - benchmark for 
+government building energy efficiency 
+2017 DOE, private sector 
+partners, EUSWITCH
+Incentive mechanism to link 
+certification to eligibility for energy 
+efficiency incentives
+2018 DOE
+Mandatory Disclosure of performance 
+ratings on sale or lease of buildings 
+2020 DOE, DPWH, 
+property agencies, 
+LGUs 5 RESIDENTIAL BUILDINGS SECTOR 
+ENERGY EFFICIENCY ACTION PLAN 
+5.1 Why this sector is important to energy use in 
+the Philippines 
+Residential energy consumption in the Philippines is dominated by three sectors: space 
+cooling and refrigeration (56% of consumption), appliances (18%) and lighting (11%). Any 
+efforts at reducing energy consumption in residential buildings should therefore be targeted 
+at these three sectors. 
+Despite a growing population, energy demand in the residential sector is forecast to remain 
+flat over the period to 2030. This forecast is the result of energy efficiency measures in place 
+and planned over the period that are expected to cancel out endogenous demand growth. 
+Alongside ongoing expected strong demand growth for transport and industrial sectors, this 
+sees the forecast proportion of energy consumed in residential buildings decrease markedly, 
+from 26% to 14% of overall energy consumption. 
+5.2 Pathway to 2030 Energy Efficiency Roadmap 
+targets 
+Table 7 Residential Building Sector Energy Efficiency Targets to 2020 and 2030 
+2013 
+actual 
+2020 2030 
+Baseline residential buildings energy consumption (KTOE) 6,622 6,678 7,160 
+Targeted residential buildings energy consumption (KTOE) 6,238 5,728 
+Targeted savings (KTOE) 439 1,432 
+% saving over business as usual 6.6% 20.0% 
+Source: DoE EPPB data 
+The 2030 energy savings target for the residential sector has been set at 20% lower 
+consumption than the business-as-usual baseline, which sees a targeted interim reduction in 
+residential energy use of 439 KTOE, or 5,106 GWh, by 2020. This is the equivalent of taking 
+a 120MW power plant off line in the five-year Action Plan period. There are a number of 
+measures that could potentially assist to meet this very achievable target and increase 
+residential energy savings substantially, especially through support for greater deployment of 
+lighting, cooling and building envelope improvements in the Philippine housing market. 
+5.3 Programs and Actions to Progress 
+5.3.1 RES-A: Appliance Standards and Labeling 
+Program 
+Implementing minimum energy performance standards that are enforceable is a key future 
+activity related to residential energy use. Appliance standards have proven a very successful 
+mechanism in a number of countries, with successful and well-documented programs like 
+EnergySTAR in the United States, and Top Runner in Japan, leading to sustained and 
+substantial energy demand reductions. Testing and labeling of household appliances has been the cornerstone of energy efficiency 
+policy for the residential sector given its coverage of the principal consumption appliances 
+used. DOE has had support from the ADB-funded Philippine Energy Efficiency Project on 
+this program and implemented it in partnership with the DTI’s Bureau of Philippine Standards 
+and the Philippines Appliances Industry Association. The testing program is mature and 
+requires appliances and lighting products to meet prescribed minimum energy efficiency 
+levels and to carry an energy label at the point of sale. Covered products include window airconditioners, household refrigerators and freezers, and lighting. Coverage is in the process 
+of being expanded to televisions, clothes washers and fans which will provide coverage for 
+the majority of energy consumption of appliances used in the Philippines. However, the 
+conversion of this labeling information into enforceable standards for the sale of all 
+appliances in the country is still some way off – enforcement mechanisms and channels for 
+rollout remain under development. 
+MEPS have proven effective in many countries as a mechanism for improving the energy 
+efficiency of appliances used in the market. The main issue with this is in allocating roles 
+and responsibilities; BPS has a focus on product safety rather than increasing stringency of 
+MEPS. The Enercon Bill needs to sort out these responsibilities and allocate a specific role 
+for energy efficiency product standards, however in the absence of this there needs to be 
+improved coordination between DTI and DOE to ensure that energy efficiency is better 
+captured. 
+On the issue of standards, while it relates more to commercial and industrial energy use 
+settings, standards for electric motors will support efforts to both improve efficiency of 
+appliances using motors and motors used in building plant and industrial processes. 
+International standards for efficiency of motors are well developed and the Philippines can 
+first adopt these standards, before considering the implementation of enforceable minimum 
+energy performance standards for motors in future. There is currently good local representation in existing international efforts to develop and introduce these standards through the EU 
+funded High-Efficiency Motors (HEMS) initiative. 
+5.3.1.1 Recommended 2016-2020 Program Actions 
+x A DOE/DTI Coordination mechanism is proposed to overcome the lack of communication and occasionally conflicting objectives between DOE and DTI on product 
+standards for energy efficiency. Gradually, this must be streamlined into a single 
+program for joint responsibility on energy efficiency standard setting and application 
+to different appliance groups.
+x A strengthened post-market surveillance program has been proposed by DTI as 
+a means of improving enforcement of current standards relating to efficient product 
+sale. Such a surveillance program may be best administered by a combination of 
+government coordination and industry-led enforcement through bodies such as the 
+Philippine Appliance Industry Association (PAIA) or other public-private sector collaborations (see Part 6 of this document). 
+5.3.1.2 Monitoring and Milestones towards 2030 targets 
+x Reformulated mechanism for EE input and cooperation on standards development by 
+2017 
+x Measurable increase in post-market surveillance programs by 2017 5.3.2 RES-B: Bulk Purchase and Large Employers ’
+Staff Energy Efficiency Loans Program 
+Given the cost-effectiveness of switching out many inefficient appliances (such as lowefficiency lighting, window-style air-conditioners and cooking equipment), there remains an 
+opportunity for greater market penetration of particular appliances. Persistent high electricity 
+prices in the Philippines reinforce the cost-effectiveness of many measures. However, the 
+average Filipino electricity consumer has limited disposable income with which to fund a 
+purchase of efficient appliances, and a limited appetite for external finance that may be 
+perceived as expensive. 
+Based on this, there is an emerging opportunity to match corporate social responsibility with 
+energy efficiency goals for increased uptake of energy efficient appliances. This proposed 
+program targets staff of large (e.g. more than 500) employers, by offering them employee 
+micro-loans for the purchase of specified energy efficiency equipment. The loans could be 
+repaid through salary deductions administered through the payroll department of the 
+employer, thereby internalizing credit risk. The employee can justify and afford these 
+repayments in part through the reduction in energy bills that they will experience, and can 
+also avail of concessional interest rates (effectively set by their employer’s cost of finance). 
+There is a need for further development of parameters around the project, such as: what the 
+qualifying products are; how the employee eligibility criteria should be set; what the loan 
+terms and recourse mechanisms would be; and what documentation would be required. 
+Qualifying products might include: 
+x Insulation and weatherproofing equipment 
+x Air-conditioning units 
+x LED lighting 
+x Efficient electric fans 
+x Efficient televisions 
+DOE would be involved in determining what products qualify as efficient products under the 
+scheme, which could commence with a limited number of product offers for simplicity of 
+administration. Once the volume of demand is determined for an organization, the possibility 
+of bulk purchase discounts can also be explored. 
+Such a program, catalyzed by DOE, can lead to increased take-up of energy efficient 
+appliances. It overcomes existing barriers related to purchase reluctance based on upfront 
+costs, finance, transaction costs and product information. Once formulated, the program is 
+highly replicable. In relation to replicability, the Philippines is a world leader in business 
+process outsourcing (BPO) with many large firms basing global operations in the country to 
+perform a range of functions including payroll management. If leading BPO firms can 
+develop capacity and capability to assist organizations to administer such an energy 
+efficiency loan processing initiative via corporate payroll departments, it can become part of 
+the product offering not just to Filipino companies, but also to provide for leadership 
+worldwide to other companies that outsource payroll services to the Philippines. 
+It is noted that there is also the possibility for credit card providers to be interested in similar 
+micro-credit schemes for energy efficiency appliance purchases that improve their corporate 
+social responsibility standing, whereby they could increase their market penetration by However, this approach lacks the engagement of large employers and the BPO sector, which 
+are key co-benefits of the proposed scheme. 
+Figure 7 provides a summary of the benefits of the proposed program for different 
+stakeholders. 
+Figure 7 Appliance Bulk Purchase Incentive Program through corporate payroll 
+5.3.2.1 Recommended 2016-2020 Program Actions 
+Establish scheme parameters (partners, products, conditions) – it is proposed that DOE 
+approach a limited number of large Philippine companies to pilot this scheme with their 
+employees. At the same time, DOE can establish product partners and a clear sense of the 
+level of efficiency required from qualifying products, which will help in benchmarking the 
+energy saved under this scheme. It is not envisaged that a separate finance requirement will 
+need to be coordinated, as finance will be made available through microloans within the 
+payroll department of each company. Only if the program reaches a significant scale will the 
+finance sector need to be engaged. 
+Establish DOE support service – once the parameters of the program are established 
+through this initial pilot, and a number of employee loans have been processed, DOE can 
+begin to offer a staff benefits support service and advice on how to set up the program for 
+any company above a certain size threshold (e.g. 500 employees). 
+DOE: EE 
+Appliances 
+bulk 
+purchase 
+incentive 
+program 
+Employers: 
+Demonstrated 
+corporate social 
+responsibility 
+Staff retention 
+Employees: 
+Access to finance 
+Lower energy bills 
+Updated and 
+discounted 
+appliances 
+Market 
+Transformation: 
+Increased 
+penetration of EE 
+Industry 
+Development: 
+leadership and 
+replicability through 
+BPO sector 
+Suppliers: 
+Increased sales 
+ Support for sale of 
+more efficient 
+products 5.3.2.2 Monitoring and Milestones towards 2030 targets 
+x Scheme operational by 2017 
+x In terms of actual results, it is relatively simple to gather information about rates of 
+take-up for companies that register as participants under this scheme. Assuming a 
+standard level of efficiency for appliances being replaced, it should be relatively 
+straightforward to calculate the amount of energy savings per appliance and the 
+number of appliances supported by the scheme. It will be important to reference recommended actions back to the level of ambition required in the 2030 EE Roadmap, 
+and to set up monitoring actions. 
+5.3.3 RES-C: Behavioral Information Program 
+There is room for further work to be done on influencing residential electricity usage behavior 
+through the provision of on-bill information and further awareness raising campaigns. Such 
+programs have proven effective in creating sustained and cost-effective energy use 
+reductions as they work through consumer sentiment and behavior change rather than 
+requiring direct investment in hardware. 
+Housing design and benefits of insulation is one area that warrants further attention for 
+information programs targeted at households. Many houses in the Philippines remain poorly 
+insulated and cooling accounts for the majority of household energy use. Reductions in airconditioning use through building envelope measures and cool roofs to reduce heat gain 
+could be a clear priority of such measures, though it is noted that air-conditioning penetration 
+remains relatively low. 
+5.3.3.1 Recommended 2016-2020 Program Actions 
+Support further work on residential energy behavior change using Billing Information 
+Analysis, including for low-income groups – there is a growing body of work that points to 
+the influential nature of information provided in electricity bills through its role in changing 
+consumer behavior. This can especially be targeted at low-income households to include 
+both energy efficiency information as well as information about consumption levels relative to 
+their community cohort. 
+Utilities such as MERALCO have well developed efforts to consider information included on 
+residential energy bills in the Metro Manila area. Billing information in the Philippines is 
+among some of the most disaggregated and detailed in the world, in the interests of price 
+transparency; however this information does not currently explicitly target energy efficiency 
+behavior. 
+Information companies such as US-based Opower provide billing information services that 
+engage customers with targeted information and systematic approaches to consumer 
+engagement aimed at achieving energy efficiency. Such approaches can also be tailored to 
+low-income customer groups. Across a wide range of programs, this has led to the 
+sustained reduction of between 1-3.5% of residential energy use, which on its own could 
+account for as much as half of the 2020 Action Plan target for the residential sector. 
+Programs such as this could be further explored by Philippines utilities. DOE can support 
+MERALCO and other utilities to work more closely on billing information analysis. Behavioral 
+impact of the installation and use of home energy monitoring systems can also be explored, 
+as another means of improving residential energy information at the time of use. Support extension of the use of pre-paid electricity pilot models. MERALCO is currently 
+heavily engaged in the development of the 'Kuryente Load' program, which has been piloted 
+in Rizal and Manila, and has been approved by authorities to be expanded to parts of 
+Quezon City, Caloocan, Pasig, Makati, and Mandaluyong. MERALCO expects to increase 
+its current 5,000 prepaid customers to 40,000 by December 2015, with a further 100,000 
+customers expected by end 2016. 
+Early measurement of pilot programs indicates that better and more timely information 
+regarding energy use has created energy savings of as much as 20%. This is a significant 
+finding that shows the potential of prepaid electricity models to appeal to the mindset of 
+relatively low-income electricity consumers in the Philippines and to actively engage them in 
+energy efficiency activities, mirroring the cultural acceptance of cellphone crediting 
+mechanisms. Daily communications about electricity load levels provides an important 
+interface point between utilities and customers on their electricity usage and can be used as 
+a trigger for significant awareness raising and promotional opportunities, such as incentives 
+for energy efficiency opportunities, monthly challenges, product promotions and community 
+energy savings competitions. 
+DOE can support further analytical work in understanding the nature of electricity purchase 
+decisions in the context of these schemes. In particular, DOE can reinforce studies of the 
+relative effectiveness of different consumer information regimes under prepaid electricity 
+models, to understand the most effective nature and timing of information provided to 
+consumers, and to consider alternative further uses of communications with prepaid 
+customers to incentivize energy efficiency activity. DOE also has a role to play in 
+disseminating prepaid electricity pilots to other distribution utilities around the country. 
+Harness the private sector and new media in creating information and awareness 
+campaigns. DOE intends to continue its efforts to raise awareness of the energy situation in 
+the country, through awareness campaigns on energy efficiency and energy savings 
+measures. Previous ‘tri-media’ campaigns have been difficult to monitor in terms of their 
+impact, despite their wide dissemination. These approaches must now be supplemented 
+with refreshed campaigns that target residential energy awareness and harness social media 
+for new and innovative approaches, partnering with the private sector where possible. 
+Examples of such new campaigns include the Philips #MayMagagawaKa campaign and the 
+MERALCO ‘Bright Ideas’ program, both of which provide new insights and ways to engage 
+with customers. 
+5.3.3.2 Monitoring and Milestones towards 2030 targets 
+x Prepaid customer trial extended to 200,000 customers by 2017 
+x Awareness campaigns reaching a measurably increased number of customers during 
+the Action Plan period 5.4 Summary of Residential Sector Energy Efficiency Initiatives 
+Table 8 Residential Sector Energy Efficiency Initiatives 2016-2020 
+Program Proposed Action By When Responsibilities 
+RES-A: Appliance 
+Standards and 
+Labeling program
+Reformulate mechanism for EE input 
+and cooperation on standards 
+development 
+2017 DOE, DTI-BPS 
+Increase post-market surveillance 
+programs 
+2017 DOE, DTI-BPS 
+RES-B: Large 
+Employers Bulk 
+Purchase and Staff 
+Incentive Program
+Undertake design of scheme 
+x Eligible organizations 
+x Eligible products 
+x Scheme mechanics 
+2016 DOE, corporate 
+sector, BPO 
+sector
+Roll out scheme and establish DOE 
+support activities 
+2017 DOE 
+RES-C: Behavioral 
+information program 
+for low-income 
+groups
+Investigate greater utilization of billing 
+information programs and pre-paid 
+billing models 
+2017 DOE, utilities, 
+private sector 
+providers 
+Continue awareness raising 
+campaigns on EE including for 
+housing design (e.g. insulation and 
+cool roofs) 
+ongoing DOE, media 
+partners6 CROSS SECTORAL ENERGY EFFICIENCY 
+ACTIONS 
+6.1 Defining the need for cross-sectoral energy 
+efficiency actions 
+In keeping with the energy efficiency ‘ecosystem’ approach as outlined in Part 1, the range of 
+enabling conditions and circumstances for stronger energy efficiency action can be described 
+in terms of more than just energy efficiency actors or organizations. The strength of the 
+ecosystem can also be conceived of thematically, taking account of for example the level of 
+technological sophistication present, the prevailing energy culture, and the degree of 
+entrepreneurship and innovation capacity. Consideration of some of these more dynamic 
+characteristics, and their role in overall success and level of energy efficiency implementation, is important to round out the necessary actions to catalyze energy efficiency. 
+This Action Plan document sets out many initiatives that are specific to individual energy-use 
+sectors. However, taking a more thematic approach, it is clear that there are also areas of 
+energy efficiency activity which cut across all sectors – importantly, in the areas of 
+intermediary organizations, structures and delivery vehicles for policy, finance, institutional 
+development, and energy efficiency markets. These crosscutting areas are contemplated in 
+this section, and to the extent possible, sharpened into some key practical initiatives that 
+might be progressed. 
+The journey that the Philippines takes towards more integrated consideration of energy 
+efficiency as a priority issue on these key cross cutting issues can be represented in Figure 8 
+below. 
+Figure 8 Crosscutting dimensions of the energy efficiency ‘ecosystem’ or enabling 
+environment 
+In summarizing the current status of development of this ecosystem in the Philippines 
+according to such a thematic breakdown, the following observations can be made: Policy and Regulation: engagement and awareness is growing at the political level in the 
+Philippines, due to a growing understanding of the benefits of energy efficiency in the light of 
+energy supply constraints. Further development in policy and regulation is the direct subject 
+of this Roadmap and also of overarching legislative initiatives, such as the Enercon Bill. 
+There is a growing interest for DOE to use and potentially test its legislative mandate to 
+promote further energy efficiency on specific policy initiatives, such as the strengthening of 
+minimum energy performance standards. 
+Financing: there are some notable EE finance initiatives in the country, however financing 
+for energy efficiency projects is generally at an early stage of development, with most project 
+proponents financing their activities from their own cash flow. To achieve a higher rate of 
+implementation access to finance must be improved, and capacity building for finance sector 
+development remains necessary. There remains a lack of sophisticated energy efficiency 
+finance knowledge and a general lack of investor confidence in energy efficiency projects, 
+despite the promise of attractive returns. 
+Institutional Development: while DOE has a lead role on energy efficiency, the topic cuts
+across many organizational responsibilities that belong to other agencies, such as transport, 
+industrial policy, product standards and building codes. In almost all cases, coordination 
+mechanisms for delivery of energy efficiency need strengthening and program responsibilities require clarification. Moreover, given the broad sweep of issues across industry, 
+transport and buildings sectors, DOE does not have the resources to delivery all of the 
+energy efficiency initiatives that may be required to reach current targets. A new vehicle to 
+attract external finance, engage partners and work with collaborators may therefore be 
+required. 
+Markets and Pricing: the emergence of active intermediary markets for EE delivery is yet to 
+happen in earnest, and recognition of this in energy pricing, market-based incentives and 
+regulatory structures is yet to occur. Additionally, the nascent ESCO market needs to be 
+strengthened to ensure strong implementation capability. 
+To address these current shortfalls directly, and lay the foundations for a stronger energy 
+efficiency ecosystem in the Philippines, this action plan recommends a number of key 
+actions and initiatives as outlined below. 
+6.2 Programs and Actions to Progress 
+6.2.1 CS-A: A new vehicle for public-private collaboration on energy efficiency 
+In developing this series of Action Plans it has become patently clear that DOE is not in a 
+position to implement energy efficiency without the direct involvement of other implementation partners both within and outside Government. Specifically, within Government DOE has 
+jurisdiction over energy, however most energy efficiency activities require engaging with 
+organizations in the key energy use sectors for whom other Departments play a leading role: 
+notably, DTI with industry and energy using appliances, DOTC with transport, and DPWH 
+with buildings. A new institutional arrangement is therefore required to both enfranchise and 
+formalize energy efficiency responsibilities of these agencies, and bring together the many 
+different organizations with key implementation roles in energy efficiency, including those 
+from the private sector. Such an institution would have an express mandate to focus on enduse energy efficiency and to deliver on core aspects of this Action Plan. It is a clear gap in 
+the current energy efficiency ecosystem of the Philippinesto the detriment of current efforts Addressing this gap may be best achieved through the formation of a public-private body, 
+tentatively called the Philippines Energy Efficiency Advisory Board (“PEEAB”). This Board 
+would play a number of roles in creating collaboration and partnerships, leading policy 
+advocacy, fostering industry development and coordinating awareness-raising campaigns. 
+On this last point, if Government wishes to take a stronger role in awareness raising and 
+promotion of energy efficiency, a single clear authority for energy efficiency composed of 
+different Government agencies would be in a position to send a strong community 
+awareness message. 
+The Government is already experienced in administering similar collaborative agencies for 
+other issues, including: 
+National Competitiveness Council: the Public-Private Sector Task Force on Philippine 
+Competitiveness (later renamed to the National Competitiveness Council or NCC) was 
+established in 2006, with a focus on promoting a more competitive Philippines and 
+instilling a culture of excellence, through public-private sector collaboration as means 
+to reduce poverty through inclusive growth. It supports this agenda through private 
+sector initiatives that support public policies, with clear deliverables and metrics. The 
+NCC focuses on 13 areas expected to improve the country’s competitiveness, with 
+each area handled by Working Groups comprised of public and private sector members, including government agencies and offices already involved in the priority projects as well as foreign and local chambers of commerce and various industry associations. The Department of Trade and Industry (Competitiveness Bureau) serves as the 
+NCC Secretariat. 
+Climate Change Commission: The Climate Change Commission is the lead-policy making 
+body of the government tasked to coordinate, monitor and evaluate government programs and ensure mainstreaming of climate change in national, local, and sectoral 
+development plans towards a climate-resilient and climate-smart Philippines. It is an 
+independent and autonomous body that has the same status as that of a national 
+government agency, and falls under the Office of the President, who serves as Chair. 
+National Renewable Energy Board: The Board was established in 2010 to act as a policy and 
+monitoring body for the effective implementation of the Renewable Energy Act of 2008. 
+It is comprised of an Executive and working committees to delve into specific responsibilities such as finance and planning, market transformation, and technical issues. 
+It is proposed that a PEEAB would be constituted with features drawn from all three of these 
+similar cross-sectoral organizations. For determining the structure of the organization, many 
+other international reference points exist also, such as agencies set up for similar purposes 
+in countries such as Viet Nam (Energy Conservation Office), South Africa (National Energy 
+Efficiency Agency), Ukraine (State Agency on Energy Efficiency and Energy Saving of 
+Ukraine), New Zealand (Energy Efficiency and Conservation Authority), the United Kingdom 
+(Energy Savings Trust) or the United States both at the Federal and State levels. Key 
+characteristics include the involvement of both public and private sector; being granted 
+responsibility for key aspects of program delivery; and high-level connection with executive 
+decision making of Government. It is important to learn from the experiences of constituting 
+each of these bodies, such that pitfalls can be avoided and that the new vehicle can 
+discharge the envisioned organizational responsibilities. Further, in the context of limited 
+energy efficiency implementation capacity in the Philippines, it is important that the 
+organization can harness leadership and drive wherever it exists, so that it empowers energy 
+efficiency implementation to be led by the stakeholder group in the best position to do so, 
+whether public or private. Such efforts have been mooted before; it is noted that, through House Bill No. 1908 tabled in 
+2013, Congress has already been asked to consider formation of “an inter-agency energy 
+conservation committee to deploy cost-effective energy conservation measures and 
+technologies and for other purposes.” This recognizes the multi-disciplinary nature of energy 
+efficiency and the need for direct engagement of other Departments, however this committee 
+was a limited version of the need expressed here focused on efficiency in Government 
+Buildings, rather than including the private sector, and was ultimately not passed. 
+Suggested activities for the PEEAB are for further development, but would likely include: 
+Energy Efficiency Advocacy and Policy Development 
+x Policy advisory and input 
+x Assistance with legislative program 
+x Specific oversight responsibilities for elements of the Energy Efficiency Action Plan, 
+and in relation to the Enercon Bill 
+x Research and knowledge dissemination, with an emphasis on data monitoring and 
+program evaluation 
+Industry Development and Accreditation 
+x ESCO industry support and accreditation 
+x Product and technology accreditation 
+x Market surveillance for non-compliant appliances being sold 
+Awareness Raising 
+x CEO-level engagement programs 
+x Awareness raising 
+x LGU training 
+x Links with education and broader efforts to institutionalize energy efficiency awareness 
+If the PEEAB was specifically charged with responsibilities to deliver on specific initiatives 
+under the National Energy Efficiency Action Plan, this could be an important vehicle for 
+private sector engagement through working committees, and could attract external finance to 
+deliver on priority implementation activities. Another aspect of success in attracting external 
+funding would be for the PEEAB to build specific capacity in monitoring and evaluation of 
+energy efficiency programs according to prescribed indicators. 
+There is the possibility of such an organization also playing a global knowledge development 
+role by better linking to similar organizations in other countries to include the Philippines in 
+regional and global energy efficiency discussions. Such organizations include other country 
+governments and international networks of NGOs, such as the Global Alliance for Energy 
+Productivity, network of Councils for an Energy Efficient Economy, or other international 
+energy efficiency networks. This will be especially important in its role as a Philippines 
+knowledge hub and disseminator of best practice energy efficiency information, in order to 
+build momentum of local energy efficiency policy and programs, and in the longer term to 
+form the basis for the national Energy Efficiency and Conservation Center to be mandated, 
+as foreshadowed in the Energy Efficiency and Conservation Roadmap 2014-2030. 
+6.2.1.1 Recommended 2016-2020 Program Actions 
+Decide on organization inception matters – such matters would need to be resolved in 
+discussion between Government Departments expected to play a key role. Decisions must be made on the organization’s constitution, Board composition, status in Government, 
+funding structure, mission and vision, early partners and supporters. 
+Scope Initial Activities – A strategic planning exercise must be conducted to determine the 
+early activities of the organization, linking to both the activity envisaged under the Action 
+Plans as outlined in this document, and also the available resources. 
+Approve the creation of a Philippines Energy Efficiency Advisory Board through retabling of legislative instruments with Congress. 
+6.2.1.2 Monitoring and Milestones towards 2030 targets 
+x Organization established and operational by December 2016 
+x Identifiable contribution to energy efficiency policy implementation by end 2017 
+6.2.2 CS-B: Energy Efficiency Revolving Fund and 
+Finance Sector Capacity Building 
+A pervasive cross-sectoral barrier relates to the disconnect between energy efficiency project 
+proponents and traditional financiers over their perception of energy efficiency project risk. 
+Project developers and ESCOs generally see energy efficiency projects as unique low-risk 
+financing opportunities with attractive returns; however, traditional financiers usually see the 
+same projects as expensive transactions that are relatively small, with a lack of adequate 
+collateral, difficulties in establishing baselines, a dearth of standard lending documentation, 
+and a general lack of precedence and experience. This summary mirrors the experience of 
+the IFC Sustainable Energy Finance program in the Philippines; which despite funding a 
+number of successful projects and a resultant portfolio of approx. US$300m, has not created 
+a step change in energy efficiency uptake. Average deal size remains in the $2-3m range. 
+Given this general view of EE project risk, many banks have a poorly developed capacity to 
+assess EE risk, and a poor appetite for what are seen as difficult projects. There are, 
+however, further measures that can be taken to make it easier for private sector financiers to 
+undertake energy efficiency project lending and quickly build the capacity of the banking 
+sector to undertake such projects. 
+One such measure is to create an energy efficiency revolving fund, which is a technique 
+successfully deployed in other countries (notably Thailand in the ASEAN region). A revolving 
+fund is a dedicated fund that is available for qualifying energy efficiency projects, which is to 
+be repaid through energy savings. A revolving fund is simply a construct to demonstrate a 
+clear signal that EE funding is available on understood terms. 
+DOE can act as the arranger of such a fund and can solicit commercial funders to be the 
+funding participants. The fund can thereby act as a focal point for any EE project proponents 
+to gain project finance and will build capacity of the local finance sector in energy efficiency 
+lending at the same time as improving the availability of finance to project proponents. 
+Another aspect of improving the availability of energy efficiency finance is, as noted above, 
+the capacity of commercial banks to understand and accept energy efficiency risk. This 
+program for support of commercial banks could be run through the Development Bank of the 
+Philippines (DBP) as a key agency for capacity building in the finance sector. The Action Plan also notes that not all energy efficiency finance will be sourced through 
+traditional banks; there will be a growing role for both non-bank debt finance and private 
+equity investment. The availability of both debt and equity finance is only one side of building 
+energy efficiency finance capacity; energy users and project developers themselves must 
+also improve their ability to understand the needs of financiers and present investable 
+projects by understanding and addressing risk perceptions that may be held by potential 
+funders. Alongside development of the revolving fund, the Action Plan proposes a conduct a 
+capacity building and training program for users of energy efficiency finance to explain 
+available sources of finance, and the needs and requirements of different financiers, in the 
+interests of bringing more investable projects forward for implementation. 
+A final plank of strengthening the energy efficiency finance ‘ecosystem’ is in improving the 
+risk perception of lending against performance contracts and ESCO performance. This is 
+addressed in part through measures for ESCO industry strengthening as outlined in the 
+Industry Sector Energy Efficiency Action Plan, outlined in Part 2 above. 
+6.2.2.1 Recommended 2016-2020 Program Actions 
+Establish an Energy Efficiency Revolving Fund, building on and broadening the work 
+of IFC’s Sustainable Energy Finance Program. Such a fund should be sized to send a 
+strong signal of the investment potential and the intended level of energy efficiency 
+implementation, and in this regard, a figure of approximately USD 100m or PHP 5 billion is 
+proposed. The Fund would be made available to large-scale industrial and commercial 
+building energy efficiency projects that could demonstrate their eligibility in terms of meeting 
+certain project parameters, including 
+x Loan size and term 
+x Amount of energy savings 
+x Performance against established energy use benchmarks for the sector 
+x Compliance with data and performance monitoring requirements 
+x Potential for replicability 
+Importantly, the Fund could be kick-started by the involvement of concessional sources of 
+finance to ensure that low interest rate loans could be offered. A number of preparatory 
+actions would need to be made by DOE, including the recruitment and contracting of funding 
+partners, establishment of lending parameters including project eligibility, credit requirements, roles and responsibilities, and Fund administration. 
+Care must be taken to ensure that a Revolving Fund creates permanent increases in banking 
+sector energy efficiency lending capacity; experience in Thailand shows that, once the Fund 
+was withdrawn, the lending activities of partner financial institutions was not sustained at the 
+level envisaged. It has bee suggested that, coupled with introduction of such a fund, DOE 
+could work with Bangko Sentral ng Pilipinas (BSP) to explore a regulatory intervention 
+requiring banks to hold a minimum exposure threshold for green/sustainability/climate 
+projects, which of course would include energy efficiency projects. 
+Create an Energy Efficiency Finance Program for the commercial bank sector – this 
+training program could potentially be led by DBP as a key capacity building partner of the 
+finance sector. The program would aim to build on successful bank training programs run in 
+other countries, such as those supported by ADB in Indonesia and Sri Lanka, which aim to 
+equip commercial banks with the administrative skills required to accept energy efficiency 
+risk. Coordinate an Energy Efficiency Finance Training Program for large energy users on 
+investable projects. DOE could provide stronger coordination for capacity building activities 
+for project proponents, aimed at creating an investible EE project and expanding the pipeline 
+of EE projects in order to attract finance, including equity capital and non-bank finance. 
+Efforts at this are currently underway through a number of providers. DOE is well placed to 
+better coordinate this training activity. 
+6.2.2.2 Monitoring and Milestones towards 2030 targets 
+Measurement of the impact of efforts to improve engagement with the energy efficiency 
+finance sector will be done through 
+x Drawdowns on the Revolving Fund; 
+x Identifiable and measurable sizes of energy efficiency lending portfolios of major 
+financial institutions; 
+x Monitoring of non-bank investments in energy efficiency in the Philippines as tracked 
+by private market providers 
+6.2.3 CS-C: Energy Efficiency Data Management, 
+Monitoring and Evaluation Program 
+The establishment of a robust and viable platform for the collection of energy efficiency data 
+and information, and its use as feedback for the effectiveness and refinement of programs, is 
+a longstanding requirement for energy efficiency project development. Without such 
+information, decision makers are unable to have confidence about the success of programs 
+and accountability for funding decisions is made more difficult. 
+Energy efficiency monitoring and evaluation activities are notoriously complex at the macro 
+or economy-wide level. They involve the setting of a hypothetical business-as-usual future 
+energy consumption baseline, having sufficient surety through measurement and data 
+collection about the impact of all energy efficiency interventions, and having accurate data 
+about actual final energy consumption achieved, which is used to assess overall savings 
+against the hypothetical level of consumption. 
+The calculation of each of these three components is further confounded by a number of 
+intractable issues. For example: 
+x Knowledge of future energy usage levels must account for a range of unknown or 
+unpredictable factors such as future population distribution, overall rates and composition of economic growth, and future climatic patterns; 
+x The impact, measured as financial and environmental impact, of energy efficiency 
+interventions varies according to endogenous changes in energy sector parameters, 
+including changing energy prices, energy supply constraints, carbon intensity of electricity supply, and underlying rates of technology change and innovation. Further, 
+changes in energy behavior and energy culture as a direct impact of energy efficiency 
+programs are difficult to separate and count as additional to overall energy consumption patterns. 
+x There are multiple data quality and availability issues with collation of actual energy 
+consumption. DOE produces energy accounts which detail sectoral consumption 
+levels, however the veracity of data used is unclear. At the resolution of sectoral or 
+locationally specific data on energy consumption, DOE requires participation of many 
+data contributors, including large industrial sites, commercial building owners and 
+precincts, utilities and fuel distributors. At present, DOE lacks the resources and capacity to both collect and effectively collate the 
+information at each of these levels. It is unrealistic to suggest that, in the next five years, 
+each of these issues and complicating factors can be adequately addressed. However, as a 
+starting point, a priority for data management should be that quantitative indicators are 
+established to begin tracking key program parameters and the success of specific 
+interventions under this action plan. This will serve as a precursor to more sophisticated 
+understandings and modeling of energy consumption patterns and energy efficiency program 
+impacts. 
+Each sectoral Action Plan presented here has a series of initiatives that can be monitored 
+through the use of proxy indicators as follows: 
+Table 9 Proposed Proxy Indicators for Energy Efficiency Monitoring and Evaluation 
+Sector Program Suggested Proxy Indicator How measured 
+Industrial IND-A: Industry 
+Skills, Capacity 
+and Opportunity 
+Identification
+1. Number of ISO50001 accredited 
+industrial plants 
+2. Number and size of industrial 
+energy efficiency upgrade and 
+implementation projects completed through UNIDO, HEMS and 
+PEZA activities 
+Data collated by 
+responsible agencies 
+and program 
+administrators
+IND-B: ESCO 
+Development 
+Program
+3. Number of accredited ESCOs 
+4. Number and financial size of 
+projects executed by accredited 
+ESCOs 
+Data collated by 
+agency responsible 
+for ESCO 
+accreditation
+IND-C: Demand 
+Response and 
+Demand Side 
+Management 
+Program
+5. Size and duration of Demand 
+Response contributions to 
+meeting power demand 
+6. Number and size of DSM 
+activities by utilities 
+Electricity distributor 
+reports
+Transport TRA-A: Vehicle 
+Efficiency 
+Improvement 
+Program
+7. Fuel intensity of new vehicles sold 
+8. Diesel use per registered vehicle 
+Vehicle sales data 
+Fuel consumption 
+and overall vehicle 
+fleet data 
+TRA-B: Public 
+Vehicle Driver 
+Awareness 
+Program
+9. Increased awareness on efficient 
+vehicles 
+Website hits on Fuel 
+Economy Run data 
+TRA-C: Freight 
+Transport Energy 
+Efficiency 
+Partnership
+10. Heavy vehicle and non-road 
+transport energy use as a 
+percentage of total transport 
+energy use 
+DOE and DOTC 
+databasesSector Program Suggested Proxy Indicator How measured 
+Commercial COM-A: 
+Government 
+Buildings 
+Efficiency Program 
+11. Reported government energy 
+consumption 
+12.Percentage of Government 
+buildings meeting specified 
+energy use benchmarks 
+GEMP reports 
+COM-B: Building 
+Codes Program
+13. Number of LGUs adopting Green 
+Building Codes 
+14.Number of referrals 
+LGU and Green 
+Building Code 
+implementer records 
+COM-C: Building 
+Information and 
+Ratings Program 
+15. Number of building certifications 
+16.Energy use of certified buildings 
+Building rating 
+organizations
+Residential RES-A: Appliance 
+Standards and 
+Labeling program 
+17. Number of products for which 
+minimum energy performance 
+standards apply 
+18.Sales of efficient appliances 
+DTI-BPS reports 
+Records of appliance 
+distributors and 
+manufacturers
+RES-B: Large 
+Employers Bulk 
+Purchase and Staff 
+Incentive Program 
+19. Number of participating employers 
+20.Size of loans made under the 
+program 
+DOE reporting 
+Participating 
+company reporting 
+RES-C: Behavioral 
+information 
+program for lowincome groups
+21. Normalized average bill of prepaid 
+electricity customers 
+Utility data 
+Consumer surveys 
+Cross 
+Sectoral
+CS-A: A new 
+vehicle for 
+public/private 
+collaboration on 
+energy efficiency 
+n/a 
+CS-B: Energy 
+Efficiency 
+Revolving Fund 
+and Finance 
+Sector Capacity 
+Building Program 
+22. Investments made under the 
+Energy Efficiency Revolving Fund 
+23.Number of financial institutions 
+making energy efficiency 
+investments 
+DOE and financial 
+provider records 
+This set of 23 suggested indicators must now be developed according to a clear allocation of 
+roles and responsibilities, noting that DOE is not the custodian of most of the data. This 
+realization makes clear that responsibility for the ongoing work required to improve data and 
+present monitoring and evaluation work must reside with the multi-sectoral organization 
+contemplated in CS-B above. Targets and objectives set against these indicators should be 
+made in reference both to establishment of a 2014 baseline and also the level of ambition 
+that is contained in the Energy Efficiency and Conservation Roadmap to 2030. 
+Such indicators, while not being able to address the full complexity of the overall impact of 
+energy efficiency on the economy and overall energy use, are focused on the first priority of 
+understanding the impact of funded programs on an ongoing basis. This will allow for efficiency programs. Activity to strengthen understanding of progress against the nominated 
+indicators will likely strengthen the available data to make future, more detailed determinations about actual program impacts on energy use. 
+As a separate practical initiative to the establishment of the monitoring and evaluation regime 
+for energy efficiency as outlined above, it is noted that the GEMP model has been successful 
+in building a database of information about energy consumption in Government Buildings. 
+To compliment the requirements of the GEMP, it is proposed to establish a requirement 
+through Executive Order that all large energy-using companies must designate a company 
+‘energy manager’ or energy conservation officer. This designate would be responsible for 
+filing energy use returns to DOE in an agreed common format, including regular reporting on 
+energy efficiency measures undertaken as well as reporting on energy use, as a means of 
+bolstering and widening the reach of voluntary data collections. 
+Participation mandated in this way would be an important precursor to introduction of the 
+Enercon Bill and would help with future efforts to better understand both baseline energy 
+consumption and the ongoing impact of energy efficiency programs, in addition to further 
+work by DOE to collate and improve economy-wide data received from electric distribution 
+utilities on overall energy consumption. Once a wider data set is established it is envisaged 
+that DOE will be in a position to better forecast energy consumption and economy-wide 
+energy efficiency impacts in the Action Plan period of 2021-25.
+6.2.3.1 Recommended 2016-2020 Program Actions 
+Establish responsibility for the monitoring of the Energy Efficiency Conservation Action Plan 
+2016-2020 to reside with the PEEAB, as described in Section CS-B. 
+Charge the responsible body with legislative power for establishing sectoral energy efficiency 
+monitoring and evaluation frameworks, including: 
+x Agreed methodologies and metrics by which to monitor and evaluate progress in each 
+sector; 
+x Identification of key data sets – both at a macroeconomic level and by target sector; 
+x Identification of key potential data contributor organizations – e.g. petroleum industry, 
+vehicle wholesalers, import authorities, electric utilities, large energy users; 
+x Establishment of 2014 baselines for each indicator and metric to be used; 
+x Establishment of data collection protocols and responsibilities; 
+x Consistency of data storage, including selection of an appropriate ICT and data 
+management platform; 
+x Framework setting out rights to access, contribute to and manage data; 
+x Format and schedule for reporting. 
+6.2.3.2 Monitoring and Milestones towards 2030 targets 
+As per suggested actions above, a report into progress against key sector indicators should 
+be prepared by 2020 and compared against overall targets for sector efficiency as well as for 
+overall energy efficiency targets, as described in the Philippines Energy Efficiency Roadmap 
+2014-2030. 6.3 Summary of Cross-Sectoral Energy Efficiency 
+Initiatives 
+Table 10 Cross-Sectoral Energy Efficiency Initiatives 2016-2020 
+Program Proposed Action By When Responsibilities 
+CS-A: A new vehicle 
+for public/private 
+collaboration on 
+energy efficiency
+Gain agreement to establish new 
+entity 
+2016 DOE 
+Formulate membership, composition, 
+activity plans 
+2016 DOE 
+Establish resources for ongoing 
+operation
+2017 DOE, private 
+sector partners, 
+donors 
+CS-B: Energy 
+Efficiency Revolving 
+Fund and Finance 
+Sector Capacity 
+Building Program
+Approach donors for assistance with 
+EE capacity building for the finance 
+sector 
+2016 DOE, donors 
+Establish dedicated revolving fund for 
+EE projects, subject to funding 
+availability, including parameters of 
+new fund for EE projects – sectors, 
+funders, terms and conditions 
+2017 DOE, donors 
+Create an Energy Efficiency Finance 
+Program for the commercial bank 
+sector 
+2017 DOE, DBP 
+Coordinate an Energy Efficiency 
+Finance Training Program for large 
+energy users on investable projects 
+2017 DOE, private 
+sector providers 
+CS-C: Energy 
+Efficiency Data 
+Management, 
+Monitoring and 
+Evaluation Program
+Establish responsibility for energy 
+efficiency data collection, and sectoral 
+frameworks containing agreed 
+monitoring regime and stronger 
+energy use data protocols 
+2016 DOE, data 
+providers
+Report on Action Plan implementation 
+according to agreed indicators 
+2017 DOE 7 REFERENCES 
+APEC (2014), Follow-Up Peer Review On Energy Efficiency In The Philippines, APEC 
+Energy Working Group, Manila 2014 
+Ablaza, A. (2015), Bridging the Gaps of Energy Efficiency Finance in the Philippines, 
+BlueSky Energy Efficiency Co. Ltd, presentation 4 August 2015 
+Clean Air Asia, Clean Fuels and Vehicles program information accessed at 
+http://cleanairasia.org/portal/cleanfuelsandvehicles 
+DOE (2014), Energy Efficiency and Conservation Roadmap: Milestones and Challenges, 
+presented Bali, Indonesia 30 September 2014 
+Department of Trade and Industry, Investment Priority Plan 2014-16
+Department of Public Works and Highways, Draft Green Building Code for Mandaluyong 
+City, June 2015 
+EU-SWITCH (2013), An Energy Efficiency Roadmap for the Philippines 2014-2030
+Institute for Building Efficiency (2012), Driving Transformation 
+International Energy Agency (2015), Energy Technology Perspectives – Executive Summary, 
+Paris 
+International Energy Agency (2014), Energy Efficiency Indicators – Essentials for Policymaking, Paris 
+International Energy Agency (2013), Southeast Asia Energy Outlook, Paris 
+Lazard (2014), Levelized Cost of Energy Analysis, accessed via 
+http://www.lazard.com/perspective/levelized-cost-of-energy-v8-abstract/ 
+Republic of the Philippines (2002), Republic Act 9184: Government Procurement Reform Act
+United Nations Economic Commission for Europe (2015), Best Policy Practices for 
+Promoting Energy Efficiency, Geneva June 2015 
+United States Environment Protection Authority, ‘Vehicle Standards and Regulations’ 
+accessed at http://www.epa.gov/otaq/standards.htm
+WRI (2015), Improving Quality Of Life In Cities Through Partnerships For Better Buildings, 
+Presentation to Asian Development Bank, May 2015 EX 1: Summary of Action Plan Initiatives and Preliminary Prioritizat
+etail that follows is consolidated from each section of the Action Plan and augmented with a p
+ch initiative, based on a qualitative assessment against the following criteria: 
+a) potential for impact: whether the initiative directly targets high energy using sectors and su
+savings; b) speed of deployment: whether the initiative can produce results within the timeframe of the c) Government readiness: how well aligned the initiative is with existing government priorities
+nter-Departmental coordination that may be required; 
+d) Need for additional budget: whether the initiative requires substantial new fiancnial allocati
+st-ranked initiatives are denoted in red text, and could form a basis for initial prioritization of e
+ together, this gives an indicative overall assessment of which initiatives may be prioirtized to 
+ preliminary only in that it is a subjective assessment that does not weight each of these crite
+portance of each initiative in playing a role as a reinforcing measure in support of other initiat
+m Proposed Action By When Responsibilities
+Potential 
+for impact 
+Industry 
+ Management 
+portunity 
+cation
+Create a mechanism for DOE to have direct EE input into the Investment Priority Plan development process for 2017-19 
+and to assist DTI to ‘green’ industry 
+roadmaps with energy efficiency measures 
+2016 DOE, DTI-BOI 
+Scale up and broaden the sectors targeted by the PIEEP and HEMS projects to priority sectors of Cement, Steel, Semi-Conductor Manufacturing and Sugar
+2017 UNIDO, EU, DOE m Proposed Action By When Responsibilities
+Potential 
+for impact 
+Provide technical assistance to PEZA on qualifying EE service providers and technologies
+2017 DOE, PEZA 
+Link EE incentive provision by DTI to the establishment of a compliant data collection regime
+2018 DOE, DTI 
+Update and refresh existing DOE reference material on industrial energy efficiency opportunities 
+2017 DOE, EU-SWITCH 
+ESCO 
+pment 
+m
+Create coordinated platform for ESCO sector capacity building activities, and consideration of guarantee support
+2016 DOE, ESCOPHIL, UNIDO, 
+HEMS, other capacity providers
+Develop standard ESCO contracts for bidding 
+2017 DOE, industry partners 
+Develop Project M&V Guidelines in line with IPMVP
+2017 DOE, Efficiency Valuation 
+Organization (EVO)
+Overhaul ESCO Accreditation process
+2017 DOE, industry partners 
+Create an ESCO pilot site for industry
+2018 DOE, ESCO and site 
+counterparties
+Demand 
+nse and 
+d Side 
+ement 
+m
+Prepare an analytical paper setting out the framework and regulatory steps that would need to be taken to implement a comprehensive Demand Response Strategy 
+2017 DOE, utility representatives, regulators, market 
+operatorsm Proposed Action By When Responsibilities
+Potential 
+for impact 
+Establish a Power Sector Energy Efficiency Strategy
+2020 DOE, utility representatives, regulators, market 
+operators
+ Vehicle 
+ncy 
+ement 
+m
+Complete baseline assessment for efficiency of new light duty vehicles 
+2016 DOE, Clean Air Asia 
+Roll out new vehicle labeling for energy use
+2017 DOE, CAMPI 
+Vehicle inspection regimes 
+x Include fuel efficiency rating 
+with emissions compliance testing 
+x Investigate differentiated 
+vehicle taxes for efficient 
+vehicles 
+2018 2018 
+LTO, LTFRBLTO, LTFRB
+Vehicle conversion programs 
+x extend Auto-LPG program for 
+taxi fleet 
+x support TVET training for LPG 
+vehicle conversion 
+x E-Trikes – focus on current 
+delivery; consider further rollout in mid term review 
+2016 2016 2018 
+DOEDOE, TESDADOE, ADB 
+Formulate a transport and urban energy efficiency Inter-Agency Committee
+2017 DOE, DOTC, MMDA, 
+DPWH, LGUs 
+ Vehicle 
+ncy and 
+Awareness 
+m
+Re-launch Fuel Economy Run initiative
+2016 DOE, CAMPI, vehicle 
+manufacturers, fuel suppliersm Proposed Action By When Responsibilities
+Potential 
+for impact 
+Driver training program rollout Ongoing Development Academy of the Philippines, UP 
+National Engineering Center, DOE
+ Freight 
+ort Energy 
+ncy 
+ship
+Form partnership to develop a National Efficient Freight and Logistics Master PlanNational Efficient Freight and Logistics Master Plan developed
+2017 2020 
+EDC, DOE, DPWH, DTI EDC, DOE, DPWH, DTI
+: 
+ment 
+gs Efficiency 
+m
+Strengthen the GEMP program 2017 DOE Complete a model ESCO procurement and implementation project at a high-profile Government 
+building site
+2018 DOE 
+New Guidelines released for government procurement of energy efficiency services
+2017 DOE, Procurement 
+Services
+: Building 
+Program
+x Permanent co-ordination body 
+established for EE input to Green Building Code development 
+x Inclusion of energy efficiency in 
+three-year review process of 
+Green Building Codes 
+2017 2019 
+DPWH, DOE, IFC, LGUs DPWH, DOE
+Establish Building Code training program for selected LGUs 2017 DPWH, DOE, IFC, LGUs m Proposed Action By When Responsibilities
+Potential 
+for impact 
+: Building 
+ation and 
+s Program
+Develop annual performance information tool - benchmark for government building energy efficiency
+2017 DOE, private sector 
+partners, EU-SWITCH 
+Incentive mechanism to link certification to eligibility for energy efficiency incentives
+2018 DOE
+Mandatory Disclosure of performance ratings on sale or lease of buildings
+2020 DOE, DPWH, property 
+agencies, LGUs 
+ Appliance 
+rds and 
+g program
+Reformulate mechanism for EE input and cooperation on standards development
+2017 DOE, DTI-BPS 
+Increase post-market surveillance programs
+2017 DOE, DTI-BPS 
+ Large 
+yers Bulk 
+se and Staff 
+ve Program
+Undertake design of scheme 
+x Eligible organizations x Eligible products x Scheme mechanics 
+Roll out scheme and establish DOE 
+support activities
+2016 2017 
+DOE, corporate sector, BPO sector DOE
+ Behavioral 
+ation 
+m for low
+ groups
+Investigate greater utilization of billing information programs and pre-paid billing models 
+2017 DOE, utilities, private 
+sector providers
+Continue awareness raising campaigns on EE including for housing design (e.g. insulation and cool roofs) 
+ongoing DOE, media partners m Proposed Action By When Responsibilities
+Potential 
+for impact 
+A new vehicle 
+lic/private 
+ration on 
+efficiency
+Gain agreement to establish new entityFormulate membership, composition, activity plansEstablish resources for ongoing operation
+2016 2016 2017 
+DOE DOEDOE, private sector partners, donors
+Energy 
+ncy Revolving 
+nd Finance 
+Capacity 
+g Program
+Approach donors for assistance with EE capacity building for the finance sectorEstablish dedicated revolving fund for EE projects, subject to funding availability, including parameters of new fund for EE projects – sectors, 
+funders, terms and conditions
+2016 2017 
+DOE, donors DOE, donors
+Create an Energy Efficiency Finance Program for the commercial bank sector
+2017 DOE, DBP 
+Coordinate an Energy Efficiency Finance Training Program for large energy users on investable projects 
+2017 DOE, private sector 
+providers
+Energy 
+ncy Data 
+ement, 
+ring and 
+tion Program 
+Establish responsibility for energy efficiency data collection, and sectoral frameworks containing agreed monitoring regime and stronger energy use data protocols 
+2016 DOE, data providers 
+Report on Action Plan implementation according to agreed indicators
+2020 DOE ANNEX 2: People and organizations consulted 
+AGC Flat Glass Philippines Corporation 
+Pascual, Alfred G. - Engineering Manager 
+Ayala Property Management Corporation 
+de las Alas, Jason - Director CBG (Malls) 
+Borja III, Benjamin S. - Associate Director 
+Penacerrada, Patrick 
+Blue Sky Energy Efficiency Co. Ltd 
+Ablaza, Alexander 
+CAMPI 
+Concepcion, Marissa - Secretary-General 
+Buela, Mon - Executive Assistant 
+Clean Air Asia 
+Mejia, Alvin - Program Manager 
+Cofely Philippines 
+Marquez, Raymond - Business Development Manager 
+Marchan, Allan 
+Daikin Airconditioning Philippines Inc 
+Quitco, Augusto T. - Division Manager, After-sales Service Division 
+Dazzling Lite Enterprises 
+Yuson, Jennelyn 
+Guinto, Roden 
+Delegation of the European Union to the Philippines 
+Rolfe, Simone 
+Department of Energy 
+Monsada, Zenaida Y. – Secretary 
+Marcos, Donato D. – Undersecretary 
+Aquino, Patrick T. – Director, Energy Utilisation Management Bureau 
+Anunciacion, Jesus – Assistant Director, Energy Utilisation Management Bureau 
+Habitan, Artemio P. 
+Almonares, Genevieve L. 
+Agagas, T. 
+Arias, Helen B. 
+Balmes, Renato 
+Carlos, Alexis Matel 
+Corpuz, A. 
+Cruz, Rommel 
+Getalado, V.G. 
+Landicho, Jomar 
+Leonido, L.P. 
+Nabong, Antonio M. 
+Orencia, Herbert 
+OillAitLdPReyes, V. 
+Rivera, Joyce 
+Soriano, Isagani 
+Sotelo, R. 
+Department of Finance 
+Rivera, Rene – Senior Tax Specialist 
+Department of Public Works and Highways – Bureau of Construction 
+Garcit, Edgar
+Mangubat, Olinar B. 
+Department of Public Works and Highways – Sustainable Building 
+Sayson, Joselito P. 
+Melchor, Angelina B. 
+Department of Trade and Industry – Board of Investments (BOI) 
+Pajarillo, Dexter S. - Investment Specialist 
+Ms. Viloria
+Moreno, Neil Irwin 
+Department of Trade and Industry – Competitiveness Bureau 
+Alpuerto, Michelle Ann 
+Department of Transport and Communication 
+Nova, Evangeline L. 
+Development Bank of the Philippines 
+Salayon, Anita C. – Head, Environment Unit 
+Corachea, Marichelle 
+Edward Marc Philippines 
+Cordova, Michelle 
+Cordova, Ricky 
+Energy Aviation and Support Corporation 
+Legada, Rey 
+Almario, Jasmin 
+Flores, Archie 
+De Guzman, Gerard 
+Energy Practitioner Association of the Philippines 
+Uy, Richard 
+Energy Regulatory Commission 
+Reymante, Vanessa 
+EU High Efficiency Motors (HEMS) Project 
+Marquez, Raymond 
+Todoc, Jesse 
+Bathan, Marvin 
+European Chamber of Commerce in the Philippines (ECCP) 
+ConstantinoGerman Diaz, Archie 
+Skarkou, Lauren 
+Gottein, Florian 
+EU-SWITCH Philippines 
+Balaminto, Maria Eloida 
+Tiampong, Denise 
+Abliter, Lionel Angelo 
+Geosphere Tech, Inc. 
+Dela Cruz, Ledicia 
+Institute of Integrated Electrical Engineers of the Philippines, Inc (IIEE) 
+Caringal, Rhoniel - Chair 
+Chua, Roger - Committee Head 
+Macayana, Ivan - Committee Member 
+Tan, Gem – Chair, Standards Committee 
+International Finance Corporation 
+Verdote, Noel – Operations Officer, Sustainable Energy Finance 
+Fernando-Pacua, Hanna 
+Lacerna, Maria Teresita 
+Ocampo, Ferdinand 
+ISUZU Philippines 
+Manalo, Erickson – Product Planning 
+Koyo Electric 
+Isidro, Vic 
+Mandaluyong City LGU 
+Raposon Jr, Abraham - Project Development Officer 
+MERALCO 
+Delumen, Mark - Regulatory Liaison Officer, Utility Economics 
+Mathay, Ramon - Regulatory Liaison Officer 
+Iporac Jr, Alfred - Customer Solutions 
+Arvillo, Danilo – ES Specialist 
+Fernandez, Lawrence S. – Utility Economics Division 
+MERALCO Energy Inc. 
+Baylosis, Victor H. 
+Metropolitan Manila Development Authority (MMDA) 
+Alzona, MaryHelene V. – Planning Officer II 
+Parmiguin, Rommel D. 
+Najera, Jovito G. 
+Pimentel, Nordy Q. 
+National Center for Transportation Studies 
+Palmiano, Hilario - Director 
+Net Group 
+RufinoRamon Fernando DExecutive Vice President PAIA – Philippine Appliance Industry Association 
+Balobalo, Marlon - Chairman, Product Standards Committee 
+Maludonga, Jessie Robert 
+Malit, Fernanditas 
+Philcarbon, Inc. 
+Yu-Owen, Ruth - President 
+Philippine Economic Zone Authority (PEZA) 
+Panga, Thereso - Deputy Director General 
+Sy, Atty. Ross Vincent 
+Daza, Ludwig 
+Philippine Green Building Council 
+De la Cruz, Chris - Chief Executive Officer 
+Suelto, Mario Lawrence - BERDE Program Coordinator 
+Zwolfer, Cristina 
+Philips Electronic and Lighting, Inc. 
+Tetteroo-Bueno, Fabia - General Manager 
+Andaya, Chestnut V. - General Manager (incoming) 
+Yan, Andrew C. 
+Philippine Inegrated Energy Soutions, Inc. 
+Garcia, Jerard 
+David, Jonathan 
+Samsung Electronics Phils. Corp. 
+Tougan, Herbert 
+Schneider Electric Philippines 
+Saldua, Darwin 
+Payonga, Lorenz Ray 
+Buhali, Mario jr. 
+Semiconductor and Electronic Industries of the Philippines, Inc
+Soriano, Ramil - TWG Vice Chair 
+Lachica, Danilo 
+Steel Asia Manufacturing Corporation 
+Calisura, Arnold - EM Manager 
+Sugar Regulatory Administration 
+Corpuz, Fernand 
+Agosto, Rosaline R. 
+Genzola, Rogelio T. 
+Trane Philippines 
+Redondo, Romano V. 
+United Nations Industrial Development Organization (UNIDO) 
+Malvar, Oscarlito C. – Manager Philippine Industrial Energy Efficiency Project 
+University of the Philippines National Center for Transport Studies 

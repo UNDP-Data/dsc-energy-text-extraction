@@ -1,0 +1,2845 @@
+File Name: DJI-NREP-2015-EN
+Year: 2015
+Country Name: Djibouti
+Country Code: DJI
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2015
+Start Year: 2015
+End Year: 2035
+Language: EN
+------------------------------------------------
+
+Copyright © IRENA 2015
+Unless otherwise stated, this publication and material featured herein are the property of the International 
+Renewable Energy Agency (IRENA) and are subject to copyright by IRENA. 
+Material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that 
+all such material is clearly attributed to IRENA and bears a notation that it is subject to copyright (© IRENA, 2015)
+Material contained in this publication attributed to third parties may be subject to third party copyright and 
+separate terms of use and restrictions, including restrictions in relation to any commercial use.
+About IRENA 
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports 
+countries in their transition to a sustainable energy future, and serves as the principal platform for international 
+cooperation, a centre of excellence, and a repository of policy, technology, resource and financial knowledge 
+on renewable energy. IRENA promotes the widespread adoption and sustainable use of all forms of renewable 
+energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable 
+development, energy access, energy security and low-carbon economic growth and prosperity.
+Authors: Gauri Singh (IRENA), Safiatou Alzouma Nouhou (IRENA) and Mohamed Youba Sokona (IRENA)
+Acknowledgement
+IRENA prepared this report in close collaboration with Yacob Mulugetta (University College of London, UK), 
+Ahmed Kayad Moussa (CERD, Djibouti) and Saida Omar Abdillahi (Energy Conservation Agency, Djibouti). The 
+report benefited from review and consultations with the Ministry of Energy and Natural Resources, as well as 
+the Centre for Studies and Scientific Research of Djibouti. IRENA wishes to thank the following experts for 
+their insights and constructive guidance during the peer-review process: Daher Elmi Houssein (Secretariat of 
+the Intergovernmental Authority on Development — IGAD, Djibouti), Yohannes Hailu (Sub-Regional Office for 
+Eastern Africa of the United Nations Economic Commission for Africa — SRO-EA/ UNECA, Rwanda), Dick Jay 
+(USAID), Georges Tadros (Tratech). 
+For further information or to provide feedback, please contact: SAlzouma@irena.org or publications@irena.org
+Disclaimer
+This publication and the material featured herein are provided “as is”, for informational purposes. 
+All reasonable precautions have been taken by IRENA to verify the reliability of the material featured in this 
+publication. Neither IRENA nor any of its officials, agents, data or other, third-party content providers or licensors 
+provides any warranty, including as to the accuracy, completeness, or fitness for a particular purpose or use of 
+such material, or regarding the non-infringement of third-party rights, and they accept no responsibility or 
+liability with regard to the use of this publication and the material featured therein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA, nor is it 
+an endorsement of any project, product or service provider. The designations employed and the presentation of 
+material herein do not imply the expression of any opinion on the part of IRENA concerning the legal status of any 
+region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers or boundaries. DJIBOUTI 
+RENEWABLES READINESS
+ASSESSMENTFOREWORD
+from the Minister of 
+Energy in charge of 
+Natural Resources
+The renewable energy sector is recognised as a national priority and plays an important role in Djibouti’s 
+strategy for economic development. Our energy policy aims primarily to diversify and reduce dependence 
+on imported oil products, increasing the share of renewable energy and biofuels to make Djibouti the first 
+African nation using 100% green energy .
+In that regard, the Ministry of Energy in charge of Natural Resources has reviewed the potential of renewables 
+for reliable clean, low-cost power generation, developing a strategy for the next decade and an action plan 
+for the coming five years. That study has led to the creation of a legislative and regulatory framework for 
+renewable-based power generation. Moreover, ongoing institutional reform has led to the establishment 
+of an agency dedicated exclusively to the promotion of renewable energy, “Djiboutian Agency for Energy 
+Management” (ADME).
+This new structure aims to develop synergies for effective collaboration between researchers from the public 
+and private sectors and nurture small and medium enterprises (SMEs) to manufacture specific components 
+of renewable energy technology locally. ADME is also responsible for identifying internal assets and financial 
+mechanisms to support alternative energy, boost renewable power generation for self-consumption, and set 
+appropriate incentives to make purchases of green power and related equipment more affordable.
+Executing these tasks will obviously require bilateral and multilateral cooperation. In that regard, we 
+welcome the initiative of the International Renewable Energy Agency (IRENA) to facilitate a Renewables 
+Readiness Assessment (RRA) in Djibouti. The RRA consultations have helped in highlighting our strengths 
+and weaknesses for rapid renewable energy deployment based on various options, both on-grid and off-grid, 
+including the use of biofuels.
+The outcomes of the RRA will contribute significantly to the deployment of renewable energy in Djibouti, and 
+their implementation could result in effective diversification of our country’s energy mix.
+We do believe that with international support and cooperation, including that of IRENA, Djibouti will soon 
+reach its objectives of promoting and developing renewable energy. Djibouti fully supports IRENA’s mission, 
+and our experts are available to assist other countries in conducting their own RRAs.
+Ali Yacob Mahamoud
+Minister of Energy in charge of
+Natural Resources, DjiboutiFOREWORD
+from the IRENA
+Director-General
+The Africa High-level Consultative Forum held by the International Renewable Energy Agency (IRENA) in July 
+2011 highlighted the need for technical support to be provided to African countries and regions to identify 
+their readiness to scale up renewable energy. IRENA’s Renewables Readiness Assessment (RRA) process, 
+initiated as part of the outcome of the forum, involves a holistic evaluation of a country’s conditions and 
+the actions needed to overcome barriers to deployment. This is a country-led process, with IRENA primarily 
+providing technical support and expertise to facilitate consultations among different national stakeholders. 
+Since 2011, more than 20 countries in Africa, the Middle East, Latin America and the Caribbean, Asia and 
+the Pacific have undertaken the RRA process, which generates knowledge of best practices and supports 
+international cooperation around the accelerated deployment of renewable energy technologies. Djibouti, a 
+strong and consistent supporter of IRENA’s mission, is one of those countries. 
+Heavily dependent on imported fossil fuels, Djibouti remains exposed to oil price volatility. The country’s 
+power infrastructure must be rehabilitated to curb voltage fluctuations, blackouts and other disruptions that 
+affect industrial, commercial and residential consumers alike. As power demand increases to meet ambitious 
+economic development goals, Djibouti needs to look into power generation options that are more affordable, 
+reliable and predictable. 
+Djibouti has significant geothermal, wind and solar energy resources that could be developed to address its 
+twin concerns of energy access and energy security. Developing these renewable resources would reduce 
+dependence on imported fossil fuels and boost employment. As an active participant in IRENA’s Africa Clean 
+Energy Corridor initiative, Djibouti has the opportunity to position itself as an intercontinental transmission 
+link, helping to decarbonise the power sector in the Arabian Peninsula as well as strengthening African energy 
+security.
+IRENA wishes to thank Minister Ali Yacob Mahamoud and his team at the Ministry of Energy for their 
+dedication and generosity in hosting this study. We are grateful for their positive engagement and valuable 
+input, which has given us additional insights for further RRAs in Africa and beyond. 
+I sincerely hope that the outcomes of the RRA consultations will empower Djibouti to pursue accelerated 
+renewable energy deployment. IRENA stands ready to provide continuing support to the country in 
+implementing the actions identified, in the pursuit of an energy sector transformation that ultimately reaches 
+across continents.
+Adnan Z. Amin 
+Director-General, IRENATABLE OF CONTENTS
+LIST OF FIGURES VIII
+LIST OF TABLES VIII
+ABBREVIATIONS IX
+EXECUTIVE SUMMARY XI
+I. INTRODUCTION 1
+1.1 Country background 1
+1.2 The role of energy for development in Djibouti 2
+1.3 Renewables Readiness Assessment 3
+II. ENERGY CONTEXT 5
+2.1 Regional context 5
+2.2 Energy supply and demand in Djibouti 6
+2.3 Electricity generation, transmission and distribution 8
+2.4 Renewable energy resources: Potential
+ and use in Djibouti 11
+III. ENABLING ENVIRONMENT FOR RENEWABLE ENERGY 15
+3.1 Key energy stakeholders and
+ institutional arrangements 15
+3.2 Energy policies and regulatory framework 16
+3.3 Financing and investment 18
+IV. EMERGING ISSUES AFFECTING RENEWABLE
+ENERGY DEPLOYMENT 19
+4.1 Grid-connected renewable energy options 19
+4.2 Off-grid renewable energy options 29
+4.3 Opportunities and constraints for scaling
+ up renewable energy deployment 32
+V. SUMMARY OF RECOMMENDED ACTIONS 35
+VI. REFERENCES 37
+ANNEX 39LIST OF FIGURES
+Figure 1 Country resources and potential interconnections 6 
+Figure 2 Total Primary Energy Supply 2000-2010 7 
+Figure 3 Petroleum product consumption over time 7 
+Figure 4 Transmission network in Djibouti 8
+Figure 5 Power generation by the Ethiopian Electric Power Corporation and EdD 10
+Figure 6 Geological map of Djibouti 11
+Figure 7 Global horizontal irradiance for five stations in Djibouti 12
+Figure 8 Average wind speed of various sites in Djibouti at 40m 13
+Figure 9 Wind speed at two different sites as a comparison 14
+Figure 10 Cumulative cash flow and payback period 21
+Figure 11 Cumulative revenue and payback period for
+ different electricity selling prices 22
+Figure 12 Levelised cost of generation with PV
+ (comparison at different system costs) 25 
+Figure 13 Levelised cost of generation of different import duty levels in Djibouti 26
+Figure 14 Life cycle cost for pumping groundwater, comparison between
+ PV and diesel (in USD) 31
+LIST OF TABLES
+Table 1 Installed electricity generation capacity in 2011 8
+Table 2 Status of the electricity market 9
+Table 3 Costs and assumptions for financial analysis 20 
+Table 4 Payback years for 300 kW PV system,
+using different system cost and tariff figures 27
+Table 5 Stand-alone and pico systems 30ADDS Djibouti Social Development Agency (Agence Djiboutienne de 
+ Developpement Sociale) 
+AfDB African Development Bank 
+ADME Agency for Energy Management (Agence Djiboutienne de 
+ Maîtrise de l’Energie) 
+CERD Centre for Studies and Scientific Research of Djibouti (Centre 
+ des Etudes et de Recherche de Djibouti) 
+C&I Construction and installation
+EAPP East African Power Pool
+EdD Djibouti Electricity Company (Electricité de Djibouti)
+EUEI PDF European Union Energy Initiative Partnership Dialogue Facility
+EU European Union
+FiT Feed-in Tariff
+GCC Gulf Cooperation Council 
+GHI Global Horizontal Irradiance
+GDP Gross Domestic Product
+GWh gigawatt-hour
+IPP Independent Power Producer
+IRENA International Renewable Energy Agency
+kWh kilowatt-hour
+km kilometre
+kV kilovolt
+MERN Ministry of Energy and Natural Resources (Ministère de 
+ l’Energie et des Ressources Naturelles)
+m/s metres per second
+MW megawatt
+MWh megawatt-hour
+NGO non-governmental organisation
+O&M operation and maintenance
+PPA Power Purchase Agreement
+PV photovoltaic
+TWh terawatt-hour
+UNDP United Nations Development Programme
+US United States
+USD US Dollar/cent
+ABBREVIATIONSThe Republic of Djibouti stands at a crossroad, 
+faced with a number of critical challenges 
+associated with energy generation, distribution 
+and use. The country remains heavily dependent 
+on imported fossil fuels and power. This exposes 
+it to fluctuating oil prices, creating uncertainties 
+affecting economic and social development. 
+Both quality of and access to electricity are key 
+challenges. The existing power infrastructure in 
+Djibouti urgently needs to be modernised and 
+upgraded. Voltage fluctuation, spikes, blackouts, 
+brownouts and other disruptions have significant 
+impacts on industrial, commercial and residential 
+consumers. The continued dependence on 
+imported fuel for generating electricity is also 
+taking its toll on the wider economy in Djibouti. 
+It uses up precious financial resources that would 
+otherwise be spent on addressing urgent social 
+development challenges. 
+The energy system in Djibouti has become a major 
+burden to the economic and social system, and the 
+status quo is unsustainable. To this end, Djibouti 
+needs to explore and develop its indigenous 
+resources in its quest for new solutions to the 
+problem of dependency on volatile international 
+energy markets. In its ambitious Vision 2035 
+long-term development plan, the Government of 
+Djibouti recognises the importance of developing 
+these resources to meet both its economic and 
+social development objectives. It is in the process 
+of crafting the policies and regulatory frameworks 
+that would help harness these resources. However, 
+the government has made clear that its objective is 
+to meet 100% of domestic energy demand through 
+renewable energy by 2020. This vision can be 
+realised for the following reasons:
+The Republic of Djibouti has significant renewable 
+energy resources, relative to the size of its 
+population and scale of its economy. Djibouti’s 
+abundant geothermal, wind and solar energy 
+resources can be developed to bring higher quality 
+energy services to populations across the country.
+Renewable energy can meet the twin goals of 
+improving energy access and energy security 
+in Djibouti. The development of local renewable 
+resources can reduce the country’s dependence 
+on imported and expensive fossil fuels. As the 
+country’s demand for electric power increases 
+to meet the ambitious economic development 
+programme outlined in Vision 2035Djibouti would 
+EXECUTIVE SUMMARY
+Renewable energy costs have fallen significantly 
+and are likely to continue on a downward 
+trend. An increased demand globally for fossil 
+resources is likely to push energy prices up, while 
+increased deployment of renewable technologies 
+pushes energy prices down in line with progress 
+in technology and economies of scale. This offers 
+an opportunity for Djibouti to rethink its energy 
+strategy, develop policies and build institutions 
+that would make Vision 2035 into a reality. 
+Renewable energy is the only viable source of 
+energy for the electricity grid in Djibouti. Power 
+produced through renewable-based systems can 
+be fed into the grid, providing clean and a more 
+secure power supply. The country has a highly 
+urban population and can achieve universal 
+electrification with relative ease compared to 
+countries in the region. However, the government 
+needs to create the regulatory frameworks and 
+modalities for Power Purchase Agreements (PPAs) 
+that would enable healthy cooperation between 
+public and private entities to develop Djibouti’s 
+power sector.
+Off-grid renewable power can meet demand 
+in unserved rural areas in Djibouti and can 
+replace existing diesel systems. Djibouti is yet 
+to build its electricity infrastructure in a planned 
+and systematic manner. At the moment, much 
+of its rural electrification programme relies on 
+government funds, international donors and the 
+country’s utility, which is struggling to maintain 
+service to existing clients. As a distributed and 
+scalable resource, renewable energy technologies 
+are well suited to meet the need for power in 
+remote areas. However, it is also important to 
+design flexible mini-grids that can be integrated 
+into the wider grid in due course. 
+Djibouti has the opportunity to position itself as 
+a transcontinental transmission hub between the 
+power pools in Africa and the Arabian Peninsula 
+(Yemen in the short term). By also becoming an 
+outlet for clean energy, Djibouti can create better 
+energy security conditions for itself and play a part 
+in decarbonising the power sector in Yemen and 
+beyond. 
+Djibouti is in dire need of rapidly building its 
+technical and regulatory capacity. The level of 
+skills in Djibouti does not match the magnitude 
+of its energy challenge. The government will need 
+to strengthen existing technical institutions and its knowledge system in technology development, 
+finance, regulation and management. 
+Renewable energy could help meet Djibouti’s 
+employment creation challenge. It is now widely 
+recognised that the renewable energy sector employs 
+more people on a megawatt-hour (MWh) basis than 
+the conventional energy sector. Djibouti is well placed 
+to capitalise on this opportunity and reduce its high 
+rate of unemployment, currently at 60%.
+This report discusses the energy context for Djibouti, 
+explores enabling environments for renewables, 
+details opportunities to develop the renewables 
+sector, and concludes with recommendations for 
+further action. The report details the role renewable 
+energy has had to date in Djibouti and the policies 
+implemented to support renewable energy 
+deployment. It aims to provide information on the 
+potential for renewable energy technologies to 
+become integrated into the Djiboutian energy mix 
+in a manner servicing the country’s development 
+priorities and goals. This work fits well with ongoing 
+policy and research initiatives of the Djibouti 
+Government. As the Renewables Readiness 
+Assessment (RRA) outcome is implemented over 
+the coming months, this work will be developed 
+further to a greater level of detail. It will increase 
+the focus on other important aspects of sustainable 
+energy transition, including energy efficiency.I. INTRODUCTION
+1.1 COUNTRY BACKGROUND
+Djibouti lies at the southern entrance to the Red Sea and covers a surface area of 
+23000 square kilometres (km2). It has 370 km of maritime coastlines, and shares 
+borders with Eritrea, Ethiopia and Somalia. The country has a semi-arid climate, mainly 
+stony semi-desert, with scattered plateau and highlands. This makes it very sensitive 
+to drought and water scarcity risks. It has a highly variable and low precipitation 
+regime with an annual rainfall of 50-300 millimetres (mm). Temperatures are high 
+at 20-30°C during the cool season and 30-45°C during the hot season in May to 
+September. This contributes to high levels of evapotranspiration equivalent to 
+2000 mm per year. Historical records show the Djibouti climate clearly experiences 
+high hydrological uncertainty, frequent dry spells and chronic water stress. These 
+features are likely to be worsened by climate change, with wide-ranging implications 
+for the national economy, food security and human development.
+Djibouti has an estimated population of 900000 people according to the United 
+Nations Development Programme (UNDP, 2014), growing at 2.9% per annum. More 
+than 70% of the population lives in urban areas, with nearly 60% in the capital, 
+Djibouti City. This demographic distribution is quite distinct from other countries in 
+the region, where the proportion of the rural population is larger. The relatively high 
+concentration of people in urban areas presents its own challenges and opportunities, 
+especially as it relates to the provision of services like water, sanitation and energy. 
+The Republic of Djibouti’s strategic importance has been enhanced recently 
+owing to a series of interlinked developments. Most notable of these is the 
+increased inward investment, structural transformation and growth of Ethiopia’s 
+economy. Moreover, the security challenges faced across the region have created 
+opportunities for Djibouti and raised its strategic importance globally. This is 
+marked by the presence of the United States and other powerful countries.
+Djibouti’s economy grew steadily at an annual average of 4.8% in 2000-2010, 
+peaking to nearly 6% in 2008 before the financial crisis. In 2012, Djibouti registered 
+4.5% growth according to the African Development Bank (AfDB, 2012). Djibouti’s 
+economy is characterised by an extreme dualism. The modern, commercial, 
+export-oriented urban sector contrasts with the rural sector, which is a subsistence 
+economy based on pastoralism, with very limited access to infrastructure, services 
+and markets according to the International Monetary Fund (IMF, 2013). 
+The structure of the economy is dominated by the service sector - transport, 
+communications, commerce and tourism. These contribute to more than 80% of 
+Djibouti’s gross domestic product (GDP), and employ about 60% of the active 
+population (IMF, 2013). The primary sector (agriculture and fisheries) contributes 
+to about 3%, while the industrial and manufacturing sector accounts for 17% of 
+GDP. The country witnessed major structural changes in 2004-2009 as a result of 
+a substantial inflow of foreign direct investment in capital-intensive activities like 
+port infrastructure, roads, buildings and hotels. 
+Transport and related logistical services remain the backbone of the economy. The 
+government launched a programme to increase port activity in 2012 by building 
+two ports as well as road corridors. Much of this is intended to meet the needs 
+of the growing Ethiopian economy. Landlocked Ethiopia, which has a population 
+approaching 100 million, is the primary user of Djibouti’s port, and currently 
+generates 85% of the trade that moves through its container terminal. The recent 
+high growth experienced in Ethiopia has helped transform Djibouti’s economyand While the activities relating to the service sector 
+are progressing well, the primary (e.g., agriculture) 
+and secondary sectors (e.g., manufacturing) 
+continue to lag behind. Industrial development is 
+still held back by high production costs, although 
+these constraints could soon ease with important 
+new water and energy infrastructure projects. 
+Unemployment in Djibouti is high at 60%, and 
+poverty remains pervasive with nearly 42% of 
+the population living below the absolute poverty 
+line (AfDB, 2013). Djibouti has among the lowest 
+health, education and other social indicators in the 
+world and was ranked 147th out of 187 countries in 
+the 2014 UN Human Development Index (UNDP, 
+2014). Enhancing employment opportunities 
+and improving social indicators is thus given a 
+high national priority. The National Initiative for 
+Social Development (Initiative Nationale pour le 
+Développement Social) was launched in 2007 to 
+improve access to water and basic services to poor 
+people. 
+The country has performed well in addressing the 
+macro economic challenge it faces, but a great deal 
+needs to be done to maintain the momentum and 
+improve social development through education, 
+health and water services. The way the energy 
+system is structured and maintained will be critical 
+for realising these economic and social outcomes. 
+1.2 THE ROLE OF ENERGY FOR 
+DEVELOPMENT IN DJIBOUTI 
+In 2014, Djibouti launched an ambitious long-term 
+development plan, known as Vision 2035. The 
+planning strategy aims to place the country on a 
+sustainable development pathway by strengthening 
+the country’s human capital, developing its private 
+sector and reforming its systems of governance. The 
+ambitious plan covers social and economic aspects 
+with a focus on education, tourism, fisheries, new 
+information and communication technologies, 
+transport and logistics, industry, and energy. Djibouti 
+aims to make a power sector transition, moving 
+from 100% fossil thermal in 2010 to 100% renewable 
+electricity sources by 2020. This would be sourced 
+mainly from geothermal, wind and solar, as well as 
+interconnecting with the Ethiopian grid, which is 
+based on hydropower. 
+Vision 2035 acknowledges the importance of 
+energy as a crucial input to economic development, 
+and has made energy access and energy security 
+a strategic focus. However, significant effort is 
+required for Djibouti to become energy secure 
+and address the energy access challenge. At 
+present, per capita annual electricity consumption 
+is about 330 kilowatt-hours (kWh) against an 
+African average of over 575 kWh and a global 
+average of over 2 770 kWh. This makes the average 
+Djiboutian citizen among the lowest consumers 
+of electricity in the world. Moreover, about 55% of 
+the population does not have access to electricity, 
+and the level of unmet demand in the country’s 
+power sector is significant. This suggests Djibouti 
+needs to close the gap between electricity demand 
+and what it is able to supply to its citizens. Lack 
+of reliable and affordable energy is thus a major 
+obstacle the ambitious aims in Djibouti’s economic 
+development plans. Households in Djibouti rely 
+heavily on kerosene and traditional biomass to 
+meet their basic energy needs. 
+Djibouti is endowed with ample energy resources, 
+considered sufficient for the size of its population 
+and the scale of its economic activities. The 
+country has significant geothermal energy 
+resources for generating electricity, estimated at 
+300-500 megawatt (MW) capacity. It also has 
+some excellent wind energy sites as well as good 
+solar energy resources. These can be successfully 
+harnessed for power generation and for other 
+energy services like water pumping and micro 
+generation to meet urban and rural energy needs. 
+Djibouti thus has the opportunity to take advantage 
+of the recent technical advances in clean energy 
+technologies and significant reduction in their cost 
+to meet its growing energy demand. This would go 
+some way to reducing energy import bills (e.g., oil, 
+natural gas, etc.). However, there is little experience 
+of this apart from isolated solar photovoltaic (PV) 
+installations in rural villages. 
+Djibouti is at the heart of some of the major 
+regional integration programmes including the 
+Intergovernmental Authority for Development. The 
+Djibouti Government has major plans to expand 
+these activities. A similarly ambitious effort is under 
+way for Djibouti to benefit from the considerable 
+hydro-energy initiatives in Ethiopia. Already, 
+Djibouti draws some 60%-65% of its power from 
+this bilateral power arrangements, with further 
+expansion planned to enhance the reliability and 
+quantity of imported power. Djibouti is not yet a 
+member of the East African Power Pool (EAPP), 
+but has submitted its application and plans to 
+become an important regional power platform. 1.3 RENEWABLES READINESS 
+ASSESSMENT 
+The RRA in Djibouti was led by the Ministry of 
+Energy and Natural Resources (Ministère de 
+l’Energie et des Ressources Naturelles) (MERN) 
+in close cooperation with the Agency for Energy 
+Management (ADME). It acted as an interface 
+between the RRA support team: the country 
+consultant, international consultant, International 
+Renewable Energy Agency (IRENA) and the 
+key local stakeholders. Experts drawn from key 
+government, private sector and civil society 
+institutions were invited to a kick-off meeting. The 
+consultant explained the nature and purpose of 
+the RRA process and introduced the Djibouti RRA 
+country team members. Several workshops were 
+conducted throughout the RRA. Workshop activities 
+included identifying renewable energy serviceresource pairs and prioritisation criteria, and filling 
+in a set of templates for each service-resource pair
+finalised the service-resource pairs and defined the 
+practical action that will set these renewable energy 
+subsectors in motion. 
+This report is structured into five sections. The 
+first presents the introduction covering country 
+background and the RRA process in Djibouti. The 
+second presents an overview of the regional energy 
+setting, and contextualises Djibouti’s national energy 
+sector, the challenges it faces and an overview of 
+renewable energy potential and use. It provides 
+a detailed discussion of the electricity sector. The 
+third section identifies institutions playing a role 
+in Djibouti’s energy sector and defines key energy 
+policies and regulatory frameworks, as well as the 
+finance and investment conditions in Djibouti. The 
+fourth discusses the RRA findings related to emerging 
+concerns and enabling conditions for scaling up 
+the service-resource pairs identified. It sums up the 
+related opportunities and constraints. Finally, the fifth 
+section presents the recommended action necessary 
+Lake Assal
+Photograph: IRENA/M. Sokona 2.1 REGIONAL CONTEXT
+The recent economic resurgence of countries in East Africa has aroused a great 
+deal of optimism about economic transformation. Fast growth in Rwanda and 
+Ethiopia, and good economic performance in Kenya, Djibouti, Uganda, Tanzania 
+and Burundi have created a positive sub regional outlook. Concerns remain about 
+the inclusiveness and broad-based nature of such growth in the sub region, but per 
+capita GDP figures show strong improvements over the last decade. Sustaining this 
+growth trajectory requires high energy inputs. The Common Market for Eastern 
+and Southern Africa (COMESA) region faces an electricity supply deficit of about 
+20% (UN Economic Commission for Africa (UNECA), 2011).
+The state of energy access in the sub region is generally quite low, ranging from 1% in 
+South Sudan, 2% in Burundi, 11% in Democratic Republic of the Congo to 12% in Uganda. 
+The performance of Comoros (46%), Djibouti (55%) and Seychelles (96%) is better.
+Whilst East Africa benefits from a variety of energy resources, they are unevenly 
+distributed. For example, Ethiopia has significant hydropower resources as well as 
+wind and geothermal. Kenya has wind and geothermal resources. Tanzania has 
+natural gas, and Djibouti has geothermal, solar and wind. Furthermore, the region 
+is experiencing vigorous oil and gas exploration. The diversity and abundance 
+of this resource base means these resources can be developed on a larger scale 
+and integrated into a regional power grid, contributing to poverty reduction in 
+the region (World Bank, 2012). However, having the resources is one thing, but 
+converting them into real use is another. Despite the benefits of integration, only 
+a few projects are in progress, though the numbers are growing. They include the 
+now complete 150 MW interconnector from Ethiopia to Djibouti and a 100 MW 
+interconnector from Ethiopia to Sudan. A line has recently gone live between Kenya 
+and Uganda, as well as a second interconnector from Ethiopia to Djibouti (UNECA, 
+2013). In addition, Burundi, Democratic Republic of the Congo and Rwanda are 
+introducing power interconnections expected to be operational by 2015, while the 
+Kenya-Tanzania interconnector project has secured finance to begin engineering 
+work. Tanzania and Zambia are also working on an interconnector which, upon 
+completion, will connect the Southern Africa and East Africa regional grids 
+(EAPP, 2012). Together with the older Kenya-Uganda, Egypt-Libya and BurundiDemocratic Republic of the Congo-Rwanda interconnections, the pipeline projects 
+will stimulate connections across East Africa, involving all current members. 
+Given that resources are unevenly distributed, power grid integration in the subregion can help improve reliability and reduce the cost of power supply in the 
+region. This has been amply demonstrated by the significantly reduced price of 
+electricity coming through the Ethiopia-Djibouti interconnection. 
+Djibouti is not yet a member of EAPP. However, its bilateral engagement with Ethiopia, 
+like other bilateral power agreements in the region, will shape the development of 
+EAPP. Since 2011, the Ethiopia-Djibouti interconnection has enabled Djibouti to draw 
+about 65% of its electricity needs from Ethiopia. Over 98% of Ethiopia’s electricity 
+is from renewable sources. Prior to this, 100% of Djibouti’s power generation came 
+from oil products. The cost of electricity at seven US cents (USD 0.07/kWh) from 
+this new regional source compares favourably with USD 0.30/ kWh from oil. Out of 
+the total power supply, 154.97 gigawatt-hours (GWh) was imported from Ethiopia 
+in 2012 (Africa EU Energy Partnership (AEEP), 2013), which roughly equates to 
+savings of about USD 36 million. Ethiopian imports are regulated by a bilateral 
+contract establishing maximum energy trading of 243 GWh per year in 2012-2015 
+II. ENERGY CONTEXTplanned to increase the volume of electricity 
+from Ethiopia. The interconnection has had three 
+interesting effects: 
+i. Djibouti decreased its domestic power 
+production by over 37% in 2010-2011 once the 
+Ethiopian interconnector was commissioned. 
+ii. Income from value added tax (VAT) and 
+the domestic consumption tax, both on oil 
+products, declined sharply. This was due to 
+electricity imports that reduced the state power 
+company, Electricité de Djibouti’s (EdD), use of 
+oil. The government obtained a bank loan to 
+meet the budget deficit, but the deficit appears 
+to have been paid off.
+iii. The new electricity supply from Ethiopia since 
+2011 has also cut inflation because fewer oil 
+imports are needed for power generation. 
+Inflation fell to an average of 3.7% in 2012 from 
+5.1% in 2011 (AfDB, 2012).
+The sub region’s aggregate electricity demand is 
+expected to grow from about 20 terawatt-hours 
+(TWh) today to 50 TWh in 2018 and 120 TWh in 
+2030. This means the countries in the sub region 
+will need to seriously scale up the development 
+of their energy resources (UNECA, 2013). To 
+date, lack of installed capacity has forced many 
+countries to resort to expensive emergency 
+power generation, often operating as base load 
+to mitigate the consequences of load shedding. 
+Meanwhile, other countries have had excess 
+capacity. An interconnected system would help 
+to smooth out this surplus-deficit imbalance 
+and seasonal variability of energy resources like 
+hydropower. In addition, it would create significant 
+savings in foreign exchange, allowing countries to 
+free up these resources to be used for pressing 
+development investments. 
+Eberhard, et al. (2011) have shown that, from a 
+purely economic standpoint, several countries 
+would benefit from the opportunity to reduce 
+costs by importing more than half their 
+power. Savings for countries such as GuineaBissau, Liberia and Niger could range from 
+USD 0.05-0.08/kWh. The largest beneficiaries of 
+regional trade would be smaller nations that lack 
+domestic hydropower resources. It is estimated 
+that the cost savings by these countries generated 
+by regional trade could repay the requisite 
+investment in cross-border transmission in less than 
+a year. This depends on neighbouring countries 
+developing sufficient surplus power to export. 
+The experience of Djibouti is consistent with 
+this analysis
+2.2 ENERGY SUPPLY AND DEMAND IN 
+DJIBOUTI
+Djibouti is a small country with a fast growing 
+economy. It has a dual energy system with coexisting traditional and modern energy and 
+practice, although the traditional system composed 
+of biomass has been shrinking over time. Most 
+people live in towns, which influences the nature 
+of energy consumption in favour of modern fuels 
+such as electricity, kerosene and Liquid Petroleum 
+Gas. Almost all energy used in Djibouti is imported.
+Total Primary Energy Supply in Djibouti is dominated 
+by biomass, accounting for about 67%, with the 
+remaining share from oil products in 2010. Over the last 
+decade, Total Primary Energy Supply has increased at a 
+faster rate, as shown in Figure 2. The per capita energy 
+consumption in 2012 was about 440 kilogrammes 
+(kg) of oil equivalent. Biomass use has progressively 
+decreased in urban areas as a proportion of the total. 
+Kerosene has replaced biomass in Djiboutian homes, 
+and renewables account for negligible amounts of 
+energy consumed across the whole country. However, 
+better data are needed to improve the assessment of 
+the biomass contribution to the overall energy mix
+Figure 1: Country resources and potential 
+interconnections
+Source: SNC Lavalin & Parsons Brinkerhoff, 2011Figure 2: Total Primary Energy Supply 2000-2010
+Figure 3: Petroleum product consumption over time
+Source: IRENA, based on data from United Nations Statistics Division (excludes electricity trade)
+Source: GoD SIDH (2014)
+Petroleum product consumption has been on the 
+rise since 2005, particularly diesel and kerosene. 
+This is needed by the transport and household 
+sectors. In 2012, Djibouti imported nearly 
+390 000 tonnes of oil equivalent. As also indicated 
+Petroleum imports cause major problems for 
+the Djibouti economy as they use up significant 
+proportions of its foreign exchange. This trend has 
+been increasing in 2000-2012, during which import 
+bills have grown fivefold. In 2012, the country spent 
+nearly USD 200 million in petroleum imports, which 
+amounts to about 20% of total imports. The energy 
+intensity of Djibouti, as measured in terms of energy 
+consumption per unit of GDP, has been declining over 
+the past five years, while it has remained unchanged 
+in much of the East African sub region (Energy 
+Information Administration (EIA), 2013). Despite this 
+decrease, Djibouti’s energy intensity is still higher 
+than the regional average, and certainly higher than 
+that in developed and emerging economies. The 
+high energy intensity points to ample opportunities 
+for Djibouti to improve the efficiency of its energy 
+system from production to end-use. 
+clearly in figure 3, fuel oil consumption has reduced 
+since 2011 as a result of the interconnection 
+with Ethiopia (Government of Djibouti Société 
+Internationale des Hydrocarbures (GoD SIDH) 
+data, 2014). The energy access challenge in Djibouti remains a 
+major obstacle to the country’s development. At 
+about 55%, Djibouti electricity access is better than 
+most countries in the region. Furthermore, rural and 
+urban areas differ greatly in terms of access to modern 
+energy services (both electricity and heat for cooking). 
+Urban areas enjoy better conditions for improving 
+access. Three important characteristics of the energy 
+sector in Djibouti. These include: i) diversification of 
+the energy mix to reduce the country’s dependence 
+on imported fuel and electricity, enhancing the 
+country’s resilience and opportunities for the 
+development of new assets ii) continued dominance 
+of energy for heating and cooling in the country’s 
+energy balance against a backdrop of opportunities 
+to improve efficiency and fuel substitution iii) low 
+access to modernised energy services, especially in 
+rural areas, where implementing well planned minigrid and stand-alone energy programmes can bring 
+considerable wellbeing. 
+Effective installed capacity in Djibouti is around 
+126 MW (table 1). Domestically generated power 
+consists of EdD thermal capacities, which rely 
+primarily on ageing generation capacity running 
+on expensive imported fuel oil to produce baseload 
+electricity. The utility has 18 generating units running 
+on heavy fuel oil in Boulaos and Marabout. One 
+15 MW generator is less than five years old, having 
+started up in 2007. Meanwhile, 14 generators with 
+a combined capacity of 78 MW are between 5 and 
+15 years old. The remaining capacity is at least 
+20 years old (AfDB, 2013). Due to the unreliability of 
+older generators, EdD effective generation capacity 
+is limited to 57 MW of the 126 MW installed.
+2.3 ELECTRICITY GENERATION, 
+TRANSMISSION AND DISTRIBUTION
+Djibouti relies entirely on imported electricity 
+and fossil fuel for electricity generation. This is 
+mainly heavy fuel oil for the main power plants 
+and diesel for the provincial power stations. These 
+are operated by public utility company EdD, which 
+manages approximately 38000 connections for 
+the metropolitan area Djibouti City. The network is 
+based on a 5 km, 63 kilovolt (kV) cable connecting 
+the Boulaos and Marabout stations, and a 225 kV 
+amp interconnection line from Ethiopia which covers 
+about 65% of the national domestic needs during the 
+summer months (figure 4). The distribution system 
+within the city is at 20 kV. Electricity is supplied to 
+the customers through around 300 distribution 
+substations. The isolated system grids are based 
+on lower voltage distribution networks. Electricity 
+access in Djibouti is about 55%. 
+Table 1: Installed electricity generation capacity in 2011
+Power plant location Monthly fixed charge
+(Price/kWh)*
+Total capacity
+(MW)
+Main grid 
+Boulaos
+Marabout
+Tadjoura
+15
+6
+6
+108.2
+14.4
+2.2
+Interconnection - - -
+Isolated Obock 5 1.2
+Total 126.0
+Figure 4: Transmission network in Djibouti
+Source: Electricité de DjiboutiDjibouti is struggling to meet its growing electricity 
+demand. Over the past ten years, electricity 
+consumption has increased by about 75%. Even 
+with this increase it is judged that effective demand 
+is significantly higher (table 2). According to a study 
+by the European Union Energy Initiative Partnership 
+Dialogue Facility (EUEI PDF, 2013), production 
+has been growing at an estimated annual rate of 
+5.7% over the last 40 years, but more slowly than 
+demand. Random and scheduled power cuts are 
+the consequence of this imbalance. In 2009 and 
+2010, for instance, 13-14 GWh of demand could not 
+be met through the grid. Since the interconnection 
+with Ethiopia, this figure has decreased to just 
+under 9 GWh in 2011. This has improved security of 
+electricity supply. The same study highlighted that 
+Djibouti’s demand will maintain its high growth rate. 
+Power demand for the main grid is expected to rise 
+by 70%-75% in 2011-2035, while demand for the 
+isolated networks of Tadjoura and Obock is expected 
+to increase by 62.5% and 49.5% respectively over 
+Load shedding was especially frequent before the 
+interconnection from Ethiopia came on stream 
+(table 2), and still continues. In 2011, grid losses 
+represented about 16% of electricity produced due 
+to the poor state of the grid and illegal connections. 
+It was common practice for many businesses, hotels 
+and health facilities to rely on private generation 
+units on site. They ran these plants at high cost, 
+with implications for the business. Data on these 
+backup off-grid systems are not available. The 
+resulting effect of this system underperformance is 
+high tariffs for consumers and a rise in the number 
+of high cost on-site private generation units, which 
+also weakened the financial position of EdD. For 
+example, the free zone has invested in its own 
+diesel generator plant with the associated separate 
+infrastructure. This has also had a knock-on effect 
+of reducing EdD capability to raise sufficient 
+revenue for expanding the electricity system, with 
+wider economic implicationsThe lack of reliable
+seriously limiting investment in Djibouti, thereby 
+curtailing growth in productive sectors such as 
+manufacturing.
+To meet future electricity generation capacity, 
+Djibouti is building the Jaban heavy fuel oil 
+generation plant with support from the Kuwaiti 
+Government. New capacity amounting to 45 MW 
+is due to be installed in 2015, and there are plans to 
+expand this to 140 MW by 2030. Moreover, AfDB 
+has approved funding to expand the EthiopiaDjibouti interconnector by constructing a second 
+230 KV line, expected to start up in 2017. The 
+present PPA between the utility Ethiopian Electric 
+Power Corporation and EdD is governed by 
+Ethiopia’s daily loads. The arrangement does not 
+include electricity sales during the dry season in 
+Ethiopia. The supply of electricity is dependent on 
+hydrological conditions in Ethiopia’s hydroelectric 
+dams and the availability of surplus energyThis 
+that period. Clearly, Djibouti will need to scale up 
+its efforts to generate more power from domestic 
+sources and/or aim to import power from Ethiopia 
+either bilaterally or through EAPP. 
+Approximately 37% of electricity is consumed by 
+big industry and activity related to the sea port, 
+airport, free zone and military camps. Residential 
+consumers, including a social consumer category, 
+account for 38%. The remaining 25% is consumed by 
+large retailers, public offices and government offices 
+(World Bank and Parsons Brinckerhoff, 2009). The 
+service sector and domestic load components 
+dominate peak demand. There are two daily peaks 
+between May and October, largely concentrated 
+during the afternoon office opening hours and in the 
+early hours of the morning when air conditioning 
+systems are in use. Table 2 summarises the evolution 
+of the structure of the electricity market in 2007-2011 
+in terms of consumer population, power sales, 
+system losses, power demand and energy demand. 
+Table 2: Status of the electricity market
+Source: World Bank and Parsons Brinckerhoff (2009); EdD web page
+ITEMS 2007 2008 2009 2010 2011 2012
+Customer population 37 766 39 246 40 756 41 888 41 888 70 000
+System losses consumption 
+(%) 21 22 22 23 16 16
+Power demand MW 56 57 63 64 70 77
+Energy demand MWh 322 970 325 650 354 520 385 270 395 700 422 418
+Energy demand growth rate (%) 0.8 8.1 7.9 2.6 6.3
+Power demand growth rate (%) 1.7 9.5 1.5 8.6 9.0During the summer months — the rainy season in 
+Ethiopia — hydroelectricity production in Ethiopia 
+exceeds demand. It correlates with the high electricity 
+demand season in Djibouti when significant energy 
+is required for cooling (figure 5). Conversely, weak 
+demand in Djibouti during the winter months 
+coincides with the dry season in Ethiopia. 
+The electricity supply from Ethiopia is not provided 
+under a guaranteed capacity agreement, so that 
+Costs and tariffs
+Electricity tariffs remain in the hands of the 
+government, and are set by ministerial decree from 
+the Ministry of Economy and Finance in charge 
+of planning. They are subject to review by MERN. 
+Tariffs are set according to number of factors, such 
+as electricity production cost (including operation 
+cost), social cost and other political economy 
+criteria. Electricity tariffs in Djibouti are high and 
+average USD 0.32/kWh, mainly as a result of 
+increased oil prices and technical and non-technical 
+inefficiencies. The EdD 2012 tariffs range from a 
+social price of USD 0.153/kWh (lifeline tariff) to 
+USD 0.426/ kWh paid by industry and construction 
+sites. Retailers and government buildings are charged 
+USD 0.397/kWh for their electricity (World Bank, 
+2012). The cost of electricity in Djibouti is very 
+high compared to USD 0.05/kWh in Ethiopia and 
+USD 0.10/kWh in Kenya, mainly because Djibouti’s 
+primary electricity production sources depend on 
+petroleum products. As part of the effort to increase 
+electricity access by low income households, a new 
+law is under preparation to lower connection fees 
+from their present levels of USD 280-350. 
+power may not necessarily be available when 
+Djibouti needs it most. An agreement that gives a 
+higher degree of guarantee to Djibouti over a longer 
+term would create better energy security conditions. 
+It would reduce the sense of vulnerability felt by 
+development planners in Djibouti. Indeed, Djibouti 
+would need to invest in its own generation capacity 
+in order to minimise its exposure to potential 
+future price increases or disruptions of power from 
+Ethiopia, for whatever reason.
+The overwhelming majority of people unserved 
+by the grid live in rural villages very distant 
+from national grid lines. The cost to a utility 
+of connecting these communities, which have 
+low electricity demand, would be prohibitive 
+at this stage. Djibouti will need substantial 
+investments to modernise its system as well as 
+build new generation plants. A parallel strategy 
+will be required to meet the energy needs of 
+communities located far from the grid. Djibouti 
+can achieve universal electricity access with relative 
+ease compared to other countries in the region 
+given that it has a small rural population scattered 
+across small settlements. It has considerable 
+renewable energy resource potential and 
+therefore has the opportunity to create a more 
+cost-effective grid and off-grid renewable 
+energy supply system. However, the Djibouti 
+Government will need to speed up its policy 
+formulation and appropriate regulatory 
+framework development to create the appropriate 
+incentives for new investment, especially in the 
+renewables area. 
+Figure 5: Power generation by Ethiopian Electric Power Corporation and EdD (2012)
+Source: EdD2.4 RENEWABLE ENERGY RESOURCES: 
+POTENTIAL AND USE IN DJIBOUTI
+The energy sector in Djibouti faces several 
+challenges. The country continues to struggle to 
+meet resource constraints due to its dependence on 
+imported fuel and weak supply infrastructure. This 
+is especially pronounced in rural areas where levels 
+of access to adequate and reliable energy services 
+are limited due to low incomes, low demand 
+and greater distance from grid lines. To this end, 
+decentralised energy systems could be developed 
+to meet energy service shortfalls and future energy 
+needs. The deployment of indigenous resources 
+for the grid is important, given the significant 
+suppressed demand for electricity. 
+Given its climate and geography, Djibouti has the 
+potential and opportunity to develop a portfolio 
+of diversified renewable energy technologies 
+at different scales. Djibouti benefits from 
+good renewable energy resources, especially
+geothermal, wind and solar energy. These currently 
+provide negligible amounts of energy to the overall 
+mix. Djibouti’s significant untapped potential 
+resources offer opportunities for both urban and 
+rural energy development. The government could 
+capitalise on global developments in energy 
+innovations that could create new industries, jobs 
+and capacities. A summary of the resources and 
+potential available in the country is provided below. 
+Geothermal energy resources
+The Republic of Djibouti is located within the Afar 
+Depression. This is a geological triple junction 
+structure formed by the intersection of the 
+Red Sea, the Gulf of Aden and the East African 
+rifts (World Bank, 2012). Volcanic and tectonic 
+activity at this intersection has been occurring 
+for 30 million years. A number of countries along 
+this tectonically active region are exploring 
+geothermal energy as an option to meet their 
+energy requirements. Kenya has already installed 
+capacity, and Ethiopia is actively working towards 
+developing its geothermal field. One important 
+advantage of developing geothermal energy is 
+the flexibility it provides in comparison to other 
+renewable energy systems. Most renewables are 
+variable in nature and thus need to be paired with 
+other technologies that can provide the baseload. 
+Geothermal, however, provides secure baseload 
+power, and is hence better suited to replacing the 
+existing heavy fuel oil baseload power. 
+In Djibouti, various exploration activities since the 
+1970s have demonstrated the existence of significant 
+geothermal resources in the Assal Rift Zone. The 
+Assal riftwhich includes the exploratory drilling 
+is located west of the Gulf of Aden rift in Djibouti 
+(figure 6). The figure also displays the geology 
+of Djibouti and the main geothermal prospects. 
+Approximately 12 geothermal provinces have been 
+identified in Djibouti based on locations of surface 
+hydrothermal manifestations. More exploratory 
+work is required before the fields are developed 
+to produce energy. However, it is clear the various 
+geothermal fields in Djibouti can provide a low cost, 
+reliable and renewable base load energy supply. 
+Djibouti has experienced stop/start geothermal 
+exploration. Nevertheless, the work completed 
+so far has built up enough of a picture to attract 
+significant policy attention and exploratory activity. 
+Some of this outlined below.
+•	 1970-1975: the two wells Asal 1 and 2 were shown 
+to have good temperatures, but only Asal 1 has 
+produced geothermal fluid with high salinity.
+•	 1980-1985: a detailed general inventory of 
+geothermal resources was conducted by the 
+Djibouti Government and identified more areas 
+of interest.
+•	 1987-1990: deep geothermal exploration 
+completed, consisting of i) two drilling wells 
+in Hanle (Hanle 1 and 2) ii) four other wells in 
+the Assal Rift (Asal 3, 4, 5, 6) and iii) a scaling 
+and corrosion study was performed on Asal 3, 
+intended to assess the effects from deposits 
+and corrosion.
+•	 2007: the Government of Iceland pledged 
+support to develop Djibouti’s geothermal 
+resource in the form of a proposal by Reykjavik 
+Energy Invest. It would take total project risk 
+including exploration risk as an Independent 
+Power Producer (IPP) developer and recoup 
+investment and associated return through a 
+Figure 6: Geological map of Djibouti
+Source: World Bank, 2012The technically exploitable geothermal energy 
+potential is estimated at 350-650 MWe (AEEP, 
+2013). Assal-Ghoubbet is the only individual region 
+with an economically exploitable potential of more 
+than 150 MWe (Ahmed Aye, 2009).
+Solar energy resource
+Djibouti shows tremendous solar potential. As 
+illustrated in figure 7, Global Horizontal Irradiance 
+(GHI), is 4.5-7.3 kWh per square metre per day 
+(m2/ day) throughout most of the country. By 
+comparison, Germany, which has nearly half the 
+world’s installed solar PV capacity, has few locations 
+with a GHI above 3.5 kWh/m2/day. Phoenix, Arizona 
+— a city in the US Southwest famed for its solar 
+potential — has an average GHI of 5.7 kWh/m2/ day. 
+Djibouti has two peak periods of insolation (March 
+to April and September to October) with low 
+diurnal variation between maximum and minimum 
+radiation values. The lowest radiation values are 
+observed from June to August, coinciding with 
+Solar energy applications in use in Djibouti include 
+PV for off-grid applications in rural lighting, 
+communications, refrigeration, water pumping and 
+other services such as refrigeration. There is also a 
+pilot 300 kW grid-connected PV system. Off-grid 
+PV systems have been in use in Djibouti for over 
+30 years. Government and donors have funded 
+most of Djibouti’s PV investments.
+More recently, PV systems are the subject 
+of considerable interest in Djibouti, both for 
+off-grid and on-grid applicationsA PV rural 
+the hot and humid season. However, even during 
+these periods, the country receives enough solar 
+radiation (about 5-6 kWh/m²/day) to make use of 
+solar energy applications. According to Pillot, et al.
+(2013), about 82% of the country receives annual 
+mean global radiation of over 2 000 kWh/m². This 
+amounts to 4.84 x 1013 kWh or about 20 000 times 
+Djibouti’s annual electricity consumption. While 
+this resource regime is appropriate for the 
+deployment of large and small-scale PV systems, 
+further research is required into Concentrated 
+Solar Power in Djibouti. According to IRENA 
+(2012), Concentrated Solar Power plants require 
+abundant direct solar radiation for strong sunlight 
+to be concentrated to the temperatures required 
+for electricity generation. For the technology to 
+be cost-effective, direct normal irradiance levels of 
+2 000 kWh/m² or more would be required. Lower 
+levels could work under some circumstances, 
+and annual direct normal irradiance levels of 
+1 400 kWh/ m² for Djibouti need to be explored 
+further. 
+electrification study funded by the World Bank 
+Public Private Infrastructure Advisory Facility (2014), 
+was undertaken between 2011 and 2013 to assess 
+rural electrification based on PV. The aim was to 
+evaluate the opportunities and barriers to launching 
+a programme of mini-grids and stand-alone PV kits 
+for 25 villages. In the end, 19 villages were selected. 
+The study employed two economic models: a nonconcessional market for PV products and a Public 
+Private Partnership for mini-grids. It delivered the main 
+guidelines for implementing a solar electrification 
+programme through renewable energy
+Figure 7: Global Horizontal Irradiance for five stations in Djibouti (kWh/m²/day)
+Source: Higher Institute for Scientific and Technical Research (Institut Supérieur d’Etudes et de Recherches Scientifiques et Techniques) 
+(ISERST, 1984)Figure 8: Average wind speed of various sites in Djibouti at 40m
+Source: CERD, 2006
+A 300 kilowatt-peak (kWp) grid-connected PV 
+plant has been installed with the support of the 
+Japanese Government, costing an estimated 
+JPN 610 million or 1 billion Djibouti Francs. The solar 
+park occupies an area of 5 200 m² and consists 
+of 1 440 PV panels. It started up in January 2012, 
+meeting the needs of the campus of the Centre for 
+Studies and Scientific Research of Djibouti (Centre 
+des Etudes et de Recherche de Djibouti) (CERD). 
+Surplus power is fed into the EdD network. During 
+the first year of operation, the plant produced 
+508 MWh of electricity. This was 10% more than 
+initially planned. Output peaked in October 2012 
+at about 47 MWh. Reduced energy output was 
+recorded for June, July and August due to relatively 
+high ambient temperatures and high levels of the 
+Khamsin, a hot dry wind.2
+There is little private sector activity in the solar PV 
+sector, and active commercial markets are yet to 
+develop in Djibouti. There are a few private sector 
+players. Moreover, the market is limited by its small 
+size. It is partly constrained by high import tariffs 
+and VAT amounting to over 33%, lack of regulation 
+on quality assurance and the absence of supportive 
+government incentives and policies. 
+The falling PV cost in recent years brings the 
+technology closer to grid parity in many parts of 
+the world, providing potential for investment in 
+grid-connected PV in Djibouti too. Djibouti’s high 
+electricity generation cost offers an important 
+incentive for investors to play a role in grid-based 
+PV. However, it is important to recognise that this 
+is still a capital-intensive venture. It will require 
+government direction to create the appropriate 
+institutional and regulatory framework as part of 
+the effort to lower investment risks to encourage 
+private sector players to come forth. 
+Wind energy resource
+Since 2000, the Government of Djibouti has explored 
+the potential wind energy resource in Djibouti in a 
+variety of studies. For instance, CERD carried out 
+an assessment in 2002. It selected 14 sites where 
+40 m NRG Systems towers were installed, and from 
+which wind speed and wind direction data were 
+recorded for one year. Finally, a wind pre-feasibility 
+study was launched in 2005. This data gathering 
+campaign involved virtually the whole country. It 
+helped quantify the resources and key strategic 
+issues relating to grid-connected wind farms, as well 
+as rural energy applications like rural electrification 
+and water pumping. These investigations have 
+concluded that wind is a good potential source of 
+electricity production. 
+Figure 8 shows the wind resource distribution across 
+Djibouti. Average wind speeds of 9-10 metres per 
+second (m/s) (standard deviation = 0.7) are recorded 
+at the coastal areas around the Gulf of Ghoubet. Sites 
+like Ghoubet, Gaali-Maaba and Day also experience 
+consistently high wind speeds throughout the year 
+with exploitable potential of 4000 hours. This offers 
+opportunities for grid-connected power generation, 
+provided that suitable wind turbine technology is 
+selected and wind power wisely integrated to the 
+existing grid. A grid stability study would be useful 
+in the first instance to understand the impact of 
+fluctuating power supply to the national grid. These 
+coastal areas are influenced by the Khamsin. It blows 
+from the West between July and September when 
+the wind is at its lowest levels but still high enough 
+for power generation. There is limited experience of wind energy projects 
+in Djibouti. Much of the experience of wind energy 
+is in water pumping, but that has remained at the 
+pilot stage or for private use. Due to this limited 
+experience, operation and maintenance (O&M) 
+capacity is undeveloped, much like the picture in 
+other parts of Africa.
+In recent years, wind energy for electricity generation 
+has attracted some interest from the Djibouti 
+Government, multilateral institutions, donors and 
+private investors. The Ghoubet site in particular has 
+received considerable attention, and the European 
+Commission is considering a 20 MW wind park there. 
+The plant is intended to provide power for sea water 
+The inland districts of Ali Sabieh, Tadjourah and 
+Dikhil show lower wind speeds during most months, 
+averaging at 6 m/s. This is illustrated in figure 9 by a 
+comparison between a coastal and inland site. In the 
+southern section, represented by Bada Wein, the 
+regime over the year shows fairly constant winds 
+desalination. Meanwhile, China and Djibouti have 
+signed an agreement to develop wind resources in the 
+Ghoubet area. However, the distance of this area from 
+urban settlements and the grid lines has obstructed 
+this plan. If the geothermal plant in Lake Abbe goes 
+ahead, it is hoped that the two plants could share 
+the same interconnection. This would make the wind 
+plant cost-effective. Wind power projects have also 
+been proposed in other areas, including wind farms 
+of at least 5 MW in Ali Sabieh, Bada Wein, Egralyta 
+and Djibouti City. Smaller systems of less than 1 MW 
+have been identified for Hol-Hol and Yoboki. Small 
+wind systems have also been proposed for isolated 
+areas, although the policy weight in wind tends to 
+back larger-scale projects. 
+along the Northeast and Southeast respectively. 
+Average monthly wind speeds there are 6-7 m/s. 
+Although this is lower than the coastal site of 
+Ghoubet, Bada Wein nevertheless shows attractive 
+wind resources for electricity generation to supply 
+both the main grid and mini-grids. 
+Figure 9: wind speed at two different sites as a comparison
+Source: CERD3.1 KEY ENERGY STAKEHOLDERS AND INSTITUTIONAL 
+ARRANGEMENTS
+The energy sector in Djibouti contains a multitude of players: government bodies 
+and utilities, research institutions, non-governmental organisations (NGOs) and 
+associations as well as the private sector. Some of these play several roles in policy, 
+regulation, financing, knowledge generation and advocacy. 
+Government/public sector institutions
+Ministry of Energy and Natural Resources (MERN), under the Office of the 
+President, is responsible for designing, defining and developing government policy 
+on energy and natural resources. It defines rules, regulations, statutory instruments 
+and legislation for the energy sector including electricity, petroleum products and 
+renewable energy. MERN oversees two important government bodies, EdD and 
+International Hydrocarbon Company (Société Internationale des Hydrocarbures). 
+Ministry of Economy and Finance (Ministére de L’Economie et des Finances, 
+Charge de L’Industrie et de la Planification) is in charge of industry and planning 
+and sets the electricity tariff. The Directorate of External Finance is responsible 
+for implementing and monitoring new projects. The ministry is also involved in 
+regulating and stabilising oil prices under a liberalised regime. 
+Electricity of Djibouti (Electricité de Djibouti) (EdD), established in 1960, is a 
+utility owned and run by the state, and has a monopoly on electricity generation, 
+transmission, and distribution. EdD status and duties are defined in decree 
+83-071/ PWEDD of 2 February, 1983. The decree specifies that the State of Djibouti 
+is ultimately responsible for EdD obligations vis-à-vis third parties and suppliers. 
+It also says that the electricity distributed by EdD can either be produced by the 
+utility or by facilities owned by third parties. Electricity tariffs offered by EdD are 
+defined by a decree from the Ministry of Economy and Finance, and subject to 
+MERN review. 
+International Hydrocarbon Company (Société Internationale des Hydrocarbures), 
+under MERN supervision, is responsible for hydrocarbon imports, processing and 
+operations. Imports are dominated by three international oil companies - Shell, 
+Total and Oil Libya. 
+Djibouti Social Development Agency (Agence Djiboutienne de Developpement 
+Sociale) (ADDS) was created in 2007. Under the Secretary of State for National 
+Solidarity, ADDS is a financially autonomous public legal entity that implements 
+the National Development Initiative for poverty reduction. ADDS is responsible for 
+the implementation of rural electrification objectives in areas not covered by the 
+EdD grid. The energy component of ADDS work is managed by the Directorate for 
+Rural Electrification. 
+Djiboutian Agency for Energy Management (Agence Djiboutienne de Maîtrise 
+de l’Energie) (ADME) is a public institution whose mission is to promote energy 
+efficiency and renewable energy in all economic sectors. ADME is responsible for 
+several activitiesIt communicates knowledge relating to policy development on 
+III. ENABLING ENVIRONMENT FOR RENEWABLE ENERGYstate institutions and homes, recommending best 
+practice. It assists industry in energy demand 
+management, and integrates energy efficiency 
+into industrial management systems. It encourages 
+scientific research and assistance to reduce energy 
+losses. Finally, it develops and ensures compliance 
+with thermal standards for new buildings and old 
+building renovation.
+The Ministry of Agriculture (Ministère de 
+l’Agriculture) is in charge of drilling wells in the 
+geothermal sector for instance, as well as for using 
+solar pumps for groundwater wells.
+The Geothermal Energy Development Office 
+(Office Djiboutien de Développement de l’Energie 
+Géothermique - ODDEG) established by law 
+32/AN/13/7ème L January 20, 2014 under the 
+President’s office with the aim identifying the 
+various types of geothermal resources of the 
+country, carrying out the exploration work, 
+recognition and study.
+The National Energy Commission (Commission 
+Nationale de l’Energie - CNE) was established by a 
+Presidential Decree 11 2009-0218/MERN October 
+2009. Its job is to help the government plan, implement 
+and monitor the Djibouti National Energy Master Plan, 
+and to update the energy map of the country. 
+Private sector institutions
+A few small private sector suppliers of renewable 
+systems and installers are operating in Djibouti. 
+The Djibouti Chamber of Commerce (Chambre de 
+Commerce de Djibouti) was established in 1970 by 
+a group of local businesses. It has since evolved to 
+become the principal representative institution of 
+the private sector at the national level. Its main tasks 
+are to represent the viewpoints of economic players, 
+present their opinions and proposals supporting 
+economic prosperity and poverty reduction, and 
+promote development in the Republic of Djibouti. 
+The Djibouti Chamber of Commerce also facilitates 
+trade engagements and helps raise awareness 
+of issues that help strengthen domestic markets 
+among relevant private sector players. It also carries 
+out relevant studies and data collection. It has three 
+departments: consulting, technical assistance and 
+training. All economic sectors are represented in 
+the decision-making body through the General 
+Assembly of 44 elected members and eight 
+executive members who support the president 
+of the Chamber of Commerce. Energy features 
+strongly in the organisation’s strategic focus. 
+The National Investment Promotion Agency 
+(Agence Nationale de Promotion des 
+Its goal is to encourage investment promotion in 
+Djibouti through a policy of flexibility in investment 
+operations and development of an enabling 
+regulatory framework and regulatory procedures. 
+As part of its investment promotion and knowledge 
+development role, the ANPI is responsible for 
+promoting investment opportunities and the 
+incentive environment of the Republic of Djibouti. 
+Within its investment remit, renewable energy 
+is seen as an important area to boost economic 
+development and create high quality employment 
+for the economy. 
+Universities and research institutions
+Centre for Studies and Scientific Research of 
+Djibouti (Centre des Etudes et la Recherche de 
+Djibouti) (CERD) is a public scientific institution. It 
+is directly attached to the Office of the President 
+through the Ministry of Presidential Affairs, and 
+provides an institutional framework for researchers, 
+scientists and academics from all specialisms. It 
+conducts studies to evaluate renewable energy 
+potential in Djibouti and carries out pilot research 
+that can feed into the energy knowledge system. 
+The CERD solar laboratory, working under the 
+authority of the Institute of Earth Sciences, has 
+installed a grid-connected 300 kW PV plant, which 
+it monitors and uses for scientific testing. 
+The University of Djibouti (UNiversité de Djibouti) 
+is responsible for offering training programmes in 
+courses related to energy. It has recently established 
+an engineering department, and is expected to 
+expand its limited training and research capabilities.
+3.2 ENERGY POLICIES AND 
+REGULATORY FRAMEWORK
+The Republic of Djibouti’s Vision 2035 was launched 
+in 2014. This medium and long-term development 
+strategy lays the foundation for future action. 
+It is built on five main pillars: peace and national 
+unity, good governance, a diverse and competitive 
+economy, stronger human capital and regional 
+integration. It takes into account socially important 
+and promising sectors such as education, tourism, 
+fisheries, new technologies and industry. The 
+urgent need to improve and modernise Djibouti’s 
+infrastructure is an important aspect of Vision 
+2035. This would be achieved using public and 
+private sector investments in transport, energy 
+and information and communications technology. 
+In line with previous development strategies, the 
+vision has established a goal to promote renewable 
+energy resource use for electricity generation. The 
+aim is to actively pursue fuel switching measures 
+from fossil to renewable energyGovernment •	 increase electrification rates to 60% by 2015
+•	 increase share of renewable energy technologies 
+to 87%-100% of energy mix
+•	 reform the electricity utility
+•	 refurbish and extend the power grid 
+•	 establish new interconnections 
+Off-grid rural electrification objectives in rural 
+areas include the following: 
+•	 solar water pumping 
+•	 PV and small wind for community services 
+(health and education) 
+•	 household PV (30% of rural electrification from 
+solar PV planned by 2017)
+Djibouti has no comprehensive energy policy. 
+Policies are under consideration to resolve the 
+country’s growing energy needs and its potential 
+to deliver energy from renewables. 
+Decree 83-0171/PREDD of 2 February 1983 established 
+the specifications for EdD. These set out details 
+concerning production, transportation and 
+distribution, and operation. This was further reinforced 
+by decree 77-079/PR/PM1 of 20 December 1997.
+Ethiopian Electric Power Corporation and EdD 
+have a joint PPA. Supply is in the form of power 
+only, and there is no capacity element. The 
+agreement stipulates that the volume of electricity 
+transferred must amount to 246 GWh (2010 
+consumption). The agreed tariffs for 2011 were 
+USD 0.06-0.07/kWh, depending on time of day 
+and season in Ethiopia (wet or dry). 
+The EUEI-PDF is conducting two important studies 
+that will contribute to the development of the 
+power sector and the legal framework to underpin 
+its governance. These are outlined below.
+A ten-year National Strategy and five-year Action 
+Plan for the development of the electricity sector 
+is under development. This strategy focuses on the 
+approach, responsibilities and sources of finance 
+for conventional and decentralised electrification 
+and for promoting renewable energy sources. 
+Capacity building in the private as well as the public 
+sector at MERN, EdD and ADDS, among others, is 
+considered a central activity to ensure the strategy 
+and action plan is successfully implemented. 
+The Electricity Law is under preparation. This 
+will have two important functions. It will develop 
+appropriate regulations to promote cost-effective 
+generation, transmission and distribution of 
+electricity. It will set standards for electricity 
+services, determine appropriate tariffs and open 
+up the generation sector to IPPs. This would focus 
+mainly on the design of adequate PPA schemes for 
+the renewable energy sector. Its second function is 
+to define the roles and responsibilities of the various 
+stakeholders, including institutions responsible for 
+their promotion, incentive measures and financing. 3.3 FINANCING AND INVESTMENT
+Donor assistance funds the majority of the energy 
+sector investments in Djibouti. Eight separate 
+projects are at various stages of preparation/
+implementation. These are divided into the 
+following sets of energy sector development 
+programmes: generation, transmission and 
+distribution, and renewable energy development. 
+Many financing institutions fund these projects. 
+These include the Islamic Development Bank, the 
+Investment and Development Bank of the Economic 
+Community of West African States, and the 
+Organization of the Petroleum Exporting Countries 
+(OPEC) Fund for International Development. The 
+African Development Bank, World Bank, UNDP, 
+EU, French Development Agency (AFD), Japanese 
+Government and Global Environment Facility also 
+fund these projects. Government contributions 
+towards these projects take the form of counterpart 
+funding mainly arising from internally generated 
+sources like direct and indirect tax, international 
+trade tax and non-tax revenues. The government 
+also regularly borrows from the international and 
+local financial markets to finance energy projects.
+Private player incentives are minimal. Organisations 
+are allowed to produce power for their own use 
+but are not allowed to sell power to any end-user 
+other than EdD. Efforts are under way to set up 
+the regulatory framework and laws to encourage 
+the private sector to enter the renewable energy 
+market. However, more time and confidence 
+building is required to encourage the private sector 
+in Djibouti to invest to renewable energy. Local 
+banks and microfinance institutions are averse to 
+building a portfolio of renewable energy projects 
+since their understanding of and tolerance for 
+technology risk is limited. Moreover, most local banks 
+lack the capacity to plan, structure and appraise a 
+renewable energy project with appropriate financial 
+instruments. Combined with inadequate awareness, 
+this reinforces the perception that renewable energy 
+technologies are too expensive, unreliable and thus 
+too risky an investment. 
+This may change when the Energy Law comes into 
+force. It may lead to the introduction of a renewable 
+energy fund for providing financial incentives, 
+capital subsidies, production subsidies and equity 
+participation to renewable electricity projects. The 
+sources of finance for the fund will include the 
+National Budget, multilateral and bilateral donors, 
+donations, and various levies. 
+Finance from the renewable energy fund would 
+also be available for promoting renewable energy 
+projects, for instance, including capacity building 
+for renewable energy development. This would 
+enable the Government of Djibouti to take the 
+opportunity to build the technical capacities of 
+local financial institutions, the private sector and 
+civil society on the business opportunities within 
+the renewable energy sector. Opportunities to develop the renewables sector in Djibouti are explored in this 
+section, which is divided into four subsections. Each focuses on different resources 
+and conversion technologies, known here as service-resource pairs. The status 
+of each particular subsector is reviewed, followed by the issues that need to be 
+resolved. It then concludes with a list of actions recommended by the RRA process.
+4.1 GRID-CONNECTED RENEWABLE ENERGY OPTIONS
+Reliable and affordable electricity is critical for economic development. This 
+means the grid remains an important means to transform Djibouti’s economy and 
+reach large numbers of people at lower cost. Djibouti has particular advantages 
+since its predominantly urban human settlement pattern lends itself to exploiting 
+the grid to widen reliable electricity access. However, as in a number of African 
+countries, the grid in Djibouti faces formidable technical, institutional and financial 
+barriers. The lack of reliable, affordable power is seriously obstructing investment 
+in Djibouti. It limits the growth of critical productive sectors such as industry and 
+fishing. Over the past few years, several renewable energy technologies have 
+become increasingly cost-competitive. Their development represents an important 
+opportunity for countries like Djibouti to diversify their supply options. This section 
+considers geothermal, wind and PV technologies for Djibouti’s power sector, as 
+they offer high short-term deployment potential.
+Geothermal power 
+Exploration of geothermal energy in Djibouti goes back a long way, as it has 
+the potential to solve the country’s long-standing power generation problem. 
+However, geothermal energy has yet to be developed to provide electricity in 
+Djibouti. In 1987, the World Bank carried out some exploratory drilling along with 
+the Government of Italy, AfDB, UNDP, United States Agency for International 
+Development and the OPEC Fund. It produced follow-up plans to develop and 
+construct the geothermal power plant that Djibouti needed because of a failure to 
+achieve consensus on project design. In the latest effort to develop the country’s 
+geothermal potential some 25 years later, a number of lessons were learnt from 
+the aborted 1987 geothermal project. One is to smooth donor activity coordination 
+and produce a highly developed but simplified project design to ensure cofinancing. Another is to put in place assurances that guarantee payments to the 
+IPP. Since 1987, progress has been made in geothermal power technology. This 
+means conditions in the Assal Rift in Djibouti are more viable, and enables more 
+advanced and complete field testing in the area. The World Bank recently financed 
+the Menengai geothermal project in Kenya with a capacity of 400 MW. This largescale geothermal project could have a catalytic effect on geothermal resource 
+development in the East African rift system. Djibouti is building strong technical 
+capacity that can be deployed to serve the sector’s human resource needs. 
+Djibouti’s plan to construct a geothermal power station with a total capacity of 
+50 MW is one of the projects currently planned across the sub regionIn assessing 
+IV. EMERGING ISSUES
+AFFECTING 
+RENEWABLE ENERGY 
+DEPLOYMENTundertake the financial analysis are provided in table 3. 
+The exploratory stage of the project, amounting 
+to about USD 31 million, is funded by AfDB, World 
+Bank, OPEC Fund, the Energy Sector Management 
+Assistance Program, Global Environment Facility 
+and AFD. This finance will cover the riskiest part 
+of the geothermal power generation project with 
+concessionary funds to ascertain the commercial 
+viability of the resource in the Lake Assal area. This 
+could provide the necessary incentives for an IPP to 
+develop the 50 MW power plant. However, it is not yet 
+clear whether the government will underwrite this sunk 
+cost to encourage IPPs to take the project forward. 
+In addition to its low environmental impact 
+compared to other baseload power sources, a 
+number of other attributes make geothermal 
+energy attractive. Its high capacity value and 
+capacity factor are very reliable. The history of 
+successful geothermal exploitation in other parts 
+of the world demonstrates both the reliability 
+of the resource and the dependability of the 
+technology. 
+Although Djibouti is importing about 60% of its 
+power from Ethiopia, it still relies on imported oil 
+to generate about 30%-40% of its power needs. 
+Table 3 shows that geothermal power plants 
+could significantly reduce the cost of generation 
+by a margin of nearly USD 0.20/kWh, compared 
+to the heavy fuel and diesel now in use in 
+Djibouti. Geothermal projects produce energy for 
+decades at stable, affordable prices, which reduces 
+price volatility. This helps avoid the price spikes 
+and energy crises that often impose severe 
+economic penalties on business and local 
+communities. 
+Geothermal power production creates a variety 
+of jobs across the project chain. A recent study 
+by IRENA (2013) and Rutovitz and Harris (2012) 
+provided further details on employment factors4 
+and regional multipliers.5 Employment factors for 
+geothermal plants for manufacturing, construction 
+and installation (C&I), and O&M are 3.9, 6.8 and 
+0.40 job-years/MW respectively. To account for 
+variations in labour productivity, regional multipliers 
+can be used. The multiplier for Africa is 4.3. 
+3 It is important to remember that Djibouti has no experience of geothermal power generation. A 50 MW overall project in the Philippines
+will cost at least USD 250 million, and that is a mature and experienced geothermal environment. Since Djibouti has never developed
+a geothermal project and has had payment problems in the past, the debt-equity ratio could be around a 60:40. With higher capital
+expenditure, the IPP break-even point could rise to USD 0.11-0.13/kWh. 4 This covers the number of jobs necessary to manufacture, construct and install one unit of renewable energy generation capacity. The
+number of jobs per unit of capacity is typically much lower for O&M than for manufacturing, construction and Installation, although
+this will vary according to technology. 
+Table 3: Costs and assumptions for financial analysis3
+Activities Costs and assumptions
+Exploratory drilling over a three-year time frame USD 31.2 million
+Capital expenditure for geothermal field 
+development for a 50 MW plant 
+(i.e., USD 3.62 million per MW installed). Includes 
+expenditure for the first three years of exploration.
+USD 181 million 
+Capital structure of the IPP: base case
+Interest on the debt portion 
+70:30 debt-equity ratio
+6% per year over 15 years
+Required rate of return on equity 15%-25%, with the main case for the prospective IPP 
+project being 20%
+Geothermal plant capacity factor 90% capacity factor = 394.2 GWh
+Operation and maintenance costs USD 9.2 million per year
+Depreciation of capital assets 30 years
+Initial working capital USD 5.4 million
+Taxes Ten-year tax holiday, and a corporate income tax of 
+25% applying in subsequent years
+IPP to break even at an electricity tariff USD 0.0875-0.0910/kWh
+Source: World Bank (2013)6 Manufacturing has been omitted from this calculation given that much of the technology is likely to be imported, at least in the short 
+term. 
+Using the above employment factor without the 
+regional multiplier for Africa, a 50 MW geothermal 
+plant could generate no less than 1 462 job-years 
+in C&I and 35 jobs in O&M6 in Djibouti. Achieving 
+Djibouti’s geothermal potential of 300 MW could 
+deliver 8 770 job-years in C&I and 210 jobs in O&M. 
+In a country like Djibouti where unemployment 
+is very high at about 60%, geothermal energy 
+and other renewable energy projects can provide 
+benefits beyond energy service provision. A stable 
+and reliable energy supply base and affordable 
+energy market can have a significant impact on the 
+wider economy, both by creating indirect jobs and 
+cutting energy costs for businesses. 
+Improving its self-generation capability enables 
+Djibouti to enter the regional power market as a 
+power seller as well as purchaser, strengthening its 
+strategic position. Geothermal and other renewable 
+energy resource development provide Djibouti 
+with a route to sell baseload geothermal power 
+to Ethiopia during the dry season. This is when 
+Ethiopia’s hydropower generation is restricted 
+and thermal generation may be required to meet 
+dry season power demands. As indicated above, 
+Ethiopia’s dry season corresponds to Djibouti’s 
+low demand winter season. This creates a potential 
+market for Djibouti’s geothermal power through 
+Ethiopia to other foreign markets connected to 
+Ethiopian grid generation.
+On-grid wind
+There are no grid-connected wind power generators 
+in Djibouti. However, recent wind resource studies 
+have confirmed that it hosts several excellent 
+wind energy sites. Four of these show excellent 
+potential, and the economic case for investing in 
+them is being made at the moment. Two projects 
+in the pipeline are worth discussing. The first is an 
+agreement between Qatar Petroleum International 
+and the Government of Djibouti to build a 60 MW 
+wind farm. A memorandum of understanding was 
+signed in late 2013 to evaluate the plans for this 
+project. The second project is known as Producing 
+Safe Drinking Water and Renewable Energy (Projet 
+d’Eau Potable et de l’Energie Renouvelable). 
+It relates to the agreement through which the 
+EU provides 90% funding for a EUR 46 million 
+(USD 55 million) wind energy and water 
+desalination plant in Djibouti. The plant will initially 
+have a capacity of 22 500 m³/day, which will be 
+expanded to 45 000 m³/day during the follow-up 
+phase. The new plant should provide sufficient 
+water for 200 000 people, over one quarter of 
+the population. Further initiatives are planned, 
+including a memorandum of understanding with 
+Ethiopia for the exploration and import of water. 
+From an energy standpoint, the interesting aspect 
+of the desalination initiative is the 20 MW wind 
+farm, which is expected to supply much of the 
+power. It will be built during the second phase of 
+the project. 
+Given the relatively good wind regime in Goubet, 
+a pre-feasibility analysis for grid-connected 
+wind power generation was carried out by the 
+project developers. It had a reference capacity 
+of 20 MW (63 kilovolt amps) with an annual 
+generation rate of 82 GWh and system cost of 
+USD 2 500/kW.7 The analysis showed a payback 
+period of about 10.7 years for a 
+system that will operate for 20 years, 
+feeding the grid at the cost of 
+USD 0.075/kWh (see figure 10). The levelised cost 
+Figure 10: Cumulative cash flow and payback periodresult was also encouraging at USD0.056/kWh. This 
+illustrates that the large wind system can generate 
+electricity at a rate competitive with the incumbent 
+generation system. However, the payback period is on 
+the high side, which means the IPP would take longer to 
+recover its investment. Shortening the payback period 
+may require increasing consumer electricity tariffs. 
+Further analysis was made using two separate 
+scenarios where the system is connected to the 230 kV 
+transmission and to a new 63 kV system. In both cases, 
+the capital cost would rise to around USD 3100/kW 
+and USD 2900/kW respectively. This yields a 
+payback period of about 13.1 years for the 230 kV and 
+12.4 years for the new 63 kV system, and levelised 
+costs of USD 0.065/kWh and USD 0.060/ kWh 
+respectively. Alternatively, the system would 
+continue to depend on cheap but not entirely 
+reliable electricity from the Ethiopian
+ interconnection or through the EdD thermal plants, 
+which are costly ways of generating power. The wind 
+system solves the twin problems of reliability and cost. 
+Wind power in Djibouti can be harnessed to 
+support a range of productive sectors such as 
+fishing. This remains underdeveloped in Djibouti 
+largely due to a lack of energy services for cooling 
+and processing. Ice-making and chilling is energyintensive, but Djibouti has the energy resources to 
+kick-start an industry that could generate much 
+needed employment opportunities and significant 
+economic benefits. 
+Wind power generation offers an opportunity to 
+improve the electrification rate by diversifying and 
+harnessing the use of locally available resources. 
+This is aligned with the government’s aspirations 
+in Vision 2035 to boost the energy infrastructure to 
+The financial viability of IPPs depends on the 
+agreed price at which they can sell power to the 
+national grid or end-users. At the moment, there is 
+no arrangement in Djibouti allowing organisations 
+to produce power to sell as their core business 
+activity. Figure 11 shows that the payback period for 
+the 20 MW wind power system varies significantly 
+according to the selling price of power. The same 
+applies to revenue that can be generated under 
+different pricing regimes working on the basis of 
+predetermined stipulations over a number of years. 
+Strong offtake agreements enable operators to 
+make sufficient money to service their debts and 
+operate their systems. Clearly, such agreements 
+need to strike a balance between affordability for 
+businesses and the general public, and financial 
+stability for private operators. This must not only 
+allow them to stay in business but also generate 
+enough revenue to invest in upgrades and 
+expansions. These will be critical concerns as the 
+Government of Djibouti prepares its electricity 
+laws and energy strategies in line with Vision 2035. 
+has considerable wind and other renewable 
+resources but has yet to develop policies or an 
+investment climate adapted to renewable energy 
+development and implementation. Initiatives 
+to stimulate investor confidence would need 
+to include appropriate measures like a Feed-in 
+Tariff (FiT), a waiver on import sales tax and 
+corporation tax breaks for renewable energy 
+developers. Major efforts will be needed to build 
+an efficient administration and management 
+capacity in government agencies, and to 
+strengthen engineering, business, finance and 
+contract negotiations skills across the knowledge 
+institutions. The much awaited new Energy Law 
+is expected to resolve some of these fundamental 
+Figure 11: Cumulative revenue and payback period at different electricity selling prices (in USD)Wind can create some direct employment, although 
+much of this will remain in the manufacturing 
+stage of the energy value chain. Employment 
+factors for wind plants in manufacturing, C&I 
+and O&M are 6.1 job-years/MW, 2.5 job-years/
+MW and 0.20 jobs/ MW respectively. Using these 
+factors and the regional multiplier for Africa of 
+4.3, a 20 MW wind plant can generate as much as 
+215 job-years in C&I and 17 jobs in O&M8 in Djibouti. 
+Djibouti has major potential for significantly scaled 
+up wind energy development. This could bring 
+further benefits in terms of direct and indirect jobs, 
+but also to the wider economy. However, the effect 
+of local weather conditions9 on wind turbines 
+should be carefully considered when deciding on 
+the size of systems and type of turbines.
+8 Manufacturing has been omitted from this calculation given that much of the technology is likely to be imported, at least in the short 
+term. 
+Lake Abhé
+Photograph: Government of Djibouti Box 1. Djibouti: From energy importer to transcontinental transmission hub
+Djibouti intersects two continents linked by history and trade. Energy could be traded 
+across the Red Sea, and Djibouti could become the bridge between two important power 
+interconnections, EAPP and the Gulf Cooperation Council (GCC) interconnection. The objective 
+of the interconnection is clear. It is intended to increase diversity both in generating stock and in 
+timing energy demand by the load. Larger systems require proportionately lower percentages of 
+reserve margin. They are able to take advantage of any load diversity that may be brought about 
+by differences in the industrial or residential energy use patterns (Tabors, 2009).
+A number of developments bring into sharp focus the potential role Djibouti could play in 
+transcontinental power trade. These are outlined below.
+•	 EAPP launched its master plan in 2011. This pointed to 12 new interconnection projects and an 
+additional 20 000 MW planned for the medium term (53% from renewables). This does not 
+include the Inga dam in Democratic Republic of the Congo.
+•	 In 2010, cross-border electrical trading through the interconnection network took place for 
+the first time in the GCC region. This involved Saudi Arabia, Kuwait, United Arab Emirates, 
+Bahrain, Oman and Qatar but not Yemen.
+•	 Electricity demand in GCC countries has risen rapidly over the past 20 years and will continue 
+to rise sharply. Power is mostly generated from oil and gas plants. 
+•	 GCC greenhouse gas emissions have rapidly increased in the last 20 years. The rapid rise 
+in energy demand and predominance of fossil fuels in the electricity mix has been largely 
+responsible for these increases. 
+•	 The majority of the utilities within the GCC have heavily subsidised retail electricity rates. 
+Except for Qatar, this places countries under extreme pressure as natural gas becomes 
+increasingly valuable in the international market. Some countries have even begun to import 
+coal. Marginal cost of peak electricity varies by country: for Kuwait it is USD 0.19/ kWh, 
+Saudi Arabia USD 0.22/kWh, Bahrain USD 0.10/kWh, Qatar USD 0.09/kWh and Oman 
+USD 0.23/ kWh. 
+•	 Discussions have recently started for Ethiopia to supply power to Yemen through a submarine 
+transmission line via Djibouti. Yemen has an installed capacity of about 1 200 MW but delivers 
+around 840 MW. This amounts to a 30% loss due to an ageing distribution grid. Power is 
+heavily subsidised. The average tariff is around USD 0.06/kWh, but average operating costs 
+for the utility are around USD 0.12/kWh. Furthermore, capacity will need to grow to over 
+3 000 MW by 2020 to meet demand. Only 30% of Yemenis currently have access to electricity. 
+Energy access and security in Yemen, fuel trade-offs and high carbon emissions in the rest of the 
+GCC are important concerns relating to individual national circumstances. The interconnection 
+could improve energy security and reduce greenhouse gas emissions, providing that electricity is 
+generated from renewable sources or other low emission options. Herein lies the opportunity for 
+Djibouti to serve as a transcontinental transmission hub. This would further enhance the nation’s 
+strategic significance in regional energy and integration, and strengthen its negotiating hand on 
+matters related to energy. African countries with surplus power will benefit from a new market 
+opening up for green energy and become important players in the decarbonisation effort of 
+Arabian Peninsula countries. GCC countries in particular would benefit by improving their climate 
+change record while acquiring affordable electricity, especially for Yemen. This initiative has all 
+the hallmarks of a win-win situation, but further studies are required to map out the benefits and 
+costs for each player. Scenario work would also go some way to gain a better understanding of 
+the dynamics between a range of variables.On-grid PV
+Djibouti has outstanding solar resource conditions 
+and thus offers the opportunity for deploying a 
+range of solar technologies as utility-scale plants 
+as well as in distributed end-use applications. The 
+cost of PV technology has rapidly fallen across 
+the world, enabling grid-based PV to achieve grid 
+parity in a number of markets. It is fast becoming 
+a genuine alternative for countries faced with 
+the twin challenges of energy access and energy 
+security. PV module prices have declined sharply 
+from USD 3.70/kW in 2009 to USD 1.20/kW in 2012. 
+They may fall yet further to USD 0.5/kW, making the 
+balance of system a crucial determinant of solar PV 
+system costs (IRENA, 2013). These trends make PV 
+a compelling product for end-users in countries like 
+Djibouti looking to diversify their energy sources 
+and build resilience into their energy system. 
+There is some experience of PV systems in 
+Djibouti, but it is restricted to the off-grid PV 
+sector. However, with the help of the Japanese 
+Government, Djibouti has recently installed a 
+300 kW PV system supplying energy to the CERD 
+campus and feeding the surplus to the grid. Given 
+the specific vulnerabilities of Djibouti’s power 
+sector, policy makers are becoming more and more 
+interested in exploring the considerable economies 
+of scale associated with PV grid developments. The 
+grid-connected pilot project offers an excellent 
+demonstration of the opportunities and constraints 
+associated with PV as a possible large-scale option. 
+A cursory evaluation of the pilot project raises a 
+number of important features of PV-grid systems 
+in the Djibouti context. In the 12 months following 
+its launch in January 2012, the PV power plant 
+generated 508 MWh of electricity. About 158 MWh 
+of the energy produced is consumed by the CERD 
+buildings and the surplus 350 MWh fed to the EdD 
+network. The system‘s energy balance showed that 
+CERD annual energy consumption amounted to 
+about 438 MWh. This means the PV plant could meet 
+its entire buildings energy demand, except during the 
+peak summer months (June to August) when this 
+exceeds the amount produced by the PV system. 
+The PV project cost was estimated at about 
+USD 5.9 million (JPY 610 million). This equates to 
+about USD 20 000/kW, which is very expensive. 
+However, the costs may contain other expenses 
+related to official development assistance that 
+may not be clear to outside observers. For this 
+reason, a separate analysis is needed to provide 
+other estimates closer to the market prices. Today, 
+solar PV installed costs in non-OECD regions for 
+utility-scale projects are USD 2 000-7 000 kW. If 
+these figures are applied, PV in Djibouti could be 
+cost-competitive, especially for larger PV systems 
+where the benefits from economies of scale can be 
+significant. 
+The cost of the above system has been recalculated 
+using market data on PV systems and real economic 
+data from Djibouti.10 Figure 12 shows the result of 
+this analysis. The levelised cost results showed a 
+wide variation depending on the capital cost of 
+the system. This ranges from about USD 1.1 million 
+to over USD 2.5 million over the system lifetime 
+(figure 12). When viewed in terms of levelised costs 
+Figure 12: Levelised cost of generation with PV (comparison at different system costs)
+10 Assumptions: capital range = USD 2 000-7 000/kW; annual O&M cost = USD 40/kW (for 300 kW plant); import duty = 26%; VAT = 7%;
+project time = 20 years; profit margins = 15%; inflation =2%; discount rate =12%Adapted from IRENA Renewable Power Generationin kWh, a generation cost of USD 0.11-0.25/kWh is 
+obtained (figure 12). This illustrates that larger PV 
+systems can bring economy scale benefits, making 
+them competitive against fossil-based electricity 
+which at present has a generation cost of about 
+USD 0.30/kWh in Djibouti. On the face of it, this makes 
+the PV option attractive from cost and security of 
+fuel supply considerations. Of course, there are other 
+important considerations such as the high initial costs of 
+PV systems whereas fossil-based systems have higher 
+recurrent costs over the system lifetime. However, as 
+the cost of PV systems continues to fall, their value as a 
+reliable and cost-effective option for power generation 
+increases, particularly during daytime peak electricity 
+demand.
+There are two other important features that may 
+impact on the viability of PV as part of a long-term 
+energy strategy for Djibouti’s power sector. Firstly, the 
+country still has high tariffs on all imports at 26% and 
+VAT at 7%, which also applies to PV systems. As shown 
+in figure 13, the levelised cost of generation of systems 
+The second important feature affecting the 
+financial viability of grid-based PV relates to the 
+agreed selling price of electricity to the distributor 
+or end-user - in this case EdD. At present, EdD 
+imports power from Ethiopia at a tariff level of 
+USD 0.06-0.07/kWh and sells power to various 
+users at USD 0.153-0.426/kWh depending the 
+user type. Employing these figures and a range of 
+system costs, the payback period of the 300 kW 
+charged import tax and VAT on top of the initial cost 
+differs significantly from those that are not. This means 
+the generation cost can rise with more expensive 
+systems. If the provision of affordable electricity is 
+an important goal, then regulation needs to reflect 
+this. A resolution exempting PV-system components 
+from import duties and VAT would go some way to 
+levelling the playing field between market-based PV 
+systems and those benefiting from donor support 
+such as the one discussed above. Reducing import 
+tariffs cuts the costs of grid-connected PV systems and 
+renewables, so it would also make these technologies 
+more affordable to EdD. Of course, such waivers are 
+intended to help end-users in the short term, but may 
+undermine the emergence of a commercially viable 
+local PV manufacturing industry. Although Djibouti 
+may not be quite ready for this leap, the country may 
+consider a research, development and deployment 
+strategy that would consider manufacturing some of 
+the PV components locally. This requires other reforms 
+and policies that link science and technology with 
+industrial development. 
+Figure 13: Levelised cost of generation of different import duty levels in Djibouti (in USD)
+system has been estimated if electricity was 
+delivered to EdD. Table 4 illustrates the extent 
+to which this is a major factor, showing that the 
+selling price of electricity would need to be at 
+least USD 0.15/kWh if the payback period for the 
+system is to be within the project timeframe of 
+20 years. This indicates that for PV options, the 
+introduction of enabling instruments such as a FiT 
+may be necessary attract investors. Table 4: Payback years for 300 kW PV system, using different system cost and tariff figures
+Key: yellow:7 years or less; light green: 7-10 years; dark green: 11-15 years; purple: 16-20 years; grey: more than 20 years
+USD 2000
+/kW 
+(w/o import 
+duty & VAT)
+USD 2000
+/kW
+(with import 
+duty & VAT)
+USD 3000
+/kW
+(w/o import 
+duty & VAT)
+USD 3000
+/kW 
+(with import 
+duty & VAT)
+USD 5000
+/kW
+(w/o import 
+duty & VAT)
+USD 5000
+/kW
+(with import 
+duty & VAT)
+USD 0.30/kWh
+USD 0.20/kWh
+USD 0.15/kWh
+USD 0.07/kWh
+System 
+Size
+Selling
+Price
+The dust deposited on the PV panels is proving 
+challenging. It is estimated that four grammes of 
+dust per square metre can reduce a solar panel’s 
+efficiency by 40% (Gastli and Charabi, 2011). While 
+Djibouti enjoys excellent solar radiation, sand and 
+dust movements create problems, requiring regular 
+panel cleaning. This is especially difficult during 
+the Khamsin months of June to August. The CERD 
+plant is wiped with a dry cloth each day except 
+during rainy months, and distilled water is used 
+two months of the year for cleaning. Using distilled 
+water to clean a large solar plant of 5 200 m2 can 
+be expensive and labour-intensive. In a country 
+like Djibouti with low rainfall, advanced surface 
+coatings and advanced cleaning techniques would 
+go some way to solving this problem. Research and 
+development in this area is currently under way, 
+and most countries in North Africa and the Middle 
+East stand to benefit from innovations in this field. 
+RRA findings 
+The RRA process has highlighted a number 
+of technical opportunities and barriers facing 
+the renewable generation and transmission 
+infrastructure in Djibouti. The process also brought 
+to light some of the institutional, financial and 
+capacity issues associated with geothermal, wind 
+and PV power generation to feed the grid. These 
+are discussed below.
+Long-term energy plan essential
+A long-term energy plan is essential for Djibouti. 
+Such a plan should encourage energy efficiency, and 
+help develop clean, reliable and affordable energy 
+systems that Djibouti will need today and into the 
+future. As Djibouti plans its energy needs for the 
+next 20 years to support its Vision 2035, efficiency 
+will be an important resource to be considered. 
+It is the cleanest and most cost-effective energy 
+resource, and it enables consumers to reduce 
+their energy billsOn the supply sideDjibouti 
+country of its size. Harnessing these resources to 
+meet growing energy needs, both domestically 
+and across the region, should be an important 
+component of a long-term energy plan. 
+The RRA has revealed that a master plan for the 
+production and transmission of electricity is under 
+preparation in Djibouti. Those preparing the master 
+plan would need to integrate the demand and 
+supply side of the energy picture in Djibouti as well 
+as coming up with short and long-term plans. These 
+should consider multiple technology fronts, and 
+ultimately align the range of options as part of the 
+country’s long-term energy pathway. The master 
+plan should stimulate investment interest from the 
+private sector and also strengthen the country’s 
+case for support from development partners.
+National policy on renewable energy needed
+Djibouti has no energy policy. As the energy 
+situation in the country becomes more pressing and 
+opportunities become clearer, a policy addressing 
+energy access, affordability, resources and regional 
+integration is now recognised as an important step. 
+The RRA has underlined that widening energy 
+access is a central national development objective 
+in Djibouti. At present, about half the population 
+benefits from access to electricity. Lack of access 
+is especially acute in rural areas where less than 
+5% enjoy electricity in their homes. In addition, 
+the RRA also raised concerns over energy security 
+and high electricity tariffs largely caused by the 
+high cost of imported fuel but eased noticeably by 
+electricity from Ethiopia. These multiple challenges 
+have helped provoke an important discussion 
+on electricity from renewables as a significant 
+contribution to closing the supply gap. To this end, 
+Djibouti requires an energy policy that embraces 
+renewable energy as a key component of a longerterm energy vision with a systematic road map for 
+delivery. Djiboutian policy makers and potential 
+investors are engaged in several discussions country needs to rapidly move away from ad hoc 
+projects to well-coordinated programmes, and to 
+encourage investors and entrepreneurs to come 
+forth. Clearly, renewable energy technologies are 
+achieving grid parity in many parts of the world. 
+With the right policy framework supported by 
+strong regulatory instruments and functional 
+institutions, Djibouti stands to benefit significantly 
+from technology innovations and a new appetite 
+for renewables investment. 
+The RRA has disclosed significant ambition within 
+Djibouti’s leadership to extract the country’s ample 
+renewable energy resources to meet national 
+development goals. Declarations to achieve energy 
+security through 100% renewable energy supplies 
+are part of the energy narrative at the highest level 
+in government. However, there are neither specific 
+guidelines nor a road map to realise this ambition. 
+The RRA process makes clear that this vision needs 
+to be firmly embedded in the upcoming energy 
+policy for the country. It needs to be supported 
+by specific studies and analysis. These need to 
+demonstrate how the 100% renewable energy 
+ambition can be achieved in reality, what the cost 
+implications are likely to be, and what options need 
+to be considered for financing. The master plan 
+under preparation should consider these demands, 
+which clearly have strong political support, as the 
+discussions during the RRA process have shown. 
+Vision and ambition needs to be complemented by 
+real policies and implementation mechanisms to 
+deliver meaningful results.
+Strengthen legal system and regulatory 
+framework 
+Djibouti has no robust or clear legislative and 
+regulatory framework to govern electricity 
+production. The RRA process has shown the lack of 
+regulation and legal instruments is a major obstacle, 
+especially in constraining the participation of nonstate actors such as IPPs and other self-producers 
+in power provision. At present, EdD is the sole 
+distributor of power, and any other entity is not 
+permitted to engage commercially in the supply of 
+electricity. However, it was not possible to locate 
+a legal document that clearly specifies the limits 
+to private sector participation in the power sector. 
+This vagueness in the law still prevents entities 
+other than EdD from entering the energy market. 
+Given these concerns, the Government of Djibouti 
+is working alongside development partners to 
+reform the legal and regulatory framework to 
+enable private investment without undermining 
+the public interest. With the assistance of EUEIPDF, a draft Electricity Law is under preparation. 
+It covers tariff setting, licensing, incentives to 
+attract private sector investment, and the roles and 
+responsibilities of various stakeholders. The law will 
+address electricity generation and imports. Other 
+legislative elements could also be introduced to 
+enable renewables to gain traction in the energy 
+market in Djibouti. 
+Renewables are generally perceived as more 
+expensive when compared to conventional 
+systems, although this perception is changing fast. 
+The technical suitability and economic viability 
+of integrating renewables into the grid go hand 
+in hand. Pricing policies have been designed 
+to improve their competitiveness and drive 
+investment into the renewable energy sector. A 
+FiT scheme is one way to meet this challenge 
+and the preferred option of Djibouti. However, it 
+is not clear whether this is one of the options the 
+EUEI-PDF electricity law and strategy study will 
+consider. The design of the FiT is based on the 
+avoided cost methodology, given the fact that 
+electricity generation is based on imported fossil 
+fuel subject to market fluctuation. Given the high 
+cost of fossil-based generation, an appropriate FiT 
+could act as a major stimulus to the emergence of 
+IPPs in Djibouti’s energy market. As shown in the 
+analysis of wind, PV and geothermal systems, two 
+important factors support this proposition. Firstly, 
+Djibouti has considerable renewable resources, 
+and secondly, the cost of renewable technologies 
+has dropped significantly. Provided the legal and 
+regulatory conditions are in place, these two 
+factors play to Djibouti’s advantage, allowing it to 
+generate renewable power at a lower cost than 
+fossil-based systems. Appropriately designed and 
+negotiated FiTs would go some way to set rates 
+attractive to both private players and end-users. 
+Build up research and development institutions
+At least in the near term, Djibouti will depend on 
+technologies and to a certain extent expertise from 
+abroad. At the same time, Djibouti will need to 
+work to strengthen and develop its human capacity 
+and upgrade its energy innovation systems to 
+support domestic technology adoption and 
+development. CERD and the University of Djibouti 
+could play important roles in supporting capacity 
+development among practitioners, researchers and 
+policy makers. These knowledge institutions could 
+also support the manufacture of components 
+through training, information sharing, technical 
+seminars and demonstration projects. This would 
+raise the confidence of both development partners 
+and private sector actors who are in a position 
+to provide grants for projects and invest in profit 
+making energy ventures. The role of institutions like CERD should go 
+beyond research and development in technology 
+development, adoption and dissemination. 
+Data and information on energy consumption 
+in Djibouti are weak at best, and data available in 
+different institutions lack consistency. This makes it 
+notoriously difficult to plan, develop and implement 
+energy efficiency measures. Data also need to 
+extend towards the supply side. Inadequate data 
+on solar and wind energy resources are a major 
+obstacle to attracting investment due to the 
+difficulties in developing rigorous project proposals. 
+An institution like CERD could play a pivotal role 
+as data centre. This would also allow it to build the 
+required human and technical capacity for regular 
+energy demand surveys and renewable energy 
+assessments, both for the government and other 
+clients. Development partners and organisations 
+like IRENA could play a critical role in providing 
+technical support and training to CERD or a relevant 
+institution acting as energy intelligence hub. 
+Provide business incentives and develop skills
+The Government of Djibouti has made considerable 
+efforts to improve the business environment and 
+reduce the high cost of production. ‘Doing Business 
+2014,’ a World Bank report (2014), recently ranked 
+Djibouti at 160 out of 185 countries. While this 
+is an improvement from the 2013 report (172), 
+entrepreneurs still face high production costs in 
+addition to the problems of access to energy, water, 
+skilled workforce and telecommunications. It is 
+therefore not surprising that the business environment 
+for renewable energy in Djibouti remains weak. Signs 
+of improvement are visible with the emergence of 
+the master plan and work in progress to improve the 
+regulatory and legal framework governing energy. 
+The state should play a vital role in encouraging 
+the private players, protecting the public interest 
+and introducing transparent processes by taking 
+measures described below. 
+Adequacy of tax incentives for investors in energy
+The country’s import tariffs and VAT make 
+renewable technologies expensive and therefore 
+obstruct the domestic private sector from entering 
+the energy market. The government’s 26% 
+duty on imported goods and 7% VAT includes 
+renewables and creates barriers to private actors. 
+The RRA process and discussions with Djiboutian 
+entrepreneurs has revealed that removing duties 
+is an important financial incentive. It would 
+encourage serious entrepreneurs to do business in 
+the renewables market. 
+Djibouti has the added advantage of a stable 
+monetary system with no major currency problems. 
+The Djibouti Franc is ‘pegged’ to the US Dollar. 
+Anyone is entitled to open an account in Djibouti. 
+Further, there is sufficient liquidity in the banks 
+but there are not enough energy projects coming 
+from the private sector. This is largely to do with 
+uncertainty in the sector and a weak regulatory 
+framework. 
+Quantify direct and indirect employment
+Unemployment is high in Djibouti. This will remain 
+a difficult development issue given that the 
+economy largely relies on service and logistical 
+sectors, which are not labour-intensive. This 
+concern is raised in Vision 2035, within which 
+industrial development and regional integration is 
+seen as an important way to add value to exports 
+and meet the challenge of unemployment. 
+Furthermore, Djibouti’s ambition to become the 
+largest logistics hub in Africa using 100% green 
+energy is likely to bring both direct and indirect 
+energy jobs due to energy security. Further 
+research is required to quantify the benefits 
+in terms of local jobs in the energy sector itself 
+under a range of energy expansion scenarios. 
+Econometric studies are also needed relating 
+energy security to the broader economic benefits 
+for Djibouti. 
+4.2 OFF-GRID RENEWABLE ENERGY 
+OPTIONS
+In line with its Vision 2035, the Government 
+of Djibouti places a premium on providing its 
+citizens with access to electricity. Given an 
+electrification rate of about 55% at present and 
+increasing demand for power for social and 
+economic development needs, widening energy 
+access occupies an important policy space in 
+Djibouti. Ambitious targets are currently proposed 
+with a focus on communities that may not be able 
+to obtain grid electrification in the near future. 
+To this end, an integrated approach will be needed 
+to balance needs, population distribution, costs 
+and resources as well as an understanding of 
+the limits of conventional grid extension. Various 
+small-scale, renewable energy technologies like 
+solar PV and wind are maturing commercially, 
+along with new and innovative service delivery 
+mechanisms. This means off-grid electrification 
+has emerged as a viable alternative for electricity 
+access. 
+Djibouti has some experience with off-grid PV 
+electrification in clinics, schools, households and 
+water pumping. Each of these is explored below.Off-grid PV electricity
+The main decentralised renewable energy promoted 
+in Djibouti is PV solar, either as a stand-alone or 
+mini-grid system. A recent project supported by the 
+World Bank is worthy of discussion, mainly because 
+it proposes an ambitious and comprehensive plan 
+to widen electrification for rural communities. This 
+study by the World Bank Public Private Infrastructure 
+Advisory Facility (2014) looked at a variety of 
+business plans for a range of income groups and 
+community energy needs. These include mini-grids, 
+stand-alone and battery charging systems (table 5). 
+The first two options are briefly reviewed below. 
+Mini-grid 
+The analysis showed that the initial investment 
+required to set up mini-grids in each of the villages 
+is USD 0.3-2 million, depending on size and daily 
+energy requirements. The total cost of this minigrid programme is estimated at USD 11.5 million. 
+The unit cost for installed capacity is around 
+USD 4-6/kW. This is on the high side but within the 
+margins encountered in other similar programmes. 
+The analysis also identified O&M as an important 
+cost consideration and critical for the long-term 
+success of mini-grid programmes. It was therefore 
+assumed that over a 20-year period, replacement 
+costs will be incurred for inverters once and 
+batteries twice, as well as labour costs. This will 
+bring the O&M costs to USD 0.20-0.23/kW for 
+systems in large villages. 
+Stand-alone systems 
+The regions of Obock and Tadjourah are proposed 
+as the first non-concessional areas to offer standalone PV systems. For the first phase of deployment 
+of stand-alone and pico-solar systems, low income 
+sedentary and nomadic communities (representing 
+65% of the total population considered) were 
+proposed as targets. It is possible that the demand 
+for pico-solar is greater in such areas. However, 
+there may also be high demand from homes and 
+businesses in towns looking to supplement their 
+energy use through pico systems. Pico-solar 
+products are defined by their availability over the 
+counter, requiring little support for installation. 
+They suit semi-nomadic or nomadic lifestyles.
+Table 5: Stand-alone and pico systems 
+Size Type of system
+Average 
+selling 
+price (USD) 
+Targets 
+(number 
+of units)
+% of total
+50 Wp* Solar home systems 600 400 15.0%
+100 Wp Solar home systems 1 050 200 7.5%
+250 Wp Solar systems for enterprises 2 250 60 2.3%
+Solar lantern Portable 50 1 000 37.6%
+Micro stand-alone 120 1 000 37.6%
+Total number of units 2 660
+Source: World Bank Public Private Infrastructure Advisory Facility (2014)
+*Watt peak
+Three matters need to be noted here. Firstly, the 
+off-grid option using renewable energy is costcompetitive with the traditional diesel system. 
+At present, the life cycle cost of operating an 
+off-grid diesel system over a 20-year period is 
+USD 0.55-0.75/kWh, mainly due to the costs 
+associated with fuel imports and transport. A PV 
+option or hybrid (PV/diesel) system would compare 
+favourably with this. Secondly, rural Djiboutians tend 
+to have little cash. This means rural electrification 
+cannot rely on the backing of the private sector alone. 
+Government involvement will remain critical, so the 
+government is working through ADDS to fill this gap. 
+This means cost-saving opportunities are central to 
+this effort. Thirdly, rural areas have little technical 
+capability, which means ADDS will need to double 
+its efforts to bring in private sector entrepreneurs for 
+systems installation and maintenance. 
+Off-grid PV water pumping
+In Djibouti, groundwater sources account for about 
+95% of the drinking water needs, so energy use for 
+pumping water is a critical input to water access. 
+Diesel generators, PV systems and a few wind 
+pumps are currently in use. The government has 
+also announced its intention of equipping 70 rural 
+boreholes and 100 other wells with solar pumpsThe source of the energy used is critical to the 
+overall cost of waterpumping systems. As PV 
+technologies are coming down in price and the 
+volatility of the fossil fuel market increases globally, 
+PV pumps are rapidly becoming increasingly 
+attractive options. However, further cost analysis 
+of the individual technologies is critical to assess 
+their viability in different parts of Djibouti. In some 
+areas where the wind speed is favourable, 
+The need to provide water services is not limited 
+to the household sector, but also extends to 
+commercial and productive sectors. Djibouti is 
+pushing to improve its agricultural sector to boost 
+food security. This means affordable and reliable 
+energy for pumping water for irrigation could play 
+an important role in sustaining agriculture as a 
+meaningful economic activity. Further work will be 
+needed to assess the case for irrigated agriculture for 
+food security as well as for employment generation. 
+Off-grid wind power
+Wind power for rural electrification using standalone and mini-grid delivery systems has come a 
+long way. With more data and site assessments 
+taking place in Djibouti, it is becoming increasingly 
+apparent that the country has some of the windiest 
+sites in Africa. This can provide much needed 
+power for rural as well as urban communities on a 
+decentralised scale. However, it is also important to 
+recognise that Djibouti’s experience of wind energy 
+is limited to a few wind pumps. A great deal of 
+mechanical wind turbines could be attractive 
+options. A life cycle cost analysis conducted for 
+Djibouti using country-specific data showed that 
+over the longer term PV performs better than 
+diesel (figure 14) and provides more stable water 
+supply.11 This illustrates the emerging trends in 
+prices and technology development favouring 
+PV over diesel, and is likely to continue into the 
+future.
+Figure 14: life cycle cost for pumping groundwater, comparison between PV and diesel
+11 Assumptions: PV capital cost = system cost of USD 6 100; pump cost = USD 1 600, replaced every 7 years; annual O&M cost = USD 0.02
+work awaits the policy makers as they prepare the 
+institutional, regulatory and policy environment for 
+investment in distributed wind energy systems. 
+RRA findings
+The RRA has highlighted the contribution of offgrid renewable systems to raising energy access for 
+rural communities in Djibouti. Given the dispersed 
+character of settlements and the economic 
+activities concerned, decentralised systems are 
+part of the solution to Djibouti’s energy access 
+dilemma. Some specific findings from the RRA 
+relevant to decentralised energy in Djibouti are 
+outlined below. 
+Importance of a clear rural electrification 
+strategy
+In Djibouti, as in most countries in the region, 
+electrification initiatives tend to focus on gridbased delivery mechanisms. Grid-based options 
+have limitations as they may not reach remote 
+or dispersed communities, and may even cause people to move to electrified areas. The RRA found 
+the recent ADDS village electrification campaign 
+in Djibouti encouraging, and recommended it 
+should be scaled-up. However, this needs to be 
+part of a broader and clearer strategy for rural 
+electrification, which means collaborating with 
+wider government and NGO stakeholders. Almost 
+80% of the population is urban. A robust rural 
+electrification strategy is therefore necessary laying 
+bare the needs of rural communities and providing 
+clear guidance on how to achieve progress in this 
+sector. This is critical since the broader energy 
+policy can easily marginalise these inhabitants. 
+The strategy would be aligned with local provincial 
+development plans as a way to link rural economic 
+and social development with energy services. It 
+would recognise that rural communities would 
+benefit most from a bottom-up strategy. Such a 
+strategy should define short, medium and longterm access goals supported by technology 
+targets within predefined geographic areas for 
+off-grid and on-grid electrification. One way to 
+do this would be to introduce rural energy service 
+concessions. These would allow an entity such as a 
+private sector, NGO or community organisation to 
+exclusively serve one or more defined areas under 
+a concessionary agreement. 
+Soft loan schemes or other credit facilities 
+needed for solar PV
+Due to their high transaction costs, investments 
+in decentralised renewable options are often 
+not considered appropriate for loans through 
+commercial banks. Rural communities with little 
+disposable income hardly feature as obvious clients 
+to these entities. Soft loans can be attractive, allowing 
+a smaller proportion to be placed as down payment 
+of the total price, and the rest can be spread over 
+a number of years. With the bank interest rate in 
+Djibouti running at 14% for short-term loans and 10% 
+for long-term loans, households and businesses are 
+unlikely to borrow to meet renewable energy costs. 
+The RRA has emphasised that there is room for 
+private entrepreneurs in installation and O&M in 
+rural energy development. However, the state will 
+continue to play an important role in providing 
+support through direct financing or microfinance 
+schemes. Djibouti has established the Economic 
+Development Fund (Fonds de Développement 
+Économique de Djibouti), a dedicated source of 
+credit supporting small and medium enterprises 
+at concessionary rates. This could be an important 
+support mechanism for social entrepreneurs 
+interested in engaging in energy to support rural 
+livelihoods. However, grants from multilateral 
+agencies or donors could be ring-fenced to get 
+soft loan schemes up and running for household or 
+4.3 OPPORTUNITIES AND CONSTRAINTS 
+FOR SCALING UP RENEWABLE ENERGY 
+DEPLOYMENT 
+National leaders are exploring opportunities to 
+develop the renewables sector in Djibouti. Some 
+of the critical issues and observations relating to 
+renewable energy development and scale-up in 
+Djibouti are described below. 
+East African Power Pool effect
+East African regional power development work 
+is progressing. A number of transmission and 
+upgrade projects have already been completed, 
+such as the Djibouti-Ethiopia and Kenya-Ethiopia 
+lines. It is expected that in the short term Djibouti 
+will benefit from importing more power than it can 
+produce domestically, and gradually becoming an 
+energy contributor to the power pool in the long 
+run. Renewable energy technologies are likely to 
+play a major role in developing an integrated power 
+pool as new hydropower, wind and geothermal 
+power plants are built. This will increase the share 
+of renewables in the overall balance. This could 
+mean a reduction in the long-term marginal cost 
+of power for smaller countries like Djibouti. This 
+is already evident now that Djibouti has started 
+to import power from Ethiopia through the newly 
+built interconnection. EAPP promises to usher in 
+an era of cheaper and more secure power supply, 
+and this should be welcome. However, Djibouti 
+needs to actively explore ways to develop its own 
+resources to position itself better strategically 
+in the region and improve its energy security. 
+Ambition for energy investment in the region is 
+such that Djibouti can look beyond its regional role 
+to become a transcontinental transmission hub for 
+clean and low emission electricity. The Africa Clean 
+Energy Corridor initiative, launched by IRENA, 
+offers an opportunity for Djibouti to increase 
+energy access. It also offers an opportunity to 
+reduce its dependence on imported fuel and scale 
+up the utilisation of renewable energy systems, 
+hence meeting the development and climate 
+challenge. 
+Opportunity to become a transcontinental 
+transmission hub
+Djibouti is a gateway between Africa and the 
+Arabian Peninsula. Its geographical location creates 
+significant strategic opportunities for the trade of 
+goods and potentially energy. Yemen and Ethiopia 
+have recently embarked on discussions concerning 
+the potential Ethiopian export of 100 MW per 
+year. This would be transferred through a 26 km 
+submarine transmission line along the Red Sea 
+via Djibouti. This is a significant development, and 
+demonstrates the distance energy dialogues have and others new markets. While Ethiopia sees itself 
+as the renewable energy hub of the region, Djibouti 
+can become its transcontinental transmission hub. 
+This brings a number of interesting opportunities 
+to Djibouti. Firstly, it would open up a market 
+for its own surplus power, and provides a major 
+incentive to move ahead with its plans to develop 
+its geothermal and wind energy potential. 
+Secondly, Djibouti can place itself at the heart of 
+the USD 22 billion project backed by the African 
+Union to develop a pan-continental electricity 
+highway by 2020. Thirdly, it would help relieve 
+Djibouti anxiety about its own energy security as 
+it becomes an important strategic player in the 
+region, strengthening its negotiating hand. Finally, 
+Djibouti can become a visible player in global 
+decarbonisation efforts as clean energy from 
+Africa helps emissions reduction and avoidance in 
+the Arabian Peninsula. 
+Energy efficiency needed on demand side
+The Government of Djibouti is extremely concerned 
+about the inefficient use of energy, especially during 
+the hot season when air conditioning is common. 
+Limiting energy losses along the power system 
+chain, i.e., from generation to end-use, is critical. 
+This should form part of Djibouti’s future energy 
+strategy. A sustainable energy economy requires 
+major commitments to both energy efficiency 
+and renewable energy development. End-user 
+efficiency gains complement national and regional 
+energy initiatives on supply improvements. To 
+this end, investment in end-use energy efficiency 
+(whether through technology interventions, 
+demand response measures or awareness building) 
+should receive high priority. It could provide energy 
+savings comparable to the electricity generated 
+by power plants. Due to the high capital cost of 
+renewable energy technologies, improvements 
+in demand-side efficiency benefit investments in 
+renewables as they deliver a higher impact for each 
+unit investment. Demand-side measures should be 
+seen as part of Djibouti’s energy strategy and given 
+prominence in the energy master plan. The role 
+ADME will play cannot be underestimated. It should 
+be given a greater mandate to ensure that the 
+mission to strengthen demand-side interventions 
+is not subordinated to the country’s effort to boost 
+generation and transmission capacity. 
+Awakening the financial sector 
+Banks are sitting on significant amounts of liquidity 
+in Djibouti. The energy investment market across 
+Africa is about to take off in a big way, but these 
+resources should not come from international 
+players alone. At present, banks are either unaware 
+of these opportunities or wary of the risks involved. 
+Major efforts are required to improve awareness 
+among the banks and other players in the financial 
+sector of the potential business opportunities 
+in the energy market. This would help on two 
+fronts. Firstly, these entities would have a better 
+appreciation of the commercial potential of energy, 
+and this could change their perception of risk with 
+respect to energy investments. Secondly, banks 
+could play a significant role in advising their clients 
+on emerging energy investments and help prepare 
+appropriate financial products. 
+Private sector role recognised
+Djiboutian authorities acknowledge the important 
+role the private sector can play in financing 
+and deploying renewable energy programmes. 
+Especially notable is the expected role that private 
+investors will play in developing geothermal 
+projects. A great deal of effort is currently invested 
+in creating the enabling conditions for private 
+sector participation in large-scale renewable 
+energy projects. Some effort is also going into 
+incentivising local private sector players to 
+participate in smaller-scale initiatives. However, 
+the incentive structures formed by policies, 
+institutions, finance and regulations are only slowly 
+conceptualised and introduced. For example, high 
+interest rates and the lack of long-term loans at 
+favourable rates create major barriers to financing 
+sustainable energy projects. Moreover, domestic 
+financial institutions are unwilling to provide 
+loans for renewable energy in Djibouti as banks 
+are unfamiliar with the renewable energy market 
+potential in Djibouti. 
+High risk perception combined with limited 
+technical and management capacity 
+This major problem is not unique to Djibouti. 
+Most private international finance institutions 
+continue to view Djibouti as risky. Part of the 
+problem is that the country lacks the institutional, 
+policy and governance conditions that attract 
+investors. Moreover, Djibouti has limited technical 
+and management capacity. It will need to build a 
+programme of capacity building at district, city, 
+sectoral and national level to make the most of 
+the enormous energy investment opportunities it 
+clearly possesses. 
+The RRA disclosed a large number of issues of key 
+significance in effectively deploying renewable 
+energy resources in Djibouti. While some of these 
+are specific to the priority resource-service pairs 
+for scaling up renewables deployment in the short 
+to medium term, others are generic. Section 5 
+summarises the key actions and steps the RRA 
+identified. The eight recommended action points from the RRA process are explained below. 
+They apply to all priority resource-service pairs. These actions are not presented 
+in any order of priority, and the list from a rapid assessment is unlikely to be 
+exhaustive. The detailed list of actions can be found in the Annex. 
+ON-GRID
+V. SUMMARY OF
+RECOMMENDED 
+ACTIONS
+Action Steps
+Implement 
+long-term 
+energy plan
+•	 Include multiple technology fronts and align range 
+of options as part of the country’s long term energy 
+pathway within the electricity master plan under 
+preparation.
+•	 Include measures for stimulating private investment 
+within the master plan.
+•	 Strengthen the country’s case for support from 
+development partners.
+Develop national 
+renewable energy 
+policy and 
+action plan
+•	 Make renewable energy a key component of a longerterm energy vision with systematic road map for 
+delivery.
+•	 Include the 100% renewables vision in the national 
+energy policy and support it with practical studies on 
+how to achieve this, as well as assessments of the cost 
+implications.
+•	 Develop real policies and implementation mechanisms 
+to deliver meaningful results.
+Strengthen 
+legal system 
+and regulatory 
+framework 
+•	 Prepare an electricity law to establish a legal, economic 
+and institutional basis for renewable energy uptake. 
+•	 Develop supporting mechanisms such as FiTs, netmetering, competitive bidding and standardised 
+bankable PPAs.
+Strengthen 
+research and 
+development 
+institutions 
+•	 Build capacities of practitioners, researchers and policy 
+makers at CERD and University of Djibouti.
+•	 Support the manufacture of components through 
+training, information sharing, technical seminars and 
+demonstration projects at CERD and University of 
+Djibouti.
+•	 Include supply-side data collection for solar and wind 
+in CERD portfolio thereby making it the data centre. 
+•	 Strengthen CERD human and technical capacity 
+to conduct detailed assessments of wind and solar 
+resources across the country. Undertake regular energy 
+demand surveys and build a robust database.
+Improve business 
+environment
+•	 Remove import duties on goods related to renewable 
+energy in order to encourage serious entrepreneurs to 
+do business in the renewables market.
+•	 Conduct studies quantifying the benefits in terms of 
+local jobs in the energy sector under a range of energy 
+expansion scenarios. Conduct econometric studies 
+relating energy security to the broader economic Action Steps 
+Develop clear rural 
+electrification strategy
+•	 Develop a solid rural electrification strategy that lays bare the needs 
+of rural communities and provides clear guidance on how to achieve 
+progress. 
+•	 Define short, medium and long-term access targets supported by 
+technology targets within predefined geographic areas for off-grid 
+and on-grid electrification within that strategy. 
+•	 Introduce rural energy service concessions that would allow an 
+entity (private sector, NGO, community organisation, etc.) to 
+exclusively serve one or more defined areas under a concessionary 
+agreement.
+Provide financial support for 
+small and medium solar PV 
+enterprises
+•	 Provide soft loans supporting small and medium solar PV 
+enterprises. 
+•	 Provide support through direct financing or microfinance schemes 
+for social entrepreneurs interested in engaging in energy to support 
+rural livelihoods. 
+•	 Explore the use of grants from multilateral agencies or donors to 
+get soft loan schemes up and running for household or community 
+electrification. 
+OFF-GRIDAEEP (Africa EU Energy Partnership) (2013), “Country Power Market Brief: Djibouti”, www.ruralelec.org/fileadmin/
+DATA/Documents/06_Publications/Market_intelligence/AEEP_Djibouti_Country_market_brief_EN.pdf.
+AfDB (African Development Bank) (2012), African Economic Outlook, Djibouti, AfDB, Tunis.
+AfDB (2013), Projet: Projet d’Exploration Geothermique dans la Region du Lac Assal (Project: Geothermal 
+Exploration Project in the Region of Lake Assal), AfDB, Tunis. 
+Ahmed Aye, H. (2009), Integration des Energies Renouvables pour Unie Politique Energetique Durable: Djibouti 
+(Integration of Renewable Energy for Sustainable Energetics Unie Policy: Djibouti), Université de Corse (University of 
+Corsica), France.
+CERD ( Centre d’Etudes et de Recherches de Djibouti) (Center of Studies and Research in Djibouti) 
+(2006), Wind Energy Data, CERD, Djibouti.
+EAPP (Eastern Africa Power Pool) (2012), EAPP – Corporate Plan 2012-2014, EAPP, Addis Ababa. 
+Eberhard, A., et al. (2011), Africa’s Power Infrastructure: Investment, Integration and Efficiency, World Bank, 
+Washington, D.C.
+EIA (Energy Information Administration) (2013), International Energy Annual, EIA, Washington, D.C.
+EUEI-PDF (European Union Energy Initiative – Partnership Dialogues Facility) (2013), “Development of 
+a Legal Framework and Strategy for the Electricity Sector in Djibouti”, www.euei-pdf.org/country-studies/
+development-of-a-legal-framework-and-strategy-for-the-electricity-sector-in-djibouti.
+Gastli, A., and Y. Charabi (2011), “Solar Water Heating Initiative in Oman Energy Saving and Carbon Credits,” 
+Renewable and Sustainable Energy Reviews, Vol. 15, No. 4, pp. 1851-1856.
+Government of Djibouti Société Internationale des Hydrocarbures (SIDH) data (2014), La Seconde 
+Communication Nationale sur le Changement Climatique (Djibouti’s Second National Communication to the 
+Conference of Parties under the United Nations Framework Convention on Climate Change), Ministère de l’Habitat, de 
+l’Urbanisme et de l’Environnement (Ministry of Housing, Urban Planning and Environment), Djibouti. 
+IMF (International Monetary Fund) (2013), “Djibouti: Poverty Reduction Strategy Paper – Annual Progress 
+Report”, IMF Country Report No. 12/131, IMF, Washington, D.C., www.imf.org/external/pubs/ft/scr/2012/cr12131.pdf. 
+IRENA (International Renewable Energy Agency) (2012), Concentrating Solar Power: Renewable Energy 
+Technologies Cost Analysis Series, IRENA, Abu Dhabi.
+IRENA (2013), Renewable Power Generation Costs in 2012: An Overview, IRENA, Abu Dhabi. 
+ISERST (Institut Supérieur d’Etudes et de Recherches Scientifiques et Techniques) (Higher Institute for 
+Studies and Scientific and Technical Research) (1984), Initiatives Energetiques de Djibouti: Plan Energétique 
+National (Energy Initiatives Djibouti: National Energy Plan), ISERST, Djibouti. 
+Pillot, B., et al. (2013), “The first disaggregated solar atlas of Djibouti: A decision-making tool for solar 
+systems integration in the energy scheme”, Renewable Energy, Vol. 57, Issue C, pp. 57-69. 
+Rutovitz, J., and Harris, S. (2012), Calculating Global Energy Sector Jobs: 2012 Methodology, Institute for 
+Sustainable Futures, Sydney. 
+SNC-Lavalin and Parsons Brinckerhoff (2011), Regional Power System Master Plan and Grid Code Study, 
+SNC-Lavalin, Montreal. 
+Tabors, R. (2009), Interconnection in the GCC Grid: the Economics of Change, CRA International, Boston. 
+VI. REFERENCESUNECA (UN Economic Commission for Africa) (2011), Progress Report on the Implementation of the 
+Outcomes of the Mid-Term Review Meeting of the Almaty Programme of Action, UNECA, Addis Ababa.
+UNECA (2013), ICE Paper on Energy Access and Security, UNECA-EA, Kigali.
+UNDP (United Nations Development Programme) (2014), Human Development Report 2014, UNDP, New York.
+World Bank (2012), Republic of Djibouti: Geothermal Power Generation Program, World Bank, Washington, D.C. 
+World Bank (2013), Project Appraisal Document – Geothermal, Report No: 68254-DJ, World Bank, Washington, D.C.
+World Bank (2014), “Doing Business 2014: Economy Profile – Djibouti”, World Bank, Washington, D.C., 
+www.doingbusiness.org/data/exploreeconomies/~/media/giawb/doing%20business/documents/profiles/
+country/DJI.pdf?ver=2.
+World Bank and Parsons Brinckerhoff (2009), Least Cost Electricity Master Plan, Djibouti, Project no. 69203, 
+World Bank, Washington, D.C. 
+World Bank Public Private Infrastructure Advisory Facility (2014), Djibouti: Etude des Options 
+d’Electrification de 19 Villages par Energie Solaire Rapport Final (Djibouti: Electrification Options Study of 
+19 Villages Solar Energy Final Report), Public Private Infrastructure Advisory Facility at the World Bank, 
+Washington, D.C.Detailed description of recommended action 
+ON-GRID
+ANNEX
+Action Implement long-term energy plan
+Resource-service pair(s) All renewable energy resources
+Description 
+Djibouti’s energy need plans for the next 20 years support its Vision 
+2035. A master plan for power generation and transmission is under 
+preparation. 
+The ministry will ensure the master plan covers energy efficiency as an 
+important resource due to its cost-effectiveness. Multiple technology 
+fronts should also be considered as well as a range of options aligned 
+with the country’s long-term energy pathway. The ministry will 
+ensure the master plan includes measures stimulating private sector 
+investment, and also strengthens the country’s case for development 
+partner support.
+Actors MERN, all relevant national stakeholders and development partners
+Target date Mid-2016
+Keys to success Broad consultation and engagement of all relevant stakeholders
+Action Develop a national renewable energy policy and action plan
+Resource-service pair(s) All renewable energy resources
+Description 
+Djibouti has no energy policy. As its energy situation becomes more 
+pressing and opportunities become clearer, it is now recognised that a 
+policy addressing energy access, affordability, resources and regional 
+integration is an important step. The electricity access rate is about 
+50% including 5% for rural areas. Energy security and high electricity 
+tariffs are a major concern for the population. These multiple challenges 
+have helped awaken significant ambition among Djibouti’s leaders to 
+harness the country’s abundant renewable energy resources to help 
+meet national development goals. However there are no specific 
+guidelines or road map to realise this ambition. 
+To this end, MERN will take the lead in developing an energy policy 
+embedding renewable energy within a systematic road map for delivery. 
+It will be supported by specific practical studies and assessments 
+on how to fulfil the 100% renewable energy ambition, the likely cost 
+implications and finance options. This needs to be complemented by 
+real policies and implementation mechanisms to deliver meaningful 
+results.
+Actors MERN and all relevant stakeholders
+Target date End-2015
+Keys to success Broad consultation and engagement of all relevant stakeholdersAction Strengthen legal system and regulatory framework
+Resource-service pair(s) All renewable energy resources
+Description 
+Djibouti does not have a solid or clear legislative and regulatory 
+framework governing electricity production. This lack of regulation 
+and legal instruments is a major obstacle, especially constraining the 
+participation of non-state actors like IPPs and other self-producers 
+in power provision. The Government of Djibouti is working alongside 
+development partners on a draft Electricity Law targeted at electricity 
+generation and imports. It covers tariff setting, licensing, incentives 
+attracting private sector investment and the roles and responsibilities 
+of various stakeholders. 
+MERN will ensure the law includes legislative elements to enable 
+renewables deployment in the energy market in Djibouti. A FiT scheme 
+is one of the best options for Djibouti given the high cost of fossilbased generation. An appropriate FiT would act as a major stimulus 
+drawing IPPs to Djibouti’s energy sector. Appropriately designed and 
+negotiated FiTs would go some way to setting tariffs attractive to the 
+private players as well as end-users. 
+Actors MERN, Ministry of Finance, private sector, EdD, all other relevant 
+stakeholders
+Target date End-2016
+Keys to success Broad consultation and engagement of all relevant stakeholdersAction Strengthen research and development institutions 
+Resource-service pair(s) All renewable energy resources
+Description 
+Djibouti will depend on technologies and to a certain extent expertise from 
+abroad in the short term at least. However it will need to work to strengthen 
+and develop its human capacity and upgrade its energy innovation systems 
+to support domestic technology adoption and development. At the same 
+time, data and information on energy consumption in Djibouti are weak 
+and inconsistent. This makes it notoriously difficult to plan, develop and 
+implement energy efficiency measures. 
+CERD and the University of Djibouti will play important roles in 
+supporting capacity development among practitioners, researchers 
+and policy makers. These knowledge institutions will also support the 
+manufacture of components through training, information sharing, 
+technical seminars and demonstration projects. This would both raise 
+the confidence of development partners and private sector actors in 
+a position to provide grants for projects and invest in profit-making 
+energy ventures. 
+Moreover, an institution such as CERD will play a pivotal role serving as 
+the data centre. This also allows CERD to build the required human and 
+technical capacity to undertake regular energy demand surveys and 
+renewable energy assessments, both for the government and other 
+clients. Development partners and organisations like IRENA could play 
+a critical role in providing technical support and training to CERD or a 
+relevant institution that can act as energy intelligence 
+Actors CERD, Université de Djibouti, MERN, private sector, development 
+partners and international organisations, all relevant stakeholders 
+Target date End-2016
+Keys to success Broad consultation and engagement of all relevant stakeholdersAction Improve business environment
+Resource-service pair(s) All renewable energy resources
+Description 
+The Government of Djibouti has made considerable efforts to improve 
+the business environment and reduce the high cost of production. 
+Despite the improvement recorded in doing business in 2014 compared 
+to 2013, the business environment in the country remains weak in 
+general and especially so for renewable energy. 
+MERN, the Ministry of Economy and Finance, Ministry of Commerce will 
+play a vital role in encouraging private players, protecting the public 
+interest and introducing transparent processes. They will do this by 
+introducing adequate tax incentives for investors (removal/reduction of 
+duties on imported goods) and raising awareness of the opportunities 
+for direct and indirect employment creation. 
+Actors MERN, Ministry of Economy and Finance, private sector, all relevant 
+stakeholders
+Target date End-2017
+Keys to success Broad consultation and engagement of all relevant stakeholdersAction Develop clear rural electrification strategy
+Resource-service pair(s) All renewable energy resources
+Description 
+As with most countries in the region, Djibouti electrification initiatives 
+tend to focus on grid-based delivery mechanisms. Although almost 
+80% of the population lives in urban areas, the grid-based options have 
+limitations as they may not reach remote or dispersed communities. The 
+recent ADDS village electrification campaign in Djibouti is encouraging 
+and should be scaled up. 
+MERN will work with ADDS and relevant stakeholders to develop a 
+robust rural electrification strategy that lays bare the needs of rural 
+communities. This will provide clear guidance on how to achieve 
+progress in this sector since the broader energy policy can easily 
+marginalise these inhabitants. The strategy would be aligned with 
+local provincial development plans to include short, medium and longterm access goals supported by technology targets within predefined 
+geographic areas for off-grid and on-grid electrification. 
+Actors MERN, ADDS, local communities, all relevant stakeholders
+Target date End-2017
+Keys to success Broad consultation and engagement of all relevant stakeholders
+OFF-GRIDAction Provide financial support for small and 
+medium solar PV Enterprises 
+Resource-service pair(s) Off-grid PV
+Description 
+Due to high transaction costs, loans through commercial banks are 
+often not considered appropriate for investments in decentralised 
+renewables. Rural communities with little disposable income hardly 
+feature as clients to these organisations. Soft loans can be attractive, 
+allowing a smaller proportion to be placed as down payment for the 
+total price and the rest to be spread over a number of years. With bank 
+interest rates for short and long-term loans at 14% and 10% respectively, 
+households and businesses are unlikely to borrow to meet renewable 
+energy costs. 
+The Government of Djibouti will continue to play an important role in 
+providing support through direct financing or microfinance schemes 
+supporting private solar PV entrepreneurs in rural energy developments. 
+The Economic Development Fund, a dedicated source of credit for 
+small and medium enterprises, could to this at concessionary rates or 
+grants from multilateral agencies or donors. 
+Actors Ministry of Economy and Finance, MERN, partners and all other relevant 
+stakeholders
+Target date End-2017
+Keys to success Broad consultation and engagement of all relevant stakeholders

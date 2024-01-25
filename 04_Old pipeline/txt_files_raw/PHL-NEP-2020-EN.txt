@@ -1,0 +1,634 @@
+File Name: PHL-NEP-2020-EN
+Year: 2020
+Country Name: Philippines
+Country Code: PHL
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2020
+Start Year: nan
+End Year: nan
+Language: EN
+------------------------------------------------
+
+EIGHTEENTH CONGRESS OF THE )
+REPUBLIC OF THE PHILIPPINES )
+First Regular Session
+. 1
+20 NAR-2 P3 ;15
+SENATE
+Senate Bill No. 1 3 8 2
+(In substitution of Senate Bill Nos. 174f 472, 479, 538, 638, and 1223
+Prepared by the Committees on Energy; Public Services; Trade, Commerce 
+and Entrepreneurship; and Ways and Means with Senators Sherwin T. Gatchalian, 
+Ralph G. Recto, Juan Miguel "Migz" Zubiri, Francis "Kiko" Pangilinan, Emmanuel 
+"Manny" Pacquaio, Grace Poe, and Aquilino "/0/rc>"Pimentel III as authors thereof
+AN ACT
+PROVIDING THE NATIONAL ENERGY POLICY AND REGULATORY 
+FRAMEWORK FOR THE USE OF ELECTRIC VEHICLES AND THE 
+ESTABLISHMENT OF ELECTRIC CHARGING STATIONS
+Be it enacted b y the Senate and the House o f Representatives o f the Philippines in 
+Congress assembled:
+CHAPTER I
+GENERAL PROVISIONS
+1 Section 1. Short Title. - This Act shall be referred to as the "Electric Vehicles
+2 and Charging Stations Act."
+3
+4 Sec. 2. Declaration o f Policy. - It is hereby declared the policy of the State to:
+5 (a) Ensure the country's energy security and independence by reducing reliance
+6 on imported fuel for the transportation sector;
+7 (b) Promote and support innovation in clean, sustainable, and efficient energy to
+8 accelerate social progress and human development by encouraging public and
+9 private use of new and alternative energy technologies;
+10 (c) Safeguard and improve the integrity, reliability, and stability of the country's
+11 electric power grid by optimizing the location of energy sources relative to
+12 demand; and1 (d) Promote inclusive and sustainable industrialization while recognizing the role
+2 of the private sector, in order to support the transition to new technologies,
+3 generate jobs, spur small and medium enterprise growth, attract investments,
+4 grow globally competitive and innovative industries, and upgrade the
+5 country's participation in regional and global value chains.
+6
+7 Sec. 3. Scope and Application. - This Act shall apply to the manufacture,
+8 importation, installation, utilization, and regulation o f electric vehicles, charging
+9 stations, parts and components, and batteries.
+10
+11 Sec. 4. Definition o f Terms. - For purposes of this Act, the following terms shall
+12 be defined as stated below:
+13 (a) Battery electric vehicle refers to an electrically propelled vehicle with only a
+14 traction battery as power source for vehicle propulsion;
+15 (b) Battery pack ref ers to the mechanical assembly comprising battery cells and
+16 retaining frames or trays, and possibly components for battery management;
+17 (c) Certificate o f Inspection refers to a document issued by the building official
+18 of a local government unit (LGU) to the owner or applicant as a requirement
+19 for the installation of power lines to a building or structure to certify the
+20 completeness of the installation of all electrical wirings, pursuant to Republic
+21 Act No. 6541 as revised by Presidential Decree No. 1096, otherwise known as
+22 the National Building Code of the Philippines;
+23 (d) Charging fee refers to the amount imposed on users in exchange for the use
+24 of facilities of charging stations. Its individual components shall be unbundled
+25 pursuant to regulations issued by the Energy Regulatory Commission (ERC);
+26 (e) Charging station refers to all equipment for delivery of alternating current or
+27 direct current to EVs, installed in an enclosure with special control functions
+28 and communications, and may be located o ff the vehicle. For the purposes
+29 of this Act, charging stations shall include battery swapping stations;
+30 (0 Charging station service provider refers to a natural or juridical person, duly
+31 accredited by the Department of Energy (DOE), who sells, installs, maintains,
+32 owns, or operates charging stations or any of its components for a fee;1 (g) Comprehensive Roadmap on Electric Vehicles (CREV) refers to a national plan
+2 with an annual work plan to accelerate the electrification of transportation in
+3 the country with four components: electric vehicles and charging stations,
+4 manufacturing, research and development, and human resource
+5 development. It shall be incorporated in the Philippine Energy Plan and the
+6 National Transport Policy;
+7 (h) Distribution system refers to the system of wires and associated facilities
+8 belonging to a franchised distribution utility, extending between the delivery
+9 points on the transmission, sub-transmission system, or generating plant
+10 connection and the point of connection to the premises of the end-user;
+11 (i) Distribution u tility (DU) refers to any electric cooperative, private corporation,
+12 or government-owned utility which has a franchise or authority to operate a
+13 distribution system including those whose franchise or authority covers
+14 economic zones;
+15 (j) Electric vehicle (EV) refers to a vehicle with at least one electric drive for
+16 vehicle propulsion. For the purposes of this Act, it includes a battery electric
+17 vehicle, hybrid-electric vehicle, and a plug-in hybrid-electric vehicle;
+18 (k) Green routes refer to public transportation routes created or identified by
+19 LGUs and approved by the Department of Transportation (DOTr) to be
+20 exclusively traversed by electric public utility vehicles (PUVs);
+21 (I) Hybrid-electric vehicle refers to a vehicle with both a rechargeable energy
+22 storage system and a fueled power source for propulsion;
+23 (m ) Im porter refers to any individual, partnership, corporation, or other entity
+24 engaged in the importation of completely built units of EV, charging stations,
+25 parts and components, and batteries incorporated, organized, and existing
+26 under Philippine laws;
+27 (n) Manufacturer o r assembler to any individual, partnership, corporation,
+28 or other entity engaged in the manufacture and assembly of EVs incorporated,
+29 organized, and existing under Philippine laws;
+30 (o) Plug-in hybrid-electric vehicie refers to a hybrid-electric vehicle with
+31 rechargeable energy storage system that is intended to be charged from an
+32 external electric energy source;1 (p) Private buildings and establishments refer to residential, commercial, and
+2 industrial structures owned or leased by private persons or juridical entities,
+3 and in the case of commercial and industrial structures, whose goods and
+4 services are available to the public;
+5 (q) Private charging stations refer to charging stations installed in private
+6 buildings and establishments which may be open for use by the public for a
+7 fee;
+8 (r) Public buildings and establishments refer to structures owned or leased by
+9 the government through its departments, agencies, bureaus, offices,
+10 corporations, and LCDs; and
+11 (s) Public charging stations to charging stations installed in public buildings
+12 and establishments, and gasoline stations, which are available for use by the
+13 public for a fee.
+14
+15 CHAPTER I I
+16 ROLE OF GOVERNMENT AGENCIES
+17 Sec. 5. Government Regulations. - All regulations related to the use of EVs and
+18 the establishment of charging stations shall be structured to facilitate the creation of
+19 an enabling environment for equitable and non-discriminatory private sector
+20 participation, with preference for indigenous technologies, to attain the long-term goal
+21 of stable energy prices and energy sufficiency.
+22
+23 Sec. 6. Pole o f the Departm ent o f Energy. - The DOE shall be the primary
+24 agency tasked with the promotion of the adoption of EVs and the development of
+25 charging infrastructure. Towards this end, the DOE shall:
+26 (a) Harmonize existing policies and promulgate uniform and streamlined rules,
+27 regulations, and standards on the use, operations, and maintenance of
+28 charging stations, in coordination with other concerned agencies, to include
+29 the accreditation of charging station service providers and requirements by
+30 DUs on charging station service providers;
+31 (b) Develop and update the EV and charging stations component of the CREV in
+32 coordination with the DOTr, Department of Trade and Industry (DTI),1 Department of Environment and Natural Resources (DENR), Department of
+2 Public Works and Highways (DPWH), LGUs and other relevant national
+3 government agencies (NGAs). The component shall be finished not later than
+4 the 30th of May of every year;
+5 (c) Develop and update the CREV by compiling its various components. The CREV
+6 shall be released to the public not later than the 30th of September of every
+7 year;
+8 (d) Harmonize existing guidelines and issuances related to the promotion of the
+9 adoption of EVs and charging stations, and issue plans and programs on the
+10 same;
+11 (e) Implement, together with DOTr and DTI, plans and program pursuant to
+12 Section 6(d) o f this Act through information, education, communication, and
+13 demonstration campaigns consistent with the CREV;
+14 (f) Regularly accredit charging station service providers, and publish on its website
+15 an annual inventory of all accredited charging station service providers and a
+16 list of all public charging stations in the country;
+17 (g) Require DUs to submit their respective charging infrastructure development
+18 plans as part of their Distribution Development Plans not later than 30th of
+19 August of every year;
+20 (h) Enforce compliance with mandatory open access installation o f charging
+21 stations as required under Sections 16 and 17 of this Act;
+22 (i) Ensure charging stations are compliant with the Philippine Electrical Code,
+23 Philippine Distribution Code, and other relevant standards;
+24 0) Aggregate and centralize data from ERC, DTI, DOTr, DENR, Land
+25 Transportation Office (LTO), Land Transportation Franchising and Regulatory
+26 Board (LTFRB), Metro Manila Development Authority (MMDA), Philippine
+27 Competition Commission, LGUs, and other relevant NGAs insofar as EVs and
+28 charging stations are concerned; and
+29 (k) Perform all other acts that are analogous to the foregoing, which are necessary
+30 and incidental to accomplish the policy objectives o f this Act.1 Sec. 7. Role o f the Energy Regulatory Commission. - In addition to its functions
+2 under Republic Act No. 9136, otherwise known as the Electric Power Industry Reform
+3 Act of 2001, the ERC shall:
+4 (a) Promulgate uniform and streamlined rules and requirements for self-generating
+5 charging stations and centralized vehicle-to-grid facilities;
+6 (b) Regulate the rates charged by DUs on all charging stations, taking into account,
+7 among others, the utilization of the charging station, the promotion of
+8 efficiency, the unique requirements of charging stations, and its effect on the
+9 DU'S demand profile and distribution system;
+10 (c) Mandate the unbundling of charging fees;
+11 (d) Exercise exclusive jurisdiction over ail matters that pertain to rate setting in this
+12 Act; and
+13 (e) Perform all other acts that are analogous to the foregoing, which are necessary
+14 and incidental to accomplish the policy objectives of this Act.
+15
+16 Sec. 8. Role o f the Department o f Transportation. -The DOTr shall be the
+17 primary agency tasked with the development of EV demand generation, and the
+18 regulation, registration, and franchising of EVs. Towards this end, the DOTr shall:
+19 (a) Coordinate with the DOE and other relevant NGAs in the preparation o f the EV
+20 and charging stations component of the CREV;
+21 (b) Issue relevant policies on the use, operations, inspection, registration, and
+22 franchising of EVs;
+23 (c) Conduct information, education, communication, and demonstration
+24 campaigns, together with the DOE and DTI;
+25 (d) Mandate the inclusion of green routes in the respective Local Public Transport
+26 Route Plans o f the LGUs; and
+27 (e) Perform all other acts that are analogous to the foregoing, which are necessary
+28 and incidental to accomplish the policy objectives of this Act.
+29
+30 Sec. 9. Role o f the Departm ent o f Trade and Industry. - The DTI shall be the
+31 primary agency tasked with industry development of EVs, charging stations, parts and
+32 components, and batteries. Towards this end, the DTI shall:1 (a) Formulate relevant Philippine National Standards for consumer protection and
+2 trade facilitation, and conduct a regular review of these standards for possible
+3 revision or updating to align with developments in trade and latest technology
+4 of EVs;
+5 (b) Regulate the quality and safety of the parts and components of EVs, charging
+6 stations, and batteries by implementing relevant standards to ensure the
+7 manufacture, production, and distribution of quality products for the protection
+8 of the consumer;
+9 (c) Develop and update the manufacturing component of the CREV, in coordination
+10 with DOE, DOTr, Board of Investments (BOI), and other relevant NGAs with a
+11 focus on EV, charging stations, parts and components, and battery
+12 manufacturing. The manufacturing component shall be submitted to the DOE
+13 not later than the SO01 of May of every year;
+14 (d) Develop and update the human resource development component of the CREV,
+15 in coordination with the Department of Labor and Employment, Technical
+16 Education and Skills Development Authority, Commission on Higher Education,
+17 and other relevant NGAs. The human resource development component shall
+18 be submitted to the DOE not later than the 30th of May of every year;
+19 (e) Coordinate with the DOE and other relevant NGAs in the preparation of the EV
+20 and charging stations component of the CREV;
+21 (f) Develop, in coordination with the BOI and other relevant NGAs, the EV incentive
+22 strategy pursuant to Section 23 (a) of this Act; and
+23 (g) Perform all other acts that are analogous to the foregoing, which are necessary
+24 and incidental to accomplish the policy objectives of this Act.
+25
+26 Sec. 10. Role o f Local Government Units. - In addition to its functions under
+27 existing laws, LGUs shall:
+28 (a) Identify green routes in their respective Local Public Transport Route Plans
+29 consistent with the National Transport Policy;
+30 (b) Include the electrification of PUVs in their respective development plans;
+31 (c) Issue Certificates of Inspection to charging stations;2
+3
+4
+5
+6
+7
+8 
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 
+21 
+22
+23
+24
+25
+26 
+27
+1 (d) Submit to DOE not later than 30th of January of every year the list of all charging 
+stations in their respective localities; and
+(e) Ensure compliance of public and private buildings and establishments with 
+Section 15 of this Act.
+Sec. 11. Role o f the Departm ent o f Environment and Natural Resources. - In 
+addition to its functions under existing laws, the DENR shall, in consultation with the 
+DOE, DOTr, DTI, and other public and private stakeholders, promulgate rules and 
+guidelines on the recycling and disposal of EVs, charging stations, parts and 
+components, and batteries. The DENR, in coordination with the DOTr, shall include 
+EVs in the comprehensive air pollution management and control program from motor 
+vehicles including greenhouse gas emissions monitoring in accordance with Republic 
+Act No. 8749, otherwise known as the Clean Air Act of 1999.
+Sec. 12. Role o f the Departm ent o f Public Works and Highways. - In addition 
+to its functions under existing laws, the DPWH shall establish guidelines on the 
+following:
+(a) Construction of charging stations and other EV support infrastructure in 
+buildings and other establishments; and
+(b) Issuance o f permits for the construction or renovation of buildings or 
+establishments pursuant to Section 15 of this Act.
+Sec. 13. Role o f the Departm ent o f Science and Technology (DOST). - In 
+addition to its functions under existing laws, the DOST shall develop and update the 
+research and development component of the CREV, in consultation with the DTI and 
+other relevant NGAs. The research and development component shall be submitted 
+to the DOE not later than the 30th of May of every year.2
+3
+4
+5
+6
+7
+8 
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 
+21 
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+1 CHAPTER I I I
+DEMAND GENERATION AND INDUSTRY DEVELOPMENT
+Sec. 14. Mandatory EV Share in Corporate and Government Fleets. - The 
+following entities shall ensure that at least five percent (5% ) of their fleet shall be EVs 
+within the timeframe indicated in the CREV: Provided, That the CREV shall provide a 
+timeline for the gradual increase of such percentage until the entire fleet is fully 
+electrified:
+(a) Industrial and commercial companies such as cargo logistics companies, food 
+delivery companies, tour agencies, hotels, power utilities, and water utilities;
+(b) Public transport operators, including buses, jeepneys, tricycles, taxis, and 
+transport network vehicle services; and
+(c) LGUs, NGAs, and government-owned and controlled corporations: Provided, 
+That the electrification of government fleets shall be considered compliance 
+with Republic Act No. 11285, otherwise known as the Energy Efficiency and 
+Conservation Act.
+Sec. 15. Dedicated Parking Slots fo r Electric Vehicles In Private and Public 
+Buildings and Establishments. - Private and public buildings and establishments 
+constructed after the effectivity o f this Act and pursuant to the National Building Code 
+of the Philippines shall designate dedicated parking slots for the exclusive use of EVs: 
+Provided, That the number of dedicated parking slots shall be proportional to the total 
+number of parking slots within the building or establishment: Provided further. That 
+the use of dedicated parking slots by vehicles other than EVs shall be punishable under 
+Section 27 of this Act: Provided finally, That existing private and public buildings and 
+establishments shall comply with the foregoing requirements within the timeframe 
+indicated in the CREV.
+No permit shall be issued for the construction or renovation of a building or 
+establishment unless this Section has been complied with.
+Sec. 16. Open Access Installation o f Charging Stations in Dedicated Parking 
+Slots. - Dedicated parking slots built in accordance with Section 15 shall be installed2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 
+21 
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+1 with a charging station: Provided, That the owner o f the private or public building or 
+establishment shall allow a third party charging station service provider to install, 
+operate, or maintain the charging station, or enter into any other contractual 
+arrangement with such third party charging station service provider in fair, reasonable, 
+and nondiscriminatory terms: Provided further, That the owner of the private or public 
+building or establishment may act as its own charging station service provider by 
+constituting itself as a charging station service provider pursuant to the provisions of 
+this Act: Provided finally. That if a DU engages in the business of a charging station 
+service provider, it shall do so in accordance with Section 26 of Republic Act No. 9136 
+as implemented by ERC through its applicable rules and guidelines on business 
+separation and unbundling.
+Sec. 17. Open Access Installation o f Charging Stations in Gasoline Stations. - 
+Gasoline stations shall designate dedicated spaces for the installation of charging 
+stations: Provided, That the owner of the gasoline station shall allow a third party 
+charging station service provider to install, operate, or maintain the charging station, 
+or enter into any other contractual arrangement with such third party charging station 
+sen/ice provider in fair, reasonable, and nondiscriminatory terms: Provided further. 
+That the owner of the gasoline station may act as its own charging station service 
+provider by constituting itself as a charging station service provider pursuant to the 
+provisions of this Act: Provided finally. That a gasoline station shall not be issued a 
+construction, operation, or compliance permit by the DOE unless the owner shows 
+that there is ample space for the construction of charging stations within its premises.
+Sec. 18. Use o f Charging Stations in Dedicated Parking Spaces and Gasoline 
+Stations. - All public stations shall be open to the public. All private charging stations 
+may be opened to the public. Both public and private charging stations shall be 
+allowed to impose and collect charging fees.
+Sec. 19. Permits fo r the Installation o f Charging Stations. - All government 
+agencies including LGUs shall provide for a uniform and streamlined permitting process 
+for the installation, operation, maintenance, replacement, and removal of charging
+101
+2
+3
+4
+5
+6
+7
+8 
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 
+21 
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+stations: Provided, That the process shall be covered by the provisions of Republic Act 
+No. 11234, otherwise known as the Energy Virtual One-Stop Shop Act.
+Sec. 20. X^uties and Responsibilities o f Charging Station Service Providers. - A 
+charging station service provider shall have the following duties and responsibilities:
+(a) Comply with the rules, requirements, and standards of the DOE and ERC in 
+accordance with Sections 6 and 7 of this Act, and permits and licenses of 
+government agencies and LGUs in accordance with Section 19 o f this Act;
+(b) Pay the DU for electricity consumption from the use of the charging station in 
+cases where the charging station service provider is the owner or operator of 
+the charging station; and
+(c) Regularly submit to the ERC an unbundled structure of the charging fees 
+imposed on EV users, in the case of public charging stations owned or operated 
+by the charging station service provider.
+Sec. 21. Green Routes. - Green routes shall be created or identified by LGUs in 
+their respective localities and approved by the DOTr in accordance with Sections 8(d) 
+and 10(a) of this Act.
+Sec. 22. Safety, Health, and Environment - All manufacturers, assemblers, 
+importers, charging station service providers, operators of testing facilities, and users 
+of EVs and charging stations shall comply with all relevant health, safety, and 
+environmental laws, rules, and regulations related to the manufacture, assembly, 
+installation, operation, and utilization of EVs and charging stations.
+CHAPTER IV 
+INCENTIVES
+Sec. 23. Fiscal Incentives. -
+(a) Manufacturing
+The following activities shall be included in the annual Investment 
+Priorities Plan (IPP) of the BOI and shall be entitled to the incentives provided
+II1 under Executive Order No. 226, otherwise known as Omnibus Investment Code
+2 of 1987, and other applicable laws for ten (10) years from the effectivity o f this
+3 Act: Provided, That after the aforementioned period, the inclusion o f these
+4 activities in the annual IPP shall be reviewed and may be extended by the BOI:
+5 (i) Manufacture and assembly of EVs, charging stations, and parts and
+6 components; and
+7 (ii) The establishment and operations of charging stations.
+8 In addition, the DTI, in coordination with BOI, shall craft and implement
+9 an EV incentive strategy, as part of the manufacturing component of the CREV,
+10 similar to Executive Order No. 182 series of 2015, otherwise known as the
+11 Comprehensive Automotive Resurgence Strategy Program. The incentive
+12 strategy shall:
+13 (i) Narrow the cost gap between EVs and traditional motor vehicles and
+14 enable the shift of the local traditional motor vehicle industry to EVs;
+15 (ii) Provide time-bound, targeted, performance-based, and transparent
+16 fiscal and non-fiscal support in order to attract EV and EV parts
+17 manufacturing, particularly electronic parts and other strategic
+18 components, batteries, charging stations, and the establishment of
+19 testing facilities; and
+20 (iii)Set local production targets to be achieved within seven (7) years from
+21 the promulgation of the incentive strategy, subject to extension as
+22 determined by the DTI.
+23 The DTI, in coordination with the BOI, shall establish the application and
+24 selection process for enrollment and qualification of participants, imposing such
+25 terms and conditions as it may deem necessary to promote the objectives of
+26 the incentive strategy.
+27
+28 (b) Importation
+29 The importation of completely built units of EVs and charging stations
+30 shall be exempt from the payment of excise taxes, duties, and value-added tax
+31 (VAT) for nine (9) years from the effectivity of this Act: Provided, That in the
+32 case of imported electric jeepneys and electric tricycles, the Department of
+122
+3
+4
+5
+6
+7
+8 
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 
+21 
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+1 Finance, upon recommendation of the BOI, may suspend the exemption in 
+order to protect local manufacturers.
+(c) Utilization
+The following shall be granted the following fiscal incentives, which shall 
+be available for nine (9) years from the effectivity of this Act:
+(i) Exemption from the payment of VAT in the purchase of EVs and charging 
+equipment; and
+(ii) A thirty percent (30% ) discount from the payment of the motor vehicle 
+user's charge imposed by the LTO under Republic Act No. 8794, 
+otherwise known as Motor Vehicle User's Charge Act, as well as vehicle 
+registration and inspection fees.
+Sec. 24. Non-Fiscal Incentives. - EV users shall be granted the following non-fiscal 
+incentives, which shall remain in force for nine (9) years from the effectivity of this 
+Act:
+(a) Expeditious registration and renewal of registration, and issuance of a special 
+type o f vehicle plate by the LTO;
+(b) Exemption of electrified PUVs from the mandatory unified vehicular volume 
+reduction program, number-coding scheme, or other similar schemes 
+implemented by the MM DA, other similar agencies, and LGUs; and
+(c) Expeditious processing by the LTFRB of applications for franchise to operate, 
+including its renewal, for PUV operators that are exclusively utilizing EVs.
+Sec. 25. Financial Assistance. - Government financial institutions and other 
+financial institutions, in accordance with and to the extent allowed by the enabling 
+provisions of their respective charters or applicable laws, are encouraged to provide 
+concessional financial packages for entities engaged in the activities mentioned in 
+Section 23 of this Act, and preferential interest rates and payment scheme on 
+consumer loans for the acquisition of EVs and electric charging stations.
+The Bangko Sentral ng Pilipinas shall encourage banks to lend a certain 
+percentage of their portfolio to EV, charging stations, and battery manufacturers.
+131
+2
+3
+4
+5
+6
+7
+8 
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20 
+21 
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+assemblers, and end users: Provided, That financing packages for EV fleets shall be 
+prioritized and the procedure shall be streamlined.
+CHAPTER V 
+FINAL PROVISIONS
+Sec. 26. Establishment o f Dedicated Offices. - The DOE, DOTr, and DTI shall 
+establish dedicated offices for the effective implementation of this Act. The 
+organizational structure and staffing complement shall be determined by the 
+Secretaries of DOE, DOTr, and DTI, in consultation with the Department of Budget 
+and Management, and in accordance with existing civil service rules and regulations. 
+The budgetary requirements necessary for the establishment o f the dedicated offices 
+shall be taken from the current appropriations of each agency concerned. Thereafter, 
+the funding for the dedicated offices shall be included in the annual General 
+Appropriations Act.
+Sec. 27. Penalties. - The DOE, DOTr, and DPWH shall impose fines and 
+penalties upon any person, both natural and juridical, found guilty of violating Sections 
+1 5 ,1 6 ,1 7 ,1 8 , and 19 of this Act. The fines and penalties shall range from a minimum 
+of fifty thousand pesos (P50,000.00) to a maximum of five hundred thousand pesos 
+(P500,000.00), and may include suspension or revocation of permits issued: Provided, 
+That this is w ithout prejudice to the penalties provided under existing regulations 
+prescribed by other concerned agencies. The DOE, DOTr, and DPWH, in coordination 
+with the DTI, DILG, and DENR shall issue appropriate rules and regulations on the 
+imposition of these fines and penalties.
+Sec. 28. Congressional Oversight - The Joint Congressional Energy 
+Commission (JCEC) shall exercise oversight powers over implementation o f this Act. 
+The DOE, DOTr, DTI, and other relevant NGAs shall submit the CREV and a report on 
+the implementation of this Act to the JCEC not later than the 1st day of December of 
+every year.
+143
+4
+5
+6
+7
+8 
+9
+10
+11
+12
+13
+14
+15
+1
+2
+Sec. 29. Im plem enting Rules and Regulations. - The DOE together with the 
+DOTR, in coordination with DTI, and in consultation with other relevant NGAs and 
+public and private stakeholders, shall issue the implementing rules and regulations of 
+this Act within one hundred twenty (120) days upon its effectivity.
+Sec. 30. Separability Clause. - If any portion or provision of this Act is declared 
+unconstitutional, the remainder of this Act or any provisions not affected thereby shall 
+remain in force and effect.
+Sec. 31. Repealing Clauses. - Any law, presidential decree or issuance, 
+executive order, letter of instruction, rule or regulation inconsistent with the provisions 
+of this Act is hereby repealed or modified accordingly.
+Sec. 32. Effectivity Clause.- l\\\s Act shall take effect fifteen (15) days following 
+its complete publication in the Official Gazette or a newspaper of general circulation.
+Approved,
+15

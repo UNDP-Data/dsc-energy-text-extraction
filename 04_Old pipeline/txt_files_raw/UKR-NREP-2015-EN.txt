@@ -1,0 +1,2601 @@
+File Name: UKR-NREP-2015-EN
+Year: 2015
+Country Name: Ukraine
+Country Code: UKR
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2015
+Start Year: 2015
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+REMAP 2030 
+RENEWABLE ENERGY 
+PROSPECTS FOR UKRAINEUnless otherwise stated, this publication and material featured herein are the property of the International Renewable Energy Agency 
+(IRENA) and are subject to copyright by IRENA. 
+Material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that all such material is 
+clearly attributed to IRENA and bears a notation that it is subject to copyright (© IRENA), with the year of the copyright.
+Material contained in this publication attributed to third parties may be subject to third-party copyright and separate terms of use and 
+restrictions, including restrictions in relation to any commercial use.
+About IRENA
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports 
+countries in their transition to a sustainable energy future and serves as the principal platform for international 
+cooperation, a centre of excellence and a repository of policy, technology, resource and financial knowledge 
+on renewable energy. IRENA promotes the widespread adoption and sustainable use of all forms of renewable 
+energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of 
+sustainable development, energy access, energy security and low-carbon economic growth and prosperity.
+REmap material is available for download through www.irena.org/remap
+For further information or to provide feedback, please contact the REmap team at remap@irena.org
+Acknowledgements
+Disclaimer
+This publication and the material featured herein are provided “as is”, for informational purposes. 
+All reasonable precautions have been taken by IRENA to verify the reliability of the material featured in this publication. Neither IRENA 
+nor any of its officials, agents, data or other third-party content providers or licensors provides any warranty, including as to the accuracy, 
+completeness, or fitness for a particular purpose or use of such material, or regarding the non-infringement of third-party rights, and they 
+accept no responsibility or liability with regard to the use of this publication and the material featured therein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA, nor is it an endorsement of any project, 
+product or service provider. The designations employed and the presentation of material herein do not imply the expression of any opinion on 
+the part of IRENA concerning the legal status of any regioncountryterritorycity or area or of its authoritiesor concerning the delimitation 
+Report citation
+IRENA (2015), REmap 2030 Renewable Energy Prospects for Ukraine. 
+IRENA, Abu Dhabi. www.irena.org/remap
+The report has benefited from valuable comments and guidance provided by the State Agency on Energy 
+Efficiency and Energy Saving of Ukraine (Sergiy Dubovyk, Igor Kovalyov). It was reviewed at the Ukraine 
+REmap workshop in Kiev on 13 October 2014, during an expert review meeting in Kiev on 12 March 2015,
+presented during the G7 Preparatory Meeting in Berlin on 17 March 2015, and benefited from input by 
+members of the Working Group for Support of REmap 2030 Implementation (Herman Aibinder, Mychailo 
+Cherevko, George Geletukha, Andriy Konechenkov, Stepan Kudyra and Viktor Reztsov). The report 
+benefited from external review by Igor Kyrylchuk (United Nations Industrial Development Organization) and 
+Olaf Pritzkow (consultant to GIZ). IRENA colleagues Rabia Ferroukhi, Ruud Kempener and Salvatore 
+Vinci also provided valuable feedback.
+IRENA is grateful for the generous support of the German government, which made the publication of this 
+report a reality.
+This project is part of the International Climate Initiative (IKI). The German Federal Ministry for the Environment, 
+Nature Conservation, Building and Nuclear Safety (BMUB) supports this initiative on the basis of a decision 
+adopted by the German Bundestag.
+Authors: Dolf Gielen, Deger Saygin and Nicholas Wagner (IRENA)CONTENTS
+LIST OF FIGURES �����������������������������������������������������������������������������������������������������������������������������������������������������������������������������II
+LIST OF TABLES������������������������������������������������������������������������������������������������������������������������������������������������������������������������������ III
+KEY FINDINGS������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������1
+1. INTRODUCTION �������������������������������������������������������������������������������������������������������������������������������������������������������������������������2
+2. METHODOLOGY�������������������������������������������������������������������������������������������������������������������������������������������������������������������������3
+3. PRESENT ENERGY SITUATION AND RECENT DEVELOPMENTS 
+IN THE RENEWABLE ENERGY SECTOR ������������������������������������������������������������������������������������������������������������������������� 6
+4. REFERENCE CASE ������������������������������������������������������������������������������������������������������������������������������������������������������������������13
+5. CURRENT POLICY FRAMEWORK ������������������������������������������������������������������������������������������������������������������������������������16
+6. RENEWABLES POTENTIAL �������������������������������������������������������������������������������������������������������������������������������������������������21
+7. REMAP OPTIONS��������������������������������������������������������������������������������������������������������������������������������������������������������������������25
+8. BARRIERS AND OPPORTUNITIES FOR RENEWABLE ENERGY TRANSITION���������������������������������������������35
+REFERENCES����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������38
+LIST OF ABBREVIATIONS ����������������������������������������������������������������������������������������������������������������������������������������������������������41
+ANNEX A: 
+Technology cost assumptions for 2030�������������������������������������������������������������������������������������������������������������������������42
+ANNEX B: 
+Energy price assumptions for 2030���������������������������������������������������������������������������������������������������������������������������������43
+ANNEX C: 
+Country meeting minutes ����������������������������������������������������������������������������������������������������������������������������������������������������44List of Figures
+Figure 1: Breakdown of Ukraine’s total final energy consumption by sector, 2009................................................7
+Figure 2: Power generation mix under the current policies, 2009-2030.................................................................14
+Figure 3: Projected development of renewable energy share under current policies, 2010-2030................15
+Figure 4: Business as usual projected renewable energy mix, 2010-2030..............................................................15
+Figure 5: Renewable energy use in TFEC, 2010-2030.....................................................................................................28
+Figure 6: Breakdown of primary biomass use in Ukraine, 2030..................................................................................29
+Figure 7: Renewable energy cost supply curve by renewable energy resource in 2030 from the business 
+perspective................................................................................................................................................................................. 30
+Figure 8: Renewable energy cost supply curve by renewable energy resource in 2030 based on the 
+government perspective.......................................................................................................................................................30
+Figure 9: Fossil fuel savings and the growth in total renewable energy use, 2030.............................................32
+Figure 10: Roadmap for halving natural gas consumption in Ukraine......................................................................33
+Figure 11: Developments in Ukraine’s total primary energy mix for heating and power generation, 2010-
+2030 34List of Tables
+Table 1: Operating and planned power plants�����������������������������������������������������������������������������������������������������������������������8
+Table 2: Usage of biomass for generation of energy in Ukraine, 2013 ����������������������������������������������������������������������10
+Table 3: Biomass boilers in Ukraine, 2009�����������������������������������������������������������������������������������������������������������������������������11
+Table 4: List of existing and planned biogas plants in Ukraine, end of 2014����������������������������������������������������������12
+Table 5: Expected gross final energy consumption of Ukraine taking into account energy efficiency 
+improvements according to the NREAP, 2009–2030�����������������������������������������������������������������������������������������������13
+Table 6: Green tariff coefficients for facilities commissioned���������������������������������������������������������������������������������������19
+Table 7: Actions related to renewable energy to reduce natural gas consumption of Ukraine ����������������������19
+Table 8: Potential of renewable sources in Ukraine ����������������������������������������������������������������������������������������������������������21
+Table 9: Breakdown of solar thermal potential������������������������������������������������������������������������������������������������������������������22
+Table 10: Biomass energy potential in Ukraine, 2013�������������������������������������������������������������������������������������������������������23
+Table 11: Biomass supply potential in Ukraine, 2030��������������������������������������������������������������������������������������������������������23
+Table 12: Renewable energy use in 2010, Reference Case 2030 and REmap 2030�������������������������������������������26
+Table 13: Renewable energy share and total renewable energy use by sectors, 2010-2030�������������������������� 27
+Table 14: Substitution costs of REmap Options by sector, 2030��������������������������������������������������������������������������������29
+Table 15: Substitution costs of REmap Options by technology in 2030 based on the perspectives of 
+government and business ����������������������������������������������������������������������������������������������������������������������������������������������������31
+Table 16: Fossil fuel saving effects of REmap Options�����������������������������������������������������������������������������������������������������31
+Table 17: Financial indicators for renewable energy use in Ukraine from the government perspective ����33KEY FINDINGS
+l Ukraine has made important progress in recent years in planning the future of its energy system and 
+developing a renewable-energy policy. By the year 2030, the increased use of renewable energy will 
+reduce Ukraine’s overall energy system costs.
+l If current policies (known as the Reference Case in this study), which are described in the recently approved National Renewable Energy Action Plan (NREAP) are maintained, the share of renewable energy 
+in the total final energy consumption (TFEC) will increase from 3% in 2009 (the plan’s base year) to 13.2% 
+by 2030. That total could be boosted to 21.8% using options identified in this study.
+l Increasing the renewable-energy share from 13.2% under the Reference Case to 21.8% in REmap 2030 
+would result in savings of USD 175 million per year in 2030, and when accounting for benefits resulting 
+from reduced health effects and CO2 emissions savings would increase to USD 1.3 billion per year based 
+on conservative estimates, and yield USD 5.5 billion in savings in 2030 based on more aggressive estimates.
+l Ukraine has the potential to increase renewable energy use by ten-fold from 87 petajoules (PJ) in 2009, 
+to 870 PJ of total final renewable energy in REmap 2030.
+l 73% of renewable energy potential in 2030 is accounted for by heat, 20% for electricity generation and 
+7% for transport.
+l Nearly 80% of total final renewable energy potential is accounted for by biomass technologies, including 
+for heating buildings and industrial plants (including district heating), power generation and as transport 
+fuels.
+l Through its REmap analysis IRENA has identified an additional potential of 26.9 terawatt hours (TWh) 
+of wind energy, 6.2 TWh of biomass and 5.8 TWh of solar photovoltaic (PV) that would boost the share 
+of renewables in the electricity sector from 11.3% under the Reference Case to 25% in REmap 2030, a 
+four-fold increase of the share over 2009 levels.
+l If IRENA’s REmap Options are used, there would be a significant increase in biomass use by 2030 for 
+various transport and heating applications (industry, buildings, and district heat) compared with expectations under current policies. The total demand for primary biomass would increase to 820 PJ per year.
+l REmap Options that are cost-competitive would boost the share of renewables from 11.8% under current 
+policy to 19.0% by 2030. To attain 21.8%, it would require renewables options with incrementally higher 
+costs. However, these options also offer non-monetary benefits, such as improving Ukraine’s energy security by reducing its dependence on imported natural gas, and reducing its carbon dioxide (CO2) emissions.Increasing the renewable energy share to 21.8% would require total investment flows for renewables 
+of USD 5.0 billion per year up to 2030, a doubling from current policy plans.
+l The REmap Options would allow Ukraine to cut natural gas demand by 15% by 2030 compared to the 
+Reference Case – a stabilization of demand at current levels. As this report shows there is room to optimize renewable deployment for combating climate change and supply security.
+l While renewables play a critical role in realising Ukraine’s strategic energy goals, potentials for improving 
+energy efficiency needs to be considered as well, in particular given the objective to reduce natural gas 
+consumption.
+l There are barriers to realising the higher renewable energy shares identified in this report. High capital 
+costs create uncertainty for investing in renewable energy. This coupled with a changing renewable 
+energy policy landscape, also reinforces this lack of confidence for investors. Therefore predictable and 
+stable policies should be maintained over long periods to allow for the continuity of investments into 
+renewable energy technologies.Ukraine has a significant renewable energy potential 
+that can be deployed to enhance the trade balance, create jobs and drive economic activity during a time when 
+the country is facing important economic challenges 
+such as the increased dependence in energy imports 
+and an urgent need to rejuvenate the ageing energy 
+capital stock. Deployment of which would importantly 
+also help towards existing policy goals of reducing the 
+dependency on imported natural gas and help towards 
+diversifying the energy supply. An energy supply that is 
+also more secure.
+The International Renewable Energy Agency (IRENA)’s 
+REmap programme is a series of renewable-energy 
+roadmaps for individual countries that shows how they 
+boost their use of renewables and in doing so help to 
+double the share of these technologies in the global 
+energy mix by 2030. The findings suggest that all countries, including Ukraine, have the potential to raise their 
+renewable energy share while reaping significant socioeconomic and environmental benefits (IRENA, 2014a).
+REmap 2030 is the result of a collaborative process 
+between IRENA and country experts. This short report provides detailed background data and results of 
+REmap’s Ukraine country analysis, and suggests how 
+renewables potential could be maximised. This working paper uses the Ukrainian government’s National 
+Renewable Energy Action Plan (NREAP) as a baseline 
+of renewables to 2020 and 2030, and extrapolates 
+projected gross final energy consumption (GFEC) of 
+2020 to 20301. The paper then moves on to discuss 
+1 Instead of GFEC, the rest of this paper uses total final energy 
+consumption (TFEC) as the main indicator. TFEC includes the 
+consumption of industry (including blast furnaces and coke ovens, 
+but excluding petroleum refineries and non-energy use), buildings 
+(residential and commercial) and transport sectors.
+the realistic potential of renewables in 2030 (so-called 
+REmap Options) beyond this baseline. REmap Options 
+are based on the trends seen in the data provided 
+by Ukraine’s government, along with literature review.
+Costs and benefits of renewables for the Ukrainian energy system are considered in the context of Ukraine’s 
+various policy goals.
+Addressing Ukraine’s energy challenge will require comprehensive actions, in particular to ensure environmentally-sustainable practices. The most likely renewable-energy sources for the country are wind, solar, 
+geothermal energy, biomass and small hydro power 
+(SHP). The right mix of these options can help to reduce 
+a large share of Ukraine’s total natural gas demand for 
+power generation. For heating, biogas can be used as 
+well.
+This report starts with a brief description of the REmap 
+2030 methodology (Section 2) and then explains the 
+present energy situation and recent trends for renewable energy use (Section 3). Section 4 provides the findings of Ukraine’s Reference Case. Section 5 discusses 
+the current policy framework, and Section 6 the renewables potential. In Section 7 the potential of REmap 
+Options are quantified. The report ends with a discussion of the barriers to scaling up renewable energy in 
+Ukraine and suggestions to overcome them (Section 8).
+This paper is meant to stimulate discussion in Ukraine 
+on increasing the use of renewable options in its energy 
+mix. These findings are expected to change over time 
+as new developments and fresh data become available.
+1. INTRODUCTIONThis section explains the REmap 2030 methodology 
+and summarises details about the background data 
+used for the Ukraine analysis. Annexes A and B provide 
+background data in greater detail.
+REmap is an analytical approach for assessing the gap 
+between current national renewable energy plans, additional renewable technology options potentially available in 2030 and the SE4All objective of doubling the 
+share of global renewable energy share by 2030.
+As of June 2014, REmap 2030 had assessed 26 countries: Australia, Brazil, Canada, China, Denmark, Ecuador, 
+France, Germany, India, Indonesia, Italy, Japan, Malaysia, 
+Mexico, Morocco, Nigeria, Russia, Saudi Arabia, South Africa, South Korea, Tonga, Turkey, Ukraine, the United Arab 
+Emirates, the United Kingdom and the United States.
+The analysis starts with national-level data covering 
+both end users of energy (buildings, industry and transport) and the electricity and district-heat sectors. Current national plans using 2010 as the base year of 
+this analysis are the starting point. To the extent data 
+availability allows, information for more recent years 
+(e.g., 2012, 2013) were provided where relevant. In each 
+report, a Reference Case features policies in place or 
+under consideration, including energy-efficiency improvements. Reference Case includes TFEC for each 
+end-use sector and the total generation of power and 
+district-heat sectors, with breakdowns by energy carrier 
+for the period from 2010 to 2030. The energy balances 
+for the base year of the analysis, 2009, are based on 
+the data provided by the International Energy Agency 
+(IEA, 2014a). Where relevant, the data are updated with 
+the national energy statistics provided by the SSSU, the 
+State Statistics Service of Ukraine (http://www.ukrstat.
+gov.ua/)2. The Reference Case for Ukraine was based on 
+the NREAP and other data provided by the Ukrainian 
+2 The comparison of IEA Energy Balances (IEA, 2014a) with the 
+Energy Balance of Ukraine according to the SSSU for the year 
+2010 yields less than 5% difference in the total energy supply/consumption. The only exception is the transport sector where total 
+demand according to the IEA is 8% higher than the data reported 
+by the SSSU. This is explained by the difference in road transportation items of 13%. With the exception of the transport sector, where 
+data is based on SSSU, the analysis uses IEA data for other sectors.
+government. That NREAP was adopted by the Cabinet of Ministers on 1 October 2014 (CoM, 2014), and it 
+includes Ukraine’s gross final energy consumption developments to 2020. For 2030, renewable energy use in 
+the Reference Case is based on other data provided by 
+the Ukrainian government. Gross final energy consumption in 2030 is extrapolation of trends between 2009 
+and 2020 according to the NREAP.
+Once the Reference Case was prepared additional technology options were identified, labelled in the report 
+as REmap Options. The choice of options instead of a 
+scenarios-based approach is deliberate: REmap 2030 
+is an exploratory study and not a target-setting exercise. While the Reference Case is based on the NREAP, 
+the REmap Options for Ukraine came from a variety of 
+sources. These include literature review and the longerterm trends to 2035, according to the data provided by 
+Ukraine’s government. IRENA developed a REmap tool 
+that allows staff and external experts to input data in 
+an energy balance for 2010, 2020 and 2030, and then 
+assess technology options that could be deployed by 
+2030 in an accelerated deployment of renewable energy.
+In addition to what is being provided in the annexes of 
+this report a detailed list of these technologies and the 
+related background data are provided online. The tool includes the cost (capital, operation and maintenance) and 
+technical performance (reference capacity of installation, capacity factor and conversion efficiency) of renewable and conventional (fossil fuel, nuclear and traditional 
+use of biomass) technologies for each sector analysed: 
+industry, buildings, transport, power, and district heat.
+Each renewable energy technology is characterised 
+by its costs, and the cost of each REmap option is 
+represented by its substitution cost. Substitution costs 
+are the difference between the annualised cost of the 
+REmap Option and a conventional technology used to 
+produce the same amount of energy, divided by the 
+total renewable energy use in final energy terms (in 
+2010 real US Dollar (USD) per gigajoule (GJ)3 of final re3 1 gigajoule (GJ) = 0.0238 tonnes of oil equivalent (toe) = 0.238 gigacalories (Gcal) = 278 kilowatt-hour (kWh). 1 USD was on average 
+equivalent to 7.9 Ukranian Hryvinia in 2010.
+2. METHODOLOGYnewable energy). This indicator provides a comparable 
+metric for all renewable energy technologies identified 
+in each sector. Substitution costs are the key indicators 
+for assessing the economic viability of REmap Options.
+They depend on the type of conventional technology 
+substituted, energy prices and the characteristics of 
+the REmap option. The cost can be positive (incremental) or negative (savings), as many renewable-energy 
+technologies are already or could be cost effective 
+compared to conventional technologies by 2030 as a 
+result of technological learning and economies of scale.
+Based on the substitution cost and the potential of each 
+REmap Option, country cost-supply curves were developed from two perspectives for the year 2030: government and business. For the government perspective, 
+costs estimates are as government would have done 
+them, excluding energy taxes and subsidies. The choice 
+of analysis from a government perspective is to ensure 
+a comparison of the cost and benefits across all REmap 
+countries. For the business perspective, the process was 
+repeated to include national prices, including energy 
+taxes and subsidies. This approach shows the cost of the 
+transition as businesses and investors would calculate it.
+For both government and business perspectives a 10% 
+cost of capital was assumed. By estimating the costs 
+from two perspectives, the analysis shows the effect of 
+accounting for energy taxes and subsidies whereas all 
+other parameters were kept same. Assessment of all additional costs related to complementary infrastructure, 
+such as transmission lines, reserve power needs, energy 
+storage or fuel stations, are excluded from this study.
+Throughout this study the renewable-energy share is 
+estimated related to TFEC. Based on TFEC the renewable energy share can be estimated for the total of all 
+end-use sectors of Ukraine or for each of them (industry, 
+transport, residential and commercial, and agriculture 
+sectors), with and without the contribution of renewable electricity and district heat. The share of renewable 
+power and district heat generation is also calculated.
+Estimating the renewable energy share based on TFEC 
+is different than estimating it based on gross final 
+energy consumption (GFEC), which is the metric applied in Ukraine’s NREAP as defined by the European 
+Community (2009). There are two major differences in 
+estimating the renewable energy share based on TFEC 
+and GFEC: 1) according to GFEC, total renewable energy 
+use includes the quantities of renewable power and district heat consumed by the power and heat generation 
+plants as well as the losses in their distribution, whereas 
+TFEC looks at consumption only, and 2) renewable 
+electricity consumed in the transport sector is added as 
+renewable energy use on top of renewable power generation in GFEC whereas in TFEC it is already accounted 
+for under the total renewable power consumption.
+This report also discusses the finance needs and avoided externalities related to increased renewable energy 
+deployment. Three finance indicators are developed, 
+namely net incremental system costs, net incremental 
+investment needs and subsidy needs. These indicators 
+are briefly defined as:
+1) Net incremental system costs: This is the sum of 
+the differences between the total capital (in USD/
+yr) and operating expenditures (in USD/yr) of all 
+energy technologies based on their deployment 
+in REmap 2030 and the Reference Case in the 
+period 2010-2030 for each year.
+2) Net incremental investment needs: This is the 
+difference between the annual investment needs 
+of all REmap Options and the investment needs 
+of the substituted conventional technologies 
+which would otherwise be invested in. Investment needs for renewable energy capacity are 
+estimated for each technology by multiplying its 
+total deployment (in gigawatt (GW)) to deliver 
+the same energy service as conventional capacity and the investment costs (in USD per kilowatt 
+(kW)) for the period 2010-2030. This total is then 
+annualised by dividing the number of years covered in the analysis.
+3) Subsidy needs: Total subsidy requirements for 
+renewables are estimated as the difference in the 
+delivered energy service costs for the REmap 
+Option (in USD/GJ final energy) relative to its 
+conventional counterpart multiplied by its deployment in a given year (in petajoules (PJ) per 
+year).
+External effects related to greenhouse gas (GHG) emission reductions as well as improvements in outdoor and 
+indoor air pollution from the decreased use of fossil 
+fuels have been estimated.
+As a first step, for each sector and energy carrier, GHG 
+emissions from fossil fuel combustion are estimated.
+For this purpose, the energy content of each type of sulphur dioxide (SO2), mono-nitrogen oxides (NOx) and 
+particulate matter of less than 2.5 micrometres (PM2.5) 
+from fossil fuel-based power plant operation, and 2) 
+outdoor emissions of NOx, and PM2.5 from road vehicles.
+To evaluate the external costs related to outdoor emission of SO2, NOx and PM2.5 from fossil power plant operation, the following parameters for respective pollutants 
+were used: (a) emission factor (i.e., tonne per kWh for 
+2010 and 2030 taken from the IIASA GAINS database 
+(ECRIPSE scenario (IIASA, 2014), and (b) unit external 
+costs (i.e., Euro-per-tonne average for the European 
+Union (EU), adapted for the US from the EU CAFE 
+project (AEA, 2005). Potential differences in external effects between the EU and Ukraine values are accounted 
+for based on the difference in gross domestic product 
+(GDP) values.
+Further details of the REmap 2030 methodology can 
+be found online in IRENA’s REmap webpage at: www.
+irena.org/remap
+fossil fuel was multiplied by its default emission factors 
+(based on lower heating values, LHV) as provided by the 
+Intergovernmental Panel on Climate Change (Eggleston 
+et al., 2006). Emissions were estimated separately for 
+the Reference Case and REmap 2030. The difference 
+between the two estimates yields the total net GHG 
+emission reduction from fossil fuel combustion due to 
+increased renewable energy use. To evaluate the related external costs related to carbon emissions, a carbon 
+price range of USD 20-80 per tonne CO2 is assumed 
+(IPCC, 2007). This range was applied only to CO2 emissions, but not other greenhouse gases. According to 
+the IPCC (2007), carbon price should reflect the social 
+cost of mitigating one tonne of CO2 equivalent GHG 
+emissions.
+The external costs related to human health are estimated in a separate step, which excludes any effect 
+related to GHG emissions. Outdoor air pollution is evaluated from the following sources: 1) outdoor emission of 3. PRESENT ENERGY SITUATION AND 
+RECENT DEVELOPMENTS IN THE 
+RENEWABLE ENERGY SECTOR
+Ukraine’s TFEC reached 3 exajoules (EJ) in 20094.
+Industry accounted for the largest share of Ukraine’s 
+TFEC, at 29% in 2009 (SSSU). Buildings, transport, district heating and electricity were the other sectors with 
+a share of at least 15% (Figure 1). Natural gas accounted 
+for 1.7 EJ, or 36% of Ukraine’s total energy supply. Coal 
+and oil products accounted for 31% and 12% of the total 
+in 2009, respectively. Nuclear accounted for 19%. The 
+remaining 2% was related to the use of renewables.
+Ukraine has limited fossil-fuel energy reserves. Domestic production of oil, gas and coal is too small to meet 
+demand, so the country is reliant on imports of each.
+Imported gas accounted for 65% to 70% of its total 
+consumption in 2010 and is the chief contributor to the 
+country’s energy-security problem. Additionally, the 
+growing coal deficit is impacting the power generation 
+sector. Although importing fossil fuel energy can help 
+close the deficit, there are financial implications. Also, 
+the existing seaport capacity covers only forty percent 
+of the total coal volume that would need to be imported 
+(EDM, 2014).
+The energy intensity of Ukraine’s domestic economy is 
+three to four times higher than that of more-developed 
+countries. Until 2006 Ukraine imported natural gas at 
+prices well below international levels, however, since 
+then the price from Ukraine’s main supplier, Russia, 
+has increased sharply. The price per 1,000 cubic meters (m3)5 rose from USD 95 in 2006 (USD 2.9 per GJ) 
+to USD 229 (USD 7.1 per GJ) in 2009, and surpassed 
+USD  400 (USD 12.4 per GJ) toward the end of 2012 
+(IEA, 2012b). According to the gas deal between Ukraine 
+and Russia in October 2014, the price of natural gas in 
+4 1 EJ = 1,000 PJ = 1018 J. 1 megatonne of oil equivalent (mtoe) = 
+1,000 kilotonne of oil equivalent (ktoe) = 41.87 PJ. TFEC includes 
+total combustible and non-combustible energy use from all energy 
+carriers as fuel (for the transport sector) and to generate heat (for 
+industry and building sectors) as well as electricity and direct heat.
+It excludes non-energy use.
+5 1 m3 of natural gas in Ukraine has a gross calorific value between 
+34 505 MJ and 36 401 MJ. A ratio of 1.1:1 is assumed between gross 
+and net calorific value of natural gas (ECRB, 2014).
+the last quarter of 2014 and first quarter of 2015 was 
+USD 378 and USD 365, respectively. This deal is effective until April 2015. After April 2015, the price of natural 
+gas for households will increase three folds reaching 
+the level industry sectors pay (UAH 7,188 or USD 310 per 
+1,000 m3). The price of natural gas for district heat companies will grow by 29% to UAH 2994 or USD 130 per 
+1,000 m3. The district heating tariffs will increase by 67% 
+and electricity tariffs by 19% and as a result of the tariff 
+increases, it is expected that up to 13 million households 
+will be eligible for targeted social assistance related to 
+municipal services (compared to 1.1 million in 2014)6.
+According to the new International Monetary Fund 
+(IMF) schedule, if Ukraine undertakes the scenarios on 
+phasing out of subsidies, new household tariffs would 
+be equal to the true cost of natural gas import price by 
+2017, compared to a 56% share in 2014. The natural gas 
+price stabilizes at around USD 345 per 1,000 m3 by 2015 
+and stabilizes at this level to 2030 (G7, 2015).
+Imported natural gas volume has decreased in recent 
+years as a result: in October 2014, the volume of natural 
+gas stored in Ukraine was 16 billion m3, some 5 billion m3
+below peak winter demand (Financial Times, 2014). Gas 
+demand is seasonal with a clear winter peak for heating.
+Overall, these imports results in huge costs for Ukraine 
+because gas is procured during the low demand season 
+(and injected to storages between April and October) to 
+be used in the high demand season. Storage is key for 
+the supply security of gas and currently, Ukraine has a 
+total gas storage capacity of 32 billion cubic meters with 
+five storage facilities in the western part of the country 
+accounting for more than 80% of the total working volume. There are seven other storages in the eastern part 
+of Ukraine (Chyong, 2014).
+In 2010, total natural gas supply was 2.3 EJ, higher than 
+the figure for coal, at 1.6 EJ. Gas comprised a higher 
+share of Ukraine’s total primary energy supply (42%), 
+6 Households are eligible for targeted social assistance, if more than 
+15% of the income of a household is paid for municipal services.power plants and the remainder 10% from CHPs. About 
+half of the total was nuclear power generation. Generation of renewables was approximately 12 TWh, or 6.8% 
+of the total. Almost all came from hydro facilities (IEA, 
+2014a; SAEE, 2015). Policy support since 2009 has succeeded in increasing the rate of adoption for renewables 
+technologies.
+Ukraine has more than thirty power plants (including 
+large hydro, but excluding renewables) and of which 
+fourteen are thermal and another four are nuclear 
+plants. There are also three large scale cogeneration 
+plants (Korniush, 2012). Table 1 provides an overview of 
+the existing power plants based on different sources for 
+the period between 2011 and 2014. Ukraine had approximately 54 gigawatts (GW) of power generation capacity in 2013. Coal accounted for 40%, and nuclear plants 
+25% whilst approximately 10% of the total installed 
+capacity was large hydro. Most hydro power plants are 
+situated along Ukraine’s major river – Dnipro. Most coal 
+power plants are in the south eastern parts of Ukraine 
+and several others are in the centre and east.
+Peak demand on the main grid in 2013 was 22.1 GW and 
+the average baseload in 2013 was 28.4 GW (Hydropowwith about 28% of it used in the power and district-heat 
+sectors. That includes combined heat and power (CHP) 
+plants. Another 26% was used in heating systems for 
+individual buildings. Industry, agriculture and the fisheries sector used 12% of the total in steam boilers or direct 
+heaters. The transport sector accounted for another 6%.
+The remainder is used in the energy sector (e.g., oil and 
+gas extraction) and stock changes (IEA, 2014a). Total 
+natural gas consumption in Ukraine is decreasing. In 
+the period between 2005 and 2014, total demand for 
+households has decreased by 12% whereas the demand 
+for industry has decreased even further by 49% (G7, 
+2015). The decline for industry is related to the higher 
+gas pricing, while for households, consumption has 
+been subsidized.
+The rest of this section focuses in greater detail on the 
+current situation for power, district heat and the use of 
+renewables in end-use sectors in Ukraine.
+Power sector
+In 2009, a total of 189 terawatt-hours (TWh) of power 
+was generated in Ukraine. Of this total 90% came from 
+Figure 1: Breakdown of Ukraine’s total final energy consumption by sector, 2009
+Industry
+29%
+Transport
+16%
+Buildings
+22%
+forestry / fishing
+2%
+Power
+15%
+District heat
+16%
+Agriculture /
+Source: Based on SSSUer & Dams, 2014). The transmission network consists of 
+22,900 km of high voltage lines and 135 substations (between 220 and 750 kilovolts). 33 interstate lines connect 
+Ukraine to its seven neighbour countries, and fourteen 
+of these lines are with Russia (Korniush, 2012).
+The share of renewables was still relatively low and 
+was dominated by hydro with nearly 5.5 GW in 2011. A 
+majority of hydro power plants are large-scale facilities, 
+with ten at a capacity larger than 10 MW. Eight are on 
+the Dnipro River and have a total capacity of 3.9 GW, 
+and another is on the Dniester River and has 700 MW 
+of capacity. No new plants are under construction 
+(excluding pumped hydro), however the state body 
+Ukrhydroenergo is rehabilitating ten facilities that together can offer 4.6 GW of capacity. These plants are 
+approximately 50 years old (Liu, Masera and Esser, 2013; 
+Hydropower & Dams, 2014). In 2010, only 49 of 150 small 
+and micro hydro plants were in operation (OECD, 2012).
+According to Liu, Masera and Esser (2013), in 2011 64 
+small and hydro power plants were in operation. There 
+are another 100 that can be restored. The use of other 
+renewables for power generation is still small.
+Ukraine’s power system is at risk today because of 
+outdated facilities, inefficient plants and ageing transmission lines. Of the hydro and thermal plants, 95% 
+are too old for use. Most coal plants were built around 
+1970, which means they will need substantial upgrades 
+or must be replaced before 2030. Nuclear capacity is 
+newer, built after 1980, and is expected to be operational in 2030 (Platts, 2013). These aging plants offer 
+an important opportunity because as these systems are 
+renovated or replaced, investment can be directed to 
+renewables as an alternative. The average annual capacity factor for thermal plants is about 27% and nuclear 
+about 69%. Many of the small-scale hydro plants are 
+also aging, with an average annual capacity factor of 
+about 29%.
+By the end of 2012, total renewable-electricity generation capacity in Ukraine had reached 728.3 megawatt 
+(MW). Of this total, wind provided 277 MW, solar photovoltaic (PV) 371.6 MW, small-scale hydro 73.5 MW, and 
+biomass and biogas facilities– 6.2 MW. This capacity 
+generates 780 gigawatt-hour (GWh) per year of electricity, representing 5.8% of the total power generation.
+Renewable energy capacity is growing in particular for 
+solar technologies because of legislation supporting the 
+industry. Solar capacity surged from 26 MW in December 2011 to 818 MW three years later (Romanko, 2014; 
+SAEE, 2015).
+By the end of the first half of 2014 total renewable energy power generation capacity operating under the 
+GT reached 1,419 MW. This included 497 MW of wind, 
+Table 1: Operating and planned power plants
+Operation 
+(end of 2011)
+Operation
+(end of 2012)
+Operation 
+(July 2013)
+Operation 
+(end of 2013)
+Operation 
+(end of 2014)
+(MW) (MW) (MW) (MW) (MW)
+Thermal 30 458
+ Coal 20 046 22 000
+ Gas 6 022 5 400
+ Oil 4 390
+ CHP 6 500
+Nuclear 13 880 13 800
+Hydro 5 468 73.5 
+(small hydro)
+74
+ (small hydro)
+75.3 
+(small hydro)
+80.3 
+(small hydro)
+Wind 151 277 291 371 497
+Solar 265 371.6 569.5 748.4 818.9
+Biomass 
+(incl. biogas) 0 6.2 7.3 23.7 49.1
+Mine gas 67
+Total 50 306 54 081
+Source: CoM (2014); Platts (2013); IMEPOWER (2013); SAEE (2015)
+Note: renewable energy capacities provided for end of 2012, 2013 and 2014 refer to facilities that operate under the green tariff.819 MW of solar PV, 77 MW from SHP and 26 MW of 
+biomass and biogas. There are 18 wind plants in Ukraine, 
+and about 371 MW of the total installed wind capacity 
+is grid-connected (UWEA, 2013). The Crimea peninsula 
+represents about 20% and 40% respectively of total 
+installed wind and solar PV capacities. However by the 
+end of 2014 total installed capacity under GT reached 
+2,007 MW, an increase of 484 MW, or 32%. Renewable 
+technologies accounted 6.2% of electricity generation 
+in 2014.
+District-heat sector
+The heating sector in Ukraine can be divided into two 
+main components: the district-heat sector, owned and 
+operated by municipal heating companies; and heating 
+systems to serve industry, such as boilers or direct firing 
+units. Today there are 79,908 boilers for heat generation 
+in Ukraine. The district heat sector is composed of about 
+7,000 heat-only boilers and another 250 CHPs (Radeke 
+and Kosse, 2013). Today, Ukraine’s district heat sector 
+is inefficient for multiple reasons, and addressing them 
+will be important for Ukraine’s energy-security goals as 
+well as for the promotion of renewables.
+In 2010, heat production from the district heat sector 
+reached 640 PJ, with about one third of the total from 
+CHP plants. Residential and commercial buildings consume 60% of the total district-heat generated, with the 
+remainder going to industry. District heat accounts for 
+nearly a quarter of TFEC in the buildings and industry 
+sectors. About 39% of total households in Ukraine were 
+connected to district heating, which is slightly lower 
+than the 43% in 2011 (7.5 million out of the 17.5 million 
+households) (IEA, 2012b; Radeke and Kosse, 2013). This 
+share is among the highest in the world. All of Kiev’s 
+three million residents rely on district heating. In comparison, 41% of the total number of households had individual gas-fired heating units, and 21% had other forms 
+of heating based on either electricity or solid fuels such 
+as coal or wood.
+District-heating demand has fallen since the 1990s 
+however, as a result of a decreasing population and increased efficiency, but with urbanisation and higher demand in non-residential sectors, it is expected to grow 
+again (IEA, 2012b). District heating accounts for about 
+one-fifth of Ukraine’s total natural gas consumption, 
+and about 80% of the district-heat generation relies on 
+natural gas. In 2010, this meant 18 billion m3 of natural 
+gas (620 PJ). About half of all citizens live in multiapartment housing (240,000 buildings with a total area 
+of 464 million m2) and 80% of that uses gas and district 
+heating. Multi-apartment housing has a large energy efficiency improvement potential.
+Biomass accounted for 3.6% of total district-heat generation, with small quantities of aero-thermal, geothermal 
+and hydro-thermal heat pumps in use as well. Only a few 
+of Ukraine’s provincial capitals (“oblast” in Ukrainian) 
+have biomass boilers, but new ones are expected to be 
+built starting in 2015.
+The role of other renewables is growing for district 
+heat. Between 2008 and 2012, the municipal utility of 
+Mariupolteploset set up three solar thermal districtheat plants in Donetsk. Other municipalities have also 
+announced projects under consideration (GSTEC, 2014).
+Low efficiency is the major challenge to Ukraine’s district-heat sector. Nearly 60% of the heat produced is 
+lost in production and distribution (Radeke and Kosse, 
+2013), and both heat-distribution pipelines and generation systems need replacing. One of the reasons for 
+this is that regulated tariffs aren’t enough to cover the 
+costs of distribution and capital expenditure on top of 
+that. Total heating cost for generators is about UAH 
+325 per gigacalorie (Gcal), or USD 7.3, and the tariff is 
+80% of that cost, at UAH 260. Another problem is that 
+most equipment used is older than its technical life 
+expectancy, sometimes by a factor of two (Radeke and 
+Kosse, 2013). Precise billing is also a challenge because 
+historically individual gas consumption has not been 
+measured by meters. Only six percent of all households 
+have meters, and fewer than 20% of buildings have 
+functioning metering today. Today more meters are being installed and the amount of free gas per consumer 
+is being reduced.
+Efficiency improvements to the district-heat sector 
+stand out as one of the most important potential contributions to Ukraine’s energy-intensity reduction goal 
+of 50% by 2030. Improvements could include rehabilitation of the boiler houses, replacing network pipes, installation of heat substations and installing heat meters 
+(IEA, 2012b; The World Bank, 2014). Higher heat tariffs 
+can secure necessary investment in energy efficiency, 
+and for the Ukrainian government a possible solution 
+would be to allow tariff increases only if the extra rev-enue is used for investing in energy efficiency. Tariffs 
+need to be affordable for consumers but increases can 
+gain mass acceptance if they come with assurances of 
+efficiency gains in the future.
+The alternative to reforming the district-heat sector is to 
+restructure the overall system in order to promote individual heating systems in buildings or industrial facilities 
+currently connected to the grid.
+Solid biomass use for heating
+Renewable energy use by consumers (industry, transport, and residential and commercial buildings) is thus 
+far limited. Biomass is the main source of renewable 
+energy in end-use sectors, and Ukraine has focused on 
+it as a domestic resource worth exploiting.
+National sources indicate that Ukraine has 750-1,465 PJ 
+(18-35 Mtoe/yr) of primary biomass economic potential that can substitute 21.6-26 billion m3 of natural gas 
+(Bioenergy, 2014; SAEE, n.d.). There is also additional 
+potential of about 100 PJ annually from biogas (SAEE, 
+n.d). These potential estimates are updated annually, 
+and depend on agricultural yields, cropping patterns, 
+weather and climate conditions etc. Each year, Ukraine 
+produces about 120 million tonnes of biomass feedstock.
+This includes crop production, waste, animal, wood and 
+food processing residues. 54% of the total production is 
+further processed, 45% is wasted and 1% is used for power and heat generation (ProMarketing Ukraine, 2013).
+In 2010, a total of 93 PJ of biomass was used in Ukraine, 
+48 PJ of which was by end-use sectors (48 PJ per 
+year) (IEA, 2014a). Residential heating and cooking accounted for 47 PJ. For the building sector the share of 
+renewables in the mix in 2010 was about 11.5%, and in 
+the overall heating sector less than 5%.
+According to Matveev (2014), total biomass demand 
+was constant at 93 PJ from 2010 to 2012, or 2,231 kilotonnes of oil equivalent (ktoe). Another source found 
+more, however: a report by the Centre for Renewable 
+Energy Sources and Savings. A questionnaire from 2012 
+estimates total demand at 108.2 PJ for covering the 
+2009-2010 fiscal year, and 128.4 PJ for 2010-2011 (CRES, 
+2012). Table 3 displays details for 2009. Firewood is 
+the most common feedstock and is used by 92% of the 
+households reporting biomass consumption. Half of 
+firewood is supplied from biomass supply centres and 
+one third directly from forests. The remainder is from 
+the wood-processing industry.
+The CRES survey provides a comprehensive overview of 
+solid bioenergy markets in Ukraine. About 15% of households used some type of biomass for space heating, 
+cooking or water heating, the report found. The share is 
+Table 2: Usage of biomass for generation of energy in Ukraine, 2013
+Annual volume of consumption1 Share of total volume 
+of annual consumption 
+of biomass
+Share of 
+economically 
+feasible potential Physical units ktoe
+Straw of cereals and rape 94 000 tonnes 33.6 1.8% 1%
+Wood (residential) 5 million m3 840 45.1%
+Woody biomass >90%
+(non-residential) 3.2 million tonnes 763 40.9%
+Sunflower shelling 380 000 tonnes 146 7.8% 41%
+Bioethanol 65 000 tonnes 42 2.3% 6%
+Biodiesel 18 000 tonnes 16 0.9% 4.8%
+Biogas from agricultural 
+waste 22.3 million m3 10 0.5% 4.4%
+Biogas from landfills and 
+municipal solid waste 31.2 million m3 15 0.8% 8.1%
+Total 1 864 100%
+Source: SAEE (2015)
+1 Values show consumption for energy generation in Ukraine. Export of pellets/briquettes is not included.higher in rural areas: 40% of households reported using 
+biomass for their heating needs, compared with 5% in 
+urban areas (CRES, 2012). Space heating accounts for 
+58% of the total biomass demand, with 32% from cooking and 10% for heating water. There has been limited 
+uptake of modern stoves, and most biomass use in the 
+building sector is in traditional forms7.
+Ukraine is also a producer of solid biomass products.
+In 2012, there were 44 pellet producers in Ukraine and 
+155 making fuel briquettes. Total production is about 
+289 kilotonnes (kt) per year. These are mainly small 
+companies with production outputs no larger than 2 kt 
+of pellets in a month or 1 kt of briquettes. One company 
+produces pellets and briquettes from straw. Over 90% 
+of solid biofuel products were exported to EU countries, 
+where there are effective incentive programmes for 
+renewable energy (CRES, 2012).
+The average cost of firewood in Ukraine is reported at 
+USD 24 per tonne, or about USD 1.4 per GJ. Prices for 
+other solid biomass ranged from USD 0.13 per GJ to 
+4.9 in 2010. Wood-processing residues represented the 
+low end of this range. Baled straw and firewood were 
+priced around USD 2.2 per GJ including delivery. Wood 
+pellets and briquettes ranged from USD 4.4 to 4.9. In 
+2012 prices had risen by about 20% from 2010. Depending on the feedstock used, prices for large consumers 
+and traders ranged from USD 4.7 per GJ (straw) to 6.0 
+(husks). Demand for wood pellets is high in the EU, and 
+domestic prices are typically 10-15% higher in winter 
+(TEBODIN, 2013).
+7 According to the IEA (2012a), biomass use in the residential sectors 
+of non-OECD countries should be considered as traditional. However, National Renewable Energy Action Plan of Ukraine counts all 
+biomass use as modern and as part of the renewable energy mix.
+Biogas use
+When Ukraine was a part of the former Soviet Union 
+(FSU) biogas facilities were often constructed at water 
+treatment and milk-processing plants. Only a few remain operational, but many new facilities are in design.
+The slow development of biogas plants is attributed to 
+two factors: the expense of the equipment and absence 
+of feed-in tariffs for power from biogas. At the end of 
+2014 there were seven biogas plants installed in Ukraine 
+(Table 4). As of early 2015 seven additional plants are 
+planned.
+Biomass makes up 64% of municipal solid waste (MSW) 
+in Ukraine. There are 6 LFG collection and utilisation systems operating in Ukraine, of which four are commercial 
+systems and two are for demonstration (CRES, 2012).
+Liquid biofuels use
+Total ethanol production capacity in Ukraine is about 
+131,000 tonnes per year. Actual production is between 
+60,000 and 100,000 tonnes per year, in 13 state-owned 
+and 20 private plants. The market price for domestically 
+produced bioethanol in 2012 was between USD 1.85 and 
+1.93 per tonne (TEBODIN, 2013). Total biodiesel production capacity is about 500,000 tonnes per year, and total production is about 100,000 tonnes per year. About 
+three-quarters of production comes from small-scale 
+plants with capacities ranging between 300 tonnes and 
+5,000 tonnes annually (ProMarketing Ukraine, 2013).
+Other renewables
+The most recent data from late 2008 indicates that 
+the total area of installed solar collectors for heating in 
+Table 3: Biomass boilers in Ukraine, 2009
+Feedstock Total number 
+of boilers
+Total biomass consumption (kt/yr) Sector
+Old boilers Firewood 1 000 400 Forestry enterprises
+Modern boilers Firewood 100 246 Forestry, woodworking 
+industries, tertiary sectors
+Straw-fired water boilers Straw 25 22 Commercial sector
+Straw-fired heat boilers Straw 20 8 Agricultural companies
+Husk-fired boilers Husk 70 500 Fat and oil industry
+Source: CRES (2012)Ukraine was approximately 45,000 square meters (m2) 
+(31.5 MW). There is no significant use of solar thermal 
+equipment. Current Ukrainian policy foresees a considerable increase in solar energy use at industrial facilities 
+and for agribusiness.
+Table 4: List of existing and planned biogas plants in Ukraine, end of 2014
+Industry type Start-up 
+year Feedstock type Digester volume(m3/day)
+Power capacity
+(kW)
+Operating biogas plants
+Pig farm 1993 Pig manure 595 n.a.
+Pig farm 2003 Pig manure, fat from poultry slaughter 2 000 180
+Agricultural company 2009 Cattle and pig manure 1 500 250
+Cattle farm 2009 Cattle manure 7 200 625
+Poultry farm 2012 Poultry manure 35 000 5 000
+Pig farm 2013 Pig/poultry manure and agro-waste 13 000 1 000
+Sugar mill 2013 Bagasse 40 000 n.a.
+Under construction or planned
+Poultry farm Poultry manure n.a. 4 000
+Poultry farm Poultry manure n.a. 3 000
+Sugar mill Bagasse n.a. n.a.
+Pig farm Pig manure n.a. 125
+Agricultural company Cattle manure and corn silage n.a. 1 360
+Agricultural company Silage and vine vinasse n.a. 125
+Agricultural company n.a. 16 000 1 200
+Source: SAEE (2015)The current energy policy of Ukraine, approved by government, is called Energy Strategy of Ukraine for the 
+Period until 2030. It states that the use of renewables is 
+important to improve energy security and to reduce the 
+environmental impacts of the energy sector. Renewable 
+energy in Ukraine is important on a national level but 
+also has international implications: to help enhance energy security in Europe and to combat climate change.
+Energy Strategy of Ukraine requires periodic adjustments 
+because it is a long-term forecasting document, and in 
+2011 the government drafted a new edition that was 
+approved in July 2013. Changes focused on the strategy 
+for developing the electricity sector, and in particular 
+development of the domestic coal sector.
+The indicative figures until 2030 and increase in energy 
+efficiency proposed in the document were used in the 
+NREAP when calculating Ukraine’s Reference Case to 
+2030 (see Table 5). Values provided for the year 2030 
+are estimated based on the trends observed between 
+2014 and 2020 according to the NREAP. The heating 
+Table 5: Expected gross final energy consumption of Ukraine taking into account energy efficiency 
+improvements according to the NREAP, 2009–2030
+2009 2013 2014 2015 2016 2017 2018 2019 20202 20302,3
+Heating / 
+cooling 43 640 44 800 45 570 45 910 46 280 46 680 46 800 46 950 47 100 49 767
+Electricity 
+(generation) 13 791 15 950 16 780 17 110 17 440 17 770 18 100 18 930 20 300 24 323
+Transport 8 943 9 050 9 260 9 480 9 700 9 930 10 170 10 420 10 680 13 547
+GFEC1 66 374 69 800 71 610 72 500 73 420 74 380 75 070 76 300 78 070 87 636
+Source: CoM (2014).
+Note: All data expressed in ktoe per year.
+1 The gross final energy consumption comprises final energy consumption, network losses, own use of energy at electricity and heat plants 
+(except consumption of electricity by pumped hydro storage plants for transformation in electric boilers or heat pumps at district heating 
+plants, as defined in Article (2)(f) of Directive 2009/28/EC. 
+2 The growth rate in GFEC of heating/cooling, electricity generation and transport for the period between 2010 and 2020/2030 is applied 
+to the 2010 TFEC values to estimate the 2020 and 2030 Reference Case TFEC. Renewable energy use by technology and application for 
+the years 2020 and 2030 Reference Case has been taken directly from the NREAP and the Energy Strategy of Ukraine, respectively. The 
+conventional fuel mix is assumed to remain identical to the 2010 situation in the entire period of 2010-2030.
+3 In the estimation of the TFEC in 2030, there are slight differences between the REmap analysis and the basic scenario of the Strategy:
+– Electricity: Generation in 2030 will exceed the level of 2010 by 50%. It will be caused mainly by increase of consumption in industry 
+(by 55%) and in services (by 100%) (CoM, 2014). The basic scenario of demand for electricity envisages a decrease of gross domestic 
+product (GDP) electricity intensity by approximately 40%. To reach this level it is necessary to achieve 20% of decrease of specific 
+consumption of electricity. This study assumes the same level of growth for electricity generation in the same period.
+– Heating: According to the basic scenario of the Strategy, total consumption of heat should grow up to 271 million Gcal in 2030 (1,134 PJ/
+yr), compared with 212 million Gcal in 2009. This represents a 28% growth between 2009 and 2030. Growth in the residential building 
+sector is 12%, from 146 million Gcal to 161 million Gcal. Growth in industry is from 38 million Gcal to 57 million Gcal. If 2008 is taken as 
+base year (56 million Gcal), this would, however, mean no growth in demand. In the commercial building sector, growth is from 28 million 
+Gcal to 53 million Gcal (UABio, 2013a). This study assumes that heating demand will follow the trends that are projected between 2015 
+and 2020. As a result, total demand for fuels in industry and buildings sectors for heating would increase from 1,264 PJ in 2010 to 1,425 
+PJ in 2030. This is similar to the magnitude of growth projected for the residential buildings between 2009 and 2030. Total district heat 
+demand would grow from 509 PJ to 590 PJ in the same period. These developments would imply a total growth of 14% in the same 
+period.
+– Transport: ln basic scenario of development of transport fleet, the total domestic demand for main light oil in 2030 will be about 17.4 
+million tonnes (of those petrol – 6.3 million tonnes, diesel fuel – 10.1 million tonnes, kerosene – 1.0 million tonnes). This is equivalent to 
+744 PJ per year liquid fuel use in 2030. This study assumes a lower growth in transport sector fuels to 560 PJ per year in 2030. According to the basic scenario of the Strategy, consumption of electricity in transport sector will reach 14 terawatt-hours per year (TWh/yr), 
+which is also assumed in the REmap study.
+– As a result of these developments, TFEC of Ukraine grows from 3.2 EJ in 2010 to 4.0 EJ in 2030 according to the REmap analysis. This 
+growth is also in line with the findings of a study by Podolets and Diachuk (2013) which estimates the growth in Ukraine’s TFEC for the 
+same time period based on the national TIMES-Ukraine model.
+4. REFERENCE CASEand cooling sectors will account for about 60% to 65% 
+of the Ukraine GFEC between 2009 and 2030, and 
+about 20% to 25% will be accounted for by the power 
+generation sector. The transport sector’s share will 
+be between 13% and 14% for the period. GFEC would 
+increase by 1.3% per year in the period 2009 and 2030.
+This is opposite to the trend which has been observed 
+in the past decade where Ukraine’s total demand for 
+energy is decreasing on average by 1% per year.
+The NREAP to 2020 was drafted by the State Agency 
+of Ukraine for Energy Efficiency and Energy Saving 
+(SAEE). This draft has been approved by the State 
+Committee in 2014 (CoM, 2014). As part of the Energy 
+Strategy of Ukraine, SAEE also provides the power 
+generation and the related capacities from renewable 
+sources for the year 2030 as well as the developments 
+in the heating and transport sectors by technology.
+According to the NREAP, renewable energy’s share in 
+the Ukraine GFEC needs to reach 11% by 2020, which 
+implies a total renewable energy use of 8,530 ktoe/yr 
+(357 PJ/yr). In 2030 estimated renewable energy use 
+would be 15,500 ktoe/yr (649 PJ/yr) in the business as 
+usual. That would represent 17.7% of the estimated GFEC 
+of 87,636 ktoe/yr. The GFEC of Ukraine would grow by 
+32% in the period between 2009 and 2030 whereas 
+total renewable energy use would jump by six-fold.
+Figure 2 shows the developments in power production 
+between 2009 and 2030. Total production will increase 
+by 48.1% in the entire period, from 189 TWh to 284 
+TWh. This is faster than the total growth of TFEC, 
+indicating the increasing importance of power in 
+Ukraine. Future additions in generation capacity are 
+expected primarily from coal, hydro, nuclear and other 
+renewables.
+According to Figure 3 the share of renewable energy 
+in the power sector is projected to nearly double, from 
+6.9% in 2010 to 11.4% in 2030, with increases across all 
+categories. For industry the share should jump from 
+0.2% to 13.3%, and in building from 6.8% to 12.3%. For 
+transport, the number would go from zero to 6.7%.
+Figure 4 shows the projections for renewable-energy 
+use in TFEC. Overall use is projected to increase from 
+87 PJ in 2009 to 535 PJ in 2030. Bioenergy continues 
+to dominate the mix, with its share expected to remain 
+between 67% and 84% in the 2009-2030 period. Hydro’s 
+portion will drop from 33% to 7% because of growth in 
+wind and solar. However in the power sector specifically 
+Figure 2: Power generation mix under the current policies, 2009-2030
+0
+50
+100
+150
+200
+250
+300
+2009 2020 Reference Case 2030
+P
+o
+wer
+g
+e
+n
+eratio
+n (T
+W
+h
+/yr)
+Coal Oil Natural gas Nuclear Hydro Biomass Wind Geothermal SolarFigure 4: Business as usual projected renewable energy mix, 2010-2030
+0
+200
+400
+600
+2009 2020 Reference Case 2030
+R
+ene
+wable
+energ
+y use in TFEC (PJ/yr)
+Hydro Wind Solar PV
+Geothermal (electricity) Solid biomass (electricity) Solar thermal
+Geothermal (heat) Solid biomass (heat) Heat pumps
+Bioethanol & biodiesel
+Figure 3: Projected development of renewable energy share under current policies, 2010-2030
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+16%
+18%
+2010 2020 2030
+Renewable energy share in TFEC
+Industry Buildings Transport Electricity Total
+Note: compared to other parts of this study, this figure shows the renewable energy share developments starting with 2010, not 2009.
+hydro and wind will dominate (70% of total renewable 
+power production), followed by biomass and solar PV.
+Biomass will be the main source for the heating and 
+transport sectors.Increasing the usage of renewable-energy sources and 
+alternative fuels counts as an important part of Ukraine’s 
+strategy to save on traditional fuel and energy resources 
+and to reduce the related environmental impacts. The 
+policy seeks to lower both supply and demand by 
+pursuing efficiencies. It will also diversify fuel sources, 
+therefore contributing to the energy independence of 
+the state. The Ukrainian government has taken important steps for transforming the country’s energy sector, 
+with the aim of increasing energy efficiency and improving energy security.
+In September 2010, the Protocol on Accession of Ukraine 
+to the Energy Community Treaty was signed and in 2011 
+Ukraine became the full member of the Energy Community, which means it is expected to participate in 
+integrating its energy sector with those of EU countries.
+Directives on renewable energy sources set mandatory 
+national goals, offer investment guarantees and encourage to development of advanced technologies and innovation. Ukraine assumed the obligation to source 11% 
+level of energy from renewable sources by 2020.
+Participation in the Energy Community gives Ukraine 
+opportunities to enhance competition in the domestic 
+market, learn about and adopt European technical 
+standards and transparent regulations and improve its 
+investment climate. It also offers deeper integration of 
+the Ukrainian energy sector with EU countries, enhancing its own energy security. Membership also increases 
+access to international loans and technical assistance. In 
+response to Ukraine’s Energy Community obligations, 
+Ukraine drafted the NREAP for the period until 2020 
+(SAEE, 2012). The NREAP has been approved by the 
+State Committee in 2014 (CoM, 2014).
+In 2010, the Ukrainian government released the Programme of Economic Reforms for 2010-2014. This covers energy, among other sectors of the economy. The 
+programme addresses key energy issues and the need 
+for reform in various areas. The programme also to attract investments and move to a tariff regime that covers all production costs. The Energy Strategy of Ukraine 
+is key in realising these reforms. In the 2006 edition 
+of the Energy Strategy of Ukraine, it was mentioned 
+that renewable energy would be essential to improve 
+Ukraine’s energy sector. The strategy requires periodic 
+adjustments, because it is a long-term forecasting document, and in 2011 the Ukrainian government decided to 
+draft a new edition. The revised version was released 
+in 2012, and it was subsequently approved in July 2013 
+(IEA, 2012b; SAEE, 2015).
+A number of institutions have responsibility regarding 
+Ukraine’s energy policy, which is coordinated by the 
+Cabinet of Ministers (CoM), which also has oversight of 
+state energy companies. For example, the Ministry of 
+Energy and Coal is responsible for power sector planning and energy supply policies. Ministry of Agriculture 
+is responsible for liquid biofuels (IEA, 2012b; SAEE, 
+2015).
+As a transit country to Europe for both natural gas 
+and crude oil, Ukraine plays an important role in the 
+energy security of European Union as well. Around 15% 
+of Europe’s total gas supply is met through the Urengoy-Pomary-Uzhgorod (Brotherhood) pipeline (running through Ukraine and entering Slovakia). A total of 
+83 billion m3 natural gas entered Europe in 2013 from 
+this pipeline (IEA, 2014b).
+Overview of institutional, regulatory 
+and legal frameworks for renewable 
+energy
+The following bodies have briefs that directly or indirectly impact the energy sectors of Ukraine:
+The Ministry of Regional Development, Construction 
+and Housing is the main body in charge of developing 
+and implementing national regional policy, with areas of 
+responsibility including:
+l energy efficiency;
+l renewable energy and alternative fuels;
+l field surveying and mapping activities;
+l land management;
+l land protection (except for the use and protection of agricultural land);
+5. CURRENT POLICY FRAMEWORKl geodesy, cartography and cadastre services 
+through its State Service of Geodesy, Cartography and Cadastre (SSGCC).
+The State Agency of Ukraine for Energy Efficiency 
+and Energy Saving (SAEE) in accordance with its tasks 
+shall, in particular:
+l create the system of monitoring of efficient usage of fuel and energy resources, renewable 
+energy sources and alternative fuels;
+l confirm, under the established procedure, the 
+fact that fuel is an alternative;
+l conduct qualification of co-generation installations;
+l develop state norms, rules and standards in terms 
+of efficient usage of fuel and energy resources, 
+energy saving, renewable energy sources and 
+alternative fuels, it can act as a client of scientific 
+and technical studies as well as design work;
+l draft state target programmes, approve sectoral 
+and regional programmes in terms of efficient usage of fuel and energy resources, energy saving, 
+renewable energy sources and alternative fuels, 
+carry out control of fulfilment of state target programmes in this area.
+The National Commission for State Energy and Public 
+Utilities Regulation (NCSEPUR) is a state collective 
+body that is subordinate to the President of Ukraine and 
+reports to Ukraine’s parliament, the Verkhovna Rada.
+Until 2014 this body was known as the National Electricity Regulatory Commission (NERC). Its main areas 
+of oversight are:
+l regulation of activity of entities of natural monopolies and business entities carrying out activity in the areas of electricity, including power 
+plants of all types;
+l supervising natural gas markets, including upstream assets such as associated-gas fields, coalbed methane and shale gas (hereinafter referred 
+to as the natural gas);
+l oil and oil products;
+l pricing and tariff policy for energy, including 
+GT;
+l as recycling and disposal of waste.
+The Ministry of Energy and Coal Industry of Ukraine, 
+through the State Enterprise Ukrenergo, provides technical conditions and concluding agreements on the 
+connection of renewable energy facilities to power 
+networks.
+The Ministry of Ecology and Natural Resources of 
+Ukraine reviews ecological concerns and approves 
+construction plans for renewable energy facilities.
+These laws, codes and directives, resolutions and 
+regulatory frameworks also shape the energy sectors 
+of Ukraine:
+1. Law of Ukraine “On Alternative Fuels”: specifies 
+legal, social, economic, ecological and institutional principles for generation and use of alternative fuels as well 
+as incentives to increase use.
+2. Law of Ukraine “On Alternative Energy Sources”:
+specifies legal, economic, ecological and institutional 
+principles for using alternative energy sources and promotes increased use.
+3. Law of Ukraine “On Combined Generation of Thermal Energy and Electricity (Cogeneration) and Usage of Waste Potential”: specifies legal principles for 
+improving the efficiency of fuel use in the processes of 
+energy generation or other technological processes; for 
+developing and applying electricity and thermal energy 
+combined-generation technologies; for increasing reliability and security of power supply at a regional level, 
+and for attracting investment to construct cogeneration 
+installations.
+4. Law of Ukraine “On Electricity Sector”: specifies 
+legal, economic and institutional principles and 
+relationships for generating, transmitting, supplying and 
+using energy; addresses energy security, competition 
+and protects the consumers and employees of the 
+industry.
+5. Tax Code of Ukraine: specifies peculiarities of taxation and the granting of privileges to business entities 
+that develop, generate, introduce and use renewableenergy sources. At the time of this report (February 
+2015) all tax incentives for facilities in renewable power 
+have been cancelled, save for these exceptions:
+l according to subparagraph 213.2.8, paragraph 
+213.2, Article 2013 of Ukrainian Tax Code, electricity generated by qualified CHP units and from 
+renewables is exempt from excise dutyl The following operations are exempt from VAT 
+tax until January 1st, 2019: under Article Seven of 
+the Law of Ukraine ”About Alternative Fuels”
+— The supply of machinery, equipment and facilities
+— The production and reconstruction of vehicles 
+not available currently in Ukraine that would 
+consume biofuels, including self-propelled 
+agricultural machines
+6. Customs Code of Ukraine: sets rules for importing 
+equipment, machinery and materials for renewableenergy projects.
+7. Resolution of the Cabinet of Ministers of Ukraine 
+“On Adoption of the State Target Economic Programme for Energy Efficiency and Development of 
+Generation of Fuels from Renewable Energy Sources 
+and Alternative Fuels for 2010-2015”: outlines conditions to decrease the level of energy use as a percentage of GDP from 2010 to 2015 by 4% annually, for a total 
+of 20%, and to increase the share of renewable energy 
+sources and alternative fuels in Ukraine’s energy mix.
+8. Instruction of the Cabinet of Ministers of Ukraine 
+“On Approval of Energy Strategy of Ukraine for the 
+Period until 2030”: this long-term planning document 
+was most-recently updated and approved on 24 July 
+2013. Its goal is to increase the share of renewables in 
+the country’s energy mix as a way to improve energy 
+security and reduce environmental impacts associated 
+with energy consumption. Specific objectives to reach 
+that goal include:
+l determining strategies and creating the conditions for a safe, reliable and sustainable energy 
+sector that is developed to the greatest extent 
+possible;
+l ensuring the energy security of the state;
+l decreasing the technogenic burden on Ukraine’s 
+environment and ensuring civil protection in the 
+area of fuel security;
+l decreasing generation losses and using energy 
+products through efficient consumption, introducing energy-saving technologies and equipment, streamlining the structure of public generation and reducing reliance on energy-intensive 
+technologies;
+l integrating the Unified Power System of Ukraine 
+with the European Power Network and progressively increasing electricity imports, which would 
+strengthen the position of Ukraine as a transit 
+country for oil and gas.
+9. Instruction of the Cabinet of Ministers of Ukraine 
+of 03.09.2014 # 791-r “Plan of measures to implement the Directive 2009/28/EC of 23 April 2009 on 
+the promotion of the use of energy from renewable 
+sources and amending and subsequently repealing 
+Directives 2001/77/EC and 2003/30/EC”.
+10. Instruction of the Cabinet of Ministers of Ukraine 
+of 01.10.2014 # 902-r “On National Renewable Energy 
+Action Plan for the period until 2020”.
+11. Instruction of the Cabinet of Ministers of Ukraine of 
+16.10.2014 # 1014-r “On approving the plan of shortand medium-term measures to reduce natural gas 
+consumption for the period until 2017”.
+The system of respective financial preferences for energy conservation and renewable-energy sources was 
+created in Ukraine and explained in the tax and customs 
+codes and in the Law of Ukraine “On Electricity Sector”, 
+namely:
+l introducing the GT;
+l decreasing land-tax rates for renewable energy 
+enterprises;
+l tax exemptions for:
+— profit from the generating of electricity from 
+renewable sources;
+— profit from the sale of biofuel but its producers;
+— profit from CHP facilities or the generation of 
+thermal energy using biological fuels;
+— profit from manufacturing machinery and 
+equipment required to build or rebuild vehicles powered by biological fuels;
+— value-added activities related to importing 
+of certain types of renewable-energy equipment;
+— exemption from import duties for certain 
+types of renewable-energy equipment;
+The Law of Ukraine “on Electricity Sector” stipulates 
+some exceptions to which the GT cannot be applied.
+Amongst alternative energy sources these are blastfurnace and coke gases. In the hydro sector large-scale 
+plans do not qualify. For electricity producers using re-Table 6: Green tariff coefficients for facilities commissioned
+Until 
+31.03.2013 
+inclusive
+From 
+01.04.2013 
+until 
+31.12.2014
+From 
+01.01.2015 
+until 
+31.12.2019
+From 
+01.01.2020 
+until 
+31.12.2024
+From 
+01.01.2025 
+until 
+31.12.2029
+Wind energy <600 kW 1.20 1.20 1.08 0.96 0.84
+Wind energy 600 – 2 000 
+kW 1.40 1.40 1.26 1.12 0.98
+Wind energy >2 000 kW 2.10 2.10 1.89 1.68 1.47
+Biomass 2.30 2.30 2.07 1.84 1.61
+Biogas 2.30 2.30 2.07 1.84 1.61
+Ground mounted solar 4.80 3.50 3.15 2.80 2.45
+Rooftop solar >100 kW 4.60 3.60 3.24 2.88 2.52
+Rooftop solar <100 kW 4.40 3.70 3.33 2.96 2.59
+Micro hydro power 1.20 2.00 1.80 1.60 1.40
+Mini hydro power 1.20 1.60 1.44 1.28 1.12
+Small hydro power 1.20 1.20 1.08 0.96 0.84
+Table 7: Actions related to renewable energy to reduce natural gas consumption of Ukraine
+Regulatory legal act of the Government Key concept Progress stage
+Actions already implemented by the Government
+On stimulation of the natural gas substitution in the 
+area of heat supply (for population) Investment attractive tariff Approved and promulgated
+Determined compensation procedure and allocated 
+funds for the stimulation mechanism of the natural gas 
+replacement in the area of heat supply (for population)
+Determined procedure 
+and allocated 118 million 
+UAH
+Adopted at the Government session
+On the action plan approval of implementation of 
+the European Parliament and the Council Directive 2009/28/EC 
+European approaches to 
+the alternative types of 
+fuels development
+Approved and promulgated
+On making amendments to the State Target Economic 
+Program for energy efficiency and development of the 
+energy production from renewable energy sources and 
+alternative fuels for 2010-2015
+Financing activities for the 
+natural gas substitution in 
+the amount of 493 million 
+UAH 
+Adopted at the Government session
+On stimulation of natural gas substitution in the heat 
+energy production for the public sector institutions and 
+organisations
+Investment attractive 
+tariff setting for the public 
+sector conversion to the 
+alternative types of fuel
+Adopted at
+the Government session, promulgated
+The nearest future initiatives
+Plan of short-and medium-term actions to reduce 
+natural gas consumption, including its substitution by 
+energy supplies, obtained from renewable energy and 
+alternative types of fuel for the heat supply enterprises, 
+industrial consumers, state-financed organisations and 
+population by 2017
+Combination of all urgent 
+legislative initiatives on the 
+natural gas replacement 
+Approved by the State 
+Committee and is being 
+prepared for the Government consideration
+The procedure of funds use to stimulate economic entities to modernise boiler houses, including their conversion to alternative types of fuel
+Premium to investors for 
+the gas substitution in 
+heat production in housing 
+and communal services 
+and public sector 
+(443 million UAH)
+Is being prepared for 
+the State Committee 
+consideration
+Source: Adapted from Savchuk (2014)newables, the GT is set at the retail tariff for consumers 
+of second class of voltage as of January 2009 and then 
+multiplied by the GT coefficient. After 2014, 2019 and 
+2024 these will decrease by 10%, 20% and 30% of their 
+basic values respectively (Table 6).
+For electricity produced using alternative energy sources (except for blast-furnace and coke gases), and construction of which started after 1 January 2012, GT is applied only when requirements for local content are met.
+Local-content thresholds do not apply to the generating 
+installations of private households and micro, mini and 
+small hydro power plants, and therefore qualify for 
+the GT regardless of local content.
+Table six outlines the actions Ukraine has taken to promote energy efficiency and reduce its natural gas usage 
+by 50% within the next decade (Savchuk, 2014).6. RENEWABLES POTENTIAL
+structure of energy supply, however. Within this sector small rivers in Ukraine, mainly in western regions, 
+comprise almost 28% of total SHP potential from rivers.
+Micro, mini and small hydro power potential are found 
+in all regions of western Ukraine but in particular in the 
+provinces of Zakarpatska and Chernivetska.
+SHP can help save fuel and energy resources and contribute to the decentralisation of the energy system.
+That would address energy-supply issues in remote 
+areas, contributing to energy security in the process.
+Ukraine has sufficient scientific and technical potential 
+and considerable experience needed to address challenges in the development of SHP, as turbines and other 
+equipment can be designed and developed by the domestic industry sector (CoM, 2014; SAEE, 2015).
+Solar power
+The average annual amount of total energy from solar irradiation in Ukraine ranges from 1,070 kilowatt 
+hours (kWh)/m2 in northern regions to as much as 
+1,400  kWh/m2 to the south, and higher in the Crimea 
+peninsula. Solar PV equipment can be efficiently operated throughout the year but the months of peak effiAs of February 2015 the annual technically achievable energy potential of renewable energy sources of 
+Ukraine was 68.6 million tonnes of oil equivalent (Mtoe) 
+per year. This is equivalent to 98 million tonnes of fuel 
+equivalent. This would be sufficient to replace approximately half of the total energy consumption in Ukraine 
+today (Table 8) (SAEE, 2015).
+Wind power
+Ukraine’s total wind potential is between 16 GW and 24 
+GW (DTEK, n.d.; WWEA, 2012), with 16 GW considered 
+economically feasible. The most promising regions are 
+the southern and south-western regions, where average 
+annual wind speed at the height of 80 meters exceeds 
+7.5 meters per second (m/s) (CoM, 2014; SAEE, 2015).
+Hydro power
+Technically feasible potential is 21.5 TWh annually (Hydropower & Dams 2014, more than double the 10.4 TWh 
+generated in 2013. Annual technical achievable potential 
+for SHP is estimated at 20.1 TWh. The current SHP capacity is 77 MW. Because it is a minor element of the 
+total energy balance (0.2%), SHP cannot influence the 
+Table 8: Potential of renewable sources in Ukraine
+Annual technically achievable energy potential
+(TWh/yr) (Mtoe/yr)
+Wind 60 15
+Solar 38.2 4.2
+ Electricity 5.7 1.4
+ Thermal 32.5 2.8
+Hydro 28.9 7
+ Small 20.1 4.9
+ Large 8.6 2.1
+Bioenergy 178 21.7
+ Electricity 27 7.2
+ Thermal 151 14.5
+Geothermal 98.6 8.4
+Energy of environment 146.3 12.6
+Source: SAEE (2015)ciency are from April to October in southern regions and 
+May to September in northern ones. Based on various 
+studies, there is a 4 GW reasonable potential in Ukraine 
+for solar power.
+The transformation of solar energy into electricity in 
+Ukraine should be mainly through the use of solar PV 
+devices. The raw materials and the industrial and intellectual capacity to manufacture them locally would 
+meet domestic demand and also open up export opportunities (CoM, 2014; SAEE, 2015).
+Solar thermal
+Flat plate collectors that can utilize both the direct and 
+dispersed solar radiation, are the most suitable option 
+for Ukraine, in particular in the north parts. In contrast, 
+concentrating solar collectors would be effective in the 
+southern parts. There is an estimated potential of 20-22 
+million m2 (Table 9).
+Biomass
+Ukraine has high potential to expand biomass use for 
+energy purposes, primarily for heating. The country has 
+abundant agricultural and forestry waste, and this is a 
+key resource for the development of biomass-based 
+heat and power generation capacity. There is 42.8 million hectares of land that is equivalent to 71% of the 
+country’s total area. 32.5 million hectares of the total 
+agricultural land is arable. Furthermore, it has one of 
+the most fertile soils in the world, the so-called “chernozem”. This helps to maintain sufficient agricultural 
+productivity rates in Ukraine, despite the low use of fertilizers (ProMarketing Ukraine, 2013).
+According to the estimates from SAEE economically 
+feasible bioenergy potential exceeds 800 PJ/yr – 
+equivalent to a quarter of Ukraine’s TFEC. This supply 
+potential consists half from agricultural waste and 
+woody biomass and half from energy crops and biogas 
+(Table 10).
+The resource potential of woody biomass in Ukraine 
+amounts to 4 Mt annually. It includes sawmill waste, 
+wood-cutting waste (branches, crowns), firewood and 
+some technical timber, which is currently exported. It is 
+unlikely for this structure to change significantly in the 
+near future. While there is additional forest potential, 
+road transportation of the lumber is a limiting factor 
+for heating and power generation. More than 10 megatonnes (Mt) of surplus straw remains in farmers’ fields 
+every year, and collecting it for use is a challenge. Most 
+agricultural enterprises are not able to gather, bundle 
+and adequately store straw.
+Wood residues are mostly available in the northern 
+and western parts of Ukraine. In comparison, primary 
+agricultural waste is available in the centre and eastern 
+parts whilst, energy crops can be grown in the eastern 
+parts of Ukraine (van der Hilst et al., 2013). Both wood 
+biomass and agricultural residues can replace aging 
+power generation in the eastern, northern and southern 
+parts of Ukraine (Black & Veatech, 2011).
+IRENA has been preparing biomass-potential studies 
+with an outlook to the year 2030 for each of the REmap 
+countries (IRENA, 2014b). In Ukraine the potential is 
+estimated to be between 1,115 PJ and 1,780 PJ. The high 
+end of this range is nearly double the supply potential 
+in 2013. Agricultural residues and waste (biogas) would 
+account for 53% to 58% of this potential, and wood residues and waste about 12%. The share of energy crops 
+Table 9: Breakdown of solar thermal potential
+Area (million m2) Share (%)
+Water heating in technological processes 9 15
+Drying and air conditioning 2 10
+Hot water supply 12.5 60
+Solar heating and supply 2 10
+Passive solar heating 1 5and fuel wood would range from 19% to 31% and 0% to 
+15% respectively.
+There is a rapid growth in energy crops expected in 
+Ukraine, and by 2015-2020 output could reach the level 
+of output of straw and overtake it after 2020. Energy 
+crops are planned for cultivation on non-agricultural 
+lands such as river valleys, reclaimed municipal solid 
+waste (MSW) areas, mine sites, etc. Most available plant 
+resources for energy biomass production are expected 
+to be commercialised by 2020. Organic matter recycling 
+for biogas, heat and power production is expected to 
+continue growing, but there is unlikely to be significant 
+expansion in landfill gas.
+Table 10: Biomass energy potential in Ukraine, 2013
+Biomass type Technical 
+potential 
+ Share available for 
+energy production (%)
+Economic potential 
+(PJ)
+Cereal crops straw 31 Mt 30 131
+Rape straw 4 Mt 40 25
+Maize processing waste 
+(footstalks, leaves, cobs) 40 Mt 40 129
+Sunflower wastes (footstalks, heads) 21 Mt 40 50
+Agricultural secondary wastes 
+(sugar-beet pulp, sunflower husk, rice hush) 7 Mt 75 33
+Woody biomass 4 Mt 90 52
+Energy crops – willow, poplar, miscanthus, 
+acacia, alder 11.5 Mt 90 184
+Bioethanol – – 30
+Biodiesel – – 14
+Biogas from manure, food residue, sugar waste 1.6 billion m3 50 29
+Landfill gas 0.6 billion m3 34 8
+Sewage gas 1.0 billion m3 23 8
+Energy crops – biogas from corn silage 3.3 billion m3 90 108
+Peat – – 12
+TOTAL – – 813
+Source: SAEE (2015)
+Table 11: Biomass supply potential in Ukraine, 2030
+Feedstock type Supply potential in 2030 (PJ/yr) Supply costs in 2030 (PJ/yr)
+Energy crops 345 8.9
+Harvesting residue 250-400 4.9
+Processing residue 210-365 2.7
+Biogas 185 2.7
+Fuel wood 0-270 7.9
+Wood residue 75-160 11.5
+Wood waste 50-55 11.5
+Total 1 115-1 780 6.1-6.3
+Source: IRENA (2014b)Geothermal
+Ukraine has a sufficient number of geothermal deposits 
+with high temperature potential, between 120 degrees 
+Celsius (°C) and 180°C. These temperature are sufficient 
+for power generation.
+Based on various estimates the economically viable 
+energy resource of thermal waters in Ukraine is about 
+8.4 Mtoe/yr. Geothermal water heating is already in effect 
+in the Crimea peninsula, where 11 geothermal-circulation 
+systems are operating. These systems comply with modern technologies for extraction of geothermal heat, and 
+plants are operating at both pilot and industrial stages.
+Large reserves of thermal waters are found also in 
+the provinces of Chernihivska, Poltavska, Kharkivska, 
+Luhanska and Sumska. Hundreds of wells containing 
+thermal water are currently mothballed and could be 
+renewed and used for geothermal heat.This section explains the REmap Options, which are 
+renewable sources that can be used in addition to those 
+in the Reference Case. Table 12 contrasts renewable energy use in 2009, the base year of the Ukraine NREAP, 
+with what is expected in 2030. Results for the year 2030 
+are provided separately for the Reference Case and for 
+REmap 2030.
+With all REmap Options implemented total renewable 
+energy use in Ukraine’s TFEC would reach 872 PJ. Onefifth of this would be for renewable power consumption 
+(188 PJ) and four-fifths for renewable gas, heat and 
+fuels (684 PJ). Total renewable energy use in Ukraine’s 
+TFEC would reach 21.8% in REmap 2030, compared 
+to 3.0% in 2009 and 13.2% in 2030 Reference Case.
+Installed renewable-energy capacity would increase 
+from 13.2 GW in the Reference Case to 29.1 GW, a difference of 15.9 GW. The increase comes from wind (an 
+additional 9 GW), solar PV (5.5 GW) and biomass power 
+(1.4 GW). All of the additional biomass power capacity 
+in REmap 2030 is assumed to be used for industrial 
+CHP. No capacity additions are assumed for hydro or for 
+geothermal power.
+Total installed wind power capacity with REmap Options would be about 12 GW, requiring 380 MW of new 
+capacity installation annually between 2009 and 2030.
+That is a pace similar to what has already been established in recent years in Ukraine. Total installed solar 
+PV capacity would climb to 8 GW which would require 
+570 MW year of new capacity every year in that same 
+period. This annual installation rate would be higher 
+than the pace in 2012 and 2013, of 430 MW per year.
+Total biomass power capacity would reach 3 GW with 
+the REmap Options, from a level of about 1.6 GW. All of 
+installed capacity would be used for CHP. About 1.4 GW 
+of the total CHP capacity is used by the industry sector, 
+with 1.6 GWfor district heat CHP.
+As a result of these additions total renewable energy 
+power generation would increase to 70.9 TWh/yr in 
+comparison with the Reference Case. This is equivalent 
+to a 25% share for renewable energy in Ukraine’s power 
+generation sector, and more than four-fold increase 
+compared to the 2009 level.
+There would be significant new capacity in the heating 
+and transport sectors as well. The largest increase would 
+be from biomass. Total final biomass demand for transport fuels and for heating, including district heat, would 
+jump by 45% to 761 PJ/yr with the REmap Options, 
+compared with 522 PJ in the Reference Case.
+Other sources for heat would increase as well for the 
+residential, industrial and district-heat sectors. Biomass’ 
+share in the fuel mix for the district heat sector reaches 
+21%, from a previous 17% in the Reference Case 2030. In 
+the building sector the share would also be 22% (excluding the use of electricity and district heat from biomass 
+and other renewable energy sources). In the residential 
+sector, total solid biomass use would be about 134 PJ 
+per year, and biogas use about 27 PJ per year. This is 
+equivalent to 8 Mt/yr of solid biomass and 3.3 billion m3
+biogas use by 2030. Solid biomass use in the industry 
+sector is expected to be higher. For heat generation in 
+biomass-fired CHP and heat-only boilers, a total of 92 PJ 
+and 160 PJ biomass, respectively would be required. Biogas demand is lower, estimated at 10 PJ per year with 
+the REmap Options implemented.
+Total installed capacity for solar thermal could increase 
+to 19 million m2 (13 GW). About 2 million m2 would be 
+in the industrial sector (about 1.8 MW capacity) and the 
+remaining 17 million m2 in the residential sector (11.5 GW 
+capacity). Solar thermal would account for about 3% of 
+Ukraine’s building sector TFEC.
+The Reference Case sees significant growth in electrification for heating with heat pumps, and partly through 
+other technologies such as electric boilers and resistance heating. With REmap Options used no further 
+electrification technology options are needed.
+Total liquid biofuel use in the transport sector would 
+reach 63 PJ if Remap Options are used. About a quarter of total consumption would come from advanced 
+biofuels produced from non-food crops. The remainder 
+would come from food-based crops. Total demand for 
+7. REMAP OPTIONSTable 12: Renewable energy use in 2010, Reference Case 2030 and REmap 2030
+1. Electricity generation Unit 2009
+Reference 
+Case REmap 2030
+20301
+ Installed Capacity 
+Renewable energy GW 4.6 13.2 29.1
+Hydro GW 4.5 6.0 6.0
+Wind onshore GW 0.1 3.0 12.0
+Biomass and biogas2 GW <0.01 1.6 3.0
+Solar PV utility scale GW 2.5 8.0
+Geothermal GW 0.02 0.02
+Electricity Generation 
+Renewable energy TWh/yr 11.6 32.1 70.9
+Hydro TWh/yr 11.4 14.5 14.5
+Wind onshore TWh/yr 0.04 7.8 34.7
+Biomass and biogas TWh/yr 0.14 7.0 13.2
+Solar PV utility scale TWh/yr 0 2.63 8.4
+Geothermal TWh/yr 0 0.1 0.1
+2. Total biogas supply
+Total PJ/yr 0 44 61
+3. Heat generation
+Solar thermal industry3 PJ/yr 5
+Solar water heater3 PJ/yr 0 15 36
+Geothermal energy for heating4 PJ/yr 0 4 10
+Heat pumps PJ/yr 2 50 50
+Biomass district heating generation5,8 PJ/yr 11 116 137
+Total PJ/yr 13 185 239
+4. Biofuels
+Solid biomass & biogas for buildings6,8 PJ/yr 47 126 186
+Solid biomass & biogas for industry7,8 PJ/yr 2 167 263
+Liquid biofuels transport9 PJ/yr 0 37 63
+Total PJ/yr 49 3 330 512
+5. Ratio of electricity generation 
+Gross power generation TWh/yr 189 284 284
+Generation ratio of renewables % 6.2% 11.3% 25.0%
+6. Total final energy consumption 
+TFEC PJ/yr 2 943 4 067 4 008
+Renewable electricity PJ/yr 29 85 188
+Renewable gas, heat and fuel PJ/yr 58 450 684
+All renewable energy PJ/yr 87 535 872
+Modern renewable energy in TFEC % 3.0% 13.2% 21.8%
+1 NREAP 2020 is the basis for the renewable energy use to 2020 in the Reference Case. Estimates for 2030 power capacity and generation 
+as well as for growth in the heating and transport sectors are based on SAEE estimates. 
+2 All biomass generation according to NREAP 2020 is assumed to be CHP. It is assumed that this trend will continue to 2030 as well in the 
+Reference Case. In the Reference Case all biomass-CHP plants are assumed to be used for generating power and district heat, hence the 
+deployment of industrial biomass-CHP is excluded from the Reference Case. To estimate the related district-heat generation, a power-toheat ratio of 0.3 and 0.75 are assumed for solid biomass- and biogas-fired CHPs, respectively (UABio, 2013b). Total power generation in 
+2030 is slightly higher than the estimates of UABio (2013b) of 12 TWh per year (including solid biomass and biogas, but excluding co-firing). 
+UABio (2013b) estimates a total installed CHP capacity of 1.6 GW compared to 3 GW in this study for the year 2030. The difference in total 
+capacity is explained by the higher potential estimated for industrial CHP (see notes 6 to 8 of this table) and the lower capacity factors 
+used in REmap 2030 (50% compared to 60-70%).
+3 Solar thermal heating in the industry and building sectors is assumed to grow at an annual installation rate of about 600 MWth per year 
+between 2009 and 2030, close to the recent trends that are seen in Australia, Germany and the United States (AEE-INTEC, 2014).conventional bioethanol production would use about 
+one-third of Ukraine’s total energy-crop supply potential.
+Table 13 shows renewable-energy developments by sector between 2010 and 2030 as well as total renewable 
+energy use by sector with REmap Options used. The 
+building and industry sectors would have the largest 
+renewable energy share, at about 22-27% not including renewable electricity and district heat uses. When 
+these are accounted for the sectors’ renewable energy 
+share is estimated at 22.2% and 25.0%, respectively. The 
+transport sector’s renewable-energy share would rise 
+to 11.3% from nearly zero in 2010. The industry sector 
+4 For industrial-process heating a modest capacity increase growth in REmap 2030 is assumed of 6 PJ (140 ktoe/yr), compared with the 
+economic potential of about 350 PJ per year (see Section 6). 
+5 Compared with biomass-fired CHP district heat systems (coupled with renewable power generation), growth in heat–only district heat 
+systems in the Reference Case is rather modest. They accounted for 17% of the total district heat generation as of February 2015. A potential 
+fifty percent higher than the Reference Case is assumed for heat alone systems, that would take their share in total biomass-based district 
+heat generation to 50 percent. Total installed heat-only district heat systems in REmap 2030 reaches 2.5 GW as opposed to UABio (2013a,c) 
+estimates of about 4 GW. Instead, a larger capacity of heat-only systems are estimated for the building and industry sectors in REmap 2030.
+6 NREAP 2020 indicates the use of renewables for heating in households separately. All capacity was assumed to be solid biomass use in 
+stand-alone boilers. In REmap 2030 an additional biomass potential of 60 PJ was assumed for buildings, adding 5 PJ in the commercial 
+sector, 38 PJ of solid biomass for households and 17 PJ of biogas for households. Together with deployment in industry, these additions 
+would increase the annual rate of biomass capacity implementation for end-use sectors by 50% between 2009 and 2030. These estimates 
+are in line with SAEE’s projections to 2035 if policies were to remain the same as they currently are. 
+7 All additional solid biomass-based power generation capacity in REmap 2030 is assumed to be industrial CHP, a technology which sees no 
+growth in the Reference Case. This adds about 90 PJ biomass use to the industry sector to co-generate heat. An additional potential of 4 
+PJ is assumed for direct heat and steam generation.
+8 Total heating capacity in REmap 2030 reaches 32.2 GW (6.9 GW for district heating, 13.6 GW for the residential sector, and 11.7 GW for industrial and commercial sectors). This total can be disaggregated to 9 GW CHP (thermal capacity) and 23.2 GW heat-only systems. REmap 2030 
+estimates are double the capacity estimated by the UABio (2013a,c) for 2030 (17.7 GW). There are a number of reasons for the differences.
+Total industrial CHP capacity is 4.7 GW in REmap 2030 compared to 1.5 GW according to UABio (2013a,c). Total heat-only industrial heat 
+generation capacity is 7 GW in REmap 2030 compared to 1.5 GW according to UABio (2013a,c). This study assumes a quarter of all low and 
+medium temperature heat generation in the industrial sector of Ukraine would be from biomass-fired industrial CHPs (92 PJ). It further assumes about 25% of total clinker production and 5% of iron/steel production heat demand to be supplied with biomass and waste (36 PJ) 
+(both high temperature heat applications). The remainder (124 PJ) is consumed to generate process heat in (steam and direct heat) boilers 
+for varying temperature levels that represents about 20% of all low and medium temperature process heat demand in Ukraine’s industry.
+Total residential heat generation capacity in REmap 2030 is 13.6 GW compared to 5.1 GW in UABio (2013a,c). The difference is to large extent 
+explained by the lower capacity factor used in REmap 2030 compared to UABio (2013a,c) (30% versus 45%).
+Total district heat generation capacity in REmap 2030 is 6.9 GW compared to 9.7 GW in UABio (2013a,c). These are estimated assuming 
+50% capacity factor for CHP in REmap 2030, compared to 90% in UABio (2013a,c). When REmap 2030 capacity factor is used, the UABio 
+(2013a,c) total capacity would be even higher at 13.9 GW.
+For biomass-based heating, REmap 2030 assumes the use of more decentralised heat generation in the industry and residential sectors as 
+opposed to the UABio (2013a,c) study which assumes more centralised district heat generation.
+9 In the Reference Case, ethanol and biodiesel represent about 15% and 6% of the total gasoline and diesel volumes respectively. Additions in 
+REmap 2030 take ethanol’s share to 19% (1.7 billion litres) and that of diesel to more than 20% (0.8 billion litres). The estimates for REmap 
+2030 are slightly higher than what is envisioned for Ukraine by 2035 according to its Reference Case, where ethanol is at 1.5 billion litres, 
+and biodiesel at 0.63 billion litres.
+Table 13: Renewable energy share and total renewable energy use by sectors, 2010-2030
+Renewable energy shares Total RE use in 
+2010 Reference Case 2030 REmap 2030 REmap 2030 (PJ/yr)
+Industry Excl. electricity & DH 0.2% 13.3% 21.8% 414 Incl. electricity and DH 1.5% 13.4% 22.2%
+Buildings Excl. electricity & DH 6.8% 12.3% 27.1% 374 Incl. electricity and DH 5.4% 16.1% 25.0%
+Transport Excl. electricity 0% 6.7% 11.3% 83 Incl. electricity 0.5% 7.2% 12.8%
+Power generation 6.9% 11.3% 25.0% 255
+District heat generation 1.8% 16.9% 17.7% 137
+TFEC Excl. electricity & DH 2.7% 13.2% 21.4% 872 Incl. electricity and DH 3.3% 13.2% 21.8%Figure 5: Renewable energy use in TFEC, 2010-2030
+0
+200
+400
+600
+800
+1000
+2009 Reference Case 2030 REmap 2030
+R
+e
+n
+e
+w
+a
+ble
+e
+n
+erg
+y
+use in
+T
+F
+E
+C (PJ
+/yr)
+Hydro Wind Solar PV
+Geothermal (electricity) Solid biomass (electricity) Biogas
+Solar thermal Geothermal (heat) Solid biomass (heat)
+Heat pumps Bioethanol & biodiesel
+Power
+generation
+Heating
+Transport 7%
+20%
+73%
+would account for about half of the total renewable energy use in Ukraine’s TFEC, followed by buildings (43%) 
+and transport (10%).
+In terms of resource use, biomass would be the most 
+important source of renewables in Ukraine, with a total share of 76% of the total renewable energy use in 
+REmap 2030 (see Figure 5). Solar and wind would account for 7% and 10%, respectively. The share of hydro 
+would drop to 4% by 2030, compared with 32% in 2009, 
+because of the substantial growth in all other renewable 
+energy sources in the 2009-2030 period.
+Total primary biomass demand would be 820 PJ/yr in 
+REmap 2030 (Figure 6). That suggests that 45% to 75% 
+of domestic potential will be utilised. Domestic potential 
+is between 1,100 PJ and 1,800 PJ. Almost 70% would be 
+supplied from two sources: agricultural residues (360 
+PJ) and from wood and wood residues (200 PJ).
+The heating sector would account for 77% of total biomass demand in 2030, with the balance coming from 
+the transport sector (15%) and power generation (8%).
+About 60% of all biomass use for heating would be a 
+part of industrial and agricultural processes, with the 
+remainder for buildings and district heating.
+Total biogas demand would be 61 PJ, compared to 
+Ukraine’s estimated supply potential of about 185 PJ per 
+year in 2030.
+Costs of renewables in Ukraine
+Table 14 provides an overview of the substitution costs 
+by sector for the business and government perspectives 
+for the year 2030. The business perspective is based on 
+a discount rate of 10% and takes into account energy tax 
+and subsidies in energy prices in Ukraine. In comparison, 
+the government perspective also uses a 10% discount 
+rate but is based on international and regional energy 
+prices that exclude tax and subsidies.
+The cost of REmap Options are more expensive from 
+the perspective of business than from government. For 
+business the most cost-effective options are found in Figure 6: Breakdown of primary biomass use in Ukraine, 2030
+Power generation
+7%
+DH generation, 
+CHP
+11%
+DH generation, 
+heat only
+10%
+Residential 
+heating
+20%
+Industry, 
+commercial & 
+agriculture heating
+37%
+Transport
+15%
+Total biomass demand in REmap 2030 (820 PJ/yr)
+Table 14: Substitution costs of REmap Options by sector, 2030
+Business perspective 
+(national prices)
+Government perspective 
+(international prices)
+(USD/GJ) (USD/GJ)
+Industry 1.3 3.7
+Buildings 12.0 -4.8
+Transport 0.6 -4.3
+Power -2.4 0.3
+District heat -0.5 -6.3
+Average of all sectors 2.6 -0.5
+the industry and district heat sectors, whereas fulfilling 
+needs in transport and power sectors would be more 
+expensive. From a government perspective the Remap 
+Options are less expensive because unless of Ukraine’s 
+subsidy regime. More renewables means importing less 
+natural gas, which is comparatively expensive.
+Figure 7 and Figure 8 ranks the costs of substitution of 
+REmap Options and shows their contributions to the 
+potentially increased share of renewable energy.
+Table 15 shows the substitution costs of REmap Options 
+in 2030 for Ukraine (same information plotted in 
+Figure 7 and Figure 8). From a government perspective 
+many biomass, biogas or biofuel technologies are cost 
+competitive. The ones that are incrementally more 
+expensive are biomass for industry and district heat, 
+and solar technologies for buildings. From the business 
+perspective, subsidised natural gas costs less and results 
+in high substitution costs, particularly for the buildings 
+sector.Figure 8: Renewable energy cost supply curve by renewable energy resource in 2030 based on the government 
+perspective
+10 12 14 16 18 20
+Average weighted cost of 
+substitution (-0.5 USD/GJ)
+-12
+-7
+-2
+3
+8
+A
+v
+erag
+e su
+bstitution cost (USD2010/GJ TF
+E
+C)
+Renewable energy share in total final energy consumption (%)
+Referencecase 
+developments
+3.3%-13.4%
+3.3% Bioethanol (advanced)
+Bioethanol (conventional)
+Biomass heat (industry)
+Biomass power CHP (industry)
+Biogas heat (buildings)
+Biodiesel
+Geothermal heat (industry)
+Biomass district heat
+Solar PV (utility)
+Biomass heat (buildings)
+Solar thermal heat (industry)
+Solar thermal heat (buildings)
+Biomass heat CHP (industry)
+Biomass pellet heat (buildings)
+Wind onshore
+Figure 7: Renewable energy cost supply curve by renewable energy resource in 2030 from the business 
+perspective
+Average weighted cost of 
+substitution (2.6 USD/GJ)
+10 12 14 16 18 20
+-10
+-5
+0
+5
+10
+15
+20
+A
+v
+erag
+e su
+bstitution cost (USD2010/GJ TF
+E
+C)
+Renewable energy share in total final energy consumption (%)
+Referencecase 
+developments
+3.3%-13.4%
+3.3%
+Bioethanol (advanced)
+Bioethanol (conventional)
+Biomass heat (industry)
+Biomass power CHP (industry)
+Wind onshore
+Biogas heat (buildings)
+Biodiesel
+Geothermal heat (industry)
+Biomass district heat
+Solar PV (utility)
+Biomass heat (buildings)
+Solar thermal heat (industry)
+Solar thermal heat (buildings)
+Biomass heat CHP (industry)
+Biomass pellet heat (buildings)The only renewable option for power generation that 
+would be costlier is wind power, however by only a small 
+increment. Utility-scale solar PV results in a higher cost 
+largely because of low capacity factors.
+Transport sector biofuel technologies are the most 
+cost-competitive compared to all other REmap Options, 
+when compared to expensive gasoline and diesel.
+Benefits of REmap Options
+Table 16 shows the developments in fossil fuel demand 
+between 2010 and 2030 in Ukraine. REmap Options 
+would reduce total fossil fuel demand by 17% compared 
+to the Reference Case. The savings range from 5% for oil 
+products to 21% for coal. Total natural gas use in REmap 
+2030 would be similar to the 2012 level (approximately 
+Table 16: Fossil fuel saving effects of REmap Options
+Coal Oil Natural gas Total CO2 emissions
+(PJ/yr) (PJ/yr) (PJ/yr) (PJ/yr) (Mt/yr)
+2010 1 557 448 1 660 3 665 274
+2012 1 745 429 1 520 3 695 283
+2030 Reference Case 1 986 506 1 805 4 297 325
+REmap 2030 1 545 480 1 539 3 564 268
+Reductions:
+Compared to Reference Case 22% 5% 15% 17% 18%
+Compared to 2012 level 11% -12% -1% 4% 5%
+Sources: data for 2010 and 2012 are based on IEA (2014a)
+Table 15: Substitution costs of REmap Options by technology in 2030 based on the perspectives of 
+government and business
+Government perspective Business perspective
+(USD/GJ) (USD/GJ)
+Heating sector
+Biomass steam cycle (district heating) -6.3 -0.5
+Biomass boilers (industry) -8.0 -9.8
+Industrial CHP 4.3 2.0
+Space heating: Biogas (households) -11.4 4.2
+Water heating: Biomass (households) -4.7 11.0
+Space heating: Pellet burners (households) 0.5 17.2
+Solar thermal (industry) 10.4 7.4
+Water heating: Solar (households) -0.9 18.7
+Geothermal (industry) -3.9 -6.9
+Power generation sector
+Wind onshore -0.4 0.1
+Solar PV (utility-scale) 6.2 1.3
+Industrial CHP -1.2 -3.5
+Transport sector
+Biodiesel -5.8 -0.4
+Conventional bioethanol -1.1 3.1
+Advanced bioethanol -3.1 -0.5Total investment needs in renewables to 2030 will 
+amount to USD 5.0 billion per year on average. Spending at USD 2.5 billion per year is required to fulfil the 
+Reference Case, and an extra USD 2.5 billion per year 
+would be needed to develop the REmap Options. Technologies which require a subsidy (positive substitution 
+costs from the government perspective) lie in solar 
+thermal for heating, solar PV, onshore wind and various 
+biomass-based heat generation technologies. The subsidy need per MWh of final renewable energy is equivalent to USD 11, excluding the effect of any carbon price.
+The table also shows that Ukraine can cut its energy bill by USD 4.7 billion a year by implementing 
+REmap Options that use less fossil fuels. Of that total, 
+USD 2.9 billion, or about 60% of the savings, would 
+be from lowering natural gas imports. Remap Options would increase costs for biomass however, by 
+USD 1.5 billion per year. Hence the net fuel savings in 
+2030 with REmap Options is estimated at USD 3.2 billion per year over the Reference Case.
+Implications of renewables on 
+Ukraine’s natural gas use
+The government’s aim is to halve gas consumption 
+through various measures, and by 2018 eliminate its 
+dependence on imported gas (Figure 10). Ukraine would 
+also meet all its potential demand, 21.5 billion cubic 
+meters, with domestic production. About 40% of the 
+total would be used for industry, but that supply would 
+43 billion m3), and 16% lower than the Reference Case 
+(7.6 billion m3 savings). Coal use would be 11% lower 
+compared to 2012 levels and oil products use 1%. Renewables will play an important role to reduce the demand 
+for coal and natural gas by 2030.
+The table also shows an 18% reduction in carbon dioxide 
+(CO2) emissions from REmap Options compared to the 
+Reference Case or 57 Mt per year. Of this total, 70% of 
+the savings is from power generation. The remainder is 
+split between 20% heating and 10% transport.
+Figure 9 shows the same information about the savings 
+in fossil fuel use as a result of the REmap Options and 
+also highlights the change in total renewable energy 
+use between the Reference Case and REmap 2030. If all 
+REmap Options identified in this study are to be implemented by 2030, renewable energy use would grow by 
+between 66% and 74% compared to the Reference Case.
+As a result, renewables would be the third largest source 
+of energy following coal and natural gas.
+Table 17 shows a number of financial indicators for 
+Ukraine (all from a government perspective). REmap 
+Options result in savings of USD 175 million per year in 
+2030. Externalities related to human health can increase 
+these savings by USD 0.1 billion to USD 0.3 billion per 
+year. Based on a price range of USD 20 to USD 80 per 
+tonne for CO2, related externalities can save another 
+USD 1 billion to USD 5 billion per year. Therefore, when 
+accounting for externalities REmap Options can result 
+in total savings of up to USD 5.5 billion per year in 2030.
+Figure 9: Fossil fuel savings and the growth in total renewable energy use, 2030
+0.0
+0.5
+1.0
+1.5
+2.0
+Coal Oil Natural Gas Nuclear RE low RE high
+Primary Energy (EJ
+/
+YR)
+21% Reduction
+5% Reduction
+15% Reduction
+66% Increase
+74% Increase No change
+Primary energy in 2013 Reduction in REmap 2030 Increase in REmap 2030Table 17: Financial indicators for renewable energy use in Ukraine from the government perspective
+Energy system costs in 2030 (USD bln/yr)
+Incremental system cost in 2030 -0.2
+  reduced human health externalities from 0.1 to 0.3
+  reduced CO2 externalities from 1 to 5
+System costs with externalities in 2030 from -1.3 to -5.5
+Incremental subsidy needs in 2030 4.7
+Investment needs, average in the period 2010-2030 (USD bln/yr)
+Investment needs (REmap Options) 2.5
+Total renewable energy investment needs (REmap Options and Reference Case) 5.0
+Savings from fuel-use reductions compared to 2030 Reference Case (USD bln/yr)
+Coal (saving) 1.3
+Oil (saving) 0.5
+Natural gas (saving) 2.9
+Biomass (additional) 1.5
+Total savings 3.2
+Note: Energy bill savings are estimated based on national end-user prices.
+not be available without the actions adopted by the 
+government. The remaining 60% would be used by retail 
+consumers and utility companies.
+Based on the assumptions made in this study Figure 
+11 shows the evolution of the fuel mix for Ukraine 
+for heating and power generation between 2010 and 
+2030. The main assumption is that as Ukraine’s TFEC 
+grows, there will be no change in conventional-fuel 
+use mix between 2010 and 2030 in the Reference Case 
+(including fossil fuels and nuclear power). Natural gas 
+would continue to account for half of the total fuel 
+demand for heating, a share that is only slightly lower 
+than the 2010 level of 58%. Consumption of gas for 
+heating would increase by 4% between 2010 and 2030, 
+but biomass by more than seven times. Natural gas use 
+for power generation would remain at the 2010 level 
+in 2030, whereas demand for renewables and nonrenewables would increase by three times and 45%, 
+respectively. Natural gas would account for 7% of the 
+total power generation by 2030 compared to 8% in 
+2010.
+Figure 10: Roadmap for halving natural gas consumption in Ukraine
+2015 2018
+Imported gas
+Point of energy independence
+from the imported gas
+2025
+-50%
+Gas of
+domestic
+extraction
+21.5
+billion cubic
+meters
+9.15
+25.95
+billion cubic meters
+Population consumption
+Released gas for the industry
+4.6
+8.4
+16.8 Consumption of the heating utility companies 
++ state-financed organizations
+Source: Savchuk (2014)Figure 11: Developments in Ukraine’s total primary energy mix for heating and power generation, 2010-2030
+58% 53% 48% 41%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100% 54 Mtoe 60 Mtoe 68 Mtoe 67 Mtoe 189 TWh 236 TWh 284 TWh 284 TWh
+2010 Reference Case
+2020
+Reference Case
+2030
+REmap 2030
+Breakdown of fuel use for heating
+NG Biomass Other fuels
+8% 7% 7% 5% 0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2010 Reference Case
+2020
+Reference Case
+2030
+REmap 2030
+Power generation by fuel type
+NG Renewables Other non-renewables
+If the current policies remained unchanged there would 
+be fewer factors shrinking natural gas demand in the 
+period to 2030. However with all REmap Options implemented demand for natural gas for heating and power 
+generation would drop by 15% by 2030 compared to 
+2010 levels. This estimate assumes that renewables 
+displace mostly natural gas for heating and to some 
+extent for power generation. Exceptions would be onshore wind and biomass for CHP, both of which would 
+displace coal. Some natural gas would be required still 
+to maintain the flexibility of the power system at higher 
+levels of renewable-based power generation. Reducing 
+gas demand by 50% through the use of renewables 
+would require energy-efficiency enhancements and 
+continued fuel switching. Furthermore, increasing domestic gas production and storage, and diversifying 
+supply (through LNG imports for example) could also 
+help.8. BARRIERS AND OPPORTUNITIES FOR 
+RENEWABLE ENERGY TRANSITION
+enhanced interconnection capacity could be considered 
+with neighbouring countries.
+From government there is a need for streamlined permitting procedures and improving electricity-market 
+access for renewables producers. There is also a lack 
+of cost-recovery mechanisms and clear procedures for 
+grid connection. More knowledge about grid constraints 
+and grid stability will be important to help determine 
+the best construction strategies for renewable energy 
+plants. More should also be done to assess affordability 
+and define the fuel mix for power generation (for both 
+renewables and non-renewables), to keep power prices 
+from uncontrolled growth. Finally, availability of incentives for small and medium-size projects will be important in view of the estimated potential in the residential 
+sector as well as for Ukraine’s industry sector, with many 
+small and medium-scale plants.
+Ukraine should also develop systems for standardisation 
+and certification of solid and liquid biofuels. Local-content requirements combined with the lack of domestic 
+production of modern renewable energy equipment 
+limits the availability of affordable and reliable equipment. Domestic biomass boilers are expensive per unit 
+of capacity, and also not available in large capacities.
+Biogas plants are expensive and generally produced 
+with foreign expertise, even though such plants could 
+be locally produced at much lower cost.
+Biomass will clearly be the main source of renewables 
+in Ukraine in the future, however there are no regulations to mandate the use of bioenergy where an exploitable resource exists. One example that could be 
+implemented is the compulsory inclusion of a biogas 
+plant in major new projects by agro-food companies. In 
+addition to demand-side policies to accelerate capacity 
+deployment, policy support will be necessary to create 
+a sustainable and affordable biomass supply market.
+There is a significant supply potential, but how it will 
+be utilized needs to be carefully planned when meeting 
+the future demand growth. Ukraine has a large territory 
+and the biomass resource potential is dispersed across 
+the country. While locating processing and conversion 
+Ukraine’s energy system offers a number of commercial 
+opportunities for both new construction and refurbishments, given the outdated power-and-heat production 
+capacities and the demand growth expectations. There 
+is also a growing business case for renewables for district heating and industry, as both of these sectors are 
+increasingly paying high prices for their natural gas. The 
+NREAP to 2020 and the longer-term Ukrainian energy 
+strategy are promising steps to planning and target setting that will help to accelerate the uptake of renewable 
+energy in Ukraine. However barriers remain that could 
+inhibit the greater use of renewable-energy resources 
+in Ukraine.
+Overcoming these barriers starts with increased understanding of renewables, their potential, cost and 
+benefits. In terms of resource assessment capabilities, 
+Ukraine enjoys advanced capacity to measure biomass 
+flows and estimate annual availability for energy use. In 
+the case of wind, Ukraine’s second-largest renewable 
+energy resource, a lack of national wind measurements 
+in accordance with international standards creates a 
+challenge. Comprehensive measurement campaigns are 
+essential for ensuring investor confidence and developing bankable projects. For example, waste streams offer 
+an important alternative to fossil fuels in the agro-food 
+sector but awareness of opportunities for utilising their 
+energy content is low. Developing bankable projects 
+also requires management and planning among suppliers of equipment and potential users.
+The share of variable renewables in total power generation increases to 15% in REmap 2030. According to 
+the local power industry estimates, there is a potential 
+to cover 6 GW of variable renewables with dispatch 
+capacity, which is lower than the 20 GW capacity estimated in REmap 2030. It will be necessary to plan 
+for the potential growth in variable renewables as part 
+of the modernization of the transmission and grid 
+infrastructure. Replacement of the aging power plant 
+capacity in the short-term also offers an important opportunity as new capacity can be designed by considering the need for flexibility to maintain a higher share of 
+variable renewables in the power system. Additionally, plants close to supply areas will be priority, utilising the 
+biomass supply potential will still require transport infrastructure to ensure supply meets demand in heating, 
+power generation and biofuel production plants that are 
+mainly in central and eastern parts of Ukraine. This is a 
+major barrier to exploit Ukraine’s forestry for the heating 
+and power generation sectors. For cost-effective supply of biomass, existing road and rail infrastructure will 
+require improvements.
+The use of straw is hindered by significant collection 
+cost, and the fact that most agricultural enterprises lack 
+the ability to collect, bundle and adequately store straw.
+There is no wholesale market for biomass products and 
+the practice of agreeing to long-term biomass supply 
+contracts between producers and consumers is not 
+yet established. Pre-commercialization costs are high 
+which limits reaching economies of scale. There is also 
+an untapped potential to improve agricultural yields.
+Wheat yields in Ukraine are 2.7 tonnes per hectare today, compared to the world average of 2.86 tonnes and 
+Western Europe average of 8 tonnes per hectare. Thus 
+far, limited improvement has been observed in Ukraine’s 
+agricultural yields. Closing this yield gap will be important to make land available for energy crop production 
+(van der Hilst et al. 2013).
+Another important issue is land use and land ownership. During the land reform, land was distributed to the 
+workers of the collective and state farms. Today, most 
+landowners lease their land. This has led to the rise of 
+agriculture holdings which are increasingly accounting 
+for a larger share of land ownership, and potentially having more power in controlling and decision making for 
+Ukraine’s land use and agriculture sector (Plank, 2013).
+New policies to increase energy crop and agricultural 
+residues supply would need to be formulated carefully 
+to ensure sustainability by considering the specific characteristics of the Ukrainian land ownership.
+Based on the NREAP and Ukraine’s Energy Strategy, this 
+study assumes that the total final energy demand will 
+grow at moderate rates of about 1.3% per year as opposed to today’s trends where total demand decreases.
+If the future demand follows today’s developments, 
+there could be two implications on the total renewable 
+energy use and shares. The first implication could be 
+that the total renewable energy use may also grow at 
+slower rates by following the total demand. This because the need for new capacity is lower, which may 
+reduce the future renewable energy shares. The second 
+implication is when the absolute renewable energy use 
+grows identical to what is envisioned by Ukraine’s government plans. Compared to lower total final energy 
+demand, this would cover a higher share and would 
+raise the total renewable energy share as opposed to 
+what has been estimated in this study.
+.Based on the findings of this analysis, and the above 
+discussion of barriers to renewable energy deployment 
+in Ukraine, these suggestions are proposed to accelerate 
+the uptake of renewable energy in Ukraine:
+l Modernise and improve the efficiency of the existing power generation and heating capacities 
+with new investments for energy efficiency and 
+renewables
+l Complement and improve energy efficiency and 
+security by diversifying natural gas imports and 
+increasing production of indigenous natural gas
+l Increase investments both domestic and foreign 
+in new capacity by easing the procedure to qualify for green tariffs, by developing incentives for 
+small-scale investors, and by creating financing 
+through affordable loan products such as loan 
+guarantees
+l Add knowledge on resource potential and the 
+cost and benefits of renewables, and develop 
+norms, rules, standards and definitions
+l Utilise local manufacturing capacity to create an 
+affordable market for renewable energy equipment
+l Develop a national transmission and distribution 
+grid plan that considers more than a 15% share 
+of generation from wind and solar, and consider 
+flexibility in newly constructed thermal power 
+plants
+l Develop collection systems for agricultural residues and invest in infrastructure for the sustainable recovery of forest biomassAEA Technology Environment (2005), Damages per 
+Tonne Emissions of PM2.5, NH3, SO2, NOx and VOCs 
+from each EU25 Member State (Excluding Cyprus) 
+and Surrounding Seas, AEA Technology Environment, 
+Didcot, www.doc88.com/p-476118345143.html.
+AEE-INTEC (2014), Solar heat worldwide, Markets 
+and Contribution to the Energy Supply 2012. Edition 
+2014. AEE-INTEC, Gleisdorf. http://www.aee-intec.
+at/0uploads/dateien1016.pdf.
+Bioenergy (2014), Ukrainian Biomass Pellets Market.
+Brief Overview, June 2014. http://ukraineagrovalley.
+com/site/files/Biomass_Pellets_Market.pdf.
+Chyong, C-K. (2014), Ukraine and Security of Gas 
+Supplies to Europe – Part II. 12 December 2014. EPRG 
+Winter Research Seminar, Cambridge. http://www.
+eprg.group.cam.ac.uk/wp-content/uploads/2015/03/
+Chyong_EPRG_Winter-Seminar-2014_webv.pdf.
+CoM (Cabinet of Ministers of Ukraine) (2014), National 
+Renewable Energy Action Plan up to 2020. Cabinet of 
+Ministers of Ukraine, Kiev.
+CRES (Centre for Renewable Energy Sources and 
+Saving) (2012), Biomass consumption survey for energy 
+purposes in the energy community. Ukraine national 
+report. 7 November 2012. CRES, Pikermi. http://www.
+energy-community.org/pls/portal/docs/1378194.PDF.
+DTEK (n.d.) DTEK Wind Power: Renewable Energy 
+Focus.
+EC (European Commission) (2009), Directive 2009/28/
+EC of the European Parliament and of the Council of 23 
+April2 2009 on the promotion of the use of energy from 
+renewable sources and amending and subsequently 
+repealing Directives 2001/77/EC and 2003/30/
+EC. Official Journal of the European Union, L 140/16, 
+5.6.2009. http://eur-lex.europa.eu/legal-content/EN/
+TXT/PDF/?uri=CELEX:32009L0028&from=EN.
+ECRB (Energy Community Regulatory Board) (2014), 
+Gas quality in the Energy Community. Applicable 
+Standards and their Convergence with European 
+Standards. December 2014, ECRB, Vienna. https://
+www.energy-community.org/portal/page/portal/ENC_
+HOME/DOCS/3506158/Gas_quality_assessment.pdf.
+EDM (Eurasia Daily Monitor) (2014), Conflict Forces 
+Coal-Rich Ukraine to Import More Coal to Ease Shortfalls.
+Eurasia Daily Monitor Volume 11, Issue 194. 31 October 
+2014. The Jamestown Foundation, Washington, DC.
+http://www.jamestown.org/programs/edm/single/?tx_
+ttnews%5Btt_news%5D=43025&cHash=ccd6c259e09f
+a217723e77b3d44f0279#.VQwpNI7F-rP.
+Eggleston H.S. et al. (2006), 2006 IPCC Guidelines 
+for National Greenhouse Gas Inventories, National 
+Greenhouse Gas Inventories Programmes, IPCC 
+(Intergovernmental Panel on Climate Change), IGES, 
+Kanagawa, www.ipcc-nggip.iges.or.jp/public/2006gl/ 
+index.html.
+EPA/GMI (Environmental Protection Agency/Global 
+Methane Initiative (2013), Pre-feasability study on coal 
+mine methane recovery and utilization at Zhdanovskaya 
+Mine, Ukraine. July 2013. EPA/GMI, Kiev. http://www.
+epa.gov/coalbed/docs/Ukraine_PreFS_CMM_
+Zhdanovskaya%20Mine_July%202013.pdf.
+Financial Times (2014), Ukraine fears frozen conflict 
+could yield winter energy crisis. 15 October 2014.
+GIZ (Deutsche Gesellschaft fuer Internationale 
+Zusammenarbeit) (2012), International Fuel Prices 
+2010/2011. 7th Edition. GIZ, Bonn/Eshcborn. http://www.
+giz.de/expertise/downloads/giz2012-en-ifp2010.pdf.
+G7 (The Group of 7) (2015), G7 Energy Ministerial 
+Preparatory Meeting, 17-19 March, Berlin.
+GSTEC (Global Solar Thermal Energy Council) 
+(2014), Ukraine: First demonstration projects pave 
+the way for solar district heating. 30 June 2014.
+http://solarthermalworld.org/content/ukraine-firstdemonstration-projects-pave-way-solar-districtheating.
+van der Hilst et al. (2013), Impacts of biofuel production.
+Case studies: Mozambique, Argentina and Ukraine.
+November 2013. Utrecht University, Utrecht. http://www.
+unido.org/fileadmin/user_media_upgrade/What_we_
+do/Topics/Energy_access/BF_Case_Studies_FINAL_
+REPORT_PRINT_and_WEB__20022014.pdf.
+Hydropower & Dams (2014), 2014 World Atlas & Industry 
+Guide. Aqua Media International, Wallington, Surrey.
+REFERENCESIEA (International Energy Agency) (2011), World Energy 
+Outlook 2011. OECD/IEA, Paris.
+IEA (2012a), Technology Roadmap: Bioenergy for 
+Heat and Power. OECD/IEA, Paris. http://www.iea.org/
+publications/freepublications/publication/technologyroadmap-bioenergy-for-heat-and-power-.html.
+IEA (2012b), Energy Policies beyond IEA Countries: 
+Ukraine. OECD/IEA, Paris. http://www.iea.org/publi 
+cations/freepublications/publication/Ukraine2012_free.
+pdf.
+IEA (2014a), Extended energy balances 2014. OECD/
+IEA, Paris.
+IEA (2014b), Energy Policies of IEA Countries: European 
+Union. OECD/IEA, Paris.
+IIASA (International Institute for Applied System 
+Analysis) (2014), “GAINS GLOBAL (Greenhouse Gas 
+– Air Pollution Interactions and Synergies)”, IIASA, 
+Laxenburg, http://gains.iiasa.ac.at/gains/GOD/index.
+login?logout=1.
+IMEPOWER (2013), Renewable energy sector in 
+Ukraine. Unlocking Country’s Potential. 26 August 2013.
+IMEPOWER, Kiev.
+IPCC (Intergovernmental Panel on Climate Change 
+(2007), Summary for Policymakers, Climate Change 
+2007: Mitigation, Fourth Assessment Report, IPCC, 
+Cambridge University Press, Cambridge and New York, 
+www.ipcc.ch/pdf/assessment-report/ar4/wg3/ ar4-
+wg3-spm.pdf.
+IRENA (International Renewable Energy Agency) 
+(2014a), REmap 2030 – A renewable energy roadmap.
+June 2014. IRENA, Abu Dhabi. http://www.irena.org/
+REmap/REmap%20Summary%20of%20findings_final_
+links.pdf.
+IRENA (2014b), Global bioenergy supply and demand 
+projections – A working paper for REmap 2030.
+September 2014. IRENA, Abu Dhabi. http://www.
+irena.org/remap/IRENA_REmap_2030_Biomass_
+paper_2014.pdf.
+Korniush, S. (2012), Power system of Ukraine. Electricity 
+Stakeholder Event on Transit and Cross-Border 
+Cooperation. Energy Charter Secretariat, 28 March 2012.
+Brussels. http://www.encharter.org/fileadmin/user_
+upload/Conferences/2012_March/Power_System_of_
+Ukraine.pdf.
+Liu, H., Masera, D., and Edder, L. eds (2013), World 
+Small Hydropower Development Report 2013.
+United Nations Industrial Development Organization; 
+International Center on Small Hydro Power. http://
+www.smallhydroworld.org/fileadmin/user_upload/pdf/
+Europe_Eastern/WSHPDR_2013_Ukraine.pdf.
+Matveev, Y. (2014), Utilization of agricultural waste/
+residuals for biogas and biomethane production. 26 
+September 2014, Kiev. http://iet.jrc.ec.europa.eu/remea/
+sites/remea/files/files/documents/events/15._uriy_
+matveev_ukraine.pdf.
+OECD (2012), Private Sector Development Policy 
+Handbook. Attracting Investment in Renewable Energy 
+in Ukraine. OECD Eurasia Competitiveness Programme, 
+Paris. http://www.oecd.org/countries/ukraine/
+UkraineRenewableEnergy.pdf.
+Plank, C. (2013), Land grabs in the Black Earth: Ukrainian 
+Oligarchs and International Investors. 30 October 2013.
+Heinrich Boell Stiftung, Berlin. http://www.boell.de/
+en/2013/10/30/land-grabs-black-earth-ukrainianoligarchs-and-international-investors.
+Platts (2013), World Electric Power Plants Database, 
+December 2013. McGraw Hill Financial, New York, June 
+2013, www.platts.com/products/world-electric-powerplants-database.
+Podolets, R. and Diachuk, O. (2013) Investment 
+requirements and benefits arising from energy efficiency 
+and renewable energy policies in Ukraine. Institute for 
+Economics and Forecasting, Ukrainian Academy of 
+Sciences. IEA-ETSAP workshop, 17 June, Paris.
+ProMarketing Ukraine (2013), Business opportunities 
+in the bio-based economy in Ukraine. November 
+2013. ProMarketing Ukraine, Kiev. http://www.
+biobasedeconomy.nl/wp-content/uploads/2011/08/
+BBE-Ukraine-study-2013-12-13.pdf.
+Radeke, J. and I. Kosse (2013), Towards higher 
+energy efficiency in Ukraine’s district heating sector.
+February 2013. German Advisory Group, Berlin.
+http://www.beratergruppe-ukraine.de/download/
+PolicyBriefings/2013/PB_01_2013_eng.pdf?PHPSESSI
+D=17364280bb92e3a8819ac52eaa056975.
+Romanko, S. (2014), Renewable energy sources in 
+Ukraine: Problems and perspectives of Development.
+4 July 2014.
+SAEE (State Agency on Energy Efficiency and Energy 
+Saving of Ukraine) (2012), National Renewable Energy Action Plan (NREAP) through 2020 DRAFT. http://saee.
+gov.ua/documents/NpdVE_eng.pdf.
+SAEE (n.d.), Priorities for energy efficiency and 
+renewable energy development in Ukraine. SAEE, 
+Kiev. http://corrente.gse.it/Immagine%20GSE/News/
+Presentation_SAEE.pdf.
+SAEE (2015), Personal communication with the SAEE.
+20 February 2015. SAEE, Kiev.
+Savchuk, S. (2014), Actions implemented by the 
+Government in the energy efficiency and energy saving 
+sphere, further perspective initiatives. 26 September 
+2014, Brussels.
+SSSU (State Statistics of Ukraine) (2014), Energy 
+Balances of Ukraine. SSSU, Kiev. http://www.ukrstat.
+gov.ua/.
+TEBODIN (2013), Bioenergy & Biobased Opportunities 
+in Ukraine. 10 May 2013. http://english.rvo.nl/sites/
+default/files/2013/12/Bioenergy%20opportunies%20
+in%20Ukrain%20%20Tebodin%20%202013.pdf.
+The World Bank (2013), Global tracking framework.
+The World Bank, Washington, DC. http://documents.
+worldbank.org/curated/en/2013/05/17765643/globaltracking-framework-vol-3-3-main-report.
+The World Bank (2014), Increased efficiency, improved 
+livelihoods: Transforming District Heating in Ukraine.
+22 May 2014. The World Bank, Washington, DC. http://
+www.worldbank.org/en/news/feature/2014/05/22/
+increased-efficiency-improved-livelihoodstransforming-district-heating-in-ukraine.
+UABio (Bioenergy Association of Ukraine) (2013a), 
+Prospects for heat production from biomass in Ukraine.
+31 May 2013, Bioenergy Association of Ukraine, Kiev.
+http://www.uabio.org/img/files/docs/position-paperuabio-6-en.pdf.
+UABio (2013b), Prospects for the electricity generation 
+from biomass in Ukraine. 31 May 2013, Bioenergy 
+Association of Ukraine, Kiev. http://www.uabio.org/img/
+files/docs/position-paper-uabio-5-en.pdf.
+UABio (2013c), The prospects of biogas production 
+and use in Ukraine. 31 May 2013. Bioenergy Association 
+of Ukraine, Kiev. http://www.uabio.org/img/files/docs/
+position-paper-uabio-4-en.pdf.
+UWEA (Ukrainian Wind Energy Association) (2013), 
+Ukrainian Wind Market Review 2013. Kiev.
+WWEA (World Wind Energy Association) (2012), Wind 
+Power Status in Russia and the CIS Countries. Regional 
+Wind Power Market and Potential. WWEA, Bonn.LIST OF ABBREVIATIONS
+CHP combined heat and power
+CO2 carbon dioxide
+CoM Cabinet of Ministers
+EC European Commission
+EJ exajoule
+EnC Energy Community
+EC European Commission
+EU European Union
+EUR Euro
+FiT feed-in-tariff
+FSU Former Soviet Union
+Gcal gigacalories
+GDP gross domestic product
+GFEC gross final energy consumption
+GHG greenhouse gas
+GJ gigajoule
+GT green tariff
+GW gigawatt
+ha hectare
+IEA International Energy Agency
+IMF International Monetary Fund
+IRENA International Renewable Energy Agency
+kt kilotonne
+kWh kilowatt-hour
+LFG landfill gas
+LNG liquefied natural gas
+m2 square meter
+m3 cubic meter
+MSW municipal solid waste
+Mt megatonne
+MW gigawatt
+NCSEPUR National Commission for State Energy 
+and Public Utilities Regulation 
+NERC National Electricity Regulatory 
+Commission
+NOx mono-nitrogen oxide
+NREAP National Renewable Energy Action Plan
+PJ Petajoule
+PJ petajoule
+PM2.5 particulate matter of less than 2.5 
+micrometres
+PV photovoltaic
+SAEE State Agency on Energy Efficiency and 
+Energy Savings of Ukraine
+SE4ALL Sustainable Energy for All
+SHP small hydro
+SSGCC State Service of Geodesy, Cartography 
+and Cadaster 
+SSSU State Statistics Service of Ukraine
+SO2 sulphur dioxide
+t tonne
+TFEC total final energy consumption
+toe tonne of oil equivalent
+TWh terawatt-hour
+UAH Ukrainian Hryvinia
+USD US DollarsANNEX A: 
+Technology cost assumptions for 2030
+Overnight capital cost 
+(USD/kW)
+Capacity factor 
+(%)
+LCOH / LCOE
+(USD/GJ)
+Industry
+Solar thermal 800 10 25
+Geothermal 1 500 55 11
+Biomass boiler (harvesting/processing residue) 500 85 7
+Solid biomass industrial CHP 
+(wood residue/waste)
+See below in power 
+sector 50 20
+Natural gas boiler (industry) 100 50 18
+Buildings
+Biomass water heater (fuelwood, wood pellets) 600 30 20
+Biomass pellet burner 770 30 26
+Biogas heating (biogas) 800 50 11
+Solar water heater 700 10 25
+Natural gas heating (households) 160 80 16
+Power
+Wind onshore 1 500 31 21
+Solar PV (utility-scale) 1 400 15 40
+Solid biomass industrial CHP 
+(wood residue/waste) 3 000 50 20
+Coal 1 300 40 21
+Natural gas (power generation) 1 000 30 38
+District heat
+Biomass (harvesting/processing residue) 750 85 9
+Natural gas (district heating) 300 85 9
+LCOH: levelised cost of heat; LCOE: levelised cost of electricityANNEX B: 
+Energy price assumptions for 2030
+(USD/GJ) Comments and sources
+Coal 3.0
+Steam coal prices for 2010 was assumed as USD 2.7 per GJ in 
+Ukraine in 2010 (EPA/GMI, 2013). According to IEA (2011), coal 
+prices are projected to increase by about 10% between 2010 and 
+2030.
+Natural gas (household) 4.6 According to the IEA (2012b), household natural gas prices were 
+USD 2-3 per GJ, industry natural gas prices were USD 9 per 
+GJ, and district heating natural prices were USD 4-5 per GJ (all 
+including value added tax). Import prices of natural gas were 
+slightly lower than the industry natural gas prices, but there is an 
+overall relationship between the natural gas price developments 
+for all sectors and import prices. Based on the European natural 
+gas import price growth estimates according to the IEA (2011) of 
+55% between 2010 and 2030, the 2030 prices are estimated.
+Natural gas (industry) 13.8
+Natural gas 
+(district heating) 6.9
+Gasoline 47 According to the GIZ (2012), gasoline price in Ukraine was USD 
+1.01 per liter.
+Ethanol 45-48
+Assessments for bioethanol projection cost based on IRENA 
+analysis. Conventional bioethanol is assume to have the same 
+price increase as gasoline. Advanced bioethanol is assumed to 
+have a 20% reduction in production price over current best practice assumptions. Normal fuel taxes in line with those for gasoline 
+are assumed.
+Diesel 39 According to the GIZ (2012), diesel price in Ukraine was USD 0.92 
+per liter.
+Biodiesel 39 Same as biodiesel
+Energy crops 8.9
+These data refer to supply costs and are based on IRENA (2014b)
+Harvesting residue 4.9
+Processing residue 2.7
+Biogas 2.7
+Fuel wood 7.9
+Wood residue/waste 11.5SAEE and IRENA organized the REmap Ukraine final 
+country meeting in Kiev on March 12, 2015. The meeting 
+took place at the premises of the Institute for Renewable Energy, National Academy of Sciences. The meeting was attended by about 25 participants representing 
+the following organizations:
+1. International Renewable Energy Agency (IRENA)
+2. Ministry for Regional Development, Building and 
+Housing of Ukraine
+3. Ministry of Energy and Coal Industry of Ukraine
+4. Ministry of Agrarian Policy and Food
+5. State Agency on Energy Efficiency and Energy 
+Saving of Ukraine (SAEE)
+6. Ukrainian Wind Energy Association
+7. Bioenergy Association of Ukraine
+8. Association of Renewable Electricity
+9. Association of Alternative Fuels and Renewable 
+Energy of Ukraine
+10. Institute for Renewable Energy, National 
+Academy of Sciences
+11. UNIDO/GEF
+12. GIZ Ukraine
+The aim of this official meeting was to present the final 
+version REmap Ukraine background paper to Ukraine 
+policy makers and the renewable energy industry associations. The final version of the report was released 
+for feedback and comments to participants one week 
+in advance, in order to take any final feedback into 
+account.
+The meeting started with the introduction of the SAEE 
+and the National Academy of Sciences (hosting the 
+meeting and closely working the SAEE in energy 
+issues). The introduction was followed by two IRENA 
+presentations. IRENA presented its overall structure, 
+and the various thematic areas of work, including 
+the REmap project. The second IRENA presentation 
+focused on the detailed results of REmap Ukraine.
+Several participants provided feedback to the analysis 
+during the meeting.
+Summary of the feedback received
+l Clarify whether there is a pessimistic and an 
+l
+l
+l
+l
+l
+l
+l
+optimistic scenario of renewable energy use in 
+Ukraine in REmap 2030;
+Discuss the results by elaborating on the 
+issues that are being faced in Ukraine today� 
+Three main issues relating to renewable energy 
+were mentioned: i) investment uncertainty
+related to the current political situation in 
+Ukraine, which result in high interest rates, 
+ii) regional diversity of RE resource potential, 
+iii) instability in Ukraine’s renewable energy 
+policies;
+This is the first study where biomass use is assessed at the level of all sectors, which also 
+shows that biomass can contribute to large share 
+of Ukraine’s total final energy consumption; The 
+growth in total final energy consumption 
+between 2010 and 2030 may not be realistic in 
+view of the historical trends� No growth in TFEC 
+between 2013 and 2030 is more realistic;
+By 2030, a 20% share of biomass use in the heating sector is realistic, which is slightly lower than 
+the estimates of REmap 2030 of approximately 
+25%;
+At least 60% share of biomass supply is expected to be from energy crops and agricultural 
+residues, which is in line with REmap estimates 
+(70-90%);
+There is a potential to cover 6 GW of variable 
+renewables with dispatch capacity� It may not be 
+possible, for the 20 GW capacity estimated in 
+REmap;
+National Academy of Sciences has estimated the 
+potential of renewables for the power and 
+heating sectors for the years 2030 and 2035� According to these estimates, wind power capacity 
+reaches 10 GW by 2030, and 16 GW by 2035 (in 
+both years 3000 full load hours per years)� For 
+solar PV, total installed capacity reaches 4 GW by 
+2030, and 8 GW by 2035� Renewable energy 
+ANNEX C: 
+Country meeting minutesl
+l
+share in power generation reaches 22% in 2030 
+and 28% in 2035� Biomass heat reaches 10 Mtoe 
+per year, and a total of 1�6 GW biomass power 
+generation capacity can be installed by 2030;
+There is a working group established for the development of the power industry and the transmission and grids with a long-term focus� The 
+aim is to identify how much renewable power 
+can be added to the grid;
+In such analysis, it is necessary to cover all types 
+of renewable energy sources, not only biomass 
+or wind, so REmap approach makes an important 
+step forward;
+l With the support of IRENA, action is needed in 
+Ukraine for renewable energy deployment at 
+both national and international levels. National 
+and international efforts need to be done in parallel. REmap Ukraine study is a good basis for action for communication with the government as 
+well as the fossil fuel and nuclear power lobbies.P.O. Box 236, Abu Dhabi 
+United Arab Emirates
+IRENA Innovation and 
+Technology Centre
+Robert-Schuman-Platz 3
+53175 Bonn
+IRENA Headquarterswww.irena.org

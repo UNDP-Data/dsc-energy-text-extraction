@@ -1,0 +1,3015 @@
+File Name: ZMB-NREP-2013-EN
+Year: 2013
+Country Name: Zambia
+Country Code: ZMB
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2013
+Start Year: 2013
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+ZAMBIA
+RENEWABLES READINESS 
+ASSESSMENT 2013Unless otherwise indicated, the material in this publication may be used freely, shared 
+or reprinted, so long as IRENA is acknowledged as the source.
+About IRENA
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports countries in their transition to a sustainable energy future, and serves as the 
+principal platform for international cooperation, a centre of excellence, and a repository of policy, 
+technology, resource and financial knowledge on renewable energy. IRENA promotes the 
+widespread adoption and sustainable use of all forms of renewable energy, including 
+bioenergy, geothermal, hydropower, ocean, solar and wind energy in the pursuit of sustainable 
+development, energy access, energy security and low carbon economic growth and prosperity.
+Authors: Gauri Singh (IRENA), Safiatou Alzouma Nouhou (IRENA) 
+and Mohamed Youba Sokona (IRENA)
+About RRA
+A Renewables Readiness Assessment (RRA) is a holistic evaluation of a country’s conditions and 
+identifies the actions needed to overcome barriers to renewable energy deployment. This is a 
+country-led process, with IRENA primarily providing technical support and expertise to facilitate 
+consultations among different national stakeholders. While the RRA helps to shape appropriate 
+policy and regulatory choices, each country determines which renewable energy sources and 
+technologies are relevant and consistent with national priorities. The RRA is a dynamic process 
+that can be adapted to each country’s circumstances and needs. Experience in a growing 
+range of countries and regions, meanwhile, has allowed IRENA to continue refining the basic RRA 
+methodology. In June 2013, IRENA published a guide for countries seeking to conduct the process 
+in order to accelerate their renewable energy deployment.
+For more information visit www.irena.org/rra 
+Acknowledgements
+IRENA prepared this report in close collaboration with Francis Yamba (Centre for Energy, 
+Environment and Engineering - CEEEZ - Zambia), Peter Zhou (Energy, Environment, Computer and Geophysical Applications Group - EECG - Botswana), Boaventura Cuamba (Eduardo 
+Mondlane University of Mozambique) and Ecofys. The report benefited from review and consultations with the Southern African Development Community (SADC). IRENA wishes to thank the following 
+experts for their insights and constructive guidance during the peer review process: Veli-Pekka 
+Heiskanen (VTT - Finland), Odala Matupa (SADC Secretariat, Botswana), Freddie Motlhatlhedi (SADC 
+Secretariat, Botswana), Charles Mulenga (Ministry of Mines, Energy and Water Development, 
+MMEWD, Zambia) Yacob Mulugetta (University of Surrey - UK), Charles Zulu (MMEWD - Zambia) and 
+Frank Wouters (IRENA).
+For further information or to provide feedback, please contact: 
+SAlzouma@irena.org or secretariat@irena.org
+Disclaimer
+The designations employed and the presentation of materials herein do not imply the expression of 
+any opinion whatsoever on the part of the International Renewable Energy Agency concerning the 
+legal status of any country, territory, city or area or of its authorities, or concerning the delimitation 
+of its frontiers or boundaries. ZAMBIA
+RENEWABLES READINESS 
+ASSESSMENT 2013FOREWORD
+Zambia joins the rest of the developing world, and in particular Africa, 
+in taking advantage of the benefits that renewable energy can bring in 
+contributing to sustainable economic growth. Zambia is also aware of how 
+renewable energy can assist in achieving the Millennium Development 
+Goals by ensuring access to modern energy services for the majority 
+of the rural communities. In particular, small-scale renewable energy 
+systems can provide affordable energy to the poor, help with creating 
+employment by powering enterprises for increased production, and 
+produce cleaner energy for cooking and heating.
+The Government of the Republic of Zambia established the Rural 
+Electrification Authority (REA) and the Rural Electrification Fund through 
+the Rural Electrification Act (No. 20 of 2003), in order to give impetus to the 
+rural electrification agenda. The Rural Electrification Authority strives to 
+fulfil its vision, “Electricity for all rural areas by the Year 2030”, by designing 
+and offering smart subsidies for capital costs, to developers and operators 
+that are selected on a competitive basis, for projects to supply energy for 
+the development of rural areas. 
+The government has also formulated a Draft Renewable Energy Strategy, 
+which outlines key strategic goals and objectives for each renewable 
+energy source, along with the plans to be implemented to achieve these. 
+The policy of greater utilisation of renewable energy will be realised by 
+setting targets and strengthening Zambia’s policy, legal and institutional 
+framework.Zambia is grateful to the International Renewable Energy Agency 
+(IRENA) for being selected as a participating country for the Renewable 
+Readiness Assessment (RRA) Process. The actions identified in the RRA 
+process will help us to strengthen our investment framework, create 
+a renewable-friendly institutional and regulatory framework, support 
+techno-economic assessments of renewable energy systems, and 
+develop a biofuels framework, all of which will go a long way in assisting 
+us with the implementation of the Draft Renewable Energy Strategy for 
+Zambia.
+Zambia fully supports the mandate of IRENA to promote the deployment of renewable energy worldwide. We also fully endorse the RRA 
+process, which creates a solid foundation for enhancing the contribution 
+of renewable energy to social and economic development, not only for 
+Zambia but for the rest of Africa as well.
+Hon. Christopher B. Yaluma, MP
+Minister of Mines, Energy 
+and Water Development,
+ZambiaFOREWORD
+The Africa High-level Consultative Forum held by the International 
+Renewable Energy Agency (IRENA) in July 2011 highlighted the need 
+for technical support for African countries and regions to identify their 
+renewable-energy readiness. The Renewables Readiness Assessment 
+(RRA) process stemming from this involves a holistic evaluation of a 
+country’s conditions and identifies the actions needed to overcome 
+barriers to renewable energy deployment. This is a country-led process, 
+with IRENA primarily providing technical support and expertise to 
+facilitate consultations among different national stakeholders. 
+Since 2011, more than 14 countries in Africa, the Middle East, Latin 
+America and the Caribbean, Asia and the Pacific Islands have undertaken 
+the RRA process, which generates knowledge of good practices and 
+supports international cooperation to enable accelerated deployment 
+of renewable technologies. Zambia, in keeping with its strong and 
+consistent support of IRENA’s mission, is one of those ground-breaking 
+countries. 
+RRA consultations have highlighted the opportunity for Zambia to 
+develop sustainable biofuels for export; the need for an integrated 
+resource plan for power generation; and the capacities that must be 
+built up to expand rural off-grid electricity services. IRENA would like to thank Minister Yaluma and his team for their patience 
+and generosity in hosting this study. Their engagement and input have 
+gone beyond what we could have asked for, and we are grateful for their 
+contribution, which has enriched our insights for further RRAs in other 
+countries in the 2014-2015 period. Additionally, this report will feed into 
+other IRENA regional work, including the Africa Clean Energy Corridor 
+initiative, which aims to fill the power-generation gap and expand energy 
+access along the length of the continent with high shares of renewable 
+energy.
+We sincerely hope that the RRA process will help Zambia to achieve its 
+ambition to scale up renewable energy. IRENA stands ready to provide 
+continuing support to Zambia in implementing the actions identified.
+Adnan Z. Amin
+Director-General, IRENACONTENTS
+ACRONYMS XI
+LIST OF FIGURES XII
+LIST OF TABLES XII
+EXECUTIVE SUMMARY XIII
+I. INTRODUCTION 1
+ COUNTRY BACKGROUND 1
+ ENERGY FOR DEVELOPMENT 2
+ RENEWABLES READINESS ASSESSMENT PROCESS IN ZAMBIA 2
+II. ENERGY CONTEXT 5
+ REGIONAL CONTEXT 5
+ ENERGY SUPPLY AND DEMAND IN ZAMBIA 8
+ ELECTRICITY SYSTEM 9
+ RENEWABLE ENERGY POTENTIAL 14
+III. ENABLING ENVIRONMENT FOR RENEWABLE ENERGY 21
+ KEY ENERGY STAKEHOLDERS 21
+ ENERGY POLICIES AND REGULATORY FRAMEWORK 25
+ FINANCING AND INVESTMENT 27
+IV. EMERGING ISSUES IN THE DEPLOYMENT OF RENEWABLE ENERGY 32
+ ON-GRID ELECTRICITY 32
+ OFF-GRID RENEWABLE ENERGY OPTIONS 36
+ BIOFUELS 43
+ OPPORTUNITIES AND CONSTRAINTS FOR SCALING UP RENEWABLE 
+ ENERGY DEPLOYMENT 45V. SUMMARY OF RECOMMENDED ACTIONS 47
+VI. BIBLIOGRAPHY 50
+ANNEX: DETAILED DESCRIPTION OF RECOMMENDED ACTIONS 53
+Action 1: Develop integrated resource planning for all renewable sources 53
+Action 2: Revise approach to setting renewable energy targets 54
+Action 3: Revise and adopt the draft Grid Code, including 
+ renewable power provisions 55
+Action 4: Develop policies and regulations for private-sector involvement
+ in decentralised renewable technologies 56
+Action 5: Develop utility-scale renewable power projects with a 
+ bankable purchase agreement 57
+Action 6: Establish business models for private-sector 
+ off-grid renewable energy 58
+Action 7: Build capacity for renewable energy deployment 59
+Action 8: Develop the framework and sustainability criteria for 
+ feedstock optimisation and biofuel production 60ACRONYMS
+CEEEZ Centre for Energy, Environment and Engineering Zambia 
+CEC Copperbelt Energy Corporation 
+ERB Energy Regulation Board
+GDP Gross domestic product
+GWh Gigawatt-hour
+IPP Independent power producer
+IRENA International Renewable Energy Agency
+km Kilometre
+kV Kilovolt
+KWh Kilowat-hour
+LHPC Lunsemfwa Hydro Power Company
+MEWD Ministry of Energy and Water Development
+MMEWD Ministry of Mines, Energy and Water Development
+MW Megawatt
+NDP National Development Plan
+NGO Non-governmental organisation
+OPPPI Offi ce for Promoting Private Power Investments
+PJ Petajoules
+PPA Power Purchase Agreement
+PV Photovoltaic 
+REA Rural Electrifi cation Authority
+REMP Rural Electrifi cation Master Plan 
+RGC Rural Growth Centres
+RRA Renewables readiness assessment 
+SADC Southern African Development Community 
+SAPP Southern African Power Pool
+UNIDO United Nations Industrial Development Organization 
+ZESCO Zambia Electricity Supply Corporation Limited
+ZDA Zambia Development AgencyLIST OF FIGURES
+Figure 1 The Southern African Power Pool 07
+Figure 2 Total Primary Energy Supply by Fuel. 08
+Figure 3 Zambia Power Sector 09
+Figure 4 Historical Electricity Consumption of Zambia by Sector 1 0
+Figure 5 Zambia National Grid Network and Regional Interconnectors 1 2
+Figure 6 Global Solar Irradiation of Zambia 1 7
+Figure 7 Detailed Wind Hotspots for Zambia 1 9
+Figure 8 Internal Rate of Return against Tariff s 38
+Figure 9 Reduced Electricity Demand from the Installation 
+of Solar Water Heaters 40
+Figure 10 Tunisian PROSOL Business Model 41
+LIST OF TABLES
+Table 1 Zambia Plan for Increased Generation Capacity 1 1
+Table 2 Zambia Transmission Infrastructure Projects under Implementation 13
+Table 3 ZESCO’s Proposed Tariff Path for 2012-2015 14
+Table 4 Availability and Utilisation of Renewable Sources in Zambia 15
+Table 5 Least Cost Analysis 37
+Table 6 Economical Distance Limit per Technology 39EXECUTIVE SUMMARY
+Zambia is a Southern Africa Development Community (SADC) member 
+state with a population of nearly 14 million people, an average growth 
+rate of 2.9% and a current urbanisation rate of 3.2%. The population 
+is 36% rural, with about 67% of the rural population living in extreme 
+poverty. The estimated gross domestic product (GDP) in 2011 was 
+USD 22.6 billion, translating to a per capita GDP of USD 1,600. The 
+energy sector as a whole dominated by biomass, making up over 80% of 
+supply and 70% of demand. Electricity is predominantly supplied from 
+large hydropower, which provides 99% of the country’s electricity, with 
+the remainder coming from mini-hydro and diesel plants. 
+The country has significant renewable energy resources, including hydro, 
+biomass, solar, wind and geothermal energy that can be exploited for 
+both on-grid and off-grid systems. However, the national public utility, 
+the Zambia Electricity Supply Corporation (ZESCO), dominates the electricity supply industry (accounting for 94%), with two other operators 
+providing a small share (6%) of generation and 86% and 14% of transmission capacity, respectively. For hydro power, the current installed 
+capacity is about 1,900 megawatts (MW), while the potential exceeds 
+6,000  MW, of which 3,000 MW could be harvested through planned 
+projects. Zambia is currently battling an electricity supply deficit and 
+has low electrification rates, 45% in urban and 3% in rural areas, while 
+aiming to reach 90% and 51% access by 2030 in urban and rural areas, 
+respectively. Considering its flexibility and ease of deployment, renewable energy is well poised to contribute to meeting this challenge. For 
+this reason, undertaking a thorough renewable-energy resource assessment is essential. Zambia’s untapped potential in the sector, once 
+known, can contribute to meeting future electricity demand, especially 
+given that the costs of renewable energy are coming down.
+Zambia agreed to be part of the Renewable Readiness Assessment 
+(RRA) roll-out project supported by the International Renewable Energy 
+Agency (IRENA) to enhance deployment of renewable energy in Africa 
+and globally. The RRA consultations have given Zambia the chance to 
+more carefully consider how to exploit its extensive renewable energy 
+resources. This will require technical, policy, regulatory and capacity 
+readiness with specific regard to developing renewables. The country, in its energy policy to date, has put more 
+emphasis on grid-connected hydropower 
+rather than other renewable energy technologies, although key government instruments, including Vision 2030, the Poverty 
+Reduction Strategy Paper (PRSP) and 
+National Development Plans (NDPs) allude 
+to the importance of harnessing other 
+renewable energy resources to meet the 
+country’s growing energy needs. 
+In regard to the legislative and regulatory 
+framework, Zambia has put in place an 
+energy regulator and developed a domestic 
+Electricity Act and Energy Regulation Act, 
+which provide some regulatory oversight 
+of the electricity sector. It has developed 
+a draft Zambia Grid Code that includes 
+necessary provisions for the integration 
+of variable power (large- and small-scale) 
+in the grid network. In 1999, the Office 
+for Promoting Private Power Investment 
+(OPPPI) was established as part of regulatory reforms to support the development 
+of the power sector. The OPPPI was set up 
+to be a ‘one window operation’ to reduce 
+the complexity of procedures, rules, regulations and red tape usually associated 
+with obtaining the required approvals, 
+permits and licences for investors in the 
+electricity sector. In addition, independent power producers (IPPs) have some 
+experience generating and/or transmitting electricity to the national grid, and 
+IPPs such as the Lunsemfwa Hydropower 
+Corporation (LHPC) and the Copperbelt 
+Energy Corporation (CEC), along with, 
+in recent years, foreign private investors, 
+have expressed interest in the powergeneration sector, although mainly for 
+large hydropower projects. More effort 
+is required to open the electricity market 
+to greater participation by IPPs in nonhydro renewable-energy power projects. 
+The development of new power projects 
+is hampered by the low tariffs prevailing in 
+the country. In 2009, the country decided 
+to migrate towards cost-reflective tariffs by 
+adopting a multi-year tariff framework in 
+order to meet future power demand needs 
+as well as to ensure quality of service. In 
+2010, ZESCO’s average electricity tariff 
+was increased to USD 0.065 per kWh, up 
+25.6% from 2009. To take the tariff efforts 
+a step further, mining-sector tariffs were 
+increased by 30% in 2011, though this 
+was not carried forward to other sectors. 
+ZESCO proposed a four-year tariff increase 
+plan and submitted this to the Energy 
+Regulation Board (ERB) for approval, with 
+the intention of reaching an average tariff 
+of USD 0.13 per kWh in 2015. However, this 
+plan is still under discussion and has not 
+been formally approved. 
+As part of its demand side management 
+plan, ZESCO plans on deploying 350,000 
+solar water heaters in order to save the 
+40% of domestic electricity demand that 
+is attributed to the use of electric water 
+heaters – estimated to account for some 
+150 MW. This would help reduce morning 
+and evening peak use, which were estimated at around 1,480 MW and 1,630 MW, 
+respectively, in 2011. The project is designed 
+in a way that the end-user would not 
+contribute any of the installation costs of 
+the systems, and instead, the utility would 
+bear all initial costs. However, the project 
+has not moved beyond its pilot phase. 
+The current low access to electricity in 
+Zambia is expected to improve, in part 
+because of the Rural Electrification Master 
+Plan (REMP), which is being executed by 
+the dedicated Rural Energy Agency (REA) 
+formed in 2003. The REMP aims to improve 
+rural access to electricity by 15% in 2015 
+and 51% in 2030, but this may be hindered 
+by the considerable financial resources 
+required, as outlined in the plan itself. The 
+REA is in charge of the Rural Electrification Fund (REF), where financial resources are 
+to be provided for the development of 
+rural electrification projects. The fund is 
+mainly drawn from a 3% levy on every unit 
+of electricity consumed, as well as grants 
+and loans from development partners, and 
+is aimed at encouraging private-sector 
+participation by providing finances for project preparation studies and smart-capital 
+subsidies. As part of its mandate, the REA 
+has developed an operational manual that 
+states it will providea capital subsidy of up 
+to 100% for public-led rural electrification 
+projects and can support privately-driven 
+rural electrification projects with up to 50% 
+of their capital costs, with the remaining 
+funds to be secured by the developer. 
+A large programme for the promotion of 
+biofuels was initiated following the adoption of the National Energy Policy (NEP), 
+which provides for the use of biofuels as 
+a source of modern energy through their 
+integration in the transport industry. To 
+that end, statutory instruments legalising biofuels, standards and a regulatory 
+framework on biodiesel, and pricing methodologies were developed, and a zoning 
+exercise was completed, with the support 
+of the Government of Brazil. To carry on 
+from this initiative, the Biofuels Association 
+of Zambia, the Civil Society Biofuels 
+Association, and district and provincial 
+biofuels farmers associations have all been 
+formed. In order to enhance the sector the 
+government is expected to declare biofuels a priority sector, so that investors can 
+benefit from the appropriate incentives.
+KEY RECOMMENDATIONS
+Integrated resource planning is becoming 
+an important tool that allows key stakeholders to participate in the identification 
+School children in Zambia
+Courtesy: REAand optimisation of the appropriate mix of 
+energy resources to meet near- and longterm electricity needs in a sustainable way. 
+It can also enhance a country’s security 
+of supply by including all economicallyviable and environmentally-friendly energy 
+resources. 
+It appears to be beneficial for Zambia to 
+initiate a dialogue that would include all 
+relevant stakeholders in the development 
+of an integrated resource plan (IRP) for 
+power generation that will help guide the 
+country in diversifying its electricity mix 
+while meeting future demand. A prerequisite to such an activity is the undertaking of a thorough renewable energy 
+resource assessment. A renewable energy 
+resource assessment can trigger a remarkable change in the perceptions of decision 
+makers, as well as in their knowledge base 
+and awareness of the country’s renewable 
+potential and opportunities, thereby allowing them to make more informed decisions. 
+Furthermore, a renewable energy resource 
+assessment represents a fairly small investment that can attract significant interest 
+from the private sector, eventually resulting in energy cost reductions. 
+Renewable energy targets that are set 
+based on such a resource assessment 
+would provide a realistic and achievable 
+goal, consistent with the country’s ambitions of adding other renewable energy 
+types to the electricity mix. 
+Such moves would also provide a clear 
+policy signal to attract private-sector 
+investment in renewable energy, especially if the target included a mandatory 
+clause for power generators and those 
+who off-take power in bulk. Establishing a 
+renewable energy target would be an ideal 
+next step for Zambia after its renewable 
+energy resource assessment and should be 
+supported by a strong implementation and 
+monitoring framework aimed at achieving 
+specified target levels. 
+Grid integration of non-hydro renewable 
+energy-based power requires a thorough 
+assessment of grid capability, including for 
+variable power, which entails the enhancement of the grid system through operational decision-making tools, long-term 
+grid-planning studies, meeting the requirements for renewable power generators, 
+and priority access to the grid for electricSolar photovoltaic power plant
+Courtesy: REAity generated from renewable energy. The 
+revision of the draft Zambia Grid Code to 
+include these elements is essential before 
+its formal adoption if the country is resolved 
+to achieve large-scale deployment of nonhydro renewable energy-based power. 
+A programmatic approach for utility-scale 
+renewable energy power projects should 
+be developed with the requisite financial 
+incentives. It should be backed by a standardised bankable PPA in order to attract 
+scalable investment, limit elaborate and 
+tedious negotiations and allow potential 
+investors to form clear expectations about 
+their investments.
+Zambia aims to increase its rural population’s access to electricity through a wide 
+range of solutions in which renewable 
+energy plays a critical role. Two of the solutions considered by all stakeholders in the 
+sector include the dissemination of solar PV 
+systems and the setting up of decentralised 
+renewable energy mini-grids. However, 
+much more needs to be done to scale up 
+the deployment of these technologies. The 
+relatively small size of the off-grid market 
+and low income of end-users do not make 
+it substantially attractive to foreign investors, which is why the sector has mainly 
+involved local private operators with the 
+support of donors and development partners. Local private operators face technical 
+and financial constraints, including lack of 
+technical expertise to develop bankable 
+proposals, insufficient working capital due 
+to difficult access to loans, high interest 
+rates due to high risk perception, and lack 
+of expertise from local financial institutions 
+in appraising off-grid renewable energy 
+proposals. Therefore, the capacity of local 
+private operators and financial institutions 
+alike must be built up, so that they can 
+develop and appraise bankable renewable 
+energy project proposals.
+The country’s objective of increasing rural 
+access to electricity would be well served 
+by creating a level playing field for local 
+private sector involvement. On the one 
+hand, the support provided by the OPPPI 
+to power project developers (greater than 
+10 MW), which includes acquisition of water 
+rights, licenses, permits facilitation and 
+technical support in Environmental Impact 
+Assessments (EIAs), should be extended 
+to small-scale decentralised renewable 
+energy mini-grids (less than 10  MW). On 
+the other hand, the rural electrification 
+approach should cater to commerciallyoriented sustainable-electricity service 
+delivery, by providing performance and 
+matching grants as well as technical 
+assistance to private sector-led project 
+proposals. 
+Affordability of electricity is a key issue in 
+rural Zambia. This could be mitigated by 
+providing options to facilitate end-user 
+access to electricity service, including 
+targeted subsidies and deferred payments 
+schemes that could be pre-financed, either 
+directly by service providers or through a 
+micro-finance institution. A sound business 
+model should be developed for both standalone systems and mini-grids in order to 
+increase the viability and sustainability of 
+decentralised renewable energy projects 
+and improve access to electricity services 
+in rural Zambia. 
+As ZESCO has clearly expressed a willingness to deploy solar water heaters (SWHs), 
+a programme could be developed involving all relevant stakeholders, including 
+the Ministry of Mines, Energy and Water 
+Development, Zambia Business Survey, 
+Zambia Development Agency and energy 
+service companies. Such a programme 
+would include capacity building for all 
+stakeholders – namely policy makers, 
+financial institutions, suppliers, installers and others. These efforts would lead to the 
+development and enactment of supportive 
+policies and measures, including setting up 
+mandatory quotas for different categories 
+of end-users, the inclusion of SWHs in building codes, and financial and fiscal incentives. The programme would also bring 
+about an effective communication strategy, 
+including an awareness-raising campaign 
+aimed at customers and financial institutions, and strong quality control comprising the setting up of SWH standards and a 
+certification scheme for installers to ensure 
+proper operation and maintenance. 
+The local market for biofuels is still to be 
+established, and entering international 
+markets has proven difficult. A review of 
+Zambia’s biofuel strategy and the development of sustainability criteria for biofuel 
+production could help open the international market. 
+Research and development in the 
+biofuels sector is paramount in order to 
+ensure sound development of thebiofuel value chain. Funding should be made 
+available for local research institutions, to 
+conduct further assessments of economically feasible energy crops, to experiment 
+with cost-effective ways to improve oilyield ratios, and to disseminate lessons 
+and best practises to out-growing contract 
+farmers and large-scale plantation owners. 
+Affordability of electricity is a key issue in 
+rural Zambia. This could be mitigated by 
+providing options to facilitate end user 
+access to electricity service including 
+targeted subsidies and deferred payments 
+schemes that could be pre-financed directly 
+by the service providers or through a microfinance institution. A sound business model 
+should be developed for both stand-alone 
+systems and mini-grids to increase viability 
+and sustainability of decentralised renewable energy projects and access to electricity services in rural Zambia. 
+As ZESCO has clearly expressed willingness to deploy SWHs, a programme could 
+be developed involving all relevant stakeholders (including the Ministry of Mines, 
+Energy and Water Development, Zambia 
+Business Survey, Zambia Development 
+Agency and energy service companies). 
+Such a programme would include capacity building for all stakeholders – namely 
+policy makers, financial institutions, suppliers, installers and others. 
+These efforts would lead to the development and enactment of supportive policies 
+and measures, including setting up mandatory quotas for different categories of end 
+users, inclusion of SWHs in building codes, 
+and financial and fiscal incentives. 
+The programme would also bring about an 
+effective communication strategy, including an awareness raising campaign aimed 
+at customers and financial institutions, 
+and strong quality control comprising the 
+setting up of SWHs standards and a certification scheme for installers to ensure 
+proper operation and maintenance. 
+As the local market for biofuels is still to 
+be established and accessing international 
+markets has proven difficult, a review of 
+the biofuel strategy and the development 
+of sustainability criteria for biofuel production could help open the international 
+market. 
+Research and development in the 
+biofuels sector is paramount to ensure 
+sound development of the value chain. 
+Funding should be made available for local 
+research institutions to conduct further 
+assessment of economically feasible 
+energy crops, experiment on cost effective 
+ways to improve the oil yield ratios and 
+disseminate lessons learnt and best practises to out-growing contract farmers and 
+large-scale plantation owners.I. INTRODUCTION
+COUNTRY BACKGROUND
+Zambia is located at the heart of the Southern African Development 
+Community (SADC) and shares its borders with seven other countries, 
+namely Angola, the Democratic Republic of Congo (DRC), Malawi, 
+Mozambique, Zimbabwe, Botswana and Namibia. It spans an area of 
+752,681 square kilometre (km2) and reaches an altitude of 2,300 metres 
+(m) above sea level on the high plateau. Zambia is subdivided into ten 
+provinces, with a total population of 13.8 million. The average population 
+growth rate is 3.06% and the urbanisation rate projected for the years 
+2010-2015 is 3.2%. 
+Zambia has experienced strong economic growth in the past decade, 
+averaging 6% gross domestic product (GDP) growth per annum, and is 
+expected to reach 7.5% growth in 2013. The main contributor of GDP 
+is the service sector, which accounts for 70%, followed by the agriculture sector with 20% and the mining and manufacturing sector with 10% 
+(African Economic Outlook (AEO), 2013). More specifically, the strong 
+growth can be attributed to a combination of improved macro-economic 
+management, economic liberalisation and privatisation and a resource 
+boom. Although the country’s economic and governance landscape is 
+improving, challenges remain. In the 2014 Doing Business report, the 
+country ranked 83rd out of 185 countries, representing a seven-place 
+improvement from the previous year (World Bank, 2013).
+Despite strong economic growth, there has been slow progress in improving human development and social conditions. Indeed, the 2011 Human 
+Development Report (UNDP, 2013) ranked Zambia 163 out of 187 listed 
+countries with a Human Development Index (HDI) score of 0.45, against 
+0.48 for the Sub-Saharan Africa average, and with the exception of 
+education, Zambia was expected to miss most Millennium Development 
+Goals. In addition, inequalities in incomes, assets and social services are 
+on the rise, along with unemployment (worsening from 22% in 2005 
+to 28% in 2010). This is due to the fact that 95% of employed labour 
+is estimated to be in the category of temporary or vulnerable worker 
+or is involved in the informal sector (AEO, 2013). This is further exacerbated by a labour force with low skill level that is concentrated around 
+sectors such as mining, construction and services. In order to address 
+some of these challenges, the government increased the budget share 
+of its social protection programme to 2.8% in 2013 with the objective of 
+pursuing various social safety net programmes such as public welfare 
+assistance and social cash transfers. ENERGY FOR DEVELOPMENT
+The Government of Zambia highlights 
+energy as being a driving force for the 
+socio-economic development of the 
+nation. This is evidenced through its 
+Zambia Vision 2030, which represents the 
+first long-term plan of the country’s aspiration to become a prosperous middleincome nation. More specifically, the 
+vision aims to provide “universal access 
+to clean, reliable and affordable energy 
+at the lowest total economic, financial, 
+social and environmental cost, consistent with national development goals, by 
+2030”. Consequently, the government has 
+been undertaking a number of actions to 
+improve access to reliable and affordable 
+energy services, by developing five-year 
+National Development Plans (NDPs) with 
+a clear role for energy. The 6th NDP (2011 
+to 2015) focuses on securing reliable and 
+affordable electricity supplies to spur the 
+expansion of the country’s growth sectors, 
+namely mining, agriculture, tourism and 
+manufacturing (Ministry of Finance and 
+National Planning (MOFNP), 2011). With 
+the national electrification rate standing at 22% (45% urban and 3% rural), a 
+specific focus has been placed on enhancing national access to electricity to at least 
+40% nationally by 2015 (with 15% access 
+rate for rural communities). 
+Mining is one of the most important 
+sectors of the Zambian economy, contributing about 9% directly to GDP in 2010 
+(USD  590  million), with possible indirect 
+contribution to the economy being as much 
+as 50%. The direct contribution may reach 
+USD 1.35 billion by 2015 (Zambia Extractive 
+Industry Transparency Initiative, 2010). 
+Moreover the sector is the major contributor of foreign exchange earnings, accounting for an estimated 70% of total earnings 
+in 2010. Copper exports alone accounted 
+for 78% of the Zambia’s total exports in 
+2010 (Ibid), with a value of USD 5.8 billion. 
+The sector is currently the major energy 
+consumer and will need to be adequately 
+supplied to maintain the key role it plays in 
+the national economy.
+Given Zambia’s vast natural resources in 
+terms of land, water and fertile soil, and 
+with over 80% of the population relying 
+on agriculture-related activities for their 
+subsistence, transforming the agriculture 
+sector is paramount to achieving the Vision 
+2030. However, the sector faces many 
+challenges that result in low agriculture 
+productivity, including the use of traditional agricultural practises and the lack of 
+infrastructure and machinery to conserve 
+and transform harvest into higher value 
+agro-industrial products. Energy can play 
+an important role in moving from subsistence-led agriculture to an agro-industry 
+and export-oriented sector while ensuring 
+greater food security.
+Finally, traditional biomass is the country’s main source of energy, accounting 
+for more than 70% of energy consumption with 57% of urban populations using 
+traditional biomass and 97% in rural areas 
+(Central Statistical Office, 2012). Firewood 
+is mostly used for cooking in rural areas 
+while the main fuel used in urban areas is 
+charcoal. The charcoal industry is thought 
+to employ about 500,000 individuals in 
+the country along its supply chain, including producers, distributers and marketers 
+(Mwitwa and Makano, 2012).
+THE RENEWABLES READINESS 
+ASSESSMENT (RRA) 
+PROCESS IN ZAMBIA
+The Renewable Readiness Assessment 
+(RRA) endeavour for Zambia was heavily reliant on a senior official of the 
+Department of Energy (DoE) of the Ministry 
+of Mines Energy and Water Development 
+(MMEWD). As a first step, the Department 
+of Energy official and the national consul-tant were both made familiar with the RRA 
+methodology. Next, national experts were 
+identified from key institutions (including 
+policy-making, regulatory and promotion 
+agencies, non-governemntal organisations (NGOs), financial institutions, private 
+sector and academia/research) to participate in the process. An initial consultation 
+with the identified stakeholders led to the 
+identification of three main areas of focus 
+for the RRA in Zambia that are: on-grid 
+electricity, off-grid electricity and biofuels. 
+The stakeholders were divided into subgroups according to the three areas aforementioned and met to select and discuss 
+the relevant service resource pairs for the 
+country, capturing current status, issues/
+problems, capacity needs and proposed 
+concrete actions. 
+The RRA Workshop was organised on 10-11 
+December 2012 and saw participation from 
+the National Expert Team, the International 
+Renewable Energy Agency (IRENA) and 
+SADC, where they reviewed the templates, 
+provided further inputs and built a consensus on the recommended actions. Bilateral 
+meetings were also scheduled for IRENA 
+and the SADC with high level stakeholders from the government, utility, private 
+sector and financial institutions to balance 
+and complement the process. Based on the 
+outcomes of the RRA workshop and the 
+findings from the bilateral meetings, the 
+RRA report was drafted and submitted for 
+peer-review. 
+This document presents the Zambia RRA 
+Country Report. The report is structured 
+into five substantive sections. 
+Section 1 presents the introduction, 
+covering country background, the IRENA 
+RRA methodology and process, and the 
+RRA process in Zambia. 
+Section 2 presents both the energy and 
+renewable energy context in the region, 
+an overview of the energy sector in 
+Zambia, challenges facing the energy 
+sector, and an overview of renewable 
+energy potential and use. 
+This section also provides a detailed 
+discussion of the electricity sector. 
+Section 3 explores Zambia’s energy 
+sector institutions, the policy and regulatory framework as well as the conditions for financing and investment in the 
+country. Section 4 presents the emergent issues with respect to solar/wind 
+electricity (on-grid), a range of decentralised (off-grid) applications, and 
+the biomass sector. Opportunities and 
+constraints that affect the scaling up of 
+the deployment of these technologies 
+will be discussed along with the findings 
+from the RRA process. Section 5 presents 
+the recommended actions necessary for 
+scaling up renewable energy systems in 
+Zambia. Finally, the detailed account of 
+the recommended actions from the RRA 
+can be found in the Annex.
+Roof-mounted solar photovoltaic: rural electrification.
+Courtesy: REAVictoria Falls on the Zimbabwe-Zambia border
+Courtesy: REAII. ENERGY CONTEXT
+REGIONAL CONTEXT
+Zambia is a member state of the SADC that was formed in 1992 and 
+is currently comprised of 15 countries1
+. The SADC population is about 
+280 million and its combined GDP in 2010 of USD 575.5 billion was growing at 5.14%. In 2008, the SADC primary energy supply was estimated 
+around 9,552 petajoules (PJ) (International Energy Agency, 2011). Coal 
+dominated the primary energy mix with a large share of 44%, followed 
+by renewable energy (39%), oil (14%), gas (2%), and nuclear (1%). The 
+39% share for renewable energy is distributed among traditional biomass 
+(36.66%), primarily used for cooking and heating, hydro (1.95%), and 
+modern biomass (0.39%). Other renewable energy sources such as solar, 
+geothermal, wind and biofuels were negligible (Ibid).
+The SADC has drawn up many energy access goals. The strategic goal 
+of energy access to adequate and reliable energy services for the 
+entire SADC region was identified as playing a pivotal role in achieving a regional growth rate of 7% and reducing poverty on a sustainable 
+basis. As a step toward this objective, the SADC established an operational goal to reduce the number of SADC inhabitants who do not have 
+access to energy services by 50% by 2020, and halve the number of 
+those remaining without access every five years until the strategic goal 
+of full access is achieved. The 10-year goal to halve the number of people 
+without energy access is indicative of the political will in the region to 
+address energy access. Efforts to increase access to energy focus on the 
+expansion of distribution networks, often implemented by the national 
+utilities, and the use of small-scale distributed generation, often implemented through Rural Electrification Agencies (REAs) or funds.
+Furthermore, the SADC is putting in place a Regional Renewable Energy 
+and Energy Efficiency Agency (SACREEE) in response to the requirement 
+identified by the SADC member countries’ ministries of energy and other 
+regional stakeholders during a consultation process. Upon its establishment, the SACREEE will concentrate on creating the enabling environment for the uptake of renewable energy and energy efficiency through 
+energy planning and policies; business models and technical innovation; 
+1 SADC continental member countries are: Angola, Botswana, the DRC, Lesotho, 
+Malawi, Mozambique, Namibia, South Africa, Swaziland, Tanzania, Zambia and 
+Zimbabwe. The island member countries are; Madagascar, Mauritius and Seychelles.finance and risk management; capacity 
+building and knowledge management
+In 1995, 12 continental SADC member 
+countries signed an inter-governmental 
+memorandum of understanding (MoU) 
+that led to the creation of the Southern 
+African Power Pool (SAPP) with the aim of 
+creating a common market for electricity 
+that would provide reliable and economical electricity to the consumers in each 
+SAPP member country, optimise the use 
+of available energy resources in the region, 
+and support inter-country co-operation 
+during emergencies. This initiative has 
+been furthered by the 1996 signing of the 
+Regional Energy Protocol, which recognises the need for a co-ordinated approach 
+to energy strategy formulation and planning for the SADC.
+The SAPP electricity mix is dominated by 
+coal with 74% of the total, followed by hydro 
+20% (largely from the Congo and Zambezi 
+basins), nuclear 4% and diesel 2% (SADC, 
+2012). As of 2012, SAPP’s total installed 
+capacity was 57,182 Megawatts (MW) with 
+an available capacity of 51,702 MW, against 
+a peak demand of 53,833 MW (SAPP, 2013). 
+The region is facing a critical power shortage due to escalating demand growth and 
+capacity addition projects that are lagging 
+behind targeted schedules. In 2009 the 
+first SAPP master plan was commissioned 
+based on member countries’ national plans 
+and envisaged an additional total capacity 
+of 56 GW by 2025 composed of 23,883 MW 
+of coal, 18,045 MW of hydro, 14,758 MW of 
+gas and no non-hydro renewable energy. 
+However, as countries are aspiring to 
+a cleaner electricity mix, this has been 
+reflected in their national plans and in the 
+2012 SAPP plans, with additional capacity of 55.5  GW comprising of 9,650  MW 
+of coal, 14,646 MW of hydro, 9,600 MW of 
+nuclear, 7,600 MW of gas and 14,000 MW 
+of non-hydro renewable energy (wind and 
+solar).
+Electricity generation, transmission 
+and distribution in the SAPP are mainly 
+provided by publicly-owned, vertically 
+integrated national utilities. Independent 
+Power Producers (IPPs) and independent transmission companies (ITCs) have 
+now been introduced by different SADC 
+countries, albeit with varying degrees of 
+success. Policies in most countries reflect 
+an aspiration for greater private sector 
+involvement in power generation, but 
+efforts are hampered by risk perceptions 
+from investors due to unfavourable legal 
+and regulatory frameworks for private 
+sector participation (namely, concerns 
+over competition between public and 
+private generation assets), and difficulties 
+in developing well-structured bankable 
+projects (Development Bank of Southern 
+Africa, 2010).
+The interconnected grid is operated 
+through three control areas run by 
+Eskom (for Botswana, Lesotho, Southern 
+Mozambique, Namibia, Swaziland and 
+South Africa), Zimbabwe Electricity Supply 
+Authority (for Zimbabwe and Northern 
+Mozambique) and ZESCO (for the DRC and 
+Zambia). The three utilities, or the system 
+operators, are responsible for balancing 
+electricity supply and demand and power 
+flows within their control areas. Besides 
+being one of the control area operators, 
+Zambia plays a critical role in the SAPP, 
+both as a supplier of hydropower from 
+the Zambezi River Basin, but also an 
+interconnector to the Congo River Basin. 
+Lunsemfwa Hydro Power Company and 
+Copperbelt Energy Corporation are two 
+successful IPPs in Zambia, with the later 
+also being an ITC. Most of the SAPP power 
+exchanges take place within the Eastern 
+and Central area shown in more detail in 
+Figure 1. 
+The Zambian power grid is interconnected 
+to the DRC in the north and Zimbabwe in 
+the south. On-going projects seek to inter-Figure 1
+The Southern African Power Pool
+Based on: SAPP (www.sapp.co.zw)
+The term "country" as used in this material also refers, as appropriate, to territories or areas.connect the country to Tanzania in the 
+northeast, Malawi in the east and Namibia 
+in the west through the Zimbabwe-ZambiaBotswana-Namibia interconnector. Zambia 
+is also a participant in the SAPP Day Ahead 
+Market (previously known as the Short 
+Term Energy Market).
+ENERGY SUPPLY AND 
+DEMAND IN ZAMBIA
+The total primary energy supply of Zambia 
+is composed of four main sources: biomass, 
+hydro, oil and coal (Figure 2). Biomass 
+(firewood and charcoal) is very important, accounting for 80% of the country’s energy needs by providing 284  PJ 
+mainly for household cooking and heating 
+purposes. In 2011, hydropower met 12% of 
+the energy needs, providing 41  PJ mainly 
+for electricity. Oil products accounted for 
+9% of the energy needs, used mostly for 
+transport and electricity generation. As 
+Zambia currently does not produce any 
+crude oil, the country relies entirely on 
+imports through a 1,500 km pipeline from 
+Tanzania to a local refinery (with a capacity 
+of 1 million tonnes) where it is refined into 
+petrol, kerosene, diesel, aviation gas, and 
+heavy fuel oil. Oil imports cost the country about USD 0.5 billion per annum (2.3% 
+of GDP in 2011). Although there are proven 
+recoverable reserves of coal estimated at 
+around 30 million tonnes, and with copper 
+mines utilising about 2,000 tonnes of coal 
+annually, the contribution of coal in the 
+current energy mix remains insignificant. 
+However the country does plan on expanding its generation capacity by an additional 
+600 MW of coal by the end of 2014.
+Figure 2
+Total Primary Energy Supply by FuelELECTRICITY SYSTEM
+The Zambia electricity sector is composed 
+of a state-owned, vertically-integrated utility named ZESCO, a private company that 
+generates power to the grid and manages 
+off-grid small hydro systems called the 
+Lunsemfwa Hydro Power Company (LHPC), 
+and the Copperbelt Energy Company2 
+(CEC); the latter provides electricity to 
+the bulk of the mining sector from power 
+purchased from ZESCO, and through 
+its own gas-fired power plants. Finally 
+the Zengamina Hydro Power Company 
+(ZHPC) and the North West Energy 
+Corporation  (NWEC) distribute electricity to rural mining communities from offgrid mini hydro plants and the national 
+grid, respectively (Figure 3). ZESCO, the 
+CEC and the LHPC are currently the major 
+power generators with shares of 94%, 4% 
+and 2%, respectively. With regard to transmission activities, the respective shares are 
+69%, 29%, and 2%.
+Electricity demand grew by an average 
+rate of 3.5% between 2002 and 2010 with 
+about 45% consumed by the mining industry, 30% by the residential sector, 15% by 
+the commerce and industry sectors and 
+2 Since 2012, the CEC has been an independent power transmitter as part of the SAPP.
+Figure 3
+Zambia Power Sector
+Source: Kapika and Eberhard, 2013 the rest consumed by export, social and 
+agricultural services (Figure 4).
+Demand for electricity is projected to 
+grow, with mining expected to consume 
+49%, industry/commerce 20%, residential 
+15%, agriculture 10%, social 5% and exports 
+2% of electricity produced according to 
+the 2018 demand forecast. The current 
+total installed capacity of 1,976 MW is only 
+providing about 1,650 MW of power while 
+peak demand is estimated at 1,800  MW 
+and growing at 100  MW per year. Based 
+on this it can be seen that electricity 
+demand has clearly outstripped generation, with a power deficit during peak time 
+of 250  MW, thus resulting in some challenges in the form of interruption in power 
+supply (ZESCO, 2013b). This is corroborated by the load shedding timetable that 
+ZESCO makes available for its customers. To address these issues Zambia has 
+therefore developed the Zambia Power 
+Rehabilitation Project (PRP), which is 
+expected to fill in the electricity supply 
+demand gap and include rehabilitation of 
+existing power stations, upgrade transmission and distribution lines, as well as 
+demand side management measures with 
+a budget of more than USD  320  million 
+supported by the World Bank, European 
+Investment Bank (EIB) and ZESCO. 
+Regarding demand side management, 
+ZESCO plans on deploying energy efficient 
+light bulbs, prepaid metres and solar water 
+heaters to shave off-peak loads. 
+Figure 4
+Historical Electricity Consumption of Zambia by Sector
+Source: ZESCO, 2013aGENERATION CAPACITY
+The PRP has allowed ZESCO to increase its 
+installed capacity by an additional 210 MW 
+by upgrading the Kafue Gorge Hydro Dam 
+to 990 MW from 900 MW, the Kariba North 
+Bank Dam to 720 MW from 600 MW and 
+bringing the Victoria Falls Power Station 
+to its full generating capacity of 108 MW. 
+Additionally, a number of generation 
+projects are to be developed in the short 
+term (both hydro and coal) including the 
+Kariba North Bank, Maamba Coal-Fired 
+Thermal Power Station, Lunzua Mini-Hydro 
+Power Plant, Itezhi-Tezhi Dam, EMCO CoalFired Thermal Power Station, Kabompo, 
+Kalungwishi Hydroelectric Project and 
+Kafue Gorge Lower (Table 1). If this project 
+pipeline is commissioned as expected, the 
+country’s energy generation mix will shift 
+from 99% hydro-based to just over 60% 
+hydro-based by 2017.
+In the medium- to long-term, the country 
+intends to further tap into its hydropower 
+potential, estimated at about 6,000  MW, 
+to develop an additional 2,800 MW of new 
+generation.
+Rural areas that are not connected to the 
+national grid are supplied by diesel power 
+stations (with a total capacity of 7  MW) 
+and decentralised micro hydro power 
+stations (with a total capacity of less than 
+1 MW) (MEWD, 2009). 
+Qualitative resource potential for off-grid 
+is reasonably known but there is a need for 
+a comprehensive study to quantify these 
+potentials. 
+GRID INFRASTRUCTURE
+The Zambia National Grid is composed of 
+the main 330 kilovolts (kV) trunk line that 
+spans a total of 2,241 km across the country, 
+from the south where the main hydropower 
+generation stations are located (Kariba 
+North and Kafue dams), to the north in 
+the Copperbelt area where the main load 
+centres are located due to mining activities. The rest of the transmission network is 
+composed of 348 km of 220 kV lines serving as interconnectors with the neighbouring DRC, Namibia and Zimbabwe, 202 km 
+of 132 kV lines and 754  km of 88 kV mainly 
+in the Lusaka area, and 3,033 km of load 
+Table 1 
+Zambia Plans for Increased Generation Capacity
+Project Capacity (MW) Implementers ECD 
+Kariba North Bank 360 ZESCO 2013
+Maamba Coal-Fired TPS* 300 NAVA BHARAT 2013
+Lunzua Mini HPP** 15 ZESCO 2014
+Itezhi-Tezhi Dam 120 ZESCO/TATA 2014
+EMCO Coal-Fired TPS^ 300 EMCO Energy Zambia 2014
+Lusiwasi 86 ZESC0 2015
+Kapombo 40 CEC 2015
+Kalungwishi HP^^ 163 Lunzua Power Authority 2015
+Kafue Gorge Lower 750 ZESCO/SINOHYDRO/CAD Fund 2017
+*Maamba Coal-Fired Thermal PowerStation **Lunzua Mini-Hydro Power Plant
+^EMCO Coal-Fired Thermal Power Station ^^Kalungwishi Hydroelectric Project
+ECD: Estimated Commencement Date
+Based on: ZESCO, ERB, CECtransmission lines, and 66 kV in the northeastern and western part of the country 
+(Figure 5). 
+As part of the PRP, ZESCO plans on 
+upgrading existing transmission infrastructures and developing new ones to evacuate additional power from rehabilitated 
+and new power plants (Table 2). In addition 
+to these projects, the country has planned 
+on further expanding the national grid to 
+the north-western province to new mining 
+areas and developing new interconnectors 
+with neighbouring countries to increase 
+power trade.
+The country had identified grid extension as being the main strategy to expand 
+access to rural areas as highlighted in the 
+2009 Rural Electrification Master Plan 
+(REMP). The REMP was developed with the 
+following principles: 
+ Develop a logical, objective, numerical/
+quantitative, and convincing master 
+plan.
+Based on: ZESCO (2013b) Map, pg 12
+Figure 5
+Zambia National Grid Network and Regional Interconnectors Adopt a decentralised planning process3
+for selecting Rural Growth Centres 
+(RGCs) and demand/ supply criteria4 for 
+their clustering into packages (180).
+ Provide realistic a financial plan to be 
+implemented.
+The REMP identified that 80% of the country’s RGCs will be electrified through grid 
+extension. However in order to achieve the 
+goals set in the REMP an annual amount 
+of USD 50 million is required. Mobilising 
+this amount has been so far a challenge, 
+leading to slow progress in reaching annual 
+targets of the REMP. 
+Finally, the country’s distribution network 
+consists of the main distribution network 
+fed from the national grid and isolated 
+networks served through stand-alone 
+diesel generators and small hydro power 
+plants. The total system losses in the 
+Zambia grid network were estimated at 
+13.1%, with transmission losses averaging 
+4.6% and distribution losses averaging 
+13.8% in 2011 (ZESCO, 2011). 
+COSTS AND TARIFFS 
+Current production cost for large hydro 
+plants, based on the available sizes feeding into the national grid, range between 
+USD  0.02 to USD  0.03  per  kilowatt-hour 
+(kWh), while the production cost for 
+small and mini-hydro plant range between 
+USD  0.50 to USD  1  per  kWh, and finally 
+USD 0.35 per  Wh for isolated diesel power 
+plants (Electricity Regulation Board (ERB), 
+2008).
+Prior to 2008, Zambia enjoyed the lowest 
+electricity tariff in Southern Africa, with an 
+average tariff of USD 0.027 per kWh, which 
+given the generation costs, are clearly not 
+cost reflective. This may have hampered 
+new investment in the power sector and 
+could partly explain why the last power 
+Table 2 
+Zambia Transmission Infrastructure Projects under Implementation
+Project Capacity (MVA / kV) ECD
+KNBE- Kafue West 700 / 330 2013
+Kalungwishi – Kasama 700 / 330 2013
+Maamba – Muzuma 1400 / 330 2013
+Kafue Gorge Lower – 
+Lusaka South–Lusaka West (330kV) 1400 / 330 2013
+Kafue West – Muzuma – Livingstone 700 / 330 2014
+Itezhi-Tezhi – Mumbwa – Lusaka West 200/ 220 & 330 2015
+Pensulo – Kasama 700 / 330 2016
+Pensulo – Chipata 700 / 330 2016
+ECD: Estimated Commencement Date
+3 RGCs have been selected as electrifi cation candidates based on information submitted by district planners 
+who attended workshops held in all the nine provincial centres.
+4 For the demand side potential, daily peak demands for the 1,217 un-electrifi ed RGCs were forecasted by 
+using the demographic data of these 1,217 RGCs and analysing the data collected from 19 electrifi ed RGCs 
+in the Socio-Economic Survey. 
+For supply side, the Unit Lifetime Cost (USD/kWh) of each electrifi cation mode (grid extension, solar 
+home systems, mini-hydro and diesel generator) was estimated, and electrifi cation mode having the 
+least Unit Lifetime Cost was selected as the optimal case.generation project was commissioned 
+more than 40 years ago. In 2009, the 
+country decided to migrate towards costreflective tariffs by adopting a multi-year 
+tariff framework in order to meet future 
+power demand needs as well ensure quality of service. Therefore in 2010, ZESCO’s 
+average electricity tariff was increased to 
+USD 0.065 per kWh (up 25.6% from 2009). 
+In 2011, a further step was made to increase 
+the tariffs of the mining sector by 30%, 
+with no incidence on other sectors. ZESCO 
+proposed a four year tariff increase plan 
+and submitted it to the ERB for approval 
+with the intention of reaching an average 
+tariff of USD 0.13  per kWh in 2015 (Table 
+3). 
+The rationale behind this tariff application 
+is underlined by the prevailing economic 
+conditions, the changes in generation, 
+transmission and distribution costs, the 
+expansion of the system and thereby the 
+customer base and the rising cost of electricity imports. 
+RENEWABLE ENERGY POTENTIAL
+Zambia is well endowed with renewable 
+energy resources, mainly hydropower in 
+nature. These sources have great potential 
+for electricity production and use in many 
+sectors, but data on renewable energy 
+resources is not readily available as shown 
+in Table 4.
+SMALL HYDRO 
+Zambia’s hydro power potential is estimated at more than 6,000 MW with only 
+1,700  MW so far exploited. The Rural 
+Energy Agency (REA) identified 29 small/
+mini hydro sites mainly in Northern and 
+Luapula, (4  MW) and North-Western 
+Province (13 MW). A number of feasibility 
+studies have been undertaken in selected 
+minihydro potential sites and the planned 
+small hydro capacity (<30 MW) till 2019 is 
+about 45 MW. For off-grid application, there 
+are plans by the private sector to develop 
+additional off-grid hydro power projects 
+Table 3 
+ZESCO’s Proposed Tariff Path for 2012-2015
+KNBE 2010/2011 2011/2012 2012/2013 2013/2014 2014/2015 2015/2016
+Avg. Price 
+USD/KWh5
+Residential 0.07 0.07 0.09 0.12 0.16 0.18
+% Change 32% 39% 34% 11%
+Large Power 0.05 0.05 0.05 0.06 0.08 0.09
+%Change 11% 22% 23% 11%
+Small Power 0.05 0.04 0.06 0.07 0.09 0.11
+% Change 24% 19% 40% 15%
+Commercial 0.07 0.07 0.08 0.10 0.13 0.14
+% Change 24% 21% 29% 12%
+Services 0.05 0.05 0.06 0.08 0.10 0.12
+% Change 18% 29% 37% 14%
+Weighted Average6 0.05 0.07 0.09 0.12 0.13
+% Change 26% 31% 34% 13%
+5 Tariff s were changed in USD/kWh using exchange rate of 1 USD = 5 195 Zambian Kwacha.
+6 Weighted Average Tariff s do not include mining and exports tariff s.to include Chavuma (15 MW), West Lunga 
+(3 MW), and Chitokoloki Mission (0.15 MW) 
+(MEWD, 2009). Furthermore, the REA is 
+undertaking a feasibility study and detailed 
+engineering design for a 3.5  MW off-grid 
+hydropower generation plant at Chikata 
+Falls and a 500  KW power generation 
+plant at Kasanjiku Falls in Kabompo and 
+Mwinilunga districts, respectively, in NorthWestern Province.
+BIOMASS
+Zambia has a total biomass resource 
+and economic bioenergy potential of 
+2.15  million  tonnes, and 498  MW, respectively (MEWD, 2008). The largest contribution is from agriculture waste, which registered 90% of total potential followed by 
+forest waste with 9.3%.
+ZESCO, in conjunction with United Nations 
+Industrial Development Organisation 
+(UNIDO), had planned to install a 1  MW 
+biomass electricity generation plant to 
+meet the electricity needs of Kaputa 
+District. This facility was meant to replace 
+440  KW installed capacity of a diesel 
+power generation system. ZESCO has 
+since extended the national grid to Kaputa, 
+resulting in the concept being taken 
+over by the CEC, which will utilise feedstock from sawmills on the Copperbelt. 
+Another on-going biomass-based electricity generation activity in Zambia is 
+being implemented at Nakambala Sugar 
+Table 4 
+Availability and Utilisation of Renewable Sources in Zambia
+RENEWABLE 
+ENERGY
+Solar 
+Wind 
+Mini-hydro
+Biomass 
+(combustion and 
+gasification)
+Biomass 
+(biodigestion)
+Biomass 
+(biofuels)
+Biomass 
+(household 
+energy)
+Geothermal
+OPPORTUNITIES/
+USE
+Thermal (water heating), 
+electricity (water pumping, 
+lighting, refrigeration)
+Electricity, mechanical 
+(water pumping)
+Small grids for 
+electricity supply
+Electricity generation
+Electricity generation, 
+heating and cooking
+Ethanol and biodiesel 
+for transport and 
+stationary engines
+Improved charcoal 
+production, improved 
+cook stoves
+Electricity generation
+RESOURCE 
+AVAILABILITY
+6-8 sunshine hours
+Average 3 m/s at 
+10 m height 
+Reasonably extensive
+Agro wastes, forest 
+wastes, sawmill wastes
+Animal waste, agroand industrial waste, 
+wastewater
+Sugarcane, sweet 
+sorghum, jatropha
+Sawmill waste and 
+indigenous trees from 
+sustainable forest 
+management.
+Hot springs
+POTENTIAL ENERGY 
+OUTPUT
+5.5 kWh/m2/day (modest 
+potential especially for 
+limited irrigation)
+Modest potential, 
+especially for irrigation
+Requires elaboration 
+and quantification
+Requires elaboration 
+and quantification
+Potential requires 
+elaboration
+150 km2 of agricultural land 
+to meet current demand
+Reasonably extensive
+Requires elaboration
+and quantification
+Source: MEWD, 2008factory. Presently, Nakambala Sugar uses 
+120,000 tonnes of bagasse from the sugar 
+cane crushing component of the factory 
+to generate 17 MW of electricity. A similar 
+technology is used at Kafue Sugar, but with 
+a smaller output of 3 MW.
+SOLAR ENERGY
+Zambia has an average solar insolation 
+of 5.5  kWh/m2/day, with approximately 
+3,000  sunshine hours annually, providing good potential for solar thermal and 
+photovoltaic applications. A preliminary 
+solar energy potential assessment for 
+Zambia was undertaken using Geographic 
+Information System data. Red regions have 
+the highest solar irradiance values up to 
+2,750  kWh/m2. Zambia’s northern areas 
+recorded the highest global solar irradiation of 2,300 kWh/m2/year (Figure 6).
+The REA has developed a solar mini-grid 
+in Samfya District, Luapula Province. The 
+solar mini-grid project is expected togenerate 60  KW of electricity, which will be 
+supplied to a cluster of villages in the Mpata 
+fishing community, which has an estimated 
+total population of 6,000 people and 617 
+households. The project is being implemented under a loan facility agreement 
+between the Development Bank of Zambia 
+(DBZ) and the REA. The interest-free loan 
+from the Development Bank of Zambia 
+was facilitated by UNIDO, under the Global 
+Environment Facility (GEF) agreement. 
+The REA is providing part of the investment cost for the project. The government of Zambia has received tenders from 
+various institutions to develop a total of 
+30  MW solar photovoltaic (PV), comprising 10 MW in the North-Western Province, 
+10 MW in Eastern Province, and 10 MW in 
+Luapula on a build-own-operate (BOO) 
+model. The bid process is still to be implemented and a policy is required to leverage 
+tariffs currently being charged by ZESCO 
+for on-grid customers. 
+GEOTHERMAL
+Historic surveys have identified over 80 
+hot and mineralised springs in Zambia. 
+Subsequently, a detailed study by an 
+Italian-Zambian joint venture in the mid1980s identified five prospective sites. 
+Kalahari GeoEnergy Ltd., a self-funded 
+private company, entered into an agreement with Government of Zambia in March 
+2011 under which the company would 
+undertake geothermal research, exploration and development. The company has 
+conducted field reconnaissance including 
+hydrochemistry on all identified geotherBiomass power generation.
+Courtesy: REAmal targets, and geophysics on the more 
+prospective targets. Having formulated 
+a conceptual model, Kalahari GeoEnergy 
+will conduct preliminary drilling at its first 
+target, which is a low enthalpy system in 
+a shallow sedimentary setting. It is anticipated that reservoir modelling and a test 
+well will be completed during 2013 and a 
+feasibility study will be completed in 2014. 
+By targeting low-enthalpy geothermal 
+systems, Kalahari GeoEnergy expects to be 
+able to define a number of commercially 
+viable geothermal sites across Zambia, 
+which would provide both on-grid and 
+off-grid power production capability, thus 
+potentially benefiting both established 
+users and the rural electrification and 
+industrialisation programmes. Also, by 
+using modular binary power plants, feasible targets can be brought into production 
+more quickly at a lower capital cost than 
+for large direct steam-fed turbines.
+Figure 6 
+Global Solar Irradiation in Zambia
+Source: IRENA Global Atlas (resolution: 3km)In spite of these efforts, more work is 
+required on comprehensive resource 
+assessments to guide policy formulation 
+to support geothermal energy; including 
+building capacity to design, build, operate 
+and maintain geothermal plants in Zambia, 
+along the lines that Kenya has developed 
+in using this technology. South-South 
+co-operation with regards to an exchange 
+of resources, technology and knowledge 
+with Kenya is commended, but should 
+culminate in technology transfer in addition to building capacity and skills.
+WIND ENERGY
+Wind speeds in Zambia average 3 metres 
+per second (m/s) at 10 m above the ground, 
+a speed which is mainly suitable for 
+mechanical applications. Some meteorological data on wind speeds at 10 m above 
+ground is available, but is not adequate to 
+guide investment for power generation. At 
+that height, wind energy is only useful for 
+mechanical energy, such as water pumping. Indications that higher wind speeds 
+may exist at higher heights, e.g., 70 m to 
+100 m, needs to be explored to direct any 
+strategy to develop wind in Zambia. 
+Encouraging wind hotspots at a higher 
+altitude were identified from a recent 
+SADC study (2012), the Renewable 
+Energy Strategy and Action Plan, around 
+Chongwe area east of Lusaka (Location: 
+28°  47'  40"  East, 15°  30'  45"  South), and 
+along the Muchinga escarpment centred 
+on Chipembele (Location: 31° 28' 57" East, 
+12°  1'  53"  South), which are shown in 
+Figure 7.
+Aerial view of Kalahari Geo-Energy project
+Source: www.kalaharigeoenergy.comFigure 7 
+Wind Hotspots in ZambiaKasanjiku Falls, where micro-hydro has been developed
+Courtesy: REA
+Mini-hydro dam on the Nanshya River, Zambia 
+Courtesy: REAIII. ENABLING ENVIRONMENT FOR 
+ RENEWABLE ENERGY
+KEY ENERGY STAKEHOLDERS
+The main players in the Zambian energy sector and their roles are presented below: 
+MINISTRY OF MINES, ENERGY AND WATER DEVELOPMENT (MMEWD)
+The Ministry of Mines, Energy and Water Development is responsible for policy 
+framework and guidance through the Department of Energy.
+OFFICE FOR PROMOTING PRIVATE POWER INVESTMENTS (OPPPI)
+This is a unit (or cell) within the Ministry of Energy that was set up in 1999 to attract 
+private sector funds for generation (including mini-hydro) and transmission projects.
+ENERGY SECTOR ADVISORY GROUP
+The Energy Sector Advisory Group is a committee formed under the MMEWD, including representatives from government ministries and authorities, development agencies and commercial enterprises. Its purpose is to encourage harmony between all 
+sectors of the economy in terms of energy policy, and provide an informed opinion 
+on energy matters to policy makers.
+ENERGY REGULATION BOARD (ERB)
+This is an independent energy sector regulator responsible for electricity, petroleum 
+and other forms of energy including renewable. The ERB is responsible for ensuring a 
+reasonable return on investment for operators/utilities, quality service at affordable 
+prices to the consumer, licensing of operators/utilities, setting tariffs, and monitoring 
+competition in the market
+RURAL ELECTRIFICATION AUTHORITY (REA)
+Established by the Rural Electrification Act of 2003, the Rural Electrification 
+Authority’s main mandate is to implement rural electrification developing mechanisms for the operation of a grid extension network for rural electrification, as well 
+as applying a subsidy for capital costs on projects designed to supply energy in rural 
+areas. The rural electrification programme also encourages the use of solar technology that has been applied only in pilot projects, with encouraging results.ZAMBEZI RIVER AUTHORITY (ZRA)
+The Zambezi River Authority is the authority responsible for the operation and maintenance of the Kariba Dam Complex, and investigating and developing new dam sites 
+on the Zambezi River. It also analyses and disseminates hydrological and environmental information pertaining to the Zambezi River and Lake Kariba.
+ZAMBIA ELECTRICITY SUPPLY CORPORATION LIMITED (ZESCO)
+The Zambia Electricity Supply Corporation Limited is a state-owned public utility that 
+operates Kafue Gorge Power Station, Kariba North Bank Power Station, Victoria Falls 
+Power Station and the majority of Zambia’s transmission and distribution networks. 
+ZESCO also operates small hydro-power stations and a number of diesel powered 
+generators scattered across the country in areas not connected to the main grid. 
+Total installed capacity is about 1,900 MW.
+COPPERBELT ENERGY CORPORATION (CEC)
+A privately owned utility, the Copperbelt Energy Corporation purchases bulk power 
+mainly from ZESCO and distributes it to the various mines in the Copperbelt. It also 
+operates standby gas turbines.
+LUNSEMFWA HYDRO POWER COMPANY (LHPC)
+The Lunsemfwa Hydro Power Company owns and operates hydropower plants in 
+Zambia (Lunsemfwa and Mulungushi hydro) and sells power to ZESCO Ltd.
+ZAMBIA DEVELOPMENT AGENCY (ZDA)
+The Zambia Development Agency is responsible for fostering the country’s economic 
+growth and development by promoting trade and investment, innovations that 
+promote high skills and productive investment. The ZDA is a one-stop-shop for all 
+investors including those in the energy sector.
+ZAMBIA BUREAU OF STANDARDS (ZABS)
+The Zambia Bureau of Standards’ mandate is to develop and enforce Zambian standards, provide facilities for the examination and testing of commodities, materials 
+and equipment and provide quality assurance schemes including training and consultancy in standardisation, quality management and assurance.
+ZAMBIA GENDER AND ENERGY NETWORK (ZGEN)
+The Zambia Gender and Energy Network is an organisation under the Department of 
+Energy, engaged in the promotion of gender concerns in energy policy consideration. 
+A 2011-2013 strategy has been developed to facilitate the mainstreaming of gender 
+issues into energy policy.BIOFUELS ASSOCIATION OF ZAMBIA (BAZ)
+The Biofuels Association of Zambia (BAZ) is an association of firms, companies and 
+individuals who are producers or service providers in the biofuels industry in Zambia. 
+It is a lead industry association in the promotion of the production and use of biofuels 
+in Zambia, in accordance with quality and social standards, and economically-sound 
+production principles.
+ENERGY AND ENVIRONMENT RESEARCH GROUP (EERG)
+The Energy and Environment Research Group (EERG) is a research and consultancy group within the Department of Physics of the School of Natural Sciences 
+at the University of Zambia. It focuses on energy and environment related to high 
+quality and targeted consultancy, capacity-building and useful research in energy 
+and the environment.
+CENTRE FOR ENERGY, ENVIRONMENT AND ENGINEERING ZAMBIA (CEEEZ)
+The Centre for Energy, Environment and Engineering Zambia (CEEEZ) is a 
+non-governmental research organisation whose activities involve investigating, 
+analysing and making useful conclusions, policy recommendations and providing 
+training in energy and areas that are environmental concerns.
+PETROLEUM SUB-SECTOR FACILITIES
+Key institutions in the petroleum sub-sector are the INDENI Refinery and the TAZAMA 
+Pipeline, linking Ndola in Zambia to the port of Dar-es-Salaam in Tanzania.Grid transmission lines in Zambia
+Source: REAENERGY POLICIES AND REGULATORY FRAMEWORK
+POLICIES AND STRATEGIES
+In 1994, Zambia formulated a National Energy Policy (NEP94) aimed 
+at promoting optimal supply and utilisation of energy, especially indigenous energy forms, for socio-economic development in a safe and 
+healthy environment. 
+In 2002, the country formulated a Poverty Reduction Strategy Paper 
+(PRSP) that acknowledged the importance of harnessing renewable 
+energy resources, mainly hydropower, to meet the country’s energy 
+needs, but did not stipulate the strategy for doing so. 
+Furthermore several five-year National Development Plans (NDPs), 
+namely the Transitional National Development Plan (TNDP) (2002-
+2005), the Fifth National Development Plan (FNDP) (2006-2010), and 
+the Sixth National Development Plan (SNDP) (2011-2015), provided 
+additional perspective with respect to the development of renewable 
+energy in the country.
+The SNDP has capacity addition targets of 1,000 MW above the 2010 
+capacity level and aims to increase electricity access to 15% in rural areas 
+and 40% in urban areas by 2015. In addition, it also provides for the 
+introduction of a cost-reflective electricity tariff regime, establishing an 
+open and non-discriminatory transmission access regime in the electricity sector, and introducing an appropriate cost-effective renewable 
+energy feed-in tariff (FiT). Finally the SNDP laid out the framework for 
+developing a Biomass Energy Strategy to improve the sustainability and 
+effectiveness of biomass supply, as well as how to upscale biogas technologies for cooking, lighting and electricity generation, while targeting 
+a 10% biofuel blending mix with petroleum.
+The implementation of the PRSP and the NDPs has raised new insight 
+and awareness among decision makers on the cross-cutting role of 
+energy in socio-economic development. This prompted a review of 
+the NEP94 in order to take into account recent changes not only in the 
+energy sector and domestic economy, but also at the regional and international level. The review of the NEP was conducted in 2008 through 
+an extensive consultative process that encompassed a wide range of 
+individuals and institutions in the country.The new National Energy Policy formed in 
+2008 (MEWD, 2008) set out the government’s intentions to ensure that the energy 
+sector’s potential to drive economic growth 
+and reduce poverty is harnessed. Some of 
+the key issues that have emerged from the 
+policy review include the need to recognise 
+the cross cutting nature of energy. Critical 
+social and economic services like health 
+and education cannot be efficiently and 
+effectively provided in the absence of reliable and affordable energy services. The 
+new energy policy further takes account 
+of important issues, such as the high incidence of poverty, the HIV/AIDS epidemic, 
+gender, environment, household energy, 
+rural electrification and the role renewable energy can play in Zambia’s future 
+energy mix. More specifically, on renewable energy, the objective of the NEP is to 
+address barriers to the wide deployment of 
+renewable energy technologies (RETs). 
+In 2010, a draft Renewable Energy Strategy 
+was developed in order to translate the 
+objectives of the NEP into a practical implementation plan. The key objectives of this 
+strategy, in line with the goals of the NEP, 
+FNDP 2006-2010 and the Vision 2030 are:
+• Access to modern energy services for all
+• Meeting growing energy demand in a 
+sustainable way
+The renewable energy strategy includes 
+long-term renewable energy targets for 
+specific applications. In terms of electricity, the targets are to generate 100  MW 
+from solar, 200 MW from small hydro and 
+100  MW from biomass by 2030. In addition, it envisages the dissemination of 
+500,000 solar home systems and installation of 350,000 solar water heaters 
+in order to reduce the demand load by 
+150  MW. The strategy was developed in 
+two phases. The first phase consisted of 
+collecting data and conducting situation 
+analysis of the resources in solar, biomass, 
+small hydro, wind and geothermal energy. 
+In the second phase, a strategy was developed based on the situation analysis. The 
+strategy, however, has not been adopted as 
+of now.
+In the same year the Rural Electrification 
+Master Plan (REMP) was developed with 
+the support of the Japanese International 
+Cooperation Agency (JICA) through a 
+high-level consultative process (MEWD, 
+2009). The REMP is the blueprint for rural 
+electrification for the period 2008-2030 
+and is to be implemented by the Rural 
+Electrification Agency (REA). The REMP 
+has identified 1,217 rural growth centres 
+(RGC) throughout the country to be electrified during that timeframe. These rural 
+growth centres will be electrified using 
+three main methods: 
+i) extension of the national grid; 
+ii) construction of mini-hydro power stations 
+where potential exists; and 
+iii) installation of solar home systems. 
+ Adequate implementation of the REMP 
+would increase the rural electrification 
+rate of 3% in 2008 to 51% by 2030 at an 
+estimated cost of about USD 1.1 billion, 
+translating into an annual expenditure 
+of USD 50 million.
+LEGAL AND REGULATORY FRAMEWORK
+The following instruments have been so 
+far adopted/initiated by the Government 
+of Zambia for the promotion of the energy 
+sector:
+Electricity Act of 1995 (amended 2003): 
+The act was formulated to regulate the 
+generation, transmission and distribu-tion of electricity in Zambia. It liberalised 
+the electricity sector by opening all three 
+segments to private operators and led the 
+government to set up two key new institutions. The Energy Regulation Board was 
+tasked with regulating the operations and 
+pricing of the electricity sector while the 
+OPPPI was meant to attract new players to 
+the electricity market. 
+Energy Regulation Act of 1995 (amended 
+in 2003): The act established the Energy 
+Regulation Board and defined its functions and powers as regulating the energy 
+sector in a fair, transparent, effective and 
+efficient way to safeguard the interest of 
+all stakeholders. The ERB is responsible 
+for establishing fuel prices (including electricity tariffs), establishing and monitoring 
+the application of the Zambia Grid Code, 
+and designing standards with regards to 
+the quality, safety and reliability of supply 
+of energy in conjunction with the Zambia 
+Bureau of Standards.
+Rural Electrification Act of 2003: The 
+act established the Rural Electrification 
+Authority and equipped it with a Rural 
+Electrification Fund. The REA is responsible for implementing the REMP by facilitating the creation and monitoring the 
+operation of rural electrification organisations or companies. These organisation and companies (including entrepreneurs, community-based organisation and 
+others), shall fulfil their obligations and 
+perform in accordance with standards and 
+appropriate tariff structures (jointly set up 
+with the ERB), keeping a balance between 
+the need for affordability with sustainability of electricity delivery systems. The 
+Rural Electrification Fund is to be sourced 
+by monies approved by the parliament, as 
+well as electricity levies, loans, grants and 
+donations from any sources in Zambia. 
+Funding from sources outside the country 
+must be approved by the minister. 
+The Zambia Grid Code of 2006: The 
+Zambia Grid Code was drafted in 2006 
+with the objective of facilitating open and 
+non-discriminatory access to the transmission system in order to ensure that the 
+goals of liberalisation of the electricity 
+sector, primarily enhanced efficiency and 
+more rapid electrification, are achieved. 
+Although the document has been drafted 
+and reviewed, it is still being considered for 
+adoption.
+FINANCING AND INVESTMENT
+The energy sector in Zambia has traditionally been funded and implemented by the 
+government through ZESCO and by IPPs 
+and IPTs (namely the CEC, Lunsemfwa 
+Hydropower Company and Northwestern 
+Energy Corporation). However, in recent 
+years, the sector has attracted investment from private foreign investors 
+as well as development partners and 
+institutions. These include, the ChinaAfrica Development Fund (CAD Fund), 
+EXIM Bank of India, the World Bank, the 
+African Development Bank, the European 
+Investment Bank, the French Agency for 
+Development and the Development Bank 
+of Southern Africa.Although most of these 
+investments have been for the most part 
+geared toward the development of large 
+hydropower dams and transmission infrastructures, this renewed interest of financiers in the sector is mainly due to the 
+favourable investment framework that 
+includes fiscal and non-fiscal incentives as 
+well as investment subsidies.
+The ZDA was established in 2006 by an 
+Act of Parliament in the frame of private 
+sector support programmes to make the 
+country more conducive to business. In 
+line with the economic reforms, the ZDA is 
+encouraging private investment in all priority productive sectors including agriculture, mining, manufacturing, tourism and energy. In that regards, the development of 
+power plants to generate electricity from 
+various energy resources, including renewable energy, qualify for tax exemptions 
+under the ZDA Act’s priority sector incentives. The tax concessions for various types 
+of investment are outlined as follows: 
+GENERAL INCENTIVES 
+INCOME TAX: 
+• Income earned by companies in the 
+first year of listing on the Lusaka Stock 
+Exchange qualifies for a 2% discount 
+on the applicable company tax rate in 
+the particular sector. 
+ However, companies with more than 
+one-third of their shareholding in the 
+hands of Zambians qualify for a 7% 
+discount.
+• Initial allowance of 10% on capital 
+expenditure incurred on the construction or improvement of an industrial 
+building is deductible.
+• Foreign exchange losses of a capital 
+nature incurred on borrowings for the 
+building and construction of an industrial or commercial building are tax 
+deductible. 
+• Carry forward of losses up to five years. 
+VALUE ADDED TAX (VAT):
+• Relief for VAT-registered enterprises 
+on imports of eligible capital goods. 
+• Zero rate on export of taxable products.
+• Relief of VAT on transfer of business as 
+a going concern.
+• Equal treatment of services for 
+VAT-reverse VAT.
+• VAT relief on input tax paid for purchases 
+made by registered suppliers.
+• Input tax claim for three months prior 
+to VAT registration for businesses that 
+have already commenced trading.
+The Chitokoloki Hospital has 24-hour power generated by several banks of solar batteries, a large 
+battery storage area and an inverter. The new system is able to handle almost all the hospital demands
+Source: www.chitokoloki.comPRIORITY SECTOR INCENTIVES 
+(ENERGY-SECTOR INCLUSIVE):
+• Zero percent tax rate on dividends for 
+five years from year of first declaration 
+of dividends.
+• Zero percent tax on profits for five 
+years from the first year profits are 
+made. For years six to eight, only 50% 
+of profits are taxable and for years 
+none and ten, only 75% of profits are 
+taxable.
+• Zero percent import duty rate on raw 
+materials, capital goods, machinery 
+including trucks and specialised motor 
+vehicles for five years.
+• Deferment of VAT on machinery 
+and equipment including trucks and 
+specialised motor vehicles.
+MICRO AND SMALL ENTERPRISES 
+In addition to general incentives, the 
+following incentives are provided under 
+this category
+• For an enterprise in an urban area the 
+income shall be exempt from tax for 
+the first three years.
+• For an enterprise in a rural area, the 
+income shall be exempt from tax for 
+the first five years.
+Furthermore, the country has initiated 
+several regulatory reforms for supporting the development of the power sector 
+leading to the establishment in 1999 of 
+the Office for Promoting Private Power 
+Investment (OPPPI). The OPPPI was set up 
+to be a ‘one window operation’ to reduce 
+the complexity of procedures, rules and 
+regulations and red tape usually associated with obtaining the required approvals, permits and licences for investors in 
+the electricity sector. The mandate of the 
+OPPPI is to: 
+i) attract private investment in generation (for projects no less than 10 MW) 
+and transmission projects;
+ii) assist the private sector in working 
+through bureaucracy by acting as 
+one-stop-shop; 
+iii) negotiate implementation agreements 
+and transmission service agreements 
+between the government and the project developer; and 
+iv) conduct pre-feasibility and feasibility 
+studies on most potential hydroelectric 
+sites in Zambia. 
+ Through the OPPPI, the government 
+offers non-fiscal incentives which 
+involve risk-sharing/allocation between 
+the developer and government. 
+Under the implementation agreement 
+between the OPPPI and the developer, 
+the former promises to share the cost 
+of risk related to droughts and geological effect and to support in the acquisition of water rights and environmental 
+impact assessments.
+The Development Bank of Zambia is a 
+development finance institution established in the early 1970s as a joint venture 
+between the Government of Zambia, 
+public sector financial institutions, local 
+and private sector and foreign bilateral 
+and multilateral institutions. The bank’s 
+mandate is to provide medium- and longterm development finance and has been 
+involved in the sectors of agriculture, 
+mining, forestry, fishery and manufacturing. 
+The bank was recently involved in supporting a 1 MW isolated small hydro mini-grid 
+in Shiwang’andu (Chisali District) that was 
+co-financed by GEF and UNIDO. The bank 
+co-founded the project by signing a Trust Fund Agreement of USD 3.55 million with 
+ZESCO for the construction of the power 
+plant, which was commissioned in 2012.
+Through the REA, the Zambia government 
+has set up a Rural Electrification Fund 
+aimed at increasing access to electricity 
+in rural areas through grid extension and 
+decentralised power systems. The fund is 
+mainly drawn from a 3% levy on every unit 
+of electricity consumed as well as grants 
+and loans from development partners. It 
+is aimed at encouraging private sector 
+participation by financing project preparation studies and providing smart-capital 
+subsidies with the intent of lowering the 
+end-user tariffs or cost to access electricity. The REA, as part of its mandate, developed an operational manual7 that highlights the capital subsidy of up to 100% it 
+offers for publicly-led rural electrification 
+projects and can support privately-driven 
+rural electrification projects for up to 50% 
+of the capital costs, with remaining funds 
+to be secured by the developer with a minimum level of 20% of equity, and a minimum internal rate of return of 10% before 
+grants. In addition, the project proposal 
+must contain enough indication allowing 
+the REA to make a good assessment in 
+terms of technology and expected benefits, meaning that the proposal should be 
+backed by a complete business plan and 
+financial studies.
+A multitude of local financial services 
+institutions are involved in providing 
+technical assistance to project developers in structuring bankable proposals for 
+small-scale renewable energy and Clean 
+Development Mechanisms (CDMs). A study 
+titled “Financial Sector Survey on Clean 
+7 The REF Operational Manual is aimed at developinga transparent and eff ective capital subsidy scheme, project 
+selection criteria based on economic and fi nancial principles, eligibility criteria and principles for capital subsidy, 
+appraisal of project proposals, etc. 
+Decentralised rural electrification grid 
+Courtesy: READevelopment Mechanism Awareness and 
+Predisposition in Zambia” revealed that 
+most of the local financial institutions 
+do not provide medium- to long-term 
+loans. They require feasibility studies to 
+be conducted at the applicant’s expense, 
+since bank officials have limited knowledge in assessing renewable energy projects. In addition, banks require land titles 
+as collateral, portfolios of project sponsors 
+and managers, data on past and current 
+operations, approximate value of existing 
+investment, valuation reports, raw material 
+procurement plans, and marketing strategies for the finished product. As renewable 
+energy projects are relatively a new investments field, it is often difficult for the developer to provide the required information 
+and track history. Another issue linked to 
+the local finance of renewable energy projects is related to the interest rates. Indeed, 
+a check with 12 local banks indicated that 
+the interest rate for loans on investment 
+projects ranged between 10% to 12% for 
+foreign currency, while being subjected 
+to rates between 19% to 20% for local 
+currency (Zambian Kwacha). However, 
+experts in the field indicated that interest 
+rates actually ranged between 20% to 35% 
+per annum, after considering hidden costs 
+(CEEEZ, 2011).
+To remove such investment barriers at 
+the local level, local financial institutions’ 
+capacities should be built to assess renewable energy projects to remove the high 
+risk perception of the sector. In addition, 
+insurance and risk mitigation mechanisms 
+should be developed to reduce the risk 
+profile of renewable energy projects. IV. EMERGING ISSUES IN 
+ THE DEPLOYMENT OF 
+ RENEWABLE ENERGY
+ON-GRID ELECTRICITY
+Power development in Zambia’s southern areas, near the Victoria Falls 
+and in the Copperbelt areas, started when decentralised thermal generation was established to supply electricity to the burgeoning lead and 
+zinc mining projects. To meet the increasing demand of the mining 
+sector, which became a pillar of the country’s economy, interconnectors were built with the neighbouring DRC, while dams were developed 
+along the Zambezi River (Kariba North, Kafue Gorge, and Victoria Falls) 
+to supply hydroelectricity to the mines on the Copperbelt. This led to 
+the development of the transmission backbone linking the dams in the 
+south to the Copperbelt area in the northwest, while supplying nearby 
+towns along its path.
+The electricity demand in Zambia is expected to reach 3,544 MW by 
+2030 in low case8 scenarios and 5,406  MW in high case9 scenarios.
+However 2,390 MW of the OPPPI pipeline of projects is expected to be 
+part of the SAPP to meet regional power demand, leaving the country 
+with a potential power deficit of 1,000 MW in the high case scenario if 
+the country is to meet this growing demand on a self-sufficiency basis 
+(MEWD, 2010).
+The strong reliance of the country on hydro (representing over 90% 
+of the electricity mix) exposes the power system to seasonal climate 
+variation known to include droughts and floods, which can greatly 
+hamper hydropower generation. Although the country’s power system 
+can sustain a decrease of power from the hydro schemes by up to 16% 
+during dry year/season (MEWD, 2010), a higher deficit was experienced during the 1991-1992 drought with a deficit of 30% (from around 
+9,000  gigawatt-hour (GWh) to 6,200  GWh) (Kapika and Eberhard, 
+2013). The supply gap for that year was only met thanks to imports 
+from the regional power pool. Subsequently the power system has 
+8 Economy will grow at 5% from 2013, electrifi cation ratio growth of 3.5% per annum.
+9 Economy will grow at 7% from 2011, electrifi cation ratio growth of 6% per annum. been affected with intermittent droughts 
+over the past ten years. Furthermore, a 
+study on climate variability implications on 
+hydroelectricity generation in the Zambezi 
+River Basin10 has shown that hydroelectric 
+power potential has a tendency towards 
+a gradual reduction for both existing and 
+proposed hydroelectric power schemes 
+(Yamba et al., 2011). The study has revealed 
+that seasonal climate variability will affect 
+hydropower generation by reducing water 
+run-off and reservoir storage capacity in 
+dry years, and water overflow, which can 
+affect hydropower infrastructure during 
+wet years. To mitigate such risks, integration of renewable energy sources other 
+than hydro in the power generation plans 
+is critical to sustain future demand. For 
+that to happen, the country should engage 
+in a thorough renewable energy resource 
+assessment process that will allow for 
+the identification of sound technical and 
+economic potential, which may lead to the 
+development of an integrated resource 
+plan that will include a high share of nonhydro renewable energy. Furthermore, as 
+the country already plays a critical role in 
+interconnecting SAPP countries that have 
+higher electricity tariffs than Zambia, integrating other renewable energy in the 
+power grid will allow the country to reinforce its position within the SAPP.
+TARGET SETTING 
+As mentioned earlier, the renewable 
+energy strategy has defined targets for the 
+deployment of renewable energy power 
+generation. However, the targets have been 
+set without any thorough investigation of 
+the economic potential of each renewable 
+energy resource considered (solar, small 
+hydro, geothermal and biomass). Moreover, 
+cost implication of each renewable energy 
+technology as well as socio-economic 
+opportunities, should be considered when 
+developing targets, as there is no clarity on 
+the expected share of renewable power to 
+be supplied to the grid, and the implication on the latter to accommodate variable 
+power. 
+There is therefore a need for the Ministry 
+of Mines, Energy and Water Development 
+and relevant stakeholders to undertake a 
+thorough study on the renewable energy 
+potential (including both the technical and 
+economic). This may lead to the review of 
+the current targets for more realistic ones.
+ENABLING ENVIRONMENT 
+Major power sector reform in Zambia 
+occurred in 1995 with the establishment of 
+the ERB, abolishing the statutory monopoly of ZESCO and allowing the participation of other private operators in the sector. 
+Despite that reform, however, the CEC and 
+the LHPC remain the only private players 
+in the market. The LHPC supplies power to 
+ZESCO while the CEC transmits ZESCO’s 
+power to the mines though a bulk supply 
+agreement (BSA). Furthermore, since the 
+Kariba North Dam commissioned in 1977, 
+no greenfield investment has been done 
+in the sector. This is due to the fact that 
+the country enjoyed surplus capacity from 
+the 1980s till early 2000, when electricity demand began to escalate due to the 
+recovery of copper mining and the extension of ZESCO’s customer base. In recent 
+years, foreign investors have expressed 
+their interest in the power sector and 
+have engaged with ZESCO and CEC to 
+expand the country’s generation capacity. However the pipeline of projects so far 
+only includes hydro and coal-based power 
+plants due to their economical generation 
+10 The study has analysed the eff ects of various factors on hydroelectric power generation potential to include 
+climate change/variability, water demand, and installation of proposed hydroelectric power schemes in the 
+Zambezi River Basin.cost that continue to reflect the country’s 
+low national electricity tariffs, which are 
+recognised as being among the lowest in 
+the SADC region.
+Tariffs in Zambia are not only unattractive 
+for private sector participation, but have 
+also partly hampered ZESCO’s plan to 
+further expand and rehabilitate the electricity grid. In January 2011, the energy 
+regulator ERB approved a 30% electricity tariff increase for the mining sector, 
+although contracts signed under these 
+new tariffs are still not cost-reflective, as 
+they only cover about half of the cost of 
+new generation capacity (hydro-based).
+Through ZESCO’s 2012 business plan, it 
+intends to spend USD 5.3 billion between 
+2013 and 2018, raised mainly through 
+external debt, to expand the electricity 
+infrastructure and address the power deficit. In that regard, the company submitted 
+a tariff increase proposal to the ERB with 
+the objective of an average tariff increase 
+of 26% across all customers. The rationale behind this tariff increase includes 
+rising costs of generating, transmitting and 
+distributing electricity (56% increase in 
+operation costs and 59% increase in cost of 
+sales between 2009 and 2011), system and 
+customer base expansion, and rising costs 
+of electricity imports (ERB, 2012).
+A grid code is a critical element in the 
+management and operation of a power 
+system. As renewable energy power 
+requires flexible conditions for their 
+adequate integration, it is important for the 
+grid code to consider options that would 
+allow renewable power integration without 
+affecting the grid safety and stability. The 
+Zambian draft grid code, although allowing open access to the grid for IPPs, does 
+not provide any guidelines or standards for 
+accommodating renewable energy-based 
+electricity. For instance, the current power 
+forecast time is set a day ahead, which is 
+not favourable for renewable energy, in 
+particular wind and solar, due to their variability. Best practises show that forecasts 
+are more accurate the closer they are to real 
+time and sub-hourly scheduling is recommended. The Grid Code should additionally provide priority to renewable power in 
+the dispatch schedule. The draft Grid Code, 
+before its formal adoption, should integrate these necessary conditions to allow 
+more renewable energy-based power into 
+the grid. The use of forecasts requires 
+operational changes, thus grid operators 
+need to be made capable of integrating 
+forecast data in daily operations, as well as 
+the provision of the necessary tools such as 
+sophisticated information and communication infrastructure for better system-wide 
+decision-making. 
+Another constraint in the financing of grid 
+connected renewable energy power projects is the negotiation of power purchase 
+agreements (PPAs). In Zambia, PPAs are 
+drawn up on a case by case basis and 
+have only been concluded for hydro- and 
+fossil fuel-based generation. Attracting 
+investment in variable renewable 
+energy-based power in the grid could be 
+enabled by considering important factors 
+to strengthen the bankability of a PPA. 
+These could comprise mitigating dispatch 
+risks by including clauses that calculate 
+the tariff based on the energy delivered by 
+embedding a fixed charge not dependent 
+on dispatch or a capacity charge along 
+with charges for the energy actually delivered. This would make the PPA bankable 
+by providing enhanced predictability of 
+revenue stream for the plant. The country 
+should therefore engage in a consultative 
+process to develop a standardised PPA 
+to increase the bankability of renewable 
+energy power projects
+Zambia relies heavily on hydro-based 
+generation to meet current electricity demand and plans on developing new 
+hydro and coal capacity to meet future 
+demand. However, the country should tap 
+its tremendous renewable energy potential 
+to diversify its electricity mix as non-hydro 
+renewables are increasingly becoming 
+cost-competitive, provided that a conducive framework is built to allow their rapid 
+deployment for power generation.
+RECOMMENDATIONS 
+Integrated resource planning is becoming 
+an important tool that allows key stakeholders to participate in the identification 
+and optimisation of the appropriate mix of 
+energy resources to meet near- and longterm electricity needs in a sustainable way. 
+This also enhances the security of energy 
+supply by including all economically viable 
+and environmentally friendly energy 
+resources. 
+It would be beneficial for Zambia to initiate 
+a dialogue that would include all relevant 
+stakeholders in the development of an 
+integrated resource plan for power generation that will help guide the country in 
+diversifying its electricity mix while meeting future demand. A premise to such an 
+activity is the undertaking of a thorough 
+renewable energy resource assessment. 
+A renewable energy resource assessment can trigger a remarkable change in 
+the perception of decision makers in their 
+knowledge base and awareness of the 
+country’s renewable potential and opportunities, thereby allowing them to make 
+more informed decisions. Furthermore, 
+renewable energy resource assessment is 
+a fairly small investment that can leverage significant interest for private sector 
+involvement and lead to cost reduction. 
+Setting renewable energy targets, based 
+on the resource assessment, would provide 
+a realistic and achievable goal for the country’s efforts to increase renewable energy 
+in its electricity mix. This would provide a 
+clear policy signal to attract private sector 
+investment in renewable energy, especially 
+if targets have a mandatory clause for 
+power generators and those who off-take 
+bulk power. It would be worthy for Zambia 
+to partake in this activity upon completion 
+of the renewable energy resource assessment and develop a strong implementation and monitoring framework to achieve 
+these targets. 
+Grid integration of non-hydro renewable 
+energy-based power requires a thorough 
+assessment of the grid’s ability to include 
+variable power. Improving a grid’s ability to include variable power entails the 
+enhancement of the grid system operation 
+through operational decision-making tools, 
+long-term grid planning studies, meeting the requirements for renewable power 
+generators and priority access to the grid 
+for electricity generated from renewable 
+energy. 
+The revision of the Zambia draft Grid 
+Code to include these elements is essential before its formal adoption if the 
+country is resolved to achieve large-scale 
+deployment of non-hydro renewable 
+energy-based power. 
+A programmatic approach for utility scale 
+renewable energy power projects should 
+be developed with the requisite financial 
+incentives and be backed by a standardised 
+bankable PPA in order to attract scalable 
+investment, limit elaborate and tedious 
+negotiations and give potential investors 
+clear expectations on their investment.OFF-GRID RENEWABLE 
+ENERGY OPTIONS
+In Zambia rural electrification has been 
+achieved mainly through grid extension 
+by ZESCO until 2006, when the REA was 
+established and put in charge of rural electrification. The first approach of the REA to 
+provide rural access was through grid extension (53 grid extension projects completed 
+by 2008). In addition to grid extension, the 
+REMP outlined that 20% of the RGCs would 
+be electrified through solar home systems 
+and mini-hydro power plants11. However, 
+achieving the required mobilisation for the 
+grid extension component has proven to 
+be a challenge, evidenced by slow progress in reaching annual targets of the REMP.
+This is supported by a 2011 review of donor 
+support programmes in rural electrification, which pointed out that the clustering concept of RGCs requires considerable 
+technical and financial resources above the 
+means of the REA (Dastgeer, et al., 2011). 
+In fact, JICA, which supported the development of the REMP later recognised the 
+need to repackage these concessions in 
+smaller and more manageable ones that 
+could attract local private sector involvement (Ibid). 
+This slow progress in grid extension 
+encouraged the REA to rethink its rural 
+electrification approach by expanding the 
+solar home systems and mini-hydro power 
+systems while also exploring other renewable energy-based mini-grids (solar and 
+biomass).
+SOLAR PHOTOVOLTAIC SYSTEMS 
+In 2008 a solar photovoltaic (PV) system 
+component was developed under the 
+World Bank Increased Access to Electricity 
+Services (IAES) with a financial allocation of USD  9  million. The project aimed 
+to aggregately install solar PV systems 
+in social infrastructures such as schools, 
+health centers and palaces, as well as 
+in rural enterprises and households, to 
+achieve commercial viability through economies of scale. As of February 2013, 199 
+households and 264 social infrastructures 
+were provided electricity through solar PV 
+systems. The target for this programme 
+was to install 10,000 solar home systems 
+and 450 solar PV panels for institutions by 
+the end of 2013. 
+Other development partners such as the 
+Swedish Development Agency (SIDA) 
+and the Dutch International Cooperation 
+Agency (DGIS) also provided financial 
+assistance for similar activities. However, 
+this approach in Zambia has evidently had 
+a poor implementation track record, as 
+the sector relies on donor-driven distribution of free or highly subsidised solar PV 
+systems. Although solar PV systems are 
+a practical option for meeting part of the 
+electricity needs of populations in remote 
+areas, they often face major maintenance 
+issues throughout their lifecycle due to 
+the lack of local skills and ownership from 
+the beneficiaries. For a more sustainable 
+and successful solar PV programme, the 
+REA should aim for a long-term delivery 
+approach on a commercial basis by involving the private sector, especially entrepreneurs, throughout the supply chain, as well 
+as micro-finance institutions, to provide 
+end-user finance for the uptake of these 
+systems. Price discovery by REA through 
+a mechanism of aggregating the demand, 
+coupled with strong technical evaluation of the equipment and capacity of the 
+vendors, could facilitate this process by 
+reducing costs of the systems and allow for 
+the commercial viability of standalone PV 
+systems.
+11 Although many potential mini-hydro sites exist in Zambia, only three sites (Mujila Falls Lower, Upper Zambezi, 
+and West Lunga in North-Western Province) were fi nancially feasible.RENEWABLE ENERGY MINI-GRIDS 
+Zambia has a wealth of experience with 
+the development of isolated mini-grids 
+running on different energy resources and 
+ownership structures. ZESCO is operating eight diesel mini-grids of various sizes 
+totalling an installed capacity of 8  MW. 
+These diesel mini-grids cost the utility 
+between USD 0.35 to USD 0.40 per unit of 
+power generated and with current tariffs 
+set at USD 0.065 per kWh, they are running 
+deficits. Given the fact that some of these 
+isolated mini-grids are located along 
+perennial rivers or in areas with favourable 
+solar radiation, ZESCO is planning in the 
+medium- to long-term to either hybridise or 
+replace these mini-grids with hydro or solar 
+plants as well as develop Greenfield hydro 
+and solar mini-grids. In order to demonstrate the technical and economic viability 
+of renewable energy based mini-grids, the 
+utility recently completed a 1  MW small 
+hydro mini-grid in Shiwang’andu (Northern 
+Province) financed through a GEF/UNIDO 
+grant and a trust fund agreement with the 
+Development Bank of Zambia for a total 
+amount of USD 4.5 million12. Through the 
+same GEF/UNIDO project the REA was 
+able to develop the first solar PV mini-grid 
+in the country with an installed capacity of 60  kW in Samfya District (Luapula 
+Province) through a loan facility agreement signed with the Development Bank 
+of Zambia. 
+Furthermore, several hydro mini-grids 
+have been established in the country by a 
+range of stakeholders including Zengamina 
+Power Limited, which owns and operates 
+12 No details on the business model and the tariff structure of the project were made available. 
+Table 5 
+Least-cost Analysis*
+ Hydro Grid Extension Diesel
+Investment Capital 6,900,000 26,000,000 500,000 
+Investment Lifespan 15 15 10 
+Production (kWh) 7,400,000 7,400,000 7,400,000 
+Price/unit 0.10 0.10 0.10 
+Revenue 740,000 740,000 740,000 
+Variable cost/unit 0.01 0.01 0.01 
+Cost of energy/unit 0 0.00 0.40 
+Total fi xed costs 30,000 30,000 30,000 
+Amortisation/unit: 0.06 460,000 0.23 1,733,333 0.01 50,000 
+Direct costs per unit: 0.07 499,960 0.24 1,773,293 0.41 3,049,960 
+Gross Margin/unit 0.03 -0.14 -0.31 
+Fixed costs/unit 0.00 0.00 0.00 
+Total costs 0.07 529,960 0.24 1,803,293 0.42 3,079,960 
+Net Margin 0.03 210,040 -0.14 -1,063,293 -0.32 -2,339,960 
+ROI 3% -4% -468%
+Payback period years 10.30 38.80 -0.22
+*The least-cost analysis has been carried out in the absence of any subsidies.
+Source: (REA, 2008). a 750  kW run-of-the-river hydro scheme 
+with a grid covering 35  km in the NorthWestern Province, in addition to many 
+mini-hydro plants (of less than 100  kW 
+capacity) owned and operated by communities including resident cooperatives and 
+missionaries. 
+A feasibility study commissioned by the 
+REA was performed for a 1  MW hydro 
+scheme in Chilinga (Eastern Province) that 
+provided some interesting insights regarding the economics of small hydro mini-grids 
+and could be further investigated for other 
+available renewable energy sources such 
+as solar and biomass. The Chilinga study 
+compared three electrification scenarios 
+including grid extension and decentralised generation using either diesel or small 
+hydro13. The least cost financial analysis 
+of the study showed that although grid 
+extension is generally perceived as being 
+the least costly option for rural electrification in Zambia, the distance of the site to 
+be electrified from the closest sub-station 
+made it financially unattractive. Similarly, 
+when comparing the economics of a 
+diesel-based generation plant to a small 
+hydro plant, the study showed that the 
+high operating cost of the diesel scheme 
+due to high fuel prices was also not financially attractive (Table 5).
+Furthermore, a financial/sensitivity analysis 
+was performed using the UNIDO COMFAR 
+model14 with prices ranging between from 
+Figure 8
+Internal Rate of Return against Tariff s
+Source: (REA, 2008)
+13 Assumptions used for the fi nancial analysis are: capital cost for grid extension (132  kV line) 
+USD 100,000 per kilometre; capital cost for diesel is USD 500 per kW; diesel price is USD 1.2 per litre (now USD 1.65 
+after removal of subsidies) and tariff assumed at USD 0.10 per kWh
+14 The UNIDO COMFAR is an internationally recognised computer model for feasibility analysis and reporting that 
+provides comprehensive data on working capital requirements, income statements, cash fl ow and balance sheet. In 
+addition it calculates internal rate of return, NPV and payback period.
+Business as usual Business as usual Smart subsidy (50% down payment) USD 0.02 to USD0.16 per kWh of electricity produced. As it was assumed that the 
+loan portion of the capital costs of the 
+projects will be obtained from international 
+markets, an interest rate of 8% and discount 
+rate of 12% with a debt/equity ratio of 20% 
+equity and 80% debt was applied. In the 
+Business As Usual scenario, implying that 
+all capital expenditure will be borne by 
+the private entity, the project would pay 
+back in eight years for cost reflective tariffs 
+between USD 0.15 to USD 0.16 per kWh. As 
+mentioned earlier, the REA could contribute to private sector led rural electrification 
+projects by providing up to 50% capital 
+subsidy to the project developer and when 
+applied the project would pay back in six 
+years with tariffs between USD  0.08 to 
+USD 0.10 per kWh (Figure 8).
+Another feasibility study was commissioned by the REA for a small-sized biomass 
+power generation plant of about 4  MW 
+around the Lamba National Forest and 
+the Emerald Mining Areas. It is estimated 
+that the number of people in the area 
+was around 10,000 with a possible initial 
+connection of between 900-1,000 households, schools, clinics and commercial and 
+industrial facilities. The power generation is 
+envisaged to meet the total electric demand 
+in the project area, with surplus sales to 
+ZESCO. The investment cost for the plant 
+was estimated at USD 10.928 million with 
+operation and maintenance (O&M) costs 
+of USD 96,000 per annum. Without capital 
+subsidy the financial analysis indicated a 
+cost reflective tariff of USD 0.073 per kWh 
+with an internal rate of return of 12.5%. 
+This tariff is favourable and compares well 
+with current on-grid electricity tariffs of 
+USD 0.065 by ZESCO. This project would 
+become even more economically sound 
+for investors and make electricity tariffs 
+affordable for rural populations when 
+considering the fact that the REA could 
+provide a capital subsidy of up to 50%. 
+Moreover another analysis completed for 
+a typical remote rural village with about 
+2,000 inhabitants, showed that similar 
+sites throughout the country could be best 
+electrified in an economically viable way 
+by considering various renewable based 
+mini-grids. The study demonstrated that 
+each technology becomes economically 
+viable as grid extension reaches a certain 
+threshold, known as the Economical 
+15 The Economic Distance Limit is defi ned as the break-event point at which grid extension become less economically viable 
+than decentralised alternatives 
+Table 6 
+Economical Distance Limit per Technology (Compared to Grid Extension)15
+Mini-hydro 1,600,000 20,000 1,855,667 0.198 41.6
+Biomass gasifi cation 180,000 187,381 2,575,355 0.274 74.2
+Wind turbine 1,721,956 78,228 2,481,729 0.382 82.0
+Solar PV 2,343,956 41,181 2,983,905 0.786 92.7
+Source: Chitalu (2013).
+*EDL: Economical Distance Limit
+Technology Capital 
+Cost 
+(USD)
+O&M Cost 
+per year
+(USD)
+Total Net
+Present 
+Cost (USD)
+Levelised 
+cost of 
+energy (USD)
+ *EDL for grid 
+extension 
+(km)Distance Limit (EDL). For example, small 
+hydro mini-grids become economically 
+attractive when grid extension is done over 
+a distance greater than 41.6 km, while for 
+biomass gasification mini-grids the EDL is 
+74.2 km (Table 6).
+SOLAR WATER HEATING
+As part of its demand side management 
+plan, ZESCO intends on pursuing projects 
+that include free energy audits and advice 
+for power factor correction (PFC) and time 
+of use tariff (ToU) to maximum demand 
+customers in industry and commerce, as 
+well as distribute compact fluorescent 
+lamps (CFLs), and install prepayment 
+meters in residential and commercial 
+customers, power alert systems and ripple 
+control system of electric water heaters. 
+In addition, ZESCO plans on deploying 
+350,000 solar water heaters in order to 
+save 40% of domestic electricity demand 
+corresponding to 150 MW that is attributed 
+to the use of electric water heaters. This 
+would help by shaving the morning and 
+evening electricity demand peak estimated 
+around 1,480  MW and 1,630  MW in 2011 
+(Figure 9). The proper implementation of 
+this initiative would reduce load shedding, 
+which currently costs the utility around 
+USD  6.1  million  per  year, and will reduce 
+electricity import from SAPP to meet peak 
+hour demand. The first phase of the project 
+seeks to install 100,000 solar water heaters 
+with an initial investment of USD 40 million 
+and is expected to save ZESCO about 
+USD  180  million over the lifespan of the 
+Figure 9
+Reduced Electricity Demand from the Installation of Solar Water Heaters
+Source: (REA, 2008)solar water heaters, which is estimated at 
+15 years with a payback period of 3 years 
+(ZESCO, 2011). The project is designed in a 
+way that the end-user would not contribute to any of the installation costs of the 
+systems, as the utility plans on bearing all 
+initial costs. 
+However, as of today, except for the initial 
+solar water heaters disseminated as pilots 
+in the Lusaka area (less than 100 systems), 
+the project has been stagnant with no 
+further roll out of these systems.
+Despite the slow progress in the implementation of the solar water heater project, 
+ZESCO is to be commended for taking such 
+an initiative. However, the current business 
+model of the project will make it extremely 
+difficult for the utility to deploy the intended 
+number of solar water heaters and realise 
+the expected electricity savings. Therefore 
+fundamental measures need to be taken to 
+create strong a programme with a sound 
+business model that will lead to the large 
+uptake of solar water heaters in the country. One of the most successful solar water 
+heater dissemination programmes in Africa 
+is the Tunisian PROSOL, started in 2005 by 
+the Ministry for Industry, Energy and Small 
+and Medium Enterprises and the National 
+Agency for Energy Conservation (ANME) 
+with the support from the United Nations 
+Environment Programme (UNEP). 
+Figure 10
+Tunisian PROSOL Business Model
+Source: (REA, 2008)The objective of PROSOL was to stimulate 
+uptake of solar water heaters to replace 
+Liquified Petroleum Gas (LPG)-fired boilers and electric water heaters, thereby 
+reducing the country’s reliance on LPG 
+imports. The success of PROSOL was due 
+in part to its innovative business model 
+and the active participation of all of relevant actors in the sector, especially local 
+financial institutions. The main local actors 
+involved in the design and implementation 
+of the programme were the national utility 
+STEG (Tunisian Company of Electricity and 
+Gas), the ANME, local commercial bank 
+Attijari Bank, local suppliers (importers 
+and manufacturers) and installers, as well 
+as the renewable energy association. The 
+business model was designed in a way that 
+solar water heater suppliers accredited by 
+the ANME (which developed a series of 
+technical requirements and performance 
+standards of solar water heaters), would 
+act as indirect lenders to the utility customers who enter an agreement with both the 
+suppliers and the utility, committing themselves to pay back the loan over a five-year 
+period through their electricity bill after 
+an initial 10% down payment. Finally the 
+bank dealt directly with both the suppliers 
+and the utility by opening a credit line for 
+the utility and paying the suppliers in full 
+upon satisfactory installation of the SWHs. 
+This arrangement allowed for a risk mitigation scheme as the customers could see 
+their electricity suspended in case of nonpayment of their bill while the utility acted 
+as a guarantor to the customer’s loan. The 
+model is presented in Figure 10.
+It is important to note that prior to the 
+PROSOL there were seldom any incentives that would favor the uptake of solar 
+water heaters in Tunisia, especially with 
+the presence of 50% subsidy in the LPG 
+sector. Moreover the dissemination of 
+solar water heaters was conducted with 
+no involvement of the private sector and 
+no robust quality control system. PROSOL 
+allows for the establishment of a self-sustaining market for solar water heaters and 
+the setting up of accompanying policy 
+and regulatory instruments to create an 
+enabling environment as well as reducing 
+the commercial lending rate for solar water 
+heaters by half. 
+RECOMMENDATIONS 
+Zambia aims at to increase access to electricity for its rural population through a 
+wide range of solutions where renewable 
+energy plays a critical role. Two of the solutions considered by all stakeholders in the 
+sector include the dissemination of solar 
+PV systems and the setting up of decentralised renewable energy mini-grids. 
+However, much more needs to be done 
+to scale up the deployment of these technologies. The relatively small size of the 
+off-grid market and poor affordability for 
+end-users does not make it substantially 
+attractive to foreign investors, which is why 
+the sector has mainly involved local private 
+operators with the support of donors 
+and development partners. Local private 
+operators face technical and financial 
+constraints that include lack of technical 
+expertise to develop bankable proposals, 
+insufficient working capital due to difficult 
+access to loans, high interest rates due to 
+high risk perception and lack of expertise 
+from local financial institutions in appraising off-grid renewable energy proposals. Therefore local private operators and 
+financial institutions’ capacity to develop 
+and appraise bankable renewable energy 
+project proposals should be built.
+The country’s objective of increasing rural 
+access to electricity would be facilitated 
+by creating a level playing field for local 
+private sector involvement. On the one 
+hand, the support provided by the OPPPI 
+to power project developers (with projects greater than 10 MW), which includes acquisition of water rights, licenses and permits, 
+facilitation and technical support in environmental impact assessments (EIAs), 
+should be extended to small-scale decentralised renewable energy mini-grids (of a 
+size less than 10 MW). On the other hand, 
+the rural electrification approach should 
+cater to commercially oriented sustainable electricity service delivery by providing performance and matching grants, in 
+additon to technical assistance for private 
+sector led project proposals. 
+As affordability of electricity is a key issue 
+in rural Zambia, options to facilitate end 
+user access to electricity services shouldinclude targeted subsidies and deferred 
+payments schemes that could be prefinanced directly by the service providers 
+or through a micro-finance institution. A 
+sound business model should be developed for both stand-alone systems and 
+mini-grids to increase viability and sustainability of decentralised renewable energy 
+projects and access to electricity services 
+in rural Zambia. 
+As ZESCO has clearly expressed willingness to deploy solar water heaters, a 
+programme could be developed involving all relevant stakeholders (MMEWD, 
+ZBS, ZDA and energy service companies). Such a programme would include 
+capacity-building for all stakeholders 
+(policy makers, financial institutions, suppliers, installers and others) and would lead 
+to the development and enactment of 
+supportive policies and measures (including setting up mandatory quotas for different categories of end users, inclusion of 
+solar water heaters in the building codes, 
+financial and fiscal incentives). It would 
+also bring about an effective communication strategy including an awareness raising campaign aimed at customers and 
+financial institutions, and strong quality 
+control comprising the setting up of solar 
+water heater standards and a certification scheme for installers to ensure proper 
+operation and maintenance. 
+BIOFUELS
+Zambia imports all of the petroleum it 
+requires in the form of spiked crude oil, 
+transported through the TAZAMA Pipeline 
+and refined at the Indeni Petroleum 
+Refinery in Ndola in the Copperbelt 
+Province. Petroleum contributes to about 
+9% of the national total energy requirement 
+as it plays a crucial role in the country’s key 
+economic activities that includes mining, 
+agriculture and transport (ZDA, 2013). Due 
+to economic growth, the country’s petroleum consumption increased rapidly in 
+recent years, reaching an average monthly 
+consumption of about 52  million  litres in 
+2009 and is projected to grow at around 
+40% per annum (Ibid). The country’s reliance on imported fuel, subjected to price 
+volatility, to sustain its economic activities 
+has prompted consideration of alternative 
+solutions. The country’s suitable climate, 
+vast arable land and abundance of fresh 
+water resources has stimulated the promotion of the cultivation energy crops for 
+biofuel production with the dual vision of 
+reaching the agricultural reform targets 
+and reducing the dependency on imported 
+oil.
+A large programme for the promotion of 
+biofuels was initiated following the adoption of the NEP, which provides for the use 
+of biofuels as a source of modern energy 
+through its integration in the transport 
+industry. In that regard, statutory instruments legalising biofuels, standards and 
+regulatory framework on biodiesel and 
+pricing methodologies were developed. 
+Institutionally, the Biofuels Association 
+of Zambia, the Civil Society Biofuels 
+Association and District and provin-cial biofuels farmers associations have 
+all been formed. In order to enhance the 
+biofuels sector the government is intending to declare it a priority sector so that 
+investors can benefit from the appropriate 
+incentives.
+Furthermore, blending ratios for bioethanol and bio-diesel have been set at 
+10%  (E10) and 5%  (B5) for ethanol and 
+biodiesel respectively. A land zoning exercise was completed with support from 
+the Government of Brazil under a MoU 
+signed between the two governments. 
+The study looked at appropriate zones for 
+the development of energy feedstocks, 
+including: cotton, peanut, rice, sugarcane, 
+elephant grass, eucalyptus, bean crop, 
+sunflower, jatropha, caster beans, manioc, 
+corn, African oil palm and soy. The study 
+concluded that sugarcane for ethanol 
+production may be the only viable solution for biofuel production, with a potential 
+ethanol production of 127 million litres per 
+year for 72,000  tonnes of sugar per year 
+for a total cultivated area of 200  km2 
+and would require a capital investment 
+of USD  471.5  million with an internal rate 
+of return of 22%. (FGV PROJETOS, 2013). 
+Currently, there are two major sugar plants, 
+namely Nakambala Sugar and Kafue Sugar, 
+producing an estimated 400,000  tonnes 
+and 20,000 tonnes of sugar, respectively. 
+Their combined molasses waste can 
+produce an estimated 40 million litres per 
+annum. If implemented, this figure can 
+contribute to Zambia’s ethanol demand at 
+the recommended 10% blending. 
+Despite the initial enthusiasm for biofuels, 
+the sector has performed poorly due to 
+many factors including, but not limited to 
+the following: 
+ lack of systematic research on feedstocks oil yield, especially in the case 
+of jatropha 
+Biofuel crops in rural Zambia
+Courtesy: REA lack of coordination on the supply side 
+(farmers are dispersed and operate 
+individually)
+ land issues and impacts on surrounding communities
+ high cost of doing business due to 
+difficult access to concessionary funds
+ lack of appropriate delivery infrastructure at the national level including storage infrastructure, blending infrastructure at pump stations 
+ lack of interest to invest in blending 
+facilities by the local oil marketing 
+companies (OMCs) 
+ lack of adequate infrastructure 
+to deliver the product to market, 
+combined with the difficult access 
+to the foreign markets (namely 
+European Union markets) due to trade 
+restrictions
+RECOMMENDATIONS 
+As the local market for biofuels is still to 
+be established and accessing international 
+markets has proven to be difficult, there 
+can be some benefit from a review of the 
+biofuel strategy and the development of 
+sustainability criteria for biofuel productionto open the international market.
+Research and development in the biofuels sector is paramount to ensuring sound 
+development of its value chain. Funding 
+should be made available for local research 
+institutions to conduct further assessment 
+of economically feasible energy crops, 
+experimentation on cost effective ways to 
+improve the oil yield ratios and disseminate 
+lessons learnt and establish best practises 
+for contracting out grower farmers and 
+large-scale plantation owners.
+OPPORTUNITIES AND 
+CONSTRAINTS FOR 
+SCALING UP RENEWABLE 
+ENERGY DEPLOYMENT
+OPPORTUNITIES
+Zambia is a credible democratic country 
+and hence is an attractive destination for 
+investment. The country is putting in place 
+some conducive policies, strategies, laws 
+and regulatory and institutional frameworks to promote RE, although strengthening is required to achieve the desired 
+results. The energy sector is liberalised 
+to some extent with participation of the 
+private sector, albeit small. The government is moving towards a study on RE feed 
+in tariffs and determination of long run 
+marginal costs, both of which can assist in 
+determining cost-reflective tariffs for electricity. The movement to rationalise PPAs 
+and approve of an open grid system will 
+also be attractive to potential private investors and energy off-takers. The ambitious 
+targets set for access to modern energy, 
+particularly electricity, are a strong sign of 
+the government’s support for the energy 
+sector, which is expected to have a positive 
+response from the investor community.
+At the regional level there is a strong 
+movement to embrace non-hydro renewable energy, as countries in the SAPP have 
+started to determine their grid capacity to 
+accommodate renewable energy and policies to import renewable energy-based 
+electricity, as can be seen in South Africa. 
+The regional grid continues to be strengthened to enable sharing of electricity in the 
+region. Given Zambia’s ample solar, wind 
+and geothermal resources and its central 
+position in the SAPP, the country could 
+play a leading role in expanding nonhydro renewable energy in both the SAPP 
+and Eastern African Power Pool (EAPP) 
+(through Tanzania). The country would therefore greatly benefit from the African Clean Energy Corridor 
+Initiative being developed by IRENA that 
+aims to harness the renewable energy 
+potential of countries in the SAPP and 
+EAPP by engaging stakeholders in the 
+planning and zoning, creating the enabling 
+environment to upscale the deployment of 
+renewable energy in cross-border electricity trade. The country could further benefit 
+from the Mini-Grid Policy Toolkit currently 
+being developed by the European Union 
+Energy Initiative Partnership Dialogue 
+Facility/ Renewable Energy Co-operation 
+Programme (RECP), 
+in partnership with the Renewable Energy 
+Network for the 21st Century (REN21) and 
+the Alliance for Rural Electrification (ARE). 
+This toolkit is aimed at building awareness 
+of the potential and applicability of renewable energy mini-grids to policy and decision makers in order to improve the policy 
+and regulatory framework to upscale minigrid deployment.
+CONSTRAINTS
+The major constraint remains as investment, which is negatively affected by 
+the non-cost reflective tariffs and limited 
+incentives to invest in renewable energy. 
+The high costs of capital also limit local 
+investors who could venture into renewable energy investment. 
+New potential investors also lack the 
+capacity to develop bankable projects that 
+can attract funding. Innovative financing 
+mechanisms to buy down cost of capital 
+and risks are thus needed to enable the 
+growth of renewable energy in Zambia.
+Poverty is also still rampant in Zambia, 
+limiting the majority of its population from 
+access to clean renewable energy, due to 
+lack of affordability. 
+The off-grid market that can benefit the 
+majority is driven by non-mainstream 
+investors and is often supported by short 
+term donor support, which means that 
+projects rarely survive after donor support 
+ends.
+Reaching Zambia’s widespread communities in an effort to reach energy access 
+targets will require substantial investment 
+in distribution networks, 
+in addition to generation and transmission capacity. Zambia used to benefit from 
+support for ‘least developed countries’ 
+(LDCs) but has now moved away from the 
+LDC group and hence does not qualify for 
+some sources of funding that very poor 
+nations can avail,such as debt relief.V. SUMMARY OF RECOMMENDED ACTIONS
+Based on the inputs from the RRA process and validation workshop, Zambia has been 
+advised to pursue cross-cutting actions for on-grid energy, off-grid energy and biofuels:
+ACTION STEPS 
+ • Secure funding for renewable energy resource 
+ assessment, including measurement campaigns 
+ • Seek technical partners and expertise to assess the 
+ economic potential of renewable energy and grid 
+ capacity to accommodate variable power 
+ • Initiate a consultative process to develop the integrated 
+ resource plan
+ • Organise stakeholder consultations on required 
+ revisions of the renewable energy policy and strategy
+ • Elaborate realistic and achievable targets based on 
+ renewable energy’s economic potential
+ • Develop a strong implementation and monitoring frame 
+ work to achieve the targets 
+ • Revise the draft Grid Code to ensure it includes all 
+ aspects such as guidelines and standards for connecting 
+ and managing variable power sources, like solar and wind
+ • Fast track the approval process of the revised Grid Code 
+ and its formal adoption
+Develop 
+integrated 
+resource 
+planning that 
+considers all 
+renewable 
+energy sources
+Revise 
+renewable 
+energy policy 
+and adopt 
+strategy to 
+set renewable 
+energy targets
+Revise and adopt 
+the draft Grid Code, 
+including provisions 
+and conditions for 
+renewable power  • Extend the support provided by the OPPPI to 
+ large-scale power projects to small-scale 
+ decentralised renewable energy projects
+ • Provide technical and financial assistance to 
+ private sector-led decentralised 
+ renewable energy projects
+ • Initiate a programme with all relevant stakeholders 
+ to develop a large-scale renewable energy power 
+ portfolio of projects subsequent to the resource 
+ assessment and amendment of the existing Power 
+ Purchase Agreements to be standardised and bankable
+ • Revise the rural electrification strategy to provide 
+ technical and financial assistance to private operators
+ • Provide performance-based and matching grants 
+ to private operators
+ • Develop a deferred payment scheme and/or 
+ targeted subsidies to increase affordability of 
+ renewable energy systems to end-users
+ • Build capacity of local private operators in the 
+ development of bankable off-grid project proposals 
+ • Build capacity of local financial institutions in 
+ appraising renewable energy power projects, 
+ especially decentralised ones
+ • Build capacity of relevant institutions to support 
+ the development of renewable energy standards and 
+ certification schemes for installers 
+Develop the policies 
+and regulatory 
+framework to 
+facilitate privatesector involvement 
+in decentralised 
+renewable energy 
+technologies
+Develop a programmatic 
+approach for utility-scale 
+renewable energy power 
+projects with the requisite 
+fi nancial incentives that is 
+backed by a standardised 
+bankable Power Purchase 
+Agreements 
+Establish tailored 
+business models 
+for private-sector 
+involvement in 
+off -grid renewable 
+energy systems
+Build capacity for 
+renewable energy 
+deployment • Revise the biofuels strategy to demonstrate 
+ sustainability criteria to attract investment 
+ and open access to international markets
+ • Secure financing for a feasibility study to 
+ address all aspects of the biofuels value chain
+ • Support research on best yielding feedstocks, 
+ particularly for biodiesel to disseminate to outgrowers
+The actions identified can play an important role in increasing Zambia’s 
+readiness to scale up renewable energy. The actions (elaborated in the Annex) are designed 
+to be implementable in the short to medium term, largely by the Government of the Republic 
+of Zambia.
+Develop the 
+framework and
+sustainability 
+criteria for feedstock 
+optimisation and 
+biofuel productionVI. REFERENCES
+AEO (African Economic Outlook) (2013), “Zambia”, www.africaneconomicoutlook.org/fileadmin/uploads/aeo/2013/PDF/Zambia%20-%20African%20Economic%20Outlook.pdf
+CEEEZ (Centre for Energy, Environment and Engineering Zambia) (2011), Financial Sector 
+Survey on Clean Development Mechanism (CDM) Awareness and Predisposition in Zambia, 
+UNDP (United Nations Development Programme), pp. 30. 
+Chitalu, F. (2013), System design and cost effectiveness of off-grid electricity technologies 
+for rural applications, The University of Zambia.
+CSO (Central Statistical Office of Zambia) (2012), "The Monthly", CSO, Zambia, www.
+zamstats.gov.zm
+Dastgeer, A., et al. (2011), Mid-term Review and Evaluation of the Swedish and Dutch Support 
+to the Rural Electrification Programme In Zambia, SIDA (Swedish International Development 
+Cooperation Agency), Stockholm, pp. 82. 
+Development Bank of Southern Africa (2010), “The Role of DFIs in Energy Sector 
+Development in Southern Africa”, www.docstoc.com/docs/70201511 The-Role-of-DFIs-inEnergy-Sector-Development-in-Southern-Africa
+ERB (Energy Regulation Board) (2008), "Energy Sector Report 2008", ERB, pp. 47, www.erb.
+org.zm/48C1A355-967D-4C62-ABFA-2CD49944EA4B/FinalDownload/DownloadId-A79CD
+5C215446B0CCF65FD6CE5C3F270/48C1A355-967D-4C62-ABFA-2CD49944EA4B/reports/
+ERBeNergySectorReport2008.pdf
+ERB (2012), Invitation to Submit/Comment onZESCO’s Application to Revise Electricity Tariffs 
+for the Financial Year 2012/2013, ERB, Lusaka, pp. 20. 
+FGV PROJETOS (2013), "Feasibility Study of Biofuels and Food Production in the Republic of 
+Zambia", FGV PROJETOS, pp. 38, www.fgv.br/fgvprojetos
+IEA (International Energy Agency) (2011),“World Energy Outlook 2011”, www.iea.org/publications/freepublications/publication/WEO2011_WEB.pdf
+IRENA (Forthcoming), Africa Clean Energy Corridor: Analysis of Infrastructure for Renewable 
+Power in Eastern and Southern Africa, IRENA, Abu Dhabi.
+Kapika, J. and A. Eberhard (2013), Power-sector reform and regulation in Africa: Lessons from 
+Kenya, Tanzania, Uganda, Zambia, Namibia and Ghana, HSRC Press, Cape Town, pp. 246.
+MEWD (Ministry of Energy and Water Development) (2008), “National Energy Policy”, 
+www.erb.org.zm/downloads/presentations/energyforum2011/NEP%20May%202008.pdfMEWD (2009), Rural Electrification Master Plan for Zambia 2008-2030: A Blue Print to 
+Providing Electricity to All Rural Areas, MEWD, Lusaka. 
+MEWD (2010), Power System Development Master Plan for Zambia, 2010-2030, MEWD, 
+pp. 305.
+MOFNP (Ministry of Finance and National Planning) (2011), “Sixth National Development 
+Plan 2011-2015”, www.mofnp.gov.zm/index.php/the-sixth-national-development-plan/
+summary/8-national-development-plans/93-sixthnationaldevelopmentplan-fullvolume
+Mwitwa, J. and A. Makano (2012), Charcoal Production, Demand and Supply in Eastern 
+Province and Peri-Urban Areas of Lusaka, USAID (US Agency for International Development) 
+Report, Lusaka.
+REA (Rural Energy Agency) (2008), Pre-feasibility Study Chilinga Hydro, Memo 2008-078, 
+ECON-ESD pp. 39.
+SADC (Southern Africa Development Community) (2012), SADC Renewable Energy Strategy 
+and Action Plan, SADC.
+SAPP (Southern Africa Power Pool) (2013), Demand and Supply, www.sapp.co.zw/
+demand.html
+UNDP (United Nations Development Programme) (2013), "Human Development Report: 
+Statistical Annex", http://hdr.undp.org/en/media/HDR2013_EN_Summary.pdf
+World Bank (2013), "Doing Business 2014", http://www doiness.org/data/exploreeconomies/
+zambia/
+Yamba, et al. (2011), Climate Change/variability implications on hydroelectricity generation 
+in the Zambezi River Basin, Mitigation and Adaptation Strategies for Global Change, Vol. 16, 
+No. 6, pp. 617-628.
+Zambia Extractive Industry Transparency Initiative (2010), “Final reconciliation report”, Hartgroup, Thames, pp. 70, http://eiti.org/files/Zambia-2010-EITI-Report.pdf
+ZESCO (Zambia Electricity Supply Corporation) (2011), Annual Report 2010-2011, ZESCO, 
+Lusaka, pp. 108
+ZDA (Zambia Development Agency) (2013), Energy Sector Profile, ZDA, Lusaka, pp. 13. 
+ZESCO (2013a), ZESCO Business Plan 2013-2018, ZESCO, Lusaka, pp. 72. 
+ZESCO (2013b), "Electricity Infrastructure Development for Economic Growth", North CPD 
+presentation, www.eiz.org.zm/phocadownload/2013-10th-July-North-CPD-PresentatationZESCO.pdf Photovoltaic panels 
+Courtesy: REAANNEX: DETAILED DESCRIPTION OF 
+ RECOMMENDED ACTIONS
+The RRA process identified and recommended the actions below. These are not given 
+in any order of priority, and the list of action points from a rapid assessment is unlikely 
+to be exhaustive. But these actions could improve Zambia's readiness to scale up its 
+renewables deployment. They are designed to be taken in the short- to mediumterm, largely through decisions made by the Government of Zambia.
+Action 1: Develop integrated resource planning for all 
+ renewable sources 
+Action Development of integrated resource planning that considers 
+all renewable energy sources
+Resource-service pair(s) On-grid electricity involving all renewable energy (biomass, 
+geothermal, hydro, solar and wind) 
+Description Zambia’s electricity supply mix is overwhelmingly hydrobased, at 99.9%, making the country vulnerable to any climate 
+hazard, such as droughts, floods, etc. Further, electricity 
+demand in Zambia is projected to increase at 4% per annum. 
+This will lead to exhaustion of electricity potential, estimated 
+at 6,000 MW in the year 2030. 
+ Integrated resource planning is becoming an important tool 
+that allows key stakeholders to participate in the identification 
+and optimisation of the appropriate mix of energy resources 
+to meet near- and long-term electricity needs in a sustainable way. This also enhances the security of energy supply by 
+including all economically viable and environmentally friendly 
+energy resources. 
+ It is important for Zambia to initiate a dialogue that would 
+include all relevant stakeholders in the development of an 
+integrated resource plan for power generation that will help 
+guide the country in diversifying its electricity mix while 
+meeting future demand. A premise to such an activity is the 
+undertaking of a thorough renewable energy resource assessment. A renewable energy resource assessment can trigger 
+a remarkable change in decision makers’ perceptions, knowledge base and awareness of the country’s renewable potential and opportunities, thereby allowing them to make more 
+informed decisions.
+Stakeholders Ministry of Mines Energy and Water Development; Ministry 
+of Agriculture and Livestock; Ministry of Finance; Energy 
+Regulation Board; Zambia Electricity Supply Corporation 
+(ZESCO); other relevant stakeholders
+Timing 18 months
+Keys for success Leadership of the Ministry of Mines Energy and Water 
+Development and broad consultations with all relevant 
+stakeholders
+Action 2: Revise approach to setting renewable energy targets
+Action Revision of renewable energy policy and the strategy employed 
+to set renewable energy targets
+Resource-service pair(s) All applications
+Description Zambia’s renewable energy strategy stipulates defined targets 
+for the deployment of renewable energy power generation. 
+However, these targets have been set without any thorough 
+investigation of the economic potential of each renewable 
+energy resource considered (solar, small hydro, geothermal 
+and biomass). Moreover, cost implications of each renewable 
+energy technology, as well as socio-economic opportunities, 
+were not considered when developing targets. Moreover, 
+there is no clarity on the expected share of renewable power 
+to be supplied to the grid, nor on how the grid will be adapted 
+to accommodate variable power. 
+ There is therefore a need for the Ministry of Mines, Energy and 
+Water Development and relevant stakeholders to undertake a 
+thorough study of renewable energy potential (including both 
+technical and economic). This may lead to the review of the 
+current targets for more realistic and achievable ones. 
+ This would provide a clear policy signal to attract privatesector investment in renewable energy, especially if the 
+targets include a mandatory clause for power generators 
+and those who off-take bulk power. It would be worthwhile 
+for Zambia to undertake target revision upon completion of 
+the renewable energy resource assessment, and to develop a 
+strong implementation and monitoring framework to achieve 
+the revised targets. Stakeholders Ministry of Mines, Energy and Water Development; Ministry of 
+Finance; Energy Regulation Board; ZESCO; Rural Electrification 
+Authority; other relevant stakeholders 
+Timing 18 months 
+Keys for success Leadership from the Ministry of Mines, Energy and Water 
+Development and broader consultations with all relevant 
+stakeholders.
+Action 3: Revise and adopt the draft Grid Code, including 
+ renewable power provisions
+Action Revision and adoption of the draft Zambia Grid Code, including its provisions and conditions for renewable energy-based 
+power
+Resource-service pair(s) For on grid-electricity generation
+Description A grid code is a critical element in the management and operation of a power system. As renewable-energy power requires 
+flexible conditions for its adequate integration, the grid code 
+must incorporate options that would allow renewable power 
+integration without affecting grid safety and stability. The 
+draft Zambian Grid Code, although allowing open access to 
+the grid for Independent Power Producers, does not provide 
+any guidelines or standards for accommodating renewable 
+energy-based electricity. For instance, the current power 
+forecast time is set a day ahead, which is not favourable for 
+renewable energy types, particularly wind and solar, due to 
+their variability. Best practises show that forecasts are more 
+accurate the closer they are to real time, and sub-hourly 
+scheduling is recommended. The Grid Code should additionally provide priority to renewable power in the dispatch schedule. The draft Grid Code, before its formal adoption, should 
+integrate these necessary conditions to allow more renewable 
+energy-based power on the grid. The use of forecasts requires 
+operational changes, with grid operators being enabled to 
+integrate forecast data in daily operations and equipped 
+with the necessary tools, such as sophisticated information 
+and communication infrastructure, for better system-wide 
+decision-making. Stakeholders Ministry of Mines, Energy and Water Development; Energy 
+Regulation Board; ZESCO; Independent Power Producers; 
+Office for Promoting Private Power Investment; others
+Timing Up to 12 months 
+Keys for success The Ministry of Mines, Energy and Water development 
+should lead the revision and fast track the formal adoption of the Zambian Grid Code in consultation with relevant 
+stakeholders 
+Action 4: Develop policies and regulations for private-sector 
+ involvement in decentralised renewable technologies
+Action Development of lighter-handed policies and a regulatory 
+framework to facilitate private-sector involvement in decentralised renewable energy technologies
+Resource-service pair(s) Off-grid electricity 
+Description The rural electrification rate in Zambia is relatively low, estimated at 4%. Current efforts to increase rural electricity 
+access focus on grid extension. The country’s objective of 
+increasing rural access to electricity would be facilitated by 
+creating a level playing field for local private-sector involvement. Furthermore, the support provided by the OPPPI to 
+power project developers (with projects greater than 10 MW), 
+which includes acquisition of water rights, licenses and 
+permits, facilitation and technical support in environmental 
+impact assessments (EIAs), should be extended to small-scale 
+decentralised renewable energy mini-grids (of a size less than 
+10 MW). 
+Stakeholders Rural Electrification Authority; Energy Regulation Board; 
+Ministry of Mines, Energy and Water Development; Ministry of 
+Finance; Ministry of Local Government and Housing
+Timing 18 months 
+Keys for success Involvement of all stakeholdersAction 5: Develop utility-scale renewable power projects 
+ with a bankable purchase agreement
+Action Development of a programmatic approach for utility-scale 
+renewable-energy power projects with the requisite financial 
+incentives that is backed by a standardised, bankable powerpurchase agreement.
+Resource-service pair(s) On-grid electricity
+Description In Zambia, power-purchase agreements are drawn up on a 
+case by case basis and have only been concluded for hydroand fossil fuel-based generation. Attracting investment in 
+variable renewable energy-based power for the grid could 
+be enabled by considering important factors to strengthen 
+the bankability of a power-purchase agreement. These could 
+include mitigating dispatch risks, through clauses for calculating the tariff based on the energy delivered, by embedding 
+either a fixed charge not dependent on dispatch, or a capacity 
+charge along with charges for the energy actually delivered. 
+This would make the power-purchase agreement bankable by 
+providing enhanced predictability of revenue streams for each 
+power plant. 
+ A programmatic approach for utility-scale renewable-energy 
+power projects would have to include the requisite financial 
+incentives and be backed by a standardised, bankable powerpurchase agreement, in order to attract scalable investment, 
+limit elaborate and tedious negotiations, and give potential 
+investors clear expectations on their investment.
+Stakeholders Ministry of Mines, Energy and Water Development; ZESCO; 
+Energy Regulation Board; other relevant stakeholders 
+Timing Up to 18 months
+Keys for success Engagement of the Ministry of Mines, Energy and Water 
+Development with all relevant stakeholders in a consultative 
+process to develop a standardised power-purchase agreement to increase the bankability of renewable-energy power 
+projects Action 6: Establish business models for private-sector 
+ off -grid renewable energy
+Action Establishment of tailored business models for greater involvement of the private sector in promoting off-grid renewable 
+energy systems
+Resource-service pair(s) Off-grid all applications
+Description The country’s objective of increasing rural access to electricity would be facilitated by creating a level playing field 
+for local private-sector involvement. On the one hand, 
+the support provided by the Office for Promoting Private 
+Power Investments to power project developers (with projects greater than 10  MW), which includes acquisition of 
+water rights, licenses and permits, facilitation and technical 
+support in environmental impact assessments (EIAs), should 
+be extended to small-scale decentralised renewable energy 
+mini-grids (of a size less than 10 MW). On the other hand, the 
+rural electrification approach should cater to commercially 
+oriented sustainable electricity service delivery, by providing 
+performance and matching grants as well as technical assistance to private sector-led project proposals. 
+ As affordability of electricity is a key issue in rural Zambia, 
+options to facilitate end-user access to electricity services 
+should include targeted subsidies and deferred payments 
+schemes that could be pre-financed directly by the service 
+providers or through a micro-finance institution. A sound 
+business model should be developed for both stand-alone 
+systems and mini-grids to increase the viability and sustainability of decentralised renewable energy projects and access 
+to electricity services in rural Zambia.
+Stakeholders Ministry of Mines, Energy and Water Development; 
+Rural Electrification Authority; others
+Timing Up to 18 months
+Keys for success Engagement of all stakeholders, in particular the Rural 
+Electrification Authority Action 7: Build capacity for renewable energy deployment
+Action Capacity-building initiatives to support renewable energy 
+deployment
+Resource-service pair(s) All applications
+Description The relatively small size of the off-grid market and poor affordability for end-users does not make it substantially attractive 
+to foreign investors, which is why the sector has largely only 
+attracted local private operators, with the support of donors 
+and development partners. Local private operators face technical and financial constraints that include lack of technical 
+expertise to develop bankable proposals, insufficient working capital due to difficult access to loans, high interest rates 
+due to high risk perception, and lack of expertise from local 
+financial institutions in appraising off-grid renewable energy 
+proposals. Therefore,the capacity of local private operators 
+and financial institutions to develop and appraise bankable 
+renewable energy project proposals should be built. 
+ Capacity building for all stakeholders (policy makers, financial 
+institutions, suppliers, installers and others) has to be accompanied by the development and enactment of supportive policies and measures (including setting up mandatory quotas 
+for different categories of end users, inclusion of solar water 
+heaters in the building codes, financial and fiscal incentives). 
+Such initiatives must also involve an effective communication strategy, including an awareness-raising campaign aimed 
+at customers and financial institutions, and strong quality 
+control, including setting up solar water heater standards and 
+a certification scheme for installers to ensure proper operation and maintenance.
+Stakeholders Ministry of Finance; Ministry of Mines Energy and Water 
+Development; Office for Promoting Private Power Investment; 
+Rural Electrification Authority; Zambia Development Agency; 
+financial institutions
+Timing Up to 18 months
+Keys for success Engagement of all stakeholders and goodwill from financial 
+institutionsAction 8: Develop the framework and sustainability criteria 
+ for feedstock optimisation and biofuel production
+Action Development of a comprehensive framework, including 
+sustainability criteria, and encourage research and development for feedstock optimisation and biofuel production
+Resources-service pair(s) Biofuels 
+Description Zambia, due to its suitable climatic and soil conditions, has a 
+wide variety of crops suitable for bioenergy production. With 
+large areas of currently unutilised arable land, Zambia is strategically positioned as a country with enormous potential for 
+biofuel production. Of great importance is the need to address 
+sustainability and cost-effectiveness issues. Sustainability of 
+feedstock production requires assessment of land availability 
+and suitability, which takes account of land requirements for 
+food production and biodiversity.
+ Another important requirement is the development of standards and regulations for the biofuels industry. In the last few 
+years, good progress has been made in the promotion of the 
+biofuels industry in the country. The biofuels industry has been 
+added to a list of priority industries to benefit from incentives 
+through the Zambia Development Agency. At the regulatory 
+level, trade in biofuels has been permitted, while ethanol and 
+biodiesel standards are now available. 
+ However, some issues still need attention, including financing, 
+cost-effectiveness, sustainability, transportation, storage and 
+pricing. To address these issues, a study is being conducted 
+on the development of a comprehensive framework, taking 
+account of production and marketing arrangement modalities, including a dedicated fund to support feedstock and 
+biofuel production, land availability and suitability assessments, development of sustainability criteria, and research 
+and development for feedstock optimisation.
+Stakeholders Ministry of Mines, Energy and Water Development; Ministry of 
+Agriculture and Livestock; Energy Regulation Board; Zambia 
+Environmental Management Agency; Biofuels Association of 
+Zambia
+Timing Up to 18 months
+Keys for success Engagement of all stakeholders, in particular the Ministry of 
+Agriculture and LivestockIRENA Secretariat
+CI Tower, Khalidiya (32nd) Street
+P.O. Box 236, Abu Dhabi
+United Arab Emirates
+www.irena.org
+Copyright © IRENA 2013

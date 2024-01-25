@@ -1,0 +1,2797 @@
+File Name: PAN-NREP-2018-EN
+Year: 2018
+Country Name: Panama
+Country Code: PAN
+Category: NREP
+Document Title: Renewables Readiness Assessment: Panama
+Exists?: Y
+Publication Date: 2018
+Start Year: 2015
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+RENEWABLES
+READINESS
+ASSESSMENT
+PANAMACopyright © IRENA 2018
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or 
+stored, provided that appropriate acknowledgement is given of IRENA as the source and copyright holder. Material in 
+this publication that is attributed to third parties may be subject to separate terms of use and restrictions, and 
+appropriate permissions from these third parties may need to be secured before any use of such material.
+ISBN 978-92-9260-067-9
+Citation:
+IRENA (2018), Renewables Readiness Assessment: Panama, International Renewable Energy Agency, Abu Dhabi
+About IRENA
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation 
+that supports countries in their transition to a sustainable energy future and serves as the 
+principal platform for international co-operation, a centre of excellence, and a repository of 
+policy, technology, resource and financial knowledge on renewable energy. IRENA promotes the 
+widespread adoption and sustainable use of all forms of renewable energy, including bioenergy, 
+geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable development, 
+energy access, energy security and low-carbon economic growth and prosperity.
+Acknowledgements
+This report was prepared by IRENA in close collaboration with the Government of Panama, as represented by the 
+National Energy Secretariat (SNE). Special thanks are due to numerous other officials from Panama, especially from the 
+Electricity Transmission Company (ETESA), the National Dispatch Centre (CND) and the National Authority of Public 
+Services (ASEP), This report benefited from the inputs of various experts, notably including Fernando Diaz (SNE), 
+Francisco Gafaro (formerly IRENA), Cletus Springer (OAS) and Hugo Ventura (ECLAC). IRENA colleagues including 
+Vanessa Interiano, Tomas Jil, Mohammed Nababa, Hameed Safiullah and Dennis Volk also provided valuable guidance 
+and input.
+Contributors: Chris Marshall (IRENA), Gürbüz Gönül (IRENA), Fabian Barrera (IRENA), Ruben Contreras Lisperguer 
+(formerly IRENA) and Harmodio Arauz (consultant)
+For further information or to provide feedback: publications@irena.org
+This report is available for download: www.irena.org/publications
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the reliability of the material 
+in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party content providers provides a warranty of any kind, 
+either expressed or implied, and they accept no responsibility or liability for any consequence of use of the publication or material herein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA. The mention of specific companies or certain 
+projects or products does not imply that they are endorsed or recommended by IRENA in preference to others of a similar nature that are not mentionedRENEWABLES
+READINESS
+ASSESSMENT
+PANAMAHydropower is the main source of renewable energy in Panama, based on capacity first put in 
+place by a vertically integrated state-owned utility. In the last 20 years, we have developed a 
+market characterised by competition, whose actors have invested more than 6 billion balboas to 
+move the power sector forward. The results have been satisfactory, and the electric power supply 
+adequately supports our growing economy.
+In recent years, our energy matrix has been reinforced by the deployment of other, newer 
+renewable energy technologies. Since 2014, investments in solar and wind energy have grown 
+markedly.
+Today, more than two-thirds of Panama’s electricity generation comes from clean sources, 
+primarily through the contribution of hydropower. The country also has the largest wind farm in 
+the region, and solar power generation – although still modest – has begun to take off rapidly. A 
+key factor behind this trend has been the decrease in the prices of such technologies. The rise of 
+solar and wind power challenges us to ensure adequate sector-wide planning, particularly so that 
+they can compete on even terms with conventional technologies.
+Given this scenario, there is no doubt about the way forward for Panama’s energy system. The 
+country is dedicated to fulfilling the commitments made in the Paris Agreement and aims to play 
+a meaningful part in the global fight against climate change.
+FOREWORD
+from the
+Secretary of EnergyPanama, therefore, has enthusiastically joined with the International Renewable Energy Agency 
+(IRENA) in the preparation of this Renewable Readiness Assessment, which can help us to 
+determine the adjustments needed to effectively incorporate these technologies.
+The objective is to keep up the pace of development in the power sector in a competitive and 
+transparent environment. This includes scaling up private investment, under sound policies, 
+without subsidies, and avoiding any action that causes distortion in the market price.
+Panama has been an active participant in IRENA’s work from the beginning. This is because we 
+are convinced that such international co-operation can help to point the way for future energy 
+development.
+We thank all of our national and international collaborators for their support in the preparation 
+and revision of this document, which we are sure will benefit the entire region.
+Victor Carlos Urrutia
+National Secretary of Energy 
+Republic of PanamaLike many countries in Central America, Panama faces the challenges of a growing population 
+and rising energy demand to power its economic growth. Oil and oil products account for around 
+two-thirds of primary energy supply, making Panama vulnerable to global price volatility and 
+rising costs for fuel imports. At the same time, the growing impact of climate change has led to 
+droughts and disrupted the country’s hydropower resources. 
+To address these challenges, Panama’s National Energy Plan 2015-2050 has started moving the 
+energy sector decisively towards a more diverse energy mix that takes full advantage of the 
+country’s significant renewable energy resource potential. At the core of the plan is a massive 
+scale-up of solar photovoltaic and wind energy. These sources, combined with hydropower, 
+would account for 77% of installed power capacity by 2050. 
+Furthermore, with the ambitious goal of supplying 70% of the national energy mix through 
+renewables by 2050, the plan serves as a long-term roadmap for the transition to a sustainable 
+energy future. 
+This Renewables Readiness Assessment (RRA), undertaken by the International Renewable 
+Energy Agency (IRENA) in close co-operation with the Government of Panama, examines 
+the energy sector holistically. The study identifies key actions to expand renewable energy 
+development in the short to medium-term. 
+FOREWORD
+from the IRENA
+Director-GeneralPanama is also the pilot country for IRENA’s Clean Energy Corridor of Central America
+(CECCA) initiative, which supports the accelerated deployment of renewable power at the 
+regional level. For this reason, the RRA examines Panama’s power-system planning and 
+operational procedures, along with the existing regulatory and financial incentives to develop 
+variable renewable energy for the national and regional electricity market. 
+Since 2011, the RRA process has been undertaken in over 30 countries across Africa, the Caribbean, 
+Latin America, the Middle East and the Asia-Pacific region. This has led to increased knowledge 
+exchange and support for international co-operation to promote clean, indigenous renewable 
+energy technologies. 
+I wish to thank the Energy Secretary, Dr. Urrutia, and his staff at the National Energy Secretariat 
+of Panama for their support in the preparation of this study. Insights from other governmental 
+agencies and a wide range of other stakeholders have further enriched the findings. IRENA 
+looks forward to working with all of them, as well as with regional institutions and development 
+partners, to translate these recommendations into practical on-the-ground initiatives that 
+promote renewables as a key element in sustainable, equitable socio-economic development.
+I sincerely hope the RRA process and its recommendations will strengthen Panama’s pursuit 
+of renewable energy solutions. IRENA stands ready to assist in the country’s transition to a 
+sustainable energy future.
+Adnan Z. Amin
+Director-General
+International Renewable Energy AgencyCONTENTS
+FIGURES
+BOXES
+TABLES
+ABBREVIATIONS
+EXECUTIVE SUMMARY
+I. INTRODUCTION
+1.1 Country background
+1.2 Renewables Readiness Assessment in Panama
+II. ENERGY CONTEXT
+2.1 Energy supply and demand
+2.2 Key institutions in the energy sector
+2.3 Power sector overview
+• Power system regulation
+• Transmission and distribution system
+• Power system operation
+• Power system operational planning
+• Infrastructure planning
+• Electricity market transactions
+• Electricity tariffs
+2.4 Cross-border power trade
+• The Marco Treaty
+• Regional Electricity Market transactions
+2.5 Energy policy and regulatory framework
+• National energy policy
+• National Energy Plan 2015-2050
+VIII
+VIII
+VIII
+IX
+XI
+1
+1
+2
+3
+3
+10
+12
+14
+17
+18
+18
+19
+19
+21
+22
+22
+23
+25
+25
+25III. RENEWABLE ENERGY DEVELOPMENT
+3.1 Renewable energy resource potential and development
+• Hydropower
+• Wind energy
+• Solar energy
+• Geothermal energy
+• Biomass
+• Marine energy
+3.2 Renewable energy policy and support schemes
+3.3 Research and development of renewable energy
+IV. CHALLENGES AND RECOMMENDATIONS
+4.1 Overview
+4.2 Key challenges and recommendations
+• Regulatory and financial incentives for variable renewables
+• Power system planning with high shares of variable renewables
+• New operational practices for the power system
+• Developing a renewable energy workforce
+• Long-term plan for electric mobility and sector-coupling
+• Interface between the national and regional electricity markets
+REFERENCES
+ANNEXES
+ Annex I: Power plants in operation in Panama (2017)
+ Annex II: Semi-annual electricity tariffs for regulated customers (until 30 June 2018)
+29
+29
+29
+29
+32
+33
+33
+33
+34
+35
+37
+37
+38
+38
+39
+39
+39
+40
+40
+42
+44
+44
+46FIGURES
+Figure 1 GDP in Panama (2000-2016)
+Figure 2 Panama’s total primary energy supply (% per source, 1986-2016)
+Figure 3 Total final energy consumption by sector (1990-2014)
+Figure 4 Total final electricity consumption and electricity share in the total energy supply 
+(1998-2014)
+Figure 5 Electricity consumption share by sector (2014)
+Figure 6 Final energy consumption – residential sector (2000-2014)
+Figure 7 Vehicle fleet growth rate in Panama (2012-2015)
+Figure 8 Energy consumption in the industrial sector, Panama (2000-2014)
+Figure 9 Electricity consumption in the commercial and public sector (2000-2014)
+Figure 10 Annual distribution losses (2001-2016)
+Figure 11 Maximum electricity demand in Panama (1988-2017)
+Figure 12 Installed power capacity in Panama (2011-2016)
+Figure 13 Gross electricity generation in Panama per energy source (2000-2016)
+Figure 14 Transmission and distribution system in Panama
+Figure 15 Historical yearly average of the CMS (1999-2017)
+Figure 16 Geographic localisation of SIEPAC line
+Figure 17 SIEPAC monthly injection transactions (2013-2016)
+Figure 18 Share of export and import of electricity as a proportion of total electricity 
+generation in Panama (2005-2016)
+Figure 19 Reference scenario: distribution of electricity consumption (2014 vs 2050)
+Figure 20 Reference scenario: installed electricity capacity (2014-2050)
+Figure 21 Alternative scenario: distribution of electricity consumption (2014 vs 2050)
+Figure 22 Alternative scenario: installed electricity capacity (2014-2050)
+Figure 23 Wind resource assessment in Panama
+Figure 24 Suitability analysis for grid-connected wind power (1 km resolution)
+Figure 25 Suitability analysis for decentralised wind power (1 km resolution)
+Figure 26 Suitability analysis for grid-connected solar power (1 km resolution)
+Figure 27 Suitability analysis for decentralised solar power (1 km resolution)
+BOXES
+Box 1 Panama’s definition of firm capacity for variable renewable electricity
+Box 2 Electricity sector investment and the role of PPAs
+Box 3 Global Atlas for Renewable Energy
+TABLES
+Table 1 Installed and firm generation capacity by type
+Table 2 Yearly hours with CMS values of less than USD 10
+1
+3
+4
+5
+5
+6
+7
+8
+9
+11
+12
+13
+13
+17
+20
+22
+24
+24
+26
+26
+27
+28
+30
+30
+31
+32
+32
+14
+16
+31
+15
+38ABBREVIATIONS
+ASEP National Authority of Public Services (Autoridad Nacional de los Servicios Públicos)
+CDMER Steering Committee of the Regional Electricity Market (Consejo Director del MER)
+CECCA Clean Energy Corridor of Central America
+CMS system marginal cost 
+CND National Dispatch Centre (Centro Nacional de Despacho)
+CO2
+ carbon dioxide
+CRIE Regional Commission for Electrical Interconnection (Comisión Regional de Interconexión 
+ Eléctrica)
+DC direct current
+DT transmission right (derecho de transmisión)
+EDECHI Chiriqui Distribution Company
+EDEMET Metro-West Distribution Company
+EGESA Electricity Generation Company (Empresa de Generación Eléctrica, S.A.)
+ENSA Northeast Distribution Company
+EOR Regional Operator Entity (Ente Operador Regional) 
+EPR Regional Operations Entity
+ETESA Electricity Transmission Company (Empresa de Transmisión Eléctrica, S.A.)
+GDP gross domestic product 
+GHG greenhouse gas 
+GW gigawatt
+GWh gigawatt hour
+ICP Colombia-Panama Electric Interconnection
+IRENA International Renewable Energy Agency
+kboe thousand barrels of oil equivalent
+km kilometre
+km2
+ square kilometre
+kV kilovolt
+kW kilowatt
+kWh kilowatt hour
+LPG liquefied petroleum gas
+m metre
+m/s metres per second
+MEN National Electricity Market (Mercado Eléctrico Nacional)
+MER Regional Electricity Market (Mercado Eléctrico Regional)
+MW megawatt
+MWh megawatt hour
+NDC Nationally Determined Contribution
+PEN 2015-2050 National Energy Plan 2015-2050 (Plan Energético Nacional 2015-2050)
+PIMUS Comprehensive Plan for Sustainable Urban Mobility
+PPA power purchase agreement
+PSSE Power System Simulation for Engineering
+RRA Renewables Readiness Assessment
+SIEPAC Central American Electric Interconnection System (Sistema de Interconexión Eléctrica de 
+ los Países de América Central)
+SIN National Interconnected System (Sistema Interconectado Nacional)
+SNE National Energy Secretariat (Secretaría Nacional de Energía)
+T&D transmission and distribution
+UTP Technological University of Panama
+UP University of Panama
+V volt
+VRE Variable Renewable Energy The Penonomé I and II wind projects located on 
+Panama’s southern coastEXECUTIVE SUMMARY
+Panama depends heavily on fossil fuels, which have historically accounted for roughly 
+two-thirds of total primary energy supply. The country’s transport sector has until 
+recently relied almost entirely on oil and oil products. At the same time, electricity 
+demand in the country has continued to increase, reaching a peak demand of over 
+1 600 megawatts (MW) in 2015. 
+To meet this growth, Panama introduced wind and solar photovoltaic (PV) energy in 
+2013, which reached 270 MW and 90 MW of installed capacity by 2016, respectively. 
+However, fossil-fuelled generation from coal, oil and oil products still accounted for 
+nearly one-third of power production in 2016, and plans are in place to bring natural 
+gas-fired capacity on line in the years ahead. These developments make Panama’s 
+transition to a sustainable energy future uncertain.
+However, in March 2016, the Government of Panama approved the National Energy 
+Plan 2015-2050 (PEN 2015-2050) to serve as a long-term roadmap for diversifying 
+the energy sector and advancing energy access, energy efficiency, energy security 
+and the overall decarbonisation of the energy system. The plan compares a “businessas-usual” reference-case scenario with an alternative, ambitious scenario, and finds 
+that under the reference-case scenario, Panama’s demand growth trajectory would 
+lead to a higher share of coal in the power mix by 2050. The ambitious scenario, in 
+contrast, suggests that renewable energy could reach 70% of the power supply in the 
+next 35 years, while at the same time meeting growth in demand. Furthermore, under 
+the ambitious scenario, a solar photovoltaic (PV) and wind energy scale-up, combined 
+with hydropower, would account for 77% of installed power capacity by 2050.
+Reaching this desired energy future would require exploitation of Panama’s vast 
+renewable energy potential, which includes resources such as hydropower, wind, 
+solar, geothermal, marine and biomass (bagasse, husk, firewood, charcoal, peat and 
+bioethanol). Despite abundant renewable energy resources, solar and wind companies 
+in Panama face economic challenges, given that the current power market model is 
+based on conventional sources such as thermal and hydropower generation and does 
+not recognise the unique operating characteristics of variable renewable energy (VRE) 
+generation. As such, adjustments to electricity sector regulation are needed to ensure 
+that variable renewables compete on a level playing field with conventional generation 
+sources. 
+The high shares of solar and wind in the electricity network, as envisaged in the 
+PEN 2015-2050, will require significant flexibility mechanisms in the power system. 
+Combined with updated power system planning and operational practices, these 
+measures can help ensure the reliable integration of VRE in a cost-effective manner.
+This Renewables Readiness Assessment (RRA) finds that several key challenges would 
+need to be effectively addressed to further exploit indigenous renewable energy 
+resources and integrate growing shares of solar and wind energy in Panama’s power 
+system. To this end, the recommendations that follow are provided to the Government 
+of Panama for its consideration in the development of policy and regulation for its RECOMMENDED ACTIONS
+1. Assess the regulatory and financial 
+incentives for VRE development
+Panama’s power market has been structured 
+around the operation of its hydropower and thermal 
+generation fleet, where generators are rewarded 
+on the basis of an outdated definition of firm 
+power. To allow renewables to compete on a level 
+playing field vis-à-vis conventional generation, 
+particularly in the competitive wholesale market, 
+the current regulatory framework conditions must 
+be adjusted to adequately capture the unique 
+operating characteristics of VRE, and in doing so, 
+incentivise new development of wind and solar PV. 
+By undertaking a robust assessment of the 
+investment incentives for wind and solar PV 
+projects, both under the current and expected 
+market conditions, Panama can identify factors 
+with a negative influence on investment behaviour 
+and their required regulatory responses. Given 
+the importance of power purchase agreements 
+(PPAs) for solar and wind energy, the assessment 
+should take into account possible adjustments to 
+the compensation for curtailment of renewable 
+generators, a new calculation of PPA-related 
+remuneration levels and an updated definition of 
+firm power that incorporates variable renewable 
+generation output. The assessment should 
+culminate in a set of implementable solutions 
+that can help lead to a strengthened investment 
+environment without compromising the efficient 
+functioning of the Panamanian electricity market.
+2. Develop a national strategy to improve 
+power system planning and modelling with 
+higher penetrations of VRE
+Looking ahead, power system planning will 
+continue to be a critical element of Panama’s 
+evolving energy sector, as planners must cope 
+with rising variability from the envisaged high 
+penetration of solar and wind generation through 
+to 2050. Without strong sets of quantitative 
+techno-economic analyses to guide such planning, 
+however, generation expansion can be delayed, grid 
+infrastructure development costs can be allocated 
+inefficiently, and the overall reliable operation of 
+the power system can be compromised. 
+In response to these challenges, Panama should 
+develop a comprehensive plan to define long-term 
+transition scenarios and near-term actions. This 
+will help align the development of the electricity 
+grid with the development of new VRE generation. 
+Moreover, it can help rationalise the management 
+of connection queues, reduce or avoid interrupting 
+renewables generation, support the efficient 
+use of the SIEPAC (Central American Electrical 
+Interconnection System) regional line, and cut 
+overall costs of the electricity system.
+3. Identify new operational practices to 
+increase the flexibility and reliability of a 
+grid with growing shares of VRE
+Panama’s power system operations still largely 
+reflect an “old paradigm” of centralised, 
+dispatchable generation units. Yet, due to 
+the unique physical conditions of variable 
+renewables, reliably integrating solar and wind 
+sources into the electricity network requires 
+modifications to the National Dispatch Centre 
+(CND) operational procedures, in addition to 
+increased flexibility measures. These include 
+enhanced forecasting techniques, improved 
+ancillary services, more flexible scheduling of 
+generation and load dispatch practices, and 
+improved management of reserves, among 
+other areas. 
+A comprehensive evaluation of new operational 
+practices would further identify the necessary 
+flexibility options for the reliable operation of the 
+power system with a higher penetration of solar 
+and wind. 
+The International Renewable Energy Agency 
+(IRENA), through its work with CND under 
+the Clean Energy Corridor of Central America 
+(CECCA) initiative,1
+ identified additional potential 
+updates related to power system operations in 
+Panama. These include: automation of system 
+security analysis using power system software 
+to allow closer real-time system security checks, 
+with the aim of reducing VRE curtailment due to 
+network congestion; calculation of transmission 
+capacities closer to real time and considering 
+forecasts for wind and solar production in these 
+calculations to minimise curtailment; and training 
+on the impacts of VRE on transient and frequency 
+stability analyses.
+4. Assess the regulatory interfaces between 
+the National Electricity Market (MEN) and 
+Regional Electricity Market (MER)
+With its connection to the SIEPAC, Panama 
+participates in the MER with five other countries 
+in Central America. However, due to a lack of harmonisation among rules and methodologies, 
+such as grid codes, the MER does not function 
+in a fully efficient manner and is underutilised. 
+Moreover, institutional gaps exist between single 
+jurisdictions and the regional market. In this 
+respect, more flexible market rules, including the 
+allocation of transmission rights, are needed to 
+ensure firmness through the multiple resources of 
+the MER, instead of the current approach which 
+allows limited short-term transactions. 
+By undertaking an assessment of the regulatory 
+interfaces between the MEN and the MER, Panama 
+can advise on potential solutions to current 
+challenges, such as energy transfer problems on 
+the MER, grid design values, and the suboptimal 
+regional dispatch that occurs when energy is 
+“trapped” on national markets due to transmission 
+constraints. 
+Key issues that need to be further analysed include: 
+the definition of firm energy and its equivalence to 
+firm capacity at national level; the authorisation 
+of the right of transmission and of the long-term 
+firm contract; the creation of an intraday market 
+to adjust the volumes of variable renewables; 
+the concept of interruptible service under firm 
+contracts at the national level; and verification of 
+the capacity limits of the SIEPAC line, as designed.
+5. Examine the skills development needs of 
+Panama’s workforce to support efforts 
+towards reaching the 2050 renewable 
+energy goal
+In order to achieve a 70% renewable energy 
+share in Panama’s power supply by the year 
+2050, as envisaged in the PEN 2015-2050, a 
+robust workforce will be essential to underpin the 
+growing solar PV and wind energy market in the 
+country. An examination of the current national 
+workforce in the field of renewables and the 
+projected future needs can help to adjust existing 
+and new education and training programmes to 
+develop the necessary renewables workforce. 
+To comprehensively evaluate workforce needs, the 
+assessment should, at a minimum, include a survey 
+of: current education and training for renewables 
+in Panama; the range of jobs available in Panama’s 
+renewable energy sector; and the types of 
+renewable energy training and certifications that 
+employers prefer. This would then lead to the 
+development of new or expanded education and 
+training programmes in line with the goals of the 
+PEN 2015-2050. 
+6. Develop a long-term plan for electric 
+mobility and sector-coupling
+Panama’s transport sector has traditionally relied 
+entirely on fossil fuels; however, with the growth of 
+the Panama Metro, the electrification of transport 
+in the country has begun. To adapt Panama’s 
+energy system to this evolving paradigm, a 
+comprehensive plan is needed that considers a 
+sector-coupling approach between power and 
+transport, and considers the introduction of 
+expanded metro lines, electric passenger vehicles 
+and electric buses. 
+Developing a comprehensive Urban Mobility 
+Plan for Panama based on the electrification 
+of transport would help speed up the use of 
+renewable energy in the electricity mix, reduce the 
+transport problems that currently affect Panama 
+(such as high levels of congestion, urban planning, 
+limited availability of public transport), support 
+the reduction of CO2 emissions, and eliminate the 
+current dependence of the sector on fossil fuels.
+At the same time, the generalised subsidy of 
+liquefied petroleum gas (LPG) for cooking acts 
+as a disincentive to deployment of electric stoves 
+and thus the shift in residential and commercial 
+energy demand from the fossil-fuel sector to the 
+electricity sector. Shifting this demand profile 
+would provide an opportunity to meet increased 
+demand in the end-use sectors with solar and 
+wind generation, aligning with the goals of the 
+PEN 2015-2050 alternative scenario. 
+Therefore, in the residential and commercial sectors, 
+policy options should be examined that can alter or 
+eliminate subsidies for LPG. This process should 
+compare the true costs of cooking with LPG and 
+using electric cook stoves that are deployed in 
+concert with high shares of renewable power. Panama City skylineI. INTRODUCTION
+1.1 COUNTRY BACKGROUND
+Panama is the southernmost country in Central America. As the link between Central 
+and South America, it borders Colombia to the east and Costa Rica to the west. To 
+its north is the Caribbean Sea, and to its south the Pacific Ocean. 
+Panama has a surface area of 75 320 square kilometres (km2
+), and its population sits 
+at just over 4 million (2017). The capital, Panama City, is located in the centre of the 
+country and is home to roughly 1.6 million people (UN, 2017).
+ 
+Panama’s economy operates without a central bank, and uses the US dollar as legal 
+tender. Its official currency, the balboa, is tied to the US dollar: one dollar equals 
+one balboa. Since the 1990s, when the Panamanian economy was liberalised, the 
+country’s banking sector has become one of the most globalised in Latin America. 
+Gross domestic product (GDP) growth in Panama has been stable in recent years 
+(Figure 1). In 2016, the country’s GDP reached USD 55 billion, and it is forecast to 
+grow at around 5.4% in 2018 (World Bank, 2017a).
+Based on World Bank (2017b), The World Bank in Panama,
+www.worldbank.org/en/country/panama/overview.
+Figure 1: GDP in Panama (2000-2016)
+0
+10
+20
+30
+40
+50
+60
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+USD billion (current)Following the official request of the Government 
+of Panama to IRENA, the RRA process was 
+initiated. It has been led by Panama’s National 
+Energy Secretariat (SNE), with IRENA facilitating 
+the process. The RRA has been undertaken in 
+conjunction with the national-level projects of 
+IRENA’s Clean Energy Corridor of Central America 
+(CECCA) initiative, given that Panama was later 
+chosen as the pilot country of the initiative in 2016.2
+The completed RRA process for Panama includes a 
+background paper, an identification of stakeholders 
+and strategic partners, a set of service-resource 
+pairs, an RRA Expert Workshop and a Validation 
+Workshop. 
+In October 2016, the government hosted an RRA 
+Technical Consultation Workshop in Panama where 
+national, regional and international stakeholders 
+exchanged and validated the findings of the RRA 
+Background Paper. Discussions focused on the 
+overall status of renewable energy development in 
+Panama, and identified key barriers to accelerating 
+deployment.
+Based on this, priority actions were then developed 
+to form a set of recommendations. The group 
+discussions were divided into four areas:
+• National Energy Plan 2015-2050: Institutional, 
+policy and regulatory frameworks, and their 
+national and regional implications.
+• Renewable energy targets: Assessing renewable 
+energy resources for stronger planning.
+• National and regional market interaction, and 
+private-sector renewable energy financing. 
+• Large-scale and small-scale distributed 
+renewable energy integration.
+The workshops shaped the focus of the RRA. For 
+instance, the electricity sector was identified early on 
+as a key focus area, since immediate adaptations to 
+power system operations can help integrate higher 
+shares of variable renewable energy (VRE), such as 
+wind and solar. This also has important implications 
+for Panama’s end-use sectors, as the growing 
+power demand resulting from the electrification of 
+transport and residential appliances could be met 
+by scaling up variable renewables in the power mix.
+The Validation Workshop, co organised by SNE and 
+IRENA, was held in June 2017. The recommendations 
+in Section 4 of this report were discussed and 
+validated by the government and all relevant 
+stakeholders.
+Between 2007 and 2013, the service sector 
+accounted for the largest share of the country’s 
+total GDP, at 74% (World Bank, 2017a). This is 
+largely due to the Panama Canal, a 77 kilometre 
+(km) artificial waterway that cuts across the country 
+and connects the Atlantic Ocean with the Pacific 
+Ocean. Completed in 1914 and expanded in 2014, 
+the canal underpins Panama’s trade, transport and 
+tourism industries (SNE, 2015).
+Climate change is a concern for Panama, which has 
+a tropical climate and both a rainy and dry season. 
+The country experiences various extreme weather 
+events, such as El Niño-La Niña events, floods, 
+droughts, tropical cyclones and windstorms, among 
+others (Adaptation Fund, 2017). Further climate 
+risks for Panama relate to rising sea levels, altered 
+agriculture and food production, and changes to its 
+ecosystems and biodiversity. 
+To help mitigate these impacts, Panama’s Ministry 
+of Environment developed the “Estrategia Nacional 
+de Cambio Climático de Panamá” (National Climate 
+Change Strategy of Panama), which outlines 
+actions and strategies for adaptation and crosssectoral greenhouse gas (GHG) emissions reduction 
+(Ministry of Environment, 2015).
+Central to the country’s action on climate is the 
+decarbonisation of its energy system, with the 
+National Energy Plan 2015-2050 (PEN 2015-2050) 
+aiming to reduce energy sector emissions by 60.6% 
+by 2050, compared to a reference case scenario 
+(SNE, 2015). These efforts are also reflected in 
+the country’s Nationally Determined Contribution 
+(NDC), which sets a goal of a 15% increase in nonhydropower renewable energy capacity by 2030, 
+and 30% by 2050,1
+ compared to base year 2014 
+(Government of Panama, 2016). 
+1.2 RENEWABLES READINESS 
+ASSESSMENT IN PANAMA
+The International Renewable Energy Agency 
+(IRENA) developed the Renewables Readiness 
+Assessment (RRA) as a tool to carry out a 
+comprehensive evaluation of the conditions for 
+renewable energy deployment in specific countries. 
+The RRA is a country-led, consultative process 
+that leverages broad, multi-stakeholder dialogue 
+to identify barriers and solutions to renewables 
+deployment in a country. 
+2 These values refer to modern renewable energy and do not include traditional biomass.II. ENERGY CONTEXT
+2.1 ENERGY SUPPLY AND DEMAND
+Panama’s total primary energy supply has historically had a high dependence on oil 
+and oil products. Figure 2 shows the evolution of the country’s primary energy sources, 
+with oil generally accounting for over 60%, and reaching nearly 80% at certain points. 
+Figure 2: Panama’s total primary energy supply (% per source, 1986-2016)
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012 2014 2016
+Oil and oil products Hydropower Solar Bagasse Coal Wind WoodPanama’s energy demand can be divided into 
+four main sectors: residential; commercial and 
+public; industrial; and transport. Figure 3 shows 
+the evolution of total final energy consumption in 
+each of these sectors. The transport sector is the 
+largest energy consumer, followed by the industrial 
+sector. The transport and industrial sectors are 
+the main consumers of oil and oil products, while 
+the commercial and public and residential sectors 
+account for the highest electricity share.
+The share of electricity in total energy supply has 
+remained at around 20% for the last 15 years (Figure 
+4), while the final electricity consumption rate has 
+witnessed a steep growth rate of approximately 
+5.8% annually.
+0
+5 000
+10 000
+15 000
+20 000
+25 000
+30 000
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+12 000
+1990 1995 2000 2005 2010 2014
+Total energy consumpon (kboe)
+Energy consumpon by sector (kboe)
+Residential Commercial and public Industrial Transport Total
+Note: kboe = thousand barrels of oil equivalent.
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+Figure 3: Total final energy consumption by sector (1990-2014)
+Wind turbines in Panama
+Photograph: Shutterstock0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+0%
+5%
+10%
+15%
+20%
+25%
+2000 2002 2004 2006 2008 2010 2012 2014
+Final electricity consumpon (kboe)
+Electricity share in energy supply (%)
+Electricity share Electricity consumpon
+0.2%
+9.1%
+32.7%
+58.0%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+Transport Industrial Residential Commercial and public
+As stated above, the commercial and public sector 
+is the main consumer of electricity, followed by the 
+residential sector and industrial sector. Given its 
+high dependence upon oil products, the transport 
+sector consumes the least electricity among 
+sectors (Figure 5). The following paragraphs 
+provide further detail on the energy profile of each 
+end-use sector. 
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+Figure 4: Total final electricity consumption and electricity share in the total 
+ energy supply (1998-2014)
+Figure 5: Electricity consumption share by sector (2014)1. RESIDENTIAL SECTOR:
+Household energy requirements are supplied 
+by electricity, wood and liquefied petroleum gas 
+(LPG) for cooking and heating. As Figure 6 shows, 
+electricity consumption has expanded rapidly in 
+households, particularly over the last 10 years, 
+which has in turn boosted total final electricity 
+consumption (Figure 4). The residential sector 
+also relies on wood for cooking and heating, an 
+estimated 13% of Panamanian households using 
+wood (SNE, 2015). 
+LPG also maintains a high share of the energy used 
+in the sector, and correlates with growth in total 
+energy consumption. The 25-pound LPG tank has 
+been subsidised since 1992, following an executive 
+decision by the government, and this decision was 
+later endorsed by a sequence of Cabinet decrees. 
+In 2009, an official decree for price regulation of 
+LPG used in households was created (Ministry of 
+Industries and Commerce, 2009), and by 2014, 
+annual LPG subsidies in Panama had reached 
+USD 96 million (SNE, 2015). 
+The PEN 2015-2050 recognises the need to 
+increase the use of electric cooking stoves in 
+Panamanian households, which could support 
+government efforts to increase electricity access 
+while at the same time reducing the use of LPG 
+and wood for cooking and heating. 
+Figure 6: Final energy consumption – residential sector (2000-2014)
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+0
+ 200
+ 400
+ 600
+ 800
+1 000
+1 200
+1 400
+1 600
+1 800
+2000 2002 2004 2006 2008 2010 2012 2014
+Energy consumpon (kboe)
+Electricity consumpon LPG Wood Others2. TRANSPORT SECTOR:
+The transport sector includes both cargo and 
+passenger transport, and is the largest consumer 
+in Panama’s total final energy consumption, at 
+around 45% (Figure 3). The number of vehicles on 
+the road in Panama has accelerated in recent years, 
+from 564 155 in 2012 to 718 518 in 2015 (Figure 7). 
+Between 2012 and 2014, gasoline in Panama was 
+blended with 5% ethanol, until the mixing plant 
+ceased operations due to economic challenges. 
+However, this blending initiative is expected to 
+return. While still a nascent market, hybrid vehicles 
+have begun to increase their sales in the country, 
+while electric vehicles have yet to be deployed on 
+a large scale in Panama.
+The PEN 2015-2050 will 
+require significant flexibility 
+mechanisms in the power system
+An increase in the use of electrified public transport 
+has begun to take place following the creation of 
+Line 1 of Metro de Panamá (the Panama Metro), 
+which provides a range of benefits to the population 
+including reduced journey times. In the year to 
+February 2018, the metro system was already 
+carrying between 5 and 7 million riders each month, 
+having started operations in 2014 (The Panama 
+Metro, 2018).
+A second line is currently under construction, with 
+a third line under development and an eventual 
+fourth and fifth line being planned. The growing use 
+of electrified transport (public and private) could 
+represent a moderate increase in electricity demand, 
+which could in turn be used as an opportunity to 
+expand the use of renewable power generation to 
+meet this new demand (sector coupling). 
+Figure 7: Vehicle fleet growth rate in Panama (2012-2015)
+Based on INEC (2018), “Automóviles en circulación en la República según distrito y tipo: años 2012-2016”.
+564 155 588 088
+643 250
+718 518
+4.2%
+9.3%
+11.7%
+0%
+2%
+4%
+6%
+8%
+10%
+12%
+14%
+0
+100 000
+200 000
+300 000
+400 000
+500 000
+600 000
+700 000
+800 000
+2012 2013 2014 2015
+Growth rate (%)
+Number of vehicles
+Number of vehicles Annual growth rateThe Ministry of Environment, in co ordination 
+with the Panama Metro, has developed the 
+Comprehensive Plan for Sustainable Urban 
+Mobility (PIMUS) for the transport sector. The plan 
+is intended to serve as a framework for sustainable 
+mobility policy in the Metropolitan Area of 
+Panama, with an emphasis on capitalising on the 
+investment in the expansion of the metro system. 
+In addition, it identifies the best international 
+practices for the reduction of GHG emissions in 
+urban mobility (CCAP, 2016).
+The plan suggests five key action areas: 
+1. Strengthening institutional capacity.
+2. Establishing an integrated public transport 
+system.
+3. Mitigating the impact of the use of the 
+private vehicle.
+4. Generating an investment programme in 
+road infrastructure for mobility.
+5. Promoting citizen participation in the 
+management of mobility.
+3. INDUSTRIAL SECTOR:
+Industry has seen moderate growth in energy 
+demand, with total energy consumption in the 
+sector reaching nearly 7 000 kboe in 2014, from 
+5 209 kboe in 2010 (Figure 8). Buildings in Panama 
+use electricity for lighting, cooling, heating and 
+motive power, while bunker fuel and diesel are 
+used in boilers and furnaces to produce heat, and 
+petroleum coke is used in cement plants. The use 
+of oil products corresponds to more than 80% of 
+the industrial sector’s total energy consumption 
+(Figure 8). Energy-intensive industries in Panama 
+include food, tobacco, cement and paper 
+production.
+Figure 8: Energy consumption in the industrial sector, Panama (2000-2014)
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+2000 2005 2010 2014
+Total energy consumpon (kboe)
+Electricity consumpon Oil and oil products Wood Coal Others4.COMMERCIAL AND PUBLIC SECTOR:
+The commercial and public sector is the largest 
+consumer of electricity among the four sectors. 
+Consumption reached 2 816 kboe in 2014 (Figure 
+5). Since 2010, the sector has accounted for about 
+15% of total final energy consumption in Panama, 
+and its electricity consumption has maintained an 
+annual average growth rate of 6.2% (Figure 9).
+As services are the primary activity in this sector, it 
+can be expected that information technology will 
+play an important role in efficiency measures and 
+energy savings in the future. 
+Figure 9: Electricity consumption in the commercial and public sector (2000-2014)
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+0
+ 500
+1 000
+1 500
+2 000
+2 500
+3 000
+2000 2002 2004 2006 2008 2010 2012 2014
+Total electricity consumpon (kboe)2.2 KEY INSTITUTIONS IN THE ENERGY SECTOR
+The government institutions involved in energy 
+policy and regulation include the following:
+1. The National Energy Secretariat (SNE) oversees 
+the development and implementation of national 
+energy policy to promote a diversified energy 
+supply, with an aim to reduce costs and avoid 
+adverse social and environmental impacts. SNE 
+is also responsible for promoting a competitive 
+energy market, as well as a regulatory framework 
+that facilitates a modern and efficient electricity 
+system. In addition, SNE may propose changes to 
+laws, including policy support mechanisms. 
+2. The National Authority of Public Services (ASEP) 
+is the regulator of the National Electricity Market 
+(MEN). It monitors compliance with market rules, 
+issues regulations, facilitates dispute resolution 
+between market actors, and grants licences and 
+concessions for new market agents.
+3. The Ministry of Environment was created in 
+2015 and is charged with formulating national 
+environmental policy and promoting the 
+sustainable use of natural resources. It is also 
+responsible for approving the Environmental 
+Impact Assessment of energy projects and 
+granting use of a natural resources. 
+4.The National Science and Technology Secretariat 
+is an autonomous agency that promotes 
+sustainable development in Panama through 
+science and technology, and works with the 
+public and private sectors, as well as academia. In 
+this context, the secretariat supports renewable 
+energy and sustainable development forums in 
+Panama. 
+In 1997, the state-owned, vertically integrated 
+electricity company, Hydraulic Resources and 
+Electrification Institute, was unbundled into 
+separate business units. Following this process, four 
+generation units, one transmission unit and three 
+distribution units were created. The generation and 
+distribution units were partially privatised, with the 
+government still maintaining minority ownership 
+in them, while the transmission unit remained 
+completely state-owned. 
+Since then, the power generation market in Panama 
+has steadily grown through mostly private capital, 
+while some power plants still belong to the public 
+sector or have taken the form of public-private 
+partnerships (Annex I). In 2006, the state-owned 
+Electricity Generation Company (EGESA) was 
+created by the government to develop projects and 
+compete in the generation market with the private 
+sector. 
+Panama also has self-generators, which are defined 
+as companies that generate their own electricity 
+and can sell the surplus and buy any deficiency on 
+the national or regional market. A co-generator is 
+defined as a company that generates electricity 
+as a by-product of its main activity and can sell 
+its surplus and buy its deficiency on the national 
+or regional market. An example is a sugar mill 
+that produces high-pressure steam by burning 
+the bagasse in a boiler. This steam moves the 
+turbines for the various equipment of the sugar 
+manufacturing process, while also being used to 
+generate electricity for the mill, with surplus energy 
+sold on the market. Panama’s transmission and distribution 
+infrastructure is managed by several key actors, 
+including:
+1. The Electricity Transmission Company, ETESA, 
+maintains responsibility for developing and 
+operating the transmission system, providing 
+feasibility of connection to new actors and 
+conducting energy and power tendering in 
+accordance with the policies and procedures 
+established by the SNE and ASEP. It also 
+arranges auctions on behalf of Panama’s 
+distribution companies, and concludes power 
+purchase agreements (PPAs) with distributors 
+and generating actors. 
+2. The Metro-West Distribution Company, EDEMET, 
+the Chiriquí Distribution Company, EDECHI, and 
+the Northeast Distribution Company, ENSA, are 
+three main distribution companies in Panama. 
+The companies are regulated, and their profit 
+is linked to a rate on their net assets and their 
+efficiency (distribution grid infrastructure), as an 
+economic method to improve the quality of their 
+service. They are also allowed to provide 15% of 
+their demand with their own generation assets. 
+Following the privatisation of the Hydraulic 
+Resources and Electrification Institute, distribution 
+losses were reduced considerably due to improved 
+management and increased investment in the 
+distribution system (Figure 10).
+Figure 10: Annual distribution losses (2001-2016)
+Based on ETESA (2017a), Plan de Expansión del Sistema Interconectado Nacional 2017-2031: Tomo I.
+0%
+5%
+10%
+15%
+20%
+25%
+30%
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Percentrage of distribuon system losses
+Technical Non-technical TotalUpdated power system 
+planning and operational 
+practices can help to ensure 
+reliable integration of VRE
+in a cost-effective manner
+0
+ 200
+ 400
+ 600
+ 800
+1 000
+1 200
+1 400
+1 600
+1 800
+1988 1993 1998 2003 2008 2013 2018
+Maximum demand (MW)
+2.3 POWER SECTOR OVERVIEW
+Since the 1980s, electricity demand in Panama’s 
+Nationally Interconnected System (SIN) (Figure 14) 
+has continued to increase, reaching peak demand 
+of over 1 600 megawatts (MW) in 2015 (Figure 
+11). Installed power capacity has also continued 
+to grow, reaching 3 379 MW in 2016. The largest 
+source in the electricity mix is hydropower, followed 
+by thermal generation (oil products and coal).
+Wind and solar power came on line in 2013, and 
+by 2016 Panama had 270 MW of installed wind 
+power capacity and 90 MW of installed solar 
+power capacity (SNE, 2015). In addition, biogas 
+was deployed in 2016, with an installed capacity of 
+8.1 MW (Figure 12). 
+Figure 11: Maximum electricity demand in Panama (1988-2017)
+Based on SNE (2015), Plan Energético Nacional (2015-2050).0
+2 000
+4 000
+6 000
+8 000
+10 000
+12 000
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Gross electricity generaon (GWh)
+Coal Oil and oil products Hydropower Solar Wind Total
+As shown in Figure 13, electricity generation in 
+Panama has been dominated by hydropower. Wind 
+and solar generation began in 2013, and reached 
+625.2 gigawatt hours (GWh) of onshore wind and 
+71.4 (GWh) of solar PV in 2016 (SNE, 2017a). Gross 
+electricity generation saw an annual growth rate of 
+around 6.7% between 2010 and 2016, reaching a total 
+of 10.8 gigawatt hours (GWh) in 2016, compared to 
+4.8 GWh in 2000. Coal has only been used since 
+2011, corresponding to an average of 7% of gross 
+electricity generation from 2011 to 2016 (Figure 13). 
+The share of oil and oil products in the generation 
+mix has reduced from 37% in 2014 to 27% in 2016, 
+but is still the second-largest electricity generation 
+source after hydro.
+Figure 12: Installed power capacity in Panama (2011-2016)
+Figure 13: Gross electricity generation in Panama per energy source (2000-2016)
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+2 344 2 419
+2 556
+2 829
+3 224
+3 379
+0
+ 500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+4 000
+2011 2012 2013 2014 2015 2016
+Installed capacity (MW)
+Thermal Hydropower Wind Solar Biogas TotalPOWER SYSTEM REGULATION
+The desire to maintain adequate generation resources 
+to meet demand at all times is reflected in Panama’s 
+current reserve margin, which has fluctuated between 
+15% and 20% in recent years (ETESA, 2017a). The 
+current reserve margin appears to be in line with the 
+high end of margins applied in other jurisdictions, and 
+no immediate generation scarcity can be identified. 
+Should low utilisation rates of conventional generators 
+be experienced in the future, their impact on the 
+power market and declining reserve margins would 
+likely need to be monitored closely. 
+Wind and solar PV in Panama have been assigned 
+a value of zero with regard to their firm capacity 
+(Table 1). This has led ASEP to undertake an in-depth 
+assessment to better understand the true value of 
+firm capacity from wind and solar PV in the power 
+market. A refined approach in calculating the reserve 
+margin, taking into account the true contributions 
+of VRE, is likely to help avoid situations of over- or 
+under-capacity in Panama.
+Wholesale electricity prices in Panama are impacted 
+heavily by weather patterns. El Niño produces 
+dry seasons that reduce water resources and thus 
+hydropower output, raising the marginal cost of 
+electricity as more thermal generation is needed. 
+Conversely, La Niña causes strong storms and 
+increases water resources, causing a reduction in the 
+average marginal cost of electricity.
+Box 1: Panama’s definition of firm capacity for VRE 
+The concept of firm capacity was introduced with the creation of the MEN in Panama, and is 
+calculated and periodically revised by the National Dispatch Centre (CND). It refers to the actual 
+amount of power that a generator (electricity supplier) can guarantee to make available under 
+maximum operating conditions. Firm capacity is a commitment assumed by the generator, and 
+is used by regulators to ensure that the standards governing the reliability of the grid are met. 
+In Panama, the firm capacity for VRE (solar and wind energy) is attributed a value of zero, given 
+the intermittent nature of their output and non-dispatchability. Wind and solar generators have 
+expressed several concerns regarding this practice, especially as the zero-attribution is likely 
+to be below the real contribution of these technologies. The attribution of zero firm capacity 
+can result in an artificially reduced revenue stream for wind and solar PV generators, as the 
+Panamanian market remunerates firmness. Furthermore, as Panamanian transmission capacity 
+can be a constraining factor at specific locations and times, the zero firm capacity attribution 
+may require curtailment of wind and solar PV as only firm capacity resources are considered 
+when scheduling generators ahead of time. 
+The Panamanian market rules compensate curtailment at the level of wholesale market prices, 
+which can be volatile and often lower than PPA prices for the cheapest solar PV and wind 
+generation facilities. This linkage between curtailment and wholesale market prices then adds 
+price volatility and the risk of reduced remuneration levels to wind and solar investors. National Interconnected System (SIN) capacities in MW
+(as of 30 June 2017)
+Installed Firm capacity
+Total 3 386 2 189
+Thermal 1 203 35.5% 1 090 49.8%
+Bunker 691 20.4% 657 30.0%
+Coal 120 3.5% 108 4.9%
+Diesel 392 11.6% 325 14.8%
+Renewable 2 182 64.5% 1 099 50.2%
+Biogas 8 0.2% 5 0.2%
+Wind 270 8.0% 0 0.0%
+Hydropower 1 777 52.5% 1 094 50.0%
+Solar 127 3.8% 0 0.0%
+Table 1: Installed and firm generation capacity by type
+Source: SNE (2017b), El Mercado Eléctrico de la República de Panamá,
+www.energia.gob.pa/tmp/file/311/Sector%20Electrico%20-%20Panama,%20170630.pdf.
+In 1997, Panama restructured its electricity sector 
+and developed a wholesale market. This included 
+the hourly energy spot market and the daily 
+generation capacity spot market. In addition, the 
+contract market serves as a third market, where 
+bilateral PPAs between producers and off-takers 
+are organised. These PPAs help to limit risk and 
+stabilise prices for end customers, while creating 
+greater cash flow certainty for investors. The use of 
+three markets provides investors with opportunities 
+to find a balance between their investment risk and 
+their expected rate on return, as participation in 
+the contract market is not obligatory.Box 2: Electricity sector investment and the role of PPAs 
+Panama uses auctions to determine capacities and prices within the contract market, including 
+for renewable energy. ASEP sets auction guidelines, and ETESA arranges the auctions on behalf 
+of off-takers – Panama’s three distribution companies. Panama held its first wind auction in 2011, 
+followed by a second wind auction in 2013. In 2014, Panama undertook its first solar PV auction. 
+As of May 2018, no further auctions for VRE have been held.
+The wind auctions resulted in the award of projects with a total capacity of 158 MW and 125 MW 
+respectively, at prices between USD 95 per MWh and USD 110 per MWh in 2011, and between 
+USD 92 per MWh and USD 97.5 per MWh in 2013. The majority of wind capacity operational in 
+Panama has been built under the use of PPAs, with the exception of a 25.5 MW wind project 
+which was commissioned in 2012. 
+The solar PV auction resulted in five companies being awarded a total estimated generation 
+capacity of around 60 MW, with prices between USD 86 per MWh and USD 94.9 per MWh. 
+However, as of April 2016, ETESA had only signed PPAs with two out of the five companies, 
+representing around 24 MW of capacity, with none of the projects being commissioned yet 
+(BNEF, 2017).
+These results indicate that PPA contracts have a high degree of relevance in facilitating wind 
+investment, and less so for solar PV investment. As such, the merchant solar PV development that 
+has taken place can be explained by the sufficiently high wholesale market prices for solar PV 
+installations in recent years. However, Panama’s wholesale electricity market prices are expected 
+to decline in the future, beginning in 2018. In its 2016 assessments, ETESA expected market 
+prices to drop by some 15% to USD 61.3 per MWh until 2019, and despite growing electricity 
+demand, anticipates prices to remain below USD 70 per MWh in the next decade. At the same 
+time, Panama intends to expand fossil generation in the short term, with a 380 MW combinedcycle gas facility in Costa Norte planned to come on line in 2018 (ETESA, 2017b). 
+This development is likely to reduce the number of hours with very high market prices, as 
+expensive oil facilities and inefficient plants may be replaced by the new less expensive natural 
+gas generation, which has a higher firm capacity value than solar and wind energy under 
+Panama’s current wholesale market regulation. 
+Looking ahead, price uncertainty and the attribution of zero firm capacity to solar is likely 
+to influence investment decisions, making the role of PPAs even more important. This could 
+negatively affect the business case for planned solar PV plants that would rely on the wholesale 
+markets alone, creating conditions that do not fully support a renewable energy scale-up in line 
+with the PEN 2015-2050.
+Sources: BNEF (2017), Climatescope 2017: Panama Description,
+http://global-climatescope.org/en/country/panama/#/enabling-framework;
+ETESA (2017b), Plan de Expansión del Sistema Interconectado Nacional 2017-2031: Tomo II.To meet the future targets for wind and solar 
+PV, the reliance on PPAs is likely to grow for both 
+technologies. However, during IRENA’s RRA 
+consultations, stakeholders highlighted structural 
+challenges with current PPAs that may negatively 
+influence investment behaviour. While such an 
+assessment is outside the scope of this RRA, 
+several factors appear to be particularly relevant: 
+the technology-neutrality of current remuneration 
+schemes in combination with an assigned zero 
+capacity factor for wind and solar PV; assignment 
+of delivery points; curtailment rules, especially in 
+combination with transmission constraints; and 
+the time resolution for calculating energy supply 
+requirements and energy supply remuneration.
+Based on feedback obtained in the course of RRA 
+consultations, which highlighted PPAs as a key area 
+for further assessment, IRENA initiated a technical 
+assistance project under the CECCA initiative. This 
+project aims to support the Government of Panama in 
+addressing one of the recommendations of this RRA 
+(Section 4.1).
+TRANSMISSION AND DISTRIBUTION SYSTEM
+ETESA’s transmission system consists mainly of 10 
+sections of 230 kilovolt (kV) lines that stretch from 
+the Bayano Hydroelectric power station to the east 
+of Panama City, to the Progreso substation on the 
+border with Costa Rica. It also has 115 kV lines from 
+the Bahía Las Minas thermal power station in Colón 
+to the Panama I substation, and another section 
+from the Caldera substation to the La Estrella and 
+Los Valles hydroelectric plants. A 400 kV direct 
+current (DC) interconnection with Colombia is also 
+under development. The lower-voltage distribution 
+system is divided into three main service territories, 
+each served by its own distribution company.
+Figure 14: Transmission and distribution system in Panama
+Source: ETESA (2018), Mapa del Sistema Interconectado Nacional,
+www.etesa.com.pa/Mapas/Mapa_Interconectado/interconectado.html.POWER SYSTEM OPERATION
+The National Dispatch Centre (CND) is responsible 
+for carrying out the centralised operation of the 
+national electricity system. In this capacity, it 
+undertakes the planning of generation resources 
+needed to satisfy energy demand on a weekly 
+basis, over a planning period of two years. This is 
+implemented in accordance with market rules and 
+is based on the updated information provided by 
+generators, verified by the CND when necessary. 
+The CND’s planning also takes into account a range 
+of factors, including rainfall and wind forecasts, fuel 
+costs, demand, regional exchanges, availability and 
+maintenance of plants and equipment. 
+Once the results are verified to be consistent, the 
+CND issues the official weekly stochastic study, 
+which includes 104 weeks of power dispatching 
+and the calculation of water cost from reservoirs 
+that have values equal to or higher than USD 0/
+MWh. Based on these results, the CND performs 
+weekly pre-dispatch on an hourly basis, taking the 
+first week of the stochastic study and detailing the 
+energy dispatching of the 168 hours of the week. 
+This is then used as the basis for the daily predispatch the following day, updating certain data 
+such as generator availability, regional electricity 
+market (MER) transactions and resources.
+The daily and weekly pre-dispatches reflect the 
+increasing economic merit order of the units. Runof-river hydro units, solar and wind power plants 
+are dispatched first with zero variable cost. Thermal 
+generators are dispatched with a variable cost 
+associated with their efficiency, declared fuel price 
+and their variable maintenance and operation. Hydro 
+reservoir plants are dispatched with their variable 
+cost calculated when the weekly dispatch is made.
+In the real-time dispatch, the CND takes the daily predispatch as a guide to make its real-time decisions, 
+giving instructions to all power plants on how to 
+operate, when to be cycled on or off, and when to be 
+ramped up or down. VRE generation, such as solar 
+and wind energy, are dispatched per their resource 
+availability and under close communication between 
+the system controllers and plant operators. 
+The CND maintains sufficient spinning reserves, as 
+well as storage in the form of hydropower reservoirs, 
+to ensure the system is balanced and mitigate the 
+risk of sharp supply variations. In addition, the MER 
+also contributes spinning and non-spinning reserves 
+in real time.
+POWER SYSTEM OPERATIONAL PLANNING
+The operational planning of the power system is 
+undertaken by the CND, which conducts technical 
+and economic assessments across different time 
+horizons and at varying time scales (CND, 2018a):
+1. Midterm operational planning: This is a forwardlooking assessment of the operation of the power 
+system over a two-year time horizon,4 which aims 
+to provide a forecast of the expected generation 
+resources necessary to supply demand (future cost 
+function of water, expected values for utilisation of 
+available generation resources, marginal operating 
+costs, level of the reservoirs and potential nonserved load). The assessment is updated every six 
+months. 
+2.Midterm transmission network constraint 
+assessment: This is a technical assessment of the 
+constraints in the operation of the transmission 
+network with a forward-looking two-year time 
+horizon. It aims to identify system constraints, 
+as well as the operational measures necessary to 
+guarantee the security of system operation. The 
+study is updated every year. 
+3.One-year-ahead transmission network security 
+assessment: This is a technical assessment of the 
+constraints of the operation of the transmission 
+network with a one-year-ahead time horizon. 
+Similar to the two-year forward-looking study, it 
+aims to identify the constraints of the transmission 
+system and the need for operational measures to 
+guarantee security of system operation. The study 
+is updated every year and includes assessments 
+similar to the midterm assessment, with a focus 
+on priority operational issues for the shorter time 
+horizon.
+Besides the CND’s operational planning assessments 
+described above, the operational code requires the 
+conduct of technical interconnection studies for new 
+generating units, including VRE sources, to ensure 
+that the integration of the new resources will not 
+Power system planning affect the system’s stability (CND, 2018a).
+will remain critical in Panama’s 
+evolving energy sectorINFRASTRUCURE PLANNING
+ETESA oversees the annual update of generation 
+and transmission expansion plans. These plans are 
+based on techno-economic studies that assess 
+the performance of the system under different 
+scenarios. As the development of new power plants 
+is, in principle, carried out by private investors 
+(with ASEP providing permissions), the generation 
+expansion plan is only indicative in character. It aims 
+to provide policy makers and market stakeholders 
+with appropriate signals for policy development 
+or investment decisions. However, in the past the 
+majority of bids for the construction of new power 
+plants have been carried out at the request of the 
+regulator, bearing in mind the indicative plan.
+The Generation Expansion Plan looks at a 15-
+year time horizon. The first five years assume the 
+commissioning of new plants based on projects 
+with licence-holders and concessions. For the 
+following ten years, an optimal generation expansion 
+mix is calculated under different scenarios using 
+optimisation and simulation-of-operation software 
+tools. Currently the assessments for the plan consider 
+a co ordinated, but not integrated, operation with 
+other countries participating in the MER.
+The Transmission Expansion Plan is a ten-year 
+optimal investment plan, aiming to eliminate existing 
+and projected system constraints. The plan looks at 
+operational costs, losses and the overall reliability 
+of the system, and is based on techno-economic 
+assessments of system performance. The studies 
+use scenarios from the Generation Expansion Plan 
+and are based on detailed steady-state and dynamic 
+simulations of the transmission network, with a 
+model implemented in Power System Simulation for 
+Engineering (PSSE) to evaluate the performance of 
+the system. Once approved by ASEP, the Transmission 
+Expansion Plan must be implemented by ETESA. 
+The infrastructure planning process could be 
+strengthened for better integration of VRE. This 
+includes improving the modelling and forecasting of 
+VRE technologies, and their complementarity with 
+baseload hydropower. More detailed infrastructure 
+and operational planning processes, which include 
+higher shares of VRE penetration, will require the 
+evaluation of system flexibility and a VRE generation 
+forecast system, among other operational 
+considerations. 
+ELECTRICITY MARKET TRANSACTIONS
+Electricity market transactions are directly linked with 
+power system operations. Once the CND finishes the 
+daily dispatch of the generation units, it performs the 
+post-dispatch preparation for the following day. This 
+is a document similar to pre-dispatch except that it 
+contains data on real demand, exports or imports, 
+and generation from power plants, as well as the 
+generation that was estimated in the pre-dispatch 
+but which faced disruption to supply.
+This method ensures that any malfunctioning power 
+plants do not affect the calculated hourly price or 
+the system marginal cost (CMS). The CMS is marked 
+hourly by the variable cost of the last generation unit 
+required to meet the demand. In this calculation, 
+the units that are on line for reasons other than 
+supplying load (such as those subject to operational 
+restrictions or providing operational safety) are not 
+considered. 
+Figure 15 shows the historical yearly average of 
+the CMS since 1999. At first the CMS was low, but 
+then began to increase sharply between 2006 and 
+2014 mainly due to increases in fuel costs, as well 
+as a failure to organise tenders for new investment 
+to meet demand growth on time. In 2015, it began 
+to decrease following a drop in fuel prices and the 
+growth of VRE generation.Figure 15: Historical yearly average of the CMS (1999-2017)
+Based on CND (2018b), Oficial Historico Costo Marginal,
+www.cnd.com.pa/descargar_archivo.php?nombre=Oficial_Historico_Costo_Marginal.zip&tipo_informe=38&ano=2018.
+With the post-dispatch prepared, the CND 
+undertakes the preliminary market liquidation for 
+the day and considers the PPAs from the different 
+market actors. If an actor does not have a PPA, it 
+sells or buys all the generated energy on the spot 
+market or at the CMS price. If another actor has a 
+commitment to supply a volume of energy under 
+a PPA and its power units generate a surplus, the 
+difference between these volumes of energy is sold 
+on the spot market. If the supplier did not generate 
+enough energy to fulfil the PPA requirement, it 
+must buy the deficit on the spot market. The CND 
+organises these assignments of sales and purchases 
+for the spot market hourly.
+At the end of the month, the CND prepares and 
+distributes to all market actors a report called an 
+economic transactions document that is a summary 
+of the hourly transactions for the month. A schedule 
+of activities is attached to the document, indicating 
+the deadlines for depositing the amounts due and 
+the time when the liquidating bank will transfer the 
+registered credits on each account.
+The liquidating bank is responsible for verifying that 
+all actors have transferred the funds registered in 
+the economic transactions document. If there are 
+any missing deposits, they will be reported to the 
+CND, which will then order the bank to execute the 
+compliance guarantee to that actor. 
+The CND conducts a weekly verification of the actors’ 
+firm capacity. First, the average weekly capacity is 
+calculated for each power plant, considering the firm 
+capacity included in any contracts. These values are 
+then compared with the committed energy, which 
+should be less than the calculated weekly capacity 
+of the power plant. If this is not the case, the actor 
+is penalised. 
+The CND records all market statistics, which are 
+publicly accessible online. The liquidating bank 
+oversees the spot market transactions, while the 
+transactions that are part of PPAs are settled 
+between the actors involved in such contracts. 
+0
+50
+100
+150
+200
+250
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+CMS (USD/MWh)ELECTRICITY TARIFFS
+The electricity tariff structure is developed by the 
+distribution companies and approved by the ASEP. 
+The electricity tariff comprises four elements: 
+generation; transmission; distribution; and 
+commercialisation. Transmission and distribution 
+costs are regulated and have historically been about 
+USD 0.01 per kilowatt hour (kWh) for transmission 
+and USD 0.05/kWh for distribution. Generation 
+costs are determined on the wholesale market with 
+the purchase of energy and firm power by the final 
+user through PPAs, and/or the purchase of energy 
+on the spot market. If PPAs are insufficient to cover 
+all demand of final users at any hour, the CND will 
+then assign a distribution company to purchase this 
+difference in the spot market.
+Tariff details are published every six months by the 
+ASEP. The values in force until 30 June 2018 are 
+shown in Annex II.
+The end-user tariffs determined by distribution 
+companies, which were previously classified only 
+based on consumer type (residential, commercial, 
+industrial and government customers), also vary 
+according to the consumer’s level of consumption 
+and voltage:
+• Rates for customers connected to low-voltage 
+grids (equal to or under 600 volts):
+ Simple Rate for customers with demand equal 
+to or under 15 kilowatts (kW) per month
+ Maximum Demand Rate for customers with 
+demand over 15 kW per month
+ Time Block Rate for customers upon their 
+request, which allows for a range of prices 
+depending on the electricity supply schedule 
+(peak or off-peak periods).
+• Rates for customers connected to mediumvoltage grids (over 600 volts and under 115 kV) or 
+high-voltage grids (over 115 kV):
+ Maximum Demand Rate available to customers 
+upon their request
+ Time Block Rate providing a range of prices 
+depending on the electricity supply schedule 
+(peak or off-peak periods).
+The rates include adjustments for changes in fuel 
+prices, rebates for unused energy costs and actor 
+penalties, as well as subsidies for final consumers 
+with very low consumption levels
+Panama’s installed solar power capacity has 
+exceeded 100 MW
+Photograph: ShutterstockFigure 16: Geographic localisation of SIEPAC line
+2.4 CROSS-BORDER POWER TRADE 
+Panama currently has three 230 kV cross-border 
+transmission lines: 
+• from the Progreso substation in Panama to the Rio 
+Claro substation in Costa Rica
+• the Central American Electric Interconnection 
+System (SIEPAC) line section from the Veladero 
+substation in Panama to the Rio Claro substation 
+in Costa Rica 
+• from the Changuinola substation in Panama to the 
+Cahuita substation in Costa Rica (ETESA, 2017a).
+Panama and Colombia are also jointly developing a 
+400 kV DC interconnection, which would connect 
+the MER with South America. The ColombiaPanama Electric Interconnection (ICP) is the owner 
+of the project and is leading its development. 
+Interconexiones Eléctricas S.A., Colombia’s electricity 
+transmission company, and ETESA have equal 
+ownership of the project.
+The interconnection of Central American countries 
+began with bilateral transmission interconnections 
+between neighbouring countries. Early on, energy 
+transfers were only carried out in blocks of between 
+bilateral connections have evolved into a regional 
+transmission line linking six Central American countries, 
+which is conceived as the SIEPAC (Figure 16). 
+In light of the strong political support for the regional 
+project by Central American countries, the Marco 
+Treaty of the Electricity Market of Central America 
+was signed in 1996, which gave rise to the creation 
+of the MER that relies on the SIEPAC infrastructure. 
+Presently, Costa Rica, El Salvador, Guatemala, 
+Honduras, Nicaragua and Panama are part of the MER.
+THE MARCO TREATY
+Signed by the six governments in 1996 and coming 
+into force in 1999, the Marco Treaty of the Electricity 
+Market of Central America established the Regional 
+Operations Entity (EPR), which owns the SIEPAC line. 
+Furthermore, the treaty led to the creation of a regional 
+regulator, the Regional Commission for Electrical 
+Interconnection (CRIE), and a regional market operator, 
+Regional Operator Entity (EOR) (World Bank, 2011).5
+Located in Guatemala, the CRIE started operations 
+in 2000 as the regulatory authority of the regional 
+market with its legitimacy recognised by all parties 
+to the Marco Treaty. It has an Executive Secretary 
+and a Board of Commissioners consisting of one 
+representative from each countrywhich is often a 
+Source: EOR (2017a), Operational Link Nodes (Nodos de Enlaces Operativos), www.enteoperador.org/#.The EOR was created in 2001 and as its own legal 
+entity that is applicable to SIEPAC countries 
+(Costa Rica, El Salvador, Guatemala, Honduras, 
+Nicaragua and Panama). It has an Executive Director 
+and a Board of Directors, which consists of two 
+representatives from each country, who are typically 
+the director of the national system operator and a 
+representative of the national market actors. The 
+EOR is headquartered in El Salvador, together with 
+the Regional Dispatch Centre (World Bank, 2011).
+The Second Protocol to the Marco Treaty established 
+the Steering Committee of the Regional Electricity 
+Market (CDMER), which is located in Costa Rica. 
+The CDMER is responsible for promoting the 
+development of the EOR, and taking decisions 
+to achieve the objectives of the Marco Treaty and 
+its protocols. To this end, it set up co ordination 
+mechanisms with the CRIE and the EOR. 
+Under the CRIE’s regulation of the MER, each 
+member country is allowed to operate per their own 
+national rules; however, there must be effective co 
+ordination at the regional level. The MER is a day-today trading market, itemised by the hour. All actors 
+of the member countries are also members of the 
+MER, and can undertake contracts and transactions 
+with actors from different countries.
+REGIONAL ELECTRICITY TRANSACTIONS
+Transactions in the MER are made between actors 
+from different countries, which can be through firm 
+contracts, non-firm contracts or spot transactions. 
+Firm contracts can be made monthly or annually and 
+include a fee to obtain transmission rights (Derecho 
+de Transmisión [DT]), which guarantees the right to 
+transmit contracted energy between the actors. The 
+fee is paid to the EOR monthly and is distributed 
+among the transmission companies that participate 
+in the DT (World Bank, 2011). 
+Non-firm contracts can be agreed between 
+two actors on a daily basis. One of the actors is 
+responsible for the regional transmission charges, 
+known as Transmission Variable Costs, which are 
+calculated hourly as the cost difference between the 
+injection and withdrawal point in the system (nodal 
+pricing).
+The third option is spot transactions, which can be 
+imported by the CND, or opportunity offers, which 
+can be exported by actors. In Panama, opportunity 
+offers to purchase imports or withdrawals from the 
+regional transmission network are only made by the 
+CND on behalf of the market. The CND makes an offer 
+to purchase energy for each hour of the following day 
+from the MER, using a price lower than the variable 
+cost of the last dispatched unit in the national market, 
+creating the ability to replace a more expensive 
+generator in the national market.
+For export opportunity offers, the CND publishes daily 
+on its website an hourly template listing all national 
+energy surplus not dispatched (surplus available 
+for export), also indicating the variable cost of each 
+generator. The regional market actors that wish to buy 
+fill out a template indicating the amount of power in 
+MWh and the price of their offer, which must be equal 
+to or greater than the corresponding variable cost, and 
+upload it to the CND website before 13:30. The CND 
+sends all the offers to the EOR, which allocates the 
+purchasing/selling intentions of the actors. Every day, 
+it issues the regional pre-dispatch where the allocated 
+and non-allocated purchases and sales appear.
+At the end of the month, the EOR develops a Regional 
+Economic Transactions Document, which shows the 
+summary of all transactions settled in the month. 
+This information also includes a calendar of actions 
+where actors who have debts must transfer the credits 
+into the account of the regional liquidating bank in a 
+specific period. To participate in the MER, all agents 
+must have guarantees of payment at the liquidating 
+bank. The EOR deducts the amount of credits from the 
+value of the guarantee in the daily transactions, thus 
+validating that no transactions will take place without 
+a guarantee.
+Figure 17 displays SIEPAC injection transactions from 
+2013 to October 2016, which show upward growth over 
+the years. 
+5 Transmission rights (DT) is a system of trading the rights to using transmission lines. 
+The transmission entity (EOR in this case) will issue rights to use the regional line (SIEPAC) and make it available to buyers and sellers of electricity 
+in the region. The regional energy buyer/seller will then buy these transmission rights in order to use the line to transmit/transport the energy across 
+the region for their needs.A robust workforce will be 
+essential to underpin Panama’s 
+growing solar PV and wind 
+energy market
+Figure 17: SIEPAC monthly injection transactions (2013-2016)
+Figure 18: Share of export and import of electricity as a proportion of total electricity 
+ generation in Panama (2005-2016)
+Based on EOR (2017b), Transaction information (Informe de Transacciones), www.enteoperador.org/#. 
+Panama has considerably increased its electricity 
+exports since 2010, reaching 5.4% of total electricity 
+generation in 2016. Meanwhile electricity imports have 
+varied over the years, but due to the high exports in 
+recent years, imports have seen values of less than 1% 
+of total electricity generation (Figure 18).
+0
+ 200
+ 400
+ 600
+ 800
+1 000
+1 200
+1 400
+1 600
+SIEPAC injecon transacons (GWh)
+2013 2014 2015 2016
+0%
+1%
+2%
+3%
+4%
+5%
+6%
+2005 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016
+Share of total electricity generaon
+Export Import2.5 ENERGY POLICY AND REGULATORY 
+FRAMEWORK
+NATIONAL ENERGY POLICY
+The SNE is responsible for establishing national 
+energy policy and strategy, and developing a longterm plan to assure the reliability of the energy 
+system and security of supply. It entails policy, 
+economic and regulatory aspects of energy, and 
+aims to:
+1. Provide the entire population with a 
+modern and reliable energy system
+2. Reduce the carbon content of the energy 
+supply
+3. Make rational and efficient use of energy 
+resources
+4. Ensure uninterrupted national energy 
+supply.
+Panama’s national energy policy considers eight 
+actions in line with the sustainable development of 
+the energy sector:
+1. Drafting of a long-term plan for the 
+country’s energy sector development
+2. Comprehensive management of water 
+basins
+3. Spatial planning
+4. Development of pricing for the carbon 
+content of energy
+5. Implementation of the Law on the Rational 
+and Efficient use of Energy 
+6. Reorganisation of the laws on renewable 
+sources
+7. Sustainable cities
+8. Energy and education programme.
+NATIONAL ENERGY PLAN 2015-2050
+In March 2016, the Government of Panama approved 
+the PEN 2015-2050. The plan was undertaken by 
+the SNE and was developed following country-wide 
+public forums involving the government and more 
+than 800 people from civil society, the public and 
+private sectorsand indigenous communities
+The plan outlines the general and conceptual 
+guidelines for Panama’s energy sector over the next 
+35 years, and serves as a roadmap for diversifying the 
+energy sector and advancing energy access, energy 
+efficiency, energy security and the decarbonisation 
+of the energy system. It is divided into five parts: 
+1. Conceptual guidelines for the sustainable 
+development of the sector
+2. The 2015-2019 Short-Term Operational Plan
+3. Scenarios (reference and alternative)
+4. Proposal for a long-term energy policy
+ (2015-2050)
+5. Report of the consultative process.
+The plan analyses two possible scenarios (reference 
+and alternative) and compares them to identify main 
+actions to enable the achievement of the national 
+energy sector goals as described through the 
+alternative scenario. 
+The plan analyses a base case (reference scenario), 
+which assumes historical projected growth without 
+the implementation of any regulations intending to 
+curb demand, and contrasts it with other alternatives 
+that consider both consumption efficiency and 
+responsibility (for example, through the expansion 
+of mass-transit solutions and high-efficiency 
+refrigeration and other home appliances) and the 
+incorporation of renewable energy and less carbonintensive fuels (such as solar, wind and liquefied 
+natural gas generation) in order to decarbonise the 
+Panamanian energy supply. 
+Concerning electricity, the reference case shows that 
+Panama’s demand growth trajectory would lead to a 
+higher share of coal in the power mix by 2050. The 
+ambitious scenario, however, suggests that renewable 
+energy could reach 70% of supply in the next 35 
+years, while meeting growth in demand (SNE, 2015).
+According to the reference scenario, which 
+establishes a baseline assuming a “business-asusual” scenario, the distribution of electricity 
+consumption shows a marked increase between 
+2014 and 2050 in the commercial sector, with the 
+losses to the system remaining in the range of 13-
+14%. At the same time, annual consumption would 
+increase from 9 000 GWh today to 56 000 GWh in 0
+2 000
+4 000
+6 000
+8 000
+10 000
+12 000
+2014 2020 2030 2040 2050
+Installed capacity (MW)
+Thermal Hydropower Other renewables
+Total: 9 150 GWh Total: 56 539 GWh
+2014 2050 Public and
+others
+16%
+ Public and
+others
+6%
+Industrial
+5%
+Industrial
+3%
+T&D losses
+14%
+T&D losses
+13%
+Residenal
+28%
+Residenal
+Commercial 24%
+37%
+Commercial
+54%
+Figure 19: Reference scenario: distribution of electricity consumption (2014 vs 2050)
+Figure 20: Reference scenario: installed electricity capacity (2014-2050)
+The reference scenario suggests steady growth 
+in thermal generation, with around 10 000 MW 
+of installed capacity by 2050, and a stagnation of 
+renewables and hydropower capacity after 2020. 
+Thermal sources account for 76% of the electricity 
+mix, while renewables (hydro, solar and wind) only 
+cover 24% (Figure 20). 
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+Based on SNE (2015)Plan Energético Nacional (2015-2050)Figure 21: Alternative scenario: distribution of electricity consumption (2014 vs 2050)
+Total: 9 150 GWh Total: 36 877 GWh
+2014 2050
+ Public and
+others
+16%
+ Public and
+others
+5%
+Industrial
+5%
+Industrial
+4%
+T&D losses
+14%
+T&D losses
+9%
+Transport
+4%
+Residenal
+28%
+Residenal
+31%
+Commercial
+37%
+Commercial
+47%
+Panama reached 1 769 MW of installed 
+hydropower capacity in 2016
+Photograph: Shutterstock
+The alternative scenario seeks to change the current 
+paradigm and reach a desired energy future. In this 
+scenario, energy efficiency measures have been 
+expanded from their current low application so that 
+annual consumption is reduced to 36 877 GWh, 
+while transmission and distribution losses drop from 
+14% to 9% (Figure 21).0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+8 000
+9 000
+2014 2020 2030 2040 2050
+Installed capacity (MW)
+Other renewables Thermal Hydropower
+Figure 22: Alternative scenario: installed electricity capacity (2014-2050)
+Based on SNE (2015), Plan Energético Nacional (2015-2050).
+Renewables hold a significantly larger share of the 
+electricity mix than thermal sources in the alternative 
+scenario. By 2050, with the implementation of 
+adequate policies, non-conventional renewables 
+(solar and wind energy) would exceed an installed 
+capacity of 8 000 MW, and when accounting for 
+hydro, renewables take a 77% share of the power 
+mix (Figure 21).
+Thermal sources, meanwhile, would only reach an 
+installed capacity of just over 5 000 MW by 2050, 
+around half of the thermal capacity under the 
+reference scenario (Figure 20). 
+Achieving the alternative scenario of the PEN 2015-
+2050 would have significant implications across the 
+energy sector (SNE, 2015):
+• Electricity demand: A reduction in electricity 
+demand through increased energy efficiency 
+(including better building design) and reduced 
+transmission and distribution losses. Compared to 
+the reference case, electricity demand drops by 
+35%.
+• Electricity supply: Total installed capacity in 
+the alternative scenario is 18% higher than the 
+reference case. Increased solar and wind capacity, 
+together with hydropower and biomass, accounts 
+for around 77% of installed capacity.
+• Fossil fuel consumption: Gasoline and diesel 
+consumption is reduced by 42% and 29%, 
+respectively. This is due to a more electrified 
+transport sector, including through a greater use 
+of the Panama metro and increased adoption of 
+electric vehicles. LPG consumption is reduced by 
+31% due to its substitution by electric stoves in 
+households, resulting in an increase in electricity 
+demand in the residential sector of 7.2%.
+• Carbon dioxide (CO2
+) emissions: A 61% reduction 
+in CO2
+ emissions compared to the reference case. III. RENEWABLE ENERGY 
+DEVELOPMENT
+3.1 RENEWABLE ENERGY RESOURCE POTENTIAL 
+AND DEVELOPMENT
+The renewable energy potential of Panama is abundant and diverse, and includes 
+resources such as hydro, wind, solar, geothermal, marine and biomass (bagasse, 
+husk, wood, charcoal, peat, biogas and bioethanol). Despite its vast untapped 
+potential, Panama’s energy needs are largely met with fossil fuel resources. 
+The potential and status of development of renewable energy resources in Panama 
+are discussed below.
+HYDROPOWER
+Hydropower is the largest electricity source in the country, with an installed capacity 
+of 1769 MW in 2016, corresponding to a 53% share of the total installed capacity 
+(Figure 11). Hydro potential has been extensively studied, revealing an estimated 
+potential of approximately 11 879 GWh/year (translating to an installed capacity of 2 
+389 MW, with an average net capacity factor of 0.57) (SNE, 2015). A total of 42 sites 
+have been identified for plants with a capacity under 1 MW, and 53 sites for plants 
+over 1 MW. The potential for large plants over 100 MW has been exhausted, with the 
+latest being the 220 MW Changuinola II project, planned by EGESA (SNE, 2015). 
+WIND ENERGY
+Panama’s wind resources are spread throughout the country, and improve along the 
+Caribbean coast and at several wind passages on mountain ranges. IRENA’s Global 
+Atlas shows average wind speed estimates of 5-7 metres per second (m/s) at a height 
+of 200 metres (m) (Figure 23). According to the PEN 2015-2050, measurements 
+undertaken for ETESA at 40 m high have identified sites with average speeds of 
+between 6 m/s and 11 m/s together with a capacity factor of 35% (SNE, 2015). 
+Offshore wind energy potential has yet to be assessed. 
+Panama has 270 MW of installed wind power capacity, located entirely in the 
+municipality of Penonomé, in the province of Coclé (SNE, 2015). As of February 2017, 
+ASEP had granted 662 MW of permanent wind licences for the future development of 
+projects that would allow developers to begin construction; these licences required 
+guarantees from the applicants, which would be executed should the project not be 
+completed, especially under PPA obligations. Provisional licences for an amount of 
+870 MW were also granted for future development of wind. Figure 23: Wind resource assessment in Panama
+Figure 24: Suitability analysis for grid-connected wind power (1 km resolution)
+Source: IRENA (n.d.), Global Atlas for Renewable Energy, www.irena.org/globalatlas; map data: DTU 
+2015; base map: Google 2016. 
+Source: IRENA (n.d.), Global Atlas for Renewable Energy, www.irena.org/globalatlas; map data: DTU 
+2015; base map: Google 2016.
+Furthermore, IRENA’s suitability maps show 
+potentially viable areas for the development of 
+decentralised wind power systems (systems that are 
+not connected to the distribution or transmission 
+grid) and for systems connected to the grid. The maps 
+indicate the potential wind resource for developing 
+wind projects through a range of yellow-red colours 
+(yellow being less suitable, and dark red being the 
+most suitable). To verify this, existing wind power 
+plants and those under construction are marked on 
+the map, corroborating the reliability of the analysis 
+for the two wind farms to the south. The suitability 
+analysis for grid-connected wind power shows that 
+Panama’s wind generation facilities correspond to 
+the areas with higher resource (Figure 24), while the 
+areas suitable for decentralised wind remain distant 
+from the main transmission system but within strong 
+resource areas (Figure 25).
+Grid connected wind 75km
+grid distance 1km
+resolu
+on IRENA 2015
+60% - 70% sustainability
+70% - 80% sustainability
+80% - 90% sustainability
+90% - 100% sustainability
+Exis
+ng wind farms -
+thewindpower.net
+April 2016
+Average WS 1km at
+200m height DTU 2015
+2 m/s
+3 m/s
+4 m/s
+5 m/s
+6 m/s
+7 m/s
+8 m/s
+9 m/s
+10 m/s
+11 m/s
+12 m/sOff-grid wind 75km grid
+distance 1km resoluon
+IRENA 2015
+60% - 70% sustainability
+70% - 80% sustainability
+80% - 90% sustainability
+90% - 100% sustainability
+Exisng wind farms - 
+thewindpower.net
+April 2016
+OSM power lines
+Figure 25: Suitability analysis for decentralised wind power (1 km resolution)
+Source: IRENA (n.d.), Global Atlas for Renewable Energy, www.irena.org/globalatlas; map data: DTU 
+2015; base map: Google 2016.
+Box 3: Global Atlas for Renewable Energy
+As part of IRENA’s project facilitation support to its Members, the Agency’s renewables assessment 
+includes publication of resource maps through the publicly available Global Renewable Energy 
+Atlas. The tool holds over 2 000 maps and zonal suitability assessments, and integrates maps 
+with key local information such as distance to transmission infrastructure, population and 
+topography, which can help identify zones suitable for development. 
+In 2017, Global Atlas 3.0 was launched, which now includes solar and wind resource maps with a 1 
+km spatial resolution that are extensively validated. Through the zoning methodology, IRENA has 
+supported regional market analysis for Latin America to identify suitable zones for both utilityscale and decentralised solar and wind development, which provide an indicative technical 
+potential. Grid connected solar PV
+75km grid distance 1km 
+resolu	on IRENA 2015
+60% - 70% sustainability
+70% - 80% sustainability
+80% - 90% sustainability
+90% - 100% sustainability
+Off-grid solar PV 75km
+grid distance 1km
+resoluon IRENA 2015
+60% - 70% sustainability
+70% - 80% sustainability
+80% - 90% sustainability
+90% - 100% sustainability
+OSM power lines
+SOLAR ENERGY
+Panama receives an average irradiance of 
+4.8 kWh/m2
+/day, with the strongest resource 
+being identified at the south of the provinces of 
+Chiriquí and Veraguas, with an average of over 
+5 kWh/m2
+/day (SNE, 2015). Solar has been exploited 
+in the country to a very limited extent, primarily in 
+rural areas and isolated industrial applications, such 
+as communication systems, lighting on marine 
+buoys, and drying processes in agriculture. 
+Solar power plants started to be installed in the 
+country in 2013 and the installed capacity of solar 
+power reached 90 MW in 2016, and 127 MW as of 
+June 2017 (Table 1). As of February 2017, ASEP 
+had granted permanent solar licences for future 
+development of 345 MW, and provisional licences 
+for 376 MW.
+Highly suitable areas for the location of solar 
+PV plants are quite wide-ranging and offer a 
+significant opportunity. Figures 26 and 27 show 
+IRENA’s suitability maps displaying solar resources 
+throughout the country, both for grid-connected 
+and decentralised generation facilities. The maps 
+reveal higher solar potential throughout most of 
+the country than for wind, with the most suitable 
+areas being in the south and west regions of 
+Panama given the proximity to grid infrastructure.
+Figure 26: Suitability analysis for grid-connected solar power (1 km resolution)
+Figure 27: Suitability analysis for decentralised solar power (1 km resolution)
+Source: IRENA (n.d.), Global Atlas for Renewable Energy, www.irena.org/globalatlas; map data: 3TIER 
+2015; base map: Google 2016.GEOTHERMAL ENERGY 
+Preliminary geothermal potential assessments 
+began in Panama in the 1970s. However, further sitespecific studies and evaluation have not taken place 
+since, leaving resource estimates to vary widely. The 
+preliminary studies identified 23 areas as sources of 
+hot water in the country, and three of these sources 
+have the technical potential for geothermal energy 
+exploitation: Calobre in the province of Veraguas; 
+Cerro Colorado in the province of Chiriquí; and 
+El Valle de Antón in the province of Coclé. Other 
+locations with geothermal potential were also 
+located, including Tonosí in the province of Los 
+Santos, and Coiba Island (SNE, 2015).
+Panama has sought to exploit its geothermal 
+resources. In early 2017, the Technical University of 
+Panama organised its first geothermal expedition to 
+identify possible new sources of geothermal energy 
+in the country (Richter, 2017). Plans were also 
+announced for a possible 5 MW geothermal project 
+in the Chiriquí province that would become the 
+country’s first geothermal generating unit (Richter, 
+2013). 
+Barriers including high upfront costs and investment 
+risks, particularly in the exploration phase, must 
+be overcome for Panama’s successful geothermal 
+development. The primary cause of the high 
+investment risk is the lack of resource studies in 
+Panama that can differentiate the availability of high, 
+medium and low enthalpy geothermal resources. 
+BIOMASS 
+Biomass potential varies greatly depending on 
+human activity. Cane bagasse has been used 
+traditionally in sugar mills as a source of energy for 
+sugar processing and to produce electricity, and it has 
+an estimated annual electricity generation potential 
+of about 28 GWh (SNE, 2015). The drying process 
+of coffee and rice crops generates coffee and rice 
+husks, which are also used as fuel to produce heat. 
+Wood and charcoal have traditionally been used in 
+cooking in rural and small industrial areas, such as 
+bakeries and grain drying. 
+A peat deposit of 80 km2
+ by 8 m of thickness has 
+been identified in the province of Bocas del Toro, 
+with an estimated mass of 118 million tonnes, 
+sufficient to feed a 30 MW steam plant for 30 years. 
+Bioethanol is a by-product of biomass, and between 
+2013 and 2014 a plant supplied this fuel product 
+that was then mixed with gasoline at a rate of 5%. 
+The plant ceased operations recently, although this 
+activity is expected to resume in the future. Panama’s 
+electricity market has an 8.1 MW diesel-based 
+back-up plant (Urbalia Cerro Patacón), which uses 
+methane as a by-product of waste. Additionally, the 
+Project CADASA, a 30 MW capacity generator using 
+bagasse, rice husks and other organic products is 
+currently under construction (SNE, 2015). 
+MARINE ENERGY 
+Panama has almost 3 000 km of coastline with 
+the Pacific and Atlantic Oceans, and could take 
+advantage of the differences between high and low 
+tides – over 5 m in the Pacific Ocean. Both oceans 
+have waves of varying intensities, frequencies and 
+sizes that could be exploited. There are also offshore 
+winds that could potentially be exploited along the 
+Caribbean coast (Atlantic Ocean). Despite having 
+vast marine energy resources, its potential has not 
+been assessed yet. The SNE has considered studies 
+in line with its future plans.3.2 RENEWABLE ENERGY POLICY AND 
+SUPPORT SCHEMES 
+With the liberalisation of the electricity sector in 1997-
+1998, private investment began steadily pouring into 
+the construction of new thermal generation facilities. 
+At the same time, Panama had limited policies in 
+place to support renewable energy deployment. 
+An exception was Law 6 of 1997, which established 
+Panama’s regulatory and institutional framework for 
+the electricity sector, mandating a 5% price premium 
+on renewable energy sources bidding in auctions 
+(ASEP, 1997). 
+In 2004, Panama sought to diversify its electricity mix 
+by advancing a range of tax incentives for renewable 
+energy project development through the adoption of 
+Law 45, which allows renewable projects (less than or 
+equal to 10 MW) to enter into a PPA with its respective 
+electric distribution company, so long as electricity 
+sales do not surpass 15% of the utility’s maximum 
+demand (ASEP, 2004). In addition, the law exempts 
+renewable generators from all imported equipment 
+tax, and provides an income tax credit of up to 25% 
+of project investment,6 which can be utilised up to 10 
+years from the date of commissioning. The law also 
+exempts renewable energy projects under 10 MW 
+from transmission or distribution fees, while projects 
+of between 10 MW and 20 MW pay no transmission 
+or distribution fees for the first 10 MW for 10 years 
+(ASEP, 2004). 
+More recently, Panama established tax incentives for 
+wind and solar energy. Law 44 of 2011 created windspecific auctions, as well as accelerated depreciation 
+on wind equipment and tax exemption for up to 15 
+years for wind equipment producers based in Panama. 
+Law 37 of 2013 established solar-specific auctions in 
+Panama, along with accelerated depreciation on solar 
+energy equipment (ASEP, 2017).
+Panama also maintains a net-metering scheme. 
+Resolution AN No. 5399-Elec allows retail consumers 
+with renewable generating units up to 500 kW to 
+connect to the distribution grid and sell their excess 
+generation. This surplus electricity is reimbursed by 
+the consumer’s distribution company, at the average 
+per kWh price that it charged retail customers in 
+that year (ASEP, 2012). 
+Through Law 42 of 2011, Panama developed an 
+ethanol blending mandate of 10% in gasoline 
+that was set to take effect in 2016. This law also 
+established a 20% subsidy for feedstock costs in 
+the first five years of operation of biofuel plants 
+that process local biomass. Due to a lack of ethanol 
+supply, the mandate was later suspended in 2014. 
+However, the government still offers a tax credit of 
+USD 0.159/litre to fuel blenders for the purchase of 
+biofuels (IEA and IRENA, 2017). 
+A prolonged drought in 2014 significantly reduced 
+Panama’s hydropower generation, forcing the 
+country to rely heavily on thermoelectric generation 
+and electricity imports. As a result, the government 
+announced its intent to continue developing nonhydro renewable sources to diversify the country’s 
+energy supply.
+Panama should develop a longterm plan for electric mobility 
+and sector-couplingThe Gatun hydropower station in Panama
+Photograph: Shutterstock
+3.3 RESEARCH AND DEVELOPMENT 
+OF RENEWABLE ENERGY
+Research and development of renewable energy 
+technology in Panama began in the 1970s. Today, 
+universities in the country offer a wide range of 
+engineering and technical courses to prepare 
+students for work in the energy sector, including 
+programmes in electromechanical engineering, 
+electrical engineering, electronic engineering, civil 
+engineering, industrial engineering and mechatronics 
+engineering. Despite this, more emphasis is needed 
+on equipping students with the technical, economic 
+and institutional knowledge of renewable energy, 
+particularly as it relates to growing shares of VRE in 
+power systems, as proposed in the PEN 2015-2050. 
+Moreover, training on planning with short- and longterm software programmes, operational forecasts 
+for renewables, and the needs of control centres are 
+still limited in Panama’s higher education. 
+In response to this need, universities in Panama are 
+beginning to tailor their programmes to suit the 
+growing demand for renewable energy professionals. 
+These include the energy and environmental 
+engineering course offered by the Technological 
+University of Panama (UTP) at the undergraduate, 
+master’s and doctoral levels, and upcoming degrees 
+at the University of Panama (UP) in electricity 
+and renewable energy engineering. Furthermore, 
+options are increasing at private universities to 
+study geophysical engineering for the development 
+of geothermal technology.
+In addition to universities, Panama’s main institutions 
+involved in the study and evaluation of renewable 
+energy include the following: 
+A. The Hydro and Hydrotechnical Research Centre
+was created in 1980, and undertakes research 
+related to water resources and the environment.
+B. The Centre for Research and Innovation in 
+Electrical and Mechanical Industry was created 
+in 2011 as an Energy Savings Unit, a Department of 
+Research and Development, and a Department of 
+Production Services. Within this structure, it hosts 
+three decentralised units: the Centre for Training 
+in Renewable Energies, the Innovation and 
+Technology Transfer Centre, and the Astronomical 
+Observatory of Panama. 
+C. The City of Knowledge is a development of more 
+than 200 buildings and was established for the 
+purpose of promoting sustainable development 
+through international collaboration in the fields 
+of business, academia and science. The city hosts 
+several renewable energy companies, and its 
+Vice Presidency for Business is responsible for 
+identifying, attracting and recruiting companies, 
+academic programmes, and research and training 
+centres. 
+D. ETESA’s Hydrometeorology Unit undertakes the 
+planning, expansion, operation and maintenance 
+of Panama’s national network of meteorological 
+and hydrological observation stations and water 
+quality monitoring stations, per the international 
+standards established by the World Meteorological 
+Organization (WMO).
+E. The Panama Canal Authority was established 
+as an autonomous legal unit, and is charged 
+with overseeing the operation, administration, 
+management, preservation, maintenance and 
+modernisation of the canal. The authority has 
+installed an experimental floating solar plant of 
+22 kW, and will build further installations if the 
+initial project is successful (Panama Today, 2017). 
+This new solar generation would help displace 
+fuel consumption, reduce the growth of aquatic 
+vegetation in the lakes of the channel and reduce 
+evaporation of the water of the lakes, while 
+avoiding challenges related to land use.The Panama CanalIV. CHALLENGES AND 
+RECOMMENDATIONS
+4.1 OVERVIEW
+In the 15 years following the privatisation of Panama’s electricity sector, more than 
+1 500 MW of conventional hydro and thermal projects were awarded tenders with 
+PPAs and enjoyed certain regulatory benefits,7 such as fiscal incentives and tax 
+exemptions. Against this background, the SIN has traditionally relied on baseload 
+hydropower and thermal generation assets since its inception, with generating units 
+enjoying the recognition of payment for their capacity, energy and ancillary services, 
+such as spinning reserve, secondary regulation, quick start, and others. 
+Sarigua plant, the first solar plant in Panama with a capacity of 2 MW, was installed 
+in 2013. After this milestone, new solar and wind projects have slowly emerged, all 
+of which added up to 397 MW in June 2017. It has been difficult for these projects 
+to compete effectively within a market that is geared towards conventional hydro 
+and thermal power generation, as they are not offered payments for firm capacity.8, 9
+The implementation of renewables has impacted the national market by lowering 
+energy costs in the spot market, guaranteeing security of supply through the large 
+volume of installed power and displacing thermal generation, thus reducing the 
+country’s carbon footprint, generating skilled labour and lessening dependence on 
+volatile oil prices. 
+The system’s marginal costs have reduced since 2014 due to dropping fuel prices and 
+the large volume of renewable energy injected since 2011, including VRE since 2013. 
+The use of these technologies can push prices to zero in off-peak periods, due to 
+their marginal cost allocation being zero. 
+Table 2 shows how the number of hours when the CMS falls to zero has increased 
+in recent years, which reduces prices in the spot market and can be threatening for 
+actors who operate without a PPA. 
+7 Actors with thermal plants can index the price of energy according to the variation of the price of fuel, while the selling price for hydropower is fixed.
+8 Tht fidfiitiiilbilitf95% f hCMS=USD 0 CMS< USD 10
+2010 0 7
+2011 25 55
+2012 2 13
+2013 37 37
+2014 174 174
+2015 280 281
+2016 780 931
+2017 1 508 2 071
+Table 2: Yearly hours with CMS values of less than USD 10
+Source: CND (2018b), Oficial Historico Costo Marginal, www.cnd.com.pa/descargar_archivo.
+php?nombre=Oficial_Historico_Costo_Marginal.zip&tipo_informe=38&ano=2018.
+At the same time, the increasing amount of new 
+renewables generation has helped Panama export 
+its excess power in the regional market. However, 
+these benefits are at risk because VRE companies 
+face economic challenges stemming from the 
+current market model, which is based on more 
+conventional sources such as hydropower and 
+thermal generation, and does not recognise the 
+unique operating characteristics of VRE generation. 
+The government, seeking to improve these 
+conditions, developed a series of special laws 
+and grid connection codes for VRE to incentivise 
+renewable energy development. However, further 
+regulatory adjustments could be undertaken to 
+ensure that renewables can operate on a level 
+playing field with fossil generators, as opposed to 
+the current regulatory environment that favours 
+conventional hydropower and thermal generation.
+4.2 KEY CHALLENGES AND 
+RECOMMENDATIONS 
+Variable renewable power, including wind and solar 
+energy, are the main technologies outlined in the PEN 
+2015-2050 to diversify and decarbonise Panama’s 
+energy sector. At the same time, technological 
+advances in other technologies, such as marine 
+energyalso have the potential to make important 
+The following recommended actions can help 
+overcome barriers to enable an accelerated 
+deployment of higher shares of renewables in an 
+optimal way that supports the country’s transition 
+to a sustainable energy future.
+REGULATORY AND FINANCIAL INCENTIVES 
+FOR VARIABLE RENEWABLES
+Challenge: Considering the government’s 
+ambition for a transition to 70% renewable energy 
+in the national electricity mix by 2050, revised 
+regulatory rules that provide a level playing field 
+for renewables vis-à-vis conventional generation 
+are required, especially in a competitive wholesale 
+market with a medium-term outlook of low 
+prices and transmission capacity constraints. 
+The current regulatory framework conditions, 
+and specifically the PPAs, are designed for 
+dispatchable technologies such as coal, gas, oil 
+and hydroelectricity, and do not incentivise new 
+wind and solar PV projects.
+Recommended Action: Assess the investment 
+incentives for wind and solar PV projects under 
+current and expected market conditions, with 
+a specific focus on PPAs. Identify factors with a 
+negative influence on investment behaviour and 
+the required regulatory responses. Determine 
+a set of implementable solutions leading to a compromising the efficient functioning of the 
+Panamanian wholesale market. These could 
+include an adjustment to the compensation for 
+curtailment, a new calculation of PPA-related 
+remuneration levels and a new definition of firm 
+power that takes into account the operating 
+characteristics of VRE.
+POWER SYSTEM PLANNING WITH HIGH SHARES 
+OF VARIABLE RENEWABLES 
+Challenge: Planning will remain an important crosscutting area for Panama’s energy sector, as planners 
+must cope with rising variability and uncertainty 
+from the envisaged high penetration of solar and 
+wind generation through to 2050. Without strong 
+sets of quantitative techno-economic analyses to 
+guide these planning efforts, however, generation 
+expansion could be delayed, grid infrastructure 
+development costs may be allocated inefficiently, 
+and the overall reliable operation of the power 
+system could be compromised. 
+Recommended Action: Develop a national strategy 
+to improve power system planning and modelling 
+with higher penetrations of VRE.
+This will support Panama’s power sector planning 
+by defining long-term transition scenarios and nearterm actions that can link the development of the 
+grid with the development of renewable energy 
+generation, while aligning with periodic updates to 
+the PEN 2015-2050. Moreover, it could rationalise 
+the management of connection queues, reduce or 
+avoid interrupting renewables generation, support 
+the efficient use of the SIEPAC regional line, and cut 
+overall costs of the electricity system.
+NEW OPERATIONAL PRACTICES FOR THE 
+POWER SYSTEM
+Challenge: Power system operations in Panama 
+still reflect the “old paradigm” of centralised, 
+dispatchable generation units. Given the unique 
+physical conditions of VRE sources, challenges 
+emerge for system operation with high shares of 
+variable renewables. These can largely be classified 
+as: flexibility, system adequacy and system 
+stability challenges. As such, reliably integrating 
+large shares of wind and solar generation requires 
+modifications to the CND’s operational practices 
+as well as the identification of the necessary 
+flexibility mechanisms. 
+Recommended Action: Conduct a comprehensive 
+assessment to identify new operational practices 
+that can provide adequate flexibility and 
+robustness for the reliable operation of the power 
+enhanced forecasting techniques, improved 
+ancillary services, more flexible scheduling of 
+generation and load dispatch practices, and 
+improved management of stocks, among other 
+areas. If implemented widely, this recommendation 
+will help ensure the reliability of the system in a 
+more cost-effective way as it integrates large 
+numbers of variable renewables into the system. 
+As part of IRENA’s work with CND through the 
+technical component of the CECCA initiative, the 
+following issues were also identified as possible 
+updates to power system operation in Panama:
+• Provide training on the impacts of VRE on transient 
+and frequency stability analyses, considering the 
+impact of VRE. 
+• Automate system security analysis tasks using 
+power system software analysis to allow closer 
+real-time system security checks, with the aim 
+of reducing VRE curtailment due to network 
+congestion.
+• Calculate transmission capacities closer to real 
+time for better congestion management and 
+consider forecasts for wind and solar production 
+in these calculations to minimise curtailment.
+DEVELOPING A RENEWABLE ENERGY 
+WORKFORCE 
+Challenge: A robust workforce is essential for 
+the growth of national solar and wind power 
+implementation capabilities. An appropriate 
+evaluation would allow better understanding 
+of the current national workforce in the field of 
+renewables, the projected needs for the future, 
+and how existing and new education and training 
+programmes can meet future needs. 
+Recommended Action: Undertake an assessment 
+of the skills development needs in Panama’s 
+workforce to support efforts towards the 2050 
+renewable energy goal.
+The assessment would entail, among other actions:
+• Conducting a survey of current education 
+and training programmes on renewables in 
+Panamanian schools and universities.
+• Determining the jobs that are currently available 
+in the renewable energy sector and what types of 
+training employers prefer.
+• Identifying the need for new or expanded 
+education and training programmes focused on LONG-TERM PLAN FOR ELECTRIC MOBILITY 
+AND SECTOR-COUPLING
+Challenge: Achieving the alternative scenario of 
+the PEN would lead to a 61% reduction in CO2 
+emissions from the energy sector, of which the 
+majority comes from end-use sectors, led by 
+transport. But so far, the deployment rate of lowcarbon technologies in these sectors has been 
+slow to achieve significant results, with transport 
+in Panama depending 100% on fossil fuels. With 
+the newly operating Line 1 of the Panama Metro, 
+however, the electrification of transport in the 
+country has begun.
+To adapt Panama’s energy system to this evolving 
+paradigm, a comprehensive plan is needed that 
+considers a rapid growth in demand from the 
+electrification of transport, including from the 
+introduction of expanded metro lines, electric 
+passenger vehicles and electric buses. 
+At the same time, the generalised subsidy of LPG 
+for cooking acts as a disincentive to deployment 
+of electric stoves, and thus the shift in residential 
+and commercial energy demand from the fossilfuel sector to the electricity sector. Shifting 
+this demand profile would provide important 
+opportunities to meet increased demand in the 
+end-use sectors with VRE generation, aligning 
+with the goals of the PEN alternative scenario. 
+Recommended Action: Develop a long-term 
+urban mobility plan based on the electrification 
+of transport (metro system and vehicles), with 
+this new demand powered by renewable energy. 
+This recommendation can help speed up the use 
+of renewable energy in the electricity mix, reduce 
+transport problems that currently affect Panama 
+(such as high levels of traffic congestion, urban 
+planning, and low availability of public transport, 
+among others), support the reduction of CO2
+emissions, and eliminate the current dependence 
+of the sector on fossil fuels. The plan could also 
+detail a more active role for electricity distributors 
+in promoting electric mobility, possibly through 
+schemes to facilitate the installation of electric 
+vehicle charging stations.
+In the commercial and residential sectors, 
+examine the feasibility of a policy that can 
+alter or eliminate subsidies for LPG. This should 
+be underpinned by a study that details the 
+social benefits of reducing LPG subsidies, and 
+compares the societal costs of cooking with LPG 
+against electric stove use deployed in concert 
+with higher shares of renewable power. 
+INTERFACE BETWEEN THE NATIONAL AND 
+REGIONAL ELECTRICITY MARKETS
+Challenge: The Marco Treaty aims to promote 
+gradual growth of a competitive regional market, 
+the MER, by regional authorities (CDMER, 
+CRIE and EOR) in co ordination with national 
+authorities. However, there currently exists a lack 
+of harmonisation among rules and methodologies, 
+such as grid codes, relevant to the efficient 
+functioning of the MER. Moreover, institutional 
+gaps exist between single jurisdictions and the 
+regional market. In this respect, more flexible 
+market rules, including those governing the 
+allocation of transmission rights, are needed to 
+ensure firmness through the multiple resources 
+of the MER, instead of the current approach 
+which allows limited short-term transactions. 
+Recommended Action: Support regional 
+efforts to assess and advise on improvements 
+to regulatory interface between national and 
+regional electricity markets.
+While this recommendation is longer term and 
+more regional in scale, it can help accelerate 
+efforts at the regional level to find solutions to 
+energy transfer problems on the MER, specifically 
+grid design values and the sub-optimisation of 
+regional dispatch that occurs when energy is 
+“trapped” on the national markets. This is due 
+to transmission constraints, such as the rigid 
+dispatch processes. In addition, the great inertia 
+made available via the MER helps to optimise 
+the operational stocks needed to connect large 
+volumes of variable renewables at a minimum 
+cost. 
+Among the critical issues that need to be further 
+analysed are: the definition of firm energy and its 
+equivalence to firm capacity at national level; the 
+authorisation of transmission rights and of longterm firm contracts; the creation of an intraday 
+market to allow adjustment of the volume of 
+variable renewables; reviewing the concept of 
+interruptible service in firm contracts at the 
+national level; and verifying the limited capacity 
+of SIEPAC lines in terms of their design capacity.REFERENCES
+Adaptation Fund (2017), “Adapting to climate change through integrated water management in Panama”, 
+Adaptation Fund, Washington, DC.
+ASEP (Autoridad Nacional de los Servicios Públicos) (National Authority of Public Services) (2018), “Tarifas 
+de Electricidad para Clientes Regulados”, asep.gob.pa/images/electricidad/tarifas_new/01_tarifas_clientes_
+regulados/02_tarifas_sector_electrico_2014-2017/ano_2018/abril/I_semestre_tarifas_2018.pdf (accessed 2 
+April 2018). 
+ASEP (2017), “Legislación”, http://asep.gob.pa/index.php?option=com_content&view=article&id=143&Item
+id=130 (accessed 2 February 2018).
+ASEP (2012), “Resolucion AN No. 5399-Elec”, www.asep.gob.pa/www/pdf/anno_5399_elec.pdf (accessed 2 
+February 2018).
+ASEP (2004), “Ley 45 que Establece un Regimen de Incentivos para el Fomento de Sistemas de Generacion 
+Hidroelectrica y de otras Fuentes Nuevas, Renovables y Limpias, y Dicta Otras Disposiciones”, ASEP, Panama 
+City, Panama. 
+ASEP (1997), “Ley 6 que Dicta el Marco Regulatorio e Institucional para la Prestación del Servicio Público de 
+Electricidad”, ASEP, Panama City, Panama.
+BNEF (Bloomberg New Energy Finance) (2017), Climatescope 2017: Panama Description, http://globalclimatescope.org/en/country/panama/#/enabling-framework (accessed 12 December 2017).
+Center for Clean Air Policy (CCAP) (2016), Formulación de una Acción Nacionalmente Apropiada de 
+Mitigación (NAMA) para Movilidad Urbana Sustentable en Panama, www.elmetrodepanama.com/wp-content/
+uploads/2017/02/CCAP-NAMA-MUS.pdf (accessed 12 November 2017).
+CEPAL (Comisión Económica para América Latina y el Caribe) (Economic Commission for Latin America 
+and the Caribbean) (2017), Estadísticas del Subsector Eléctrico de los Países del Sistema de la Integración 
+Centroamericana (SICA), Santiago, Chile.
+CND (Centro Nacional de Despacho) (National Dispatch Centre) (2018a), Reglamento de Operación, www.cnd.
+com.pa/documentos/reglamento_de_operacin.pdf (accessed 2 April 2018).
+CND (2018b), Oficial Historico Costo Marginal, www.cnd.com.pa/descargar_archivo.php?nombre=Oficial_
+Historico_Costo_Marginal.zip&tipo_informe=38&ano=2018 (accessed 2 April 2018).
+CND (2018c), Capacidad Instalada, http://cnd.com.pa/informes.php?cat=5 (accessed 23 March 2018)
+EOR (Ente Operador Regional) (Regional Operator Entity) (2017a), Nodos de Enlaces Operativos, www.
+enteoperador.org/# (accessed 12 December 2017).
+EOR (2017b), Informe de Transacciones, www.enteoperador.org/# (accessed 12 December 2017). 
+ETESA (Empresa de Transmisión Eléctrica, S.A.) (Electric Transmission Company) (2018), Mapa del Sistema 
+Interconectado Nacional, www.etesa.com.pa/Mapas/Mapa_Interconectado/interconectado.html (accessed 4 
+February 2018)
+ETESA (2017a), Plan de Expansión del Sistema Interconectado Nacional 2017-2031: Tomo I, ETESA, Panama City, 
+Panama. 
+ETESA (2017b), Plan de Expansión del Sistema Interconectado Nacional 2017-2031: Tomo II, ETESA, Panama 
+City, Panama.Government of Panama (2016), Contribución Nacionalmente Determinada a la Mitigación del Cambio Climático 
+(NDC) de la Republica Panamá ante la Convención Marco de Naciones Unidas sobre Cambio Climático 
+(CMNUCC), Panama City, Panama.
+IEA and IRENA (International Energy Agency) and (International Renewable Energy Agency) (2017), IEA/
+IRENA Joint Policies and Measures Database: Biofuels Law, www.iea.org/policiesandmeasures/pams/
+panama/name-161960-en.php?s=dHlwZT1yZSZzdGF0dXM9T2s,&return=PG5hdiBpZD0iYnJlYWRjcnVtY
+iI-PGEgaHJlZj0iLyI-SG9tZTwvYT4gJnJhcXVvOyA8YSBocmVmPSIvcG9saWNpZXNhbmRtZWFzdXJlcy8-
+iPlBvbGljaWVzIGFuZCBNZWFzdXJlczwvYT4gJnJhcXV (accessed 12 December 2017). 
+INEC (National Institute of Statistics and Census) (2018), “Automóviles en circulación en la República según 
+distrito y tipo: años 2012-2016”, Panama City, Panama.
+IRENA (n.d.) Global Atlas for Renewable Energy, www.irena.org/globalatlas (accessed 12 December 2017).
+Metro de Panamá (The Panama Metro) (2018), “Demanda mensuel (actualizado al mes de Febrero 2018)”, 
+www.elmetrodepanama.com/demanda-mensual (accessed 4 February 2018).
+Ministry of Environment (2015), Estrategia Nacional de Cambio Climático de Panama, Ministry of Environment, 
+Panama City, Panama.
+Ministry of Industries and Commerce (2009), Decreto Ejecutivo No. 146: “Por medio del cual se regula el 
+precio del gas licuado de petróleo en envase de 25 libras en la República de Panamá”, Ministry of Industries and 
+Commerce, Panama City, Panama.
+Panama Today (2017), “Floating solar panels: a Panama Canal green project”, 25 November 2017, www.
+panamatoday.com/panama/floating-solar-panels-panama-canal-green-project-5836 (accessed 12 December 
+2017).
+Richter, A. (2017), “Technical University of Panama makes first geothermal scientific expedition”, Think 
+GeoEnergy, 31 March 2017, www.thinkgeoenergy.com/technical-university-of-panama-makes-first-geothermalscientific-expedition/ (accessed 12 December 2017).
+Richter, A. (2013), “Baru-Colorado could be first geothermal project in Panama”, Think GeoEnergy, 14 January 
+2013, www.thinkgeoenergy.com/baru-colorado-could-be-first-geothermal-project-in-panama/ (accessed 12 
+December 2017).
+SNE (Secretaría Nacional de Energía) (National Energy Secretariat) (2017a), Capacidad Instalada por Tipo de 
+Central, años 1970-2016, www.energia.gob.pa/tmp/file/303/Generaci%C3%B3n%20El%C3%A9ctrica%202016.
+xls (accessed 12 December 2017).
+SNE (2017b), El Mercado Eléctrico de la República de Panamá, www.energia.gob.pa/tmp/file/311/Sector%20
+Electrico%20-%20Panama,%20170630.pdf (accessed 12 December 2017).
+SNE (2015), Plan Energético Nacional (2015-2050), SNE, Panama City, Panama. 
+UN (United Nations) (2017), UN Data: Panama, http://data.un.org/en/iso/pa.html (accessed 12 December 2017).
+World Bank (2017a), The World Bank in Panama, www.worldbank.org/en/country/panama/overview (accessed 
+12 December 2017).
+World Bank (2017b), World Bank Open Data: GDP (current US$), https://data.worldbank.org/indicator/NY.GDP.
+MKTP.CD?end=2016&locations=PA&start=1960&view=chart (accessed 15 December 2017).
+World Bank (2011), Regional Power Integration: Structural Challenges and Regulatory Challenges, World Bank, 
+Washington, DC.ANNEXES
+ANNEX I: POWER PLANTS IN OPERATION IN PANAMA (2017)
+COMPANY PLANT NAME
+NUMBER 
+OF UNITS
+TYPE
+DATE ENTERED
+OPERATION
+PRIVATE
+CAPITAL
+MW
+ENEL FORTUNA Fortuna 3 Hydropower Oct-84 51% 300
+AES PANAMÁ Bayano 3 Hydropower 1976: #1 & #2, 
+2002: #3 
+51% 260
+AES PANAMÁ La Estrella - Los Valles - Esti 6 Hydropower 1979, 2003 51% 222.0
+AES CHANGUINOLA Changuinola 3 Hydropower Nov-11 100% 222.5
+AES Estrella De Mar 6 Bunker oil Apr-2014 100% 72
+CELSIA Blm - cc 3 Diesel 1998 TG, 2000 CC 51% 160
+CELSIA Blm- Carbón 3 Coal Mar-11 51% 120
+PAN-AM GENERATING Panam 9 Bunker oil 2000:1-6, 2016: 
+7-9
+100% 156
+PEDREGAL Pacora 3 Bunker oil Jan-2003 100% 54
+GRUPO MELO Canopo 1 Hydropower Jan-2006 100% 1.133
+CAFÉ DE ELETA Hidrocandela 1 Hydropower Jan-2006 100% 0.54
+ESEPSA (GAS NATURALFENOSA) La Yeg., Dolega, M.Monte 8 Hydropower Aug-2006 100% 12.14
+ESEPSA (GAS NATURALFENOSA) Algarrobos 2 Hydropower Jun-09 100% 9.86
+ACP (Canal de Panamá) Miraflores 
+#1,2,5,6,7,8,9,10,11,12
+10 Bunker oil 1963, 1976, 2002, 
+2008, 2014
+0% 173.62
+ACP (Canal de Panamá) Gatún, Madden - 
+Cogeneración
+9 Hydropower 1912, 1934 0% 60.000
+GENERADORA DEL 
+ATLÁNTICO Gena - cc 3 Diesel 2010 100% 157.75
+HIDROPANAMÁ Antón 18 Hydropower May-009 100% 4.3
+VALLEY RISE El Giral 8 Bunker oil 2009 100% 50.4
+CALDERA ENERGY 
+CORP.
+Mendre I 2 Hydropower Sep-10 100% 19.76
+HIDROBOQUERÓN Macano 2 Hydropower Dec-2010 100% 3.42
+PASO ANCHO Paso Ancho 2 Hydropower Nov-10 100% 6.12
+SALTOS DE FRANCOLI Los Planetas i & i 5 Hydropower 2011 & 2017 100% 13.75
+PEDREGALITO Pedregalito i 2 Hydropower Dec-2011 100% 20
+RIO CHICO Pedregalito ii 2 Hydropower Dec-2011 100% 12.52
+IDEAL PANAMA, S.A. Bajo De Mina/Baitun 4 Hydropower 2012 100% 145.0
+HIDRO IBÉRICA El Fraile 2 Hydropower Jan-2012 100% 5.35
+CELSIA – BONTEX Gualaca 2 Hydropower Jun-12 100% 25.2
+CELSIA – ALTERNEGY Lorena/Pruedencia 4 Hydropower 2012 100% 89.98
+CELSIA – ALTERNEGY Cativá 10 Bunker oil Feb-13 100% 87
+HIDROPIEDRA Hidropiedra 2 Hydropower Sep-12 100% 13.14
+ALTO VALLE Cochea 2 Hydropower Jan-2013 100% 14.93
+HIDROTENENCIAS, S.A. Concepción, Las Perlas 
+Norte & Sur
+6 Hydropower 2008, 2013, 2013 100% 30ANNEX I: CONTINUED
+COMPANY PLANT NAME
+NUMBER 
+OF UNITS
+TYPE
+DATE ENTERED
+OPERATION
+PRIVATE
+CAPITAL
+MW
+ELECTROGENERADORA 
+DEL ISTMO Mendre 2 G1, G2 2 Hydropower Nov-13 100% 7.8
+UEP PENONOMÉ I, S.A. Nuevo Chagre I 22 Onshore wind 2014 100% 55.0
+UEP PENONOMÉ II, S.A. 4 parks 86 Onshore wind 2014 100% 215.0
+EMNADESA Bugaba 3 Hydropower Jan-2014 100% 3.278
+ELECTRON INVESTMENT Monte Lirio 3 Hydropower Oct-14 100% 51.65
+SAN LORENZO San Lorenzo 2 Hydropower Sep-14 100% 8.12
+HIDRO CAISÁN El Alto 1 Hydropower Oct-14 100% 69.486
+HIDROECOLÓGICA DEL 
+TERIBE Bonyic 3 Hydropower May-15 100% 30
+ENEL GREEN POWER Solar Chiriquí 7 Solar PV Jun-15 100% 9.3
+CEISA Las Cruces 3 Hydropower Dec-2015 100% 21
+DIVISA SOLAR 10 MW Divisa Solar 8 Solar PV Jan-2016 100% 9.9
+KANAN Santa Inés, Estrella Del 
+Norte
+17 Bunker oil Apr-2016 100% 93
+JINRO Jinro 34 Bunker oil Mar-2016. 100% 57.8
+FOUNTAIN La Potra/Salsipuedes 7 Hydropower Aug-2016. 100% 57.9
+FARALLÓN SOLAR Farallon Solar 2 1 Solar PV Dec-2016 100% 0.96
+ENERGYST Cerro Azul 27 Diesel Jan-2017 100% 44.135
+AZUCARERA NACIONAL Cocle Solar 1 16 Solar PV Jan-2017 100% 0.96
+GENERACIÓN SOLAR Zona Franca Albrook 2 Solar PV Feb-17 100% 0.1
+HIDROIBÉRICA El Fraile Solar 1 8 Solar PV Mar-17 100% 0.48
+SOLAR COCLE VENTURE Solar Coclé, Paris, Los 
+Angeles
+3 Solar PV Mar-17 100% 27.50
+EGESA Sarigua 1 Solar PV 2013 0% 2.00
+EMNADESA Solar Bugaba 1 Solar PV 2017 100% 2.56
+LLANO SANCHEZ SOLAR 
+POWER, S.A.
+Don Felix, Milton, Sol Real, 
+Vista Alegre
+4 Solar PV 2017 100% 31.70
+PSZ1 S.A. El Espinal 1 Solar PV 2017 100% 8.50
+SOL REAL ISTMO, S.A. Sol De David 1 Solar PV 2017 100% 9.90
+SOL REAL UNO, S.A. Solar Caldera 1 Solar PV 2017 100% 5.50
+URBALIA PANAMA, S.A. Cerro Patacón Biogas 2017 100% 8.10
+GENERADORA DEL 
+ISTMO
+Barro Blanco 3 Hydropower Apr-2017 100% 28.5
+413 TOTAL …… 3382.54
+Source: Based on CND (2018c), Capacidad Instalada, http://cnd.com.pa/informes.php?cat=5.EDEMET ENSA EDECHI
+TARIFAS DE BAJA TENSIÓN
+Tarifa Simple BTS 1 * * *
+Cargo fijo, por los primeros 10 kWh B/. Cliente mes 2.53 2.17 2.44
+Cargo por energía (siguientes kWh) B/. kWh 0.14341 0.15229 0.17681
+Tarifa Simple BTS 2
+Cargo fijo, por los primeros 10 kWh B/. Cliente mes 2.53 2.17 2.44
+Cargo por energía (siguientes kWh) B/. kWh 0.17749 0.18509 0.20574
+Tarifa Simple BTS 3
+Cargo fijo, por los primeros 10 kWh B/. Cliente mes 2.53 2.17 2.44
+Cargo por energía (siguientes kWh) B/. kWh 0.19558 0.21359 0.23826
+Tarifa con Demanda Máxima (BTD)
+Cargo Fijo B/. Cliente mes 4.59 4.68 4.56
+Cargo por energía hasta 10,000 kWh B/. kWh 0.13756 0.17945 0.13545
+Cargo por energía, siguientes kWh de 10,001 a 30,000 B/. kWh 0.14323 0.18544 0.14337
+Cargo por energía, siguientes kWh de 30,001 a 50,000 B/. kWh 0.15421 0.19308 0.14891
+Cargo por energía, siguientes kWh desde 50,001 B/. kWh 0.16494 0.19969 0.17425
+Cargo por Demanda Máxima B/. kW/mes 9.95 11.06 20.4
+Tarifa por Bloque Horario (BTH)
+Cargo Fijo B/. Cliente mes 4.6 4.68 4.56
+Cargo por Energía en Punta B/. kWh 0.20397 0.17157 0.21968
+Cargo por Energía Fuera de Punta B/. kWh 0.1412 0.1653 0.15453
+Cargo por Demanda Máxima en Período de Punta B/. kW/mes 12.84 18.4 20.9
+Cargo por Demanda Máxima Fuera de Punta B/. kW/mes 1.3 1.9 2.26
+TARIFAS DE MEDIA TENSIÓN
+Tarifa con Demanda Máxima (MTD)
+Cargo fijo B/. Cliente mes 11.56 8.38 11.41
+Cargo por Energía B/. kWh 0.14806 0.14544 0.1507
+Cargo por Demanda Máxima B/. kW/mes 9.96 9.83 19.54
+Tarifa por Bloque Horario (MTH)
+Cargo fijo B/. Cliente mes 11.61 8.38 11.41
+Cargo por energía en Punta B/. kWh 0.18947 0.11432 0.16401
+Cargo por energía Fuera de Punta B/. kWh 0.14206 0.10093 0.12862
+Cargo por Demanda Máxima en Período de Punta B/. kW/mes 11.32 17.03 18.97
+Cargo por Demanda Máxima Fuera de Punta B/. kW/mes 1.43 1.8 2.65
+TARIFAS DE ALTA TENSIÓN
+Tarifa con Demanda Máxima (ATD)
+Cargo fijo B/. Cliente mes 11.61 8.38 11.41
+Cargo por Energía B/. kWh 0.10769 0.10801 0.13854
+Cargo por Demanda Máxima B/. kW/mes 13.37 11.99 13.36
+Tarifa por Bloque Horario (ATH)
+Cargo fijo B/. Cliente mes 11.61 8.38 11.41
+Cargo por energía en Punta B/. kWh 0.14143 0.10751 0.15185
+Cargo por energía Fuera de Punta B/. kWh 0.10194 0.10157 0.11446
+Cargo por Demanda Máxima en Período de Punta B/. kW/mes 14.25 13.74 12.81
+Cargo por Demanda Máxima Fuera de Punta B/. kW/mes 2.58 1.42 2.63
+ANNEX II: SEMI-ANNUAL ELECTRICITY TARIFFS FOR REGULATED CUSTOMERS
+ (UNTIL 30 JUNE 2018)

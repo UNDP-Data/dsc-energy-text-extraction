@@ -1,0 +1,3241 @@
+File Name: ALB-NREP-2021-EN
+Year: 2021
+Country Name: Albania
+Country Code: ALB
+Category: NREP
+Document Title: IRENA Renewables Readiness Assessment Albania
+Exists?: Y
+Publication Date: 2021
+Start Year: 2021
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+MARCH 2021
+THE REPUBLIC OF
+ALBANIA
+Renewables
+Readiness
+Assessment© IRENA 2021
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or 
+stored, provided that appropriate acknowledgement is given of IRENA as the source and copyright holder. Material in this 
+publication that is attributed to third parties may be subject to separate terms of use and restrictions, and appropriate 
+permissions from these third parties may need to be secured before any use of such material.
+Citation: IRENA (2021), Renewables Readiness Assessment: Albania,
+International Renewable Energy Agency, Abu Dhabi.
+ISBN 978-92-9260-338-0
+Acknowledgements
+This report benefited from reviews and comments by Gjergji Simaku, Laureta Dibra (Ministry of Infrastructure 
+and Energy of Albania), Lorenc Gordani (consultant), Mirela Kamberi (UNDP Albania), Naida Taso (Energy 
+Community), Rome Cahavpricha, Nickolas Frydas, Tatyana Kramskaya, Silvia Martinez Romero, Katsuyuki Fukui, 
+Pedzi Makumbe, Yae Jun Kim (World Bank), Maria De Melo, Matteo Colangeli, Francesco Corbo, Dorina Peristeri 
+and Adil Hanif (European Bank for Reconstruction and Development) and Joli Delimeta (SOLARON shpk).
+IRENA colleagues Rabia Ferroukhi, Ahmed Badr, Petya Icheva, Hürrem Cansevdi, Zoheir Hamedi, Aleksandra 
+Prodan, Luis Janeiro, Mohammed Nababa, Imen Gherboudj, Abdulmalik Oricha Ali, Aleksandra Prodan, Diala 
+Hawila, Emanuele Bianco, Costanza Strinati, Arjun Guha, Ahmed Badr, Jeff Vincent, Sonja Malićević and Jin 
+Kyung Jeong also provided valuable input.
+This report was developed under the guidance of Gürbüz Gönül and Binu Parthan (IRENA) and authored by 
+Tijana Radojičić (consultant).
+Available for download: www.irena.org/publications
+For further information or to provide feedback: publications@irena.org
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the reliability 
+of the material in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party content providers 
+provides a warranty of any kind, either expressed or implied, and they accept no responsibility or liability for any consequence of use of 
+the publication or material herein. 
+The information contained herein does not necessarily represent the views of all Members of IRENA. The mention of specific companies 
+or certain projects or products does not imply that they are endorsed or recommended by IRENA in preference to others of a similar 
+nature that are not mentioned. The designations employed, and the presentation of material herein, do not imply the expression of any 
+iihf A ihll f iiif ihiiih
+About IRENA 
+The International Renewable Energy Agency (IRENA) serves as the principal platform 
+for international co-operation, a centre of excellence, a repository of policy, technology, 
+resource and financial knowledge, and a driver of action on the ground to advance the 
+transformation of the global energy system. An intergovernmental organisation established 
+in 2011, IRENA promotes the widespread adoption and sustainable use of all forms of 
+renewable energy, including bioenergy, geothermal, hydropower, ocean, solar and wind 
+energy, in the pursuit of sustainable development, energy access, energy security and lowcarbon economic growth and prosperity. www.irena.org MARCH 2021
+THE REPUBLIC OF
+ALBANIA
+Renewables Readiness AssessmentThe Government of Albania recognises the key role of the energy sector in 
+the economic development of the country. Albania is therefore giving new 
+impetus to energy reforms while also consolidating existing efforts to both 
+provide enabling conditions for renewable energy development and comply 
+with its regional and international commitments.
+As part of this, the government asked the International Renewable Energy 
+Agency (IRENA) to conduct a Renewables Readiness Assessment (RRA) 
+study for Albania. The assessment, prepared in co-operation with the Ministry 
+of Infrastructure and Energy (MIE), outlines key issues for ongoing energy 
+sector development. It identifies important short- to medium-term actions 
+to strengthen policy, regulatory and institutional frameworks, aiming to 
+accelerate renewable energy uptake and bring the targets of Albania’s 
+National Energy Sector Strategy 2030 within reach.
+This report follows consultations with stakeholders across the sector that 
+helped to identify challenges and devise solutions to accelerate renewable 
+energy uptake. The resultant, comprehensive work highlights the main 
+obstacles and proposes measures to move forward with an ambitious 
+renewable energy scenario.
+The RRA findings come at the right time to help us establish a clear strategic 
+roadmap for renewables in Albania. While the market has witnessed 
+considerable advances in recent years, we are now more determined than 
+ever to step up the investments that will shape our energy future.
+On behalf of the Ministry of Infrastructure and Energy, I would like to thank 
+IRENA for undertaking and carrying out the RRA process in Albania. I am 
+also grateful to all the representatives and stakeholders who contributed. The 
+work invested in this report will have a significant, positive impact on Albania's 
+energy transition in the coming years, making us more determined than ever 
+to invest in a better, more sustainable future.
+H.E. Belinda Balluku
+Minister of Infrastructure 
+and Energy,
+Republic of Albania
+FOREWORD
+From the Minister of Infrastructure and EnergyFOREWORD
+From the IRENA Director-General
+As the countries of South-East Europe devise economic recovery plans to 
+prepare for the post-pandemic future, they see the chance to accelerate their 
+renewable energy uptake, reduce carbon dioxide emissions and align with the 
+broader energy and climate vision of the European Union.
+While Albania’s energy mix already features one of the highest shares of 
+renewables in the region owing to its extensive installed hydropower capacity, 
+the essential need remains for a more secure, cost-competitive national 
+energy supply. 
+Diversifying the electricity mix to include more renewables would strengthen 
+Albania’s energy security. Fossil fuels – mainly crude oil – account for more 
+than half of total primary energy supply, while domestic hydropower supply 
+varies widely with weather and climate conditions.
+With annual energy demand set to grow by about 75% over the decade, 
+the need for clean, sustainable power is more urgent than ever. Non-hydro 
+renewables, such as solar and wind power, can contribute to a secure, stable, 
+affordable national energy supply. 
+Renewable energy technologies would also bring numerous socio-economic 
+benefits, including job creation, new income streams, local industrial 
+development and reduced air pollution. All these result in higher GDP and 
+improve people’s overall welfare.
+This assessment, produced in conjunction with the Ministry of Infrastructure 
+and Energy, aims to support Albania in its energy transition. It recommends 
+measures to integrate renewables faster, including through least-cost energy 
+master planning, refurbishing existing distribution networks, allowing for 
+bidirectional electricity flow and establishing priority zones for solar and wind 
+power projects. 
+As a first step, this report aims to inform the National Energy and Climate Plan 
+for 2021–2030 and make subsequent energy development more conducive
+to renewables. 
+Since 2011, more than 40 countries throughout 40 countries throughout 
+Africa, the Middle East, Latin America and the Caribbean, Asia and the Pacific 
+have undertaken similar Renewables Readiness Assessment (RRA) studies, 
+exchanging knowledge and fostering international co-operation to accelerate 
+the deployment of renewables. Each process has been country-led, with IRENA 
+providing technical expertise and highlighting regional and global insights, 
+along with facilitating consultations among different national stakeholders. 
+IRENA is grateful to the Albanian authorities – and particularly the Ministry of 
+Infrastructure and Energy – for their support, as well as to other stakeholders 
+whose insights have enriched this study. I am confident that the observations 
+and recommendations presented here will help to strengthen the energy 
+transition in Albania and the broader region.
+Francesco La Camera
+Director-General
+International Renewable 
+Energy Agency0 1
+02
+03
+CONTENTS
+EXCUTIVE SUMMARY . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+INTRODUCTION.............................................14
+1.1 COUNTRY OVERVIEW. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+1.2 RENEWABLES READINESS ASSESSMENT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+ENERGY SECTOR CONTEXT . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+2.1 ENERGY BALANCE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+2.2 ELECTRICITY BALANCE AND INSTALLED CAPACITIES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+2.3 ENERGY IMPORTS AND EXPORTS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+2.4 ENERGY CONSUMPTION BY SECTOR. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+2.5 ENERGY DEMAND OUTLOOK. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+2.6 GRID INFRASTRUCTURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+2.7 INSTITUTIONAL STRUCTURE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 215
+RENEWABLE ENERGY SECTOR OVERVIEW . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.1 RESOURCE POTENTIAL AND MARKET DEVELOPMENT. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+3.2 POLICIES AND REGULATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+3.3 ECONOMICS OF RENEWABLES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3404
+05
+RATIONALE FOR RENEWABLE ENERGY DEVELOPMENT . . . . . . . . . . . . . . . 37
+4.1 THE IMPACT OF CLIMATE CHANGE. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+4.2 SEASONAL VARIATION IN HYDROPOWER GENERATION. . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+4.3 RISING DOMESTIC DEMAND AND FUEL IMPORTS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+4.4 SOCIO-ECONOMIC BENEFITS OF RENEWABLE ENERGY. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+CHALLENGES AND RECOMMENDATIONS . . . . . . . . . . . . . . . . . . . . . . . . . 41
+5.1 RENEWABLE ENERGY POTENTIALS AND PLANNING. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 41
+5.2 LEGISLATIVE AND REGULATORY FRAMEWORKS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 43
+5.3 RENEWABLES IN END-USES. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+5.4 RENEWABLE ENERGY FINANCING. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+5.5 CAPACITIES, SKILLS AND AWARENESS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 49
+REFERENCES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52FIGURES
+Figure 1 TPES by energy source in 2018. . . . . . . . . 17
+Figure 2 Installed power capacity in 2018
+(MW). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Figure 3 Electricity production, consumption
+and net imports (GWh), 2014-2019. . . . . 19
+Figure 4a Net domestic electricity production
+and consumption (GWh). . . . . . . . . . . . . . 20
+Figure 4b Domestic consumption in 2018
+compared to ten-year average
+(GWh). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+Figure 5 Net energy imports (ktoe),
+2014-2018. . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Figure 6 Distribution of primary energy supply
+by demand sector, 2018. . . . . . . . . . . . . . . 22
+Figure 7 Energy demand in 2018 compared to
+2030 forecast (ktoe, %). . . . . . . . . . . . . . . 23
+Figure 8a Albania’s annual average Global
+Horizontal Irradiance. . . . . . . . . . . . . . . . . 29
+Figure 8b Suitable areas for solar PV
+development and zones with highest 
+potential. . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Figure 9a Albania’s annual average wind speeds
+at 100-metre hub-height. . . . . . . . . . . . . . 31
+Figure 9b Suitable areas for wind power 
+development and zones with highest 
+potential. . . . . . . . . . . . . . . . . . . . . . . . . . . . 31
+Figure 10 LCOE ranges of renewable energy 
+technologies in Albania. . . . . . . . . . . . . . . 35
+Figure 11 Electricity production vs. demand,
+2018. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Figure 12 Employment impacts in the solar PV
+and wind value chain. . . . . . . . . . . . . . . . . 39
+Table 1 Total electricity system losses,
+2014-2019. . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Table 2 Overview of 2030 energy strategy 
+objectives. . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Table 3 FiT per MWh production in 2017. . . . . . . . . 33
+TABLES
+BOXES
+Box 1 Global weighted average LCOE and 
+auction/PPA prices for renewable
+energy technologies, 2010 to
+2021/2023. . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Box 2 Cost-effectiveness of solar
+water heating. . . . . . . . . . . . . . . . . . . . . . . . . 40
+Box 3 IRENA’s tools and methodology for 
+renewable energy zoning. . . . . . . . . . . . . . . 42
+Box 4 IRENA’s project facilitation through
+the Climate Investment Platform. . . . . . . . 48ABBREVIATIONS
+AKBN National Agency of Natural Resources 
+ALL Albanian lek
+ALPEX Albanian Power Exchange
+°C Degree Celsius
+CESEC Central and South Eastern Europe energy 
+connectivity 
+CfD Contract for Difference
+CIP Climate Investment Platform
+CO2 Carbon dioxide
+DFI Development finance institution
+EIA Environmental impact assessment
+EnC Energy Community Secretariat
+ENTSO-E European Network Transmission System 
+Operators for Electricity 
+ERE Energy Regulatory Authority
+EU European Union
+EUR Euro
+FiT Feed-in tariff
+GCF Green Climate Fund
+GDP Gross domestic product
+GEF Global Environmental Facility
+GIS Geographic information system
+GWh Gigawatt hour
+HPP Hydropower plant
+INSTAT National Institute of Statistics
+IRENA International Renewable Energy Agency
+KESH Albanian Power Corporation
+ktoe Kilotonne of oil equivalent
+kV Kilovolt
+LCOE Levelised cost of electricity
+m2 Square metre
+m/s Metre per second
+MIE Ministry of Infrastructure and Energy
+MVA Megavolt ampere
+MW Megawatt
+MWh Megawatt hour 
+NDC Nationally determined contribution
+NECP National Energy and Climate Plan
+NREAP National Renewable Energy Action Plan
+OSHEE Distribution System Operator
+OST Transmission System Operator
+PPA Power Purchase Agreement
+PPP Public-private partnership
+PV Photovoltaic
+RRA Renewables Readiness Assessment
+SE4All Sustainable Energy for All 
+SWH Solar water heating
+TPES Total primary energy supply
+TWh Terawatt hour
+UNDP United Nations Development Programme 
+USD United States dollar
+VAT Value-added tax
+WACC Weighted average cost of capital
+Disclaimer: 
+Throughout this publication, The designation of Kosovo* is without prejudice to positions on status
+and the United Nations Security Council Resolution 1244 (1999).The Republic of Albania is a predominantly 
+mountainous, coastal country in South-East Europe 
+with a population of approximately 2.9 million 
+people. Albania has made significant economic 
+progress during the past three decades, moving 
+from a low-income economy to a middle-income 
+EU member state, with a gross domestic product 
+(GDP) per capita that has risen from USD 200 in 
+1991 to USD 5 353 in 2019. 
+Albania remains a net importer of goods and 
+services. Energy imports, in particular, restrict 
+economic growth considerably, have a negative 
+effect on the country’s trade deficit and leave the 
+country open to supply shocks.
+Albania’s energy mix is dominated by fossil 
+fuels – mainly crude oil – which account for more 
+than half of total primary energy supply (TPES). 
+However, domestic production is not able to meet 
+demand; Albania is therefore, on average, a net 
+energy importer. 
+Hydropower accounts for the largest share of the 
+country’s electricity generation, representing around 
+95% of the Albania’s installed power capacity. This 
+means Albania’s energy mix has one of the highest 
+shares of renewable energy in South East Europe; 
+however, it is also highly dependent on annual 
+rainfall. The consequent vulnerability to climatic 
+externalities for electricity production creates 
+notable fluctuations in domestic energy production. 
+Aside from the socio-economic implications of 
+its extensive reliance on hydro-power, Albania is 
+among the most vulnerable of South-East Europe’s 
+countries to climate change, according to the World 
+Bank, and changing weather patterns have already 
+resulted in increased temperatures, decreased 
+precipitation and more frequent extreme events 
+such as floods and droughts.
+Establishing energy security, energy sector 
+sustainability and an ensured energy supply at 
+cost-competitive prices are therefore some of the 
+key challenges for the country to address in the 
+near term. These challenges can be met by further 
+increasing the share of renewable energy in the 
+national energy mix and diversifying the country’s 
+electricity sector.
+Opportunities for the deployment of solar 
+energy are extensive. Albania’s solar insolation 
+is very high throughout most of its territory at 
+more than 1 500 kWh/m2
+ annually, with peaks of
+1 753 kWh/m2
+ annually, particularly in the western 
+part of the country. Albania also has some of 
+Europe’s highest number of sunshine hours 
+per year, presenting significant potential for 
+development of solar PV for power generation and 
+solar thermal for heating purposes. 
+Meanwhile, according to IRENA’s estimates 
+under a low-cost capital scenario, Albania has a
+cost-competitive wind potential of up to 7 400 MW 
+and the Agency proposes in its REmap scenario a 
+wind installed capacity of 616 MW by 2030, with 
+an annual generation potential of 1 794 GWh.
+In recent years, the Albanian government has 
+taken commendable steps in the promotion of
+non-hydro renewable energy use. In its 2018 
+EXECUTIVE SUMMARYNational Energy Sector Strategy, Albania stipulated 
+a 42% share of renewable energy in total primary 
+energy supply (TPES) by 2030. Also, Albania’s 
+National Renewable Energy Action Plan (NREAP) 
+sets forth renewable energy targets till 2020 and 
+in going forward, the NREAP will be superseded 
+by the National Energy and Climate Plan (NECP), 
+which is still to be developed and will set out 
+renewable energy targets to 2030. 
+With a view to informing the development of these 
+targets, and more generally to support Albania on 
+its path toward the integration of a higher, more 
+diversified share of renewable energy in its national 
+energy mix, this Renewables Readiness Assessment 
+(RRA) identifies critical actions that could significantly 
+impact the scale-up of renewable energy, outlined in 
+a number of key recommendations.
+Developing renewable energy zones
+For solar and wind resources in Albania, analysis 
+of availability and economic potential is very 
+limited. This hinders policy development in setting 
+achievable targets. In particular, zoning for solar PV 
+and wind generation projects should be prioritised. 
+This entails the identification of areas of highquality resource potential for power development, 
+the exploitation of which is environmentally sound 
+and both technically and economically viable.
+The Albanian National Agency of Natural Resources 
+(AKBN), as the institution tasked with gathering 
+resource potential data, should therefore lead 
+the development of a renewable energy zoning 
+study for solar and wind, in co-operation with the 
+Ministry of Infrastructure and Energy (MIE) and 
+development partners, using IRENA’s potential 
+suitability analysis presented in the RRA as a basis.
+Developing a comprehensive least-cost energy 
+master plan
+A comprehensive energy plan can support 
+effective decision-making and guide the sector’s 
+development in a coherent way, offering clarity 
+and visibility for various energy stakeholders, 
+including investors and development partners. 
+The planning department of the MIE, along with 
+the AKBN, are encouraged to take the lead in 
+developing a holistic least-cost master plan for the 
+energy sector to aggregate sub-sectoral plans and 
+assess the accompanying infrastructure needed to 
+reach overall energy goals. Specifically, this plan 
+should guide when, where and how investments in 
+the energy sector should be made. 
+Strengthening the distribution network
+The Albanian distribution network suffers from 
+overloading in high-demand centres, such as in 
+Tirana, posing serious obstacles to the injection of 
+distributed generation such as solar PV net-metering 
+systems. The distribution system operator, OSHEE, 
+must immediately prioritise the refurbishment of 
+the distribution grid around the main load centres 
+of Tirana and Durrës; begin planning for an active 
+grid that can allow for bidirectional electricity flow 
+to accommodate renewable energy prosumers; and 
+initiate grid upgrades close to planned renewable 
+energy generation zones so that power can be 
+effectively evacuated to major demand centres. Strengthening support mechanisms for 
+renewable energy deployment
+Although Albania has made progressive efforts 
+to establish various support incentives for the 
+greater uptake of renewables, these could be 
+further strengthened, for example by reducing 
+VAT to incentivise deployment. Whilst exempted 
+in some cases of imported solar PV machinery and 
+equipment, in the domestic sale of equipment – 
+especially for systems below 500 kW – the full 20% 
+VAT is applied. VAT reductions could therefore be 
+applied on all machinery and equipment related to 
+all renewable energy technologies. Furthermore, 
+the renewable energy financing obligation for 
+those who purchase directly from the transmission 
+system operator should be embedded into 
+electricity pricing for non-tariff consumers 
+connected to the transmission system (about 
+10–12% of consumers). 
+Establishing a dedicated renewable energy 
+agency
+Albania requires a dedicated renewable energy 
+agency, with its own funding stream unconstrained 
+by treasury limitations, to inform the coordinated 
+development of renewables in line with national and 
+international obligations. Based on an envisaged 
+mandate stipulated within the Renewable Energy 
+Law, such an agency could also keep an updated 
+registry of renewable power producers and service 
+providers; collaborate for training, certification 
+and capacity building; track the energy balance 
+contributions of all energy stakeholders and draft 
+timely assessments; monitor the effectiveness 
+and implementation of energy sector master 
+plans; carry out resource potential analyses and 
+pre-feasibility studies for renewable energy 
+resource development; and provide transparent 
+information on renewable energy data, incentives, 
+energy sector development plans and permitting 
+procedures for the public and private sectors.
+Developing a strategy for a greener transport 
+sector
+Greening the transport sector through e-mobility 
+has the potential to positively contribute to the 
+balancing of the power system through peak-load 
+shaving, reducing distribution losses and reducing 
+air pollution. An overall energy strategy aimed at 
+the diversification of the transport sector should 
+be developed as a cross-sectoral collaborative 
+effort between relevant authorities and both the 
+MIE and Energy Regulatory Authority (ERE) to 
+ensure a coordinated and coherent development 
+pathway for both the energy and transport 
+sectors. Such a strategy could also encourage the 
+uptake of locally produced biofuels – including 
+biodiesel, bioethanol and bio-methane – which 
+should be produced in compliance with biomass 
+sustainability criteria and which have the potential 
+to reduce Albania’s current dependence on oil 
+imports while improving air quality in urban 
+centres and diversifying agriculture and rural 
+economies. 
+Developing a heat bylaw
+A dedicated heat bylaw is required to provide for 
+appropriate target-setting beyond 2020 for heating 
+and cooling and accompanying technologies 
+(such as solar thermal and geothermal) across the 
+residential, services and industrial sectors. This 
+should also provide guidance on the mechanisms 
+for the deployment of heating technologies 
+and methodologies for their contribution to the 
+renewable energy share, especially with regards 
+to the use of heat pumps. Currently, heat pumps 
+are inadequately accounted for in data reporting 
+on the national share of renewable energy. The 
+Law on Energy Efficiency and the Law on Energy 
+Efficiency in Buildings could be also linked directly 
+to the heat bylaw so that energy efficiency 
+measures would play a complimentary role in 
+reducing heating and cooling demand.
+Facilitating financing of bankable project 
+proposals
+Many renewable energy project proposals are 
+discredited as “unbankable” due to the lack of 
+thoroughly developed supporting documentation. 
+The private sector should therefore utilise openly 
+available tools and platforms, such as the Climate 
+Investment Platform (CIP), for developing 
+bankable project proposals and accessing 
+financing. Also, thoroughly developed power 
+purchase agreements (PPAs) are a key element 
+in de-risking investments in renewable energy 
+projects and can offset some of the perceived 
+risk in project appraisal by financing institutions.Local financial institutions can also play an 
+increasingly prominent role in financing smallerscale distributed systems by tailoring existing 
+lending portfolios to include electric vehicles 
+(under conventional vehicle loans) and rooftop 
+solar PV, energy efficiency measures or efficient 
+heat pumps (under housing loans). 
+Raising public awareness of the benefits
+of renewable energy 
+From the perspective of energy consumers, high 
+upfront investment costs in renewable energy and 
+a lack of understanding of payback periods for 
+such investments deter wider uptake of renewables 
+in Albania. Also, the public is not always aware of 
+existing incentives, support mechanisms or plans for 
+the deployment of renewable energy technologies. 
+Therefore, the wider adoption of renewable energy 
+in Albania requires government-backed, wellformulated awareness-raising strategies to sensitise 
+the public to the direct benefits of renewable energy, 
+both for individual citizens and the country as a 
+whole. Coherently communicating the government’s 
+plans for the development of the sector will also 
+serve to boost investor confidence. 
+Enhancing institutional capacities and local 
+human resources
+To implement Albania’s commitment to a higher 
+share of renewable energy deployment, a skilled 
+workforce is required. The ministries in charge of 
+energy, training and education should collectively 
+work towards the introduction of renewable 
+energy training curricula, prioritising solar PV 
+installers and energy auditors in the immediate 
+term. In particular, the MIE, together with the 
+Energy Efficiency Agency – the certifying body for 
+energy auditors – should work on expediting the 
+licencing of accredited energy auditors. 
+INSTAT, as the central body accumulating and 
+processing statistical data, should work with AKBN 
+(the energy data provider) and other international 
+partners that receive statistical information (such 
+as EUROSTAT and the World Bank) to further 
+strengthen their institutional capacities for energy 
+data processing and reporting.
+Strengthening communication and co-operation 
+among stakeholders
+Co-operation and communication among all 
+relevant actors can be further strengthened to 
+ensure the exchange of updated information 
+regarding the renewable energy sector’s evolution. 
+This could ensure that challenges facing individual 
+stakeholders are clearly communicated and 
+collectively addressed. 
+The Albanian Renewable Energy Association, due 
+to the country’s history of hydropower production, 
+has a stronger focus on hydro than non-hydro 
+renewables. Non-hydro enterprises therefore need 
+to take a more assertive role in communicating their 
+operational challenges and, through the association, 
+voice these challenges to relevant authorities who 
+could take action to alleviate or resolve them. This 
+can avoid information asymmetries and ensure 
+better communication between the private and
+public sectors.* The designation of Kosovo is without prejudice to positions on status and the United Nations Security Council Resolution 1244 (1999).
+1.1 COUNTRY OVERVIEW
+The Republic of Albania is a coastal country in 
+South East Europe, bordering Montenegro and 
+Kosovo*
+ to the north, North Macedonia to the east, 
+Greece to the south, and the Adriatic and Ionian 
+Seas to the west. Its capital, Tirana, is the largest 
+city and the political and economic centre of the 
+country. The second largest city is the port city of 
+Durrës. 
+The country is predominantly mountainous, with 
+the more densely populated lowland coastal region 
+spanning the western part of the country. Albania’s 
+climate is typically Mediterranean with warm, dry 
+summers and mild, wet winters. Average rainfall 
+varies seasonally and across the country with 
+about 95% of the annual precipitation occurring 
+in the winter season, predominantly in the North 
+Albanian Alps, while the southwestern part of 
+the country commonly experiences droughts in 
+the summer (Encyclopedia Britannica, 2020). 
+According to a World Bank study, Albania is one 
+of South East Europe’s most vulnerable countries 
+to climate change. Changing weather patterns 
+have already resulted in increased temperatures, 
+decreased precipitation and more frequent 
+extreme events such as floods and droughts 
+(World Bank, 2013).
+1. INTRODUCTION
+Albania has a population of approximately 
+2.9  million (INSTAT, 2019a). Tirana’s population 
+of around 896 000 has doubled in the past three 
+decades and amounts to almost a third of the 
+country’s population. Durrës accommodates about 
+10% of the population (INSTAT, 2019b). More than 
+98% of the population aged 15 years and older is 
+literate (UNESCO, 2018). In 2018, unemployment 
+rates stood at just over 12% and were highest 
+among young people (15-29  years; 23%)
+(INSTAT, 2019c).
+Albania has made significant economic progress 
+during the past three decades, moving from 
+a low-income economy to a middle-income 
+country in Europe, with gross domestic product 
+(GDP) per capita increasing from its lowest point 
+of USD  200  (US dollars) in 1991 to USD  5 268 in 
+2018 (World Bank and OECD, 2018a). The real 
+annual GDP growth rate in 2018 was 4.15%, one 
+of the highest in the South East European region
+(INSTAT, 2019d). 
+The structure of the Albanian economy has 
+remained relatively unchanged over the past 
+decade, with the services sector dominating, 
+contributing to over half (54.1%) of the country’s 
+gross value added in 2019. The industrial and 
+agricultural sectors contributed 21.7% and 24.2%, respectively, in the same year (UNdata, 2020). 
+Albania is a net importer of goods and services, 
+although exports continue to rise and support 
+economic growth. In 2018, Albania exported 
+almost one-third (31.7%) of its GDP in goods and 
+services (World Bank, 2019). 
+However, energy imports place a considerable 
+weight on economic growth and the country’s 
+trade deficit, specifically in the energy sector. A 
+drought in 2017 exposed the electricity sector’s
+over-reliance on hydropower and resulted 
+in electricity imports that cost the country 
+USD  240  million and put public utilities in the 
+power sector into severe financial difficulty. This 
+expenditure reportedly forced the government to 
+revise its budget to financially assist the imports 
+and use emergency loans for power imports 
+(Tirana Times, 2017). 
+Strong and sustained economic growth is a main 
+component of the country’s sustainable economic 
+and social development agenda, and in nurturing 
+this growth the energy sector plays an increasingly 
+critical role. Establishing energy security, energy 
+sector sustainability and an ensured energy 
+supply at cost-competitive prices are some of
+the key challenges for the country to address in the
+near term.
+1.2 RENEWABLES READINESS 
+ASSESSMENT
+In comparison with neighbouring countries in the 
+South East Europe region, Albania’s energy mix 
+has one of the highest shares of renewable energy. 
+Ensuring a cost-competitive, secure energy supply 
+in Albania can be achieved by further increasing 
+the renewable energy share and diversifying the 
+country’s electricity sector. 
+The diversification of the country’s electricity 
+sector is critical, as the current system is almost 
+entirely hydro-based and thus susceptible to 
+climatic variations. In recent years, the Albanian 
+government has taken commendable steps for the 
+promotion of non-hydro renewable energy use, 
+and the Renewables Readiness Assessment (RRA) 
+aims to further support the country on this path. 
+The RRA is a tool developed by the International 
+Renewable Energy Agency (IRENA) to 
+comprehensively evaluate the conditions for 
+accelerated renewable energy deployment in 
+a country. It is a country-led, multi-stakeholder 
+consultative process which allows for the 
+identification of existing challenges for renewable 
+energy deployment and recommends short- to 
+medium-term actions to guide decision makers 
+and other stakeholders in addressing these
+challenges.The RRA for Albania was initiated by the Ministry 
+of Infrastructure and Energy (MIE) in technical cooperation with the International Renewable Energy 
+Agency (IRENA) and has greatly benefitted from 
+stakeholder inputs. Stakeholders in the RRA process 
+included officials from ministries, transmission and 
+distribution utilities, power project developers, 
+development partners, financial institutions, civil 
+society, and academia.
+As a first step, a background report on Albania’s 
+energy sector was developed along with an issue 
+paper preliminarily highlighting challenges for 
+renewable energy deployment. On this basis, an 
+initial multi-stakeholder consultative workshop 
+was organised by IRENA and the MIE in January 
+2020 that facilitated further discussions on the 
+challenges in renewable energy deployment and 
+the identification of recommended actions in 
+overcoming these challenges. The outcomes of the 
+consultation workshop, along with insights gained 
+from bilateral meetings with key stakeholders, 
+constituted the basis for this RRA report.
+The RRA, with its recommended short- to mediumterm actions, was validated in November 2020 at 
+a virtual multi-stakeholder validation workshop 
+attended by over 60 representatives from the 
+energy sector in Albania.
+This report calls for an accelerated diversification 
+of the electricity sector in Albania and a focus on 
+more non-hydro renewable energy development. 
+In addition, end-use sectors are called on to 
+incorporate more renewable-based energy supply 
+and thereby take full advantage of the country’s 
+renewable energy potential. In the immediate term, 
+the RRA aims to inform the development of the 
+National Energy and Climate Plan for 2021-2030 
+and guide subsequent energy sector development 
+to be conducive for renewables, energy security, 
+environmental safeguarding and socio-economic 
+benefits for all citizens.
+RRA Albania Consultative Workshop in Tirana, 29-30 January 2020
+Photograph: Zoheir Hamedi
+Stakeholders in the 
+RRA process included 
+officials from ministries, 
+transmission and 
+distribution utilities, 
+power project developers, 
+development partners, 
+financial institutions,
+civil society, and academia.Others
+16 ktoe
+1%
+Lignite
+186 ktoe
+9%
+Crude oil
+1 206 ktoe
+57%
+Natural gas
+46 ktoe
+2%
+Biomass
+159 ktoe
+7%
+Electricity
+519 ktoe
+24%
+TOTAL TPES
+2 131
+ktoe
+Figure 1 TPES by energy source in 2018
+Source: INSTAT (2020a)
+2.1 ENERGY BALANCE
+Albania’s primary energy production is dominated 
+by fossil fuels  –  mainly crude oil  –  whose share 
+has ranged between 46% and 68% over the last 
+five years. Hydropower is the second largest 
+contributor, with a share ranging from 20% to 
+almost 40%, depending on annual rainfall (INSTAT, 
+2020a). This vulnerability to climatic externalities 
+for electricity production creates notable 
+fluctuations in domestic energy production. For 
+example, for the last five-year period, the lowest 
+primary energy production was recorded in 2017, 
+which was a particularly drought-stricken year, 
+whereas the highest primary energy production 
+was recorded in 2015  –  a year of considerable 
+rainfall. Other domestic energy sources for primary 
+energy production include biomass (including 
+wastes, residues, non-food cellulosic material, and 
+lignocellulosic material), lignite and natural gas. 
+Because domestic energy production is not able to 
+meet demand, Albania is on average a net energy 
+importer. 
+In 2018, Albania’s total primary energy supply 
+(TPES)1
+ amounted to 2 131  kilotonnes of oil 
+equivalent (ktoe). Its share by energy source is 
+represented in Figure 1. It remains predominantly 
+fossil fuel based (68% composed of natural gas, oil 
+and lignite), followed by electricity (24%), which is 
+both produced from hydropower domestically and 
+imported. Biomass and other energy sources (such 
+as solar thermal) account for 8% of the TPES.
+1 The total primary energy supply (TPES) is the sum of domestic energy production and imports minus exports and storage changes.
+2. ENERGY SECTOR CONTEXT2.2 ELECTRICITY BALANCE AND 
+INSTALLED CAPACITIES
+Albania’s electricity demand grew rapidly in 1995-
+2000. This was due to demographic, economic and 
+social trends, including rural-to-urban migration, 
+increased use of electricity for space heating and 
+cooling, and rising living standards (IRENA, 2019). 
+To meet the growing electricity demand, the 
+country has increased its installed electric capacity 
+over the past decade from 1 455 megawatts (MW) 
+in 2007 to 2 204 MW in 2018. The majority of the 
+installed capacity (1 448  MW) is owned by the 
+Albanian Power Corporation (KESH), while private 
+producers account for about a third of the installed 
+capacity (755 MW) (ERE, 2019).
+As shown in Figure 2, the Albanian power system 
+is dominated by hydropower, representing 95% 
+of the country’s installed capacity with a total of 
+2 096  MW installed. The installed hydropower 
+capacity comprises mainly large hydropower 
+installations (i.e., above 10 MW in size) amounting 
+to 1 904 MW, while small hydropower installations 
+amount to 192 MW. The Drin River in northern 
+Albania is the largest river in the country. It hosts 
+three of the largest hydropower stations owned by 
+KESH: Fierzë (500  MW), Komani (600  MW) and 
+Vau I Dejës (250 MW), which are also referred to 
+as the Drin River cascade. 
+The country has a 98 MW fossil-fuel thermal 
+power plant representing 4% of the total installed 
+capacity that has not been put into use since its 
+construction in 2011 due to a failure in its cooling 
+system. In January 2019, the MIE issued a tender
+for a public-private partnership (PPP) for a 
+concession contract to revive the power plant, 
+potentially converting it to a natural gas-fuelled 
+plant to be supplied with gas from the planned 
+Trans Adriatic Pipeline. The remaining 1% (10 MW) of 
+installed capacity in 2018 comprised small-scale (i.e., 
+each less than 2 MW) solar photovoltaic (PV) plants.
+Albania’s domestic electricity production has 
+fluctuated in recent years due to the electricity 
+sector’s over-reliance on hydropower and annual 
+precipitation. Figure  3 shows Albania’s domestic 
+electricity production, consumption and net 
+imports from 2014 to 2019. Despite the steady 
+capacity additions over the years, domestic 
+electricity production during the drought of 
+2017 fell to 63% (4.5  terawatt hours [TWh]) 
+of the previous year’s production (7.1  TWh).
+Solar PV
+10 MW
+1% Crude oil
+98 MW
+4%
+Small Hydropower
+(<10MW)
+192 MW
+9%
+Large Hydropower
+1 904 MW
+86%
+TOTAL
+2 204
+MW
+Figure 2 Installed power capacity in 2018 (MW)
+Source: EnC (2019)This forced the country to net import 39.2% 
+of its electricity consumption in 2017 to meet 
+demand. This signals the power sector’s extreme 
+vulnerability to climatic changes and the urgent 
+need to diversify away from hydropower to ensure 
+energy supply security. The electricity system in 
+Albania is also suffering from high losses. Although 
+the country has taken measures to gradually 
+reduce these losses over the past few years, they 
+accounted for around 21.7% of the total electricity 
+consumption in 2019 (INSTAT, 2020b). 
+Figure  4a below shows net monthly domestic 
+electricity production in 2018, compared to the 
+average values for the same months over the 
+ten-year period from 2007 to 2017. The difference 
+between the months of lowest and highest electricity 
+production, which in 2018 was three times the 
+average difference of the ten years prior, is notable. 
+This indicates increased seasonal variations of 
+electricity production. Also notable is that, despite 
+the additions in installed capacities, net domestic 
+electricity production in October, November and 
+December  2018 was below the ten-year average. 
+This signals increasingly drier months of the last 
+annual quarter and, despite additional hydropower 
+capacities, an increasing inability to meet electricity 
+demand in the second half of the year. 
+Figure  4b shows that, when monthly electricity 
+consumption profiles in 2018 are compared with the 
+ten-year average, peak consumption months tend 
+to be during the hottest and coldest months of the 
+year due to electricity demand for space cooling 
+and heating, respectively. In 2018, compared to 
+the ten-year average, higher electricity demand 
+is evident in the summer months, particularly in 
+July and August, largely due space cooling. This 
+is further compounded by the fact that electricity 
+production decreases significantly from June 
+onwards and is unable to meet domestic demand 
+in the second half of the year. Thus, partially 
+offsetting electricity demand for heating and 
+cooling would allow for domestic production to 
+better meet demand from June to December.
+Net domestic production (GWh) Net Imports (GWh) Electrical losses (GWh) Electricity consumption (GWh)
+2014 2015 2016 2017 2018 2019
+-2 000
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+GWh
+Figure 3 Electricity production, consumption and net imports (GWh), 2014-2019
+Source: INSTAT (2020b)
+Domestic electricity 
+production has fluctuated 
+in recent years due to the 
+electricity sector’s overreliance on hydropower and 
+extreme vulnerability to 
+climatic changes. Net domestic production 2018 (GWh) Average domestic production 2007-2017 (GWh)
+Domestic consumption 2018 (GWh) Average domestic consumption 2007-2017 (GWh)
+Jan Feb Mar Apr May Jun Jul Aug Sept Oct Nov Dec
+400
+0
+200
+600
+800
+1 000
+1 400
+1 200
+GWh
+Figure 4a Net domestic electricity production and consumption (GWh)
+Source: ERE (2019)
+Domestic consumption 2018 (GWh) Average domestic consumption 2007-2017 (GWh)
+Jan Feb Mar Apr May Jun Jul Aug Sept Oct Nov Dec
+400
+450
+500
+550
+600
+650
+700
+750
+800
+GWh
+Figure 4a Net domestic electricity production and consumption (GWh)
+Source: ERE (2019)2.3 ENERGY IMPORTS AND EXPORTS
+Albania is a net energy importer. Between 2014 
+and 2018, the amount of net energy imported 
+ranged from a low of 12% of the TPES in 2015 to a 
+high of 46% in 2017. 
+Net energy imports are directly correlated to 
+annual rainfall, given that the electricity sector is 
+almost entirely reliant on hydropower production. 
+In 2017, a year of low rainfall, the country net 
+imported 39.2% (2 915  GWh) of its electricity 
+consumption.
+A further contributor to net energy imports is the 
+country’s rising demand for petroleum products, 
+largely fuelling the transport sector. Although 
+Albania is the largest producer and exporter of oil 
+in the South East Europe region, most oil extracted 
+in Albania is exported as unrefined crude oil.
+As such, the country imports all of its refined 
+petroleum products to meet its transport energy 
+demand, which inevitably widens the country’s 
+trade gap. Greening the transport sector by taking 
+up biofuels blending and introducing electric 
+mobility could lower the country’s energy imports 
+and positively contribute to the national economy.
+2.4 ENERGY CONSUMPTION BY SECTOR
+The largest energy consumer in Albania is 
+the transport sector, whose share has almost 
+quadrupled since 1990 and amounted to 40% of 
+final energy consumption in 2018. The residential 
+sector was the second largest (24%, 490  ktoe), 
+followed by the industrial sector (20%, 418 ktoe) 
+(EUROSTAT, 2019a) (INSTAT, 2020a). 
+The transport sector’s energy demands are mostly 
+met by oil and to a lesser extent by biofuels (87.9 ktoe, 
+13.4% in 2017) (MIE, 2018a). However, no system is 
+in place to guarantee the sustainability of the used 
+biofuels (IRENA, 2019). The residential sector is the 
+largest electricity-consuming sector, consuming 57% 
+of total electricity consumption (excluding losses) 
+in 2018 (MIE, 2019). As such, the residential sector’s 
+energy demands are predominantly met by electricity 
+(51.2% in 2017) (EUROSTAT, 2019b), and to a lesser 
+extent by biomass, solar thermal and petroleum 
+products. A greater portion of this electricity 
+consumption is due to high electricity demand for 
+space heating and cooling and water heating. Almost 
+half of space heating and water heating demand in 
+the residential sector is met by electricity (43.6% and 
+49.7%, respectively) (EUROSTAT, 2019c). 
+Net import (ktoe) Import (ktoe) Export (ktoe) Net import/TPES
+2014 2015 2016 2017 2018
+0
+200
+400
+600
+800
+2 000 50%
+45%
+40%
+35%
+30%
+25%
+20%
+15%
+10%
+5%
+0%
+1 000
+1 200
+1 400
+1 600
+1 800
+ktoe
+Net import/TPES
+32%
+12%
+23%
+24%
+46%
+Figure 5 Net energy imports (ktoe), 2014 2018
+Source: INSTAT (2020a)Notably, over 70% of hot water demand in the 
+household and services sector is supplied by 
+electric boilers (UNDP, 2017). The demand for 
+electricity for heating needs is especially high in 
+times of low electricity production towards the 
+end of the year (Figure 4a).
+2.5 ENERGY DEMAND OUTLOOK
+Within the National Energy Sector Strategy 2030, 
+an analysis of energy development scenarios 
+revealed that, given past growth trends and under 
+a business-as-usual scenario, the annual energy 
+demand in Albania is expected to increase by 77% 
+in 2030 compared to 2018 levels (MIE, 2018b). The 
+transport sector is forecast to continue to be the 
+largest energy consumer over the next decade, 
+contributing to continued net energy imports. 
+The second-largest energy consumer will be the 
+residential sector, followed by the industrial and 
+services sectors. The highest increase in energy 
+demand will be seen in the services sector.
+Regarding the power sector, in part due to increasing 
+climatic changes with more seasonal variations 
+and rising temperatures in the summer months, 
+electricity demand is forecast to increasingly spike 
+in the hottest months as electricity demand for 
+space cooling increases (ERE, 2019).
+2.6 GRID INFRASTRUCTURE
+The Albanian transmission grid is managed by the 
+transmission system operator (OST) and is 
+composed of 400 kilovolt (kV), 220 kV, 150 kV and 
+110  kV transmission lines and 15 substations of 
+4 096 megavolt amperes (MVA) installed capacity. 
+Albania’s electricity system is interconnected 
+through six lines with neighbouring countries. The 
+three 400  kV lines are interconnectors to 
+neighbouring Greece (Zemblak  –  Kardia), 
+Montenegro (Tirana  2  –  Podgorica) and Kosovo* 
+(Tirana 2 – Kosovo B). Two 220 kV lines connect to 
+Montenegro (Koplik  –  Podgorica) and Kosovo* 
+(Fierze – Pristina), and one 150 kV line connects to 
+Greece (Bistrica 1 – Igumenice). 
+More than 70% (1 539  MW) of the country’s 
+installed power capacity – and the largest power 
+plants, which are located on the Drin River cascade 
+*The designation of Kosovo is without prejudice to positions on status and the United Nations Security Council Resolution 1244 (1999).
+Industry
+418 ktoe
+20%
+Services
+207 ktoe
+10%
+Transport
+836 ktoe
+40%
+Residential
+490 ktoe
+24%
+Other
+127 ktoe
+6%
+Figure 6 Distribution of primary energy supply by demand sector, 2018
+Source: EUROSTAT (2019a), INSTAT (2020a)in northern Albania – are connected to the 220 kV 
+network. This supplies the major demand centres 
+of Tirana, Elbasan, Durrës and Fieri and connects 
+to the 110  kV network, which is predominantly 
+ringed and to a lesser extent radial, covering all 
+urban centres of the country and supplying the 
+distribution network. About 20% (411 MW) of the 
+installed generation capacity is connected to the 
+110 kV network, whereas around 10% (237 MW) is 
+connected to the distribution grid of 35 kV and less 
+(ERE, 2019). The distribution network is operated 
+by the distribution system operator (OSHEE).
+Grid losses account for a large share of electricity 
+consumed. In 2019, these stood at just over a fifth 
+(21.7%) of final electricity consumption (INSTAT, 
+2020b). On the transmission network, losses stand 
+at around 2% and are largely dependent on the 
+performance of the hydropower plants (HPPs) on 
+the Drin River cascade (OST, 2018). The majority 
+of the losses are on the distribution network and 
+largely include technical losses due to inadequate 
+upgrading of the distribution infrastructure. 
+The 45 000 km of distribution network is aged, 
+and 82% of the network is composed mostly 
+of overhead cable lines, which contributes to 
+electricity losses. Of the 178 substations, 40% 
+have been in operation for more than 70 years. 
+These are operated manually with limited
+real-time information and no forecasting demand. 
+The distribution grid is overloaded, especially in 
+high demand centres such as Tirana and Durrës
+(Lika, 2020). 
+2018 2030 % increase compared to 2018
+Transport Residential Industry Services Other* Total
+0
+4 000
+3 500
+3 000
+2 500
+2 000
+1 500
+1 000
+500
+180%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+140%
+160%
+ktoe
+71%
+82%
+165%
+43%
+62%
+77%
+Figure 7 Energy demand in 2018 compared to 2030 forecast (ktoe, %)
+Source: EUROSTAT (2019a), INSTAT (2020a)
+Table 1 Total electricity system losses, 2014-2019
+√ 2014 2015 2016 2017 2018 2019
+Electrical losses (GWh) 2 783 2 196 1 986 1 876 1 783 1 653
+Electricity consumption (GWh) 7 794 7 265 7 094 7 440 7 639 7 614
+Losses/Consumption (%) 35.7% 30.2% 28.0% 25.2% 23.3% 21.7%
+Source: INSTAT (2020b)The injection of variable renewable energy poses 
+major challenges in Albania, particularly to the 
+distribution grid, as there is currently limited 
+capacity for the distribution grid to accommodate 
+this. According to a study done by OSHEE, the 
+injection of small hydropower generation in the 
+east of the country can increase distribution losses 
+to as high as 40% (compared to 15% losses with no 
+hydropower injection). 
+Most of Albania’s electricity consumption occurs 
+in the western part of the country. The eastern 
+part consumes around 35% but nevertheless hosts 
+most of the hydropower generation potential. 
+Such power evacuation suffers losses and poses 
+challenges to the current grid. A shift towards 
+non-hydro-based renewable generation close 
+to demand centres would be advantageous in 
+continued power sector development. 
+An immediate priority of OSHEE is to plan for 
+an active grid that can allow for electricity flow 
+bidirectionally, accommodate renewable energy 
+prosumers and focus on grid upgrades close to 
+renewable energy generation zones. Furthermore, 
+a priority for grid refurbishment is around 
+Tirana and Durrës, which account for 50% of the 
+country’s electricity consumption. According 
+to OSHEE’s estimates, investments worth 
+EUR 40 (Euros) million to EUR 80 million (about 
+USD  48  million to USD  96  million) are required 
+to refurbish the distribution network to better 
+handle variable renewable energy injection in the 
+immediate term (Lika, 2020).
+Nevertheless, electricity losses, although still high, 
+have decreased steadily over the last five years, 
+with gradual and ongoing improvements in grid 
+infrastructure.
+A 400  kV interconnection line is planned 
+to connect Albania to Northern Macedonia 
+(Fier  –  Elbasan  –  Bitola), which is anticipated 
+to further reduce transmission losses, improve 
+network capacity to facilitate new generation 
+connections, improve the reliability of the regional 
+network and support the development of the 
+regional market in South East Europe. The line is 
+under construction and is expected to be in place 
+by the end of 2021. Another crucial development to 
+reduce transmission network losses and improve 
+the supply of electricity of Durrës, Kavaja and the 
+southern part of Albania is the anticipated 220 kV 
+double circuit line between Tirana and Rrashbull. 
+A new 400/110 kV substation in Tirana, planned to 
+be constructed by the end of 2021, will also ensure 
+a more reliable supply of power for the Tirana area, 
+which is the largest demand centre in the country.
+OST control and monitoring (left) and model of the Tirana 2 substation (right)
+Photograph: Tijana Radojičić
+According to OSHEE’s 
+estimates, investments 
+worth EUR 40 million
+to EUR 80 million
+are required2.7 INSTITUTIONAL STRUCTURE
+The energy sector in Albania has a well-defined 
+set of institutions with clear responsibilities in 
+governing, regulating, operating and participating 
+in the sector.
+The Ministry of Infrastructure and Energy (MIE) is 
+responsible for the energy sector and is designated 
+to prepare, periodically review and update 
+the National Energy Strategy; develop energy 
+policies and mid-term and long-term strategies 
+for the energy sector; develop market reforms 
+in the sector to meet the national objectives and 
+comply with European Union (EU) directives; 
+formulate adequate legal framework; and promote 
+energy efficiency, renewable energy resources 
+and investments in the sector through enabling 
+investment environments.
+MIE is also responsible for granting authorisation 
+and concession rights for the construction of 
+power plants in Albania. Concessions are approved 
+by the Council of Ministers and undersigned by 
+the energy minister on behalf of the contracting 
+authority.
+The National Agency of Natural Resources 
+(AKBN) is under the supervision of MIE, and is 
+designated for the development and supervision of 
+rational use of natural resources, according to the 
+policies of the government. The agency monitors 
+the sustainable use and rehabilitation of natural 
+resources in mines, hydrocarbons and energy. In 
+addition, AKBN carries out analytical and technical 
+examinations of studies and projects; monitors the 
+implementation and operation of projects, such 
+as concessionary contracts for hydropower; and 
+compiles and publishes annual energy balance 
+sheets at the national and regional levels in 
+compliance with Eurostat and international energy 
+agency formats. AKBN provides energy data to 
+the National Institute of Statistics (INSTAT).
+The Energy Efficiency Agency is state-funded, 
+reports to the MIE and is responsible for the 
+preparation and monitoring of the implementation 
+of the National Action Plan for Energy Efficiency, 
+along with monitoring the implementation of 
+energy efficiency programmes in residential and 
+institutional building sectors, transport, industry, 
+and agriculture. The agency also undertakes 
+energy audits, provides certifications for energy 
+auditors and advises on the preparation of bylaws 
+that promote energy efficiency. 
+The Ministry of Tourism and Environment 
+is responsible for environmental protection; 
+safeguarding of protected areas, forests and 
+biodiversity; and climate change. The ministry 
+is responsible for approving the strategic 
+environmental assessments for any territorial or 
+sector-based plan approved under the law on 
+planning and development.
+The ministry is the co-ordinator of the interministerial body on climate change and nationally 
+determined contributions (NDCs) and the focal 
+point for the implementation of the United Nations 
+Framework Convention on Climate Change. 
+The National Environmental Agency functions 
+under the institutional framework of the Ministry 
+of Tourism and Environment and is responsible for 
+reviewing the environmental impact assessment 
+(EIA) process for projects under Law No. 10 440 on 
+“Environmental impact assessment”. According to 
+this law, all power projects including transmission 
+and distribution require an EIA prior to being 
+granted a construction permit. However, small 
+renewable power plants are only initially subjected 
+to a preliminary EIA which, upon review, the agency 
+may decide to further subject to an in-depth EIA.
+The Ministry of Agriculture, Rural Development 
+and Water Administration includes a national 
+Directorate for Administration of Water Resources 
+that oversees the sustainable management 
+of irrigation, drainage and flood protection; 
+improvement of the efficiency of water resources; 
+reduction of the risks of dam destructions; and 
+management of river and sea flooding. The ministry 
+issues all water use permits for hydropower 
+generation projects. 
+The Energy Regulatory Authority (ERE) is an 
+independent public body whose responsibilities 
+include regulating activities in the electricity and 
+natural gas sectors, developing and adopting 
+electricity market rules while also monitoring all 
+electricity market operations in Albania. ERE issues 
+licenses for electricity generation, transmission, distribution, supply and trade. Electricity producers 
+in Albania receive their approval of the grid codes 
+by ERE for their operations and connections to 
+the transmission and distribution networks. The 
+authority adopts electricity tariffs, including feedin tariffs (FiTs), to all eligible electricity producers 
+from renewable sources. ERE also defines the 
+standard purchase agreements of these producers.
+The Transmission System Operator (OST) performs 
+the roles of the transmission network operator, 
+power system operator and market operator. 
+OST’s role is to provide the necessary transmission 
+capacities for uninterrupted supply of electricity 
+to end users, for the transmission of electricity 
+generated from domestic sources, as well as for the 
+transit and exchanges with other countries in the 
+region through the European Network Transmission 
+System Operators for Electricity (ENTSO-E). It 
+also co-ordinates the development of network 
+interconnections with neighbouring countries, 
+dispatches power system facilities, manages power 
+flows, acquires and utilises ancillary services if 
+necessary, and co-ordinates parallel operation with 
+other systems.
+In accordance with the 2019 Electricity Sector Law, 
+OST has taken gradual steps in the creation of a 
+competitive free market for electricity in Albania, in 
+compliance with Energy Community Secretariat 
+(EnC) obligations and EU Energy Acquis. As such, it 
+has spun-off the electricity market operator,
+Albania Power Exchange (ALPEX), which was 
+registered on 23 October 2020. ALPEX is a standalone independent company owned by OST and the 
+Kosovo*
+ transmission system operator, KOSST 
+(57.25% and 42.75%, respectively). It will operate 
+the Day-Ahead and Intra-Day markets of both 
+Albania and Kosovo.*
+The Albanian Power Corporation (KESH) is both 
+a public electricity generation company and the 
+largest producer of electricity in Albania. KESH 
+administers and controls the Drin River cascade of 
+HPPs (Fierzë, Komani and Vau I Dejës) with total 
+installed power of 1 350  MW. The corporation is 
+undergoing a progressive transformation from a 
+monopoly into one of the country’s largest power 
+generation companies operating in a liberalised 
+market.
+The Electricity Distribution System Operator 
+(OSHEE) is responsible for the maintenance and 
+operation of the distribution system below 35 kV 
+and provides electricity supply to all consumers 
+connected to its network. The operator is obliged 
+to connect all consumers and/or producers to 
+the distribution system in a transparent and nondiscriminatory way. In March 2018, OSHEE was 
+unbundled, establishing three new companies: 
+the Universal Service Supplier, the Free Market 
+Supplier and the Distribution System Operator. 
+Distributed power producers sell their power to 
+the Free Market Supplier.
+* The designation of Kosovo is without prejudice to positions on status and the United Nations Security Council Resolution 1244 (1999).3.1 RESOURCE POTENTIAL AND MARKET 
+DEVELOPMENT
+Albania is endowed with valuable natural resources, 
+including abundant renewable energy potential. 
+Hydro
+Hydropower dominates Albania’s 
+electricity sector with 2 096  MW of 
+installed capacity at the end of 2018, 
+representing 95% of total installed 
+power generation capacity.
+The River Drin alone generates about 90% of 
+Albania’s domestic electricity supply. Of the 
+total installed hydro capacity, large hydro power 
+plants (more than 10 MW) account for 1 904 MW, 
+while small hydro power plants (less than 10 MW) 
+account for 192 MW (EnC, 2019). 
+As of 2018, the total installed capacity of 
+hydropower amounted to just under half (47%) of 
+estimated hydro potential capacity. According to 
+AKBN’s estimates, total hydro potential capacity 
+is estimated at 4 500  MW, with an estimated 
+annual output potential of up to 18 TWh (National 
+Agency of Natural Resources of Albania, 2019). 
+However, climate change is already having an 
+adverse effect on hydropower production, which 
+is likely to continue in the future. By 2050, annual 
+average electricity output from Albania’s large 
+HPPs could decrease by about 15% and from small 
+HPPs by around 20% compared to 2010 levels 
+(Ebiger, 2010). IRENA’s 2020 study for the South 
+East Europe region, Renewable energy prospects 
+for Central and South-Eastern Europe energy 
+connectivity (CESEC),  estimates that in fulfilling 
+an overall 48% renewable energy share of the 
+3. RENEWABLE ENERGY SECTOR
+OVERVIEW
+IRENA’s Renewable energy prospects for Central and South-Eastern Europe energy connectivity 
+(CESEC) estimates the potential for an accelerated renewable energy scenario beyond current trends 
+and policies, by 2030. The analysis covers all aspects of the energy system, including energy supply 
+(both power and district heat generation) as well as energy supply in key sectors such as residential, 
+industry and transport. It focuses on possible technology pathways, assessing technology, sector 
+and system costs; investment needs; externalities relating to air pollution and climate; carbon dioxide 
+(CO2
+) emissions; and economic indicators such as employment and economic growth to derive a 
+scenario of renewable energy options, per technology, which could be deployed by 2030. 
+· Solar thermal
+ in buildings
+· Electric vehicles
+· Hydro power
+· Solar power
+· Wind power
+· Electric heat pumps
+· Renewable district heat
+· Solar thermal in industry
+· Biomass in industry
+· Biomass in buildings
+· Biomass and biogas
+ in power generation
+· Liquid biofuels.
+Additional REmap Options
+Strong
+cost savings
+Moderate
+cost savings
+Additional
+cost
+Strong cost savings Moderate cost savings Additional cost
+2015-2030
+Reference Case
+16% 17% 18% 19% 20% 21% 22% 23% 24% 25% 26% 27% 28% 29% 30% 31% 32% 33% 34%gross final energy consumption, the total installed 
+capacity of hydro by 2030 is targeted at 2 150 MW. 
+In other words, no further hydropower capacities 
+are proposed by 2030 in addition to existing plans.
+However, by the end of 2018, a total of 185
+concession contracts were signed for the 
+construction of 525 small HPPs nationwide. 
+Of these, 165 are in production, 316 are under 
+construction and the rest are obtaining the 
+necessary permits (MIE, 2019). By the end of 
+2020, 184 MW of hydropower capacity was added 
+with the commissioning of the newly constructed 
+Moglica HPP. This is the largest independent power 
+producer plant in Albania (Cela, 2020).
+Solar
+At the end of 2018, 10  MW of solar 
+PV was connected to the grid (EnC, 
+2019). According to the MIE, since the 
+introduction of the solar FiT support 
+scheme, 88 applications for the construction of 
+solar PV plants of up to 2 MW have been received, 
+and 12 of the applications have been authorised for 
+construction, which amount to a total capacity of 
+24 MW. 
+Following the first auction for solar PV, in November 
+2018, 50  MW of solar PV was approved for 
+construction under a Contract for Difference (CfD) 
+support scheme. An additional 50 MW will be built 
+by the same developer without a support measure 
+(MIE, 2019). However, the power purchase 
+agreement (PPA) for this project has not been 
+signed. Following another auction round in January 
+2020, a further 140  MW of solar will be built in 
+Karavasta, near the city of Fier, of which 70 MW 
+will be supported through a PPA with the off-taker 
+at EUR 24.89/MWh (USD 29.37/MWh),
+2
+ while the 
+rest will be sold at market price. Subsequently, the 
+PPA for this project was signed in November 2020. 
+The latest auction bidding round was launched at 
+the end of 2020 for the construction of a 100 MW 
+solar PV plant in Durrës with a price ceiling of 
+EUR 55/MWh (USD 64.9/MWh).2
+Estimated solar thermal installations in Albania 
+amounted to 176 000  square metres (m2
+) of 
+solar water heating capacity, which is equivalent
+2 Average exchange rate in 2018: USD 1.18 per EUR (www.macrotrends.net/2548/euro-dollar-exchange-rate-historical-chart).
+to 123  MW of nominal thermal capacity, by the 
+end of 2015 (UNDP, 2017), the most recent official 
+documentation of the installed capacities. Of this 
+installed capacity, 90% are flat-plate collector 
+systems, while 10% are evacuated tube collectors. 
+As shown in Figure 8a, Albania has outstanding solar 
+insolation within most of its territory at more than 
+1 500 kWh/m2
+ annually, with highs of 1 753 kWh/m2
+annually, particularly in the western part of the 
+country. The country has some of Europe’s highest 
+number of sunshine hours per year, presenting 
+significant potential for development of solar PV 
+for power generation and solar thermal for heating 
+purposes. On average, the country enjoys 220 
+sunshine days, or 2 700 hours of sunshine per year. 
+According to IRENA’s study on the cost-competitive 
+renewable energy potential in South East Europe, 
+Albania’s technical potential for the deployment of 
+solar PV is estimated at 2 378 MW, with production 
+of 3 706  GWh annually (IRENA, 2017a). IRENA’s 
+CESEC study proposes in its REmap scenario a 
+solar PV installed capacity of 1 074 MW by 2030, 
+with annual generation potential of 1 697  GWh. 
+Figure  8b shows suitable areas for solar PV 
+development and highlights zones of highest 
+potential for development in Albania. These zones 
+are assessed by combining resource potential 
+with protected areas, land use, topography, 
+population growth and proximity to transmission 
+lines and are ranked by scores between 0% and 
+100% – identifying the degree of the feasibility of 
+an area to host a utility-scale solar PV project.
+With regard to solar thermal, a study undertaken 
+by the United Nations Development Programme 
+(UNDP)/Global Environmental Facility (GEF) 
+Solar Water Heating (SWH) project estimated 
+that the potential for installing SWH systems in 
+public buildings alone amounts to 200 000 m2
+ of 
+collector area. Such installations would collectively 
+correspond to some 100 GWh of electricity savings 
+per year, which would otherwise have been used 
+for the buildings’ various sanitary hot water 
+needs (UNDP, 2017). SWH systems have immense 
+potential to alleviate increased electricity demand 
+for water heating, especially in the peak summer 
+months.< = 1 100
+1 100-1 200
+1 200-1 300
+1 300-1 400
+1 400-1 500
+1 500-1 600
+1 600-1 700
+> 1 700
+* The designation of Kosovo is without
+ prejudice to positions on status and
+ the United Nations Security Council
+ Resolution 1244 (1999).
+kWh/m2
+19°E
+42°N
+40°N
+42°N
+40°N
+20°E 21°E 22°E
+19°E 20°E 21°E 22°E
+Bosnia and Herzegovina
+Croatia
+Montenegro Kosovo*
+Greece
+North Macedonia
+Italy
+Albania
+Serbia
+0 25 50 km
+Figure 8a Albania’s annual average Global Horizontal Irradiance
+Source: Global Solar Atlas (ESMAP, 2017)
+Note: Also available on the IRENA Global Atlas for Renewable Energy web platform.
+Disclaimer: Boundaries and names shown on this map do not imply any endorsement or acceptance by IRENA
+10
+20
+30
+40
+50
+60
+* The designation of Kosovo is without
+ prejudice to positions on status and
+ the United Nations Security Council
+ Resolution 1244 (1999).
+Scores (%) Zones
+19°E
+42°N
+40°N
+42°N
+40°N
+20°E 21°E 22°E
+19°E 20°E 21°E 22°E
+Bosnia and Herzegovina
+Croatia
+Montenegro Kosovo*
+Greece
+North Macedonia
+Italy
+Albania
+Serbia
+0 25 50 km
+Figure 8b Suitable areas for solar PV development and zones with highest potential
+Source: Base map (OpenStreetMap); Suitability scoring and areas (IRENA)
+Disclaimer: Boundaries and names shown on this map do not imply any endorsement or acceptance by IRENAWind
+Albania currently has no installed wind 
+power plants. However, according to the 
+MIE, since the introduction of the wind 
+FiT support scheme, 70 applications 
+for the construction of wind plants up to 3  MW 
+have been received. Of these, three have been 
+authorised for construction with a total capacity 
+of 9 MW which qualify for FiT support (MIE, 2019). 
+At the end of 2020, a 150  MW wind tender was 
+launched, restricted to projects with a minimum 
+capacity of 30 MW and a maximum capacity of 
+75 MW. Each successful bidder will sign a 15-year 
+PPA for the sale of 100% of electricity generated 
+through the CfD support mechanism (MIE, 2020).
+As shown in Figure  9a, annual average wind 
+speeds in Albania range between 3.3 metres per 
+second (m/s) and 9.6  m/s. The most suitable 
+areas for wind power production, with capacity 
+factors typically varying from 22% to 25%, have 
+annual average values ranging between 5.8  m/s 
+and 7  m/s. According to IRENA’s estimates, 
+Albania has a cost-competitive wind potential 
+of up to 7 400  MW under the low-cost capital 
+scenario3
+ (IRENA, 2017a). IRENA’s CESEC study 
+proposes in its REmap scenario a wind installed 
+capacity of 616  MW by 2030, with an annual 
+generation potential of up to 1 794 GWh (IRENA, 
+2020a). Figure  9b shows suitable areas for wind 
+development and highlights zones of highest 
+potential for development in Albania. These zones 
+are assessed by combining resource potential 
+with protected areas, land use, topography, 
+population growth and proximity to transmission 
+lines and are ranked by scores between 0% and 
+100% – identifying the degree of the feasibility of 
+an area to host a utility-scale wind plant project. 
+According to IRENA’s assessments, the highest 
+potential zones for wind power development are 
+in the south and north of the country.
+In 2017, IRENA, together with the Joanneum Research Institute 
+in Graz and the Faculty of Engineering at the University of 
+Ljubljana, undertook a study, Cost-competitive renewable power
+generation: Potential across South East Europe. The study carried 
+out a systematic assessment of the overall renewable power potential 
+in the South East Europe countries that are Contracting Parties to the 
+Energy Community Treaty. The assessment included the potential 
+for hydropower, wind, solar PV, geothermal and biomass resources. 
+The publication’s aim is to inform the region regarding the potential 
+and costs for developing renewable energy options.
+3 The low-cost capital scenario is characterised by the weighted average cost of capital (WACC) at 8%.< = 5
+5-6
+6-7
+7-8
+8-9
+9-10
+> 10
+* The designation of Kosovo is without
+ prejudice to positions on status and
+ the United Nations Security Council
+ Resolution 1244 (1999).
+m/s
+19°E
+42°N
+40°N
+42°N
+40°N
+20°E 21°E 22°E
+19°E 20°E 21°E 22°E
+Bosnia and Herzegovina
+Croatia
+Montenegro Kosovo*
+Greece
+North Macedonia
+Italy
+Albania
+Serbia
+0 25 50 km
+Figure 9a Albania’s annual average wind speeds at 100-metre hub-height
+Source: Source: Global Wind Atlas 1.0 (DTU, 2015)
+Note: Also available on the IRENA Global Atlas for Renewable Energy web platform. 
+Disclaimer: Boundaries and names shown on this map do not imply any endorsement or acceptance by IRENA
+10
+20
+30
+40
+50
+60
+70
+* The designation of Kosovo is without
+ prejudice to positions on status and
+ the United Nations Security Council
+ Resolution 1244 (1999).
+Scores (%) Zones
+19°E
+42°N
+40°N
+42°N
+40°N
+20°E 21°E 22°E
+19°E 20°E 21°E 22°E
+Bosnia and Herzegovina
+Croatia
+Montenegro Kosovo*
+Greece
+North Macedonia
+Italy
+Albania
+Serbia
+0 25 50 km
+Figure 9b Suitable areas for wind power development and zones with highest potential
+Source: Base map (OpenStreetMap); Suitability scoring and areas (IRENA) 
+Disclaimer: Boundaries and names shown on this map do not imply any endorsement or acceptance by IRENA.Geothermal
+Albania is in the very early stages of 
+geothermal assessment. However, 
+similar to other South East European 
+countries, low-enthalpy geothermal 
+energy resources are available in Albania. 
+Maximum temperatures of up to 80°C (degrees 
+Celsius) can be found in the south of the country 
+bordering Greece and in the northeast. The 
+majority of Albania’s geothermal resources are 
+located in the Kruja Geothermal Area, which 
+extends from the Adriatic Sea in the north of 
+Albania and runs in a southeastern direction 
+through the country towards the Konitza area in 
+Greece. Within this zone in carbonate reservoirs 
+lies an estimated geothermal energy potential of 
+5.9x108-5.1x109
+ gigajoules (Frasheri, 2015). Due to 
+the low-enthalpy resource, geothermal potential 
+for power production is not likely and would mostly 
+be exploited in heating applications. 
+Biomass
+Albania’s biomass use is largely firewood 
+utilised for various heating applications. 
+For the production of biofuels, Albania 
+has an operating plant that has total 
+capacity to produce 100 kilotonnes (approximately 
+112 million litres) of biofuels annually. According to 
+some estimates, this plant can produce close to the 
+10% biofuel blending targets by volume if operated 
+at full capacity. However, this plant operates at
+10-15% of full capacity on average (Karakaci, 2016).
+According to IRENA’s CESEC study, biogas and 
+biomass power production could reach 86  MW 
+(495  GWh annually) by 2030, while liquid biofuels 
+are estimated to be able to meet 8% (4 petajoules) of 
+the transport fuel demands by 2030 (IRENA, 2020a).
+3.2 POLICIES AND REGULATION
+As a Contracting Party of the Energy Community 
+Treaty, Albania is obligated to transpose and 
+implement the EU Directive 2009/28/EC “On the 
+promotion of the use of energy from renewable 
+sources”. In 2017, Albania adopted Law 7/2017 
+on Renewable Energy, partially transposing the 
+EU directive. The law sets out the adoption of the 
+National Renewable Energy Action Plan (NREAP), 
+which, among others, sets forth the targets for 
+the share of renewable energy in the total energy 
+consumption of the country, including electricity, 
+transport, and heating and cooling. Furthermore, 
+it stipulates policies and support measures for the 
+achievement of such targets. NREAPs are updated 
+every two years, and the latest was adopted in 
+September 2019 as a consolidated Action Plan for 
+the years 2019-2020. This action plan superseded 
+the previous NREAP for 2018-2020 by reducing the 
+targets for hydropower production and increasing 
+targets for solar and wind in an effort to diversify 
+the energy mix through penetration of wider 
+renewable energy technologies. Going forward, 
+the NREAP will be superseded by the National 
+Energy and Climate Plan (NECP), which is still to 
+be developed, and will set out renewable energy 
+targets to 2030.
+The NREAP 2019-2020 set an overall target of 
+38% for the renewable energy share of final 
+energy consumption by 2020. This overall target 
+was forecast to be achieved with a total additional 
+installed renewable power capacity of 738 MW, with 
+the following technology-specific targets: 57 MW 
+of hydropower, 490  MW of solar PV, 150  MW of 
+wind and 41 MW of waste-to-power, which have not 
+been achieved entirely. In the heating and cooling 
+sector, no renewable energy deployment targets 
+were set. In the transport sector, the NREAP aimed 
+for 3% of energy consumption to be supplied by 
+locally sourced biofuels, amounting to 20 ktoe in 
+2020 (Government of Albania, 2019).
+In relation to the transport sector’s energy 
+supply, a law was introduced for the production, 
+transportation and trade of biofuels and other 
+renewable fuels for transport (Law 9876/2008). 
+A law was also introduced to establish a binding 
+biofuel blending target of 10% by volume of fuel 
+oil consumed. This target is imposed on wholesale companies that trade oil by-products. The NREAP 
+target thus falls short of the targets set out in 
+legislation. Furthermore, sustainability criteria for 
+the use of biomass and biofuel are still not in place.
+In 2018, Albania adopted its National Energy 
+Sector Strategy, which examined various energy 
+development scenarios and set forth a series of key 
+indicators and objectives that will shape Albanian’s 
+energy sector over the period from 2018 to 2030 
+(Table  2). Most notably, the strategy stipulated 
+a 42% share of renewable energy in the TPES
+by 2030.
+In Albania, renewable energy sources are supported 
+through the following support mechanisms (RES 
+Legal, 2020).
+► Feed-in tariffs
+FiTs are provided to eligible small-scale renewable 
+energy power plants which include wind energy 
+plants up to 3 MW, HPPs up to 15 MW, and solar 
+PV plants up to 2 MW. The unbundled subsidiary 
+of the distribution system operator, OSHEE/
+free market supplier (i.e., off-taker) is obliged to 
+purchase renewable energy power generated by 
+eligible power plants at a tariff set by the regulator 
+and is granted for 15 years. The tariff is defined by 
+the regulator by assuming a reasonable return on 
+investment.
+After technical and economic evaluation of 
+the proposed power plants, EIAs, water usage 
+permission (in case of hydro), and permissions 
+from the transmission system operator and 
+distribution system operator, the regulator grants 
+the licence for power production. Once licenced, 
+the renewable energy producer draws up a PPA 
+with the off-taker. 
+As discussed in Chapter  3, Section 1, since 
+the introduction of the FiT schemes, 12 of 88 
+applications for the construction of solar PV up 
+to 2  MW have been authorised for construction, 
+while 3 of 70 applications have been authorised 
+for the construction of wind plants up to 3  MW 
+(MIE, 2019). The main reason for the low success 
+of applications is due to inadequate supporting 
+documentation, such as insufficient technical and 
+economic feasibility assessments.
+Table 2 Overview of 2030 energy strategy objectives
+Table 3 FiT per MWh production in 2017
+Description Baseline in 2015 Objective target by 2030
+Losses in the electricity distribution network 31.4% 10%
+Losses in the electricity transmission network 2.2% 1.7%
+Electricity payment collections 90% 98%
+Share of domestic primary energy sources in the TPES 47.5% 52.4%
+Share of renewable energy sources in the TPES 32.5% 42%
+Share of biofuels in total energy consumption in transport 3.5% 10%
+Technology FiT
+FiT hydropower up to 15 MW ALL* 7 448/MWh (~EUR 55.51/MWh; USD 65.5/MWh)
+FiT solar PV up to 2 MW EUR 100/MWh (~USD 118/MWh)
+FiT wind up to 3 MW EUR 76/MWh (~USD 89.68/MWh)
+Source: MIE (2018b)
+*ALL = Albanian lek
+Source: ERE (2019) ► Premium tariff/CfD
+Larger renewable energy power plants whose 
+installation capacities are above those set for FiT 
+eligibility are eligible for a premium tariff or CfD. 
+The tariff is determined through competitive 
+bidding/auction. The auction terms and conditions 
+are approved by the Council of Ministers, who may 
+choose to limit certain technologies in the tender 
+due to criteria such as network connection costs 
+or resource diversification. According to the 2017 
+renewable energy law, the CfD is foreseen to have 
+a duration of 15 years. Producers will be able to 
+sell the electricity in the market and receive the 
+variable difference between the auction price and 
+the electricity market price (currently based on the 
+Hungarian power exchange price) as a support 
+measure. An important detail to underline is that 
+if prices in the electricity market go up and are 
+higher than the auction price, renewable power 
+producers will be obliged to bear the difference. 
+Albania was one of the first countries in the 
+South East European region to hold an auction 
+for renewable energy producers. As discussed 
+in Chapter  3, Section 1, the first auction bidding 
+round was launched in 2018 whereby the winning 
+bidder was to construct a 100 MW solar PV plant. 
+Half of the plant’s generation would be eligible 
+for a 15-year CfD tariff of EUR  59.9 per MWh
+(~USD 70.68 per MWh), and the other half would 
+be sold at market price. The second auction 
+bidding round was launched in 2020 for a 140 MW 
+solar PV plant in Karavasta, whereby half of the 
+installed capacity would be eligible for a CfD tariff 
+of EUR 24.89 per MWh (~USD 29.37 per MWh), as 
+determined by the winning bidder, and the rest 
+would be sold at market price (PV Magazine, 2020). 
+The latest auction bidding round was launched at 
+the end of 2020 for the construction of a 100 MW 
+solar PV plant in Durrës, of which 70 MW will be 
+eligible for CfD with a price ceiling of EUR 55 per 
+MWh (~USD 64.9 per MWh).
+► Net-metering scheme
+Private households and small and medium-sized 
+enterprises with wind and solar installations of 
+up to 500  kW are eligible to net-meter their 
+renewable energy production with their electricity 
+consumption. The metering is done on a monthly 
+basis and surplus electricity can be sold to the 
+service provider and remunerated according to a 
+price set by the regulator. The Albanian government 
+expects this programme to enable the deployment 
+of 200  MW of PV over an unspecified period of 
+time (PV Magazine, 2019).
+► Customs and excise tax exemptions
+Machinery and equipment used for the 
+construction of energy power plants (nonrenewable and renewable energy technologies) 
+are exempted from custom duties. The fuels used 
+by electricity producers are also eligible for excise 
+tax exemption. However, a tax exemption does not 
+apply for solar thermal systems or for renewable 
+energy measuring equipment such as wind masts. 
+Furthermore, a 20% value-added tax (VAT) is 
+applied on all equipment, machinery and fuels, 
+except in cases of imported solar PV machinery and 
+equipment valued above ALL 50 million (Albanian 
+lek; USD 487000) and for project capacities above 
+500 kW (Deloitte, 2018).
+3.3 ECONOMICS OF RENEWABLES
+In Albania, renewable energy incentives such 
+as the fixed tariffs for renewable electricity sale
+(i.e., the difference between the market price and 
+FiT or the CfD) are borne by electricity consumers 
+through a renewable energy levy within the 
+consumer electricity tariff. Notably, this obligation 
+is borne exclusively by consumers connected to 
+the distribution grid. As such, end-consumers 
+connected directly to the transmission system, 
+such as large industries, do not contribute. Tax 
+breaks on renewable energy equipment are borne 
+directly by the state.
+Albania offers one of the lowest levelised cost of 
+electricity (LCOE) of hydropower in the South East 
+Europe region, starting from an average of EUR 35/
+MWh (USD 41.3/MWh) (IRENA, 2017a). The LCOE 
+for non-hydro renewable energy power generation 
+is highly sensitive to the cost of capital, specifically 
+the weighted average cost of capital (WACC). This 
+depends on factors such as type of technology, 
+place of investment, type of investor, whether 
+concessional instead of commercial loans are used, 
+risk profile and general economic conditions in 
+the country. The role of financial institutions that 
+provide preferential loans is effectively important in renewable investments and driving down the cost 
+of capital. Nonetheless, in a relatively conservative 
+scenario with a 10% WACC, Albania’s solar PV 
+generation potential is one of the region’s most 
+cost-effective. According to IRENA’s 2017 study 
+Cost-competitive renewable power generation: 
+Potential across South East Europe, the average 
+LCOE for solar PV in Albania was estimated to 
+reach less than EUR  50/MWh (USD  59/MWh)
+by 2050 (IRENA, 2017a). The accelerated 
+decrease in PV technology costs is already 
+apparent, with the latest auction round bidding 
+in Albania at EUR 24.89/MWh (USD 29.37/MWh).
+Similarly, for wind, and as depicted in Figure  10 
+below, LCOE can reach well below EUR 50/MWh 
+(USD 59/MWh) by 2030. Due to Albania’s limited 
+biomass and geothermal potential for power 
+generation, these technologies are not considered 
+cost-effective for power development and would 
+be more suitable for thermal applications.
+LCOE (EUR/MWh)
+PV 2016
+0
+50
+100
+200
+300
+Average LCOE
+400
+350
+250
+150
+PV 2030 PV 2050 Wind 2016 Wind 2030 Wind 2050 Hydropower Biomass Geothermal
+Figure 10 LCOE ranges of renewable energy technologies in Albania 
+(using “medium” cost of capital: 10% WACC)
+Source: IRENA (2017a)Data in the IRENA Auction and PPA Database indicate that solar PV projects that have won recent auction and 
+PPA processes – and that will be commissioned in 2021 – could have an average price of around USD 0.039/kWh 
+globally. This represents a 42% reduction compared to the global weighted-average LCOE of solar PV in 2019 and 
+is more than one-fifth less than the cheapest fossil-fuel competitor, namely coal-fired plants. The auction and PPA 
+data indicate the average global price of electricity from onshore wind could fall to USD 0.043/kWh by 2021, down 
+18% from 2019. Offshore wind and concentrating solar power projects, meanwhile, are set for a step change, with 
+their global average auction prices set to fall 29% and 59% from 2019 values, respectively. With its longer lead 
+times, offshore wind is expected to fall to a global average of USD 0.082/kWh in 2023 (IRENA, 2020b).
+Box 1 Global weighted average LCOE and auction/PPA prices for renewable energy 
+technologies, 2010 to 2021/2023
+Auction database LCOE database
+0.378
+0.039
+0.346
+0.259
+0.075
+0.086
+0.043
+0.161
+0.082
+0.182
+2019 USD/kW
+0.0
+0.1
+0.2
+0.3
+0.4
+20102011201220132014201520162017201820192020202120102011201220132014201520162017201820192020202120102011201220132014201520162017201820192020202120102011201220132014201520162017201820192020202120222023
+Solar photovoltaic Concentrating solar power Onshore wind Oshore wind
+Note: For CSP, the dashed blue bar in 2019 shows the weighted average value including projects in Israel.
+Fossil fuel cost range
+Note: The thick lines are the global weighted average LCOE, or auction values, by year. The grey bands that vary by year are cost/price 
+range for the 5th and 95th percentiles of projects. For the LCOE data, the real WACC is 7.5% for OECD countries and China, and 
+10% for the rest of the world. The band that crosses the entire chart represents the fossil fuel-fired power generation cost range.4.1 THE IMPACT OF CLIMATE CHANGE
+Albania is one of the most vulnerable countries 
+to climate change in the South East European 
+region. Changing weather patterns have already 
+resulted in increased temperatures, decreased 
+precipitation, and more frequent extreme events 
+such as floods and droughts (World Bank, 2013). 
+Compared to 2019 levels, a decrease in annual 
+precipitation of 2.6% to 3.4% is expected by 2025 
+and of up to 6.3% by 2050. The greatest decrease 
+in precipitation is expected during summer, with 
+a 11.5% decrease by 2025 and a 23.2% decrease 
+by 2050 (World Bank, 2020a). Given that Albania’s 
+electricity system is largely reliant on hydropower 
+production, decreased precipitation levels will 
+adversely affect the generation output of existing 
+HPP installed capacities, especially in the summer 
+months. Compared to 2010 levels, by 2050 a 15% 
+decrease may be expected in the average annual 
+electricity generation from existing large HPPs, 
+while small HPPs are expected to have a 20% 
+decrease in generation output (Ebiger, 2010).
+Furthermore, compared to current levels, mean 
+annual temperatures across the country are 
+expected to rise by 1°C by 2025 and by 2.5°C 
+by 2050. In the summer months, the number of 
+very hot days (over 35°C) is expected to increase 
+by up to two days per year by 2025 (World 
+Bank, 2020a). As discussed in Chapter  2, due to 
+current rising temperatures, increasing demand 
+for cooling during the hottest summer months is 
+already increasing power demand, and this trend 
+is expected to continue. Given that hydropower 
+production in the summer months significantly 
+declines, the potential role of non-hydro power 
+renewable energy technologies is critical – 
+especially that of solar PV, which benefits from 
+the greatest production in summer months and 
+during the times of day when the greatest demand 
+for cooling occurs. Thus, investing in climateresilient renewable energy technologies for power 
+production is imperative in sustainably meeting 
+the demand of the energy sector. Moreover, the 
+adoption of renewable energy use, both in the 
+energy as well as the transport sector, is a crucial 
+component in achieving the targets of Albania’s 
+NDCs, particularly as the transport sector is one of 
+the country’s largest contributors to greenhouse 
+gas emissions. Under the NDCs, the country has 
+committed  to  reducing  CO2
+  emissions  by  11.5%, 
+compared to the baseline scenario,4 in the period 
+2016 to 2030. This amounts to 708 kilotonnes of 
+CO2
+ emission reduction in 2030. 
+4.2 SEASONAL VARIATION IN 
+HYDROPOWER GENERATION
+Hydropower generation in Albania is highly 
+seasonally variable. The highest amounts of 
+production occur in the winter season, when 
+over 90% of the annual precipitation falls. During 
+this period, on a monthly average, the country 
+produces a surplus of electricity, which is exported. 
+However, as of June, hydropower production 
+drops significantly and struggles to meet demand, 
+resulting in the need for electricity imports. 
+In 2018, the highest power production month, 
+March, produced five times more hydroelectricity 
+than the lowest production month, November. 
+This discrepancy has significantly increased over 
+the past decade, when on average the highest 
+production month was just over double the lowest 
+production month. Furthermore, despite the 
+additions of installed hydropower capacity, the 
+electricity system is still not able to meet demand 
+in the second half of the year, and the production 
+level during the last quarter of the year in 2018 
+4. RATIONALE FOR RENEWABLE ENERGY 
+DEVELOPMENT
+4 The baseline scenario of emissions projections is based on economic growth in the absence of climate change policies,
+starting from 2016.was well below the average of the ten-year prior 
+period. Thus, further hydropower installations 
+without better hydro reservoir management and 
+hydro risk-mitigation measures will not effectively 
+meet Albania’s energy security objectives.
+To significantly reduce this seasonal variation of 
+power supply and reduce the need for imports in 
+the future, non-hydro renewables such as wind 
+and solar PV should be prioritised. This would 
+enhance security of energy supply and reduce the 
+electricity deficit, especially in the undersupplied 
+second half of the year.
+4.3 RISING DOMESTIC DEMAND AND
+FUEL IMPORTS
+Albania’s biggest energy imports are fossil fuels 
+fuelling the transport sector’s energy demand. 
+In 2018, imported petroleum fuel was the single 
+biggest import expense, worth USD 190 290 million, 
+making it a significant contributor to the country’s 
+trade deficit (World Bank, 2020b). The transport 
+sector’s energy demands have been rising, and the 
+sector is projected to continue to be the largest 
+energy consumer over the coming decades.
+With this rising demand, given fluctuating oil 
+prices and strong import dependence, a move 
+towards greening the transport sector would 
+provide a more economical and environmentally 
+sound way to meet the sector’s energy demands. 
+This could be achieved by incentivising the use of 
+electric vehicles and enforcing mandatory biofuel 
+blending. A prerequisite for biofuel blending is 
+an established sustainability criteria that would 
+ensure an environmentally sound use of biomass 
+for energy. 
+Furthermore, given that 41% of agricultural land in 
+Albania lies fallow (Cela, 2018), inland potential for 
+sustainable local production of biofuels is worth 
+assessing. Developing this would benefit the 
+local economy and reduce the need for imports. 
+Additionally, electric mobility can support the 
+electricity sector’s development through load 
+peak shaving or load shifting, which offsets peak 
+loads to off-peak hours and alleviates overloading 
+of the grid. This in turn can reduce distribution 
+power losses, increase distribution power quality 
+and extend the lifetime of the power infrastructure, 
+while also reducing power generation costs 
+(Erdogan, Erden and Kisacikoglu, 2018). 
+Net domestic electricity production Electricity demand
+Jan Feb Mar Apr May Jun Jul Aug Sept Oct Nov Dec
+400
+0
+200
+600
+800
+1 000
+1 400
+1 200
+GWh
+DEFICIT
+SURPLUS
+Figure 11 Electricity production vs. demand, 2018
+Source: IRENA (2017a)4.4 SOCIO-ECONOMIC BENEFITS OF 
+RENEWABLE ENERGY
+The deployment of renewable energy contributes 
+to numerous socio-economic benefits for 
+communities and countries, including employment, 
+income generation, decreased air pollution, welfare 
+improvements and local industrial development 
+leading to increased GDP. According to IRENA’s 
+analysis, a typical 50 MW solar PV project requires 
+some 230 000 person days along the value chain, 
+as shown in Figure  12 (IRENA, 2017b). Although 
+some parts of the value chain are sourced from 
+outside of the country or require a renewablesspecific trained and certified workforce, much 
+of the workload  –  especially in transport and 
+construction – can be filled locally by the workforce 
+of existing industries, which can immediately 
+contribute to local employment and income 
+generation. With skilled local labour, specifically in 
+operation and maintenance as well as installation, 
+over 70% of the workforce can be sourced locally, 
+further enhancing local economies. Similarly, a 
+50  MW onshore wind farm requires 43% of its 
+workforce for operation and maintenance, which 
+can largely be locally sourced.
+While manufacturing of solar PV and wind energy 
+technology is concentrated in a limited number of 
+countries, solar thermal technology manufacturing 
+has gained momentum in Albania, with several 
+companies manufacturing system components 
+locally. Furthermore, such systems can have direct 
+economic benefits on individual users as they 
+offset their electricity consumption and reduce 
+monthly electricity bills.
+Project Planning
+Procurement Manufacturing Transport Installation Grid 
+Connection
+Operation and 
+Maintenance Decommissioning
+For a 50 MW PV plant
+TOTAL
+229 055
+person-days 1%
+22% 2%
+1%
+17% 56% 2%
+Project Planning
+Procurement Manufacturing Transport Installation Grid 
+Connection
+Operation and 
+Maintenance Decommissioning
+For a 50 MW wind farm
+TOTAL
+144 420
+person-days 2%
+17% 30% 43% 7%
+Figure 12 Employment impacts in the solar PV and wind value chain
+Source: IRENA (2017b)
+Electric vehicles as taxis in Tirana
+Photograph: Lorenc GordaniIn Albania, a typical solar water heating (SWH) system with a collector area of 3-4m2, a 150-200 litre water tank and 
+minimum operational lifetime of 15 years costs approximately USD 1 000, including installation. With 50% annual 
+efficiency, such a system could provide up to 2 640 kWh/year in mountainous regions such as Peshkopia and up to 
+3 600 kWh/year on the coastline in Saranda. An average household of four persons requires between 2 500 kWh 
+and 3 000 kWh for hot water annually. This demand could be fully supplied by the solar water system for seven 
+to eight months of the year, especially in the summer season, and may require minimal backup in colder months. 
+Based on RETScreen*
+ analysis for such a system, and provided it is well-dimensioned and installed, an approximate 
+three-year payback period can be achieved based on electricity savings alone (UNDP, 2017). 
+According to a market study undertaken by UNDP/GEF, close to 8 000 public buildings, including hospitals, 
+schools, dormitories and others, have the potential to install SWH systems for various sanitary hot water needs. The 
+potential for SWH installation in public buildings alone amounts to a collector area of approximately 200 000 m2
+, 
+corresponding to 100 GWh of electricity savings and some EUR 8 million (USD 9.6 million) annually (Rutanen, 2014).
+* RETScreen is a Clean Energy Management Software system for energy efficiency, renewable energy, and 
+cogeneration project feasibility and energy performance analysis.
+Box 2 Cost-effectiveness of solar water heating5.1 RENEWABLE ENERGY POTENTIALS
+AND PLANNING
+Harnessing renewable energy resources for 
+the development of the energy sector presents 
+economic, social and environmental benefits, but it 
+also poses various challenges for integration. These 
+challenges stem chiefly from the spatial localisation 
+to the sub-hourly, daily and seasonal variations of 
+the resource. These specificities of renewable energy 
+resource availability need to be well understood and 
+assessed so that they can be adequately harnessed 
+and integrated into the energy system.
+Based on this resource assessment, appropriate 
+planning is required prior to renewable resource 
+exploitation and integration to allow for the 
+continued optimal operation of the highly dynamic 
+energy sector. In other words, particularly in the 
+power sector, a well-assessed resource potential 
+and timely planning for variable renewable power 
+generation and grid infrastructure can minimise 
+technical disturbances to the grid and increase 
+the quality of energy supply while ensuring 
+economic viability for the power producer, the 
+system operators and the final consumers. 
+Proactive planning, based on techno-economic 
+resource potential, thus plays a crucial role in the 
+development of a robust energy sector.
+Action 1: Developing renewable energy zones
+The availability of renewable energy resources in 
+Albania for some renewable energy technologies 
+is less studied than for others. Given the country’s 
+hydropower history, hydropower potential has been 
+the most analysed resource; however, only the main 
+rivers have been studied to a greater degree. With 
+the increasing climatic changes that have caused 
+erratic hydropower generation in recent years, many 
+of the studies that have been carried out are now 
+outdated, and future projections of hydropower 
+generation potential remain understudied. For solar 
+and wind resources in Albania, economic potential 
+analysis and zoning are lacking. This hinders policy 
+development in setting achievable targets, the 
+appropriate sizing of solar and wind auctions, and 
+least-cost power system planning.
+Renewable energy zones can be defined as areas 
+of high-quality resource potential for power 
+development whose exploitation is environmentally 
+sound and technically and economically viable, and 
+which can be prioritised for development. These
+areas are also those that satisfy various 
+criteria – such as proximity to existing or planned grid 
+infrastructure, load centres, road networks, and other 
+existing and planned generation projects  –  while 
+avoiding environmentally protected areas or areas 
+which for other reasons may not be acceptable 
+for development. Such zones would inform policy 
+makers in setting technology generation targets 
+or auction sizing, and guide co-ordinated planning 
+of generation and transmission infrastructure. 
+Furthermore, renewable energy zones help to 
+attract investments by guiding potential project 
+developers to prioritised development areas, thus 
+providing more visibility into and certainty about 
+the development of the sector. This in turn reduces 
+risks in project development, pre-development 
+transaction costs and timeframes, and thereby the 
+project costs.
+As Albania focuses efforts on a more diversified 
+power generation mix, zoning for solar PV and wind 
+generation projects should be prioritised. Each 
+zone’s attributes, such as annual generation potential 
+and estimated LCOE production, can directly assist 
+policy makers in the development of the national 
+energy and climate plans. As a first step towards 
+a complete zoning assessment, IRENA’s potential 
+suitability analysis in Chapter  3, Section 1 of this 
+report can be used as a basis. AKBN, as the institution 
+in charge of gathering resource potential data, 
+should lead the development of a renewable energy 
+zoning study for solar and wind, in co-operation
+with the MIE and development partners.
+5. CHALLENGES AND
+RECOMMENDATIONSAction 2: Developing a comprehensive
+least-cost energy master plan
+Effective energy planning is a way of aggregating 
+various data pertaining to the energy sector and 
+beyond, such as renewable energy zoning, energy 
+resource potentials and historic statistical trends, 
+along with other qualitative and quantitative 
+information, into a clearly formulated and 
+evidence-based energy development pathway.
+A comprehensive plan allows for decision-making 
+processes as well as guiding of the sector’s 
+development in a coherent way. Furthermore, 
+energy planning offers clarity and visibility for 
+various energy stakeholders, including investors 
+and development partners who then can focus 
+their investments or programmes more effectively. 
+Planning is thus crucial in avoiding piecemeal 
+development approaches, ad-hoc decision making, 
+and contradictory investments and development 
+support.
+Albania’s energy sector is guided by its National 
+Energy Sector Strategy 2030, along with 
+the National Renewable Energy Action Plan
+2018-2020 and the Gas Master Plan. As much 
+as these documents set out a framework with 
+overall goals along with quantitative scenarios 
+and targets for the energy mix, a holistic 
+least-cost plan must be developed to aggregate 
+subsectoral plans and assess the accompanying 
+infrastructure needed to reach overall goals. 
+Specifically, this plan should guide when, where 
+and how investments in the energy sector should 
+be made. 
+These investments should include power 
+generation capacities, co-ordinated distribution 
+and transmission grid infrastructure developments, 
+and other related developments such as electric 
+mobility infrastructure or local biofuel production. 
+This can then also allow for decisions made at the 
+subsectoral level to be coherent with the overall 
+system plans and ensure an integrated approach 
+for energy sector development, which accounts 
+for supply and demand of energy through a leastcost principle, and without endangering system 
+stability or security. 
+Furthermore, such an integrated plan will 
+provide foresight into any accompanying policy 
+and regulatory measures that need to be put in 
+place or adapted to achieve the proposed plans 
+according to timelines. The planning department 
+of the MIE, along with the AKBN, are therefore 
+encouraged to take the lead on development of 
+a least-cost master plan for the Albanian energy 
+sector.
+Resource mapping is the first phase in formulating a cost-effective and renewable energy development. The 
+subsequent phase is the identification of renewable energy resource areas, commonly known as zoning, with 
+high potential for renewable energy development, reasonable proximity to the necessary infrastructure, and 
+low environmental and social impacts. Such identification would enable generation and transmission expansion 
+planning, which can reduce the risk of investing in renewable projects, support countries in making strategic 
+decisions, and secure sustainable sources of electricity generation.
+The suitability assessment is a geographic information system (GIS)-based multi-criteria decision-making process 
+that aims to find highly suitable areas for a utility-scale power plant deployment in a country. These areas are 
+assessed by combining renewable resources with protected areas, land use, topography, population growth, and 
+proximity to transmission lines. The output of this assessment is a suitability index map – comprising scores between 
+0% and 100% – identifying the degree of the feasibility of an area to host a solar or wind project.
+For each resulting zone, potential capacity, annual energy generation and storage capacity are calculated. These 
+zones are then ranked based on their corresponding surface, capacity factor, annual generation and distance to the 
+grid to identify the most favourable zones for project development.
+www.irena.org/globalatlas
+Box 3 IRENA’s tools and methodology for renewable energy zoningAction 3: Strengthening the distribution
+network
+As Albania moves towards a more diversified 
+renewable energy mix in its power system, the 
+distribution network will increasingly be the 
+backbone and determining factor of the scale 
+at which renewables are injected into the power 
+system. The current state of the distribution 
+network is not conducive for increased variable 
+renewable energy generation injection. The grid 
+suffers from overloading in high-demand centres, 
+such as in Tirana, posing serious obstacles to the 
+injection of distributed generation such as, for 
+example, solar PV net-metering systems. Further 
+plaguing the distribution grid are electricity losses, 
+which amounted to 23.3% of electricity supply 
+in 2018. According to distribution grid flexibility 
+studies carried out by OSHEE, the injection of 
+small hydropower alone can increase losses on the 
+current system up to 40%. As the power sector 
+works towards a more diversified generation mix, 
+further injection of renewables will place an even 
+greater strain on the grid unless immediate efforts 
+are mobilised to fortify the distribution grid.
+An immediate priority for OSHEE is the 
+refurbishment of the distribution grid around the 
+main load centres of Tirana and Durrës, which 
+account for 50% of electricity consumption. 
+Equally pertinent is planning for an active grid 
+that can allow for electricity flow bidirectionally, 
+accommodating renewable energy prosumers, 
+and focusing on grid upgrades close to planned 
+renewable energy generation zones so that power 
+can be effectively evacuated to the demand 
+centres. 
+This upgrading should also include the provision 
+of new equipment to ensure the safety of data, 
+distributed monitoring equipment to collect 
+information, and communication system overlay to 
+deliver the operations data to OSHEE (Mantooth, 
+2011). Carrying out further grid flexibility studies, 
+particularly based on renewable energy zones 
+and planned distributed generation projects, 
+would additionally guide further prioritised grid 
+strengthening needs in line with generation 
+expansion. According to preliminary estimates, 
+about EUR  40-80 million (USD  48-96 million) 
+in investments is required to refurbish the 
+distribution network to better handle variable 
+renewable energy injection in the immediate term. 
+Therefore, development partners active in the 
+development of the energy sector in Albania are 
+advised to focus available technical and financial 
+resources to support OSHEE in its ongoing efforts 
+in strengthening the distribution grid, particularly 
+with regard to priority areas in the immediate term.
+5.2 LEGISLATIVE AND REGULATORY 
+FRAMEWORKS
+The Renewable Energy Law in Albania has set out 
+the legal framework to facilitate the wider use and 
+deployment of renewables within the country’s 
+energy system, thereby striving to achieve national 
+targets for the share of renewables. This has seen 
+the deployment of various renewable energy 
+projects, increased investments and the setting up 
+of various enterprises offering related services. In 
+the immediate term, the development of renewable 
+energy targets beyond 2020 is needed. Plans are 
+already underway to develop the NECP, in which 
+such targets will be defined up to 2030. Apart 
+from target-setting, existing support mechanisms 
+for renewable energy deployment are to be 
+further strengthened, approval processes need to 
+be streamlined, and a dedicated renewable energy 
+agency should be established. Furthermore, 
+legislative and regulatory frameworks must be 
+reliable, transparent and credible, with changes 
+announced in a timely manner for future projects, 
+no unannounced changes for future projects and 
+no retroactive changes.
+Action 4: Strengthening support mechanisms 
+for renewable energy deployment
+Fiscal incentives  –  such as tax breaks, FiTs and 
+premiums – comprise one of the main supporting 
+mechanisms for attracting renewable energy 
+investments. Although Albania has made 
+progressive efforts in establishing various support 
+incentives for the greater uptake of renewables, 
+as discussed in Chapter 3, Section 3, these could 
+be further strengthened. Namely, although 
+import duties are waived for renewable energy 
+equipment, VAT could be reduced to incentivise 
+deployment. VAT is exempted in cases of imported 
+solar PV machinery and equipment valued aboveALL  50 million (USD  487 000) and for project 
+capacities above 500 kW (Deloitte, 2018). However, 
+in the domestic sale of equipment, especially for 
+systems below 500 kW, which are mainly used 
+for residential and institutional power production 
+and for all other renewable energy technologies, 
+a full 20% VAT is applied. In reducing overall 
+project costs for renewable energy investors, 
+and indirectly the costs of electricity production 
+and incentivised tariffs, a VAT reduction could be 
+applied on all machinery and equipment related 
+to all renewable energy technologies, including 
+measurement equipment for assessing renewable 
+energy potentials such as wind masts.
+There is a need for an improved methodology 
+for FiT calculation. Currently the support tariffs 
+are calculated based on the Hungarian power
+exchange (HUPEX) prices with added coefficients. 
+However, in ensuring the optimal amount of 
+incentivisation, a methodology is needed that 
+would ensure market approach under the Albanian 
+context and enable renewable power producers to 
+steadily enter into the market in competitive terms 
+at the end of the incentive scheme. 
+Furthermore, because final electricity consumers 
+contribute towards the financing of the FiT and 
+CfD support schemes, only customers connected 
+to the distribution system grid and who pay for 
+their electricity consumption to the distribution 
+system operator finance this contribution. Some 
+10-12% of electricity consumers are bypassed from 
+the renewable energy obligation, as they receive 
+their electricity through bilateral contracts with 
+the transmission system operator. 
+In advancing the development of the sector, the 
+renewable energy obligation would have to be 
+embedded into electricity pricing for non-tariff 
+consumers connected to the transmission system.
+Additionally, there is a need for various permitting and 
+approval processes for the generation of renewable 
+power to be streamlined to shorten development 
+timeframes, provide clarity and further incentivise 
+investments. The private sector entities installing 
+distributed renewable power systems in Albania 
+often report that improvements should be made 
+in the standardisation of application forms for grid 
+connection approval, and that the duration for such 
+approvals should be considerably shortened. Given 
+that the private sector bears the risk of connection 
+approval, prolonged duration times for approval affect 
+the operations and finances of enterprises. Therefore, 
+standardising approval processes for interconnection 
+is particularly important for distributed generation, 
+as this ensures that all systems that meet certain 
+technical and safety requirements can connect to the 
+distribution grid without unnecessary delay. 
+Action 5: Establishing a dedicated renewable 
+energy agency
+Although envisaged in the Renewable Energy 
+Law, Albania lacks a dedicated renewable energy 
+agency to inform the co-ordinated development of 
+renewables in line with national and international 
+obligations. Furthermore, given the dynamic 
+and fast-evolving renewable energy sector, 
+such an entity could be tasked with informing 
+the development of the energy sector based on 
+evidence-based tracking of resource potentials, 
+market trends and global best practices. The 
+overall objective should aim at informing timely 
+development of new infrastructure, human 
+resources and legislation with a view to meeting 
+future energy demands in a sustainable and leastcost development pathway for the country.
+The establishment of such an agency would be 
+an important step given the country’s aspirations 
+to develop the energy sector to include a greater 
+share of renewables. In fact, given the strong 
+inter-linkages between energy efficiency and 
+renewables, and to ensure operational cost 
+effectiveness, such an agency could be merged 
+with the existing Energy Efficiency Agency.
+The activities of the renewable energy agency 
+should be based on the envisaged mandate as 
+stipulated within Article 7 of the Renewable 
+Energy Law, and further include the following nonexhaustive list of duties:
+• keeping an updated registry of renewable 
+power producers and service providers, 
+including certified human resources such as 
+certified solar PV installers and energy auditors
+• collaborating with vocational training centres 
+and international partners on designing 
+training, certifications and capacity building 
+programmes in building a strong local human 
+resource• tracking the energy balance contributions 
+of all energy stakeholders, including power 
+generation of power producers, numbers of 
+installed distributed systems such as solar 
+PV and solar thermal, disaggregated energy 
+consumption data from all economic sectors 
+such as households, transport, industry and 
+agriculture, etc.
+• drafting timely assessments of the share of 
+renewables in the electricity, heating and 
+cooling, and transport sectors to be shared 
+with MIE, INSTAT and other international 
+organisations
+• monitoring the effectiveness and timely 
+implementation of the NREAPs and potential 
+energy sector master plans
+• assessing gaps and challenges in the continued 
+development of the sector and identifying 
+priority areas of support in a timely manner
+• studying market trends of renewables, global 
+best practices and the effectiveness of 
+implemented incentives and informing further 
+regulatory and policy measures accordingly
+• carrying out resource potential analysis and 
+pre-feasibility studies for renewable energy 
+resource development
+• providing transparent information on renewable 
+energy data, incentives and support measures, 
+energy sector development plans, permitting 
+procedures and other relevant information for 
+the public and private sector.
+In ensuring operational efficiencies, a funding 
+stream must be developed for the agency, 
+allowing for the bulk of the operational costs to 
+be unconstrained by national treasury limitations 
+or MIE budget allocation. For example, initial 
+funding for the establishment and the first years 
+of operation could be covered by development 
+funds, while subsequent funding could potentially 
+be provided from renewable energy contributions 
+in consumer energy tariffs, taxes on fossil fuel use, 
+as well as activities carried out within the entity’s 
+competence, such as field measurements for prefeasibility studies. 
+5.3 RENEWABLES IN END-USES
+Albania’s path towards a more diversified energy 
+mix requires an accelerated uptake of renewable 
+energy in end-use sectors such as transport, and 
+heating and cooling. The transport sector is the 
+country’s largest energy consumer, consuming 
+40% of the country’s primary energy supply, while 
+heating and cooling demand constitutes a large 
+share of the energy needs in the residential and 
+service sectors. Currently, the transport sector 
+is largely supplied with fossil fuels, while space 
+heating and cooling, as well as water heating, are 
+largely supplied with electricity and biomass. In 
+ensuring further adoption of renewables in the 
+end-use sectors beyond the 2020 horizon, actions 
+are required in the formulation of coherent enduse strategies and achievable target-setting based 
+on locally available resources.
+Action 6: Developing a strategy for a greener 
+transport sector
+Greening the transport sector constitutes the 
+uptake of biofuels blending and the introduction of 
+electric mobility, both of which have the potential 
+to offset the otherwise heavy fossil fuel use in the 
+transport sector. 
+E-mobility has the potential to positively contribute 
+to the balancing of the power system through 
+peak-load shaving, reducing distribution losses and 
+reducing air pollution. Nevertheless, the uptake 
+of electric vehicles in Albania is very low apart 
+from a small number of privately owned electric 
+vehicles and some electric fleets (taxis) in Tirana. 
+This is likely due to the fact that there are currently 
+no incentives or regulations that support their 
+uptake. Another impeding factor is that the critical 
+charging infrastructure for e-transport is scarcely 
+available, and charging stations are mainly found 
+in some places of central Tirana. There is therefore 
+a need to incentivise the uptake of electric 
+vehicles through import duty and tax exemptions, 
+for example. There is also an urgent need to 
+improve the charging infrastructure through the 
+incentivisation of private sector investments. In 
+reaping the full benefits of emobility, however, 
+incentives are needed for active demand-side 
+management, whereby the charging of vehicles 
+is encouraged during low-peak hours of the day.An overall energy strategy aiming at the 
+diversification of the transport sector should be 
+developed as a cross-sectoral collaborative effort 
+between the relevant public authority, which 
+foresees a collaboration between MIE and ERE, to 
+ensure a co-ordinated and coherent development 
+pathway for both the energy and transport sectors.
+Biofuels are transport fuels that include biodiesel 
+(which can be blended with conventional diesel 
+to be used in diesel vehicles), bioethanol (which 
+can be blended with petrol) and bio-methane 
+(which can be used in vehicles fuelled by natural 
+gas). Locally produced biofuels have the potential 
+to reduce Albania’s current dependence on oil 
+imports while improving air quality in urban centres 
+and diversifying agriculture and rural economies 
+(BioNETT, n.d.).
+In Albania, due to the lack of sustainability criteria 
+for biofuels and fuel quality requirements, the 
+current use of biofuels in the transport sector 
+cannot be considered as a renewable energy 
+source. Furthermore, local production of biofuels 
+in Albania is extremely low. This is despite a biofuel 
+law on mandatory blending and tax exemptions 
+for locally produced biofuels and raw materials. 
+Local biofuel production in Albania is currently 
+done by one plant that has the capacity to 
+produce approximately 112 million litres of biofuel, 
+which amounts to almost 10% of the fuel use in 
+transport by volume in 2015. Nevertheless, the 
+plant produces 10-15% of its capacity annually and 
+imports the vegetable oil raw material. Most of 
+the biofuel produced is exported to Italy. Uptake 
+in the domestic market is lagging due to a lack of 
+enforcement of the biofuel blending obligation and 
+the lack of sanctions for noncompliance on biofuel 
+blending on the part of fuel suppliers (MIE, 2016). 
+To advance the share of renewables in the 
+transport sector, biofuels sustainability criteria and 
+requirements on biofuel quality must be adopted. 
+Thereafter, the compliance with the criteria, as well 
+as compliance with mandatory biofuel blending, 
+needs to be enforced by delegated institutional 
+authorities. 
+Furthermore, to meet targets for more sustainable 
+sourcing and production of biofuels locally, the 
+country’s biomass potential must be assessed for 
+biofuel production. This is particularly essential 
+as 41% of agricultural land in Albania lays fallow 
+and unutilised. Nevertheless, such assessments 
+must be conducted in co-operation with the 
+Ministry of Agriculture and Rural Development. 
+If local production proves economically viable, 
+accompanying support incentives must be put 
+in place to stimulate investments while ensuring 
+demand through the implementation of mandatory 
+blending. 
+Action 7: Developing a heat bylaw
+Albania has much untapped potential for direct 
+renewable energy use in heating and cooling, 
+particularly in the residential and services sectors. 
+Unexploited renewable energy capacities lie in 
+the use of heat pumps, which are inadequately 
+accounted for in data reporting on the renewable 
+energy share. In fact, the contribution of 
+aerothermal, geothermal and hydrothermal heat 
+pumps is completely omitted in national statistics 
+and thereby also in the annual progress reports 
+in compliance with EU directives. Methodologies 
+must be introduced to account for the use of heat 
+pumps and how much this use contributes to the 
+renewable energy share in the heating and cooling 
+sector. 
+The current renewable energy law stipulates that 
+the NREAPs set out the measures to achieve the 
+national targets for renewable energy shares 
+in heating and cooling by 2020. However, a 
+dedicated heat bylaw is required to provide 
+for appropriate target-setting beyond 2020 for 
+various technologies for heating and cooling (such 
+as solar thermal, geothermal and heat pumps) 
+across the residential, services and industrial 
+sectors. Furthermore, the bylaw should provide 
+guidance on the mechanisms for the deployment 
+of heating technologies and methodologies for 
+their contribution to the renewable energy share. 
+Data must be collected on sales and use of such 
+technologies and reported regularly by AKBN and 
+INSTAT. Notably, the Law on Energy Efficiency and 
+the Law on Energy Efficiency in Buildings would 
+have a direct linkage to the heat bylaw, in that 
+energy efficiency measures play a complementary 
+role of reducing heating and cooling demand and 
+thus the sizing of systems.5.4 RENEWABLE ENERGY FINANCING
+The banking system in Albania is relatively liquid 
+and offers competitive annual interest rates of 
+around 5% in euros and somewhat higher in 
+local currency. Nevertheless, the participation of 
+the local financial sector in financing renewable 
+energy projects is extremely low. The majority 
+of energy investments in Albania have been 
+through foreign direct investment. Because 
+the local banking sector does not have a track 
+record of financing non-hydro renewables, 
+project proposals are appraised with much riskaversion. Private developers report that collateral 
+requirements in approving loans are oftentimes 
+valued at 150% of the loan, while project assets 
+are not valued as part of the collateral. In part, the 
+reasoning for the limited involvement of the local 
+banking system, and the increased perceived risk 
+in funding renewable energy projects, is rooted 
+in the recent bitter history of some hydropower 
+generation projects that have not complied with 
+various standards for environmental safeguarding. 
+In fact, this has deterred even development 
+finance institutions (DFIs) from further financing 
+hydropower projects. Furthermore, this has 
+provoked heightened scrutiny and increased the 
+risk perception about renewable energy project 
+proposals. The financing sector reports that 
+the lack of bankable renewable energy project 
+proposals is what is deterring financing in the 
+sector. 
+Overall, the South East Europe market is quite 
+fragmented, and the total amount of investment 
+based on national developments and individual 
+deals varies. Investors have been appealing to 
+governments to stabilise policy and regulatory 
+frameworks to boost the region’s renewable 
+energy investment. While private investors are 
+slowly entering the region’s renewable energy 
+market, public finance institutions still play a key 
+role in the investment landscape.
+One of the key issues – the high cost of capital – is 
+mainly due to two aspects of risk premiums that 
+are at play. The first aspect is the perception 
+that renewable energy projects are more capital 
+intensive and riskier than conventional energy 
+projects. The second is that investment risk is seen 
+to be higher in the region than in the rest of Europe 
+due to country-level political and off-taker risks, 
+which contribute substantially to the higher cost 
+of capital and add to the risk perception related to 
+PPAs exposed to local currency fluctuations.
+Increasing the use of PPPs between DFIs and 
+foreign and local financiers through blended 
+finance (on-lending, co-financing) and the issuance 
+of innovative instruments (e.g., green bonds) can 
+be beneficial. Public finance should also focus on 
+the provision of de-risking mechanisms as a tool to 
+lower risk premiums and leverage private capital. 
+Scaling up renewable energy investments can be 
+further encouraged through strengthening the 
+quality of renewable energy project proposals 
+as well as strengthening the capacities of local 
+financial institutions to include renewable energy 
+investments under existing asset lending. The 
+increased participation of local financial institutions 
+is needed for both the larger-scale and small-scale 
+projects including end-use sectors and will be 
+instrumental in supporting Albania’s renewable 
+energy development pathway. 
+Action 8: Facilitating financing of bankable 
+project proposals
+Along with the financial sector, public officials 
+also report that many renewable energy project 
+proposals received for FiT or during auction 
+bidding rounds are not approved and discredited 
+as “unbankable” due to the lack of thoroughly 
+developed supporting documentation on technical 
+and economic pre-feasibility assessments. The 
+private sector is thus urged to utilise openly 
+available tools and platforms, such as the Climate 
+Investment Platform (CIP), for developing bankable 
+project proposals and accessing financing.
+In supporting the private sector to access 
+financing, public institutions play a critical role 
+in ensuring the streamlining of procedures; 
+establishing safeguarding policies; and 
+standardising project documentation, 
+contracting and due diligence. Strict monitoring 
+of project compliance with various standards and 
+safeguards is crucial in reducing the perceived 
+risk of investments. Therefore, thoroughly 
+developed PPAs are a key element in de-risking investments in renewable energy projects. These 
+agreements govern the sale and purchase of 
+power between the private power producers 
+and OSHEE, creating long-term clarity on roles, 
+responsibilities, costs, revenues, standards and 
+the associated risks of the projects. In Albania, 
+standardising PPAs according to best practice 
+for each renewable energy technology, and 
+including specific clauses on safeguarding 
+policy, can offset some of the perceived risk in 
+project appraisal by financing institutions. IRENA 
+and Terawatt Initiative’s Open Solar Contracts 
+platform provides support for streamlining 
+project development and finance processes by 
+offering simple and universally applicable legal 
+agreements that make contracting much faster 
+and less costly.
+Apart from financing large-scale power projects, 
+local financial institutions are expected to play 
+an increasingly crucial role in financing smallerscale distributed systems. The local banking 
+sector is therefore required to build its capacities
+and better understand the technology and financial 
+frameworks for deploying such systems and 
+products, and design specific financing products 
+accordingly.
+The financing of such systems can frequently 
+be incorporated under existing asset financing 
+portfolios. For example, lending for electric 
+vehicles can be incorporated under conventional 
+vehicle loans, with minimal tailoring, albeit with 
+increased loan tenors. Similarly, housing loans 
+can incorporate rooftop solar PV systems, energy 
+efficiency measures or efficient heat pumps. 
+Nevertheless, such measures are most effectively 
+encouraged through the establishment of onlending credit lines from DFIs. An example of this is 
+the EU’s EUR 6 million (USD 7.2 million) in funding 
+given to Albania’s Union Bank to finance energy 
+efficiency measures (EBRD, 2018). Such measures 
+can strengthen the capacities of the local banking 
+sector in financing renewables, and experiences 
+of this need to be shared among members of the 
+Albanian Association of Banks.
+The Climate Investment Platform (CIP) is a global initiative supported by IRENA, the United Nations Development 
+Programme (UNDP) and Sustainable Energy for All (SE4All), in co-operation with the Green Climate Fund (GCF). 
+The CIP’s objective is to step up climate action and translate ambitious national climate targets into concrete 
+investments on the ground. While initially focused on energy transition, the ultimate goal of the initiative is to 
+accelerate investments in renewable energy and enable the success of the NDCs.
+The platform offers an avenue to strengthen existing collaboration and presents an opportunity to consider new 
+ways for more effectively bringing together stakeholders to catalyse action, all within existing institutional structures 
+and in line with the respective mandates of the partner organisations. In this context, investment forums, a key 
+element of IRENA’s strategy to facilitate investments in renewable energy, offer an effective organising framework 
+for the implementation of the CIP through a sub-regional approach. 
+The sub-regional forums have two main aims: to strengthen the ability of decision makers to build a strong enabling 
+environment for renewable energy investments, and to support developers in preparing bankable projects and 
+accessing finance. Post-forum project support is also provided. The South East Europe Investment Forum aims to 
+scale up renewable energy investments in the region, supporting project development and implementation. Key 
+forum activities include matchmaking between projects, project developers, and potential financiers and investors, 
+as well as building human and institutional capacity for the energy transition and establishing conducive investment 
+frameworks for renewable energy.
+In operationalising the CIP, IRENA intends to works with multilateral, bilateral and local financial institutions; private 
+companies and investors; and development partners who are prepared to provide financial and technical resources 
+and support the realisation of projects.
+Box 4 IRENA’s project facilitation through the Climate Investment Platform5.5 CAPACITIES, SKILLS AND AWARENESS
+To maximise socio-economic development 
+opportunities and spur transformational change, 
+energy sector decision makers can strive to build 
+up and use the local workforce for renewable 
+energy equipment and projects. Human resources, 
+adequately skilled and locally available to work on 
+various parts of the renewable energy value chain, 
+are crucial in supporting the expansion of the 
+renewable energy sector. Both training institutions 
+and human resources should be attuned to and 
+follow the technology trends and market dynamics 
+in the fast-evolving energy sector. 
+Along with qualified human resources, institutional 
+stakeholders too need to ensure adequate
+co-operation among themselves and respond in a 
+timely manner to the dynamics of the renewable 
+energy sector. Institutions need to have adequate 
+capacity to fulfil their mandates and contribute to 
+renewable energy growth. This includes, among 
+others, having adequate capacities in energy data 
+collection and analysis and facilitating knowledge 
+sharing with other institutions to inform coherent 
+policy-making and planning.
+Action 9: Raising public awareness on the 
+benefits of renewable energy 
+From the perspective of energy consumers, high 
+upfront investment costs in renewable energy 
+and a lack of understanding of payback periods 
+for such investments deter wider uptake of 
+renewables in Albania. Furthermore, the public is 
+not always aware of existing incentives, support 
+mechanisms or plans for the deployment of 
+renewable energy technologies. Although the 
+private enterprises involved in installation of solar 
+PV net-metering or SWH systems do make efforts 
+in marketing their services to potential customers, 
+government-backed efforts can be more impactful 
+in reaching scale and wider audiences. As such, 
+wider adoption of renewable energy in Albania, 
+both utility scale and at the household level, 
+requires government-backed, well-formulated 
+awareness-raising strategies to sensitise the public 
+on the direct benefits of renewable energy, both 
+for individual citizens and the country as a whole. 
+As discussed in Chapter  4 of this report, such 
+benefits include the economic benefits of 
+using more cost-effective renewable energy 
+technologies, enhancing energy security through 
+increased domestic production during current 
+times of energy imports, and creating a more 
+climate-resilient energy system through a more 
+diversified energy mix. As part of awarenessraising campaigns, incentives and support 
+mechanisms for renewable energy uptake need to 
+be clearly communicated so as to emphasise the 
+country’s commitment to and support for more 
+environmentally friendly energy use. Additionally, 
+coherently communicating the government’s 
+plans for the development of the sector can 
+boost investors’ confidence and thereby attract 
+investment in the energy sector. Led by the MIE, 
+awareness-raising campaigns can be designed 
+and executed with various energy stakeholders, 
+and through various platforms of communication. 
+Ultimately, such strategies should have the objective 
+of improving public knowledge of the economics 
+and benefits of renewable energy technologies 
+and the need for their wider deployment in order to 
+enhance a more informed and responsible energy 
+consumption behaviour, while attracting desired 
+investments for the energy sector’s development.
+Action 10: Enhancing institutional capacities 
+and local human resources
+In line with Albania’s commitment to a higher 
+share of renewable energy deployment, a skilled 
+workforce needs to be nurtured from the onset. 
+Currently, Albania lacks dedicated renewable 
+energy training curricula at vocational, tertiary 
+and technical schools. This has created a lack 
+of qualified human resources in the country to 
+support the ongoing energy sector developments. 
+The localisation of the value chain and nurturing 
+a skilled local workforce is a precondition for 
+maximising community benefits and ensuring that 
+revenue streams support the local economy. As 
+such, the ministries in charge of energy, training 
+and education should collectively work towards 
+the introduction of renewable energy training 
+curricula, prioritising solar PV installers and energy 
+auditors in the immediate term. A lack of trained and locally available human 
+resources is reported by the private sector as one 
+of its main hinderances in business operation and 
+seeking funding. For example, although there are 
+many electricians, there is a shortage of qualified 
+solar PV installers and energy auditors in the 
+country. A lack of energy auditors is in particular 
+stagnating the growth of solar PV net-metering 
+systems in new buildings. According to law, 
+before a net-metering system can be approved, 
+the building’s energy consumption for the past 
+two years is needed. Alternatively, in place of the 
+historic data for new buildings, an energy auditor 
+is to estimate the building’s energy consumption 
+patterns. As licenced energy installers are largely 
+unavailable to carry out the audits, the netmetering system installations cannot be approved. 
+The MIE together with the Energy Efficiency 
+Agency, who is the certifying body for energy 
+auditors, should work together on expediting the 
+licencing of accredited energy auditors and seek 
+adequate funding for this purpose. 
+Furthermore, human resources in public 
+institutions, and institutional capacities overall, 
+play a crucial role in supporting effective policymaking, regulation and planning of renewable 
+energy. As the sector is fast evolving, renewable 
+energy technology costs are falling, new 
+technologies and applications are being marketed, 
+and new best practices in policy-making are 
+emerging. 
+Up-to-date monitoring and analysis of this 
+information is needed. For this, data information 
+and its adequate analysis and interpretation are 
+crucial, particularly in evidence-basing certain 
+decisions or plans. As the most fundamental 
+datasets, statistics on the country’s energy sector 
+need to be improved and methodologies of data 
+gathering and processing need to be strengthened. 
+Disaggregated data related to energy use and 
+consumption at the subsector level are not easily 
+accessible in Albania. In some instances, statistical 
+data reported are regarded as inconsistent as, for 
+example, was the issue on the share of cooking 
+energy and fuels in the residential sector during 
+the RRA consultative process. 
+INSTAT, as the central body accumulating and 
+processing statistical data, should therefore work 
+with AKBN (the energy data provider) and other 
+partners that receive statistical information (such 
+as EUROSTAT and the World Bank) to further 
+strengthen their institutional capacities for energy 
+data processing and reporting.
+Action 11: Strengthening communication and
+co-operation among stakeholders
+As discussed in Chapter  2 of this report, the 
+energy sector involves multiple stakeholders, each 
+with distinct responsibilities and contributions 
+to the sector’s operation and development. 
+During the consultative process of this RRA, it 
+has become apparent that co-operation and 
+communication among all relevant actors can 
+be further strengthened to ensure the exchange 
+of updated information regarding the sector’s 
+evolution. Furthermore, this could ensure that 
+challenges facing individual stakeholders are 
+clearly communicated and collectively addressed. 
+The Albanian Renewable Energy Association, due 
+to the country’s history of hydropower production, 
+has a stronger focus on hydro than non-hydro 
+renewables. With the emergence of more nonhydro enterprises, these enterprises need to 
+take a more assertive role in communicating 
+their operational challenges and, through the 
+association, voice these challenges to relevant 
+authorities who could take action to alleviate 
+or resolve them. This can avoid information 
+asymmetries and ensure better communication 
+between the private and public sectors. 
+As the sector is fast evolving, renewable energy 
+technology costs are falling, new technologies and 
+applications are being marketed, and new best practices
+in policy-making are emerging.BioNETT (n.d.), Biofuels handbook: Best practice 
+tools and pilot projects, Intelligent Energy.
+Cela, R. (2020), Power market coordinator
+(28 January interview), Statkraft.
+Cela, R. (2018), Land resources and land 
+market development in Albania through land 
+consolidation: Characteristics, problems and 
+policy options, Agricultural University of Tirana, 
+Tirana.
+CIA (2019), The World Factbook, www.cia.gov/
+the-world-factbook/ (accessed January 2020).
+Deloitte (2018), VAT implementing provisions 
+amended, www.taxathand.com/article/9630/
+Albania/2018/VAT-implementing-provisionsamended (accessed March 2020).
+DTU (2015), Global Wind Atlas 1.0 (database), 
+Technical University of Denmark, Lyngby 
+(Denmark), http://science.globalwindatlas.info/
+map.html (accessed 20 June 2019).
+Ebiger, J. (2010), Albania’s energy sector: 
+Vulnerable to climate change, The World Bank, 
+Washington, DC.
+EBRD (2018), EBRD lends €6 million to Union 
+Bank to boost green energy investments in 
+Albania, European Bank for Reconstruction and 
+Development, www.ebrd.com/news/2018/ebrdlends-6-million-to-union-bank-to-boost-greenenergy-investments-in-albania.html
+(accessed February 2020).
+EBRD (2016), Strategy for Albania as approved 
+by the Board of Directors at its meeting 
+on 13 January 2016, European Bank for 
+Reconstruction and Development.
+EnC (2019), Annual Implementation Report 
+2018/2019, Energy Community Secretariat, 
+Vienna.
+Encyclopedia Britannica (2020), Albania: Climate, 
+www.britannica.com/place/Albania/Climate
+(accessed January 2020).
+Erdogan, N., F. Erden and M. Kisacikoglu (2018), “A 
+fast and efficient coordinated vehicle-to-grid 
+discharging control scheme for peak shaving in 
+power distribution system”, Journal of Modern 
+Power Systems and Clean Energy, Vol. 6, 
+pp. 555-566.
+ERE (2019), The situation of the power sector and 
+ERE activity during 2018, Energy Regulatory 
+Authority, Tirana.
+ESMAP (2017), Global Solar Atlas (database), 
+Energy Sector Management Assistance 
+Program, World Bank, Washington, DC,
+https://globalsolaratlas.info
+(accessed 3 March 2019).
+European Commission (2016), Renewable energy 
+potentials of Albania, https://cordis.europa.eu/
+article/id/124474-renewable-energy-potentialsof-albania (accessed March 2020).
+EUROSTAT (2019a), Energy balance sheets 2019 
+edition, Publications Office of the European 
+Union, Luxembourg.
+EUROSTAT (2019b), Energy Balances,
+https://ec.europa.eu/eurostat/web/energy/
+data/energy-balances
+(accessed February 2020).
+EUROSTAT (2019c), Energy Database - 
+Disaggregated Final Energy Consumption in 
+Households, https://ec.europa.eu/eurostat/
+web/energy/data/database
+(accessed 17 December 2020).
+Frasheri, A. (2015), Geothermal energy resources 
+in Albania-Country update paper, Faculty of 
+Geology and Mining, Polytechnic University
+of Tirana, Tirana.
+REFERENCESGovernment of Albania (2019), Consolidated 
+National Renewable Energy Action Plan
+2019-2020, Government of Albania, Tirana.
+INSTAT (2020a), General balance of energy,
+www.instat.gov.al/en/themes/environmentand-energy/energy/#tab2
+(accessed January 2020).
+INSTAT (2020b), Electricity balance, www.instat.
+gov.al/en/themes/environment-and-energy/
+energy/#tab2 (accessed January 2020).
+INSTAT (2019a), Demography and social 
+indicators, www.instat.gov.al/en/themes/
+demography-and-social-indicators/population/
+(accessed January 2020).
+INSTAT (2019b), Population of Albania,
+www.instat.gov.al/en/themes/demographyand-social-indicators/population/#tab3
+(accessed January 2020).
+INSTAT (2019c), Employment and unemployment 
+from LFS, www.instat.gov.al/en/themes/labourmarket-and-education/employment-andunemployment-from-lfs/
+(accessed January 2020).
+INSTAT (2019d), National accounts (GDP),
+www.instat.gov.al/en/themes/economyand-finance/national-accounts-gdp/#tab2 
+(accessed January 2020).
+IRENA (2020a), Renewable energy prospects 
+for Central and South-Eastern Europe Energy 
+Connectivity (CESEC), International Renewable 
+Energy Agency, Abu Dhabi.
+IRENA (2020b), Renewable power generation 
+costs in 2019, International Renewable Energy 
+Agency, Abu Dhabi.
+IRENA (2019), Renewable energy market analysis: 
+South East Europe, International Renewable 
+Energy Agency, Abu Dhabi.
+IRENA (2017a), Cost-competitive renewable 
+power generation: Potential across South 
+East Europe, International Renewable Energy 
+Agency, Abu Dhabi.
+IRENA (2017b), Renewable energy benefits: 
+Understanding the socio-economics, 
+International Renewable Energy Agency,
+Abu Dhabi.
+Karakaci, E. (2016), Albanian legislation on 
+biofuels, MIE reporting to Energy Community, 
+Vienna.
+Lika, P. (2020), Director of Distribution at OSHEE 
+(28 January interview).
+Mantooth, A. (2011), How renewables impact the 
+grid, EE Online, https://electricenergyonline.
+com/show_article.php?mag=70&article=570
+(accessed March 2020).
+MIE (2020), Announcement on a future wind 
+auction for the selection of onshore wind 
+projects with site-location identified by 
+developers, that will get support measures,
+Ministry of Infrastructure and Energy,
+www.infrastruktura.gov.al/wp-content/
+uploads/2020/12/Albania-Wind-AuctionAnnouncement-_English-version5436446.1.pdf
+(accessed 15 January 2021).
+MIE (2019), Renewable energy sources in Albania, 
+Ministry of Infrastructure and Energy, Tirana.
+MIE (2018a), Renewable energy progress report 
+2017, Ministry of Infrastructure and Energy, 
+Tirana.
+MIE (2018b), National Energy Strategy 2018-2030, 
+Ministry of Infrastructure and Energy, Tirana.
+MIE (2018c), Analysis of energy development 
+scenarios in support of the National Energy 
+Strategy of Albania, Ministry of Infrastructure 
+and Energy and USAID, Tirana.National Agency of Natural Resources of Albania
+(2019), Renewable energy, www.akbn.gov.al/
+wp-content/uploads/2019/06/RenewableEnergy.pdf.
+OST (2018), Transmission System Operator - 
+Albanian Network Development Plan,
+www.ost.al/wp-content/uploads/2018/10/
+Albanian-Network-Development-Plan-d.pdf
+(accessed February 2020).
+PV Magazine (2020), Albania launches 140 
+MW solar tender, www.pv-magazine.
+com/2020/01/22/albania-launches-tender-for140-mw-of-solar/ (accessed January 2020).
+PV Magazine (2019), Net metering introduced in 
+Albania, www.pv-magazine.com/2019/06/21/
+net-metering-introduced-in-albania/
+(accessed January 2020).
+RES Legal (2020), Promotion in Albania,
+www.res-legal.eu/search-by-country/albania/
+tools-list/c/albania/s/res-e/t/promotion/
+sum/489/lpid/490/ (accessed January 2020).
+Rutanen, V. (2014), Report on the initial monitoring 
+results of the SWH systems installed in day 
+care centers Number 30 and 50 owned by 
+the Municipality of Tirana, United Nations 
+Development Programme Albania, Tirana.
+Sala, E. (2019), Energy resources and supply 
+reliability in Albania: Energy balance and 
+infrastructure development, https://pubs.naruc.
+org/pub.cfm?id=537B2ED3-2354-D714-51A2-
+D9546F9DD404 (accessed 1 February 2021).
+Tirana Times (2017), Drought triggered electricity 
+imports cost Albania €200 mln for 2017,
+www.tiranatimes.com/?p=134751 (paywall) 
+(accessed February 2020).
+UNdata (2020), Albania, https://data.un.org/en/
+iso/al.html (accessed June 2020).
+UNDP (2017), The Country Programme of Albania 
+under the Global Solar Water Heating Market 
+Transformation and Strengthening Initiative, 
+United Nations Development Programme 
+Albania, Tirana.
+UNESCO (2018), Albania, United Nations 
+Educational, Scientific and Cultural 
+Organization, http://uis.unesco.org/en/country/
+al (accessed January 2020).
+World Bank (2020a), Albania, Climate 
+Change Knowledge Portal, https://
+climateknowledgeportal.worldbank.org/
+country/albania/climate-data-projections
+(accessed February 2020).
+World Bank (2020b), Albania monthly trade 
+data, World Integrated Trade Solution (WITS), 
+https://wits.worldbank.org/countrysnapshot/
+en/ALB/textview (accessed March 2020).
+World Bank (2019), Exports of Goods and 
+Services, https://data.worldbank.org/indicator/
+ne.exp.gnfs.zs (accessed February 2020).
+World Bank (2013), Climate change in Albania, 
+www.worldbank.org/en/country/albania/brief/
+climate-change-in-albania
+(accessed January 2020).
+World Bank and OECD (2018a), GDP per capita 
+(current US$) - Albania, https://data.worldbank.
+org/indicator/NY.GDP.PCAP.CD?locations=AL
+(accessed January 2020).
+World Bank and OECD (2018b), Inflation, GDP 
+deflator (annual %), https://data.worldbank.org/
+indicator/NY.GDP.DEFL.KD.ZG
+(accessed February 2020).www.irena.org
+© IRENA 2021

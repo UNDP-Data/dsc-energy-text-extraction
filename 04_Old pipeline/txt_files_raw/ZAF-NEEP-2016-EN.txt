@@ -1,0 +1,1748 @@
+File Name: ZAF-NEEP-2016-EN
+Year: 2016
+Country Name: South Africa
+Country Code: ZAF
+Category: NEEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2016
+Start Year: 2016
+End Year: 2021
+Language: EN
+------------------------------------------------
+
+TINA JOEMAT -PETTERSSON, MP
+I, Tina Joemat -Pettersson, Minister of Energy, hereby publish the draft post -
+2015 National Energy Efficiency Strategy for public comments.
+Interested persons and organisations are invited to submit, within 30 days,
+written comments on the draft post -2015 National Energy Efficiency Strategy
+on any of the following:
+Post: Director -General
+Department of Energy
+Private Bag X 96
+Pretoria, 0001
+For Attention: Xolile Mabusela
+Energy, Department of/ Energie, Departement van
+DEPARTMENT OF ENERGY
+NOTICE 948 OF 2016 948 Draft Post-2015 National Energy Efficiency Strategy: For public comments 40515t1) energy
+Department
+Energy
+OF SOUTH AFRICA
+Post-2015 National Energy Efficiency Strategy
+1st DRAFT
+September 2016
+Draft Version 1.2Post-2015 National Energy Efficiency Strategy Draft v1
+i
+Table of Contents
+1. ENERGY EFFICIENCY POLICY IN SOUTH AFRICA 1
+2. VISION AND MISSION 3
+3. THE RESULTS FRAMEWORK 4
+4. ENERGY EFFICIENCY AND SAVINGS POTENTIALS 5
+4.1. SOUTH AFRICA’S ENERGY CONSUMPTION PROFILE 5
+4.1.1. ENERGY CONSUMPTION BY ENERGY CARRIER 5
+4.1.2. ENERGY CONSUMPTION BY SECTOR 6
+4.1.3. ENERGY INTENSITY TRENDS 7
+4.2. DEFINING ENERGY EFFICIENCY 8
+4.3. THE ENERGY EFFICIENCY OPPORTUNITIES 8
+4.4. ENERGY EFFICIENCY POTENTIAL IN THE SOUTH AFRICA 10
+5. PATHWAY TO REALISING SOUTH AFRICA’S ENERGY EFFICIENT FUTURE 14
+5.1. THE PUBLIC SECTOR 15
+5.2. THE RESIDENTIAL SECTOR 19
+5.3. THE COMMERCIAL SECTOR 23
+5.4. THE INDUSTRY AND MINING SECTOR 25
+5.5. THE AGRICULTURE SECTOR 28
+5.6. THE TRANSPORT SECTOR 30
+5.7. PRODUCTION AND DISTRIBUTION 32
+5.8. SECTOR-LEVEL AND ECONOMY-WIDE IMPACTS 33
+6. THE ENABLING FRAMEWORK 35
+6.1. ON-GOING STRATEGIC PLANNING 35
+6.2. OVERCOMING MARKET BARRIERS 35
+6.3. KNOWLEDGE SHARING, DATA COLLECTION AND PERFORMANCE MONITORING 36
+6.4. MONITORING COMPLIANCE, ENFORCEMENT AND EVALUATING THE POLICY MEASURES 37
+7. THE WAY FORWARD 38Post-2015 National Energy Efficiency Strategy Draft v1.1
+ii
+ABBREVIATIONS
+AFASA African Farmers‟ Association of South Africa
+CSIR Council for Scientific and Industrial Research
+DEA Department of Environmental Affairs
+DoE Department of Energy
+DoHS Department of Human Settlements
+DoT Department of Transport
+DPW Department of Public Works
+DST Department of Science and Technology
+DTI Department of Trade and Industry
+EEDSM Energy Efficiency Demand Side Management
+EnMS Energy Management Systems
+EPC Energy Performance Certificate
+ESCO Energy Service Company
+GHG Greenhouse Gas 
+GJ Gigajoule
+HVAC Heating, ventilation and air conditioning
+IEA International Energy Agency
+IEE Industrial Energy Efficiency
+IEP Integrated Energy Plan
+IFI International Financing Institution
+IGCC Integrated Gasification Combined Cycle
+INDC Intended Nationally Determined Contribution 
+IPP Independent Power Producers
+IRP Integrated Resource Plan
+M&V Monitoring and Verification
+MEPS Minimum Energy Performance Standard(s)
+Mt Megatonne
+MW Megawatt
+NCPC National Cleaner Production Centre
+NDP National Development Plan
+NEES National Energy Efficiency Strategy
+PJ Petajoule
+PSEE Private Sector Energy Efficiency
+REIPPP Renewable Energy Independent Power Producer Procurement Post-2015 National Energy Efficiency Strategy Draft v1.1
+iii
+Programme
+REITs Real Estate Investment Trusts 
+SANS 204:2011 SANS 204 (2011) (English): Energy efficiency in buildings1
+SANS 10400- XA SANS 10400-XA (2011) (English): The application of the 
+National Building Regulations Part X: Environmental 
+sustainability Part XA: Energy usage in buildings2
+SANAS South African National Accreditation System
+SAQA South African Qualifications Authority
+TJ Terajoule
+TWh Terawatt hour
+WESSA Wildlife and Environment Society of South Africa
+ 
+1 https://law.resource.org/pub/za/ibr/za.sans.204.2011.pdf
+2 https://law.resource.org/pub/za/ibr/za.sans.10400.xa.2011.pdfIndustrial &
+Mining Sector
+Final demand
+reduction of
+15% by 2015
+Transport Sector
+Final demand
+reduction of
+9% by 2015
+Reduction of
+National Energy
+Demand of
+12% by 2015
+Commercial &
+Public Building Sector Final demand
+reduction of
+15% by 2015
+Residential Building Sector
+Final demand
+reduction of
+10% by 2015
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+1
+1. Energy efficiency policy in South Africa
+The Government of South Africa 
+through the Department of Energy 
+(DoE) released the first National 
+Energy Efficiency Strategy (NEES) in 
+2005. This strategy aimed to respond 
+to the increasing demand for energy 
+alongside a growing commitment to 
+improving resource use and reducing 
+South Africa‟s national environmental 
+footprint. The NEES set an overall 
+reduction target in energy intensity of 
+12% by 2015, and sectoral energy 
+intensity improvements as follows: 
+industry and mining (15%), power 
+generation (10%), transport (9%), 
+commercial and public building 
+sector (15%), and residential (15%). The NEES derived its mandate from the White 
+Paper on Energy Policy (1998) and it was subsequently revised in 2011. A National 
+Energy Efficiency Action Plan was developed in 2012 describing the implementation 
+of the strategy.
+The Energy Efficiency Target Monitoring System was established in 2014 to monitor 
+the progress made towards meeting the original targets (based on a year 2000 
+baseline). The results of the analysis, which relied to a large extent on existing data3
+, 
+confirmed that significant progress has been made between 2000 and 2012 in 
+improving energy intensity, exceeding expectations for most sectors. The 
+improvements in energy intensity reflect a combination of autonomous change, 
+technological advancements, and deliberate interventions to improve energy 
+efficiencies.
+Table 1: Improvements in energy intensity (2000-2012) compared to the 2005 targets (DoE, 2015)
+Sector 2015 target (based 
+on 2000 baseline)
+Performance to 2012
+Economy-wide 12% 23.7%
+Industry 15% 34.3%
+Residential 10% 28.2%
+Commercial & public 15% 0.3% (electricity only, 2003-13)
+Transport 9% 14.1% (reduction in sector-wide energy 
+intensity)
+Power sector 15% 26% (estimated by Eskom)
+ 
+3 It should be noted that there are some limitations to the quality and coverage of data that is available for the 
+public, commercial, transport, and power sectors. The DoE was able to undertake primary data collection to 
+support the analysis for the residential and industrial sectors.Post-2015 National Energy Efficiency Strategy Draft v1.1
+2
+This post-2015 NEES aims to build on these achievements, stimulating further 
+energy efficiency improvements through a combination of fiscal and financial 
+incentives, a robust legal and regulatory framework, and enabling measures. The 
+strategy has been framed to complement the policies and strategies of the 
+Department of Environment Affairs (DEA), the Department of Public Works (DPW), 
+the Department of Science and Technology (DST), Department of Trade and 
+Industry (DTI), Department of Transport (DoT) and the National Treasury.Post-2015 National Energy Efficiency Strategy Draft v1.1
+3
+2. Vision and mission
+The Department of Energy’s Vision
+Our vision is to promote energy efficiency as the ‘first fuel‟4 in driving balanced, 
+socially inclusive and environmentally sustainable economic growth, boosting job 
+creation and leading technological innovation across the region.
+The Department of Energy’s Mission
+Improving energy efficiency is a strategic priority in both the National Development 
+Plan 2030 and South Africa‟s Intended Nationally Determined Contribution (INDC) 
+under the UN Framework on Climate Change. This post-2015 strategy considers the 
+current economic and development context in South Africa, and aims to encourage 
+continued growth by reducing energy inefficiency as a barrier to future progress.
+The South African Government is committed to seizing the possibilities that energy 
+efficiency represents in:
+ improving energy security, reducing dependence on energy imports5 and 
+improving reliability by freeing generation capacity to support future growth;
+ optimising resource to safeguard environmental sustainability;
+ improving competitiveness by supporting users to reduce their energy 
+intensity but also to support South African industry and commerce in
+exploiting the energy efficiency market opportunities within the region;
+ stimulating inclusive economic growth by releasing generation capacity to 
+all citizens of South Africa and developing the regulatory framework and 
+incentive measures to make affordable, energy efficient technology widely 
+available.
+The Department of Energy undertakes to support businesses, households and 
+government departments to take advantage of the energy efficiency opportunities by:
+ facilitating the increased availability of affordable, good quality, energy 
+efficient technologies on the local market;
+ supporting job creation, in the implementation of energy efficiency measures 
+and through the redeployment of wealth to other economic activities;
+ supporting energy efficiency investments through the provision of fiscal and 
+financial incentives that improve the business case and encouraging 
+increased confidence in energy efficiency in the financial sector;
+ promoting the sharing of knowledge and best practice across sectors, 
+technologies, processes, and behaviours;
+ fostering a vibrant and professional energy services sector that is self-
+ 
+4 The “first fuel” concept is gaining increased credence worldwide. Energy efficiency is considered to be a hidden 
+energy resource that should be fully exploited before considering other sources as it takes less time to 
+implement, lasts longer and keeps producing without the negative effects of generation. (IEA. (2014), Capturing 
+the Multiple Benefits of Energy Efficiency: A Guide to Quantifying the Value Added, IEA, Paris.) Energy efficiency 
+measures are not only the fastest way to ensure the path towards a low-carbon transition, but also improve the 
+economic output, productivity and energy security of South Africa. 
+5 Although South Africa is a net exporter of energy, as of 2012 it depended on imports for about 85% of its total 
+supply of oil and gas.To promote energy efficiency as the 'first fuel' in driving balanced, socially inclusive
+and environmentally sustainable economic growth, boosting job creation and leading
+technological innovation across the region
+Expected 2030 impacts (reduction in final energy consumption) from 2015:
+Economy -wide - 29%
+Industry Sector - 15%
+Public & commercial sector - 37%
+Residential sector - 33%
+Agriculture sector - 30%
+T.,r. Public buildings
+goal and target
+(see Page 9) J
+Municipal
+services goal
+and targets
+(see Page 11)
+Residential sector goal and
+targets
+(see Page 12)
+Commercial buildings sector
+goal and target
+(see Page 15)
+Industry sector
+goal and targets
+(see Page 17)
+Agriculture
+sector goal and
+target
+(see Page 20)
+Transport
+sector goal and
+target
+(see Page 22)
+Production &
+distribution
+goal and targets
+(see Page 24)
+Public buildings measures Municipal services measures Residential sector measures Commercial buildings measuresIndustry sector measures Agriculture
+sector measures Transport sector measures Production &
+distribution measures
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+4
+sustaining and can both drive and meet demand for the implementation of 
+energy efficiency measures.
+3. The results framework
+The results framework (Figure 1) establishes a coherent logic between the policy 
+measures, the sectoral impact, and the anticipated overall impact. This is important 
+not only to facilitate the definition of a package of appropriate, relevant measures for 
+each sector that will yield significant impact, but also to make simpler the 
+measurement of the impact of the policy measures put in place. As illustrated below, 
+the package of measures for each sector combined with the supporting measures 
+are expected to realise sectoral goals and targets, which are linked to the projected 
+overall impact of the specific measures. Improvements at a macro-economic level 
+are subject to a significant number of factors external to the policy measures relating 
+to energy efficiency and therefore, the sectoral targets will provide the performance 
+assessment that will inform how effective the policy measures put in place affect 
+implementation.
+Annex 1 contains a detailed description of the results framework, including the actual
+measures and the targets associated with each sector and level.
+6
+Figure 1: The post-2015 NEES results framework
+ 
+6 At the highest level (impacts), the reduction in final energy consumption is targeted in terms of end use. This 
+explains why there is no target for production and distribution of energy at this level. The targets for each sector 
+are explained in more detail in sector-specific chapters and the results framework is described in Annex A.Post-2015 National Energy Efficiency Strategy Draft v1.1
+5
+4. Energy efficiency and savings potentials
+To promote a common understanding of energy efficiency in the South African 
+context, the definition of energy efficiency, the benefits of and barriers to 
+improvements, and potential energy savings opportunities that exist in South Africa 
+are described below. 
+4.1. South Africa’s energy consumption profile
+4.1.1. Energy consumption by energy carrier
+Between 2000 and 2012, a significant shift occurred in the relative roles played by different energy 
+different energy carriers in South Africa’s total final energy consumption. In 2000, coal and electricity 
+coal and electricity accounted for similar shares of total final consumption, with the share of petroleum 
+share of petroleum products somewhat higher. By 2012, the consumption of electricity and especially 
+electricity and especially petroleum products had increased significantly, while that of coal had declined. 
+coal had declined. These trends are shown in 
+Table 2 and Figure 2 below.
+It is worth emphasising here that these figures represent total final energy 
+consumption, rather than primary energy demand. They do not therefore include 
+energy that is consumed or transformed in the energy conversion processes (for 
+example, power generation and the synthesis of liquid fuels from coal). Although the 
+final consumption of coal has fallen over the time period covered in this analysis, the 
+large increases in the final consumption of electricity and petroleum products have 
+largely been met through coal-based energy conversion processes. Hence the 
+reduction in total final consumption of coal does not imply an overall reduction in the 
+South African economy‟s dependence on coal.
+Figure 2Fuel mix of final energy consumption for the South African economy – 2000 versus 2012
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+2000 2012
+Total final energy consumption (PJ)
+Coal
+Electricity
+Petroleum products
+GasPost-2015 National Energy Efficiency Strategy Draft v1.1
+6
+Table 2 Composition of total final energy consumption (PJ) by energy carrier, 2000 and 2012
+2000 2012
+% change in 
+consumption
+Coal 655 (33%) 401 (22%) -24%
+Petroleum products 731 (36%) 938 (42%) +28%
+Gas 40 (2%) 99 (4%) +148%
+Electricity 577 (29%) 698 (31%) +21%
+TOTAL 2,003 2,236 +12%
+Note that these figures include the portion of total final energy consumption that is 
+not attributable to any sector (referred to in the Energy Balance Table as „Nonspecified‟), whereas this component has been excluded from the detailed analyses 
+described below. Overall total figures may therefore not agree.
+4.1.2. Energy consumption by sector
+Three sectors denominate the total final energy consumption in South Africa: 
+Industry & Mining, accounting for 35%; Transport, accounting for 29%; and 
+Residential, accounting for 25%. The full sectoral breakdown of total final energy 
+consumption, according to the 2012 Energy Balance Table, is shown in Figure 3
+below. Note that the share of the residential sector is very strongly influenced by 
+estimates of the total consumption of biomass in households. Although the sector 
+shares in Figure 3 include the DoE‟s best estimate of biomass energy consumption, 
+this quantity has been omitted from the detailed analyses described below. Overall 
+total figures may therefore not agree. Post-2015 National Energy Efficiency Strategy Draft v1.1
+7
+Figure 3: Proportion of total final consumption per sector based on Energy Balance Tables (2012)
+4.1.3. Energy intensity trends
+As of 2012 (the most recent year for which aggregate data is currently available), the 
+total final energy consumption of the South African economy stood at about 
+2,108 PJ, an overall increase of 4.8% from its 2000 baseline of 2,011 PJ. Over the 
+same period, the total GVA7 of South Africa‟s productive sectors increased by about 
+44%, from about R1,798 billion up to R2,588 billion, while the number of households 
+increased by about 42% from an estimated 10.3 million in 2000 up to 14.6 million in 
+2012. Considering the productive sectors alone, energy intensity decreased from 
+1.02 MJ/R in 2000 to 0.73 MJ/R in 2012, equivalent to an annual compounded 
+reduction in energy intensity of about 2.7%.
+Figure 4 below shows how energy intensity has changed in each of the main sectors. 
+In order to make these trends easier to observe, this graph shows five-year rolling 
+average to smooth out the wide fluctuations sometimes seen between consecutive 
+years. In addition, the figures have been indexed to the base year of 2004. The 
+graph indicates that the commercial & public sector saw a substantial increase in 
+energy intensity to 2009, after which it has fallen back to close to its 2000 level. The 
+energy intensity of the transport sector has changed relatively little over the 12-year 
+analysis period, while that of the other three sectors has fallen by significant and 
+similar amounts, with their average energy intensity over the five years to 2012 being 
+approximately 20% lower than for the five years to 2004.
+ 
+7 At constant 2010 prices
+Industry Sector
+35%
+Transport Sector
+29%
+Agriculture
+2%
+Commerce and 
+Public Services
+7%
+Residential
+25%
+Non-specified 
+(Other)
+2%
+Proportion of total final energy consumption by economic sector Post-2015 National Energy Efficiency Strategy Draft v1.1
+8
+Figure 4Trends in sector energy intensity. For clarity, five-year rolling average figures are shown in order 
+to smooth out sharp fluctuations. Figures are expressed as an index relative to the value for 2004
+4.2. Defining energy efficiency
+The most strictly „correct‟ definition of energy efficiency would be the ratio between 
+the theoretical minimum energy requirement for performing task and the amount of 
+energy actually used. However, this definition would be virtually impossible to apply 
+on a large scale. Instead, energy efficiency is usually defined as the amount of useful 
+output obtained divided by the energy used to produce that output. This is the 
+reciprocal of a quantity that is generally referred to as „energy intensity‟ – the energy 
+used per unit of output obtained.
+However, this apparently straightforward definition begs the question of how output 
+is to be quantified. Output can be measured either in physical units (tonnes of steel 
+produced, square metres of office space heated, etc.) or in monetary terms (valueadded produced). For the purposes of this strategy, the use of the term „energy 
+intensity‟ generally implies the use of monetary units for measuring output. Where 
+output is quantified in physical units, the term „specific energy consumption‟ will be 
+used. While a fall in energy intensity may signify an improvement in energy 
+efficiency, it must be remembered that energy intensity can be affected by many 
+factors other than changes in efficiency. Energy intensity is therefore only an 
+imperfect proxy for „real‟ changes in energy efficiency.
+4.3. The energy efficiency opportunities
+Considering energy efficiency as the „first fuel‟ has direct effects on demand 
+reduction, decreasing the costs of energy infrastructure expansion, and diminishing
+greenhouse gas (GHG) emissions. However, the benefits of energy efficiency are 
+far-reaching. The improved trade balances and employment creation that can be 
+achieved through energy efficiencies boost macro-economic development. As 
+illustrated in the figure below, the benefits also extend to social, environmental, and 
+financial gains at an individual, community or society level. 
+0.6
+0.7
+0.8
+0.9
+1
+1.1
+1.2
+1.3
+1.4
+2004 2005 2006 2007 2008 2009 2010 2011 2012
+Five-year rolling average energy intensity index
+Agriculture, forestry and 
+fishing
+Industry & mining
+Commercial and public
+Transport
+ResidentialAsset values Energy savings GHG
+emissions
+Resource management
+pollution
+Locala
+Employment
+Energy efficiency
+improvement
+101115 Macro- 1111111r 1 economic
+impacts
+Industrial ttproductivity
+tion I .1 Health and well -being
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+9
+The introduction of energy efficiency measures in the industrial and commercial 
+sectors has a direct impact on company competitiveness, productivity and 
+profitability. According to the IEA, the value of the improvements in productivity and 
+product quality can be as much as 2.5 times the value of the energy savings (IEA, 
+2011). 
+South Africa‟s standing as a regional centre for technology innovation, manufacturing 
+and the supply of goods presents a unique and exciting opportunity. As energy 
+efficiency becomes increasingly important for surrounding countries some of which 
+have or are developing their energy efficiency strategies, such as Botswana and 
+Malawi, there may be opportunities to export goods and expertise, boosting regional 
+trade and fundamentally the South African economy.
+Figure 5: IEA multiple benefits of energy efficiency (IEA, 
+2014)
+Energy security is extremely 
+important for the continued 
+development and growth. The 
+improvement of energy efficiency in 
+power generation reduces the need 
+for additional, costly investments in 
+expanding the infrastructure. If this 
+results in improved affordability of 
+services, it frees up disposable 
+income within households, 
+improving quality of life. 
+Non-electricity related energy 
+efficiency measures, such as the 
+use of improved biomass cook 
+stoves, improve the indoor climate 
+and reduce smoke inhalationrelated illnesses. 
+As described in Section 1, significant progress has been made in improving energy 
+efficiency since the 2005 NEES. However, despite the benefits, there are still 
+significant barriers to further improving energy efficiency, including the economic 
+downturn and decreases in commodity prices, which is reportedly encouraging 
+industry and mining to focus on increasing throughput. Market failures, such as
+energy service companies that do not have the capacity to adopt innovative 
+financing and technology solutions, the high costs of energy efficient appliances, and 
+the negative incentive of high borrowing rates, reduce the uptake of energy efficient 
+solutions. The work to address some of these failures has begun through the 
+introduction of labelling of appliances and vehicles, and the introduction of energy 
+efficiency standards for appliances and in buildings. However, more needs to be 
+done.
+Within the private sector, particularly in the energy intensive sub-sectors, the 
+feedback from consultations indicates that many of the most easily achieved savings 
+have been implemented. Without additional incentives, the payback period on 
+investments to implement the more challenging savings is considered to be too long Post-2015 National Energy Efficiency Strategy Draft v1.1
+10
+for investors.8 There are often operations and transaction costs of implementing 
+energy efficiency measures, such as energy audit costs and time spent researching 
+and discussing options, that are an added disincentive. The emphasis is mostly 
+placed on expanding operations where possible, as increasing throughput is the 
+highest priority for many businesses. 
+The 12L tax rebate mechanism for energy efficiency projects aims to trigger 
+investments that are currently considered to have a weak business case. It is already 
+apparent that this has been successful in sparking new interest in implementing 
+projects, particularly following the recent increase in the level of rebate offered. 
+However, the mechanism does preclude some key players that could make use of 
+the incentive, such as real estate investment trusts (REITs) as they are not the final 
+tax payer.
+The planned introduction of a carbon tax during 2017 will put pressure on industry in 
+particular to reduce their energy consumption and the indications are that the tax 
+combined with increased electricity prices are placing a significant strain on the 
+sector. The 12L and other suggested incentives will support industry in implementing
+energy efficiency projects that result in significant savings but are more challenging.
+4.4. Energy efficiency potential in the South Africa 
+The efficiency savings made since 2000 illustrate that significant achievements have 
+been made across particularly the industrial and residential sectors, primarily due to 
+the reaction to increased energy prices and technology improvements.9 Based on 
+international comparisons and historical trends, there is potential to continue making 
+improvements, some of which are happening autonomously.
+The energy intensity of South Africa is higher than the other BRIC countries. In 
+comparison to similar10 economies, South Africa‟s industry sector is far from being 
+amongst the worst performing, but is somewhat more energy intensive than
+Macedonia, Serbia and Australia, for example (Table 3 below).
+Table 3: Industrial energy intensity – a comparison of South Africa with similar economies (World Bank, 
+2016)
+Industry sector energy 
+intensity (MJ/$)
+Relative to South Africa
+Australia 2.8 0.67
+Serbia 3.3 0.79
+Macedonia 3.7 0.88
+South Africa 4.2
+Brazil 6.1 1.45
+ 
+8 Based on stakeholder feedback during preliminary consultations, the significant measures that make business 
+sense to invest in have largely been implemented. There are some less significant savings to be made (e.g. 
+lighting).
+9 Energy Efficiency Target Monitoring System Report, 2015
+10 Similar economies in terms of economic activities and proportion of GDP from the industrial and mining subsectors.Post-2015 National Energy Efficiency Strategy Draft v1.1
+11
+China 6.3 1.50
+Kazakhstan 12.0 2.86
+Based on the current data that is currently available11, the following energy savings 
+potentials were identified, taking into account the historical trends and comparing this 
+against international best practice. The secondary data that was used as the 
+foundation for the analysis were questioned on the basis that they are not reflective 
+of the local context. The potentials reflected below do not translate into targets, so a 
+bottom-up approach has been used for the estimation of targets for each sector.
+Industrial and mining sectors
+In order to achieve the world average performance levels within the iron and steel 
+industry, a reduction in specific energy consumption of 38% (from 24.3 GJ/tonne to 
+15GJ/tonne) would be required, based on South Africa‟s current technology mix in 
+iron and steel production. Based on a comparison with international best practice, a
+46% reduction in energy intensity (from 24.3 GJ/tonne to 13.2GJ/tonne) may appear
+to be possible for the industrial sectors if the improvements in specific energy 
+consumption are also combined with the shift in the iron and steel production 
+technology mix. However, the consultations with sub-sector representatives indicate 
+that there are significant factors that affect the feasibility for the iron and steel sector 
+to achieve these potentials, specifically due to the quality of coal available to the 
+processes.
+For the various mining sub-sectors that includes coal, gold, platinum and other nonferrous metals an overall energy savings of 8.7% (6.4PJ or 1.43TWh) could be 
+achieved by conforming to best practice methods. However, if further research and 
+development (R&D) activities are undertaken, particularly in grinding techniques, an 
+overall energy saving of 24.5% (18PJ or 5TWh) could be achieved. Consultations 
+with the Chamber of Mines and some of its members highlighted the challenges for 
+underground mining in achieving energy efficiencies. As excavation goes deeper, 
+specific energy consumption increases.
+Transport sector 
+Due to the lack of data for the transport sector, a number of assumptions were made 
+to establish the savings potentials that could be realized by 2030. As described 
+below, the range of savings potentials is wide. The passenger vehicle parc average 
+fuel economy (taking into account the mix of vehicle vintages; their corresponding 
+fuel economies and annual mileage) ranges from an improvement of 16% to 31%
+(gasoline cars). The CO2 intensity for transport sector improves by between 3% and
+27% for passenger vehicles. The potential for improvements in freight are between 
+18 % and 37%.
+ 
+11 The following analysis made use of existing data, including the Green House Gas mitigation studies produced 
+by the Department of Environmental Affairs, and analysis of municipal energy savings potentials by Surya Power. 
+Refer to the Energy Savings Potential report (September 2015) for further information.Post-2015 National Energy Efficiency Strategy Draft v1.1
+12
+Residential sector
+Three energy savings opportunities were identified as having sizeable potential, 
+appliances, lighting and buildings. Significant energy savings are possible if the Solar 
+Water Heating (SWH) and Mass Roll Out (MRO) programmes are continued within 
+the residential sector. From the period of 2010-14, 600 GWh of electricity has been 
+saved through the SWH programme resulting in an abatement of 630 kt of CO2
+emissions. Through the MRO initiative a saving of 729 GWh of electricity and an 
+abatement of 765.45 kt of CO2 has been achieved.
+The electricity savings (12.1 TWh) proposed within the cost effective scenario would 
+contribute to roughly 20% of revised 2030 baselines. These savings would then 
+translate to roughly 12.75 Mt of CO2 emissions. The proposed savings would mean a 
+6.8% decrease in household electricity intensity between 2010 and 2030.
+Energy efficiency possibilities using passive thermal design could bring about 
+additional energy efficiency of around 5% within the residential sector. The costs 
+associated with refurbishment are cited as the low applicability and uptake of this 
+measure. Improving the energy efficiency of new buildings is much more costeffective than the refurbishing existing building stock. Therefore, improving the 
+existing building codes are a priority and should be emphasised as part of the 
+National Energy Efficiency Action Plan (NEEAP).
+In the case of the residential sector, within the lower income households, the use of 
+biomass for cooking is significant. Within LSM1 (the lowest bracket of the „Living 
+Standards Measure‟ stratification system developed by SAARF12), biomass fuels are 
+used for both cooking and water heating by 60% of households (EETMS, 2015). 
+Supporting the propagation of energy efficient cooking technologies has the potential 
+to reduce the consumption on wood by between 40-60%13, equivalent to a saving of 
+about 10PJ for the residential sector if these savings were achieved in all 
+households using woodfuel. The contribution to overall efficiency is not significant, 
+because only about 7% of households in total depend on wood for cooking.
+However, the impact of these savings on the individual households affected is
+potentially huge, not only in terms of money, time and effort, but also the added 
+health and environmental benefits from the reduction of indoor pollution. Note that 
+the potential for savings from more efficient biomass stoves will continue only while
+the low LSM households do not have access to modern energy sources such as 
+electricity and / or liquefied petroleum gas (LPG).
+Public and commercial sector
+End-use energy consumption within the public building sector is expected to 
+increase to 125.13PJ in 2030 from 62.4PJ in 2012 levels. These increases can be 
+curtailed by 19.7PJ, which is a decrease of roughly 16%, by conducting 
+refurbishments and interventions in space heating, lighting and improved building 
+practices based on the current version of the SANS10400-XA. Future tightening of 
+the standards and enforcement would achieve greater savings, provided they are 
+ 
+12 South African Audience Research Foundation – see for example http://www.saarf.co.za/lsm/lsms.asp
+13 http://cleancookstoves.org/resources_files/household-cookstoves-1.pdfPost-2015 National Energy Efficiency Strategy Draft v1.1
+13
+enforced. A reduction of 4.21 Mt of emissions can be achieved via interventions, 
+mainly through solar water heating and roof top photovoltaic systems. The largest 
+potential of saving is from the new stock of office building category and renovations 
+to existing stock, although the most cost-effective is in addressing the new stock.
+Within municipal services, based on interventions in a sample of major 
+municipalities, energy savings of 47% for bulk-water supply and water treatment, 
+32% for the municipal vehicle fleet, 25% for street lighting and 16% for buildings and 
+facilities could be achieved.
+Utilities sector
+Considerable reductions in coal usage (22.9%), CO2 emissions (15.5%) and overall 
+electricity usage (15.7%) can be achieved by the year 2030 within the electricity 
+(utilities) sector, if the savings scenario that constitutes a greater share of renewable 
+technologies and advanced coal technologies, is considered.
+The overall thermal efficiencies of the power plant can be improved from the current 
+average of 33% to roughly 38% by the year 2030 with the inclusion of super critical 
+boiler higher efficiency coal power plants and integrated gasification combined cycle 
+(IGCC) type power plants. Retirement of older power plants, particularly return-toservice plants, will improve overall power efficiency.
+It is estimated that 18% of electricity that is bought from Eskom by municipalities is 
+lost. Based on data provided by Eskom, 22,351 GWh were lost in 2013 in distribution 
+and transmission. The City of Johannesburg has distribution losses of 22%, which 
+comprise both technical and non-technical losses (i.e. illegal connections, inaccurate 
+billing, defective meters, etc). Some municipalities report distribution losses of 
+between 30-40%. Converting long distance transmission lines to a higher voltage or 
+underground cables, which are capital-intensive measures, can reduce transmission 
+losses. Distribution losses can be reduced by minimising theft and tampering via the 
+means of social awareness and programmes.
+Agricultural sector
+Though the agricultural sector accounts for only 3% of total energy consumption, 
+energy savings measures can bring relief to farmers from rising electricity prices and 
+volatile fuel prices. Major energy consuming activities in the agricultural sector 
+include traction and irrigation. Activities related to traction are mostly petroleum 
+product based whereas irrigation relies on electricity.
+Case studies from South American onion cultivation have shown possible fuel 
+savings of 44% by optimising ploughing and raking activities. Fuel savings of roughly 
+15% can be achieved by regularly maintaining traction equipment. The potential of 
+savings by the means of fuel switching to various blends of biodiesel needs to be 
+investigated.
+Case studies in South African farms, where variable speed drives were fitted to 
+pumps used for irrigation and water transfer, were seen to achieve roughly 40% 
+savings in electricity consumption.Post-2015 National Energy Efficiency Strategy Draft v1.1
+14
+5. Pathway to realising South Africa’s energy efficient future
+By combining fiscal, legal and regulatory, institutional and financial initiatives the 
+Strategy outlines a sectoral approach that will deliver results. A package of 
+measures is described for each sector to address the identified barriers to realising
+the untapped savings potentials. Each package is framed by a goal(s) and target(s), 
+which link them to the Results Framework in Annex A. This Results Framework 
+presents a ‘chain of causality‟ that outlines the expected outcomes of the measures 
+and the impacts likely to result at the sectoral and economy-wide level.
+In order for the DoE to assess its performance, it is necessary to specify targets in a 
+way that is useful and relevant. Where policy measures are operating in synergy as 
+part of an integrated package, it makes little sense to define targets relating to each 
+measure, since it may be impossible or at least impractical to disentangle the effects 
+of the individual measures. However, it is equally unhelpful to set targets at too 
+aggregated a level, because the causal link between the actions taken and the 
+effects observed is then insufficiently direct. This would make it difficult to determine 
+whether the actions have been successful, or whether the observed effects are 
+actually due to some exogenous influences. The targets have therefore been 
+specified in a way that makes them both relevant and feasible to monitor.
+The following sections describe the packages of measures for each sector, and an 
+explanation of the basis for the setting of each of the sector targets. In general, the 
+levels at which the targets have been set derive from a combination of the expected 
+effects of the policy measures proposed, plus the estimated effects of the 
+continuation of existing policy measures and an assumed level of autonomous 
+change. Details of the assumptions and approximations underlying these figures are 
+given in Annex D.
+Estimates have also been made of the likely sectoral and economy-wide impacts of 
+achieving the targets, in terms of the percentage changes in total final energy 
+consumption that would be revealed by a decomposition analysis conducted in 2030. 
+The indirect measures that support the successful implementation of the Strategy, 
+ensuring that the institutional framework is in place, are described in Section 6.Goal
+Target
+Accelerate the current rate of improvement in the energy consumption per square metre in
+buildings occupied by the public sector at the national, provincial and municipal levels
+A 50% reduction in the specific energy consumption (measured as GJ annual energy
+consumption per m2 of occupied floor area) by 2030 relative to a 2015 baseline.
+Goal
+Target
+Accelerate the current rate of improvement in the energy consumption per square metre in
+buildings occupied by the public sector at the national, provindal and municipal levels
+A 50% reduction In the specific energy consumption (measured as W annual energy
+consumption per m' of occupied floor area) by 2030 relative to a 2015 baseline.
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+15
+5.1. The public sector
+PUBLIC BUILDINGS
+The Measures
+The public sector in South Africa has begun the process of institutionalising the 
+principle of “Leading by Example”, which aims to address energy efficiency across 
+national and provincial buildings owned or occupied by government. Although the 
+contribution of the public sector to final energy consumption is only 2-3% of the total, 
+the government recognises the importance of leading by example, demonstrating a 
+commitment to improving efficiency across the public sector. The significant civil 
+service workforce (over 2 million civil servants in 201414) presents an opportunity not 
+only to improve the performance of buildings used by government but also to raise 
+awareness among the civil service.
+The two main themes of the package of policy measures for the public sector are 
+therefore to build institutional energy efficiency culture, both within the sector but 
+also in the interface with its clients, and to substantially reduce the average specific 
+energy consumption of the stock of buildings owned or rented by the government.
+The “Leading by Example” brand is being developed within the Department of Public 
+Works and supports the programmes of building retrofits, raising awareness and 
+greening of procurement. The Department of Energy intends to take the opportunity 
+to develop the brand across all government departments, raising the awareness of 
+all government employees of their role in improving energy efficiency and tasking 
+them to make those improvements. This will require that energy efficiency becomes 
+a component of the organisational culture. There is also significant potential to 
+improve public understanding of energy efficiency and influence user behaviour 
+through the mainstreaming of energy efficiency across the public-facing services 
+provided by the sector. For example, the introduction of energy awareness in the 
+national school curriculum, the display of notices in hospitals and clinics, and for 
+municipalities to be a conduit to share energy saving advice with their residents 
+(described further in Section 5.2). A strong element of this culture will be the 
+identification of energy champions in each government department at national, 
+provincial and municipal levels, who will be tasked to drive the initiative forward. 
+For public buildings, the current initiatives to improve energy efficiency within 
+buildings will be continuously improved and increase in the level of ambition. The 
+energy efficiency of new buildings will be driven by means of successive tightening 
+of building standards throughout the Strategy period. The intended trajectory for 
+the tightening of standards is being formulated and will be announced well in 
+ 
+14 Quarterly Employment Statistics, Statistics South Africa, June 2014Post-2015 National Energy Efficiency Strategy Draft v1.1
+16
+advance, to provide sufficient time for both the construction industry and government 
+officials responsible for ensuring compliance to adapt. This will improve energy 
+performance of the new stock of buildings that are either built or bought by the public 
+sector.
+The mandatory display of energy performance certificates (EPCs) in government 
+owned properties is currently being implemented. This will be extended to buildings 
+being rented by government on signing of a new lease. To support this, green 
+leases will become a standard requirement for all properties rented by the public 
+sector on the uptake of new leases, specifically requiring the provision of information 
+on resource consumption to the building occupiers in managed properties. The 
+nomination of trained energy managers for each publicly owned building will ensure 
+that energy use is being proactively addressed and improve the availability of data 
+for monitoring purposes.
+The introduction of green procurement has been initiated within the DPW and will 
+include life-cycle assessments. The intention is to roll this out across government, 
+reflecting our commitment to reducing the adverse environmental impacts of the 
+goods and services that are purchased. 
+Mandatory labelling is already in place, and minimum energy performance standards 
+(MEPS) have been introduced or are proposed for most of the major categories of 
+household appliance. Broadening the scope of mandatory labelling and MEPs to 
+cover appliances that are commonly used in the public sector (such as large-scale 
+cooking and heating appliances) will facilitate the implementation of green 
+procurement. In order to ensure that appliance manufacturers and suppliers are able 
+to respond positively to tightening standards, the intended additional categories of 
+equipment and the trajectory for tightening the MEPS will be announced well in 
+advance.
+The feasibility will be explored of introducing an energy endorsement label to run 
+alongside the existing system of comparison labels for appliances. Endorsement 
+labels are designed to provide purchasers with a simple yes/no indication that an 
+endorsed product is among the most energy efficient in its class and could be used 
+as a procurement criterion for the public sector. Experiences in several other 
+countries suggest that a strongly branded endorsement label (of which the „Energy 
+Star‟ brand is the most famous) may be a valuable complement to the system of 
+comparison labels already in place.
+The renovation of existing building stock in the public sector will require considerable 
+investment. With this in mind, innovative financing models will be explored for the 
+public sector, such as encouraging partnerships between local and international 
+energy service companies (ESCOs) to secure the financing for large-scale 
+renovations. The feasibility of establishing an ‘ESCO Incubator’ will be assessed. 
+This would be a public sector body, the main function of which is to implement large 
+public-sector projects through energy performance contracting, using local private 
+sector ESCOs as sub-contractors. Other key functions of an ESCO Incubator may 
+include: providing loans or equity finance for smaller energy performance contract 
+projects, development of standardised energy performance contracts, technical 
+assistance for project development, training and accreditation of ESCOs (see 
+Section 6), developing databases of approved equipment and materials. Although Goal
+Targets
+Accelerate the reduction in the specific energy consumption per resident in delivering
+municipal services
+A 20% reduction in the energy Intensity (measured as energy consumption per head of
+population served) of municipal service provision. The specific services included are
+streetlighting, traffic lights, water supply and wastewater treatment.
+A 30% reduction in the fossil fuel intensity of municipality vehicle fleets (measured as total
+fossil fuel consumption by municipal vehicles per head of population served)
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+17
+government would provide the core funding for establishing an ESCO Incubator, this 
+would leverage additional funds from the private sector and from international 
+financing institutions (IFIs) and international donors. This model therefore provides a 
+more cost-effective use of public funds for achieving energy savings in public 
+buildings compared with the provision of direct grants.
+Basis for the Target
+The target proposed for public buildings is for a 50% reduction in the specific energy 
+consumption (annual energy consumption per m2
+) of lettable / habitable floor area 
+across the sector. 15 This target is based on an assumption that successive 
+tightenings of building standards will result in reductions in specific energy 
+consumption of 49% for half of the new buildings added between now and 2030, and 
+67% for the other half. A concerted programme of eco-refurbishment for buildings 
+that were constructed before 2015 is assumed to result in improvements in specific 
+energy consumption averaging 35%. The weighted mean of these improvements 
+across the whole 2030 building stock gives an overall reduction in specific energy 
+consumption of 50%.
+MUNICIPAL SERVICES
+The Measures
+The Energy Efficiency Demand-Side Management (EEDSM) programme established 
+by the Department of Energy has been delivering grants to 68 municipalities in South 
+Africa since 2009. The cumulative energy saved as a result of the programme based 
+on projected targets is approximately 1.8 PJ, mainly through street lighting retrofits. 
+The potential for energy saving is considered to be significant based on the 
+measures identified under the EEDSM programme. The Local Government Energy 
+Efficiency and Renewable Energy Strategy developed in 2013 defines a framework 
+under which local government develop their individual energy efficiency approaches. 
+The strategy covers the governance framework, energy efficiency in the provision of 
+services, improving household energy access, improving energy efficiency at end 
+use level, and energy efficiency in spatial planning, amongst other things. Several 
+municipalities have taken the initiative to develop strategies but there is potential to 
+ 
+15 Although the target for buildings would ideally separate the anticipated improvements from new and existing 
+buildings, this is not possible based on the data that is available and the complexity of the data collection 
+required for monitoring purposes. However, the strategy recognises that the stakeholders involved and the 
+process of addressing the types of measures that relate to new and existing buildings differ.Post-2015 National Energy Efficiency Strategy Draft v1.1
+18
+do much more. Municipalities have up to now identified isolated measures and do 
+not have adequate data to understand their energy use profile.
+The measures for municipal services address the need for a holistic approach to 
+energy efficiency as a municipality, and the provision of support to implement the 
+identified energy saving opportunities. The basis of the approach is to empower 
+municipalities to identify the measures that are feasible and bring about the greatest 
+return, both in terms of energy savings and on investment, and to source funding 
+through a variety of mechanisms, rather than relying on the grant mechanism.
+Municipalities will be required to submit energy efficiency strategies, which will be 
+informed by a comprehensive energy audit of their services and activities, and 
+aligned with the provincial strategies. 
+On the basis of the energy audit and municipal strategy, the DoE will assist 
+municipalities in developing energy management plans, associated business plans 
+and financing proposals to source financing for the measures that are prioritised. By 
+demonstrating clearly the current consumption patterns and potential for savings, 
+alternative financing mechanisms could be exploited, such as energy 
+performance contracts with private sector ESCOs, reducing the investment burden 
+on the government and the municipality.
+To contribute to the development of the “Leading by Example” brand, municipalities 
+will participate in an energy-rating scheme. This could be incorporated into existing 
+schemes that are recognised in South Africa, such as the green star rating. The 
+emphasis will be on establishing a system that reflects the diversity of municipalities 
+(in terms of population density, standard of living, population, etc.) and the energy 
+efficiency of the services they offer.
+Basis for the Targets
+Two targets are proposed for the municipal services sector:
+ 20% reduction in the energy intensity (measures as energy consumption per 
+head of population served) in the provision of electricity-intensive municipal 
+services (namely, street lighting, traffic lights, water supply and wastewater 
+treatment)
+ 30% reduction in the fossil fuel intensity of municipal vehicle fleets (measures 
+as total fossil fuel consumption per head of population served).
+The municipal services target is based on results of a simple spreadsheet model for 
+estimating the potential savings from retrofitting streetlights and optimising pumping 
+systems between now and 2030. The estimates were adjusted to take account of the 
+savings that have already been achieved to date through the EEDSM programme.
+The vehicle fleet target is based on the assumption that a 20% improvement in the 
+technical efficiency the fleet (as per the Transport Sector target) is complemented by 
+additional savings of 10% from a combination of driving training, optimising vehicle 
+usage and substitution of alternative fuels.Goals
+Targets
+Transform the market for household appliances in favour of more energy efficient models
+Substantially reduce the average specific energy consumption of the stock of residential buildings
+A 33% reduction in the average specific energy consumption of new household appliances purchased in
+South Africa by 2030 relative to a 2015 baseline
+A 20% Improvement in the average energy performance of the residential building stock by 2030 relative to a
+2015 baseline, as measured by the energy consumption (excluding plug loads) per square meter of habitable
+space.
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+19
+5.2. The residential sector
+The Measures
+South Africa‟s residential sector currently consists of about 16 million households, a 
+number that is expected to increase to 19-20 million by 2030. The National 
+Development Plan (NDP) emphasises the need to ensure that this growth in 
+household numbers is accompanied by improved living standards and reductions in 
+energy poverty and income inequality. As a consequence, the next 15 years will see 
+a huge increase in the rate of ownership of household appliances, with many 
+households acquiring a range of appliances for the first time. The NDP also commits 
+to the provision of adequate housing for all, while the Department of Human 
+Settlements (DoHS) has committed to ensuring that the goal of delivering affordable 
+housing in sufficiently large volumes to meet the needs of the poor does not lead to 
+compromises with regard to the energy efficiency of homes.
+The two main themes of the package of policy measures for the residential sector 
+are therefore to transform the market for household appliances in favour of more
+energy efficient models, and to substantially reduce the average specific energy 
+consumption of the stock of residential buildings.
+For household appliances, mandatory labelling is already in place, and minimum 
+energy performance standards (MEPS) have been introduced or are proposed for 
+most of the major categories of appliance. Successive tightening of appliance 
+MEPS will ensure that the market is continually pushed in the direction of improved 
+energy efficiency for the duration of the Strategy period. In order to ensure that 
+appliance manufacturers and suppliers are able to respond positively to tightening 
+standards, the intended trajectory that MEPS will follow will be announced well in 
+advance.
+While MEPS provide a “market push”, appliance labelling aims to pull the market 
+towards improved energy efficiency by providing consumers with the information 
+they need to choose more energy efficient models. The feasibility will be explored of 
+introducing an energy endorsement label to run alongside the existing system of 
+comparison labels for appliances. Endorsement labels are designed to provide 
+appliance purchasers with a simple yes/no indication that an endorsed appliance is 
+among the most energy efficient in its class. Experiences in several other countries 
+suggest that a strongly branded endorsement label (of which the ‘Energy Star‟ brand 
+is the most famous) may be a valuable complement to the system of comparison 
+labels already in place.Post-2015 National Energy Efficiency Strategy Draft v1.1
+20
+While appliance MEPS and labelling are expected to have a strong influence on the 
+energy efficiency of new appliances, their effect may be significantly weakened if 
+older, less efficient appliances are not removed from the stock of equipment in use. 
+In particular, many lower-income households acquiring appliances for the first time 
+may be tempted to purchase second-hand items which, although costing less upfront, will lock the owners into several years of higher energy bills. The feasibility of a 
+scrappage scheme for appliances will therefore be investigated, whereby 
+householders are incentivised to ensure that old appliances are disposed of (for 
+example, by offering a trade-in against the purchase price of a new appliance).
+For residential buildings, continuous improvement in the energy efficiency of new 
+dwellings will be pushed by means of successive tightening of building 
+standards throughout the Strategy period. As with appliance MEPS, the intended 
+trajectory for the tightening of standards will be announced well in advance, to 
+provide sufficient time for both the construction industry and the municipal officials 
+responsible for ensuring compliance to adapt. For smaller municipalities in particular, 
+this measure will probably require some degree of capacity building to be provided 
+for building control officers. Efficient enforcement will also be a crucial element of 
+strengthening compliance, which implies the need for effective sanctions for builders 
+and authorities that fail to comply. 
+The issuing of mandatory energy performance certificates (EPCs) for new 
+construction provides a simple means of checking compliance with building 
+standards. The cost-effectiveness and feasibility of introducing EPCs for existing 
+dwellings will also be assessed (possibly on a voluntary basis initially), which would 
+serve to provide a market pull in favour of more efficient buildings. A range of options 
+may be explored, including incentivising the obtaining of an EPC through a small 
+rebate on Transfer Duty to partially cover the cost, or making EPCs mandatory upon 
+the transfer of a property. Mandatory EPCs will be considered for the rental sector, 
+where the issue of split incentives is likely to limit the extent to which energy 
+efficiency interventions take place. This would be consistent with the NDP, which 
+acknowledges that insufficient attention has been paid in the past to the importance 
+of the rental and social housing.
+The aim of EPCs for residential buildings is to influence the property market through 
+a price premium on more energy efficient homes, which would give householders an 
+additional incentive (as well as the direct energy cost savings) to invest in energy 
+efficiency measures with a longer payback period. However, experience from some 
+countries suggests that this internalisation of energy performance into the property 
+market is slow and uncertain. Consideration will therefore be given in the mediumterm to the provision of financial incentives to undertake thermal improvements
+of existing residential buildings. These may take the form of direct grants for lower 
+income groups, partial grants, low-interest loans, or rebates against Transfer Duty 
+when the property is next sold.
+To ensure that households are able to respond positively to market signals, 
+programmes of awareness-raising and the provision of information will continue 
+to be implemented, building on the Department of Energy‟s recently initiated energy 
+efficiency campaign as well as other successful initiatives such as Eskom‟s 49M 
+campaign, the energy education material developed by Eskom in partnership with 
+the Department of Education, the Department for Environmental Affairs „MY2050‟ Post-2015 National Energy Efficiency Strategy Draft v1.1
+21
+calculator and the Eskom / WESSA (Wildlife and Environment Society of South 
+Africa) resources on sustainable energy for use in schools the community.
+A possible future direction for awareness-raising efforts is to engage municipalities 
+in developing and disseminating materials that are specifically targeted at local 
+populations. This is likely to be particularly important for lower income groups for 
+whom energy consumption patterns have a disproportionately strong influence on 
+the quality of life of the lowest income households. Firstly, energy costs constitute a 
+much larger fraction of total household expenditure in low-income groups16; hence 
+the inefficient use of energy represents a heavier financial burden for poorer 
+households. Secondly, the types of energy carrier that are prevalent in low income 
+households lead to a wide range of adverse effects (e.g. indoor air pollution, fire 
+risks). Because the technologies used for cooking, water heating and space heating 
+by the lowest income groups are not amenable to regulation or efficiency standards, 
+the provision of targeted information and awareness-raising is likely to be the most 
+effective means for bringing about improvements in efficiency and accelerating a 
+shift towards more modern energy technologies such as SWHs and LPG.
+Given the success of the Department of Energy‟s Energy Efficiency Demand Side 
+Management programme in mobilising municipalities to deliver energy savings in 
+municipal services, opportunities will also be explored for municipalities to play a 
+direct role in achieving energy efficiency improvements in the residential sector. 
+Areas where the involvement of municipalities may enhance the delivery of 
+household energy efficiency programmes include:
+ using their purchasing power when implementing retrofits on their own 
+buildings to bulk-procure equipment and materials that is then made available 
+for use in local residential sector projects
+ facilitating the formation of residents‟ action groups as vehicles for the 
+bundling of individual household energy efficiency project into packages that 
+may be more attractive to local contractors
+As described in the section „Generation and distribution‟ below, consideration will 
+also be given to placing an energy savings obligation on distributors of energy. 
+Such obligations would require municipalities, in their role as suppliers of electricity, 
+to implement measures to bring about energy savings among the customers they 
+serve – in particular, household customers. Since the sale of electricity to residential 
+consumers is an important source of municipal income, the design of an obligation 
+scheme would need to ensure that successful implementation does not reduce the 
+income stream of municipalities to the extent that the delivery of other key services is 
+compromised.
+Basis for the Targets
+Two targets are proposed for the residential sector:
+ 
+16 According to the StatsSA report “Income and Expenditure of Households 2010/11”, households in the lowest 
+expenditure decile spend 6.4% of their total household expenditure on energy, versus 1.7% for those in the 
+highest expenditure decile.Post-2015 National Energy Efficiency Strategy Draft v1.1
+22
+ 33% reduction in the average specific energy consumption of new household 
+appliances purchased
+ 20% improvement in the average energy performance of the residential 
+building stock
+The appliances target is based on an assumption that there will be two successive 
+tightenings of minimum energy performance standards (MEPS) between now and 
+2030, as described in Annex D. The overall targeted reduction in average specific 
+energy consumption is derived from a weighted mean of the individual reductions by 
+appliance type, weighted according to expected sales.
+The buildings target is based on a combination of a 38% average improvement in the 
+energy performance of new buildings by 2030 through tightening of building 
+standards17, and a 15% improvement in the thermal performance of dwellings built
+before 2015, achieved through thermal retrofits. Since new dwellings built after 2015 
+are expected to account for 20% of all homes by 2030, the weighted mean of the two 
+factors described above leads to an overall average improvement of approximately 
+20% across the whole 2030 stock of buildings.
+ 
+17 Based on a low turnover of residential building stock than in the commercial and public sectors.Goal
+Target
+Accelerate the current rate of improvement in the energy consumption per square metre of
+lettable/ inhabited floor space in the commercial sector
+A 37% reduction in the specific energy consumption (measured as GJ annual energy
+consumption per m2 of lettable / habitable floor area) by 2030 relative to a 2015 baseline
+Goal
+Target
+Accelerate the current rate of Improvement in the energy consumption per square metre of
+lettable/ inhabited floor space in the commercial sector
+A 37% reduction in the specific energy consumption (measured as GJ annual energy
+consumption per m2 of lettable / habitable floor area) by 2030 relative to a 2015 baseline
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+23
+5.3. The commercial sector
+The Measures
+The commercial sector in South Africa includes a very broad range of activities, 
+including wholesale and retail trade, the motor trade, the hospitality industry, and a 
+range of business services. The commercial sector accounts about 4-5% of total final 
+energy consumption, primarily in the form of electricity. Due to the varied nature and 
+scale of the activities, measures for the commercial sectors have generally focused 
+on improving the energy efficiency of the building envelope. SANS 204:2011 and 
+SANS 10400-XA address the efficiency standards to be reached by new buildings
+(notwithstanding the need for a significant tightening of SANS 10400-XA at the 
+earliest opportunity). However, as with other buildings sectors, the energy efficiency 
+in the existing building stock is challenging to address. The commercial property 
+sector has been specifically active in improving energy efficiency, specifically of 
+managed buildings for which the landlord is responsible for energy bills.
+The two main themes of the package of policy measures for the commercial sector 
+are therefore to continue the significant progress made by tightening regulation, and 
+providing financial incentives to improve the business case for deeper 
+improvements.
+For commercial buildings, the current initiatives to improve energy efficiency within 
+buildings will be continuously improved and the level of ambition increased. The 
+energy efficiency of new buildings will be driven by means of successive tightening 
+of building standards throughout the Strategy period. The intended trajectory for 
+the tightening of standards is being formulated and will be announced well in 
+advance, to provide sufficient time for both the construction industry and government 
+officials responsible for ensuring compliance to adapt. 
+The mandatory display of energy performance certificates (EPCs) in buildings will 
+be extended to all rented commercial properties. The introduction of green leases in 
+buildings occupied by public sector institutions is likely to make these leases more 
+commonplace (see Section 5.1). These measures need to be accompanied by 
+awareness raising in the sector to stimulate demand for greater efficiency in 
+buildings, thereby affecting market prices.
+Mandatory labelling is already in place, and minimum energy performance standards 
+(MEPS) have been introduced or are proposed for most of the major categories of 
+household appliance, some of which may also be used in the commercial sector. 
+Broadening the scope of mandatory labelling and MEPs to cover appliances that 
+are commonly used in the commercial sector (such as large-scale cooking 
+appliances, refrigeration, space heating, ventilation and air conditioning) will 
+gradually improve overall appliance efficiency as they are replaced. In order to 
+ensure that appliance manufacturers and suppliers are able to respond positively to Post-2015 National Energy Efficiency Strategy Draft v1.1
+24
+tightening standards, the intended additional categories of equipment and the 
+trajectory for tightening the MEPS will be announced well in advance. Where the use 
+of specific types of appliances is considered to having a significant effect on energy 
+consumption in the commercial sector, a scrappage scheme could be considered to 
+encourage the replacement of old appliances however sector-specific research 
+would need to be performed by the innovation hub (see Section 6) to identify the 
+significance of the potentials and understand the implications of this. 
+The feasibility will be explored of introducing an energy endorsement label to run 
+alongside the existing system of comparison labels for appliances. Endorsement 
+labels are designed to provide purchasers with a simple yes/no indication that an 
+endorsed product is among the most energy efficient in its class. Experiences in 
+several other countries suggest that a strongly branded endorsement label (of which 
+the „Energy Star‟ brand is the most famous) may be a valuable complement to the 
+system of comparison labels already in place.
+The renovation of existing building stock in the commercial sector is challenging as, 
+for the most part, tenants are responsible for the energy bills, removing the incentive 
+for landlords to take action as they do not see a return on the investment. Therefore, 
+until the display of EPCs has an affect on demand for greater energy efficiency in the 
+commercial sector, alternative financing solutions need to be exploited. The 12L, 
+which currently cannot be accessed by property trusts, will be reviewed to establish 
+how it can become relevant for the commercial sector. However, the business case 
+for deeper energy efficiency retrofits may require a specific incentive mechanism, 
+targeting large impact initiatives, where the incentive is provided to ESCOs to 
+achieve high levels of savings, while levels of activity are maintained.
+Basis for the Targets
+The target proposed for the commercial buildings sector is a 37% reduction in the 
+specific energy consumption (annual energy consumption per m2
+) of lettable / 
+habitable floor area across the sector. This target is based on an assumption that 
+successive tightening of building standards will yield an average improvement in 
+specific energy consumption across all new buildings of 54% by 2030. Retrofits of 
+existing buildings are assumed to result in an average improvement in specific 
+energy consumption of 20%. Since new buildings are assumed to account for half of 
+the 2030 building stock, the weighted mean of these improvements in a 37% 
+reduction in specific energy consumption across the whole sector.Goal
+Targets
+Create an enabling environment for the full exploitation of energy efficiency opportunities
+across the manufacturing and mining sectors
+A 16% reduction in weighted mean specific energy consumption in manufacturing by 2030
+relative to a 2015 baseline
+A cumulative total annual energy saving of 40 RI arising from specific energy saving
+interventions undertaken by mining companies
+Goal
+Targets
+Create an enabling environment for the full exploitation of energy efficiency opportunities
+across the manufacturing and mining sectors
+A 16% reduction in weighted mean specific energy consumption in manufacturing by 2030
+relative to a 2015 baseline
+A cumulative total annual energy saving of 40 RI arising from specific energy saving
+interventions undertaken by mining companies
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+25
+5.4. The industry and mining sector
+The Measures
+South Africa‟s industry and mining sector accounted for about 23% of total GDP in 
+2014, and employed around 2.2 million people. As of 2012, the sector was 
+responsible for about 34% of the country‟s total final energy consumption. The iron & 
+steel industry and the mining industry each accounted for about one-fifth of the 
+sector‟s total energy consumption, while non-ferrous metals, non-metallic minerals 
+and chemicals were together responsible for a further 27% of consumption. 
+At about 12 MJ per US$ of value-added in 2012, the energy intensity of 
+manufacturing in South Africa was over twice the average level in the European 
+Union. However, international comparisons of this kind must be approached with 
+caution because of the widely differing circumstances in different countries. In fact, a 
+study by the International Energy Agency suggests the scope for energy savings 
+beyond business as usual is a relatively modest 10% by 2030. Most of this potential 
+exists outside of the main energy intensive processes (blast furnaces, smelters, 
+cement kilns etc.), in areas such as heating, ventilation and air conditioning (HVAC), 
+lighting, generic motor-driven systems and energy management.
+The focus of the industry and mining sector policy measures is to build on the 
+significant progress already being made by the front-runners, while creating an 
+enabling environment for all players within the sector to fully exploit all available costeffective energy efficiency opportunities. Shorter-term actions are particularly 
+important, to ensure that the whole sector is equipped to respond effectively to the 
+current challenges of the current global economic climate and rapidly increasing 
+electricity prices.
+Current efforts to promote the widespread adoption of energy management 
+systems (EnMS) will be continued. The mandatory preparation and submission of 
+energy management plans will be introduced for enterprises whose annual energy 
+consumption exceeds 180 TJ. Alongside this, a second phase of the previously 
+successful UNIDO Industrial Energy Efficiency programme will continue to 
+mainstream the introduction of EnMS through capacity building, policy development 
+and demonstration projects. To support and complement these efforts, consideration 
+will be given to the development of appropriate schemes to incentivise the 
+introduction of EnMS and ISO 50001 certification, particularly among enterprises that 
+are not directly reached by the Industrial Energy Efficiency (IEE) programme and are 
+not covered by the regulation for mandatory energy management plans.
+The approach of providing a comprehensive service of targeted advice, 
+information, assistance and subsidised energy audits has proved successful in Post-2015 National Energy Efficiency Strategy Draft v1.1
+26
+South Africa. The Private Sector Energy Efficiency (PSEE) programme run by the 
+National Business Initiative provided such a service, but it ended at the end of 2015. 
+Potential sources of funding, effective delivery mechanisms and an appropriate 
+hosting body will therefore be identified to allow the development of a permanent 
+successor scheme to PSEE, particularly focussing on the needs of small and 
+medium-sized enterprises (SMEs). Recognising that improved energy efficiency 
+impacts positively on the financial strength of SMEs, the potential role of the banking 
+sector as delivery agents will be explored. Consideration will also be given to 
+integrating the provision of these services into the broader functions offered by the 
+proposed sectoral innovation hubs (See Section 6).
+While the provision of advice and audits and the wider adoption of EnMS are 
+important in increasing awareness of the opportunities for improved energy 
+efficiency, significant energy savings will result only if these initiatives are coupled 
+with programmes and measures to enhance the flow of investment into energy 
+efficiency. At present, this role is being fulfilled mainly by the Green Energy 
+Efficiency Fund (GEEF) operated by the Industrial Development Corporation, since 
+both the Manufacturing Competitiveness Enhancement Programme and much of 
+Eskom‟s Integrated Demand Management are currently on hold. The Department of 
+Energy will therefore continue to collaborate with the National Treasury, the 
+Department of Trade and Industry and other government departments, with 
+international financial institutions and donor organisations, with the local banking 
+sector and with industry sector stakeholders to ensure that appropriate and effective 
+financing schemes for energy efficiency continue to be developed and sustained.
+The 12L tax incentive scheme will remain a key component of the Department of 
+Energy‟s approach to encouraging energy efficiency improvement in the industry and 
+mining sector. The uptake of 12L is likely to improve following the recent increase in 
+incentive levels and the extension of eligibility to include cogeneration projects. 
+However, it is recognised that a number of outstanding issues limit the attractiveness 
+of the scheme to some of its intended target group. Efforts are currently in progress 
+to address these constraints, and in particular to streamline and simplify the 
+monitoring and verification (M&V) procedures. Moving forward, a process will be put 
+in place for the continued review and improvement to the 12L scheme, to ensure 
+that it remains effective and relevant. Associated with this, work will continue with the 
+Measurement and Verification Council of South Africa, South African National 
+Accreditation System (SANAS) and other key stakeholders to facilitate the continued 
+development of a dynamic and competitive monitoring and verification (M&V) sector.
+Minimum energy performance standards (MEPS) for industrial electric motors
+and motor-driven systems have been shown to be effective in many parts of the 
+world. However, the impact of MEPS may be constrained if they are introduced in 
+isolation, so they will be introduced as part of a wider coordinated approach to 
+transforming the market for industrial electric motors. This will also include: 
+awareness-raising and support relating to the importance of overall system 
+optimisation; tighter regulation of the motor rewinding industry; the use of differential 
+import duties to reduce / eliminate the price differential between standard and 
+premium efficiency motors. MEPS may also be extended to include packaged motordriven systems (pumps, compressors, fans etc.).Post-2015 National Energy Efficiency Strategy Draft v1.1
+27
+For industrial boilers, MEPS are impractical because of the wide range of different 
+operating conditions under which boilers are used. Instead, a more effective means 
+of ensuring satisfactory levels of performance are achieved is to specify mandatory 
+minimum design standards. These would generally require the inclusion of design 
+features such as combustion controls, an economiser and a variable speed drive on 
+the combustion air blower. The feasibility will therefore be explored of introducing 
+mandatory minimum design standards for industrial boilers in South Africa.
+While MEPS / mandatory design standards will ensure that the worst-performing 
+devices are removed from the market, the process of energy efficient procurement 
+would be greatly simplified with the use of a simple, well-recognised endorsement 
+label for high energy performance to run alongside MEPS. The most well known
+example of this is the Energy Star brand in the US, which provides an independent 
+and trustworthy indication that the device in question is among the best-performing in 
+its class. The feasibility of developing a clearly branded endorsement label specific 
+to South Africa will therefore be evaluated.
+Basis for the Targets
+Two targets are proposed for the industry & mining sector:
+ 16% reduction in the weighted mean specific energy consumption of 
+manufacturing
+ 40 PJ cumulative annual saving from energy efficiency interventions in mining
+The manufacturing target is based on an assumption of an average 5% energy 
+saving in the energy-intensive process-specific activities (e.g. blast-furnaces, 
+smelters, cement kilns etc.) along with an average 35% saving in generic energyusing activities (HVAC, lighting, pumps, conveyers etc.) including the effects of 
+behavioural change.
+The mining sector target is based on an estimate of the typical savings achieved by 
+the major mining companies over recent years combined with a synthesis of their 
+stated energy saving targets expressed for the near future. Note that the mining 
+target is expressed as a bottom-up summation of the effects of individual energy 
+savings initiatives, because neither specific energy consumption (energy per unit of 
+product mined) nor energy intensity (energy per unit of economic output) is a 
+satisfactory proxy for energy efficiency in mining.i
+Goal
+Target
+Contribute to the modernisation of the sector and the rebuilding of an inclusive rural
+economy by addressing the inefficient use of energy in agriculture
+A total electricity saving of 1 Pl through officially supported projects by 2030
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+28
+5.5. The agriculture sector
+The Measures
+The agriculture sector (including forestry and fishing) accounts for only about 2% of 
+South Africa‟s total final energy consumption, and a similar fraction of total GDP. 
+However, it is a key sector from a social perspective, as it has been estimated by 
+Statistics South Africa that as many as 20% of all South African households are 
+directly connected with agriculture. Addressing the inefficient use of energy in 
+agriculture therefore has the potential to contribute to the modernisation of the sector 
+as part of the process of rebuilding an inclusive rural economy. 
+Relatively little research has been conducted in opportunities for energy savings in 
+the agricultural sector. A few case studies have highlighted the considerable savings 
+potential in motor-driven systems (irrigation pumps, fans, dryers etc.), but given the 
+large fraction of energy consumption that is accounted for by petroleum products, it 
+is likely that significant energy savings are possible in agricultural vehicles. Despite 
+the opportunities for energy savings in agriculture, and the potential for multiple 
+benefits in terms of building a modern, thriving rural economy, there have been no 
+energy efficiency programmes specifically targeting the sector to date. Exploratory 
+consultation is required with stakeholders from the agricultural sector to gain a better 
+understanding of energy use patterns and the opportunities for energy savings, 
+particularly among the smaller farms and smallholders.
+Large percentage savings in electricity consumption have been shown to be possible 
+through the optimisation of motor-driven systems. The provision of training and 
+high-quality targeted awareness-raising material may therefore be expected to 
+yield significant impacts. Partnerships will be developed with the Agricultural 
+Research Council (ARC), the Council for Scientific and Industrial Research (CSIR)
+and with sector associations such as the African Farmers‟ Association (AFASA) and 
+Agri South Africa for the design, development and dissemination of such materials. 
+In particular, the possibility will be explored for including modules on energy 
+efficiency in the training courses run by ARC and by SABI (the South African 
+Irrigation Institute).
+Since two-thirds of the energy consumed in agriculture is in the form of petroleum 
+products, this suggests a significant savings potential in vehicles. More research is 
+required to derive a full understanding of the patterns of fuel use, and to identify 
+specific areas where fuel savings may be realised. Based on the findings of this 
+research, the DoE will work in partnership with the relevant sector stakeholders to 
+develop awareness-raising campaigns around vehicle use in the agricultural 
+sector.
+Avenues for mobilising funding for energy efficiency improvements will be assessed 
+and developed. For small farmers, it is likely that the use of direct grants to 
+support capital expenditure on energy efficiency improvements would be the 
+most effective route. Efforts will therefore be made in partnership with DAFF to Post-2015 National Energy Efficiency Strategy Draft v1.1
+29
+secure a National Treasury budget allocation for this purpose. For larger projects, 
+mobilising funding will involve working with SANEDI and the National Treasury to 
+ensure that the 12L tax incentive scheme meets the needs of the sector. The 
+agricultural sector is also likely to prove an attractive source of carbon-offset
+projects, since the sector will fall outside of the scope of the proposed carbon tax. A 
+further potential source of finance is through energy performance contracts with 
+ESCOs, financed through normal bank financing, or through Eskom‟s ESCO 
+programme. The scope will be explored for providing targeted training to support the 
+development of specialist agricultural ESCOs.
+Basis for the Targets
+The target proposed for the agriculture sector is a total electricity saving of 1 PJ from 
+officially supported energy saving projects. This target is based on an assumption 
+that sector-wide savings from the optimisation of motor-driven systems (mainly 
+irrigation, but also drying, cooling and ventilation) amount to about 2-4 PJ annually, 
+with a significant fraction of that potential being realised though official support. Note 
+that no target has been set for fuel savings in agricultural vehicles, because it is not 
+certain that the data would be available to allow such a target to be monitored. 
+However, it is recommended that the situation is periodically reviewed and a target 
+set if future data availability permits.Goal
+Targets
+To bring about significant improvements to the average fuel efficiency of the fleet of road
+transport vehicles in South Africa.
+A 20% reduction in the average vehicle energy intensity (measured in MJ /km) of the South
+African road vehicle fleet relative to a 2015 baseline.
+Goal
+Targets
+To bring about significant improvements to the average fuel efficiency of the fleet of road
+transport vehides in South Africa.
+A 20% reduction in the average vehide energy intensity (measured in MJ /km) of the South
+African road vehicle fleet relative to a 2015 baseline.
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+30
+5.6. The transport sector
+The Measures
+The transport sector in South Africa accounts for 27% of total final energy 
+consumption (Energy Balance Tables, 2012), 90% of which is attributable to road 
+transport. Between 2004 and 2012, the energy intensity of the transport sector has 
+been relatively constant as compared to other sectors, although there are structural 
+changes (such as modal shifts) that have occurred during this period that cannot be 
+identified due to the current lack of data (EETMS, 2015). When it comes to improving 
+energy efficiency in the transport sector, the most effective measures are complex 
+and the largely fall outside the mandate of the Department of Energy, for example 
+improving public infrastructure, town planning, and incentivising modal shifts. The 
+Department of Transport has developed a Fuel Reduction Strategy (2015) and a 
+GHG Emissions Reduction Strategy (2015) that aim to address these measures. 
+Because of the dominance of road transport in terms of energy consumption, and the 
+limited remit of the DoE in the transport sphere, the package of policy measures for 
+the transport sector in this Strategy focuses on two main themes: to encourage the 
+increase in supply of affordable and efficient vehicles, and to improve user 
+behaviour, both of private drivers and commercial drivers. Inter-departmental 
+collaboration is vital in this sector and therefore the Department of Energy will work 
+closely with the Department of Transport and the Department of Environmental 
+Affairs, as well as the South African National Roads Agency (SANRAL).
+For all vehicles, the display of labels has been obligatory since 2008. These labels 
+include average fuel consumption and CO2 emissions. Vehicle efficiency 
+standards will be introduced to avoid new, inefficient vehicles being sold on the 
+market. This naturally has implications for local vehicle manufacturers and therefore 
+adequate notice will be provided to ensure that the industry can adapt. This will 
+provide the push factor to filter out bad performing new vehicles.
+However, in order to raise the average fuel efficiency of the vehicle parc, voluntary 
+agreements will be established with manufacturers in the automotive industry to 
+improve the average fuel efficiency of the vehicles they manufacture over and above 
+the regulated minimum. The introduction of an incentive scheme will be considered 
+that will levy an importation tax on vehicles on low efficiency vehicles that could be 
+used to subsidise the purchase of efficient vehicles. To incentivise vehicle 
+replacement, the feasibility of introducing a scrappage scheme will be assessed, 
+with the aim of encouraging vehicle owners to replace old vehicles, effectively 
+subsidising the individual to purchase a more efficient vehicle.
+To improve the performance of vehicles on the road, the feasibility of incorporating 
+fuel efficiency tests on vehicles during the roadworthiness test on change of 
+ownership will be investigated. In the long term, the Department of Energy will work Post-2015 National Energy Efficiency Strategy Draft v1.1
+31
+with the Department of Transport and the Department of Environmental Affairs and 
+municipalities to establish an annual environmental fitness test for vehicles, 
+contributing to both fuel efficiency and a reduction in CO2 emissions. 
+Improving driver behaviour is an effective mechanism through which to improve 
+energy efficiency. The introduction of eco-driving will be incorporated into the 
+curriculum for driving schools in order to raise the awareness of new drivers to the 
+impact they have on how much fuel they consume. Voluntary agreements will be 
+established with owners of large vehicle fleets, both freight and passenger 
+companies, to define actions that can be taken to improve the performance of the 
+vehicle fleet. This will include eco-driving education but also address the condition of 
+their vehicles, specifically tyre condition and pressure.
+Across the transport sector and for all modes of transport, knowledge sharing on 
+best practice and improved technologies will be facilitated by the innovation hubs. 
+The provision of specialised technical expertise for the transport sector will be 
+promoted through the professionalization of ESCOs with transport-specific 
+experience (see Section 6).
+Basis for the Targets
+The target proposed for the transport sector is a 20% reduction in the average 
+energy intensity of the road vehicle fleet (determined from the vehicle energy 
+consumption per km as specified on the fuel economy label). This target is based on 
+an assumption that the average fuel efficiency of new vehicles will be about 50% 
+lower than today (based on IEA estimates), combined with conservative assumptions 
+about the rate of turnover of the stock of vehicles.Goal
+Target
+Accelerate the improvement of energy efficiency in the generation, transmission and
+distribution of energy
+A total of 10 PJ of electricity derived from grid- connected cogeneration plant by 2030
+Average total electricity distribution losses below 8% by 2030, and average non -technical
+losses below 0.5%
+Goal
+Target
+Accelerate the improvement of energy efficiency In the generation, transmission and
+distribution of energy
+A total of 10 Pi of electricity derived from grid -connected cogeneration plant by 2030
+Average total electricity distribution losses below 8% by 2030, and average non -technical
+losses below 0.5%
+Post-2015 National Energy Efficiency Strategy Draft v1.1
+32
+5.7. Production and distribution
+The Measures
+The Department of Energy Integrated Energy Plan (IEP) and Integrated Resource 
+Plan (IRP) jointly define the anticipated energy mix with a view to informing policy to 
+address future energy service needs efficiently and in the most socially beneficial 
+manner. While the dominant role of coal-fired power is expected to continue through 
+to 2030, solar PV, wind and other renewable energy sources are anticipated to 
+increase in importance in the energy mix. The main mechanism for the promotion of 
+renewable generation is the Renewable Energy Independent Power Producer 
+Procurement Programme (REIPPPP), which was launched in 2011 after earlier 
+moves to introduce a feed-in tariff were unsuccessful.
+Recent shortages of generation capacity have highlighted the necessity to improve 
+energy efficiency at all points in the supply chain from generation through to end use. 
+The National Development Plan specifically refers to energy generation and 
+distribution as a pressing constraint on growth, investment and job creation. 
+Although receiving little attention in the IEP / IRP, considerable potential exists in 
+South Africa for the production of electricity from industrial cogeneration plant as well 
+as from waste heat recovery. Eskom launched a procurement process for 
+independent power producers (IPPs) using cogeneration in the mid-2000s but this
+was unsuccessful. High investment costs and the lack of incentives provided by the 
+current regulatory framework present barriers to the exploitation of the available 
+potential.
+Although bids for up to 800 MW of cogeneration capacity have recently been invited 
+under the CogenIPPP programme, the level of response appears to be well below 
+the capacity available. To expedite the full exploitation of the available resource, 
+there is a need to review and address any remaining regulatory and financial 
+barriers, and ensure that the terms of future procurement rounds (including the price 
+cap) are attractive to prospective investors. At the same time, appropriate efficiency 
+thresholds should be defined for plant to qualify, and steps taken to ensure that 
+power produced qualifies for credits against any future carbon tax, to reflect the 
+average carbon intensity of the grid power displaced. Further tenders may then be 
+launched for the procurement of power from high-efficiency cogeneration and 
+waste heat recovery.Post-2015 National Energy Efficiency Strategy Draft v1.1
+33
+An internationally proven approach to stimulate significant end-use efficiency savings 
+is to place energy efficiency obligations on various players in the energy sector. 
+Such obligation schemes require obligated parties to achieve quantified savings 
+among particular end-user groups (usually households, and sometimes also SMEs).
+Schemes are generally designed such that obligations must be at least partly met by 
+achieving energy savings in certain specific target groups (e.g. low income 
+households). The most common model places an obligation on distributors / 
+suppliers of electricity, but in some cases the obligation also extends to suppliers of 
+other energy carriers and / or the operator of the high-voltage transmission network.
+Assessments will be conducted to identify the optimum model for an energy 
+efficiency obligation scheme in South Africa. One possible model would be to place 
+the obligation on Eskom and on those municipalities that are involved in the supply 
+of electricity. Setting a size threshold for such an obligation would ensure that only 
+the largest municipalities would be obligated at the outset. Since schemes do not 
+usually restrict obligated entities to achieve energy savings among their own 
+customers, the potential may therefore be created for larger municipalities to achieve 
+savings by forming partnerships with smaller non-obligated municipalities.
+An alternative model is to place an obligation only on Eskom in its capacity as 
+operator of the transmission grid. One route to meet its obligation would then be for 
+Eskom to “buy” the savings that municipal suppliers of electricity were able to
+achieve among their customers.
+A further measure to be considered is to set mandatory targets on all generators 
+for the achievement of efficiency savings within their „internal‟ operations (i.e. any 
+operations not directly involved in the generation of power, such as buildings and 
+vehicle fleets). Eskom has already made significant progress in this respect, through 
+its Internal Energy Efficiency programme, but as more IPPs begin to emerge it is 
+essential that all meet the same high standards of internal energy efficiency. This will 
+ensure that the power generation sector is seen to be leading by example.
+Basis for the Targets
+Two targets are proposed for the power generation and distribution sector:
+ 10 PJ of electricity derived from grid-connected cogeneration and waste heat 
+recovery plant
+ Electricity distribution losses below 8%
+The first target derives from a relatively conservative assumption regarding the 
+extent to which the identified potential may be exploited (equivalent to a capacity of 
+about 500 MWe operating at 60% load factor). The second target is based on an 
+assumption that internationally acceptable levels of distribution loss (technical plus 
+non-technical) can be reached and sustained. 
+5.8. Sector-level and economy-wide impacts
+In most cases, the impact seen at the sectoral level includes not only the effects of 
+the targeted savings but also a range of other factors such as autonomous change, Post-2015 National Energy Efficiency Strategy Draft v1.1
+34
+and the continuing effects of policy measures that were already in place before the 
+current strategy period commenced. The relationship between the sectoral targets 
+and the sector-level impacts is explained in more detail in Annex A.
+Industry & mining sector: Available data in 2030 is likely to be sufficiently 
+disaggregated to allow a detailed decomposition analysis to be conducted on the 
+industry & mining sector. The combined effect of the 16% improvement in weighted 
+mean specific energy consumption in manufacturing, and the 40 PJ energy saving in 
+mining are expected to result in a sector-wide saving of about 15% after the effects 
+of structural change between industrial sub-sectors have been allowed for.
+Commercial & public sector: It is assumed that the availability of aggregated data 
+in 2030 will be similar to that of today, which would preclude anything other than a 
+very approximate decomposition analysis to be conducted of the combined 
+commercial and public sectors. Assuming the individual targets are met, the overall 
+result of a decomposition analysis conducted in 2030 would show a 37% reduction in 
+energy consumption attributable to efficiency improvements. This is the weighted 
+mean of the separate targets (37% from commercial buildings, 50% from public 
+buildings, 20% from municipal services and 30% from municipal vehicle fleets).
+Residential sector: A decomposition analysis conducted in 2030 (using shifts in the 
+relative size of LSM bands as an analogy for structural changes) would show a 33% 
+reduction in sector-wide energy consumption attributable to efficiency improvements.
+Transport sector: The detailed data necessary for a decomposition analysis of the 
+transport sector is unlikely to be available, so the overall impact of the expected 
+energy savings is expressed as a simple reduction in sector-wide energy intensity of 
+39%. 
+Agriculture sector: The detailed data necessary for a decomposition analysis of the 
+agricultural sector is unlikely to be available, so the overall impact of the expected 
+energy savings is expressed as a simple reduction in sector-wide energy intensity of 
+30%.
+Economy-wide impact: This is a weighted mean of the individual sector-level 
+impacts described in the preceding sections, which indicates that a decomposition 
+analysis conducted in 2030 would show an economy-wide reduction in energy 
+consumption of 29% attributable to efficiency improvements.Post-2015 National Energy Efficiency Strategy Draft v1.1
+35
+6. The enabling framework
+The enabling framework covers measures and activities that will support the 
+achievement of objectives, building a strong institutional basis on which to promote, 
+support and monitor energy efficiency. These initiatives are designed to improve the 
+professionalization of the sector, grow the knowledge base around energy efficiency, 
+as well as gather the information necessary for evidence-based decision-making.
+6.1. On-going strategic planning 
+The initial formulation of the strategic plan is the first step in a 15-year, continuous
+process from 2015 to 2030. The plan will be reviewed every five years to assess the 
+progress made towards the targets, the outcomes of the measures, and to make 
+adjustments as necessary. The first comprehensive review will take place in 2020 
+however annual brief reviews will be undertaken based on an annual progress 
+report. The resources to support the strategic plan will need to be secured and 
+therefore it may be necessary to review the strategy in light of this. The review 
+process will be collaborative and will engage stakeholders across the sectors.
+New opportunities and technologies are likely to arise during the 15-year time span 
+of this strategy, necessitating flexibility to take advantage of these opportunities. As 
+government policy develops, specifically in relation to climate change, the 
+harmonisation of policies will also be considered at each five-year review.
+6.2. Overcoming market barriers
+There are a number of market barriers, including the availability of investment 
+financing, misplaced incentives to purchase inefficient appliances, equipment and 
+vehicles, and a lack of information. Within each sector, measures have been put 
+forward in this Strategy to address the majority of barriers however the 
+professionalization of the energy efficiency sector is a measure that cuts across 
+sectors and is an enabler to facilitate the uptake of energy efficiency opportunities.
+The role of ESCOs in promoting and facilitating energy efficiency projects has 
+primarily been limited to functioning as implementing agents for Eskom‟s Integrated 
+Demand Management (IDM) programme. However, the potential that ESCOs have 
+to support the implementation of energy efficiency extends to undertaking energy 
+audits of all processes and activities, delivering on renovation work, bringing in 
+capital investment, taking on the investment risk by guaranteeing minimum savings, 
+monitoring and verification, facility management, and supply of energy. However, 
+current capacity to provide these services is limited, specifically in the industrial, 
+transport and agricultural sectors. The ESCO incubator described in Section 5.1 is 
+intended to nurture smaller ESCOs to eventually provide comprehensive services.
+A cornerstone of achieving this level of service is the professionalization of 
+services. This not only means having the technical skills to understand complex 
+processes, but also specialised sectoral experience to know the limitations of the 
+theory and how to overcome them to deliver effective solutions in practice. 
+Accreditation of ESCOs will be developed and promoted in collaboration with the 
+South African National Accreditation System (SANAS) and the South African 
+Qualifications Authority (SAQA). The accreditation system will allow for progressive Post-2015 National Energy Efficiency Strategy Draft v1.1
+36
+levels of attainment, allowing for ESCOs to gradually build towards full accreditation, 
+based on similar models adopted internationally, such as Singapore and the United 
+Arab Emirates. It is expected that by increasing the availability of qualified and 
+reliable ESCOs, the services offered will stabilise.
+6.3. Knowledge sharing, data collection and performance 
+monitoring
+Data required for policy-making and monitoring needs to be reliable and timely, 
+covering markets, technologies, and efficiency opportunities18, as well as strategy 
+performance monitoring data. With respect to the first three information needs, 
+innovation hubs will primarily be responsible for producing and sharing this 
+information. 
+Innovation hubs
+There are a number of activities being implemented to develop a knowledge base in 
+the energy efficiency field, such as the Energy Resource Centre and the National 
+Cleaner Production Centre. The DoE and DST have established an Energy 
+Efficiency Demand-Side Management Hub at the University of Pretoria. This concept 
+will be taken further and revised to broaden the scope to include sector-specific 
+divisions that can engage in activities that are relevant to the specific sectors and 
+sub-sectors, thereby increasing the relevance of the innovation hubs across all 
+sectors. 
+The emphasis of the hubs is to develop knowledge partnerships and test 
+technologies and processes in the South African context. The modality of 
+implementing the hubs will be defined in collaboration with relevant government 
+departments, academia and with relevant sectoral stakeholders, although it is 
+recommended that the hosts of the hubs are diverse to test different approaches. 
+Issues of confidentiality and anti-competitive information sharing would need to be 
+addressed carefully.
+The main functions of the hubs are envisaged to be:
+ To encourage knowledge transfer by partnering experts and academia with 
+sectoral organisations; 
+ Under the partnerships, undertake research on technologies and processes to 
+understand how international best practices could be applied in the South 
+African context;
+ Collaborate with sectoral stakeholders to identify specific barriers and 
+challenges in achieving optimum energy efficiency that warrant research;
+ Identify areas of innovation and to share this information (within the confines 
+of confidentiality) across the sector and more broadly;
+ Establish a community of practice constituted of sectoral energy stakeholders 
+bringing together the creators of knowledge on energy efficiency and the 
+users of that knowledge, including local manufacturers of energy efficient 
+technologies;
+ 
+18 IEA 25 Recommended Policy Interventions, 2011Post-2015 National Energy Efficiency Strategy Draft v1.1
+37
+ Where possible, develop demonstration sites and showcases of successful 
+technology innovation;
+ Collating international and national research on energy efficiency and 
+producing synthesis papers to summarise findings on specific themes.
+Data collection for performance monitoring
+Building on the establishment of the Energy Efficiency Target Monitoring System in 
+2014, the importance of data for evidence-based policy making is underlined by the 
+current lack of reliable data. Developing data collection and performance monitoring 
+systems is an area that will require significant investment of time, expertise and 
+infrastructure. The results-based framework detailed in Annex A should form the 
+basis for developing the data collection and on-going monitoring systems. Annex D
+(Basis for the development of the targets) provides details of the targets, how they 
+were derived and defined, and how they will be measured.
+The data collection needs should be considered across departments, taking into 
+consideration the reporting required for the purposes of the carbon tax, 12L, and 
+energy management plans. The DoE will deepen its collaboration with Statistics 
+South Africa to incorporate energy consumption patterns and levels as a core 
+element in routine data collection exercises. A household energy survey will be 
+designed and administered every 3 years to inform the strategy review process. 
+6.4. Monitoring compliance, enforcement and evaluating the 
+policy measures
+The authorities and organisations responsible for implementing the measures within 
+this strategy will need to take into consideration the monitoring, enforcement and 
+evaluation framework when designing the specific policy measure. One of the main 
+challenges of enforcement is ensuring that objectives, processes, and procedures 
+are well defined and consistently followed where measures are obligatory. 
+The points at which the verification of compliance with or enforcement of 
+requirements in accordance with defined regulations will be identified. For example, 
+the enforcement of regulations on the importing of equipment of certain standards 
+would take place at the port of entry and through routine spot checks of equipment 
+suppliers. In the case of building regulations, verification of compliance is currently 
+undertaken during the planning phase, without any further inspection of the actual 
+construction. As with other standards and regulations, spot checks by an 
+independent body may prove effective to ensure that the expected savings are 
+realised.Post-2015 National Energy Efficiency Strategy Draft v1
+38
+7. The way forwardThe following section provides an overview of the implementation plan for the first five years, the details of which are provided in 
+Annex E.
+Reference no.
+Measure Timelines
+Year 1
+2016-2017
+Year 2
+2017-2018
+Year 3
+2018-2019
+Year 4
+2019-2020
+Year 5
+2020-2021
+PUBLIC SECTORP1.1 The introduction of mandatory EPC certificates in all rented 
+properties and publicly accessible buildings
+P1.2 Develop the public sector awareness raising campaign to 
+facilitate the “leading by example” approach
+P1.3 Introduce standards and labelling relevant for public sector 
+appliances and equipment
+P1.4 Announce a 15-year trajectory for the successive tightening 
+of the energy performance component of building standardsand successively tighten standards
+P1.5 Roll-out of the provision of energy and activity data to the 
+public sector
+MUNICIPAL SECTORP2.1 Develop municipal energy efficiency strategiesP2.2 Support the implementation of energy savings measures RESIDENTIAL SECTORR1 Announce a 15-year trajectory for the successive tightening 
+of minimum energy performance standards for household appliances and successively tighten standards
+R2 Develop a strongly branded energy performance 
+certification mark for household appliances (modelled on the „Energy Star‟ brand), in addition to the planned EE labels.
+R3 Announce a 15-year trajectory for the successive tightening 
+of the energy performance component of building standards for residential buildings and successively tighten standardsPost-2015 National Energy Efficiency Strategy Draft v1
+39
+Ref no. Measure Timelines
+Year 1
+2016-2017
+Year 2
+2017-2018
+Year 3
+2018-2019
+Year 4
+2019-2020
+Year 5
+2020-2021
+R4 Build on the existing awareness-raising activities targeting 
+households and the school curriculum
+R5 Roll-out of the provision of energy and activity data from the 
+residential sector
+R6 Support technology innovation and dissemination of energy 
+efficient cookstove technologies
+COMMERCIAL SECTORC1 The introduction of mandatory EPC certificates in all rented 
+properties and publicly accessible buildings.
+C2 Revision of 12L to ensure it provides an incentive to commercial 
+property owners
+C3 Introduce standards and labelling relevant for commercial sector 
+appliances and equipment
+C4 Roll-out of the provision of energy and activity data from the 
+commercial sector
+INDUSTRIAL SECTORI1 Adjustment of the 12L tax incentive schemeI2 Minimum energy performance standards for motors and motordriven systemsI3 Provision of targeted support and advice on energy efficiency to 
+enterprises 
+I4 Incentivise enterprises to introduce EnMS and achieve 
+ISO50001 certification standards
+I5 Roll-out of the provision of energy and production data from the 
+manufacturing sub-sector
+I6 Develop standardised tools for voluntary reporting of energy 
+savings from initiatives in the mining sector
+I7 Creation of technology/ learning hubs for energy efficiencyPost-2015 National Energy Efficiency Strategy Draft v1
+40
+Ref no.
+Measure Timelines
+Year 1
+2016-2017
+Year 2
+2017-2018
+Year 3
+2018-2019
+Year 4
+2019-2020
+Year 5
+2020-2021
+AGRICULTURE SECTORA1 Explore the potential for savings in agricultural vehicle use, and 
+develop appropriate awareness-raising material
+A2 Development of targeted awareness-raising and training material 
+on potential savings in motor-driven systems
+A3 Provide direct grants to small farmers / smallholders for all or part 
+of the cost of interventions
+TRANSPORT SECTORT1 Develop fuel efficiency standards for light and heavy vehicles to 
+improve the overall efficiency of the vehicle stock 
+T2 Improve systems for ensuring road worthiness T3 Roll-out of the provision of energy and activity data from the 
+transport sector
+PRODUCTION AND DISTRIBUTION SECTORG1 Developing the enabling framework for cogeneration and 
+trigeneration 
+G2 Expansion of internal efficiency programmes for producersENABLING FRAMEWORKE1 Ongoing strategic planningE2 Overcoming market barriersE3 Knowledge sharing, data collection and performance monitoringE4 Monitoring compliance, enforcement and evaluating policy 
+measuresPost-2015 National Energy Efficiency Strategy Draft v1
+41

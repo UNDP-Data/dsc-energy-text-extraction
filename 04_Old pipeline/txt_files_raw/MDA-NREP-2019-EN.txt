@@ -1,0 +1,2940 @@
+File Name: MDA-NREP-2019-EN
+Year: 2019
+Country Name: Moldova Republic
+Country Code: MDA
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2019
+Start Year: 2019
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+Copyright © IRENA 2019
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or 
+stored, provided that appropriate acknowledgement is given of IRENA as the source and copyright holder. Material 
+in this publication that is attributed to third parties may be subject to separate terms of use and restrictions, and 
+appropriate permissions from these third parties may need to be secured before any use of such material.
+ISBN: 978-92-9260-109-6
+Citation: IRENA (2019), Renewables Readiness Assessment: Republic of Moldova, International Renewable Energy Agency, Abu Dhabi.
+About IRENA
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports countries 
+in their transition to a sustainable energy future and serves as the principal platform for international co-operation, 
+a centre of excellence and a repository of policy, technology, resource and financial knowledge on renewable 
+energy. IRENA promotes the widespread adoption and sustainable use of all forms of renewable energy, including 
+bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable development, 
+energy access, energy security and low-carbon economic growth and prosperity.
+www.irena.org
+Acknowledgements
+This report was prepared by IRENA in close collaboration with the Government of the Republic of Moldova, as represented 
+by the Ministry of Economy and Infrastructure (MoEI). Special thanks are due to numerous other officials, especially from 
+the Energy Efficiency Agency, National Energy Regulatory Agency and Moldelectrica. This report benefited from the inputs 
+of various experts, notably including Alexandru Cosovan (European Bank for Reconstruction and Development), Gabriela 
+Cretu (Energy Community Secretariat), Giuseppe Grimaldi (European Bank for Reconstruction and Development), Adil 
+Hanif (European Bank for Reconstruction and Development), Marcela Lefter (Electra Norte), Tiago Oliveira (European 
+Bank for Reconstruction and Development), Denis Tumuruc (MoEI), and Nicolae Zaharia (Sinergetika). IRENA colleagues 
+including Abdulmalik Oricha Ali, Serkan Ata, Emanuele Bianco, Diala Hawila, Vanessa Interiano, Luis Janeiro, Sandra Lozo, 
+Hameed Safiullah, Jeffrey Skeer, Costanza Strinati, and Naida Taso also provided valuable guidance and input.
+Contributing authors: Marcin Scigan (IRENA), Gürbüz Gönül (IRENA) and Igor Zanoaga (consultant)
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the 
+reliability of the material in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party 
+content providers provides a warranty of any kind, either expressed or implied, and they accept no responsibility or liability for 
+any consequence of use of the publication or material herein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA. The mention of specific 
+companies or certain projects or products does not imply that they are endorsed or recommended by IRENA in preference to 
+others of a similar nature that are not mentioned. The designations employed and the presentation of material herein do not 
+imply the expression of any opinion on the part of IRENA concerning the legal status of any region, country, territory, city or area 
+or of its authorities, or concerning the delimitation of frontiers or boundaries.Republic of
+Moldova
+RENEWABLES READINESS
+ASSESSMENTGiven its high dependence on imported energy resources, the Republic of Moldova is crying out for a more 
+intensive use of renewable energy sources. Indeed, in a country where three quarters of energy needs 
+are covered by imports, the consistent and feasible implementation of a renewable energy strategy has a 
+tremendous importance for the Republic of Moldova’s energy security. 
+Therefore, the main pillars and vectors of the country’s energy policies are now orienting towards the 
+enhancement of energy security and security of supply, the reduction of CO2 emissions, and the sustainable 
+development of the economy. In the context of this fundamental role for renewable energy in the transition 
+towards a more competitive economy and towards ensuring a more secure and sustainable energy system 
+– the Ministry of Economy and Infrastructure is working hard to scale-up the importance of renewable 
+energy in the country’s energy mix, with the support of the Energy Community Secretariat, development 
+partners and the International Renewable Energy Agency (IRENA). 
+The development of this Renewables Readiness Assessment (RRA) report perfectly coincides with the 
+Government of Moldova’s efforts to align its national legislation with the commitments it has made under 
+the Energy Community Treaty and Association Agreement, signed with the EU. 
+Indeed, despite recent developments in the renewable energy sector, the need for a systematic assessment 
+of the sector’s potential – and its bottlenecks – was still necessary. As a result of fruitful collaboration 
+between the Ministry of Economy and Infrastructure and IRENA, this assessment has now been conducted. 
+Its conclusions include the opinions of all major stakeholders, bilateral and multilateral co-operation 
+agencies, financial institutions and private sector representatives. This study also sets the priority areas 
+that the Ministry of Economy and Infrastructure would like to continue working on, while also defining 
+perspectives for collaboration with all the relevant stakeholders. This is of paramount importance for the 
+country and serves in achieving a common goal – improved energy security.
+FOREWORD
+from the Minister of 
+Economy and InfrastructureThis RRA exercise will help a great deal and add to the major achievements reached by the national 
+authorities during the last decade. One of the most important of these was the adoption of the Law on the 
+Promotion of the Use of Energy from Renewable Sources, transposing European Directive 2009/28/EC. 
+This provides a set of mechanisms for raising and supporting the interests of the national and international 
+business community regarding renewable energy investments. The law lays down a set of rules to promote 
+the use of renewable energy sources in the most transparent and competitive way. A support scheme, 
+which is meant to increase the share of renewable energy in gross final energy consumption, will build the 
+path to a sustainable development of the energy sector and of the country’s economy, all to the benefit of 
+final consumer.
+Moreover, in addition to helping the government reduce consumption, optimise costs and secure the 
+country’s hope for a brighter and a more energy secure future, energy efficiency and renewable sources of 
+energy represent some of the most promising ways in which almost half of the target set and agreed by 
+the Paris Agreement on Climate Change can be achieved.
+Last but not least, on behalf of the Ministry of Economy and Infrastructure, I would like to express our 
+appreciation to IRENA, our development partners, the business community and other stakeholders for their 
+commitment to develop the use of renewable sources of energy in the Republic of Moldova. Their support 
+and technical assistance are of great importance for the benefit of our country and we look forward to a 
+long and fruitful future relationship.
+Chiril Gaburici
+Minister of Economy and Infrastructure
+Republic of MoldovaThe Republic of Moldova faces growing energy challenges, including dependence on energy imports and 
+increasing demand for electricity to power economic growth. Imported fossil fuels already account for 
+more than two-thirds of primary energy supply, making the country vulnerable to rising fuel costs and 
+supply disruption. 
+On the other hand, the country has vast renewable energy potential, which remains still largely untapped. 
+With renewables becoming increasingly cost-competitive, policy makers have recognised them as an 
+important means to address the Republic of Moldova’s energy challenges and achieve a sustainable future. 
+Notably, the country has already met several major targets set out in its National Renewable Energy Action 
+Plan for 2013-2020, including the objective to cover at least 17% of gross final energy consumption with 
+renewables. 
+This Renewables Readiness Assessment (RRA) – undertaken by the International Renewable Energy 
+Agency (IRENA) in close co-operation with the Government of the Republic of Moldova – examines the 
+energy sector holistically, identifying key actions to accelerate renewable energy deployment. It underlines 
+short- to medium-term regulatory, financing and public-awareness issues, as well as the need for longterm planning. Specifically, the report suggests the adoption of an ambitious renewable energy target for 
+2030 and ways to strengthen the government’s on-going efforts to develop the bioenergy sector. It also 
+proposes measures to improve the bankability of renewable energy projects and enhance the capacity of 
+local banks to facilitate the financing of such projects.
+FOREWORD
+from the IRENA
+Director-General Over 30 countries, spanning Africa, the Caribbean, Latin America, the Middle East and the Asia-Pacific 
+region, have undertaken the RRA process since 2011, exchanging knowledge and supporting international 
+co-operation to promote clean, indigenous renewable energy technologies.
+I would like to thank Minister Gaburici and the staff of the Ministry of Economy and Infrastructure for their 
+support in preparing this study. The report was also enriched by insights from other government agencies 
+and a wide range of other stakeholders. IRENA looks forward to working with all partners to translate these 
+recommendations into practical action. 
+I sincerely hope these RRA findings will strengthen the Republic of Moldova’s pursuit of renewable energy 
+solutions as a source of economic growth, job creation and energy security. IRENA stands ready to assist in 
+accelerating the country’s transition to a sustainable energy future.
+Adnan Z. Amin
+Director-General 
+International Renewable Energy AgencyFigures VIII
+Tables VIII
+Boxes VIII
+Executive Summary XI
+1. Introduction 1
+1.1 Country background 1
+1.2 Renewables Readiness Assessment 2
+2. Energy context 5
+2.1 Energy supply and demand 5
+2.2 Legal and regulatory framework 6
+2.3 Energy development plans 8
+2.4 Power system 9
+• Power generation 10
+• Grid infrastructure 12
+2.5 Organisational structure of the energy sector 14
+3. Renewable energy development 17
+3.1 Renewable energy resources and applications 17
+• Wind 20
+• Bioenergy 21
+• Solar 23
+• Hydropower 24
+• Geothermal 24
+3.2 Renewable energy support mechanisms in the power sector 24
+3.3 Financing of renewable energy 28
+Contents4. Challenges and recommendations 31
+4.1 Long-term planning 31
+• Adopt a renewable energy target for 2030 32
+• Conduct a production cost modelling study 32
+4.2 Regulatory environment for renewable power investments 33
+• Strengthen the enabling regulatory framework 33
+• Streamline administrative procedures and facilitate their enforcement 34
+4.3 Bioenergy 35
+• Develop a strategy for the bioenergy sector 35
+• Encourage the use of and further develop the online platform for biomass trade 36
+• Identify an optimal pathway to increase the role of biofuels 36
+4.4 Financing of renewables 37
+• Improve the bankability of renewable energy projects 37
+• Enhance the capacity of local banks to facilitate the financing of renewable energy 
+projects 37
+4.5 Public awareness 38
+• Develop a national communication strategy on renewable energy sources 38
+References 39
+Annex. Key development steps for renewable energy 
+projects in the Republic of Moldova 42Figure 1 Evolution of GDP and the MDL/USD exchange rate 2
+Figure 2 High-Level Meeting on Renewable Energy in South East Europe, 2017 3
+Figure 3 Total primary energy supply over the 2010-2017 period (ktoe) 5
+Figure 4 Final energy consumption in 2017, by sector 6
+Figure 5 Electricity generation in 2017, by source 6
+Figure 6 Objectives of the Energy Strategy until 2030 8
+Figure 7 Wholesale import electricity prices and electricity tariffs for end users 10
+Figure 8 Domestic generation capacity in 2017, by fuel 11
+Figure 9 Electricity network and power generation facilities in the Republic of Moldova 12
+Figure 10 Potential power interconnections of the Republic of Moldova with ENTSO-E 13
+Figure 11 Global levelised cost of electricity from utility-scale renewable power generation 
+technologies, 2010-2018 18
+Figure 12 Installed renewable energy capacity, by source (as of March 2018) 19
+Figure 13 Dynamics of renewable energy growth 19
+Figure 14 Wind potential in the Republic of Moldova 20
+Figure 15 The Solid Biofuel Laboratory at the State Agrarian University of the Republic of 
+Moldova 22
+Figure 16 Global horizontal irradiation in the Republic of Moldova 23
+Figure 17 Graphic representation of the support mechanisms in the Republic of Moldova 24
+Figure 18 Key steps in a tenders’ development 26
+Figure 19 Pre-qualification criteria 27
+Figures
+Table 1 Overview of the domestic power generation infrastructure in the Republic of Moldova 11
+Table 2 Share of renewable energy in gross final energy consumption, by sector (%) 19
+Table 3 RE capacity quotas under the new supporting scheme 25
+Tables
+Box 1 IRENA’s South East Europe Initiative 3
+Box 2 Asynchronous interconnection with Romania 13
+Box 3 The business case for renewables 18
+Box 4 Cost-competitive solar PV and wind potential in South East Europe 21
+Box 5 Republic of Moldova Energy and Biomass Project 22
+Box 6 Policy Guidelines on Competitive Selection and Support for Renewable Energy 26
+BoxesANRE National Energy Regulatory Agency
+CHP Combined heat and power
+DFI Development finance institution
+EBRD European Bank for Reconstruction and Development
+ENTSO-E European Network of Transmission System Operators
+EU European Union
+EUR Euro
+GDP Gross Domestic Product
+GW Gigawatt
+IPS Integrated Power System
+IRENA International Renewable Energy Agency
+ktoe Kilotonnes of oil equivalent
+kV Kilovolt
+kW Kilowatt
+kWh Kilowatt-hour
+MDL Moldovan lei
+MW Megawatt
+MWh Megawatt-hour
+PPA Power Purchase Agreement
+PV Photovoltaic
+RRA Renewables Readiness Assessment
+UNDP United Nations Development Programme
+USD United States dollar
+AbbreviationsChisinau at night
+Photograph: ShutterstockThe Republic of Moldova has a vast renewable energy potential, now 
+poised to play an important role in addressing the country’s key 
+energy challenges. 
+The 2017 report from the International Renewable Energy Agency 
+(IRENA), Cost-competitive renewable power generation: Potential 
+across South East Europe, found that wind could provide up to
+21 gigawatts (GW) of power capacity, much of which could be deployed 
+with the levelised cost of electricity (LCOE) below 90 EUR/ MWh – the 
+maximum level at which the report considers the potential to be costcompetitive. Furthermore, solar PV could provide up to 4.5 GW of 
+capacity, more than 20% of which (1 GW) was considered already costcompetitive in 2016, if attractive financial conditions were provided.
+At the same time, the Republic of Moldova heavily depends on 
+imported natural gas, petroleum products and electricity. Almost 
+70% of the primary energy supply – around 2 012 ktoe of the total 
+2 939 ktoe – comes from imports. This is not only a huge economic 
+burden, but also affects the country’s energy security, making it 
+vulnerable to risks related to fuel supply disruption. Indeed, domestic 
+power production typically covers less than 20% of demand, with this 
+mostly provided by local, gas-fuelled CHP stations (330 MW) and 
+renewables-based capacity (53 MW).
+Despite abundant resources, deployment of renewables has been 
+limited, so far, except for the use of biomass in the heating sector. 
+There, a decade-long effort to develop the solid biofuel sector led to 
+a widely taken up programme of replacing coal- and gas-fired boilers, 
+as well as basic stoves, with biomass heating units. These burn straw, 
+pellets, briquettes and firewood. 
+The deployment of biomass continues to provide employment 
+opportunities, as well. Existing government efforts are oriented 
+towards strengthening the newly-created solid biofuel production 
+industry (briquettes and pellets), which has already created about 
+400 new jobs in rural areas and had an assessed turnover of
+USD 6 million to USD 8 million in 2017.
+In recent years, the Republic of Moldova has stepped up efforts 
+towards developing non-biomass renewable energy sources, too. 
+Executive SummaryIn 2012, it pledged to achieve a 17% share of 
+renewables in gross final energy consumption 
+by 2020 and developed the National Renewable 
+Energy Action Plan for the 2013-2020 period. 
+This envisages development of solar PV and wind 
+technologies, amongst others. It also builds on 
+the first steps to advance the use of renewables 
+in the power sector, which date back to 2007. The 
+Renewable Energy Law (No. 160-XVI of 12.07.2007) 
+introduced tariffs for 15 years, under the “cost-plus” 
+principle, with these based on the actual eligible 
+costs incurred. 
+Yet, as this framework was not considered sufficient 
+to attract investments in the sector, the Law on the 
+promotion of the use of energy from renewable 
+sources (Law no. 10 of 26.02.2016) came into force 
+in March 2018. 
+This provides necessary guarantees for 
+investments, including: non-discriminatory grid 
+connection; priority dispatch; and an obligation 
+by the central electricity supplier to purchase allrenewable-generated electricity for 15 years. In 
+addition, the new law is expected to lead to the 
+construction of up to 168 MW of new capacity, 
+mainly wind and solar PV, to be supported through 
+administratively set feed-in tariffs and an auctionsbased mechanism. Scheduled initially for 2019, 
+these auctions are expected to result in a capacity 
+of 80 MW of wind and 25 MW of solar PV.
+The recent adoption of these new support schemes 
+for renewable electricity has contributed greatly 
+to the rising interest of the business community – 
+but additional efforts are necessary to cement the 
+foundations of the sector. 
+In this context, in 2018, the RRA elaboration 
+process was launched at the request of the 
+Ministry of Economy and Infrastructure of the 
+Republic of Moldova. This provided a venue for 
+multi-stakeholder dialogue to identify challenges 
+in renewable energy deployment and to suggest 
+the solutions required to further exploit indigenous 
+renewable energy resources, while integrating 
+growing shares of solar and wind energy in the 
+Republic of Moldova’s power system.
+Challenges and recommended actions
+Adopt a renewable energy target for 2030
+The current share of renewables, 27.8%, was 
+reached mainly through the revision of biomass 
+consumption data for the years 2010-2016. Thus, 
+it neither provides long-term predictability, 
+nor reflects the country’s vision of energy 
+sector development. Although the announced 
+development of 168 MW of renewables capacity 
+in the coming years has captured the interest of 
+several investors, this could be considered a oneoff boost for the market, rather than an element of 
+a solid strategy. 
+The Ministry of Economy and Infrastructure has 
+now begun various initiatives, including discussions 
+within the Energy Community, with a view to 
+agreeing on a new renewable energy target for 
+2030. IRENA’s recently-initiated regional REmap 
+analysis for the countries of Central and Southeast 
+Europe, including the Republic of Moldova, can 
+contribute to these efforts and help identify costeffective technology options for the deployment of 
+renewables in the power and end-use sectors. 
+Conduct a production cost modelling study
+As renewables are becoming an increasingly costcompetitive source of energy, they are poised 
+to play a greater role in the power system of the 
+Republic of Moldova. The increased use of solar PV 
+and wind, however, would present a new challenge, 
+as the country does not have sufficient capacity 
+to balance its generation. Thus, a production cost 
+modelling study would allow the determination of 
+any potential operational constraints that could 
+result in the unavailability of sufficient power to 
+meet demand. Furthermore, it could investigate 
+multiple scenarios for the generation mix, including 
+those with higher shares of renewables.
+The results could help build confidence among 
+policy makers, system operators and investors, as 
+well as identify the most cost-effective option for 
+balancing the system. To support countries in the 
+assessment of power systems’ flexibility, IRENA and the VTT Technical Research Centre of Finland 
+Ltd. developed the cost-free FlexTool. This analyses 
+not only the traditional concept of flexibility 
+(concerning, for example, flexible thermal and 
+hydro-generation with high ramping capability and 
+very low start-up time), but also other innovative 
+technologies, such as flexible demand, energy 
+storage and sector coupling.
+Strengthen the enabling regulatory framework
+Even though the new Law on the promotion of the 
+use of energy from renewable sources (Law no. 
+10 of 26.02.2016) came into effect in March 2018, 
+additional pieces of legislation are required to 
+ensure smooth implementation of the new support 
+mechanisms. 
+In particular, clarity on all requirements and 
+procedures to be followed needs to be ensured 
+well in advance for both project developers and 
+financial institutions. For auctions-based support 
+scheme, essential secondary legislation needs to 
+be adopted, including: standard documentation 
+for the tendering procedure; eligible producer 
+status confirmation for small renewable electricity 
+producers; and grid connection, including 
+provisions referring to renewables integration. 
+In addition, the regulatory framework could be 
+strengthened by implementing a transparent 
+methodology to calculate feed-in-tariffs and 
+ceiling prices for tenders, as well as by facilitating 
+introduction of the net metering scheme for 
+distributed renewable energy generation. While 
+legislative framework is in place, the mechanism is 
+not widely used, due to lack of administrative clarity. 
+Streamline administrative procedures and 
+facilitate their enforcement
+Co-ordination between relevant stakeholders, 
+including the Ministry of Economy and 
+Infrastructure, the Ministry of Agriculture, Regional 
+Development and Environment, the Ministry of 
+Finance and the transmission system operator is 
+required to clarify and simplify some procedures 
+that are perceived by the private sector as an 
+administrative burden and hinder the deployment 
+of renewable energy. 
+While revising the National Renewable Energy 
+Action Plan and developing an integrated National 
+Energy and Climate Plan, key aspects raised 
+during the RRA process could be addressed. These 
+include: use of agriculture land for RE power plants; 
+conduct of environmental impact assessments; 
+taxation of RE-related equipment; and issuance of 
+grid connection permits.
+Develop a strategy for the bioenergy sector
+With limited availability of wooden biomass, the 
+government is advised to develop a country-wide 
+programme for the use of solid biofuels. 
+This strategy should not only provide a 
+comprehensive assessment of resource 
+potential, but also provide clarity on the most 
+suitable technology options for a wide group of 
+beneficiaries in the Republic of Moldova. Some 
+failures to match beneficiary and technology have 
+turned out to be costly in the past. In this context, 
+the government could analyse the opportunity to 
+revise the relevant legislation with the objective 
+of increasing the role of local public authorities 
+in promoting the bioenergy sector. As the owners 
+of a vast amount of land, those authorities could 
+strengthen their commitment to developing the 
+local industry and would benefit from locally 
+harvested, cost-competitive heating resources.
+The strategy should also address the potential 
+for cultivation and wide use of energy crops that 
+can be grown on marginal and/or depleted lands. 
+Currently, despite promising resources, the energy 
+crop sector faces several challenges, including 
+land conversion issues, land suitability and the 
+availability of financial support.
+Encourage the use of and further develop the 
+online platform for biomass trade
+Lack of proper communication and exchange 
+among actors in the biomass market is perceived 
+as a major challenge of the sector, even though a 
+dedicated online platform was recently launched. 
+The increased use of the tool would facilitate market 
+operations and the entry of new fuel suppliers, 
+including producers of agricultural residues and 
+local public authorities. It would also enhance fuel price competition and supply liquidity. The 
+platform should be actively promoted and further 
+developed to provide a bridge between biomass 
+producers and potential customers. It should also 
+include information on the benefits stemming 
+from the use of bioenergy and be a repository 
+of available opportunities for local consumers to 
+switch to this source of energy.
+Identify an optimal pathway to increase the role 
+of biofuels
+The country has committed to a 10% share by 2020 
+for renewables in the transport sector, but limited 
+actions have been taken, so far, to promote the use 
+of liquid biofuels. 
+While there is a clear understanding among 
+stakeholders of the need to ensure more 
+sustainable use of energy sources in this sector, 
+several concerns have been identified. These 
+include the availability of land and infrastructure to 
+cultivate crops for biofuels. Therefore, the country 
+needs to identify an optimal pathway towards the 
+use of biofuels in transport, either by focusing on 
+domestic production, imports or combining these 
+two options. 
+Improve the bankability of renewable energy 
+projects
+The high-risk perception of renewable energy 
+projects in the Republic of Moldova affects 
+substantially the cost of capital that is critical for 
+the financial viability of those projects. Therefore, 
+more confidence in the market by financial 
+institutions needs to be ensured to improve the 
+bankability of those projects. Despite recent 
+efforts by the government, the current framework 
+is not perceived as sufficient, as it seems to expose 
+potential investors to several risks. In this context, 
+the following additional actions are required:
+• Enhancement of the templates of the key 
+project documentation, including power 
+purchase agreements (PPAs) to provide 
+necessary guarantees and predictability to the
+stakeholders involved.
+• Procedure for transparent assignment of the 
+central electricity supplier.
+• Design of a procedure for the transfer of 
+all existing renewable energy producers to 
+the support system, based on a contract 
+for difference, which is envisaged to be 
+implemented when the electricity market (dayahead and intra-day markets) is declared liquid 
+by the regulator.
+Enhance the capacity of local banks to facilitate 
+the financing of renewable energy projects
+Securing funding from the financial sector for the 
+investments needed to achieve a total capacity 
+addition of 168 MW may be a challenge, under 
+the new policy support environment. While 
+large-scale renewable power plants can access 
+the necessary financial resources from abroad – 
+through the contributions of either foreign investors 
+or international financial institutions – small-scale 
+projects are limited to funding opportunities from 
+the local financial market. Limited knowledge 
+of the renewable energy sector, among local 
+lenders appraising projects, along with insufficient 
+understanding of the sector’s support mechanisms, 
+may obstruct the availability of financing. 
+In addition, the Republic of Moldova’s financial and 
+banking sector is comparatively small, with limited 
+resources. Frequent problems in this sector, evidenced 
+by the collapse of three large banks in 2014, have also 
+affected the banking sector’s activities, in general.
+Thus, for example, technical support in developing 
+bankable project proposals and in structured finance 
+principles, including project finance, can increase the 
+capacities of local commercial banks and could be 
+facilitated by international financial institutions that 
+are well placed to provide such technical assistance. 
+At the same time, public capital, including that 
+provided by development finance institutions, 
+could be used to help de-risk, or lower the risk 
+of renewable energy projects. This would, in turn, 
+lower the cost of capital for renewables, via the 
+provision of risk mitigation instruments. Develop a national communication strategy on 
+renewable energy sources
+The deployment of renewables is an effective tool 
+to fuel economic growth, create new employment 
+opportunities, enhance human welfare and 
+contribute to a climate-safe future. IRENA’s analysis 
+suggests that renewable energy jobs worldwide 
+could rise from 10.3 million in 2017 to 23.6 million 
+by 2030 and 28.8 million by 2050. 
+As the sector is still at an early stage of development, 
+a national strategy is needed to raise awareness 
+and boost understanding of renewable energy 
+sources and their benefits across the Republic of 
+Moldova.
+This strategy should address several stakeholders, 
+including state authorities, civil society, the banking 
+community and donors. It could envisage necessary 
+actions to: ensure proper ways to disseminate the 
+most up-to-date information on renewables and 
+the ongoing energy transition (e.g., a dedicated 
+website, translation of authoritative publications 
+into local language); and improve the curriculum 
+of schools and universities to reflect the growing 
+role of renewables. At the same time, intensified 
+government communication efforts on the 
+ongoing legislative changes would be beneficial for 
+stakeholders. This is especially true regarding local 
+financial institutions, as the relevant mechanism to 
+finance renewable energy projects is prepared.
+A national strategy is needed to raise awareness 
+of renewable energy sources and their benefits 
+across the Republic of MoldovaWind turbine in Busauca, Rezina
+Photograph: Shutterstock1.1 Country background
+The Republic of Moldova, with its capital city of Chisinau, is a landlocked country situated in South-Eastern Europe and wedged between 
+Romania and Ukraine. The population is 3 550 852 inhabitants, 
+approximately 57% of whom live in rural areas, and its territory covers 
+an area of 33 800 square kilometres (km) (NBS, 2017). 
+After gaining independence on 27 August 1991, following the collapse 
+of the Soviet Union, the country introduced a parliamentary system 
+and experienced a long transition period. This was characterised by 
+political instability and numerous changes of government. Socioeconomic and political stability has been recently ensured, however, 
+and has been marked by economic growth and fruitful collaboration 
+with neighbouring states. Common roots and cultural similarities 
+between the Republic of Moldova and Romania are reflected in strong 
+linkages in business and commerce.
+Several reforms carried out in recent years have positively impacted 
+the economy, including the energy sector. These reforms have 
+contributed to a process of gradual integration with European Union 
+(EU) structures, with this process remaining a priority for the country. 
+In 2010, the Republic of Moldova joined the Energy Community, an 
+international organisation that includes the EU and its neighbours. 
+The Energy Community aims to create an integrated pan-European 
+energy market. The Association Agreement signed in 2014 between 
+the EU and the Republic of Moldova also established a framework for 
+political and economic collaboration. 
+The country has recently been experiencing economic recovery, 
+following a crisis in 2014-2015 that was related largely to challenges 
+in the banking sector. As a consequence of this crisis, the Republic 
+of Moldova faced a severe devaluation of its currency, the Moldovan 
+lei (MDL), while the country’s Gross Domestic Product (GDP) shrank 
+0.5% in 2015 (Lupusor et al., 2016). Figure 1 shows the impact of the 
+crisis on GDP (in current USD) and the MDL/USD exchange rate. With 
+GDP growth of 4.5% in 2017, however, the country became the third 
+fastest growing economy in Europe that year, with its GDP totalling 
+USD 8.13 billion. This gave a per capita GDP of USD 2 290, which was 
+equal to 21% of the world average (WB, 2018b).
+Introduction1
+1 If not stated otherwise, data in this report is based on information relating to the right bank of the Dniester River 
+only. The territory of the Republic of Moldova also includes the region of Transnistria, located on the left bank of 
+the Dniester River, which declared independence in 1990. However, no United Nations member state recognises 
+its sovereignty. The report refers to electricity produced by entities located in Transnistria as “purchased from 
+MGRES”.Economic activity is shifting progressively towards 
+services, a sector that in 2017, accounted for nearly 
+65% of GDP and provided employment for more 
+than half of the workforce. The sector is driven by 
+insurance, legal consultancy and telecommunications, 
+with foreign investment playing a substantial role. 
+As the country has a moderate climate, along with 
+favourable climatic and soil conditions, agriculture 
+is also an important sector, accounting for 16% of 
+GDP and employing nearly 30% of the workforce, 
+in 2017. The main areas of agricultural production 
+include vegetables, fruits, grapes, grain, sugar beets, 
+sunflower seeds, tobacco, beef and milk. 
+In 2017, the national employment rate was 40.5% and 
+the unemployment rate was 4.1%, although the labour 
+market varies greatly across the country (NBS, 2017). 
+The Republic of Moldova is also the 129th largest 
+export economy in the world. In 2016, the 
+country exported USD 2.43 billion and imported
+USD 3.95 billion, resulting in a negative trade 
+balance of USD 1.52 billion. Petroleum products are 
+listed high among the imported commodities, at 
+USD 370 million (OEC, 2016).
+1.2 Renewables Readiness Assessment
+The International Renewable Energy Agency
+(IRENA) developed the Renewables Readiness 
+Assessment (RRA) as a tool for carrying out a 
+comprehensive evaluation of the conditions for 
+renewable energy deployment in a particular country. 
+2013 2014 2015 2016 2017
+9.00
+8.00
+7.00
+6.00
+5.00
+25
+15
+10
+20
+GDP - Billions USD 
+MDL to USD exchange rate
+MDL/USD GDP
+Figure 1. Evolution of GDP and the MDL/USD 
+exchange rate
+Source: Based on WB (2018b), NBM (2018)
+The RRA is a country-led and consultative 
+process. It provides a venue for multi-stakeholder 
+dialogue to identify challenges to renewable 
+energy deployment and to come up with solutions 
+to existing barriers. Short- and medium-term 
+recommendations are presented to governments to 
+guide the formation of new policies, or the reform 
+of existing ones, opening up a more enabling 
+environment for renewable energy. The RRA 
+also consolidates existing efforts and mobilises 
+resources for priority actions.
+The RRA elaboration process was launched at 
+the request of the Ministry of Economy and 
+Infrastructure of the Republic of Moldova, in the 
+context of IRENA’s recently initiated South East 
+Europe Initiative (see Box 1). This coincided with 
+the government’s ongoing efforts to develop and 
+finalise renewable energy-related legislation. These 
+efforts have boosted the dialogue between policy 
+makers and other interested parties, including 
+potential investors, relevant state authorities, 
+international financial institutions and civil society.
+During the first stage of the process, a background 
+paper was prepared outlining a general overview 
+of the Moldovan energy sector, with a special focus 
+on renewable energy. In addition, an issues paper 
+was elaborated to identify potential barriers and 
+bottlenecks that need to be addressed to ensure 
+successful deployment of renewables. The paper 
+includes the suggestions of interviewed experts.
+With the aim of validating these findings and 
+providing an open dialogue among a wide range of 
+stakeholders, IRENA and the Ministry of Economy 
+and Infrastructure organised an expert workshop 
+on 4 June 2018. The main objectives were to discuss 
+challenges for renewable energy development and 
+to provide preliminary recommendations on the 
+required actions to ensure favourable conditions 
+for the sector. The event provided the opportunity 
+to review global renewable energy developments, 
+highlight the country’s international energy 
+commitments and present an overview of the 
+national energy sector.
+Subsequently, a set of recommended actions to 
+further advance the renewable energy sector 
+was validated by local stakeholders within the Box 1. IRENA’s South East Europe Initiative
+As part of IRENA’s increasing engagement with 
+South East Europe, the High-Level Meeting on 
+Renewable Energy in South East Europe took 
+place in Abu Dhabi, in January 2017. 
+The meeting served as a platform to discuss the 
+opportunities and challenges in expanding the 
+share of renewable energy in the region’s energy 
+mix. It built on the region-wide consultation 
+process undertaken in 2016, including a regional 
+consultation workshop organised in collaboration 
+with the Ministry of Energy of Romania, and 
+gathered representatives from the governments 
+of the region, as well as other, key regional 
+stakeholders. 
+The meeting resulted in the issuance of the Abu 
+Dhabi Communique on Accelerating the Uptake 
+of Renewables in South East Europe by the 
+Heads of Delegation in attendance, which lays 
+out the foundations for IRENA’s engagement 
+in the region. This has the goal of supporting 
+the creation of more conducive frameworks for 
+renewable energy investment. As agreed at the 
+meeting, the priority areas for collaboration with 
+IRENA shall include, amongst others: mapping 
+renewable energy resources; renewable energy 
+planning; strengthened enabling frameworks; 
+the socio-economic benefits of renewables; 
+integration of variable renewable energy sources; 
+and renewable energy financing. 
+Figure 2. High-Level Meeting on Renewable 
+Energy in South East Europe, 2017
+From left to right: H.E. Mirko Šarović, Minister of Foreign Trade and Economic 
+Relations, Bosnia and Herzegovina; Mr. Adnan Z. Amin, Director-General of IRENA; 
+Mr. Dominique Ristori, Director General for Energy, European Commission.
+framework of the second RRA workshop that took 
+place on 15 October 2018 and was endorsed by 
+the national owner of the process, the Ministry of 
+Economy and Infrastructure. 
+This report is structured in four chapters. The 
+first provides introductory information on the 
+country background and the RRA process. The 
+second chapter highlights the main features of 
+the energy sector from both a technical and legal 
+perspective. In particular, it indicates the role that 
+energy efficiency and renewable energy play in 
+the government’s agenda and in the national 
+strategy to ensure sustainable development. 
+The third chapter is dedicated to the renewable 
+energy sector, with a focus on potential, current 
+applications, legal framework and financing. The 
+final chapter provides a set of recommendations 
+– identified by stakeholders involved in the 
+RRA process – that address the most important 
+challenges of the renewable energy market in the 
+Republic of Moldova.Solar PV application in Chisinau 
+Photograph: Ministry of Economy and Infrastructure2.1 Energy supply and demand
+The total primary energy supply of the Republic of Moldova 
+increased by an average of 1-2% annually during 2010-2017, reaching 
+2 939 kilotonnes of oil equivalent (ktoe) (see Figure 3) by the end 
+of the period. The consumption of fossil fuels (coal and natural gas) 
+decreased gradually during this time, while the shares of electricity 
+and biomass continued to grow. The country also experienced rising 
+use of petroleum products, increasing 17.2%, from 776 ktoe in 2010 to 
+937 ktoe in 2017 (NBS, 2018).
+Final energy consumption in 2017 was 2 671 ktoe, equivalent to 
+roughly 90% of the primary energy supply2 (see Figure 4). The 
+residential sector consumes the largest share of final energy, at 50%, 
+while the industrial sector consumes just 8%, as industry does not 
+play a significant role in the country.
+Energy context
+2 This high ratio is a result of the lack of industry that would use energy for further purposes. In countries that have 
+such a sector in place, those losses reach up to 20-25% of primary energy.
+2010 2011 2012 2013 2014 2015 2016 2017
+2633 2676 2624 2643 2669 2686
+2796
+2939
+Coal
+Natural gas
+Petroleum products
+Solid biofuels and waste
+Electricity
+TOTAL
+267 277 285 290 292 289
+290
+297
+512 537 574 584 629 650
+698
+764
+776 812
+764 785 803 829 896 937
+962 930 885 834 850 816 837 836
+116 120 116 150 95 102 75 105
+Figure 3. Total primary energy supply over the 2010-2017 period (ktoe)
+Source: NBS (2018)Residential
+Public / Services
+Agriculture
+Industry
+Transport
+107
+267
+217
+734
+1346
+MGRES
+Ukraine
+Local CHPs
+Local RE power plants
+55%
+27%
+Local
+Production
+18%
+17%
+1%
+Figure 4. Final energy consumption in 2017,
+by sector
+Figure 5. Electricity generation in 2017, by source
+Source: NBS (2018) Source: ANRE (2018)
+The Republic of Moldova is poorly endowed with 
+fossil fuel energy resources and is highly dependent 
+on imported energy, in the form of natural gas, 
+petroleum products and electricity. Almost 70% 
+of the primary energy supply – 2 012 ktoe of the 
+total 2 939 ktoe – is imported from neighbouring 
+countries. Thus, the country is vulnerable to risks 
+related to energy supply disruption. 
+Nearly the entire volume of natural gas is imported 
+from the Russian Federation (from Gazprom). 
+About 44% of this fuel is used to generate electricity 
+and heat, while 28% is used in the residential sector. 
+Natural gas consumption has decreased over the 
+last decade: by 2017, it had declined by 13% of 2010 
+levels, or 30% of 2005 levels (NBS, 2012 and NBS, 
+2018). Meanwhile, imports of petroleum products 
+increased in 2017 to 809 272 tonnes, of which 70% 
+was diesel, 21% was gasoline, and 9% was liquefied 
+petroleum gas. The supply of petroleum products 
+is more diversified, however, with imports coming 
+mainly from Romania, the Russian Federation and 
+Belarus (ANRE, 2018). 
+Of the 3.7 billion kilowatt-hours (kWh) of electricity 
+used in 2017, only 18% was generated domestically, 
+mainly by local combined heat and power (CHP) 
+plants, a non-pumped hydropower plant, and other 
+small-scale renewable energy installations (see 
+Figure 5). The rest of the electricity was imported 
+from Ukraine (27.2%) and purchased from MGRES 
+(54.8%), a power plant located in Cuciurgan (see 
+footnote 1).
+2.2 Legal and regulatory framework
+In 2010, the Republic of Moldova became a fullfledged member of the Energy Community, which 
+implies a commitment to transpose core EU energy 
+legislation, the acquis communautaire. Since then 
+all governmental efforts have been focused on 
+aligning the national legal framework for energy 
+with that of the EU. As a result, competition and 
+market principles have been introduced, especially 
+in the natural gas and electricity fields, with the 
+objective of unbundling vertically integrated 
+entities and introducing liberalised market 
+principles.
+The above-mentioned reforms have had a positive 
+impact on the quality of services provided to 
+final consumers and businesses and are expected 
+to enhance the investment environment and 
+attractiveness of the country as a whole. Between 2016 and 2019, the Republic of Moldova improved 
+its ranking on the World Bank’s Getting Electricity 
+Indicator from 97th to 81st and its ranking on the 
+Doing Business Indicator from 52nd to 47th (WB, 
+2018a).
+The energy legal framework includes the following 
+laws:
+• The Law on Electricity (Law No. 107 of 
+27.05.2016) ensures liberalisation of the 
+electricity market and transposes all principles 
+and rules of the EU’s Third Energy Package. 
+In particular, the law clearly sets the rules 
+for businesses in the power field, especially 
+regarding mandatory requirements in 
+unbundling. In addition, this law ensures that 
+all final customers are eligible to buy electricity 
+from any generator or supplier – although as 
+yet no one has exercised the right to switch 
+providers. 
+• The Law on Natural Gas (Law No. 108 of 
+27.05.2016) introduces similar rules for 
+liberalisation of the natural gas market. 
+In particular, it sets out the unbundling 
+requirements and envisaged derogation for the 
+Moldovagaz JSC and its subsidiary companies, 
+owned by Gazprom. 
+• The Law on Energy (Law No. 174 of 21.09.2017) 
+provides a set of rules for all operators in 
+the energy field, as well as for end-users of 
+energy resources. It also consolidates the 
+independence, authority and transparency 
+of the National Energy Regulatory Agency 
+(ANRE). The law establishes all the mechanisms 
+and principles regarding the functioning of the 
+ANRE, including: appointment and mandate 
+of a director; budget formation and related 
+financial management principles; and other 
+provisions aimed at creating a healthy and 
+favourable environment within the energy 
+sector, focused both on attracting investment 
+and on the supply of reliable, qualitative and 
+affordable services to end-users.
+• The Law on Energy Efficiency3
+ (Law No. 139 of 
+19.07.2018) consolidates the national institutional 
+framework capacities for implementing energy 
+efficiency policies and developing relevant financing 
+mechanisms. The law also enables active participation 
+by third parties, as it provides a necessary 
+framework for energy performance contracts (via 
+energy services companies, or ESCOs) and allows 
+private investment in the public sector. The law 
+contains the following pillars: implementation of the 
+concept of energy efficiency obligation schemes; 
+strengthening the exemplary role of public buildings; 
+introduction of the obligation for large companies to 
+perform obligatory energy audits; popularisation 
+of sustainable public procurement; and promotion 
+of energy performance contracts as market-driven 
+funding instruments for energy efficiency measures. 
+• The Law on the Promotion of the Use of 
+Energy from Renewable Sources (Law No. 
+10 of 26.02.2016), in force since March 2018, 
+comes with new support mechanisms for 
+renewable energy investments. These include: 
+feed-in tariffs; net metering; and tenders (see 
+Section 3.2). At the same time, to ensure local 
+energy autonomy and achieve the goal of 
+distributed energy generation, the law supports 
+the development of small-scale, communitypromoted renewable energy projects. Moreover, 
+it provides: an obligation by the central 
+electricity supplier to purchase renewable 
+electricity; guaranteed and non-discriminatory 
+access to the grid; and priority dispatch.
+While the government’s efforts have focused 
+mostly on the use of renewables in the power 
+sector, the law also introduces the possibility of 
+importing mixed petroleum products. This would 
+be as a first step in enabling the use of liquid 
+biofuels, while working towards achieving the 
+target of 10% renewable energy use in transport 
+by 2020. In 2018, the government launched a 
+comprehensive exercise to assess the costs and 
+efforts related to reaching the target, in parallel 
+with developing the required legislation on 
+sustainability criteria for biofuels.
+3 In addition, the Law on Labelling of Energy-related Products (Law No. 44 of 27.03.2014) and the Law on Eco-design for Energy-related Products (Law No. 151 of 17.07.2014)
+aim to create an environment to enable lower energy consumption.2.3 Energy development plans
+Approved in December 2018, the Moldova 2030 
+National Development Strategy establishes the 
+country’s long-term sectoral priorities and is aimed 
+at enhancing the quality of citizens’ lives. The 
+strategy’s goal is to bring the focus of public policy 
+onto people’s problems, interests and aspirations. 
+The document includes four pillars of sustainable 
+development: a sustainable and inclusive economy; 
+human and social capital; honest and efficient 
+institutions; and a sound environment. In this 
+context, ten sustainable development goals have 
+been established at the national level, including: the 
+guaranteeing of a quality education; the ensuring of 
+efficient governance; the enhancement of people’s 
+access to infrastructure; and the improvement of 
+labour conditions.
+The Energy Strategy of the Republic of Moldova 
+until 2030 (“The Energy Strategy”), adopted in 
+2012, indicates three main strategic objectives (see 
+Figure 6).
+The first objective relates to enhancing the 
+security of energy supply, mainly by strengthening 
+interconnections with Romania and, implicitly, with 
+other EU countries. The most important infrastructure 
+development projects are outlined in Section 2.4.
+The second objective refers mainly to
+approximation of the legal framework with the 
+EU acquis, which includes transposition and 
+implementation of the Third Energy Package. The 
+most important pillars of the package – ensuring the 
+prerequisites for market liberalisation – have already 
+been introduced to the national legal system.
+The third objective aims to ensure sustainable 
+development of the Republic of Moldova by, among 
+Figure 6. Objectives of the Energy Strategy until 2030
+Ensuring the security
+of energy supply
+Developing competitive 
+markets and their regional 
+and European integration
+Ensuring sustainability of the 
+energy sector and climate 
+change mitigation
+other methods, promoting energy efficiency and 
+renewable energy. In this context, as a Contracting 
+Party of the Energy Community, the country has 
+transposed EU Directive 2009/28/EC on the 
+promotion of the use of energy from renewable 
+sources, which establishes a conducive framework 
+for the production and promotion of energy from 
+these sources. In particular, it introduces:
+• A requirement for the whole EU to reach a share 
+of at least 20% for renewable energy in its gross 
+final energy consumption by 2020. 
+• An obligation for all EU members (and 
+subsequently Contracting Parties of the Energy 
+Community) to fulfil their national targets for 
+renewables and to develop National Renewable 
+Energy Action Plans that set out ways to achieve 
+their respective commitments. 
+• A mandatory sub-target of a 10% share for 
+renewables in transport, for all countries in 
+question, by 2020.
+• Sustainability criteria for biofuels to ensure 
+that they are produced in a sustainable and 
+environmentally friendly manner.
+In 2012, within the framework of the Energy 
+Community, the Republic of Moldova pledged to 
+achieve a 17% share for renewables in gross final energy 
+consumption by 2020. It also developed the National 
+Renewable Energy Action Plan (NREAP) for the 2013-
+2020 period that envisages a set of legal, technical 
+and analytical measures to ensure achievement of the 
+target.4
+ In addition, in the energy efficiency field, the 
+National Energy Efficiency Program 2011-2020 and 
+two National Energy Efficiency Action Plans (NEEAP 
+2013-2015 and 2016-2018) were elaborated, with the 
+objective of achieving a total of 167 ktoe of energy 
+savings by 2020.
+4 The document is under revision – as of December 2018.At the same time, the country remains committed 
+to the objectives of the Paris Agreement and 
+submitted its Nationally Determined Contribution 
+in June 2017 (UNFCCC, 2017). The country has an 
+economy-wide, unconditional target of reducing 
+national greenhouse gas emissions to 64-67% 
+below the 1990 level by 2030. The reduction 
+commitment could be increased up to 78% below 
+the 1990 level, conditional on a global agreement 
+addressing some important issues. These include 
+low-cost financial resources, technology transfer 
+and technical co-operation, accessible to all at 
+a scale commensurate to the challenge of global 
+climate change.
+In addition, the Ministry of Agriculture, Regional 
+Development and Environment has developed 
+two instruments of strategic planning, with 
+associated action plans, aimed at implementing 
+the above-mentioned commitments: The Climate 
+Change Adaptation Strategy by 2020; and the Low 
+Emission Development Strategy of the Republic of 
+Moldova until 2030. Both documents emphasise 
+the crucial role of energy efficiency and renewable 
+energy in reaching the climate-related goal at the 
+national level. 
+2.4 Power system5
+Domestic power production in the Republic 
+of Moldova typically covers less than 20% of 
+demand and is provided by local CHP stations, 
+a non-pumped hydropower plant, and other 
+small-scale renewable energy installations. In this 
+context, a central electricity supplier6 was recently 
+established to purchase electricity generated by 
+the above-mentioned producers and to sell it to 
+eligible customers and suppliers. 
+At present, two actors dominate the market and 
+supply electricity, with tariffs approved by ANRE. 
+5 Two electricity market participants from the Transnistrian region requested and obtained licences from ANRE: MGRES for electricity production and Energokapital JSC for 
+supply of electricity. This allowed them to generate electricity and to supply it to Moldovan final customers.
+6 Energocom has been mandated for three years, until 1 January 2021. 
+7 MGRES, built during 1964-1982, is the biggest generation capacity located in Transnistria. It has an installed capacity of 2 520 MW, with coal accounting for 1 600 MW, natural
+gas for 500 MW and heavy fuel oil for 420 MW. It can be switched to natural gas with an available capacity of approximately 1 700 MW. It is currently owned and operated by 
+Inter RAO EES Corporation. 
+These are: FCC Gas Natural Fenosa Furnizare 
+Energie LLC (GNFFE), created as a result of the 
+unbundling of the distribution of supply activities 
+by FCC RED Union Fenosa JSC; and JSC Furnizarea 
+Energiei Electrice Nord, created as a result of the 
+unbundling of the distribution of supply activities 
+by JSC RED Nord and JSC RED Nord-Vest.
+Both companies also act as suppliers of last resort 
+in their respective supply areas. In addition, 20 
+other registered independent electricity suppliers, 
+licensed by ANRE, are entitled to provide 
+electricity at non-regulated tariffs. As of November 
+2018, however, no contracts with these suppliers 
+had been recorded. This was due to their lack 
+of credibility and financial strength, along with 
+favourable conditions for electricity importation 
+from Ukraine.
+In 2017, the Republic of Moldova purchased 55% of 
+its electricity from MGRES7 and imported 27% from 
+Ukraine (via JSC Energocom). These two entities 
+were selected in a tender for annual procurement 
+of electricity organised by the Ministry of Economy 
+and Infrastructure. 
+The trading of electricity in the Republic of 
+Moldova is based on bilateral contracts, since 
+a power exchange expected to be established 
+only after several years. The regulator is notified 
+of contracts concluded by the above-mentioned 
+suppliers, at regulated tariffs, to ensure that all final 
+customer demand is met at the lowest possible 
+cost. Furthermore, agreements involving electricity 
+imports are subject to examination by ANRE and 
+Moldelectrica, the transmission system operator, to 
+ensure their technical feasibility. Figure 7 provides 
+an overview of wholesale import electricity prices 
+and electricity tariffs for end users (low voltage).Power generation
+Domestic power generation capacity amounts to 
+383 megawatts8 (MW) and is produced mainly by 
+gas-burning CHP plants, which account for 86% of 
+total installed capacity (see Figure 8 and Table 1) 
+(MoEI, 2017). 
+In the winter season, the typical load variation of 
+the Moldovan power system (the right bank of the 
+Dniester River only) ranges between a minimal 
+base load of 330-370 MW and a maximum peak 
+load of 700-760 MW, while in the summer season it 
+ranges from a minimum of 260 MW to a maximum 
+8 Seven additional sugar mill-owned CHP plants with a total installed capacity of 98 MW are available for a limited period of time during the year. In addition, two power plants
+are based in Transnistria: MGRES, with total installed capacity of 2 520 MW and HPP Dubasari, with an installed capacity of 48 MW.
+of 610 MW (MoEI, 2017). The maximum load for 
+both banks of the Dniester River can reach up to
+1 100 MW (Moldelectrica, 2018).
+Because of its deficient generation capacity and 
+peculiar power system (heat-demand driven CHP 
+plants and small-scale hydropower plants with 
+vulnerable hydrology) the Republic of Moldova 
+has no plants that can provide primary, secondary 
+and tertiary reserves. As a consequence, it must 
+rely on Ukraine, for frequency control as well.
+Although MGRES could provide some additional 
+reserves, such an agreement has not been 
+concluded so far. 
+Figure 7. Wholesale import electricity prices and electricity tariffs for end users
+Source: Based on ANRE (2018) and ANRE (2016)
+2010 2011 2012 2013 2014 2015 2016 2017
+140
+120
+100 108.2
+121.6 126.0 124.5
+111.7
+89.2
+98.0
+104.8
+56.7 59.9
+67.3 68 68 67.95
+49.5
+47
+80
+60
+40
+20
+0
+USD/MWh
+Wholesale import electricity prices, USD/MWh Electricity taris for end users (low voltage) USD/MWh
+Solar water heaters, “Povestea” kindergarten in Nisporeni
+Photograph: UNDP MoldovaFigure 8. Domestic generation capacity in 2017, by fuel
+Table 1. Overview of the domestic power generation infrastructure in the Republic of Moldova
+Source: Based on MoEI (2017) and MoEI (2018a)
+Note: *An additional capacity of 13.4 MW of internal combustion engines powered by natural gas is to be installed and commissioned at the beginning of 2019.
+Source: Based on MoEI (2017) and MoEI (2018a)
+Natural Gas
+Hydro (non-pumping)
+Renewables (non-hydro)
+330
+16
+37
+Power plant name Date of 
+construction
+Installed 
+capacity
+Available 
+capacity Fuel used
+1. Termoelectrica JSC 
+CET - 2 (CHP) in Chisinau 1976-1980 240 MWe 210 MWe natural gas
+CET - 1 (CHP) in Chisinau 1951-1961 66 MWe 40 MWe natural gas
+2. JSC CET-Nord (CHP), Balti* 1956-1970 24 MWe 24 MWe natural gas
+3. Costești hydropower plant 1978 16 MW 16 MW hydro
+4. Non-hydro renewable 
+energy power plants 2009-2018 37 MW 37 MW
+Total 383 MW 327 MWGrid infrastructure
+The existing Moldovan power grid infrastructure 
+was mainly built during Soviet times, as part of a 
+jointly optimised system with the Soviet Union and 
+the neighbouring countries of Bulgaria, Hungary 
+and Romania. After the dissolution of the Soviet 
+Union, all countries in the region redesigned their 
+electricity systems. While Bulgaria, Hungary and 
+Romania decided to synchronise their networks 
+with the Western system (former UCTE, currently 
+ENTSO-E), the Republic of Moldova and Ukraine 
+joined the Eastern system (IPS). 
+Despite strong links between ex-Soviet republics 
+and their western neighbours, electricity exchange 
+between the two systems is only feasible in “island 
+mode”, or via expensive back-to-back converter 
+stations. As the smallest country in the region, the 
+Republic of Moldova was affected significantly by 
+the dismantling of the region’s electricity system 
+and consequently has inherited a poorly maintained 
+and unsustainable power network. 
+In particular, because the country suffers from 
+insufficient power generation capacity, it uses 
+its interconnections with Ukraine to ensure the 
+necessary system reserves and balancing energy. 
+This includes seven 330 kilovolt (kV) lines and
+11 110 kV lines (see Figure 9). 
+The high-voltage interconnection between the 
+Republic of Moldova and Romania consists of 
+the 400 kV Vulcanesti-Isaccea overhead line 
+and four 110 kV lines; however, due to a lack of 
+synchronisation, these are used only in exceptional 
+cases. Because the local system is isolated from 
+ENTSO-E, it demonstrates major operational 
+limitations that affect the energy security of the 
+Republic of Moldova and hinder the operational 
+stability of the system and the possibilities for 
+power exchange. Thus, a feasibility study has 
+been conducted on interconnecting the energy 
+systems of the Republic of Moldova and Romania 
+by installing back-to-back stations (asynchronous 
+interconnection) (see Box 2). This scenario makes 
+it possible to maintain both the interconnection 
+with Ukraine, as well as energy exchanges with 
+Romania. 
+At the same time, the Energy Strategy 2030 
+envisages plans to strengthen bidirectional 
+transmission connections between the IPS/UPS 
+and ENTSO-E systems, enabling the Republic 
+of Moldova to become a power transit country. 
+Interconnection projects with the EU internal 
+power market through new power lines, as well 
+as the enhancement of internal networks, are 
+considered essential both for supply security and 
+for social welfare. In addition, interconnection 
+with the ENTSO-E system is expected to enable 
+increased competitiveness that will lead to more 
+affordable energy prices. 
+In this context, the Moldovan and Ukrainian 
+governments are synchronising their energy 
+agendas, especially those related to the 
+interconnection of their national power systems 
+with the ENTSO-E grid. In this regard, in June 
+2017, the transmission system operators of both 
+countries signed a Memorandum of Understanding 
+with ENTSO-E confirming their intention. 
+Figure 9. Electricity network and power 
+generation facilities in the 
+Republic of Moldova
+Source: WB (2015)
+Disclaimer: Boundaries and names shown on this map do not imply any official 
+endorsement or acceptance by IRENA.Box 2. Asynchronous interconnection with Romania
+A feasibility study was performed on 
+interconnecting the energy systems of 
+the Republic of Moldova and Romania by 
+installing back-to-back stations (asynchronous 
+interconnection). This approach makes it possible 
+to maintain both interconnection with Ukraine as 
+well as energy exchanges with Romania.
+In this context, the following scenarios were 
+analysed (see Figure 10):
+1. A back-to-back station with up to 600 MW 
+of capacity at Vulcăneşti and construction 
+of the Isaccea-Vulcăneşti-Chisinau overhead 
+line, estimated at EUR 270 million (No. 1 in 
+the figure).
+2. A back-to-back station with 300 MW capacity 
+at Balti station and construction of the 400 kV 
+Balti-Suceava overhead line, estimated at 
+EUR 130 million (No. 2 in the figure).
+3. A back-to-back station with 300 MW capacity 
+and construction of the 400 kV StraseniUngheni-Iasi overhead line. An investment 
+budget is not elaborated, as a connection 
+point with Romania has not been determined 
+yet (No. 3 in the figure).
+The feasibility study concluded that the most 
+feasible and suitable is option 1, the IsacceaVulcănești-Chisinau overhead line. 
+Once finalised, the project is expected to 
+increase diversification of the electricity market 
+in the country, enable future integration with the 
+ENTSO-E system and positively influence the 
+increased uptake of renewable energy capacities.
+Figure 10. Potential power interconnections of the Republic of Moldova with ENTSO-E
+Source: MoEI (2018b)
+Disclaimer: Boundaries and names shown on this map do not imply any official 
+endorsement or acceptance by IRENA.
+ENTSO-E
+IPS/UPS
+2
+3
+12.5 Organisational structure of the 
+energy sector
+Below is a list of the most important actors involved 
+in governing the energy sector.
+The Ministry of Economy and Infrastructure is 
+responsible for administration of the energy sector, 
+as well as for elaboration and implementation of the 
+necessary measures to ensure the energy security 
+of the country. In particular, the ministry develops 
+energy-related policies, strategies, normative acts 
+and sector programmes and project concepts.9 
+In addition, the ministry leads international 
+collaboration in the energy field, including, but not 
+limited to, the supply of strategic energy resources, 
+attraction of foreign investment, and facilitation of 
+power interconnections.
+The Energy Efficiency Agency provides support 
+to the Ministry of Economy and Infrastructure in 
+implementing energy efficiency and renewable 
+energy policies. Its mission is to: manage all 
+activities in the energy efficiency and renewable 
+energy sectors; ensure the continuation of countrywide efforts to reach the objectives stemming from 
+national strategies and programmes; and guarantee 
+timely and proper implementation of legislation 
+related to energy efficiency and renewable energy. 
+Moreover, following institutional reform in 2018, 
+the agency has absorbed the Energy Efficiency 
+Fund. As a result, it also is responsible for providing 
+financial support to the sector – in part through 
+funds allocated from the state budget, but also 
+through additional resources to be fundraised on 
+local, regional and international financial markets. 
+The National Energy Regulatory Agency (ANRE) 
+is an independent regulatory authority, directly 
+subordinated to parliament. It is responsible 
+primarily for the introduction of market regulatory 
+mechanisms that protect the interests of both 
+consumers and investors. In particular, the agency:
+• Supervises compliance with laws and 
+regulations in the energy field.
+• Promotes and ensures fair competition 
+and efficient operation of energy markets, 
+monitoring the level and effectiveness of 
+market opening, as well as competition, in the 
+wholesale and retail energy markets.
+• Issues licences for activities in the energy 
+market and monitors compliance with licensing 
+conditions.
+• Monitors the investment plans of system 
+operators.
+• Sets and approves standards and requirements 
+for distribution, transmission and supply 
+activities.
+• Approves tariffs with the objective of 
+considering the interests of both producers 
+and customers.
+• Supervises customers’ rights and protections.
+The Competition Council aims to ensure the 
+supremacy of competitiveness principles in the 
+energy market, in line with the provisions of the 
+Law on Competition (Law no. 183 of 11.07.2012), as 
+well as the relevant legislation on electricity and 
+natural gas.
+Moldelectrica, a state-owned enterprise, performs 
+the functions of a transmission system operator 
+and manages the internal electricity transmission 
+network, including the operation of 4 699 km of 
+400 kV, 330 kV, 110 kV and 35 kV transmission lines. 
+In August 2018, the government strengthened 
+ownership independence through the adoption 
+of Decision no. 806/2018, with the objective of 
+advancing the unbundling process. In a next step, 
+transmission system operators will be further 
+certified by the regulator to prove compliance with 
+unbundling-related requirements. 
+The state-owned RED Nord10 and privately owned 
+RED Union Fenosa perform the functions of 
+distribution system operators (MoEI, 2017).
+9 For example, project concepts for development of the power sector, refurbishment of domestic CHP plants, implementation of energy efficiency measures in the
+residential sector, etc.
+10 JSC RED Nord absorbed another state-owned distribution system operator, JSC RED Nord-Vest, in 2017.Biogas plant in Drochia
+Photograph: Energy Efficiency Agency 3.1 Renewable energy resources and applications
+The Republic of Moldova has vast technical potential for renewable 
+energy. Yet, deployment has been limited so far, with the exception of 
+the use of biomass in the heating sector. Indeed, although renewable 
+energy has developed rapidly worldwide over the past decade and is the 
+most cost-competitive solution in an increasing number of countries (see 
+Box 3), this trend has not yet been observed in the Republic of Moldova. 
+In 2017, the share of renewables in the Republic of Moldova’s gross final 
+energy consumption was 27.8%. Biomass provides 98% of this share and 
+is used mainly in the heating sector (NBS, 2018). This high contribution to 
+the energy mix was identified only recently, however, by the retroactive 
+revision of biomass household consumption data for 2010-2016. Efforts 
+by the National Bureau of Statistics, the United Nations Development 
+Programme (UNDP) and the Energy Community Secretariat to improve 
+the statistical record led to an apparent 10-fold increase in consumption 
+figures, from 67 ktoe in 2009 to 678 ktoe in 2016 (UNDP and ECS, 2016). 
+This revised share of renewables is well above the national target of 17% 
+by 2020, which was established in 2012, based on the energy situation in 
+2009. At that time, the share of renewables was 11.9%.11
+Table 2 presents the evolution of renewable energy use in three sectors 
+– electricity, transport, and heating and cooling – taking into account the 
+revised data for 2010 - 2016.
+Renewable energy 
+development 
+11 Based on an analysis of the Energy Community Secretariat. The national sources, e.g. the Moldovan Energy 
+Efficiency Agency, indicated significantly lower share.Box 3. The business case for renewables
+Renewables have grown at unprecedented 
+rates over the past decade, with new records 
+being set each year. An increasing number 
+of countries have committed to those 
+developments, too. In 2016, at least 176 countries 
+had renewable energy targets (IRENA, IEA and
+ REN21, 2018). 
+The most spectacular changes have occurred in 
+the power sector, where, since 2012, renewables 
+have outpaced conventional fuels in annual new 
+global capacity additions in electricity production 
+(IRENA, 2018a).
+By the end of 2017, the global installed capacity 
+of renewables amounted to 2 179 gigawatts 
+(GW), representing more than 29% of the world’s 
+total power generating capacity. The bulk of this 
+renewable capacity was from hydropower (53%), 
+followed by wind power (23%) and solar power 
+– mostly solar photovoltaics (PV), at almost 18%. 
+Between 2010 and 2017, the global installed 
+capacity of solar PV increased almost ten-fold 
+and onshore wind almost three-fold (IRENA, 
+2018a). 
+Thus, the business case for renewables today 
+is stronger than ever, with many technologies 
+achieving spectacular cost reductions. Indeed, the 
+average costs of utility-scale solar PV and onshore 
+wind declined by 73% and 22%, respectively, 
+between 2010 and 2017 (IRENA, 2018b).
+Figure 11. Global levelised cost of electricity from utility-scale renewable power generation 
+ technologies, 2010-2018
+Source: IRENA (2019)
+Bioenergy CSP Geothermal Hydro Oshore
+wind
+Onshore
+wind Solar PV
+2010 2018 2010 2018 2010 2018 2010 2018 2010 2018 2010 2018 2010 2018
+2017 USD/kWh
+0.40
+0.35
+0.30
+0.25
+0.20
+0.15
+0.10
+0.05
+0.00
+Fossil fuel power range cost
+0.070 0.069
+0.330
+0.202
+0.050
+0.071
+0.055
+0.082
+0.132
+0.166
+0.050
+0.040
+0.355
+0.088Table 2. Share of renewable energy in gross final energy consumption, by sector (%)
+Source: MoEI (2018c)
+Year 2010 2011 2012 2013 2014 2015 2016 2017 Target
+Electricity 6.9 4.4 4.0 1.7 1.9 2.0 2.0 2.2 10
+Heating and cooling 34.4 36.1 39.0 39.9 43.6 44.5 45.5 46.1 27
+Transport 0.1 0.1 0.2 0.2 0.2 0.2 0.2 0.3 10
+Total renewable energy 21.3 22.0 24.3 24.4 26.1 26.2 26.9 27.8 17
+Wind installations
+Hydro installations
+PV installations
+CHPs on biogas
+16.3 MW
+31%
+3.9 MW
+7%
+27.1 MW
+51%
+5.7 MW
+11%
+PV installations Wind installations
+CHPs on biogas
+2010 2012 2014 2016 2018
+40
+30
+20
+10
+0
+Installed capacity, MW
+Figure 12. Installed renewable energy capacity, 
+ by source (as of March 2018)
+Figure 13. Dynamics of renewable 
+ energy growth
+Source: MoEI (2018d) Source: MoEI (2018d)
+In the power sector, the most-used renewable 
+energy technology is wind, with an installed 
+capacity of 27 MW, followed by CHP using biogas 
+and almost 4 MW of solar PV (see Figure 12). 
+The Republic of Moldova also has one, 16 MW 
+hydropower plant, constructed in the late 1970s. 
+The deployment of non hydro renewables had 
+been growing slowly since 2012, but it accelerated 
+greatly in 2016 (see Figure 13). This was due to 
+investors seeking to obtain support before the new 
+law on the promotion of the use of energy from 
+renewable sources came into force in March 2018.Photograph: ShutterstockWind
+Wind is the most abundant renewable energy 
+source in the Republic of Moldova, with almost 
+the entire country offering technically suitable 
+locations for wind power investments (see 
+Figure 14). Moreover, as identified in the 2017 
+IRENA report, Cost-competitive renewable power 
+generation: Potential across South East Europe, 
+wind can provide up to 21 GW of power capacity, 
+much of which could be deployed with the levelised 
+cost of electricity (LCOE) below 90 EUR/MWh. This 
+is the level up to which the potential is considered 
+by the report to be cost-competitive (see Box 4)
+(IRENA et al., 2017).
+With 27 MW currently installed, wind is the most 
+widely used renewable energy technology in the 
+Moldovan power sector. This is based exclusively 
+on second-hand turbines imported from European 
+countries. With a new support regime (see Section 
+3.2), up to 100 MW of new wind capacity is expected 
+in the coming years. Further developments are also 
+considered for industry self-consumption purposes.
+Figure 14. Wind potential in the Republic of Moldova
+Source: IRENA, Global Atlas; map data: Risø DTU (2018); base map: OpenStreetMap (2018). Available at: http://irena.masdar.ac.ae/?map=103
+Disclaimer: Boundaries and names shown on this map do not imply any official endorsement or acceptance by IRENA.
+Wind Speed at 100m - [m/s]
+5.0
+5.2
+5.4
+5.6
+5.8
+6.0
+6.2
+6.4
+6.6
+6.8
+7.0
+Photograph: ShutterstockNote: The study covers: Contracting Parties of the Energy Community (Albania, Bosnia and Herzegovina, Kosovo*, Montenegro, the Republic of Moldova, Serbia, the former 
+Yugoslav Republic of Macedonia, and Ukraine); and member states of the European Union (Bulgaria, Croatia, Romania and Slovenia). 
+Note that this designation of Kosovo* is without prejudice to positions on status and in line with the United Nations Security Council Resolution 1244 (1999). 
+Box 4. Cost-competitive solar PV and wind potential in South East Europe
+IRENA’s Global Atlas is 
+the largest initiative to 
+assess renewable energy 
+potential on a global 
+scale. The platform hosts 
+over 2 000 renewable 
+energy maps, covering 
+solar, wind, bioenergy, 
+geothermal and marine 
+energy, including several 
+high resolution maps. 
+In 2016, the tool was used 
+to conduct a suitability 
+analysis and to map 
+investment opportunities for wind and solar PV 
+in South East Europe. Six dimensions were taken 
+into account to identify these areas: resource 
+intensity, distance to power grids, population 
+density, land cover, topography and altitude, and 
+protected areas. 
+The results of the assessment were presented in 
+the IRENA report, Cost-competitive renewable 
+power generation: Potential across South East 
+Europe, launched in 2017. The report found the 
+following:
+• Vast technical renewable energy potential 
+exists in the region, amounting to 739 GW. 
+Wind energy is the most abundant resource in 
+the region, with an overall technical potential 
+of over 532 GW, more than four times that for 
+solar PV. 
+• 126.9 GW of the region’s overall renewable 
+energy potential could be implemented in a 
+cost-competitive way today. This is almost 
+17% of the identified technical potential and 
+is also 15 times higher than the 8.2 GW of 
+planned total capacity additions required by 
+National Renewable Energy Action Plans from 
+2016 until 2020. 
+• The additional cost-competitive potential 
+could be even higher (above 290 GW), if lowcost capital was available. In total, by 2030, 
+the additional cost-competitive potential of 
+solar PV and wind will equal 620 GW. 
+Bioenergy
+The Republic of Moldova is known as an agricultural 
+country with a significant biomass potential. Thus, 
+bioenergy is the most popular renewable energy 
+source in the country and remains a priority for 
+the government. Almost all biomass is used in 
+a traditional manner, though – as firewood and 
+agricultural waste, typically consumed for heating 
+purposes, especially in rural communities.
+In 2010, the annual potential of solid biomass was 
+assessed at 21042 terajoules, or 503 ktoe (UNDP, 
+2010). This figure, sufficient to cover 18% of national 
+energy needs, no longer seems to be accurate. In 
+2017, the consumption of biomass totalled 733 ktoe 
+(NBS, 2018). 
+Pellets and briquettes – burned in highly efficient 
+boilers or stoves – represent just 3% to 5% of 
+biomass use, according to the Energy Efficiency 
+Agency. At the same time, limited developments 
+have occurred in the power sector, with less than 6 
+MW of bioenergy capacity installed so far. Actions 
+towards promoting the use of liquid biofuels in 
+transport were also only initiated recently. Box 5. Republic of Moldova Energy and Biomass Project
+Over the last decade many development 
+partners supported the Moldovan authorities 
+in replacing coal- and gas fired boilers, as well 
+as basic stoves, with biomass heating units that 
+burn straw, pellets, briquettes and firewood. 
+One of the most important projects in this regard 
+was the Energy and Biomass Project, financed 
+by the European Commission and implemented 
+by UNDP. This aimed to increase the use of 
+energy from biomass sources and laid the basis 
+for establishing functional markets for biomass 
+technologies. Furthermore, it envisaged the 
+creation of jobs and value-added chains at the 
+local and regional levels through the supply of 
+biomass fuel and technologies (UNDP 2018a, 
+UNDP 2018b). 
+With a total budget exceeding USD 28 million, 
+within its first phase (2011-2014) and second phase 
+(2015-2018), the project provided support for the 
+installation of biomass-based heating systems 
+in more than 250 buildings – mostly schools, 
+kindergartens and medical facilities. Moreover, 
+almost 1000 small residential boilers were installed 
+thanks to subsidies for renewable energy heating. 
+Overall, the installed capacity of equipment during 
+this period was 41.2 megawatts-thermal.
+In addition, the project resulted in: 
+• Promotion of the use of bioenergy and 
+increased awareness and social acceptance. 
+• Vocational training for biomass boilers 
+operators and foresters.
+• Launch of the Biomass Energy Cluster and the 
+Bioenergy Association.
+• Creation of a web platform to connect biomass 
+energy producers and consumers.
+• Several companies assembling and 
+manufacturing biomass boilers.
+• Inauguration of public-private partnerships 
+for the provision of bioenergy services.
+• Accreditation of the first testing laboratory 
+for the physical and chemical parameters of 
+biofuels (see Figure 15).
+Figure 15. The Solid Biofuel Laboratory at the State Agrarian University of the Republic of Moldova
+Source: UNDP (2017)The deployment of biomass continues to provide 
+employment opportunities as well. Existing efforts 
+are oriented towards strengthening the newly 
+created industry of producing solid biofuels 
+(briquettes and pellets), which already ensures 
+about 400 new jobs in rural areas and had an 
+assessed turnover of USD 6 million to USD 8 million 
+in 2017. According to the Energy Efficiency Agency, 
+this market is driven by 155 MW of heat-only 
+boilers that run on biomass, with 67 MW installed 
+in the public sector and approximately 88 MW in 
+the residential sector.
+The Ministry of Economy and Infrastructure also 
+aims to promote the energy crop production 
+industry. This priority stems from the fact that 
+consumers prefer to use wood biofuels for energy, 
+instead of less efficient straw and other residues, 
+even though the country’s level of forest cover is 
+only about 12%. 
+Solar
+The Republic of Moldova has experienced 
+limited development of solar PV in recent years.
+Only 50-plus small projects, mostly rooftop solar, have 
+been implemented during the last five years, with a 
+cumulative capacity of almost 4 MW. Solar PV could 
+provide up to 4.5 GW of capacity, however, more than 
+20% of which (1 GW) was considered already costcompetitive in 2016. This meant that it had an LCOE 
+below 90 EUR/MWh, if attractive financial conditions 
+were provided.12 The other 80% would become costcompetitive by 2030 (IRENA et al., 2017).
+The public sector remains the leader in using solar 
+energy for hot water production. Through the 
+Energy and Biomass Project (see Box 5), 30 public 
+institutions benefited from the installation of solar 
+water heaters, with these complementing existing 
+biomass boilers. Another 15 projects in the public 
+sector were financially supported by the Energy 
+Efficiency Fund. 
+Installing solar water heaters, especially in public 
+institutions with high hot water demand, such as 
+hospitals and kindergartens, proved to provide 
+cost savings; thus, the public sector plays an 
+exemplary role in promoting wider exploitation of 
+solar heating potential.
+12 Weighted average cost of capital (WACC) = 8%
+Figure 16. Global horizontal irradiation in the Republic of Moldova
+Source: IRENA, Global Atlas; map data: World Bank S map (2018); base map: OpenStreetMap (2018). Available at: http://irena.masdar.ac.ae/?map=3103.
+Disclaimer: Boundaries and names shown on this map do not imply any official endorsement or acceptance by IRENA.
+Long-term average
+GHI kWh/m2
+1225
+1250
+1275
+1300
+1325
+1350
+1375
+1400Hydropower
+Despite its large number of rivers, the Republic of 
+Moldova has only one reservoir hydropower facility, 
+a 16 MW plant located in Costesti on the Prut River, 
+the second most important river in the country. In 
+addition, 254 kilowatts (kW) of small hydropower 
+installations are in operation (ANRE, 2017). 
+The best areas for development are located in the 
+Dniester, Prut and Danube river basins, with the 
+country’s total potential estimated at 3.36 terawatthours per year (Ceban, 2015). As envisaged by the 
+Energy Strategy 2020, some mini-hydro stations, 
+totalling 1.2 MW in capacity, were planned for the 
+Raut River, close to the village of Tribujeni in the 
+Orhei district (UNECE, 2009).
+Geothermal
+The geothermal energy resource potential of the 
+Republic of Moldova has been poorly investigated, 
+with no comprehensive quantified estimate existing. 
+Nevertheless, the country has significant availability 
+of low enthalpy geothermal potential, especially 
+in the southern part of the country, which could 
+be widely used by heat pumps. The government’s 
+focus on this technology is limited, with no actions 
+envisaged in the National Action Plan for Renewable 
+Energy. The Energy Efficiency Agency, however, has 
+identified four operational geothermal installations, 
+with a total installed capacity of 142 kW (EEA, 2016).
+3.2. Renewable energy support 
+mechanisms in the power sector
+Until March 2018, power generation from renewable 
+sources was supported by the Renewable Energy 
+Law of 2007 (No. 160-XVI of 12.07.2007). The law 
+envisaged the cost-plus principle.13 Under this, ANRE 
+issued a tariff for 15 years – based on the actual eligible 
+costs incurred – only after the investments had been 
+made. In addition, the regulator had the right to adjust 
+the tariff to regional benchmarks, if they were lower. 
+This approach was not sufficient to attract investments 
+in the sector and was therefore revised. 
+The Law on the Promotion of the use of Energy from 
+Renewable Sources (Law No. 10 of 26.02.2016), 
+came into effect in March 2018 in the form of a 
+tariff-based scheme and net metering. The law also 
+provided the necessary guarantees for investments, 
+including: non-discriminatory grid connection; 
+priority dispatch; and an obligation for the central 
+electricity supplier to purchase all-renewablegenerated electricity for 15 years. In addition, the 
+new market-based scheme promotes competition 
+among investors, as it envisages auctions for projects 
+above 4 MW in the case of wind and 1 MW for other 
+technologies. At the same time, the law supports the 
+development of small-scale, community-promoted 
+renewable energy projects. 
+Figure 17 represents the support mechanisms 
+under the 2016 law.
+13 Tariffs are calculated based on project costs plus a relevant return. 
+Figure 17. Graphic representation of the support mechanisms in the Republic of Moldova
+Source: MoEI (2018a)
+200 kW
+Installed Capacity
+NET metering
+0 kW
+10 kW
+1 MW / 4 MW (wind)
+Capacity limit
+Feed-in tari Auctions14 It also sets out a methodology for determining ceiling prices for auctions.
+Net metering and community-based projects
+Net metering has been introduced to encourage 
+project owners who cover their own electricity 
+consumption with small, renewable-based 
+generation units of up to 200 kW capacity. Any 
+excess, calculated in a one-year accounting period, 
+can be sold on at the average wholesale market 
+price.
+In addition, the Ministry of Economy and 
+Infrastructure and the Energy Efficiency Agency are 
+extensively promoting the concept of renewable 
+energy projects driven by local communities, in 
+order to increase the use of distributed generation. 
+Despite ongoing efforts to promote the concept 
+of community self-sufficiency, mainly by sharing 
+European best practices, the country has not yet 
+experienced any such developments. 
+Feed-in tariffs
+Administratively set feed-in tariffs for small 
+installations (those with capacities below 4 MW in 
+the case of wind and 1 MW for other technologies) 
+will be issued by ANRE using a first come first 
+served principle. In 2017, ANRE approved a 
+methodology (Decision No. 375 of 28.09.2017) for 
+determining those tariffs but some of its elements 
+are subject to revision.14 The total capacity of those 
+projects benefitting from feed-in tariffs is assumed 
+to be 55 MW. 
+Auctions (competitively set tariffs) 
+The introduction of capacity auctions, tentatively 
+scheduled for 2019, is considered the most important 
+change in the renewable energy sector. 
+As presented in Table 3, the government aims to 
+organise technology-specific tenders for a total 
+capacity of 113 MW, which will guarantee fixed tariffs 
+for 15 years. The scheme has been designed in line 
+with the EU Guidelines on state aid for environmental 
+protection and energy for 2014-2020, which are 
+mandatory for the Contracting Parties of the 
+Energy Community. In addition, IRENA, the Energy 
+Community Secretariat and the European Bank 
+for Reconstruction and Development (EBRD) have 
+jointly developed Guidelines for Contracting Parties 
+of the Energy Community, which provide insights in 
+this regard (see Box 6).
+Table 3. RE capacity quotas under the new supporting scheme
+# Type of technology
+Quotas (MW) Threshold 
+for small 
+Classic installations
+feed-in tariff Auctions
+1 Wind 20 80 4
+2 Solar PV 15 25 1
+3 Biogas installations 12 8 1
+4 CHP installations (on solid biomass) 5 – 1
+5 Small hydro 3 – 1
+TOTAL 55 113 –
+Source: Based on Government Decision no. 689 of 11.07.2018Box 6. Policy Guidelines on Competitive Selection and Support for Renewable Energy 
+In March 2018, the Policy 
+Guidelines on Competitive 
+Selection and Support 
+for Renewable Energy 
+were prepared jointly by 
+the EBRD and the Energy 
+Community Secretariat, in 
+collaboration with IRENA 
+(ERBD et al., 2018). 
+Intended for countries of 
+the Energy Community 
+Treaty that are also EBRD 
+countries of operation, these Guidelines build 
+on IRENA’s Renewable Energy Auctions: A Guide 
+to Design (IRENA and CEM, 2015). They provide 
+recommendations for governments in four 
+areas of auction design: the competitive process 
+framework; procurement choices; selection 
+process choices; and the delivery mechanism for 
+renewable energy support. 
+Guidelines are already being used in the policy 
+work of the EBRD and the Energy Community 
+Secretariat. In Albania and the former Yugoslav 
+Republic of Macedonia, EBRD is using the 
+guidelines to assist local authorities. In Ukraine, 
+the guidelines are informing discussions on the 
+policy framework for supporting renewables. 
+In the Republic of Moldova, EBRD has recently 
+initiated its efforts to support the country in 
+designing renewable energy auctions for onshore 
+wind and solar PV, including preparation of the 
+required tender documentation. 
+Figure 18. Key steps in a tenders’ development
+Source: Based on Government Decision no. 690 of 11.07.2018
+Establishing of 
+the capacity 
+limits and 
+maximum 
+capacity quotas 
+/Status - DONE, 
+Responsible 
+entity - MoEI, 
+Government/
+Elaboration of 
+tendering 
+documentation
+/Status - IN 
+PROCESS, 
+Responsible 
+entity - MoEI/
+Launching of the 
+tendering 
+procedure
+/Status - IN 
+PREPARATION, 
+Expected 
+timeframe - 
+mid. 2019 /
+Submission of 
+the oers and 
+their 
+qualification
+Oers
+evaluation
+and awarding 
+Signing of the 
+contract 
+15 As of December 2018.
+The recently approved regulation on tendering 
+(Government Decision No. 690 of 11.07.2018) 
+provides an initial framework for organising auctions 
+that grant “eligible producer” status on large 
+investors. This is done through the establishment 
+of unequivocal, objective, transparent and nondiscriminatory procedures, conditions and criteria. 
+Under the new regulation, development of 
+the renewable energy auctions will be carried 
+out in compliance with the steps presented in
+Figure 18. Additional tendering documentation and 
+an auctions calendar are yet to be prepared by the 
+national authorities.15
+Auctions will be carried out by the Tendering 
+Commission, which comprises representatives of: 
+the Ministry of Economy and Infrastructure, the 
+Ministry of Agriculture, Regional Development and 
+Environment, the Agency of Land Relations and 
+Cadastre, the Energy Efficiency Agency, and the 
+Public Property Agency. Any bid that meets the pre16 Manufactured no more than 48 months before the start-up of the power plant.
+qualification criteria presented in Figure 19, including 
+bids put forward by foreign developers, is eligible 
+to participate in the auctions. The criteria include 
+issues related to land, financial credibility, technical 
+credibility and connection to the grid. They have 
+been established to ensure that only those with a 
+genuine intention to implement the project are 
+admitted to the procedure. 
+The selection procedure is to be held based on the 
+lowest price criterion, provided that:
+• This is below the ceiling price to be determined 
+by ANRE.
+• The proposed capacity is within the quota for 
+each technology set out by the government (see 
+Table 3).
+• New equipment is to be used.16
+Moreover, potential investors are obliged to submit 
+the proposal’s guarantee together with the offer. 
+This is specified in the tender documentation as a 
+fixed amount per 1 kW of specific technology, equal 
+to 0.2% of the capital investment cost used by ANRE 
+in the methodology used to set the ceiling price. The 
+proposal’s guarantee shall be provided in the form of 
+a guarantee letter provided by a financial institution. 
+An additional guarantee needs to be submitted 
+to the Tendering Commission within 30 days by 
+the winner of a tender to ensure delivery of the 
+commissioned electricity. Such a guarantee, at a 
+fixed amount per kW, is not to exceed 2% of the 
+value of the capital investment cost used by ANRE 
+in the methodology used to set the ceiling price. 
+Once selected and granted with the status of eligible 
+producer, an investor will have 36 months to finalise 
+its power plant. 
+The key development steps for renewable energy 
+projects/business in the Republic of Moldova are 
+specified in Annex. Key development steps for 
+renewable energy projects 
+In addition to the pre-qualification criteria, renewable 
+energy investors must be aware that the total 
+capacity of all the projects developed by an investor 
+using the same technology will also be taken into 
+account while issuing feed-in tariffs. If the total 
+capacity exceeds the capacity threshold provided in 
+Table 3, participation in a tender will be required in 
+order to benefit from the support scheme. Similarly, 
+in the case of increasing the capacity of an existing 
+power plant, its cumulative capacity will be taken 
+into account. Those rules also refer to an investor’s 
+spouse, relatives and affiliated persons (up to the 
+second degree).
+Figure 19. Pre-qualification criteria
+Source: Based on Government Decision no. 690 of 11.07.2018
+Pre-qualification
+criteria
+Financial credibility
+• Proved financial viability (equity, credits, guarantees)
+• Business plan
+• Project financing plan
+Connection to grid
+• Connection notice from the relevant TSO
+Technical credibility
+• Compliance with technical requirements
+• Feasibility study
+• Proof of purchase/purchase intention of the equipment
+Eligibility of location
+• Ownership/right to use the land
+• Proof of land designation change, if necessary3.3. Financing of renewable energy
+Most of the renewable energy projects in the 
+Republic of Moldova were financed by multilateral 
+development banks or bilateral development 
+agencies, or were self-financed by the private 
+sector. Examples of the first source of funding 
+include the EBRD, the European Investment Bank 
+(EIB), and the World Bank Group, while examples 
+of the second include the Swedish International 
+Development Cooperation Agency and the 
+Japanese International Cooperation Agency 
+(JICA). Private sector funding was used mainly in 
+the case of biogas and solar.
+While some of these partners provided grants for 
+the financial products developed in collaboration 
+with local commercial banks, others set up credit 
+lines to support both renewables and energy 
+efficiency. For example, the EBRD’s financing tools, 
+implemented together with BCR Chisinau, Moldova 
+Agroindbank, Moldindconbank, ProCredit Bank 
+and MobiasBanca, include: 
+• MoSEEFF – the Moldova Sustainable Energy 
+Efficiency Financing Facility. With a total 
+budget of EUR 42 million, this aimed to support 
+the use of renewables by local enterprises. 
+Solar was one of the focus areas, and a diverse 
+range of projects was implemented through 
+the programme, from a 100 kW rooftop power 
+plant installed on an agriculture warehouse, to a 
+500 kW solar PV farm installed on the grounds 
+of a carpet manufacturer.
+• MoREEFF – the Moldova Residential Energy 
+Efficiency Financing Facility. This had a total 
+budget of EUR 35 million and targeted the 
+residential sector during the period 2012-2017.
+In addition, the Republic of Moldova is one of the 
+beneficiaries of the Green Climate Fund (GCF) 
+EBRD Sustainable Energy Financing Facilities 
+programme. This is set to direct USD 1.4 billion to 
+financing facilities with local financial institutions 
+in Armenia, Egypt, Georgia, Jordan, the Republic 
+of Moldova, Mongolia, Morocco, Serbia, Tajikistan 
+Planting the energy willow, Orhei Professional School, Orhei
+Photograph: UNDP Moldovaand Tunisia, in order to support renewable energy, 
+energy efficiency projects and climate adaption 
+measures (GCF, 2017).
+Meanwhile, the local financial sector still does not 
+offer adequate financing options for renewables, 
+with the exception of a few banks with foreign 
+capital that have dedicated financial products for 
+renewable energy projects.17 The limited number 
+of financial institutions open to this field results 
+from the unavailability of low-cost capital and the 
+high-risk perception of such projects. The lack of 
+understanding of renewable energy technologies 
+leads to the broad perception of renewables as 
+being very innovative and prone to failure, which 
+has led to high interest rates from capital providers.
+The continuous involvement of international 
+players, however, is expected to advance the 
+uptake of renewable energy sources and to ensure 
+that all investors, including small ones, that are 
+interested in the new support mechanisms will 
+be in a position to prove their financial credibility. 
+Already, Moldelectrica has issued more than 30 
+connection permits with a cumulative capacity 
+of about 1 000 MW for new renewable energy 
+projects.
+Yet, the preparatory costs related to the prefeasibility stage and permitting, amongst other 
+factors, are considered to be at a level that can 
+limit the appetite of investors for the Republic 
+of Moldova. Thus, given the condition of the 
+local financial sector, only larger companies have 
+sufficient financial resources to initiate project 
+development. Small and medium sized enterprises 
+with scarce finances are exposed to a high risk 
+of failure in the completion of a project. Some 
+support is provided by the Energy Efficiency Fund 
+and international financial institutions, but this is 
+often insufficient to increase the participation of 
+those entities in the renewable energy market.
+17 Procredit, Mobiasbanca.Wind turbine and transmission lines
+Photograph: ShutterstockOver the past few years, the Republic of Moldova has stepped up 
+efforts towards developing renewable energy sources. The decadelong activities to develop the solid biofuel sector, as well as the recent 
+adoption of the new support schemes for renewable electricity, have 
+contributed greatly to the rising interest of the business community. 
+Additional efforts are necessary, however, to cement the foundations 
+of the sector. The sections below outline the main challenges 
+hindering more accelerated deployment of renewable energy and the 
+corresponding recommended actions to address them. These have 
+been identified via a multi-stakeholder consultative process along 
+with the RRA implementation, described in detail in Chapter 1.
+4.1 Long-term planning
+The Republic of Moldova is poorly endowed with conventional 
+energy resources and thus highly dependent on imported energy. 
+Only around 25% of primary energy consumption is supplied through 
+indigenous resources, with more than 98% of this biomass, used 
+mostly for heating in rural areas. 
+As identified in the IRENA report, Cost-competitive Renewable Power 
+Generation: Potential across South East Europe (IRENA et al., 2017), 
+the country has abundant renewable energy sources. With more than 
+27 GW of technically suitable potential, those resources could be 
+widely deployed to help achieve two key objectives of the Energy 
+Strategy by 2030: to ensure the security of energy supply; and the 
+sustainability of the energy sector.
+With the costs of renewables falling rapidly over the past decade, 
+these technologies offer cost-competitive energy supply solutions 
+in an increasing number of countries, worldwide. The trend is set to 
+grow, too, as technological innovation continues to drive the next 
+generation of cost declines. 
+Current efforts to raise renewable power capacity beyond the 2020 
+target also confirm the government’s recognition of the importance of 
+the ongoing energy transition, in enabling the country to improve its 
+energy security. Additional policy and regulatory actions are required 
+to solidify the role that renewable energy could play in addressing the 
+key energy challenges in the country. In this context, the following 
+recommended actions can be considered:
+Challenges and 
+recommendations• Adopt a renewable energy target for 2030
+Since the renewable energy target of 17% by 
+2020 has already been overachieved, it neither 
+provides long-term predictability, nor reflects the 
+country’s vision of energy sector development. 
+The fact that the current share of renewables 
+(27.8%) was reached mainly through the revision 
+of biomass consumption data adds another 
+level of uncertainty. Although the announced 
+development of 168 MW of renewables capacity 
+in the coming years has captured the interest of 
+several investors, this could be considered a oneoff boost to the market, rather than an element 
+of a solid strategy. 
+Therefore, the ongoing activities undertaken 
+by the Ministry of Economy and Infrastructure, 
+as well as the discussions within the Energy 
+Community, are undertaken with a view towards 
+agreeing on a new renewable energy target 
+for 2030. IRENA’s recently initiated regional 
+REmap analysis for the countries of Central and 
+Southeast Europe, including the Republic of 
+Moldova, would contribute to these efforts and 
+help identify cost-effective technology options 
+for the deployment of renewables in the power 
+and end-use sectors. The future long-term 
+framework for renewables could also emphasise 
+the important role that distributed generation 
+across the country can play in consolidating the 
+national power system. 
+• Conduct a production cost modelling study
+Renewables are becoming an increasingly costcompetitive source of energy in the Republic of 
+Moldova and are poised to play a greater role in 
+the national power system. 
+From a technical perspective, some research 
+studies indicate that the system could absorb 
+around 1 GW of renewables – a level almost 
+equal to the maximum load, which reaches 
+1 100 MW (Gropa, 2017). The increased use 
+of solar PV and wind technologies, however, 
+would present a new challenge, as the country 
+completely relies on Ukraine for balancing its 
+generation. Thus, the country should carry out 
+a production cost modelling study to determine 
+any potential operational constraints that could 
+result in the unavailability of sufficient power to 
+meet demand. 
+This study, including economic dispatch, 
+would allow investigation of multiple scenarios 
+for the generation mix, including those with 
+higher shares of renewables, as well as any 
+other policies and sensitivities. The modelling 
+normally covers one year – with a higher 
+time resolution to provide more insights on 
+operational cost impacts – and aims to ensure 
+that the system load is supplied entirely and 
+most economically. The analysis would also 
+address the issue of ancillary services and 
+balancing, which are becoming increasingly 
+important with the deployment of intermittent 
+renewables and the increasing availability of 
+distributed generation. 
+The results could help build confidence among 
+policy makers, system operators and investors, 
+as well as identify the most cost-effective 
+option for balancing the system. The study 
+should consider the ongoing efforts to ensure 
+interconnection and asynchronous operation 
+with Romania, expected within the next 
+four to five years, as well as the plans of the 
+governments of the Republic of Moldova and 
+Ukraine to ensure synchronous operation with 
+ENTSO-E, in the long run.
+To support countries in assessments of power 
+system flexibility, IRENA and the VTT Technical 
+Research Centre of Finland Ltd. have developed 
+the FlexTool. This analyses not only the 
+traditional concept of flexibility (concerning, 
+for example, flexible thermal and hydropower 
+generation with high ramping capability 
+and very low start-up time), but also other 
+innovative technologies that enrich the concept 
+of flexibility. These include flexible demand, 
+energy storage and sector coupling. The 
+FlexTool is capable both of analysing system 
+operations using a time step that represents 
+real-world challenges (an hour or less in the 
+case of VRE variability) and of carrying out longterm analyses and proposing possible flexibility 
+solutions in a hypothetical future system with 
+high VRE penetration (IRENA, 2018c).4.2 Regulatory environment for 
+renewable power investments
+Until March 2018, the development of renewable 
+energy capacity in the power sector was supported 
+by tariffs issued by ANRE. These were calculated 
+for each individual project, after the investment was 
+done, based on the actual eligible costs incurred. This 
+lack of revenue predictability before the completion 
+of a project, combined with the administrative and 
+bureaucratic challenges reported by stakeholders, 
+failed to ensure an attractive environment for 
+significant uptake of renewables, over the last decade. 
+Only 52 MW of renewable capacity had been installed 
+by March 2018.
+While the methodology developed by ANRE intended 
+to ensure that investment costs are recovered 
+through a tariff provided for 15 years, investors have 
+questioned some of its assumptions. For instance, 
+while the regulator assumed a capacity factor of 
+0.25 for wind, which is relevant for new turbines, 
+almost all units imported by local owners could reach 
+capacity factors of only 0.17—0.18. In consequence, 
+discrepancies in cash flow projections between 
+investors and ANRE led to dissatisfaction with the 
+issued tariffs. Moreover, as raised by the business 
+community, exclusion of some expenditures was not 
+clearly justified. 
+With the recent introduction of the new support 
+regime, ANRE will be responsible for setting feed-in 
+tariffs for small-sized projects, up to 4 MW for wind 
+and 1 MW for other renewable energy sources. In this 
+context, the authorities can consider the following 
+recommendations: 
+• Strengthen the enabling regulatory framework
+The Law on the Promotion of the use of Energy from 
+Renewable Sources (Law No. 10 of 26.02.2016) has 
+been in force since March 2018, although additional 
+pieces of legislation are still under preparation to 
+ensure smooth implementation of the support 
+schemes. Clarity on all requirements and 
+procedures to be followed needs to be ensured 
+well in advance for both project developers and 
+financial institutions. Successful efforts in this regard 
+will guarantee confidence in the government as a 
+reliable partner in the development of renewable 
+energy projects and will maintain the interest 
+of the investor community. In this context, the 
+government is expected to:
+1. Adopt essential secondary legislation,18 
+including: on standard documentation 
+for the tendering procedure; on eligible 
+producer status confirmation (for small 
+renewable electricity producers); and on grid 
+connection, including provisions referring to 
+the integration of renewables.
+2. Implement the methodology used to calculate 
+feed-in-tariffs and ceiling prices for tenders in 
+a transparent manner. All key elements of the 
+methodology should be made public, including 
+investment cost per MW/technology, capacity 
+factors, and operation and maintenance costs. 
+3. Ensure that all the elements of auction design, 
+including standard documentation, are in line 
+with the EU’s 2014 Guidelines on State Aid for 
+Environmental Protection and Energy and with 
+international practices. A joint Policy Guidelines 
+on Competitive Selection and Support for 
+Renewable Energy, prepared by the Energy 
+Community Secretariat and the EBRD, in 
+collaboration with IRENA, provides insights in 
+this regard (EBRD et al., 2018). Among other 
+aspects, issues need to be addressed in relation 
+to: the technical and human capacity of a 
+committee responsible for the administration of 
+auctions; and the establishment of an effective 
+dispute resolutions centre.
+4. Facilitate the introduction of the net 
+metering scheme for distributed renewable 
+energy generation. Despite the legislative 
+framework in place, the mechanism is not 
+widely used, due to the lack of clear rules for 
+distribution system operators, insufficient 
+understanding of the mechanism among 
+local commercial banks, and the structure of 
+subsidised electricity prices.
+18 As of December 2018. In addition, the recently approved regulation on tendering (Government Decision no. 690 of 11.07.2018) provides an initial framework for organising
+auctions that grants an “eligible producer” status to large investors through the establishment of unequivocal, objective, transparent and non-discriminatory procedures, 
+conditions and criteria.• Streamline administrative procedures and 
+facilitate their enforcement
+The lack of effective co-ordination among 
+different actors hinders the deployment of 
+renewable energy in the country. As a result, the 
+private sector highlights some procedures as 
+too costly and lengthy, or even catalogues them 
+as an administrative burden. To ensure better 
+harmonisation, the Ministry of Economy and 
+Infrastructure is advised to initiate a dialogue 
+with the Ministry of Agriculture, Regional 
+Development and Environment, the Ministry of 
+Finance, and Moldelectrica to clarify and simplify 
+such procedures. This effort could be part of the 
+forthcoming revision of the National Renewable 
+Energy Action Plan and the development of an 
+integrated National Energy and Climate Plan, 
+and may include the following aspects:
+1. Land use designation
+The national Land Code (Law No. 828-XII of 
+25.12.1991) envisages the use for agriculture 
+purposes only of sites/land parcels with a Soil 
+Potential Index exceeding 60 points.19 As a 
+consequence, most of the areas with abundant 
+wind resources might not be available for the 
+construction of renewable energy power plants, 
+due to their status as agricultural land, despite 
+the vast economic feasibility associated with the 
+renewable energy business in such areas. Even 
+with the presence of wind farms, however, land 
+can fulfil other functions, such as agriculture: 
+only some 10% of such land is occupied by wind 
+power equipment, while the remaining 90% is 
+available for grazing or cultivation. Moreover, 
+a power plant could generate additional 
+income for land owners and taxes for local 
+municipalities.
+2. Environmental impact assessment
+The perception of stakeholders in the sector 
+is that current procedures, in particular 
+assessments of the social and environmental 
+impacts of a new power plant, are too lengthy. 
+The relevant national authorities are not seen 
+as having sufficient capacity to issue permits 
+in a timely manner. Therefore, strengthening 
+capacity and optimising internal procedures, 
+with the support of external technical 
+assistance, if necessary, could ensure that the 
+legally set time frame and other requirements 
+are respected. In particular, efforts should be 
+focused on the practical implementation of the 
+provisions of the EU’s Directive 2014/52/ EU 
+on the Assessment of the Effects of Certain 
+Public and Private Projects on the Environment, 
+adopted by the Republic of Moldova in October 
+2017, including the arrangements for early and 
+effective opportunities for public participation 
+(EnC, 2018). 
+3. Taxation
+Incentives of a customs and fiscal nature 
+are envisaged in the legislation,20 to ensure 
+additional support to wind and solar PV 
+investments. These incentives include reduced 
+customs fees at import, exemption from valueadded tax on installation work and other inputs 
+for renewable energy projects. Yet, some of the 
+relevant provisions are considered unclear by 
+both the investor community and the authorities 
+responsible for implementation. In particular, 
+specific technologies and sizes of projects are 
+not treated in a coherent way. For example, 
+a project with only one wind turbine does 
+not correspond to the “wind park” definition, 
+according to the interpretation of the Moldovan 
+Fiscal Service. Thus, a univocal understanding 
+of those provisions has to be ensured, either 
+by amendment of the legislation, or by 
+elaboration of a fiscal practice to be followed 
+by the national fiscal authorities. Furthermore, 
+any future changes in tax legislation should be 
+introduced with a sufficient vacatio legis21 to 
+enable adaptation of the business models used 
+by investments already under development.
+19 The Soil Potential Index, or SPI, is a calculation which rates soil on a scale of 0-100 points based on its capability to produce crops. For example, a rating of 10 would indicate 
+a soil poorly suited to growing crops, while a rating of 95 would mean top quality soil with virtually no impediment to crop production.
+20 Law No 172 of 25.07.2014 on the Approval of the Combined Nomenclature of Goods and The Fiscal Code of the Republic of Moldova, No. 1163 of 24.04.1997.
+21 Latin, meaning “absence of law”. Refers to the period of time between a law’s promulgation and it taking effect.4. Grid connection permits
+Approximately 1 GW of renewable energy projects, 
+mostly wind, have received grid connection 
+permits in the last few years, with the transmission 
+system operator now refusing to issue such 
+permits to additional investors, due to concerns 
+about grid stability. In fact, however, only projects 
+awarded in the upcoming auctions are likely to be 
+implemented. As a result, an increased volume of 
+issued permits, even exceeding 1 GW, would not 
+necessarily affect stability of the grid. As a permit 
+is required to take part in forthcoming renewable 
+energy auctions, the approach of Moldelectrica 
+appears to be to limit future competition to 
+the investors already present in the Republic of 
+Moldova. The credibility and the outcome of the 
+auctions could therefore be severely undermined 
+and, thus, a solution should be found to enable 
+the issuance of grid connection permits to new 
+potential renewables investors. 
+4.3 Bioenergy
+The Republic of Moldova is an agricultural country 
+with significant biomass potential, with bioenergy 
+contributing greatly to the achievement of the 
+current 27.8% share of renewables in gross final 
+energy consumption. Almost all biomass is firewood 
+and agricultural waste, used in a traditional 
+manner. When combined with the widespread use 
+of inefficient technologies and the illegal cutting 
+of firewood, this constitutes a challenge for policy 
+makers, as the level of forest cover is very low, at 
+only about 12%. 
+At the same time, national stakeholders increasingly 
+recognise that marginal and depleted lands 
+represent a potential for energy crop plantations. 
+A comprehensive assessment of total bioenergy 
+potential, including that related to energy crops, 
+has not been developed. The only estimation 
+provided so far has identified limited energy 
+potential from agricultural residues.
+Over the last decade, the country has intensified 
+its efforts to develop a bioenergy sector and 
+market, with a focus on solid biofuels. With the 
+assistance of development partners, many coaland gas fired boilers, as well as inefficient stoves, 
+have been replaced by biomass heating units 
+burning straw, pellets, briquettes and firewood. 
+Nevertheless, the sector requires further effort to 
+ensure co-ordination and allocation of resources, 
+in order to develop a proper market that would 
+facilitate communication between suppliers of 
+raw material and producers of fuels. The currently 
+existing trade and information portals created 
+within the framework of the UNDP Energy and 
+Biomass project have not been sufficient to 
+establish an effective market with stable demand 
+and supply sources. A comprehensive approach to 
+the bioenergy sector, including biofuels, has never 
+been developed. In this context, several key steps 
+are recommended: 
+• Develop a strategy for the bioenergy sector
+With limited availability of wooden biomass, 
+the country needs to manage the sector in a 
+sustainable manner. A deep and comprehensive 
+inventory of all forest areas, as well as marginal 
+and depleted lands, could be established to 
+ensure an accurate estimation of the biomass 
+potential that could constitute a basis for a 
+country-wide programme for the use of solid 
+biofuels. 
+In particular, the potential for the cultivation of 
+energy crops can be further considered. With 
+an estimated 38 000 hectares available for 
+growing both woody and herbaceous biomass, 
+the Republic of Moldova could develop the 
+local raw material industry in a short period of 
+time. The strategy, however, would need to be 
+based on a detailed analysis, determining the 
+most promising energy crops, the most feasible 
+locations within the country, and the types of 
+soil where the crops have the highest yields. 
+In addition, the strategy could address many 
+of the challenges that the energy crop sector 
+currently faces, including land conversion 
+issues, land suitability and the availability 
+of financial support. In this context, the 
+government could analyse the opportunity to 
+revise the relevant legislation with the objective 
+of increasing the role of local public authorities 
+in promoting the bioenergy sector, including 
+energy crops. As the owners of a vast amount of land, those authorities could strengthen their 
+commitment to developing the local industry 
+and would benefit from locally harvested, 
+cost-competitive heating resources; public 
+institutions in more than 250 communities in 
+the country use biomass boilers for heating 
+purposes. More common use of public-private 
+partnerships and inter-municipal co-operation 
+would also facilitate development of this sector.
+Finally, the programme should build on a 
+comprehensive assessment, providing clarity on 
+the most suitable technology for each potential 
+group of beneficiaries. As raised by stakeholders, 
+due to a large diversity of raw material, as well 
+as different consumption profiles, there is a lack 
+of understanding of the available options. Some 
+failures to match beneficiary and technology 
+have turned out to be costly in the past. Thus, the 
+analysis should consider: all types of properties; 
+different groups of beneficiaries; several 
+technologies, such as organic Rankine cycle 
+(ORC), pyrolysis, Stirling, and steam mini turbines; 
+and different consumer profiles. This exercise 
+will help determine different business models 
+for using biomass as a sustainable alternative – 
+including in district heating – and provide clear 
+recommendations for implementation, based if 
+possible, on successful pilots. 
+• Encourage the use of and further develop the 
+online platform for biomass trade
+A major challenge for the sector is the lack of 
+proper communication and exchange among 
+actors in the biomass market, even though a 
+dedicated online platform was recently launched. 
+The limited use of this tool causes considerable 
+disruption to the value chain, as suppliers of 
+raw material and producers of fuel struggle to 
+find effective communication channels – and as 
+final beneficiaries face problems in identifying 
+reliable sources of biomass fuel. The country is 
+advised to actively promote the platform and 
+to encourage potential users to increase trade 
+in all types of biomass, taking into account 
+factors such as price, quality, region of origin 
+and transport. With the expected development 
+of the energy crop industry, widespread use of 
+such a tool is even more necessary. 
+The online platform could also facilitate 
+the market operation and entry of new fuel 
+suppliers, including producers of agriculture 
+residues and local public authorities, as 
+well as enhance fuel price competition and 
+supply liquidity. In addition, this platform can 
+offer a source of information on the benefits 
+stemming from the use of bioenergy and be 
+a repository of available opportunities for 
+local consumers to switch to this source of 
+energy. This type of bridge between biomass 
+producers and potential customers would 
+contribute to more stable and increasing 
+demand. Furthermore, the platform could be 
+further developed based on best practices in 
+biomass exchange platforms, including the 
+experience of Lithuania in the development of 
+the Baltpool biomass exchange (Energypost, 
+2017).
+• Identify an optimal pathway to increase the 
+role of biofuels
+The country has committed to reach a 10% 
+share of renewables in the transport sector by 
+2020, but no actions have been taken so far to 
+promote the use of liquid biofuels. At present, 
+the widespread perception that the country 
+lacks suitable areas to grow sugar cane and 
+rapeseed continues to hinder development in 
+this area. In addition, with no infrastructure in 
+place to cultivate such crops, adaptation costs 
+for the existing infrastructure would decrease 
+the competitiveness of locally produced liquid 
+biofuels against imports, opponents say. 
+There is, however, a clear understanding of 
+the need to find an adequate approach to 
+ensure more sustainable use of energy sources 
+in this sector. An assessment is therefore 
+recommended, in order to identify an optimal 
+pathway towards the use of biofuels in transport. 
+The options currently under discussion include: 
+full reliance on domestic production; import of 
+bioethanol and biodiesel; or a combination of 
+the two options, in light of the local production 
+potential and price affordability. The results 
+of the assessment could provide a clearer 
+indication of the potential way forward for the 
+biofuels sector. 4.4 Financing of renewables 
+Most of the existing renewable energy power plants in 
+the Republic of Moldova were supported by financing 
+lines and programmes launched by development 
+partners. This is because local commercial banks are 
+cautious about investing in this sector, due to their 
+high-risk perception of renewable energy projects, 
+partly owing to their limited understanding of the 
+technology. 
+In addition, the country’s financial and banking 
+sector is comparatively small, with limited resources. 
+Frequent problems in the financing sector, evidenced 
+by the collapse of three large banks, have affected 
+the banking sector’s activities in general. Hence, 
+scaling up renewable energy investment under the 
+new policy support environment may be challenging, 
+as the financial sector may have difficulty in providing 
+funding for the investments needed to achieve a total 
+capacity addition of 168 MW. 
+Cost of capital is critical for the financial viability 
+of projects, yet, local commercial banks’ products 
+may not match the specific requirements of capitalintensive renewables projects, even though these 
+banks are becoming highly interested in this sector. 
+The loans offered tend to be short term and at a high 
+interest rate. Further strengthening of the related 
+regulatory framework, particularly in those areas 
+that strongly affect the bankability of renewable 
+energy projects, would increase financial institutions’ 
+confidence in the market. 
+• Improve the bankability of renewable energy 
+projects
+Under the project financing scheme, renewable 
+energy projects are considered bankable only 
+when lenders are confident that the expected 
+revenue stream of the project can ensure the 
+repayment of the loan, as per the terms of the 
+lending agreement. Despite recent efforts by 
+the government, the current framework is not 
+perceived as sufficient, as it seems to expose 
+potential investors to several risks. Therefore, 
+additional actions are required to improve 
+the bankability of renewable energy projects, 
+including: 
+1. Enhancement of the templates of the key 
+project documentation, including the power 
+purchase agreement (PPA), to provide the 
+guarantees and predictability necessary to 
+the stakeholders involved. This would include, 
+among others, the following essential elements: 
+an obligation to offtake renewable electricity; 
+balancing obligations and costs; liability for noncompliance; payment security instruments; the 
+transfer of obligations to a new central supplier; 
+liability for unplanned disconnection from the 
+grid; arbitration clauses; and a stated duration 
+for the agreement.
+2. Procedure for transparent assignment of the 
+central electricity supplier, as the mandate of 
+the current one is due to expire on 1 January 
+2021. In case of a change of the central supplier, 
+a smooth transition needs to be ensured 
+allowing the transfer of all obligations to the 
+new entity without impeding existing PPAs. A 
+change of the off-taker increases the actual and 
+perceived risks faced by potential investors.
+3. Design a procedure for the transfer of all 
+existing renewable energy producers to 
+the support system, with this based on a 
+contract for difference, which is envisaged to 
+be implemented when the electricity market 
+(day-ahead and intra-day markets) is declared 
+liquid by the regulator.
+• Enhance the capacity of local banks to facilitate 
+the financing of renewable energy projects
+While large-scale renewable power plants can 
+access the necessary financial resources from 
+abroad – through the contributions of either 
+foreign investors or international financial 
+institutions – small-scale projects are limited to 
+funding opportunities from the local financial 
+market. The total cost of planned small-scale 
+renewable energy projects to be supported 
+through the feed-in tariff (for a total of 55 MW) 
+has been assessed to amount to approximately 
+EUR 50 million. Additional capacity could also 
+be introduced through net metering projects 
+of up to 200 kW. The availability of financing 
+for such projects, however, may be obstructed by the limited knowledge of the renewable 
+energy sector and poor understanding of the 
+support mechanisms among local lenders who 
+appraise projects. Thus, technical support in, for 
+example, developing bankable project proposals 
+and in structured finance principles, including 
+project finance, can increase the capacities of 
+local commercial banks. This support could be 
+facilitated by international financial institutions 
+that are well placed to provide such technical 
+assistance. In addition, aside from long-tenor 
+concessional loans provided at below commercial 
+rates to local financiers, international financial 
+institutions, such as development finance 
+institutions (DFIs), can utilise hybrid, on-lending 
+and syndication structures to facilitate a more 
+active involvement from local investors. Such 
+structures include:
+1. Mezzanine finance, whereby a DFI’s claim is 
+subordinated to senior debt (provided by the 
+local financier), but still senior to equity claims 
+on project cashflows.
+2. On-lending structures, whereby DFIs can use 
+their high credit rating to borrow internationally 
+at low rates and then on-lend the funds to 
+local financiers via credit lines, at lower rates 
+than such financiers would otherwise face.
+3. Syndications (or co-financing) with local 
+financiers to help spread the risks and 
+returns. This would also spread knowledge of 
+renewable energy financial structuring among 
+a wider group of capital providers. DFIs should 
+be careful not to displace (i.e., crowd out) the 
+local private sector, or distort the market, but 
+to instead act to crowd-in local investors and 
+hence kick-start the local market. 
+Finally, public capital, including that provided 
+by the DFIs, could be used to help de-risk or 
+lower the risk of renewable energy projects. This 
+would lower the cost of capital for renewables, 
+via the provision of risk mitigation instruments. 
+Such instruments could include: partial risk 
+guarantees for uncertain grid access; credit 
+guarantees to lower the power off-taker nonpayment risk; liquidity facilities to bridge shortterm cash flow problems; and currency hedging 
+instruments, to name but a few.
+4.5 Public awareness 
+Due to technological developments and rapidly falling 
+costs, renewables are a viable energy choice for a 
+growing number of countries, cities, companies and 
+households. The deployment of renewable energy is also 
+an effective tool to fuel economic growth, create new 
+employment opportunities, enhance human welfare 
+and contribute to a climate-safe future. Renewables are 
+already a significant source of new employment, with 
+renewable energy jobs standing today at 10.3 million, 
+worldwide. Only a limited number of stakeholders in the 
+Republic of Moldova, however, are aware of the socioeconomic benefits that renewable energy can offer. 
+As the use of biomass for heating is perceived positively 
+in the country and has allowed the development of a 
+significant number of local businesses around this 
+sector, the most advanced efforts to increase public 
+awareness have occurred in the field of bioenergy. 
+Nevertheless, more needs to be done to increase the 
+public acceptance and use of renewable energy to 
+facilitate its long-run development. 
+• Develop a national communication strategy on 
+renewable energy sources
+Public awareness is necessary to influence political 
+decisions on strategies for the country’s future 
+development. A national strategy is needed to raise 
+awareness and boost understanding of renewable 
+energy sources and their benefits across the Republic 
+of Moldova. This would also help consumers make 
+more informed decisions regarding energy supplies and 
+benefit from the opportunities offered by the sector. 
+The strategy should address several stakeholders, 
+including state authorities, civil society, the banking 
+community and donors. It could envisage necessary 
+actions to ensure proper ways to disseminate the 
+most up-to-date information on renewables and the 
+ongoing energy transition (e.g., a dedicated website, 
+with translations of authoritative publications 
+into local language). It could also improve the 
+curriculum of schools and universities to reflect 
+the growing role of renewables. At the same time, 
+intensified government communication efforts on 
+ongoing legislative changes would be beneficial for 
+stakeholders. This is especially so for local financial 
+institutions, as they prepare the relevant mechanism 
+to finance renewable energy projects.References
+ANRE (2018), Report on the activity of the National Energy Regulatory Agency in 2017, National Energy 
+Regulatory Agency, Chişinău, www.anre.md/files/raport/Raport anual de activitate a ANRE in anul 2017.pdf 
+(accessed 31 December 2018).
+ANRE (2017), Decision No. 342 from 4 September 2017, National Energy Regulatory Agency, Chişinău, 
+http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=371365 (accessed 31 December 2018).
+ANRE (2016), Annual electricity reports 2011-2016, National Energy Regulatory Agency, Chişinău. 
+www.anre.md/
+Ceban, V. (2015), Development of renewable energy in the Republic of Moldova: realities, capacities, 
+options, perspectives, [Dezvoltarea energiei regenerabile în Republica Moldova: realităţi, capacităţi, opţiuni, 
+perspective], Association for External Politics, Foreign Policy Association, Chişinău.
+EBRD (European Bank for Reconstruction and Development) et al. (2018), Competitive Selection and 
+Support for Renewable Energy: Policy Guidelines, EBRD and Development and Energy Community 
+Secretariat, in collaboration with IRENA, Vienna, 2018. 
+https://irena.org/-/media/Files/IRENA/Agency/Regional-Group/Europe/EBRD-EnCS-IRENA-RE-AuctionGuidelines-2018---FINAL.pdf?la=en&hash=D38AE032CE412F784A687A113648E6488C22B81F.
+EEA (2017), Report on the activity of the Energy Efficiency Agency in 2017, Energy Efficiency Agency, 
+Chişinău, https://mei.gov.md/sites/default/files/document/attachments/raportul_agentiei_pentru_
+eficienta_energetica_pentru_anul_2017.pdf (accessed September 2018).
+EEA (2016), Letter to National Bureau of Statistics No. 29-445 of August 17, 2016, Energy Efficiency Agency, 
+Chişinău, unpublished.
+EnC (2018), Annual Implementation Report 2017/2018, Energy Community Secretariat, Vienna.
+www.energy-community.org/dam/jcr:05c644e0-3909-4c26-84f5-e1cdb63e1af4/ECS_IR2018.pdf.
+Energypost (2017), “Trading biomass like oil: Lithuania shows how it can be done”, Energypost.eu,
+https://energypost.eu/trading-biomass-like-oil-lithuania-shows-how-it-can-be-done/
+(accessed 31 December 2018).
+GCF (2017), “GCF gives green light to largest climate project to date in EBRD partnership”, Green 
+Climate Fund, www.greenclimate.fund/-/gcf-gives-green-light-to-largest-climate-project-to-date-in-ebrdpartnership (accessed 31 December 2018).
+Gropa (2017), Victor Gropa, Estimation of the impact of wind power on the system power of the Republic 
+of Moldova, Technical University of Moldova, Chişinău, www.cnaa.md/en/thesis/52069/ 
+(accessed 31 December 2018).
+IRENA (International Renewable Energy Agency) (2019), Global levelised cost of electricity from utilityscale renewable power generation technologies, preliminary results for 2018, IRENA Renewable Cost 
+Database, unpublished.
+IRENA (2018a), Renewable capacity statistics 2018, Abu Dhabi,
+www.irena.org/publications/2018/Mar/Renewable-Capacity-Statistics-2018.
+IRENA (2018b), Renewable Power Generation Costs in 2017, IRENA, Abu Dhabi,
+www.irena.org/publications/2018/Jan/Renewable-power-generation-costs-in-2017.
+IRENA (2018c), Power System Flexibility for the Energy Transition, Part 1: Overview for policy makers, IRENA, 
+Abu Dhabi, www.irena.org/publications/2018/Nov/Power-system-flexibility-for-the-energy-transition.
+IRENA, IEA and REN21 (2018), Renewable Energy Policies in a Time of Transition, IRENA, OECD/IEA and REN21,
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_IEA_REN21_Policies_2018.pdf.IRENA et al. (2017), Cost-competitive renewable power generation: Potential across South East Europe, 
+International Renewable Energy Agency, Joanneum Research and University of Ljubljana, Abu Dhabi,
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2017/IRENA_Cost-competitive_power_
+potential_SEE_2017.pdf.
+IRENA and CEM (2015), Renewable Energy Auctions – A Guide to Design, IRENA, Abu Dhabi,
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/Jun/IRENA_Renewable_Energy_
+Auctions_A_Guide_to_Design_2015.pdf.
+Lupusor, A. et al. (2016), Moldova Economic Growth Analysis, Expert-Grup, Chişinău,
+www.expert-grup.org/media/k2/attachments/MEGA_XIV_-_April_2016_EN.pdf. 
+MoEI (2018a), Overview of the energy sector and renewable energy developments in the Republic of 
+Moldova, presented by Mr Denis Tumuruc, Deputy head of Energy Policies Department, Ministry of Economy 
+and Infrastructure, at the Expert Consultation Workshop, 4 June 2018, MoEI, Chişinău, unpublished. 
+MoEI (2018b), General overview of the sector and its competitive advantages, presented by Mr. Vitalie 
+Iurcu, State Secretary, Ministry of Economy and Infrastructure, at the Moldova Business Week, 28 November 
+2018, MoEI, Chişinău, www.mbw.md/en/presentations/ (accessed 31 December 2018).
+MoEI (2018c), Renewable energy share for 2017, MoEI, Chişinău, unpublished.
+MoEI (2018d), Information provided by Ministry of Economy and Infrastructure, December 2018, 
+unpublished.
+MoEI (2017), Security of Supply Statement of the Republic of Moldova, MoEI, Chişinău.
+www.energy-community.org/dam/jcr:038ab4ac-868f-4103-92c3-006fd19a9f0b/2017_SoS_ML.pdf
+(accessed 31 December 2018).
+Moldelectrica (2018), Indicatorii tehnico-economici, www.moldelectrica.md/ro/network/annual_report 
+(accessed 31 December 2018). 
+NBM (National Bank of Moldova) (2018), Official exchange rates for years 2013-2017, NBM, Chişinău,
+www.bnm.md/en/content/official-exchange-rates (accessed 31 December 2018).
+NBS (National Bureau of Statistics) (2018), Energy balance of the Republic of Moldova for 2017 year, 
+NBS, Chişinău, www.statistica.md/public/files/publicatii_electronice/balanta_energetica/BE_2018_eng.pdf
+(accessed 31 December 2018).
+NBS (2017), Population and demographic processes, NBS, Chişinău, http://statbank.statistica.md/
+pxweb/pxweb/en/20 Populatia si procesele demografice/20 Populatia si procesele demografice__
+POP010/?rxid=b2ff27d7-0b96-43c9-934b-42e1a2a9a774 (accessed 31 December 2018).
+NBS (2012), Energy balance of the Republic of Moldova for 2011, NBS, Chişinău,
+www.statistica.md/public/files/publicatii_electronice/balanta_energetica/BE_2012_eng.pdf.
+OEC (2016), Observatory of Economic Complexity, https://atlas.media.mit.edu/en/profile/country/
+mda/#Economic_Complexity_Ranking (accessed 31 December 2018).
+UNDP (United Nations Development Programme) (2018a), Energy and Biomass (Phase 1), UNDP Moldova, 
+www.md.undp.org/content/moldova/en/home/operations/projects/climate_environment_energy/
+proiecte-finalizate/moldova-energy-and-biomass-project01.html (accessed 31 December 2018).
+UNDP (2018b), Energy and Biomass (Phase 2), UNDP Moldova, www.md.undp.org/content/moldova/en/
+home/projects/moldova-energy-and-biomass-project2.html (accessed 31 December 2018).
+UNDP (2017), Energy and Biomass Newsletter, No. 36, November-December 2017, www.md.undp.org/
+content/moldova/en/home/library/climate_environment_energy/energy-and-biomass-newsletter/energyand-biomass-newsletter--no-36.html (accessed 31 December 2018).
+UNDP and ECS (2016), Energy consumption in households, Results of the Survey on energy consumption, 
+UNDP Energy and Biomass Project and Energy Community Secretariat, www.md.undp.org/content/dam/
+moldova/docs/Publications/Energy consumption households.pdf (accessed 31 December 2018).UNDP (2010), Project Document, UNDP, www.md.undp.org/content/moldova/en/home/projects/
+moldova-energy-and-biomass-project2.html and www.md.undp.org/content/dam/moldova/docs/Project 
+Documents/ProDoc_Biomass.pdf (accessed 31 December 2018). 
+UNECE (United Nations Economic Commission for Europe) (2009), Republic of Moldova: National 
+Energy Policy Information for Regional Analysis, Financing Energy Efficiency Investments for Climate 
+Change Mitigation, UNECE, New York and Geneva, https://docs.google.com/viewer?docex=1&url=http://
+www.clima.md/public/102/en/EnergyPolicyInformationForRegionalAnalysisMoldova.pdf
+(accessed 31 December 2018). 
+UNFCCC (United Nations Framework Convention on Climate Change) (2017), The Interim NDC Registry, 
+UNFCCC, www4.unfccc.int/ndcregistry/Pages/All.aspx (accessed 31 December 2018). 
+WB (World Bank) (2018a), Doing Business 2019, The World Bank Group,
+www.doingbusiness.org/en/data/exploreeconomies/moldova (accessed 31 December 2018).
+WB (2018b), GDP per capita indicator, WB. Creative Commons Attribution 4.0 International License (CC BY 4.0), 
+https://data.worldbank.org/indicator/NY.GDP.PCAP.CD?locations=MD (accessed 31 December 2018).
+WB (2015), Moldova Electric Power Market Options Sector Study, WB, Washington DC,
+www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=2ahUKEwjqkKrCic3eAhUDixoKHcPeDvYQFjAAegQICRAC&url=http%3A%2F%2Fmd.one.un.org%2Fcontent%2Fdam%2Funct%2Fmoldova%2Fdocs%2Fdevmeetings%2F2015%2F4june%2FMoldova_ELectric_Power_Market_Options_Study.
+pptx&usg=AOvVaw17xHzDhXkSxB0Nhp6GOdKf (accessed 31 December 2018).Annex. Key development steps for 
+renewable energy projects in the 
+Republic of Moldova
+No.
+Renewable energy power plants
+with capacity of 5 MW and higher for
+public consumption and 20 MW and
+higher for internal use
+Renewable energy power
+plants with capacity below 5 MW
+for public consumption and below
+20 MW for internal use
+Key development steps
+1
+Establishing the business
+Competent institution: Public Services Agency 
+Other institutions involved: National Commission for Financial Market (only in the case of Joint 
+Stock Companies), State Tax Service of the Republic of Moldova
+2
+Registration of property rights
+Competent institution: Public Services Agency 
+Other institutions involved: State Property Agency
+2.1
+Change of land destination from agricultural land to land for construction purposes
+Competent institution: Government of Moldova or Local Public Administration
+Other institutions involved: Central or local public authorities, Design Institute for Territorial 
+Planning, State Environmental Inspectorate of Moldova, General Inspectorate for Emergency 
+Situations, National Public Health Agency, Public Services Agency
+3
+Urban Planning Certificate for Design Documentation
+Competent institution: Local public authority
+Other institutions involved: National Public Health Agency, Agency for Environment 
+(Protection), General Inspectorate for Emergency Situations, Design institute “Urbanproiect”22 
+or “Chişinăuproiect”23
+3.1
+Technical conditions for connection to utility networks
+Competent institution: All responsible utility companies (water supply and sewage, electrical, 
+gas, heat, telecommunications distribution networks and other utilities) 
+Other institutions involved: Local public authority
+3.2
+Networks Routing Plan
+Competent institution: Local public authority
+Other institutions involved: Not applicable
+3.3
+Topographical study and geotechnical prospecting
+Competent institution: Licensed institutions
+Other institutions involved: Not applicable
+22 For all localities except Chisinau city.
+23 Only for Chisinau city.No.
+Renewable energy power plants
+with capacity of 5 MW and higher for
+public consumption and 20 MW and
+higher for internal use
+Renewable energy power
+plants with capacity below 5 MW
+for public consumption and below
+20 MW for internal use
+Key development steps
+3.4
+Environmental Permit/ Environmental Impact Assessment24
+Competent institution: Agency for Environment (Protection)
+Other institutions involved: Not applicable
+4
+Detailed designing
+Competent institution: Licensed institutions
+Other institutions involved: Not applicable
+4.1
+Detailed design verification and approval
+Competent institution: Agency for Technical Supervision, chief architect from the local public 
+authority and experts or institutions authorised for verification of design documentations 
+Other institutions involved: State Environmental Inspectorate, National Public Health Agency
+5
+Construction authorisation
+Competent institution: Local public authority
+Other institutions involved: Agency for Technical Supervision, Agency for Environment 
+(Protection)
+6
+Obtaining the fixed price or fixed tariff25
+Competent institution: Government of Moldova, ANRE
+Other institutions involved: Not applicable
+6.1
+Approval to build a new renewable energy 
+power plant with capacity above 20 MW and 
+increase in capacities above 2026
+Competent institution: Government 
+of Moldova, Ministry of Economy and 
+Infrastructure
+Other institutions involved: Not applicable 
+Not applicable 
+7
+Communication of construction works launch
+Competent institution: Agency for Technical Supervision 
+Other institutions involved: Agency of Inspection and Restoration of Monuments
+8
+Power plant construction
+Competent institution: Licensed company
+Other institutions involved: Not applicable
+24 Thermal power plants, industrial and heating boiler plants with capacity of 300 MW and above; complex hydrotechnical structures (ports, big dams and water storage 
+facilities); industrial sewage and wastewater treatment facilities in urban and rural areas, with a discharge of 10,000 cubic metres per day and higher; waste treatment and
+ incineration plants; any construction activity in river basins, within river and water basin protection areas; power transmission lines with a voltage level of 330 kV and higher,
+wind farms with a height bigger than 20m, etc. 
+25 The difference between “fixed tariffs” and “fixed prices” supporting schemes is being determined by the power plant capacity and capacity limits set by the Government 
+through its decision no. 689 as of 11.07.2018
+26 According to a MoEI initiative on amending national legislation related to power generation, launched in 2018, renewable energy project developers that won the tender 
+receive the government approval mentioned at pt. 6.1 automatically (ex officio).No.
+Renewable energy power plants
+with capacity of 5 MW and higher for
+public consumption and 20 MW and
+higher for internal use
+Renewable energy power
+plants with capacity below 5 MW
+for public consumption and below
+20 MW for internal use
+Key development steps
+9
+Connection to power transmission or distribution network
+Competent institution: Power transmission and/or distribution company
+Other institutions involved: Not applicable
+10
+Testing and acceptance
+Competent institution: Beneficiary/Investor
+Other institutions involved: ANRE, Agency for Technical Supervision, National Public Health 
+Agency, State Environmental Inspectorate, Power Transmission or Distribution Company, 
+Local Public Authority, General Inspectorate for Emergency Situations, Designing Institution, 
+Construction Licensed Company, National Bureau of Statistics, Territorial State Tax 
+Inspectorate, Central Electricity Supplier
+11
+Power generation licence
+Competent institution: ANRE
+Other institutions involved: Not applicable
+Not applicable 
+11.1
+Signing of the electricity supply contract
+Competent institution: Central Electricity Supplier
+Other institutions involved: Not applicable
+11.2
+Licence registration with the system operator27
+Competent institution: Power transmission 
+company
+Other institutions involved: Not applicable
+Not applicable 
+12
+Entering into force of the electricity supply contract and into operational phase
+Competent institution: Central Electricity Supplier
+Other institutions involved: Not applicable
+27 Moldelectrica, which holds the license for electricity transmission and dispatch services in the Republic of Moldova.
+Source: MoEI (2018d) 

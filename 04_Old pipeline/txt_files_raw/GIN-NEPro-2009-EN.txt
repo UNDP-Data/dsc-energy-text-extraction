@@ -1,0 +1,684 @@
+File Name: GIN-NEPro-2009-EN
+Year: 2009
+Country Name: Guinea
+Country Code: GIN
+Category: NEPro
+Document Title: nan
+Exists?: Y
+Publication Date: 2009
+Start Year: 2009
+End Year: 2012
+Language: EN
+------------------------------------------------
+
+ Country Energy Security Indicator Profile 2009
+Papua
+New GuineaPrepared by the Energy Programme, Economic Development Division
+Secretariat of the Pacific Community
+Suva, Fiji
+2012
+Papua New Guinea Country Energy Security Indicator Profile 2009All rights for commercial / for profit reproduction or translation, in any form, reserved. SPC authorises the partial reproduction 
+or translation of this material for scientific, educational or research purposes, provided that SPC and the source document are 
+properly acknowledged. Permission to reproduce the document and/or translate in whole, in any form, whether for commercial 
+/ for profit or non-profit purposes, must be requested in writing. Original SPC artwork may not be altered or separately published 
+without permission.
+Original text: English
+Secretariat of the Pacific Community Cataloguing-in-publication data
+Papua New Guinea Country Energy Security Indicator Profile 2009 / Prepared by the Energy Programme, Economic Development 
+Division, Secretariat of the Pacific Community
+1. Energy policy – Papua New Guinea.
+2. Power resources – Papua New Guinea.
+3. Energy security – Papua New Guinea.
+I. Title. II. Secretariat of the Pacific Community.
+333.7909953 AACR2g
+Foreword ............................................................................................................................................................................................................................. vi
+Abbreviations...................................................................................................................................................................................................................... vii
+Country profile ......................................................................................................................................................................................................................1
+Energy context......................................................................................................................................................................................................................3
+FAESP key energy security outcome 1 — access to energy ...............................................................................................................................................4
+FAESP key energy security outcome 2 — affordability ........................................................................................................................................................6
+FAESP key energy security outcome 3 — efficiency and productivity .................................................................................................................................8
+FAESP key energy security outcome 4 — environmental quality........................................................................................................................................ 10
+FAESP action theme 1 — Leadership, governance, coordination and partnership..............................................................................................................11
+FAESP action theme 2 — Capacity development, planning, policy and regulatory frameworks......................................................................................... 12
+FAESP action theme 3 — Energy production and supply ................................................................................................................................................... 13
+3.1 Petroleum and alternative fuels.......................................................................................................................................................................... 13
+3.2 Renewable energy ............................................................................................................................................................................................. 14
+FAESP action theme 4 — Energy conversion ..................................................................................................................................................................... 15
+4.1 Electric power..................................................................................................................................................................................................... 15
+FAESP action theme 5 — End-use energy consumption .................................................................................................................................................... 16
+5.1 Transport energy use ......................................................................................................................................................................................... 16
+5.2 Energy efficiency and conservation.................................................................................................................................................................... 16Acknowledgement
+The Framework for Action on Energy Security in the Pacific (FAESP) country energy security indicator report 2009 was prepared by 
+the Energy Programme of the Economic Development Division of the Secretariat of the Pacific Community (SPC).
+SPC would like to thank European Union Energy Initiative–Partnership Dialogue Facility (EUEI PDF) for providing funds to carry 
+out in-country technical activities and collect the data required for the energy security indicators.
+The cooperation of the many contributors to this booklet is gratefully acknowledged. The source note below each table credits the 
+various government and private sector agencies that have collaborated in furnishing the information for the booklet.g
+Islands’ Forum at Port Vila, 
+Vanuatu, the Forum Leaders 
+endorsed the Framework for 
+Action on Energy Security in the 
+Pacific (FAESP): 2010–2020 as 
+the regional blueprint for the 
+provision of technical assistance 
+to the energy sectors of Pacific 
+Island countries and territories 
+(PICTs). FAESP encompasses 
+the Leaders’ vision for an energy 
+secure Pacific, where Pacific 
+people at all times have access to 
+sufficient sustainable sources of 
+clean and affordable energy and 
+services to enhance their social 
+and economic well-being.
+The Implementation Plan for Energy Security in the Pacific 
+(IPESP) (2011–2015) is a five-year plan for pursuing the vision, 
+goal and outcomes of FAESP. It reflects the priority regional 
+activities that are to be collectively delivered by the participating 
+bf thCil f Ril OitiithPifi
+ppp
+implementation plan on the energy security status of PICTs, 
+baseline energy security indicators must be established, against 
+which performance in future years can be benchmarked.
+The energy security indicators in this report derive from a 
+consultative process involving representatives of PICTs, regional 
+organisations, the private sector and development partners. The 
+process culminated in the adoption of IPESP and its monitoring 
+and evaluation framework, the energy security indicators, at the 
+Inaugural Regional Meeting of Ministers of Energy, ICT and 
+Transport in April 2011.
+As a first attempt to improve the transparency and accountability 
+in the energy sector, there is obvious room for improvement. 
+Lack of access to reliable and sufficient data is a common 
+problem and this monitoring and evaluation tool can only get 
+better with the kind assistance of the custodians of the energy 
+sector data.
+Solomone Fifita
+Deputy Director (Energy)
+Economic Development Division, SPC
+Solomone Fifita
+Deputy Director (Energy)
+Economic Development Division, SPCADO automotive diesel oil
+APEC Asia-Pacific Economic Cooperation
+Ave. average
+CO2 carbon dioxide
+CSIRO Commonwealth Industrial and Scientific 
+Research Organisation
+DPK dual purpose kerosene
+DPE Department of Petroleum and Energy
+DHS demographic and health survey
+e. estimate
+EEZ exclusive economic zone
+FAESP Framework for Action on Energy Security 
+in the Pacific
+FICs (The 14) Forum Island countries (SIS and 
+non-SIS)
+GoPNG Government of PNG
+HIES household income and expenditure 
+survey
+HFO heavy fuel oil
+ICCC Independent Consumer and Competition 
+Commission
+IPBC Independent Public Business Corporation
+IPP independent power producer
+JICA Japan International Cooperation Agency
+kWh kilowatt hour
+kWp kilowatt peak
+km kilometre
+LPG liquefied petroleum gas
+MJ megajoules
+na (data) not available
+PICTs Pacific Island countries and territories
+PPA Pacific Power Association
+ppm parts per million
+PPL PNG Power Limited
+PRISM Pacific Regional Information System 
+(Statistics for Development, Secretariat of 
+the Pacific Community)
+PV photovoltaic
+RE renewable energy
+SHS solar home systems
+SIS (Forum) smaller island states — Cook 
+Islands, Kiribati, Nauru, Niue, Palau, 
+Republic of Marshall Islands and Tuvalu. 
+Non-SIS members are Fiji, Papua New 
+Guinea, Samoa, Solomon islands, Tonga 
+and Vanuatu.
+UNDP United Nations Development Programme
+UNFCCC Uitd NtiFk CtiPNG Electricity Industry Policy 2011
+‘The strategic objectives of the government are: (i) improving access in the provision of electricity services; (ii) improving 
+reliability of electricity supply; and (iii) ensuring that power is affordable for all consumers.’
+Country Papua New Guinea (PNG)
+Capital Port Moresby
+Capital island East New Guinea
+Population 6,339,000 (2009 estimate)
+Land area 462,243 km2
+Max height above 
+sea-level
+4,697 m (Mt Wilhelm)
+Geography Papua New Guinea, with over 600 islands, is the largest of the Pacific Island countries. Land mass is largely 
+high volcanic islands. The land area covers the eastern half of the New Guinea mainland, the Bismark 
+Archipelago, the northernmost Solomon Islands of Bougainville and Buka and the groups of islands off 
+the easternmost part of the mainland. PNG has an extensive system of water bodies ranging from deltas, 
+lagoons, rivers, marshes and over 5,000 lakes. 
+Location 6.00° S; 147. 00 ° ERainfall Average approximately 2,000 mm per annum
+Mean 
+temperature
+26°C
+Economy The leading producers of income in PNG are diverse with strong industrial, service and agricultural 
+sectors; exports include crude oil, gold, silver, copper, copra, coconut oil, palm oil, coffee, tea, cocoa, 
+tuna, trochus, green snail, bêche-de-mer, pearl shell, cultured pearls, timber products.
+GDP per capita USD 3,436
+Currency PNG kina 
+Exchange rate Kina/USD – $0.3653
+Languages Pidgin, English and more than 700 other languages spoken
+Government Independent state and member of the Commonwealth
+Country 
+representative to 
+SPC
+Secretary for Foreign Affairs & Trade, 
+PO Box 422, Waigani, NCD 
+Papua New Guinea 
+Tel: (675) 301 4121
+Fax: (675) 323 1011 / 325 4886
+Email: exedive@datec.net.pgpy y pg g 
+territories. In 2009, around 1.7 million tonnes of crude oil were extracted by Oil Search and InterOil in PNG. Crude oil products 
+extracted by Oil Search are mainly exported. 
+In 2009, around 95% of total crude oil products extracted were exported. Since 2004, InterOil has been the only company to undertake 
+refining, converting crude oil into petroleum products. Most of the crude oil refined by InterOil is imported into the country from 
+Singapore and Indonesia. In 2009, InterOil produced 786.6 million litres of petroleum fuel products, meeting around 70% (549.2 
+million litres) of the domestic market demand. The remaining 30% is reflected to fuel products imported by other petroleum 
+companies in PNG such as Exxon Mobil. Recorded imports in 2009 (according to PNG National Statistical Office statistics) accounted 
+for 204.4 million litres of diesel, 28.8 million litres of petrol, 4.3 million litres of kerosene and 685.6 kilotonnes of liquefied petroleum 
+gas (LPG). LPG is mainly imported from Australia by Origin Gas. Fuel imports for 2009 stood in the vicinity of USD 444.17 million 
+with the current gross domestic product (GDP) of USD 7.91 billion. In 2009, InterOil exported around 3.6 million litres of diesel and 
+0.55 million litres petrol to Nauru. Other petroleum fuel products such as heavy fuel oil, and natural gas are also consumed in PNG.
+In the power sector, around 12% of households in PNG are connected to the electricity grid network. PNG Power Limited (PPL) 
+is the main distributor of electricity and is granted exclusive retail licence for the generation and distribution of electricity in and 
+around the Port Moresby area and 19 provincial centres. In 2009, PPL generated 895.7 GWh of electricity, of which 886.7 GWH was 
+supplied to the electricity grid and 711.2 GWh was sold to the customers. This recorded an estimated 19.8% in distribution loss. Of 
+the electricity generated in 2009 by PPL, around 589.4 GWh of electricity was contributed from renewable energy (RE) sources, 
+mainly hydro. 
+In addition to PPL, there are other companies and organisations that generate and supply electricity in PNG. These include Western 
+Power Ltd, a subsidiary of PNG’s Sustainable Development Programme, which mostly supplies power to Western Province. Other 
+mining companies, and palm oil, sugar and timber companies produce their own power in areas not accessed by PPL.1 Electrification 
+rate (%)
+12 The indicator tracks the share of households actually connected to a utility grid. 
+Based on the Demographic and Health Survey (DHS) report, around 12.4% of households in PNG are 
+estimated to be connected to the utility grid. Grid electrification access of households in urban areas 
+stands at 61.3% and in rural areas it is 6.5%. Over 95% of the households in PNG are reported to be 
+living in rural and remote areas.
+2 Access to small scale 
+power rural (%)
+n.a The indicator tracks the share of rural households with access to basic electrification (solar, pico hydro, 
+small wind, community grid).
+No data available.
+3 Access to modern 
+energy rural (%)
+29.4 The indicator tracks the share of rural households with access to modern cooking and lighting, which 
+specifically covers all forms of energy other than traditional biomass.
+Estimated access to modern energy is based on household access to radios, given that radios need 
+some basic form of modern energy (batteries and electricity) to operate. According to the DHS report, 
+an estimated 29.4% of households have access to radios. This roughly points to the percentage of 
+households with access to modern energy in the rural areas.
+4 Access to modern 
+energy urban (%)
+63.9 The indicator tracks the share of urban households with access to modern cooking and lighting, which 
+specifically covers all forms of energy other than traditional biomass.
+According to the DHS report, an estimated 63.9% of households have access to radios in PNG’s urban 
+areas. This roughly points to the percentage of household with access to modern energy in the urban 
+areas of PNG.0%
+5%
+10%
+15%
+20%
+25%
+PNG Ave. non SIS Ave. 14 FICs
+12%
+22%
+23%
+0%
+2%
+4%
+6%
+8%
+10%
+PNG Ave. non SIS Ave. 14 FICs
+n.a
+7%
+8%
+0%
+10%
+20%
+30%
+40%
+PNG ASIS A14 FIC
+29.4%
+35.7%
+36.0%
+Access to modern energy rural 
+0%
+20%
+40%
+60%
+80%
+PNG Ave
+non SIS Ave14 FICs
+63.9%
+76.3% 77.4%
+Access to modern energy urban 5 Macro-economic 
+affordability 
+(percentage)
+5.6 The indicator tracks the fuel imports as a percentage of GDP. The higher the figure, the more vulnerable an 
+economy is to world market price volatility. 
+The macro-economic affordability was calculated from reference data provided by the PNG Bureau of 
+Statistics website for the total fuel imported over GDP, based on referenced World Bank data estimates 
+for PNG in 2009 (USD 447,171,622.34 / USD 7,914,594,203.00).
+6 Electricity tariff 
+(USD/kWh)
+0.21 The indicator tracks the average tariffs for 
+the year (all tariff categories, i.e. residential, 
+commercial and industrial). Requires 
+averaging during the year as tariffs in most 
+PICs are adjusted several times a year.
+Refer to the table on the right for reference 
+calculation of the average tariff.
+$0.21
+Commercial block (general 
+customers) 
+USD/kWh $0.28
+Industrial block USD/kWh $0.18
+Residential block — Easy 
+Pay
+USD/kWh $0.20
+Residential block — credit 
+customers average
+USD/kWh $0.19
+1–30 kWh USD/kWh $0.14
+>30 kWh USD/kWh $0.24
+Lifeline % 66.7%
+ Referenced electricity tariff calculation based on PNG Power 
+Limited data.
+7 Electricity 
+lifeline (%)
+66.7 Relation between average tariff and lifeline 
+tariff if a lifeline tariff exists.
+Refer to the table on the right for the 
+reference calculation of the lifeline 
+precentage.
+8 Household 
+energy 
+expenditure 
+load (%)
+n.a The indicator tracks the average household expenditure for energy per year as a percentage of average 
+household income.
+No data available.0%
+5%
+10%
+PNG Ave. non SIS Ave. 14 FICs
+5.6%
+8.5%
+9.1%
+Macro-economic affordability 
+0%
+5%
+10%
+15%
+20%
+PNG Ave. non SIS Ave. 14 FICs
+n.a
+13.6%
+19.2%
+Household energy expenditure load 
+$0.00
+$0.10
+$0.20
+$0.30
+$0.40
+PNG Ave. non 
+SIS
+Ave. 14 FICs
+$0.21
+$0.33 $0.35
+USD/kWh
+Electricity tariff 9 Energy intensity 
+(MJ/USD)
+6.2 The indicator tracks the amount of energy utilised to produce 1 USD of GDP. 
+Calculated (49,000,000,000 MJ / $7,914,594,203) Source: Asia-Pacific Economic Cooperation 
+(APEC) 2009 report and PNG Bureau of Statistics.
+10 Productive power 
+use (%)
+80.7 The indicator tracks the share of commercial and industrial use of electricity in total supply.
+The calculation is based on PPL customers only. 
+0%
+20%
+40%
+60%
+80%
+100%
+PNG Ave. non SIS Ave. 14 FICs
+80.7%
+70.2% 68.3%
+% Commercial and industrial 
+electriciy use
+Productive power use 
+0
+2
+4
+6
+8
+PNG Ave. non SIS Ave. 14 FICs
+6.2 6.2
+7.0
+MJ/USD
+Energy intensity gy y gppy () (J) pg
+when seen on a per capita comparison. Countries identified above the trend line are perceived to have higher than average energy 
+consumption levels per person when compared to their corresponding economic wealth (GDP per capita). That is, countries above 
+the trend line are considered to be relatively energy inefficient compared to countries below the trend line.
+Cook Islands
+Fiji
+FSM
+Kiribati
+Nauru
+Niue
+Palau
+PNG
+RMI
+Samoa
+Solomon
+Tonga Tuvalu Vanuatu
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+$0 $2,000 $4,000 $6,000 $8,000 $10,000 $12,000
+kWh/capita/year
+GDP/capita/year
+Energy intensity – kWh of electricity consumed to produce 1 USD GDP per capita
+Cook Islands
+Fiji
+FSM
+Kiribati
+Nauru
+Niue
+Palau
+PNG
+RMI
+Samoa
+Solomon
+Tonga
+Tuvalu
+Vanuatu
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+$0 $2,000 $4,000 $6,000 $8,000 $10,000 $12,000
+Petroleum imported (GJ/capita/year)
+GDP/capita/year – USD 
+Energy intensity – GJ of import fuel consumed to produce 1 USD GDP per 
+capita11 Carbon footprint 
+(tonnes of CO2)
+3,994,933 The indicator tracks total GHG emissions using embedded carbon as a measure (not UNFCCC method). 
+The following estimate is based on petroleum fuel consumption from diesel (IDO &ADO), motor 
+gasoline, kerosene and cooking gas (LPG) only.
+12 Diesel fuel 
+quality (ppm S)
+500 The indicator assesses the standard for sulphur (S) content of diesel fuel in parts per million (ppm) sulphur. 
+0
+1,000
+2,000
+3,000
+4,000
+5,000
+6,000
+7,000
+3,995
+6,250
+6,702
+Kilo tonnes of embedded CO2
+Carbon footprint 
+0.0
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+0.61
+3.14 3.04
+Tonnes of embedded CO2/capita
+Carbon footprint per capita13 Status of 
+energy 
+administration 
+(score)
+2 The indicator assesses the status the energy administration has in the country. (Score system: Energy ministry = 3; Energy 
+department = 2; Energy office = 1) 
+The Department of Petroleum and Energy (DPE) was established to promote and regulate the development of petroleum 
+and other sources of energy for the long-term benefit of the state. The department comprises of two core technical divisions. 
+The Energy Division, which is involved in planning and policy development work, data collection and analysis. It also 
+advises government on energy sector issues that are closely associated with the power sector and include rural electrification 
+projects. The Petroleum Division is more concerned with crude oil and natural gas exploration and development, with the 
+industry controlled by foreign companies; InterOil and Oil Search being two of the largest. In the power sector, PPL is a 
+corporatised, state-owned enterprise, which has been granted exclusive retail licence for the generation and distribution 
+of electricity in and around Port Moresby area and 19 provincial centres. The Independent Consumer and Competition 
+Commission (ICCC) is responsible for regulating electricity, petroleum and their pricing. The Western Power Limited, 
+mostly supplies power to Western Province. In the petroleum sector, Oil Search, in partnership with other companies, 
+is involved in crude oil extraction and exports from PNG. InterOil, on the other hand, undertakes refining of crude oil 
+extract into petroleum products which are then sold in PNG. Refined oil produced by InterOil meets roughly 70% of the 
+domestic market demand. The remaining 30% is met by Exxon Mobil, which also imports fuel products into PNG.
+14 Energy 
+legislation 
+(score)
+1 The indicator assesses the status of the energy sector legislation in the country. (Score system: Updated energy act = 3; Adopted 
+energy policy = 2; Subsector act or policy = 1) 
+There is no energy act for PNG. As of 2009, the Energy Division had drafted two policy documents – a draft Energy Policy 
+and a draft Rural Electrification Policy. There are sub-sector acts governing the energy sector, which include the following:
+•	 the Electricity Industry Act of 2002, which provides for the functions and powers of the Electricity Commission
+(now PNG Power Ltd) to ‘plan and coordinate the supply of electricity throughout the country and determine the 
+standards and inspect and control the application of all matters relating to the operations of the supply of electricity.’
+•	 the Independent Consumer and Competition Act of 2002, together with the Electricity Industry Act of 2009,
+empowers ICCC with the responsibility for regulating electricity, petroleum and their pricing.
+•	 the Organic Law on Provincial and Local Level Government (1995). The Organic Law grants authority to the 19
+provincial governments and 299 local (district/sub-district) governments to pass laws and develop regulations for 
+electricity generation and distribution in their areas of jurisdiction. 
+15 Cditi1 Thiditithdiid ditiit il bil ttltittil 16 Energy planning 
+status (score)
+1 The indicator assesses the state/quality of energy planning. It distinguishes between integrated planning 
+and sub-sector (i.e. power, petroleum) planning. (Score system: Whole of energy sector plan/roadmap 
+operational with M&E framework = 3; Sub-sector plan operational with M&E framework = 2; Energy 
+sector plans in preparation = 1)
+In 2009, there was no endorsed national energy policy and action plan for PNG. However, PNG has 
+a power sector development plan in place.
+17 Energy sector 
+regulation (score)
+1 The indicator assesses the energy sector regulation. It measures the progress towards a regulator 
+independent of government or regulated entities. (Score system: Independent whole of energy sector 
+regulator established = 3; Whole of energy sector regulator established = 2; Sub-sector regulator 
+established = 1) 
+Sub-sector regulation existed in 2009, including ICCC for economic regulation covering fuel and 
+electricity pricing. Electricity standard and compliance regulation is currently with PPL but will 
+be transferred and taken on board by DPE as stated in the EIP by 2014. LPG prices are not fully 
+regulated.
+18 Enabling framework 
+for private sector 
+participation (score)
+1 The indicator assesses the progress towards an enabling framework for private sector participation in 
+selling electricity to the grid. (Score system: Standard power purchase and petroleum supply agreements 
+operational = 3: Standard agreements for subsector operational = 2; Standard agreements in preparation 
+= 1)
+No specific legislation was in place to support independent power producers’ (IPP) participation in 
+the grid in 2009. PPL has full authority over the inclusion of IPPs to supply into their grids. As of 
+2009, Hanjung Power Ltd was the only IPP that was selling electricity to PNG Power Limited.
+19 Private sector 
+contribution (%)
+16.74 The indicator tracks the share of electricity produced by independent power producers under a power 
+purchase agreementNo. FAESP
+indicators
+Explanatory notes
+20 Fuel supply 
+security (days)
+n.a The indicator measures the number of days a country can keep operating in case of a petroleum 
+product supply interruption. Calculation used if actual data are not available (size of total 
+petroleum storage (m3)/average petroleum product consumption per day).
+No data available.
+21 Fuel supply 
+diversity (%)
+n.a The indicator measures the share of locally produced fuel (biofuel or fossil fuel) as a percentage 
+of total supply.
+No data available. However, vehicles and ships being trialed to run on coconut oil are 
+mentioned in selected reports. Emirau Marine Products Ltd in New Ireland has been using 
+coconut oil in one of its fishing vessels since 2007. Buka Metal Fabricator has also been using 
+coconut oil in its vehicles. PNGSEL in 2009 was reported to be involved in the Pomio Biodiesel 
+Project.
+22 Fuel supply chain 
+arrangements (score)
+0 The indicator assesses the control of countries over the fuel supply chain. (Score system: Joint 
+procurement scheme operational = 2; Participation in preparation of joint procurement 
+arrangements = 1)
+No joint fuel procurement arrangement is applicable for PNG. Oil Search mines and exports 
+crude oil from PNG. InterOil has a refinery in Port Moresby, where they refine crude oil to 
+petroleum products and supply around 70% of the market in PNG. Exxon Mobil imports its 
+fuel products from Singapore.No. FAESP
+indicators
+Explanatory notes
+23 Renewable energy 
+share (%)
+9.01 The indicator measures the share of renewable energy as a percentage of total supply for a given year.
+Referenced calculation takes into account only the RE supplied by hydro and geothermal. Data 
+sourced from APEC.
+24 Renewable resource 
+knowledge (score)
+1 The indicator assesses the quality of knowledge of national renewable energy potential. (Score system: 
+Comprehensive assessment of all RE resources including cost for each source = 3; Comprehensive 
+physical assessment of all RE resources = 2; Resource assessments fragmentary, under way = 1)
+Resource data of renewable energy sources are fragmentary in PNG. Detailed hydro assessments 
+were undertaken by Japan International Cooperation Agency in the early 1980s. Significant wind 
+monitoring activities were undertaken by the Commonwealth Industrial and Scientific Research 
+Organisation (CSIRO) in the late 1970s. Reconnaissance studies of the country’s geothermal 
+potential suggest that the most promising area for investigation is the northern coast of New 
+Britain Islands.
+25 Least-cost RE 
+development plan 
+(score)
+0 The indicator assesses if data and information on RE have been translated into a least-cost development 
+plan that gives priority to the most economical RE resource or application. (Score system: Least-cost 
+development plan operational = 2; Least-cost development plan in preparation = 1)
+No specific least-cost development plan was in place for PNG in 2009.No. FAESP
+indicators
+Explanatory notes
+26 Generation efficiency 
+(kWh/l)
+3.69 The indicator measures the annual average fuel conversion efficiency for diesel generation in power 
+utilities.
+Analysis is based on PPL data only.
+27 Distribution losses (%) 19.8 The indicator compares the amount of kWh sold with the amount of kWh sent out from the power 
+station.
+Source: PPL
+28 Lost supply 
+(SAIDI) – (hours)
+n.a The indicator tracks electricity outage time (hours of lost supply per customer per year).
+29 Clean electricity 
+contribution (%)
+65.81 The indicator measures the share of renewable energies as a percentage of total electricity supply.
+The analysis takes into account the power production and supply from PPL only. A significant 
+percentage of power is produced in the mining areas, the palm oil factories, Ramu Sugar Limited, 
+which is not taken into account in this analysis.No. FAESP
+indicators
+Explanatory notes
+30 Retail fuel prices The indicator tracks retail and wholesale fuel prices for petroleum products 
+(diesel, petrol, MPK, LPG).
+Retail price Wholesale price
+ADO (USD/l) 0.91 n.a Sourced from ICCC
+ULP (USD/l) 1.1 n.a Sourced from ICCC
+DPK (USD/l) 0.87 n.a Sourced from ICCC
+LPG (USD/kg) n.a n.a Sourced from ICCC
+31 Legislative framework (score) 0 The indicator assesses progress towards a comprehensive legislative framework 
+for import of end-use devices. (Score system: Comprehensive framework 
+covering transport, appliances, buildings = 3; Legislative framework for one 
+sub-sector operational = 2; Preparation of frameworks under way = 1)
+No specific legislative framework that regulates the importation of energy 
+efficient end-use devices was in place in 2009. 
+32 Appliance labelling (score) 0 The indicator assesses the state of appliance labelling. (Score system: Compulsory 
+appliance labelling operational = 2; Appliance labelling in preparation = 1)
+No compulsory appliance labelling programme adopted for PNG in 2009. 
+The market share of product imports to PNG come from Australia.No. FAESP
+indicators
+Explanatory notes
+33 Availability of national 
+energy balance (score)
+1 The indicator assesses the availability of national key energy data to SPC data management 
+unit and other regional stakeholders. (Score system: Comprehensive data sets covering energy 
+input conversion and end-use available 6 months after end of reporting year = 3; Partial data 
+set available within 6 months = 2; Partial data set available within 12 months = 1)
+Selected national energy balance has been developed by APEC and the Asian Development 
+Bank. Energy datasets available are fragmented with irregular data reporting.indicators
+34 Energy 
+portfolio (USD)
+200,000,000 The indicator tracks the flow of funding into the country’s energy sector. Grant aid 
+commitments + loan commitments
+Indicative estimate from the Department of Petroleum and Energy.
+35 Availability of 
+financing 
+information 
+(score)
+1 The indicator assesses availability of national energy financing information to SPC and other 
+regional stakeholders. (Score system: Comprehensive set of information covering petroleum, 
+utility and government financing = 3; Partial information set available within 6 months = 2; 
+Partial information set available within 12 months = 1)
+Financial data records of funded projects are available at the Energy Division where 
+indicative estimates of the latest spending could be provided over 6 months. Detailed 
+financial accounts from the Ministry of Finance will take longer.
+36 Monitoring 
+framework 
+(score)
+0 The indicator assesses if there is a national energy sector M&E framework in place. (Score 
+system: M&E framework in place = 1, No M&E framework = 0 )
+No specific monitoring and evaluation framework in place. Selected monitoring and 
+evaluation activities are available on funded projects only.Vore Veve
+Tel: (675) 325 3233 / 7189 4786 
+Fax: (675) 325 1678
+Email: vore_veve@datec.net.pg
+Director 
+Department of Petroleum and Energy 
+Energy Division
+Matt Morris 
+Tel: (675) 321 2977 
+Fax: (675) 321 2916
+Email: ipbc@ipbc.com.pg
+Acting Chief Executive Officer
+Independent Public Business Corporation
+Ministry of Finance
+Website: www.ipbc.com.pg
+Lawrence Solomon 
+Tel: (675) 324 3111 
+Fax: (675) 325 0008
+Email: pmara@pngpower.com.pg
+Chief Executive Officer
+PNG Power Ltd
+Website: www.pngpower.com.pg
+Joseph Bariamu 
+Tel: (675) 7109 0666 
+Fax: (675) 325 0008
+Email: bmehuwa@bismarckenergy.com.pg
+General Manager
+Western Power
+Manoka 
+Tel: (675) 325 2144 
+Fax: (675) 325 3980
+Commissioner
+Independent Consumer and Competition
+Commission

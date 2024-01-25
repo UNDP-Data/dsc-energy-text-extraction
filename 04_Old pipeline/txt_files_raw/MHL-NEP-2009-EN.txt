@@ -1,0 +1,1121 @@
+File Name: MHL-NEP-2009-EN
+Year: 2009
+Country Name: Marshall Islands
+Country Code: MHL
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2009
+Start Year: 2009
+End Year: 2020
+Language: EN
+------------------------------------------------
+
+Republic of the Marshall Islands 
+National Energy Policy and 
+Energy Action Plan 
+VOLUME 1: NATIONAL ENERGY POLICY 
+Majuro, September 2009 The Government of the Republic of the Marshall Islands is grateful to the European 
+Union for supporting the development of this national energy policy through the 9th
+European Development Fund. Foreword 
+In 2008, the Republic of the Marshall Islands experienced 
+unprecedented increases in the costs of imported petroleum fuel and 
+staple food items. This high level of inflation had serious impacts on 
+the economy and people of the RMI and prompted President Litokwa 
+Tomeing and his Cabinet to declare a State of Economic Emergency on 
+July 3, 2008. This led to an ADB-funded analysis of key energy issues 
+in September 2008 and the Government’s decision to develop a 
+national energy policy and an action plan for its implementation. 
+Although fuel prices fell dramatically in late 2008, they are again 
+increasing substantially and imported petroleum still accounts for a 
+high percentage of our imports. In the medium to long term, oil prices 
+are expected to be unstable but remain at higher levels than they are 
+today. Sustained high energy prices would result in a far worse crisis for the RMI than that of 2008.
+Reducing the expected social and economic impact requires serious action now. There must be an 
+immediate and significant reorientation of the energy sector, with changes to reduce energy demand and
+diversify energy supply. The RMI must significantly improve energy efficiency and begin shifting its 
+reliance away from oil and towards practical and affordable renewable energy sources for its urban and
+rural communities. This effort is also part of the nation’s strategy to build resilience to climate change. 
+Although the RMI as a small island nation contributes almost no greenhouse gases to atmosphere, we 
+have no choice but to adapt to the severe impacts being caused by others. 
+This energy policy has been developed after extensive consultation within government and with the 
+public. It expresses the RMI’s commitment towards a new energy direction and serves as the foundation 
+for planning and development in the energy sector over the medium term. It is expected to be endorsed
+by Cabinet and the Nitijela as official policy of the Government of the Republic of the Marshall Islands. 
+Mattlan Zackhras 
+Minister of Resources and Development 
+MRD Minister Mattlan Zackhras Acknowledgements 
+This energy plan was developed over a relatively short period beginning in late 2008. Its development and 
+finalization were done so quickly that it required the considerable effort by many people during a few
+short months. The efforts of the following are greatly appreciated: 
+• The former Minister of Resources & Development, Hon. Frederick H. Muller, for his patience, 
+confidence and trust throughout the entire process;
+• Members of the national Energy Task Force for their commitment, willingness to meet frequently, 
+ideas, guidance and reviews of various drafts, with special recognition of the work of ETF member 
+Ben Graham, who provided guidance and sound advice throughout the process; 
+• The Asian Development Bank for supporting a Rapid Energy Assessment of key energy issues in 
+September 2008, an Energy Public Policy Forum in January 2009, an Energy Fair in February 2009 
+and an ongoing energy awareness campaign; 
+• The European Union for financing the development of this policy and the action plan through the 
+European Commission’s REP-5 Pacific energy program;
+• The private sector, government and NGO participants at a September 2008 workshop who actively 
+and enthusiastically considered a wide range of strengths, weaknesses, opportunities and threats 
+regarding energy issues in the Marshall Islands; 
+• The College of the Marshall Islands Public Policy Institute, which helped to organize the 2009 
+Energy Public Policy Forum; and 
+• Participants at the Forum, who produced The Majuro Energy Declaration 2009, which was 
+endorsed by the Council of Iroij, the Marshall Islands Chamber of Commerce, the Marshall Islands 
+Council of NGOs, the Office of the Chief Secretary and the Asian Development Bank, providing 
+invaluable input to the policy development. 
+• Peter Johnston and Herb Wade for their patience, guidance, and professionalism in contributing to 
+this National Energy Policy and medium-term Energy Action Plan. 
+This policy also benefitted from earlier analyses and strategies particularly Marshall Islands: Issues and 
+Options in the Energy Sector (World Bank, et. al., 1991); Marshall Islands ational Energy Policy 2002
+(draft, 2003); Republic of the Marshall Islands Ministry of Resources and Development Strategy and 
+Action Plan 2005-2010 (2004); the Marshall Islands ational PIREP Report of the Pacific Islands 
+Renewable Energy Project (RMI GEF/SPREP, 2005); and the RMI chapter of the United States of 
+America Insular Areas Energy Assessment Report (PPA/USDOI, 2006).
+Energy Planning Division 
+Ministry of Resources and Development 
+PO Box 1727, Majuro MH 96960 
+ Tel: 692 625-4020 or 3206 
+ Fax: 692 625-7471 
+ E-mail: rndsec@gmail.com 
+MRD’s Key Energy Staff and Adviser
+Thomas Kijiner, Jr. 
+Secretary of Resources and Development Acronyms and Abbreviations 
+ACP African, Caribbean and Pacific countries 
+ADB 
+ADMIRE 
+Asian Development Bank 
+Action for the Development of Marshall Islands Renewable Energies (RMI GEF/UNDP) 
+ADO Automotive Diesel Oil = light diesel fuel 
+AusAID Australian Agency for International Development 
+CMI College of the Marshall Islands 
+EC European Commission 
+EE 
+EPD 
+Energy Efficiency 
+Energy Planning Division of MRD 
+EPPSO Economic Policy, Planning and Statistics Office 
+ETF Energy Task Force 
+FY Fiscal Year (ends September 30th) 
+GEF Global Environment Facility 
+GHG 
+GWh 
+Greenhouse gas 
+Gigawatt hour = million kWh 
+Iroij 
+JICA 
+KADA 
+Marshallese chief or king 
+Japan International Cooperation Authority 
+Kwajalein Atoll Development Authority 
+KAJUR Kwajalein Atoll Joint Utility Resource 
+kW Thousand Watt (common unit of electrical power)
+kWh Kilowatt hour (common unit of electrical energy) 
+LPG Liquid Petroleum Gas (propane) 
+M&E Monitoring and Evaluation 
+MEC Marshalls Energy Company 
+MEPS minimum energy performance standards 
+ML Megaliter = million liter (1 liter = 0.264 US gallon) 
+MPW Ministry of Public Works 
+MRD Ministry of Resources and Development 
+MW Megawatt = million Watt = thousand kW 
+MWh Megawatt hour = million Watt hour = thousand kWh 
+NGO Non Governmental Organization 
+Nitijela The Parliament of the RMI 
+O&M Operations and Maintenance 
+OEPPC Office of Environmental Planning and Policy Coordination 
+PIC Pacific Island Country 
+PIREP Pacific Islands Renewable Energy Project (GEF/SPREP) 
+PPA Pacific Power Association 
+PV Photovoltaic(s) = Solar Electric 
+RE 
+REP-5 
+Renewable Energy 
+Support to the Energy Sector in 5 ACP Pacific Islands (including the RMI; EC-funded) 
+RMI Republic of the Marshall Islands 
+RMIEPA RMI Environmental Protection Agency 
+$ US dollar, the official currency of the RMI 
+SOPAC South Pacific Applied Geosciences Commission SPREP Secretariat of the Pacific Regional Environment Programme 
+SUV 
+SWOT 
+Sport Utility Vehicle 
+Strengths, Weaknesses, Opportunities and Threats 
+UNDP United Nations Development Program 
+WUTMI Women United Together Marshall Islands Table of Contents 
+Foreword ......................................................................................................................................... i 
+Acknowledgements ........................................................................................................................ ii 
+Acronyms and Abbreviations ......................................................................................................... iii 
+Table of Contents ........................................................................................................................... v 
+Objectives and Goals for Energy Development ............................................................................ vi 
+1. National Context and Economic Overview ............................................................................... 1 
+2. Overview of the Energy Sector ................................................................................................. 2 
+3. A Framework for National Energy Policy and Its Implementation .......................................... 7 
+4. Energy Policy Administration and Implementation .................................................................. 9 
+5. Petroleum and Liquid Fuels .................................................................................................... 12 
+6. Electric Power ......................................................................................................................... 14 
+7. Transport and Energy Use ....................................................................................................... 17 
+8. Energy Efficiency .................................................................................................................. 19 
+9. Renewable Energy ................................................................................................................. 22 
+Annexes 
+Annex 1: The Public Consultation Process 
+Annex 2: The Majuro Energy Declaration 2009 Objectives and Goals for Energy Development 
+The national vision of the RMI, as expressed in “Vision 2018”, the Marshall Islands Strategic Economic 
+Development Plan for 2003-2018 is: 
+To become a country within an inter-dependent world, with an enhanced socio-economic 
+self-reliance, and an educated, healthy, productive, law-abiding and God-loving people in 
+which individual freedom and fundamental human rights are protected, and culture and 
+traditions are respected, and development and environmental sustainability are in 
+harmony 
+(from the Second National Economic and Social Summit, 2001) 
+The objective for national energy development is consistent with the above national vision: 
+An improved quality of life for the people of the Marshall Islands through clean, reliable, 
+affordable, accessible, environmentally appropriate and sustainable energy services 
+Broad goals for the development of energy services are: 
+• Electrification of 100% of all urban households and 95% of rural outer atoll households 
+by 2015; 
+• The provision of 20% of energy through indigenous renewable resources by 2020; 
+• Improved efficiency of energy use in 50% of households and businesses, and 75% of 
+government buildings by 2020; and 
+• Reduce supply side energy losses from MEC by 20% by 2015. 1. )ational Context and Economic Overview 
+The Republic of the Marshall Islands 
+(RMI) consists of two groups of 29 
+atolls and five raised coral islands 
+extending 750 miles (1200 km) northsouth and 800 miles (1300 km) eastwest, with the capital Majuro located 
+2000 miles (3200 km) from both 
+Honolulu and Tokyo. The 1999 census 
+recorded 50,840 people. Due to 
+considerable emigration to the US, net 
+population growth has been low; the 
+current estimated population is 54,000, 
+with roughly 51% residing on Majuro 
+and 20% on Ebeye in Kwajalein atoll. 
+The RMI is heavily dependent on 
+compensation payments from the US 
+and external assistance, grants recently 
+averaging $70 million annually, or 45% of Gross Domestic Product (GDP) and 70% of fiscal revenue, 
+mostly through two Compacts of Free Association with the USA, the current one from FY 2004–2023. 
+The economy declined between 1990 and 2001 but annual growth in real terms averaged 3% from 2001-
+2003 and 3.6% from 2004-2007. Unemployment remains high, human development indicators lag behind 
+other middle-income countries, and income distribution is uneven, with relatively high poverty on some
+outer atolls. Conducting business can be difficult due to problems of access to finance and land, 
+sometimes ineffective laws and regulations, relatively poor infrastructure, and the huge role of the state, 
+which accounts for some 40% of GDP and 46% of paid employment. Although Japan and Taiwan have 
+contributed significant grant funding, the budget remains highly dependent on the Compact, with US 
+grants accounting for 64% of projected 2009 revenue. Public debt remains high, arrears on the debt have 
+been a problem, and the fiscal position is weak. The government is addressing these issues but progress 
+can be slow. 
+According to the Asian Development Bank, GDP grew by about 1.5% in FY 2008, due mainly to grantfinanced public expenditure. Copra production rose in response to high international prices, with 
+production exceeding 7,000 tons for only the third time in 50 years. However copra prices have since 
+dropped substantially. Fuel imports accounted for nearly 20% of the national budget in FY 2008, with 
+some of the aid funds allocated for capital projects redirected to finance fuel. The high prices for imported 
+petroleum – coupled with large price increases for electricity, transportation and rice – resulted in 
+inflation of 29.4% in the third quarter of 2008 compared to the same period in 2007. This was the highest 
+inflation rate in the Pacific, reflecting the RMI’s remoteness and extreme import dependency. It also 
+demonstrates the importance of containing the cost of energy imports. 
+Much of the income on the outer islands has traditionally come from copra sales but widely fluctuating, 
+and often low, copra prices have led to an interest in using coconut oil as a fuel to reduce diesel fuel 
+imports. Remittances from relatives on Majuro and Ebeye and pensions are also common sources of outer 
+island cash. 
+The Marshall Islands 2. Overview of the Energy Sector 
+Petroleum. The graph at the right shows the 
+average spot price for OPEC crude oil from 1999 
+through mid June 2009. Prices in mid 2009 are 
+only half of the 2008 peak, but have rebounded 
+to the high 2006 levels despite the depressed 
+global economy. The RMI remains extremely 
+dependent on imported oil, which accounts for 
+about 90% of national energy use (in tonnes of 
+oil equivalent). Biomass provides most of the 
+rest. Petroleum, or liquid fuels that can 
+economically replace it, are the lifeblood of the 
+RMI economy, essential for both transport (about 
+65% of fuel use) and electricity production. The 
+main imports are gasoline, diesel fuel, dualpurpose kerosene (for aviation and household 
+use) and propane (liquid petroleum gas, LPG). 
+Although no comparative data have been 
+available since early 2008, landed fuel prices 
+(excluding duties and taxes) have been about 
+average for Pacific Island Countries. However consumer prices are significantly higher as there is no 
+wholesale or retail fuel price control on Majuro or Ebeye, and maximum allowable retail margins 
+applicable for outer islands are difficult to enforce. 
+The government-owned Marshalls Energy 
+Company (MEC) owns and operates a fuel tank 
+farm of 6 million US gallons (23 ML) capacity, 
+the largest functional non-military fuel storage 
+facility in Micronesia outside of Guam. MEC 
+imports and distributes diesel fuel and propane 
+on Majuro and until recently subsidized 
+electricity costs through profitable bunkering of 
+diesel fuel to fishing fleets. Mobil Oil 
+Micronesia (MOMI) and Pacific International 
+Incorporated (PII) also import fuel products. 
+Data on the volume of petroleum imports are 
+unreliable, but they may have fallen by about 
+half between 2003 and 2008. MEC diesel fuel bunker sales to fishing fleets have fluctuated considerably 
+but as shown in the graph (above right), sales have exceeded internal use for power generation for three of 
+the past five years, depending in large part on government’s shifting policy on import duties and taxes. 
+Based on rough estimates, about 68% of total 2003 fuel imports – MEC, MOMI and others – were used 
+for transport, 30% for electricity generation and 2% for direct commercial or household use. More recent 
+energy end-use data are not available. 
+Electric power. MEC is responsible for all electric power generation and distribution on Majuro 
+(including Rongrong Island); manages small power systems on Jaluit and Wotje under government 
+contract; and installs, operates and maintains solar photovoltaic (PV) systems for home lighting in remote 
+OPEC Crude Oil Price Trends: 1999 – mid June 2009 
+MEC ADO by Volume in US Gallons: 2004-2008
+5,668
+5,636
+5,443
+5,099
+4,670
+8,920
+7,939
+3,442
+3,503
+6,021
+0 5,000 10,000 15,000
+FY04
+FY05
+FY06
+FY07
+FY08
+Used Sold
+(in thousands)
+Marshalls Energy Companyatolls, also through government contracts. On Majuro, MEC has 24.4 MW of operational diesel capacity,
+and had about 12 MW of maximum demand from 2003-07, dropping below 10 MW in 2008-09. There 
+were about 3900 active MEC customers in late 2008, of whom nearly 3700 were on Majuro. MEC 
+generation in calendar year 2008 was 70 GWh, sales (i.e. billings) were 50 GWh and residential 
+consumption per household averaged 531 kWh/month including subsidized ‘lifeline’ customers who 
+constitute about two thirds of household customers. This is relatively high consumption by Pacific Island 
+standards. Since peaking in FY 2005 at 82.4 GWh, MEC generation and sales have steadily dropped in 
+subsequent years. 
+Average revenue per kWh sold to all customers was about $0.30 in January 2008, peaked at $0.45 in 
+September and dropped to $0.36 in December. By April 2009 it had dropped further to $0.275. The tariff
+formula is the same for MEC and other utilities managed by MEC, with a fixed base price and an 
+adjustable fuel price component based on a 2006 formula approved by Cabinet. The tariff does not cover 
+MEC’s full costs with the operations of the smaller utilities subsidized even more than Majuro and Ebeye 
+operations. 
+MEC sales away from Majuro, i.e. Jaluit and Wotje, accounted for 1 GWh, only 2% of 2008 MEC 
+demand. There are no data readily available on household consumption but overall consumption per 
+customer in 2008 was about 400 kWh/m (Jaluit) and over 480 kWh/m (Wotje), with wide monthly 
+variations. 
+The second largest power system is KAJUR on Ebeye in Kwajalein atoll. In May 2009, KAJUR had 
+about 4.2 MW of installed capacity and a maximum demand of 1.8 MW. Generation in 2008 was about 
+12-14 GWh, but generation has only been accurately metered since early 2009. Nearly all customers use 
+pre-pay meters, making average sales per customer difficult to calculate. 
+Household energy use. At the time of the 1999 census, 63% of all RMI households used diesel-generated 
+electricity for lighting, 31% used kerosene and 5% relied on solar PV systems. Nearly 90% of urban 
+households had electric lighting compared to only 13% in outer islands, 71% of which used kerosene. By 
+2006, the urban electrification rate had reached 93% in Majuro and 97% in Ebeye. Since the 1999 
+census, a significant percentage of outer island households have received solar lighting systems. 
+A 2006 EPPSO community survey – which covered 
+Majuro, Ebeye, Eniburr, Wotje, Jaluit, Arno and 
+Ailuk – demonstrated the scale of biomass 
+(wood/charcoal and coconut waste) for rural cooking, 
+the main cooking fuel for 40% (Jaluit) to 91% (Arno) 
+of house-holds, except for Eniburr (10%). For Majuro 
+and Ebeye, kerosene was the main cooking fuel for 
+about 40% of households, followed by electricity. A 
+2008 UNDP/EPPSO household energy survey suggests that nearly 40% of Majuro/Ebeye households now 
+use mainly propane for cooking, with about 20% each dependent mainly on kerosene, biomass, or 
+electricity. As shown in the table above, in Majuro there was considerably higher use of biomass, whereas 
+in more crowded Ebeye, there was far less biomass available for cooking and more use of propane, 
+kerosene and electricity. The 2006 and 2008 survey results are not fully comparable due to different 
+techniques and sample sizes but they nonetheless demonstrate how quickly consumers can adjust to 
+changing energy prices for cooking. 
+According to the 2006 survey, 40% of all households had a refrigerator and 38% a deep freezer, rising to 
+about 50% of each in Majuro and Ebeye, a very high rate of ownership compared to other PICs. The 
+2008 UNDP survey indicated that 54% of Majuro households and 70% of those on Ebeye had at least one 
+Main Energy Source for Urban Cooking, 2008 
+Fuel Both Atolls Majuro Ebeye 
+Propane 38% 35% 43% 
+Kerosene 22% 20% 27% 
+Biomass 21% 24% 13% 
+Electricity 19% 20% 17% air conditioner, although a 2009 EC-funded survey, incomplete as the energy policy was being drafted, 
+apparently shows that a significant percentage are not currently being used. The pattern of appliance 
+ownership suggests that a very high percentage of household electricity use is for cooling. 
+Transport. Transport probably accounts for two-thirds of the RMI’s fuel use. In 2008, there were 2464 
+registered road vehicles in Majuro, of which 93% were private, 6% government (including Majuro local 
+government) and 1% diplomatic. Of the total, 55% were sedans and 20% pick-up trucks. Registrations 
+grew by 28% from 2005-2007 before declining by 12% in 2008. In 2005, Cabinet approved a new policy 
+requiring government departments to purchase only diesel-fueled vehicles, which are considerably more 
+efficient than gasoline for the same engine size, but this has not been enforced. Nonetheless, despite the 
+lack of data on the percentage of gasoline and diesel-fueled vehicles, importers suggest that diesel imports 
+have dominated sales in recent years. 
+As in other widely-scattered PICs, the RMI uses a substantial amount of petroleum fuel for air and sea
+transport.
+Efficiency of energy use. Electricity use has been subsidized in the 
+Marshall Islands since well before Independence in 1986 though a 
+range of grants for capital investments, fuel purchases, hidden 
+subsidies, and recently cross-subsidies from MEC bunkering profits, 
+understandably resulting in high, and now unsustainable, levels of 
+electricity use. Where energy to the consumer has long been priced 
+below its actual cost, there is inevitably waste. The ADB’s 2008 
+Rapid Energy Assessment concluded that there were significant costeffective opportunities for improved energy efficiency but that 
+renewable energy investments in urban electricity production would 
+require capital grants to compete with petroleum fueled electricity, at 
+least in the short term. Investments in energy efficiency are designed 
+to provide the equivalent service, or an improved service, at lower 
+cost and with less energy use. There have been only limited estimates 
+of the practical potential in the Marshall Islands but these studies, and 
+experience elsewhere in Micronesia and the Pacific, suggest that there 
+are numerous financially attractive opportunities. The College of the 
+Marshall Islands (CMI) on Majuro 
+has embarked on a construction 
+program that incorporates principles of good energy management in 
+its buildings, with considerable savings expected through reduced 
+electricity demand and production of energy through renewable 
+sources. This is expected to provide a good model of what others may 
+also be able to achieve. 
+By early 2009, MEC had replaced about 3500 standard incandescent 
+lights in Majuro households with more efficient compact fluorescent 
+lights (CFLs), at a typical savings of $17/household/month. If three 
+inefficient lights had been replaced in all Majuro households at the peak of 2008 oil prices, annual fuel 
+savings for MEC would have been nearly $580,000 and consumer electricity savings $660,000 at a cost to
+MEC of under $50,000. Even at lower mid 2009 fuel prices, savings would remain substantial. 2009 
+MRD tests suggest that replacing all current street lights in Majuro and Ebeye with more efficient models 
+could save 65-75% of MEC’s street lighting energy use. The cost of generating and distributing one kWh
+depends highly on fuel price; at a full cost of approximately $0.5/kWh, MEC would save over $250,000 
+per year. 
+Test of energy efficient street light 
+Replacing inefficient light bulb 
+with a compact fluorescent light Urban households in the RMI use excessive amounts 
+of electricity for air conditioning and could probably 
+reduce electricity use by 20% or more through 
+relatively simple means. More generally, buildings 
+in Majuro account for well over half of all MEC 
+electricity consumption mainly for cooling and 
+lighting; the opportunities for saving are 
+considerable. However, little has been done due to a 
+generally low awareness of energy efficiency, 
+relatively limited capacity to assess opportunities
+and provide advice, a lack of affordable finance, and 
+other factors. 
+There are also substantial opportunities to improve
+the efficiency of MEC’s energy supply – improved ‘supply-side management’ – although determining 
+financially attractive investments will require further technical studies, which are planned during 2009 
+with assistance of the Pacific Power Association (PPA). 
+Renewable energy. By mid 2008, MEC had installed about 1300 stand-alone photovoltaic (PV) systems 
+in outer atoll households; this should reach 1500 by early 2010 and about 2800-2900 over the next five
+years, effectively providing PV lighting to nearly all outer island households. There are also plans to 
+provide much larger PV systems for outer island schools, with installations in six schools to be completed 
+by early 2010. For rural PV, the key donors (Taiwan, the European Commission and others) provide the 
+equipment and RMI is responsible for operations and
+maintenance (O&M) and eventual battery replacement.
+There are various PV initiatives additional to the 
+MRD/MEC household program. Solar PV is being installed 
+by the ministries of telecommunications, fisheries, health 
+and education, with different management and financial 
+arrangements, sometimes rudimentary, for each. 
+For household PV systems, users have until recently been 
+charged $12/month to meet in part MEC’s O&M costs but 
+this has not covered full costs if battery replacement is 
+included, and actual collections from users have been 
+considerably lower than planned. In 2009, Cabinet reduced 
+the charge to $5/household per month, raising serious 
+concerns about sustainability. 
+There have been some trials of coconut oil as a fuel for small-scale power production in outer islands and 
+for vehicle use on Majuro, but these have not been technically or economically successful. In 2008, the 
+RMI produced 1.4 million US gallons (5.3 ML) of coconut oil, which could be used in place of diesel fuel 
+(as filtered raw oil or chemically-processed into coconut based biofuel) or blended with diesel fuel to 
+reduce imports for electricity generation or transport. Since the export value of coconut oil is highly 
+variable, rising and falling dramatically, there has been renewed interest among coconut producers and
+processors in exploring this option, which could stabilize producer prices while reducing fuel imports. 
+In recent years, there have been numerous suggestions for large scale development of renewable energy 
+on Majuro but there have been various constraints regarding their practicality. Systems based on ocean 
+energy, particularly Ocean Thermal Energy Conversion (OTEC) are not mature or even commercially 
+Inefficient badly corroded heat exchangers 
+are very common in Majuro’s air conditioners
+Household solar PV system 
+Installed at Jeh, Ailinglaplap Atoll available, practical and affordable systems being some years away. For wind energy there has been no 
+assessment of the RMI’s resource, which is essential to evaluate its practicality. In addition, commercial 
+systems may not be available that match local requirements of relatively small size, low operating costs 
+and long life under the difficult environmental conditions on atolls. For large scale solar, the technology 
+is mature and the local resource is adequately known but investment costs have been too high unless 
+supported in part by donor grants. Several small grid-connected solar PV systems have been installed in 
+Majuro, the largest being a 60 kW system at the College of the Marshall Islands, and a larger system has 
+been proposed by JICA. Within the next 5-10 years, it is likely that only solar and possibly coconut-based 
+biofuel may be technically, economically and financially practical for the RMI. 3. A Framework for )ational Energy Policy and Its Implementation 
+The framework used for developing the national energy 
+policy is as follows. Five specific areas where 
+improvement is required have been identified as keys to 
+shifting toward more sustainable energy development
+and use in the Marshall Islands: 
+• Petroleum and Liquid Fuels, 
+• Electric Power, 
+• Transport and Energy Use, 
+• Energy Efficiency, and 
+• Renewable Energy 
+In addition there is a need for effective Energy Policy Administration and Implementation. 
+For each of the above areas: 
+• Government policies specific to each energy sub-sector are summarized; 
+• key issues are identified that hinder more rational energy use, 
+• medium-term objectives are stated, and 
+• strategies are listed to achieve the objectives. 
+Action plan. A more detailed action plan has been prepared to implement the policies and strategies. The 
+Energy Action Plan is a separate document, comprising volume 2 of this policy. A broad statement of 
+policy can remain effective for some years but an effective action plan needs to be linked to the annual 
+national budget process, include specific prioritized activities, incorporate a monitoring and evaluation 
+mechanism, and be time-bound. Thus it requires regular revision and updating, preferably every year. 
+Cross-cutting issues. The key areas are also inter-dependent so there is some duplication of issues, 
+objectives and strategies. In addition, there are cross-cutting areas that apply to all key areas. These need 
+to be addressed when implementing strategies and actions: 
+• Climate change. Climate change will severely test the resiliency of the RMI’s institutions and 
+infrastructure, with expectations of increased flooding, longer periods of drought, changing patterns of 
+disease and serious issues of access to clean water. This energy policy is consistent with, and 
+supportive of, national efforts to address climate change. All new energy investment decisions and 
+investments, including design and construction of new buildings, must consider resilience for adapting
+to climate change, which will also result in longer term savings to the government and people of the 
+RMI. 
+• Governance. Development of transparent decision-making processes, appropriate legal tools and 
+regulations, and consistent enforcement of regulations. Performance-based budgeting within the 
+RMI )ational Energy Task Force, May 29th, 
+2009 government is needed including energy criteria as performance measures for each government 
+ministry and agency. 
+• Social and environmental sustainability. Development of mechanisms to improve the likelihood of 
+long-term sustainable operation, minimal production of pollutants; and reduced emissions of 
+greenhouse gases (GHG) per unit of energy produced. Although the RMI has no legal obligation to 
+reduce GHG emissions, which are practically nil, it plans to do so whenever practical. 
+• Gender awareness. Assurance of equal access by women and men to training opportunities (e.g. 
+community-level solar system management) and decision-making (e.g. management and boards). 
+• Capacity building. Strengthening of a range of public, private, civil society and academic institutions 
+so agreed initiatives can be effectively implemented. Strengthened public/private partnerships in 
+energy production and efficient use. 
+• Education and information dissemination. Developing and disseminating appropriate public awareness 
+materials and school curricula on energy issues. 
+• Data development. Developing and maintaining appropriate databases on energy imports, resources, 
+production and consumption, that are easily accessed and suitable for more effective decision-making. 
+• Appropriate technology choice. Choice of energy production and energy efficiency equipment that is 
+commercially available and proven in small island environments. 
+• User pays principle. Adoption and consistent application of the principle that the urban end-user pays 
+at the full costs of energy and outer atoll end-users pay at least all O&M costs for renewable energy 
+services. 
+The chapters that follow cover the specific key topics of Energy Policy Administration and 
+Implementation, Petroleum and Liquid Fuels, Electric Power, Transport and Energy Use, Energy 
+Efficiency and finally Renewable Energy. However, as noted above, these areas are intimately interconnected: strategies for improving energy efficiency or for producing more energy from renewable 
+sources cannot be effective if developed in isolation from those for petroleum fuels and the power sector. 
+There is a single national energy policy, not discreet policies for the various components. Some topics 
+that are usually discussed under renewable energy (e.g. biofuels) are covered elsewhere (in this case 
+liquid fuels). Key linkages are noted in individual chapters but it is impractical to list all of them. 4. Energy Policy Administration and Implementation
+Policy Statement 
+The Government of the Marshall Islands recognizes weaknesses in administering past 
+energy policies and will: 
+develop and enforce laws and regulations necessary to provide MRD with the authority 
+required for effective and transparent implementation of this policy, including electric 
+power legislation, clear guidelines for the MEC board and management, and a consistent 
+management system for all government renewable energy programs. 
+Responsibilities for energy within government and government-owned enterprises are as follows: 
+i) The Ministry of Resources and Development (MRD) is responsible for energy policy, coordination 
+and some implementation. MRD’s Energy Planning Division consists of a national energy planner, 
+an energy officer, one support staff and an AusAID-funded energy adviser, initially for 18 months 
+from April 2009. There is very little government funding for routine operations, no likelihood of 
+additional staff positions, and heavy dependence on donor support for energy studies and project 
+implementation. Despite responsibility for overall energy policy, MRD is not represented on the MEC 
+board. 
+ii) MEC was established in 1984 under Articles of Incorporation and associated bylaws, which have 
+since been amended. Although 100% government-owned, there are provisions for private 
+shareholding. With its urban and rural power responsibilities, fuel import, storage and bunkering, and
+rural PV program, MEC is the dominant energy supplier in the RMI with a strong role in both policy 
+and implementation. The board is appointed by Cabinet, chaired by the Minister of Public Works and 
+includes both government (5) and private sector (5) members. MEC is independently audited annually 
+but has not produced an annual operational report for some years. The company’s website contains 
+limited operational information and management is currently looking at producing an annual 
+operational report. 
+iii) The Ebeye utility, KAJUR, was owned by the Kwajalein Atoll Development Authority (KADA), but 
+after the dissolution of KADA, oversight of KAJUR is now under the Joint Utilities Board. KAJUR 
+shares the same board as MEC, which provides management and technical assistance, but is 
+financially and operationally independent. Substantial operational losses are met through US grant 
+funding specifically allocated for Ebeye. KAJUR also operates the Ebeye water and sewer system 
+and is audited annually. 
+iv) Other government offices with energy responsibilities include the Economic Policy, Planning and 
+Statistics Office (EPPSO), the key national development planning and statistics agency which was 
+actively involved in developing rural electrification policy; and the Office of Environmental Planning
+and Policy Coordination (OEPPC) which is mandated to coordinate planning for and development of 
+climate change policies. The OEPPC is charged with responsibilities to review and identify benefits 
+of multilateral environmental treaties for the RMI, is the focal point for the GEF and authorizes the 
+development of GEF-funded support for the RMI. It has also developed a number of GEF projects, 
+including the RMI - GEF/UNDP project, “Action for the Development of Marshall Islands 
+Renewable Energies” (ADMIRE) which effectively began operationally in June 2009 and is expected to compliment the RMI’s renewable energy activities particularly the Outer Islands Electrification 
+Program by supporting capacity building, awareness training on operations and maintenance of solar 
+PV resulting in more climate change resilience, the reduction of GHG emissions and improved rural 
+livelihoods. 
+v) The National Energy Task Force (ETF) with government, MEC and private membership was 
+established by Cabinet in 2005 and revitalized in 2008. Since mid 2008 it has met regularly, typically 
+2-4 times per month, with MRD as the Secretariat. The ETF plays an influential energy advisory role. 
+There are overlapping responsibilities for some aspects of energy. To the extent practicable, these will be 
+addressed through activities of the Energy Action Plan. 
+Issues, Objectives & Strategies for Improved Energy Policy Administration and 
+Implementation 
+Issues: 
+• Very limited human and financial capacity to develop, refine and implement energy policies 
+• No Energy Planning Division work plan or priorities and limited monitoring and evaluation of 
+activities 
+• Processes for prioritizing appropriate donor assistance and accessing donor funding are weak 
+• Data on energy imports, production and end-use are inadequate for analysis and policy 
+development, particularly for petroleum 
+• Limited formal MRD authority on key energy decisions (both electricity and petroleum) 
+• Annual budget actually available to Energy Planning Division very limited 
+• Duplication of responsibilities for outer atoll solar PV development, with inconsistent management 
+and financial mechanisms 
+• Tendency (by donors as well as government) for renewable energy and energy efficiency to be 
+treated as independent project areas, rather than components of an integrated overall energy policy 
+• Fragmented energy policy and authority landscape, requiring clarification through Cabinet decisions, 
+regulations or law 
+• Limited real cooperation and coordination among Pacific Island Countries on energy 
+Objectives: 
+• Energy Planning Division develops the level of skills necessary to review, update and implement the 
+energy policy framework 
+• The Energy Planning Division uses its limited human and financial resources effectively, 
+concentrating on important, practical and achievable goals 
+• MRD influences key energy decisions, shifting RMI toward more sustainable and rational energy 
+use 
+• National energy database adequate (for analysis and policy development) is developed and regularly 
+updated 
+• Consistent management and financial mechanism is developed and implemented for all solar PV and other renewable energy initiatives 
+• There is investment in renewable energy and energy efficiency as part of all energy initiatives where 
+appropriate; RE/EE, not considered as stand-alone activities or special interests 
+• Improved cooperation on energy within Micronesia and the wider Pacific region 
+Strategies: 
+• Informal training of Energy Planning Division staff through Energy Adviser, their inclusions in 
+RE/EE training, and possible diploma or degree level training in energy 
+• Maintain an up-to-date active registry of opportunities for donor support in cooperation with Foreign 
+Affairs 
+• MRD’s Energy Planning Division to work in close collaboration with the OEPPC in mainstreaming 
+of climate change activities, particularly support for appropriate and practical RE/EE, capacity 
+building for environmental sustainability and economic opportunities 
+• Production by MEC of annual reports (including KAJUR, Jaluit & Wotje) on generation, sales, fuel 
+operations and finances 
+• Annual work plan developed for MRD’s Energy Planning Division with clear objectives, priorities 
+and timeframe, reviewed quarterly 
+• MRD coordinates energy database development production and regular revision with MEC, Finance, 
+importers & EPPSO 
+• MRD participation in the budget reform process, including advocacy of performance-based 
+budgeting within the government with energy criteria as performance measures for each government 
+ministry and agency 
+• MRD membership on MEC board and inclusion in any government mechanism that is established to 
+monitor petroleum pricing 
+• MRD to coordinate development of a framework for development and implementation of all 
+government solar and other RE initiatives 
+• Integration of renewable energy and energy efficiency considerations into mainstream energy 
+policy, planning, studies, proposals and implementation 
+• legislative amendments, a new energy law, regulations or a Nitijela resolution will be considered 
+ as appropriate to clarify powers and responsibilities within government for energy 
+• independent assessment of organizational changes (MRD, other ministries, MEC) that may be 
+necessary to implement the energy policy 
+• The Marshall Islands to play an active role in developing the proposed Micronesia Energy Challenge 
+and in future revisions to the Pacific Islands Regional Energy Policy and Plan 5. Petroleum and Liquid Fuels 
+Policy Statement 
+The Government of the Marshall Islands recognizes that nearly total national dependence 
+on imported petroleum fuels results in great social and economic vulnerability. It will: 
+develop and enforce international standards for the storage, handling and transport of 
+petroleum products; develop a mechanism for obtaining competitive fuel prices and 
+monitor results; ensure that there are fair wholesale and retail fuel prices; require 
+suppliers as a part of the supply contract to provide monthly data on imports and sales by 
+product; and place high priority on developing the infrastructure and capacity to process 
+coconut oil for use as a petroleum fuel replacement. 
+Petroleum imports overwhelmingly dominate energy use in the 
+Marshall Islands. Efforts to shift toward more sustainable energy 
+use require access to petroleum fuels at a fair price, assurance of 
+the quality of products supplied, more efficient use of petroleum, 
+and a shift to locally-produced liquid fuels to replace petroleum 
+where this is practical. The MEC tank farm is a valuable national 
+asset but its real value to the economy has not been determined. 
+Issues, Objectives and Strategies for Improved Petroleum and Liquid Fuel Use 
+MEC Fuel Storage, Majuro 
+Issues: 
+• Lack of reliable time-series data on total imports and retained imports of petroleum fuel products 
+• Limited understanding within the RMI of the value to the national economy and to MEC of the 
+MEC fuel storage facilities 
+• Limited ability to effectively negotiate and monitor the terms of supply of petroleum fuels, and 
+assure competitive supply terms 
+• Limited knowledge of the potential benefits and pitfalls for the RMI of the proposed regional bulk 
+purchase of petroleum fuels 
+• Weak enforcement of regulations regarding safe storage, handling and transport of petroleum 
+products and disposal of waste oil 
+• Ineffective mechanism for fair wholesale and retail prices in Majuro and elsewhere for petroleum 
+products (including propane) to protect consumers, as well as suppliers and service station owners 
+• Limited knowledge of the technical, environmental, economic and financial issues related to 
+development of local liquid fuels, especially coconut-derived, to reduce petroleum imports * For data, see the section on ‘Energy Policy Administration and Implementation’ 
+Objectives: 
+• Up-to-date and reliable data on the volume of petroleum product imports, sales and end-use 
+• An understanding of the real value of the MEC storage facilities for the Marshall islands and ways to 
+maximize its value 
+• Better understanding of the pros and cons of participation in the regional bulk petroleum purchase 
+scheme 
+• Equitable wholesale and retail prices of fuel products on Majuro and elsewhere in the RMI 
+• Safe storage and distribution of petroleum products 
+• Development of a local biofuel industry where economically, environmentally and financially 
+practical 
+Strategies: * 
+• Independent evaluation of the MEC tank farm and MEC bunkering operations 
+• In the short term arrange expert, neutral advice on tendering, negotiating and monitoring of 
+petroleum supply contracts, including likely costs and benefits of participation in the proposed bulk 
+fuel purchase scheme 
+• In the medium term, develop expertise within the government as appropriate to tender, negotiate and 
+monitor petroleum supply contracts 
+• Establish and maintain a system for inspection and certification of storage, handling and safety 
+procedures and licensing of petroleum storage and distribution facilities 
+• Arrange an independent study of gasoline, diesel fuel and propane pricing on Majuro and outer atolls 
+to determine benefits and costs of a mechanism to establish allowable wholesale and retail price 
+margins , and develop clear pricing and price monitoring system for Majuro and outer islands 
+• Establish and enforce regulations to require all petroleum suppliers to provide quarterly reports (to 
+MRD, EPPSO (additional to Customs requirements) on volumes of fuel imported and sold 
+• Arrange independent study of technical, economic, environmental and financial practicality of 
+developing local biofuels with different assumptions regarding the landed cost of petroleum fuels 6. Electric Power 
+Policy statement 
+The Government of the Marshall Islands recognizes the importance of electrifying all 
+households on all islands with sustainable and environmentally appropriate energy 
+supplies. The Government will develop and enforce: 
+ clear and equitable electricity tariffs, laws and regulations necessary to provide MRD 
+with the authority required for effective and transparent implementation of this policy 
+including electric power legislation, clear guidelines for the MEC board, mechanisms for 
+allowing renewable energy to feed into the grid, and a consistent management system for 
+all government renewable energy programs 
+Electricity is a versatile and high-value form of energy. The RMI aims to provide affordable and 
+environmentally responsible forms of electricity to all households over time, though a resourceful, 
+efficient, well-managed MEC which recovers the real costs of supply to its customers. With nearly total 
+dependence on petroleum fuel, MEC costs will inevitably increase with petroleum fuel price increases, 
+unless less-expensive local alternatives are found for large-scale electricity production. Issues, Objectives and Strategies for Improved Electricity Supply 
+Issues: 
+• Lack of a legislative and regulatory framework for the electric power sector 
+• MEC supply side losses that may be excessively high 
+• For urban consumers, the electricity tariff does not recover full costs of supply 
+• non-transparent policy regarding free electricity to landowners and some others 
+• Although MEC has a ‘lifeline’ tariff designed to subsidize costs for low-income households, the 
+maximum monthly consumption level of 500 kWh is too high (reducing MEC revenue) while the 
+savings to low-income consumers are too low (proving limited financial relief to them) 
+• A common tariff for MEC, KAJUR, Jaluit and Wotje requires very high rural subsidies 
+• The monthly charge for solar home PV electric systems is too low to recover O&M costs and does 
+not provide revenue for battery replacement 
+• It is not known whether the current solar home PV systems meet the aspirations of outer island 
+communities for electric power supply 
+• The monthly charge for larger solar PV electric systems (e.g. schools, health) is unclear but 
+probably far too low to recover O&M costs including battery and inverter replacement 
+• Unclear costs and benefits of pre-pay metering on Majuro, which could allow re-connection of 
+defaulting customers and recovery of some of the outstanding debt 
+• Lack of a clear affordable alternative to diesel fuel for large-scale power generation 
+Objectives: 
+• Clear authority and responsibilities for electric power supply, including a regulatory system that 
+allows private supply to the grid under conditions fair to MEC and the supplier 
+• Reduction of MEC supply side energy losses by 20% of 2009 levels by 2015, consistent with sound 
+technical and financial criteria 
+• A transparent tariff structure for those receiving full electricity supply that covers the real costs at 
+each island system, with a lifeline tariff that genuinely benefits low-income consumers without 
+adversely affecting MEC income 
+• A management and financial system for outer island PV electrification that is sustainable and 
+recovers O&M and battery replacement costs, for household and institutional systems (e.g. health, 
+fisheries, telecoms, and school installations) 
+• Use of appropriate mechanisms, possibly including pre-pay meters, for defaulting customers to be 
+reconnected and repay arrears over time 
+• Development of alternatives to diesel fuel for power generation where economically sound * Feed-in tariffs offer a minimum guaranteed price for energy sold to the utility, which is obliged to allow 
+generators to connect to the grid, and to buy an agreed amount of electricity at the agreed- price 
+Strategies: 
+• Development of appropriate legislation and regulations with clearly-defined authority, obligations 
+and responsibilities for electric power supply in Majuro and throughout the RMI 
+• Development of appropriate technical guidelines and regulations for self-generation through 
+renewable energy sources and feed-in tariffs* under conditions fair to MEC and the supplier. 
+• Technical study on the level of MEC supply side losses and practical means to reduce them at 
+reasonable cost 
+• Development and implementation of a revised electricity tariff structure for MEC and utilities it 
+manages based on actual costs at each island, with a lifeline tariff set at a level that provides clear 
+benefits to the bottom quintile of MEC’s household consumers without adversely affecting MEC 
+income. 
+• Assessment of the real costs of rural PV electrification (households, schools, etc) and appropriate 
+management and financial systems for sustainability including training needs. 
+• Assessment of the attitudes of rural households regarding the quality of the solar PV program, with 
+recommended improvements where necessary to improve supply. 
+• Study of appropriate mechanisms, including pre-pay meters, for reconnecting defaulting customers 
+with a strong likelihood of regular payment of charges 
+• Independent study of the viability of alternatives to diesel fuel for power generation where 
+economically sound (e.g. coconut oil, heavy fuel oil, grid-connected solar). 
+• Assessment of costs and benefits to the government and MEC of free electricity as part of 
+government efforts to rationalize payments to landowners and others. 
+• Collaboration of MRD with the OEPPC to develop RMI’s greenhouse gas emissions report, 
+including coverage of the comparative advantages and costs of savings through efficiency and 
+conservation, reporting obligations and exploration of funding opportunities to support the 
+energy policy 7. Transport and Energy Use 
+Policy Statement 
+The Government of the Marshall Islands recognizes that land, sea and air transport is the 
+largest user of imported energy in the country and measures to improve the energy 
+efficiency of transport are at the core of an energy policy that focuses on reducing foreign 
+energy dependence. It will: 
+take the lead in the procurement of more efficient vehicles, ships and boats, and establish 
+rules for improved maintenance and operations with the goal of improving transport 
+efficiency and lowering imported transport fuels by 20% by 2020 
+adjust tax structures to encourage the import and sale of energy efficient forms of 
+transport; and 
+mandate the use of locally produced biofuel in diesel powered government vehicles by 
+2015. 
+Available data suggest that transport – land, sea and domestic aviation – probably accounts for more 
+petroleum fuel use in the Marshall Islands than all other uses combined. Although there are opportunities 
+to reduce transport energy use, these generally require some years to have a substantial impact. In the 
+short term, improved maintenance can have measurable impacts. 
+Majuro traffic is frequently congested, increasing fuel consumption Issues, Objectives and Strategies for Improved Energy Use in Transport 
+Issues: 
+• Import duties and taxes do not discriminate between energy-efficient and inefficient vehicles 
+• Past policies restricting government vehicle purchases to efficient vehicles not strictly enforced 
+• No standards for allowable vehicle emissions, although high emissions are linked to poor efficiency 
+• Government budgets are inadequate for proper vehicle maintenance 
+• Limited capacity for proper vehicle maintenance 
+• Interisland transport energy efficiency is probably low 
+• Need for improved capacity for financial management and strategic uses of funds 
+Objectives: 
+• A fleet of well-maintained vehicles, government and private, that is increasingly energy-efficient 
+over time 
+• A more energy efficient transport network for urban and rural Marshallese 
+Strategies: 
+• Amend import duties and taxes, with higher rates for energy inefficient vehicles 
+(or to simplify administration, for vehicles of varying engine displacements and fuels used) 
+• Mandate all government vehicles purchased to be energy-efficient and develop mechanisms to 
+assure this. 
+• Introduce spot-checks on vehicle emissions with penalties for emissions above a specified level 
+• Establish and enforce clear guidelines for the efficient use and maintenance of the Government 
+vehicle fleet and ships, including strict servicing and maintenance procedures, with an adequate 
+budget allocation 
+• Enforce the RMIEPA regulations regarding ozone depleting substances in vehicle air conditioning
+• Investigate the practicality of retrofits to reduce fuel use in sea transport, e.g. more efficient 
+propellers, sail-assist technologies, etc. 
+• Short term practical training for proper maintenance of vehicles 8. Energy Efficiency 
+Policy Statement 
+The Government of the Marshall Islands recognizes that improving the efficiency of energy 
+use has greater short term value for reducing dependence on foreign sources of energy 
+than any other action. The MRD will develop an energy management plan for government, 
+including processes for its implementation and monitoring. Government will: 
+revise taxes to encourage the import and sale of appliances, vehicles and boats having the 
+highest energy efficiency; 
+develop energy efficiency standards for new buildings and renovations including homes, 
+businesses and government premises, with financing on subsidized terms for designs and 
+construction meeting the standards; 
+carry out energy audits on government facilities, with the responsible departments each 
+developing and submitting an investment plan for the capitalization of energy efficiency 
+improvements for the facilities; and 
+require government departments to each name an energy manager who will develop and 
+implement an energy management plan. Monitoring will be by MRD and annual reports 
+detailing energy usage will be submitted. 
+Government policy is to offer incentives and opportunities to private citizens and businesses for 
+increasing the efficiency of energy use through improved information, tax reform, access to finance, and 
+regulation where appropriate but primarily through reliance on market mechanisms. 
+Standards for new or renovated buildings offer 
+considerable opportunity for lowering energy use. 
+The local climate is conducive to comfort without the 
+need for high levels of air conditioning. Shading and 
+orientation of buildings to take account of prevailing 
+breezes and the sun’s position can reduce heating of 
+the building while the addition of reflective roof paint 
+and attic heat radiation barriers can greatly reduce the 
+need for air conditioning. Government itself will 
+strive to set an example through better energy 
+efficiency in its own facilities. 
+With no insulation, many urban 
+ and rural homes are uncomfortably hot Issues, Objectives and Strategies for Improved Energy Efficiency 
+Issues: 
+• Lack of adequate technical capacity within government to identify, appraise, develop and implement 
+energy efficiency initiatives 
+• limited capacity within the private sector to provide energy management services to 
+ government, businesses or households 
+• Import duties and taxes do not encourage energy efficient appliances or equipment 
+• Relatively poor knowledge by the public about affordable ways to reduce energy costs 
+• Perception of high investment risks by financiers along with lack of affordable and accessible 
+finance for energy efficiency improvements 
+• No standards for energy efficiency in building design or building renovation 
+• No mandatory labelling or energy efficiency standards for key electrical appliances 
+• No incentives within government for individual departments or officers to reduce the 
+government’s own energy use 
+Objectives: 
+• Measurable and substantial improvement of energy efficiency by 2020, in at least 50% of 
+households and businesses and 75% of government buildings. 
+• An improved stock of more energy-efficient appliances and equipment within government, 
+businesses, and private homes 
+Strategies: 
+• Training of government, MEC and private sector in energy auditing and energy management 
+techniques, possibly using CMI facilities as a model 
+• Revision of Import duties and taxes to encourage the purchase of energy efficient appliances and 
+equipment (e.g. refrigeration, air conditioning, major appliances, lighting) 
+• Continuation of the public awareness campaign of late 2008/early 2009 (e.g. providing Energy 
+Saving Tips with MEC bills, and TV/radio campaigns) strengthened through linkages to global 
+warming awareness with respect to energy efficiency and socio-economic welfare 
+• All new or renovated government buildings will incorporate energy-efficient designs and the RMI 
+govt will work with Compact and other funding sources to develop mechanisms for effective 
+implementation 
+• Development of low interest loans, rebates and other innovative financing mechanisms through the 
+banking system for energy efficiency investments by households and businesses • Establish and enforce codes for new construction with mandatory minimum energy standards 
+(possibly based on simplified version of a new tropical building code being developed for Guam and 
+other US territories) 
+• Develop a practical appliance labelling scheme and mandatory minimum energy performance 
+standards (MEPS) for refrigerators, air conditioners and other electrical appliances to remove the 
+poorest performing appliances from the market 
+• Establishment of practical mechanism for reduction of energy use within the government, with 
+incentives (carrots and sticks) for individual departments 
+• Develop and implement a practical program to replace inefficient lighting (household, business, 
+government and street lighting) with efficient lighting on Majuro and Ebeye and throughout the 
+Marshall Islands. 9. Renewable Energy 
+Policy statement 
+The Government of the Marshall Islands recognizes that socio-economic development will 
+require an increased level of energy production and that only through the development of 
+local renewable energy resources can there be a reduction in long-term dependence on 
+imported petroleum. The government will: 
+aggressively support the development of all environmentally appropriate, practical and 
+economic Indigenous energy resources so that local renewable energy will provide 20% 
+of electrical energy generated in the Marshall Islands by the end of 2020; 
+mandate that Imported energy for land transport will be replaced where practical by 
+locally produced biofuel and for sea transport both wind energy and biofuel will be 
+increasingly used; 
+take the lead in the use of indigenous energy to replace imported petroleum with a goal of 
+a 40% total reduction in energy from petroleum fuels within government by the end of 
+2020 
+ensure that all outer island energy development will be through the use of indigenous 
+energy sources where technically practical; and 
+require that all renewable energy technologies accepted by government for use in the 
+Marshall Islands shall be commercially proven and shall have more than five years of 
+successful service in remote, tropical islands through installations of a similar type and 
+size as those needed in the Marshall Islands. 
+Renewable energy technologies tend to have a higher
+profile than energy efficiency actions. They are more 
+visible as new installations and are generally perceived 
+as more cutting-edge by governments and donors alike, 
+despite often higher initial capital costs than energy 
+efficiency measures. The RMI policy on any energy 
+technology, system, product or venture that is unproven 
+commercially and that has not already been 
+successfully operating in a coral atoll environment will 
+be to exercise great caution. The RMI will not assume 
+any financial, technological, legal or any other form of risk. For such technologies, systems, products or 
+ventures, the RMI will demand that all costs and risks must be born fully by the promoter or developer, 
+and will ensure that alternative sources of energy will remain available in the event of failure. 
+Outer atoll solar energy system for fisheries Objectives and Strategies for Expanded Use of Renewable Energy 
+Issues: 
+• Lack of information on indigenous renewable energy resources, particularly wind and wave energy 
+• Inadequate training for those developing RE project proposals, trainers of those who manage outer 
+island systems and trainers of household users in the proper operation and maintenance of solar 
+installations 
+• Different and incompatible management systems for various government programs implementing 
+rural renewable energy installations 
+• High initial costs and, for some RE resources and locations, imprecise knowledge of likely energy 
+production (e.g. kWh output per year) 
+• Although grid-connected renewable energy may be important in the future, there is very limited 
+experience with it in the Marshall Islands, with two small grid-connected systems operating in mid 
+2009. 
+• Outer island household electrification schemes have a “one size fits all” mentality but actual needs 
+can vary widely 
+• Poor access to land suitable for indigenous energy development 
+• Promoters visiting the RMI sometimes advocating and trying to sell unproven or untried RE 
+systems or those of doubtful quality. At best this causes confusion and wastes time; at worst it result 
+in investment of funds for energy projects that cannot provide promised results 
+Objectives: 
+• Improved capacity within the RMI to plan, develop, implement and manage renewable energy 
+systems (small and medium-scale rural; large scale urban) 
+• provision of 20% of electrical energy through indigenous renewable resources by 2020 
+• Outer island energy development to be through indigenous energy sources where technically 
+practical and economically attractive 
+Strategies: * 
+• Arrange wind measurements over 12- 18 months and obtain an independent analysis of the 
+wind energy potential for Majuro 
+• Arrange independent assessment of the technical, environmental and economical feasibility 
+of waste to energy conversion for Majuro 
+• Develop and implement training of trainers programs covering PV system design, installation and 
+management; develop training programs for village level O&M 
+• Develop and implement consistent mechanisms for the design and O&M of PV systems of different 
+ministries to provide for consistent management, operational and financial mechanisms • Develop and implement a program for solar water heating, particularly in Majuro, Ebeye and the 
+hotel industry to replace electricity based water heating 
+• Continue the program of outer island household solar energy installations and develop a mechanism 
+for covering full user costs (through user fees and possibly a sustainable RE fund) 
+• Arrange with donor support a pilot program to introduce renewable energy into the MEC or KAJUR 
+grids to gain experience in integrating RE into the grid 
+• Assess options for RE development that do not require access to private land (i.e.. at government 
+facilities, possibly reef-based installations) 
+• Ensure Cabinet is kept up-to-date regarding the capabilities of and progress in renewable energy 
+technologies, particularly ocean energy from waves, tides and ocean thermal gradients (OTEC). 
+* Some strategies, (e.g. MEC management of solar PV, user fees, biofuels development and regulatory reform) 
+have been have been covered in earlier chapters of this policy. There is also some overlap among the chapters. Annex 1: The Public Consultation Process 
+The SWOT Energy Workshop. A SWOT 
+workshop (‘Strengths, Weaknesses, 
+Opportunities and Threats’) to consider a 
+more sustainable approach to energy 
+development and use in the RMI was held 
+at the Marshall Islands Resort on December 
+3
+rd, 2008. Invitations were widely 
+circulated. In addition to facilitators, it was 
+attended by 22 participants from 
+government, civil society and the private 
+sector and covered by the Marshall Islands 
+Journal. Discussions were open, constructive and spirited, with nearly all participants remaining long 
+after the workshop was scheduled to end. In the views of the facilitators, this was among the most 
+productive of many similar SWOT energy workshops held in the Pacific in recent years. A full report is 
+available from MRD. 
+Participants developed a list of issues and recommended actions that they felt could realistically be 
+implemented within 6-12 months: 
+• More aggressive energy awareness / education so people agree on the issues and can have more impact 
+on decisions and actions; 
+• Encouragement of “green” products (e.g. tax breaks for energy-efficient lights and appliances) and 
+discouragement of inefficient appliances (e.g. outlaw highly inefficient products and enforce the rules; 
+high taxes for SUVs); 
+• Reform government transport and vehicle policy (e.g. establish a government bus service);*
+• Power utilities should initiate programs of energy audits (e.g. for government sector lighting) and 
+produce publications on opportunities for improved efficiency; 
+• Establish and enforce building codes for energy-efficient design (including for government buildings);
+• Continue the current program for financing outer island solar energy installations; 
+• Develop, endorse (Cabinet) and implement a national energy policy and action plan; 
+• Develop, endorse and implement a national electric code; 
+• Establish and fund a genuine National Energy Fund for fuel and renewable energy, with a real 
+monetary injection, not just apparent funding; 
+• Specific proposals for energy projects should be developed, completed and submitted to financing 
+agencies; 
+• Develop a national policy for reducing carbon emissions, with support for specific targets; 
+• Strengthen public/private partnerships for renewable energy and energy efficiency; 
+• Develop a local biofuel industry;* 
+• Improve enforcement of laws/regulations against illegal power connections and tampering with power 
+lines and meters; Attorney General should prosecute offenders; and 
+• Strengthen the MRD’s Energy Planning Division. 
+ Note: * Indicates considerable discussion and some disagreement 
+One of the discussion Groups, SWOT Workshop, Dec 2008The Energy Public Policy Forum. A public forum to discuss national energy issues and means to 
+address them was held on January 30th, 2009 at the International Conference Center, and attended by 
+about 50 participants. The entire Forum was broadcast on national radio, resulting in considerable 
+attention, including those in the outer islands. The resulting declaration and recommendations are 
+attached as a separate annex. The forum deliberations and declaration constituted a vital and important 
+input into this policy. 
+The Energy Fair. An Energy Fair attended by 
+hundreds of people was organized by MRD and 
+opened by the President of the RMI on February 
+28th, 2009, with speeches on energy issues, and 
+demonstrations of various renewable energy and 
+energy efficiency technologies and energy 
+efficient appliances. The Energy Fair program 
+was broadcast nationally. Although this was not 
+formally part of consultations for the energy 
+policy, there were numerous discussions that have 
+contributed to the process of the policy 
+development. 
+Interviews with importers. Key importers of appliances (air conditioners, refrigeration, lighting, etc.) 
+and vehicles were interviewed for their views and advice on how to encourage the use of more energyefficient equipment and automobiles. 
+ 
+Volunteers at the Energy Fair, February 2009 Annex 2: The Majuro Energy Declaration 2009 
+Joint Declaration on Energy Policy Priorities 
+RMI Energy Public Policy Forum 
+Majuro, Republic of the Marshall Islands 
+International Conference Center, January 30, 2009 
+Mindful that in July of 2008 the Republic of the Marshall Islands issued a Proclamation declaring a State 
+of (Economic) Emergency due to soaring commodity prices; 
+Reaffirming our common belief that concrete adjustments have to be introduced at multiple levels, 
+particularly at the policy level, to effectively deal with high energy prices and to promote clean, reliable, 
+accessible and sustainable energy; 
+Agreeing that addressing energy issues requires collaborative leadership, common goals, and a shared 
+national vision; 
+Having participated in the 2009 Energy Public Policy Forum, and having presented and discussed our 
+respective views and opinions on the current situation and the necessary responses that must be taken by 
+the nation over the coming years; 
+Now, therefore, we, the undersigned, hereby declare and proclaim the following policy priorities and 
+actions to be duly implemented by the People and Government of the Republic of the Marshall Islands to
+ensure stronger energy security and sustainability moving forward: 
+We make these declarations and commit to their full and proper implementation. 
+We commit to ensuring that proper resources are made available to implement these recommendations in 
+an effective and timely manner. 
+We further commit to revisiting these recommendations in exactly one year's time, in January of 2010, to 
+review and evaluate progress made in implementing these recommendations. 
+Given under our hands this 30th day of January, 2009 
+Iroij Kotak Loeak 
+Chairman, Council of Iroij 
+Republic of the Marshall Islands 
+Casten Nemra 
+Chief Secretary 
+Republic of the Marshall Islands 
+Daisy Alik-Momotaro 
+Director WUTMI and 
+Member Marshall Islands Council of NGOs 
+Hirobo Obeketang 
+President 
+Marshall Islands Chamber of Commerce 
+Kiyoshi Nakamitsu 
+RMI Country Officer 
+Pacific Operations Department 
+Pacific Department, Asian Development Bank Recommendations As Endorsed by RMI Energy Public Policy Forum
+Recommendations from the Council of Iroij 
+• the MEC begin using pre-paid meters to improve its cash-flow and assist disconnected households get back on 
+line; 
+• the National Government strengthen its Renewable Energy (RE) and Energy Efficiency (EE) programs as much 
+as possible; 
+• the National Government give serious consideration to the establishment of loans or financing programs for 
+families who want to switch to more efficient air-conditioning, refrigeration, lighting and cooking systems; 
+• the National Government continue to invest in and expand the Outer Island Solar Program; and 
+• we explore and utilize alternative energy sources, including appropriate renewable energy technologies and 
+energy efficient measures, to mitigate against economic hardship while promoting sustainable environmental 
+practices. 
+Recommendations from the Chamber of Commerce 
+• we promote vehicle fuel saving tips to reduce commercial and private expense and thus provide funds for other 
+energy saving measures (e.g. address road policies, improve engine performance, and enforce government
+vehicle use hours); 
+• electricity saving measures be pursued to reduce dependence on fossil fuels (e.g. adjust import duties to promote 
+energy efficient products, retrofit streetlights to more efficient systems, reduce excess lighting, improve building 
+efficiencies, encourage pay-before-you-use systems, and encourage green technology); 
+• we explore how biomass including vegetable waste, can be converted to fuel; 
+• we cease needless duplication, achieve greater effectiveness, and encourage more start-up businesses (eliminate 
+duplication in equipment and services in government that are offered by private sector, outsource certain 
+government functions, and retrofit all public buildings with more efficient systems); and 
+• we pursue coordinated solutions to solve a variety of problems (reconsider taxes altogether). 
+Recommendations from Women United Together Marshall Islands and Marshall Islands Council of )GOs 
+• the government capital development and housing loan programs incorporate both energy-saving and energyproduction construction/renovation guidelines; 
+• all households, particularly those located in the urban centers, are equipped with energy-production units for 
+lighting, heating, and cooking; 
+• teaching and learning indicators related to saving and production of energy are developed and incorporated in the 
+existing or to-be-developed school curricula and training syllabi; 
+• all socio-economic and environmentally related programs incorporate energy-saving and/or energy-production 
+objectives and measures; 
+• the National government promote collection and use of disaggregated data to identify and quantify energy needs 
+and uses of women/men and design and implement programs for current and transformational uses; 
+• That the National Government promotes investments and promotes awareness about alternative energy 
+technologies that can transform women’s lives; 
+• we support affirmative action to increase women’s decision-making authority in energy sector institutions such 
+as MEC; 
+• training of women in technical fields and involvement in design, promotion, and use of energy technologies and 
+resources be strengthened; 
+• we incorporate “green” energy options wherever possible and that we identify early in the process who will 
+develop, implement, and enforce guidelines for green options; 
+• we ensure that hardware used (solar panels, wind generators, etc.) do not quickly become landfill – that is, they 
+are of a quality that will last for many years; 
+• we explore using waste and ocean as sources of energy; and 
+• we explore how we can increase copra production to use the oil as a renewable energy source. Recommendations from the Asian Development Bank 
+• RMI adopt policies and plans that maximize energy efficiency as its immediate priority –encouraging energy 
+efficient products, being more careful about consumption patterns and promoting efficient lighting, air 
+conditioning and refrigeration systems and also consider encouraging switching from electric cooking to gas 
+stoves and incentivizing the importation of more fuel-efficient vehicles; 
+• RMI adopt renewable energy technologies as a high priority, as the RMI has already done with its impressive 
+solar program; 
+• RMI promotes energy conservation in each community, government office, and all households; 
+• RMI prioritizes the completion of its new National Energy Policy and medium-term Energy Action Plan; and 
+• the National government improves its budget management, financial efficiency, and reduce its high wage bill so 
+as to reduce budgetary pressures and improve its preparedness for future energy emergencies. 
+Recommendations from the RMI )ational Government 
+• even as energy prices have fallen sharply in recent months, that RMI from a policy basis assume that global 
+fossil fuel based energy prices will eventually rise again; 
+• RMI expedite the finalization of its new RMI National Energy Policy and Medium Term Energy Action Plan and 
+that these emphasize Energy Efficiency and Renewable Energy; 
+• energy efficiency campaigns targeting the general public be aggressively pursued and sustained; 
+• we strive to reduce the cost of imported fossil fuels by exploring the regional bulk procurement initiative and 
+related options; 
+• our utilities, MEC and KAJUR, improve operational efficiency – in particular, reduce technical losses, reduce 
+non-technical losses, and aggressively explore alternative generation options; 
+• MEC and KAJUR reform their tariff templates to reflect the full costs of their services; 
+• MEC phase in pre-pay meters; 
+• National government lower or reduce import taxes on energy efficient products and restrict imports on inefficient 
+appliances and vehicles; and 
+• we establish loans to help households finance energy efficient home improvements. 
+Additional Recommendations from Forum Participants 
+• Emphasize the private sector’s role in the growth of new energy jobs and industries; 
+• Consider providing a matching fund to assist people with purchase of energy efficient products; 
+• As a matter of urgency, investigate the current gasoline pricing issue and determine why retail gasoline prices 
+are so high, the investigation to include all gasoline suppliers; 
+• Widen the energy policy analysis to include more analysis of environmental issues (e.g. waste). 
+• Emphasize simple, low-tech options for the RMI; 
+• Consider traditional practices and how they can improve current energy policies; 
+• Reconsider suggestion to switch from electric to propane cooking; 
+• MEC and other companies consider providing energy audits to individual households as an additional service; 
+• Emphasize performance-based budgeting in the government and include energy criteria as a performance 
+measure for each government ministry and agency; 
+• Emphasize coconut and other bio-fuel production in the RMI as a means to raise our energy independence; 
+• Emphasize the diversification of energy sources; 
+• Consider the reduction of work hours in the national government as a means to save funds; 
+• Emphasize capacity development in the energy sector and facilitate more active partnerships among 
+academia, donors, and the National Training Council; and 
+• Provide renewable energy assistance (e.g. solar panels) to urban families in addition to outer islands. 

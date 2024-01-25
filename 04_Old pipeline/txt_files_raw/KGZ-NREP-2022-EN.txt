@@ -1,0 +1,2428 @@
+File Name: KGZ-NREP-2022-EN
+Year: 2022
+Country Name: Kyrgyzstan
+Country Code: KGZ
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2022
+Start Year: 2022
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+©IRENA 2022
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or 
+stored, provided that appropriate acknowledgement is given of IRENA as the source and copyright holder. Material 
+in this publication that is attributed to third parties may be subject to separate terms of use and restrictions, and 
+appropriate permissions from these third parties may need to be secured before any use of such material.
+ISBN: 978-92-9260-465-3
+Citation: IRENA (2022), Renewables readiness assessment: The Kyrgyz Republic, International Renewable Energy 
+Agency, Abu Dhabi.
+About IRENA
+The International Renewable Energy Agency (IRENA) serves as the principal platform for international co-operation, 
+a centre of excellence, a repository of policy, technology, resource and financial knowledge, and a driver of action 
+on the ground to advance the transformation of the global energy system. An intergovernmental organisation 
+established in 2011, IRENA promotes the widespread adoption and sustainable use of all forms of renewable 
+energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable 
+development, energy access, energy security and low-carbon economic growth and prosperity. www.irena.org 
+Acknowledgements
+IRENA wishes to thank the Ministry of Energy and Industry of the Kyrgyz Republic and UNDP country office for close 
+cooperation in developing the report. 
+The report also benefitted from the inputs of various experts including Ute Collier, Diala Hawila, Michael Taylor, Zafar 
+Samadov, Imen Gherboudj, Aleksandra Prodan, and Francis Field, Stephanie Clarke also provided valuable input.
+This report was prepared by under the guidance of Gürbüz Gönül, Binu Parthan and Prasoon Agarwal (IRENA) and 
+authored by Arslan Khalid (consultant) and Tatiana Vedeneva (consultant).
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA 
+to verify the reliability of the material in this publication. However, neither IRENA nor any of its officials, agents, data 
+or other third-party content providers provides a warranty of any kind, either expressed or implied, and they accept 
+no responsibility or liability for any consequence of use of the publication or material herein. 
+The information contained herein does not necessarily represent the views of all Members of IRENA. The mention 
+of specific companies or certain projects or products does not imply that they are endorsed or recommended by 
+IRENA in preference to others of a similar nature that are not mentioned. The designations employed, and the 
+presentation of material herein, do not imply the expression of any opinion on the part of IRENA concerning the 
+legal status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of 
+frontiers or boundaries.FOREWORDS
+The Kyrgyz Republic, like many countries in Central Asia and around the world, is striving to overcome the enduring challenges posed by 
+the COVID-19 pandemic. As efforts to secure a comprehensive socio-economic recovery continue, there is a need to focus on far-reaching 
+measures that can help build a more resilient and diversified economy, improve the energy sector’s viability, attract investments in clean 
+energy projects and propel the country towards its climate goals. 
+The Kyrgyz Republic relies on large hydropower installations for its electricity needs. However, the demand in end use sectors (e.g. heating 
+and transportation) is predominantly addressed through oil, coal and natural gas. Overall, the energy sector is central to the socio-economic 
+development of the Republic. 
+As the country continues to develop, the social, environmental, resource and climate concerns linked to energy consumption are set to 
+intensify. Rising fossil fuel imports are adding to the financial burdens of an energy sector undermined by ageing infrastructure and low 
+revenues. The transition to renewable energy is therefore a key imperative for decision-makers of the country. 
+This Renewables Readiness Assessment (RRA) presents a strong case for a greater share of renewables in the broader energy sector 
+(especially in transport and heating), coupled with diversification toward dynamic technologies such as solar PV, wind and small hydro in 
+the power sector. It identifies twelve concrete actions to help the Government in addressing energy challenges, developing a more diverse 
+energy sector and improving the livelihoods of its citizens. 
+Decision-makers in the Kyrgyz Republic are aware of the promising potential of renewables. The announcement of a more ambitious NDC, 
+and ongoing reforms in renewable energy-related laws and regulations, signify their clear intent to achieve a sustainable energy future. 
+I sincerely appreciate the leadership and support provided by the Ministry of Energy and Industry of the Kyrgyz Republic in the preparation 
+of this RRA, and the insights of the other partners that broadened the perspective of the assessment. IRENA looks forward to working with 
+all of these stakeholders to transform these recommendations into practical, on-the-ground initiatives. 
+Francesco La Camera 
+Director-General 
+International Renewable Energy Agency
+This renewables readiness assessment (RRA) represents an important step toward establishing a secure, modern, diversified and clean 
+energy system in the Kyrgyz Republic. This report, prepared by IRENA in collaboration with the Ministry of Energy of the Kyrgyz Republic, 
+reflects the unwavering resolve of the Cabinet of Ministers to identify a trajectory for sustainable national growth in line with international 
+climate commitments, and the natural and environmental resources of the country.
+Having set a goal to reduce greenhouse gas emissions by 44% by 2030 and to achieve carbon neutrality by 2050, Kyrgyzstan recognises 
+that renewables – primarily hydropower – will be the driver of zero-carbon policies, given their enormous potential in the country.
+The Kyrgyz Republic has significant potential across all renewable energy technologies, with hydropower being the most promising. The 
+Cabinet of Ministers of the Kyrgyz Republic is pursuing several initiatives to convert this potential into tangible and significant renewables 
+use. In this context, the President of the Kyrgyz Republic, Sadyr Zhaparov, signed the Law on Renewable Energy Sources, which was then 
+adopted by the Jogorku Kenesh [Supreme Council] of the Kyrgyz Republic.
+The Law covers regulation of relations linked to the use of renewables; the key principles of national renewable energy policies; and 
+economic, organisational and legal mechanisms in the field of renewables. It aims to improve the attractiveness of the renewables sector for 
+investments, and the Ministry of Energy will continue to play a central role in championing cost-effective and reliable renewable technologies 
+in the country.
+The expediency of accelerated development of renewable energy sources in the Kyrgyz Republic stems from current electricity shortages 
+and the need to include renewable energy in the economic development and fuel mix of the Republic. In this regard, a critical challenge 
+today is the need to commission new capacities; namely both large and small facilities for the production of energy based on renewables. 
+New renewables technologies are able to provide competitive energy supply, while reducing negative impacts on the environment and 
+human health, bringing opportunities for universal access to inexpensive, reliable, sustainable and modern energy sources for various 
+categories of consumers - one of the obligations of the Kyrgyz Republic under the United Nations Sustainable Development Goals (SDGs).
+The Ministry of Energy of the Kyrgyz Republic acknowledges the valuable inputs provided by all stakeholders and the insights gained during 
+the preparation of this renewables readiness assessment.
+The RRA aims to achieve ambitious goals in green energy development, and I am confident that it represents a positive contribution to 
+policy planning for the Kyrgyz Republic’s energy sector.
+The Ministry of Energy of the Kyrgyz Republic hopes that this cooperation with IRENA will mark the beginning of a significant evolution in 
+the promotion of renewable energy development, supporting long-term planning and approaches as well as further beneficial co-operation.
+H.E. Mr. Sultanbekov Sabyrbek
+Vice-Minister of Energy of the Kyrgyz RepublicCONTENTS
+FIGURES 05
+TABLES 05
+BOXES 05
+ACRONYMS 06
+EXECUTIVE SUMMARY 07
+A strong rationale for diversification 07
+Recommendations for the deployment of renewable energy 08
+01 INTRODUCTION 10
+1.1 Socio-economic conditions 11
+1.2 Renewables Readiness Assessment 12
+02 ENERGY SECTOR CONTEXT 14
+2.1 Energy consumption and production 14
+2.2 Electricity sector 16
+2.3 Heating sector 19
+2.4 Transport sector 21
+2.5 Energy sector policy framework 22
+03 RENEWABLE ENERGY 25
+3.1 Renewable energy resources 25
+3.2 Current status of renewable energy deployment 26
+3.3 Renewable energy policies and regulation 27
+3.4 A strong rationale for renewables 30
+3.5 Issues faced in the deployment of renewables 34
+04 RECOMMENDATIONS 35
+4.1 Legal and regulatory reform 35
+4.2 Policy support mechanisms 36
+4.3 Long-term energy planning 39
+4.4 Facilitate financing and de-risk investments 41
+4.5 Capacity development in the public and private sector 42
+REFERENCES 44
+Annex 1. Solar PV and wind potential in the Kyrgyz Republic 48
+Approach 48
+Provisional results 50FIGURES, TABLES AND BOXESFIGURES
+Figure 1.1 Administrative regions of the Kyrgyz Republic 10
+Figure 1.2 Comparison of GDP components (left) and structure of the Kyrgyz labour 
+market (right), 2019 (%)
+12
+Figure 2.1 Total final energy consumption by sector, various years 14
+Figure 2.2 Total final energy consumption by source, various years 15
+Figure 2.3 Total primary energy supply by fuel, various years 15
+Figure 2.4 Electricity consumption by sector, various years 16
+Figure 2.5 Electricity generation by source, various years 17
+Figure 3.1 Zoning assessment for solar PV 25
+Figure 3.2 Zoning assessment for wind power 26
+Figure 3.3 Net energy imports 30
+Figure 3.4 Electricity production, consumption, imports and exports, 2010-2020 31
+Figure 3.5 Rainfall in the Kyrgyz Republic 33
+Figure A1 Global horizontal irradiation 49
+Figure A2 Wind speed at 100 m height 49
+TABLES
+Table 2.1 Stakeholders responsible for district heating in urban areas 21
+Table 2.2 Emission reduction targets under the Intended Nationally Determined 
+Contribution
+24
+Table 4.1 Examples of technology-specific targets 41
+Table A1 Data requirements 48
+Table A2 Utility-scale solar photovoltaic zones 50
+Table A3 Wind zones 51
+BOXES
+Box 2.1 Solar-assisted district heating: The Gagarin, Orto-Say and Rotor boiler 
+houses
+20ACRONYMSUSDc US cent
+EEU Eurasian Economic Union
+EHC Energy Holding Company
+FIP feed-in premium
+FIT feed-in tariff
+GDP gross domestic product
+GHG greenhouse gas
+GKPEN State Committee on Industry, Energy and Subsoil Use
+GoK Government of the Kyrgyz Republic
+GWh gigawatt hour
+HOB heat-only boiler
+HPP hydropower plant
+IEA International Energy Agency
+IMF International Monetary Fund
+INDC Intended Nationally Determined Contribution
+IPP independent power producer
+IRENA International Renewable Energy Agency
+JSC joint-stock company
+KGS Kyrgyz Republic som
+km kilometre
+kWh kilowatt hour
+LCOE levelised cost of electricity
+LUCF land-use change and forestry
+MOEI Ministry of Energy and Industry
+MtCO2e metric tonnes of carbon dioxide equivalent
+mtoe million tonnes of oil equivalent
+MWh megawatt hour
+NDC Nationally Determined Contribution
+NSC National Statistical Committee
+O&M operation and maintenance 
+OECD Organisation for Economic Co-operation and Development
+PPA power purchase agreement
+PPP public-private partnership
+RRA Renewables Readiness Assessment
+SAEPF State Agency for Environmental Protection and Forestry
+SARFEC State Agency for Regulation of the Fuel and Energy Complex
+PV photovoltaic
+toe tonnes of oil equivalent
+TWh terawatt hour
+UNDP United Nations Development Programme
+UNECE United Nations Economic Commission for Europe
+USD US dollar
+WRI World Resources Institute EXECUTIVE SUMMARY
+The energy sector of the Kyrgyz Republic is central to the country’s development and growth. As the population 
+continues to increase, living standards improve and the economy grows, energy demand has been rising. Domestic 
+consumption far exceeds local production, which leads to costly fuel imports, and makes the transition to clean energy 
+a key imperative for decision making in the sector. Balancing the objectives of sustainable growth while addressing the 
+challenges posed by climate change and energy sector dynamics is difficult. Cognisant of this, Kyrgyz decision makers 
+are taking legislative strides towards a more sustainable energy sector, which can help address the rising demand 
+through clean energy sources.
+A relative economic boom from 2010 onwards boosted energy demand, with final energy consumption rising by about 
+54% in the 2010-2019 period. The main energy consumers include the residential, industry and transport sectors. Driven 
+by improving living standards and rising demand for heating, energy consumption in the residential sector quadrupled 
+between 2010 and 2019.
+Demand for energy is addressed by oil products, electricity, coal, natural gas and heat. Oil products account for around 
+37% of the primary energy supply, followed by electricity (primarily hydropower) at 30% and coal at 26%. Since 2000, 
+the energy mix has gradually shifted towards oil and coal as the production of hydropower has stagnated. Indeed, a 
+very limited amount of hydroelectric capacity has been put into operation in recent decades. In addition to being used 
+for heating, oil products are primarily used to address rising demand for transport fuel. Domestic coal is being utilised 
+for exports and local consumption in heating and other sectors. The Kyrgyz Republic is among the most energyintensive countries in the world, which gives rise to recurring energy shortages and reduces economic productivity and 
+competitiveness (World Bank, 2017a). 
+The power sector now has the challenging task of meeting the new level of electricity demand, which has increased 
+by about 75% since 2010. The bulk of power generation (92%) is supplied by hydropower plants followed by small 
+contributions from coal- and gas-fired power plants. The power sector also contributes to the socio-economic growth of 
+the region through electricity trade. The dominant role of hydropower leads to strong interlinkages between irrigation 
+and power, creating challenges for decision makers in the power and agricultural sectors. Ageing infrastructure, power 
+sector entities’ lack of financial viability, energy losses and limited new generation systems are other key challenges, 
+which tend to reduce the quality and reliability of electricity. 
+A strong rationale for diversification 
+A more diverse Kyrgyz energy sector that relies on various renewable energy technologies, increased energy efficiency 
+and accelerated electrification can help address rising energy demand while creating economic opportunities.
+While large hydropower is set to retain its role as the backbone of the sector, the introduction of renewables such as 
+solar photovoltaic (PV), wind, bioenergy and small hydropower can help meet demand and diversify the energy mix. 
+The rationale for diversification towards renewables includes various social, economic and environmental factors.
+Rising energy demand and energy imports: As energy consumption continues to rise, reliance on imported fossil fuels 
+will increase. Excessive fossil fuel imports pose a significant burden on government budgets and could create energy 
+security issues. Dependence on imported fossil fuels could also make the Kyrgyz Republic more vulnerable to volatility 
+in international and regional fuel markets. Renewable energy technologies can help cater to domestic energy demand, 
+thus helping to cut down the import bill.
+Deteriorating infrastructure: The deterioration of energy sector infrastructure coupled with the financial crisis in the 
+energy system will eventually lead either to a significant decrease in the quality of produced energy or to an increase 
+in energy prices. Both of these impacts could increase demand for independent energy production and pave the way 
+for the deployment of reliable renewable energy technologies.
+Local air pollution: The Kyrgyz Republic is among those Central Asian nations most affected by diseases linked to 
+indoor air pollution. In the winter months, the city of Bishkek regularly features among the top polluted cities in the 
+world due to its air quality. Renewables could help replace fossil fuels (especially coal) in heating and power generation, 
+thus reducing air pollution. Vehicular emissions can be reduced through greater adoption of public transport and the 
+uptake of electric vehicles.
+Mitigating climate change: The Kyrgyz Republic is vulnerable to the impacts of climate change, and national decision 
+makers understand the importance of addressing this impending challenge. They are initiating mitigation and 
+adaptation plans and programmes to ward off the impacts and to contribute to the international climate effortDeclining renewable energy costs: Renewable energy technology prices, which are becoming increasingly competitive 
+with fossil fuel alternatives, further strengthen the case for the uptake of non-hydro renewables. The levelised costs of 
+solar PV and wind, for example, declined by 85% and 56%, respectively, between 2010 and 2020.
+Short construction periods of renewables: The Kyrgyz Republic’s rising energy demand needs to be met with rapid 
+investments in sustainable and clean technologies. Renewables such as solar PV, wind and small hydropower tend to 
+be modular and can be constructed in a very short time. In contrast, large hydropower projects tend to require longer 
+construction times and can be susceptible to delays.
+Seasonal variation in hydroelectricity generation: Hydropower in the Kyrgyz Republic is influenced by several factors 
+such as seasonal variability of river flows, electricity demand and water demand for irrigation. An energy system that 
+includes a diverse mix of complementary renewable energy technologies can be more resilient to seasonal variations.
+Environmental impacts of hydropower: Large hydropower projects, just like many other large infrastructure projects, 
+can have negative environmental and social impacts such as displacement, habitat destruction, loss of forest and 
+disturbance to wildlife. A shift towards small hydropower projects can help avoid some of the impacts linked with large 
+projects. Also, run-of-river hydropower installations can sidestep several of the impacts associated with reservoirs.
+Abundant renewable energy resources: The country has significant renewable energy potential for solar, wind, 
+bioenergy and hydropower. These resources can be utilised to create a diversified energy system that is sustainable 
+from financial, social, climatic and environmental perspectives.
+While the rationale for greater inclusion of renewables in the energy sector is clear, wide-scale deployment has been 
+held back by several issues:
+• Average power and heat tariffs are well below cost recovery, which holds back renewables at the retail level.
+• Renewable energy targets have not been effective as they are not enforced by law, or backed by concrete policies.
+• Renewable energy policies remain limited to the power sector, with little focus on heating and transport. Distributed 
+generation policies such as net metering and wheeling are also not in place.
+• Feed-in tariffs have not been successful in attracting investments, as the levels are low and the frameworks are 
+not clear.
+• Auctions/tenders have not been successful in the past.
+• Permitting procedures require further clarification.
+• Renewable energy capacity building is needed for public and private stakeholders.
+Recommendations for the deployment of renewable energy
+The Renewables Readiness Assessment presents a set of short- to medium-term recommended actions to address key 
+challenges and support the country in moving towards a diversified and climate-friendly energy system.
+Create a level playing field with energy tariff reforms
+Well-designed tariff reforms in the energy sector can help generate revenue while lowering the barrier to market 
+entry for distributed renewable energy technologies. To be sustainable, tariff reforms should be designed in a way to 
+minimise the economic impact on low-income and marginalised parts of society.
+Streamline the procedure for bringing renewable energy projects online
+Permitting requirements and procedures should be streamlined under an overarching renewable energy law, 
+implemented through concrete secondary regulations, which clearly articulate the process and identify responsible 
+government entities. The design of the procedures should focus on simplicity, flexibility and transparency.
+Improve the feed-in tariffs
+The feed-in tariffs scheme should be revised and improved based on factors such as changing market conditions, 
+competitive technology costs and clear resource assessments. The selection of an appropriate tariff is an extensive 
+process that should be led by the government with active and diverse representation from all stakeholders. Feed-in 
+tariffs need to be supported by a conducive policy and clear institutional responsibilities.
+Implement auctions for large capacities
+Auctions can be used to attract investment for relatively large-scale projects in hydropower, solar and wind. They need 
+to be designed in a way that attracts developers, enhances competition and enables price discovery while ensuring 
+project delivery.Enact policies to decarbonise end-use sectors
+The decarbonisation of the heating sector needs a multifaceted approach that includes renewables-based electrification, 
+use of renewable heating (where available, solar thermal, biomass, geothermal) and investments in efficient district 
+heating. In the transport sector, more efficient public transport, electric vehicles and support for alternative modes of 
+transportation (e.g. bicycle and walking infrastructure) can help. The introduction of net metering, wheeling and other 
+distributed generation policies can help unlock the small-scale market segment. 
+Improve renewable energy resource mapping
+Zoning for solar PV and wind should be prioritised. An analysis of potential suitability, as conducted by the IRENA, 
+identifies suitable zones for solar PV and wind, and can serve as an important initial step towards a complete zoning 
+assessment. Follow-up studies could build on this exercise by performing detailed technical and economic analyses 
+and ground-based measurements within the identified solar and wind zones. 
+Develop long-term energy scenarios
+A detailed long-term planning exercise should be undertaken for energy demand in all sectors to identify the optimal 
+energy mix. Scenario analyses that explore a host of different energy sector futures can be used to inform policy 
+making. Energy sector planning needs to be complemented by reforms in the collection and reporting of energy 
+statistics.
+Establish comprehensive and ambitious renewable energy targets
+Renewable energy targets should reflect the country’s strong renewable energy potential, declining technology costs 
+and rising energy demand. They are best backed by strong political commitment and legislation, to be defined at the 
+level of the sector and further disaggregated by subsector. 
+Adopt a standard power purchase agreement 
+Design elements of renewable energy power purchase agreements (PPAs) should be devised in accordance with 
+international best practices to de-risk investments and facilitate financing. This effort may be complemented by a 
+thorough review of contractual project document templates for renewables along with the development of standardised 
+PPAs.
+Introduce public-private partnerships 
+To be successful, the introduction of public-private partnerships (PPPs) in the Kyrgyz energy sector must be backed by 
+strong political will, capable institutions and conducive legislation. Fair risk-sharing criteria must be established. On the 
+public side, there should be an absolute commitment to the long-term payment for energy production. On the private 
+side, penalties should be levied if services are not delivered.
+Enhance institutional capacities
+The technical and co-ordination capabilities of public and private sector entities require improvement to facilitate 
+renewable energy deployment. Topics to address include technology costs, grid integration issues, economic 
+management and the introduction of flexibility mechanisms, regulatory aspects, policy design, etc. 
+Educate and train a skilled workforce
+Investment in the education and training of workers such as engineers, technicians and other skilled personnel is very 
+important. Universities, vocational training institutes and schools all have a role to play. Industry upgrade programmes, 
+joint ventures and tax breaks can be used to strengthen local industrial capabilities.1. INTRODUCTION
+The Kyrgyz Republic is a landlocked, mountainous country in the northeast of Central Asia. The country borders Uzbekistan to 
+the west, Kazakhstan to the north, China to the east and Tajikistan to the south. The total area of the country is approximately 
+200000 square kilometres (km2
+) (Energy Charter, 2018).
+About 80% of the country is mountainous; the rest is valleys and basins. The climate is continental, with strongly defined 
+seasons. The rugged topography, with large differences in altitude, determines the variety of climatic conditions and 
+temperatures in different regions of the country. The annual average sunshine level, at 2100-2900 hours/year, is similar to 
+that of Türkiye and Greece (Energy Charter, 2018).
+The country is divided into nine administrative areas, including seven provinces and the two main cities of Bishkek 
+and Osh (Figure 1.1). Bishkek is the national capital and the largest city with a population exceeding 1 million people
+(1074000 people in 2020). Osh (322000 people), Jalal-Abad (123000) and Karakol (84000) are other major cities 
+(NSC, 2021).
+The republic has significant water resources. It is the only Central Asian country where almost all the water resources originate 
+within national borders. The Kyrgyz Republic’s lakes, glaciers and rivers are a significant part of the country’s hydrological 
+resources. The republic’s 1 923 lakes and reservoirs hold more than 1 745 cubic kilometres (km3
+) of water, most of which is 
+stored in lake Issyk-Kul. Glaciers are estimated to hold 760 km3
+ of water, but this water source has been decreasing in recent 
+decades. There are more than 25000 rivers, of which 73 are more than 50 km in length, and the remaining are smaller. 
+Irrigated farming accounts for around 90% of water consumption, followed by industrial purposes (6%), household use (3%) 
+and other uses (1%) (DWRLI, 2021; Mamatkanov, Bazhanova and Romanovsky, 2006; Ratnaweera et al., 2013).
+Figure 1.1 Administrative regions of the Kyrgyz Republic
+Tash-Kömür
+Sulyukta
+Ravat
+Kyzyl-Kiya
+Sary-Tash
+Gul'cha
+Alay-Kuu
+Kok-Yangak
+Uzgen
+Daraut-Korgan
+Ala-Buka
+Kara-Kul'
+Toktogul
+Tunuk
+Kara
+Balta Tokmak
+Ugyut
+Khaidarken
+Cholpon-Ata Tyup
+Enilchek
+Shyirak
+Ysyk-Köl
+Kek-Aigyp
+Barskoon
+Kara-Say
+Osh
+Jalal-Abad
+Talas Karakol
+Naryn
+Bishkek
+CHUSKAYA OBLAS T'
+TALAS OBLAS T'
+NARYNSKAYA OBLAS T'
+ISSYK-KU L'SKAYA OBLAS T'
+DZHALAL-ABADSKAYA
+OBLAST'
+OSHSKAYA OBLAS T'
+Ysyk Köl
+L. Song-Kel'
+L. Chatyr-Kel'
+Toktogul
+Reservoir
+Chu
+Chu
+Talas
+Naryn
+Aksay
+Kyzyl-Suu
+Chatkal
+Oy-Tal Kurshab
+Naryn
+Kek-Art
+Ala-Buka
+KYRGYZSTAN
+KYRGYZSTAN
+National capital
+Oblast' center
+Town, kishlak
+Major airport
+International boundary
+Oblast' boundary
+Main road
+Secondary road
+Railroad
+0
+0 25 50 75 100 mi
+25 50 75 100 125 150 km
+The boundaries and names shown and the designations 
+used on this map do not imply o cial endorsement or 
+acceptance by the United Nations.
+70° 72° 74° 76° 78° 80°
+74° 76° 78° 72° 70°
+44°
+42°
+40°
+38°
+44°
+42°
+40°
+38°
+Source: UN Geospatial (2011).
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion 
+on the part of IRENA concerning the status of any region, country, territory, city or area, or of its authorities, or concerning the delimitation of frontiers 
+bdi1.1 Socio-economic conditions
+The population of the Kyrgyz Republic stood at around 6.6 million people at the beginning of 2021. One-third of the 
+resident population (34%) lived in urban settlements with the remaining living in rural areas. The population density 
+averaged 33 people/km2
+. The average life expectancy was 68 years for the male population and 76 years for the female 
+population. The inflation rate was 5% in 2019, and the unemployment rate in the country amounted to 5.5% (NSC, 2021; 
+World Bank, 2020). 
+The poverty level in the country was 25% in 2020, which is the second highest in the Central Asia region after Tajikistan 
+(NSC, 2021; World Bank, 2021). Around 1.3 million people lived below the poverty line in 2019, of which 74% were 
+residents of rural settlements. While a fourth of the country’s population was poor, 58% were considered vulnerable 
+(with per capita income less than USD 5.5/day). Concerns about poverty have direct implications for the energy sector, 
+particularly when it comes to tariff setting. The current social safety net is not adequate to mitigate the potential 
+impacts of a tariff increase on the poor (IMF, 2019; NSC, 2021).
+An unstable political situation and low level of economic development are considered to be contributing factors to the 
+three political crises of 2005, 2010 and 2020. Increases in electricity tariffs and the obscure privatisation processes of 
+energy companies have also contributed to social unrest and instability in the Kyrgyz Republic in recent decades. The 
+affordability and reliability of the energy supply remain very sensitive issues (Energy Charter, 2018; Mallinson, 2020).
+The gross domestic product (GDP) in 2020 amounted to Kyrgyz Republic soms (KGS) 601 billion (USD 7 billion),1 
+following a contraction of 8.4% from 2019 due to social unrest, a financial crisis and the COVID-19 pandemic. Over the 
+past couple decades, GDP growth averaged at around 4.45%, compared to 6.5% in the other Caucasus and Central 
+Asia2
+ countries and 5.3% in emerging market developing economies3 (IMF, 2019; World Bank, 2021). In response to the 
+pandemic, the Government of the Kyrgyz Republic (GoK) introduced several socio-economic measures to encourage 
+economic growth in a more sustainable and climate-friendly direction (UNFCCC, 2021). 
+National estimates show that between 2010 and 2020 GDP increased from USD 920 to USD 1 231 per capita (NSC, 
+2021). The International Monetary Fund (IMF) estimated it at USD 1 330 in 2022. Income per capita has lagged behind 
+that of comparator countries over the last couple decades. Meanwhile, the income gap with emerging market countries 
+has been increasing. In 2019, the IMF estimated that at its forecasted growth rate (3.8% on average over 2020-
+2023), GDP per capita in the Kyrgyz Republic would require 23 years to reach middle-income GDP per capita levels
+(USD 2 370). Achieving this benchmark may become more difficult due to the COVID-19–related economic slowdown 
+(IMF, 2019; SAEPF, 2020).
+The country has considerable economic potential based on its resources, including pastures (48%) and arable land
+(7% of the country) along with substantial forests and minerals (World Bank, 2020).
+According to data for 2019 (Figure 1.2), trade accounts for about 18% of GDP, followed by the industrial sector at 
+14%. The basis of industry is the country’s largest gold deposit at Kumtor. The agriculture sector accounts for 12% of 
+GDP, the construction sector for about 10%, transport 4%, while other services make up the rest. Energy generation, 
+transmission, distribution and supply account for about 2.3% of GDP (NSC, 2021). 
+The two largest sectors contributing to the country’s GDP - domestic trade and industry - employ about 16% and 12%, 
+respectively, of the working population. The agriculture sector employs the largest share of the working population, 
+at 18%, though this sector is only the third largest in terms of its contribution to GDP. The significant differences 
+between these sectors in employment and their contribution to GDP is explained by the presence of a large informal 
+economy in the agriculture sector and the comparatively low income of informal workers. The added value received as 
+a result of hidden and informal production (excluding agriculture) is estimated at 23.4% of GDP. The electricity, gas and 
+steam generation, transmission, distribution and supply subsectors employ 1.3% of the total working population of the 
+country, or about 13% of industrial workers (Energy Charter, 2018; NSC, 2021). 
+1 USD 1 = KGS 84.8 (as of 30 January 2021).
+2 Armenia, Georgia, the Kyrgyz Republic and Tajikistan are oil importers, while Azerbaijan, Kazakhstan, Turkmenistan and Uzbekistan 
+are oil exporters.
+3 E
+ikt dliiild154 tiFigure 1.2 Comparison of GDP components (left) and structure of the Kyrgyz labour market (right), 
+2019 (%)
+Others
+18%
+Trade
+18%
+Manufacturing
+15%
+Taxes
+13%
+Agriculture,
+forestry
+and fishing
+12%
+Construction
+9%
+Public
+administration
+6% 
+Education
+5%
+Transport
+and storage
+4%
+Others
+21%
+Trade
+16%
+Manufacturing
+12%
+Agriculture,
+forestry
+and fishing
+18%
+Construction
+12%
+Public
+administration
+4% 
+Education
+9%
+Transport
+and storage
+8%
+Source: NSC (2021).
+Note: GDP = gross domestic product.
+The country’s economy relies on three highly volatile sources of revenue including mineral resources, remittances and 
+foreign aid, and loans. Around 31% of the country’s GDP in 2020 was through remittances. The Kyrgyz Republic is rich 
+in mineral resources but has negligible oil and natural gas, which it imports. Substantial deposits of coal, gold, uranium, 
+antimony and other valuable metals are included in its mineral reserves (World Bank, 2021).
+This reliance leads to vulnerability to external economic shocks. Economic growth in the past decade has been driven 
+mainly by the service sector, including trade, while the contribution of the industrial sector has been fluctuating given 
+the strong presence of natural resource processing activities (Rovenskaya et al., 2018).
+1.2 Renewables Readiness Assessment 
+A transition towards renewable energy in all energy sector applications can help address energy demand while creating 
+economic opportunities and position the Kyrgyz Republic as a global example for sustainable growth and well-being. 
+The Renewables Readiness Assessment (RRA) aims to support the GoK in this transition. The RRA was initiated by 
+the Ministry of Energy and Industry (MOEI) in 2021 in co-operation with the IRENA, to support the country’s efforts in 
+enabling the greater adoption of various renewable energy technologies in the energy sector.
+IRENA developed the RRA as a tool for carrying out a comprehensive evaluation of the conditions for renewable 
+energy deployment in a particular country. The RRA is a country-led, consultative process. It provides a venue for 
+multi-stakeholder dialogue to identify challenges to renewable energy deployment and to devise solutions to existing 
+barriers. Short- and medium-term recommendations are presented to governments to guide the formation of new 
+policies or the reform of existing policies to establish a more conducive enabling environment for renewable energy. 
+The RRA also consolidates existing efforts and mobilises resources for priority action. Since 2011, the RRA methodology 
+has been used to conduct more than 30 country assessments, often resulting in extensive stakeholder engagement and 
+improvements in policies and institutional frameworks (IRENA, 2013, 2022). 
+The RRA of the Kyrgyz Republic provides a rigorous assessment of ground conditions, including the enabling 
+environment and the potential for growth of the renewable energy market. The assessment determines that there is a 
+strong case for diversification of the country’s power mix towards medium-sized and small hydropower, and towards 
+renewables in end-use energy sectors such as transport and heating. Finally, to help the Kyrgyz Republic accelerate the 
+deployment of renewables, it provides a range of recommendations including policy measures and initiatives, rooted 
+in extensive analysis and stakeholder input.The RRA has been enriched through the guidance and inputs of the MOEI, the United Nations Development Programme 
+(UNDP) and other stakeholders. An initial expert consultation workshop, co-organised by the MOEI, IRENA and the 
+UNDP in April 2021, helped lay the foundations of the RRA. The findings and recommendations of the RRA were 
+discussed in a validation workshop co-organised by IRENA, the MOEI and the UNDP in February 2022. 
+The RRA included three special objectives: contributing inputs to the Nationally Determined Contributions (NDCs) 
+process; an assessment of the potential of wind and solar photovoltaic (PV); and capacity building in the setting of 
+renewable energy targets. IRENA prepared an NDC note in January 2021 to contribute to the NDC updating efforts of 
+the UNDP and the GoK. A detailed assessment of the solar and wind energy potential of the country has been added 
+to the RRA. Finally, an activity to build capacity in setting renewable energy targets was carried out in March 2022.
+Yurt camping in Kyrgyzstan
+© Dave Primov / Envato.com2. ENERGY SECTOR CONTEXT
+The energy sector has played an important role in the socio-economic development of the Kyrgyz Republic. As the Kyrgyz 
+population continues to increase and the economy grows, energy consumption has been increasing. Kyrgyz energy 
+consumption far exceeds domestic production, which leads to costly fuel imports, and makes the transition towards clean 
+fuels a key imperative for decision making in the sector. 
+2.1 Energy consumption and production 
+The 2000-2010 decade was characterised by an economic crisis and social unrest, which slowed growth in energy 
+demand. A relative boom in economic growth from 2010 onwards has boosted energy demand. Final energy 
+consumption increased by 33% in the 2000-2010 decade compared to growth of 54% in the 2010-2019 period. Total 
+final consumption stood at 3.5 million tonnes of oil equivalent (mtoe) in 2019 (Figure 2.1). 
+Figure 2.1 Total final energy consumption by sector, various years
+179
+549 546
+1251
+2298
+444
+472 372
+735
+483
+295
+369 670
+925
+388
+149
+162
+215
+293
+35
+74
+24
+508
+172
+351
+20
+271
+92
+97
+122
+19
+0
+500
+1000
+1 500
+2000
+2 500
+3000
+3 500
+4000
+2000 2005 2010 2015 2019
+Total final consumption (ktoe)
+Agriculture / forestry
+Non-specified
+Non-energy use
+Commercial / public
+Transport
+Industry
+Residential
+Source: IEA (2020b).
+Note: ktoe = kilotonne of oil equivalent.
+4 Includes energy supplied for construction, installation and drilling works and for communal and cultural needs.
+5 In 2019, for instance, new legislation restricted fuel imports to only those for private use. Thus, despite similar or greater demand 
+from the transport sectorconsumption fell dramatically and the bulk of it shifted to the residential sector (according to IEA data)
+The main energy consumers include the residential, industry and transport sectors, representing 66%, 14% and 11% of 
+consumption, respectively. They are followed by the commercial/public sector,4 agriculture/forestry and non-energy 
+use, all with much smaller shares of consumption. Consumption in the industry and transport sectors has undergone 
+significant fluctuations, some of which could be explained through changes in levels of economic activity, while 
+others could be due to statistical methodologies.5
+ The energy consumed by the residential sector, however, has grown 
+consistently and rapidly, tripling during the 2000-2010 period and more than quadrupling between 2010 and 2019. This 
+increase can be attributed to improving living standards coupled with the rising demand for heating.
+Final energy consumption is composed of oil products, electricity, coal, natural gas and heat. Oil products account for 
+around 40% of consumption, followed by electricity at 30%. Coal, heat and natural gas account for 16%, 8% and 4%, 
+respectively, of final demand.The fuel mix seen in final demand (Figure 2.2) has undergone a significant shift since 2000 when electricity was the 
+dominant contributor with 41%, followed by oil products at 24% and coal at 12%. A very limited amount of hydroelectric 
+capacity was put into operation in recent decades, while the consumption of coal and mazut (heavy fuel oil) increased 
+for heat generation. Consequently, coal’s market share increased to 16% in 2019 due to the availability of relatively cheap 
+local coal reserves while that of electricity declined to 30%. Shares of natural gas also decreased slightly from 10% to 
+8% between 2000 and 2019 due to reduced availability and higher prices. Simultaneously, the share of oil products in 
+final consumption increased to 41% by 2019 due to the country’s growing vehicle fleet. Another negative trend is the 
+smaller share of heat energy in final consumption (14% to 4%), revealing that the country did not fully utilise the potential 
+of its two combined heat and power plants in Bishkek and Osh and the district heating systems in other small cities
+(Energy Charter, 2018; IEA, 2020b).
+The shift towards oil is also evident in the mix of the total primary energy supply. As Figure 2.3 shows, the energy supplied 
+by hydropower stagnated at around 1.1 mtoe, while that from oil and coal more than doubled. Consequently, the share of 
+hydropower declined from 43% to 30% between 2000 and 2019, whereas that of oil increased from 16% to 37%. The share 
+of coal supply also increased from 18% to 26% due to domestic consumption and rising exports to neighbouring countries 
+(China, Uzbekistan and Tajikistan).
+Overall, the total primary energy supply increased by 13% during the 2000-2010 period, followed by a more rapid increase of 
+39% from 2010 to 2019 – which is consistent with consumption and economic growth patterns during these periods (Figure 
+2.3). Oil, hydropower and coal were the key sources in 2019 accounting for 37%, 30% and 26%, respectively (IEA, 2020b). 
+Figure 2.2 Total final energy consumption by source, various years
+0
+500
+1000
+1 500
+2000
+2 500
+3000
+3 500
+4000
+2000 2005 2010 2015 2019
+Total final consumption (ktoe)
+407
+691
+204
+163
+237
+475
+585
+196
+300
+280
+927
+609
+373
+121
+239
+1569
+910
+481
+118
+283
+1439
+1062
+571
+274
+152
+Biofuels and waste
+Heat
+Natural gas
+Coal
+Electricity
+Oil products
+0
+500
+1000
+1 500
+2000
+2 500
+3000
+3 500
+4000
+2000 2005 2010 2015 2019
+Total primary energy supply (ktoe)
+Biofuels and waste
+Natural gas
+Coal
+Hydro
+Oil
+413
+1103
+469
+574
+529
+1100
+553
+617
+993
+955
+701
+247
+1619
+954
+1128
+229
+1498
+1192
+1059
+271
+Source: IEA (2020b).
+Ntktkiltf il ilt
+Figure 2.3 Total primary energy supply by fuel, various yearsThe Kyrgyz Republic is among the most energy-intensive countries in the world. According to the International 
+Energy Agency, in 2019 the energy intensity of GDP was 0.19 toe per USD 1000, as compared with a world average of
+0.12 toe, 0.11 toe for the Organisation for Economic Co-operation and Development (OECD) countries, 0.15 toe for China 
+and 0.20 toe for Eastern Europe and Eurasia as well as neighbouring Kazakhstan. Energy intensity leads to persistent 
+energy shortages and also reduces economic productivity and competitiveness (IEA, 2020b; World Bank, 2017b)
+2.2 Electricity sector
+The power sector faces the challenging task of meeting rising electricity demand. The sector also contributes to 
+the socio-economic growth of the region through the electricity trade. The dominant role of hydropower leads to 
+strong interlinkages between water and power, posing challenges to decision makers in the power sector. Ageing 
+infrastructure, power sector entities’ lack of financial viability, energy losses and limited new generation are other key 
+challenges, which tend to reduce the quality and reliability of electricity.
+Electricity consumption
+Power consumption per capita, despite limitations imposed by power shortages, grew by close to 45% from 2010, 
+reaching 2 megawatt hours (MWh)/capita in 2019. In the broader context of Central Asia, the per capita electricity 
+consumption of the country is slightly higher than neighbouring Tajikistan (1.7 MWh/capita) and Uzbekistan
+(1.8 MWh/capita) but lower than Kazakhstan (5.2 MWh/capita) and Turkmenistan (2.8 MWh/capita) (IEA, 2020a, 
+2020b). The increasing per capita electricity consumption can be attributed to several factors including increased 
+living standards and electrification of heating demand.
+Electricity consumption increased by around 75% between 2010 and 2019, reaching 12.4 terawatt hours (TWh)
+(Figure 2.4). Demand from the residential sector increased by 152% between 2010 and 2019, reaching two-thirds of total 
+electricity consumption in 2019. The increasing demand for electric heating in the residential sector was a key driver 
+of this trend; other factors include improved living standards and subsidised tariff structures. The industrial sector with 
+close to 18% of total demand was the second-largest power consumer in 2019. Demand in the sector increased by 24% 
+from 2010 due to ongoing economic recovery, but remained well below the levels seen in 2000. Demand from the 
+agricultural sector steadily declined, with the electricity intensity of agricultural GDP falling by almost 93% from 2000, 
+and 45% from 2010 (IEA, 2020b). 
+Figure 2.4 Electricity consumption by sector, various years
+0
+500
+1000
+1 500
+2000
+2 500
+3000
+3 500
+4000
+2000 2005 2010 2015 2019
+Electricity consumption (TWh)
+413
+1103
+469
+574
+529
+1100
+553
+617
+993
+955
+701
+247
+1619
+954
+1128
+229
+1498
+1192
+1059
+271
+Non-specified
+Transport
+Agriculture / forestry
+Commercial and public services
+Industry
+Residential
+Source: IEA (2020b).
+Note: TWh = terawatt hour.Generation and trade
+Total electricity generation has been increasing to address the rise in domestic demand and export requirements. In 
+2019, total generation was estimated at around 15 TWh, which is a 24% increase over 2010 but only slightly higher than 
+in 2000 (Figure 2.5). The bulk of this generation (92%) was supplied by hydroelectric power plants followed by small 
+contributions from coal- and fuel-oil-fired power plants (7% and 1%, respectively). While hydropower has always been 
+the dominant technology for electricity generation, fossil-fuel-based generation has gradually shifted from gas to coal 
+since 2000. This shift is due to shortages in gas supply from Uzbekistan, starting in 2003 due to large debts owed by 
+the Kyrgyzgas company to Uzbek counterparts (Yusupkhanova, 2003). In 2014, Kyrgyzsgas was sold to Gazprom, after 
+which some gas imports from Uzbekistan were restored. Kazakhstan, the Russian Federation and Uzbekistan are the 
+key sources of gas for the Kyrgyz Republic (Pirani, 2019; Vedomosti, 2014).
+The installed capacity of the country stood at 3 982 megawatts (MW) in 2020 and primarily comprised:
+• seven large hydropower plants ranging from 40 MW to 1 200 MW, at a combined capacity of 3067 MW, located 
+on the Naryn and Bashy rivers;
+• nineteen small hydropower plants ranging from 0.26 to 8.7 MW, with a total capacity of 54 MW, located on the 
+Alamedin, Chu and other small rivers; and
+• two combined heat and power plants with a total capacity of 862 MW (Bishkek, 812 MW; Osh, 50 MW).
+The country’s hydropower production fluctuates seasonally, which significantly affects power reliability. Power supply is 
+typically most reliable in spring and summer, when it satisfies national energy demand and even provides electricity for 
+export. During the autumn-winter period, the country stores water in dams (instead of maximising power generation) 
+to meet downstream irrigation requirements in the spring season (Imanaliyeva, 2021; Zeng et al., 2017).6
+ Moreover, 
+rainfall and glacial meltwater tend to decline in the winter months. The resulting shortfall in power generation in 
+autumn and winter is addressed through imports of electricity (mainly from Kazakhstan). This seasonality coupled with 
+trends in domestic demand have a significant impact on the electricity trade. In 2013, for instance, all generation was 
+used to fulfil domestic demand and in 2014 the country moved from being a net electricity exporter to a net electricity 
+importer. In 2017 and 2018, however, high water levels meant that the country was a net exporter of power. In 2021, 
+severe drought resulted in significant challenges to the food and energy security of the country and the broader 
+region. Prospective plans include the construction of 8 cascades of 34 hydroelectric power plants with a total installed 
+capacity of 6 450 MW.
+Figure 2.5 Electricity generation by source, various years
+2000 2005 2010 2015 2019
+Electricity generation (GWh)
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+16000
+Oil
+Natural gas
+Coal
+Hydro
+Source: IEA (2020b).
+Note: GWh = gigawatt hour.
+6 During the Soviet era, electricity was supplied to the Kyrgyz Soviet Republic by the Kazakh and Uzbek Soviet Republics in autumn and 
+winter. In spring and summer, with reservoir gates wide open, the Kyrgyz Soviet Republic supplied water and electricity to its 
+neighboursAs domestic electricity demand continues to increase and investments in new generation capacity are lacking, exports 
+of electricity are likely to decline in future. 
+The Kyrgyz Republic is part of the Central Asian Power System, which connects it with Kazakhstan, Tajikistan and 
+Uzbekistan. Future projects such as the Central Asia–South Asia power project (CASA-1000), aim to take regional 
+power sector integration further by connecting the electricity-exporting Central Asian countries including the Kyrgyz 
+Republic and Tajikistan with Afghanistan and Pakistan to export surplus summer electricity. Project implementation 
+started with the construction of generation and transmission infrastructure in the Kyrgyz Republic, Tajikistan, 
+Afghanistan and Pakistan (CASA-1000, 2021; USAID, 2021). Further investments in the Kyrgyz power sector to increase 
+generation capacity, while simultaneously decreasing the intensity of domestic demand, could help ensure that the 
+country benefits from the power trade opportunities offered by the project. 
+Infrastructure and tariffs
+The bulk of investment in the Kyrgyz power sector was carried out in the Soviet era, which means that about 45% 
+of available generation capacity is beyond its useful service life, and transmission and distribution assets are also 
+deteriorating. The largest power distributor in the country, Severelectro, for instance, reported in 2016 that close to 
+40% of the underground cables in Bishkek required urgent replacement. Old assets and infrastructure, especially when 
+undermaintained, could put supply reliability and quality at risk (World Bank, 2017b). In 2018-2019, around 43% of 
+firms reported experiencing power outages, and around 34% reported that they own or share a generator (World Bank, 
+2022).
+The power system needs significant investment to maintain ageing equipment or develop the capacity required to meet 
+growing demand. This is unlikely under current conditions since the system is not viable from a financial standpoint 
+and is kept functioning through inputs from the government budget. Subsidies on retail prices are at the heart of the 
+financial issues faced by the power and energy sector (World Bank, 2017b).
+The retail tariffs for power in the Kyrgyz Republic are among the lowest in the world. This incentivises an inefficient 
+energy consumption pattern. The resulting lack of revenue leads to underinvestment in infrastructure and severe 
+underspending on maintenance. Consequently, the reliability and quality of the power system suffers (Holzhacker and 
+Skakova, 2019). The decline in reliability is most evident in the winter season, when the gap between the available 
+generation capacity and rising demand emerges (World Bank, 2017b).
+Large residential consumers (above 700 kilowatt- hour [kWh] consumption) and non-residential consumers pay 
+tariffs (2.16 and 2.52 KGS/kWh [2.5 and 3 US cents (USDc)/kWh],7
+ respectively) that are above cost-recovery levels
+(1.97 and 1.55 KGS/kWh [2.3 and 1.8 USDc/kWh], respectively) and cross-subsidise small residential consumers, who pay 
+tariffs (0.77 KGS/kWh [0.9 USDc/kWh]) that are below cost-recovery levels. Small residential consumers account for 
+more than half of total consumption, which means that the average tariff remains below cost recovery and the sector’s 
+revenue continues to be offset by the cost of power production and delivery (Rosenthal, Gassner and Hankinson, 2017). 
+Several tariff reforms have been designed in recent years. Concerns about poverty and affordability have repeatedly 
+held back implementation (Holzhacker and Skakova, 2019). The latest of such reforms has increased tariffs for nonresidential customers by 0.4 USDc/kWh to 3 USDc/kWh, but has decreased the tariff for low-income families receiving 
+a monthly allowance for needy citizens (families) with children under 16, down to 0.5 KGS/kWh (0.59 USDc/kWh) in 
+October 2021 (SARFEC, 2021). 
+Governance of the power sector
+Until 2001, the Kyrgyz electricity system was operated by a vertically integrated state-owned company, Kyrgyzenergo, 
+which was responsible for all power generation, transportation, distribution and supply. From 2001, the Kyrgyz 
+electricity sector was legally unbundled to create two generating companies (called Electric Power Stations and the 
+Chakan Hydropower Plant); one transmission company responsible for dispatch and market operations (the National 
+Electric Grid of Kyrgyzstan); and four distribution and supply companies (Severelectro, Vostokelectro, Oshelectro and 
+Jalal-Abadelectro) (Energy Charter, 2018). All were formed as joint-stock companies (JSCs).
+In 2016, the sector underwent a new reform aiming to increase the operational efficiency of the power system. The 
+government established a new company, the Energy Holding Company (EHC), an open JSC, which became responsible 
+for the efficient operation of all electricity producers and transmission and distribution companies. At the time of 
+writing, all the above-mentioned eight companies, created as part of the unbundling reforms during the period 1997-
+2001, still exist and operate. Their stocks, however, belong to the EHC, which is now a part of the Ministry of Energy.
+7 USD 1 
+KGS 848 (f 30 J2021)Electricity tariffs are set by the regulator, the State Agency for Regulation of the Fuel and Energy Complex (SARFEC), 
+now also a part of the Ministry of Energy. 
+The Kyrgyz Energy Settlement Center, an open JSC, provides paid services to participants in the electrical energy 
+market. The centre uses an analytical system to collect, process, verify and analyse data on power flows, electricity 
+losses and reliability. It develops electricity balances, and monitors settlements for all participants in the electricity 
+market (UNECE, 2018).
+2.3 Heating sector
+Given the cold climate, access to reliable heat supply is important for the well-being of the Kyrgyz population. Heating 
+demand is fulfilled by various fuels and technologies ranging from large, centralised district heating systems to large 
+and small heat-only boilers (HOBs, or boiler houses) to individual heating systems.
+The nature of heating demand varies a lot across large cities (Bishkek and Osh) and smaller cities and rural areas. 
+Stoves, often fuelled by dried dung, wood and coal, are the main sources of heating for rural households and urban 
+households outside large cities. Low-income households often use coal with wood or dung (in rural settings). Higherincome households typically use coal with electricity or wood (World Bank, 2020). These stoves often tend to be 
+inefficient (with efficiency rates of 25% to 40% as opposed to 60% to 80% for high-efficiency models) and lead to 
+significant indoor air pollution. As a result, the Kyrgyz Republic is among the European and Central Asian nations 
+most affected by diseases resulting from indoor air pollution. In urban households outside Bishkek, stoves (50%) are 
+followed by electric heating (37%) and district heating (9%) in popularity. In Bishkek, close to 43% of households rely 
+on district heating as a main source of heating, followed by electricity (21%) and stoves (22%) (Balabanyan et al., 2015).
+Small HOBs provide heat for buildings that are not linked to the district heating systems. Nearly 300 HOBs are operated 
+by district heating companies, half of which are fuelled by coal, and around a further 2 500 small HOBs are owned and 
+operated by public institutions and used to heat public buildings. These are largely fuelled by coal and electricity in 
+fairly equal shares (Balabanyan et al., 2015).
+About 95% of the heat energy provided by the country’s district heating systems is consumed for household and 
+municipal needs. The remaining heat is supplied to the industrial sector. The total consumption of heat energy supplied 
+by district heating systems decreased by about 10% in the past decade, which is primarily due to the decreasing demand 
+of industrial consumers, driven by the unreliability of the deteriorating district heating network (Energy Charter, 2018). 
+Fuel consumption in the heating sector
+Heat production from combined heat and power plants and boiler houses remained unchanged from 2010 to 2018. 
+Combined heat and power plants in Bishkek and Osh (Bishkekteplosetj and the Osh municipal company Teplosnabjenie) 
+account for three-quarters of heat production.
+Most of the district heating systems and HOBs in the Kyrgyz Republic were originally designed for natural gas. The 
+collapse of the Soviet Union led to gas becoming scarcer and more expensive. Therefore, district heating systems and 
+HOBs were converted to run on coal, mazut or electricity. The district heating companies are initiating several projects 
+to switch fuels from coal, mazut and electricity to natural gas. Overall, four types of fuels are used by the district heating 
+systems: coal, mazut (heavy, low-quality fuel oil), electricity and natural gas (Energy Charter, 2018). Renewables such 
+as solar thermal and biomass are also viable candidates for fuelling heat generation. The Gagarin, Orto-Say and Rotor 
+boiler houses’ solar pilot projects in Bishkek have shown that solar thermal can be successfully incorporated into 
+existing heating infrastructure to reduce fossil fuel consumption and emissions (see Box 2.1 for details) (SAEPF, 2020). 
+The combined heat and power plant in Bishkek is primarily fuelled by coal, whereas the one based in Osh has been 
+performing as an HOB since 2014. 
+The boiler houses (HOBs) are primarily fuelled by coal and electricity, but some also use gas and fuel oil/mazut (SAEPF, 
+2020). 
+Households not connected to the district heating system started to increase their reliance on electricity for heating as 
+gas became increasingly expensive and scarce after the collapse of the Soviet Union. Households connected to district 
+heating also use electricity as a supplementary source of heat. The resulting increase in power demand strains the grid 
+and decreases the reliability of supply during the winter months (Balabanyan et al., 2015).Box 2.1 Solar-assisted district heating: The 
+Gagarin, Orto-Say and Rotor boiler houses
+Bishkekteploenergo began operating a combined solar 
+and natural gas pilot project as part of the refurbishment 
+of the Gagarin, Orto-Say and Rotor boiler houses. The 
+Gagarin pilot project involved the substitution of two old 
+coal-fired boilers with modern oil- and gas-fired units 
+combined with an installation of 800 square metres
+(364 panels at 0.5 megawatt thermal [MWth]) of 
+solar thermal panels on the roof of a boiler house and 
+hot water storage capacity of 40 cubic metres (m3
+).
+The Orto-Say and Rotor boiler houses received 120 and 
+396 panels (0.168 MWth and 0.6 MWth, respectively). 
+The renovation of the boiler houses significantly 
+decreased gas consumption resulting in savings of
+42.7 trillion m3
+ and 10 trillion m3 in Gagarin and
+Orto-Say, respectively.
+Source: SAEPF (2020).
+Infrastructure and tariffs
+Access to reliable and affordable heat is critical to the good health and well-being of the people of the Kyrgyz Republic. 
+The heating sector suffers from a host of interlinked issues including a significant supply-demand gap, insufficient and 
+unreliable supply, ageing infrastructure, lack of financial viability and inefficiencies in both generation and end use.
+The centralised infrastructure used for heating in urban areas is deteriorating. Most of the district heating assets 
+(combined heat and power plants, boilers and distribution networks) were built more than 20 years ago. As in the 
+power sector, inadequate investments in replacement and maintenance mean that this infrastructure is deteriorating. 
+Consequently, assets often end up operating at 20% to 50% of their name-plate capacity, with losses exceeding a 
+quarter of generation. Service quality has also declined. In 2013, district heating customers in Bishkek suffered more 
+than 300 outages (Rosenthal, Gassner and Hankinson, 2017). 
+The demand side also suffers from significant efficiency issues. The building stock is old and has low energy performance. 
+Around half of the residential building stock in the country was built before 1980, and around three-quarters was built 
+before 2004. The inefficiency of the building stock is compounded by subsidised tariffs leading to excessive energy 
+consumption in the sector (Energy Charter, 2018).
+The lack of cost-reflective tariffs is one of the root causes of the above-mentioned challenges, i.e. ageing infrastructure 
+and inefficiencies on the demand side. Heat tariffs are below cost-recovery levels, which means that most suppliers lack 
+the necessary funds for proper maintenance – leading to decaying infrastructure. 
+Residential heating tariffs are estimated at around 13% to 50% (based on the source of heat) of the supply cost. Only 
+25% of heat consumption is metered, and the billing for consumers without meters is based on parameters that are 
+not linked to energy consumption. Thus, the system fails to provide price signals for efficient energy use (Balabanyan
+et al., 2015; Energy Charter, 2018). In metered systems, the heating price is set at 1134.76 KGS/gigacalorie
+(143 USD/toe), which is a fraction of the cost of delivery. The cost of heat generation in Bishkek in 2017, for instance, 
+was 3 741.2 KGS/gigacalorie (472 USD/toe). The cost differential is borne by the city and government budget (SAEPF, 
+2020). 
+In 2021, the tariffs for non-residential customers of the Bishkek heating system were increased to 1 802 KGS/gigacalorie 
+to account for inflation.Governance of the heating sector
+The State Agency for Regulation of the Fuel and Energy Complex (SARFEC) under the GoK’s Ministry of Energy and 
+Industry is the energy regulator of the country and is also responsible for setting tariffs for the electricity, natural gas 
+and district heating sectors. 
+The Kyrgyz Republic’s district heating sector is mainly owned and governed by state and municipally owned 
+enterprises operating in the capital and other big cities (see Table 2.1). Municipal governments own the district heating 
+infrastructure in Osh, Tokmok and the western part of Bishkek. Combined heat and power plants that provide district 
+heating in eastern Bishkek and Osh are owned by the EHC. Kyrgyzteploenergo, which are state enterprises under the 
+State Committee, are responsible for district heat in Tokmok, Kyzyl-Kiya, Karakol and other small cities (Energy Charter, 
+2018). 
+Overall, heat supply enterprises (such as Kyrgyzteploenergo, Bishkekteploenergo and Osh MP) operate around
+277 HOBs, local self-government bodies own 398 HOBs and public institutions and departments own around 2013 
+HOBs, which are primarily used for public buildings (Energy Charter, 2018; SAEPF, 2020).
+Table 2.1 Stakeholders responsible for district heating in urban areas
+Cities Generation and distribution infrastructure and ownership
+Bishkek (east)
+Generation is provided by the Bishkek combined heat and power plant (owned by the Energy 
+Holding Company) and the NUR heat-only boiler house (privately owned), while distribution is 
+by Bishkekteploset (a joint stock company with mixed public and private ownership)
+Bishkek (west) Municipal enterprise Bishkekteploenergo (owned by the Bishkek City Council)
+Osh Generation is provided by the Osh combined heat and power plant (owned by the Energy Holding 
+Company) and distribution by the Osh communal heat supply (owned by the Osh City Council)
+Tokmok Tokmok communal heat supply (which belongs to the Tokmok City Council) and Kyrgyzteploenergo (a state enterprise under the State Committee)
+Kyzyl-Kiya
+Karakol Kyrgyzteploenergo (a state enterprise under the State Committee)
+Other small cities
+Source: Based on Energy Charter (2018).
+2.4 Transport sector
+While the transport sector involves various modes (rail, road, air and water), roads dominate. 
+The transport sector is one of the main sources of energy consumption and greenhouse gas (GHG) emissions in the 
+country. The sector accounted for around a quarter of final energy consumption in 2015. The sector accounted for 
+around 31% of energy sector emissions in the country (SAEPF, 2016).
+Nearly all the fuel consumed by the sector is either gasoline or diesel, with the share of gasoline being slightly larger 
+than that of diesel. Gasoline is primarily used in private cars, whereas diesel is the fuel of choice for vehicles engaged 
+in agriculture, construction, freight and public transport. More recently, the demand for liquefied petroleum gas (LPG) 
+in the transport sector is also rising (Kabar, 2022a).
+The growth in vehicle ownership and population means that the consumption of transport fuels continues to rise. 
+Between 2015 and 2018, the consumption of gasoline and diesel increased by 20% and 40% reaching 792000 and
+750000 tonnes, respectively (SAEPF, 2020).
+Given the lack of significant domestic reserves of hydrocarbons, fuel consumption in the transport sector leads to 
+almost complete dependence on energy imports. The transition towards more sustainable means of transportation is 
+a key focus of the Kyrgyz government. In this context, greater adoption of public transport and electric vehicles offer 
+a way to reduce wasteful fuel consumption and local pollution. The Kyrgyz Republic already has a zero customs duty 
+on the import of electric vehicles and is also introducing tax and customs incentives on vehicles with hybrid engines 
+(SAEPF, 2020). As of now, there are no initiatives by the government to develop charging stations.2.5 Energy sector policy framework
+The State Committee on Industry, Energy and Subsoil Use (GKPEN) was charged to design and implement a holistic 
+state policy for the energy sector, covering the sector’s linkages with the water-food nexus, fuel resources, renewable 
+energy sources and the potential for industrial value creation. In 2016, the committee was replaced by the Ministry of 
+Energy and Industry in 2020, renamed the Ministry of Energy in 2021 (IEA, 2020a). 
+Strategic framework
+The main policy documents of the Kyrgyz Republic that regulate the energy sector include the Law of the Kyrgyz 
+Republic on “Energy”, “Electric Power Industry” and “Energy Conservation”. The following documents collectively 
+create the strategic framework of the Kyrgyz energy sector: 
+• National Energy Programme of the Kyrgyz Republic for 2008-2010 and the Fuel and Energy Complex Development 
+Strategy until 2025.
+• Law on Renewable Energy, 2008.
+• Law on Energy Efficiency of Buildings, 2011.
+• Mid-Term Power Sector Development Strategy for 2012-2017.
+• National Sustainable Development Strategy for 2013-2017.
+• National Development Strategy for 2018-2040.
+• Concept of the Green Economy of the Kyrgyz Republic.
+• Green Economy Development Program in the Kyrgyz Republic for 2019-2023.
+• National Development Program of the Kyrgyz Republic until 2026.
+The National Development Strategy in particular sets out the strategic vision for a sustainable energy sector
+(GoK, 2018):
+• The Kyrgyz Republic aims to comprise a major regional power producer that sustainably develops its energy 
+sector, promotes energy efficiency and ensures reliable delivery of energy to all consumers.
+• Activities related to the CASA-1000 project will be prioritised. 
+• Environmentally friendly energy sources (small hydropower, solar PV and wind energy, solar collectors, biogas, 
+heat pumps, etc.) were targeted at more than 10% of the total national energy mix.
+• Indicators for energy generation and consumption will be improved to approach those of the OECD countries.
+• Investment in the construction and reconstruction of large hydropower plants will be prioritised. 
+• Mandatory requirements will be used to increase efficiency of power facilities.
+• Subsidies will be targeted to reduce consumption while improving quality of life.
+The strategy sets out a goal for clean energy sources to be 10% of the total energy mix without specifying a target date. 
+It is important to note that this does not include large hydropower. As noted in section 2.1, hydropower already accounts 
+for 30% of the primary energy supply, but this is overwhelmingly large hydropower. Small hydropower contributed only 
+about 1.5% of the total. Therefore, the target of 10% will require significant investments in small hydro as well as solar 
+and wind energy technologies. 
+The Law on Renewable Energy establishes the legal, organisational, economic and financial foundations and mechanisms 
+for promoting the development and use of renewable energy sources in the country.
+The Law on Energy Efficiency of Buildings No. 137 sets out the legal framework for reducing energy consumption in the 
+building sector, and regulates the legal and organisational relations between building owners, certified professionals 
+and government executive authorities.
+A concept note on the green economy in the Kyrgyz Republic establishes the overarching guidelines for the clean 
+energy sector’s development and energy conservation (Ministry of Justice, 2018b). A green economy aims to decrease 
+losses in the energy sector, reduce subsidies, cut reliance on coal and promote the development of technologies such 
+as hydropower, solar, wind and bioenergy. Given the national obligations under the Sustainable Development Goals, 
+the concept note establishes a vision for the energy sector until 2040, with a target of increasing the renewable energy 
+share (small hydropower, solar, wind and biogas) to 10% of total power generation.As part of the implementation of the concept note, the Green Economy Development Program in the Kyrgyz Republic 
+for 2019-2023 was developed and accepted in 2019, together with an action plan and indicators for 2020-2023. The 
+goal by 2023 is to reduce the energy intensity of GDP while increasing the access of citizens and economic entities to 
+reliable and modern energy supply. Achieving this will be contingent on: (1) improving the system for assessing and 
+monitoring the state of the energy sector; (2) strengthening energy policy; (3) increasing the transparency of fuel and 
+energy prices and ensuring that energy companies break even; (4) improving the efficiency of energy consumption; 
+(5) improving energy efficiency in buildings; (6) increasing the share of renewable energy sources in the total volume 
+of final energy consumption; and (7) raising people’s awareness of energy savings and renewable energy sources.
+The National Development Program of the Kyrgyz Republic until 2026 briefly outlines short-term priorities in the 
+implementation of the following projects:
+• Construction of large hydropower facilities Kambarata HPP-1, Upper Naryn HPP cascade, Suusamyr-Kokomeren 
+HPP cascade, Kazarman HPP cascade, etc.
+• Construction of small hydropower plants.
+• Implementation of the CASA-1000 project.
+• Phased transition of the state motor transport fleet to electric vehicles.
+• Implementation of a project on the energy efficiency of buildings.
+• Development of alternative energy sources (solar and wind energy).
+Climate change 
+The Kyrgyz Republic is among the most vulnerable countries to climate change. Increasing temperatures are already 
+resulting in the greater duration and frequency of heatwaves. Changing temperatures and rainfall patterns could have 
+severe impacts on the sensitive water and agricultural systems, with significant implications for the water-energy-food 
+nexus. Decision makers of the country understand the importance of addressing these challenges and are making 
+every effort to ensure that relevant initiatives are successful. The country remains committed to addressing the global 
+challenge of climate change.
+The Kyrgyz Republic’s total GHG emissions (including land-use change and forestry [LUCF]) stood at 15.5 metric tonnes of 
+carbon dioxide equivalent (MtCO2
+eq) in 2017 compared to 7.3 MtCO2eq in 2000 and 30 MtCO2eq in 1990. While emissions 
+have been increasing gradually since 2000, they remain well below the levels in 1990, which reflects the trends in the 
+macroeconomic indicators as well as changes in the economy. The Kyrgyz Republic’s GHG emissions are relatively low 
+as the country contributed just 0.035% of total global GHG emissions (excluding LUCF) in 2017, while its population was 
+0.083% of the world’s total population. The per capita GHG emissions were less than one-third of the world average in 
+2017. GHG emissions in 2017, excluding LUCF, were mainly from the energy sector (59%), followed by agriculture (32%), 
+industrial processes (5%) and waste (4%). The transport and the electricity/heating sectors are included in the energy 
+sector and account for 11% and 9% of total GHG emissions, respectively (OECD, 2019; WRI, 2020).
+The Kyrgyz Republic has signed and ratified 13 international environmental conventions. It ratified the United Nations 
+Framework Convention on Climate Change in January 2000 and the Kyoto Protocol in January 2003. The country 
+partnered with Tajikistan and Turkmenistan in 2006 to further the regional climate effort by signing the Framework 
+Convention on Environmental Protection for Sustainable Development in Central Asia (OECD, 2019). It signed the Paris 
+Agreement on Climate Change in September 2016, followed by formal ratification in February 2020.
+In 2015, the Kyrgyz Republic submitted its Intended Nationally Determined Contribution (INDC), outlining both 
+adaptation and mitigation targets and actions. As part of mitigation targets, the country plans to reduce GHG gas 
+emissions by up to 13.8% by 2030 compared to the business-as-usual scenario. If international support is forthcoming, 
+a more ambitious goal aims to cut emissions by up to 31% by 2030 (Table 2.2). Agriculture, energy, water, emergencies 
+(e.g. disaster risk management), health care, and forest and biodiversity have been identified as the key sectors for 
+adaptation (OECD, 2019).Table 2.2 Emission reduction targets under the Intended Nationally Determined Contribution
+Cities Unconditional Conditional
+All emission reduction scenarios are with respect to business as usual
+Intended
+Nationally
+Determined 
+Contribution 
+2030 11.5-13.8%* GHG emissions 29-30.9% GHG emissions
+2050 12.7-15.7% GHG emissions 35.1-36.8% GHG emissions
+Updated 
+Nationally
+Determined 
+Contribution
+2025 16.6% GHG emissions 36.6% GHG emissions
+2030 15.97% GHG emissions 43.6% GHG emissions
+Source: UNFCCC (2015, 2021).
+Note: *Ranges for emission reductions refer to scenarios with low, medium and high population growth scenarios. GHG = greenhouse gas. 
+In 2021, the Kyrgyz Republic adopted an updated NDC, outlining plans to reduce GHG emissions across different 
+economic sectors. The second NDC provides more ambitious targets for emissions reductions (Table 2.2) and identifies 
+energy and agriculture as the key sectors for mitigation and adaptation measures. Interventions in the energy sector 
+could focus on greater energy conservation, improved efficiency, and investments in renewables and natural gas 
+(UNFCCC, 2021). 
+Energy efficiency
+The Law on Energy Conservation, enacted in 1998, sets out to increase the efficiency of the energy sector. It includes 
+several important guidelines for establishing effective institutional and regulatory frameworks for energy efficiency. 
+Most of those guidelines, however, have not been enforced or adopted in the form of secondary legislative acts 
+(Dikambaev, 2019).
+The Law on Energy Efficiency in Buildings is a relatively new and progressive legislative act that was developed with 
+the technical assistance of the UNDP and Global Environment Facility and came into force in February 2012. The 
+law is aligned with the European Union’s best practices and based on the key requirements of the Union’s Energy 
+Performance in Building Directive. It contains many important provisions for establishing effective institutional and 
+regulatory frameworks. Despite the adoption of the secondary legislation required by this law, its requirements have 
+not been implemented or enforced effectively.
+There are currently no laws or minimum energy performance standards and energy labelling schemes for household 
+appliances in the Kyrgyz Republic. That said, there are some Eurasian Economic Union (EEU) standards on energy 
+efficiency and minimum energy performance standards for industrial energy-consuming appliances, such as motors 
+and pumps. These standards were adopted by the Centre for Standardisation and Metrology under the Ministry of 
+Economy (Kyrgyzstandard) before the Kyrgyz Republic acceded to the EEU in August 2015. Following the country’s 
+official accession to the EEU, all EEU standards became applicable in the territory of the Kyrgyz Republic.
+The State Programme on Energy Savings and Energy Efficiency Policy for 2015-2017 introduced energy efficiency 
+criteria for public procurement. However, provisions of the programme were not implemented.3. RENEWABLE ENERGY
+Large hydropower is the backbone of the renewable energy landscape in the country and is responsible for meeting 
+the bulk of domestic demand and electricity exports (see Section 2.2). Other renewables such as solar, wind and 
+bioenergy are at the preliminary stages of deployment – often limited to relatively small applications (see Section 2.3 
+and Box 2.1). Going forward, these renewable energy technologies could play a more prominent role in addressing 
+energy demand and increasing the resilience of the sector. 
+3.1 Renewable energy resources
+The Kyrgyz Republic has considerable and diverse renewable energy resources. While some of its hydropower 
+resources have been utilised, those for other renewables such as solar PV, wind and bioenergy remain largely untapped. 
+It is estimated that small hydropower can generate 5-8 TWh/year; wind, 44.6 gigawatt hours (GWh)/year; solar,
+490 million GWh/year and biomass power, 1.3 TWh/year (UNECE, 2018). 
+Hydropower
+According to a GoK concept note on developing small hydropower, the hydropower resources of the Kyrgyz Republic 
+consist of 268 rivers, 97 large canals and 18 reservoirs, with a total electricity generation potential of 143 TWh per year. 
+Today, about 10% of the potential is used. The hydropower potential of small rivers and waterways is about 5-8 TWh/year, 
+of which the republic uses less than 1% (Ministry of Justice, 2018a). There is significant room for development in the Kyrgyz 
+hydropower sector; some countries have been seen to tap over 30% of their hydropower potential (IMF, 2019).
+Solar
+IRENA’s preliminary assessment of solar PV resources in the country shows that more than 3 645 km2 of the area in the 
+country has good suitability for solar PV (meaning that it has a suitability score of greater than 50%). The analysis further 
+identifies three ideal zones (with a suitability score of greater than 75%) spanning a total of 26 km2
+, which can be used 
+to deploy around 650 MW of utility-scale solar PV projects (see Annex Table A2 for details). The assessment reveals that 
+the most suitable solar PV zones are clustered in the southern region of Osh along the river Kyzyl-Suu (Figure 3.1). These 
+zones are close to the city of Osh, which would allow them to help address urban demand (IRENA, 2021b).
+8 The assessment combines renewable resource data with technical (electrical grid network, slope), and socio-environmental
+(ttd ld ftd ltith) ititdtiitbl
+Figure 3.1 Zoning assessment for solar PV
+Solar PV suitable
+areas and zones
+20
+30
+40
+50
+60
+70
+80
+Scores (%) Zones
+Source: Global Atlas (2022); IRENA (2021b). Map data: United Nations administrative boundaries 2021.
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion 
+on the part of IRENA concerning the status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers 
+or boundaries.Wind
+IRENA’s preliminary assessment indicates promising wind resources. Around 94 000 km2 have a suitability score higher 
+than 50% for onshore wind. The analysis further identifies 77 ideal wind zones (more than 83% suitability score) spanning 
+a total of 2 304 km2
+, which can be used to deploy around 5.8 GW of wind energy projects (see Annex Table A3 for details). 
+Wind zones are clustered in the southern region of Osh along the border with Tajikistan, the northern and southern regions 
+in Naryn and the southern region of Issyk-Kul. Other, sparse clusters are found in western Batken and southern Chuy
+(Figure 3.2) (IRENA, 2021b).
+Figure 3.2 Zoning assessment for wind power
+Wind suitable
+areas and zones
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Scores (%) Zones
+Source: Global Atlas (2022); IRENA (2021b). Map data: United Nations administrative boundaries 2021.
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion 
+on the part of IRENA concerning the status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers 
+or boundaries.
+Geothermal
+The Issyk-Kul region is home to the country’s main geothermal sources, with other resources in the Chui province. In 
+areas with touristic resorts, these resources are occasionally used for heating and hot water supply. In other spots, 
+they are primarily used as spas or for medicinal purposes. The geothermal resources have relatively low temperatures 
+(of not more than 55-60°C) and are characterised by high mineral content, which leads to scaling and corrosion of 
+materials – thus limiting their use (Baybagyshov and Degembaeva, 2019). 
+3.2 Current status of renewable energy deployment
+Renewable energy, in the form of large hydropower, dominates the power sector of the country. Other renewables such 
+as solar PV, wind and bioenergy are virtually non-existent in the electricity mix. The transport and heating sectors are 
+dominated by fossil fuels. 
+Electricity generation is driven by large hydropower, which accounts for 92% of the total production. The large 
+hydropower fleet, which consists of seven large dam hydropower plants ranging from 40 MW to 1 200 MW, account 
+for most of this generation. Almost all of these dams are located on the Naryn river. Small hydropower constitutes 
+below 1.5% of total electricity generation, produced by 19 small hydroelectric power plants with a total capacity of
+54 MW (total generation of 54 GWh). These small power plants are located on the Alamedin, Chu and other small rivers 
+(Vedeneva, 2020). 
+Developing small hydropower plants is one of the Kyrgyz government’s top priorities due to the potential to cut down 
+emissions as well as fuel imports. Greater adoption of small hydropower also represents a move back to the past, 
+when small hydropower was a more significant generation technology. According to statistics, in 1960 more than 100 
+small hydroelectric power plants were operating in the Kyrgyz Republic with annual electricity generation of about 285 GWh (as opposed to just 54 GWh). This was around a third of the total electricity generation in the country. It 
+is estimated that the energy potential of small rivers in all regions allows for the construction of about 87 new small 
+hydroelectric power plants with a total capacity of about 180 MW and average annual electricity generation of up to
+1 TWh (Ministry of Justice, 2018a; UNIDO, 2018).
+A decree on a tendering process for the right to build small hydropower plants in the Kyrgyz Republic was announced 
+in 2017. Shortly after, a tender for the right to construct 14 small hydropower plants was announced. While some tender 
+results for these plants were announced, they have since been cancelled. 
+As of now, there are no large solar power plants in the Kyrgyz Republic. Solar panels are used mainly in small enterprises 
+and households. Some pilot solar projects have been carried out by development partners and donors. Under the 
+United Nations’ Industrial Development Organization project “Reliable Energy Supply of Rural Health Post,” together 
+with UNDP and the World Health Organization, solar installations ranging from 3 kW to 1.5 kW were set up at 19 rural 
+health facilities in the country to support the provision of reliable medical services (UNECE, 2018). Plans are set to 
+construct a 1 000 MW solar power plant in the Issyk-Kul region, with investment agreements signed between the 
+government and Chinese investors (Kudryavtseva, 2022). 
+Solar energy technologies are also being used in pilot district heating projects. The Republican Fund for Environmental 
+Protection and the State Agency for Environmental Protection and Forestry provided co-financing at the request of KP 
+Bishkekteploenergo for the installation of solar collectors in 2017-2019. In 2017, 364 solar thermal panels with a total 
+capacity of 0.5 megawatt thermal (MWth) were installed on the administrative territory of KP Bishkekteploenergo. In 
+2017, 120 panels with a total capacity of 0.168 MWth were installed in the Orto-Say boiler house, and in 2019 396 solar 
+thermal panels with a total capacity of 0.6 MWth were put into operation in the Rotor boiler house (SAEPF, 2020;
+UN ESCAP, forthcoming). 
+The UNDP’s Small and Medium Business Development Project on Energy Access, implemented by the Center for 
+Renewable Energy and Energy Efficiency Development, has also helped start 11 renewable energy and energy efficiency 
+projects. This includes the installation of PV systems for a kindergarten in Isfana, heat pumps in health facilities in 
+Sulukta and Zhin-Zhigen (UNDP, 2021a, 2021b) and solar water heaters in several schools across the country (UNDP, 
+2020). 
+Commercial installation of renewable energy systems includes off-grid PV, solar water heating systems and biogas 
+plants, but is limited to 10-20 installations of small capacity per year. 
+3.3 Renewable energy policies and regulation
+Legislation governing the management of the system for provision of electricity services using renewable energy 
+sources in the Kyrgyz Republic includes the Law of the Kyrgyz Republic on Energy (1996), the Law of the Kyrgyz 
+Republic on Electricity, the Law of the Kyrgyz Republic on Renewable Energy Sources and several other legal acts 
+including the Civil, Land, Water Codes of the Kyrgyz Republic. These last acts regulate aspects of system management 
+for the provision of electricity services using renewable energy sources.
+The Law of the Kyrgyz Republic on Energy defined the general principles of organising and regulating the activities of 
+entities in the fuel and energy complex. The law defines renewable energy resources as “resources that arise naturally, are 
+constantly renewed by nature and can be converted into energy, including geothermal, solar, water and wind energy”.
+In 1997, the Law of the Kyrgyz Republic on Electrical Energy was adopted, aimed at ensuring a reliable, safe and 
+uninterrupted supply of electricity and heat; improving the quality of service; creating a competitive environment; 
+forming an energy market; encouraging private sector development and attracting investment. This law is aimed at 
+regulating the activities of generating, supplying and distributing companies (with any form of ownership) to the end 
+consumer. Article 5 of the law states that the production of renewables-based electricity as well as the production of 
+electricity (from any energy source) for own use with a capacity of up to 1 MW is not licensed.
+At the same time, the sale of electricity, including import and export, is carried out based on a license issued by the 
+authorised body for regulating the fuel and energy complex, for any person, regardless of the organisational legal form 
+and type of ownership (Article 18 of the law).
+Special regulation in the field of renewables is carried out through the Law of the Kyrgyz Republic on Renewable 
+Energy Sources (2008). According to the preamble, the law defines the legal, organisational, economic and financial 
+framework; the mechanisms governing the relations between the state, generators, suppliers and consumers of 
+renewable energy; as well as the production equipment for the use of renewables. It also contains the definition of 
+renewable energy sources (UNECE, 2018).By the order of the State Agency for Regulation of the Fuel and Energy Complex under the Government of the Kyrgyz 
+Republic dated 6 August 2015, No. 1, a methodology for calculating tariffs for electricity supplied by stations generating 
+it from renewable energy sources was adopted.
+It is also worth noting that the development of renewables was included in the National Energy Program of the Kyrgyz 
+Republic for 2008-2010 and the Strategy for the Development of the Fuel and Energy Complex until 2025 as one of 
+the most important measures for ensuring energy security. These documents proposed to complete the rehabilitation 
+and reconstruction of existing small hydropower stations and to build new, small hydropower plants totalling
+178 MW of installed capacity by 2010. The annual average production from renewables was to reach 1 billion kWh/year, 
+which could be achieved through increasing yearly production by local manufacturers of solar collectors
+(up to 100 000-150 000 m2
+), the addition of micro hydropower plants up to 2-2.5 MW/year, PV modules up to
+2-3 MW/year and cumulative installation of wind power stations up to 250 MW. The overall costs of these projects were 
+estimated at around KGS 520-950 billion (USD 13-25 billion). Planned growth of the electricity tariff was supposed to 
+ensure the competitiveness of planned small hydropower plants and renewable energy. 
+According to another policy document, the Program of Development of Small and Medium Power Plants up to 2012, 
+accepted in October 2008, a wind farm with a capacity of 22 MW was to be built near Balykchy city in Issyk-Kul oblast, 
+and small hydropower plants totalling 255.25 MW were to be reconstructed and built. Unfortunately, none of the policy 
+documents accepted in 2008 were implemented, as there was no development of secondary legislation, needed to 
+provide implementation mechanisms.
+Measures for the implementation of the Medium-Term Strategy for the Development of the Power Sector (2012-2017)
+were accepted in May 2012. These included plans for the construction of four small hydropower plants by 2017 within 
+the framework of a European Bank for Reconstruction and Development project. 
+Also in 2012, much-needed amendments to the Law on Renewable Energy were introduced. Producers of renewable 
+energy were to gain several important advantages, creating favourable conditions for attracting investments. These 
+amendments included:
+• Guaranteed connection to the grid for installations producing renewable energy.
+• Guaranteed purchase of all renewable electricity produced by distribution companies throughout the project.
+• Tariffs for energy equivalent to the maximum amount fixed by the retail tariffs, with increasing coefficients, 
+differentiated by the type of renewable energy (introduced by amending the law in 2012).
+• A preferential fixed rate for up to 8 years from the date of plant commissioning.
+• The removal of licensing requirements for renewable energy projects.
+• Import duties set at 0% for renewable-energy-related equipment (introduced by amending the law in 2012).
+In 2015, the Concept of Small Hydropower Development of the Kyrgyz Republic until 2017 was accepted. The development 
+of the Concept was planned within the framework of the Program for the Transition of the Republic to Sustainable 
+Development for 2013-2017. However, secondary legislation to support implementation was not forthcoming.
+In 2018, the next developmental phase of renewable energy legislation started. The National Development Strategy 
+2018-2040 indicates a target of 10% for renewables (excluding large hydropower) in the energy mix. The target is not 
+time bound and does not seem to be legally binding. Given that renewables’ share of the energy mix (excluding large 
+hydropower) is negligible (<1.5% of electric generation), the target would remain elusive in the absence of concrete 
+policies and regulations. 
+The following main changes addressing several issues were introduced to the Renewable Energy Law in July 2019: 
+• Compensation for additional costs of distributing companies for the purchase of electricity generated using 
+renewable energy sources will be considered when calculating and approving the national electricity tariff for 
+consumers, which reduces the financial load on distribution companies. 
+• The feed-in tariffs (FITs) for renewable electricity were defined. Renewable electricity will be compensated at
+1.3 times the highest consumer tariff.
+• Quotas for renewable energy capacities were introduced for each region. The preferential tariffs (i.e. using the 
+coefficient of 1.3 times the highest consumer tariff) could be availed by those who were registered under these 
+quotas.In 2020, the regulation On conditions and procedure of generation and supply of energy with the use of renewable 
+energy sources” was introduced. The new document determines the rules of the renewable energy market 
+(Kudaiberdieva, 2020):
+• The responsibilities of the stakeholders are identified. GKPEN determines the policy in the renewable energy 
+sector, the State Agency for Fuel and Energy Complex regulates tariffs, while local governments address issues 
+related to the allocation of land.
+• The regulation described the procedures and requirements to be fulfilled by a “green” energy producer or supplier 
+in order to become a market player, eligible for all preferences provided by the state.
+• It introduces the concept of a register of renewable energy entities, which will be used to develop an official list of 
+market players and their annual renewable energy generation.
+• Green energy production will be controlled through quotas. Electricity production through the allotted quotas will 
+be eligible for a preferential tariff (i.e. using the coefficient of 1.3 times the highest consumer tariff).
+• A standard contract for the supply of green energy demanded by the banks for the loan issue procedure was 
+developed.
+• The regulation instructs distribution companies to procure green energy from producers at 0.034 USD/kWh
+(or 1.3 x 2.24 KGS/kWh [1.3 x 2.6 USDc/kWh]). With the acceptance of the new medium-term tariff policy 
+for electricity and heat for 2021-2025, the FIT would be increased with the tariff to 0.0386 USD/kWh
+(or 1.3 x 2.52 KGS/kWh [1.3 x 2.97 USDc/kWh]).
+While the policy and regulatory structures seem to be in place, practical implementation of the regulation is still 
+lagging due to the following: 
+• 3.86 USDc/kWh is not enough for most renewable energy technologies. Solar projects have just started touching 
+3 USDc/kWh in locations with perfect conditions (in terms of resources, financing and regulation); it would be 
+difficult to replicate those results in a new market with significant financial constraints. 
+• The institutional responsibilities are still not clear. The quotas have not been defined yet, therefore relevant 
+authorities, having registered the first two batches of total of 63 developers, have proposed some changes to the 
+newly accepted regulation to overcome dependence on quota definition by National Energy Holding. 
+Acceptance of the regulation “On conditions and procedure of generation and supply of energy with the use of 
+renewable energy sources” led to an increase of interest in renewable energy generation from the private sector, and 
+the Ministry of Energy has already issued certificates for being a green energy producer to:
+• 20 companies on 15 November 2021, which received 48 certificates for renewable energy entities, for a total 
+planned capacity of 639.5 MW (of which solar stations comprise 300 MW; floating PV power plants, 0.1 MW; wind 
+stations, 10 MW; and small hydroelectric power plants, 329.45 MW) (Kabar, 2022b).
+• 43 companies on 28 February 2022, which received 61 certificates for renewable energy entities, for a total planned 
+capacity of 1 059.3 MW (of which solar stations compose 298 MW; wind stations, 50 MW; geothermal stations,
+300 MW; and small hydropower plants, 411.3 MW). These companies will be included in the state register of 
+renewable energy entities.
+Renewable energy auctions/tenders were identified by the World Bank (2017c) as an alternative to the FIT-based 
+approach for the deployment of small hydropower in the Kyrgyz Republic. It was suggested that the incentive mechanism 
+can be based on the size of projects, for example, (1) tenders/auctions for larger projects; (2) registration/approval based 
+on screening criteria for medium-sized projects and (3) a simplified regime for micro-hydropower plants.
+In June 2017, the GKPEN officially conducted a tender for the construction of 14 small hydropower plants from
+3 to 20 MW. The tender was open to both national and foreign companies interested in investing in small hydropower, 
+whereas the GKPEN assumed responsibility for facilitating the obtaining of the necessary permits and licences, 
+including land permits. The land for the project was to be allocated by the state, and the land was to remain under 
+state ownership.
+As a result of the tender, GKPEN selected winners for 11 small hydropower projects. However, the official announcement 
+of the winners was followed by a request from members of parliament that the government annul the results of the 
+tender (Asanov, 2017; Energy Charter, 2018). The projects have not been implemented. 
+While distributed renewables that produce electricity are supported by the Law on Renewable Energy, the current 
+tariff regime of the Kyrgyz Republic means that distributed renewables will struggle to compete financially with cheap 
+electricity from the national grid (or cheap diesel-based power generators) at the retail level. The introduction of net metering with the current tariff regime is unlikely to generate significant interest. The introduction of wheeling 
+regulations, coupled with easy licensing for self-consumption, can allow large users to use renewables to complement 
+power from the national grid (which could be less reliable).
+Moreover, the current energy legislation does not allow for the sale of electricity at unregulated rates to household 
+consumers. In regions with unreliable power, this prohibition stops private institutions from setting up mini-grids to 
+supply power to consumers. 
+The Cabinet of Ministers is reviewing all legislation, including for the energy sector. Therefore, the above-mentioned 
+laws and regulations could undergo major changes. As a part of this effort, the Ministry of Energy has formulated 
+a draft Renewable Energy Law, which is expected to abolish the quotas, allow the sale of renewable electricity to 
+customers at unregulated prices, increase the term of FITs up to 15 years and include statutes governing thermal energy 
+and gas fuel, along with renewable electricity production. As of July 2022, the Law was approved by the President of 
+the Kyrgyz Republic.
+3.4 A strong rationale for renewables
+This section analyses numerous factors that promise to boost the adoption of renewable energy technologies such as 
+solar PV, wind, bioenergy and small hydropower. 
+Rising domestic demand and fuel imports
+Energy consumption in the country has been growing rapidly. About half of this demand is met with imported fossil fuels, 
+which poses a substantial and growing economic burden, with implications for energy security. Final energy consumption 
+increased by 54% between 2010 and 2019, to reach 3.5 mtoe (Figure 2.1). Electricity consumption, meanwhile, increased by 
+about 75%, reaching 12.4 TWh (Figure 2.4). Residential electricity demand, the main driver behind consumption growth, 
+increased by 152% after 2010 to account for two-thirds of electricity consumption in 2019. As living standards continue 
+to improve and other sectors of the economy also pick up, growth in energy consumption is expected to continue. If the 
+country does not invest in more sustainable energy sources the dependence on coal and oil is likely to increase, leading 
+to more pollution from the burning of coal and transport fuels, and more imports of oil products.
+The Kyrgyz Republic’s energy consumption outstrips local production, leading to expensive energy imports. This 
+makes the transition towards clean fuels a key imperative for the country. The Kyrgyz Republic exploits local reserves 
+of coal and some oil and gas, but most fossil fuels are imported. In fact, more than half of its energy demand is met 
+through oil and gas imports. More than 90% of oil products (primarily diesel and motor gasoline) and natural gas are 
+also imported (IEA, 2020a). 
+Net energy imports increased from 0.94 mtoe in 2000 to around 1.56 mtoe in 2019 (Figure 3.3). This increase was 
+driven by rising net imports of oil products (mainly diesel and gasoline), which increased four-fold from just 0.3 mtoe 
+to 1.1 mtoe in 2019. Net imports of crude oil also increased, as did domestic refining capacity. Net imports of coal have 
+declined in recent years as the utilisation of local reserves increased. While local coal may reduce import dependence, 
+it results in harmful impacts on air quality, health and the climate.
+Figure 3.3 Net energy imports 
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1.4
+1.6
+2000 2005 2010 2015 2019
+Oil Products
+Natural Gas
+Crude Oil
+Net imports (mtoe)
+Coal
+Source: IEA (2020b).
+Nttillitf il iltThe imports and exports of electricity fluctuate in response to seasonal weather conditions and domestic demand. 
+From 2014 to 2016, the country was a net electricity importer due to rising electricity demand and declining flow in 
+rivers (Figure 3.4). In 2017 and 2018, the Kyrgyz Republic was again a net electricity exporter due to high water levels 
+in reservoirs. As electricity demand continues to increase, and production remains unchanged, exports are expected 
+to decline (SAEPF, 2020).
+As energy consumption continues to rise, reliance on imported fossil fuels will increase. Dependence on imports of fossil 
+fuels can be an energy security issue and is a significant burden on government budgets. Furthermore, dependence 
+on imported fossil fuels could also make the Kyrgyz Republic more vulnerable to volatility in the international and 
+regional fuel markets. Renewable energy solutions can help cater to the domestic demand for electricity and heating, 
+thus helping cut down the import bill. 
+Deteriorating infrastructure
+The assets and infrastructure of the Kyrgyz Republic’s energy and power sector are old and not well maintained (see 
+Sections 2.2 and 2.3 for details). The deterioration of the infrastructure coupled with the financial crisis of the energy 
+system, at some point, will eventually lead either to a significant decrease in the quality of produced energy or an 
+increase in energy prices, both of which will increase demand for independent energy production and support the 
+development of renewable energy.
+Old and undermaintained assets and infrastructure undermine reliability and supply quality. The issue of reliability 
+becomes more pressing in the winter season, as the demand for heating grows and the winter generation capacity 
+cannot keep up (World Bank, 2017b).
+The power system (and the Kyrgyz Republic’s energy system in general) needs significant investments to maintain 
+ageing equipment or develop the capacity required to meet growing demand. Such investments are unlikely under 
+current conditions since the system is losing money and is kept afloat through significant support from the government 
+budget. Tariffs that do not reflect generation costs have significant financial ramifications and are at the heart of the 
+financial issues faced by the power and energy sector (World Bank, 2017b).
+Reducing local air pollution
+The Kyrgyz Republic is among the European and Central Asian countries most affected by diseases linked to indoor air 
+pollution (Balabanyan et al., 2015; World Bank, 2020). Thermal power plants, coal-fired heating units, emissions from 
+road vehicles and the construction and mining industries are some of the key sources of air pollution. 
+The burning of coal for heating and power generation is one of the main reasons for local air pollution, especially during 
+the colder, winter months. Household heating with coal also leads to indoor and outdoor air pollution resulting in 
+significant health problems. The transport sector is a key contributor to air pollution throughout the year. In the winter 
+season, traffic often slows down or comes to a halt on the icy roads. Drivers often do not turn off engines because they 
+need heat. Their idling engines add to the already polluted atmosphere. New high-rise buildings in cities like Bishkek 
+act as barriers to the flow of windwhich would normally carry these pollutants out of the city
+Figure 3.4 Electricity production, consumption, imports and exports, 2010-2020
+0
+0.5
+1
+1.5
+2
+2.5
+3
+0
+5
+10
+15
+20
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+Electricity imports and exports (TWh)
+Electricity consumption and production (TWh)
+Imports
+Exports
+Production
+Consumption
+Source: NSC (2021). 
+Note: TWh = terawatt hour.Renewable energy technologies coupled with energy efficiency could help replace fossil fuels (especially coal) 
+in heating and power generation, thus reducing air pollution. Vehicular emissions can be reduced through greater 
+adoption of public transport and the uptake of electric vehicles, which are powered by an electric grid with high shares 
+of renewables. 
+Climate change mitigation and adaptation
+The Kyrgyz Republic has identified the water, energy, agriculture and infrastructure sectors as the most vulnerable to 
+climate change. Projections indicate that the country could experience temperature rises significantly above the global 
+average, reaching 5.3°C by 2090 under the highest emission pathways. Climate change could lead to impacts such as 
+heat stress, increased arid land cover, erratic water flows and drying watersheds – all with significant implications for 
+the country’s population, especially the poorest and marginalised groups (World Bank Group and ADB, 2021). 
+Decision makers in the country understand the importance of addressing the challenge and are making every effort 
+to ensure that these initiatives are successful. Despite low emission levels, the Kyrgyz Republic remains committed to 
+addressing the global challenge of climate change.
+The latest available national estimates (see Section 2.5 for details) show that GHG emissions in 2017 (excluding LUCF) 
+were mainly from the energy sector (59%), followed by agriculture (32%), industrial processes (5%) and waste (4%). 
+The transport and the electricity/heating sectors are included in the energy sector and account for 11% and 9% of total 
+GHG emissions, respectively (OECD, 2019; WRI, 2020). A greater role of renewable energy and energy efficiency could 
+help reduce the carbon footprint of the country’s energy sector. Renewables can also contribute to adaptation by 
+providing reliable, affordable and modern energy services. Well-designed hydropower projects could be coupled with 
+watershed restoration efforts leading to more climate-resilient water systems. 
+As the decision makers of the Kyrgyz Republic move towards a clean energy transition signified by a more ambitious 
+NDC, they can make a strong case for securing a sizable share of climate finance to support renewable energy 
+deployments. In this context, the government could also approach multilateral financing institutions and other 
+intermediary development financing institutions created to channel public funds from developed countries to climaterelevant projects in developing countries (IRENA, 2016; IRENA and CPI, 2020). 
+Declining renewable energy costs
+The increasing competitiveness of renewable energy technology prices further strengthens the case for the 
+uptake of non-hydro renewables. Falling prices are especially evident for solar PV and wind. The global weighted 
+average levelised cost of energy (LCOE) for utility-scale solar PV fell by 85% between 2010 and 2020 to reach
+0.057 USD/kWh. Meanwhile, the weighted average levelised cost of onshore wind energy decreased by around 56% 
+over the same period to reach 0.039 USD/kWh (IRENA, 2021a). Recent supply chain constraints and commodity price 
+increases are likely to result in increased costs for projects commissioned over the next two years, but to what extent 
+these will be offset by technology improvements and cost savings elsewhere is not yet clear. What is clear is that 
+despite the potential increase in renewable equipment costs, the competitiveness of renewable power has actually 
+improved, given the roughly five-fold increase in gas and coal prices over the past year.9
+Hydropower also remains a very competitive option, where undeveloped economic resources exist, although lead times 
+are longer than for solar and wind projects. The global weighted average LCOE of newly commissioned hydropower 
+projects in 2020 was around 0.044 USD/kWh (around 18% higher than a decade ago). The increase in average LCOE 
+is due to a range of factors but is likely to have been predominantly driven by a shift towards the exploitation of sites 
+with more challenging civil engineering conditions. Still, hydropower is competitive with fossil-fuel-based generation. 
+It was estimated that nine-tenths of all hydropower capacity commissioned in 2020 was producing power for less than 
+the cheapest new fossil-fuel-fired projects (IRENA, 2021a). 
+The decreasing renewable energy costs are facilitated through a conducive financing environment and innovative 
+financing schemes. As the competitiveness of renewable power continues to improve, the case for greater integration 
+of renewables in the Kyrgyz Republic’s energy sector becomes stronger. 
+9 Data are based on API2 Rotterdam Coal Futures and Dutch TTF futures contracts for northwest Europe benchmark pricesAbundant renewable energy resources
+The country has significant renewable energy potential for technologies such as solar PV, wind, bioenergy and hydropower. 
+As shown in Section 3.1, the preliminary findings of IRENA’s resource assessment study reveal that vast areas in the Kyrgyz 
+Republic are suitable for utility-scale solar and wind power. Considering the overall technical potential, solar and wind 
+resources can be successfully used to address part of the future energy demands of the country. 
+The assessment combines renewable resource data with technical (electrical grid network, elevation and slope), and 
+socio-environmental (protected areas, land features and population growth) criteria to determine suitable zones. It 
+reveals that solar PV zones are located in the southern part of the Osh region along the river Kyzyl-Suu (Figure 3.1).
+Wind zones are clustered in the southern region of Osh along the border with Tajikistan, the northern and southern 
+regions in Naryn and the southern region of Issyk-Kul. Other sparse clusters are found in western Batken and southern 
+Chuy (Figure 3.2). 
+Short construction periods of solar and wind energy
+The challenge of the Kyrgyz Republic’s rising energy demand needs to be met with investments in sustainable and 
+clean technologies. Renewable energy technologies such as solar PV, wind and small hydropower tend to be modular 
+and can be constructed in a very short time. Large solar PV projects (around 100 MW) can be completed in less than 
+one year and construction times of six months have been reported for 50 MW wind parks. 
+In contrast, large hydropower projects tend to require longer construction times and can be susceptible to delays 
+and cost overruns. According to Sovacool, Gilbert and Nugent (2014), more than two-thirds of hydropower projects 
+suffer from cost and time overruns, whereas less than 10% of solar and wind energy projects suffer from a similar fate. 
+Renewable energy technologies such as solar PV and wind can provide a quick way of fulfilling rising domestic demand 
+sustainably. 
+Seasonal variation in hydroelectricity generation
+Hydropower generation in the Kyrgyz Republic is influenced by several factors such as the state of river flows, the 
+demand for electricity (especially in winter) and the demand for water for irrigation (especially in the irrigation season, 
+i.e. summer). Seasonal weather patterns and weather extremes can adversely affect the supply of hydropower. Rainfall 
+in the Kyrgyz Republic tends to decline in the winter months (Figure 3.5), which, coupled with reduced meltwater from 
+glaciers, decreases river flows. Low river flows combine with high electricity demand for heating in winters leading to 
+imports of electricity from neighbouring Kazakhstan (around 5 KGS/kWh or 5.9 USDc/kWh) and Tajikistan (around 
+1-1.8 KGS/kWh or 1.2-2.1 USDc/kWh).
+Figure 3.5 Rainfall in the Kyrgyz Republic Rainfall (mm)
+0
+10
+20
+30
+40
+50
+60
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+9.7
+13.4
+19.8
+34
+48.5
+54.8
+37.3
+20.8
+17.3 15.1
+10.9 9.5
+Source: Weather Atlas (n.d.).
+Note: mm millimetreSeveral renewable energy technologies such as solar PV, wind, hydropower and bioenergy have diverse daily and 
+seasonal generation profiles. This allows them to complement one another in a diversified system. In the winter 
+season, wind, for instance, can potentially complement hydropower. An energy system that includes a balanced mix of 
+renewables can therefore be more resilient to seasonal variations.
+Environmental impacts of hydropower
+Hydropower projects should be developed and operated sustainably according to international best practices. As with 
+any other large infrastructure project, large hydropower plants can lead to several negative environmental and social 
+impacts during their construction and operation. These may include habitat destruction, population displacement, loss 
+of forest, disturbance to wildlife, damage to water bodies such as streams and ponds, stress on water resources, heavy 
+dust pollution and equipment noise pollution. 
+Environmental impact assessments of several Kyrgyz hydropower projects report that environmental benefits outweigh 
+impacts. The construction of Kambarata-1, for instance, has had a mainly beneficial impact in the Syr Darya river basin, 
+improving the management of the Central Asian water-energy-food nexus. It can provide the Kyrgyz Republic with 
+electricity during winters, and allow the Toktogul reservoir to store water during the winter, thereby reducing the risk 
+of flooding in the lower reaches of the river and providing sufficient water for irrigation of the downstream countries 
+in spring and summer (Tazabek, 2014). Some studies (e.g. World Bank, 1995) have cautioned that new hydropower 
+projects may create environmental problems such as loss of farmland, resettlement, downstream loss of nutrients due 
+to deposition of silt and impacts on fauna and flora. Natural disasters such as earthquakes and/or landslides could 
+create hazards for downstream populations as the existing Toktogul dam and the planned Kambarata project are 
+located near a major fault in an active seismic area.
+A shift towards small hydropower projects can help avoid some of the impacts linked with large projects. Run-of-river 
+hydropower installations can sidestep several impacts associated with reservoirs. However, deployment should still aim 
+to minimise environmental implications for land use, water flow and ecosystems. Operation and maintenance (O&M) of 
+small hydropower projects can help improve their long-term sustainability, while ensuring that they continue to meet 
+the demand for clean and reliable electricity. 
+3.5 Issues faced in the deployment of renewables
+As technology costs continue to decline and the challenges of climate change, air pollution and rising demand intensify, 
+the case for greater adoption of renewables is growing stronger. That said, wide-scale deployment of renewables in the 
+Kyrgyz Republic has been held back by several issues discussed in Section 3.4:
+• The lack of a level playing field hinders renewable energy deployment at the retail level. Average power and heat 
+tariffs are well below the levels needed to recover costs (Sections 2.2 and 2.3). 
+• Renewable energy targets have not been effective as they are not enforced by law, nor backed by concrete 
+policies. Responsible entities are not identified. Given the significant renewable energy resources, targets are not 
+ambitious. Moreover, there are no clear targets for heating and transport (Section 3.3).
+• So far, renewable energy policies remain limited to the electrical power sector. Policies such as mandates, fiscal 
+and financial incentives and demonstration projects could encourage renewable heating (Section 3.3).
+• Feed-in tariffs have not been successful in attracting investments. The current level of 3.27 KGS/kWh
+(USD 0.39/kWh)10 (i.e. 1.3 x 2.52 KGS/kWh – the highest consumer tariff) is too low. The institutional responsibilities 
+are still not clear, quotas remain undefined. While certificates of registration as renewable energy producer have 
+been awarded to over 70 companies, they have not been offered FITs (Section 3.3).
+• Auctions/tenders have not been successful in the past. While winners were selected, projects have not been 
+implemented due to due to various disagreements (Section 3.3). 
+• Distributed generation policies such as net metering and wheeling are not in place. Even if they were enacted/
+implemented, the tariff regime is not conducive. The sale of electricity at a rate exceeding 2.52 KGS/kWh
+(USD 0.3/kWh) is hindered (Section 3.3).
+• Permitting procedures require further clarification. Location of renewable energy plants is permitted on some 
+categories and types of land, with some categories requiring transformation to other categories of land, which is 
+difficult.
+• Renewable energy capacity building is needed for both public and private stakeholders. Lack of adequate skills 
+and know-how is hindering all stages of renewable energy deployment starting from policy making and going all 
+the way to project construction and operation.4. RECOMMENDATIONS
+A smooth transition towards a sustainable energy system that addresses the various energy sector challenges by 
+utilising the extensive renewable energy resources in the Kyrgyz Republic requires a conducive policy and regulatory 
+environment that is well designed and implemented. This section presents a set of short- to medium-term recommended 
+actions to address key challenges and support the country in moving towards a diversified and climate-friendly energy 
+system. These recommendations and actions focus on creating a more conducive environment for renewable energy 
+investments and project development.
+4.1 Legal and regulatory reform
+Scaling up the deployment of non-hydropower renewables in the Kyrgyz Republic requires an extensive reform of the 
+policy and regulatory framework. A shift towards overarching policy frameworks, complemented by strong institutions, 
+laws and regulations is vital in catalysing change in the energy sector status quo. A substantive reform of energy pricing 
+structures and streamlining of regulatory procedures for renewable energy deployment can help create a favourable 
+regulatory environment for renewables. 
+The Kyrgyz Republic has one of the lowest electricity tariffs in the world. Tariffs for heat and electricity are well below 
+cost-recovery levels (Energy Charter, 2018; Rosenthal, Gassner and Hankinson, 2017). As discussed in Section 3.4, this 
+contributes to the inefficient use of energy and severe underspending on maintenance and new investments, while 
+making renewables uncompetitive in comparison with easily and universally available cheaper grid energy. Concerns 
+about poverty and affordability have meant that planned tariff reforms have not been implemented (Holzhacker and 
+Skakova, 2019).
+Renewable energy deployment in the Kyrgyz Republic has also been held back in the past by the lack of a streamlined 
+process for bringing the projects online. Despite the presence of an approved FIT (see Action 3), projects were often 
+held back for several reasons including a lack of clear institutional responsibilities governing the implementation and 
+operation phases. The lack of comprehensive legislation governing land allocation had also been a key hindrance to the 
+development of renewable energy sources. 
+Action 1: Create a level playing field with energy tariff reforms
+Well-designed tariff reforms in the energy sector can help generate revenue for investments in clean and modern 
+infrastructure. They can also help lower the barrier to market entry for distributed renewable energy technologies such 
+as small-scale solar PV and solar water heating. Appropriate retail tariffs can stimulate the emergence of alternative 
+suppliers of electricity and heat supported by regulations encouraging net metering and wheeling. 
+Political instability, an incomprehensive energy sector structure and lack of energy sector management transparency 
+have resulted in a loss of trust and extremely low awareness of the population about the energy sector crisis. Over 
+65% of respondents to household surveys said that electricity tariffs are too high and should be reduced (World Bank, 
+2017a). To be sustainable, tariff reforms need to be designed in a way to minimise the economic impact on low-income 
+and marginalised parts of society. Moreover, reforms should be coupled with awareness campaigns that provide more 
+clarity about subsidies and the financial condition of the energy sector to help reduce the social and political opposition 
+to increasing tariffs.
+Countries such as India, Indonesia, Morocco, Pakistan and Zimbabwe are using tariff reforms to generate funds to 
+make their energy sectors more sustainable while creating a level playing field for renewables. In Pakistan, retail tariffs 
+have been increased gradually to improve the financial viability of the power sector. The higher tariffs have fuelled 
+the growth of the domestic solar industry, which installed around 60 MW of net-metered residential and commercial 
+rooftops in the 2019-2020 financial year (The News, 2020). 
+Current status: The government has recently (2021) indicated that an increase in tariffs is needed to help address the 
+financial issues faced by the energy sector (Eurasianet, 2021). The tariffs for non-residential customers were increased 
+by 12.5%; however, the tariffs for residential customers have been left unchanged, and were even lowered for lowincome families due to the high political sensitivity of the issue (SARFEC, 2021). It is expected that the tariffs will 
+be raised each year by a percentage to account for inflation in accordance with the medium-term tariff policy for 
+electricity and heat for 2021-2025, accepted in October 2021 (GoK, 2021).Action 2: Streamline the procedure for bringing renewable energy projects online
+Permitting requirements and procedures should be streamlined under an overarching renewable energy law to provide 
+a clear direction for deployment. The overarching law should be implemented through concrete secondary regulations 
+that clearly articulate the process and identify responsible government entities to facilitate the renewable energy 
+sector. The stability of the governance structure and well-defined responsibilities of each involved government body 
+can increase investor confidence, reduce barriers to entry and lead to more efficient project deployment. 
+The overarching principles for the design of the procedures should focus on simplicity, transparency and the flexibility to 
+adapt to evolving market and regulatory conditions. As a starting point, land for renewable energy project development 
+could be allocated by the government in zones with adequate accessibility to infrastructure, such as the electricity 
+grid, water and roads. The amendments and additions to the legislation on the “provision of land plots”, accepted in 
+July 2021 could help ease the process of land allocation for renewable energy projects. Further amendments to the 
+Land Code, Water Code and the secondary legislation governing the provision of land plots are needed to enable the 
+building of renewable energy plants on additional categories of land.
+Furthermore, a one-stop-shop system for renewable energy projects could be set up to streamline the permitting 
+process and enable better coordination of internal administrative processes. This system should be equipped with 
+the necessary decision-making abilities to enable the different stages of project development. Publishing procedures 
+online, with clear guidance on the necessary steps including the documentation, timelines and the relevant government 
+institutions could give much-needed transparency to developers.
+Current status: The procedures for renewable energy project development are outlined in Regulation No. 525 (October 
+2020). At the moment, the energy sector permitting processes are under revision as part of a wider reform of the 
+sector’s governance structure.
+4.2 Policy support mechanisms
+The current policy support framework for renewables has not been successful in encouraging private sector participation. 
+Strengthening the confidence of the private sector to invest in renewables would require the implementation of welldesigned support mechanisms that are attuned to specific national and local contexts. While long-term stability of 
+policies is the key, policies must continuously adapt to changing market conditions to promote cost-competitiveness. 
+There is a need to identify support mechanisms that would facilitate the transition towards a functioning renewable 
+energy market. FITs are instrumental in the initial development of a national market for renewables. However, as the 
+market matures, auctions, especially for large-scale installations, could help procure renewables at more competitive 
+prices through price discovery. Furthermore, support mechanisms should also address the decarbonisation of the end 
+uses, with a special focus on heating and transport. 
+The GoK has introduced several policy support mechanisms such as FITs, tenders and end-use sector-specific policies 
+with limited success. FIT schemes have not yet been deployed due to factors such as unclear institutional responsibilities, 
+low tariffs and concerns about the long-term certainty of FITs. So far, tenders have not led to project implementation. 
+While winners were selected, projects have not been completed due to various disagreements. Finally, the transport and 
+heating sectors are very important from the perspective of energy consumption and energy-sector-related emissions. 
+Coal, natural gas and oil are heavily used for district heating and stand-alone heating systems leading to significant 
+emissions11 and local air pollution (IEA, 2020b). Simultaneously, the demand for diesel and gasoline has been increasing 
+as more vehicles are added to the transport fleet. Cities such as Bishkek and Osh are suffering from local air pollution, 
+which can be partly attributed to transport emissions. Policy support for the introduction of renewables and energy 
+efficiency in the heating and transport sectors offers a promising opportunity to reduce air pollution and mitigate GHG 
+emissions, with significant co-benefits.
+11 While actual emissions are not known, energy production (power and heat) accounted for around 24% of total energy-related
+emissions in 2010 (SAEPF, 2016). Since most of the electricity comes from hydropower, heating likely accounts for the bulk of the
+energy production emissionsAction 3: Improve the feed-in tariffs
+The FIT scheme should be revised and improved based on factors such as changing market conditions, competitive 
+renewable energy costs and clearer resource assessments. The selection of an appropriate tariff is an extensive process 
+that should be led by the government with active and diverse representation from all stakeholders (government 
+institutions, private sector, academia and development partners). Any reform of FITs needs to be supported by a clear 
+demarcation of institutional responsibilities. Moreover, FITs, just like any other policy mechanism, need to be supported 
+by a conducive policy, regulatory and institutional landscape to ensure rapid uptake of renewables.
+FITs (and feed-in premiums, FIPs) have been adopted by more than 80 countries around the world. Globally, some 
+of the leading solar PV installation markets around the world such as China (49 GW), Viet Nam (11 GW) and Japan
+(5.4 GW) have achieved their levels of deployment in great part due to their FITs (IRENA, IEA and REN21, 2018). As their 
+sectors matured, and with their growing need for a policy scheme that better reflects the falling technology costs, most 
+of these countries are using auctions, at least for their large-size projects.
+The main challenge of a FIT relates to setting the right tariff or premium level, and adjusting it as needed. FITs that are 
+too high can lead to windfall profits, strain the government budget and possibly lead to high consumer tariffs and the 
+development of surplus capacity, which may need to be curtailed. Countries have addressed these issues using several 
+approaches. France, Germany and the United Kingdom, for instance, used degression mechanisms that lower the FITs 
+as the level of deployment increases and costs decline (IRENA, 2014). China combines FITs with regional quotas to limit 
+solar PV deployment to target levels (Ye, Rodrigues and Lin, 2017). 
+While many countries are moving towards auctions (Action 4) to curb deployment costs, some are choosing to 
+implement both. For example, Germany, Italy and Malaysia have simultaneously used auctions for large-scale projects 
+and FITs/FIPs for smaller projects (IRENA, IEA and REN21 2018).
+Finally, it should be noted that tariff setting alone may not be the only determining factor and a more comprehensive 
+reform of the policy, regulatory and institutional landscape might be in order. The current FIT regime provides a FIT 
+of 3.27 KGS/kWh (i.e. using a coefficient of 1.3 times the highest consumer tariff) (3.86 USDc/kWh) for all electricity, 
+produced by renewable plants. This FIT is deemed too low by sector stakeholders. However, it should be noted that the 
+coefficient for solar plants used to be as high as 6 up until 2017.12
+Current status: The FITs and their implementation mechanism are under review by the MOEI. In late 2021 and early 
+2022, 63 companies were registered as renewable energy producers, marking their intention to develop over 1 700 MW 
+renewable capacity across solar, wind and small hydro. The new Renewable Energy Law, adopted in July 2022, offers 
+a FIT with coefficient of 1.3 times the highest consumer tariff. It is not clear if the FIT will be offered to all stakeholders 
+who have already registered as renewable energy producers.
+Action 4: Implement auctions for large capacities
+Renewable energy auctions need to be designed in a way that attracts investors and encourages competition, while 
+also ensuring that the projects are delivered. Auctions can be used to attract investment for relatively large-scale 
+projects in all technologies including hydropower, solar and wind. IRENA’s report “Renewable Energy Auctions: A Guide 
+to Design” offers an overview of auction design options and their resulting policy trade-offs (IRENA, 2015). 
+While it is important to have a developed renewable energy market that can ensure the required level of competition, 
+it should be noted that several countries with nascent renewable energy markets are also using auctions to attract 
+investments. Countries such as Madagascar, Senegal, Togo, Zambia and neighbouring Uzbekistan are using the World 
+Bank’s Scaling Solar Program, which is a package of technical support, document templates, pre-approved financing, 
+insurance products and guarantees targeted towards large-scale solar project development facilitated through auctions 
+and private financing (or from the International Finance Corporation). Uzbekistan awarded a 100 MW plant in the Navoi 
+region to the United Arab Emirates’ Masdar through auctions for 27 USD/MWh. The plant was commissioned in 2021 
+(Ellichipuram, 2021; IRENA, 2019). Elsewhere in the region, Kazakhstan has used auctions to award more than 1 GW of 
+renewable energy projects including 600 MW of wind, 350 MW of solar PV and around 100 MW of small hydro. The 
+success of renewable energy auctions in countries with relatively new renewable energy markets demonstrates that the 
+design of the auctions and overarching regulatory landscape can be very important factors. 
+Current status: There are no officially confirmed plans in place to conduct any renewable energy auctions in the near 
+future. Stakeholders have suggested that the EEU integration of the energy market in 2025 could be an opportune time 
+for the introduction of auctions.
+12 It should also be noted that wind and solar were much more expensive at that point in timeAction 5: Enact policies to decarbonise end-use sectors (heating and transport)
+The decarbonisation of the heating sector requires a multifaceted approach, which includes renewables-based 
+electrification, use of renewable heating (solar thermal, biomass, geothermal) and investments in efficiency and 
+infrastructure including for district heating (IRENA, IEA and REN21, 2020). According to the 1.5°C Scenario in IRENA’s 
+World Energy Transitions Outlook, electrification will supply more than half of global energy demand, including for 
+heating and cooling. As such, the electrification of heating and cooling will play an important role in the decarbonisation 
+of the energy sector. 
+Heat pumps are becoming popular globally and incentives such as tax exemptions and rebates can be considered to 
+promote them in the Kyrgyz Republic. China, for instance, offers a 10% rebate, approximately, on the purchase of air 
+source heat pumps. Powered by the Kyrgyz hydroelectricity-based grid, heat pumps present a practical solution for 
+increasing the share of renewable energy in heating end uses. Financial and fiscal incentives can be important nearterm mechanisms to encourage the switch to solar water heaters in buildings. These incentives may include a range of 
+grants, low-interest loans and tax incentives.
+The electrification of heating requirements needs to be complemented by the strengthening of current generation and 
+distribution capabilities. Due to shortages of water and related low flow to large hydropower dams, household use of 
+electricity for heating has been restricted in the past several years. 
+Moreover, the authorities should continue to develop and pilot innovative solutions (e.g. solar-assisted district heating, 
+heat meters) to increase efficiency and reduce fuel consumption. Lessons learnt from pilot projects should be used to 
+implement extensive decarbonisation projects in the sector.
+In the transport sector, more efficient public transport, electric vehicles and support for alternative modes (e.g. cycling 
+and walking infrastructure) can help. In the long term, the introduction of electric vehicles can be significant in reducing 
+local pollution and GHG emissions. This, and the electrification of end-use sectors in general, needs to be coupled with 
+investments in the infrastructure needed for power generation, transmission and distribution.
+Public procurement of electric vehicles, supported by investments in charging infrastructure, and related expertise, 
+can help stimulate their roll-out in the Kyrgyz Republic by making them more visible in the public space. Buses, 
+government-owned vehicles and taxis are attractive early targets on the road towards e-mobility. While the global 
+electric bus market continues to be dominated by large economies like China, India and the United States, other 
+governments in the developing world are also working to add them to their public transportation fleets – often in 
+collaboration with international development partners. The city of Santiago, Chile, is home to the largest fleet of 
+electric buses outside China (776 buses). Chile’s federal government has set a goal of electrifying the country’s entire 
+bus fleet by 2040. Similarly, Bogotá (Colombia) and Mexico City (Mexico) increased their electric bus fleet with the 
+acquisition of 406 buses and 193 trolleybuses, respectively, in 2020 (Bnamericas, 2021). 
+The penetration of electric vehicles in private transport demands a broader set of policies, including financial incentives 
+to facilitate their acquisition and cut their usage costs. In the short term, greater adoption of public transport offers 
+the most effective solution. 
+The decarbonisation of end-use sectors can be complemented through measures to encourage renewable generation 
+by consumers. The government could use incentive schemes to encourage individual consumers and mini-grids 
+to provide low-cost renewable generation to the grid (and to other consumers). The introduction of net metering, 
+wheeling and other distributed generation policies can help unlock the small-scale market segment. 
+Current status: The Kyrgyz Republic had a zero customs duty on the import of electric vehicles for several years. The 
+government is also planning to introduce tax and customs incentives on vehicles with hybrid engines (SAEPF, 2020). 
+The new Tax Code was introduced on 18 January 2022 and the new incentives are not yet clear. As of now, there are no 
+government initiatives to develop charging stations.4.3 Long-term energy planning
+The Kyrgyz energy sector needs long-term vision and planning that is cognisant of domestic and international trends 
+and aims to ensure an affordable, sustainable, secure and reliable supply of energy to meet the country’s development 
+requirements.
+A better assessment of certain renewable energy resources can help pave the way for renewable energy deployment 
+in the Kyrgyz Republic. Given the country’s extensive experience in large hydropower, the potential for hydro has 
+been analysed in the past; however, more needs to be done to account for the planning challenges posed by erratic 
+hydrological patterns due to climate change. For solar and wind resources, there is a lack of comprehensive economic 
+potential analysis and zoning. 
+A comprehensive plan for the development of the energy sector to address the challenges of rising demand, ageing 
+infrastructure and increasing climate impacts is yet to be developed. Electricity and energy consumption in the Kyrgyz 
+Republic has been increasing rapidly. The ageing energy infrastructure requires significant investments to meet growing 
+demand. The country’s production from hydropower exhibits seasonal and annual variability, which significantly affects 
+power reliability. Kyrgyz energy sector trends must be seen against the backdrop of the long-term impacts of climate 
+change and an evolving global market in which renewable technology costs have been declining rapidly. Successful 
+national energy sector planning demands a thorough analysis that incorporates all these dynamic factors. 
+Energy planning can contribute to the process of setting comprehensive and ambitious renewable energy targets. 
+The existing targets are not specific and not ambitious enough to capitalise on the rich renewable energy resources 
+of the country or to account for the rapidly increasing energy demand. As existing generation capacities cannot 
+cope with growing demand, the choice would be to either import more electricity - which is limited by the technical 
+capacities of the power lines connecting the Kyrgyz Republic with Kazakhstan and other neighbouring countries or 
+support the development of local renewables, facilitating local energy sector and economic growth. Renewable energy 
+technologies such as solar PV, wind and bioenergy tend to be modular and can be deployed rapidly, which makes them 
+ideal candidates for meeting rising demand, while contributing to the diversification of energy sources, enhancing 
+energy security and climate resilience. 
+Action 6: Improve renewable energy resource mapping
+As the Kyrgyz Republic aims to achieve a more diversified power generation mix, zoning for solar PV and wind 
+generation projects should be prioritised. 
+Renewable energy zones can be defined as areas with high-quality resource potential where deployment is viable 
+from a technical, economic and environmental standpoint. These areas satisfy various criteria such as proximity to 
+grid infrastructure, load centres, road networks and other generation projects. The zoning exercise can assist future 
+planning, target setting and policy development.
+The characteristics of each zone, such as annual generation and estimated LCOE, can help policy makers in planning. 
+Moreover, an enhanced mapping exercise can also be a very useful basis for project developers, with the potential for 
+reducing development and transactional costs. 
+IRENA’s potential suitability analysis (Section 3.1), which identifies suitable zones for solar PV and wind, can serve as 
+an important initial step towards a complete zoning assessment. The assessment identifies three suitable solar PV 
+zones clustered in the southern region of Osh along the river Kyzyl-Suu (Annex Table A2). It also found 77 wind zones 
+clustered in the southern region of Osh along the border with Tajikistan, the northern and southern regions in Naryn 
+and the southern region of Issyk-Kul. Other sparse clusters were found in western Batken and southern Chuy (Annex 
+Table A3). Follow-up studies could build on IRENA’s zoning exercise by performing a detailed analysis of the technical 
+and economic potential within the identified solar and wind zones. As a next step, these analyses can be strengthened 
+by ground-based measurements. 
+Current status: There is an active initiative focusing on renewable energy resource assessment, mapping and zoning, 
+supported by USAID. Action 7: Develop long-term energy scenarios 
+A detailed long-term planning exercise should be undertaken for energy demand and supply in all sectors to identify 
+the optimal energy mix and inform policy decisions accordingly. Given the strong share of the Kyrgyz Republic’s 
+non-electrified end-use sectors in energy consumption and emissions, a deeper focus on sectors such as heating and 
+transport is needed, which should fully assess the potential for electrification, and energy efficiency and renewable 
+energy penetration. Given the extensive linkages between the power and water sector of the country, the dynamics 
+of seasonal and climatic patterns in water requirement for energy and food production should be a cornerstone of 
+any national energy sector planning exercise. The long-term integrated energy plans can be essential for efficient 
+investment in infrastructure which avoids duplications and stranded assets.
+It should be noted that the demand for electricity (and energy in general) is relatively hard to predict. Scenario analyses 
+that explore a host of different energy sector futures with their underlying assumptions can be used to develop a better 
+understanding of the consequences of energy sector decisions. These scenarios can provide useful insights about the 
+sector and can serve as essential inputs for setting targets and enacting policies for transitioning towards sustainability. 
+Accurate and timely data and information are crucial for the formulation and revision of energy plans. Therefore, 
+energy sector planning needs to be complemented by reforms in the collection and reporting of energy statistics. 
+IRENA’s report, Planning for the Renewable Future: Long-Term Modelling and Tools to Expand Variable Renewable 
+Power in Emerging Economies, provides insight for planning greater renewable energy integration in the power sector. 
+The report emphasises the need to adequately address variability, uncertainty and the location-dependency of variable 
+renewable energy in long-term generation expansion models, and to integrate stronger feedback loops between 
+planning stages (IRENA, 2017).
+The formulation of energy sector plans and scenarios can be an essential step in developing investment trajectories 
+for the sector. Once the funding requirements for the energy scenario are determined, the government (and other 
+stakeholders) could plan for accessing different funding sources. The funding could come from various revenue 
+sources, including tariff reforms, taxes (e.g. on transport fuels), as well as contributions from donor organisations. 
+Additionally, the government could also target international climate funds and climate finance institutions such as the 
+Global Environment Facility, the Climate Investment Funds and the Green Climate Fund (IRENA, 2016; IRENA and CPI, 
+2020). The Climate Investment Platform, a joint initiative by IRENA, UNDP and SE4All, which is helping developers in 
+preparing bankable projects and matchmaking with financing partners could provide another avenue for accessing 
+renewable energy finance. 
+Current status: The Kyrgyz Republic has finalised the development of the National Expert Sustainable Development 
+Goals Tool for Energy Planning (NEXSTEP) with the support of the United Nations Economic and Social Commission 
+for Asia and the Pacific, which aims to help policy makers make informed policy decisions to achieve their Sustainable 
+Development Goal (SDG) 7 and NDC targets by creating several energy sector development scenarios up to 2030. 
+The scenarios will be used in the development of a national SDG 7 roadmap, which would be a good starting point to 
+develop enabling policies to achieve SDG 7 and NDC targets. 
+Action 8: Establish comprehensive and ambitious renewable energy targets
+The GoK can send strong signals to all sector stakeholders by establishing renewable energy targets that are 
+representative of the country’s strong renewable energy potential, declining technology costs, rising demand for 
+energy and socio-economic development goals. 
+These targets should have a direct connection to national high-level priorities and be backed by strong political 
+commitment and legislation. They must to be rooted in long-term energy plans and rigorous scenario analysis involving 
+all generation technologies. They also need to be directly linked to the country’s NDC, long-term strategies and broader 
+climate objectives. 
+Furthermore, they should be defined at the level of the energy sector and disaggregated by sector (transport, heating, 
+electricity, etc.). Within the electricity sector they could be divided by specific technologies (see examples in Table 
+4.1). Stakeholder engagement during the design of the process could strengthen credibility and feasibility. The targets 
+should be clearly defined and the responsible entities identified. Finally, targets need to be backed by specific policies 
+and measures that would expedite renewable deployment in the country. IRENA is already contributing to this effort 
+to help build capacity in the local public and private sectors, with dissemination activities focusing on target setting 
+and auction design.
+Current status: The Green Billion Plan, which aims to stimulate the production of a billion kWh from renewable energy 
+technologies, has been discussed on and off for over a year by the government but has not yet been offered for open 
+discussion.Table 4.1 Examples of technology-specific targets
+Country Technology Target
+Viet Nam 
+Hydropower 25.4 GW by 2030
+Wind 6 GW by 2030
+Solar 12 GW by 2030
+Morocco
+Wind 20% of capacity by 2030
+Solar 20% of capacity by 2030
+Hydropower 12% of capacity by 2030
+India
+Solar PV 300 GW by 2030
+Wind 140 GW by 2030
+Note: GW = gigawatt; PV = photovoltaic.
+4.4 Facilitate financing and de-risk investments
+A large share of energy investments in the Kyrgyz Republic has been through foreign direct investment (FDI). The 
+domestic banking sector does not have significant experience financing non-hydro renewables. Meanwhile, a lack of 
+bankable renewable energy project proposals is a major deterrent to renewable energy financing in the sector. In this 
+context, improved power purchase agreements (PPAs) and the greater adoption of public-private partnerships (PPPs) 
+could de-risk investments and help leverage the financial and technical capabilities of the private sector. 
+PPAs have a high degree of relevance in facilitating renewable energy investments. PPAs are very important to 
+renewables, given that before investing in independent power producer (IPP) plants, private entities and lenders want 
+to be sure that there is a secure market for the output of their production facilities. In the Kyrgyz Republic, the duration 
+of a PPA for renewables is set to a maximum of 10 years, and current draft changes to the Law on Renewable Energy 
+sets the PPA duration at 15 years. The contract parties are responsible for monitoring the PPA implementation. In the 
+past, there have been some issues of non-payment to small hydropower plants by distribution companies.
+PPPs are projects in the field of infrastructure development that introduce private sector funds, expertise and motivation 
+into areas that are normally the responsibility of the government. Globally, PPP arrangements have become widespread 
+in the field of renewable energy. They have been used in developed and developing countries in conjunction with 
+several policy mechanisms ranging from quotas in the United States to FITs and auctions in Europe and the rest of the 
+world. In the region, the government of Uzbekistan recently entered a PPP arrangement with Masdar Clean Energy for 
+the development of a competitively tendered 100 MW PV solar power plant. 
+Horses grazing near a lake in Song kul, Kyrgyzstan.
+© MintImages / EnvatocomAction 9: Adopt a standard power purchase agreement
+The key design elements of current renewable energy PPAs should be reviewed in accordance with international best 
+practices. Where possible, this effort should be complemented by a thorough review of contractual project document 
+templates for renewables along with the development of standardised PPAs. 
+In this context, the Open Solar Contracts initiative, jointly launched by IRENA and the Terrawatt Initiative, can be a 
+very useful resource for contractual templates to be included in solar power procurement. The initiative’s contract 
+templates are the result of a rigorous collaboration involving key stakeholders at the intersection of the solar energy 
+and legal sectors. The contracts are primarily designed for small- and medium-sized, on-grid solar PV projects and 
+include agreement templates for power purchase, implementation, O&M agreement, supply, installation and finance 
+term sheets (IRENA and TWI, 2019). 
+Variable renewable energy technologies such as wind, solar and small hydropower have some distinct characteristics, 
+which need to be accounted for in their PPAs. These characteristics include variability (how much generation and 
+at what time), uncertainty (predictability of the generation) and location constraints (co-ordination between grid 
+and generation). These characteristics should be adequately accommodated through PPA design features governing 
+supply and purchase commitments, curtailment clauses and requirements for dispatch procedures.
+Price uncertainty and the fear of non-payment can have a significant influence on investment decisions and financing 
+costs. This makes the role of PPAs even more important. These agreements need to be backed by strong legal regulation 
+that helps improve the credibility of the sector, lowers capital costs and attracts investors and project developers.
+Current status: The government is in the process of approving a standard PPA for specific renewable energy 
+technologies.
+Action 10: Introduce public-private partnerships 
+To be successful, the introduction of PPPs in the Kyrgyz energy sector needs to be backed by strong political will, 
+capable institutions and conducive legislation. Fair risk-sharing criteria must be established that support profitable 
+returns for the private sector. If the services are not delivered at the required level the private sector must be penalised. 
+On the public side, there must be acceptance of the principle of whole-life costing, and an absolute commitment to 
+the government’s long-term (15-30 year) payment for power generation. Overall, the responsibilities of all stakeholders 
+should be clearly defined to ensure smooth operation and delivery of essential public services. 
+Well-designed PPPs allow for several advantages such as on-time/budget delivery; optimal risk management; 
+efficiencies from the integration of design, construction, financing and O&M; competition and greater participation; and 
+accountability for the provision of renewable energy. By bringing in a more experienced private developer backed by 
+a credible off-taker, PPPs can help de-risk investments and lower deployment costs. PPPs transfer several risks such as 
+cost overruns (construction, O&M) and forecast errors (e.g. overestimation of resources) from the public to the private 
+sector, thereby creating value for the government (UNECE, 2013).
+Investors are increasingly becoming risk averse and before lending to IPPs, they expect that formalities such as planning 
+consents, grid connection offers, PPAs (Action 9) and construction contracts are in place. Therefore, governments 
+should seek to facilitate the IPP in arranging these formalities. Moreover, the government should also ensure that the 
+whole process is carried out transparently to develop credibility among developers and lenders. 
+Current status: While no PPPs have been announced in the renewable energy sector, a memorandum of understanding 
+has been signed between the Ministry of Energy and private companies such as Masdar and EcoEner to develop solar 
+and hydropower projects (AKIpress, 2022; Skopljak, 2022).
+4.5 Capacity development in the public and private sectors
+For the Kyrgyz Republic to achieve ambitious targets for renewables and energy efficiency, the country will need 
+concerted capacity-building efforts on several fronts. The Kyrgyz Republic’s renewable energy sector has historically 
+focused on the deployment and maintenance of hydropower, which means that know-how and familiarity with other 
+clean technologies (renewables and energy efficiency) are scarce in both the public and private sectors.
+Lack of awareness of renewable energy is a key challenge in many government departments and ministries, which 
+often end up blocking policy development and delaying approvals and funding for projects. Institutional stakeholders 
+need to ensure adequate co-operation and co-ordination among themselves to respond promptly to the dynamics of 
+the renewable energy sector.The private sector could also benefit from extensive capacity building to help develop a capable renewable energy 
+workforce and a thriving domestic renewable energy value chain. Several universities in the Kyrgyz Republic offer 
+education with a specialisation in renewable energies, including the Kyrgyz State Technical University, Kyrgyz-Russian 
+Slavic University and the Kyrgyz-Uzbek University. Some of these institutions are co-operating with international 
+scientists on research projects focusing on different areas of the clean energy landscape. That said, the renewable 
+energy market remains small, and it is not able to absorb the students graduating from universities.
+Action 11: Enhance institutional capacities
+The technical and co-ordination capabilities of public and private sector entities require improvement to facilitate 
+renewable energy deployment. Capacity needs assessment studies aimed at different stakeholders, such as public 
+institutions, private sector, academia, the general public, etc., could be an important preliminary step in this direction.
+Support from international donors and development banks could be sought to set up periodic capacity-building efforts 
+in relevant government entities. Capacity building in the public power sector institutions, for instance, could focus on 
+areas such as cost competitiveness of renewables, technical issues in the integration of variable renewables in the grid, 
+management of a system with substantial shares of renewables and introduction of flexibility mechanisms such as 
+storage and demand-response. 
+Capacity building in the public institutions involved in policy making can focus on areas such as the design of renewable 
+energy targets, renewable energy auctions, design and implementation of FITs, net metering, etc. 
+IRENA is already contributing to this effort to help build capacity in the local public and private sectors with 
+dissemination activities that could potentially focus on target setting, auction design and resource assessments. In this 
+context, a lot can be learned from the experiences of countries at different stages of deployment. In solar deployment, 
+the Kyrgyz Republic can learn from the experiences of a wide variety of countries including established markets
+(e.g. China, India, etc.), as well as markets that are only now starting to make strides in the sector (e.g. Kazakhstan, 
+Türkiye, Ukraine, Uzbekistan, Zambia, etc.). 
+Furthermore, awareness of renewable energy’s benefits and competitiveness can also encourage adoption among 
+people in the private sector. 
+Current status: Several projects are already striving to create awareness in the tourism and agricultural sectors. The 
+SWITCH-Asia project, for instance, aims to promote energy efficiency and renewable energy in the community-based 
+tourism sector in Central Asia, while the PERETO project is aimed at promoting energy security and sustainable growth 
+by promoting sustainable production and consumption and energy and resource efficiency practices among small- and 
+medium-sized enterprises in the tourism sector of the Kyrgyz Republic. 
+Action 12: Educate and train a skilled workforce
+Investment in the education and training of workers such as engineers, technicians and other skilled personnel is 
+very important. Universities, vocational training institutes and schools all have a role to play. As such, the government 
+authorities in charge of energy, training and education should collectively work towards the introduction of renewable 
+energy training curricula. 
+The creation of renewable-energy-related skills is best seen in the context of an ongoing global transition that has 
+transformational impacts on the energy sector workforce. Fossil-fuel-based jobs are already facing several challenges 
+due to variations and fluctuations in demand. IRENA’s analysis foresees that by 2050, 42 million people could be 
+working globally in the renewable energy sector with an additional 21 million people employed in energy efficiency 
+and almost 15 million in the power grid and energy flexibility. Undoubtedly, the skill requirements for jobs related to 
+renewables and energy efficiency are set to increase. The Kyrgyz Republic can benefit from this trend by investing in a 
+capable renewable energy workforce. 
+The development of a skilled workforce needs to go hand in hand with investments and policy support for the relevant 
+industries. Industrial upgrade programmes can help strengthen the capabilities of local firms. These programmes 
+should aim to enhance the technological capabilities of domestic industries by enabling them to derive value from 
+renewable energy investments and to facilitate closer linkages with business partners. Joint ventures and tax breaks 
+can also be used to strengthen local capabilities. Some countries, e.g. India, Morocco and South Africa, have also used 
+domestic content requirements to strengthen local industry. 
+Current status: While universities in the Kyrgyz Republic are offering courses in topics related to renewable energy, the 
+lack of opportunities in the sector is a major problem for youth with specialisation in renewables.REFERENCES
+AKIpress (2022), “Kyrgyzstan, Spanish energy company sign MoU on construction of 260 MW solar power plant and hydropower plant in 
+Issyk-Kul”, https://akipress.com/news:669867:Kyrgyzstan,__Spanish_energy_company_sign_MoU_on_construction_of_260_MW_solar_
+power_plant_and_hydropower_plant_in_Issyk-Kul/. 
+Asanov, B. (2017), “Кыргызстан. В надежде на малые ГЭС” [Kyrgyzstan. Hoping for small hydropower plants], Radio Azattyk [Kyrgyz 
+Service of Radio Free Europe/Radio Liberty], https://rus.azattyk.org/a/28502912.html.
+Balabanyan, A., Hofer, K., Finn, J. and Hankinson, D. J. (2015), Keeping Warm: Urban Heating Options in the Kyrgyz Republic: Summary 
+Report, World Bank, Washington, DC, https://documents1.worldbank.org/curated/en/555021468011161504/pdf/97409-WP-P133058-
+Box391503B-PUBLIC-Heating-Assessment-for-Kyrgyz-P133058-Final.pdf.
+Baybagyshov, E, and Degembaeva, N. (2019), “Analysis of usage of the renewable energy in Kyrgyzstan”, IOP Conference Series: Earth and 
+Environmental Science, Vol. 249/1, article 012021, https://iopscience.iop.org/article/10.1088/1755-1315/249/1/012021/pdf.
+Bnamericas (2021), “Electric mobility advances in Latin America”, Bnamericas.com, 29 July, www.bnamericas.com/en/news/electricmobility-advances-in-latin-america-and-the-caribbean-in-the-context-of-the-pandemic---new-unep-report.
+CASA-1000 (2021), “News and events”, www.casa-1000.org/newsandevents-2/.
+Dikambaev, S. (2019), Draft: National Sustainable Energy Action Plan of the Kyrgyz Republic, United Nations Economic Commission for 
+Europe, Bishkek, https://unece.org/fileadmin/DAM/project-monitoring/unda/16_17X/E2_A2.3/NSEAP_Kyrgyzstan_ENG.pdf?
+DWRLI (2021), “Water resources and water management infrastructure of Kyrgyzstan”, Department of Water Resources and Land 
+Improvement, Kyrgyz Republic, www.water.gov.kg/index.php?option=com_content&view=article&id=365&Itemid=1470&lang=en.
+Ellichipuram, U. (2021), “Masdar inaugurates 100 MW solar power project in Uzbekistan”, Power Technology, 30 August, 
+www.power-technology.com/news/masdar-solar-project-uzbekistan/.
+Energy Charter (2018), In-Depth Review of the Energy Efficiency Policy of Kyrgyzstan (2017), Energy Charter, Brussels, Belgium, 
+www.energycharter.org/what-we-do/energy-efficiency/energy-efficiency-country-reviews/in-depth-review-of-energy-efficiency-policiesand-programmes/in-depth-review-of-the-energy-efficiency-policy-of-kyrgyzstan-2017/.
+Eurasianet (2021), “Kyrgyzstan: President talks of raising electricity tariffs”, Eurasianet, 21 April, 
+https://eurasianet.org/kyrgyzstan-president-talks-of-raising-electricity-tariffs.
+Global Atlas (2022), “The Global Atlas”, https://globalatlas.irena.org/workspace.
+GoK (2021), “Approved medium-term tariff policy for electricity and heat for 2021-2025”, Government of the Kyrgyz Republic, Bishek, 
+www.gov.kg/ru/post/s/20472-2021-2025-zhyldarga-karata-elektr-zhana-zhyluuluk-energiyasyna-orto-mntt-tariftik-sayasat-bekitildi.
+GoK (2018), National Development Strategy of the Kyrgyz Republic for 2018-2040, Government of the Kyrgyz Republic, Bishkek, 
+http://donors.kg/en/strategy/5174-national-development-strategy-of-the-kyrgyz-republic-for-2018-2040.
+Holzhacker, H, and Skakova, D. (2019), Kyrgyz Republic Diagnostic, European Bank for Reconstruction and Development, London.
+IEA (2020a), Kyrgyzstan Energy Profile, International Energy Agency, Paris, www.iea.org/reports/kyrgyzstan-energy-profile.
+IEA (2020b), “World energy balances: Kyrgyzstan”, www.iea.org/countries/kyrgyzstan. 
+Imanaliyeva, A. (2021), “‘Expect less water next year’, Kyrgyzstan warns downstream neighbors”, Eurasianet, 5 November, 
+https://eurasianet.org/expect-less-water-next-year-kyrgyzstan-warns-downstream-neighbors.
+IMF (2019), Kyrgyz Republic—Selected Issues, International Monetary Fund, Washington, DC, 
+www.imf.org/external/pubs/ft/scr/2016/cr1656.pdf.
+IRENA (2022), “Completed RRAs”, International Renewable Energy Agency, Abu Dhabi, 
+www.irena.org/rra/Completed-RRA-Country-Reports.
+IRENA (2021a), Renewable Power Generation Costs in 2020, International Renewable Energy Agency, Abu Dhabi, 
+www.irena.org/publications/2021/Jun/Renewable-Power-Costs-in-2020.
+IRENA (2021b), “Solar PV and wind potential in the Kyrgyz Republic” (internal document), International Renewable Energy Agency, Abu 
+Dhabi. 
+IRENA (2019), Renewable Energy Auctions: Status and Trends beyond Price, International Renewable Energy Agency, Abu Dhabi, 
+https://irena.org/publications/2019/Dec/Renewable-energy-auctions-Status-and-trends-beyond-price.
+IRENA (2017), Planning for the Renewable Future: Long-Term Modelling and Tools to Expand Variable Renewable Power in Emerging 
+Economies, International Renewable Energy Agency, Abu Dhabi, www.irena.org/publications/2017/Jan/Planning-for-the-renewable-futureLong-term-modelling-and-tools-to-expand-variable-renewable-power.
+IRENA (2016), Unlocking Renewable Energy Investment: The Role of Risk Mitigation and Structured Finance, International Renewable Energy 
+Agency, Abu Dhabi, 
+www.irena.org/publications/2016/Jun/Unlocking-Renewable-Energy-Investment-The-role-of-risk-mitigation-and-structured-finance.IRENA (2015), Renewable Energy Auctions: A Guide to Design, International Renewable Energy Agency, Abu Dhabi, 
+www.irena.org/publications/2015/Jun/Renewable-Energy-Auctions-A-Guide-to-Design.
+IRENA (2014), Adapting Renewable Energy Policies to Dynamic Market Conditions, International Renewable Energy Agency, Abu Dhabi, 
+www.irena.org/publications/2014/May/Adapting-Renewable-Energy-Policies-To-Dynamic-Market-Conditions.
+IRENA (2013), Renewable Readiness Assessment: Design to Action, International Renewable Energy Agency, Abu Dhabi, 
+www.irena.org/-/media/Files/IRENA/RRA/RRA_Design_to_Action.pdf?la=en&hash=F46F35344A7ACB69607ED69A9E2C7930D1E9DFA6.
+IRENA and CPI (2020), Global Landscape of Renewable Energy Finance 2020, International Renewable Energy Agency and Climate Policy 
+Initiative, Abu Dhabi, www.irena.org/-/media/Files/IRENA/Agency/Publication/2020/Nov/IRENA_CPI_Global_finance_2020.pdf.
+IRENA and TWI (2019), “Open solar contracts”, International Renewable Energy Agency and Terrawatt Initiative, 
+http://Opensolarcontracts.Org/Assets/Opensolarcontracts/Images/Shutterstock_1179324862-1.Jpg. https://opensolarcontracts.org/.
+IRENA, IEA and REN21 (2020), Renewable Energy Policies in a Time of Transition: Heating and Cooling, International Renewable Energy 
+Agency, International Energy Agency and Renewable Energy Policy Network for the 21st Century, 
+www.irena.org/publications/2020/Nov/Renewable-Energy-Policies-in-a-Time-of-Transition-Heating-and-Cooling.
+IRENA, IEA and REN21 (2018), Renewable Energy Policies in a Time of Transition, International Renewable Energy Agency, International 
+Energy Agency and Renewable Energy Policy Network for the 21st Century, 
+www.irena.org/publications/2018/apr/renewable-energy-policies-in-a-time-of-transition.
+Kabar (2022a), “Monthly demand for liquefied gas in Kyrgyzstan is more than 9 thsd tons”, Информационное Агентство Кабар
+[Information agency, Kabar], http://en.kabar.kg/news/monthly-demand-for-liquefied-gas-in-kyrgyzstan-is-more-than-9-thsd-tons/. 
+Kabar (2022b), “В Минэнерго вручили свидетельства регистрации субъектам возобновляемых источников энергии, (Ministry of 
+Energy handed registration certificates to subjects of renewable energy sources) News of Kyrgyzstan - KNIA “Kabar”, 
+https://kabar.kg/news/v-minenergo-vruchili-svidetel-stva-registratcii-sub-ektam-vozobnovliaemykh-istochnikakh-energii/. 
+Kudaiberdieva, S. (2020). “‘Green’ energy in Kyrgyzstan: New game rules for market players”, Central Asian Bureau for Analytical Reporting, 
+1 December, https://cabar.asia/en/green-energy-in-kyrgyzstan-new-game-rules-for-market-players.
+Kudryavtseva, T. (2022), “Agreement on construction of solar station in Issyk-Kul region signed”, 24.kg, 8 April, 
+https://24.kg/english/230188__Agreement_on_construction_of_solar_station_in_Issyk-Kul_region_signed/.
+Mallinson, K. (2020), “Kyrgyzstan’s protracted political and economic crisis”, Chatham House, 26 October, 
+www.chathamhouse.org/2020/10/kyrgyzstans-protracted-political-and-economic-crisis.
+Mamatkanov, D. M., Bazhanova, L. V, and Romanovsky, V. V. (2006), Water Resources of Kyrgyzstan at the Present Stage, Ilim, Bishkek.
+Ministry of Justice, Kyrgyz Republic (2018a), “Concept for the development of small hydropower in the Kyrgyz Republic until 2017” 
+(testimony of GoK), http://cbd.minjust.gov.kg/act/view/ru-ru/97764.
+Ministry of Justice, Kyrgyz Republic (2018b), “Concept of a green economy in the Kyrgyz Republic ‘Kyrgyzstan – the country of green 
+economy’” [In Russian], Approved by the Resolution of the Jogorku Kenesh of the Kyrgyz Republic dated 28 June 2018, No. 2532-VI 
+(testimony of GoK), http://cbd.minjust.gov.kg/act/view/ru-ru/83126?cl=ru-ru.
+NSC (2021), “Official statistics – Statistics of Kyrgyzstan”, National Statistical Committee of the Kyrgyz Republic, http://stat.kg/ru/statistics/.
+OECD (2019), Promoting Clean Urban Public Transportation and Green Investment in Kyrgyzstan, Organisation for Economic Co-operation 
+and Development, Paris, 
+www.oecd-ilibrary.org/environment/promoting-clean-urban-public-transportation-and-green-investment-in-kyrgyzstan_b6b91b9a-en.
+Pirani, S. (2019), “Central Asian gas: Prospects for the 2020s”, Oxford Institute for Energy Studies, https://doi.org/10.26889/9781784671525.
+Ratnaweera, H., Valentini, K, Vashneva, N., Choitonbaeva, A., Iversen, L. and Orolbaev, E. (2013), National Policy Dialogue on Integrated 
+Water Resources Management: Process and Results for the Period of 2008-2013, Organisation for Economic Co-operation and Development, 
+www.oecd.org/env/outreach/KR_NPD%20Overview.pdf.
+Rosenthal, N., Gassner, K. B, and Hankinson, D. J. (2017), Analysis of the Kyrgyz Republic’s Energy Sector, World Bank, Washington, D.C., 
+https://ppiaf.org/documents/5417/download. 
+Rovenskaya, E., Sedighi, E., Komendantova, N, Strelkovskii, N., Sizov, S., Karabashov, N., Atakanov, N., Chekirbaev, U., Zheenaliev, Z., 
+Stepanova, A., Ekenberg, L, and Rodriguez, F. S. (2018), “Industrial development of Kyrgyzstan: Background”, United Nations Industrial 
+Development Organization and International Institute for Applied Systems Analysis, 
+www.unido.org/sites/default/files/files/2018-12/Industrial_Development_Kyrgyzstan-Background.pdf.
+SAEPF (2020), The National Report on the State of the Environment of the Kyrgyz Republic for 2015-2018 [in Russian], State Agency for 
+Environmental Protection and Forestry, http://aarhus.kg/ru/natsionalnyj-doklad-o-sostoyanii-okruzhayushhej-sredy-2015-2018-goda.
+SAEPF (2016), Third National Communication of the Kyrgyz Republic under the UN Framework Convention on Climate Change, State Agency 
+on Environment Protection and Forestry, Bishkek, https://unfccc.int/sites/default/files/resource/NC3_Kyrgyzstan_English_24Jan2017.pdf.
+SARFEC (2021), “Electricity tariffs” [in Russian], State Agency for Regulation of the Fuel and Energy Complex under the Ministry of Energy 
+and Industry of the Kyrgyz Republic, https://regultek.gov.kg/ru/main/page/33.
+Skopljak, N. (2022), “Masdar targets floating solar projects in Kyrgyzstan under new MoU”, Offshore Energy, 20 April, 
+www.offshore-energy.biz/masdar-targets-floating-solar-projects-in-kyrgyzstan-under-new-mou/.Sovacool, B. K., Gilbert, A, and Nugent, D. (2014), An international comparative assessment of construction cost overruns for electricity 
+infrastructure”, Energy Research & Social Science, Vol. 3, pp. 152-160, www.sciencedirect.com/science/article/abs/pii/S2214629614000942.
+Tazabek (2014), “How and where will the construction site for the Kambar-Ata HPP-1 be located?” [in Russian], 
+www.cawater-info.net/news/01-2014/21.htm.
+The News (2020), “NEPRA issues 3,334 net metering licenses in FY20”, 
+www.thenews.com.pk/print/736080-nepra-issues-3-334-net-metering-licenses-in-fy20. 
+UN ESCAP (forthcoming), SDG7 Progress Report for the Countries of Central Asia and the Caucasus, United Nations Economic and Social 
+Commission for Asia and the Pacific.
+UN Geospatial (2011), “Kyrgyzstan | Geospatial, location data for a better world”, www.un.org/geospatial/content/kyrgyzstan.
+UNDP (2021a), “Heat pumps on guard of villagers’ health”, United Nations Development Programme, Kyrgyz Republic, 
+www.kg.undp.org/content/kyrgyzstan/en/home/presscenter/articles/2021/01/heat-pumps-on-guard-of-villagers--health.html.
+UNDP (2021b), “Sanitary epidemiological service in Sulukta switched to an eco-friendly heating system”, United Nations Development 
+Programme, Kyrgyz Republic, www.kg.undp.org/content/kyrgyzstan/en/home/presscenter/articles/2021/01/sanitary-epidemiologicalservice-in-sulukta-switched-to-an-eco-f.html.
+UNDP (2020), “A rural school in the Issyk-Kul oblast takes advantage of a helioplant”, United Nations Development Programme, Kyrgyz 
+Republic, www.kg.undp.org/content/kyrgyzstan/en/home/presscenter/articles/2020/12/better-than-in-the-capital-city--a-rural-school-inthe-issyk-kul.html.
+UNECE (2018), “The Kyrgyz Republic: Energy sector review in 2018”, United Nations Economic Commission for Europe, Geneva, 
+https://unece.org/fileadmin/DAM/project-monitoring/unda/16_17X/A2.1_Implement_Natl_CS/KGZ-EnergySectorReview_e.pdf.
+UNECE (2013), UNECE National PPP Readiness Assessment Report: Kyrgyzstan, United Nations Economic Commission for Europe, Geneva, 
+https://unece.org/DAM/ceci/documents/UNDA_project/PPP_Readiness_Assessment_Kyrgyzstan.pdf.
+UNFCCC (2021), “The Kyrgyz Republic – Updated Nationally Determined Contribution 2021”, United Nations Framework Convention on 
+Climate Change, www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Kyrgyzstan%20First/%D0%9E%D0%9D%D0%A3%D0%92%20
+ENG%20%D0%BE%D1%82%2008102021.pdf.
+UNFCCC (2015), “The Kyrgyz Republic – Intended Nationally Determined Contribution”, United Nations Framework Convention on Climate 
+Change, www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Kyrgyzstan%20First/Kyrgyzstan%20INDC%20_ENG_%20final.pdf.
+UNIDO (2018), Diagnostic for the Programme for Country Partnership (PCP): The Kyrgyz Republic, United Nations Industrial Development 
+Organization, www.unido.org/sites/default/files/files/2018-12/Diagnostic_Report_PCP_Kyrgyzstan_EN.pdf?.
+USAID (2021), “The USAID CASA-1000 Secretariat Activity Fact Sheet”, Central Asia Regional, US Agency for International Development, 
+www.usaid.gov/central-asia-regional/fact-sheets/secretariat-casa-1000-power-transmission.
+Blooming valley with green mountains. Kyrgyzstan
+© Anton Petrus / EnvatocomVedeneva, T. (2020), Change for the better in Kyrgyz Republics renewable energy sector, United Nations Development Programme, 
+Kyrgyz Republic, 
+www.kg.undp.org/content/kyrgyzstan/en/home/blog/2020/change-for-the-better-in-kyrgyz-republics-renewable-energy-secto.html.
+Vedomosti (2014), “‘Газпром’ купил за $1 активы газового оператора Киргизии, 
+www.vedomosti.ru/business/news/2014/04/10/gazprom-kupil-za.
+Weather Atlas (n.d.), “Naryn, Kyrgyzstan—January weather forecast and climate information”, 
+www.weather-atlas.com/en/kyrgyzstan/naryn-weather-january.
+World Bank (2022), “Enterprise Surveys”, www.enterprisesurveys.org.
+World Bank (2021), “World Development Indicators”, https://data.worldbank.org.
+World Bank (2020), Fueling Kyrgyzstan’s Transition to Clean Household Heating Solutions, World Bank, Washington, DC, http://documents1.
+worldbank.org/curated/en/164771590727056929/pdf/Fueling-Kyrgyzstan-s-Transition-to-Clean-Household-Heating-Solutions.pdf.
+World Bank (2017a), Kyrgyz Republic: A Resilient Economy… on a Slow Growth Trajectory, World Bank, Washington, DC, www.worldbank.
+org/en/country/kyrgyzrepublic/publication/economic-update-spring-2017.
+World Bank (2017b), “Kyrgyz Republic: A resilient economy… on a slow growth trajectory: With a special focus on Kyrgyzstan’s ailing 
+energy sector”, Kyrgyz Republic Economic Update No. 5, World Bank, Washington, DC, http://documents1.worldbank.org/curated/
+en/710331496766602711/pdf/115684-WP-PUBLIC-add-series-SpringKGZBEUFinal.pdf.
+World Bank (2017c), Small Hydro Power Plant in the Kyrgyz Republic: Assessment of Potential and Development Challenges, World Bank, 
+Washington, DC, http://documents1.worldbank.org/curated/en/274331513353253592/pdf/116656-REVISED-WP-PUBLIC-FinalreportSHPPDe
+velopmentinKYREngSept.pdf.
+World Bank (1995), Kyrgyz Republic Energy Sector Review, World Bank, Washington, DC, 
+http://documents1.worldbank.org/curated/en/568931468753333721/text/multi-page.txt.
+World Bank Group and ADB (Asian Development Bank) (2021), “Climate risk country profile: Kyrgyz Republic”, https://doi.org/10.1596/36377.
+WRI (2020), “Climate Watch: Kyrgyzstan”, World Resources Institute, www.climatewatchdata.org/countries/KGZ.
+Ye, L.-C., Rodrigues, J. F. D. and Lin, H. X. (2017), “Analysis of feed-in tariff policies for solar photovoltaic in China 2011-2016”, Applied 
+Energy, Vol. 203, pp. 496-505, https://doi.org/10.1016/j.apenergy.2017.06.037.
+Yusupkhanova, S. (2003), Uzbekistan stopped supplying gas to Kyrgyzstan”, Deutsche Welle, 22 May, https://bit.ly/3R4IoAT.
+Zeng, R., Cai, X., Ringler, C, and Zhu, T. (2017), “Hydropower versus irrigation—An analysis of global patterns”, Environmental Research 
+Letters, Vol. 12/3, article 034006, https://doi.org/10.1088/1748-9326/aa5f3f.ANNEX 1. Solar PV and wind 
+potential in the Kyrgyz Republic
+This report presents the results of an assessment conducted by the International Renewable Energy Agency (IRENA) to 
+identify promising land areas in the Kyrgyz Republic for utility-scale solar and wind power development. 
+Zoning assessments are generally conducted to support transmission planning. Specifically, they allow:
+• analysis of the quality of the solar and wind resources across the country (theoretical potential);
+• identification of most suitable areas for solar photovoltaic (PV) and onshore wind development by considering 
+renewable resources alongside technical, financial and socio-environmental criteria;
+• identification of potential sites for solar PV and onshore wind farms;
+• identification of suitable zones for grid integration; and
+• examination of opportunities for cost-effective solar PV and onshore wind development.
+Approach
+The suggested approach to conducting the zoning assessment is outlined below.
+Data setting
+The required input data to conduct the zoning assessment for solar PV and onshore wind development relate to 
+renewable resources, infrastructure, land and terrain features (Table A1). Such data are of great importance in mapping 
+the suitability index and defining suitable zones for each technology. The annual solar and wind data – specifically the 
+global horizontal irradiation or wind speed – is the most important dataset in evaluating the theoretical potential of an 
+area for developing renewable energy projects (Figures A1 and A2). The required data also include infrastructure and 
+socio-environmental datasets – on transmission lines, topography, protected areas, land use and population growth – 
+which help in determining the technical potential.
+Table A1 Data requirements
+Date setting
+Solar resource
+Yearly global horizontal irradiation (GHI) ESMAP
+Hourly global horizontal irradiation (GHI) MERRA2
+Wind resources - meteorology
+Yearly 100 m wind speed (WS) Technical University of Denmark (DTU)
+Weather variables ERA5
+Technical, financial and socio-environmental data
+Electrical network OpenStreetMap
+Road network Global roads inventory project (GRIP)
+Topography Shuttle radar topography mission (STRM)
+Population density Oak Ridge National Laboratory (ORNL)
+Protected areas World Database on Protected Areas ((WDPA)
+Land cover Global Land Cover map (GlobCover)
+Note: ERA5 = European Centre for Medium-Range Weather Forecasts’ fifth generation atmospheric reanalysis; ESMAP = Energy Sector Management 
+AitPMERRA2 MdERttilifRh d AlitiVi2Figure A1 Global horizontal irradiation
+Global horizontal
+irradiation
+Annual average
+< = 900
+900 - 1 000
+1 000 - 1 100
+1 100 - 1 200
+1 200 - 1 300
+1 300 - 1 400
+1 400 - 1 500
+1 500 - 1 600
+1 600 - 1 700
+> 1 700 
+kWh/m2
+Source: IRENA (2021b); Global Atlas (2022). Map data: World Bank; ESMAP 2021; United Nations administrative boundaries 2021. 
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion 
+on the part of IRENA concerning the status of any region, country, territory, city or area, or of its authorities, or concerning the delimitation of frontiers 
+or boundaries. 
+Note: kWh/m2
+ = kilowatt hour per square metre.
+Figure A2 Wind speed at 100 m height
+Wind speed at
+100m height
+Annual average
+< = 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10
+> 10
+m/s
+Source: IRENA (2021b); Global Atlas (2022). Map data: Technical University of Denmark (DTU) 2021; United Nations administrative boundaries 2021. 
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion 
+on the part of IRENA concerning the status of any region, country, territory, city or area, or of its authorities, or concerning the delimitation of frontiers 
+or boundaries. 
+Note: m/s = metre per second.Suitability assessment
+The suitability assessment is a multicriteria decision analysis based on a geographic information system (GIS) that 
+establishes the technical potential13 of an area to host utility-scale renewable energy projects. These areas are assessed 
+by combining renewable theoretical potential14 with technical (electrical grid network, slope), and socio-environmental 
+(protected areas, land features and population growth) criteria, using a weighted linear combination approach. The 
+output of this assessment is a suitability map for every square kilometre (km2
+) of land in the country (wherein highly 
+suitable areas have high suitability index values) (Figures 3.1 and 3.2). The calculation of this map requires:
+• specifying the lower bound (lowest score 0% for the least favourable area) and upper bound (highest score 100% 
+for the most favourable area) values for each criterion;
+• defining hypothetical weights for each criterion (0.38 resource, 0.33 grid distance, 0.13 distance to the road,
+0.11 population density, 0.05 slope);
+• scoring every kilometre of the considered criteria following the assumption and thresholds set;
+• aggregating all criteria using a weighted linear combination to calculate the suitability index for every square 
+kilometre; and
+• excluding protected areas and land cover to refine suitable areas complying with national legislation.
+Clustering assessment
+A clustering technique has been used to create defined zones around the country to host utility-scale projects. The 
+output of this clustering is a zone map showing prospective areas of sizes varying from 7 km2
+ to 10 km2 for solar and
+6 km2
+ to 215 km2 for wind (Figures 3.1 and 3.2, respectively). The extraction of this map requires various assumptions 
+to define the resulting zones (Table A2). The steps completed are as follows:
+• specifying the cut-off suitability values for solar PV (72.5%) and wind (83%) as well as the maximum concentration 
+capacity (5 000 megawatts) and land discount factor (1%);
+• identifying adjacent areas with a suitability index higher than the cut-off value; and
+• grouping adjacent suitable cells into definitive clusters or prospective development zones.
+Provisional results
+Based on public datasets and reasonable assumptions, the provisional results obtained suggest the following: 
+• Solar PV zones are clustered in the southern region of Osh along the river Kyzyl-Suu (Table A2). 
+• Wind zones are clustered in the southern region of Osh along the border with Tajikistan, northern and southern 
+regions of Naryn and the southern region of Issyk-Kul. Other sparse clusters are found in western Batken and 
+southern Chuy (Table A3).
+13 Potential considering theoretical and supplementary information considering technical constraints to deploy projects.
+14 Resource availability sufficient to deploy projects
+Table A2 Utility-scale solar photovoltaic zones
+Zone Latitude
+(°)
+Longitude 
+(°) Area (km2
+) Capacity 
+(MW) 
+Distance to 
+grid (km)
+Distance to 
+road (km)
+Mean
+suitability
+1 39.56 72.45 10 250 0.99 1.57 0.73
+2 39.56 72.40 9 225 0.99 1.90 0.73
+3 39.62 72.66 7 175 1.11 1.11 0.73
+Note: km2 = square kilometre; MW = megawatt. Table A3 Wind zones
+Zone Latitude
+(°)
+Longitude 
+(°) Area (km2
+) Capacity 
+(MW) 
+Distance to 
+grid (km)
+Distance to 
+road (km)
+Mean
+suitability
+1 39.91 69.73 7 18 2.98 3.63 0.84
+2 42.29 72.96 17 43 3.83 5.50 0.84
+3 42.28 73.07 12 30 2.22 1.99 0.85
+4 42.11 72.89 8 20 4.30 4.98 0.84
+5 41.93 74.05 7 18 2.98 7.12 0.84
+6 41.86 74.04 35 88 4.51 9.81 0.84
+7 39.65 72.55 42 105 4.97 3.98 0.85
+8 39.64 72.39 15 38 7.57 7.40 0.84
+9 39.60 72.36 102 255 3.79 3.62 0.85
+10 39.58 72.55 6 15 1.79 3.48 0.83
+11 39.51 72.25 10 25 4.51 3.52 0.84
+12 39.49 72.42 20 50 8.33 8.83 0.84
+13 41.97 74.26 8 20 5.01 5.13 0.84
+14 41.84 74.18 7 18 6.73 6.00 0.83
+15 39.75 73.14 42 105 3.79 3.52 0.85
+16 39.70 72.73 9 23 7.22 4.64 0.84
+17 39.65 72.63 23 58 3.14 3.14 0.86
+18 39.58 72.62 59 148 4.28 4.28 0.84
+19 39.50 72.86 17 43 3.18 20.38 0.84
+20 39.78 73.25 18 45 2.49 2.05 0.85
+21 39.78 73.35 27 68 5.08 5.20 0.84
+22 39.74 73.57 44 110 6.18 6.18 0.85
+23 39.72 73.20 6 15 1.90 0.99 0.85
+24 42.02 75.44 7 18 7.79 7.57 0.83
+25 42.00 75.50 20 50 3.83 4.47 0.85
+26 41.97 75.61 8 20 2.07 1.99 0.84
+27 39.72 73.90 12 30 6.24 1.11 0.85
+28 39.68 73.86 10 25 8.63 0.99 0.84
+29 39.66 73.92 12 30 6.06 2.05 0.85
+30 42.00 75.93 10 25 7.95 5.47 0.84
+31 40.85 75.08 7 18 4.51 1.11 0.85
+32 40.84 75.18 9 23 2.98 3.40 0.85
+33 40.81 75.09 7 18 2.29 2.29 0.86
+34 40.82 75.16 8 20 2.05 2.05 0.86
+35 40.67 75.11 138 345 4.28 4.01 0.86
+36 40.63 74.99 64 160 2.81 2.90 0.85
+37 40.52 75.13 215 538 4.58 4.47 0.86
+Ntk
+2
+kiltMW tt38 41.83 76.65 23 58 6.93 6.21 0.84
+39 41.85 76.55 18 45 6.27 3.83 0.85
+40 41.73 76.69 7 18 4.47 4.47 0.84
+41 41.71 76.49 12 30 6.06 6.92 0.84
+42 40.68 75.46 29 73 10.11 2.90 0.85
+43 40.63 75.48 39 98 7.53 1.99 0.86
+44 40.61 75.39 20 50 3.79 1.11 0.88
+45 40.53 75.33 14 35 2.98 2.98 0.86
+46 41.20 76.37 40 100 4.45 4.45 0.84
+47 41.15 76.50 100 250 4.97 4.69 0.85
+48 41.11 76.39 89 223 5.82 4.25 0.85
+49 42.05 77.66 11 28 4.67 3.40 0.84
+50 41.99 77.56 44 110 4.08 4.08 0.85
+51 42.00 77.67 24 60 2.68 3.31 0.85
+52 41.92 77.74 62 155 4.10 4.45 0.85
+53 41.93 77.59 6 15 3.40 3.40 0.84
+54 41.87 77.61 60 150 5.08 4.58 0.85
+55 41.80 77.81 36 90 2.49 3.33 0.86
+56 41.76 77.71 76 190 4.25 4.58 0.86
+57 41.61 77.68 6 15 9.51 4.17 0.83
+58 41.80 77.91 108 270 4.58 8.55 0.85
+59 41.84 78.15 7 18 2.55 24.57 0.83
+60 41.66 78.13 14 35 2.98 13.42 0.84
+61 41.65 78.00 17 43 5.12 10.90 0.84
+62 41.64 77.82 8 20 1.57 2.22 0.84
+63 41.60 77.82 59 148 4.28 3.88 0.86
+64 41.62 77.95 30 75 2.68 5.71 0.86
+65 41.57 78.10 71 178 5.62 7.73 0.84
+66 41.62 77.71 7 18 8.81 2.55 0.84
+67 41.51 77.95 20 50 7.89 2.98 0.84
+68 41.51 77.82 16 40 6.98 2.49 0.84
+69 42.08 79.11 12 30 5.21 2.22 0.84
+70 42.02 79.01 8 20 5.61 2.72 0.83
+71 41.96 78.96 45 113 3.48 8.75 0.85
+72 41.90 78.93 19 48 2.72 14.30 0.84
+73 41.89 78.84 11 28 1.99 17.24 0.84
+74 41.88 78.72 8 20 1.99 24.32 0.84
+75 41.61 78.26 24 60 2.81 16.80 0.84
+76 41.56 78.26 16 40 4.90 16.86 0.83
+77 42.02 79.14 20 50 4.12 6.38 0.84
+Note: km2= square kilometre; MW = megawatt. 

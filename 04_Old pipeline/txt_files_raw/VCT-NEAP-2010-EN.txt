@@ -1,0 +1,1941 @@
+File Name: VCT-NEAP-2010-EN
+Year: 2010
+Country Name: St Vincent and the Grenadines
+Country Code: VCT
+Category: NEAP
+Document Title: nan
+Exists?: Y
+Publication Date: 2010
+Start Year: 2010
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+St. Vincent and the Grenadines
+Energy Action Plan for
+St. Vincent and the Grenadines 
+First Edition
+January, 2010Table of Contents
+Acronyms ............................................................................................................................ 4 
+I. Introduction ..................................................................................................................... 5 
+II. Current Situation ......................................................................................................... 6 
+2.1 Fuel imports and energy costs............................................................................. 6 
+2.1.1 Total energy consumption ........................................................................... 6 
+2.1.2 Spending for fossil fuel imports trends ....................................................... 7 
+2.1.3 Prices for transport fuel ............................................................................... 9 
+2.1.4 LPG and kerosene prices .......................................................................... 10 
+2.1.5 Fuel price regulation ................................................................................. 11 
+2.1.6 Electricity rates and generation costs ........................................................ 11 
+2.2 Electricity sectors .............................................................................................. 13 
+2.2.1 Installed capacity ...................................................................................... 13 
+2.2.2 Diesel fuel for electricity generation ......................................................... 16 
+2.2.3 Electricity generation and sales ................................................................ 16 
+2.2.4 Losses ........................................................................................................ 17 
+2.2.5 Electricity peak demand ............................................................................ 18 
+2.3 Transport sector ................................................................................................ 19 
+2.4 Renewable energy sources ................................................................................ 21 
+III. Summary of Reference Case Business-as- Usual (BaU) ...................................... 23 
+IV. Energy Action Plan ............................................................................................... 26 
+4.1 Planning and management ................................................................................ 26 
+4.1.1 Institutional requirements ......................................................................... 26 
+4.1.2 Energy database and publication of annual energy statistics .................... 26 
+4.1.3 Capacity building, education and awareness raising ................................ 27 
+4.1.4 Pilot and demonstration projects ............................................................... 27 
+4.1.5 Interconnection ......................................................................................... 28 
+4.1.6 Environmental impact assessment ............................................................ 28 
+4.1.7 International cooperation and financing ................................................... 29 
+4.1.8 Financial incentives .................................................................................. 29 
+4.1.9 Monitoring and evaluation ........................................................................ 30 
+4.2 Power sector ...................................................................................................... 30 
+4.2.1 Long-term planning for the electricity sector ........................................... 30 
+4.2.2 Tariff structures ......................................................................................... 31 4.2.3 Demand side management ........................................................................ 31 
+4.3 Renewable energy ............................................................................................. 31 
+4.3.1 Resource potentials ................................................................................... 32 
+4.3.1.1 Geothermal ................................................................................................ 32 
+4.3.1.2 Hydro power ............................................................................................. 33 
+4.3.1.3 Wind energy .............................................................................................. 35 
+4.3.1.4 Biomass energy and waste-to-energy ....................................................... 36 
+4.3.1.5 Solar electricity and solar thermal use ...................................................... 36 
+4.3.2 Applications .............................................................................................. 37 
+4.3.2.1 Renewable energy for the Grenadine islands ............................................ 37 
+4.3.2.2 Renewable energy for self supply ............................................................. 37 
+4.3.3 Stimulus tools............................................................................................ 38 
+4.3.3.1 Independent power production ................................................................. 38 
+4.3.3.2 Net-metering ............................................................................................. 38 
+4.4 Petroleum sector................................................................................................ 39 
+4.4.1 Contracts and agreements for energy supply and storage ......................... 39 
+4.4.2 Petroleum reserve storage ......................................................................... 39 
+4.4.3 Diversification of energy sources ............................................................. 40 
+4.5 Transport sector ................................................................................................ 40 
+4.5.1 Reduced fuel consumption of vehicles ..................................................... 40 
+4.5.2 Transport strategy ..................................................................................... 41 
+4.5.3 Biofuels for transport ................................................................................ 41 
+4.6 Energy efficiency .............................................................................................. 42 
+4.6.1 Assessment of market potential ................................................................ 42 
+4.6.2 Co-generation ............................................................................................ 42 
+4.6.3 Energy efficiency in buildings .................................................................. 43 
+4.6.4 Energy efficiency in lighting .................................................................... 43 
+4.6.5 Energy savings through solar water heaters .............................................. 44 
+4.6.6 Energy savings through energy efficient appliances ................................ 44 
+4.6.7 Public sector energy efficiency measures ................................................. 45 
+4.6.7.1 Government buildings ............................................................................... 45 
+4.6.7.2 Public procurement ................................................................................... 46 
+4.6.7.3 Training and information of public staff ................................................... 46 
+VI. Energy Action Plan Summary .............................................................................. 47 Acronyms
+BaU Business-as-Usual 
+CBET Caribbean Bio-Energy Technology Ltd. 
+CDB Caribbean Development Bank 
+CFL Compact Fluorescent Lamp 
+CREDP Caribbean Renewable Energy Development Programme 
+CWSA Central Water and Sewerage Authority 
+EAP Energy Action Plan 
+EC$ Eastern Caribbean Dollar 
+EDF European Development Fund 
+EE Energy Efficiency 
+ESA Electricity Supply Act 
+Gb billion barrels 
+GDP Gross Domestic Product 
+GEA Geothermal Exploration and Exploitation Agreement 
+GTZ German Agency for Technical Cooperation 
+HFO Heavy Fuel Oil 
+IADC International Airport Development Company 
+IDB Inter-American Development Bank 
+KfW German Development Bank 
+kWh Kilowatt-hour 
+LED Light-Emitting Diode 
+LPG Liquefied Petroleum Gas 
+MoU Memorandum of Understanding 
+MW Megawatt 
+MWh Megawatt-hour 
+NEP National Energy Policy 
+NWRM National Water Resource Management 
+PV Photovoltaic 
+RE Renewable Energy 
+RES Renewable Energy Sources 
+RET Renewable Energy Technologies 
+SFA Special Framework of Assistance 
+SVG Saint Vincent and the Grenadines 
+SWH Solar Water Heaters 
+T&D Transmission & Distribution 
+TOE tonnes of oil equivalent 
+US$ United States Dollar 
+VAT Value-Added Tax I. Introduction
+The following policies have been considered during the preparation of the Energy Action 
+Plan (EAP) for St. Vincent and the Grenadines. 
+a) Planning and Management: to achieve sustainable supply and use of energy 
+b) Power Sector: improve efficiency of production and Transmission & Distribution 
+(T&D), promote energy efficiency practices among consumers, support 
+introduction of green technologies, explore potentials of Renewable Energy 
+Sources (RES), access fossil fuels needed at lowest available costs, stronger 
+involvement of the private sector 
+c) Renewable Energy: promote the use of Renewable Energy Technologies (RET), 
+potential of RES, develop local expertise, encourage private sector participation, 
+initiate Renewable Energy (RE) education and awareness, provide fiscal and 
+financial incentives to RET, explore benefits and potential of biofuels, mandatory 
+installation of Solar Water Heaters (SWH) 
+d) Petroleum Sector: secure and reliable supply of petroleum products, fuel 
+conservation and efficient use, high standards for handling petroleum products, 
+ensure adequate storage facilities, environmentally responsible disposal of waste 
+of petroleum products 
+e) Transportation: improve fuel conservation for land and maritime sectors, 
+minimize detrimental impact of petroleum products consumption, increase 
+ridership of public transportation, improve road conditions and traffic 
+management, substitute gasoline with LPG taxis, minimize importing of second 
+hand cars, apply incentives to import and use more efficient vehicles, regular 
+motor checks to reduce emissions 
+f) Energy Efficiency: energy audits of major consumers, fiscal incentives to energy 
+efficient technologies, strengthen customer information on energy efficiency (EE) 
+appliances, studies of consumption patterns to design appropriate EE measures, 
+general awareness of EE in civil society, standard regulations for buildings, ban 
+incandescent light bulbs II. Current Situation
+2.1 Fuel imports and energy costs  
+Saint Vincent and the Grenadines (SVG) has a population of 100,272 (2006 estimate)1
+inhabitants, with approximately 92,000 of those living on the main island, St. Vincent. 
+Other islands of importance are Bequia, Union Island and Canouan. Because of its small 
+size and a lack of large industrial activities, SVG has a low demand for energy. The 
+country is currently almost completely dependent on imported petroleum products like 
+gasoline (for transport), diesel (transport and electricity generation), kerosene (cooking) 
+and butane/LPG (cooking, water heating, and industry). Only St. Vincent has indigenous 
+hydro resources, which are exploited for electricity generation. Figure 1 presents increase 
+of fossil fuel imports in the last 7 years. 
+0
+20000
+40000
+60000
+80000
+100000
+2002 2003 2004 2005 2006 2007 2008
+TOE
+Year
+Gasoline Diesel Butane Propane Kerosene (medium oils) Aviation Spirit
+Figure 1. Oil derivates imports in tones of oil equivalent for 2002-2008 period (Source: Statistics 
+Office, 2009) 
+2.1.1 Total energy consumption 
+The total energy consumption (only fossil fuels) went from 64,840 Tonnes of Oil 
+Equivalent (TOE) in 2002 up to ~91,000 TOE2
+ in 2008. Meanwhile, hydro power 
+contributed slightly less than 2,000 TOE in 2008, i.e. the share of renewable energy (not 
+counting non-commercial biomass, charcoal and solar thermal energy) was about 2% of 
+total energy consumption. On St. Vincent alone, renewable energy in the form of hydro 
+ 
+1
+ Statistical Office of Saint Vincent and the Grenadines 
+2
+ There is a slight discrepancy between data provided by Customs and by the Statistics Department; values 
+from Statistics Office were the ones considered, underlining the need for consistent energy statistics to be 
+developed. power contributed an estimated 5% to the total primary energy consumption. Diesel and 
+gasoline alone add-up >90% of the energy matrix of SVG, see Figure 2 and Table 1. 
+Diesel for electricity
+generation (VINLEC)
+27.5%
+Kerosene
+0.6%
+Hydro
+2.1%
+Propane
+0.001%
+Butane
+3.3%
+Diesel
+41.4%
+Gasoline
+25.1%
+Other diesel and
+gasoline (mainly for
+transport uses) 66.4%
+Figure 2. Energy matrix of Saint Vincent and the Grenadines by energy source in 2008 (Sources: 
+Statistics Office and VINLEC, 2009) 
+Fuel TOE
+Diesel (VINLEC) 25,549
+Aviation Spirit 5
+Kerosene 598
+Hydro 1,9533
+Propane 0.78
+Butane 3,074
+Diesel (transport et al) 38,430
+Gasoline (transport et al) 23,299
+TOTAL 92,909
+Table 1. Energy matrix values in TOE (Source: Statistics Office, 2009) 
+2.1.2 Fossil fuel imports trends 
+1. Spending on imports of fossil fuels has increased considerably since 2002 
+due to the rising price for petroleum on the world markets. The price of oil 
+ 
+3
+ Gross electricity production from hydro plants is used as the primary energy form, as suggested by the 
+IEA Energy Manual of Statistics, 2005, pg.137. has increased from about US$ 32 per barrel at the beginning of 2004 to more 
+than US$ 70 in April 2006 with a new record-high of US$ 147 in July 2008 
+(see 
+Figure 3). 
+Figure 3. New York Mercantile Exchange prices for West Texas Intermediate 1996 - 2009
+Considerable increase in expenditure for oil derivate imports have taken place in the last 
+six years (see Figure 4), where almost 17% of the country’s GDP was destined to fossil 
+fuels imports in 2008, see Figure 5. There is the general belief that petroleum prices tend 
+to remain above previous levels due to increased shortages on the world market and oil 
+findings (reserves) reaching a peak by the end of this decade4. 
+ 
+4
+ Reserves to production ratio. Some studies suggest that this point has already been passed, see e.g. Energy 
+Watch Group, Oil Peak, “Crude Oil – The Supply Outlook”, revised edition February 2009 
+(www.energywatchgroup.org) ‐
+20,000
+40,000
+60,000
+80,000
+100,000
+120,000
+140,000
+160,000
+2002 2003 2004 2005 2006 2007 2008
+2001 EC$
+Year
+Figure 4. Fossil fuels imports expenditure in 2001 EC$ (Source: Statistics Office and Eastern 
+Caribbean Central Bank (ECCB), 2009) 
+Imports for diesel and gasoline will reach about EC$ 110 million in 2009, as compared to 
+EC$ 158 million in 2008. 
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+2004 2006 2008
+EC$/capita
+Year
+GDP/capita Fossil Fuel Imports per capita
+Figure 5. Comparison of GDP per capita vs. fossil fuel expenditure per capita (Sources: Customs and 
+Statistics Office, 2009) 
+2.1.3 Prices for transport fuel 
+Energy prices in SVG are high compared to international standards5
+ (not counting high 
+ 
+5
+Nonetheless, they are still comparable to other island states in the region. fuel taxes imposed on energy consumption in other countries), with final consumer or 
+retail costs for transport fuel (at petrol stations) standing at EC$ 7.25 per imperial gallon 
+for diesel and EC$ 8.00 per imperial gallon for gasoline in March 2005, and EC$ 9.50 per 
+imperial gallon for diesel and EC$ 11.50/imperial gallon for gasoline in the second half 
+of 20066. In July 2008, gasoline was sold for EC$ 15.33/imperial gallon and diesel at 
+EC$ 15.50/imperial gallon at the petrol station, doubling the price of just three years 
+earlier. In August 2009 the price was EC$ 10.61 per imperial gallon for gasoline, 
+showing an upwards trend (see Figure 6). 
+6
+8
+10
+12
+14
+16
+18
+Jan‐04 May‐05 Oct‐06 Feb‐08 Jul‐09 Nov‐10
+EC$/imperial gallon
+Date
+Gasoline Diesel
+Figure 6. Transport fuels pump prices (Source: Ministry of Trade)
+2.1.4 Prices for cooking and other purposes 
+The price for LPG used in approximately 20,000 households mainly for cooking purposes 
+was also increased in early 2006. In September 2009, a 20 lb cylinder cost EC$ 35-407, 
+and a 100 lb cylinder EC$ 163-184.8,9 However, with the implementation of the Energy 
+Cooperation Agreement (PETROCARIBE) signed by the Government in 2005, these 
+price increases were effectively curtailed through the introduction of cheaper LPG 
+supplies under the Agreement, a 22 lb cylinder costing EC$29.00 and a 100 lb cylinder 
+EC$155.00. Further, kerosene fuel increased up to EC$15.10/imperial gallon in July 2008 
+and went down to EC$ 8.77/imperial gallon in September 2009. 
+ 
+6
+ New pricing schemes came into effect on January 25, 2006. Slightly discounted prices apply to the 
+wholesale market. 
+7
+ Prices for LPG vary per Area, where Area I (Kingstown and suburbs) and Area II (windward up to 
+Langley Park and leeward coast up to Wallilabou) its EC$ 35 per 20 lb cylinder; Area III (windward coast 
+up to Fancy and leeward coast up to Richmond) is EC$ 36 per 20 lb cylinder; and Area IV (Grenadines) is 
+EC$ 40 per 20 lb cylinder. 
+8
+ Price controls by the government for LPG were established in 2005 as consequence of conflicts with the 
+only supplier, Texaco. 
+9
+St. Vincent and the Grenadines Statutory Rules and Orders, 2006 No. 7. Gazetted 31st of March, 2006. 2.1.5 Fuel price regulation 
+All fuel prices to end-consumers have a three-month delay10 and therefore do not reflect 
+current variations of prices in the import market. Between January 2005 and January 
+2006 prices were kept constant (under government control regulations) despite significant 
+cost increases for the purchase of fuels, leading to government subsidies of EC$ 6 million 
+in total. 
+2.1.6 Electricity rates and generation costs 
+Electricity tariffs are composed of a unit cost per kWh, a minimum base charge for 
+domestic and commercial consumers, a demand charge for commercial and industrial 
+customers, and a fuel surcharge per kWh, which varies monthly depending on fuel costs 
+(in April 2006, the fuel surcharge was EC$ 0.372/kWh), see Table 2 for further details. In 
+addition, a 15% Value-Added Tax (VAT) is levied on kWh consumption of over 200 
+units for domestic consumers11, and on the total consumption for commercial and 
+industrial consumers. 
+Type of Customer < 50 
+kWh/month 
+>50 
+kWh/month
+All 
+units 
+Minimum 
+Charge 
+Demand 
+Charge 
+Domestic (EC$) 0.425 0.50 5 
+Commercial (EC$) 0.48 15 12 
+Industrial (EC$) 0.44 12 
+Street Lighting (EC$) 0.565 
+Table 2. Electricity rates in Saint Vincent and the Grenadines effective since December 198912
+As a consequence of oil price hikes, electricity tariffs increased considerably in recent 
+years (see Figure 7). In 2007 households paid on average EC$0.89/kWh including fuel 
+surcharge, in 2008 this increased to nearly EC$ 1.05/kWh, i.e. the average annual 
+household bill for electricity increased to about EC$ 1700. Due to lower fuel prices, 
+average consumer costs for electricity have dropped to EC$ 0.85/kWh in mid 2009. For 
+every US$ 10 per barrel of petroleum, the fuel surcharge varies by about US$ 0.02/kWh. 
+ 
+10 Monthly adjustment of prices on the basis of previous three-month average. 
+11 Monthly average electricity consumption in the domestic sector was ~150 kWh/month in 2008. 
+12 Further details available at: http://www.vinlec.com/Article3.asp?articleid=15&zoneid=100
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+EC$/kWh
+Year
+Fixed Electricity Prices Fuel Surcharge
+Figure 7. Average cost of electricity for all consumers in accordance to generated revenue from fixed 
+tariffs13 and fuel surcharge (Source: VINLEC, 2009) 
+The raise in tariff is clearly due to the fuel surcharge, which augmented from a yearly 
+average of EC$0.09/kWh in 1998, to EC$0.52/kWh in 2008, an increase of more than 
+570% in 10 years. Figure 8 shows how the fuel surcharge is on its way to reach the tariff 
+rates set. In 1998, the fuel surcharge was 15% of the full tariff paid by consumers. In 
+2008 it was 50%. 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+EC$/kWh
+Year
+Fixed Electricity Prices Fuel Surcharge
+Figure 8. Hike of fuel surcharge: a) yearly increase of value of fuel surcharge (Source: VINLEC, 
+2008) 
+ 
+ 
+13 Includes average cost of kWh to different types of customers, minimum and demand charge, see Table 1. VINLEC's revenue per unit sold is in line with other small island states in the Eastern 
+Caribbean, like Grenada, St. Lucia and Dominica, which all face extremely high 
+electricity prices due to high priced oil imports and inefficient generation and (in some 
+cases) distribution systems. It is clear that those energy prices affect negatively economic 
+activities, mainly those closely related to energy-intensive consumption, such as food 
+processing, gastronomy and tourism sectors. In this environment, most energy intensive 
+industries will not be competitive against lower priced countries in the region (in 
+particular Trinidad), thus creating a significant obstacle for development in SVG's 
+manufacturing sector. VINLEC has therefore undertaken a Cost-of-Services study that 
+was concluded in 2007. The study looked into its cost structure and came up with 
+recommendations for a tariff revision that minimises cross-subsidies. The study also 
+examined the demand charge levied on both industrial and commercial customers as well 
+as a review of the base year used to compute the fuel surcharge. 
+While many of the inputs associated with electricity costs have remained stable, the fuel 
+costs have tended upwards, resulting in an overall increase in electricity costs over the 
+past years (Figure 9). 
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007
+EC$/kWh
+Year
+Fuel(cost over Base) Diesel Generation O&M Admisnitrative& Selling
+Depreciation Transmission& Distr Hydro generation
+Figure 9. Cost of electricity generation by type of expenditure 1998-2007 (Source: VINLEC, 2008) 
+It is clear that increase in generation costs is mainly due to the increase in fuel and also a 
+slight increase in diesel generators’ operation and maintenance. 
+2.2 Electricity sectors
+2.2.1 Installed capacity 
+In 2009, SVG's state-owned utility VINLEC had almost 49 MW (11.5% of the installed 
+capacity is hydro) installed capacity, of which 40.5 MW are operated on the main island 
+of St. Vincent alone with two diesel generating facilities, Cane Hall (26.2 MW) and 
+recently commissioned Lowman’s Bay (8.7 MW), and three hydro power stations 
+dministrative & Selling(Cumberland 3.7 MW, Richmond 1.1 MW, and South Rivers 0.9 MW), with the 
+remaining diesel fuelled units distributed among Bequia (2.9 MW), Union Island (1.3 
+MW), Canouan (3.1 MW) and Mayreau (180 kW); see Figure 10. 
+0
+10
+20
+30
+40
+50
+60
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+Installed Capacity (MW)
+Year
+St. Vincent Bequia Union Island Canouan Mayreau
+Figure 10. Installed capacity (MW) by location site 
+The other Grenadines islands are supplied by privately owned electricity systems on the 
+basis of diesel plants. Bequia, Union Island, Canouan and Mayreau are also completely 
+reliant on diesel power. According to VINLEC’s 2007 report, St. Vincent has some 5.6 
+MW (constant in the last 10 years) of available hydro power, depicted in Figure 11, and 
+diesel power plants (evolved from 20.8 MW in 1998 up to 35 MW in 2007, an almost 
+70% increase in diesel power plants capacity). 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+Installed Capacity (MW)
+Year
+Hydro Diesel
+Figure 11. VINLEC’s historical trend of installed capacity (MW) Further, the hydro (renewable) energy share in 1998 represented more than 20% of the 
+installed capacity, while in 2007 it dropped to less than 14%, as shown in Figure 12. 
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007 2008
+Percentageof Total Installed Capacity
+Year
+Hydro Diesel
+Figure 12. Percentages of installed capacity of diesel and hydro 
+Since hydro power is not available at full scale year-round and some diesel plants work 
+only as back-up systems, the firm capacity is far lower, and reached only approximately 
+40 MW in 2009. For St. Vincent alone, the firm capacity was 32 MW, while peak 
+demand was 20 MW in 2008, thus leaving sufficient reserve margin during most of the 
+year. 
+Most of VINLEC's diesel generators are old, inefficient, and in need of replacement by 
+newer engines or other means of electricity generation. This represents an opportunity to 
+move towards new sources of energy. The specific energy output of 17 kilowatt-hours per 
+imperial gallon in 2004 from all diesel-powered generators was below comparable data in 
+neighbouring countries. It has increased to slightly over 18 kilowatt-hours per imperial 
+gallon in 2009 with the inauguration of the new generator set at Lowmans Bay.14
+A new diesel plant of 9 MW at Lowmans Bay began operation at the end of 2006. In 
+place of this more efficient plant, outdated generator sets totalling about 6 MW will be 
+decommissioned. The new plant is supplied with diesel under the Petrocaribe Agreement. 
+The Government is also looking to future electricity generation needs and actively 
+pursuing plans for the introduction of an additional 8-10 MW at Lowmans Bay. Works 
+have already started for deployment of two new generators that will operate on Heavy 
+Fuel Oil (HFO), and transformation of the existing diesel-operating units to HFO. New 
+generating units were also installed at the Canouan and Bequia plants in 2007. 
+ 
+14 It is more than 19 kWh in St. Lucia 2.2.2 Diesel fuel for electricity generation 
+VINLEC’s oil bill increased considerably since 2004, peaked in 2008, and was lower in 
+2009 (see Figure 13). 
+10,000,000
+15,000,000
+20,000,000
+25,000,000
+30,000,000
+35,000,000
+40,000,000
+45,000,000
+50,000,000
+55,000,000
+60,000,000
+65,000,000
+70,000,000
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+Year
+EC$
+Projected
+Figure 13. Annual fuel cost for generation of electricity (Source: VINLEC) 
+VINLEC is the largest sole consumer of imported petroleum products, using 33.83% of 
+total oil imports in 2008. That same year, 49% of total diesel imports were used to 
+generate electricity. 
+Specific fuel costs ranged EC$ 0.20/kWh in 2004, roughly EC$ 0.37/kWh in 2005 and 
+EC$ 0.32/kWh in 2007. These numbers give an idea of the potential savings if current 
+fossil fuels were replaced with renewable energy sources. Current CO2 emissions from 
+the electricity sector are in the range of 77,400 tons per year.15
+2.2.3 Electricity generation and sales 
+SVG’s residential and commercial sectors, including the government, are the largest 
+consumers of electricity (see Figure 14 and Figure 15). On the other hand, there are few 
+industrial activities on the island, and consumption for street lighting is minimal. Total 
+consumption went from 74.6 GWh in 1998, to 122.9 GWh in 2008—a 70% increase in 
+10 years. 
+ 
+15The combustion of 1 litre of diesel leads to the emission of about 2.7 kg of CO2. Figure 14. Electricity consumption in St. Vincent and the Grenadines by sector in 2008 (Source: 
+VINLEC, 2009) 
+Figure 15. Evolution of energy consumption in Saint Vincent and the Grenadines per sector from 
+1998-2008 (Source: VINLEC, 2009) 
+2.2.4 Losses 
+In 2007, line losses and unmeasured consumption accounted for 8.7% of the total 
+consumption, showing a downward trend since 1998 (see Figure 16). This percentage is 
+considered low when compared to international standards. Nevertheless, a 1% drop in electricity losses would increase delivered generation by 1.2 GWh. 
+0
+2000000
+4000000
+6000000
+8000000
+10000000
+12000000
+14000000
+6%
+7%
+8%
+9%
+10%
+11%
+1998 1999 2000 2001 2002 2003 2004 2005 2006 2007
+Absolute Losses (kWh)
+Percentage (%) ofNet Generation
+Year
+Losses % of Net Generation Losses(kWh)
+Figure 16. VINLEC technical and non-technical losses % of net generation and absolute losses values 
+(kWh) from 1998-2007 
+2.2.5 Electricity peak demand 
+Peak demand in St. Vincent alone has risen from less than 14 MW in 1998, to 20 MW in 
+2008 – a 40% increase in 10 years. Peak demand in the Grenadine islands (with the 
+exception of Mayreau) has shown similar increases. Canouan’s peak demand has 
+increased by about 60% (see Figure 17). 
+Figure 17. Electricity peak demand evolution (1998-2008) in Saint Vincent and the Grenadines 
+(Source: VINLEC, 2009) Typical day load curves for St. Vincent show that peak demand occurs from 10:00 am to 
+4:00 pm. A smaller peak occurs from 7:00 pm to 8:00 pm on weekdays, whilst weekend 
+peak demand takes place from 6:00 pm to 10:00 pm (see Figure 18). These patterns 
+reveal the hours where efficiency measures are mostly needed. 
+10000
+12000
+14000
+16000
+18000
+20000
+22000
+Load (kW)
+Time
+Weekend Weekday
+Figure 18. Load Curves for a typical weekday and weekend demand in St. Vincent (Source: 
+VINLEC, 2009) 
+2.3 Transport sector
+While energy demand from all sectors increased due to economic growth and rising 
+incomes, the transportation sector fuels the fastest-growing demand. With more than 
+25,382 vehicles16 registered in SVG in July 2009 (see Figure 19 for number of imported 
+vehicles per year), private and public transport is the largest energy consuming sector, 
+with 9.7 million imperial gallons of diesel and 6.4 million imperial gallons of gasoline 
+spent in 200817, a steady increase is portrayed mainly for diesel in Figure 20). Most of the 
+vehicles are privately owned sedans, but there is also a significant quantity of mini-vans 
+operated by privately owned public transport business. 
+As of 15th December 2009, there were approximately 1095 vessels operating in the 
+waters of St. Vincent and the Grenadines/utilizing fuel from St. Vincent and the 
+Grenadines. Of these: 50 inclusive of nine (9) local Roro passenger ships, 12 cargo 
+ships18 are registered with the Maritime Administration; 745 are fishing vessels, of which 
+738 are propelled by gasoline outboard engines and seven (7) are propelled by diesel 
+engines; there is an estimated 200 private vessels of which 15 have diesel engines; and, 
+there is an estimated 100 small commercial yachts.
+ 
+16 Data provided by the Motor Vehicle Registration Statistics, Inland Revenue Department. This may not 
+represent the real size of SVG’s fleet, since many of the registered vehicles may not be actually “on the 
+road”, but should be used as an estimate of the fleet size. 
+17 These values represent all diesel and gasoline that was not used for electricity generation. Road and sea 
+transport and other minor fuel consuming activities are taken into account. 
+18 These cargo ships trade within the Caribbean area. They may fuel outside of St. Vincent and the 
+Grenadines 0
+200
+400
+600
+800
+1000
+1200
+1400
+1600
+1800
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+# of Imported Vehicles
+Year
+Vehicle Imports
+Figure 19. Motor vehicle registration values from 2000-2009 and number of imported vehicles per 
+year (Source: Licensing Office, Inland Revenue Department and Statistics Office, 2009) 
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+2001 2002 2003 2004 2005 2006 2007 2008 2009
+Imperial Gallons(000s)
+Year
+Gasoline Diesel
+Figure 20. Imported diesel and gasoline per year for other uses aside electricity generation (Source: 
+Statistics Office, VINLEC) 
+The average age of the vehicle fleet is rather high, hence contributing to higher fuel 
+consumption, combined with the lack of emissions monitoring and regular engine 
+maintenance requirements, a low performing public transport system, mediocre road 
+conditions, and poor traffic management. 
+Between 1998 and 2008, about 1400 cars are imported every year on average, with a high 
+share of second-hand vehicles. There is also a tendency to import large-size vehicles with 
+higher fuel consumption (low mileage per gallon). Small-size light-weight cars with 
+efficient low-consuming engines and motor-cycles are not very common. 2.4 Renewable energy sources
+SVG has substantial renewable energy sources to provide for heat (solar thermal, 
+biomass), electricity (wind, geothermal, hydro, and solar) and possibly fuel (biomass). 
+While these resources offer the potential to supply a large share of future energy needs, 
+only hydro (see 2.2.1 above) and solar (hot water heating systems) energy are being 
+tapped. 
+Hydro power - is only used on the island of St. Vincent and has a total installed capacity 
+of 5.6 MW, of which only about 5.2 MW are available. It is currently providing around 
+20% of VINLEC's gross electricity production. Due to varying precipitation over the 
+year, the constantly available capacity (firm capacity) is far lower than the rated capacity 
+and amounts to about 2 MW at present. The hydro power facilities at South Rivers (3 
+turbines with a total rated capacity of 0.9 MW) and Richmond (2 turbines with a total of 
+1.1 MW rated capacity) were built in the late 1950's and early 1960's respectively. The 
+plant at Cumberland was built between 1987 and 1988 (5 turbines with a total of 3.7 
+MW). All of the installations are of the run-of-river type. 
+According to preliminary studies prepared with support from the German Agency for 
+Technical Cooperation (GTZ) in the context of the Caribbean Renewable Energy 
+Development Programme (CREDP), further potential exists for additional hydro power 
+exploitation through rehabilitation and expansion of existing plants and development of 
+new sites. In 2009, a comprehensive feasibility study was carried out for the 
+rehabilitation of the Richmond and South Rivers plants, and the development of a second 
+plant along the Colonaire River, downstream of the existing South Rivers plant. The 
+rehabilitation and the expansion projects were both found to be technically and 
+economically feasible. Tendering processes for these projects should commence in 2010. 
+The conservatively estimated, unused hydro power potential is in the range of 5 to 10 
+MW from the rivers of Wallibou and Buccament. There are plans to install river flow 
+gauging equipment at the Wallibou River in 2010 in order to record the long-term flow 
+characteristics of the river. 
+The use of solar water heaters is not widespread. The systems are imported from 
+Barbados and are commonly found in large residential buildings. Their deployment 
+should be expanded throughout all sectors so that the island’s entire hot water demand is 
+supplied exclusively through solar energy. 
+There is considerable wind energy potential mainly on the eastern side of St. Vincent and 
+Bequia, and on all of the smaller islands. Wind power has been traditionally utilized to 
+grind grains. 
+With assistance from CREDP/GTZ, VINLEC has identified potential wind sites for small 
+wind parks. Since September 2005, VINLEC has been collecting data on wind speeds at a 
+site in Brighton. The measured annual average wind speed at 10 metres is of 7.8 m/s. 
+Higher wind speeds are reached at 40 to 50 metres, which is the average hub height of a standard wind turbine suitable for St. Vincent. Another wind measurement tower has 
+been operating at Ribishi Point, close to the Brighton landfill site, since March 2007. 
+There, wind speeds and directions are being recorded at 10 metres and 30 metres. At 30 
+metres, the annual average wind speed is in excess of 8.9 m/s. A third wind measurement 
+tower at Belle Isle has been recording wind speed data at 10 metres since 2007. However, 
+the wind regime at this location has been determined not to be favourable for wind park 
+development. Currently, VINLEC is considering the options of partnering with a private 
+investor to build a wind park at Ribishi Point or building the facility on its own. A 
+decision should be made in 2010. 
+Biomass resources are mainly exploited in a non-sustainable manner through the use of 
+charcoal. There are no known biogas plants or other applied technologies that make use 
+of biomass resources in a modern way. The potential to extract oil from coconuts or other 
+seeds (like Jatropha curcas – also known as “Barbados nut” in the region) and use this oil 
+either in its pure form, or transform it into biodiesel, has so far not been examined. In 
+2009 GFA Envest GmbH in collaboration with Caribbean Bio-Energy Technology Ltd. 
+(CBET) concluded a feasibility study that examined the use of available agriculture and 
+municipal biomass resources for the production of electricity using biogas plants. The 
+study concluded, among other things, that while considerable biomass residues are 
+currently available in SVG, their quality is not sufficient for imminent use in biogas 
+plants. The study further examined the possibility to run a biogas plant based on a 
+mixture of input substrates consisting mainly of energy crops that can be produced on 
+available idle agricultural land in SVG and by a shift in markets of actual cultivated land. 
+The results of the study were presented to the National Energy Committee, the Ministry 
+of Agriculture and other energy stakeholders. A source of development funding for 
+implementation of an initial phase of a recommended biogas plant is needed. 
+Geothermal power offers the potential to supply all of the base load electricity demand on 
+mainland St. Vincent and, through interconnections, to the Grenadine islands and to other 
+neighbouring islands. Although the Government has undertaken a number of preliminary 
+investigations of geothermal resources in St. Vincent over the last 15 years, the actual 
+potential is yet to be proven by drilling. The Government is currently considering further 
+proposals that will lead to suitable development of the geothermal resources in St. 
+Vincent. The Government signed a Memorandum of Understanding (MoU) in 2008 with 
+a potential private developer to facilitate negotiation of a geothermal exploration and 
+exploitation agreement (GEA). By January 2010, the Government completed its review 
+of a proposed GEA and signed the agreement that grants the developer the exclusive right 
+to investigate and develop the resources within a specified geothermal area and to operate 
+the project. III. Summary of Reference Case Business‐as‐ Usual
+(BaU)
+  
+In a business-as-usual scenario where electricity consumption is left unchecked (i.e., 
+without any kind of Government action or intervention), it is estimated that massive 
+investments in the order of EC$ 70-100 million would be needed by 201519 to 
+commission new power generation facilities, rehabilitate or replace old power stations 
+and enhance the distribution system. Energy consumption will also increase in all other 
+sectors at a rate equal or greater than GDP growth as recently experienced, and it will 
+rely increasingly on the import of fossil fuels (mainly petroleum derivates). Such 
+development will create a heavy burden on the national budget as well as on the private, 
+public and commercial sectors for purchasing any kind of energy. 
+According to VINLEC, if the Government does not take action to diversify energy 
+sources, seek for long-term energy security and promote energy efficiency, the energy 
+sector will develop as follows20: 
+ Peak electricity demand will be 27 MW on the island of St. Vincent by 2015 
+and 31 MW by 2020, together with reserve power requiring an installed 
+capacity of 48 MW and 55 MW respectively. 
+ Additional capacity will be based on diesel-powered generators and/or heavy 
+fuel oil (HFO). 
+ Gross Electricity generation will rise to 158 GWh by 2015 and 184 GWh by 
+2020 (VINLEC, 2009), leading to an additional requirement of 1 million 
+imperial gallons of diesel imports by 2015 and more than 3 million imperial 
+gallons by 2020 (assuming that all new generation comes from diesel gensets). 
+Consequently, CO2 emissions will also augment. 
+ For the smaller islands of SVG it is also projected that electricity consumption 
+and load will increase over the next decade at a rate of 3% to 4% per year. 
+ The number of vehicles21 is projected to increase at a 2% rate per year (i.e. 
+~10,000 more cars will be imported by 2015). Meanwhile, fuel consumption 
+in the transport sector will continue increasing as well, reaching 13 million 
+imperial gallons of diesel and 8.3 million imperial gallons of gasoline by 
+2015, based on observed behaviour in the last years and expected increase in 
+the transport fleet. 
+ 
+19 Based on current investments made by VINLEC and projected growth of the power sector 
+20 As it relates to projected development in the electricity sector only. 
+21 There is a considerable discrepancy between values reported by the Licensing Department and Statistics 
+Office. According to VINLEC’s projections, the following scenarios reflect the development of 
+gross electricity generation and expected peak demand behaviour in coming years, see 
+Figure 21 and Figure 22. 
+0
+10
+20
+30
+40
+1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+Peak Demand (MW)
+Year
+Figure 21. Peak demand VINLEC’s Scenario in SVG 
+50
+75
+100
+125
+150
+175
+200
+225
+1998 2000 2002 2004 2006 2008 2010 2012 2014 2016 2018 2020 2022 2024
+Gross Generation (GWh)
+Year
+Figure 22. Electricity Gross Generation VINLEC’s Scenario in SVG 
+In the last ten years (1998-2007) electricity demand has grown yearly by an average of 
+5.4% in the domestic sector, 7.7% in the commercial sector, 1.1% in the industrial sector 
+and 4% in street lighting. Meanwhile, peak demand growth has been 5% per year. For this reason it is imperative to focus on actions in the commercial and domestic sectors. 
+Complementary activities should be undertaken in the industry sector and with regard to 
+the street lighting infrastructure. IV. Energy Action Plan
+The purpose of this section is to develop possible scenarios for SVG’s energy future from 
+2009 until 2030. It contains short (1-5 years), medium (5-10 years), and long (10-20 
+years) term actions designed to enhance the implementation of the policies and goals of 
+Saint Vincent and the Grenadines’ National Energy Policy (NEP). These actions foster to 
+energy conservation, energy efficiency, and diversification of energy source and energy 
+use sectors. 
+4.1 Planning and management
+GOAL: Consolidate well coordinated planning and management programmes to 
+achieve sustainable supply and use of energy by 2015 
+4.1.1 Institutional requirements 
+The Prime Minister took over the energy portfolio in 2006. Subsequently, he established 
+a National Energy Committee in 2006 and an Energy Unit in 2008 for the development 
+and implementation of the National Energy Policy, which was adopted by Cabinet in 
+February 2009. The Prime Minister, in his function as Minister of Finance, is also 
+responsible for the control of fuel prices. The Government has therefore established 
+structures that allow for concentrated efforts needed to reshape the energy sector and 
+formulate decisions in an effective and linear approach. It will now be necessary to 
+strengthen staff capability to deal with all types of energy policy matters as well as 
+promotional and information activities. 
+Action 1: The Cabinet will decide which agencies of Government (e.g., 
+Ministry of Energy, other ministries, state institutions or companies, 
+VINLEC, Bureau of Standards, etc.) are responsible for energy issues. The 
+Cabinet will base its decision on the advice of the National Energy 
+Committee composed of different ministries and national stakeholders, and 
+presided by the Office of the Prime Minister. The Government will 
+undertake efforts to strengthen the knowledge of its staff on all energyrelated issues. 
+Time-scale: Short-term 
+4.1.2 Energy database and publication of annual energy statistics 
+In order to develop any long-term energy strategy, and for electricity supply planning 
+purposes, it is essential to have reliable knowledge of the status and history of energy 
+supply and consumption in different sectors, and data related to those sectors such as the 
+number and type of vehicles, the use of electric water heaters, etc. Such statistical data 
+are currently not available, or are spread among different market participants. A full-scale 
+energy balance is currently not available, while other energy-related figures are either 
+unregistered or out-of-date. Action 2: The Office of Statistics will establish procedures for the 
+retrieval of up-to-date, relevant and meaningful information on energy 
+from several market participants. The information shall be utilized to 
+produce statistical data and materials on energy supply and consumption 
+which the Office of Statistics will compile annually in an energy balance. 
+The annual energy balance shall be made available to the public through 
+different media, including the Internet, and shall provide reliable 
+information on the state of energy supply and consumption for each sector 
+of the economy. These activities shall assist the Government in ensuring, 
+and following up with, the compliance of energy targets.
+Time-scale: Short-term
+4.1.3 Capacity building, education and awareness raising 
+Capacity building, institutional strengthening and awareness raising are fundamental 
+aspects of any sustainable energy strategy. 
+Action 3: The Ministry of Education will propose a strategy for the 
+implementation of energy-related capacity building activities at all levels of 
+education, from primary schools to colleges and universities. It will provide 
+financial support for advanced professional training, particularly in the 
+field of renewable energy applications and general awareness raising, and 
+will seek the participation and financing of national stakeholders and 
+international donors. 
+Time-scale: Short-term 
+4.1.4 Pilot and demonstration projects 
+Pilot and demonstration projects are a valuable and convincing tool to showcase how 
+energy efficiency and renewable energy technologies can be implemented, and show 
+positive results with regard to economic and ecological effects. The Government is 
+therefore determined to select and support such projects that have a high potential to raise 
+awareness and act as a model for subsequent actions by the private or public sector. 
+Action 4: The Ministry of Energy, in cooperation with the Finance 
+Department, will examine ways to set up a fund in support of small-scale 
+pilot and demonstration projects to showcase new ways to enhance energy 
+efficiency. 
+Time-scale: Short-term 
+Action 5: The Ministry of Energy and the International Airport 
+Development Company (IADC) will ensure that the new International 
+Airport at Argyle is built in the most energy efficient manner possible, by erecting well-insulated buildings and using natural ventilation and properly 
+designed day-lighting. The Government will also consider the use of roofintegrated solar electricity and solar thermal systems in combination with 
+absorption cooling and energy efficient artificial lighting, acting as a showcase for the nation and the region. 
+Time-scale: Short-term 
+4.1.5 Interconnection 
+Based on a preliminary study developed by VINLEC in early 2009, interconnection with 
+the Grenadines islands is not a cost-effective alternative. Nonetheless, there is an interest 
+to determine when interconnection between islands of the country would become a 
+feasible alternative. Moreover, the materialization of geothermal development can bring 
+SVG the opportunity to export electricity where interconnectivity with other island states 
+is a realistic option. 
+Action 6: The Ministry of Energy, in collaboration with VINLEC, will 
+investigate opportunities for electrical interconnection between and among 
+different islands of the country, and with neighbouring states, and take 
+notice of results from studies being developed by international 
+organisations. 
+Time-scale: Long-term
+4.1.6 Environmental impact assessment 
+Renewable energy and conventional energy projects must be set up without disturbing 
+and harming the environment (air pollution, water pollution, loss of biodiversity among 
+others). For example, an environmental impact assessment should provide evidence that 
+no major negative influence on the local communities and species will occur from 
+erecting and operating wind farms of more than three turbines. The impact of new 
+hydropower plants on the environment can also be minimized by using adequate 
+technologies and design solutions. Energy projects should focus first on those locations 
+with the least intrinsic human and wildlife habitat values. 
+Action 7: The Ministry of Environment will make itself familiar with 
+the requirements and standards of environmental impact assessments for 
+geothermal, solar, wind farms, hydropower facilities, and any new energy 
+project, and build sufficient capacity in this area. In the shortest time 
+possible, it will establish guidelines for such studies and seek assistance 
+from international experts if necessary. Environmental impacts caused by 
+renewable energy plants will be compared to impacts of fossil-fuel based 
+plants. 
+Time-scale: Short-term 4.1.7 International cooperation and financing 
+The transformation and modernization of the energy sector will require financial means 
+that exceed the national budget of SVG as well as the burden that can be carried by 
+VINLEC. It will therefore be necessary to seek for international financing and funding 
+sources for investments, pilot actions, institutional and capacity building as well as 
+information activities. It will be easier to attract private investors if additional financing 
+sources with preferential conditions can be made available. 
+Such sources can be the European Development Fund (EDF), the Caribbean 
+Development Bank (CDB), the Inter-American Development Bank (IDB), the World 
+Bank, the German Development Bank KfW and other donors and financing institutions. 
+Credits for the avoidance of greenhouse gas emissions could possibly be obtained and 
+sold through the Clean Development Mechanism (CDM), if major renewable energy or 
+energy efficiency projects in the region are bundled. 
+Action 8: The Ministry of Energy will get in contact with international 
+donor and financing institutions in order to access additional funding 
+sources for energy efficiency and renewable energy measures and 
+investments. It will also draft applications for such purpose and assist the 
+private sector in accessing favourable financing conditions. Grant funding 
+from the European Development Fund within the Special Framework of 
+Assistance (SFA), which has already been approved, will be used mainly to 
+further implement the National Energy Policy and put different activities 
+into effect. 
+Time-scale: Short-term 
+4.1.8 Financial incentives 
+Energy efficient products still have in many cases higher costs than similar products with 
+low efficiency. Renewable energy technologies generally show relatively high up-front 
+investment costs, but require far lower operation and maintenance costs than 
+conventional technologies. Therefore, to overcome the obstacle of high initial costs and 
+stimulate the market for innovative energy technologies it is recommended to provide 
+financial (grants or soft-loans) or fiscal (tax credits, reduction or exemption from duty 
+taxes and consumption taxes etc.) incentives. Currently incandescent light bulbs are taxed 
+with 100% excise tax and 15% Value Added Tax (VAT), while compact fluorescent 
+lamps (CFLs) are fully exempted from excise tax and VAT. 
+Action 9: The Ministry of Finance will select a list of items that will be 
+completely or partially exempted from import or consumption taxes, while 
+higher taxes may be imposed on energy inefficient devices. Such list will 
+include systems and components which contribute directly to improved 
+energy efficiency or the use of renewable energy sources. It will also 
+consider a scheme of tax credits to the benefit of all legitimate persons and companies that make investments in energy efficiency measures or for the 
+use of renewable energy sources. The Ministry of Finance will also 
+reconsider the current exemption from Value Added Tax (VAT) for 
+electricity, gasoline, kerosene, diesel and LPG. 
+Time-scale: Short-term
+4.1.9 Monitoring and evaluation 
+In order to verify if the overall targets will be achieved and appropriate actions are being 
+taken, a continuous monitoring and evaluation process will be needed. This provides the 
+Government with the information necessary to adopt its policy over time and take up 
+additional adjustment measures if required. It will further secure that Parliament and the 
+general public are informed about the effects and results of actions implemented within 
+the National Energy Policy. 
+Action 10: The Ministry of Energy, with support from other relevant 
+Ministries, public institutions and VINLEC, will report biannually on the 
+status and outcomes resulting from the implementation of the actions listed 
+above. Further, the Ministry of Energy will revise the energy action plan 
+accordingly if required, to meet the overall energy targets or to adapt to 
+new political conditions. The biannual status report shall be made available 
+to the public through different media, including the Internet. 
+Time-scale: Short-term (long-term continuance) 
+4.2 Power sector
+GOAL: Reduce projected increase in peak demand by 5% by 2015 and 10% by 
+2020, and strive to reduce power losses down to a total of 7% by 2015 and 5% by 
+2020. 
+4.2.1 Long-term planning for the electricity sector 
+The effective use of financial capital and the security of electricity supply in the longer 
+term is very much dependent on a prospective planning, taking into account forecasts on 
+energy demand, price development and availability of primary resources. It is therefore 
+necessary to design long-term planning prospects dealing with questions such as grid 
+enhancement and extension, power capacity development, electricity consumption, etc. 
+Action 11: Every two years, VINLEC will design and review a 10-year 
+planning prospect for the electricity sector, and discuss the results with the 
+Government. 
+Time-scale: Short-term (long-term continuance) 4.2.2 Tariff structures 
+The high electricity prices for industrial and commercial customers in combination with 
+inequities in the formula for computation of the Demand Charge have put a heavy burden 
+on many such consumers and given indication that prices do not fully reflect costs. 
+Action 12: VINLEC has recently conducted a Cost of Service Study that 
+analyses, among other things, the cost and tariff structures of the utility. 
+Based on this study, VINLEC will be requested to derive a more equitable 
+formula for imposing the demand charge, in particular for the commercial 
+sector. VINLEC will be requested to look at ways on how tariff structures 
+could better reflect real costs.
+Time-scale: Short-term
+4.2.3 Demand side management 
+There is high potential for energy conservation and efficiency in the manufacturing 
+industry as well as in the commercial and domestic sector. To tap this potential, energy 
+audits and technical advice to different types of customers regarding the potential to 
+improve their energy consumption patterns is needed. Further, new financing 
+mechanisms that allow for carrying the initial investment costs are needed. 
+Action 13: The Ministry of Energy, with support from VINLEC, will 
+initiate a programme for improved demand side management by offering 
+low- or no-cost services for energy audits to major electricity consumers. 
+VINLEC will also offer, whenever this is feasible, low-interest loans for 
+the purchase of energy efficient devices, or pre-payment schemes for the 
+purchase of such goods (e.g., solar water heaters and CFLs), where credits 
+are repaid through the cost savings on the electricity bill. Mainly for 
+domestic and commercial customers, the Ministry of Energy will consider 
+to set up an information and advisory centre, and produce adequate 
+publications to inform about ways for smart and cost-saving energy use. 
+Time-scale: Medium-term
+4.3 Renewable energy
+GOAL: Deliver 30% of projected total electricity output from Renewable Energy 
+Sources (RES) by 2015 and 60% by 2020 
+Preliminary findings show that several sources of renewable energy can be exploited at 
+costs that are competitive with conventional power sources as long as no major 
+investments have to be made for infrastructural improvements such as road construction 
+or grid extension and reinforcement (e.g., generation costs for wind energy could be 
+lower than EC$ 0.20/kWh, well below the current fuel acquisition cost of about EC$ 
+0.28/kWh). For rehabilitation of the older hydro power plants, estimations show that generation costs would also be in a similar range. Despite their high up-front costs, both 
+hydro and wind power have the advantage that operational costs are low; therefore their 
+price stability is high. Wind turbines usually have a life span of at least 20 years if 
+properly monitored and maintained. Hydropower plants can run for more than 40 years, if 
+overhauled regularly. 
+Several actions must take place for a rapid and successful deployment of renewable 
+energy technologies. To expand the use of renewable energy sources it is critical to 
+ascertain where key project opportunities exist. Within the framework of the Caribbean 
+Renewable Energy Development Programme (CREDP), executed with support of 
+GTZ/Germany, there is an ongoing process of measuring and assessing potentials for the 
+exploitation of wind and hydro power resources in collaboration with VINLEC. 
+Furthermore, there is a need to take a closer look into the potential for biomass and 
+geothermal energy. Given the large increase of global production capacity for solar cells 
+and modules, photovoltaic systems have seen a sharp decline in price in the first half of 
+2009, which are 30% lower than at the end of 2008. In particular situations, such as offgrid supply, and with increasing oil prices, solar electricity can already compete with 
+fossil fuel power generation. Besides the main island of St. Vincent, assessments should 
+also cover the smaller inhabited islands of the Grenadines. 
+4.3.1 Renewable Energy Resource potentials 
+4.3.1.1 Geothermal 
+The accurate assessment of geothermal energy potential for electricity generation 
+depends on explorations involving the drilling of boreholes, which is an expensive 
+process that can only be carried out either with international financial support, or by the 
+private sector interested in exploiting these resources. In May 2008, the Government 
+signed a Memorandum of Understanding (MoU) effectively granting exclusive rights to a 
+private company, for a period of 12 months, to negotiate an agreement with the 
+Government for the development of geothermal energy resources within an initial 
+Geothermal Resource Area defined in the MoU. The expiration date of the MoU was 
+extended to December 2009 to facilitate conclusion of the negotiations. The Government, 
+after several years of negotiation, made an exclusive agreement with a private entity to 
+develop, explore and exploit geothermal resources. 
+Action 14: The Ministry of Energy and the Government shall ensure 
+sustainable development of exclusive geothermal exploration and 
+exploitation in the Soufriere Resource Area on mainland St. Vincent, in 
+accordance to agreement made. If the initial explorations yield positive 
+results, the exploitation of such geothermal resources shall be in a fashion 
+that benefits the nation. The Ministry of Energy will ensure that such 
+exclusive agreement entered into with the private developer is followed 
+accordingly and that in the event that the developer fails to comply with its duties and obligations in a timely manner and to the extent agreed, the 
+Government can invoke explicit termination clauses at various stages of the 
+development process to terminate agreement. 
+Time-scale: Short-term 
+4.3.1.2 Hydro power 
+VINLEC commissioned a comprehensive feasibility study in 2009 with funding from 
+CRETAF to validate the results of previous studies conducted with assistance from 
+CREDP/GTZ that had concluded potential for raising the capacity and gaining additional 
+output of 27% and 13% respectively above the current average annual electricity 
+production at the Richmond and South Rivers hydro plants. The new study examined the 
+civil and electromechanical structures at the plants, the topography of the surrounding 
+rivers and plant sites and the environmental and social impact to renew and maximize the 
+output of the plants. 
+The results showed that most of the civil and electromechanical equipment can be 
+replaced at a cost of 8-8.5 M USD to gain increased energy output of 13% and 10% 
+above the current average annual electricity production of the Richmond and South 
+Rivers plants respectively. The potential of the sites can yield greater gains of 24% and 
+46% respectively but the environmental and social impact assessments indicate that this 
+additional yield will require use of residual water flows necessary to sustain aquatic life 
+and social activities. 
+The scope was later expanded to include the feasibility of developing a second stage 
+hydropower plant downstream of the existing South Rivers hydropower station. The 
+proposed capacity is 1.19 MW with an annual energy output of 4,870 MWh. This would 
+increase the energy output from South Rivers to 8,930 MWh which is a 120% increase 
+above the current average annual electricity production of the South Rivers Power 
+Station. The new study concluded that such rehabilitation works would be economically 
+and financially viable, even by basing the calculation on a conservative future oil price of 
+US$ 60 per barrel. 
+The CRETAF funding also provided for the preparation of Tender Designs and Tender 
+Documents which should be of sufficient detail to use in the tendering process to secure 
+Contractors from the international market to supply material, equipment and labor to 
+upgrade and build these power stations. 
+The previous feasibility studies on hydro energy potential have also pointed to the need 
+for long-term flow measurements by installing or re-installing river gauging stations at 
+the existing hydro power stations as well as at potential new hydro power sites. 
+Furthermore, it is assumed that untapped rivers at Fancy, as well as larger rivers like 
+Wallibou, Buccament and Rabacca, offer additional hydro power resources of 
+significance. 
+Even if no immediate development of further new sites is considered, assessing the potential of other hydro power locations is urgently required in the interest of securing a 
+future sustainable energy mix in SVG. Considering that reliable hydrological data should 
+be based on data collection over 10- to 20-year periods, a comprehensive river gauging 
+programme should be started without further delay as an investment into the future. 
+A hydrometeorologic network has been erected in the framework of the National Water 
+Resource Management Study Programme (NWRMSP) supported by the European 
+Development Fund (EDF). The NWRM study is assessing the water resources of all the 
+islands used as potable water and for irrigation and hydro power purposes, in 
+collaboration with the Central Water and Sewerage Authority (CWSA). VINLEC is 
+contributing to the study, which was started in fall 2006 and will end in 2010. 
+Future of hydropower production depends mainly on the long-term availability of 
+sufficient water resources. River flows are threatened by deforestation, variation of 
+annual precipitations caused by climate change and competing uses, like fresh water 
+supply and irrigation. 
+Canouan, Union, Bequia and other Grenadine islands do not have substantial rivers, and 
+their annual rainfall ranges from 900 to 1,600 millimetres. Therefore, there are no 
+suitable locations for hydro power production. 
+Action 15: VINLEC, in collaboration with the Government and initially 
+assisted through the Caribbean Renewable Energy Development 
+Programme (CREDP), will select appropriate river sites for possible future 
+hydro power plants and start a long-term gauging programme in order to 
+get reliable hydrological data that cover various seasons and give sufficient 
+evidence on the medium availability of water for run-of-river power 
+stations. Such undertaking will be done in collaboration with, and on the 
+basis of, the NWRMSP. A Hydrometeorologic Unit will be set up for all 
+long term water resource measurements in St. Vincent and the Grenadines 
+in order to ensure the future provision of hydrometric data. Formerly 
+existing measuring stations will be reinstated if possible. The Government, 
+VINLEC and CWSA will ensure the sustainability of the 
+Hydrometeorologic Unit established under the CWSA; in such way ensure 
+an integral management of water resources exploitable for hydro power 
+generation. Moreover, in the shortest time possible the Government 
+together with the NWRMSP shall design a plan for the reforestation of land 
+in hydrological sensible areas and establish guidelines for a long-term 
+sustainable forest management, including the creation of preserved areas 
+and buffer zones in which unregulated logging will not be allowed. 
+Time-scale: Short to long-term 
+Action 16: The Government will request to VINLEC to provide the 
+financial means for the rehabilitation of the hydro power plants at South 
+River and Richmond, and for the installation of new small hydro power 
+plants. The Ministry of Energy and the Finance Department will assist in finding adequate financing sources and secure bank guarantees. 
+Time-scale: Short to medium-term 
+4.3.1.3 Wind energy 
+Preliminary findings show that there is a technical potential in the range of several MW 
+coming from wind energy on St. Vincent and some of the smaller islands. Previous wind 
+measurements in St. Vincent have indicated mean wind speeds of 7-8 m/s on eastward 
+facing ridges. Bequia and Union Island both have good potential sites, with estimated 
+annual mean wind speeds of 7-8 m/s on eastward facing ridges. The island of Canouan 
+has an excellent wind regime with annual averages estimated to be above 8 m/s. Mayreau 
+has a very similar wind regime, and a small wind-diesel hybrid system could provide the 
+island with relatively cheap power. 
+A supplementary use for wind energy is the production of fresh water by desalination 
+using reverse osmosis, currently in preparation for Bequia under the Implementation of 
+Adaptation Measures in Coastal Zones Project, with grants from the Global Environment 
+Facility and under responsibility of the Ministry for Health and Environment.22
+Precise wind measurements are currently made by CREDP/GTZ and VINLEC at 
+Brighton and at Ribishi Point on the island of St. Vincent to get reliable data for wind 
+power investments. The ridge at Ribishi Point, close to the sea and between a landfill and 
+a new sanitation facility, is a good location for a small 4 to 5 MW wind farm using 
+turbines with a capacity of approximately 900 kW. VINLEC has evaluated tenders for the 
+supply and operation of wind turbines at these locations in 2009. VINLEC is considering 
+either entering into an agreement with one of the tender proposals or investing in the 
+development of the wind park on its own. Further wind measurements are needed to 
+select other locations for future wind farms. 
+Action 17: VINLEC, with technical assistance from CREDP/GTZ, will 
+execute further long-term wind measurements on St. Vincent. Measurement 
+activities will be extended to other islands with good wind potential and 
+demand for wind power. Environmental impacts and ground conditions for 
+turbine foundations should be assessed at selected sites, and technical and 
+economical pre-feasibility studies should be executed.
+Time-scale: Short - Term (long-term continuance) 
+Action 18: The Ministry for Physical Development and VINLEC will 
+initiate steps for the erection of wind turbines and posts for grid-connection 
+as soon as possible. They will further make arrangements to allow 
+conditional access and use of this property either by VINLEC or a private 
+wind farm operator. The Ministry for Physical Development will initiate a 
+process of land use planning, dedicating and reserving sites for the 
+ 
+22 See World Bank Report 34152-LAC of August 8, 2006 construction of additional future wind farms. 
+Time-scale: Short-term (long-term continuance) 
+4.3.1.4 Biomass energy and waste-to-energy 
+An assessment of the potential of different biomass residues and the availability of plants 
+dedicated to electricity generation from biogas was concluded in March 2009 by GFA 
+Envest GmbH in collaboration with the Caribbean Bio-Energy Technology Ltd. and the 
+Government. The study identified some feedstock, such as banana trunks, that can be 
+used for the production of biogas, and also examined to what extent the organic content 
+of agricultural and municipal waste can be utilized for the same purpose. The study 
+estimates that the realistic potential for electricity generation from biogas in St. Vincent is 
+within 3 to 4 MW, and outlines a project concept for the initial development of a biogas 
+plant. Further assessment will be needed to examine to what extent oil-containing seeds 
+and/or other biomass sources can be used as the basis of biofuels for the transport sector 
+and other purposes, such as cooking. 
+Action 19: The Ministry of Agriculture, Forestry and Fisheries will 
+continue to dialogue and partner with interested private developers to seek 
+funding for the development of a biogas plant for electricity generation, and 
+also to further analyse the potential of using available biomass sources to 
+produce biofuels for the transport sector and other energy purposes. 
+Time-scale: Short-term 
+4.3.1.5 Solar electricity and solar thermal use 
+The potential for hot water and electricity generation depends mainly on the usable size 
+(surface) of the appliances (collectors or panels) and the technology used. Medium solar 
+radiation is of 5.0 kWh/d.m² throughout the region and shows little seasonal variation. 
+Solar thermal energy is utilized to heat water. Nevertheless, there is still significant 
+potential to expand the use of solar thermal energy. There is a significant use of electrical 
+water heaters that could be replaced by solar collectors. There is a growing number of 
+applications where photovoltaic panels can be used at competitive costs. Those options 
+may increase significantly with the continuing decline in price of solar photovoltaic 
+systems. 
+Action 20: The Ministry of Energy, in collaboration with VINLEC, will 
+analyse market potentials for the (extended) application of solar thermal 
+and solar photovoltaic systems in all sectors. Through the Energy Unit, the 
+Ministry of Energy will continue to examine the potential to fit gridconnected photovoltaic installations on Government and Public buildings 
+through the initial installation of demonstration systems on at least three 
+buildings that were investigated with assistance from GTZ under the 
+CREDP programme. VINLEC will install a pilot photovoltaic plant at its 
+own premises and will publish technical guidelines for the interconnection of small, grid-connected renewable energy systems. 
+Time-scale: Short-term 
+4.3.2 Applications 
+4.3.2.1 Renewable energy for the Grenadine islands 
+Given their remoteness and small power demand, electricity generation costs on Bequia, 
+Canouan, Union and Mayreau are even higher than on the main island. On the other hand, 
+those islands have a strong seasonal tourism sector that requires a clean environment and 
+depends highly on competitive energy costs. Those islands have an excellent potential of 
+wind as well as solar resources. This is also the case for the other smaller islands that 
+have privately operated diesel-fired electricity systems. 
+Action 21: The Ministry of Energy, with technical and financial support 
+from international sources, will investigate opportunities to tap costeffectively wind and solar potentials for electricity generation on all major 
+Grenadine islands. This includes the centralised use of such sources to be 
+fed into the grid as well as the decentralised generation coupled with either 
+storage systems or grid-connections to deliver excess electricity. The 
+Government will also seek international financial funding for feasibility 
+and planning studies as well as investments in the form of grants or softloans to raise the economic viability and lower financial risks to support 
+private power operators to replace diesel fuel with RES. 
+Time-scale: Short-term 
+4.3.2.2 Renewable energy for self supply 
+Stand-alone photovoltaic panels or small wind generators in combination with charge 
+controllers and batteries can be the most economical solution for specific applications if a 
+grid connection is not available or would be too expensive. 
+Action 22: The Ministry of Energy, in collaboration with VINLEC and 
+other public institutions, will investigate opportunities for the installation of 
+stand-alone photovoltaic and wind power systems. Application areas could 
+include street lighting, air field lighting, cattle fences, telecommunication 
+towers etc. The Government will consider how to promote private 
+investments and provide appropriate technical information. 
+Time-scale: Short-term 4.3.3 Stimulus tools 
+4.3.3.1 Independent power production 
+Currently the Electricity Supply Act (ESA) does not allow for the engagement of 
+Independent Power Producers in SVG, unless they have been authorized by VINLEC 
+with the consent of the Ministry responsible for electricity supply. However, given the 
+high investment costs required for the construction of new generation facilities, which 
+may exceed the financial capabilities of VINLEC, the participation of new and 
+experienced stakeholders in the exploitation of new wind and geothermal resources could 
+be essential for the deployment of new generation facilities of this type. 
+Action 23: The Ministry of Energy, with international assistance, will 
+either amend the Electricity Supply Act in such a form that it allows for the 
+generation of electricity from renewable energy sources by Independent 
+Power Producers, or mandate VINLEC to issue sub-licences for electricity 
+generation activities whenever the Government instructs it to do so. 
+VINLEC will maintain its role as sole-buyer, transmitter and distributor of 
+electricity. It will purchase the power that comes exclusively from 
+renewable energy sources from any IPP on the basis of long-term bilateral 
+power purchase agreements. The Government will act as supervisor in this 
+process, unless a neutral regulatory body is delegated with such power. 
+Time-scale: Short-term 
+4.3.3.2 Net-metering 
+Currently parallel operation with the public grid and feed-in of excess electricity is not 
+allowed without prior licensing by VINLEC even in cases where renewable energy is 
+used for self-supply, or produced at small-scale. On the other hand, easy to implement 
+net-metering schemes for small electricity generators using renewable energy has not yet 
+been officially established. A first grid-connected PV installation based on a bilateral netmetering agreement with VINLEC has gone into operation at St. Vincent Technical 
+College in May 2008. 
+Action 24: The Ministry of Energy will change the legal basis to allow 
+for indiscriminate supply of electricity to the main grid from small 
+generators using renewable energy, without prior licensing by VINLEC. 
+The Government, in collaboration with VINLEC, will also implement a 
+suitable net-metering scheme for such electricity. 
+Time-scale: Short-term 4.4 Petroleum sector  
+GOAL: Increase energy security and diversify the energy portfolio 
+4.4.1 Contracts and agreements for energy supply and storage 
+SVG traditionally imports petroleum supplies from Trinidad and, as necessary, purchases 
+on the spot market. Oil reserves in the Latin American and Caribbean region are 
+estimated at 52.5 to 129 billion barrels (Gb),23 while natural gas reserves are estimated at 
+250 trillion cubic feet. Within the vicinity of SVG, only Venezuela possesses long-term 
+petroleum resources. 
+Over the years, SVG has benefitted from energy agreements, such as the Petrocaribe and 
+Texaco, which form an important part of the energy security strategy and involve access 
+to refined products under financing agreements. 
+Action 25: It is important for the country to preserve benefits negotiated 
+under bilateral energy supply agreements. The Government’s foreign trade 
+policy will seek to strengthen bilateral relationships with energy supplying 
+countries within, and outside of, the region, such as the petroleum supply 
+contract signed with the Government of Venezuela under the auspices of 
+the PETROCARIBE agreement. The Government, in line with other 
+countries of the region, will further support any policy that seeks to set up 
+new refinery capacities in addition to existing facilities, if such option 
+demonstrates clear economic advantages and is consistent with existing 
+socio-environmental regulations. 
+Time-scale: Short-term (long-term continuance) 
+4.4.2 Petroleum reserve storage 
+Unexpected oil supply disruptions due to national or international events, such as natural 
+disasters, geopolitical instability, or acts of terrorism, must be prevented. With the 
+commissioning of the first phase of the new diesel generating plant at Lowmans Bay in 
+2006, VINLEC created 440,000 imperial gallons of fuel storage capacity to operate the 
+plant. An additional 440,000 imperial gallons is to be added with the second phase of 
+expansion of the plant scheduled for 2010. Additionally, the Government, through the 
+PetroCaribe Agreement, is in the process of constructing a national fuel storage facility 
+at Lowmans Bay that will expand storage capacity for petroleum products including 
+possibly fuel for the transport sector and LPG. 
+ 
+23 Energy Watch Group. Crude Oil – The supply Outlook. Revised Edition February 2008. Action 26: The Government will revise existing regulations, or submit 
+new legislation to Parliament, in order to ensure adequate inventory levels 
+to cushion any disruption in the supply of fossil fuels. 
+Time-scale: Medium-term 
+4.4.3 Diversification of energy sources
+Considering the potential for renewable and non-renewable energy development in Saint 
+Vincent and the Grenadines and the current technological advances, energy resources 
+such as liquefied or piped natural gas, biomass, wind, geothermal, solar and other sources 
+of energy must be considered in the future energy mix. Furthermore, it is essential to 
+explore interconnection options between and among St. Vincent, the Grenadine islands 
+and neighbouring nations. This strategy would enable the creation of a new export market 
+for excess energy from SVG and strengthen energy security at the national and regional 
+levels. 
+Action 27: The Government will promote the diversification of energy 
+sources to reduce SVG’s dependence on a single fuel type for the 
+generation of electricity and heat, and for the transport sector. Natural gas 
+and renewable energy sources (see section 4.3 above) are among the 
+alternatives which will be further explored. For such purpose, the Ministry 
+of Energy will mandate the preparation of a study on options to import 
+liquefied or compressed natural gas. 
+Time-scale: Short-term and long-term 
+4.5 Transport sector
+GOAL: Reduce projected consumption of fossil fuels in the transport
+sector by 10% by 2015 and 15% by 2020.
+4.5.1 Reduced fuel consumption of vehicles
+Vehicles vary considerably in fuel consumption depending on engine technology and 
+size. Medium-sized, 5-passenger vehicles show average standard fuel efficiency ranging 
+from 39 to more than 98 kilometres per imperial gallon, the latter being the case of 
+hybrid vehicles. Older vehicles and those without regular engine maintenance generally 
+tend to be less efficient. 
+Many vehicle owners have no knowledge of the vehicle’s specific fuel consumption.24
+Furthermore, motor vehicle property tax does not take into consideration fuel efficiency. 
+ 
+24 In the case of new vehicles, this information is available from international sources. For example, in the 
+European Union, the United States and Japan, vehicle manufacturers are required by law to provide fuel 
+consumption figures for the vehicles they produce. This allows consumers to make a more informed 
+decision when purchasing a vehicle. On the other hand, fuel subsidies geared at lowering fuel prices are a heavy burden on the 
+state budget. 
+Action 28: The Ministry of Energy, in collaboration with the Bureau of 
+Standards, will provide the public with specific fuel consumption 
+guidelines for different vehicles commonly imported to SVG. In order to 
+stimulate the purchase of lower fuel consumption vehicles, the Ministry of 
+Finance will revise the motor vehicle taxation system and base it 
+principally on fuel efficiency instead of engine size. The Government will 
+reconsider its policy of subsidizing fuel so as to stimulate the use of more 
+efficient vehicles. It will also assess whether the current environment levy 
+on imported second-hand vehicles is effectively addressing the issue of 
+energy efficiency. 
+Time-scale: Short-term 
+4.5.2 Transport strategy  
+Reducing energy consumption in the transport sector can contribute to achieve a greater 
+level of independence from fossil fuel imports. A new transport strategy should be 
+implemented to lower energy consumption in the transport of goods and persons in the 
+private, industrial, commercial and public sector. Such a strategy should include options 
+aimed at reducing the number of vehicles, improving public transport and road 
+conditions, and implement an innovative traffic management approach. 
+Action 29: The Ministry of Transport will develop a comprehensive 
+long-term transport strategy to curb energy consumption in this sector, 
+including rush-hour regulations, staggered business hours, and access and 
+use of heavy load vehicles during rush hours. It will highlight measures that 
+will reduce the number of road transports, introduce new public buses and 
+regulate public transport routes throughout the island, improve the current 
+road network and make recommendations for innovative traffic 
+management. 
+Time-scale: Medium to long-term 
+Action 30: The Government, in cooperation with VINLEC, will study the 
+potential for introducing hybrid and electric vehicles into the island. As a 
+first step, the Government can introduce electric vehicles into its own fleet. 
+Time-scale: Medium-term 
+4.5.3 Biofuels for transport
+Ethanol can easily be blended with gasoline up to a volume of 10% in most vehicle 
+engines. Higher ethanol contents can be used in vehicles with modified engines. 
+Biodiesel can also be either mixed with regular diesel, or used as single fuel in many cars. Diesel engines can also be modified to run on pure plant oil. 
+Action 31: The Government will study the setup of a national (and 
+possibly regional) biofuels production chain. Production would be 
+supplemented with imports from countries such as Brazil if needed. The 
+Government will look into options to cooperate with regional refinery 
+operators and fuel suppliers to set up appropriate supply mechanisms for 
+fuel blends (gasoline/ethanol and diesel/biodiesel). 
+Time-scale: Short-term 
+4.6 Energy efficiency
+GOAL: Reduce projected electricity generation by 5% by 2015 and 15%
+by 2020
+4.6.1 Assessment of market potential 
+An analysis of technical potential is required for the energy efficiency market. There are 
+numerous opportunities for electricity savings through conservation, the use of highefficiency technologies, and better demand management. Statistics on energy demand are 
+scarce, and demand side management has been the subject of little analysis. In order to 
+implement measures for the improvement of energy efficiency and assess their impact on 
+energy supply, there is a strong need to identify and assess key market potentials. 
+Action 32: The Ministry of Energy, with the support of stake-holders and 
+international consultants, will analyse the structure of the energy 
+consumption sector and its potential for improved efficiency. VINLEC will 
+take over the task of analysing the consumption patterns of different 
+consumer groups, and establish consumer profiles. 
+Time-scale: Short-term 
+4.6.2 Co-generation 
+Hospitals, hotels and the food-processing industry require electricity and heat, the latter 
+being used for hot water, steam and air conditioning. The waste heat occurring in these 
+thermal generation processes can be recovered and transformed into useful energy, thus 
+raising overall efficiency. Decentralized co-generation facilities located at the site of 
+consumption are widely utilized in many developed countries, and should also be 
+deployed in SVG. Electricity would be provided for local consumption, with excess 
+power being delivered to the grid. In this case, as well as in the case of self-generators 
+using renewable energy, remuneration schemes such as net-metering or fixed feed-in 
+tariffs should be introduced in the legislation by amending the Electricity Supply Act, or 
+through specific legislation. Action 33: The Government will support all activities that contribute to 
+higher energy efficiency by using co-generation facilities in the industrial 
+and service sector. For this purpose, VINLEC will showcase the use of 
+waste heat from its generation facilities in combination with absorption 
+chillers for cooling of its office buildings and work space. The Government 
+will amend the Electricity Supply Act (ESA) or mandate VINLEC to issue 
+required licenses in order to provide the legal basis for the parallel 
+operation of co-generation plants with the public grid. The Ministry of 
+Energy, in collaboration with VINLEC, will be mandated to analyse the 
+conditions for feed-in of excess electricity and support of back-up and 
+reserve power. Preferential treatment will be given to plants that use 
+sustainably grown biofuels as their main feedstock. 
+Time-scale: Short-term 
+4.6.3 Energy efficiency in buildings 
+Residential, commercial and public buildings consume large amounts of energy, 
+especially for cooling and lighting. To date, insufficient attention has been afforded to the 
+design and energy performance of these buildings, or to construction components and 
+materials. In fact, there are currently no regulations and/or standards in place directed 
+towards thermal efficiency and energy end-use efficiency in buildings. 
+Action 34: The Government, in collaboration with the Bureau of 
+Standards, will encourage the application of building technologies and 
+practices that enhance energy efficiency and conservation. For such 
+purpose, the Bureau of Standards —preferably in collaboration with 
+institutions in other Caribbean countries— will publish information on 
+materials and components suitable for the construction of well-insulated 
+buildings and the rehabilitation of existing buildings. It will disseminate 
+such information among architects, civil engineers, construction 
+companies, and the general public. It will also present guidelines for energy 
+efficient building designs that lead to reduced cooling loads and improved 
+day lighting, and issue instructions on how to properly insulate buildings 
+against overheating, avoid cooling losses, use natural ventilation and install 
+efficient lighting and air-conditioning systems. 
+Time-scale: Short-term 
+4.6.4 Energy efficiency in lighting 
+Lighting is one of the main areas of electricity consumption in the residential and 
+commercial sector. Despite activities to replace inefficient light bulbs by energy saving 
+fluorescent lamps (e.g., through an initiative lead by Cuba in 2004), and tax incentives for 
+the purchase of compact fluorescent lamps (CFLs), incandescent light bulbs continue to 
+be sold and used in SVG. The European Union, Australia, and the United States are 
+gradually banning the use and sale of incandescent light bulbs. Replacing them with more efficient lights may reduce electricity consumption for lighting by up to 80%. In 
+order to guarantee that consumers get only quality products, standards and certification 
+systems, such as the Energy Star program in the United States, have been put in place in a 
+number of countries, or are currently being discussed. 
+Action 35: The Ministry of Energy will consider further fiscal incentives 
+to encourage the use of energy efficient lighting devices, such as compact 
+fluorescent light bulbs (CFLs) and light-emitting diodes (LEDs), and phase 
+out the use of incandescent light bulbs. Through the Bureau of Standards, 
+the Government will implement the necessary measures to prevent the 
+import of low-quality CFLs. Such policy should be harmonized with steps 
+taken in other countries of the region. The action must take place in parallel 
+to information campaigns that provide information on the economic and 
+environmental benefits derived from CFLs, and the aid provided by the 
+government. 
+Time-scale: Short-term 
+4.6.5 Energy savings through solar water heaters 
+Hot water for private dwellings and large-scale consumers, such as hotels, restaurants and 
+hospitals, can be produced almost exclusively through solar energy given SVG's climate 
+conditions, thus avoiding the use of electricity, reducing peak loads and replacing the use 
+of fossil energy, such as LPG. So far, the use of solar water heaters is limited mainly to 
+part of the residential sector and to small tourism facilities. 
+Action 36: The Ministry of Energy will bolster the introduction of solar 
+water heaters in SVG and consider measures to reduce investment costs. 
+For such purpose, it will enforce a regulation to exempt solar thermal 
+collectors and related components from import duties, instead of the current 
+case-by-case decisions. The Government will further consider the provision 
+of low-interest loans (e.g., through the state-owned Commercial Bank or 
+VINLEC) or tax credits, in order to lower the burden of initial costs. For all 
+new buildings with hot-water needs (in particular in the residential and 
+service sector) the installation of solar thermal collectors will be made 
+mandatory. 
+Time-scale: Short-term 
+4.6.6 Energy savings through energy efficient appliances 
+All of the major appliances sold or used in SVG are imported from overseas. There is a 
+low public awareness of the energy efficiency of those appliances, which can vary 
+substantially between different manufacturers and products, even if the services provided 
+by those appliances are comparable. In the US, EU, Japan, Brazil and many other 
+markets, the use of labelling schemes for domestic appliances (like washing machines, 
+air-conditioners, refrigerators, freezers etc.) and electronic office equipment (like monitors, personal computers, printers etc.), as well as setting the Minimum Energy 
+Performance Standards and adequate certification of compliance is quite common and 
+mandatory for a number of product types. Such labels give an indication about the grade 
+of energy efficiency and inform the consumers about the energy consumption under 
+defined conditions. 
+Action 37: The Ministry of Energy, in collaboration with the Bureau of 
+Standards, will enact legislation requiring that all major domestic 
+appliances, such as refrigerators, freezers, washing machines, dishwashers 
+and air conditioners, imported and sold in SVG carry a label stating their 
+energy consumption and their compliance with predefined minimum 
+energy performance standards. The labels shall comply with the rules of the 
+European Appliance Labelling system, the United States Energy Star 
+program, or any other reputable labelling scheme. Consideration will also 
+be given to the banning of imports of products which do not fulfil 
+minimum energy performance standards. Imports of goods that are not 
+appropriately labelled or certified will be either forbidden or subject to 
+extra taxation. The Ministry of Energy, in collaboration with other 
+ministries and the Bureau of Standards, will analyse the current appliance 
+market, harmonize actions with regard to labelling and determination of 
+energy performance standards with other countries in the region, draft the 
+necessary laws and regulations, and propose adequate public awareness 
+activities. The new legislation shall be consistent with similar laws adopted 
+by other countries of the region with the same purpose. 
+Time-scale: Short-term 
+4.6.7 Public sector energy efficiency measures 
+4.6.7.1 Government buildings 
+Government buildings as well as other public buildings can act as a showcase for modern 
+energy efficient construction. It will also encourage other public institutions and local 
+authorities to act accordingly in order to save financial resources. 
+Action 38: The Ministry of Energy, through the Energy Unit, will set up 
+an inter-ministerial energy efficiency programme that will undertake a 
+comprehensive energy study of the of all Government owned/operated 
+buildings, including ministries, post offices, police stations, and health and 
+educational facilities, among others. The study will identify the buildings to 
+be audited, evaluate and analyse their current conditions, the various 
+measures that could be implemented to reduce energy consumption and 
+improve efficiency, and assess the buildings’ energy supply through solar 
+energy and/or small wind technology. New constructions and major 
+refurbishments will be guided by the principle of low energy consumption 
+for cooling, lighting and hot water needs. This includes the minimisation of artificial lighting to the extent necessary, the incorporation of shading, the 
+use of natural air flow and the use of insulation materials in architectural 
+designs. 
+Time-scale: Short-term 
+4.6.7.2 Public procurement 
+The Government and the public institutions are major energy consumers. Together, they 
+form a strong market force by purchasing electrical and electronic equipment as well as 
+vehicles and other energy consuming devices. Public institutions funded by taxpayers 
+have therefore a particular responsibility to use energy wisely and rationally, and to 
+reduce its waste to the lowest level possible. 
+Action 39: The Ministry of Energy will set rules for the procurement of 
+all energy consuming goods and devices to be used by public institutions. 
+Such rules will establish specific maximum energy consumptions. The 
+Government will purchase and consume as much electricity and fuel as 
+possible generated from indigenous renewable sources, therefore 
+contributing to reduce dependence on imported fossil fuel. The reports of 
+the energy efficiency studies of Government/Public buildings will be used 
+to assist with the definition of such rules. 
+Time-scale: Short-term 
+4.6.7.3 Training and information of public staff 
+The lack, or insufficient knowledge, of how to efficiently handle equipment is a 
+considerable cause of energy waste.. 
+Action 40: The Ministry of Energy and the public sector in its entirety 
+shall implement public awareness campaigns aimed at promoting the 
+rational use of energy and lower energy consumption. Energy conservation 
+guidelines will be published. The SFA funded Energy Efficiency study of 
+Government Buildings to be conducted in 2010 will deliver, as part of its 
+scope of works, a Public Education and Awareness Program for 
+Government employees. 
+Time-scale: Short-term 
+  VI. Energy Action Plan Summary  
+Policy Sub-Policy Actions Timeframe 
+Implementing 
+Body 
+4.1  
+Planning and
+Management
+GOAL: 
+Consolidate 
+well 
+coordinated 
+planning and 
+management 
+programmes 
+to achieve 
+sustainable 
+supply and 
+use of energy 
+by 2015 
+4.1.1 Institutional
+requirements
+Action 1: Define responsible 
+stakeholders with regard to energy 
+issues. 
+ST Government 
+4.1.2 Energy data base
+and publication of
+annual energy statistics
+Action 2: Establish a system to retrieve 
+up-to-date information 
+ST Office of Statistics 
+(through government) 
+4.1.3 Capacity Building,
+Education and
+Awareness Raising  
+Action 3: Implementation of energyrelated training at all education levels 
+from primary schools up to college 
+courses. It will further provide financial 
+means for advanced professional 
+training.
+ST Ministry of 
+Education 
+4.1.4 Pilot and
+Demonstration Projects
+Action 4: Set up a fund in support of 
+small-scale pilot and demonstration 
+projects in that showcase new ways to 
+enhance energy efficiency. 
+ST 
+Ministry of Energy 
+Action 5:Ensure that the new 
+International Airport on St. Vincent will 
+be built in the most energy efficient 
+manner possible 
+ST Ministries of Energy 
+and the International 
+Airport Development 
+Company 
+4.1.5 Interconnection Action 6: Investigate opportunities for 
+electrical interconnection between 
+different islands of the country and with 
+neighbouring states and take notice of 
+results from studies being developed by 
+international organisations.
+LT Ministry of Energy 
+and VINLEC 
+4.1.6 Environmental
+Impact Assessment (EIA)
+Action 7: Establish guidelines including 
+requirements and standards of EIA for 
+any new energy project
+ST Ministry of 
+Environment 
+4.1.7 International
+cooperation and
+financing
+Action 8: Strengthen contact with 
+international donor and financing 
+institutions to access funding sources for 
+energy efficiency and renewable energy 
+measures and investments. 
+ST Ministry of Energy 
+4.1.8 Financial
+incentives
+Action 9: Select items that will be 
+completely or partially exempted from 
+import or consumption taxes 
+ST Ministry of Finance 4.1.9 Monitoring and
+Evaluation
+Action 10: Report biannually on the 
+status and results, and further revise the 
+EAP accordingly if required to meet the 
+overall energy targets or to adapt to new 
+political conditions. 
+ST (LT 
+continuance) 
+Ministry of Energy, 
+other relevant 
+Ministries, public 
+institutions and 
+VINLEC 
+4.2  
+Power Sector
+GOAL: 
+Reduce 
+projected 
+increase in 
+peak demand 
+by 5% by 
+2015 and 
+10% by 2020, 
+and strive to 
+reduce power 
+losses down 
+to a total of 
+7% by 2015 
+and 5% by 
+2020. 
+4.2.1 Long‐term
+planning for the
+electricity sector
+Action 11: Elaborate and review at 
+biennial intervals a 10-year planning 
+prospects for the electricity sector 
+ST 
+(LT 
+continuance) 
+VINLEC 
+4.2.2 Tariff Structures
+Action 12: Derive a more equitable 
+formula for imposing the demand 
+charge, in particular for the commercial 
+sector. Review the tariff structures to 
+better reflect real costs 
+ST VINLEC 
+4.2.3 Demand side
+Management
+Action 13: Offering low- or no-cost 
+services for energy audits to major 
+electricity consumers. Set up an 
+information and advisory centre and 
+elaborate adequate publications for smart 
+and cost-saving energy use. 
+MT 
+Ministry of Energy 
+4.3
+Renewable
+Energy
+GOAL: 
+Deliver 30% 
+of projected 
+total 
+electricity 
+output from 
+Renewable 
+Energy 
+Sources 
+(RES) by 
+2015 and 
+60% by 2020 
+4.3.1 Technologies 
+4.3.1.1 Geothermal  
+Action 14: Ensure sustainable 
+development of exclusive geothermal 
+exploration and exploitation in the 
+Soufriere Resource Area on mainland St. 
+Vincent
+ST 
+Ministry of Energy 
+4.3.1.2 Hydro Power  
+Action 15: Select appropriate river sites 
+for possible future hydro power plants 
+and start a long-term gauging 
+programme.
+ST to LT VINLEC / NWRMSP 
+CREDP 
+Action 16: Provide the financial means 
+for the rehabilitation of the hydro power 
+plants at South River and Richmond and 
+for the installation of new small hydro 
+power plants.
+ST to MT VINLEC 4.3.1.3 Wind Energy
+Action 17: Execute further long-term wind 
+measurements on Vincent. Examine ground 
+conditions for turbine foundations to assess 
+EIA, technical and pre-feasibility studies.
+ST VINLEC, CREDP 
+Action 18: Erection of wind turbines and 
+posts for grid-connection. Land use planning, 
+dedicating and reserving sites for the 
+construction of additional future wind farms.
+ST (LT 
+continuance) 
+Ministry for Physical 
+Development and 
+VINLEC 
+4.3.1.4  
+Biomass Energy and
+Waste‐to‐Energy
+Action 19: Analyse the energetic potentials 
+from agricultural, forestry and foodprocessing sector, of organic waste material 
+and of dedicated energy plants.
+ST Ministry of 
+Agriculture, Forestry 
+and Fisheries 
+4.3.1.5  
+Solar Electricity and
+Solar Thermal Use
+Action 20: Analyse market potentials for the 
+(extended) application of solar thermal and 
+solar electric systems in all consumption 
+sectors. Install a pilot photovoltaic plant and 
+publish technical guidelines for the 
+interconnection of small grid-connected RE 
+systems.
+ST Ministry of Energy, 
+VINLEC 
+4.3.2 Applications
+4.3.2.1  
+Renewable energy
+for the Grenadine
+islands
+Action 21: Investigate opportunities to tap 
+cost-efficiently wind and solar potentials for 
+electricity generation. Provide support of 
+private power operators on initiatives to 
+replace diesel fuel by alternative energy 
+sources.
+ST Ministry of Energy 
+4.3.2.2 Renewable
+energy for self
+supply
+Action 22: Investigate opportunities for the 
+installation of stand-alone PV and wind 
+power systems.
+ST Ministry of Energy, 
+VINLEC 
+4.3.3 Stimulus Tools
+4.3.3.1 Independent
+Power Production  
+Action 23: Amend the Electricity Supply Act 
+or mandate a sub-licence for electricity 
+generation activities. 
+ST Ministry of Energy, 
+VINLEC 
+4.3.3.2 Net metering Action 24: Determine conditions for feed-in 
+of excess electricity and support of back-up 
+and reserve power. Create an Act to 
+introduce "Net-metering"
+ST Ministry of Energy 
+4.4
+Petroleum
+Sector  
+GOAL: 
+Increase 
+energy 
+security and 
+diversify the 
+energy 
+portfolio
+4.4.1 Contracts and
+agreements for
+energy supply and
+storage
+Action 25: Strengthen bilateral relationships 
+with energy supplying countries within and 
+external to the region, such as the contract on 
+petroleum supply “PETROCARIBE 
+agreement”. 
+ST 
+(LT 
+continuance) 
+The Government 
+4.4.2 Petroleum
+reserve storage
+Action 26: Revise existing regulations or 
+propose parliament respective legislation to 
+make provisions for ensuring adequate 
+inventory levels exists to cushion any 
+disruption in supply of petroleum derivates
+MT The Government 4.4.3 Diversification
+of Energy Sources
+Action 27: Reduce reliance on a single fuel 
+type for the generation of electricity and heat 
+and for the transport sector. Natural gas and 
+RE sources are among the alternatives which 
+will be further explored. Investigation on 
+electrical interconnection between different 
+islands of the country and with neighbouring 
+states
+ST and LT Ministry of Energy 
+and VINLEC 
+4.5 Transport
+Sector
+GOAL: 
+Reduce 
+projected 
+consumption 
+of fossil fuels 
+in the 
+transport 
+sector by 10% 
+by 2015 and 
+15% by 2020 
+4.5.1 Reduced Fuel
+Consumption of
+Vehicles
+Action 28: Advise the public on specific fuel 
+consumption of different car models that are 
+commonly imported. Revise the car taxation 
+system. Subsidize the public transport sector 
+as to stimulate the use of more lowconsuming vehicles.
+ST Ministry of Energy, 
+Ministry of Finance, 
+and Bureau of 
+Standards 
+4.5.2 Transport
+Strategy
+Action 29: Develop a comprehensive longterm transport strategy.MT to LT Ministry of Transport 
+Action 30: Study the potential of introducing 
+electric vehicles in the island.
+MT to LT VINLEC 
+4.5.3 Biofuels for
+Transport
+Action 31: Study the options to either import 
+biofuels from countries such as Brazil or set 
+up a national production chain. 
+ST The Government 
+4.6 Energy
+Efficiency
+GOAL: 
+Reduce 
+projected 
+electricity 
+generation by 
+5% by 2015 
+and 15% by 
+2020 
+4.6.1 Assessment of
+Market Potential
+Action 32: Investigate how the energy 
+consumption sector is structured and what 
+potentials exist for improving energy 
+efficiency.
+ST Ministry of Energy, 
+VINLEC 
+4.6.2 Co‐generation Action 33: Support activities that contribute 
+to higher energy efficiency. Provide legal 
+basis for the parallel operation of cogeneration plants with the public grid. 
+Determine conditions for feed-in of excess 
+electricity and support of back-up and reserve 
+power
+ST Ministry of Energy, 
+VINLEC 
+4.6.3 Energy
+efficiency in
+Buildings
+Action 34: Publish guidelines for the 
+construction of energy efficient and wellinsulated building designs, as well as 
+rehabilitation of existing buildings. 
+ST Bureau of Standards 
+4.6.4 Energy
+efficiency on lighting
+Action 35: Support households to make a 
+switch from incandescent light bulbs to 
+compact fluorescent light bulbs 
+ST Ministry of Energy 
+4.6.5 Energy savings
+through solar water
+heaters
+Action 36: Enforce a regulation to exempts 
+solar thermal collectors and related 
+components from import duties, low-interest 
+loans or tax credits
+ST Ministry of Energy 4.6.6 Energy savings
+through energy
+efficient appliances
+Action 37: Enact that all major domestic 
+appliances carry a label stating their energy 
+consumption or compliance with defined 
+Minimum Energy Performance Standards 
+ST Bureau of Standards 
+4.6.7 Public Sector Energy Efficiency measures
+4.6.7.1 Government
+Buildings
+Action 38: Undertake a comprehensive 
+energy study of the highest energy 
+consuming Government owned/operated 
+buildings to reduce the energy consumption 
+and improve the indoor environment of these 
+buildings and also evaluate the option to 
+supply the buildings’ energy needs by solar 
+energy technology. 
+ST Energy Unit 
+4.6.7.2 Public
+Procurement
+Action 39: Set rules for the procurement of 
+all energy-consuming goods and devices used 
+for their own purpose as well as for any other 
+public institution. Purchase and consume as 
+much electricity and fuel possible from 
+indigenous renewable sources
+ST Ministry of Energy 
+4.6.7.3 Training and
+Information of
+Public Staff
+Action 40: Information campaigns to better 
+manage the use of energy and thus lower 
+energy consumption. Guidelines will be 
+published on how to save electricity.
+ST Ministry of Energy 

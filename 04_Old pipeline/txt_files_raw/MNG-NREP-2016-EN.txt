@@ -1,0 +1,2851 @@
+File Name: MNG-NREP-2016-EN
+Year: 2016
+Country Name: Mongolia
+Country Code: MNG
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2016
+Start Year: 2016
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+© IRENA 2016
+Unless otherwise stated, this publication and material herein are the property of the International Renewable 
+Energy Agency (IRENA) and are subject to copyright by IRENA.
+Material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that all 
+such material is clearly attributed to IRENA and bears a notation of copyright (© IRENA) with the year of copyright.
+Material contained in this publication attributed to third parties may be subject to third-party copyright and 
+separate terms of use and restrictions, including restrictions in relation to any commercial use.
+About IRENA 
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports 
+countries in their transition to a sustainable energy future, and serves as the principal platform for international 
+cooperation, a centre of excellence, and a repository of policy, technology, resource and financial knowledge 
+on renewable energy. IRENA promotes the widespread adoption and sustainable use of all forms of renewable 
+energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable 
+development, energy access, energy security and low-carbon economic growth and prosperity.
+Acknowledgements
+IRENA and the Mongolian Ministry of Energy are grateful for the contributions of numerous energy specialists and 
+experts in the preparation of this study. This report benefited greatly from their review and insightful comments. 
+Special thanks are due to Purevjav Tovuudorj, director-general, and Guntsamba Enkhtaivan, deputy director, at 
+the Ministry of Energy’s Strategic Policy and Planning Department; Myagmar Angarag, head of the Renewable 
+Energy Division at the Ministry of Energy‘s Policy Implementation and Regulation Department; Chimid-Ochir 
+Munkhzul from the Green Development Policy and Strategic Planning Department, at the Ministry of Environment, 
+Green Development and Tourism; Namjil Enebish, professor at the School of Engineering and Applied Sciences, 
+National University of Mongolia; Chadraa Batbayar, researcher, Mongolian Academy of Sciences; Ovgor Bavuudorj, 
+researcher, Mongolian University of Science and Technology; Byamba Jigjid, president, Mongolian Society for an 
+Asian Super Grid; Demchigjav Chimeddorj, executive director, Thermal Power Plant-3 (state-owned joint-stock 
+company, Mongolia); Tsevegjav Unurmaa, consultant engineer and head of the Power Systems Analysis and 
+Planning Department, National Dispatching Center for Power Systems; Tamir Khishigt, project director, Newcom 
+LLC of Mongolia; Jargal Dorjpurev, senior energy and environment consultant; Purev Baatar, hydropower expert.
+Authors: Yong Chen, Gürbüz Gönül and Makhbal Tumenjargal
+For further information or to provide feedback: publications@irena.org
+Disclaimer
+This publication and the material herein are provided “as-is”, for informational purposes.
+All reasonable precautions have been taken by IRENA to verify the reliability of the material featured in this publication. Neither IRENA 
+nor any of its officials, agents, data or other, third-party content providers or licensors provides any warranty, including as to the accuracy, 
+completeness, or fitness for a particular purpose or use of such material, or regarding the non-infringement of third-party rights, and they 
+accept no responsibility or liability with regard to the use of this publication and the material therein.
+The material contained herein does not necessarily represent the views of the Members of IRENA, nor is it an endorsement of any project, 
+product or service provider. The designations employed and the presentation of material herein do not imply the expression of any opinion on 
+the part of IRENA concerning the legal status of any region, country, territory, city or area, or their authorities, or concerning the delimitation of 
+frontiers or boundaries.MONGOLIA
+RENEWABLES READINESS
+ASSESSMENTWe are pleased to announce the release of this Renewables Readiness Assessment as a policy 
+document for the Ministry of Energy of Mongolia, prepared in co-operation with the International 
+Renewable Energy Agency (IRENA). 
+The State Policy on the Energy Sector, approved by parliament and published in 2015, determined 
+short- and mid-term development scenarios and set an ambitious goal of increasing the 
+contribution of renewable energy to the country’s total installed power-generation capacity to 
+20% in 2023 and 30% in 2030. 
+To achieve these goals, the existing laws on energy and renewables have been amended, 
+while parliament has recently approved the new Law of Mongolia on Energy Conservation 
+and Efficiency. This new legislation enables Mongolia to provide energy security and reliability, 
+improve energy efficiency, pursue public-private partnerships and create a market-oriented 
+framework for the sector. 
+Mongolia’s Gobi Desert is enormously rich with solar and wind resources. Additionally, the 
+country’s considerable hydropower, geothermal and biomass resources can be exploited for 
+greater energy supply. 
+The opportunities to create value from such vast, naturally available, renewable resources are 
+numerous, particularly with modern capture and distribution technologies. For a country like 
+Mongolia, with its wide geographic expanse and low population density, advanced renewable 
+energy technologies are essential to accelerate economic growth, support development and 
+ensure future prosperity.
+FOREWORD
+from the
+Minister of EnergyWe have set key goals to utilise the Gobi Desert’s vast resources:
+• Construction of a large-capacity renewable energy complex, aiming to export power to northeastern Asian countries;
+• Co-operation with neighbouring countries to implement the renewable energy complex; 
+• Establishing a mutually beneficial long-term agreement for imports and exports of power 
+between neighbours; 
+• Strengthening our co-operation with international organisations and donor countries;
+• Attracting investment. 
+We are fully committed and are working gladly to achieve these goals. 
+We would like to express our sincere gratitude to IRENA for accepting the proposal of the 
+Government of Mongolia to jointly develop this assessment of our country’s readiness for 
+accelerated renewable energy deployment. Having set out to develop renewables as a leading 
+sector in Mongolia’s economy, we greatly appreciate the assistance provided by IRENA and the 
+contributions of experts and scholars in developing this important policy document. 
+H.E. Zorigt Dashzeveg
+Minister of Energy, MongoliaMongolia has firmly underlined its commitment to green growth and a sustainable energy future, 
+particularly in support of international efforts to address climate change. With abundant solar, 
+wind and hydropower resources, the country possesses the renewable assets to adapt to changing 
+realities, such as increased constraints on carbon emissions, and to replace its business-as-usual 
+approach with a sustainable development paradigm.
+The country’s Renewables Readiness Assessment (RRA), undertaken in co-operation with IRENA, 
+has identified key actions to unlock or accelerate renewable energy deployment. It is the result 
+of a process that brings together different national and international stakeholders for a series of 
+country-led consultations, with IRENA providing technical support and expertise. 
+Since 2011, more than 20 countries in Africa, the Middle East, Latin America and the Caribbean, 
+as well as the Asia-Pacific region, have undertaken the RRA process, which generates knowledge 
+of best practices and supports international co-operation around the accelerated deployment of 
+renewable energy technologies. Mongolia, a strong supporter of IRENA’s mission, is one of those 
+countries. 
+As technology costs fall and the demand for renewables continues to grow, Mongolia can make 
+increased use of its highly varied potential in the sector, including solar, wind, and large and small 
+hydropower, as well as geothermal and biomass resources. All of these can help to ensure a reliable, 
+affordable supply of energy, which would in turn help address growing energy demand and support 
+economic growth. Exports of clean, renewable-based electricity offer the prospect of sustainable 
+revenue for the country, and Mongolia has taken the initiative to promote regional cooperation that 
+can make this a reality.
+FOREWORD
+from the IRENA 
+Director-GeneralThe country’s amended renewable energy law and its state energy-sector policy provide the 
+right foundations to attract stable investment. Revised renewable energy targets would increase 
+the contribution of renewables to 20% of total installed power-generation capacity by 2023 and 
+30% by 2030. These have sent a clear, positive signal of Mongolia’s ambition to the international 
+community, as well as to investors and developers. Still, more can be done to ensure a successful 
+energy transition. 
+With the adoption of the Paris Agreement at COP 21, as well as the Sustainable Development 
+Goals by the United Nations General Assembly, the imperative of a transition to sustainable energy 
+systems will continue to grow, and along with it the momentum driving the scale-up of renewables.
+I sincerely hope the present study provides further encouragement for accelerated deployment. 
+IRENA stands ready to provide continuing support, both in implementing the actions identified and 
+in the country’s broader pursuit of a sustainable energy future.
+This study has benefited from the strong support of Mongolia’s Ministry of Energy. Other 
+governmental agencies have also participated actively, and their insights are greatly appreciated. 
+In addition, various stakeholders within the country have provided enthusiastic and serious 
+engagement, without which the process could not have delivered the desired results. I would like 
+to express my appreciation to all participants and encourage them to continue their valuable work.
+Adnan Z. Amin
+Director-General, IRENACONTENTS
+FIGURES IX
+TABLES IX
+BOXES IX
+ABBREVIATIONS XI
+EXECUTIVE SUMMARY XIII
+INTRODUCTION 01
+1.1 Country background 01
+1.2 Renewables Readiness Assessment (RRA) 03
+ENERGY CONTEXT 07
+2.1 Energy situation 07
+2.2 Electric power system 10
+2.3 Rural electrification 12
+2.4 Domestic electricity markets 14
+2.5 Power trading and exchange 14
+2.6 Key energy institutions and stakeholders 16
+RENEWABLE ENERGY DEVELOPMENT IN MONGOLIA 19
+3.1 Renewable energy resources and exploitation 21
+3.2 Government commitments 27
+KEY CHALLENGES AND RECOMMENDATIONS 33
+4.1 Core elements of the enabling environment 33
+• Challenges 33
+• Recommendations 34
+• Action 1: Investigate the potential of a renewable energy 
+quota system 34
+• Action 2: Allocate financial resources for renewable energy 
+promotion in the annual government budget 35
+4.2 Grid assessment for integration of variable renewables 35
+• Challenge 35
+• Action 3: Conduct a power-system status 
+assessment and a study on grid integration 35
+4.3 Institutional and human capacities 36
+• Challenges 36
+• Recommendations 36
+• Action 4: Establish a national research, development and 
+training facility for renewable energy development 37
+• Challenges 38
+• Recommendations 39
+• Action 5: Enhance National Dispatching Center capacity 39
+4.4 Developing cross-border grid infrastructure to export
+renewable electricity 40
+• Challenges 40
+• Recommendations 40
+• Action 6: Form a consortium to conduct a feasibility study 41
+CONCLUDING REMARKS 43
+01
+02
+03
+04
+05FIGURES
+Figure 1. Mongolia’s annual economic growth rate, 1991-2014 02
+Figure 2. Mongolian electricity production 08
+Figure 3. Mongolian heat production, 2000-2013 08
+Figure 4. Electricity consumption by sector 09
+Figure 5. Future power demand in Mongolia 09
+Figure 6. Energy systems of Mongolia 10
+Figure 7. Installed electricity generating capacity by source 10
+Figure 8. Breakdown of Mongolia’s power supply in 2014 11
+Figure 9. Structure of Mongolia’s Energy Regulatory Commission (ERC) 16
+Figure 10. Map of wind energy resource of Mongolia 20
+Figure 11. Wind energy resource in the Gobi Desert region of Mongolia 22
+Figure 12. Solar energy resource in the Gobi Desert region of Mongolia 23
+Figure 13. Geographical distribution of annual total precipitation of Mongolia 25
+Figure 14. Geothermal energy resource of Mongolia 27
+TABLES
+Table 1. Generating facilities in the Central Energy System 11
+Table 2. Breakdown of good-to-excellent wind resource potential at 30 metres high 20
+Table 3. Mongolian solar resource (estimates) 22
+Table 4. Solar PV systems (off-grid and grid-connected mini-grids) in Mongolia 24
+Table 5. Solar-wind hybrid systems in Mongolia 24
+Table 6. Ranges of FiTs for renewable energy power sources in Mongolia (USD/kWh) 29
+BOXES
+Box 1. Rural Electrification Programme 13ABBREVIATIONS
+ADB Asian Development Bank
+ASG Asian Super Grid
+CDM Clean Development Mechanism
+CES Central Energy System (Mongolia)
+CHP combined heat and power
+ERC Energy Regulatory Commission (Mongolia)
+FiTs feed-in tariffs
+GDP gross domestic product
+GHG greenhouse gases
+GW gigawatt
+GWh gigawatt-hour
+HVDC high-voltage direct current
+IMF International Monetary Fund
+INDC Intended Nationally Determined Contribution
+IPP independent power producer
+IRENA International Renewable Energy Agency
+km kilometres
+kV kilovolt
+kW kilowatt
+LPG Liquefied Petroleum Gas
+MEGD Ministry of Environment and Green Development
+MEGDT Ministry of Environment, Green Development and Tourism
+MoE Ministry of Energy
+MW megawatt
+ųg/m3
+ micrograms per cubic metre
+NAMAs Nationally Appropriate Mitigation Actions
+NDC National Dispatching Center (Mongolia’s grid operator)
+NREC National Renewable Energy Center (Mongolia)
+NREL National Renewable Energy Laboratory (US)
+PPA power purchase agreement
+PPP public-private partnership
+PV photovoltaic
+RRA Renewables Readiness Assessment
+SHS solar home system
+TPES total primary energy supply
+TW terawatt
+TWh terawatt-hour
+UNFCCC United Nations Framework Convention on Climate Change
+USD United States dollar
+Wp Watt-peakEXECUTIVE 
+SUMMARYMongolia is a resource-rich country, with an abundance not of only coal, but 
+also of renewables, such as solar, wind and hydropower resources. For several 
+decades, coal has been the primary energy source fuelling Mongolia’s rapid 
+economic growth. However, this has come with environmental costs, particularly 
+in urban centres and mining regions. 
+The World Health Organization (WHO) has listed the capital, Ulaanbaatar, as one 
+of the five most polluted cities in the world, while the World Bank has been 
+engaged in projects and studies to reduce the human health damage from the 
+city’s worsening air pollution. Changing global realities present an additional 
+challenge, with carbon emissions expected to become increasingly constrained 
+in the international effort against global warming. 
+In addressing these challenges, the Government of Mongolia has demonstrated a 
+strong political commitment to green development, plotting the transition to an 
+energy future based on higher shares of renewables for the country and wider 
+region. Mongolia has declared a two-phase renewable energy goal, aiming to 
+increase renewables from 7% of installed power-generation capacity to 20% by 
+2023, and to further increase this to 30% by 2030. 
+The Ministry of Environment and Green Development (MEGD), established as a 
+core ministry in 2012, has been working closely with the Ministry of Energy (MoE) 
+to exploit the country’s enormous renewable energy resources. The 52 megawatt 
+(MW) Salkhit wind farm that commenced operation in July 2013 was a significant 
+milestone, marking the development of Mongolia’s first utility-scale non-hydro 
+renewable energy facility. Growing numbers of wind and solar projects are in the 
+pipeline in response to the renewable energy targets set by the government. serves around 3 million people. In comparison, the 
+country’s total renewable energy potential has been 
+estimated at 2.6 terawatts (TW),1 a potentially huge 
+resource base. Combined electricity output from 
+Mongolia’s wind and solar resources could reach 
+15 000 terawatt-hours (TWh) per year,2 enough to 
+meet the total electricity demand of neighbouring 
+China in 2030.3
+The President of Mongolia, Tsakhia Elbegdorj, has 
+formed the Gobitec initiative to create a regionally 
+integrated power grid across northeast Asia. The 
+initiative is researching solar and wind energy 
+potential in sparsely populated Gobi Desert areas, 
+with a view to producing power exports to China and 
+other countries. In support of this goal, the Ministry of 
+Foreign Affairs has set out, with strong engagement 
+from the MoE, to strengthen co-operation with 
+neighbours. The government has also recognised the 
+importance of developing an enabling environment 
+with clear and achievable targets. To achieve the 
+president’s vision, the country also needs the right 
+set of legal, regulatory and policy frameworks, along 
+with the necessary technical capacities for regional 
+renewable energy deployment. 
+In parallel, Mongolia has stepped up efforts to 
+improve the conditions for domestic development 
+and deployment of renewables. The Renewable 
+Energy Law, passed in 2007, has provided a 
+fundamental legal basis to regulate the generation 
+and supply of renewable power. Amid changing 
+circumstances, parliament amended the law in June 
+2015. The improved legislation should strengthen 
+public-private partnerships and create a marketoriented framework for the energy sector.
+Innovative processes, including a joint credit 
+mechanism, have been proposed to promote 
+climate-friendly energy technologies. The State 
+Policy on the Energy Sector provides strategic 
+guidance to transform Mongolia into a renewable 
+electricity exporter within two decades. By then, 
+neighbouring countries should be able to receive 
+Mongolian power through high-voltage direct 
+current (HVDC) transmission lines. Domestic supply, 
+meanwhile, will benefit from enhanced national grid 
+networks, equipped with information technology 
+systems for smart transmission, management, 
+control, and monitoring. 
+To fully capitalise on these opportunities, key 
+challenges must be precisely identified and 
+addressed. With that aim, Mongolia embarked 
+on Renewables Readiness Assessment (RRA) 
+consultations in co-operation with the International 
+Renewable Energy Agency (IRENA). The resulting 
+discussions highlighted the challenges Mongolia 
+faces with its renewable energy growth goals, and 
+also produced viable recommendations to help 
+overcome those challenges. 
+Core elements of the enabling 
+environment
+Nearly a decade after Mongolia’s Renewable Energy 
+Law was introduced, effective implementation 
+remains a challenge, hampering the creation of the 
+necessary enabling conditions for renewable energy 
+investment and development. For instance, feed-in 
+tariffs (FiTs) put into effect under the Renewable 
+Energy Law have faced two main obstacles: 
+• Limited duration of FiTs. The original law 
+stipulated FiTs for 10 years, which deterred investors 
+from entering power purchase agreement (PPAs) 
+for longer periods. Long-term price guarantees 
+can reduce the risk associated with renewable 
+energy investments, making bank loans easier to 
+obtain. But the price-guarantee period needs to be 
+long enough – an issue addressed in the June 2015 
+amendment to the law. 
+• Currency risk. The law makes FiTs payable in 
+US dollars, which encourages foreign investors. 
+However, this effectively passes the currencyexchange risk onto the government. When the 
+Mongolian currency depreciates, as it has done 
+dramatically against the US dollar in recent years, 
+the government comes under financial pressure. 
+Delays in activating the Renewable Energy Fund 
+have added to the strain. The fund was created by 
+the Renewable Energy Law to cover incremental 
+costs associated with renewable power generation. 
+1 According to calculations by Mongolia’s National Renewable
+Energy Centre (NREC) based on data from the US National 
+Renewable Energy Laboratory (NREL) 2 C
+iif llid (2 550 TWh)dinvestors wary about future engagement. The recent 
+amendment includes a “support tariff” to address 
+this issue; how effectively remains to be seen. 
+The feasibility of applying a renewable energy 
+quota system in Mongolia should be studied. Such 
+a system would create a market that enables the 
+development of renewables, thereby helping to 
+meet targets. Quotas can be cost-effective as a 
+policy scheme, as they maintain a market-oriented 
+approach. More importantly, they can incentivise 
+coal-fired power plants to embrace renewable 
+generators as an added revenue source. Domestic 
+renewable energy development, in turn, will help 
+prepare the country for a regional electricity market. 
+Renewable electricity certificates could provide an 
+added revenue stream when a cross-border power 
+grid is established with China.
+If funds from the centralised government budget 
+are needed to maintain support policies, the 
+government can explore a variety of options for 
+long-term soft loans and technical assistance. 
+For instance, a public-private partnership could 
+attract grants and loans from international financial 
+institutions and donor countries, along with private 
+financing. The Renewable Energy Fund could be 
+augmented by air pollution taxes, mining revenues, 
+fossil-fuel taxes, or a portion of electricity tariffs.
+Grid assessment for the integration of 
+variable renewables
+Following two years of operation of the first wind 
+farm in the Central Energy System, grid operators 
+challenges. However, scaling up deployment for the 
+future would require a comprehensive assessment 
+of the power grid infrastructure, from which a 
+strategy of how to deal with the increase of variable 
+renewable sources when flexibility is constrained, 
+can be developed. 
+The focus of the recommended study can 
+be extended from centralised wind farms to 
+distributed generation, including small-scale 
+roof-top and utility-scale solar photovoltaic (PV) 
+farms in place of substations. For this, power 
+flow and stability analyses are needed for both 
+engineering and energy planning purposes to 
+provide a better understanding of how connecting 
+variable renewable sources affects the grid in an 
+aggregative manner. The analytical results would 
+help grid operators predict the grid response to 
+solar and wind generation inputs at various points 
+and different penetration levels, and also help 
+energy system planners develop an integrated plan 
+for adding variable renewable-based generation 
+capacity and grid expansion or enhancement. The 
+study would be also useful for grid integration of 
+variable renewable and assist grid operators, namely 
+the NDC in Mongolia’s case, in identifying the right 
+controlling programs and operational skills to better 
+match renewable electricity produced from variable 
+renewable energy sources with demand load and 
+dispatchable generators. 
+Institutional and human capacity
+To scale up renewables in Mongolia, officials
+in governmental energy authorities, practitioners, 
+Solar PV array in rural Mongolia 
+Photo: Enebish, N.them will need updated knowledge and information 
+on renewable energy development, including the 
+latest technological advances, cost reduction, 
+innovative policy and regulatory schemes, and 
+emerging challenges in project implementation. 
+In recent years, the need has grown to enhance the 
+technical and co-ordination capacities of energy 
+sector institutions in Mongolia, particularly to 
+address the emerging issues arising from renewable 
+energy integration. This much-needed capacity 
+enhancement would help the MoE, along with other 
+governmental authorities, grasp the root causes of 
+the challenges in renewable energy development. 
+This, in turn, would help prevent future problems 
+through enhanced strategic energy planning. 
+The capacity of the National Renewable Energy 
+Center (NREC) needs to be reviewed against this 
+backdrop. Following such a review, specific capacity 
+enhancement programmes could help NREC work 
+more closely with the MoE and provide advisory 
+services to the government in co-operation with 
+other entities in the energy sector.
+The National Dispatch Center (NDC), Mongolia’s 
+grid operator, also needs capacity enhancement for 
+variable renewables to be prioritised over coal-based 
+electricity. At present, power from variable renewables 
+faces grid-access challenges. For both technical and 
+economic reasons, such power is curtailed whenever 
+loads are low. Thermal plant operators strive to 
+avoid dialling their steam generators back too far, as 
+such situations result in operational inefficiency and 
+financial losses. As newer, more efficient combined 
+heat and power (CHP) plants gradually come on line, 
+they can provide conventional base-load power with 
+the required adjustments for the impact of variable 
+renewables. 
+The NDC will have to accommodate the growth of 
+variable renewable sources. To do so, it needs the 
+operational capacity to manage large-scale variable 
+renewables on the grid. Further ahead, the creation 
+of a capacity market or a regulating/ancillary service 
+could compensate for economic losses when CHPs 
+operate under reduced loads. Developing Crossborder Grid Infrastructure to Export Renewable 
+Electricity Amid rising demand for cleaner energy 
+sources in China and other countries in the northern 
+Asian region, Mongolia sees the opportunity to 
+become a regional renewable energy exporter. 
+The notion of exporting renewable power from the 
+Gobi Desert through the Asian Super Grid (ASG) is attracting increasing interest from investors and 
+developers. The grid would connect Mongolia, 
+Russia, China, the Republic of Korea (South Korea) 
+and Japan. 
+The size of the Gobi Desert and high upfront costs 
+entail considerable technical and political and socioeconomic challenges beyond the ASG’s preliminary 
+phase. All implications must be carefully studied 
+for the potential of the super grid to be realised. 
+This would involve detailed resource assessments, 
+as well as studies to determine optimal land uses, 
+grid conditions and locations for dispatch centres. 
+A feasibility study involving all five ASG nations is 
+recommended to help their governments understand 
+the costs and long-term benefits of the plan. The 
+hope is that governments would then more willingly 
+collaborate in regional super-grid development. 
+More specifically, a consortium of the five countries, 
+with support from each national government, should 
+be formed to conduct a comprehensive feasibility 
+study. Such a study should also involve regional 
+and international organisations. An international 
+platform could provide greater legal certainty 
+for participating countries, investors and other 
+stakeholders; allow for better alignment of national 
+renewable energy targets; create and maintain 
+harmonised trade and transit rules for electricity; 
+and improve the overall regional investment climate. 
+To mitigate investment risks, the process could 
+start with smaller projects, which could be 
+aligned around the Gobitec/ASG vision after the 
+comprehensive feasibility study. Such projects 
+could start at the national level and later evolve 
+into bilateral and multilateral projects. In parallel, 
+ministerial meetings among ASG countries would 
+enable consensus-building and harmonisation on 
+technology standards and regulations. 
+Looking ahead
+The vision of developing Mongolia into a 
+regional clean energy exporter is plausible, albeit 
+challenging. The present study, based on the 
+country’s RRA consultations, indicates that the 
+renewable energy targets set by the government 
+are attainable. However, issues pertaining to the 
+accelerated deployment of renewables must be 
+considered from a systematic, regional perspective. 
+The proposed regional super grid offers a promising 
+market for Mongolia’s potentially large renewable 
+energy output.INTRODUCTION1.1 Country Background
+Mongolia is a vast, resource-rich country with a lower-middle-income economy.4
+It is a landlocked country in east and central Asia, situated between China and 
+Russia. The total land area is 1 566 500 km2, equivalent to one tenth of the land 
+area of the United States of America, although the population is as small as
+3 million (National Statistical Office (NSO), 2015). This makes Mongolia one of the 
+most sparsely populated nations in the world. 
+The past decade and a half has seen steady economic growth in Mongolia, with 
+a remarkable surge in more recent years. Gross domestic product (GDP) growth 
+peaked at 17.5% in 2011, as shown in Figure 1, attributable largely to production 
+at the Oyu Tolgoi copper and gold mine. The year 2014 saw a slowdown in 
+economic growth to 7.8%, from 12.8% the previous year, and a sharp 74% dip in 
+foreign direct investment, while the inflation rate surged to 13% (World Bank, n.d., 
+“Mongolia”). Regardless of these fluctuations, Mongolia’s mining sector remains 
+the largest contributor to economic growth. In 2014, mining contributed nearly 
+35% of GDP and 80% of the total exports5 of mineral products.
+The downward trend was expected to continue through 2015 and into 2016, as 
+estimated by the Asian Development Bank (ADB, 2015) in Asian Development 
+Outlook 2015. The first quarter of 2015 saw only a 4.4% year-to-year growth, 
+according to the World Bank’s Mongolia Monthly Economic Brief (Lee, Shiilegmaa, 
+Batsuuri, 2015). The second phase of the Oyu Tolgoi copper and gold mining 
+project, worth USD 5.4 billion, began moving forward following negotiations in May 
+2015 that brought two years of deadlock to an end. The economy, consequently, 
+was expected to benefit from increased monetary flow from foreign investors. 
+01Figure 1. Mongolia’s annual economic growth 
+rate, 1991-2014
+This is also in alignment with the government’s 
+development strategy, i.e. increasing living standards 
+in line with higher fiscal revenues derived from the 
+export sales of coal, copper, gold, molybdenum, 
+fluorspar and zinc. 
+However, to further capitalise on its mineral 
+endowments, the country must invest heavily in its 
+energy infrastructure in the coming years to ensure 
+that it has the power for its mineral production 
+activities and to meet growing demands for energy 
+services from other sectors. This includes the 
+residential sector, which is increasing its share of 
+energy consumption due to the growing population 
+and increased use of electricity per capita.
+The sheer pace of economic development in 
+the country has led to significant environmental 
+challenges, particularly in large cities and mining 
+regions, due in large part to combustion of coal. 
+Coal is abundant in Mongolia and accounts for more 
+than 90% of the total primary energy supply. 
+The major urban centres are the capital Ulaanbaatar, 
+and the industrial cities of Erdenet and Darkhan. 
+The population of Ulaanbaatar has doubled since 
+the beginning of the 1990s to around 1 250 000 
+citizens (NSO, Mongolia). Whilst the city centre 
+boasts office towers, hotels and low-rise apartment 
+buildings, around 60% (World Bank, 2009) of the 
+inhabitants of Ulaanbaatar live in more rural ger6
+districts surrounding the city, without access to 
+centralised heating and basic services. Winter 
+air pollution has become a notorious problem in 
+Ulaanbaatar. Three major sources of pollution come 
+from the peri-urban ger residents who use coalfired stoves for heating, the coal-fuelled combined 
+heat and power (CHP) plants located within the city 
+running at full production, and the growing number 
+of vehicles on the roads.
+The concerns over degradation of the local 
+environmental quality are growing in Mongolia. 
+The World Health Organization (WHO) listed 
+Ulaanbaatar as one of the five most polluted 
+cities in the world. Fine particulates in the air have 
+reached as high as 750 micrograms per cubic metre
+(ųg/m3
+) in the winter season while the annual 
+average ranges from 136 to 141 ųg/m3, which is 
+significantly higher than the WHO guideline level of 
+10 ųg/m3 (Guttikunda, et al., 2013). These air pollution 
+levels are estimated to cause human health damage 
+corresponding to 18.8% of the GDP in Ulaanbaatar 
+and 8.8% in Mongolia in 2008, according to a World 
+Bank report (2011). To address the local air pollution 
+issue, the Law Decreasing the Capital City Air 
+Pollution was drafted by the president of Mongolia, 
+and endorsed by parliament. This was followed by 
+the establishment of the National Committee on 
+Decreasing the Capital City Air Pollution, which had 
+operated directly under the Prime Minister’s Office 
+to enforce the law until early 2015, when it was 
+affected by government budgetary cuts. 
+Globally, the increased use of coal was identified as 
+one of the main contributors to the rapid increase 
+in greenhouse gases (GHG) emissions, according 
+to a recent report from the International Panel 
+on Climate Change (IPCC). The global scientific 
+community has strongly advised policy makers to 
+shift from fossil fuels to renewable-based energy 
+supply in order to keep global temperature rises 
+below 2°C – a level deemed safe for global climate. 
+The IPCC report called for large-scale transition in 
+energy systems towards “decarbonisation”. 
+In response to this reality, Mongolia has realised 
+that reliance on coal for energy over the coming 
+decades is less optimal, particularly given the global 
+call for actions to cut GHG emissions. The 2014 Asia
+Source: The World Bank. 
+*2014 data was estimated by the World Bank and IMF.carbon pollution in the world, stake out a joint plan 
+to curb their carbon emissions, signalling a change of 
+direction in global climate talks. Given the significant 
+role fossil fuels play in Mongolia’s current energy mix, 
+the country has an urgent need to diversify its fuel 
+portfolio by increasing its share of renewable sources, 
+as presented in the Intended Nationally Determined 
+Contribution (INDC) that Mongolia submitted to 
+the UN Framework Convention on Climate Change 
+(UNFCCC) on 24 September 2015.
+Already, the adverse impacts of changing global 
+climatic patterns have been felt across Mongolia. Due 
+largely to its fragile ecological systems, Mongolia 
+is actually very sensitive to the climate change. 
+One third of the population still relies on traditional 
+economic sectors such as agriculture and pastoral 
+animal husbandry and follows a nomadic way of life. 
+The nomadic herder communities are vulnerable to 
+the extreme weathers that often result in economic 
+loss (MENT, 2009). One case in point is the severe 
+2009-2010 winter loss of 9.7 million cattle, or 22% of 
+total livestock in Mongolia, which in turn doubled the 
+price of meat while dragging GDP growth in 2009 
+down to only 1.6% (Michigan State University (2013). 
+Mongolia is at a crossroads on its energy journey. 
+The Green Growth Strategy calls for balancing 
+short-term economic growth gain against longterm green development goals. In 2012, the Ministry 
+of Environment and Green Development (MEGD) 
+was established as a core ministry under the new 
+government regime, making Mongolia one of 
+the first nations to set up such a forward-looking 
+ministerial agency. The MEGD and the Ministry of 
+Energy (MoE) play a key a role in shaping the green 
+development strategy for Mongolia. In 2014, the 
+Green Development Policy was approved by the 
+43rd resolution of the Parliament of Mongolia. 
+Thus far Mongolia has strived to adopt 
+renewable energy technologies in 
+harmony with local needs. More than 
+100 000 nomadic herders today use small solar 
+photovoltaic (PV) systems to power their satellite 
+communications as they graze their animals during 
+the summer. Small hydropower schemes are also 
+in operation throughout the country. In 2013, the 
+first 52 megawatt (MW) wind farm commenced 
+is further potential to develop large hydropower 
+schemes, and enormous potential for solar and wind 
+power development. The President of Mongolia, 
+Mr. Tsakhia Elbegdorj, has set up an initiative, 
+known as Gobitec, to research how the country’s 
+solar and wind energy potential in the sparsely 
+populated Gobi Desert region can be exploited. 
+The president envisions the country’s development 
+into a renewable energy exporter to northern Asia 
+through the Asian Super Grid (ASG), thus turning 
+the country’s abundant resources into assets to 
+fuel its economic growth. Renewables currently 
+contribute only a 2.2% share of total electricity 
+consumption, while their installed capacity accounts 
+for 7% of national power generation. Discussions 
+are underway on how to effectively harness the 
+country’s huge renewable energy potential. 
+How much renewables contribute to Mongolia’s 
+efforts to ‘de-carbonise’ its future energy mix 
+depends upon several key factors: resources; 
+the costs and applicability of renewable energy 
+technologies; grid infrastructure; legislative 
+and policy frameworks; and regional energy 
+cooperation. Against this backdrop, the MoE of 
+Mongolia, in collaboration with the International 
+Renewable Energy Agency (IRENA), has launched 
+a project aimed at conduct a comprehensive 
+analysis of the presence, or lack thereof, of enabling 
+conditions for the development of renewables 
+in Mongolia. To achieve this goal, a Renewables 
+Readiness Assessment (RRA) has been undertaken 
+in accordance with a methodology developed by 
+IRENA. The key findings from this study have shown 
+the extent to which renewable sources can be 
+scaled up domestically as well as at a regional level. 
+1.2 Renewables Readiness
+Assessment (RRA)
+IRENA’s RRA is designed to define a detailed list 
+of criteria considered necessary for the on-going 
+operation of existing renewable energy facilities 
+and for further renewable energy development. 
+Applying this framework to individual countries 
+provides a comprehensive analysis of the 
+presence or absence of enabling conditions for the 
+development of renewables. Crucially, this analysis 
+needs to take into account how the renewables The RRA comprises a process and methodology 
+that includes completing a set of templates and 
+a final report. It is also designed to be conducted 
+by national governments, thereby allowing them 
+to obtain a comprehensive overview of the 
+conditions for renewable energy from their own 
+national perspective. Under the RRA, all processes 
+and documentation are led by the country and 
+derive inputs from discussions with stakeholders
+facilitated by the country focal point, with the 
+assistance of IRENA and other development 
+partners.
+The RRA facilitates a co-ordinated approach and the 
+setting of priorities that can facilitate discussions 
+with bilateral and multilateral co-operation 
+agencies, financial institutions and the private 
+sector regarding the implementation of actions and 
+initiatives emerging from the RRA. IRENA can also 
+facilitate implementation of the follow-up actions, 
+where necessary, after the specific request from the 
+country or regional entity.
+An overall objective of this project is to highlight 
+the key results that can help in formulating 
+Mongolia’s renewable energy development 
+action plan, mobilising all resources necessary 
+to carry out the actions identified and flagging 
+the potential issues that need to be further
+addressed. 
+More specifically, the RRA aims to:
+• Identify the critical and emerging issues 
+associated with, and arising from, the 
+development of Mongolia’s energy sector in 
+general and the utilisation of renewable energy 
+resources in particular.
+• Put forth a portfolio of articulated actionable 
+initiatives that can capitalise on the opportunities 
+revealed through the examination of Mongolia’s 
+energy sector and the extensive discussions 
+with multiple stakeholders in terms of how to 
+turn potential of resources into energy sources.
+• Outline the follow-up activities to ensure the 
+actions identified are actionable in the near- and 
+mid-term timeframe.
+Lastly, this report serves to document the process 
+of applying the RRA methodology to Mongolia. It 
+includes reviewing the energy sector in relation to 
+the development of renewable energy sources in the 
+country, describing how the RRA workshop in Mongolia 
+contributes to the development of an action plan to 
+scale up the deployment of renewable energy sources 
+in Mongolia, and articulating the actions identified into 
+a structured portfolio. This not only ensures synergies, 
+but more significantly facilitates harmonisation among 
+the stakeholders involved to help deliver Mongolia’s 
+goals on green growth development.ENERGY
+CONTEXT 02
+Mongolia is endowed with abundant natural energy resources, mostly in the 
+form of coal and renewables such as wind, solar and hydropower. In the past, the 
+country has heavily relied on coal for power and heat production. With the new 
+strategic vision of establishing sustainable development opportunities, Mongolia 
+has formulated a green development policy chartering the path to wean the 
+country off coal.
+In recent years, Mongolia’s energy industry has embraced greater shares of 
+renewable sources. The Salkhit wind farm (52 MW) has been in operation since 
+2013 and another wind farm project in Sainshand, which also aims to supply 
+52 MW of electricity generation capacity will be expected to start in 2016 and 
+commissioned in the middle of 2017. In addition, a feasibility and environmental 
+impact assessment for the Egiin Hydropower Power Plant, with 315 MW capacity, 
+has been completed and will commence construction in 2016. These projects 
+present only part of the government efforts to reach Mongolia’s targets of 
+increasing renewable power-generation capacity to 20% of installed capacity by 
+2023 and to 30% by 2030. 
+2.1 Energy Situation
+Given large coal reserves, estimated at 173 billion tonnes, Mongolia’s primary 
+source for energy has been coal, with the rest made up by hydropower, oil, 
+biomass and imported electricity from Russia. 
+Electricity production rose between 2000 and 2013, as indicated in Figure 2, 
+due largely to the rapid growth of demand. In addition, electricity imports from 
+Russia increased dramatically to 1 195.5 gigawatt-hours (GWh) in 2013, compared 
+to only 366 GWh recorded in 2012. This reflects importance of electricity imports Heat supply over the long and cold winter period is 
+essential for every Mongolian. Despite this fact, the 
+country’s heating infrastructure is out of date and there 
+is huge room for efficiency improvement. From 2000-
+2013, heating demand was growing and was being 
+met by two sources, i.e. CHP systems and commercial 
+heat plants. Both are fuelled by coal and have their 
+own advantages and disadvantages. The discussion 
+around which pathway Mongolia should take for its 
+future heat production has been on-going.In terms of 
+electricity consumption, as shown in Figure 4 below, 
+the sector breakdown of energy consumption indicates 
+that industry is the biggest consumer of electricity in 
+Mongolia, followed by household users. The high level 
+Figure 2. Mongolian electricity production, 2000-2013
+Figure 3. Mongolian heat production, 2000-2013
+Source: Mongolian Statistical Information Service (n.d.) 
+Source: Mongolian Statistical Information Service
+Additionally, since 2010, consumption of imported 
+oil, used mainly by the transport sector, has been 
+increasing commensurate to the growing number of 
+vehicles being used in Mongolia.
+Future power demand is expected to increase 
+despite the less aggressive growth rates expected 
+in the years to come. Mining sector development is 
+expected to remain the driving force for a future 
+upsurge in energy demand. The Government of 
+Mongolia estimates that 500-600 MW will be added 
+to existing demand by 2020, corresponding to an 
+average annual growth rate of 3.5%, as illustrated 
+in Figure 5. This is largely driven by: a) the open7 D
+lf hOTli id bhd ldiiihldhldbl
+Figure 4. Electricity consumption by sector
+Figure 5. Future power demand in Mongolia
+Source: Ministry of Energy, 2014
+Source: Proposed Energy Master Plan Draft of ADB (2013)
+due undergo capacity expansion that will result in 
+increased electricity demand to 300 MW and above 
+as early as 2017,7
+ b) the operation of underground 
+mining at the Tavan Tolgoi coal mine, which will see 
+demand rising to 300 MW by 2018.
+The main power generation projects being built for 
+the Central Energy System and South Gobi are as 
+follows (World Bank 2008): 
+• Thermal Power Plant #5 (TPP#5), Ulaanbaatar:
+A CHP plant to be built in 300 MW units. 
+• Tavan Tolgoi Thermal Power Plant: An aircooled mine-mouth sub-critical plant to be built 
+in 300 MW units and fuelled from the Tavan 
+Tolgoi coal mine. 
+• Oyu Tolgoi Thermal Power Plant: An air-cooled 
+sub-critical plant to be built in 150 MW units and 
+fuelled from the Tavan Tolgoi coal mine. 
+Other projects currently in the planning stage 
+in the same areas include Shivee Ovoo Thermal 
+Power Plant (TTP) and the Baganuur Integrated Gasification Combined Cycle (IGCC) plant. These 
+are primarily export-oriented projects. Besides 
+such coal-powered thermal power plants, several 
+renewable energy projects now in planning, 
+including the Shuren, Egiin and Orkhon hydropower 
+plants (HPPs) as well as new wind and solar farms.
+2.2 Electric Power System
+The Mongolian electric power system consists of 
+the four independently operating electricity grids 
+including the Central Energy System, which is the 
+main grid providing more than 90% of the national 
+electricity supply, the Eastern Energy System, the 
+Western Energy System and the Altai-Uliastai 
+Energy System, as shown in Figure 6, in addition 
+to an isolated CHP system in the south Gobi region. 
+Given the country’s large geographic area and 
+small population, the grids can cover only the 
+major load centres such as big cities and industrial 
+areas. Currently, 329 Mongolian soum (districts) 
+and almost 326 settlements are connected to the 
+grid, contributing to the 98% electricity access rate, 
+while five soum are supplied through renewable 
+energy sources.
+As of June 2015, the total installed capacity of 
+Mongolia is estimated at 1 082 MW according to 
+the Energy Sector Development Policy 2015-2030. 
+Figure 6. Energy Systems of Mongolia 
+Source: Mongolian Ministry of Energy
+from coal-fired thermal power plants, accounting 
+for 85% of the total. Most of these plants were built 
+from 1960 to 1980 and would likely be retired in the 
+coming years. The Energy Regulatory Commission 
+has granted licences for construction of facilities to 
+produce more than 1 500 MW, including five wind 
+farms with total installed capacity of 502.4 MW. 
+In late 2014, a concession agreement for a new 
+plant, CHP5 (450 MW), was signed. New electricity 
+generation initiatives have witnessed a departure 
+from the older state-owned paradigm, with private 
+sector ownership welcomed, as in the case of the 
+Salkhit Wind Farm. 
+Figure 7. Installed electricity generating 
+capacity by sourceIn 2014, the peak load was 960 MW, accounting 
+for 93% of the national total installed capacity. 
+The maximum available capacity of importing 
+electricity from Russia is about 250 MW. In view of
+retirements, if the demand growth outpaces the 
+new capacity addition, Mongolia will be facing a
+serious shortage of electric power in coming
+years.
+Table 1. Generating facilities in the Central Energy System
+Generator Installed Capacity
+(MW)
+Available Capacity 
+(MW)
+Year of 
+Commission
+Energy Conversion 
+Efficiency (%)
+CHP2 22 18 1961 20.4
+CHP3 190* 155 1968 38
+CHP4 703** 575 1983 40.6
+Darkhan CHP 48 39 1965 29
+Erdenet CHP 28.8 21 1987 41.5
+Ukhaa Khudag 
+Power Plant 18 18 2011 28
+Salkhit Wind Farm 52 52 2013 27.9
+* A 50 MW upgrade was made in June 2014. 
+** A 120 MW extension was made in December 2014. 
+Source: Mongolian Ministry of Energy
+According to the Energy Regulatory Commission of 
+Mongolia, electricity consumption in 2013 witnessed 
+a significant increase by nearly 20% amounting to 
+6323 GWh, or in absolute terms, an increment of
+1 055 GWh from the 2012 level of 5 268 GWh, including 
+308 GWh of imported electricity. For the same year, 
+CHPs fuelled by coal contributed to nearly 80% of the 
+total electricity supply while about 18% was imported 
+from Russia and China, with diesel, hydro and wind 
+electricity making up the remaining 2% of the total. 
+In 2014, 6788.7 GWh of electricity was produced, 
+according to the MoE. The breakdown, shown in Figure 
+8, reflects the decline in share of thermal power and 
+the continued growth in imported electricity to meet 
+the widened supply-demand gap. This was largely 
+due to behind-schedule installations of new power 
+generating capacity, leading to diminishing reserve 
+capacity to supply the increasing peak load demand. 
+Of the four independent power systems, the 
+Central Energy System is the largest, covering 
+consumers in 14 of the 21 first-level administrative 
+subdivisions known as aimag in the Khangai, 
+Central and South regions. This system 
+represents annual electric energy demand of
+Figure 8. Breakdown of Mongolia’s
+power supply in 2014 (kWh)
+as shown in Table 1. The Central Energy System is 
+connected to the Russian power grid system through 
+a 220 kilovolt (kV) overhead transmission line.
+The Western Energy System serves the consumers 
+in Uvs, Bayan-Ulgii and Khovd Aimags, with annual 
+electricity consumption of 108 GWh and peak demand 
+of 30 MW in 2014, recording a dramatic increase from 
+2013 due largely to the growing use of floor heating.The Western Energy System has only one generating 
+source, i.e. the 12 MW Durgun Hydro Power Plant, 
+which was put into operation in 2008. The majority 
+of electricity, on average 70%, is imported from 
+the Russian Krasnoyarsk energy system at Chadan 
+Substation through the 110kV8 transmission line, 
+importing electricity operating at the capacity of 
+approximately 25 MW. 
+The Eastern Energy System covers the area of 
+Dornod, Khentii and Sukhbaatar aimags, with 
+annual electricity consumption of 112 GWh and peak 
+demand of 27 MW. The Dornod Thermal Power Plant 
+is the main power source of the eastern energy 
+system, with a capacity of 36 MW. The Eastern 
+Energy System has a 190 kilometre (km) long
+110 kV single circuit line that connects the 110 kV 
+substations at the two aimag centres of Choibalsan 
+and Baruun Urt.
+The Altai-Uliastai Energy System provides electricity to 
+Zavkhan and Gobi-Altai aimags with annual electricity 
+consumption of 33 million kWh and peak demand 
+of 16 MW from 11 MW Taishir Hydro Power Plant and 
+diesel power plants at Uliastai and Esunbulag.
+Average annual per capita electricity consumption 
+reached 2 263 KWh in 2014,9
+ representing an increase 
+of 18% from the 2013 level – approaching the global 
+average of 2 770 kWh. However around one third 
+of the total energy consumption in Mongolia can 
+be attributed to the Erdenet and Darkhan smelters 
+and other energy intensive industries. About 60% 
+of Mongolian total households are connected to 
+one of the five grids, representing 92% of the total 
+grid-connected utility customers. If taking into 
+account the local/mini-grids, access to electricity is 
+98%.10 This suggests there is much room to grow 
+in electricity demand in Mongolia’s domestic sector.
+As far as transmission is concerned, there are 
+three independent grids in Mongolia. Transmission 
+voltages are 220 kV (in the Central Energy System 
+and South Gobi only) and 110 kV, while the principal 
+medium distribution voltage is 35 kV, which is 
+further stepped down to 10 kV or 6 kV. Electricity 
+is also imported from China to supply the southern 
+border towns and the Oyu Tolgoi mine.
+2.3 Rural Electrification 
+Mongolia’s high electricity access for such large, 
+sparsely populated area is largely attributable to 
+the efforts of the government and the World Bank 
+over the past decade and a half. A joint programme 
+has provided portable solar home systems (SHS) to 
+rural families, most of whom still follow the nomadic 
+lifestyle, as seen in Box 1. Given the limited capacity 
+that SHS can provide, it can only meet the very basic 
+energy demand such as lighting, radio and TV. There 
+may thus be a need to upgrade the existing SHS, 
+which can be operated on a commercial basis, due 
+to the supply chain established throughout the rural 
+electrification programme, and the dramatic reduction 
+in the cost of solar PV systems over the past years. 
+Mini-grids powered by purely solar or wind, or as 
+hybrid systems, are also used in rural or remote areas. 
+Table 4 presents a list of detailed off-grid mini-grids. 
+8 The designed capacity is 220 kV, with even higher transmission
+capacity. The facility currently operates below under its full capacity. 9 According to the Mongolian Energy Engineers’ Association. 10 According to the latest data from the Mongolian Ministry of 
+Energy.Mongolia is rapidly urbanising, leading to the development of settlement centres that are 
+mostly connected to the grid network. Out of the estimated population of 3 million, around 
+500 000 to 750 000 people still engage in the nomadic lifestyle for part of the year. 
+At the beginning of the century, the Government of Mongolia launched the “100 000 Solar Ger 
+Program” with the aim of providing rural families, mostly nomadic households, with a set of 
+basic mobile solar PV systems, to supply electricity for basic needs such as lighting, powering 
+radio and TV. After years of implementation, the government encountered a shortage of funds 
+to sustain the programme implementation. At the request of the government, the World Bank 
+helped overcome this shortfall, allowing the programme to be continued scaled-up to benefit 
+more rural households. 
+In 2006, the World Bank approved the Renewable Energy and Rural Electrification Project 
+(REAP) whereby resources were made available to subsidise 50% of the solar PV system costs 
+for 50 000 households. This model was endorsed by the Government of the Netherlands, with 
+additional funding made available to support the cost buy-down scheme. 
+More importantly, a system for quality assurance and after-sale was set up to ensure the 
+sustainability of the donor-funded project. This has enhanced the confidence of consumers 
+and helped herders make an educated choice regarding the purchase, and operation and 
+maintenance of their mobile solar PV systems. Additionally, 50 Sales and Service Centres 
+have been established across the country, serving as hubs of information sharing, equipment 
+provision and after-sale services including warranty. This has helped develop a network 
+of equipment and service-providers, which is a critical step towards commercial market 
+development in Mongolia. 
+This programme was regarded as being highly successful in Mongolia, demonstrating the 
+collaborative efforts to scale up rural electrification using small-scale solar PV systems for rural 
+and nomadic households. Today, the target of 100 000 households equipped with SHS has 
+been exceeded. However, the unit capacity might need to be upgraded, given more domestic 
+appliances are used today as a result of improved living standards. 
+Box 1: 
+Rural Electrification Programme2.4 Domestic Electricity Markets 
+In 2001, an electricity market was introduced in the 
+form of a bilateral contract (single buyer) market, 
+accompanied by a small spot settlement market and 
+an auction market. The Central Regional Electricity 
+Transmission Network operates as a single buyer, 
+purchasing electricity from the five power plants in 
+the central region and in the form of imports from 
+Russia (International Energy Charter, 2013). The 
+network then sells this power to the ten electricity 
+distribution companies. Such transactions are 
+conducted in an electricity spot market, based on 
+differences between scheduled power generation 
+and actual, real-time power supply. An auction 
+market is also organised among the generators 
+based on their offered generation tariff and the 
+growth in electricity demand. 
+Annual traded electricity amounted to 3 844.4 GWh 
+in the single buyer market in 2011, 3.9 GWh in the spot 
+market in 2010, and 4.45 GWh in the auction market 
+in 2011 (International Energy Charter, 2013). Marketbased electricity trading has not yet succeeded, 
+reportedly due to cash collection problems at the 
+distribution level and revenue shortfalls experienced 
+by the generation company. The market reverted to 
+a single-buyer approach, which operates differently 
+from a single-buyer market model in the strict sense 
+of the term. The National Transmission Company 
+(NTC) is not entitled to own the electricity produced 
+by generation companies and was not legally 
+responsible for paying them. 
+The function of the NTC was to allocate the revenue 
+collected to the generation companies through the 
+zero-balance account that it was managing. The 
+system operates essentially as a vertically integrated 
+utility, unbundled in practice into distinct business 
+units and receive a portion of retail revenues based 
+on a pre-approved formula administered by one unit, 
+the NTC. FiTs for renewable electricity – maintained 
+by the government as a form of subsidy – also 
+operating this way until the recent amendment of the 
+Mongolian Renewable Energy Law. Subsequently, 
+the responsibility of managing the zero-balance 
+account was transferred to the National Dispatching 
+Center (Mongolia’s grid operator).
+for investment via pricing signals, the current market 
+model does not perform in a manner to deliver these 
+desired outcomes. 
+That said, CHPs are technically efficient when 
+producing electricity at maximum heat output 
+(cogeneration mode). In Mongolia, heat production 
+does not take place in the summer, and so the overall 
+efficiency of CHP-generated electricity is low. Thus, 
+the efficiency of energy supply in Mongolia is not 
+only a function of technology or operating practices, 
+but also a function of climatic temperature variation 
+throughout the year. When a CHP plant produces 
+heat, electricity is also produced as a ‘must-run’ byproduct, with the ratio of heat to electricity as large 
+as two for one. This cogenerated electricity must be 
+dispatched for the safety of the grid operation. 
+Another factor affecting the power market in Mongolia 
+is the efficiency of generators. In Ulaanbaatar, Thermal 
+Power Plant No 4 has a very large capacity compared 
+to the other plants. When a new CHP is established 
+in Ulaanbaatar, it will be a modern, highly efficient 
+plant and will always be first to be dispatched. As a 
+result, the merit order will never be in doubt and the 
+maximum efficiency of the electricity system will be 
+readily determined by the central dispatchers from 
+the turbine efficiency curves of the plants. 
+2.5 Power Trading and Exchange
+Mongolia has in recent years come to depend more 
+and more on Russian energy imports to cover shortterm contingency needs, for instance during peak 
+demand. Two interconnectors are under operation 
+between Mongolia and Russia. The 250 MW 
+interconnectors are designed to provide both load 
+following and emergency back-up functions, but in 
+recent years, the interconnection has begun to serve 
+peak demand as well. The electricity trade contract is 
+negotiated every year to set the price and capacity. 
+For example, the average price of import in 2013 was 
+only USD 77 per MWh, however there are penalties 
+associated with breaches of the contracted capacity. 
+The expenditure on imported electricity has become a 
+financial burden for Mongolia, and will increase if and 
+when Russia raises the electricity price as a result of 
+low electricity generation from the hydropower power 
+plants in the Angar River with water supplied by the Russia has invited Mongolia to create an electricity 
+‘pool’ market that would clearly be more favourable 
+to Russian exports and cross-border plant utilisation. 
+Meanwhile, increased power imports from Russia 
+have the potential to reduce Mongolia’s carbon 
+footprint if the energy is provided from Russian 
+hydropower plants. A decision on this matter may 
+come down to an evaluation of the financial terms 
+of these options. 
+Electricity to supply Mongolia’s southern border 
+towns and the Oyu Tolgoi mine is also imported 
+from China at prices of around USD 110 per MWh.11
+In recent years proposals have been made to export 
+coal-fired power to China. One proposal involved 
+a coal-fired power plant of 3 600 MW with a highvoltage direct current (HVDC) power line extending 
+from the Shivee Ovoo coal field to Beijing. This 
+proposal is reported to have failed due to the 
+value added tax that is applied to power imported 
+into China. Recently, it has been reported that the 
+proposal is under consideration once again. At the 
+same time, the government has been promoting 
+the idea of exporting large-scale wind and solar 
+energy to China. 
+To promote power trading between Mongolia and 
+neighbouring countries, the ASG initiative has 
+been proposed to connect locations of high energy 
+demand with regions in the Gobi Desert that have 
+tremendous solar and wind energy potential. The 
+Gobi Desert is a suitable place for the construction 
+of both solar and wind power plants, with 300 days 
+of sunshine per year, high level of wind resources, 
+low moisture and low temperatures. According to 
+the International Energy Agency (IEA) Photovoltaic 
+Power Systems (PVPS) Task 8 study, energy 
+production in the Gobi Desert is more efficient 
+than renewable energy production in other desert 
+areas. The theoretical potential of solar energy of 
+the Gobi Desert is enormous. According to the Task 
+8 study about 40% of the Gobi Desert is suitable 
+for construction of very large-scale solar power 
+generation projects. 
+According to findings by the National Renewable 
+Energy Center (NREC) using data from the US 
+National Renewable Energy Laboratory (NREL), 
+Mongolia’s wind energy potential amounts to at 
+least 1.1 terawatts (TW), while solar potential is 
+about 1.5 TW (Stackhouse and Whitlock, 2009). 
+The country’s total renewable energy of Mongolia, 
+including wind and solar resources, could be as 
+high as 2.6 TW. Wind energy density averages
+7 MW/km2, while solar energy density averages
+66 MW/km2. It has been suggested that a northeast 
+Asian electricity market might develop based on 
+economic and environmental benefits. The Gobitec 
+concept is therefore proposed to connect locations 
+of high energy demand with the Gobi Desert 
+region that has large renewable energy potential. 
+The energy produced is meant to be delivered 
+through power corridors, including the planned 
+ASG connecting Russia, Mongolia, China, South 
+Korea and Japan. The regional electricity markets in 
+Europe and the Greater Mekong sub-region provide 
+precedent for such cross-border trade schemes.
+The Gobitec project will provide economic and 
+social benefits to the northeast Asian region. The 
+participating countries will benefit from increased 
+energy security and cost advantage with access 
+to low-cost renewable-based electricity from 
+the Gobi Desert. For Mongolia in particular, the 
+project will diversify the local economy, create job 
+opportunities, alleviate poverty and reduce carbon 
+dioxide emissions and air pollution in the country. 
+The concept of a northeast Asian power grid has 
+been under discussion for more than a decade. 
+Due to high economic growth, northeast Asia has 
+been one of the fastest growing energy markets 
+in recent years. This trend is expected to persist in 
+the foreseeable future, with a higher rate of energy 
+consumption than in other parts of the world. 
+Therefore, the energy supply infrastructure in the 
+northeast Asian sub-region must evolve in response 
+to emerging issues such as increasing demand, 
+resource availability, environmental concerns, 
+changing technologies and the need for regulatory 
+reform, and sector restructuring.
+Energy co-operation across the region is key 
+for enhancing the security of energy supply. To 
+maximise the benefit from regional energy cooperation, a high level political forum needs to be established in order for all the countries to be 
+actively engaged in developing a regional power 
+infrastructure. Energy infrastructure integration 
+among northeast Asian countries is intended to 
+lead to the creation of a large market and expansion 
+of economic potential for all participating nations 
+and may contribute to greater political stability and 
+security.
+For this reason, the Gobitec initiative and ASG for 
+northeast Asia proposal have been initiated. The 
+development of the sub-regional HVDC super grid 
+network will be one of the key components of the 
+Gobitec initiative and super grid proposal.
+In March 2013, five-partner organisations signed 
+a Memorandum of Understanding to prepare a 
+joint regional study entitled “Gobitec and the 
+Asian Super Grid for Renewable Energy Sources in 
+Northeast Asia”. The organisations are:
+• Energy Charter Secretariat;
+• Energy Economics Institute of the Republic of 
+Korea;
+• Ministry of Energy of Mongolia;
+• Japan Renewable Energy Foundation; and
+• Energy Systems Institute of the Russian 
+Federation.
+2.6 Key Institutions and Stakeholders 
+of the Energy Sector
+Currently, responsibilities for renewable energy 
+development are shared across three key ministries: 
+the MoE, the Ministry for Finance and the Ministry 
+of Environment, Green Development and Tourism 
+(MEGDT).12 
+The Ministry of Finance bears the responsibility for 
+strategic planning across multiple sectors and the 
+preparation and administration of the state budget. 
+This includes encouraging private investment, such 
+as public private partnerships, as a means to enhance 
+GDP growth.
+The MEGDT is responsible for environment 
+and green development and is also engaged in 
+international dialogue and events related to climate 
+change by way of developing government policies 
+and strategies on climate change; enforcing legal 
+requirements for the protection; conservation and 
+appropriate use of natural resources; improving 
+Figure 9. Structure of Mongolia’s Energy Regulatory Commission (ERC)
+12 In the institutional restructure of 2015, tourism was merged into
+the MEGD, creating the Ministry for Finance and the Ministry of 
+Environment, Green Development and Tourism. soil, water and forest resource management; 
+strengthening environmental monitoring networks; 
+conducting necessary research; disseminating 
+scientific information about the environment to 
+individuals and institutions; and implementing 
+climate change projects using internal and external 
+funding and coordinate the actions of multiple 
+ministries, agencies and organisations. 
+The need to meet environmental standards for 
+mining and utilisation of energy is addressed by 
+the MEGDT, in accordance with the requirements 
+of the Environmental Protection Law of Mongolia. 
+This deals with the need to avoid adverse ecological 
+effects on land, soil, air, water, underground 
+resources, mineral wealth, plants, and animals.
+The MoE bears the responsibilities for making energy 
+policy, energy strategy and planning including 
+power generation, power grid development, district 
+heating, etc. and designing the publicly-funded 
+programmes. The MoE sets policy for coal- and 
+renewable-based power generation, covering the 
+development, conservation and use of these energy 
+resources, and import and export of coal, while 
+also approving investment plans for electricity 
+transmission and distribution developments. The 
+Energy Development Centre (EDC), a government 
+entity under MoE, is responsible for overseeing the 
+operation of energy sector in accordance with the 
+government’s energy policy.
+The NREC was created in 2005 under the MoE. With 
+the restructuring of the government, the centre 
+was changed into a state-owned self-financed 
+entity, under the supervision of the State Property 
+Committee. This has resulted in a significant loss of 
+talent due to the lack of funding attributed to the 
+been weakened when it comes to assisting the MoE 
+with the operation of renewable energy activities in 
+accordance with the government’s energy policy, in 
+conducting studies on renewable energy resources 
+and utilisation and in introducing new renewable 
+energy technologies to Mongolia with research on 
+necessary adaptation to local contexts. 
+The Energy Regulatory Commission (ERC) is 
+an independent regulatory authority that was 
+established by the 2001 Energy Law. According to 
+the Energy Law, the ERC shall have the full power 
+to issue operational licences to energy companies 
+involved in the generation, transmission and 
+distribution of electrical power; monitor compliance 
+with license conditions; resolve disputes between 
+agencies and customers; and review and approve the 
+tariff of licensees. The ERC is directly accountable 
+to the government (as represented by the cabinet).
+Figure 9 shows the organisational structure of the 
+ERC. The commission has a managing director, Legal 
+& Administration Department, Licensing Division, and 
+Price & Tariff Division. The Licensing Division is in charge 
+of licensing issues, including monitoring issues relating 
+to licensee’s technical activities, monitoring of electricity 
+markets, and dealing with rules and regulations related 
+to technical and technological issues. The Price & Tariff 
+Division is in charge of devising tariff methodology 
+and rules, reviewing tariff proposals, and monitoring 
+financial and economic aspects of the licensee. 
+There are two main public universities where 
+Bachelor’s, Master’s, and Doctorate degrees in 
+Renewable Energy can be obtained: the National 
+University of Mongolia, School of Applied Physics 
+and Engineering; and the University of Science 
+and Technology of Mongolia, School of Power 
+Small hydropower plant, capacity 375 kW, Zavkhan province, Tosontsengel soum
+Photo: Batbayar, Ts.RENEWABLE 
+ENERGY 
+DEVELOPMENT IN 
+MONGOLIA03
+Only a negligible portion of Mongolia’s enormous renewable energy potential 
+has been exploited. To date, solar and wind deployment has been largely limited 
+to off-grid applications, mainly for nomadic herders or isolated mini-grids. While 
+conventional hydropower has been in use for decades, the first grid-connected 
+wind farm, with installed generating capacity of 52 MW, started operation in
+July 2013. 
+With the growing demand for electricity domestically and regionally, coupled 
+with dramatic cost reduction of renewable energy systems, there have emerged 
+great opportunities for wind and solar PV applications in Mongolia. The Mongolian 
+government has recently set targets in its Green Development Policy to increase 
+the share of renewable energy in the total installed power generation capacity, 
+with a view to reaching 20% by 202013 and 30% by 2030. The targets are deemed 
+ambitious in relative terms, yet insignificant when measured in absolute terms, 
+given the 2.6 TW renewable energy potential and the limited size of the domestic 
+energy market.
+However, the Mongolian government has actively explored possibilities to 
+develop a regional integrated power market in northeast Asia, through which it 
+can export wind and solar electricity to other countries. As estimated by the US 
+NREL and Mongolian NREC, the combined electricity production output from 
+wind and solar could reach as much as 15 000 TWh per year, which is enough 
+to meet the Chinese total electricity demand in 2030 (Energy Research Institute 
+National Development and Reform Commission, 2015).14
+13 It was revised to 20% by 2023 in the State Policy on Energy adopted by the parliament in June 2015. 14 Estimated at 12 100 TWh by National Renewable Energy Centre of China. Figure 10. Map of wind energy resource of Mongolia
+Source: US National Renewable Energy Laboratory, 2001
+Table 2. Breakdown of good-to-excellent wind resource potential at 30 metres high
+Wind power 
+density at 
+30 metres
+Wind speed 
+(metres/second)* Total area (km2)
+Installed 
+generating 
+capacity (MW)
+Total electricity 
+output (TWh/year)
+300-400 6.4-7.1 130 665 905 500 1 975.5
+400-600 7.1-8.1 27 165 188 300 511.0
+600-800 8.1-8.9 2 669 18 500 60.2
+800-1 000 8.9-9.6 142 1 000 3.4
+Total 160 641 1 113 300 2 550.13.1 Renewable Energy Resources and 
+Exploitation
+Wind
+The wind energy resource atlas of Mongolia 
+produced by the NREL in 2001 is still viewed as 
+the most authoritative estimate of wind energy 
+potential. Mongolia has since been identified as a 
+potential major wind power producer with goodto-excellent15 wind resource potential at 30 metres 
+high, estimated at more than 1.1 TW of installed 
+generating capacity, distributed largely in the 
+southern and eastern regions as shown in Figure 10, 
+generating at least annual 2 550 TWh of electricity16
+– equivalent to about half of the Chinese total 
+electricity consumption in 2014. 
+As shown in Table 2, if the 142 km2 area with the 
+highest wind potential can be fully developed, it can 
+deliver more electric power than Mongolia’s total 
+electricity demand. Notably, the estimation was 
+made 14 years ago, when the predominant wind 
+turbine had 500 kW capacity and was mounted 
+at a height of 40 metres. At present, the turbine 
+size used for utility scale has tripled, and the typical 
+hub height is about 100 metres. This suggests 
+that greater capacity installed in the same areas 
+would generate more electricity compared to the 
+estimated 2 550 TWh from NREL in 2001.
+If taking into account the moderate wind resource 
+(at 30 metres), the above estimated total installed 
+capacity would quadruple, while both outputs 
+and windy areas triple. The moderate areas are 
+generally good enough for rural electrification with 
+small wind turbines. In some parts of the moderate 
+areas, wind resource is good enough even for utility 
+scale wind farms, given the categorisation is based 
+on averaged wind speed. For instance, the country’s 
+first utility-scale wind farm – the Salkhit Wind Farm 
+(52 MW17), was built in a wind-raked ridge about
+72 km southwest of Ulaanbaatar, which falls in 
+a moderate wind resource region, although this 
+particular location area has been found to have 
+excellent wind resource. 
+Following the commissioning of the first Power 
+Purchase Agreement (PPA)-based Independent 
+by international investors, Mongolia has launched 
+the construction plan for the Sainshand Wind Farm 
+project with a total capacity of 52 MW. Expected 
+to be completed by the end of 2016, the Sainshand 
+Wind Farm project located in the south-eastern subregion, is projected to produce a total of 190 GWh 
+of electricity every year. In addition to the gridconnected wind farms, there are also off-grid villagescale small wind power systems with an aggregated 
+installed capacity of 1 040 kW (Table 4). 
+Thirteen aimag have more than 20 000 megawatts 
+of wind potential, nine aimag have more than 
+50 000 megawatts of wind potential, and the 
+Omnogobi aimag alone has 300 000 megawatts of 
+wind potential. Regardless, Mongolia can hardly find 
+a sufficient amount of demand to justify investment 
+to capitalise on this potential, even if grid stability 
+does not cause an issue. For off-grid wind turbines 
+installed in rural areas, the prospects are fairly good. 
+An estimated 4 000 such wind systems have been 
+installed for the nomadic population. 
+On the other hand, wind maps have clearly shown 
+that the south-eastern sub-region, i.e. part of the 
+Gobi Desert that shares a border with China, has the 
+best wind resources, with a significant area of wind 
+speeds higher than 9.0 metres/second at 80 metre 
+high, as shown in Figure 11. This suggests wind power 
+exportation is a promising option if the infrastructure 
+can be developed to support the power trade with 
+its neighbouring country, or countries, in case the 
+interconnected grid is expanded to other countries. 
+Towards this end, the Oyu Tolgoi wind power 
+project in Khanbogd soum, Umnugovi province, was 
+proposed in 2010 by Clean Energy LLC19 for potential 
+exportation of wind-generated electricity to China 
+through an interconnected grid. It would have an 
+installed capacity of 250 MW.
+15 Wind power density is more than 300 W/m2
+. 16 Under the assumptions of turbine size of 500 kW, turbine 
+spacing of 10D by 5D and 6.9 MW/km2. 17 Equivalent to 5% of the Central Energy System grid’s total 
+installed capacity. 18 IPP to sell electricity to the grid at the agreed price stipulated in
+a PPA. In Mongolia, it will guarantee 0.095 USD/kWh for 
+power purchase from the wind project investor for the lifetime 
+of the project. 19 The Clean Energy Company was founded in December 2004 
+to develop wind power projects in Mongolia. It has built the first 
+wind farm in Salkhit near Ulaanbaatar. The company announced 
+that it was planning to develop four more wind farms in Mongolia Figure 11. Wind energy resource in the Gobi Desert region of Mongolia
+Global Atlas for Renewable Energy, IRENA, 2015
+Solar photovoltaics and thermal energy
+On average, Mongolia has 270-300 sunny days 
+annually and an estimated 2250-3300 hours 
+of daylight in a typical year. This indicates that 
+the availability of solar radiation in Mongolia is 
+fairly reliable. With average daily solar energy 
+at the range of 3.4-5.4 kWh/m2 in a total area of
+23461 km2, Mongolia can yield 4774 TWh of solar 
+electricity per year, as shown in Table 3. With an 
+estimated average solar electricity generation 
+potential of 5.4kWh/m2/ day, in an area of
+5542 km2, NREL calculations rank the Gobi Desert as 
+the third highest on the list of the world’s deserts with 
+high solar electricity generation potential, as shown 
+in Figure 12. The Gobi Desert sub-region that shares 
+a border with China is also the site of an overlap 
+between this excellent solar energy resource and an 
+excellent wind resource, making this area a priority as 
+far as renewable electricity exportation is concerned.
+Table 3. Mongolian solar resource (estimates)
+Solar radiation
+(kWh/m2/day)
+Land area
+(km2)
+Total solar resource
+(TWh/year)
+3.4 5 269 654
+3.8 3 924 544
+4.1 4 210 630
+4.5 4 515 742
+5.4 5 542 1 092Figure 12. Solar energy resource of the Gobi Desert region of Mongolia
+Source: NREL (U.S) and National Renewable Energy Centre of Mongolia
+The total currently installed solar PV power generating 
+capacity has been estimated at 6 000 kW. As shown 
+in Table 4, there are seven off-grid village-scale solar 
+PV power systems with a total installed capacity of 
+1 000 kW and two grid-connected systems with the 
+capacity of 500 kW. Since 2002, under the Renewable 
+Energy and Rural Electricity Access Project assisted 
+by the World Bank and other donors, more than
+100 000 solar home systems have been provided 
+for about half a million people – 70% of the nomadic 
+population. The aggregated generating capacity of 
+these systems is about 5 000 kW.Table 4. Solar PV systems (off-grid and grid-connected mini-grids) in Mongolia
+Solar PV system Location Scale (kW) Comments
+Off-grid
+Noyon Solar System Noyon soum, 
+Umnugovi province 200
+When Noyon soum was connected to the 
+grid, the solar PV system was moved to the 
+centre of Khatanbulag soum in Domogovi 
+province.
+Tsetseg Solar System Tsetseg soum, Khovd 
+province 100
+When Tsetseg soum was connected to the 
+grid, the solar PV system was moved to the 
+centre of Altai soum in Govi-Altai province
+Bugat Solar System Bugat soum, 
+Govi-Altai province 140 in operation
+Altai Solar System Altai soum, 
+Govi-Altai province 200 in operation
+Bayantooroi Solar PV 
+System
+Bayantooroi bagh, 
+Tsogt soum, 
+Govi-Altai province
+100 in operation
+Durvuljin Solar PV 
+System
+Durvuljin soum, 
+Zavkhan province 150 in operation
+Urgamai Solar PV 
+System
+Urgamai soum, 
+Zavkhan province 150 in operation
+Sub-total 1 040
+Grid-connected
+Chinggis Khan Airport Solar PV System Chinggis Khan 
+Airport, Ulaanbaatar 443 In operation
+Jargalant Solar 
+PV System
+Jargalant soum, 
+Khovd province 50 In operation 
+Sub-total 493
+Total 1 533 kW
+Source: Energy Sector Statistics, published by the Energy Regulatory Commission of Mongolia, 2013
+In addition to solar PV systems, there are six solar-wind hybrid generation systems with a total installed 
+generating capacity of 870 kW, as presented in Table 5. Unfortunately, only the Tseel System is still in operation.
+Table 5. Solar-wind hybrid systems in Mongolia
+System location Total capacity in kW
+(PV/wind breakdown) Operational status
+Tseel, Gobi-Altai Aimag 150 (30/120) Yes
+Manlai, Umnugobi Aimag 150 (30/120) No
+Shinejinst, Bayankhongor Aimag 150 (30/120) No
+Bayan-Undur, Bayankhongor Aimag 150 (30/120) No
+Bayantsagaan, Bayankhongor Aimag 150 (30/120) NoCentralised heating from solar energy is one of 
+the solutions to provide cleaner, more sustainable 
+heating services in government buildings, 
+kindergartens, schools, hospitals, individual houses 
+in soum centres and districts. Central solar heating 
+provides heating and hot water based on the sun’s 
+energy. Water is heated centrally with arrays of 
+solar thermal collectors and distributed via districtheating pipe networks. Compared to smaller, 
+household-level solar heating, central solar heating 
+offers better price-performance ratios, reflecting 
+lower installation prices, higher thermal efficiency 
+and less maintenance (Solarus, n.d.). Given the 
+extensive availability of land, many places in 
+Mongolia would be suitable for the establishment of 
+large-scale central solar heating systems. However, 
+the use of solar heating has not progressed, 
+except for tourist camps and private houses with 
+individually-installed solar water heaters. 
+Another application of solar thermal energy is 
+Concentrated Solar Power (CSP), which uses 
+mirrors to focus sunlight to either vertical pipes 
+(parabolic troughs) or to a single point tank (solar 
+tower), in which heat transfer fluid, typically water 
+or oil, is heated and used to evaporate steam for 
+ordinary thermal power processes. CSP is typically 
+used for utility-scale applications and can generate 
+heat for electrical production using steam turbines. 
+If a CSP plant is equipped with a sufficient amount 
+of energy storage, it can help meet the base-load 
+demand. Solar irradiation in southern Mongolia is 
+sufficient for CSP based on the fact that CSP projects 
+have been implemented under similar irradiation 
+levels in Spain. More importantly, Mongolia has
+270-330 clear days, which is an important indicator 
+for CSP applications, as it requires direct sunlight. 
+However, operating CSP plants in the winter season 
+is challenging for Mongolia due to its low seasonal 
+temperatures, which might put high requirements 
+on heat transfer fluid, which has to remain unfrozen 
+to avoid catastrophic damage to the CSP system. 
+Hydropower
+In general, annual precipitation is low and its 
+distribution varies in time and space with a digressive 
+pattern from north to south and from east to west, as 
+illustrated in Figure 13. Combined with the mountainous 
+topography in the north, rivers are most extensively 
+developed in that region. Precipitation is seasonal and 
+it is higher in summer, with rainfall filling up rivers and 
+streams to their fullest in a year. There is generally 
+much less rainfall in autumn. In winter, all rivers, lakes 
+and streams are frozen, while the impact on power
+generation varies. 
+Figure 13. Geographical distribution of annual total precipitation of MongoliaIn comparison with the realistic potential of
+1 200 MW to 3 800 MW from the 2013 Water 
+Management Report, published by the MEGD, the 
+aggregated installed generating capacity of only 
+28 MW from 13 hydropower stations is extremely 
+modest. Out of the 13 hydropower stations, only 
+nine are in operation, including the two largest 
+ones: Durgun with 12 MW and Taishir with 11 MW. 
+This indicates that much of the identified potential 
+has yet to be utilised. To develop these untapped 
+resources, a so-called “Hydropower Master Plan” 
+has been developed by a Turkish company called 
+ZTM and was now under review by the MoE.
+There is a recent move towards developing large 
+hydropower in Mongolia. The planned 220 MW 
+Egiin Hydroelectric Power Generation project, 
+located on the Eg River, which is a tributary of the 
+Selenga River close to the Central Energy System, 
+has recently been scaled-up to 315 MW with annual 
+generation of 606 GWh. The project has passed 
+the preliminary feasibility study and environment 
+impact assessment. Russia, which shares the transboundary Selenge River, has expressed concerns 
+over the plan.
+The Mongolian government has decided to proceed 
+with Egiin Hydroelectric Power Generation project in 
+2016, having already begun the construction of roads, 
+bridges and a high voltage transmission line. The 
+planned Shuren hydropower schemes, including a
+240 MW facility on the Selenge, faces a similar 
+challenge that has to be addressed before the 
+project can move forward. The feasibility study 
+for the proposed hydropower project on the Hovd 
+River in the western area has been completed and 
+is under government review. 
+In addition, the facility’s applications are intended 
+to extend the hydropower scheme into pumped 
+storage, which can facilitate the integration of solar 
+and/wind farms into the power system by enhancing 
+the flexibility required, if geographic conditions 
+allow. Private companies are increasingly interested 
+in developing pumped storage projects. For instance, 
+the Tuul-Songino Water Resources Complex project 
+proposed by a private company is to install 100 MW 
+pumped storage capacity used as a regulating power 
+for daily load consumption and potentially also for 
+variable renewable energy sources. 
+However, the viability of pumped storage schemes 
+would be negatively impacted if any of the planned large 
+hydropower projects constructed play the role of power 
+regulator as a pumped storage station plays. Therefore, 
+its long-term economic viability must be scrutinised. 
+Geothermal
+Given Mongolia is on a consolidated tectonic plate, 
+theoretically it can hardly have a high degree of 
+geothermal resources. But, without comprehensive 
+geothermal resource surveys, this resource has yet 
+to be fully explored and developed. 
+So far, 43 small hot springs in Khangai, Khentii, 
+Khuvsgul, Mongolian Altai Mountains, the DornodDarigangiin Steppe and the Orhon-Selenge 
+region have been explored, as illustrated in Figure 
+14. Despite the fact that the techno-economic 
+analysis on those spots is lacking, small-scale noncommercial applications have been applied, such as 
+for bathing, health resorts (balneology) and a small 
+amount for heating greenhouses and buildings.
+However, a pre-feasibility study by Icelandic 
+consultants concluded that geothermal energy 
+in hot springs with the surface temperature of 
+more than 80 degrees centigrade (°C) might 
+be economically developed to supply heat to 
+Tsetserleg and other towns in the Arkhanghai 
+area, but so far geothermal utilisation is not widely 
+developed. Some preliminary studies estimate 
+that the cumulative flows of usable heat (>35°C) 
+from hot springs at aimag levels, are between 1 to 
+15 megawatt-thermal (MWth). The impact of this 
+resource to Mongolia’s overall energy supply may 
+therefore remain limited and very local.Figure 14. Geothermal energy resource of Mongolia
+Source: US National Renewable Energy Laboratory, Renewable Energy Corporation of Mongolia
+Bioenergy
+Mongolians livestock herders have long used dried 
+cow dung and khurzun20 for fuel (Sarangerel, n.d.). 
+The tradition continues, particularly in regions 
+with little or no forest. Additionally, some 1 million 
+hectares of unused arable land is reportedly suitable 
+for production of biodiesel (Sarangerel, n.d.).
+In the realm of biofuels, little has been done, although 
+the Japan International Co-operation Agency (JICA) 
+reportedly conducted research into Mongolian 
+biofuel potential as early as 1993. According to some 
+assessments, Mongolia could develop biofuel by 
+growing corn in wheat fields that were abandoned when 
+the Russians departed the country. While Mongolia 
+imports almost 100% of its oil products, the opportunity 
+to develop biodiesel deserves further study.
+3.2 Government Commitments 
+Green Development Policy
+In June 2014, the Green Development Policy 
+was approved through the 43rd resolution of the 
+development. It not only elaborates the challenges 
+that Mongolia has to address by embracing the 
+strategy, but also identifies the opportunities 
+embedded in such a transition. 
+More importantly, the policy calls for a “reduction 
+of greenhouse gas emissions in the energy sector 
+through increased energy efficiency by 20% by 
+2030, ensuring the share of renewable energy in 
+total energy production to 20% and 30% by 2020 
+and 2030, respectively, and by renewing energy and 
+industrial sector technologies, reducing wasteful 
+consumption and losses and through optimisation 
+of pricing policies.” (3.1.1). 
+Under 4.2 Criteria and Expected Results, the policy lists 
+the target share of renewable energy in total installed 
+capacity of energy production to be 20% in 202021 and 
+30% in 2030. One should note that by issuing this policy 
+and the specific action plan, the government went into 
+installed capacity-based target setting.
+20 Khurzun is the hardened dung and urine of sheep and goats, 
+with the average energy density of 12 500-14 600 kilojoules/State Energy Sector Policy
+The Government of Mongolia recognises the 
+significance of green growth in its long-term economic 
+strategies for the country. With abundant potential, 
+yet limited applications of renewables to date, the 
+government has set renewable targets for the years 
+2023 and 2030 in the State Energy Sector Policy. This 
+new piece of policy aims to transform Mongolia into 
+an energy exporter underpinned by advanced and 
+environmentally friendly energy technologies that can 
+be adopted on a competitive market regime. To realise 
+this strategic vision, specific objectives and goals were 
+developed, followed by a strategy for implementation 
+in two stages: 2015-2023 and 2024-2030. Proposals 
+call for the policy to be updated every 10 years.
+A two-fold increase of installed capacity is expected 
+to be achieved in the first stage, and as a result, 
+10% reserve capacity can be built providing greater 
+flexibility to integrate more renewable energy 
+sources in the power system. In addition, the 
+electricity tariff structure will be modified to increase 
+the economic attractiveness for private investors 
+and/or IPPs as well as to ensure that the operation 
+of existing energy companies is economically viable. 
+The government aims to achieve 100% energy access 
+by this stage, indicating more stand-alone household 
+renewable-based electricity generation systems 
+to be used by nomadic herders, while at the same 
+time, high capacity transmission infrastructure will 
+be developed in co-operation with other countries. 
+In stage two, the focus lies on energy exportation 
+and scale-up of renewable energy deployment. Two 
+targets were set, i.e. reserve capacity of a minimum 
+of 20% and renewable share of total installed 
+generating capacity of 30%. By then, Mongolia 
+shall be able to export electricity to neighbouring 
+countries through HVDC electric power transmission 
+lines while domestically enhancing the national 
+grid network with information technologies for 
+smart transmission, management, control, and 
+monitoring. At the distribution level, the operation 
+will be on a competitive market-based scheme for 
+establishing an electricity retail market segment. 
+Mongolia’s Renewable Energy Law 
+the 2005 National Renewable Energy Programme 
+targets, the law was launched to specify duties 
+and rights of entities generating and transmitting 
+energy produced from renewable sources, and the 
+main provisions of power purchase/sale agreements 
+to be concluded between them.
+The purpose of this law is to regulate the generation 
+and supply of energy based on renewable sources, 
+and is applicable to legal entities generating and 
+delivering heat and electricity. More specifically, 
+the law defined roles, rights and privileges of 
+participants in construction of renewable energy 
+power sources, issuing of special licenses, defining 
+tariffs and power purchase agreement negotiations.
+In addition, the law specifies the powers of state 
+authorities with regards to renewable energy:
+• The state parliament shall define state policies 
+on renewable energy and make decisions on 
+construction of power generating facilities to be 
+financed from the state budget;
+• The cabinet shall ensure implementation of 
+the law and define soum where consumers 
+are eligible for power supply from stand-alone 
+renewable sources;
+• The state administrative authority in charge of 
+energy is empowered to develop state policies on 
+renewable energy, to carry out feasibility studies, 
+to draft standards on operation, safety and 
+maintenance of the renewable energy equipment, 
+to develop and approve rules and procedures on 
+implementation of the Renewable Energy Law;
+• Governors of aimags, the capital city of 
+Ulaanbaatar, soum and districts, are authorised 
+to include renewable energy facilities in land 
+development plans, and to allocate land plots 
+for construction of the said facilities; and
+• The Energy Regulatory Commission (ERC) shall 
+review tariff applications of generation license 
+holders, and approve a template for agreements 
+between generation and transmission 
+companies.
+Any entity intending to generate energy from 22 Article 11 of the Renewable Energy Law established feed-intariffs for wind, hydro, and solar sources both on and off the grid.
+Table 6. Ranges of FiTs for renewable energy power sources in Mongolia (USD/kWh)
+Hydropower Wind Solar
+Up to 500 kW 500 – 2 000 kW 2 000 – 5 000 kW
+Grid-connected 0.045-0.06 0.045-0.07 0.045-0.08 0.08-0.095 0.15-0.18
+Off-grid 0.08-0.10 0.05-0.06 0.045-0.08 0.10-0.15 0.20-0.30
+Source: Renewable Energy Law of Mongolia, 2007
+law also specifies duties and rights of entities 
+generating and transmitting energy produced from 
+renewable sources, and the main provisions of 
+power purchase/sale agreements to be concluded 
+between them.
+Tariff differences between energy produced by 
+renewable and conventional sources are required to 
+be included in tariffs of other licensees connected to 
+the grid, i.e. a cross-subsidy mechanism encourages 
+renewable-based power generation.
+The law stipulates the establishment of a special 
+Renewable Energy Fund, from which 50% is meant 
+to be financed by collections from state and local 
+property entities and from institutions through 
+selling of certified emission reduction units in 
+compliance with the Kyoto Protocol. In practice, the 
+main sources of funds are provided by the CHPs. 
+However, the fund has a zero balance because 
+the financial difficulties of the CHP plants have 
+precluded them from contributing to the fund as 
+required by the Renewable Energy Law. 
+As one of the instruments that the law brought 
+into the regulatory regime, FiTs22 were introduced 
+to create an enabling environment for the private 
+sector to actively engage itself with the development 
+of renewable energy markets. They were also 
+intended to attract investments in renewable energy 
+project development under seven special licenses 
+issued, for a total installed generating capacity of
+534.2 MW. A PPA was also developed and used as a 
+legally binding document between the state-owned 
+Central Regional Electricity Transmission Network and 
+any private renewable energy developers or electricity 
+producers, to make sure the electricity generated from 
+renewable sources is sold at favourable prices. 
+The ERC of Mongolia, as a power sector regulator, 
+is obliged to give the green light to any signed 
+PPA that is based on FiTs, whose tariff structure 
+supports a specific source of renewable energy can 
+be seen in Table 6. 
+However, existing electricity prices are still distorted 
+due to coal power subsidies. Additionally, the legal 
+framework, particularly to ensure the priority of 
+dispatching renewables, is missing and institutional 
+capacity to deal with the large-scale on-grid variable 
+renewables, is weak. The Renewable Energy Law 
+sets specific ranges of FiTs for energy generated 
+from renewable sources and for its delivery to 
+utility. The ERC has regulations for geothermal and 
+biomass electricity generation; however, they are 
+not as clearly defined as other renewable sources. 
+In the law, it stipulates that USD shall be used to 
+pay FiTs in favour of private investments flowing in 
+to the renewable energy market. This has been well 
+received, as it does indeed significantly reduce the 
+currency exchange risks to which foreign investors 
+are exposed. However, it has also been recognised 
+that the financial pressure on the government has 
+been mounting as a consequence of the weakened 
+Mongolian currency. Since 2013, there has been serious discussions 
+in Mongolia with respect to how to address the 
+emerging issues arising from the implementation 
+of the Mongolian Renewable Energy Law over the 
+past eight years and improve the overall enabling 
+environment. As a result, amendments to the law 
+were crafted and the amended law was passed 
+in parliament in June 2015, in hope of enhancing 
+investor confidence in Mongolia’s renewable sector. 
+The key elements in the amendments include: 
+• A support tariff. This will be set by the Energy 
+Regulatory Authority and is intended to pay the 
+premium that was supposed to be covered by 
+the Renewable Energy Fund, as designed by the 
+Renewable Energy Law. 
+• A renewable power mandate for the MoE. The 
+ministry should prepare and approve grid code 
+and regulatory requirements for connection 
+and transmission of electricity from renewable 
+sources. This will help integrate renewables into 
+distribution system. The MoE is also to prepare 
+and enforce standards for renewable energy 
+equipment, operation and maintaence. 
+• Three new mandates for the Energy Regulatory 
+Authority. These include: a) approving a model 
+agreement for use between generators and 
+transmitters and monitoring the implementation 
+of such agreements; b) setting the amount of a 
+support tariff for consumers; and c) estimating 
+energy tariffs after the expiration of a power 
+purchase agreement.23
+• Guidelines for PPAs. A clause added through 
+an amendment to the Renewable Energy Law 
+addresses the issue of lack of maximum limit on 
+the number of years of commitment on the part 
+of the government upon entering into a PPA with 
+a renewable power generators. It stipulates that 
+“the power purchase agreement validity term 
+should be set in accordance with investment 
+payback period”. 
+The legal framework for ensuring dispatch priority 
+of renewables is still missing – an issue causing 
+curtailments in the power output from the first wind 
+farm installed near Ulaanbaatar. 
+Clean Development Mechanism (CDM) and 
+Joint Crediting Mechanism (JCM)
+In 2002, the Government of Mongolia established 
+the National Committee on Climate Change, which 
+was chaired by the Minister of Nature & Environment 
+with high-level representation from the several 
+relevant ministries. The committee has three 
+working groups, including one on public-private 
+partnerships, a Clean Development Mechanism 
+(CDM), and a working group on energy efficiency. 
+Assisting with project development, approval, and 
+implementation of CDM initiatives, the designated 
+national authorities within the CDM included the 
+Ministry for Nature and Environment, Ministry 
+of Fuel & Energy, Ministry of Industry and Trade, 
+Ministry of Finance and Economics, various scientific 
+organisations, NGOs, and the private sector. CDM 
+projects can fall into five categories including heat 
+efficiency, renewable energy, technology transfer, 
+greening or reforestation, and environmental 
+pollution. In 2012, five out of a total of nine CDM 
+projects, or 71%, constituted renewable energy 
+programmes while two or 29% constituted energy 
+efficiency (Dagvadorj, 2012). Registered under the 
+CDM, two hydropower projects including those in 
+Tashir and Durgun, are estimated to reduce emissions 
+by 30000 tonnes of carbon dioxide annually.
+Japan initiated the Joint Crediting Mechanism (JCM) 
+as a tool to complement CDM under the UNFCCC, 
+with the aim of facilitating widespread applications 
+of low-carbon technologies, and ultimately reduce 
+emissions of greenhouse gases. Implementation 
+in Mongolia has been focused on high-tech lowcarbon technologies that can be applied by the 
+private sector in 13 identified sectors. Japan will 
+cover 50% of the project costs and in return will 
+take the carbon reduction credits generated from 
+the subsidised projects till 2020. 
+Nationally Appropriate Mitigation Actions 
+(NAMAs)
+Nationally Appropriate Mitigation Actions (NAMAs) 
+are nationally determined policies and actions that 
+reduce GHG emissions below the business-as-usual 
+scenario. With support from developed countries, provide a practical framework for promotion of 
+sustainable development by selecting mitigation 
+actions that reduce vulnerability to climate change 
+while also supporting the achievement of national 
+development goals. 
+In 2010, Mongolia submitted its NAMAs to the 
+UNFCCC Secretariat. For the energy sector, 
+Mongolia has set the objective of increasing 
+renewable energy options in supply through 
+NAMAs such as installation of large-scale PV 
+systems in the Gobi Desert region, placement of
+100-150 kW wind turbine generators in provincial 
+centres in the southern part, and encouragement 
+for the development of small- and medium-sized 
+hydro power plants.
+Mongolia is preparing to operationalise NAMAs 
+in Mongolia with a list of potential projects being 
+identified in energy intensive sectors such as 
+cement and construction. Energy-efficient lamp 
+bulb substitution is also one focused area. 
+Intended Nationally Determined Contribution 
+(INDC)
+Intended Nationally Determined Contributions 
+(INDCs) are designed to complement existing 
+schemes, such as CDMs and NAMAs, following the 
+principle that each participating country should 
+choose actions in accordance with its own capacity 
+and interest. Such contributions are intended to 
+reduce GHG emissions and can also enhance a 
+country’s capacity to adapt in the changing climate. 
+By 1 October 2015, the pledges received amounted 
+to 119 INDCs, representing 86% of global GHG 
+emissions. 
+Mongolia has submitted an INDC (UNFCCC, 2015), 
+which underlines the country’s political commitment 
+to join global efforts to keep the increase of mean 
+surface temperatures within a limit of 2°C, or even 
+1.5°C, by the end of this century. The proposed 
+actions on renewable energy include the targets set 
+in state policy on energy (Parliament resolution No. 
+63, 2015), which is in line with green development 
+policy approved in 2014. 
+More specifically, to achieve the targets, an 
+and 145 MW solar PV power generation capacities, 
+would be added, which would require investment of 
+USD 2 500 million, according to the analysis based 
+on IEAP (Long-range Energy Alternative Planning) 
+model and IPCC cost data. 
+Strategies for Development of Green Energy 
+Systems in Mongolia
+In 2012, the Government of Mongolia announced 
+that green development would be the new economic 
+development strategy of the country. To facilitate 
+this, the government established the MEGD. The 
+Global Green Growth Institute (GGGI) is assisting 
+Mongolia in developing and implementing a national 
+green growth plan within the transport and energy 
+sectors. The Strategies for Development of Green 
+Energy Systems in Mongolia project was completed 
+in early 2014 by the GGGI in collaboration with the 
+Mongolian government, Stockholm Environment 
+Institute, and the United States. 
+With the objective of promoting the development 
+of green energy systems in Mongolia, the project 
+developed a quantitative computer model for 
+determining Mongolia’s potential energy future 
+and GHG emissions through 2035. The model was 
+used to generate predictions for Mongolia’s energy 
+and GHG in four different scenarios. The reference 
+scenario provided a case for continued use of coalbased energy systems and predicted an estimated 
+fourfold growth in annual GHG emissions along with 
+a 200% increase in energy consumption by 2035. 
+On the opposite end of the spectrum, the Visionary 
+Shift in Energy Exports Scenario developed based 
+on Long-Range Energy Assessment Planning 
+(LEAP) model results provided a case for 
+widespread incorporation of extensive wind and 
+solar power generators in line with the country’s 
+strategic vision, which is to transform Mongolia into 
+a key net green energy exporter in the region. To 
+achieve this ultimate goal, exporting coal should 
+be replaced by renewable electricity. This scenario 
+becomes increasingly plausible, as China is moving 
+towards curbing its emissions and combat local/
+regional pollution caused by coal burning. The 
+bilateral exportation of electricity is expected to be 
+extended to the regional level – the core concept of KEY CHALLENGES AND 
+RECOMMENDATIONS 04
+Through the RRA process, participants identified challenges hampering the 
+development of renewable energy sources in Mongolia and subsequently helped 
+to formulate recommendations to address those challenges. The present chapter 
+outlines those key challenges and recommendations.
+4.1 Core Elements of the Enabling Environment
+To tap Mongolia’s vast renewable energy resources, the government has set ambitious 
+targets for development of the sector. With existing policies, as well as extensive 
+discussions among policymakers about further green growth development, Mongolia 
+appears to be on the right track to accelerate the development of renewables.
+However, scale-up has yet to take off. Projects prepared or planned by private 
+investors and developers still encounter challenges. Yet enthusiasm in the private 
+sector remains high for Mongolian renewable energy development. Energy experts 
+estimate that about 450-500 MW of wind and solar PV generating capacity could 
+be installed comparatively easily, if certain uncertainties about current investment 
+were removed, and if national and local renewable energy policies would be 
+implemented in a co-ordinated and consistent way. 
+Challenges
+The Renewable Energy Law has not been strictly enforced. With the 
+introduction of the Renewable Energy Law in 2007, FiTs for various renewable 
+energy technologies were established. Incentives from the FiT programme 
+have prompted the initiation of several solar and wind farm projects by private 
+companies. However, room for improvement has been identified after years of 
+operation following passage of the law. For example, two major issues related which was resolved in the amendment of the law 
+passed in June 2015.
+Another relevant issue is the currency used for FiTs. 
+In the law, it stipulates that FiTs shall be paid in US 
+dollars, which favours foreign investors by eliminating 
+their currency exchange risk. The government was 
+originally intended to encourage foreign investments 
+in renewable energy projects in Mongolia. This 
+has been well received by foreign investors and 
+developers, and should be sustained. However, when 
+the Mongolian currency depreciated against the dollar 
+dramatically in previous years, the financial pressure 
+on the government to pay the investors in dollars for 
+renewable electricity began to mount. 
+At present, a major issue is the insufficient financing 
+for renewable energy projects by the government 
+through the Renewable Energy Fund, which 
+was created by law but remains on paper until 
+now. Without a replenishable source to cover the 
+incremental cost and the mounting pressure on 
+governmental fiscal budget, future investments in, 
+and expansion of, renewable energy applications in 
+Mongolia may be discouraged. 
+General recommendations
+Long-term price guarantees, provided through either 
+law or PPA, could reduce the risks associated with 
+investment in renewables, especially in the absence 
+of sufficiently developed financial markets and 
+products for risk hedging. If adequately supported 
+by independent and accountable institutions, 
+reliable and transparent policy formulation, 
+this could serve as an effective mechanism for 
+facilitating project developers or investors to gain 
+access to bank loans on favourable terms. 
+In addition to the long-term price guarantee, the 
+government needs to allocate sufficient funds to 
+establish a well-designed and managed fund that 
+ensures foreseeability, transparency and fairness. 
+Along with budget allocation, the government 
+would also need to take necessary measures to 
+raise and secure funds by ensuring the existence of 
+adequate support policy for the long-term use of 
+soft loans and making special requests for technical 
+assistance and grants from international financial 
+ACTION 1: Investigate the potential of 
+a renewable energy quota system 
+The feasibility of applying a quota system in 
+Mongolia should be studied. Such a system 
+would enable the creation of a market 
+fostering renewable power generation and 
+facilitate the achievement of the renewable 
+energy targets set by the government. A 
+system with tradable quotas, also known 
+as the Renewable Portfolio Standard or 
+tradable green certificates, assigns quota 
+obligations for power grid enterprises, largescale power-invested enterprises and local 
+governments, whereby a certain percentage 
+of their electricity must be generated from 
+renewables, either directly or by purchasing 
+renewable electricity credits.
+The quota system has to be carefully designed, 
+managed and adapted in order to become a 
+cost-effective policy scheme. One of the main 
+benefits of this scheme is the fact that price 
+discovery can be partially market-based and 
+technology neutrality can ensure least-cost 
+choices by investors. 
+Among governmental support tools, quotas 
+apply the most market-based approach. The 
+ability to trade certificates also allows for 
+regional approaches across borders, providing 
+the potential for further cost reductions. 
+Extra costs associated with some renewable 
+investments are often passed on to electricity 
+consumers, eliminating any obligation for the 
+government to pay, or for suppliers and/or 
+investors to accumulate debt.
+Quotas can be a strategic move in preparing 
+the country for a regional renewable electricity 
+market, assuming the cross-border power 
+grid infrastructure can be developed with 
+neighbouring China, where a similar scheme 
+is under way. A regional market for tradable 
+renewable electricity certificates would 
+provide an additional stream of revenue to 
+Mongolia. 4.2 Grid Assessment for the 
+Integration of Variable Renewables
+Challenges
+Lack of knowledge about current grid status raises 
+grid-stability concerns. The Central Energy System 
+grid has been dominated by coal-fired power plants. 
+With Mongolia’s first wind farm in operation for 
+nearly two years, the grid operators have gained 
+some experience in dealing with variable renewable 
+sources and have also encountered some challenges. 
+What worries Mongolian energy experts and grid 
+operators is what could happen if more variable 
+renewable energy is put on-line, and how to deal 
+with the flexibility constraints that could ensue. 
+ACTION 2: Allocate financial resources 
+for renewable energy promotion in the 
+annual government budget
+The annual centralised budget of the 
+government must include funds to maintain 
+support policies such as soft loans and 
+technical assistance. Developing a publicprivate partnership can help raise grants 
+from international financial institutions, donor 
+countries and private investors. Income tax 
+rebates and credits for renewable energy 
+projects, in particular import tax reductions 
+for imported components and parts for 
+renewable energy equipment may further 
+encourage investment and accelerate the 
+deployment of renewables. The budget for 
+securing the Renewable Energy Fund could 
+be stocked from a portion of the revenue from 
+taxes on air pollution or fossil fuels, mining 
+revenues, or electricity tariffs.
+ACTION 3: Conduct a power-system 
+status assessment and a study on grid 
+integration 
+A survey was conducted before the first wind 
+farm project was initiated, yielding the rather 
+conservative result of about 10% variable 
+System could take on. At the other end of 
+spectrum, some experts estimated that the 
+Central Energy System can accommodate 
+more than 150 MW each of wind and solar 
+PV, representing about 30% of the current 
+total installed capacity. 
+From an energy planning perspective, there 
+is a need to conduct a power-system status 
+assessment to better understand which part 
+of the grid can connect variable renewables 
+without causing grid stability issues. The focus 
+can be extended from centralised wind farms 
+to distributed generation including both smallscale roof-top and utility-scale solar PV farms 
+in place of substations. Power flow and stability 
+analyses are needed, so as to provide a better 
+understanding of how connecting variable 
+renewable sources affects the grid. This would 
+ensure such small-scale systems are safely 
+accommodated, if and when Mongolia opens 
+up its generation business to distribution 
+companies by allowing them to install solar/
+wind systems within their service areas. 
+This analysis can help grid operators predict 
+the grid response to solar or wind generation 
+inputs at various points and different 
+penetration levels. Computer modelling will 
+help the grid operator, namely the NDC, 
+establish the criteria that installations must 
+meet before being allowed to connect. 
+However, computer models can address only 
+part of the concern. The current state of the 
+infrastructure and the quality of service, 
+therefore, are important to asses. This 
+avoids adding present network operational 
+problems to the issues associated with 
+integrating variable renewables. 
+The following should be included: 
+• Diagnostics of present infrastructure 
+including generation, transmission and 
+distribution networks.
+• Grid assessment studies providing 
+definitions of key unknowns:
+o hosting capacity (at system and understanding of the root causes of the issues they 
+encounter, and mobilise necessary resources to not 
+only address them but also prevent occurrence of 
+future challenges through strategic energy planning. 
+However, public funding cuts imposed by the 
+government for research, development, and 
+demonstration of renewable technologies, as well 
+as for resource assessment, has weakened the 
+capacities of energy institutions in Mongolia. 
+There are, however, young graduates who are 
+trying to enter the Mongolian renewables sector. 
+There are two public universities where Bachelor’s, 
+Master’s and Doctorate degrees in Renewable 
+Energy can be obtained: the Mongolian University 
+of Science and Technology, Power Engineering 
+School; and the National University of Mongolia, 
+School of Applied Physics and Engineering. 
+Currently, more than 60 students graduate from 
+public and private universities in Mongolia with 
+a specialisation in the field of renewables every 
+year. In addition, there are renewable energy 
+specialisations in private schools, with 30-40 
+students trained per year. However, only a minority 
+of the new graduates manage to find renewable 
+energy-related jobs, mainly due to lack of the 
+practical experience that employers require from 
+applicants. Skills of technicians, competence of 
+skilled employees, and the economic ability of 
+institutions are often insufficient with respect to 
+project implementation (GTZ report, 2009). 
+General recommendations
+Government support to fund training, research 
+and development, demonstration of technologies 
+and resource assessments will play a critical role in 
+determining whether renewable energy continues 
+gain market share and can eventually become 
+competitive with fossil-fuel technologies. This is 
+especially true in the case of Mongolia, where there 
+is an abundant supply of coal. 
+Therefore, to ensure that the institutional and 
+human capacity for renewable energy development 
+in the country can be sustained, the capacity of the 
+NREC of Mongolia ought to be reviewed against this 
+backdrop. With that, specific capacity enhancement 
+4.3 Institutional and Human 
+Capacities
+As the use of renewable sources rises, equipping 
+officials in governmental energy authorities, 
+practitioners, researchers, university graduates, 
+politicians, political advisers with updated knowledge 
+on subjects such as cost reduction, technological 
+advancement, subsidy issues, policy schemes and 
+potential environmental concerns, has increasingly 
+become important. This requires enhancement of the 
+institutional and human capacities of the Mongolian 
+renewable energy sector. 
+Challenges
+The country needs fully functional institutions for 
+renewable energy. Although renewable energy 
+is not a completely new sector in Mongolia, only 
+a few skilled employees are able to undertake 
+both management and planning functions and to 
+perform financial analyses. Over the past years, it 
+has been evident that there is a growing need to 
+enhance the technical and co-ordination capacities 
+of energy sector institutions in Mongolia to address 
+the emerging issues arising from the increasing 
+deployment and integration of renewables into 
+the energy system. This much-needed capacity 
+enhancement would also help the MoE as well as 
+o expansion requirements and network 
+operational measures;
+o PV/renewable energy deployment 
+plans, in line with current hosting 
+capacity and recommended 
+measures;
+o technical interconnection requirements 
+(at rooftop and system level).
+• Recommendations on technical 
+interconnection requirements to support 
+grid operation. 
+The results could also help policy makers 
+develop suitable policy schemes to support 
+the integration of variable renewables into 
+the power system. the MoE by focusing on providing advisory services 
+to the government through effective co-ordination 
+and co-operation with other energy sector entities.
+Moreover, there is an urgent need for the country 
+to devise key strategies for capacity building 
+and growth of its renewable energy sector. The 
+strategies should address evolving needs of the 
+sector in the short-term (1-2 years) and mediumterm (3-5 years), and at different levels, namely 
+regarding institutional and human capacities.
+ACTION 4: Establish a national 
+research, development and training 
+facility for renewable energy 
+development 
+A strong national renewable energy facility, 
+integrating research, development and 
+training services, can play a pivotal role in 
+accelerating the scaling up of renewables in 
+the country in the present and future context, 
+when more large-scale renewable energy 
+systems are installed. For example, there is 
+going to be a growing need to understand 
+the behaviour of variable renewable sources 
+on the grid, and if and when curtailment 
+becomes inevitable, a third-party assessment 
+will be necessary. The proposed facility would 
+have an important role to play in resolving 
+such disputable issues. 
+Such a facility can be built on the basis of 
+the existing NREC,24 based on the results 
+from the review of the NREC’s capacity and 
+functionality. The best approach needs to 
+be determined for the establishment of the 
+new facility. One possible way is to make 
+it part of the current NREC with necessary 
+restructuring and reorganisation. A key 
+element is that such a facility can be part of 
+the governmental system, partially owned 
+by the government, and therefore can be 
+eligible to access the government budget to 
+provide financial support for research and 
+development activities, which is important for 
+24 Formerly the Renewable Energy Corporation, formed 
+a country with a harsh natural environment 
+to which renewable energy technologies will 
+have to adapt. 
+The proposed facility is recommended to 
+develop a geographic information system 
+(GIS)-based renewable energy resource 
+database. This would be publicly available, 
+transparent, and updated on a regular basis, 
+in high resolution, with time series pertaining 
+to energy consumption, demand, and supply 
+trends of the country. Such a database 
+could be useful in potentially modelling 
+and simulating the operation of Mongolian 
+power supply with added renewable energy 
+capacities, which would enhance the capacity 
+to forecast trends for the variable nature of 
+renewables, thereby facilitating planning and 
+investment. The facility could also be well 
+positioned to provide advisory services on 
+energy and grid planning to governmental 
+agencies. 
+In addition, the facility can serve as an 
+interface between Mongolia and the rest 
+of the world when it comes to knowledge 
+exchange, collaboration and establishment 
+of technical standards and quality assurance 
+procedures for renewables in Mongolia. 
+Lastly, given the limited know-how on 
+the technical aspects of operation and 
+maintenance for renewable energy systems 
+in rural areas, the facility should create one 
+unit focused on rural electrification and other 
+energy services that the rural or nomadic 
+population may need. 
+The annual, centralised government budget 
+must allocate sufficient funding for research, 
+development, and innovation of renewables. 
+For instance, adequate funding has to be 
+allocated for the establishment and operation 
+of laboratories at national universities 
+dedicated to research, development and the 
+promotion of renewable energy technologies. 
+If the government decides to proceed with 
+this, potential opportunities ought to be addition to being dominated by coal-fired power 
+plants that are not designed with great flexibility. 
+By largely the same token, the NDC functioning as 
+a grid operator has limited capacity to engage in 
+power regulation from the control room due to the 
+constraints that some power plants/CHPs have in 
+adjusting their production to load variations about 
+two years ago.
+When the first utility-scale wind farm in Mongolia 
+came on-line in 2013, the NDC had to deal with 
+greater challenges; especially during the night, 
+when energy demand was low while wind electricity 
+generation was high. The NDC has chosen to give 
+priority of dispatch to the electricity generated by 
+thermal power plants and put curtailment on wind, 
+due to the technical and economic constraints that 
+coal-fired steam generators in the thermal power 
+plants might encounter.
+On the technical front, CHP steam turbines are able 
+to respond in seconds to load dropping by having 
+pressure reduction valves engaged. However, 
+if and when the load remains too low and the 
+steam generators at the thermal power plants are 
+suppressed to the minimal level under which the 
+steam generators can operate, a decision has to be 
+made regarding further operation. The prevailing 
+rule is to avoid shutting down the steam generators, 
+as they are not technologically designed for startstop operation, and therefore will have a shorter 
+lifetime than designed/desired.
+Challenges
+The country lacks adequate institutional capacity 
+and a dispatch priority mechanism for renewable 
+energy. The Mongolian energy system in general, 
+and the Central Energy System in particular, is 
+highly complex in terms of significantly varied loads 
+over the period of a day as well as seasonally, in 
+such renewables-focused laboratories and 
+the proposed research facility. 
+Looking forward, functions such as advisory 
+services for investors can eventually be 
+operated on a commercial basis while services 
+such as drafting energy policies for the MoE 
+can remain as part of the mandates given 
+to the NREC. Thus, the centre can act as the 
+branch of the ministry to provide technical 
+advisory services to other ministries and also 
+co-ordinate with other energy institutions 
+such as the NDC on various renewablesrelated issues. However, support from the 
+government as well as the donor community 
+is necessary, particularly in the initial phases 
+of establishing the proposed research facility. 
+The team can be set up with the help of 
+IRENA and other contributors. From an economic perspective, shutting down and 
+re-starting a steam generator/boiler is prohibitively 
+costly. The high costs associated with the shutdownrestart are additional to the revenue loss caused by 
+the reduced amount of electricity produced from 
+thermal power plants compared to what would 
+otherwise be the case. Lastly, if the curtailment is 
+not applied while the Mongolian power grid cannot 
+take it, another option is to export it to Russia at 
+nearly zero value. In this case, Mongolia could even 
+face Russian penalties, as the country is required 
+to submit its import/export schedule in advance. In 
+case of any deviation from the schedule, a penalty 
+is imposed. 
+Having said that, as the newer CHPs are gradually 
+put on line, there is a good opportunity for the 
+conventional base-load power plants to follow the 
+load and adapt to the impacts of variable renewable 
+electricity. As far as the grid operators are 
+concerned, there is a need for the NDC to overcome 
+the increasing technical difficulties presented by 
+variable renewable sources and receive dispatch 
+training that can help guarantee priority of access 
+to renewable power. 
+In addition, thermal power plants lack incentives to 
+make efforts to adapt the new load profiles, taking 
+into account variable wind power outputs. 
+General recommendation
+With a growing share of variable renewable 
+sources in the grid, new techniques and tools for 
+grid operators to deal with the variation have been 
+developed. This has provided potential solutions for 
+the grid to take in high shares of variable renewables 
+without jeopardising grid stability. The Mongolian 
+dispatch centres should keep abreast of the best 
+available practices and tools and also be involved 
+grid stability studies, if any. 
+First of all, the grid operator, i.e. Mongolia’s NDC, 
+needs to overcome the increasing technical 
+difficulties presented by variable renewable 
+sources. To enable the NDC to do so, there is a need 
+to enhance the operational capacity of the dispatch 
+centre to deal with large-scale on-grid variable 
+renewables to ensure priority of access to renewable 
+ACTION 5: Enhance National 
+Dispatching Center capacity
+There is a need to enhance the capacity of the 
+dispatch centre to deal with large-scale ongrid variable renewables and ensure priority 
+of access to renewable sources. This has to be 
+improved in both physical and regulatory terms. 
+Improving power grid infrastructure
+Physically, the Mongolian power system 
+needs spinning reserves to make the grid 
+more flexible as a means to address the 
+variability of renewable power outputs. A 
+more advanced control system is needed to 
+regulate outputs from power plants directly 
+from the control room of the dispatch centre. 
+If this is done well, the present load issue 
+can be less problematic in future, although 
+it does have adverse impacts on the financial 
+and technical performance of the wind farm 
+at the moment. 
+Defining clear operational rules
+Current dispatching regulations need to 
+be revised and analysed after taking into 
+consideration the significant fluctuations in 
+renewable power output that could impede 
+a low-cost daily supply-load balance. Based 
+on that, the operational rules for dispatch 
+orders should be clearly defined in favour 
+of maximising the injection of electricity 
+from renewable sources into the grid under 
+the condition that grid stability is not 
+compromised. 
+Integrating a wind forecasting programme 
+into NDC operations
+The NDC needs to know which units, including 
+compensate the economic loss that would occur 
+when CHPs have to operate under reduced load 
+because of high outputs from variable renewable 
+electricity generation facilities. 4.4 Developing Cross-border Grid 
+Infrastructure to Export Renewable 
+Electricity 
+The Mongolian power system is in great transition 
+with the increased use of renewable-based systems 
+to replace coal-fired power plants, moving both 
+domestically and regionally (albeit at a more 
+gradual pace) to maximise the utilisation of its vast 
+amount of renewable energy sources, particularly 
+in the Gobi Desert region. With the rising demand 
+for cleaner energy sources in China and the other 
+countries in the northern Asian region rises, 
+Mongolia recognises the opportunity to reach its 
+strategic goal of becoming an exporter of renewable 
+electricity in the region. 
+Challenges
+A comprehensive feasibility study is needed 
+with a focus on techno-economic analysis. The
+notion of exporting Mongolian low-cost renewablebased electricity from the Gobi Desert to 
+developers. However, due to the large geographical 
+extent of the Gobi Desert region, along with the 
+projected high upfront costs, the ASG project 
+is facing an extraordinary set of technical and 
+political challenges that hinder the progress of 
+the project beyond its preliminary phase. Serious 
+considerations of the technical, political, and socioeconomic requirements, barriers, and implications 
+must be carefully studied in order to successfully 
+realise the potential of the ASG. These can include 
+conducting detailed renewable energy resource 
+assessments and determining the optimal land use, 
+grid conditions, and location of dispatch centres. 
+A few preliminary studies on the issue of grid 
+integration in northeast Asia have been completed 
+by the Asia Pacific Energy Research Centre 
+(APERC), the Korean Electrotechnology Research 
+Institute (KERI), the Siberian Energy Institute of 
+Russia and the Energy Charter. These reports 
+identify the potential benefits and barriers to grid 
+interconnection, but do so mainly from a research 
+perspective. Initial studies indicate that Gobitec/ASG 
+is technically and economically feasible. However, a 
+comprehensive feasibility study to present different 
+options with detailed techno-economic analysis has 
+yet to be conducted, ideally with the involvement of 
+the governments of the relevant countries. 
+Recommendations
+Further progress in Gobitec/ASG strongly depends 
+on detailed feasibility studies with close regional 
+co-operation in the north eastern Asian region. 
+Forming an electricity market in the region requires 
+significant effort and negotiations to eliminate 
+the physical, trade and regulatory barriers. As the 
+countries have different energy targets and policy 
+structures, the processes involved may present 
+obstacles.
+A convincing feasibility study will help the relevant 
+nations understand the cost and long-term benefits 
+of materialising this idea. With increasing pressure 
+on reducing carbon emissions and conventional 
+pollution from coal-fired power plants, the need for 
+renewable electricity has been growing substantially 
+over the past few years. This has been coupled 
+with growth in electricity demand. Therefore, the 
+coming days, hours and minutes. Therefore, 
+to accurately forecast the available wind 
+resource is particularly important for the 
+grid operator. An advanced wind resource 
+forecast software/programme needs to be 
+integrated into the NDC operation. 
+Enhancing the technical skills of 
+operational staff
+Training sessions are recommended for grid 
+operators on the use of simulation tools to 
+facilitate dealing with a greater share of solar 
+and wind power in the grid. The capacity of 
+dispatch centres can be further enhanced 
+with forecasting techniques, such as dayahead or six-hour-ahead forecasting and 
+with the introduction of technical standards 
+for renewable energy equipment and the 
+operational behaviour of renewable power 
+plants in the grid code. Appropriate tools 
+should be made available and a series of 
+training programmes should be carried out. ACTION 6: Form a consortium to 
+conduct a feasibility study 
+Specifically, a consortium should be formed 
+among relevant countries, with support 
+from the national governments in those 
+countries, to conduct a comprehensive 
+feasibility study. Gobitec will be relying 
+mostly on large-scale wind and solar energy 
+projects within the Gobi Desert region for 
+potential energy exports to China, Japan, 
+the Republic of Korea, and the Democratic 
+People’s Republic of Korea. Since there is no 
+grid infrastructure in the Gobi Desert region, 
+the economics and technical requirements 
+for the development of the regional grid 
+infrastructure need to be considered in the 
+feasibility study. Experiences from other 
+regional energy initiatives can be leveraged 
+and best practices can be applied, depending 
+on domestic suitability.
+Such a study should involve regional and/
+or international organisations where a 
+multilateral platform can be provided. Such 
+an international platform can help provide 
+legal guarantees for participating countries, 
+investors and other stakeholders; can help 
+in the alignment of their renewable energy 
+targets; can provide a joint platform for 
+electricity exchange with a harmonised set 
+of trade and transit rules; and can improve 
+the investment climate. The most important 
+objective of the consortium is that cooperation should be structured in such a way 
+that facilitates the equal distribution of project 
+benefits among all participants, and assesses 
+engineering challenges and solutions. 
+This means that the national governments 
+in these countries should be more actively 
+involved, and it should be made clear how 
+the feasibility study results would be used, 
+especially in mid- to long-term energy 
+planning and development. International 
+financial institutions, regional financiers 
+and national banks will perceive potential 
+investments as less risky when those are 
+backed or endorsed by a government. 
+With international/regional organisation 
+participation, the investment risk can 
+be reduced by providing a stable and 
+transparent legal framework. Agreements 
+reached on a multilateral basis are less likely 
+to be breached. This setting would, in return, 
+encourage engagement of the private sector 
+for joint implementation of the ASG initiative, 
+which is crucial. The Greater Mekong SubRegional Power Grid Interconnection project 
+aided by the ADB may be a model that can 
+be used to materialise the Gobitec/ASG 
+concept. 
+To mitigate the risks, investments can start 
+with smaller projects, which can subsequently 
+be aligned with the Gobitec/ASG vision 
+after the comprehensive feasibility study is 
+completed. Such projects could be started 
+nationally and then be evolved into bilateral 
+and multilateral projects at a later stage. 
+In order to ensure that various environmental 
+and sustainability aspects are fully considered, 
+a Strategic Environment Assessment (SEA) is 
+recommended for the Gobitec/ASG project. 
+An SEA that works within a structured and 
+tiered decision framework will support a more 
+efficient decision-making process. Since the 
+feasibility study has thus far been conducted 
+only at the preliminary level, further research 
+is needed to identify the optimal technology 
+mix in terms of transmission and generation 
+for the ASG. In parallel, ministerial meetings 
+would allow for consensus building and 
+harmonisation of technology standards for 
+regulatory frameworks. The results from these 
+meetings need to be shared internally within 
+the governments of participating countries. CONCLUDING
+REMARKS05
+Mongolia is at a crossroad. After a few years of rapid economic growth, the 
+increasing concerns over degradation of local environmental quality are 
+triggering discussions on how Mongolia can strike a balance between shortterm economic growth and long-term green development goals. In the Green 
+Development Policy approved by the Mongolian parliament and the State Energy 
+Policy, passed by parliament and published in 2015, renewable energy targets 
+have been set; i.e. a 20% reduction of GHG emissions from the energy sector by 
+2020 and increasing the share of renewables in energy production to 20% by 
+2023, and 30% by 2030. 
+With these strategic policy proposals in mind, there has been a call to review 
+and amend the Renewable Energy Law to push for further development of 
+renewables in Mongolia. Proposed changes were made by the MoE and a further 
+study proposal was made by MEGD in collaboration with the UNFCCC. 
+The study found that reaching the targets and developing Mongolia into a regional 
+clean energy producer and exporter are possible, but challenging. There is a need 
+to look at the issues from a systems perspective. Although renewables are not 
+new to Mongolia, handling the scaling up of renewable energy applications is 
+new to the country’s grid operators and energy planners. In the past, renewables 
+have been small-scale such as solar home systems. 
+Institutional and human capacities should be improved first. Without the relevant 
+renewable energy professionals possessing state-of-art knowledge, Mongolia 
+would have difficulty realising its ambitious strategic goal of becoming the regional 
+clean energy provider. In order to promote further deployment of renewables 
+in the country, the NREC ought to be strengthened through restructuring and 
+reorganisation. A national state-owned research and development (R&D) and policy and legal framework design, technological 
+and technical development and adaptation. It can 
+also provide hands-on experience to graduates, 
+aiding in the development of important human 
+capital. Additionally, the training facility could offer 
+Mongolia’s dispatch centres training sessions on how 
+to deal with grid-connected variable renewables.
+Physical power system enhancement is critical for 
+grid integration of renewable power generators. 
+Without the power grid infrastructure assessment, 
+it would be difficult to know how much and where 
+variable renewables can be accommodated by 
+the grid. In general, the Mongolian system needs 
+to increase its flexibility. But how much depends 
+on grid status, as improvements cost money. Grid 
+assessments focusing on grid stability should be 
+conducted. Based on their results, distributed 
+generation systems can be installed to stabilise the 
+grid. This will also help set up a legal regulatory 
+framework for roof-top (net metering) units, 
+integration code, and technical standards, and 
+support the provision of financial and economic 
+incentives. 
+Mongolia has much more renewable energy potential 
+than is required by its domestic consumers, which 
+is why a regional market should be examined. With 
+the demand of clean energy from neighbouring 
+countries such as China, Mongolia is well positioned 
+to provide renewable electricity through a jointly 
+built regional grid infrastructure.However, further 
+feasibility studies need to be done, with the 
+involvement and support of the relevant countries 
+and collaboration from regional and international 
+organisations. A joint force is needed to set such 
+a huge initiative into motion. Gobitec and ASG 
+implementation will require high-level government 
+commitment and intergovernmental negotiations, 
+first to eliminate physical, trade and regulatory 
+barriers, and further to ensure the creation of a 
+viable electricity market in the region. A highlevel intergovernmental agreement would be an 
+important first step towards meeting the goals of 
+the ASG to build a regional electricity network for 
+northeast Asia, which can support the increased 
+share of renewables. 
+Lastly, since there are many people still living in 
+rural areas across Mongolia, a significant portion of 
+which are likely remain there in the coming years as 
+they follow the lifestyle of nomadic herders, rural 
+electricity remains an important need in Mongolia. 
+Upscaling solar home systems from the existing 
+standard 50 W to 500 W or more is a likely next 
+step. Configuring mini-grids with solar and wind for 
+community and productive use is also critical. Minigrids should be launched in rural areas and can be 
+used for small and medium enterprises as well as 
+agricultural operations. The total capacity of minigrids can be shared among the users, thus leading 
+to lower cost per user compared to the SHS model.
+All in all, given Mongolia’s huge renewable energy 
+sources and its strategic vision for green growth, 
+the development of renewables would be a highly 
+strategic move for the country. With current market 
+and development barriers removed, the potential 
+of renewables can be unlocked and provide vast 
+benefits to the country and wider region. REFERENCES
+ADB (2013), The Mongolian National Masterplan for Energy Sector Development, developed by the Mongolian 
+Ministry of Energy with technical assistance provided by the Asian Development Bank.
+ADB (2015), Mongolia’s Economy to Grow Less in 2015, Weighed Down by Macroeconomic Imbalances. www.adb.org/
+news/mongolia-s-economy-grow-less-2015-weighed-down-macroeconomic-imbalances, (accessed on 20 February 2016).
+Allen, R. W., et al. (2013), “An Assessment of Air Pollution and its Attributable Mortality in Ulaanbaatar, 
+Mongolia”, Air Quality, Atmosphere & Health, No 6, pp. 137-150.
+APCTT UNESCAP (2008), Mongolia: Renewable Energy Report, Asian and Pacific Centre for Transfer of 
+Technology – United Nations Economic and Social Commission for Asia and the Pacific, recap.apctt.org/download.
+php?p=Admin/Country/Report/8.pdf.
+Bloomberg New Energy Finance (2013), Mongolia: A Hungry Wolf Joins Asia’s Energy Tigers, Renewable 
+Energy-Research Note.
+Dagvadorj, D. (2012), “Mongolia’s Perspective on Green Development”, Green Growth Development Paths for a 
+Better Future, joint OECD-GGGI workshop, 22 November, Paris.
+Energy Research Institute National Development and Reform Commission (2015), China 2050 High Renewable 
+Energy Penetration Scenario and Roadmap Study; Executive Summary, www.efchina.org/Attachments/Report/
+report-20150420/China-2050-High-Renewable-Energy-Penetration-Scenario-and-Roadmap-Study-Executive-Summary.pdf. 
+GTZ (2009), Regional Reports on Renewable Energies 30 Country Analyses on Potentials and Markets in: West 
+Africa (17) East Africa (5) Central Asia (8), Energy-policy Framework Papers, Section »Energy and Transport«, 
+www.ecreee.org/sites/default/files/event-att/gtz_re_in_developing_countries.pdf?.
+Guttikunda, S.K., et al. (2013), “Particulate pollution in Ulaanbaatar, Mongolia.” Air Quality, Atmosphere & 
+Health, No 6, pp. 589-601.
+IMF (2013), “World Economic Outlook 2013”, International Monetary Fund, Washington D.C., www.imf.org/
+external/pubs/ft/weo/2013/02/pdf/text.pdf.
+International Energy Charter (2013), “In-depth review of the investment climate and market structure in the 
+energy sector of Mongolia”, www.energycharter.org/what-we-do/investment/investment-climate-and-market-structure/
+investment-in-mongolia-2013/. 
+Lee, T., A. Shiilegmaa and D. Batsuuri(2015), Mongolia Monthly Economic Brief (June 2015), Washington, D.C., 
+World Bank Group, http://documents.worldbank.org/curated/en/2015/07/24829475/mongolia-monthly-economic-briefjune-2015, (accessed on 20 February 2016).
+MENT (2009), Mongolia: Assessment Report on Climate Change 2009, Ministry of Environment, Nature and 
+Tourism of Mongolia. Ulaanbaatar, September 2009, www.unep.org/B9087AD0-BEB4-4BBF-8D8D-9C616B22C938/
+FinalDownload/DownloadId-EB19BD22EF73CF3164BFE87F0CCA2E34/B9087AD0-BEB4-4BBF-8D8D-9C616B22C938/pdf/
+MARCC2009_BOOK.pdf.Minchener, A. (2013), “Energy Issues for Mongolia”, International Energy Agency Clean Coal Centre. CCC/215 
+ISBN 978-92-9029-535-8.
+Mongolian Statistical Information Service (n.d.), Statistical Information, www.1212.mn/en/, (accessed on 20 
+February 2016).
+NSO (2015), National Statistical Office of Mongolia, www.en.nso.mn/index.php, (accessed 19 November, 2015).
+Sarangerel, P., (n.d.), The Potential for Bioenergy Development in Mongolia, Ministry of Fuel & Energy, Mongolia.
+Solarus (n.d.), Inclusive Systems, www.solarus.se/system-inclusive/
+Stackhouse P.W. and C. H. Whitlock (2009), Surface meteorology and Solar Energy (SSE) release 6.0 
+Methodology, NASA SSE 6.0, Earth Science Enterprise Program, National Aeronautic and Space Administration 
+(NASA), Langley.
+State Great Hural of Mongolia (2012), “Resolution by the (Parliament) of Mongolia: Millennium Development 
+Goal-based Comprehensive National Strategy of Mongolia”, (translation version), (12 February 2008), http://
+mofa.gov.mn/coordination/images/stories/resource_docs/nds_approved_eng.pdf.
+UNDP (2012), “The Asia-Pacific Human Development Report 2012, United Nations Development Programme 
+www.undp.org/content/undp/en/home/librarypage/hdr/asia-pacific-human-development-report-2012/.
+UNEP (United Nations Environment Programme) (2009), Mongolia: Assessment Report on Climate Change 
+2009, Ministry of Environment, Nature and Tourism of Mongolia. Ulaanbaatar, September, www.unep.org/pdf/
+MARCC2009_BOOK.pdf.
+UNFCCC (United Nations Framework Convention on Climate Change) (2015), Intended Nationally Determined 
+Contribution (INDC) Submission by Mongolia to the Ad-Hoc Working Group on the Durban Platform for 
+Enhanced Action (ADP), www4.unfccc.int/submissions/INDC/Published%20Documents/Mongolia/1/150924_INDCs%20
+of%20Mongolia.pdf.
+World Bank (n.d.), Access to electricity (% of population), Data,http://data.worldbank.org/indicator/EG.ELC.ACCS.
+ZS?order=wbapi_data_value_2012+wbapi_data_value+wbapi_data_value-first&sort=desc, (accessed 18 September 2015).
+World Bank (2011), Air Quality Analysis of Ulaanbaatar: Improving Air Quality to Reduce Health Impacts, 
+Washington, DC: World Bank. http://documents.worldbank.org/curated/en/2011/12/15580103/air-quality-analysisulaanbaatar-improving-air-quality-reduce-health-impacts-vol-1-2.
+World Bank (n.d.), Mongolia, Data, www.worldbank.org/en/country/mongolia, (accessed 18 September 2015).
+World Bank (2009), Mongolia: Heating in Poor, Peri-urban Ger Areas of Ulaanbaatar, World Bank, Washington, 
+D.C., http://documents.worldbank.org/curated/en/2009/10/16370838/mongolia-heating-poor-peri-urban-ger-areasulaanbaatar.
+World Bank (2008), Mongolia: Power Sector Development and South Gobi Development,
+Draft Report, Economic Consulting Associates, http://siteresources.worldbank.org/INTMONGOLIA/Resources/ECA_
+Report_on_Power_and_South_Gobi_development_ENG.pdf.
+World Economic Forum (2013), World Economic Forum Strategic Dialogue on the Future of Mongolia, www3.

@@ -1,0 +1,2417 @@
+File Name: FSM-NEP-2019-EN
+Year: 2019
+Country Name: Micronesia
+Country Code: FSM
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2019
+Start Year: 2019
+End Year: 2023
+Language: EN
+------------------------------------------------
+
+Federated States of Micronesia
+Volume I
+2012
+Department of Resources and Development
+Division of Energy
+Energy PolicyThe Government of the Federated States of Micronesia
+acknowledges
+the support of the European Union and the Asian
+Development Bank in
+the development of this national energy policy.
+The Government of the Federated States of Micronesia
+acknowledges
+the support of the European Union and the Asian
+Development Bank in
+the development of this national energy policy.
+The Government of the Federated States of Micronesia
+acknowledges
+the support of the European Union and the Asian
+Development Bank in
+the development of this national energy policy.Foreword
+The FSM is fully committed to the mandates of sustainability.
+This is most especially true when we talk about about energy, both in how it is acquired and how it is
+used. As a nation and as a people, we must remain focused on the broadening of the energy base
+and toward a reduction in our dependence on outside sources of energy. If we are to achieve the
+long-term goals laid out in our National Strategic Development Plan, the energy that powers our
+economic and social aspirations of self-reliance must be affordable, reliable and above all, clean.
+Not only our people and governments, but our utilities – the very foundation of our fledgling
+economies – require that we proactively address the energy issue on a number of levels, especially
+for electricity and transportation. The rising cost of fuel, combined with the global economic
+recession has severely impacted the utilities’ ability to provide reliable electricy. Add to this the
+rising cost of equipment and essential supplies needed by our four state utilities, and we can see the
+seeds of long-term financial insolvency of most, if not all of them.
+This has a multiplier effect on the rest of society. Families and businesses all feel the crunch. This is
+why the time is now to improve operational and consumer efficiencies, working toward lowering fuel
+prices by all means possible, increasing revenues across the board, and perhaps most important,
+increasing our use of renewable energy when and where possible.
+The challenges are great, but so too are the possibilities. They are numerous, and this Energy Policy – a first for the nation – is the tool by which we will move forward into an era of enhanced
+alternative energy use throughout society: in governments, in communities, at our schools and
+health centers, and within the private sector and business community.
+I remain committed to leading the way; for the FSM to become a leader in the application of
+economically sound and technically proven alternative means; in the use of renewable energy, in the
+implementation of energy efficiency measures and in the promulgation of incentives and regulations
+that support these aims. We can and must make this happen.
+Let us work together to make it a reality.
+H.E. Emmanuel Mori
+President1 | P a g e
+TABLE OF CONTENTS
+LIST OF FIGURES ............................................................................................................................................... 3
+LIST OF TABLES................................................................................................................................................. 4
+ABBREVIATIONS............................................................................................................................................... 5
+PREFACE AND ACKNOWLEDGEMENTS.............................................................................................................. 7
+CHAPTER I: INTRODUCTION ............................................................................................................................. 8
+1. POLICY STRUCTURE ................................................................................................................................. 8
+2. POLICY SUMMARY .................................................................................................................................. 9
+2.1 GENERAL ......................................................................................................................................................... 9
+2.2 VISION STATEMENT, OBJECTIVES AND GOALS........................................................................................................ 10
+2.3 OVERALL ASPIRATION....................................................................................................................................... 10
+CHAPTER II: NATIONAL CONTEXT AND ENERGY OVERVIEW ........................................................................... 12
+1. COUNTRY OVERVIEW............................................................................................................................ 12
+1.1 GEOGRAPHY ................................................................................................................................................... 13
+1.2 DEMOGRAPHY ................................................................................................................................................ 13
+1.3 CLIMATE ........................................................................................................................................................ 14
+1.4 ECONOMY...................................................................................................................................................... 14
+2. ENERGY SECTOR.................................................................................................................................... 19
+2.1 ENERGY DEMAND ........................................................................................................................................... 19
+2.2 PETROLEUM / CONVENTIONAL ENERGY............................................................................................................... 19
+2.3. RENEWABLE ENERGY ....................................................................................................................................... 22
+2.4 ENERGY COSERVATION & EFFICIENCY ................................................................................................................. 28
+CHAPTER III: POLICY FRAMEWORK................................................................................................................. 29
+1. INSTITUTIONAL AND SYSTEMIC FRAMEWORK ...................................................................................... 29
+2. INSTITUTIONAL ..................................................................................................................................... 30
+2.1 ACTORS AND INSTITUTIONS ............................................................................................................................... 30
+2.2 COORDINATION AND PROGRAM MANAGEMENT .................................................................................................... 31
+2.3 DIVISION OF RESPONSIBILITIES AND ORGANIZATIONAL STRUCTURE ............................................................................. 32
+2.4 OVERALL GOALS.............................................................................................................................................. 332 | P a g e
+3. RENEWABLE ENERGY ............................................................................................................................ 34
+3.1 GOAL ........................................................................................................................................................ 34
+3.2 OBJECTIVES ................................................................................................................................................ 34
+4. ENERGY EFFICIENCY & CONSERVATION................................................................................................. 35
+4.1 GOAL ........................................................................................................................................................ 35
+4.2 OBJECTIVES ............................................................................................................................................. 35
+5. CONVENTIONAL ENERGY....................................................................................................................... 36
+5.1 GOAL ........................................................................................................................................................ 36
+5.2 OBJECTIVES ............................................................................................................................................. 36
+OVERVIEW ACTORS AND INSTITUTIONS ..................................................................................................................... 37
+TABLES & FIGURES ................................................................................................................................................ 42
+WORKS CITED................................................................................................................................................. 513 | P a g e
+LIST OF FIGURES
+FIGURE 1: STRUCTURE OF THE POLICY .............................................................................................................................. 8
+FIGURE 2: STRUCTURE OF THE POLICY ............................................................................................................................ 12
+FIGURE 3: MAP OF THE FEDERATED STATES OF MICRONESIA.............................................................................................. 13
+FIGURE 4: REAL GDP GROWTH IN FSM 1997-2007 ....................................................................................................... 16
+FIGURE 5: WTI CRUDE OIL PRICE (SOURCE SHORT-TERM ENERGY OUTLOOK, FEBRUARY 2010)................................................ 21
+FIGURE 6: GENERATOR OF THE KOSRAE UTILITIES AUTHORITY. (SOURCE: DOI, 2006) ............................................................ 21
+FIGURE 7: INSTALLING SOLAR MODULE RACKS IN THE FSM. (SOURCE: AKKER, 2006).............................................................. 22
+FIGURE 8: HYDRO GENERATORS (NANPIL DAM, POHNPEI) ................................................................................................. 24
+FIGURE 9: HYDRO SYSTEM IN THE NANPIL RIVER, POHNPEI. ............................................................................................... 25
+FIGURE 10: AVERAGE WIND SPEED AT 50M .................................................................................................................... 25
+FIGURE 11: YSPSC CUSTOMER EDUCATION SOURCE: YSPSC NEWSLETTER JULY ‘08............................................................... 28
+FIGURE 12: STRUCTURE OF THE POLICY .......................................................................................................................... 29
+FIGURE 13: POLICY STRUCTURE .................................................................................................................................... 29
+FIGURE 14: PROPOSED INSTITUTIONAL STRUCTURE FOR IMPLEMENTATION............................................................................ 39
+FIGURE 15: MAP OF THE FEDERATED STATES OF MICRONESIA............................................................................................ 404 | P a g e
+LIST OF TABLES
+TABLE 1: PERCENTAGE OF POPULATION AND GDP PER STATE, 2007 (SOURCE: SBOC, 2009)................................................. 17
+TABLE 2: HOUSEHOLD ELECTRIFICATION FIGURES.............................................................................................................. 19
+TABLE 3: CRUDE OIL PRICE SUMMARY (SOURCE: HTTP://WWW.EIA.DOE.GOV/STEO) .............................................................. 20
+TABLE 4: ESTIMATED SOLAR RESOURCES HORIZONTAL PLANE IN KWH/M2/DAY (SOURCE: NASA SURFACE METEOROLOGY AND
+SOLAR ENERGY................................................................................................................................................. 22
+TABLE 5: PERFORMANCE OF GRID-CONNECTED PV SYSTEMS IN PALAU, NAURU AND KOSRAE ................................................... 23
+TABLE 6: INSTALLED PV SYSTEMS UNDER E.U. EDF-9....................................................................................................... 23
+TABLE 7: COPRA PRODUCTION (IN TONS) IN POHNPEI STATE (SOURCE: POHNPEI STATE OFFICE OF THE GOVERNOR).................... 26
+TABLE 8: YAP COPRA EXPORTS IN TONS (SOURCE: 2002 ANNUAL STATISTICAL YEARBOOK, YAP)............................................... 26
+TABLE 9: OVERVIEW ACTORS AND INSTITUTIONS .............................................................................................................. 38
+TABLE 10: GHG EMISSIONS AND POTENTIAL SAVINGS (SOURCE: FSM SEFP COUNTRY REPORT, IT POWER 2006)...................... 42
+TABLE 11: YAP STATE PUBLIC SERVICE CORPORATION – FINANCIAL AND TECHNICAL DATA (POWER GENERATION AND DISTRIBUTION)43
+TABLE 12: KOSRAE UTILITY AUTHORITY – FINANCIAL AND TECHNICAL DATA (POWER GENERATION AND DISTRIBUTION).................. 44
+TABLE 13: POHNPEI UTILITY CORPORATION – FINANCIAL AND TECHNICAL DATA (POWER GENERATION AND DISTRIBUTION) ............ 45
+TABLE 14: CHUUK PUBLIC UTILITY CORPORATION – FINANCIAL AND TECHNICAL DATA (POWER GENERATION AND DISTRIBUTION) .... 46
+TABLE 15: YAP STATE PUBLIC SERVICE CORPORATION – RESIDENTIAL ELECTRICITY RATES TREND (’99 THRU 2011) ..................... 47
+TABLE 16: YAP STATE PUBLIC SERVICE CORPORATION – COMMERCIAL ELECTRICITY RATES TREND (’99 THRU 2011).................... 48
+TABLE 17: YAP STATE PUBLIC SERVICE CORPORATION – GOVERNMENT ELECTRICITY RATES TREND (’99 THRU 2011)9................. 49
+TABLE 18: YAP STATE WIND DATA, JULY 2009 – FEBRUARY 2010..................................................................................... 505 | P a g e
+ABBREVIATIONS
+ACF Advocacy Coalition Framework
+ADB Asian Development Bank
+AMU Association of Micronesian Utilities
+BAU Business as Usual
+CNMI Commonwealth of the Northern Mariana Islands
+CPUC Chuuk Public Utilities Corporation
+DSM Demand Side Management
+EU European Union
+EEM Office of Environment and Emergency Management
+FSM Federated States of Micronesia
+GDP Gross Domestic Product
+GoFSM National Government of the Federated States of Micronesia
+IPIC Infrastructure Planning and Implementation Council
+KUA Kosrae Utilities Authority
+MDG Millennium Development Goals
+NEW National Energy Workgroup
+NGO Non-Governmental Organization
+NSAs NonState Actors
+PetroCorp FSM Petroleum Corporation
+PIC Pacific Island Countries
+PIREP Pacific Island Renewable Energy Programme
+PUC Pohnpei Utility Corporation
+PPA Pacific Power Association
+RMI Republic of the Marshall Islands
+RE Renewable Energy
+REP-5 Support to the Energy Sector in 5 ACP Pacific Islands (EU funded under EDF 9)6 | P a g e
+R&D Department of Resources and Development
+SBOC Office of Statistics, Budget & Economic Management, Overseas Development
+Assistance & Compact Management
+SDP FSM Strategic Development Plan
+SEW State Energy Workgroup
+SHS Solar Home System
+SIDS Small Island Developing States
+SOPAC South Pacific Applied Geosciences Commission
+SPREP Secretariat of the Pacific Regional Environment Programme
+SPC Secretariat of the Pacific Community
+SSM Supply Side Management
+T&I Department of Transportation and Infrastructure (Pohnpei State)
+TC&I Department of Transportation, Communication and Infrastructure (FSM)
+UN United Nations
+UNDP United Nations Development Programme
+US United States of America
+US DOE United States Department of Energy
+USDOI United States Department of Interior
+YSPSC Yap State Public Service Corporation7 | P a g e
+PREFACE AND ACKNOWLEDGEMENTS
+The leadership of the Federated States of Micronesia acknowledged the need for the development of a
+National Energy Policy and Action Plans that would assist the Nation in becoming less dependent on fossil fuel
+and more prepared to withstand the heavily fluctuating energy prices that nearly lead the FSM into a national
+emergency in 2008. The development of this national policy started in July 2008 when the nation’s leaders
+endorsed a resolution during the Chief Executive Council meeting held in Kosrae State to develop a national
+energy policy and have national and state actions plans included. After this initial meeting, the State Governors
+selected the members of the respective State Energy Workgroups and the National Government established
+the National Energy Workgroup. During the first few weeks of the development of the energy policy, several
+workshops and consultations were held and a rough draft policy was presented to the President in July 2009.
+After the draft was considered by the National Government and the four State Governors, the Energy Division
+of the Department of Resources and Development started a new round of consultations to the four FSM states.
+The final development of the policy with the various action plans started in January 2010 with as objective to
+have a policy ready for endorsement by May 2010, with workable and realistic goals and objectives for the
+National Government as well as for the FSM States. The policy contains two Volumes; Volume I covers the
+overarching policy, while Volume II contains the energy action plans. The development and finalization of the
+policy and action plans was completed with considerable effort by many people from the national government
+as well as from the four FSM states.
+The efforts of the following individuals and groups are greatly appreciated: ; H.E. Emmanuel Mori, President of the Federated States of Micronesia, for his endless support and
+personal interest throughout the development of the policy; ; Governor Robert Weilbacher, Kosrae State; Governor John Ehsa, Pohnpei State; Governor Wesley
+Semina, Chuuk State; Governor Sebastian Anafel, Yap State, for their support; ; FSM Congressman Peter Christian, Former Secretary of the Department of Resources and
+Development for his wisdom, patience and strong support during the development of the policy; ; Director Andrew Yatilman, Office of Environment and Emergency Management; ; The European Union for assisting the initial development of this policy and the action plan through the
+9th European Development Funds’ REP-5 Pacific energy program; ; The Asian Development Bank for supporting the development of the energy policy; ; The private sector, state and national governments, College of Micronesia and NGO participants at a
+July 2008 workshop who actively and enthusiastically considered a wide range of strengths,
+weaknesses, opportunities and threats regarding energy issues in the FSM; ; The National and State Energy Workgroups who actively participated in the overall development of
+the policy and action plans; ; Mr.Maderson Ramon, former Asst. Secretary, Department of R&D, Energy Division for starting and
+supporting the development of the energy policy; ; Marieke Kleemans and Peter Konings for their guidance, and professionalism during the development
+of the national energy policy and action plans.
+Marion Henry
+Acting Secretary, Department of Resources and Development8 | P a g e
+CHAPTER I: INTRODUCTION
+1. POLICY STRUCTURE
+Chapter I provides a brief introduction on the structure and summary of the policy. Chapter II
+highlights background information of the FSM such as geography, economics and the energy
+overview. Chapter III contains the detailed policy framework. Chapter IV addresses the National and
+the State Action Plans. Chapters I to III are presented in Volume I while Chapter IV is presented in
+Volume II.
+Figure 1: Structure of the policy
+8 | P a g e
+CHAPTER I: INTRODUCTION
+1. POLICY STRUCTURE
+Chapter I provides a brief introduction on the structure and summary of the policy. Chapter II
+highlights background information of the FSM such as geography, economics and the energy
+overview. Chapter III contains the detailed policy framework. Chapter IV addresses the National and
+the State Action Plans. Chapters I to III are presented in Volume I while Chapter IV is presented in
+Volume II.
+Figure 1: Structure of the policy
+8 | P a g e
+CHAPTER I: INTRODUCTION
+1. POLICY STRUCTURE
+Chapter I provides a brief introduction on the structure and summary of the policy. Chapter II
+highlights background information of the FSM such as geography, economics and the energy
+overview. Chapter III contains the detailed policy framework. Chapter IV addresses the National and
+the State Action Plans. Chapters I to III are presented in Volume I while Chapter IV is presented in
+Volume II.
+Figure 1: Structure of the policy9 | P a g e
+2. POLICY SUMMARY
+2.1 GENERAL
+FSM is highly dependent on imported
+petroleum fuels to sustain its economy.
+Petroleum fuels are used for both electricity
+generation and transportation with the former
+being the major user. In 2008, the FSM
+Petroleum Corporation (PetroCorp) was
+established in a combined effort to achieve
+greater economies of scale and currently
+serves all four FSM states; PetroCorp is a
+wholly government-owned enterprise. The
+impacts of the high fuel prices of 2008 have
+resulted in the rise in the costs of goods and
+services in FSM.
+The Nation currently expends approximately
+40 million dollars annually on imported fuel.
+This amount represents more than 50% of the
+aggregate sectoral grants that the Nation
+receives from the US Government under the
+Compact II Treaty, and nearly 20 percent of
+nominal GDP for the country, marking energy
+as a priority need and the most costly sector
+of its fragile economy.
+Biomass in the form of wood and coconut
+husk products are used for local cooking and
+in most outer island communities, biomass is
+the primary energy source. Renewable energy
+sources are being introduced in the outer
+islands and in the State Centers. PV solar
+energy is being accepted as a sustainable and
+economically viable source of energy
+nationwide, while Pohnpei has hydro energy
+potentials; Kosrae is looking at wave energy;
+Yap is looking at wind power, and Chuuk at
+bio-fuels to broaden the nations’ energy mix.
+The Strategic Development Plan (SDP) for FSM
+provides a road map for social and economic
+development for the next 20 years (2004 – 2023). The SDP has four main objectives:
+1. Stability and Security—to maintain
+economic assistance at levels that
+support macroeconomic stability.
+Achievement of this objective required
+levels of funding close to prevailing levels
+to avoid the large periodic step-downs in
+funding that were a characteristic of the
+first 15-year funding package.
+2. Improved Enabling Environment for
+Economic Growth—to be achieved
+through the FSM commitment to
+economic reform and the provision of an
+enabling environment to support open,
+outward-oriented and private sector led
+development.
+3. Improved Education and Health Status—
+the third objective concerned the use of
+the annual Compact grants to support the
+provision of basic services in education
+and health.
+4. Assured Self-Reliance and Sustainability —to be achieved through the
+establishment of a Trust Fund that would,
+after a period of time, replace the annually
+appropriated transfers from the US.
+Energy is an integral component of the SDP
+and this is clearly noted in all fourobjectives
+mentioned above, particularly when one
+considers abundantly available renewable
+sources. To achieve economic stability and
+security requires a vibrant energy sector, and
+the necessary energy infrastructure to
+promote economic and social development in
+both the State Centers and Out-lying Islands is
+of high priority. Equally, education and health
+services deliveries are contingent on the
+quality of energy infrastructure and services
+available.
+The Energy Policy has been developed based
+on four primary components. These are Policy and Planning, Conventional
+Energy (fossil fuel), Energy Efficiency &
+Conservation, and Renewable Energy.10 | P a g e
+Within these main components the policy
+seeks to achieve these goals:
+1. An effective, coordinated, resilient
+and dynamic joint State and National
+energy sector;
+2. A safe, reliable, cost-effective and
+sustainable energy supply;
+3. An efficient, responsive and
+competitive energy sector;
+4. A diversified energy resource base,
+creating a balanced energy mix; and
+5. The environmentally sound and
+efficient use of energy.
+2.2 VISION STATEMENT, OBJECTIVES AND GOALS
+The National Vision statement for Energy is:
+To improve the life and livelihood of all FSM
+citizens with affordable, reliable and
+environmentally sound energy.
+The National Objective for Energy is:
+To promote the sustainable social and
+economic development of FSM through the
+provision and utilization of cost-effective,
+safe, reliable and sustainable energy services.
+Whereas energy services refer to work
+relating to the sale, supply, storage and
+distribution of energy.
+The Major Goal of the Policy is:
+To become less dependent on imported
+sources of energy by having (1) an increased
+share of renewable energy sources and
+having (2) cross-sectoral energy conservation
+and (3) efficiency standards in place; and
+therefore,
+By 2020 the share of renewable energy
+sources will be at least 30% of total energy
+production, while electricity efficiency will
+increase by 50%. Energy Efficiency referred
+here would also mean reduction of energy
+loss.
+In addition, the following broad goals relate to
+energy services in the FSM:
+- Provision of affordable and safe electricity
+to all the households in the main island
+centers by 2015
+- Electrification of 80% of rural public
+facilities by 2015
+- Electrification of 90% of rural households
+by 2020
+- Enhance the supply side energy efficiency
+of the FSM utilities by 20% by 2015
+2.3 OVERALL ASPIRATION
+In line with the above stated objective, vision
+and major goal, the National Energy Policy has
+indentified the following focal areas:
+ Disadvantaged and/or Geographically
+Remote Communities
+- Encourage the application of appropriate
+support and incentives to enable
+disadvantaged and/or geographically
+remote communities to access affordable
+energy.11 | P a g e
+ Capacity Building
+- Improve adequate and institutional
+capacity to plan, manage, and develop the
+energy sector by providing appropriate
+energy-related training opportunities at all
+educational and professional levels.
+- Accelerate research and development of
+energy technologies that are appropriate
+for adoption within the nation and
+facilitate international transfers of
+appropriate technologies that the nation
+is capable of operating and maintaining.
+- Assess and promote indigenous resource
+potential and technical capacity for all
+aspects of energy sector planning and
+development.
+ Public Awareness
+- Increase training and public awareness on
+renewable energy and fuels for vehicles,
+energy efficiency, and conservation
+through publicity campaigns and school
+curricula.
+ Private Sector Involvement
+- Enhance public-private partnerships and
+expand private sector participation,
+investment, ownership, and management
+for energy supply including electricity
+generation, transmission and distribution
+with job creation in mind.
+- Establish an enabling and competitive
+environment for the introduction of
+independent energy providers where
+these may provide efficient, reliable, and
+affordable service to consumers.
+ Community Level initiatives
+- Promote involvement and input from non- government organizations and local
+communities, including youth and women,
+in policy implementation and integrated
+planning.12 | P a g e
+CHAPTER II: NATIONAL CONTEXT AND ENERGY OVERVIEW
+Figure 2: Structure of the policy
+1. COUNTRY OVERVIEW
+In 1986 the Federated States of Micronesia was created and gained independence from its former
+administrator, the United States. Five years after the birth of the nation, the FSM joined the United
+Nations in 1991 (GoFSM, 1997).1 From west to east, it stretches about 2,700 kilometers, and is
+located in the western Pacific Ocean between the equator and 14 degrees North latitude (Figure 2). With a total population of 107,000, there are four states in the FSM – Yap, Chuuk, Pohnpei and
+Kosrae. Each State maintains considerable autonomy for their own development strategy, while the
+national government provides an integrated prospective and vision, which is described in the FSM
+National Development Plan (GoFSM, 1997). Except for Kosrae, each state consists of a State center,
+which is often the largest island, and a multitude of outer islands. The FSM has a total of 607
+islands, 74 of which are inhabited.
+1 This section builds heavily on GoFSM, 1997
+12 | P a g e
+CHAPTER II: NATIONAL CONTEXT AND ENERGY OVERVIEW
+Figure 2: Structure of the policy
+1. COUNTRY OVERVIEW
+In 1986 the Federated States of Micronesia was created and gained independence from its former
+administrator, the United States. Five years after the birth of the nation, the FSM joined the United
+Nations in 1991 (GoFSM, 1997).1 From west to east, it stretches about 2,700 kilometers, and is
+located in the western Pacific Ocean between the equator and 14 degrees North latitude (Figure 2). With a total population of 107,000, there are four states in the FSM – Yap, Chuuk, Pohnpei and
+Kosrae. Each State maintains considerable autonomy for their own development strategy, while the
+national government provides an integrated prospective and vision, which is described in the FSM
+National Development Plan (GoFSM, 1997). Except for Kosrae, each state consists of a State center,
+which is often the largest island, and a multitude of outer islands. The FSM has a total of 607
+islands, 74 of which are inhabited.
+1 This section builds heavily on GoFSM, 1997
+12 | P a g e
+CHAPTER II: NATIONAL CONTEXT AND ENERGY OVERVIEW
+Figure 2: Structure of the policy
+1. COUNTRY OVERVIEW
+In 1986 the Federated States of Micronesia was created and gained independence from its former
+administrator, the United States. Five years after the birth of the nation, the FSM joined the United
+Nations in 1991 (GoFSM, 1997).1 From west to east, it stretches about 2,700 kilometers, and is
+located in the western Pacific Ocean between the equator and 14 degrees North latitude (Figure 2). With a total population of 107,000, there are four states in the FSM – Yap, Chuuk, Pohnpei and
+Kosrae. Each State maintains considerable autonomy for their own development strategy, while the
+national government provides an integrated prospective and vision, which is described in the FSM
+National Development Plan (GoFSM, 1997). Except for Kosrae, each state consists of a State center,
+which is often the largest island, and a multitude of outer islands. The FSM has a total of 607
+islands, 74 of which are inhabited.
+1 This section builds heavily on GoFSM, 199713 | P a g e
+1.1 GEOGRAPHY
+The islands in general can be categorized into
+two types of landscape. The state centers of
+Pohnpei, Chuuk Lagoon and Kosrae are high
+volcanic islands with steep and rugged
+uplands. Most outer islands and the State
+center of Yap are low coral atolls and
+characterized by gently sloping uplands
+surrounded by swampy lowlands. Due to
+agro-forestry or secondary vegetation, the
+natural upland forests, which once covered
+the islands, are disappearing fast.
+Today, sizeable forest areas can only be found
+on the islands of Pohnpei and Kosrae (GoFSM,
+1997).
+Inside the Exclusive Economic Zone (EEZ), the
+marine area of the FSM, which accounts for
+over 2.6 million square kilometers, has
+abundant and diverse resources. While the
+nation consists of 607 islands, its land area
+totals only 701 square kilometers. Besides the
+natural environment, cultures also vary
+considerably between islands. After
+thousands of years since the settlement of the
+islands, there are significant environmental
+and cultural differences involved even within
+the four states of FSM. It is thus that the
+natural environment and especially the
+marine and the land resources have a
+profound and vital influence in shaping the
+physical and cultural life of the inhabitants
+(GoFSM, 1997).
+Figure 3: Map of the Federated States of Micronesia
+1.2 DEMOGRAPHY
+Between 1989 and 1994, FSM has experienced
+an internal migration. With a 10 percent
+increase in total population during this period,
+the population share of Pohnpei, where the
+capital is located, increased by 13 percent, as
+people immigrated to seek economic
+opportunity. On the other hand, Kosrae’s
+share of the population only increased slightly, by 4 percent. In spite of the internal
+movement, the overall population structure of
+FSM remains the same, and the population of
+FSM remains one of the youngest in the
+region, with almost 24 percent of the
+population under 24 years of age. Similar to
+other parts of the world, the median age of
+the population has increased, rising from 16 to
+18 over the last 30 years. The average
+population density in 1994 was 150 persons
+per square kilometer. However, this overall
+figure might be misleading, as the population
+density varies considerably across the nation,
+ranging from 418 per square kilometer in
+Chuuk to a low of 63 per square kilometer in
+Kosrae (GoFSM, 1997).14 | P a g e
+1.3 CLIMATE
+The FSM has a typical tropical climate: stable
+temperature, high humidity and high rainfall.
+The temperature averages between mid 20
+and 30 degrees Celsius, while the humidity is
+on average over 80 percent. Rainfall is in
+general high, but varies geographically, with a
+low record of 3 meters on drier islands to over
+10 meters per year in the mountainous
+interior of Pohnpei. As with many tropical
+islands, there is a wet season (June to
+October) and dry season (November to May)
+in FSM. Occasionally, the western region of
+the country suffers from typhoons (one in 20
+years return period), which can cause serious
+damage to the region such as landslides and
+devastation of vegetation, buildings and
+infrastructure (GoFSM, 1997).
+1.4 ECONOMY
+The FSM is a small and domestic-based
+economy with a market of 107,000 people
+(SBOC, 2009) with modest income (GoFSM,
+1997). The Nominal Gross Domestic Product
+of the FSM in 2006 was $236.9 million. Per
+capita GDP for 2006 was $2,194. The trade
+balance has remained highly negative since
+1997. In 2005, the trade balance was
+estimated at negative $117.2 million, an
+equivalent to 50.5 percent of GDP (DoI, 2006,
+pp. 198).
+The economy of the FSM is mainly determined
+by agriculture, including fishing and every
+related aspect to this (such as the lease of
+fishing rights to FSM waters), government
+employment and tourism. In the period 1997- 2005 the number of visitor arrivals grew with
+almost 10 percent. In 2005, 18,958 people
+visited the FSM. Most of the visitors were
+from the US and Japan, about 40 percent and
+17 percent, respectively, in 2005 (DoI, 2006,
+pp. 198).
+The infrastructure is under-developed and
+cannot meet the demands of the growing
+population and the condition of the
+infrastructure is poorly maintained due to
+severe limitations on the availability of
+government local revenue funds (GoFSM,
+1997).
+SECTORAL DEVELOPMENT
+Except for the offshore fisheries, there
+limited resources in the FSM. Except for the
+wholesale/retail and service industries, the
+private sector is under-developed and the
+FSM has a large external trade deficit. The
+country is very dependent on external aid and
+on the public sector for providing jobs and
+government expenditure. In the FSM National
+Development Plan (SDP), the government
+acknowledged the distinct dichotomy
+between the cash and traditional economies
+(GoFSM, 1997). The commercial sector is
+characterized primarily by small businesses, with only a few larger public companies, co- operatives and credit unions. Most of the
+family-based businesses focus on commercial
+import/export, wholesale and retail business.
+Alternatively, the families might also engage in
+small service enterprises, such as restaurants,
+taxis, car rentals, repair and maintenance, etc.
+Only a few have ventured into the industrial
+sector (GoFSM, 1997). Thus the FSM economy is dominated by the
+public sector as the primary sector of
+economic activity. The government provides
+one third of total employment, while the
+agriculture and fisheries industries together
+account for 28 percent of the jobs.15 | P a g e
+14,400 persons are estimated to be involved
+in the cash economy, and half of them are
+engaged in the public sector, mainly operating
+public facilities, engaging in construction work
+(through government infrastructure projects)
+as well as supporting community services. As
+the public wage in general is considered to be
+significantly higher than the comparable work
+in the private sector, this has suffocated the
+entrepreneurial growth and technical skills
+development which could in fact help to
+increase the efficiency of production and
+export service sectors of the economy. The
+scattered consumer markets and the lack of
+adequate transportation infrastructure have
+contributed to the minimal trade between
+states. Agricultural products are the primary
+goods traded within FSM, as well as for
+export, with sakau (kava), betelnut and citrus
+being some of the primary products (GoFSM,
+1997).
+FINANCIAL TRANSFERS FROM THE US
+Economic development in the FSM needs to
+be analyzed in the context of the Compact
+Agreement with the United States, as it is
+heavily dependent on the financial assistance
+provided under the Compact of Free
+Association (DoI, 2006, pp. 198). The Compact
+since 1986 has provided large external
+financial transfers to support the operations
+of the Government of the FSM and substantial
+public sector investment at the State level. Compact economic assistance, initially meant
+to last 15 years until 2001, was characterized
+by reductions in grant funding of 15 percent
+after 5 years and 22 percent after 10 years.
+Transfers were partly indexed to United
+States’ inflation, resulting in an overall
+average real decline in resource flows of 4
+percent per year. The Compact was extended
+for a further two years through fiscal year
+2003 during renegotiations (DoI, 2006).
+The Compact was designed to assist the FSM
+with infrastructure and development of its
+economy. Infrastructure development had
+been successful but the development of a self
+sustaining economy had only very limited
+success. Roads, electric utilities, harbors,
+airports, schools, hospitals and public facilities
+were all constructed during the 15 years of
+Compact I. Kosrae, Pohnpei and Yap have
+maintained their facilities in a responsible
+manner and have expanded their facilities.
+Chuuk has not performed as well (DoI, 2006,
+pp. 198).
+In 2003 the United States and FSM entered
+into an Amended Compact II agreement,
+wherein FSM receives payments of $92.7
+million per year from the United States with
+$76.2 million being in the form of grants and
+$16.0 million to be placed in a trust fund and
+$500,000 allocated each year for an annual
+audit. The trust fund is expected to increase
+and become a permanent interest-bearing
+fund such that after Compact II expires in
+2023 the trust fund will provide the same level
+of income available to FSM as the present
+Compact II (DoI, 2006, pp. 198). However,
+current financial trends indicate that the FSM
+Trust Fund will not provide such funding
+required after 2023, when the current
+Compact ends.16 | P a g e
+Figure 4: Real GDP growth in FSM 1997-2007
+(Source:http://www.spc.int/prism/country/fm/stats/Eco
+nomic/NAacc't/gdp-summary.htm)
+Already at the start of Independence in 1987
+the economy depended strongly on Compact
+flows, representing 88 percent of the
+country’s gross domestic product (GDP).
+Because the non-traded goods production
+dominated the private sector, the export
+volume was negligible and the tourism sector
+was still in its early stage. From then onwards,
+GDP grew 1.6 percent annually and the private
+sector realized an average rate of growth of
+2.9 percent annually (Figure 3). Although this
+is not very high, it is comparable to the
+economic performance of other Pacific Island
+countries.
+ECONOMIC DEVELOPMENT
+The FSM is classified as a medium income
+country by World Bank categorization and by
+the UNDP as a country in the medium Human
+Development Index category. The FSM scores
+moderately on other development indicators.
+In 2003, the ADB concluded the following for
+the FSM in relation with meeting the
+Millennium Development Goals (MDG):
+“Shows little progress towards meeting the
+MDGs by 2015. Poverty incidence isestimated
+to be high with approximately 40 percent of
+the population falling below the national
+poverty line in 1998 and there are signs of
+increasing inequalities. One of the key issues
+is delivery of basic social services, which often
+fail to reach the poorer strata of society, the
+outer islands and rural areas. There are
+significant differences in the poverty situation
+between the various states but little
+disaggregated data is available. FSM not only
+faces the challenge of increasing enrollment
+rates at all levels but also of improving the
+quality of education, retention rates and
+access in the outer islands. FSM has poor
+health indicators.
+Although maternal mortality rates have fallen
+significantly, FSM still has a relatively high
+maternal mortality rate and a rapidly
+increasing incidence of non-communicable
+diseases. Child mortality rates have decreased
+slightly. Available data suggest that only 41
+percent of the population has access to an
+improved water source and about 45 percent
+to improved sanitation” (ADB, 2003). DEVELOPMENT OF STATES
+There is considerable autonomy for the States
+in the FSM and there are also large
+differences. As shown in Table 1 Pohnpei,
+with the national government, accounts for
+only 32 percent of FSM’s population but 47
+percent of GDP. Chuuk, with half of the
+population has 28 percent of GDP. Economic
+performance has varied considerable, partly
+reflecting differences in policies and responses
+to external developments. Pohnpei and Yap
+grew the most rapidly at 0.5 and 1.1 percent
+respectively per annum from 1987-2007.
+-12
+-10
+-8
+-6
+-4
+-2
+0
+2
+4
+6
+8 1997 1998 1999 2000 2001 2002 2003 2004 2005 2006 GDP growth (%)
+2007(est)
+Fiscal Year17 | P a g e
+In Kosrae and Chuuk the GDP declined with
+0.9 percent per year. (PIREP, 2004)
+State GDP Population
+Kosrae 8% 7%
+Pohnpei 47% 32%
+Chuuk 28% 50%
+Yap 17% 11%
+Table 1: Percentage of Population and GDP per state,
+2007 (Source: SBOC, 2009)
+The economy of Kosrae is limited. In 2005 the
+average income per household in Kosrae was
+$12,842, which is 4.3 percent below the
+national average. However, the average
+expenditure per household was $11,778
+which is 8.2 percent less than the national
+average. Kosrae is the only State in which the
+median savings is positive. The 2006 Gross
+Domestic Product was $15.9 million, a decline
+of 3.3 percent compared to 2005 when
+inflation is considered. The 2007 GDP per
+capita was $1,963 (DoI, 2006, p. 196).
+Pohnpei has the highest amount of average
+savings at $2,658, which is 450 percent of the
+national average savings. The median savings
+are minus $192, which is more than $2,000
+more compared to the national average and
+almost $4,000 more than in Yap. The average
+income per household is $15,593, the highest
+of the four states. It is almost 43 percent
+higher than the average income in Chuuk,
+which has the lowest of the country. The
+2006 GDP was $94.3 million, a decline of 0.2
+percent related to 2005. With a 2007 GDP per
+capita of $2,685, Pohnpei was 47 percent
+above the national GDP per capita (DoI, 2006,
+p. 197).
+The average and median income of Chuuk is
+very low, respectively 18 and 36 percent
+below the national average. The average
+savings is approximately $1,000 lower than
+the national average. However, the median
+savings is $300 above the national average.
+This is due to the fact that the median
+expenditure in Chuuk is only 67 percent of the
+national median expenditure. The GDP per
+capita in 2007 was $1,006 which is 55 percent
+of the national GDP per capita and 67 percent
+less than Yap, the State with the highest GDP
+per capita (DoI, 2006, p. 197).
+Chuuk has suffered from several financial
+crises and has not yet made the adjustments
+necessary to repay debts, which were
+equivalent to 30 percent of state GDP at the
+height of the crisis in FY1996. Large inflows of
+funds to assist Chuuk recover from Typhoon
+Chata’an in 2003 helped stimulate economic
+growth (PIREP, 2004).
+The Yap economy has declined slightly in
+recent years since Compact II began but is
+stronger than some other FSM states. Yap has
+developed a relatively strong private sector
+employment base with approximately 72
+percent of employees in the private sector.
+Yap State’s economy continues to be
+dominated by government spending, both for
+wages and the purchase of goods and services
+from the private sector.
+The closure of a garment factory eliminated
+the manufacturing sector. Tourism is down
+significantly after the reduction of scheduled
+flights by one-third (DoI, 2006).18 | P a g e
+As mentioned before, Yap has the highest GDP
+per capita, $3,034 in 2007. The average
+income per household is also the highest of
+the four States, with $15,616. It is 16 percent
+above the national average and a massive 43
+percent above the average in Chuuk. Despite
+the high average income, the average and
+median savings are the lowest in the country.
+This is due to the high Consumer Price Index in
+Yap. The average expenditure is 38 percent
+above the national average. The GDP dropped
+by 6.5 percent in the period 2005-2006 to
+$36.2 million (PIREP, 2004). Employment in
+Yap State dropped from 3,680 in 2001 to
+3,023 in 2004. Average mean income in 2004
+was $6,605. In 2006, the real GDP was
+estimated to be $36.2 million (DoI, 2006, p.
+197).19 | P a g e
+2. ENERGY SECTOR
+The energy sector in FSM is overwhelmingly
+dependent on the import of petroleum fuels
+for commercial energy use for transport,
+electricity, business and households.
+Hydropower has been a minor contributor as
+the Nanpil hydro system (Pohnpei) has
+provided several percent of the total
+electricity supply. Current problems with the
+dam have reduced this share. Other sources of
+renewable energy, such as solar energy and
+bio-energy account for a minor percent of the
+energy supply (PIREP, 2004, p.14). This section
+will first give a brief overview of the use of
+conventional energy, including the sources
+and its use, after which the largest part of this
+section will focus on renewable energy, where
+the greatest potential for expansion exists. 2.1 ENERGY DEMAND
+2.1.1 HOUSEHOLDS
+Roughly 55% of all households in FSM had
+electrification from some source (2000
+census) (Table 2).Chuuk Yap Pohnpei Kosrae
+% HH electrified
+(2000 census)
+33% 59% 68% 99%
+% HH electrified
+(main island)
+75% 100% 98% 98%
+% HH electrified
+(2009 estimate)
+46% 70% 87% 100%
+Table 2: Household electrification figures
+It shows that some alternative solutions are
+being used in some states that provide
+electricity (mainly PV and diesel generators).
+The energy demand in the rural areas
+generally corresponds to basic needs such as
+lighting (often with kerosene, oil lamps, flashlights) and cooking (wood or other
+biomass (coconut-husk) and some kerosene).
+No specific statistical study has been carried
+out on the energy use habits and expenditures
+in rural places. However, on the basis of a
+survey conducted during the course of the
+REP-5 implementation in 2009, the average
+can be estimated around $15 to $35 per
+month and per household (in the outer islands
+around $15 (depends on availability) while in
+the rural areas on the main islands the
+average is $ 35). Besides lighting, kerosene is also used for
+cooking, but its consumption at the national
+level has dropped mostly in rural areas and
+replaced by traditional wood and charcoal fuel
+sources. This can be largely attributed to the
+increase in fuel costs and the decrease in rural
+household incomes.
+2.2 PETROLEUM /
+CONVENTIONAL ENERGY
+Foremost as the primary source of energy for
+the FSM is petroleum. The use of energy in
+the FSM is comparable to the energy use in
+other tropical islands in the sense that the
+majority of petroleum is used for electricity
+generation and for transportation (DoI, 2006,
+pp. 209). More specifically, gasoline and
+diesel fuel are mainly used for transportation
+purposes and diesel is used for the generators
+at the utilities.
+Furthermore, a small amount of liquid
+petroleum gas (LPG) is used for heating water
+and cooking (DoI, 2006, pp. 197).
+In the transportation sector, mainly gasoline
+and diesel are used. Because the FSM does
+not have a large land mass, the use of fuel for
+vehicle transportation is modest.
+Transportation fuel is therefore mostly used
+for marine services, including commercial
+fishing boats, patrol boats and the cargo and
+passenger ships within the nation. Many use
+fuel from Pohnpei, which has emerged as the
+‘fleet headquarters’ of the region and others
+use fuel tenders on the open ocean.
+For cooking, kerosene and liquid petroleum
+gases (LPG) are used, as well as wood and
+coconut waste (DoI, 2006, pp. 198).20 | P a g e
+In 2009, around $40 million US$, which is
+comparable to over 50% of the national
+budget, was spent on the import of fossil fuel.
+Since world oil prices and the demand for oil
+continue to rise, this number will only
+increase. Recent history indicates major
+nation-wide hardships due to such trends.
+The average price for a barrel of oil was just
+above $50 in January 2007. In October 2007
+the price reached almost $90 a barrel, causing
+the price to increase by 80 percent. The
+following year, in April 2008, the price
+increased to $110, causing what amounted to
+a full-blown fuel crisis in the Summer of 2008
+in the FSM (GoFSM, 2008a).
+Table 3 shows the price summary of fuel and
+electricity costs in the US.
+Price Summary
+Year Percent Change
+2008 2009 2010 2011 08- 0909- 1010- 11
+WTI
+Crudea
+($/barrel)
+99.57 61.66 79.78 83.50 -38.1 29.4 4.7
+Gasolineb
+($/gal) 3.26 2.35 2.84 2.97 -27.9 20.8 4.8
+Dieselc
+($/gal) 3.80 2.46 2.95 3.16 -35.2 19.8 7.0
+Heating
+Oild($/gal)
+3.38 2.52 2.85 3.10 -25.4 13.0 8.9
+Natural
+Gasd
+($/mcf)
+13.67 12.03 12.51 13.49 -12.0 4.0 7.8
+Electricity
+d
+(cents/kwh)
+11.36 11.58 11.47 11.68 2.0 -1.0 1.9
+a West Texas Intermediate. b Average regular pump price. c On-highway retail. d U.S. Residential average
+Table 3: Crude oil price summary (Source:
+http://www.eia.doe.gov/steo)
+At that time, the cost for fuel for the nations’
+four Utilities to keep the generators running
+was up to 91 percent of total revenue
+collections, leaving no financial reserve for
+maintenance and system improvement.
+Subsequent steep and sudden fuel and energy
+prices to consumers created pockets of the
+population that could no longer afford to have
+the convenience of electricy or transport on
+the main islands.21 | P a g e
+Beyond the traditionally steep increase of the
+price for electricity and fuel caused by an
+over-dependence on fossil fuel, other aspects
+of socio-economic progress also become
+problematic, particularly in regard to the
+overall commensurate increase in the
+Consumer Price Index. All goods and services
+become more expensive. Therefore, even
+people who are not connected to the
+electricity grid will suffer from the price
+increase of fuel (GoFSM, 2008a). This
+hampers development and fosters inequality
+as it disproportionally harms the poorer
+segments of the society. Because of this, the
+development of renewable energy and energy
+efficiency are key elements in preventing this
+scenario. Although oil prices have cooled
+considerably from the high in the Summer of
+2008, the latest trends show that oil prices are
+once again on the upswing, bringing even
+more pressure on the FSM people and the
+utility corporations, most of which are still
+dealing with the last oil price spike.
+Figure 5: WTI crude oil price (Source Short-Term Energy
+Outlook, February 2010)
+Electricity use can be divided into five main
+categories: residential use (39 percent),
+commercial and industrial use (22 percent),
+use by the government (17 percent), use for
+utilities (10 percent) and losses of the system
+(12 percent). The largest amount of electricity
+is used for air conditioning and lighting (DoI,
+2006, pp. 209). The government in particular
+uses the bulk of its energy consumption for air
+conditioning (DoI, 2006, pp. 198).
+Each state has its own electricity system and
+public authority responsible for the provision
+of utilities. A board appointed by the
+governor and confirmed by the state
+legislatures (DoI, 2006, pp. 199) governs these
+utility companies. All utility companies,
+especially in Chuuk, face serious economic
+problems as a result of high fuel costs.
+Figure 6: Generator of the Kosrae Utilities Authority.
+(Source: DoI, 2006)
+For more specific information please refer to
+Table 11: Yap State Public Service Corporation
+– financial and technical data(YSPSC); Table 12:
+Kosrae Utility Authority – financial and
+technical data (power generation and
+distribution); Table 13: Pohnpei Utility
+Corporation – financial and technical data
+(power generation and distribution); Table 14:
+Chuuk Public Utility Corporation – financial
+and technical data (power generation and
+distribution) in the Appendix, which sum up
+the main operating details of the four utility
+companies.
+21 | P a g e
+Beyond the traditionally steep increase of the
+price for electricity and fuel caused by an
+over-dependence on fossil fuel, other aspects
+of socio-economic progress also become
+problematic, particularly in regard to the
+overall commensurate increase in the
+Consumer Price Index. All goods and services
+become more expensive. Therefore, even
+people who are not connected to the
+electricity grid will suffer from the price
+increase of fuel (GoFSM, 2008a). This
+hampers development and fosters inequality
+as it disproportionally harms the poorer
+segments of the society. Because of this, the
+development of renewable energy and energy
+efficiency are key elements in preventing this
+scenario. Although oil prices have cooled
+considerably from the high in the Summer of
+2008, the latest trends show that oil prices are
+once again on the upswing, bringing even
+more pressure on the FSM people and the
+utility corporations, most of which are still
+dealing with the last oil price spike.
+Figure 5: WTI crude oil price (Source Short-Term Energy
+Outlook, February 2010)
+Electricity use can be divided into five main
+categories: residential use (39 percent),
+commercial and industrial use (22 percent),
+use by the government (17 percent), use for
+utilities (10 percent) and losses of the system
+(12 percent). The largest amount of electricity
+is used for air conditioning and lighting (DoI,
+2006, pp. 209). The government in particular
+uses the bulk of its energy consumption for air
+conditioning (DoI, 2006, pp. 198).
+Each state has its own electricity system and
+public authority responsible for the provision
+of utilities. A board appointed by the
+governor and confirmed by the state
+legislatures (DoI, 2006, pp. 199) governs these
+utility companies. All utility companies,
+especially in Chuuk, face serious economic
+problems as a result of high fuel costs.
+Figure 6: Generator of the Kosrae Utilities Authority.
+(Source: DoI, 2006)
+For more specific information please refer to
+Table 11: Yap State Public Service Corporation
+– financial and technical data(YSPSC); Table 12:
+Kosrae Utility Authority – financial and
+technical data (power generation and
+distribution); Table 13: Pohnpei Utility
+Corporation – financial and technical data
+(power generation and distribution); Table 14:
+Chuuk Public Utility Corporation – financial
+and technical data (power generation and
+distribution) in the Appendix, which sum up
+the main operating details of the four utility
+companies.
+21 | P a g e
+Beyond the traditionally steep increase of the
+price for electricity and fuel caused by an
+over-dependence on fossil fuel, other aspects
+of socio-economic progress also become
+problematic, particularly in regard to the
+overall commensurate increase in the
+Consumer Price Index. All goods and services
+become more expensive. Therefore, even
+people who are not connected to the
+electricity grid will suffer from the price
+increase of fuel (GoFSM, 2008a). This
+hampers development and fosters inequality
+as it disproportionally harms the poorer
+segments of the society. Because of this, the
+development of renewable energy and energy
+efficiency are key elements in preventing this
+scenario. Although oil prices have cooled
+considerably from the high in the Summer of
+2008, the latest trends show that oil prices are
+once again on the upswing, bringing even
+more pressure on the FSM people and the
+utility corporations, most of which are still
+dealing with the last oil price spike.
+Figure 5: WTI crude oil price (Source Short-Term Energy
+Outlook, February 2010)
+Electricity use can be divided into five main
+categories: residential use (39 percent),
+commercial and industrial use (22 percent),
+use by the government (17 percent), use for
+utilities (10 percent) and losses of the system
+(12 percent). The largest amount of electricity
+is used for air conditioning and lighting (DoI,
+2006, pp. 209). The government in particular
+uses the bulk of its energy consumption for air
+conditioning (DoI, 2006, pp. 198).
+Each state has its own electricity system and
+public authority responsible for the provision
+of utilities. A board appointed by the
+governor and confirmed by the state
+legislatures (DoI, 2006, pp. 199) governs these
+utility companies. All utility companies,
+especially in Chuuk, face serious economic
+problems as a result of high fuel costs.
+Figure 6: Generator of the Kosrae Utilities Authority.
+(Source: DoI, 2006)
+For more specific information please refer to
+Table 11: Yap State Public Service Corporation
+– financial and technical data(YSPSC); Table 12:
+Kosrae Utility Authority – financial and
+technical data (power generation and
+distribution); Table 13: Pohnpei Utility
+Corporation – financial and technical data
+(power generation and distribution); Table 14:
+Chuuk Public Utility Corporation – financial
+and technical data (power generation and
+distribution) in the Appendix, which sum up
+the main operating details of the four utility
+companies.22 | P a g e
+2.3. RENEWABLE ENERGY
+There are several existing and potential
+sources of renewable energy in the FSM. The
+potential use is particularly high for solar
+energy and hydropower (Pohnpei State) but
+also the potential of wind energy, bio-fuel,
+methane-gas and tidal and wave energy will
+be reviewed. For each source of renewable
+energy the section will briefly describe both
+existing and potential use.
+2.3.1 SOLAR ENERGY
+High solar insolation throughout the FSM
+creates a rich resource of solar energy
+although the available energy varies from
+place to place because of local cloud
+formation. This is especially the case on the
+islands with mountains, such as the main
+islands of Pohnpei and Kosrae and the Lagoon
+Islands of Chuuk. Table 4 gives an overview of
+the average estimated insolation on the four
+states using data from NASA Surface
+Meteorology and Solar Energy (2009).
+Like other Pacific Island countries, solar
+energy provides a particularly good source of
+energy for outer islands that are further away
+from the state centers and often have low
+population sizes. Stand-alone systems can
+provide a solution for the energy needs in
+these places. There remain many
+opportunities both to expand the use of off- grid installations on the outer islands and for
+grid-connected systems on the main islands
+where electricity networks are available (DoI,
+2006). In the state of Pohnpei, 400 solar
+home systems (SHS) were installed on several
+islands in the early ’90s. This program formed
+the largest outer island PV system program of
+the North Pacific (DoI, 2006) for a long time.
+Month Kosrae Pohnpei Chuuk Yap
+Jan 4.72 5.1 5.13 5.4
+Feb 5.34 5.8 5.71 6.04
+Mar 5.34 5.84 5.93 6.5
+Apr 5.41 6.07 5.79 6.72
+May 5.01 5.71 5.8 6.55
+Jun 4.94 5.31 5.3 5.43
+Jul 5.16 5.59 5.41 5.48
+Aug 5.53 5.57 5.42 4.96
+Sep 5.42 5.36 5.55 5.43
+Oct 5.43 5.23 5.32 5.27
+Nov 4.82 4.77 5 5.17
+Dec 4.87 4.91 4.88 5.34
+Avg. 5.16 5.43 5.44 5.69
+Table 4: Estimated Solar Resources Horizontal plane in
+kWh/m2/day (Source: NASA Surface Meteorology and
+Solar Energy
+Besides the SHS in Pohnpei state 300 SHS
+were installed in various outer islands in Yap
+and 402 households in Chuuk (2000 census).
+Figure 7: Installing solar module racks in the FSM.
+(source: Akker, 2006).
+This was done after the 1982 cholera
+outbreak, where solar powered pumps to
+provide flush water for toilets aimed at
+reducing the use of water from shallow wells
+and the spread of cholera.23 | P a g e
+The project was set up by the University of
+Guam that provided workshops on
+installation, operation and maintenance.
+More recently, under the European
+Development Fund (EDF-9 REP5 programme),
+a major PV electrification was implemented in
+the outer islands of Pohnpei, Chuuk and Yap.
+PV off-grid systems were installed in 11 outer
+islands with a total capacity of 120.88 kWp
+and in Kosrae five grid-connected PV systems
+were installed, with a total capacity of 52.5
+kWp. The PV systems in Kosrae are being
+monitored by the utility and a more detailed
+analysis of data from the grid-connected
+systems is being an ongoing activity. The data
+from Kosrae is being compared with similar PV
+grid-connected systems in Nauru and Palau.
+It is obvious that it is much harder to collect
+performance data from the outer island
+installations. FSM has therefore initiated a
+plan to install VSAT satellite dishes to the REP- 5 installations that will enable them to do
+remote monitoring of the systems. In
+addition, the communities will be connected
+to the Worldwide Web for communication,
+education and emergency purposes.
+Summarized performance information for
+Palau, Nauru and Kosrae is given in Table 5
+below.
+Location Size
+(kWp)
+Yield per
+month (kWh)
+Specific yield
+(kWh/kWp/yr)
+Palau 98.3 10,000 1,220
+Nauru 40.2 4,600 1,370
+Kosrae 52.5 5,600 1,280
+Table 5: Performance of grid-connected PV systems in
+Palau, Nauru and Kosrae
+It is clear then that despite some limitations, solar energy has a large potential in the FSM.
+There remain many outer islands where solar
+energy can provide affordable energy to
+people that would otherwise have to live
+without. On islands in the state centers where
+electricity systems are available, PV systems
+can provide energy to the grid in order to
+significantly reduce the need for fossil fuels
+and create a more sustainable energy mix, as
+well as reduce overall costs to both utilities
+and families. State Island Site System
+size
+Yap Asor PV mini-grid 19.5 kWp
+Fadrai PV mini-grid 28.08 kWp
+Chuuk Satawan High school 6.6 kWp
+Moch Public facilities - PV mini-grid6.7 kWp
+Udot High school 3.4 kWp
+Onoun Public facilities - PV mini-grid10.5 kWp
+Pohnpei Kapingamar
+angi
+School 5.8 kWp
+Dispensary and
+municipal office
+4 kWp
+Nukuoro Dispensary 3 kWp
+School 4.6 kWp
+Sapwaufik School and
+municipal office
+8.4 kWp
+Dispensary 3 kWp
+Mwaokillao Dispensary 2.5 kWp
+School 6.1 kWp
+Pingelap School 6.2 kWp
+Dispensary 2.5 kWp
+Table 6: Installed PV systems under E.U. EDF-9
+2.3.2 HYDRO ENERGY
+The hydro sites on Kosrae have limited
+potential and are unlikely to be cost effective
+for development. However further study could
+show that Kosrae might have a potential of
+PICO Hydro installations that can act as stand- alone systems and power some houses
+located close to the rivers. Yap and Chuuk
+have no hydro sites. On Pohnpei there is a
+hydro power installation on the Nanpil River.
+There have been surveys that indicate other
+developable sites in Pohnpei are present;
+however at the time of the survey the
+economics for the development of the sites24 | P a g e
+were bad. Those surveys should be reviewed
+in light of the fact of higher current fuel prices
+and the sites for which it is economically
+reasonable to be seriously considered for
+potential hydro development. Due to the uplift of moist air by the
+mountains, the rainfall on both Pohnpei and
+Kosrae is high. The interior rainfall on both
+islands is 200-300 inches per year, which
+offers opportunities for hydro development
+on numerous of its approximately 35 streams.
+The stream flows however, vary a lot due the
+rapid runoff and small catchments. Due to
+this, the streams are generally not practical for
+base load hydropower without using
+expensive and environmentally problematic
+storage ponds. Despite this, hydropower has
+an acceptable tradeoff between reliability of
+power delivery and cost of installation. In
+some cases, drinking water reservoirs have
+been used as storage ponds to secure more
+constant water supply (DoI, 2006).
+The Nanpil hydro facility was originally
+developed by the Japanese in the 1930s. In
+1988, the United States Army Corps of
+Engineers came to develop a hydro plant next
+to the old, non-operating one, using a
+different water intake and a new building for
+the installation, see Figures 10 and 11. The
+total amount of power that can potentially be
+produced is 2.06 MW. This is a substantial
+amount of energy as it exceeds one-third of
+the peak load on the whole island. However,
+this amount of energy has never been
+produced due to water intake limitations, which reduces the maximum output to 1.8
+MW. The average is reduced even more due
+to cyclical dry and wet periods on the island
+and the lack of an appropriate water storage
+facility to spread the production more evenly.
+Figure 8: Hydro generators (Nanpil dam, Pohnpei)
+In the beginning of the 1990s, there was an
+idea for increasing the catchment area at
+Nanpil at a cost of $6 million. This idea was
+scrapped however, because the additional
+output was uncertain due to the limited
+hydrological data.
+In 1981, a United States Army Corps of
+Engineers study identified numerous potential
+hydro sites, one on the Senipehn River and
+three on the Lehnmasi River. Due to lack of
+access roads, the relatively high cost per kW
+for the site development and the distance
+from the existing grid, they were not
+developed. The total peak potential power of
+the sites is approximately 4 to 5 MW, with an
+average of 2 to 3 MW. Obviously, during the
+two dry months less power would be
+produced. The production site with the
+highest potential was on the Lehnmasi River. The hydro sites that were labeled
+economically unviable in the 1980s and 1990s
+should again be reviewed due to the increased
+energy costs, and if feasible, steps taken to
+being developed. Despite the small
+catchments and the variable stream flows so
+that there is not enough water flow to secure
+a continuous base load, the harm to the
+environment of systems that make use of
+existing streams (so-called run-of-the-river
+development) is minimized and the systems
+are relatively cheap.25 | P a g e
+During its extensive operational life, it can
+provide substantial fuel savings. The greatest
+renewable energy opportunity for fuel saving
+is offered by the small hydro development,
+especially for the state Center of Pohnpei, and
+possibly Kosrae, and therefore a thorough
+review of the hydro potential seems
+appropriate.
+Figure 9: Hydro system in the Nanpil River, Pohnpei.
+2.3.3 WIND ENERGY
+The resource for wind energy is not very well
+known in the FSM. Experts believe that it is
+borderline regarding the economic feasibility
+of energy production from wind.
+Meteorological measurements and low
+latitude location indicate moderate resource
+availability. Furthermore, typhoons form a
+risk for wind power systems. Figure 12 gives
+an overview of the average wind speed
+throughout the year in the four states. Due to the mountainous nature of some of the
+islands, however, there may be locally
+beneficial conditions for wind energy. The
+main recommendation that also came out of
+earlier studies on potential renewable energy
+use is to carry out a feasibility study on the
+use of wind energy throughout the FSM. After
+broadly defining locations where wind energy
+could potentially be implemented, detailed
+wind assessments and wind maps should be
+created to more precisely identify the main
+wind energy sites. Appendex A shows the
+wind speed data from Yap.
+Figure 10: Average wind speed at 50m
+2.3.4 BIOFUEL
+A very interesting source of biofuel is coconut
+oil. The outer islands have a large and
+underutilized resource that could be further
+developed. Using coconut trees is not new to
+the country. There has been an active
+industry for copra, the dry meat of coconuts,
+after the Second World War until the 1970s.
+Although the price of copra remained stable
+after this period, the costs of living had
+increased and so had the labor costs. This
+reduced the incentive to commercially exploit
+copra. As a result, there were few new
+coconut plantings to replace an increasing
+share of senile trees (DoI, 2006).
+0
+2
+4
+6
+8
+10 Jan Mar May Jul Sep Nov Wind speed (m/s)
+Month
+Average wind speed at 50
+m, 10 year average
+Kosrae
+Pohnpei
+Chuuk
+Yap26 | P a g e
+The country has the opportunity to develop
+coconut production on outer islands and
+thereby increase income for the outer islands.
+At current prices and production levels,
+coconut oil could be shipped to the state
+centers where large diesel fuel users,
+especially the utility companies and certain
+businesses that might have back-up
+generators, could add coconut oil to create a
+fuel mix and reduce their use of diesel fuel.
+This would boast the coconut oil industry and
+prepare it for production on a larger scale
+when diesel prices increase further. Revenues
+to rural communities and reduction in costs to
+the private sector in the centers would
+certainly benefit the macroeconomic fabric of
+the nation.
+Until recently, there was an active coconut
+factory on the main island of Pohnpei that
+produced biofuel from coconuts. The
+company could produce 150 gallons of
+coconut oil, more than 550 liters, in an eight- hour day. Besides using this for their own
+vehicles, they sold coconut oil to individual
+and corporate customers on the island. With
+little effort, an engine can be adjusted to run
+on a mix of diesel and biofuel. The owners of
+the coconut factory were making plans for
+increased production and to start selling fuel
+for boats. However, in July 2008, a fire
+destroyed the whole factory. The owners had
+no insurance and there were no readily
+available funds to rebuild the factory. In 2001
+a copra warehouse in Yap was devastated by a
+fire (DoI, 2006), and in Chuuk a copra oil
+production facility was also consumed by a
+fire. Neither has been rebuilt.
+This impacted the total amount of copra
+produced and exported within the nation. Tables 7 and 8 below give some numbers on
+the historical amount of copra production for
+Pohnpei and Yap.
+1992 1994 1996 1997
+Pohnpei 18.63 9.32 6.68 13.2
+Mwoakilloa 27.53 56.05 49.06 37.83
+Pingelap 14.75 3 20.13 32.86
+Pakin 33.9 15.11 18.27 20.13
+Sapwahfik 2.95 43.26 63.34 25.25
+Nukuoro 55.79 42.49 19.3 56.15
+Kapinga 19.61 11.49 14.08 0.88
+Oroluk 4.66 2.12 8.69 11.33
+Total 177.81 182.83 199.55 197.63
+Table 7: Copra production (in tons) in Pohnpei State
+(Source: Pohnpei State Office of the Governor)
+Table 8: Yap copra exports in tons2 (Source: 2002 Annual
+Statistical Yearbook, Yap)
+Biofuel from coconut oil remains a socially and
+economically viable source of renewable
+energy and efforts should be strongly pursued
+to once again integrate it into the overall
+energy mix.
+2 The low value for 2001 was due to the loss of
+much of the copra in a warehouse fire.
+1999 2000 2001 2002 2003
+Tons 292 210 35 130 8027 | P a g e
+2.3.5 BIOMASS
+Biomass remains the largest source of energy
+for cooking. For the mountainous islands of
+the state centers of Pohnpei, Kosrae and
+Chuuk, and some of the outer islands, biomass
+in the form of wood is sufficiently available
+without danger of deforestation. Also in lowlying atolls biomass is used for cooking but in
+different forms, such as coconut shells, fronts
+and husks, mangrove wood or plants (PIREP,
+2004).
+As in other Pacific Island countries,
+commercial use of biomass for electricity
+production by means of combustion or
+gasification is limited to facilities that process
+agricultural or forest products. There are no
+industries in the FSM that processes such
+products as agricultural processing tends to be
+done in small scale, often family-owned,
+decentralized facilities. There is currently no
+industry that produces biomass waste. If
+biofuel from coconut oil would become a
+large-scale industry, enough biomass waste
+could be generated to justify commercial
+biomass combustion or gasification to
+produce heat or electricity (DoI, 2006). In that
+case, a feasibility study should be carried out
+to give insight in the potential use.
+Waste to Energy is another development that
+is being carefully followed by the FSM
+government and plans are being made to start
+a (solid) waste composition study in 2010.
+2.3.6 BIOGAS
+There are some animal farms in the FSM that
+produce enough waste to generate biogas in
+an economically viable way. This way, animal
+waste is disposed in an environmentally
+friendly way with biogas as a byproduct.
+Some small pilot biogas installations are being
+installed in Pohnpei, with the assistance of the
+Chinese government in 2008, and these are
+being monitored by the Pohnpei State
+government. There is also independent biogas
+producer on the main island of Pohnpei that
+tries to create a closed, environmentally
+sustainable cycle in its household energy use.
+Animal waste produced by a pig serves as
+input for the biogas digestion tank, which
+provides gas for daily cooking. There has been
+some interest noted by the Kosrae State
+Government to replicate such low-scale
+household digester systems as well. Currently no facilities for sewer or landfill
+treatment are used to generate biogas. When
+these facilities are upgraded, a feasibility
+study should be carried out to investigate the
+economic and environmental sustainability of
+an add-on facility to extract biogas.
+2.3.7 OCEAN ENERGY
+Although the country is surrounded by ocean,
+there is at the moment no sufficiently mature
+ocean energy technology that can be used in
+the FSM. Available resources for tidal energy
+are present in the FSM. The tidal range is not
+very large, but through certain reef passages
+and some man-made causeway and bridge
+infrastructures, high speeds and high volumes
+of water flows are observed locally. The FSM
+energy sector is following the development in
+ocean and tidal technologies and it is planned
+to have pre-studies done between 2010 and
+2012.28 | P a g e
+2.4 ENERGY COSERVATION &
+EFFICIENCY
+A recently completed report has estimated
+the potential of renewable energy and energy
+efficiency to reduce greenhouse gas (GHG)
+emissions in a number of Pacific Island
+countries (See: Table 10: GHG Emissions
+and Potential Savings (Source: FSM SEFP
+country report, IT Power 2006)). The total GHG
+emission estimates are derived from
+corresponding estimates of reductions of
+fossil fuels in all sectors of the economy,
+including power generation, transport,
+household use, etc.
+The table shows that in FSM by the year 2011,
+it is, in principle, possible to reduce projected
+fossil fuel use only by 14%, with about 70% of
+the savings coming from renewable energy
+and 30% from energy efficiency measures.
+As shown in the table energy efficiency is an
+important part of the energy sector, particularly in supply side management for the
+utilities. The Pacific Power Association started
+an energy efficiciency assistance programme
+in 2009 for the utilities but presently no large- scale measures have been undertaken.
+However, the average estimated electricity
+consumption in electrified households is not
+that high and decreasing over the last four
+years, revealing that that demand-side
+management (DSM) are starting to bear some
+fruitage. High electricity cost and the
+introduction of cash power meters (pre-paid
+meters) have significantly developed some
+energy saving behavior at the customer level
+(Figure 11 below).
+Figure 11: YSPSC customer education Source: YSPSC
+newsletter July ‘08
+It shows that EE and DSM could have a
+significant impact in case of consideration at a
+large scale, and that broad-scale programs
+need to be implemented to create more
+awareness amongst consumers.
+Some of the utilities have actively started to
+advise the public on DSM and discussions are
+being held to start programmes such as
+changing light bulbs and other energy
+efficiency appliances. In addition, regulatory
+frameworks and incentive programs at the
+states can help spur private sector investment
+and consumption in this area.
+28 | P a g e
+2.4 ENERGY COSERVATION &
+EFFICIENCY
+A recently completed report has estimated
+the potential of renewable energy and energy
+efficiency to reduce greenhouse gas (GHG)
+emissions in a number of Pacific Island
+countries (See: Table 10: GHG Emissions
+and Potential Savings (Source: FSM SEFP
+country report, IT Power 2006)). The total GHG
+emission estimates are derived from
+corresponding estimates of reductions of
+fossil fuels in all sectors of the economy,
+including power generation, transport,
+household use, etc.
+The table shows that in FSM by the year 2011,
+it is, in principle, possible to reduce projected
+fossil fuel use only by 14%, with about 70% of
+the savings coming from renewable energy
+and 30% from energy efficiency measures.
+As shown in the table energy efficiency is an
+important part of the energy sector, particularly in supply side management for the
+utilities. The Pacific Power Association started
+an energy efficiciency assistance programme
+in 2009 for the utilities but presently no large- scale measures have been undertaken.
+However, the average estimated electricity
+consumption in electrified households is not
+that high and decreasing over the last four
+years, revealing that that demand-side
+management (DSM) are starting to bear some
+fruitage. High electricity cost and the
+introduction of cash power meters (pre-paid
+meters) have significantly developed some
+energy saving behavior at the customer level
+(Figure 11 below).
+Figure 11: YSPSC customer education Source: YSPSC
+newsletter July ‘08
+It shows that EE and DSM could have a
+significant impact in case of consideration at a
+large scale, and that broad-scale programs
+need to be implemented to create more
+awareness amongst consumers.
+Some of the utilities have actively started to
+advise the public on DSM and discussions are
+being held to start programmes such as
+changing light bulbs and other energy
+efficiency appliances. In addition, regulatory
+frameworks and incentive programs at the
+states can help spur private sector investment
+and consumption in this area.
+28 | P a g e
+2.4 ENERGY COSERVATION &
+EFFICIENCY
+A recently completed report has estimated
+the potential of renewable energy and energy
+efficiency to reduce greenhouse gas (GHG)
+emissions in a number of Pacific Island
+countries (See: Table 10: GHG Emissions
+and Potential Savings (Source: FSM SEFP
+country report, IT Power 2006)). The total GHG
+emission estimates are derived from
+corresponding estimates of reductions of
+fossil fuels in all sectors of the economy,
+including power generation, transport,
+household use, etc.
+The table shows that in FSM by the year 2011,
+it is, in principle, possible to reduce projected
+fossil fuel use only by 14%, with about 70% of
+the savings coming from renewable energy
+and 30% from energy efficiency measures.
+As shown in the table energy efficiency is an
+important part of the energy sector, particularly in supply side management for the
+utilities. The Pacific Power Association started
+an energy efficiciency assistance programme
+in 2009 for the utilities but presently no large- scale measures have been undertaken.
+However, the average estimated electricity
+consumption in electrified households is not
+that high and decreasing over the last four
+years, revealing that that demand-side
+management (DSM) are starting to bear some
+fruitage. High electricity cost and the
+introduction of cash power meters (pre-paid
+meters) have significantly developed some
+energy saving behavior at the customer level
+(Figure 11 below).
+Figure 11: YSPSC customer education Source: YSPSC
+newsletter July ‘08
+It shows that EE and DSM could have a
+significant impact in case of consideration at a
+large scale, and that broad-scale programs
+need to be implemented to create more
+awareness amongst consumers.
+Some of the utilities have actively started to
+advise the public on DSM and discussions are
+being held to start programmes such as
+changing light bulbs and other energy
+efficiency appliances. In addition, regulatory
+frameworks and incentive programs at the
+states can help spur private sector investment
+and consumption in this area.29 | P a g e
+CHAPTER III: POLICY FRAMEWORK
+Figure 12: Structure of the policy
+1. INSTITUTIONAL AND SYSTEMIC FRAMEWORK
+Figure 13: Policy Structure
+29 | P a g e
+CHAPTER III: POLICY FRAMEWORK
+Figure 12: Structure of the policy
+1. INSTITUTIONAL AND SYSTEMIC FRAMEWORK
+Figure 13: Policy Structure
+29 | P a g e
+CHAPTER III: POLICY FRAMEWORK
+Figure 12: Structure of the policy
+1. INSTITUTIONAL AND SYSTEMIC FRAMEWORK
+Figure 13: Policy Structure30 | P a g e
+2. INSTITUTIONAL
+In any national policy, providing a good and
+clear institutional structure is a top priority.
+This counts especially for an energy policy
+where the sector is still under development
+and defractured under the four States. In the
+institutional and systemic structure, formal
+linkages between actors and clear definitions
+of their responsibilities are being addressed.
+The main actors and institutions active in the
+energy sector should be involved, including
+the government at various levels, the utility
+companies, the private sector and non-state
+actors (NSAs), including NGOs and community
+groups. Due to the current lack of
+coordination in the energy sector, between
+national and state, there is a need for an
+organization in charge of overseeing and
+coordinating activities in the country and in
+the respective states. This organization
+should interact with various stakeholders at
+the national and state level and with the
+government, the utilities, the private sector
+and NGOs.
+2.1 ACTORS AND INSTITUTIONS
+A National Energy Workgroup (NEW) has been
+established and consists of members from the
+key Departments in the National
+Government3, a State Representative coming
+out of each State Energy Workgroup, a
+Representative from the Association of
+Micronesian Utilities (AMU), a Representative
+from the College of Micronesia (COM-FSM)
+and the Government Energy Advisor(s). NEW
+has as its main task to oversee and coordinate
+3Energy Division, Department of Resources &
+Development; OEEM; SBOC (ODA); Department of
+Transportation, Communication and Infrastructure
+the activities in the energy sector especially in
+relationship to the implementation of the
+national energy policy. Since the NEW
+consists of the main stakeholders involved in
+the energy sector, this provides a forum to
+discuss development in the energy sectors,
+especially as it pertains to renewable energy,
+and to help steer these stated priority
+developments in the direction as indentified in
+the energy policy/action plans. As can be seen in Figure 15 (page 39) the NEW
+interacts closely with the national government
+and with the Regional Energy Committee
+(REC) and Association of Micronesian Utilities
+(AMU). REC is the body under the Micronesian
+Chief Executives Council (MCEC) consisting of
+energy sector representatives from
+Micronesia. Besides members from the FSM,
+this body includes members from the Republic
+of the Marshalls Islands, Palau, Guam and the
+Commonwealth of the Northern Mariana
+Islands. It meets regularly and is set up to
+discuss developments in the energy sector of
+respective countries, learn from each other’s
+experiences and advices the Governments in
+their energy planning. The NEW should be strongly connected to the
+four State Energy Workgroups (SEW). These
+consist of three or four people: one from the
+state government, one representative from
+the utility company, the state energy officer
+(this position only exists in Pohnpei) or an
+energy expert and a private sector or NGO
+representative. The SEWs are responsible for
+developing and updating the state action
+plans, which are detailed in Volume II. These plans are in line with the national
+energy policy and put forward specific
+objectives and implementable actions at the
+state level. Furthermore, the main task of the
+SEWs is overseeing, coordinating and31 | P a g e
+implementing activities in the energy sector of
+the state.
+2.2 COORDINATION AND
+PROGRAM MANAGEMENT
+This part of the energy policy is focused on the
+responsibilities of the actors (NEW and SEWs)
+related to the implementation of the policy on
+national level and the coordination role in
+implementing the various state action plans.
+2.2.1 IMPLEMENTATION OF THE ENERGY
+POLICY
+ Implement all State Action Plans and the
+National Action Plan aimed at reducing
+overall fossil fuel imports and
+greenhouse gas emissions and strive to
+meet national and state renewable
+energy targets.  Develop timely a reliable nationwide
+energy statistic database for effective
+and fact-finding planning, monitoring and
+evaluation.  Revise the National Energy Policy as
+needed to ensure it is up-to-date and
+maintains aggressive but achievable
+outcomes.  Ensure every State has an Energy
+Coordinator, who is part of the State
+Energy Workgroup and keeps close
+contact with the National Energy
+Workgroup (see next section ‘Division of
+Responsibilities and Organizational
+Structure’).  Promote the development of a National
+Energy Bill that addresses the reduction
+of fossil fuel import and green house gas
+emissions in line with this Energy Policy.
+2.2.2 ALIGNMENT WITH LEGISLATION AND
+OTHER POLICIES
+ In line with the FSM Trade Policy and the
+SDP, support opportunities for local
+manufacturers to supply equipment and
+human resources for project design,
+implementation, management and
+maintenance.  Integrate environmental concerns and
+regulations into all energy-related plans
+and projects, including transportation,
+power supply, and building codes.  Promote proper alignment with policies
+that are and will be developed in the
+future, including policies in the field of
+environment and climate change; Review
+this Energy Policy in light of these
+policies.  Assist in the development and
+implementation of public awareness
+campaigns supporting renewable energy
+expansion geared toward key
+stakeholders within the FSM, including
+NGOs, business sector, governments and
+utilities, state and national legislatures
+and the general public.32 | P a g e
+2.3 DIVISION OF
+RESPONSIBILITIES AND
+ORGANIZATIONAL STRUCTURE
+The responsibilities of the stakeholders are
+defined under this section. It needs to be noted
+that the composition of the National and State
+Energy Workgroups can change, however the
+overall objective will remain the same.
+2.3.1 NATIONAL ENERGY WORKGROUP
+The National Energy Workgroup, coordinated
+by the Energy Division in the Department of
+R&D, is responsible for:
+ overseeing all national efforts in the
+energy sector
+ coordinating overseas development
+assistance that will be used for
+implementing the Action Plans
+ developing timely a nationwide energy
+statistic database for effective and factfinding planning, monitoring and
+evaluation.
+ assisting in implementing the action
+plans by the State Energy Workgroups
+(SEW)
+ providing technical assistance to the
+State Energy Workgroups as requested
+ annually review the Energy Policy and
+revising this Energy Policy as needed in
+consultation with the SEW
+Members:
+- Department of R & D (energy division) - Department of TC&I - Office of EEM
+- Office of SBOC (ODA) - Representative from the SEWs
+- Association of Micronesian Utilities
+- College of Micronesia (COM-FSM)
+In order to carry out these responsibilities, the
+National Energy Workgroup keeps close
+contact with:
+- State Energy Workgroups
+- National Government
+- Association of Micronesian Utilities
+- Regional Energy Committee
+- Secretariat of Pacifc Community
+- other relevant organisations
+2.3.2 STATE ENERGY WORKGROUPS
+The four State Energy Workgroups, including
+an Energy Coordinator in each State Energy
+Workgroup, are responsible for:
+ Overseeing and coordinating all State
+efforts in the energy sector.
+ Implementation of State Energy Action
+Plan
+ Advising the state government on energy
+issues
+ Assist in developing and designing
+specific and technically-sound Energy
+Efficiency and Renewable Energy projects
+for donor consideration, funding and
+implementation
+Members:
+- State Utility (can be the energy
+officer/coordinator, if the energy
+officer is staff of the state utility) - State government (can be the energy
+officer/coordinator, if the energy
+officer is staff of the state
+government) - State Planner (Infrastructure - IPIC) - Private sector or NGO representative33 | P a g e
+In order to carry out these responsibilities, the
+State Energy Workgroups keeps close contact
+with:- National Energy Workgroup
+- State Utility
+- State Government
+- State Chamber of Commerce
+- State community sector, including
+Non-Governmental Organizations
+2.4 OVERALL GOALS
+The overall goals apply to all the segments of the
+policy (renewable energy, energy efficiency &
+conservation and conventional energy). More
+specific goals and objectives will follow in the
+sections for renewable energy, energy efficiency
+and conventional energy separately.
+2.4.1 DISADVANTAGED AND/OR
+GEOGRAPHICALLY REMOTE COMMUNITIES
+ Encourage the application of
+appropriate support and incentives to
+enable disadvantaged and/or
+geographically remote communities to
+access affordable energy
+2.4.2 CAPACITY BUILDING
+ Improve adequate human and
+institutional capacity to plan, manage,
+and develop the energy sector by
+providing appropriate energy-related
+training opportunities at all
+educational and professional levels.  Accelerate research and development
+of energy technologies that are
+appropriate for adoption within the
+nation and facilitate international
+transfers of appropriate technologies
+that the nation is capable of operating
+and maintaining.
+ Assess and promote indigenous
+resource potential and technical
+capacity for all aspects of energy
+sector planning and development.
+2.4.3 PUBLIC AWARENESS
+ Increase training and public
+awareness on renewable energy and
+fuels for vehicles, energy efficiency,
+and conservation through publicity
+campaigns and school curricula.
+2.4.4 PRIVATE SECTOR INVOLVEMENT
+ Enhance public-private partnerships
+and expand private sector
+participation, investment, ownership,
+and management for energy supply
+including electricity generation,
+transmission and distribution.  Establish an enabling and competitive
+environment for the introduction of
+independent energy providers where
+these may provide efficient, reliable,
+and affordable service to consumers,
+in light of existing state laws. 2.4.5 COMMUNITY LEVEL INITIATIVES
+ Promote involvement and input from
+non-government organizations and
+local communities, including youth
+and women, in policy implementation
+and integrated planning.34 | P a g e
+3. RENEWABLE ENERGY
+The application of Renewable Energy is relatively
+new inthe FSM. The definition that we have used in
+this policy is:
+Renewable energy is energy generated from
+natural resources such as sunlight, wind, rain, tides,
+geothermal heat, biomass, biofuel, waves and
+waste that are locally available and sustainable
+(naturally replenished).
+In other words: Energy obtained from sources that
+are essentially inexhaustible, unlike fossil fuels, of
+which there is a finite supply.
+3.1 GOAL
+AN INCREASED SHARE OF
+RENEWABLE ENERGY IN THE
+NATIONS’ OVERALL
+ENERGY SUPPLY
+30 % OF THE ENERGY SUPPLY
+SHOULD COME FOR
+RENEWABLE ENERGY BY 2020
+3.2 OBJECTIVES
+ Promote the increased use of
+renewable energy technologies in all
+sectors of society and strive to meet
+national and state-level renewable
+energy targets.  Promote the effective management of
+both grid-connected and stand-alone
+renewable-based power systems.  Promote partnerships between the
+private sector (including local
+communities and NGOs) and public
+sector, and mobilize external financing
+to develop renewable energy
+initiatives.  Promote equitable availability of
+renewable energy in remote islands, rural areas on the main islands, and in
+the state centers, with social- economic development in mind.  Encourage implementation and
+markets for environmentally clean
+technologies and alternative fuels for
+transportation by using non-fossil
+fuels and other power sources in both
+new and existing vehicles.  Establish opportunities for better
+access to renewable energy
+technologies through the provision of
+incentives and the removal of barriers
+and constraints to sustainable energy
+sector development.35 | P a g e
+4. ENERGY EFFICIENCY &
+CONSERVATION
+Energy Efficiency and Energy Conservation are
+closely related terms. However, during the NEW
+meetings it was clear that people have different
+understandings when we talk about efficiency and
+conservation. The following definitions are used for
+this policy:
+ENERGY EFFICIENCY (EE) encompasses all changes
+that result in a reduction in the energy used for a
+given energy service (heating, lighting...) or level of
+activity. This reduction in the energy consumption
+is not necessarily associated to technical changes,
+since it can also result from a better organization
+and management or improved economic efficiency
+in the sector (e.g. overall gains in productivity).
+Energy Conservation (EC): is achieved through
+efficient energy use, in which case energy use is
+decreased while achieving a similar outcome, or by
+reduced consumption of energy services
+Simply said: reducing energy use is called energy
+conservation and efficiency is the percentage of
+energy that is actually used to perform work the
+rest of energy that is '' lost '' to the surroundings
+4.1 GOAL
+IMPROVE ENERGY
+CONSERVATION AND
+EFFICIENCY IN ALL SECTORS OF
+THE ECONOMY AND SOCIETY
+ENHANCE THE SUPPLY SIDE
+ENERGY EFFICIENCY BY 20% BY
+2015 AND INCREASE THE
+OVERALL ENERGY EFFICIENCY
+BY 50% BY 2020
+4.2 OBJECTIVES
+ Improve the efficiency of energy
+production, transmission, and
+distribution through supply side
+management.  Introduce demand side management
+programs for enhancing energy
+efficiency and conservation so as to
+reduce the energy consumption in
+government facilities, residential and
+commercial buildings, industry,
+agriculture and forestry.  Introduce and adopt building energy
+codes.  Promote appropriate incentives
+(including taxes, subsidies and tariffs)
+to encourage efficient energy use and
+minimization of waste.  Encourage co-operation in energy
+efficiency and conservation programs
+amongst the private sector,
+consumers and governments, by
+increasing public awareness and
+improving access to information.36 | P a g e
+5. CONVENTIONAL ENERGY
+The importing of fossil fuels takes up more than
+50% of the FSM aggregate sector grants. This
+highlights the reliance of this type of energy source
+in FSM and the urgent need for finding solutions for
+being less dependent on fossil fuels. The term
+“conventional energy” is widely used for fossil- based energy, nuclear energy, and large-scale
+hydro and geothermal (whereas hydro and
+geothermal also are renewable energy sources). In
+this policy, the focus is only on fossil-based energy
+like diesel, petrol, kerosene and natural gas.
+5.1 GOAL
+SAFE, RELIABLE, AND
+AFFORDABLE SUPPLY OF
+CONVENTIONAL ENERGY
+REGIONAL BULK PURCHASE,
+CENTRALIZED STORAGE AND
+COORDINATION TO SECURE
+AND OBTAIN EFFICIENCY BY
+2015
+5.2 OBJECTIVES
+ Improve the competitiveness of
+petroleum supply and support a
+national approach to negotiations
+with suppliers.  Promote the collection,
+transportation, and environmentally
+responsible re-use, disposal, or
+removal of waste oil and other
+petroleum by-products to minimize
+adverse impacts on soil, ground water,
+and near shore fisheries.  Encourage suppliers to maintain the
+quality of petroleum products and
+promote the use of appropriate
+technologies to reduce the emissions
+of green house gas and other
+pollutants from conventional energy
+at the supply and demand side.  Phase out government subsidies on
+the purchase of fossil fuel for energy
+production.  Work closely together with other
+Pacific island countries to collect and
+disseminate information on fuel
+demand, regional fuel prices, and
+related issues.  Work with the other North Pacific
+Island States toward regional fuel
+purchasing, thereby enhancing
+economies of scale and reduced costs
+to governments and consumers.37 | P a g e
+OVERVIEW ACTORS AND INSTITUTIONS
+Actor/ Instutition Advocacy
+Coalition
+Resources
+Regulators Department of Resources &
+Development Convenience Financial and human resources available to use for the energy sector. They host the Energy Divisionand are in the middle of network of energy sector.
+Office of the President Convenience Responsibility to allocate financial resources and determine strategic development plan.
+Network to acquire international funds.
+Department of Transportation,
+Communication and Infrastructure Convenience Financial and human resources in the field of infrastructure.
+Office of Statistics, Budget & Economic
+Management, Overseas Development
+Assistance & Compact Management
+Convenience Host the Overseas Development Assistance office. Financial and human resources to develop and
+maintain contact with international donors including the European Union.
+Office of the Environment and Emegency
+Management Progressive Financial and human resources dedicated to the environment and climate change. Department of Finance and
+Administration Convenience Authorization of each payment will be decided by them.
+State governments Convenience
+Financial and human resources dedicated energy matters in their state. By maintaining contact with
+the national government and/ or directly with international donors they can acquire funds for energy
+projects.
+Supply Side State utility companies (KUA, PUC, CPUC,
+YSPSC)
+Convenience Financial and human resources to maintain their energy systems. They also have and use their
+expertise to advise the government on energy matters.
+FSM Petroleum Corporation Conservative By determining the energy prices, they have a large influence on the energy sector and more generally
+on the country. One important resource is a contract with the government that states a minimum
+amount of energy that will be bought (see in text).
+European Union Renewable Energy
+Programme
+Progressive Financial resources to build projects and expertise to advise the government on energy matters.
+Private sector renewable energy
+initiatives
+Progressive Resources to build projects, and expertise to try to convince policy makers.
+Coconut Development Authority Progressive Financial and human resources to develop coconut oil production.38 | P a g e
+Demand
+Side
+Inhabitants FSM Convenience Try to influence the state and national government to provide affordable, reliable and sustainable
+energy by voting, purchasing power and forming of advocacy groups.
+Tourism sector (and representatives in
+National and state Government) Convenience Put pressure on the state and national government to provide reliable, renewable and affordableenergy.
+Department of Health Convenience Allocation of resources of the health sector with which they can try to influence policy making for the
+energy sector.
+Department of Education Convenience Allocation of resources of the health sector with which they can try to influence policy making for the
+energy sector.
+Private sector Convenience Put pressure on the state and national government to provide reliable and affordable energy.
+Local civil society Progressive Try to influence the state and national government to provide affordable, reliable and sustainable
+energy by voting and forming of advocacy groups.
+Continental Airlines Conservative Since they are the only airline company serving the country they have a monopoly position in which
+they can put pressure on the government.
+Financiers European Union, and other donors Progressive Besides developing renewable energy projects they can also enter agreement with the government and
+local suppliers and provide funds and expertise. United States Compact Fund Progressive Providing funds and expertise for energy projects.
+Governments with bilateral contacts,
+such as with Italy Progressive Providing funds and expertise for energy projects.
+National Government Progressive Providing funds and expertise for energy projects.
+State Government Progressive Providing funds and expertise for energy projects.
+Civil Society Local civil society including NGOs Progressive Try to influence the state and national government to provide affordable, reliable and sustainable
+energy by voting and forming of advocacy groups.
+International NGO (including UN
+organizations) Progressive Provide funds, expertise and use information campaign in an attempt to influence policy making.
+College of Micronesia Progressive Develop and provide expertise related to energy.
+Table 9: Overview actors and institutions39 | P a g e
+Figure 14: Proposed institutional structure for implementation
+39 | P a g e
+Figure 14: Proposed institutional structure for implementation
+39 | P a g e
+Figure 14: Proposed institutional structure for implementation40 | P a g e
+Figure 15: Map of the Federated States of Micronesia41 | P a g e
+APPENDIX A42 | P a g e
+TABLES & FIGURES
+Table 10: GHG Emissions and Potential Savings (Source: FSM SEFP country report, IT Power 2006) Country
+Projected
+baseline
+emissions in 10
+years, BAU
+Potential Annual GHG Savings
+Relative Savings from
+Renewable Energy and
+Energy Efficiency
+CO2
+(Gg)
+Year Gross
+(Gg)
+Adjusted
+(Gg)
+Adjusted
+as % of
+baseline
+RE
+(Gg)
+% of
+total
+EE
+(Gg)
+% of
+total
+FSM ~ 168 2012 23.9 23.9 14% 16.8 70% 7.1 30%
+Kiribati 72.2 2013 26.5 26.5 37% 24.5 92% 2.0 8%
+RMI 400 2013 22.3 22.3 6% 8.0 36% 14.3 64%
+Palau 441 2013 49 49 11% 12 24% 37 76%43 | P a g e
+Yap State Public Service Corporation (YSPSC)
+2064 customers
+Financial data Technical data
+KWhr sales revenues: (FY 2011) $5,109,667 Peak load: 2.3 MW
+Operating profit without
+depreciation (FY 2011):
+$232,770 Annual generated power: (FY
+2011)
+13,337 MWh
+Depreciation (FY 2011): $722,303 Annual sales: (FY 2011) 11,413 MWh
+Price of electricity (FY 2010):
+Price of electricity (FY 2011)
+45 cents per kWh
+50 cents per kwh
+Number of running
+generators:
+3
+Fuel cost (FY 2004):
+Fuel Cost (FY 2006)
+$0.90 per gallon
+$1.94 per gallon
+Combined capacity: 6.6 MW
+Fuel cost (FY 2010):
+Fuel cost (FY 2011)
+$3.68 per gallon
+$4.45 per gallon
+Number of distribution
+circuits:
+4
+Fuel cost for electricity (FY
+2006):
+Fuel cost for electricity (FY
+2010):
+Fuel cost of electricity (FY
+2011):
+16 cents per kWh
+31 cents per kwh
+41 cents per kwh
+Efficiency generation plant: 95 percent
+Fuel purchased from: FSM PC Losses distribution system
+(Including non technical losses – 2.4% - meters inaccuracy ):
+8 percent
+Reduction with Cash Power
+meter:
+N/A Percentage of Cash Power
+meters installed:
+5 percent
+Table 11: Yap State Public Service Corporation – financial and technical data (power generation and distribution)44 | P a g e
+The Kosrae Utilities Authority (KUA)
+1,903customers
+Financial data Technical data
+KWhr sales revenues:
+FY 2011
+$1,864,866
+$2,282,842
+Peak load : 1.01 MW (2009)
+1.06 MW (2011)
+Operating expense: $2,547,365 (2009)
+$2,919,903 (2011)
+Annual sales : 5,169 MWh(2009)
+5,248 MWh(2011)
+Operating loss without
+depreciation:
+$ 171,571 (2009)
+$2,471,920 (2011)
+Number of generators: 5
+Depreciation : $ 510,828 (2009)
+$ 432,565
+Combined capacity: 4,580 kW
+Price of electricity : 36 cents / kWh (2009)
+44 cents/kWh (2011)
+Portable emergency
+generator
+650 kW
+Fuel cost: $2.85 / gallon (2006)
+$ 4.40 / gallon (2008)
+$ 3.42 / gallon (2009)
+$4.41/gallon (2011)
+Number of distribution
+circuits:
+3
+Efficiency generation plant: 32 percent
+Fuel cost for electricty: 28 cents/ kWh (2009)
+31 cents/kWh (2011)
+Losses distribution system: 8 percent
+Fuel purchased from: FSM PC Efficiency of fuel in to kWh: 29.4 percent
+14 kWh/Gal
+Reduction with Cash Power
+meter:
+4 percent Percentage of Cash Power
+meters installed:
+80% (2009)
+81% (2011)
+Table 12: Kosrae Utility Authority – financial and technical data (power generation and distribution)45 | P a g e
+The Pohnpei Utility Corporation (PUC)
+6,184 customers
+Financial data Technical data
+KWhr sales revenues:(FY??)
+(FY 2011)
+$6,950,000
+$12,878.101
+Peak load: 6.5 MW
+6.7 MW
+Operating profit without
+depreciation (2011):
+($7,425) Annual generated power: 35,000 MWh
+Depreciation (2011): $1,567,158 Annual sales: 30,000 MWh
+Price of electricity (2011): 41 cents per kWh Number of generators: 7
+Fuel cost (2011): $1.33 per gallon Combined capacity: 13.405 MW
+Fuel cost (2006):
+Fuel Cost (FY 2011)
+$2.30 per gallon
+$3.98 per gallon
+Number of distribution
+circuits:
+4
+Fuel cost for electricty (2004):
+Fuel cost of electricity (2011)
+12.1 cents per kWh
+31 cents per kwh
+Efficiency generation plant: 13 percent
+Fuel purchased from: FSMPC Losses distribution system: 16 percent
+Reduction with Cash Power
+meter:
+Percentage of Cash Power
+meters installed:
+95
+Table 13: Pohnpei Utility Corporation – financial and technical data (power generation and distribution)46 | P a g e
+The Chuuk Public Utilities Corporation (CPUC)
+1,637 customers
+Financial data Technical data
+KWhr sales revenues: (2006)
+YTD 2012
+$2,837,260
+$3,457,071
+Peak load: 4 MW
+2.5 MW
+Operating expense (2006):
+YTD 2012
+$2,822,126
+$2,738,740
+Annual generated power:
+YTD 2012
+21,520 MWh
+8,180 MWh
+Operating profit without
+depreciation (2006):
+YTD 2012
+$15,134
+($2,186)
+Annual sales:
+YTD 2012
+12,200 MWh
+5,862 MWh
+Depreciation (2006):
+YTD 2012
+$1,157,080
+$ 202,720
+Number of generators: 3
+2
+Price of electricity (residential
+customers):
+FY 2012 Average Price
+32.26 cents per kWh
+58 cents per KWh
+Combined capacity: 3.4 MW
+5.2 MW
+Fuel cost (2006):
+FY 2012
+$1.95 per gallon
+$4.43 per gallon
+Number of distribution
+circuits:
+4
+Fuel purchased from: FSM PC. Percentage of Cash Power
+meters installed:
+98 percent
+Table 14: Chuuk Public Utility Corporation – financial and technical data (power generation and distribution)47 | P a g e
+Table 15: Yap State Public Service Corporation – Residential Electricity Rates Trend (’99 thru 2011)4
+4 Note: in November 2004 YSPSC included flexible fuel (adjustment) charges in their fee structure. From November
+2004 until February 2006, the fuel adjustment stayed stable but starting from March 2006 YSPSC adjusted the fuel
+charge monthly. In March 2008, Yap State Legislature reversed the 2006 adjustments and the fuel charge was put
+back to 3.5 ct/kWh. Acklowledging the financial problems the Yap State Government advised YSPSC to change the
+tariff structure again and from December 27, 2008 untill March 2010 the tariffs are without fuel charge adjustments
+but with the Government subsidizing the tariff by paying 73.7 ct per kWh while residents pay 31.8 ct per kWh.48 | P a g e
+Table 16: Yap State Public Service Corporation – Commercial Electricity Rates Trend (’99 thru 2011)5
+5 See Note on Residential Tarifs footnoot 849 | P a g e
+Table 17: Yap State Public Service Corporation – Government Electricity Rates Trend (’99 thru 2011)950 | P a g e
+Table 18: Yap State Wind Data, July 2009 – February 201051 | P a g e
+WORKS CITED
+FSM Strategic Development Plan 2004-2023, Volume I- Policies and Strategies for Development
+FSM Strategic Development Plan 2004-2023, Volume II – Strategic Planning, Matrices and
+Appendices
+Department of Interior (DoI). ‘United States of America Insular Areas Energy Assessment Report: An
+Update of the 1982 Territorial Energy Assessment.’ Prepared by the Pacific Power Association, Fiji
+(2006).
+SBOC. ‘Federated State of Micronesia, Division of Statistics.’
+http://www.spc.int/prism/country/fm/stats/index.htm (accessed July, 2009).

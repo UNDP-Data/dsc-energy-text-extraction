@@ -1,0 +1,3465 @@
+File Name: GMB-NREP-2013-EN
+Year: 2013
+Country Name: Gambia
+Country Code: GMB
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2013
+Start Year: 2013
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+The Gambia
+RENEWABLES READINESS 
+ASSESSMENT 2013Unless otherwise indicated, the material in this publication may be used freely, shared or reprinted, 
+so long as IRENA is acknowledged as the source.
+About IRENA
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation 
+that supports countries in their transition to a sustainable energy future, and serves as the 
+principal platform for international cooperation, a centre of excellence, and a repository of 
+policy, technology, resource and financial knowledge on renewable energy. IRENA promotes 
+the widespread adoption and sustainable use of all forms of renewable energy, including 
+bioenergy, geothermal, hydropower, ocean, solar and wind energy in the pursuit of sustainable 
+development, energy access, energy security and low carbon economic growth and prosperity.
+Authors: Gauri Singh (IRENA), Safiatou Alzouma Nouhou (IRENA) 
+and Mohamed Youba Sokona (IRENA)
+About RRA
+A Renewables Readiness Assessment (RRA) is a holistic evaluation of a country’s conditions and 
+identifies the actions needed to overcome barriers to renewable energy deployment. This is a 
+country-led process, with IRENA primarily providing technical support and expertise to facilitate 
+consultations among different national stakeholders. While the RRA helps to shape appropriate 
+policy and regulatory choices, each country determines which renewable energy sources and 
+technologies are relevant and consistent with national priorities. The RRA is a dynamic process 
+that can be adapted to each country’s circumstances and needs. Experience in a growing 
+range of countries and regions, meanwhile, has allowed IRENA to continue refining the basic RRA 
+methodology. In June 2013, IRENA published a guide for countries seeking to conduct the process 
+in order to accelerate their renewable energy deployment.
+For more information visit www.irena.org/rra
+Acknowledgements
+IRENA prepared this report in close collaboration with Yacob Mulugetta (University of Surrey), 
+Abeeku Brew-Hammond and Edward A. Awafo (The Energy Center, Kwame Nkrumah University of 
+Science and Technology), and Sambou Kinteh (independent consultant, The Gambia). The report 
+benefited from review and consultations with the ECOWAS Centre for Renewable Energy and Energy 
+Efficiency (ECREEE). IRENA wishes to thank the following experts for their insights and constructive 
+guidance during the peer review process: Manuel Fuentes (IT Power - UK), Haruna Gujba (African Union 
+Commission - AUC), Monica Maduekwe (ECREEE), Modou Manneh (Ministry of Energy, The Gambia), 
+Hans Noteboom (Gamsolar Gambia), Bah Saho (ECREEE) and Frank Wouters (IRENA). 
+For further information or to provide feedback, please contact: 
+SAlzouma@irena.org or secretariat@irena.org
+Disclaimer
+The designations employed and the presentation of materials herein do not imply the expression 
+of any opinion whatsoever on the part of the International Renewable Energy Agency concerning 
+the legal status of any country, territory, city or area or of its authorities, or concerning the 
+delimitation of its frontiers or boundaries. The Gambia
+RENEWABLES READINESS 
+ASSESSMENT 2013FOREWORD
+The Gambia, at present, is totally dependent on petroleum products for 
+transport and electricity generation. This dependency has continued in 
+spite of the existence of a formulated renewable energy policy, maintaining pressure on the national economy and ensuring a weak balance 
+of payments. Given the volatility of international fuel prices, The Gambia 
+has one of the highest electricity tariffs in the West African sub-region.
+The Renewables Readiness Assessment (RRA) for the Gambia could 
+not, therefore, have come at a better time. 
+The availability of adequate, reliable, affordable and sustainable energy 
+is a critical milestone in the socio-economic development of any country. 
+While less than half of all households in The Gambia have access to electricity, over 90% are still dependent on solid biomass for cooking and 
+heating. This has intensified poverty. Thus, a top priority in government 
+energy policy to promote the deployment and use of renewable energy 
+and energy-efficiency (RE/EE) technologies, in order to improve energy 
+security and access to modern energy services. To fulfil this objective, 
+the government has taken a number of steps: establishing The Gambia 
+Renewable Energy Centre (GREC); adopting a policy of zero import duty 
+on RE/EE technologies; and recently drafted a renewable energy law. 
+These efforts have been constrained by inadequate financial, human and 
+institutional resources, which remain major challenges, as highlighted by 
+the RRA. Concerted efforts by all stakeholders are therefore needed to 
+bring down these barriers.In recognising the strong support of our traditional donors in the 
+energy sector, it is our expectation that the International Renewable 
+Energy Agency (IRENA) will share this RRA report with a wider spectrum of partners. Our hope is to attract more support, to reduce the 
+constraints identified, and bring more investment, so as to facilitate rapid 
+renewable energy deployment and broaden access to energy 
+services, thereby improving economic growth and reducing poverty in 
+The Gambia. We also have great hopes that the experiences gained 
+in The Gambia will also provide helpful lessons for applying the RRA
+methodology in other countries. My own, admittedly personal, assessment is that the methodology has proven highly effective in defining the 
+barriers to rapid renewable energy technology development. 
+Hon. Teneng Mba Jaiteh, 
+Minister of Energy, 
+The GambiaFOREWORD
+The Africa High-Level Consultative Forum held by the International 
+Renewable Energy Agency (IRENA) in July 2011 highlighted the need 
+for technical support for African countries and regions to identify their 
+renewable energy readiness. The Renewables Readiness Assessment 
+(RRA) process stemming from this involves a holistic evaluation of a 
+country’s conditions and identifies the actions needed to overcome 
+barriers to renewable energy deployment. This is a country-led process, 
+with IRENA primarily providing technical support and expertise to 
+facilitate consultations among different national stakeholders.
+Since 2011, more than 14 countries in Africa, the Middle East, Latin 
+America and the Caribbean, Asia and the Pacific Islands have undertaken 
+the RRA process, which generates knowledge of good practices 
+and supports international cooperation to enable the accelerated 
+deployment of renewable technologies. The Gambia, in keeping with 
+its strong and consistent support of IRENA’s mission, is one of these 
+pioneering countries. 
+As the RRA highlights, The Gambia has relatively high electricity tariffs. 
+However, with an electricity network consisting of mini-grids, the country 
+is well positioned to integrate solutions based on renewable energy. 
+IRENA and several partners – with their understanding enhanced by the 
+RRA process – have initiated studies to demonstrate the commercial 
+viability of hybrid mini-grids in The Gambia and thereby attract 
+investment.IRENA would like to thank Minister Jaiteh and her team for their patience 
+and generosity in hosting this study. Their engagement and input 
+have exceeded expectations, and we are grateful for their important 
+contributions, which have resulted in valuable insights for further RRAs 
+in the 2014-2015 period. Additionally, this report will feed into other 
+IRENA regional work, including modelling and analysis on planning and 
+prospects for renewable energy in West Africa.
+We sincerely hope that the outcomes of these RRA consultations 
+will help The Gambia’s to fulfil its aim to scale up renewable energy. 
+IRENA stands ready to provide continuing support to The Gambia in 
+implementing the actions identified.
+Adnan Z. Amin
+Director-General, IRENACONTENTS
+ACRONYMS XI
+LIST OF FIGURES XII
+LIST OF TABLES XII
+EXECUTIVE SUMMARY XIII
+I. INTRODUCTION 1
+ COUNTRY BACKGROUND 1
+ ROLE OF ENERGY IN DEVELOPMENT IN THE GAMBIA 2
+ RRA PROCESS IN THE GAMBIA 3
+II. ENERGY CONTEXT 5
+ REGIONAL CONTEXT 5
+ ENERGY SUPPLY AND DEMAND IN THE GAMBIA 9
+ ELECTRICITY GENERATION, TRANSMISSION AND DISTRIBUTION 11
+ RENEWABLE ENERGY RESOURCE POTENTIAL AND USE 14
+ 
+III. ENABLING ENVIRONMENT FOR RENEWABLE ENERGY 23
+ KEY ENERGY STAKEHOLDERS AND INSTITUTIONAL STRUCTURES 23
+ ENERGY POLICIES AND REGULATORY FRAMEWORK 25
+ FINANCING AND INVESTMENT 27
+IV. OPPORTUNITIES IN DEPLOYMENT OF 
+ RENEWABLE ENERGY IN THE GAMBIA 30
+ GRID-CONNECTED RENEWABLE ENERGY OPTIONS 30
+ OFF-GRID RENEWABLE ENERGY OPTIONS 38
+ BIOMASS FOR COOKING AND HEATING 46
+ OPPORTUNITIES AND CONSTRAINTS FOR SCALING UP 
+ RENEWABLE ENERGY DEPLOYMENT 50V. SUMMARY OF RECOMMENDED ACTIONS 55
+VI. REFERENCES 58
+VII. ANNEX: DETAILED DESCRIPTION OF RECOMMENDED ACTIONS 61
+ Action 1: Speed up renewable energy law 61
+ Action 2: establish standards and labels for 
+ renewable energy equipment 62
+ Action 3: Revive The Gambia renewable energy centre (GREC) 63
+ Action 4: Assess, update and validate solar, biomass and 
+ wind resource mapping 64
+ Action 5: Establish renewable energy fund and 
+ identify funding sources 65
+ Action 6: Build stakeholder capacity (policy makers, regulator 
+ and the private sector) 66
+ Action 7: Allocate land for renewable energy use 67ACRONYMS
+ECOWAS Economic Community of West African States 
+ECREEE ECOWAS Centre for Renewable Energy and Energy Efficiency
+FIT Feed-in-Tariff
+GDP Gross Domestic Product
+GEF Global Environment Facility
+GEG Global Electrical Group 
+GIZ Deutsche Gesellschaft für Internationale Zusammenarbeit/
+ German International Cooperation Agency
+GREC Gambia Renewable Energy Centre
+GTTI Gambia Technical Training Institute 
+GWh Gigawatt hours
+IPP Independent Power Producer
+IRENA International Renewable Energy Agency
+kV Kilovolt
+kW Kilowatt
+LPG Liquefied Petroleum Gas
+MOE Ministry of Energy
+MOFEA Ministry of Finance and Economic Affairs
+MOFEN Ministry of Forestry and Environment
+MW Megawatt
+NAWEC National Water and Energy Company 
+NGO Non-Governmental Organisation
+PAGE Programme for Accelerated Growth and Employment
+PURA Public Utility Regulatory Authority
+PV Photovoltaic
+RE Renewable Energy
+REAGAM Renewable Energy Association of The Gambia
+REMP Renewable Energy Master Plan
+RRA Renewables Readiness Assessment
+TJ Terajoules
+TWh Terawatt hours
+TES Total Energy Supply
+TOE Tonnes of Oil Equivalent
+UNIDO United Nations Development Organization
+WAPP West African Power Pool
+Wp Watt PeakLIST OF FIGURES
+Figure 1 WAPP regional sub-programmes 07
+Figure 2 Total primary Energy supply by fuel 09
+Figure 3 The Gambia electricity infrastructure 1 1
+Figure 4 Solar radiation in The Gambia. 1 5
+Figure 5 Gambia global horizontal irradiance (GHI) 1 6
+Figure 6 Monthly wind speed at 30m in three sites in The Gambia 1 8
+Figure 7 Gambia wind speed at 10m height 1 9
+Figure 8 Levelised cost of generation with wind (comparison of 
+refurbished and new wind systems at different prices) 32
+Figure 9 Levelised cost of generation of different scale systems 
+in The Gambia 34
+Figure 10 Life cycle cost comparison between PV and diesel 
+for off-grid electrification 40
+Figure 11 Life cycle cost comparison between PV and diesel for 
+water pumping at different depths 42
+Figure 12 Solar heater cumulative cash flow and payback period 44
+LIST OF TABLES
+Table 1 Installed electricity generation capacity 
+and production per station in 2011 1 2
+Table 2 Evolution of the electricity market. 1 2
+Table 3 Electrification rate per region 1 3
+Table 4 Comparison of tariff affordability in selected West African countries 1 3
+Table 5 Energy potential of agricultural residues in 2011 2 1
+Table 6 Tanji wind turbine power generation 3 1
+Table 7 Solar power installation by major local companies in 2004-2010 39EXECUTIVE SUMMARY
+The Gambia, located in West Africa, has an estimated population of 
+1.8 million as of 2012, with an annual growth rate of 2.7% per annum and 
+the share of the urban population increasing from 37% in 1993 to about 
+55% today. With about 48.4% of the population currently living below 
+the USD 1.25/day mark, The Gambia’s Gross Domestic Product (GDP) 
+grew steadily at an average of 6.3% in 2003-2010, but declined sharply 
+(to -4.4%) in 2011. Biomass, including fuel wood, accounts for about 60% 
+of the country’s energy supply and more than 90% of household energy 
+consumption, while petroleum products (liquefied petroleum gas for 
+cooking; diesel and heavy fuel oil for generating electricity) account for 
+36%, and electricity for about 4% of energy supply. Over 65% of the 
+population lacks access to electricity.
+The Gambia has great potential to accelerate renewable energy use to 
+power its growing economy. The government recognises that developing local and renewable resources is critical to meeting its economic 
+and social objectives. It is promoting this development by creating the 
+necessary policy space and developing appropriate regulatory and legal 
+frameworks.
+The Gambia needs to overcome its dual challenges of energy access and 
+security of supply, which cut across all sectors and have an impact on all 
+Gambians. Current biomass use is contributing heavily to land degradation and deforestation, and the pressure will continue to increase due to 
+a growing population. 
+Electricity is a key challenge in terms of both quality and access. The 
+existing power infrastructure in The Gambia is dilapidated and urgently 
+needs modernising and refurbishing. Voltage fluctuation, spikes, blackouts, brownouts and other disruptions create concern for industrial, 
+commercial and residential customers. The continued dependence on 
+imported fuel for generating electricity is also taking its toll on the wider 
+economy. In short, the energy system has become a burden on the 
+Gambian economy and society – part of the problem of development 
+rather than the solution. The status quo is unsustainable. 
+The Gambian government considers the provision of electricity to all 
+as critical to inclusive economic transformation. It recognises off-grid 
+renewable energy as a practical, potentially cost-effective alternative to expanding the grid to every corner of the 
+country. The government electrification 
+strategy has embraced both grid-based 
+and off-grid options. 
+Renewable energy systems are well positioned to play a critical role in addressing this growing energy demand for the 
+following reasons: 
+•	 The Gambia has abundant renewable
+energy resources that could help meet 
+growing demand. The Gambia has 
+abundant solar energy resources across 
+the country, a good biomass resource in 
+most areas, and a modest wind regime 
+along the coast. These resources can 
+be developed to bring higher-quality 
+energy services to populations across 
+the country.
+•	 Renewable energy safeguards energy
+access. The Gambia’s use of locally 
+available renewable resources will 
+reduce its dependence on imported and 
+expensive fossil fuels, which it can ill 
+afford. There is already strong pent-up 
+demand for energy, especially electricity. As national demand for electricity 
+increases, it will be necessary to look 
+into options that are affordable, reliable 
+and have predictable cost attributes. 
+•	 Renewable energy costs have fallen
+significantly and are likely to continue 
+declining. The increased dash for fossil 
+resources is likely to push prices up, 
+while increased renewable technology deployment pushes prices down, 
+in line with progress in technology 
+and economies of scale. This offers an 
+opportunity for The Gambia to rethink 
+its energy strategy. 
+•	 Off-grid renewable power can meet
+demand in unserved rural areas in The 
+Gambia and can replace existing dieseldriven systems. The Gambia has yet 
+to build its energy infrastructure in a 
+planned and systematic manner. At the 
+moment, much of its rural electrification programme relies on international 
+donors. The national utility is struggling to maintain service to existing 
+customers. As a distributed and scalable option, many renewable energy 
+technologies are well suited to meet 
+the need for power in remote areas. 
+•	 The Gambia needs to increase the
+available capacity supplied to the grid. 
+Power produced through renewable 
+systems can be fed into the grid in The 
+Gambia, providing a clean and reliable 
+power supply. The country already has 
+some experience in this area. At present, the government is working on a 
+Feed-in-Tariff (FIT) scheme, grid code 
+modification and a standard Power 
+Purchase Agreement (PPA) that would 
+facilitate private-sector entry into The 
+Gambia’s power sector.
+•	 The West African Power Pool (WAPP)
+represents an important opportunity 
+for The Gambia. A large bulk of the 
+power likely to be generated through 
+the WAPP will be hydropower, a renewable energy resource. Given the scale 
+of power produced through the power 
+pool and Gambian power production and transmission challenges, The 
+Gambia is expected to greatly benefit 
+in terms of cheaper electricity supply. 
+The Gambia also needs to build up its technical and regulatory capacity. The level of 
+skills in The Gambia is not sufficient for 
+the magnitude of the energy challenge 
+in the country. The government will need 
+to revitalise its technical arm, the Gambia 
+Renewable Energy Centre (GREC), to provide scaled-up technology development, finance, regulation and management 
+support. Further capacity will need to be 
+built in research institutions and among 
+community stakeholders.
+Renewable energy development represents 
+an area of tremendous opportunity for 
+The Gambia. This Renewables Readiness 
+Assessment report lays out the energy 
+challenges that The Gambia faces today, 
+along with ways the country has supported 
+the development of renewable energy 
+programmes. It shows the impact these 
+programmes have had on the energy landscape, as well as the enormous constraints 
+that still remain. The report provides information about the role of renewable energy 
+in The Gambia so far and the policies that 
+have been implemented to support renewable energy deployment. It also outlines 
+the potential for renewable energy technologies to be integrated into the Gambian 
+energy mix in a way that services the country’s development priorities and goals. 
+Recommended actions 
+A draft renewable energy bill was validated 
+in December 2012, pending presentation 
+before the National Assembly for adoption. 
+A number of national stakeholders will play 
+a part in rolling out the act. The Ministry of 
+Energy is to recommend national targets 
+for the use of renewable energy resources, 
+the Ministry of Finance and Economic 
+Affairs is to provide tax exemptions to 
+renewable-energy equipment and 
+renewable-based electricity, while the 
+Public Utility Regulatory Authority is to 
+implement a regulatory framework that 
+includes defining the rules for pricing 
+renewable electricity through FITs, as well 
+as setting up and managing a renewable 
+energy fund. This provides the legal foundation for efficient promotion of renewable 
+energy resources and is considered a major 
+milestone in delivering some of the key 
+priorities in the Programme for Accelerated 
+Growth and Employment (PAGE) 
+2012-2015; its enactment, therefore, would 
+be worth speeding up. 
+The Gambia currently has no renewable energy technology standards. Most 
+operators in the renewable energy sector, 
+despite having a solid track record in delivering power-generation projects, are not 
+complying with any specific standards. The 
+renewables market is expected to expand 
+and new entrants appear in the trading and 
+system-installation market. The draft FIT 
+scheme and PPA mention general codes 
+and standards that should apply to renewable energy plants. However, it would also 
+be worth creating specific standards and 
+codes for renewable energy technologies, 
+in order to ensure adequate quality, design, 
+safety, and operation and maintenance of 
+equipment (whether imported or locally 
+manufactured). 
+Thus, the role of GREC will need to be redefined and its capacity developed further. 
+As a knowledge hub within the Ministry 
+of Energy, GREC could play a pivotal role 
+in maintaining high standards of research 
+and development activities. It could use 
+its own human resources and work with 
+non-governmental organisations (NGOs), 
+the private sector and tertiary educational institutions. However, funding for the 
+continuous support of research and development in the renewable energy sector 
+has been discontinued. Adequate staffing 
+was not maintained. The Gambia should 
+therefore support the revival of GREC by 
+entrusting the centre with a number of 
+roles. These include scientific, technological and innovation research in renewable 
+energy, promoting renewables for industrial 
+uses, and building the capacity of installers of renewable energy systems with proper 
+certification. In order to attract qualified 
+expertise for this purpose, the government of The Gambia will need to allocate 
+a specific budget from internal sources. 
+It will also need to support partnerships 
+between GREC and well-established international centres of excellence in the renewable energy sector with similar mandate.
+The Gambia has conducted solar and wind 
+resource measurements at eight stations 
+across the country. The study confirmed 
+the existence of a good resource base, 
+including considerable solar energy, some 
+wind-power potential along the coast, and 
+biomass, which could be used for improving 
+the electrification rate and diversifying the 
+electricity mix, as envisaged in the PAGE. 
+Usually, sites are screened on the basis of a 
+solar/ wind atlas, validated with measurements from meteorological stations, and 
+monitored for about a year before wind 
+turbines are installed. This procedure was 
+not followed at the Gambian sites, given 
+the country’s poor meteorological intelligence. The government must create the 
+conditions for attracting investments to 
+strengthen the observation network, as 
+well as make the necessary preparations to 
+obtain a good understanding of the wind 
+regime across the country. This will help 
+in making informed decisions, including 
+setting achievable targets, and will, furthermore, help The Gambia take advantage of 
+the significant interest of private operators seeking involvement in the renewable 
+energy sector. 
+The rural energy system, as it has evolved 
+to date, is complex and not disposed to 
+adequate planning and resource coordination. The upfront cost of renewable 
+energy systems is a disadvantage in rural 
+communities, with little income or funds to 
+obtain electricity services. Soft loans can 
+be attractive, with a small down payment 
+being made on the total price, and the 
+rest being paid over a number of years 
+at a preferential interest rate. The draft 
+renewable energy law, currently under 
+discussion, supports the establishment 
+of a renewable energy fund, which would 
+be administered by the Public Utility 
+Regulatory Authority and would provide 
+financial incentives such as capital subsidies, production-based subsidies and 
+equity participation. These would be available for mini-grid and off-grid renewable 
+power systems for remote areas and islands 
+and should attract private investment in the 
+sector. The expected challenge would be to 
+ensure that the renewable energy fund has 
+sufficient resources to maintain the investment momentum. The government will 
+need to employ a variety of creative fundraising mechanisms to sustain the fund.
+The Gambia has built credible human 
+capacity in some renewable applications, 
+such as solar photovoltaic (PV) and waterheating systems. However, as yet, there 
+are no government or NGO-led public 
+education programmes and no formalised 
+technical training programmes. Capacity 
+development for planning and implementing large-scale off-grid (and also on-grid) 
+programmes will need to be increased if the 
+promise of renewable energy resources is 
+to be fully realised. Private-sector involvement will require multiple skills in energy 
+analysis, engineering, finance and management in order to build a strong renewable 
+energy business environment.I. INTRODUCTION
+Country background
+The Gambia, with an area of 11570 km2, is located in West Africa. 
+It extends about 400 km inland along the banks of the Gambia River 
+and is bordered by Senegal on three sides. The Gambia has an estimated population of 1.8m as of 2012, with an annual growth rate of 
+2.7% per annum and a population density of 120 people/km2. The country is currently undergoing a rapid rate of urbanisation with the share 
+of urban population increasing from 37% in 1993 to about 55% today 
+(World Bank, 2013) 
+The Gambia’s Gross Domestic Product (GDP) grew steadily at an 
+average of 6.3% in 2003-2010, but declined sharply (to -4.4%) in 2011 
+due to sluggish tourism and unfavourable weather conditions. These led 
+to a 60% drop in crop production (IMF, 2013). With a partial rebound 
+in agriculture and strong performance in tourism, the economy showed 
+signs of recovery in 2012. It continues to make further gains, with 
+real GDP growth expected to reach 4.3% and 5.1% in 2013 and 2014 
+respectively (AEO, 2012). 
+The agriculture sector contributes approximately 25% of the GDP but 
+employs nearly 75% of the population, provides 50% of the national food 
+requirement and accounts for 70% of domestic exports. It is thus subject 
+to wide fluctuations conditioned by external market situations (Africa 
+Energy Outlook (AEO), 2012). The government has therefore prioritised 
+the development of the agricultural sector by putting in place measures 
+that will transform it into a market-oriented, modern and efficient sector. 
+The service sector accounts for approximately 60% of GDP, within 
+which tourism, re-export, trade and telecommunication have been the 
+major drivers of growth and job creation. Telecommunications are well 
+developed with a mobile penetration rate of 89% (well above the 53% 
+African average).Manufacturing, mining and quarrying remain the smallest component of 
+the economy, accounting for 4.9% and 
+2.7% respectively of GDP in 2011. Despite 
+government efforts to promote manufacturing, it has been stagnant for years. This 
+can be explained partly by the small size 
+of the market but also high energy costs, 
+low investment and weak trade facilitation. Mining and quarrying exploration is 
+in progress, as The Gambia is thought to 
+be endowed with mineral products such as 
+clay, silica sand, titanium, tin and zircon. 
+According to the World Bank (2013), net 
+flow of foreign direct investment was 
+around USD 36m in 2011, and reached a 
+high point of USD 82m in 2006. The distribution of financial flows was mainly from 
+real estate, construction and tourism. The 
+net official development assistance and 
+official aid received by The Gambia in 2011 
+amounted to USD 76m. 
+Poverty in The Gambia remains pervasive. 
+It was placed 169th out of 189 countries in 
+the 2012 Human Development Index (HDI) 
+rankings. With about 48.4% of the population currently living under the USD 1.25/
+day (Gambian government, 2011), poverty 
+alleviation is a national priority. Poverty 
+incidence is the highest among households 
+whose main income is derived from agriculture and fisheries. The government has 
+developed a medium-term framework in 
+the Programme for Accelerated Growth 
+and Employment (PAGE) for 2012-2015 
+with the aim to accelerate pro-poor growth 
+and generate efficient employment. 
+The government designed PAGE to focus 
+on strategic areas of intervention linked 
+to the Millennium Development Goals 
+(MDGs). Acknowledging the importance 
+of energy as a crucial input to economic 
+development, PAGE has made energy 
+access a strategic focus. It recognised that 
+by providing affordable and reliable energy 
+services to support small businesses and 
+social services, the socio-economic conditions of the population can be improved 
+and the MDGs achieved. The government 
+plans to focus on modernising the electricity supply infrastructure, improving the 
+existing regulatory framework and increasing the RE contribution in the energy mix. 
+Role of energy in 
+development in The Gambia
+As highlighted in PAGE 2012-15 and earlier 
+development programmes, The Gambia 
+needs to scale up its energy services, 
+both in quality and quantity, to meet the 
+country’s social and economic development needs. Present per capita electricity 
+consumption is 136 kilowatt-hours (kWh) 
+per year against an African average of 
+over 575 kWh and a global average of over 
+2770 kWh. This makes the average Gambian 
+citizen among the lowest consumers of 
+electricity in the world. What is more, over 
+65% of the population lacks access to electricity, and the level of suppressed demand 
+in the national power sector is significant. 
+This suggests that The Gambia needs to 
+close the gap between electricity demand 
+and what it is able to supply to its citizens. 
+More than 90% of Gambian households 
+rely heavily on traditional biomass to meet 
+their basic energy needs. This comes at a 
+significant price. It means poor fuel quality, 
+with the associated health impacts as well 
+as an unnecessary amount of time spent 
+in collection, though this is comparatively 
+modest compared to other countries. The 
+Gambia has ample biomass resources and 
+a good potential to engage in sustainable 
+harvesting for household fuel and possibly for generating electricity. It also has 
+significant solar energy and modest wind 
+resources along its coastal areas that can 
+be successfully harnessed for power supply and water heating. There is some experience in The Gambia of converting these 
+resources into useful energy. This limited 
+experience shows the untapped potential 
+Renewable Energy (RE) technologies are 
+well suited for both urban and rural energy 
+applications. Indeed, the time is ripe for The 
+Gambia to take advantage of critical global 
+developments in clean energy sources, 
+which are rapidly becoming cost-effective 
+options. Furthermore, The Gambia’s high 
+oil import bills and financial losses experienced by its struggling energy utility 
+imposes a burden on the national economy 
+and is a handicap to growth. Developing 
+its RE programme, opening the market to 
+IPPs and upgrading grid infrastructure to 
+reduce distribution losses (both commercial and technical) should therefore be a 
+central development strategy. 
+The Gambia’s future development will 
+largely be determined by whether it takes 
+full advantage of these opportunities. It 
+has done well in solving a number of development problems in education, health and 
+water services, and energy services have 
+played a major role in this respect. To 
+this end, there needs to be a major new 
+programme to improve access to clean 
+energy services for rural communities and 
+enhance security of supply to its industries and other key economic sectors. This 
+is part of The Gambia’s aim to safeguard 
+the welfare of its people and to its drive 
+towards economic transformation. 
+Lack of access need not be a permanent 
+problem for countries such as The Gambia. 
+Indeed, many of the emerging economies 
+that have now achieved universal access 
+were once struggling with the same energy-related difficulties. In many of these 
+successful cases, energy interventions 
+in the social and economic sectors were 
+implemented as part of a comprehensive 
+development strategy. These two goals 
+are not mutually exclusive but intertwined. 
+For The Gambia, making a transition out of 
+inefficient biomass use and imported fuel 
+dependency will not be easy. However, it 
+has an opportunity to deploy renewables 
+and use energy efficiently as part of its 
+effort to build a resilient energy system. 
+This will require sound policies, an effective 
+regulatory framework, robust and dynamic 
+institutions and sustained capacity development programmes. 
+RENEWABLES READINESS 
+ASSESSMENT (RRA) process 
+in The Gambia
+A senior officer at the Ministry of Energy 
+(MOE) with a thorough knowledge and 
+experience in renewables was the RRA
+representative for The Gambia. 
+Following preparations by the national 
+consultant and MOE, a representative from 
+the ECOWAS Centre for Renewable Energy 
+and Energy Efficiency (ECREEE) wrote 
+to the key institutions selected to be part 
+of the technical/expert team. They were 
+invited to the formal launch of the RRA at a 
+kick-off meeting on 24 July 2012. The institutions who took part in the process are 
+listed in section 3 of this report. The technical/expert team was divided into three 
+thematic subgroups.
+The subgroups met on 21, 22 and 23 August 
+2012 respectively, having had time to go 
+through zero draft templates prepared 
+by the national consultant in advance of 
+their scheduled meetings. The subgroups 
+reviewed the tentative list of 18 resourceservice pairs suggested by MOE after 
+discussions with the national consultant 
+and retained them. 
+The 15 expert team members met in the 
+third week of September 2012 to review the 
+18 templates. The team reduced the initial 18 resource-service pairs to 15. It further 
+evaluated the 15 resource-service pairs and 
+requested that they be subject to further 
+scrutiny and prioritisation. 
+A national workshop held on 18 December 
+2012 prioritised the 15 templates and 
+selected five manageable short- to 
+medium-term priority resource-service 
+pairs. The workshop also identified and 
+recommended a set of seven concrete 
+action points to resolve limited systemic, 
+institutional and individual capacity 
+constraints. Resolving these will create 
+good synergies and have a positive cumulative effect on the country’s readiness to 
+scale up RE deployment. The five priority 
+resource-service pairs and action points 
+are detailed in section 3.
+This report is structured in five substantive 
+sections. Section 1 presents the introduction covering country background, IRENA
+RRA methodology and the RRA process 
+in The Gambia. Section 2 presents the 
+renewable and general energy context in 
+the region. It includes an overview of the 
+energy sector in The Gambia, its challenges 
+and an overview of RE potential and use. It 
+also provides a detailed discussion of the 
+electricity sector. Section 3 explores The 
+Gambia’s energy institutions and the policy 
+and regulatory framework as well as the 
+conditions of financing and investment in 
+the country. Section 4 presents the emerging concerns relating to solar/wind electricity (on-grid), a range of decentralised (offgrid) applications as well as the biomass 
+sector. Opportunities and constraints that 
+affect deployment scale-up are discussed 
+along with the RRA findings. Section 5 
+presents the recommended action necessary for scaling up RE in The Gambia. The 
+Annex presents a detailed account of the 
+recommended actions identified by the 
+RRA. II. ENERGY CONTEXT
+Regional context
+The total population of the Economic Community of West African States 
+(ECOWAS) region1
+ in 2011 was about 309m and growing at an annual 
+rate of about 2.6% (UNESCO, 2012). Per capita GDP remains low by world 
+levels at USD 983, but variations between countries point to a wide range: 
+USD 245-3171. Real GDP growth has generally remained strong over the 
+past decade and reached 6.9% in 2012 due to good rainfall and positive 
+developments in the mining and petroleum sectors (ECOWAS, 2013). 
+The West African energy system faces a number of interrelated 
+challenges: low energy access, unstable energy security and increasing 
+environmental degradation. Total primary energy consumption in the 
+region is about 155m tonnes of oil equivalent (MTOE) per year (ECREEE, 
+2012). Fuelwood and charcoal account for the largest sources of energy, 
+representing 77% of primary energy consumption. Petroleum products 
+account for 22m tonnes of petroleum equivalent (MTEP) of consumption. As a whole the region consumes about 43 terawatt hours (TWh) 
+of electricity. Sustained economic growth in the past few years has 
+been accompanied by a growing demand for energy modernisation; 
+governments are under pressure to enhance their energy production to 
+meet growing demand. 
+Access to electricity in the ECOWAS region is low at 42% (ECREEE, 2012). 
+Variations also exist between countries. Some, such as Ghana, Côte 
+d’Ivoire, Cape Verde, Senegal and Nigeria, are doing better than others in 
+extending electricity services to their populations. The volume of unmet 
+electricity demand was approximately 7-10 TWh in 2006-2010 (ECREEE, 
+2012).
+1 ECOWAS is a regional group of 15 countries and was founded in 1975.
+Its mission is to promote economic integration in all areas of economic activity, particularly 
+industry, transport, telecommunications, energy, agriculture, natural resources, commerce, 
+monetary and financial questions, social and cultural matters. ECOWAS member states 
+consist of Benin, Burkina Faso, Cape Verde, Ivory Coast, Gambia, Ghana, Guinea, GuineaBissau, Liberia, Mali, Niger, Nigeria, Senegal, Sierra Leone and Togo.The electricity systems in West Africa 
+also face challenges arising from existing 
+supply capacities unable to satisfy growing demand. Furthermore, the region also 
+faces the difficulty of raising sufficient 
+funds internally or attracting outside investors willing to incur the high perceived risk 
+for its electricity sector. Overall, unreliable 
+power holds back the region's enterprises 
+and impacts negatively on productive activities. Transmission and distribution losses 
+are estimated to be around 30%, increasing 
+electricity tariffs significantly. A number of 
+countries in the region have some of the 
+highest tariffs in the world with a regional 
+average exceeding USD 0.20/kWh. The 
+cost of providing backup power (typically 
+USD 0.30-0.40/ kWh) handicaps productive industries. The World Bank (2010) 
+estimates that blackouts reduce annual 
+economic growth in Africa by 2%. 
+Concerns regarding energy access 
+and security are not new in the region. 
+Following the adoption of the first energy 
+policy of ECOWAS, the region has been 
+engaged since 1982 in developing an integrated approach of the energy sector. This 
+would provide better access to modernised 
+energy services for populations across 
+the region. Several measures have been 
+taken in this direction. Some of these are 
+discussed below. 
+The West African Power Pool (WAPP) was 
+established in 1999 with the aim of curtailing the power deficit prevalent in the region. 
+It did this by integrating the operations 
+of national power systems into a unified 
+regional electricity market (cross-border 
+trade flows). This is intended to facilitate 
+stable, reliable and cost-competitive electricity supply to all ECOWAS citizens in the 
+medium to long term. In 2006, the WAPP 
+Secretariat was created and mandated to 
+ensure the promotion and development of 
+power generation and transmission facilities (www.ecowapp.org). 
+The Energy Protocol was adopted in 2003 
+by ECOWAS member countries. This is a 
+legal framework aimed at promoting longterm energy cooperation. It is based on 
+complementary relationships and mutual 
+benefits to increase investment in the 
+energy sector and develop energy trade in 
+the region (ECOWAS, 2003).
+The ECOWAS/West African Economic and 
+Monetary Union (UEMOA) White Paper 
+for a Regional Policy on Access to Energy 
+Services to Rural and Semi-Urban Areas 
+was adopted in 2006. Three targets were 
+set for 2015: 
+i) 100% of the total population, or 325 
+million people, to have access to 
+improved cooking fuels and stoves, 
+including 9.2% to Liquefied Petroleum 
+Gas (LPG) cooking devices 
+ii) at least 60% of people in rural areas 
+to have access to productive energy 
+services in villages, in particular motive 
+power to boost the productivity of 
+economic activities 
+iii) 66% of the population, or 214 million 
+people, to have access to an individual 
+electricity supply (ECOWAS, 2006).
+The Regulatory Authority for Regional 
+Electricity Sector of ECOWAS (ERERA) 
+was created in 2008. Its aim was to ensure 
+the regulation of cross-border exchanges 
+in electricity and provide substantial 
+support for national electricity regulators 
+of member states (www.erera.arrec.org).
+The ECOWAS Centre for Renewable Energy 
+and Energy Efficiency (ECREEE) was established by the Council of ECOWAS in 2009. 
+Its mandate was to promote measures to 
+improve access to modern energy services, 
+increase energy security and reduce 
+adverse impacts on the environment. The 
+creation of favourable framework condi-���������
+����
+����������������
+�����������
+����������
+����
+�������
+������
+������
+������
+������
+������
+�����
+����� ��������
+�����
+����
+�����
+�������
+����
+�����
+�������
+�������
+������������������������������������
+����������������������������������
+���������������������������������������
+����������������������������������
+�����������������������������������
+Figure 1
+WAPP regional sub-programmes.
+Source: MOE, 2012btions and an enabling environment for RE
+and energy efficiency are viewed as tools 
+to achieve these goals.
+Much effort will be required to address 
+the energy issues in the region and capitalise on the opportunities that clearly lie 
+ahead. ECREEE developed and adopted in 
+November 2012 the ECOWAS Renewable 
+Energy Policy (EREP). The EREP is designed to make RE a vector for universal 
+access to electricity by 2030. It is also 
+intended to ensure a more secure and 
+sustainable supply of domestic energy 
+for cooking. This will meet the objectives 
+of the ECOWAS white paper for access to 
+modern energy services by 2020.
+WEST AFRICAN POWER POOL 
+WAPP is looking at developing a regional 
+electricity market through successive 
+stages:
+Phase 1, starting in 2012, is when most 
+regional transmission infrastructure is 
+expected to be commissioned. This phase 
+includes formalising trading arrangements, 
+agreeing transmission pricing and strengthening the role of the regional regulator.
+Phase 2 is based on the preparations carried 
+out during Phase 1. It should include bilateral agreements on transit through third 
+countries, short-term exchanges through 
+day-ahead markets, regional transmission pricing and regional system operator/
+market operator functions.
+Phase 3 reflects a long-term vision, which 
+includes regional optimisation of operations. WAPP has approved a regional 
+master plan for infrastructure development 
+with timings for the different projects. This 
+master plan is organised around 30 generation and 26 transmission priority projects 
+with an objective of developing 10% RE
+(excluding large hydro). The implementation of the master plan will add an additional 
+capacity of 10 000 megawatts (MW) and 
+16 000 km of transmission lines to the 
+region. This would consist of an electricity 
+mix of 21 hydropower plants, five thermal 
+power plants and four RE plants (wind and 
+solar) 
+From a purely economic standpoint, a 
+number of countries would benefit from 
+the opportunity to reduce costs they incur 
+at present by importing more than half 
+their power. Savings for countries such 
+as Guinea Bissau, Liberia and Niger could 
+range from USD 0.05/kWh to 0.08/kWh 
+(Eberhard et al., 2011). The largest beneficiaries of regional trade would be smaller 
+nations that lack domestic hydropower 
+resources. For these countries, it is estimated that the cost savings generated by 
+regional trade could repay the required 
+investment in cross-border transmission 
+within less than a year. This depends on 
+neighbouring countries developing sufficient surplus power to export.
+Within the priority projects at the regional 
+level, The Gambia would participate in both 
+generation and transmission in its capacity 
+as a member country of The Gambia River 
+Basin Development Organisation (OMVG)2. 
+Two generation and one transmission project are to be implemented in the subregion. 
+These include a 128 MW hydropower dam 
+in Senegal (Sambangalou) and a 240 MW 
+hydropower dam in Guinea (Kaleta). It also 
+includes a 225 kilovolt (kV) transmission 
+line of 1 677 km that interconnects the four 
+2 OMVG is a subregional organisation involving four countries (Gambia, Guinea, Guinea Bissau and Senegal) in 
+implementing integrated development programmes in the subregion. It focuses on the rational management of 
+common resources of The Gambia, Kayanfa-Geba and Koliba-Corubal Rivers.countries to the two generation plants. The 
+government of Guinea has already launched 
+the construction of the Kaleta Dam while 
+the financial and economic analysis for the 
+Sambagalou Dam is being concluded and 
+is showing positive results. 
+Energy supply and 
+demand in The Gambia
+The Gambia has a dual energy system 
+containing co-existing traditional and 
+modernised energy systems and practices. 
+On the one hand, traditional biomass fuels 
+and inefficient technologies dominate 
+household energy needs. On the other, a 
+modernised energy system uses electricity 
+and more refined fuels as well as modern 
+appliances. There is also an urban/rural 
+split in terms of energy distribution and 
+practices. However, the boundary between 
+what is up-to-date and what is traditional 
+is not clearly demarcated. For example, in 
+urban centres in The Gambia, the simultaneous use of biomass fuels, kerosene or 
+LPG is common, even in relatively highincome households. The fragmented nature 
+of the energy system creates enormous 
+challenges for policy makers and makes it 
+difficult to overcome the energy challenge 
+in an integrated manner. 
+In 2010, Total Energy Supply (TES) in The 
+Gambia was 407 926 TOE. The energy 
+consumption per capita in The Gambia in 
+2007 was 81 kilogrammes of oil equivalent (KGOE) according to figures from the 
+Global Environment Facility (GEF) and the 
+United Nations Industrial Development 
+Organisation (UNIDO) in 2011. Biomass, 
+Figure 2
+Total Primary Energy Supply by Fuelincluding fuelwood, accounts for about 
+63% of the country’s energy supply, and 
+for more than 90% of household energy 
+consumption. It comes to as much as 97% 
+in some rural areas. 
+Petroleum products consisting of LPG for 
+cooking and diesel and Heavy Fuel Oil 
+(HFO) for generating electricity account 
+for 37%. The share of RE is negligible at 
+0.19% and is mainly solar. In 2006 The 
+Gambia imported 128 000 metric tonnes 
+(mt) of petroleum products. This had been 
+an increasing trend since 1995 (figure 2). 
+The two biggest energy consumers are 
+households and the transport sector. LPG 
+use has been increasing in urban areas, but 
+only marginally. Its use has been largely 
+constrained by its high cost. 
+Fuel imports cause major problems for 
+Gambian policy makers as they use up 
+what little foreign exchange the country generates. In 2009, the country spent 
+USD 47m on petroleum imports. This 
+amounts to a share of about 15.5% of total 
+imports. Furthermore, the energy intensity 
+of The Gambia is about 0.51, which is around 
+the ECOWAS average but significantly 
+higher than that obtained in developed 
+and emerging economies. As an example, 
+China’s energy intensity amounted to 0.46, 
+and the European Union (EU) and Japan 
+had values of 0.11 and 0.09 respectively 
+(ECREEE, 2012). The high energy intensity 
+points to the fact that ample opportunities 
+exist for The Gambia to engage in energy 
+efficiency improvements (from production 
+to end use). 
+Kuntaur Wharf on the River Gambia. 
+Source: www.outsideonline.comElectricity generation, 
+transmission and distribution
+The Gambia relies entirely on imported 
+fossil fuel for electricity generation - mainly 
+HFO - for the main power plants and diesel 
+for the provincial power stations. These are 
+operated by National Water and Energy 
+Company (NAWEC) and Global Electric 
+Group (GEG) - an Independent Power 
+Producer (IPP). 
+Effective installed capacity in The Gambia 
+is around 65 MW. This is divided into two 
+generation and transmission categories. 
+The first comprises the Greater Banjul area 
+which is supplied by two large HFO power 
+stations in Kotu (25 MW at peak load), 
+Brikama (26 MW) and the Batakunku and 
+Tanji wind power plants (120 kW/150 kilovolt ampere (kVA) and 900 kVA respectively). The Brikama, Batakunku and Tanji 
+are IPP plants respectively owned by GEG 
+and Gamwind. Electricity is transmitted 
+from these stations for distribution via five 
+radial 11 kV feeders and three 33 kV feeders. The second category of power supply 
+comprises seven NAWEC owned smallscale power plants that operate on diesel 
+generator sets, served by stand-alone electricity subsystems in the provincial centres 
+(table 1). Together, these small-scale 
+plants have an installed capacity of about 
+13.75 MW (PURA, 2013). Approximately 
+250 km of 30 kV transmission lines are 
+installed in the provincial grids plus 135 km 
+of MV/LV lines and 94 km of LV overhead 
+lines.
+Approximately 44% of the electricity 
+produced is consumed by households. 
+Small-scale industries, hotels and larger 
+industries use approximately 39% and 
+commercial entities about 8%. The remainFigure 3
+The Gambia electricity infrastructure
+Source: Public Utility Regulatory 
+Authority (PURA) 2012ing 9% is consumed by government and 
+NAWEC (NAWEC, 2011). Demand for 
+power continues to rise. In 2012, generation 
+amounted to 232 gigawatt hours (GWh) 
+against an estimated electricity demand 
+of 621 GWh and is expected to exceed 
+800 GWh by 2020. This gap between 
+demand and supply is further exacerbated 
+by system losses of about 30%. Table 2 
+summarises the evolution of the structure 
+of the electricity market in 2007-2011 in 
+terms of consumer population, power sales, 
+system losses, power and energy demand.
+Load shedding is frequent. Its common 
+practice for businesses, hotels and health 
+facilities to rely on on-site diesel generation units and occasionally solar photovoltaic (PV) units when load shedding or 
+outages occur. Data on these backup offTable 2 
+Evolution of the electricity market
+ITEMS 2007 2008 2009 2010 2011
+Customer population 75034 86349 103883 113845 98116
+System losses per household 39% 33.34% 32.7% 31.2% 31.2%
+Power demand MW 88 90 108 126 132
+Energy demand MWh 416 280 473 040 501 420 596 030 621 680
+Customer growth p/a % 7.5 15.1 20 10 -14
+Energy demand growth rate 12.8 13.6 6 18.9 4.3
+Power demand growth Rate 12.8 2.2 20.0 16.7 5
+Revenue growth rate 51 19 -3.0 -7.3 12
+Source: PURA (2012)
+Table 1 
+Installed electricity generation capacity and production per station in 2011
+Power station Installed capacity, MW Production, kWh
+Kotu 25.300 99 824 000
+Brikama 26.000 119 834 000
+Essau 0.400 507 660
+Barra 0.480 982 710
+Kerewan 1.920 507 660
+Kaur 0.480 132 548
+Mansankonko 1.400
+Farafenni 5.500 4 269 000
+Bansang 0.600 1 482 300
+Basse 2.800 4349 292
+Batokunku 0.150 119 000
+Total 57.40 232 008 170
+Source: NAWEC, 2011grid systems are not available. The resulting effect of this system underperformance 
+is high tariffs for consumers and a rise in 
+the number of back-up systems. It also 
+weakens the financial position of NAWEC, 
+thereby reducing its capability to raise 
+sufficient revenue to expand the electricity system beyond the Greater Banjul area. 
+This has wider economic implications. The 
+lack of reliable, affordable power and the 
+high cost of energy are seriously limiting 
+investment in The Gambia and are limiting growth in productive sectors such as 
+the agro-processing and manufacturing 
+sectors (GEF/UNIDO, 2011).
+National electricity access is about 35%, 
+concentrated in the Greater Banjul area 
+where access is about 93% (table 3). 
+Recognizing the high suppressed demand 
+and a weakness in the transmission and 
+distribution network, NAWEC has projected 
+the need for 75MW of additional capacity 
+in the next three years. It also estimates a 
+need for additional capacity of 135MW in 
+2014-2020 (government of The Gambia, 
+2012). The financial requirement between 
+2013 and 2015 will amount to USD 112.5m 
+and USD 182m in 2016-2020. New transmission lines consisting of a 132kV power 
+line between the two main power stations 
+(Kotu and Brikama) are also planned in the 
+Greater Banjul. They are expected to be in 
+place by the end of 2013. 
+Costs and tariffs
+Following an extensive review, tariffs in The 
+Gambia were increased by 17% in 2011. At 
+present, consumers pay the highest electricity tariffs in the West Africa region at 
+USD 0.28/kWh (table 4). This situation 
+can be explained partly by the country’s 
+reliance on imported fossil fuels for electricity generation, as well as its poor transmission and distribution infrastructure. 
+Table 3 
+Electrification rate per region
+Regions Electrification Rate
+Banjul 93%
+Western 22%
+Upper river 14%
+Lower river 12%
+Central river 7%
+North bank region 6%
+Source: MOE, 2011
+Table 4 
+Comparison of tariff affordability in select West African countries
+The Gambia 28.0 98 21.7
+Senegal 23.8 139 17.2
+Burkina Faso 20.0 103 19.5
+Cote d’ Ivoire 11.9 134 8.9
+Ghana 8.2 128 6.4
+Source: World Bank 2012, NAWEC 2012
+Country
+Effective 
+residential tariff 
+(US cents) @ 
+100kWh/month
+2009 monthly 
+per capita 
+GDP (USD)
+% of monthly per 
+capita GDP spent 
+on 100kWh of 
+electricityElectricity generation and transmission 
+costs are passed onto consumers, resulting 
+in high tariffs. Nevertheless, tariffs are not 
+reflective of costs, and the utility has been 
+experiencing major financial difficulties. 
+Resources allocated to cover operation and 
+maintenance costs are inadequate.
+The typical distance of villages from 
+the grid in The Gambia is 5-25 km. The 
+cost of transmission lines to connect 
+these communities with low electricity 
+demand to the grid could amount to USD 
+50 000-100 000/km. While this is a financial liability for the utility it opens a window 
+of opportunity for decentralised generation. This is because the draft RE law also 
+offers provision for RE-based entrepreneurs 
+as it will make more economic sense than 
+grid extension. Furthermore, grid connection fees can amount to USD 230-1800 
+(with a median cost of USD 600). This is a 
+prohibitive cost for low-income households 
+(Sanneh and Hu, 2009). 
+Substantial investments are needed to 
+meet infrastructure and plant modernisation costs, although the greatest proportion of operating costs are due to the 
+high fuel costs. A parallel strategy is also 
+important to meet the needs of low energy 
+- consuming communities located far from 
+the grid. The Gambia has the opportunity 
+to create a more cost-effective off-grid RE
+supply system. This could play a major role 
+in reducing the nation’s dependency on 
+imported fossil fuel, diversifying the electricity mix and increasing access to energy 
+services. The challenge is to develop a 
+policy framework and functioning business 
+models that attract investment into a mix 
+of on- and off-grid electricity generation. 
+To meet these requirements, the government has formulated several strategies. Its 
+objectives are to rapidly expand installed 
+electricity capacity, expand and upgrade 
+the transmission and distribution networks 
+and develop renewable sources of energy. 
+This consists mainly of solar, wind and 
+biomass. 
+Four important features characterise 
+the energy sector in The Gambia. These 
+include: 
+i) high dependence on 
+imported fossil fuels 
+ii) the dominance of traditional biomass 
+sources in the country’s energy mix 
+iii) low access to modern energy services 
+iv) limited investment in new assets 
+and inadequate maintenance of 
+old and ageing power facilities. 
+Renewable energy resource 
+potential and use
+The energy sector in The Gambia faces 
+vexing problems. This country will have 
+budgetary constraints for the foreseeable 
+future due to its dependence on imported 
+fuel and weak supply infrastructure to 
+support the desired economic and social 
+development. This difficulty is especially 
+pronounced in rural areas, which are 
+generally characterised by widespread 
+poverty, low income, low demand and the 
+inherent disadvantage of being further 
+from the grid. For these communities, an 
+increased reliance on local energy sources 
+at a decentralised level is needed to meet 
+emerging energy needs. 
+The Gambia has benefits from a good RE
+resource, including considerable solar 
+energy and some wind power along 
+the coast. It also has considerable land 
+area classified as forest. At present, this 
+provides biomass energy for a significant proportion of the population but could be 
+managed more sustainably. A summary of 
+the resource and potential available in The 
+Gambia is provided below. It is based on 
+the Renewable Energy Master Plan (REMP) 
+drawn up in 2006 under the direction of 
+the Energy Division of the Office of the 
+President.
+Solar energy resources
+Solar radiation data was collected through 
+REMP at eight measurement stations spread 
+across the country. The study concluded 
+that The Gambia enjoys high solar radiation in all regions with average solar radiation at 4.4-6.7 kWh/m2/day (figure 4). The 
+periods of high insolation are between 
+March and May when the diurnal variation 
+between the minimum and maximum radiation values is small. The lowest radiation 
+values are in December and January, which 
+coincides with the rainy season. Even during 
+the rainy season, much of the country 
+receives sufficient amounts of solar radiation at about 5 kWh/m2/day. However, the 
+solar radiation range is higher due to cloud 
+cover. Low values are still good enough for 
+solar energy applications. 
+Solar energy applications currently in use in 
+The Gambia include: PV for off-grid applications and solar water heating for homes, 
+hotels and community applications. 
+Numerous PV systems are in use across 
+The Gambia for rural off-grid electrification and water pumping purposes in places 
+unlikely to be reached by the grid. The 
+government and donors have funded most 
+Source: Gambia REMP 2005
+Figure 4 
+Solar radiation in The Gambia
+Source: Gambia REMP 2005of The Gambia’s PV investments as part 
+of rural energy service projects for health 
+clinics, schools, households and street 
+lighting. With funding from the EU and 
+the Japanese government, local private 
+company Gam-Solar has installed solar 
+pumping systems in about 80 villages. This 
+provides clean potable water to more than 
+200 000 people. 
+There is little private sector activity in the 
+solar PV sector, and active commercial 
+markets are yet to develop. The government has encouraged the PV market by 
+introducing a duty exemption for solar 
+equipment. However, more policy and 
+regulatory push would be needed to attract 
+private sector participation in the PV field. 
+The GEF/UNIDO study (2011) has identified 
+a number of good opportunities in the PV 
+sector, including the introduction of PV in 
+some of the diesel-operated isolated grids 
+()
+Source: IRENA Global Atlas
+The Gambiarun by NAWEC in the provincial areas. 
+Installing PV power plants at these locations could reduce the running costs of 
+these grids, and allow expansion of the 
+system to run for 24 hours a day. 
+Solar water heating systems have been 
+operational in The Gambia for nearly two 
+decades, and there is ample experience 
+and expertise in the country for installing these systems. Gam-Solar has carried 
+out numerous installations in hotels and 
+community centres such as rural clinics. 
+However with the exception of a few, most 
+hotels continue to use electricity or fuel oil 
+boilers to heat water. 
+Potential investment in grid-connected 
+solar PV also exists in The Gambia as the 
+falling cost of PV in recent years brings the 
+Maintainance work in progress at the Batokunku wind energy plant in The Gambia
+Photo: M. Kottmeier Source: www.rural21.comtechnology closer to grid parity in many 
+parts of the world. The Gambia’s high electricity generation cost is likely to excite 
+investor interest in PV on the grid. However, 
+grid PV remains a capital-intensive venture 
+that will require government direction to 
+create the appropriate institutional and 
+regulatory framework. This would partly 
+lower investment risks and therefore attract 
+private sector players. 
+Wind energy resources
+Wind potential in The Gambia was evaluated using data from the World Wind Atlas 
+to prepare a Zero-Wind Map. This was 
+further refined using data gathered from 
+eight measurement stations throughout 
+the country. Data were collected at 30m 
+height over an eight month period including the Harmatan dry wind period. The 
+study concluded that wind conditions are 
+moderate in the interior part of the country (less than 4.0 m/s), but rise to average wind speeds of about 4.3 m/s mainly 
+due to wind flow from the sea in the West. 
+Figure 6 shows the wind regime in three of 
+these sites. 
+While inland areas may be restricted mainly 
+for wind pumping purposes, there is growing evidence that some coastal areas offer 
+opportunities for grid-connected power 
+generation. A combination of suitable wind 
+turbine technology and the judicious integration of wind power to the existing grid 
+in the Greater Banjul Area is an option. It 
+is also important to highlight other limiting factors with regards to the engineering work associated with large wind 
+generation plants with high turbine hubs. 
+Transportation and craning infrastructure 
+for large-scale wind turbines beyond 35 
+metres is at present not available in The 
+Gambia. However, if the wind programme 
+expands in future, this could be met by 
+self-erecting turbines or by bringing in 
+adequate cranes.
+The Gambia
+Figure 6 
+Monthly wind speed at 30m in three sites in The GambiaThere is limited experience in wind-related 
+energy projects in The Gambia. Much of 
+the early work was restricted to village 
+water pumping projects. In the 1990s, the 
+Department of Water Resources (DWR) 
+actively promoted the use of wind pumps 
+along coastal villages with support from 
+the EU. The pilot systems were installed in 
+three villages, but their operation has been 
+discontinued due to lack of proper maintenance, and pumping systems inappropriate for the local conditions. Several other 
+wind pumps are in use across the country, 
+mostly on private farms. This clearly indicates that capacity development in operation and maintenance (O&M) is critical for 
+sustaining wind pumping programmes. 
+Similar experiences are also observed in 
+other parts of Africa.
+Figure 7 
+Gambia wind speed at 10m height
+The GambiaIn recent years, wind power has generated 
+some interest in multilateral institutions, 
+donors and The Gambian government. 
+The Batakunku wind project was the first 
+of its kind in The Gambia to generate electricity for local community use and supply 
+surplus power to the utility. Annual generation is currently around 120 000 kWh. A
+follow-up project started up in August 2012 
+further north in Tanji. 
+Biomass
+The Gambia has a rich variety of woodland 
+ecosystems, including forests, closed and 
+open woodland, tree and shrub savannah, 
+mangrove, riparian and fringing savannah. 
+The Gambia’s forest cover has declined 
+from 60% in the 1960s to 43% of the 
+land area today (Jarju, 2008). Its forest 
+and woodland ecosystems supply about 
+85% of domestic energy requirements. 
+Fuelwood accounts for more than 90% 
+of household energy consumption and is 
+often used in inefficient stoves. The REMP 
+study conducted one of the most comprehensive fuelwood consumption investigations. It concluded that the standing 
+stock of fuelwood would not be enough to 
+meet future demand. In 2005 the technical 
+potential for sustainable fuelwood production was about 209 000 tonnes/year for an 
+aggregated demand of 734 400 tonnes/
+year resulting in a huge gap of about 
+535 000 tonnes/year (Jarju, 2008). This has 
+led to overexploitation and degradation of 
+native forest, as well as fuel imports from 
+Senegal largely in the form of charcoal. 
+Given the favourable soil and climate as 
+well as underground water conditions in 
+The Gambia, there is ample opportunity 
+to establish highly productive and intensively managed wood lots. These could 
+replace wood imports and ease the pressure on natural forests. Although such 
+Source: Ministry of Energy, The Gambiaplanned and managed biomass schemes 
+will not in themselves close the biomass 
+gap, they could form part of a comprehensive and sustainable biomass programme. 
+This would include improved cookstoves to 
+reduce demand. 
+Apart from solid biomass, The Gambia 
+produces a significant amount of agricultural residues that have the potential to 
+make a meaningful contribution to energy 
+needs. Most crops in The Gambia are 
+subsistence crops (rice, millet, maize and 
+sorghum) with groundnuts as the only cash 
+crop. Agricultural production data provides 
+the basis for calculating the annual amount 
+of residues produced and their corresponding energy potential (Food and Agriculture 
+Organization (FAO), 2011). 
+Millet and maize have the highest potential and this has been estimated at 
+3000 terajoules (TJ) per year and 1200 TJ/
+year respectively (table 5). However the 
+residues for these crops are widely used 
+for animal fodder and for various household uses. 
+Hence, the only real potential may lie in the 
+use of groundnut residue through centralised groundnut processing facilities across 
+the country. This would produce heat and 
+electricity to meet local energy needs. 
+Surplus would be sold to the grid. 
+Table 5 
+Energy potential of agricultural residues in 2011
+Groundnuts 83 858 0.43 25 157 17 427 676
+Millet 87 234 2 174 468 17.6 3 070 637
+Maize 23 613 3 70 839 17.5 1 239 683
+Sorghum 20 556 2 41 112 17.6 723 571
+Rice paddy (straw residue) 51 131 1.50 66 693 15.1 1 007 058
+Rice paddy (husk residue) 51 131 0.15 6 669 15.9 106 041
+Source: World Bank 2012, NAWEC 2012
+Crop 
+Amount 
+(mt/year)
+Ratio 
+residue/
+kernel
+Amount 
+residue 
+(mt/year)
+Heating 
+value 
+(GJ/mt)
+Physical 
+potential 
+GJ/yearFruit and vegetable drying using a solar food dehydrator 
+built by Solar Association Tiloo of Kanifing
+Source: www.powerupgambia.orgIII. ENABLING ENVIRONMENT 
+FOR RENEWABLE ENERGY
+Key energy stakeholders 
+and institutional structures
+There are numerous players in The Gambian energy sector. They include 
+government bodies and parastatal organisations, Non-Governmental 
+Organisations (NGOs) and associations as well as the private sector. 
+Some of these play multiple roles in policy, regulation, finance, knowledge generation and advocacy. 
+Government/public-sector institutions
+The Office of the President plays a crucial role in receiving information 
+from all the ministries as they relate to each specific energy objective. It 
+has final authority on regulations, tariffs and IPP contracting. 
+The MOE, under the Office of the President, is tasked with the responsibility for establishing the policy and strategies for the energy sector. This 
+includes electricity, petroleum products and RE. The MOE is aided by the 
+Energy Unit (EU) and GREC who provide support on policy analysis and 
+technical matters. The utility National Water and Electricity Company 
+(NAWEC) and the IPP GEG work under the MOE.
+The National Water and Electricity Company (NAWEC) owns all except 
+the GEG power plant and operates the transmission and distribution 
+network for the country. NAWEC is responsible for establishing and 
+collecting electricity tariffs. It also establishes and administers Power 
+Purchase Agreements (PPAs) with the private power producer and 
+implements rural electrification projects.
+The Ministry of Finance receives recommendations from PURA, evaluates the financial implications and makes recommendations to the president. The ministry is involved in pricing petroleum products especially 
+for the transport sector. Liquid petroleum products provide a significant 
+revenue stream for the national budget.PURA is responsible for regulating the 
+electricity, water and telecommunications 
+sectors. This includes licensing and ensuring safety and quality standards as well as 
+tariff reviews. PURA is actively engaged in 
+drafting the RE bill and in formulating and 
+communicating the FIT rules. It also acts as 
+arbitrator between the responsible network 
+utility and people generate or plant to 
+generate electricity from RE resources. 
+The Ministry of Petroleum oversees 
+upstream and downstream activities in 
+petroleum resources, in particular exploration and marketing. The ministry oversees 
+the quality of service and safety standards within the petroleum subsector. It is, 
+however, unclear which ministry has oversight responsibility for LPG.
+The Ministry of Forestry and Environment 
+(MOFEN) is responsible for enacting forestry 
+and environmental policies and legislation. 
+Its forestry department is responsible for 
+managing the country’s forest resources. It 
+plays a lead role in policy formulation and 
+regulation. 
+The Department of Community Development (DCD) is under the Ministry of 
+Local Government and Lands. It is responsible for promoting the efficient management of fuelwood resources through the 
+promotion of substitutes and improved 
+end-use appliances for firewood at the 
+household level. 
+The department is also involved in community training activities in a wide range of 
+sectors as well as research and dissemination of new and appropriate technology. 
+The Gambia Investment and Export 
+Promotion Agency (GIEPA) has the primary 
+function of investment promotion in The 
+Gambia. Energy is among the eligible 
+sectors in The Gambian investment code.
+The Department of Water Resources 
+(DWR) in the Ministry of Water Resources 
+and Fisheries is actively involved in rural 
+water supply using solar energy for water 
+pumping.
+Private-sector institutions
+GEG is an IPP contracted by NAWEC to 
+build, own, operate and maintain one of 
+the two power generators in the Greater 
+Banjul Area.
+With a current membership of 17-19 enterprises, the Renewable Energy Association 
+of The Gambia (REAGAM) promotes RE
+projects. These include small solar PV 
+installations, solar thermal, micro hydro, 
+cookstove improvements and the expansion of jatropha for oil production in 
+The Gambia.
+Universities and 
+research institutions
+GREC advises government on RE and 
+energy efficiency. It was set up to carry 
+out adaptive research in RE and to develop 
+and promote the use of RE and energy efficiency technologies in The Gambia. 
+University of The Gambia (UTG) is responsible for offering training programmes 
+energy-related courses. It also carries out 
+installation of community solar projects 
+on a contract basis. It has limited research 
+capabilities due to lack of resources.
+Gambia Technical Training Institute (GTTI) 
+is responsible for research, development 
+and training in RE and energy efficiency 
+appliances.
+National Agricultural Research Institute 
+(NARI) is responsible for research, development and dissemination of RE technologies, mainly solar and biomass.Energy policies and 
+regulatory framework
+PAGE is The Gambia’s development strategy and investment programme for 2012-
+2015, geared towards accelerating propoor growth and generating employment. 
+One of the important pillars of PAGE is the 
+urgency to improve and modernise The 
+Gambia’s infrastructure through public and 
+private sector investments in transport, 
+energy and information and communications technology. 
+More specifically, PAGE established the 
+goal of promoting the use of RE resources 
+for electricity generation and actively 
+pursuing fuel-switching from fossil to RE, 
+particularly in rural areas. 
+There are four key laws and strategies in 
+place that affect the energy sector: the 
+Public Utility Regulatory Act (2001), Energy 
+Policy (2005), Electricity Act (2005), and 
+the GIEPA Act (2010). 
+The Public Utility Regulatory Act established PURA as the body responsible for 
+the regulation of public utilities including energy services (electricity, petroleum 
+and gas). The act was designed to enable 
+licensing arrangements to be administered by an independent and self-funding 
+regulatory body that protects the interests 
+of the public utilities and consumers. The 
+emergence of PURA has improved transparency and utility accountability. The 
+Energy Policy (2005) stipulates the need 
+to ensure a reliable and adequate supply of 
+Source: Ministry of Energy, The Gambiaenergy at affordable prices. This is essential to stimulate necessary development 
+in the productive sectors of the economy 
+and to realise the development aspirations 
+of The Gambia in an environment-friendly 
+way. More specifically, the policy aims to 
+i) improve and expand existing energy 
+supply systems through private sector 
+partnerships with the public sector 
+ii) promote a domestic fuel subsector, 
+which clearly focuses on sustainable 
+management of forest resources 
+iii) widen the population’s access to 
+modernised forms of energy to stimulate development and reduce poverty 
+iv) strengthen institutional and human 
+resource capacity and enhance 
+Research and Development (R&D) in 
+energy and 
+v) provide adequate energy security. 
+The policy has worked as a major step 
+supporting the implementation of RE
+systems. 
+The Electricity Act of 2005 was passed to 
+promote cost-effective generation, transmission and distribution of electricity, set 
+standards for electricity services and determine appropriate tariffs. It also opened the 
+generation sector to IPPs. The act designates PURA as the authority over licensing 
+and tariff setting for electricity generation 
+and sales. It also elaborates the framework that provides for the participation of 
+the private sector in electricity generation 
+while transmission and distribution still falls 
+under the public utility’s monopoly. 
+The GIEPA Act of 2010 has been a welcome 
+addition to The Gambia’s policy landscape. In relation to the power sector, The 
+Gambian Investment and Export Promotion 
+Agency (established under the GIEPA Act, 
+2010, formerly GIPZFA) provides incentives to enterprises. Priority sectors include 
+RE from solar, wind, hydro and biochemical energy as well as LPG and electricity 
+generation, transmission and distribution. 
+Some of the incentives include a corporation tax holiday for a period of five years 
+and a waiver on import sales tax relating to 
+manufacturing plant. This would complement the much awaited RE law in making 
+the energy playing field attractive to local 
+and international investors.
+During the course of 2012, the draft 
+Electricity Strategy and Action Plan and 
+the RE bill were developed by the ministry 
+with the assistance of technical partners.
+The draft Electricity Strategy and Action 
+Plan considered different pathways for the 
+national electricity sector including business as usual, enabling cross-border trade, 
+renewable generation and reliability, and 
+high RE integration. In order to help policy 
+decisions the draft strategy recommends 
+regional interconnection and a joint hydropower project with neighbouring countries. 
+This allows for greater renewables integration in both the main and isolated grids. 
+The plan is to integrate the isolated grids 
+to the main grid over time. 
+The draft RE bill was validated in December 
+2012 and is to be presented before the 
+National Assembly members for adoption. 
+It will provide the legal framework for an 
+efficient promotion of RE resources and is 
+considered a major milestone in delivering 
+some of the key priorities in PAGE 2012-
+2015. A number of national stakeholders 
+will play a part in rolling out the act. MOE is 
+to recommend national targets for the use 
+of RE resources. The Ministry of Finance 
+and Economic Affairs (MOFEA) is to 
+provide tax exemptions to RE equipment and electricity generated through renewable. Meanwhile, PURA is to implement the 
+regulatory framework that includes defining the rules for pricing renewable electricity (FITs), setting up and managing the 
+RE fund. 
+The RE fund objective is to provide financial resources for the promotion of RE by 
+providing financial incentives, FITs, capital 
+subsidies, production-based subsidies and 
+equity participation. These will support both 
+on-grid and off-grid initiatives and investments. An attractive FIT rate will be introduced for on-grid investors. Alternatively, 
+they will benefit from a negotiated rate no 
+higher than the alternative cost of electricity generation. For off-grid investors, 
+it ensures that electricity from renewables 
+and hybrid systems may be sold to endusers at approved electricity tariffs up to 
+the current national retail tariff rates. This 
+excludes generation facilities greater than 
+200 kW.
+Financing and investment
+As with other countries in West Africa, 
+donor assistance in The Gambia represents 
+the majority of the energy sector investments. There are currently eight discrete 
+projects at various stages of preparation/
+implementation. They are divided into 
+three sets of energy sector development 
+programmes, namely generation, transmission and distribution and RE development programmes. The 
+financing institutions for 
+these projects comprise 
+banks such as the Islamic 
+Development Bank 
+(IDB), the Investment 
+and Development Bank 
+of ECOWAS (EBID) 
+and the Arab Bank for 
+Economic Development 
+in Africa (BADEA). It 
+also includes the OPEC 
+Fund for International 
+Development (OFID), 
+the Economic and 
+Social Development 
+Bank of Venezuela 
+(BANDES) and investors like GEF-UNIDO, 
+the Danish International 
+Development Agency 
+(DANIDA) and the 
+German International Cooperation Agency 
+(GIZ). The total budget is USD 112.86m 
+(USD 7.7m for the only RE project, two 
+wind turbines of 900 kVA, developed so 
+far). Government contributions towards 
+these projects are in the form of counterpart funds mainly arising from internallygenerated sources such as direct and indirect taxes, international trade taxes and 
+non-tax revenues. The government also 
+regularly borrows from international and 
+local financial markets to finance energy 
+projects.
+Source: Ministry of Energy, The GambiaIn order to attract domestic and foreign 
+investments in the main sectors of the 
+economy including electricity generation/
+distribution and RE, the government of The 
+Gambia has adopted two main policies. 
+These are the Investment Promotion Policy 
+and the 2001 Free Zone Act. 
+The Gambia Investment Promotion and 
+Free Zones Agency has been established 
+and provides a mandate to lay out the 
+investment promotion framework. The 
+framework stipulates national treatment 
+and equity participation of foreign investors by assuring them security of title. 
+It also guarantees against expropriation. 
+Investors have also been offered an attractive incentives package including exemptions from import duties and tax holidays. 
+Privileges arising from any existing or future 
+customs union, free trade area, monetary 
+union or similar international cooperation 
+are also available to investors.
+Under the Free Zone Act, free zones are 
+being developed in selected locations. 
+Activities and investment in these locations 
+attract incentives for a period of 1-30 years 
+depending on the duration of the licence. 
+These incentives include, among other 
+things, exemptions from capital registration payment and import duty on capital 
+equipment, excise duty and sale of goods 
+and dividend tax. 
+The financial market institutions in The 
+Gambia are well positioned to play a key 
+investment role in scaling up RE deployment. There are 12 commercial banks operating. These could act as a vibrant avenue 
+for investment resources for private entrepreneurs in the renewable technology 
+market. 
+Similarly, The Gambia Microfinance Network 
+(GAMFINET), with a membership of 17 
+NGOs, can channel credit for the purchase 
+renewable technologies by their individual members. While the majority of these 
+NGOs are facilitators, five are currently 
+active in savings and/or credit mobilisation 
+with good track records and wide coverage in the rural areas. These are Reliance 
+Financial Services, Social Development 
+Fund, Gambians for Self Employment, 
+Gambia Women’s Finance Association and 
+National Association of Cooperative Credit 
+Unions of The Gambia.
+The private sector in The Gambia has yet to 
+show an inclination towards RE businesses. 
+Local banks as well as microfinance institutions are averse to building a portfolio of 
+RE projects since their understanding of 
+technology risk is limited. 
+Moreover, most of the local banks lack 
+capacity to plan, structure and appraise 
+a RE project with appropriate financial 
+instruments. Combined with inadequate 
+awareness, this reinforces the perception 
+of RE technologies as too expensive, lacking reliability and thus too risky. 
+This may change when the Renewable 
+Energy Act comes into force, ushering in 
+the RE fund. This will be the responsibility of PURA, providing financial incentives, FITs, capital subsidies, production 
+based subsidies and equity participation 
+to renewable-based electricity projects. 
+Sources for financing the fund will include 
+the national budget, multilateral and bilateral donors, donations, and various levies. 
+The money from the RE Fund would also 
+be available for, among other things, the 
+promotion of RE projects including capacity building for RE development. The 
+government of The Gambia should take the 
+opportunity to build the technical capacities of local financial institutions and the 
+private sector as well as civil society. This 
+will affect business opportunities within 
+the sector. A solar powered NGO farm in Nema Kunk in The Gambia
+Source: www.risingshoots.comIV. OPPORTUNITIES IN DEPLOYMENT OF 
+RENEWABLE ENERGY IN THE GAMBIA
+The RE market is largely subject to the resources available and the technologies that can be employed to convert energy sources into services. 
+This section is divided into different subsections focusing on different 
+resources and conversion technologies, known here as service-resource 
+pairs. In each subsection, the status of each particular subsector is 
+reviewed, followed by the problems that need to be solved and concluding with a list of action points recommended by the RRA.
+Grid-connected renewable energy options
+The grid remains an important way to reach large numbers of people 
+at low cost. The situation in The Gambia is such that the grid is faced 
+with formidable technical, institutional and financial barriers. Less than 
+35% of people are served by the grid, and the lack of reliable, affordable power is seriously hampering investment in The Gambia. This limits 
+growth in critical productive sectors such as the agro-processing. A
+number of RE technologies are becoming increasingly cost-competitive. 
+Their development could help unblock the impasse by enabling diversification of supply and building resilience in power infrastructure. This 
+section considers wind and PV for The Gambia. They offer high immediate deployment potential.
+On-grid wind
+There is at present one grid-connected wind power generator with a 
+capacity of 120 kW (150 kVA) that has been operating at Batokunku since 
+2009. There are also two 450 kW wind turbines at Tanji that started up 
+in late 2012. All three were installed by a local company (Gamwind), and 
+GEF/UNIDO provided part of the funds for the Tanji project. Uniquely, 
+the turbines were acquired second-hand from Europe where they had 
+been operating in a wind farm. They were refurbished in The Gambia. 
+This explains why project lifetimes are reduced to 15 years instead of 
+the 20-25 years average for new systems. The cost of acquiring these 
+turbines is estimated to be 50-75% lower than new turbines of similar 
+quality and size.
+The investment cost for the plant at Batokunku was about USD 220 000 
+and is expected to have a lifetime service of about 15 years. At Batukunu, some 80% of the power produced is used by 
+the village households who purchase electricity at 75% of the utility tariff. Meanwhile 
+20% is sold to the utility NAWEC. The benefits from this project have gone beyond 
+just the provision of water and electricity. 
+A variety of new employment opportunities have been created through self-help 
+businesses. 
+The Tanji project had a capital cost of 
+USD 577 000 and annual running cost of 
+USD 36 000. The project is expected 
+to generate a total output of about 
+572 000 kWh/year. Power is sold to 
+NAWEC via a PPA at about USD 0.17/kWh, 
+resulting in net income of approximately 
+USD 59 000/year. The turbines in Tanji are 
+Bonus 450 with a hub height of 35m and 
+contain three blades with a rotor diameter 
+of 37m. As part of the installations, two 
+step-up transformers and a transmission 
+line were constructed to connect with the 
+coastal 33kV transmission ring operated 
+by the national utility company, NAWEC. 
+The project used historical wind data 
+from the Batakunku wind measurements. 
+Wind speed averages 5.51 m/s. In the first 
+six months since the turbine started up, 
+the system has transferred over 190 MWh 
+of power to NAWEC against an annual 
+target of 570 MWh (table 6). Referring 
+back to figure 2.3, it is important to note 
+that August to December is a period of 
+low wind. It would therefore be interesting 
+to see what the Tanji turbine will generate during the relatively high wind period 
+between January and May. 
+Financial analysis for the Tanji project uses 
+the assumption that all the power generated is fed into the grid at the utility tariff 
+of USD 0.28/kWh instead of the actual 
+selling price of USD 0.17/kWh. At that rate, 
+the Tanji plant would generate an annual 
+net income of about USD 124 000 or have 
+a simple payback of about 9.1 years on 
+investment. Further analysis was undertaken comparing the refurbished turbines 
+against new turbines of the same capacity at market rates USD 1200/kW and USD 
+3000/kW3 (IRENA, 2013a). The result 
+shows a lower levelised cost4 for the refurbished turbines at USD 0.13/kWh over a 15 
+Table 6 
+Tanji wind turbine power generation
+01/08/12 July 10 383 0 378 10 97.42
+01/09/12 August 36 178 0 736 8 98.92
+01/10/12 September 30 776 0 710 10 98.61
+01/11/12 October 7 364 0 735 9 98.79
+01/12/12 November 48 020 0 712 8 98.88
+01/01/13 December 58 959 810 732 12 98.38
+Total July-Dec 191 680 810 4 003 57 Av. 98.5
+Source: Gamwind recording sheet (2012)
+Reading date
+Monthly 
+kWh to 
+NAWEC
+Month
+Monthly 
+kWh from 
+NAWEC
+Monthly 
+grid (hrs)
+Difference
+hours Grid (%)
+3 Taken from IRENA Renewable Power Generation Costs in 2012. In figure 4.3, the total installed cost range of 
+USD 1000-3000/kW is given as representative for Africa.
+4 Assumptions: Capital cost of refurbished system = USD 577 000; capital cost of new systems = USD 1 200/
+kW and USD 3 000/kW; annual running cost = USD 36 000 (annual variable cost = USD 0.01/kWh + annual fixed 
+cost = USD 30/kW); project time = 15 years; inflation =5%; discount rate =12%.year lifetime. It also shows a levelised cost of 
+USD 0.15/kWh and USD 0.35/kWh for new 
+systems over a 20 year lifetime (figure 8). 
+The analysis also reveals that the cheaper 
+option would yield a simple payback time 
+of 11 years, and the more expensive wind 
+turbine would exceed the payback period 
+of its lifetime (20 years). This indicates 
+that for more expensive wind options the 
+introduction of a FIT would be necessary to 
+attract investment. This demonstrates that, 
+given the moderate wind regime, wind 
+power is still a cost-competitive option, 
+especially at the lower end of the capital 
+cost price curve.
+The Batokunku and Tanji projects are 
+designed to address electrification for 
+community use and for sale to the grid. 
+Meanwhile, a new project is under development. This is part of the effort to 
+support enterprises with access to electrification. It involves setting up a 450 kW 
+wind turbine to support a fishing community to overcome high energy costs. This 
+project is raising funds before being set 
+up. The plant will have a capital cost of 
+USD 298 000 and an annual running cost 
+of USD 15 900. The interesting attribute of 
+this project is that the electricity generated 
+would be used for productive purposes at 
+the Tanji Fishing Community. This community cooperative produces ice, runs chilled 
+storage and a fish market and rents shops 
+and fish-processing areas. The ice-making and chilling process at the fisheries is 
+energy-intensive and uses approximately 
+715 000 kWh/year at a cost of about 
+USD 170 000/year. This accounts for 80% 
+of the production costs (GEF/UNIDO, 2011). 
+The Tanji Fishing Community has agreed 
+to provide 20% of the costs of the project 
+while the rest would need to be obtained 
+from various donors. The community 
+believes that in the long run, the project 
+will reduce its reliance on expensive electricity from the grid and provide significant 
+annual savings. These can be reinvested to 
+upgrade their operations.
+Wind power generation offers an opportunity to improve the electrification rate 
+by harnessing the use of locally available 
+resources and diversifying the sources, as 
+stated in PAGE. This necessitates the development of new business models that overcome the high capital cost often associated 
+with RE systems. They lower investment 
+risk in order to meaningfully engage the 
+private sector. Although positive results 
+have been obtained from the experiences 
+in Batokunku and Tanji, the market for IPPs 
+in the wind sector is yet to open up. The 
+much-awaited RE law is expected to overcome some financial challenges through 
+the introduction of a FIT, waiver on import 
+sales tax and favourable corporation tax 
+for RE developers. This would need to be 
+complemented by a strong effort in two 
+Figure 8 
+Levelised cost of generation with wind 
+Comparison of refurbished and new wind systems 
+at different pricesareas: firstly, the construction of efficient 
+administration and management capacity 
+in the responsible government agencies. 
+Secondly, skills would need to be improved 
+in engineering, business, finance, and 
+contract negotiations. 
+The wind projects have been designed with 
+very limited wind data to properly assess 
+the suitability of the sites for wind power 
+applications. Usually, sites are screened on 
+the basis of a wind atlas, validated with 
+wind measurements from meteorological 
+stations and monitored for about a year 
+before wind turbines are installed. This 
+procedure was not followed in The Gambian 
+sites given the country’s poor meteorological intelligence. The government must 
+invest in strengthening its observation 
+network and make the necessary preparations to obtain a good understanding of 
+the wind regime across the country. 
+On-grid PV
+Solar resources in The Gambia are excellent, 
+and thus offer the opportunity for deploying 
+a range of solar technologies at utility-scale 
+plants and distributed end-use applications. There has been a rapid fall in the cost 
+of PV technology globally, enabling gridbased PV to achieve grid parity in a number 
+of markets. It is fast becoming a genuine 
+alternative for countries faced with the twin 
+challenges of energy access and energy 
+security. PV module prices have declined 
+sharply from USD 3 700/kWp in 2009 to 
+USD 1 200/kWp, making the Balance of 
+System (BoS) a crucial determinant of solar 
+PV system costs (IRENA, 2013a). These 
+trends make PV a compelling product for 
+end-users in countries such as The Gambia 
+looking to reduce the exposure to the high 
+cost and volatile fossil fuel market. 
+There is considerable experience of PV 
+systems in The Gambia, but all of it is 
+restricted to the off-grid PV sector, while 
+there is no utility-scale PV system in country. Given The Gambia’s specific power 
+sector vulnerabilities, there is a growing 
+interest among policy-makers in exploring 
+the considerable economies of scale associated with PV-based grid developments. 
+A pre-feasibility financial analysis of smallscale (100 kW) and larger scale (1250 MW) 
+systems was undertaken to assess the 
+cost of different size PV systems under 
+resource and macroeconomic conditions in 
+The Gambia. Generation costs were used 
+from the latest IRENA study5 as the basis 
+for the cost assumptions for PV systems 
+between USD 3000- 8000/kW. In both 
+cases it was assumed that power is supplied 
+to NAWEC at the current utility tariff of 
+USD 0.28/kWh. 
+The analysis demonstrated a number of 
+important features of PV grid systems in 
+The Gambia. The payback period for the 
+smaller system is 12-22 years depending 
+on the per kWh system cost. Even more 
+favourable figures are obtained for the 
+larger system, which produces a payback 
+period of 6-17 years. This is also demonstrated in the range of levelised cost results 
+where the cost for larger systems are USD 
+0.10- 0.25/kWh while the smaller systems 
+are USD 0.18-0.32/kWh (figure 9)6. This 
+illustrates that the larger PV systems bring 
+economy of scale benefits as the marginal 
+cost of additional power implies a reduc5 Adapted from IRENA Renewable Power Generation Costs in 2012. In figure 6.7, solar PV installed costs 
+in non-OECD regions for utility-scale projects gives an average value of USD 3000/kW and a range of 
+USD 2000-7000/kW. In this analysis, the USD 3000-8000/kW range is employed for The Gambia. 
+6 Assumptions: Capital range = USD 3000-8000/kW; annual O&M cost = USD 20/kW (for 1.25 MW plant size) 
+and USD 30/kW (for 100 kW plant); inverter replacement at 10 yrs = USD 0.11/Wp; project time = 20 years; 
+inflation =5%; discount rate =12%.tion in unit costs. Furthermore, present 
+generation costs for NAWEC fossil-based 
+electricity is at USD 0.28/kWh. This makes 
+the PV option attractive from a cost as 
+well as security of fuel supply standpoint. 
+Indeed, the bulk of the total cost of the PV 
+systems is in the initial cost, while fossilbased systems have higher recurrent costs 
+over the duration of their lifetime. However, 
+as the cost of PV systems continues to fall, 
+their value as a reliable and cost-effective 
+option for power generation increases, 
+particularly for periods of peak electricity 
+demand during the day. 
+The RE Bill being debated at present 
+provides for the acceleration of the development of RE resources through the 
+establishment of a tariff system. This is the 
+FIT for electricity produced from eligible 
+renewable resources. It would need to be 
+sufficiently attractive to draw serious investors. At the same time it would need to be 
+pegged at a rate which will not adversely 
+impact the final consumers of electricity. 
+RRA findings
+The RRA process has highlighted a number 
+of technical opportunities and barriers 
+facing the generation and transmission 
+infrastructure in The Gambia. The process 
+also brought to light some of the institutional, financial and capacity issues that 
+continue to bedevil the power sector. These 
+are discussed below.
+Technical considerations
+The power sector faces a dual dilemma. The 
+first relates to the ongoing and (increasing) electricity supply shortages due to 
+inadequate power generating capacity 
+characterised by the aging and high operating cost of generating equipment. In 
+addition to these technical shortfalls, the 
+utility lacks adequate human capacity in 
+critical areas such as power plant management. In 2011, about 99% of the total operating costs of NAWEC went into fuel and 
+lubricants as well as energy payment from 
+the fuel-based IPP (NAWEC, 2011). This 
+left little resources for upgrades and critical refurbishments. The second dilemma 
+relates to the issue of power quality as 
+unplanned outages cause damage to electrical appliances. The present transmission 
+and distribution network is composed of 
+MV lines (33kV/11kV) covering 115km and 
+181 km respectively. These are dilapidated 
+and not able to take significant additional 
+power capacity without major upgrades 
+and new transmission network development to connect additional generation. 
+Variable generation from solar and wind 
+sources will create further challenges for 
+the energy system. The Gambia does not 
+Figure 9 
+Levelised cost of generation of different 
+scale systems in The Gambiahave a grid code but this is essential to 
+ensure RE can obtain priority access to the 
+grid, while building in some flexibility in 
+forecasting production. 
+In 2011, a loan agreement of USD 22m 
+was signed between the government of 
+The Gambia and Economic and Social 
+Development Bank of Venezuela (BANDES) 
+to upgrade, rehabilitate and expand the 
+network. The first phase of the project has 
+been completed and has already led to an 
+8% reduction in transmission losses. The 
+project is in progress and is likely to significantly reduce losses and subsequently 
+improve the finances of the utility. In light 
+of these developments, the ability of the 
+grid to integrate intermittent power generated by renewables would be higher. The 
+assessment of the grid along with the evaluation of the RE economic potential should 
+inform policy makers in setting RE targets 
+that are both meaningful and achievable. 
+Setting RENEWABLE ENERGY targets
+The comprehensive RE bill is in the process 
+of adoption. Section 4 stipulates setting 
+up mid- and long-term national targets for 
+deploying RE resources in electricity generation. The MOE would be the designated 
+authority for proposing the targets. These 
+would need to be tailored for a specific 
+technology and/or defined in terms of 
+addition to the electricity mix or capacity 
+addition. The draft electricity strategy has 
+made a recommendation that renewable 
+resources contribute to 5% to the electricity generation mix by 2020. However, the 
+basis for this target has not been made 
+clear. The RRA underlines that the 2005-
+2006 solar and wind assessment study in 
+The Gambia could serve as a good basis 
+for evaluating the economic potential for 
+wind and solar systems. This would provide 
+some preliminary country-specific costs 
+taking into account the recent decrease in 
+RE technology costs (IRENA, 2013a costing 
+study).
+Tariff-setting 
+The technical suitability and economic 
+viability of integrating renewables into 
+the grid go hand in hand. A FIT scheme is 
+currently under preparation in The Gambia. 
+It has the support of the EU and is based 
+on the specific policy and market framework of the country for wind, solar PV and 
+biomass. These are identified as the most 
+appropriate renewable power options in 
+country in the short term. It is designed to 
+improve the competitiveness of renewables 
+and drive investment into the sector. 
+The design of the FIT was based on the 
+avoided cost methodology given the 
+fact that electricity generation is based 
+on imported fossil fuel subject to market 
+fluctuation. The proposed FIT is to be 
+set at a ceiling price of 8.7 GMD/kWh 
+(USD 0.26 /kWh) which is roughly equivalent to the current generation price of 
+8.5 GMD/kWh (USD 0.25 /kWh). It will be 
+valid for 15 years from plant commissioning. In order to minimise impact on system 
+stability, initially the maximum allowable 
+plant size for solar PV and wind could be 
+limited to 1 MW. Facilities greater than 
+1 MW would not be considered under the 
+FIT scheme but could negotiate a PPA
+directly with the utility. 
+Setting up FITs equivalent to present 
+generation costs is likely to cause an extra 
+burden on NAWEC. It already borrows 
+heavily from local banks at high rates to 
+meet the current supply. Anticipating this 
+challenge, the RE law will set up a fund 
+to provide finance for the FITs and other 
+RE commitments. This would be covered 
+by annual contributions from the national budget, registration fees from commercial organisations and individuals in the 
+renewables sector, as well as grants for 
+RE activities. Additional resources could 
+be raised through the introduction of an 
+RE levy on service sectors such as tourism 
+and the banking sector that manage remittances. In 2010 The Gambia received up 
+to USD 82m in remittances, according to 
+Women World’s Banking. The government 
+could also consider working with international agencies to develop a credit line for 
+community and small business RE or other 
+power generation projects.
+Although electricity generation has been 
+opened to the private sector following 
+the 2005 Electricity Act, only two IPPs 
+have been established. This is due to the 
+complexity of the permitting process for 
+energy projects. GIEPA has nevertheless 
+registered many energy project proposals involving the use of renewable. With 
+its growing experience in diesel-powered 
+and wind power IPPs, NAWEC has developed skills to foster fair relationships with 
+IPPs. The practical experience gained could 
+accelerate the establishment of many more 
+RE projects by IPPs. 
+At present, the process of obtaining permits 
+for RE projects means dealing with multiple players and institutional barriers. This 
+can lead to significant administrative and 
+transaction costs. This process needs to be 
+simplified to ensure that project developers are not discouraged. Under the RE law, 
+the MOE task will be to streamline permitting by simplifying the process and providing clear guidelines for land and water use 
+among others. In addition, to stimulate 
+private sector interest in the renewables 
+sector, there is a need to develop a grid 
+code with a favourable set of clauses for 
+RE systems. Elements of a grid code are 
+already emerging in the draft FITs and 
+standard PPA which includes clauses for 
+mandatory priority dispatch for renewable electricity as well as grid connection/
+access agreements. The grid code should 
+consider near time or real time scheduling 
+instead of the widely applied day-ahead 
+forecast in order to meet the intermittency 
+criteria of RE resources. 
+Capacity building for successfully concluding PPA negotiations and managing potential conflicts of interest in the future is also 
+critical in project finance training. Guidance 
+is necessary on international best practice 
+in procurement, particularly in managing IPP and PPA negotiations. This needs 
+to include the importance of managing 
+potential conflicts of interest and ensuring appropriate separation from potential 
+bidders.
+Quality control and 
+standard setting 
+In addition of being the regulatory body, 
+PURA is also in charge of conducting 
+inspection and site visits to all power 
+plants and network facilities. This is to 
+inspect quality of service delivery and 
+monitor health and safety standards. There 
+are currently no RE technology standards 
+in The Gambia. However, the draft FIT and 
+PPA mention general applicable codes and 
+standards that the RE plant should comply 
+with. It would be worth creating specific 
+standards and codes for RE technologies 
+to ensure adequate quality, design, safety, 
+operation and maintenance of equipment. 
+GREC could take up this task and therefore 
+its capacities should be built to facilitate the 
+development of RE standards and certification of equipment as required. International 
+cooperation could be facilitated by IRENA
+in this segment. PURA will have to build its 
+capacity of relevant personnel in order to 
+ensure it can make adequate performance 
+appraisals of RE plants, as required in the 
+RE law.Box 1
+Power Up Gambia 
+THE SULEIMAN JUNKUNG GENERAL HOSPITAL located in the town of Bwiam sees over 
+20 000 patients every year and has a catchment area of over 100 000 inhabitants. Since 2006, 
+the hospital has relied on three diesel generators, which it could only afford to run for 8-10 hours 
+a day depending on fuel availability. They saved most of these hours for after dark because the 
+staff and patients desperately needed the lights. The remaining 1-3 hours of electricity were 
+used during the day, when the hospital was busiest. Without constant electricity, the hospital 
+could not safely store medication or provide oxygen and incubators for infants as well as 
+running the water pump. Hospital services grew considerably as did the electricity demand. 
+The hospital CEO and a non-profit called Power Up Gambia (PUG) raised USD 300 000 for the 
+installation of a solar system to meet the hospital needs in a sustainable and cost effective way. 
+GAM-Solar, the leading solar panel contractor in The Gambia, assessed the power requirements 
+of the hospital. It concluded that 108 solar panels were required to provide the hospital with 
+power, 90 for electricity and 18 for running water. In 2009, six PV tracking units with an 
+installed capacity of 12 kWp were installed and have been powering the hospital ever since. 
+Over the past four years the hospital learned a lot about the opportunities and challenges 
+of managing an off-grid solar system, especially issues related to electricity storage. While 
+expanding the programme to other rural hospitals and clinics, PUG intends to connect 
+the Suleiman Junkung General Hospital to the national grid. This was extended to the town 
+of Bwiam in early 2013. It has a net meter arrangement with the utility to send excess solar 
+power to the grid and draw it back at night. Net metering would save battery power 
+for emergencies and load shedding, reduce wear on the batteries, lower the hospital’s 
+electricity cost and increase renewable power production to the grid. PUG intends to work 
+on the business model, test it out and replicate it in other rural clinics with access to a grid. 
+For more information visit www.powerupgambia.org
+A healthcare project powered by solar power in The Gambia
+Source: www.powerupgambia.orgAccess to information
+One of the major barriers to attracting investment is RE project developer 
+access to the required information for 
+robust project proposals. The Gamwind 
+and GEF-UNIDO pilot project developers 
+have acquired considerable experience. 
+Workshops and seminar training on these 
+projects would provide practical foundations for future projects.
+Given that The Gambia is changing its 
+energy landscape, a communication strategy must be developed. It should involve 
+key stakeholders, namely GIEPA, PURA, 
+NAWEC, MOE and REAGAM. GIEPA and 
+PURA should take the lead in communicating timely, detailed and commercially-relevant information to ensure the investment 
+market is fully informed of opportunities 
+within the country.
+Off-grid renewable 
+energy options
+The government of The Gambia places 
+a high premium on providing its citizens 
+access to electricity. With a less than 
+35% electrification rate at present and 
+increasing demand for power for social 
+and economic development, broadening 
+energy access is an important policy. Grid 
+extension has been traditionally associated 
+with electrification options in The Gambia. 
+However, there are limits to what can be 
+achieved through the grid alone, especially in areas of highly dispersed populations, small loads and low load densities. 
+Extending transmission lines to these areas 
+will be financially prohibitive. Connection 
+fees often approaching USD 1000 per 
+household may be beyond the reach of 
+most people in a country where about 48% 
+are currently living on under USD 1.25/day. 
+Clearly, an integrated approach as well as an 
+understanding of the limits to conventional 
+grid extension will be required to balance 
+needs, population distribution, costs and 
+resources. Some small-scale RE technologies are commercially maturing, such as 
+PV, wind energy and biomass, and new and 
+innovative service delivery mechanisms are 
+surfacing. This means off-grid electrification has emerged as a viable alternative 
+for electricity access, especially in areas 
+too remote from the grid. The Gambian 
+leadership has long recognised the need 
+for a dual approach to energy provision. 
+This includes expanding both on-grid and 
+off-grid systems to accelerate access to 
+modernised and clean energy services. 
+There is plenty of experience of off-grid PV 
+electrification, water pumping and solar 
+heating systems for hotels, clinics and 
+households. Each of these will be explored 
+below.
+Off-grid PV electricity
+The main decentralised RE system being 
+promoted on The Gambian market for 
+electricity is solar PV. It has been extensively used since the early 1980s for rural 
+water supply and remote power for telecommunication facilities. About ten retail 
+companies are active in The Gambia in PV 
+for rural applications, and in 2004-2010 
+these companies installed a total cumulative capacity of 567.53 kW (table 7).
+There is considerable potential for deploying solar home systems in The Gambia. The 
+successful implementation of solar PV water 
+pumping, solar home systems and PV-diesel 
+hybrid projects in Darsilami, sponsored by 
+the EU, is a case in point. With a population of 3 000 inhabitants, Darsilami is not 
+connected to the grid and is at about 10 km 
+from the grid line. The cost of establishing 
+transmission lines at USD 90-100 000/km was seen as too costly. Generation capacity 
+in The Gambia would not be sufficient to 
+meet the energy demands for small towns 
+such as Darsilami. The project consists of 
+3 000 watt peak (Wp) PV, a 300 Ah battery 
+and 9kW diesel components that supply 
+continuous power to the Darsilami health 
+centre. This is equipped with a vaccine 
+refrigerator and small lab with medical 
+devices for blood analysis and sterilisation. 
+The diesel generator is used only during the 
+rainy season and contributes less than 5% 
+of the total energy mix. Other load includes 
+water pumping, battery charger and electricity supply for public service providers. 
+The hybrid system allows upgrades to 15 
+kW to bring electricity to 300 households, 
+with a daily consumption of 200 KWh per 
+household and with a total daily primary 
+load of 60 kWh (Geipel, 2009).
+Other community-based initiatives include 
+the Solar Street Light Project. This resolves 
+non-payment of street lighting bills by 
+municipal councils and improves the 
+NAWEC budget position while maintaining 
+the security provided by street lights. This 
+project’s progress is detailed in text box 2. 
+The success of the Street Light Project led 
+to further feasibility studies. These examined potential programmes for solar home 
+systems in rural households and other PV 
+Table 7 
+Solar power installation by major local companies in 2004-2010
+COMPANY SERVICE 2004 2005 2006 2007 2008 2009 2010
+GAM-SOLAR Electricity (kW) 24.205 14.4 5.8
+Water (kW) 281.42 16.4 0
+P S ENGINEERING* Electricity (kW) 5.2 2.0 1
+Water (kW) 1.2 0.2 0
+ESEIM SOLAR** Electricity (kW) 1.77 2.675
+Water (kW) 3.96 3.75
+C & E SERVICES^ Electricity (kW) 11.52 2.352 2.516
+Communication 1.83 0.24
+SWE-GAM Electricity (kW) 1.95 3.2 0.15 1.16 0.0 0.98
+Water (kW) 2.8 1.3 2.95 5.89 36.1 68.22
+SUN FACTORY Electricity (kW) 16.95 4.59
+Water (kW) 3.5
+SANFOSI Electricity (kW) 3.38 2.63 0.37
+Water (kW)
+CHYBON Electricity (kW) 0.3
+Water (kW)
+REGIONAL SOLAR E^^ Electricity (kW) 2 2.5 1.7 1
+Water (kW) 1 4 3 2
+GAMBIA ELEC^^^ Electricity (kW) 0.36 2 2.5 0.325
+Water (kW) 0 0
+GRAND TOTAL 3.38 8.04 4.87 328.68 49.8 84.4 88.26
+*Power System Engineering, **Eseim Solar Co. Ltd, ^Communication & Electrical Services, 
+^^Regional Solar Energy Co. Ltd, ^^^Gambia Electrical Co. Ltd
+Source: MOE, 2011systems for social services (schools, clinics) and productive uses (rural telecommunication centres). It is expected that the 
+African Development Bank (AfDB) would 
+make loans available for the Solar Street 
+Light project and provide grants for the 
+solar home systems programme.
+Solar PV and diesel systems should be 
+compared on the basis of life cycle costs 
+of providing the final service in order to 
+account for the major operational differences between these systems. The four 
+broad components of life cycle costs are 
+initial costs, replacement costs, O&M costs 
+and running costs (including fuel use). Two 
+observations can be made from the life 
+cycle cost comparison between two 3.2 kW 
+PV systems and a diesel generator. This is 
+used to meet the daily load of 11.5 kWh of a 
+rural community (figure 10)7. 
+Firstly, over a 20 year project life, the PV 
+systems are significantly cheaper, with 
+levelised costs of USD 0.29/kWh and 
+USD 0.36/kWh, and the payback period is 
+five years. In contrast, the diesel system is 
+costlier over the longer term with a levelised cost of USD 0.53/kWh. Secondly, the 
+85% share of fuel cost for the diesel system 
+and a share of capital cost of about 80% for 
+the PV systems. Clearly, this has implications for rural households and communities 
+in The Gambia who do not have disposable 
+incomes to cover high upfront PV costs or 
+cannot access adequate bank support. This 
+will mean developing sound government 
+policies, testing new business models and 
+the introducing finance schemes designed 
+to support off-grid renewable systems. The 
+role of the new RE law and associated regulatory and financial instruments will be critical in creating a viable market supported 
+by a sustainable financing mechanism. 
+One measure that PV systems have penetrated The Gambian market is the increasing numbers of shops in Banjul and the 
+Greater Banjul areas that trade PV solar 
+accessories and various system components. Solar panels in these shops range 
+in size from 20-235 Wp, and controllers as 
+well as efficient appliances can be readily 
+obtained. This is a positive development 
+in that PV systems are entering the mainstream market and having greater visibility. However, the unregulated nature of the 
+market is letting in unlabelled equipment 
+with no specifications. The government has 
+passed The Gambia Competition Act and is 
+expected to pass the Consumer Protection 
+Act. These need to be given sufficient 
+7 Assumptions: Capital range = USD 3500-5000/kW for the PV module (system cost of USD 18 417 and 
+USD 23 520); battery size = 1800 Ah (7 Deka Gel batteries at USD 700/unit) and replace every 7 years; 
+inverter cost = USD 0.11/Wp and replace every 10 years; annual O&M cost = USD 20/kW (for 1.25 MW plant size) 
+and USD 30/kW (for 100 kW plant); project time = 20 years; inflation = 5%; discount rate =12%.
+Figure 10 
+Life-cycle cost comparison between PV 
+and diesel for off-grid electrification Life-cycle cost (USD)enforcement powers to safeguard the 
+rights and welfare of consumers. 
+Off-grid PV water pumping
+Since 1990, steady progress in extending rural water coverage was made in 
+The Gambia, and it was reported in 2010 
+that 80% of the country has now access 
+to water. This would be sufficient to meet 
+the Millennium Development Goal by 2015 
+(AMCOW, 2010). Access to an improved 
+water source refers to the percentage of the 
+population with least 20 litres per person/
+day within one km of the dwelling from an 
+improved source. This could be a household connection, public standpipe, borehole, protected well and rainwater collector. In The Gambia, groundwater sources 
+meet most of the potable water needs, 
+hence energy use for pumping water is a 
+critical input for water access. Handpumps, 
+diesel generators, PV systems and some 
+wind pumps are in use at present.
+Ongoing and upcoming projects in The 
+Gambia will improve access to rural water 
+services. The Gambian government has 
+recently initiated a large-scale Rural Water 
+Supply Project, with the USD 4 875m from 
+the Islamic Development Bank (IDB). This 
+will provide 90 drilled wells with hand 
+pumps and ten systems with a borehole, 
+tank and pipe distribution network to ten 
+communities. The government recently 
+finalised and signed a USD 7m grant with 
+Box 2
+NAWEC Street Light Project 
+Started in 2006 to resolve
+•	 Non-payment of street lighting bills by municipal councils
+•	 NAWEC budgetary difficulties
+•	 Lack of security from street lighting
+Several centralised solar tracking systems supply poles with light
+•	 Makes cleaning panels easier
+•	 Prevents damage from vehicle road accidents
+•	 Replaces conventional street lights to relieve NAWEC financial losses from
+powering street lights without customer revenue
+•	 NAWEC can extend its supply to more households & businesses
+Cost & achievement by 2012
+•	 Total cost of USD 216 467 (2006 exchange rate)
+•	 75 poles erected
+•	 Tracking system of 6 substations of 2 100 Wp each completed
+Savings from 12 hour lighting period
+•	 Energy consumption per pole 490.55 kwh
+•	 Annual saving per pole at USD 0.25 tariff rate = USD 120
+•	 NAWEC annual saving for 75 poles = USD 9 000
+•	 Project payback period 3.5 yearsthe AfDB for a rural water supply and sanitation project to be completed by 2014. 
+The project will provide 18 new solar-powered drilled boreholes and pumping units 
+and elevated water tanks and distribution 
+networks with public stand-taps. It will 
+rehabilitate and upgrade four water supply 
+facilities, provide sanitation in schools, rural 
+health centres and markets. With funding 
+from various development partners, a local 
+solar firm, GAM-Solar, has installed smaller 
+scale solar pumping systems in about 80 
+villages. They serve more than 200 000 
+villagers.
+The source of the energy used is critical to 
+the overall cost of water pumping systems. 
+As PV prices are falling and the volatility of 
+the fossil fuel market increases globally, PV 
+pumps are rapidly becoming more attractive than the traditional pumps powered by 
+diesel and gasoline.
+In a life cycle cost analysis using countryspecific data conducted for The Gambia 
+it is shown that over the longer term, PV 
+performs better than diesel (figure 11). It 
+provides a more reliable alternative for a 
+continuous water supply. This illustrates 
+how emerging price trends and technology development favours PV over diesel. 
+This is likely to continue into the future.
+The need to provide water services is not 
+limited to the household sector, but also 
+extends to commercial and productive 
+sectors. As The Gambia pushes to enhance 
+its agricultural sector to improve food security as well as diversify its trade, the need 
+for improved irrigation will assume greater 
+importance. Affordable and reliable energy 
+for pumping water for irrigation could play 
+a central role in enabling smallholders to 
+extend their production into the longer 
+dry season. This would improve their earnings, transforming rural economies and 
+Figure 11 
+Life-cycle cost comparison between PV and diesel for 
+water pumping at different depthsallowing them to play a key role in The 
+Gambia’s development plans as detailed 
+in PAGE 2012-15. GAM-Solar has installed 
+several agricultural solar irrigation systems 
+funded by donor organisations and NGOs, 
+such as the recent eight hectare drip-line 
+irrigation project at Sifoe Farm.
+Solar water heating
+Water heating is a major consumer of 
+energy in The Gambia – mainly in hotels, 
+clinics and some households. Significant 
+savings can be made if hotels and other 
+large institutions are able to capitalise on 
+the energy savings opportunities from 
+solar water heating systems, which have 
+been around for several decades. The 
+technology is mature, simple to repair and 
+replicate, and heats water cost-effectively. 
+Conclusions were drawn as early as the 
+1980s that major hot water users could 
+make significant financial savings by 
+switching from diesel-powered and electric water heating systems to solar heating 
+systems. The most common type of solar 
+water heater in The Gambia incorporates a 
+2m2 flat-plate solar collector and a 300 litre 
+storage tank, and has a payback period of 
+less than one year. 
+Some hotels have already invested in solar 
+water heating systems, due to increasing 
+awareness of ecotourism practices and 
+motivated by the high cost of electricity. 
+Kombo Beach Hotel has installed a 6 000 
+litre solar water and hot water storage 
+system. It is backed up by a thermal heating system using fuel oil in the event of a 
+hot water shortfall from the solar system. 
+However, the high initial investment cost 
+has remained an obstacle for most hotels, 
+although increasing numbers of smaller 
+hotels located away from the grid are 
+investing in solar heating systems. 
+Based on these experiences, the viability of solar water heaters in the resource 
+and economic context of The Gambia 
+is convincing. For a typical load like the 
+Kombo Beach Hotel and a capital cost of 
+about USD 15 000, the solar water heater 
+could have a payback period of under 2.5 
+years. This is for a system with a lifetime 
+service of 20 years (figure 11). 
+Continuing to rely on grid electricity would 
+mean that water heating services are 
+subject to higher costs and less reliable 
+service delivery due to load shedding and 
+other technical problems. Since one of the 
+grid challenges is inadequate generation 
+capacity, shifting the water heating load to 
+solar means grid electricity could be freed 
+up for other end-uses. It could release 
+pent-up demand in various sectors. 
+Since 2000, considerable experience has 
+been obtained and skills developed in solar 
+heating systems in The Gambia. In 2004, 
+the Ministry of Energy (MOE) developed a 
+solar water heater using a converted electric water heater tank in collaboration with 
+GTTI. This is significant because it means 
+two types of solar water heating are available to households. They have a market 
+price of about USD 400 for the flat white 
+bed type and USD 630-2600 for the more 
+expensive vacuum type. 
+While this has been a productive DoE/GTTI
+collaboration, it could have benefitted from 
+a strong national promotion programme. 
+This would have mainstreamed the technology to a wider end-user base beyond a 
+few private initiatives. 
+Looking ahead, design regulations with 
+a specific mandate for different sectors 
+(industrial, tourism and households) to 
+install solar water heaters would help the 
+technology gain further traction.RRA findings
+The RRA has demonstrated that off-grid 
+renewable systems have already made 
+a significant contribution to social and 
+economic development in The Gambia. It 
+is also important to note that decentralised RE development in The Gambia will 
+not be a ‘silver bullet’ for universal access. 
+It will, however, probably be an important 
+component of any expansion in electricity access. The following are some specific 
+findings from the RRA relevant to off-grid 
+electrification. 
+Importance of clear rural
+electrification strategy
+In The Gambia, as in most countries in the 
+region, rural electrification campaigns were 
+conducted using grid-based technologies. 
+This is understandable since grid-based 
+technologies enable lower cost connections 
+to those closer to the grid. The challenge 
+with a grid-based approach is that it will 
+not reach remote or dispersed communities. It may even cause people to go to the 
+grid rather than the grid come to them. The 
+high electricity access in the Greater Banjul 
+area when compared to the very low rates 
+of access in other areas, points to this reality. Although the recent NAWEC electrification experience is encouraging, there is still 
+a need for a clear rural electrification strategy. Despite electricity demand growth in 
+the provincial centres, generation fell due 
+to high operation and maintenance costs. 
+This resulted in shorter electricity supply. 
+Part of the challenge is that consumer 
+tariffs in the provincial areas do not reflect 
+costs (they are heavily subsidised). This 
+has contributed to the NAWEC overall low 
+financial strength and credibility.
+A robust rural electrification strategy 
+would be aligned with local (provincial) 
+development plans. This would result in a 
+more coordinated and effective approach 
+in meeting the electricity needs of the rural 
+population. The strategy should define 
+short, medium and long-term access 
+targets supported by technology specific 
+targets within defined geographic areas for 
+off-grid electrification. One way would be 
+to introduce rural energy service concessions. This would allow an entity (private 
+Figure 12 
+Solar heater cumulative cash flow and payback periodsector, NGO, community organisation etc.) 
+to exclusively serve one or more defined 
+areas under a concessionary agreement. 
+The resource assessment carried out 
+shows that provincial areas have adequate 
+radiation all year round to enable renewables to play a significant role in off-grid 
+electrification. 
+Alignment of RE bill with IPP needs
+The draft RE law under discussion supports 
+the establishment of off-grid RE/hybrid 
+facilities run by IPPs. For systems up to 
+200 kW, the IPP would be allowed to 
+charge electricity tariffs to consumers up 
+to the national retail tariff. An IPP wishing to operate a larger system or charge 
+electricity tariffs above the national retail 
+tariffs would need to negotiate the terms 
+with the regulator. The RE fund, which will 
+be administered by PURA, would provide 
+financial incentives such as capital subsidies, production-based subsidies and equity 
+participation. These would be available for 
+mini-grid and off-grid renewable power 
+systems for remote areas and islands. This 
+should attract private sector investment in 
+the sector. The expected challenge would 
+be to ensure that the RE Fund will have 
+sufficient resources to maintain the investment momentum. The government will 
+need to employ a variety of creative fundraising mechanisms to sustain the fund. 
+Economic assessment
+of hybridisation
+There is plenty of experience of a variety 
+of technologies in The Gambia. It is important to document and assess the cost of 
+single and combination (hybrid) technologies in the different regions. This produces 
+dynamic data on the range of technologies and their performance under different conditions. The diesel-based mini-grid 
+operated by NAWEC offers a compelling 
+case for its hybridisation with RE sources. 
+Since solar radiation is abundant throughout the country, detailed feasibility data 
+on hybridizing the diesel mini-grids with 
+solar PV would help to demonstrate the 
+economics of these systems to potential 
+investors.
+Standards and labels
+(accreditation and certification)
+The lack of accreditation and certification 
+of RE technologies restricts the promotion 
+of PV-based electrification and solar water 
+heating. Most companies currently operating in The Gambia have a long and solid 
+track record in delivering high standard 
+projects. It is anticipated that the renewables market will expand and that possibly 
+new entrants into the trading and system 
+installation market will emerge. It is important to establish standards and labels for 
+renewables equipment (whether imported 
+or locally manufactured) and ensure their 
+proper installation and operation. It is not 
+clear who would oversee this important 
+task. 
+GREC capacity development
+The role of GREC will need to be redefined 
+and its capacity developed further. As a 
+knowledge hub of the MOE, GREC could 
+play a pivotal role in maintaining high standards of research and development activities. It could use its own human resources 
+and work with NGOs, the private sector and 
+tertiary education institutions. However, 
+funding for the continuous support of R&D 
+in the RE sector has been discontinued. 
+Adequate staffing was not maintained. This 
+means GREC consists of only one full-time 
+technician with an office at the REAGAM
+facilities plus some administrative support. 
+As matters stand, GREC does not have a 
+qualified expert that could fulfil its origi-nal mandate of RE R&D and the provision 
+of sound technical support to the MOE. 
+The Gambia should therefore support the 
+revival of GREC by entrusting the centre 
+with a number of roles. 
+These include scientific, technological and 
+innovative research in RE, promoting RE for 
+industrial uses and building the capacity of 
+installers of RE systems with proper certification. This was outlined in the RE bill. In 
+order to attract qualified expertise for this 
+purpose, the government of The Gambia 
+will need to allocate a specific budget 
+from internal sources. It will also need to 
+support partnerships between GREC and 
+well-established international centres with 
+a similar mandate. 
+Availability of soft loan schemes
+or other credit lines for solar PV
+The upfront cost of RE systems is a disadvantage to rural communities with little 
+income from obtaining electricity services. 
+The rural energy system as it has evolved 
+to date is complex and not disposed to 
+adequate planning and resource coordination. Soft loans can be attractive. A small 
+down payment of the total price is made 
+and the rest paid over a number of years at 
+a preferential interest rate. 
+In The Gambian context where bank loans 
+come with an 18% interest rate, a grant 
+from a multilateral agency or donor could 
+be ring-fenced. This would get soft loan 
+schemes up and running for household or 
+community electrification purposes. 
+While this cannot be considered as a longterm funding solution, it could address 
+energy for social development needs and 
+may also serve to stimulate the renewables 
+market in rural areas. The RE fund will be 
+instrumental in providing finance to kick 
+start subsidies and loan schemes.
+General capacity development
+The Gambia has built a credible human 
+capacity in some renewable applications 
+such as PV and water heating systems. 
+However, as yet, there are no government 
+or NGO-led public education programmes, 
+no RE industry associations and no formalised RE technical training programmes. 
+Capacity development for planning and 
+implementing large-scale off-grid (and 
+on-grid) programmes will need to be 
+increased if the promise of RE resources is 
+to be fully realised. Private sector involvement will require multiple skills in energy 
+analysis, engineering, finance and management in order to build a strong RE business 
+environment.
+Biomass for 
+cooking and heating
+A range of solid biomass resources are used 
+in The Gambia, consisting of fuelwood, 
+charcoal, agricultural residues and industrial wastes of agricultural origin. In the 
+Greater Banjul area, much of the fuelwood 
+and charcoal is imported from Guinea and 
+southern Senegal. In rural Gambia, fuel is 
+mainly gathered from community woodlands or shrubs near the villages. Officially, 
+charcoal production has been banned by a 
+presidential decree since 1977, but although 
+the law is well articulated, compliance is 
+low. Charcoal continues to be produced in 
+several villages in the West coast region 
+through often obsolete and inefficient 
+production methods. 
+Amid growing concerns for sustainable 
+supply of energy services to the household sector, a Household Energy Strategy 
+(HES) was devised for the energy sector. 
+It had the support of Comité Inter etats 
+de Lutte contre la Secheresse au SahelInterstate Committee for Drought Control 
+in Sahel (lCILSS)/PREDAS (Regional Programme for the Promotion of Domestic 
+and Alternative Energies in the Sahel) and 
+was approved by the cabinet in 2006. It 
+was the outcome of four sector studies 
+undertaken in 2004. These focused on 
+household energy consumption, charcoal, 
+charcoal briquetting from agro-industrial 
+residues and community-based natural 
+resource management. 
+Based on the HES recommendations in 
+2006, the MOE has outlined specific action 
+points, including increased efficiency in 
+the production and utilisation of forest 
+resources. These are as follows:
+w	Promotion and development of 
+improved cookstoves. In 2007, the 
+MOE supported the local production, testing and dissemination of the 
+JIKO improved charcoal stove through 
+GREC. It was locally called Furno 
+Jambar. Prior to this period, other 
+improved cookstoves were promoted, 
+including the metal ring for firewood. 
+Local production of the Furno Jambar 
+in The Gambia started after 2007.
+w	Construction of a bulk storage facility for LPG. The HES recommended an 
+increased use in alternatives to fuelwood given concerns about woody 
+ecosystem degradation. LPG was 
+identified as one of the alternatives. In 
+2009, a new bulk storage facility for 
+petroleum products of 51 000 tonnes 
+was commissioned including 1000mt 
+for LPG. Prior to this period, all LPG 
+into the country was imported mainly 
+from Senegal using truck tankers. The 
+construction of bulk storage for LPG 
+increased the security and reliability of 
+Box 3
+Production and promotion of groundnut 
+shell briquetting for cooking and heating 
+GreenTech is a private company established in early 2011 with the aim of improving 
+the cooking fuel supply chain. The company produces and supplies high quality fuel 
+briquettes from groundnut shell residues. It also researches, designs and markets 
+fuel-efficient stoves, allowing end-users to save time, money and natural resources. 
+GreenTech has a briquette production capacity of 800 kg/hr and supports the 
+production of fuel-efficient stoves made from recycled metal by local welders. 
+GreenTech's innovative stoves also emit less smoke than the traditional firewood 
+alternative. These are especially beneficial to women and children, who are most 
+involved in the cooking process. Fuel switching from charcoal in an open stove to 
+briquettes in fuel-efficient stoves can save a family 60% of their cooking fuel cost. 
+The briquettes can also be used in restaurants, canteens or industries using heat 
+from biomass for boilers or smokeries. Nevertheless, GreenTech realised that a lot of 
+effort is still needed to sensitise and convince potential users of their environmental 
+and economic advantages. The company received the SEED Award in 2011 and 
+has since been approached by several institutions to present and demonstrate the 
+products, service and concepts at national and international level. This has allowed 
+the company to become a knowledge hub for biomass briquettes to establish 
+decentralised, independent sales points.
+For more information visit: www.greentechgambia.comsupply, but the high retail price for LPG 
+remains an obstacle. 
+w	Production of groundnut shell 
+briquettes. Groundnuts are The 
+Gambia’s principal agricultural export 
+crop. In the 1980s, the Groundnut Shell 
+Briquette Project was initiated and 
+a plant commissioned. It converted 
+groundnut shells into fuel briquettes 
+with a capacity of six tonnes of 
+briquettes per hour as part of a household energy solution. However, the plant 
+was not extensively used and the project failed due to household resistance 
+to change. This was due to excessive 
+smoke, stoves unsuited to briquettes, 
+the absence of a widespread, intensive 
+marketing strategy, and the relatively 
+high cost of briquettes compared to 
+wood and charcoal (DMCI, 2005). 
+However, most of these problems could 
+have been solved with commitment 
+and a marketing and awareness-raising strategy about the advantages of 
+briquettes. These include lower energy 
+cost per calorie of heat provided. In 
+2009, the MOE, the Department of 
+Forestry and GreenTech Company 
+initiated the re-establishment of a 
+groundnut shell briquetting plant with 
+the intention of solving these problems 
+(box 3).
+RRA findings
+During the RRA, discussion focused mainly 
+on improved cookstoves and forest/agriculture waste-based alternative fuels. A
+number of problems were identified that 
+are specific to the biomass sector. They 
+include: 
+i) the absence of a clearly defined policy 
+on the use of biomass, including waste 
+biomass and energy crops for various 
+energy applications 
+ii) lack of institutional coordination and 
+collaboration among stakeholders and 
+with financial institutions 
+iii) absence of efficient cookstove standards as well as inadequate awareness-building campaigns to encourage 
+behavioural change in energy usage. 
+Some specific areas of intervention 
+were identified during the RRA.
+Role of the RENEWABLE
+ENERGY law
+The MOE is mandated to carry out an 
+impact assessment for the use of biomass 
+for electricity and other energy purposes 
+(heating, cooling and transport fuel). This 
+is to take place within one year of the RE
+Act coming into force in 2013. The assessment is to include among other things:
+w The most appropriate use for waste 
+biomass in relation to cooking fuel.
+w Forestry and agricultural impacts of 
+using different biomass energy sources 
+for cooking/heating. 
+w The feasibility and economic impacts 
+of using different biomass energy 
+sources.
+This assessment should mean a strategy 
+for the sustainable use of biomass energy 
+is drafted and adopted. The biomass strategy would ensure the sustainable supply of 
+biomass-based cooking fuel and promote 
+the use of alternative fuel as well as efficient cooking equipment/devices. 
+Develop/update master plan
+for fuelwood supply
+The stakeholders felt that the strategy 
+should lead to the development/update 
+of a master plan for fuelwood supply. This should reinforce the current forest 
+management plans and identify optimal 
+ways to access/produce alternative fuels 
+at affordable prices. It was also suggested 
+that the strategy should have three main 
+components: 
+i) promotion of improved cookstoves 
+produced locally; 
+ii) promotion of biomass-based alternative fuel; and 
+iii) stronger sustainable production of 
+fuelwood through community-based 
+wood lot management.
+The need for public
+awareness-raising
+The sector is informally organised, and this 
+is one of the major barriers preventing the 
+rollout of improved cookstoves. It lacks 
+adequate communication, sensitisation 
+campaigns and advocacy. Some surveys 
+have highlighted that the reluctance of 
+households to use improved cookstoves is 
+not only due to their cost. Other reasons 
+are a lack of financial management and 
+planning skills and different household 
+spending priorities. Yet even when the life 
+cycle cost of different stoves is assessed, 
+briquettes stoves are more cost-effective 
+than traditional stoves (GreenTech).
+Technology barriers
+The current stoves need further improvement for meeting users’ requirements in 
+terms of cooking time. Women complain 
+that cooking with the improved stoves 
+takes longer compared to open fire stoves. 
+GREC could be designated as technical 
+centre for working with users in designing 
+and testing improved cookstoves to bring 
+them in line with their design expectations. GREC technical capacity should be 
+built and adapted to the technical challenges faced by The Gambia. End-user 
+need to know more about energy, technolSource: Ministry of Energy, The Gambiaogy and finance to enable them to adopt 
+new technologies and use existing ones 
+properly. This minimises the burden of high 
+fuel cost and reduces time spent collecting 
+fuelwood. Public communication or local 
+community training could be provided 
+through outreach workers. 
+Financing mechanisms
+are critical
+Mainstreaming improved cookstoves is 
+fraught with challenges. Many failed examples testify to this reality. In countries where 
+cookstove promotion had succeeded, there 
+was strong collaboration between policy 
+makers, the private sector and financial 
+institutions to provide structure and coherence in the sector. The stakeholder mix 
+should also include finance organisations 
+such as microcredit institutions. These 
+would be in a position to provide finance 
+to serve low income groups. Existing wood 
+retailers can also be used for marketing/
+communicating these technologies as they 
+work within a strong national network. 
+Opportunities and 
+constraints for 
+scaling up renewable 
+energy deployment
+Alignment of energy 
+policies with broader
+development priorities
+The Gambia is pushing through a series of 
+energy and development programmes to 
+improve social and economic development. 
+Its PAGE has the aim of accelerating propoor growth and generating employment. 
+The programme also reserves ample space 
+and attention to the development of the 
+national infrastructure, including energy, as 
+a way to meet these goals. On the energy 
+front, The Gambia is now preparing a 
+robust RE law. 
+This aims to expand RE through a variety of 
+delivery mechanisms and business models. 
+Introducing these policies is not easy in a 
+country heavily reliant on fossil fuel, with 
+growing demand for electricity and a weak 
+transmission and distribution infrastructure. The Gambia is also taking a strong 
+position in its energy policy and strategy to 
+ensure the private sector plays an important role in developing the power sector. To 
+realise this goal, The Gambia is preparing a 
+series of regulatory instruments such as a 
+FIT and bankable PPAs to meet RE sector 
+requirements. 
+WAPP effect
+West African regional power development work is progressing with a number 
+of transmission and rehabilitation projects 
+already completed. It is expected that The 
+Gambia will benefit from importing more 
+power than it will produce domestically. 
+Furthermore, RE technologies are likely 
+to play a major role in developing an integrated power pool. This is because their 
+share in the region could amount to as 
+much as 52% in 2030 if the cost of these 
+technologies continues to fall and fossil fuel 
+prices continue to rise (IRENA, 2013b). 
+For smaller countries like The Gambia, 
+this could mean a reduction in the 
+long-term marginal cost of power by 
+USD 0.02–0.07/kWh (Eberhard et al. 2011). 
+WAPP could usher in an era of cheaper 
+and more secure power supply. This should 
+be welcome, but cross-border power 
+transmission will still require considerable 
+investment, a high degree of collective 
+ownership and a new terrain of engagement which has little precedent in Africa. 
+The effect of a highly interconnected power 
+infrastructure on rural energy services in 
+The Gambia is uncertain, as most people 
+will continue to rely on decentralised systems. There are clear opportunities for 
+The Gambia. However, it is important to 
+carry out a further assessment that considers the real implications of this for the 
+whole range of energy users. 
+importanCE OF LeadershiP
+Policy makers across Africa have been 
+among the last to embrace RE as a solution to their energy problems. They are 
+often locked into crisis management on 
+a day-to-day basis. The country’s policy 
+makers need to be persuaded that RE
+has a real future in the energy mix of The 
+Gambia. They need to demonstrate this 
+by their actions. The Gambia has already 
+started this process by setting up a strong 
+policy that includes RE as part of its energy 
+future. It is in the process of building the 
+institutional and legal framework that will 
+help to deliver this promise. 
+The success of the RE mission will be 
+judged by what transpires on the ground in 
+generating tangible results, improving livelihoods and creating stability in the energy 
+system. 
+The role of the public sector then becomes 
+critical in balancing the wider mediumterm needs of society and country with 
+short-term measures sufficiently attractive 
+to the private sector. This means building investor confidence by simplifying the 
+business environment in which investment 
+can flourish, and having clear and transparent governance. 
+One practical step would be to set out 
+clear mechanisms for calculating the PPA
+tariff for renewables. This gives potential 
+investors sufficient confidence to plan and 
+finance projects with a full view of future 
+revenues. Future investment only occurs if 
+there is sufficient confidence that investors 
+today are gaining good returns. 
+The Gambia has an attractive investment 
+environment in tourism and other development sectors. It needs to broaden this to 
+the energy sector. That means building its 
+own capacity to implement its policies to 
+promote and support RE. The right conditions need to be created to enable local 
+manufacturing and/or assembly of renewable technologies. 
+Energy efficiency as a resource
+Limiting energy losses along the power 
+system chain, i.e., from generation to 
+end-use, is critical. This should form part 
+of The Gambia’s future energy strategy. 
+High transmission and distribution losses 
+(over 30% in The Gambia) worsen the 
+energy security problem. They also deepen 
+suppressed demand. Those with the ability 
+to pay will turn to on-site generators. All 
+these have economic, social and environmental costs. 
+The significance of energy efficiency is 
+highlighted in The Gambia’s 2005 Energy 
+Policy. However, the country’s struggle 
+with generation and transmission has sidelined the tangible gains from demand-side 
+measures. Investment in end-use energy 
+efficiency (whether through technology intervention or awareness-raising) 
+increases the availability of system-wide 
+electricity generation and transmission 
+capacity for other uses. 
+In other words, end-use efficiency can be 
+considered a resource. It could provide 
+energy savings comparable to the electricity generated by power plants. Due to 
+the high capital cost of RE technologies, 
+there are benefits in making demandside efficiency improvements. They yield 
+a greater impact per unit of investment in 
+renewables. A sustainable energy economy 
+thus requires major commitments to both 
+energy efficiency and RE development. Capitalise on off-grid 
+opportunities, build knowledge
+systems and plan ahead 
+Off-grid energy systems can play a significant role in electrification programmes in 
+rural areas. However, more work is needed 
+to ensure that prices are competitive and 
+affordable. The range of pro-poor financing 
+mechanisms needs to be tested and evaluated with this aim. It is therefore important 
+to produce an inventory of experiences 
+specific to The Gambia in terms of the 
+range of delivery mechanisms and business models. 
+It is also important to assess whether 
+the new regulatory and legal frameworks 
+will act as enablers or obstacles to mainstreaming off-grid RE into the energy 
+mix. This process of energy knowledge 
+generation could help develop a dynamic 
+techno-economic assessment framework 
+for off-grid system design. This would 
+take material sourcing, installation cost, 
+available energy resources, energy storage options, robustness of design and 
+social acceptance into consideration. 
+It would help The Gambia develop its 
+off-grid energy strategy through informed 
+and tailored technical and business models 
+compatible with local resources, institutions and economic factors. It would also 
+be useful for private sector players as it 
+would provide them with updated information about various technologies in the 
+context of The Gambia. This role could be 
+taken up by GREC.
+High cost of debt
+For any given project, financial institutions 
+will assess both the risks and returns of 
+the project. Each individual risk is analysed and studied in terms of managing its 
+potential impact on the project. Different 
+risk categories include country risk, market 
+risk, business risk, interest rate risk, project 
+risk and foreign exchange risk. The Gambia 
+provides a mixed picture when viewed 
+against these risk categories. However, its 
+banking system has been characterised by high interest rates for some time. This 
+is the fiscal policy for limiting inflation rate 
+increases and maintaining stability in the 
+national currency. At present, the bank loan 
+interest rate stands at 18%. This will have an 
+impact on the evolution of the RE market 
+and the types of market players likely to 
+play a defining role. 
+Numerous studies show that high interest 
+rates and relatively short loans add significant amounts to the cost of RE investment. This situation places The Gambia in 
+a difficult position. Even if the cost of debt 
+servicing falls, access to low cost equity 
+and limits on foreign exchange are likely to 
+present additional medium-term barriers 
+to growth in the RE sector. 
+There are a few paths The Gambia can 
+pursue independently or in collaboration 
+with other partners. The Gambia should 
+strengthen its effort to bring to bear international funds as a means of providing soft 
+loans with generous repayment terms, low 
+interest rates and flexible timeframes. 
+This can be ring-fenced as a resource 
+that is exclusively used to boost capacity, increase technology visibility, develop 
+robust institutions and build experience in 
+RE applications. The Gambia could involve 
+its national development bank to finance 
+RE projects with low cost and longer term 
+financing. A programme of this kind would 
+need to be seen as an important national 
+development strategy. 
+The Gambia could continue to encourage 
+external investors by offering an attractive investment environment such as tax 
+holidays and waivers on import tariffs 
+for components. These investors would, 
+however, expect to set their own prices and 
+would be inclined to make rapid returns on 
+their investment, and this presents another 
+challenge. Moreover, international players who have invested equity in the sector 
+would expect to cash in their returns in 
+scarce foreign currency while they sell electricity in The Gambian Dalasi internally. 
+The value of this longer term engagement 
+is that energy would be treated as a means 
+to achieving broader development objectives. The availability of reliable electricity 
+supplies would translate into wider socioeconomic gains. 
+The RRA identified a large number of 
+issues with decisive implications for the 
+effective deployment of RE resources in 
+The Gambia. Some of these are specific to 
+the five priority resource-service pairs for 
+scaling up renewable deployment in the 
+short- to medium-term. However, some are 
+generic in nature. Section 5 summarises 
+the key actions identified by the RRA.Source: Ministry of Energy, The GambiaV. SUMMARY OF RECOMMENDED ACTIONS
+The following table identifies seven recommended action points revealed by the RRA. They 
+all apply to priority resource-service pairs. This action is not presented in any order of priority, and this rapid assessment is unlikely to produce an exhaustive list of measures needed. 
+The detailed list of action can be found in annex I. 
+ACTION STEPS 
+•	 MOE to seek and obtain written agreement from all
+stakeholders on appropriateness, adequacy and 
+suitability of the bill for enactment into law
+•	 MOE to present to cabinet for approval following which it
+then presents it to the National Assembly for ratification
+•	 Law signed into an Act by the President
+•	 MOE ensures all activities needed to be carried 	 	
+by PURA for effective implementation of the Act are 
+duly completed, signed by the minister as necessary 
+and published 
+•	 Engage with organisations with similar experience in
+other countries and regions (e.g. Morocco, Egypt)
+•	 Begin process of developing nationally-specific 	 	
+standards and labels for different RE equipment
+•	 Consult with PURA
+Speed up RE 
+law enactment 
+(by end 
+2013); include 
+regulation on 
+solar water 
+heating systems
+Establish 
+standards and 
+labels for RE 
+equipment•	 Engage an RE expert with good track record in research
+to undertake an evaluation of past GREC activities and 
+outline lessons learnt
+•	 Bring in donor assistance to equip the centre, and 		
+explore mechanisms to obtain adequate 
+continuous funding
+•	 Improve centre staffing and build staff capacity
+•	 Establish stronger ties with university and technical
+institutes in The Gambia and abroad
+•	 Undertake a robust gap analysis of data based on 		
+priority areas for RE development
+•	 Identify assessment gaps relating to resource potential
+•	 Identify, map and begin dialogue with stakeholders and
+existing data collection initiatives for including in the 
+observatory currently being set up by ECREEE
+•	 Establish a plan and protocol for data collection
+•	 Conduct feasibility study which defines the institutional,
+management, administrative and the regulatory frame
+works of Fund 
+•	 Develop guidelines for how fund will be utilised
+•	 Initiate engagement with bilateral and multilateral 		
+donor agencies
+•	 Establish RE Fund
+Establish 
+standards and 
+labels for RE 
+equipment
+Assess, 
+update and 
+validate solar, 
+biomass and 
+wind resource 
+mapping
+Establish RE 
+Fund and 
+identify sources 
+of funding•	 Map out capacity gaps across MOE, PURA, GREC, NARI,
+Rural Development Institute (RDI), REAGAM, RE Fund, 
+private sector manufacturers and equipment suppliers 
+at technical, management, regulatory and procurement 
+levels
+•	 Establish contact with international agencies and other
+countries which have developed these technologies 
+to monitor development of standards and codes for 
+power system installations
+•	 Raise resources for capacity building
+•	 •	 Incorporate use of land for RE project as priority in
+the land use policy 
+•	 Develop land use maps
+•	 Carry out detailed assessment of impact of land 	 	
+requirements for energy crop production, forestry 
+and food production targets; identify land tenure 
+rights wherever possible and incorporate into a 
+land use policy
+•	 Identify extent and basis of private company 	 	
+participation in energy crop production
+Build capacities 
+of various 
+stakeholders 
+(policy makers, 
+regulators and 
+the private 
+sector)
+Allocate land 
+for RE useVI. REFERENCES
+AEO (African Economic Outlook)(2012), “Gambia Country Note”, AEO,
+www.africaneconomicoutlook.org/en/countries/west-africa/gambia/
+AMCOW (African Ministers Council on Water) (2010), Water supply and sanitation in 
+The Gambia: turning finance into services for 2015 and beyond, AMCOW Country Status 
+Overview, WSP (Water and Sanitation Program) World Bank, Washington, DC.
+DMCI (Development Management Consultant International) (2005), 
+“Household Energy Strategy (HES) for The Gambia”, pp. 136, 
+www.ecowrex.org/sites/default/files/2005%20Household%20Energy%20Strategy.pdf
+Eberhard, A., et al. (2011), Africa’s Power Infrastructure: Investment, Integration and Efficiency, 
+World Bank, Washington, DC.
+ECOWAS (Economic Community of West African States) (2013), “Press Communiqué, 
+No. 55”, 1 March 2013, http://news.ecowas.int/presseshow.php?nb=055&lang=en&annee=2013 
+(accessed June, 2013)
+ECREEE (ECOWAS Centre for Renewable Energy and Energy Efficiency)(2012), ECOWAS 
+Energy Efficiency Policy, ECREEE, Cape Verde.
+Energy Division Office of the President of the Republic of The Gambia (2005), Renewable 
+Energy Study: Draft Renewable Energy Master Plan – Module I. Energy Demand Assessment 
+and Projection, Lahmeyer International GmbH, Bad Vilbel, pp. 93.
+Energy Division Office of the President of the Republic of The Gambia (2006), Renewable 
+Energy Study: Draft Renewable Energy Master Plan – Module II: Resource Assessment, 
+Supply Options, Demand-Supply Balance, Economic Study and Investment Plan, Lahmeyer 
+International GmbH, Bad Vilbel, pp. 150.
+Foster, V. and C. Briceño-Garmendia (2010), Africa’s Infrastructure: A Time for Transformation, 
+Agence Française de Développement and World Bank, Washington, DC.
+GEF (Global Environment Facility) and UNIDO (United Nations Industrial Development 
+Organization), “Promoting renewable energy based mini-grids for productive uses in 
+rural areas of The Gambia”, GEF, Washington DC., www.thegef.org/gef/sites/thegef.org/files/
+documents/document/6-28-2011%20ID3922%20Gambia%20Coundil%20Letter%20rev.pdf
+Geipel, R., et al.(2009), “Experience with the Electrification of the Health Centre of Darsilami 
+in The Gambia”, Small PV-Applications Rural Electrification and Commercial Use, 25-26 May 
+2009, www.iwes.fraunhofer.de/en/publications/list_of_publication/2009/experience_with_
+theelectrificationofthehealthcentreofdarsilamiin.htmlGovernment of The Gambia (2011), Integrated Household Survey, Income and Expenditure 
+Poverty Assessment - 2010, UNDP (United Nations Development Programme) and Gambia 
+Bureau of Statistics, pp. 81.
+Government of The Gambia (2012), “Rio+20, Republic of The Gambia: National Report 2012”, 
+http://sustainabledevelopment.un.org/content/docume9nts/975gambia.pdf
+IMF (International Monetary Fund) (2013), “The Gambia”, IMF Country Report No. 13/139, IMF, 
+Washington, DC.
+IRENA (International Renewable Energy Agency) (2013a), Renewable Power Generation 
+Costs in 2012: An Overview, IRENA, Abu Dhabi.
+IRENA (2013b), West African Power Pool: Planning and Prospects for Renewable Energy, 
+IRENA, Abu Dhabi.
+Jarju, A.K., (2008), Fuelwood: Effects of consumption and production on the general population and natural resources of The Gambia, NARI (National Agricultural Research Institute), 
+Brikama, pp. 21.
+MOA (Ministry of Agriculture) (n.d.), “Crops of Gambia” www.accessgambia.com/information/plants-veg-nuts.html (accessed September 2013).
+MOA (Ministry of Agriculture) (2007), Marketing Survey and Market Research for Non-Timber 
+Forest Product and Alternative Cooking Energy Resources, PIWAM (Participatory Integrated 
+Watershed Management Project) Project Special studies on Fuelwood, MOA, Banjul.
+Ministry of Energy (2005), “National Energy Policy: Policies and Strategies”, Ministry of 
+Energy, Banjul, www.moe.gov.gm/index.php?option=com_content&view=article&id=48&Ite
+mid=30
+Ministry of Energy (2011), Development of Energy Database, Ministry of Energy, Banjul.
+Ministry of Energy (2012a), Draft National Investment Program on Access to Energy Services 
+in The Gambia, Ministry of Energy, Banjul.
+Ministry of Energy (2012b), “Electricity Strategy and Action Plan”, AF–MERCADOS EMI, 
+www.euei-pdf.org/48C1A355-967D-4C62-ABFA-2CD49944EA4B/FinalDownload/
+Download Id -E902ADD45B7D2A452709F9AC4639D7F5/48C1A355-967D-4C62-ABFA2CD49944EA4B/sites/default/files/files/field_pblctn_file/1312%20Gambia%20-%20
+Electricity%20Strategy%20v3-0%202012-12-18.pdf
+Ministry of Finance and Economic Affairs (2002), “Strategy for Poverty Reduction (SPAII) 
+(PRSP)”, pp. 166, www.imf.org/external/np/prsp/2002/gmb/01/Ministry of Finance & Economic Affairs (2007), “Poverty Reduction Strategy II: 2007-2011”, 
+IMF, Country Report No. 07/308, www.imf.org/external/pubs/ft/scr/2007/cr07308.pdf
+Ministry of Finance and Economic Affairs (2011), Programme for Accelerated Growth and 
+Employment 2012-15, Ministry of Finance and Economic Affairs, Banjul.
+National Water and Electricity Company (NAWEC) (2012), The NAWEC Annual Report 2011, 
+NAWEC, Banjul.
+PURA (Public Utilities Regulatory Authority) (2012), PURA Annual Report 2011, PURA, Bakau, 
+pp. 85.
+Republic of The Gambia (2011), Development of Energy Database, UNDP Support to the 
+Energy & Environment Sectors for the attainment of the MDGs and PRSPs.
+Government of The Gambia, Office Of The President, Energy Division (2006a), Renewable 
+Energy Study for The Gambia: Feasibility Study, Small Scale Wind Park, Lahmeyer International 
+GmbH, Bad Vilbel, pp. 85.
+Government of The Gambia, Office Of The President, Energy Division (2006b), Renewable 
+Energy Study for The Gambia: Feasibility Study, Solar Home System Programmme, Lahmeyer 
+International GmbH, Bad Vilbel, pp. 46.
+United Nations System in The Gambia (2011), Common Country Assessment Report
+UNESCO (United Nations Educational, Scientific and Cultural Organization)(2012), ECOWAS 
+EFA Profile, UNESCO, Dakar Office, www.unesco.org/new/fileadmin/MULTIMEDIA/FIELD/
+Dakar/pdf/RECProfileECOWAS_ENG.pdf
+World Bank (2012), Energy Sector Diagnostic Review, Government of the Republic of The 
+Gambia
+World Bank (2013a), "Urban population (% of total)", http://data.worldbank.org/indicator/
+SP.URB.TOTL.IN.ZS
+World Bank (2013b), “World Development Indicators: Global Private Financial Flows”, 
+http://wdi.worldbank.org/table/6.9VII. ANNEX 1: DETAILED DESCRIPTION 
+ OF RECOMMENDED ACTIONS
+The RRA process identified and recommended the action below. It is not given in 
+any order of priority, and the list of action points from a rapid assessment is unlikely 
+to be exhaustive. This action could improve the Gambia’s readiness to scale up its 
+renewables deployment. It is designed to be taken in the short- to medium-term, 
+largely through decisions made by the government of The Gambia.
+Action 1: Speed up renewable energy law
+Action Speed up RE law
+Resource-service pair(s) Centralised and decentralised grid electricity, all RE resources
+Description The RE bill preparation funded by the EU Energy Initiative has 
+just been completed and validated. Bill enactment will be initiated and followed up by MOE, the line ministry responsible. 
+As with all other bills, this may not require extra funding 
+beyond the normal budgetary allocation of the implementing 
+agency, MOE.
+ MOE is to be responsible for seeking and obtaining written 
+concurrence of all stakeholders on the bill’s appropriateness, 
+adequacy and suitability for enactment into law. It would then 
+present it to cabinet for approval following which it would 
+present it to the National Assembly for ratification. Finally, the 
+ministry will ensure it is signed into an Act by the president. The 
+ministry will ensure all the activities needed to be carried out 
+by PURA to effectively implement the Act are duly completed, 
+signed by the minister as necessary and published. This may 
+require financial expenses beyond the budgetary allocations 
+of the ministry. These could be sought from available potential 
+donor sources. 
+Stakeholders MOE, cabinet, PURA, National Assembly, donors and all other 
+stakeholders including REAGAMTiming By end 2013
+Keys to success Enactment of the bill will require consensus on the terms of 
+the text. Its effectiveness will depend on the extent to which it 
+gives incentives for RE. The availability of funds to support its 
+promulgation will be crucial and will depend in part on continued engagement with donors.
+Action 2: Establish standards and labels for 
+ renewable energy equipment
+Action Establish standards and labels for RE equipment
+Resource-service pair(s) Centralised and decentralised grid electricity, all RE resources
+Description The Gambia Bureau of Standards was established in 2010. 
+However, there are no established standards and labelling 
+requirements that aim to prevent the sale of unsafe and inefficient RE equipment and technologies.
+The need for standards in RE equipment and technologies was 
+recognised as early as 1982. Solar cook stoves, solar powered 
+water and wind pumps were developed, promoted and 
+continued to be promoted without any systematic attempt 
+to standardise/streamline the technologies. Also, no quality 
+control was actively introduced, especially for fuel efficiency, 
+to guarantee satisfaction and avoid a negative reputation. 
+One cannot over emphasise the need for standards and labels 
+for RE equipment as part of a concerted effort to accelerate 
+deployment of RE resources and technologies. Only through 
+standardisation and labelling is the vendor, manufacturer or 
+importer still liable for the safety of the RE equipment where 
+testing and/or voluntary approval has not been sought.
+Stakeholders MOE, the Gambia Bureau of Standards, NAWEC, PURA, 
+REAGAM and potential investors (private companies, utilities 
+and commercial banks).
+Timing Early 2013
+Keys to success Engagement with organisations with similar experience in 
+other countries and regions (e.g., Morocco, Egypt)Action 3: Revive GREC
+Action Revive GREC
+Resource-servicepair(s) Centralised and decentralised grid electricity, all 
+RE resources.
+Description GREC was established in 1987 as the technical arm of the DoE
+in the field of RE and energy efficiency. Its primary function 
+was to conduct adaptive research in RE, develop and promote 
+the use of RE and energy efficiency technologies and advise 
+government on RE and energy efficiency. 
+Since its establishment, the centre has organised a series of 
+biannual energy shows and exhibitions, assessed and tested 
+household energy appliances and carried out training in RE
+and energy efficiency appliances. It has also conducted sensitisation and communication campaigns and liaised with energy 
+companies. However, due to limited highly-qualified personnel and equipment the centre has become dormant. Reviving 
+the centre would thus require staffing it with qualified personnel supported by an RE expert on a technical assistance basis. 
+It would also mean appropriately equipping it and allocating 
+it an adequate continuous budget. 
+Stakeholders MOE, DOE, PURA and MOFEA
+Timing 2013
+Keys to success Engagement of an RE expert with a good track record in 
+research, improved staffing, donor assistance to equip the 
+centre and ensure adequate continuous funding.Action 4: Assess, update and validate solar, 
+ biomass and wind resource mapping
+Action Assess, update and validate solar, biomass and 
+wind resource mapping 
+Resource-service pair(s) Wind, solar and biomass for all applications.
+Description There is at present a broad understanding of resource availability and potential, but this is generally not sufficient to 
+enable project development or a comprehensive assessment 
+of potential. Similarly, there is some data collection from actual 
+projects, but this is not comprehensive or centralised.
+Comprehensive data will facilitate the implementation of the 
+draft renewable energy strategy and future project development. Particular gaps exist in solar, wind and biomass; benefits could also be gained from an assessment of bioenergy 
+potential. Likely action in implementing a mapping process 
+could include:
+- engage with existing initiatives for data collection, 
+including observatory currently being established by 
+ ECREEE
+- identify precise requirements for resource mapping, 
+based on priority are as for RE development
+- establish a plan for data collection 
+- explore the potential for funding ground measurement 
+campaigns with multilateral/bilateral organisations
+Stakeholders MOE, NAWEC, ECREEE, project developers, GREC, NARI, 
+DWR and donors
+Timing Mid-2013 for definition of requirements and protocol, on 
+going for data collection
+Keys to success Technical and human resources available for data collection, identify and secure funds for data collection, establish a 
+protocol for sharing dataAction 5: Establish renewable energy fund 
+ and identify funding sources
+Action Establish RE fund and identify sources of funding
+Resource-service pair(s) Biomass, wind and solar for all applications
+Description One of the key objectives of the government’s energy policy 
+is to widen the population’s access to modernised forms of 
+energy so as to stimulate development and reduce poverty. 
+Communities who do not have access to the electricity 
+network are one of the main groups with potential to benefit from renewable electricity support. However, community 
+investment in the Gambia presents serious challenges. It is 
+difficult for communities to access finance and develop the 
+skills and knowledge required. Similarly factors like high initial 
+costs, high private lending costs, commercial sustainability of 
+members of REAGAM and financial and technical performance 
+risks have limited the rapid expansion of enterprises. This is 
+compounded by the lack of a fully transparent framework for 
+private sector investment. 
+ Establishing the RE fund providing soft loans, capital subsidies and other financial incentives for renewable generation 
+projects as outlined in the draft RE law will thus be an essential. It will drive the acceleration of renewables deployment in 
+the short- to medium-term. The government should identify 
+specific internal sources of funding and lobby financial and 
+development partners to further support the fund. 
+Stakeholders MOE, MOFEA, donor community, cabinet, National Assembly 
+and IRENA.
+Timing Mid-2014
+Keys to success Feasibility study to identify internal niches of funding that 
+could support the RE fund along with consultation with key 
+bilateral and multilateral donor agencies to further support 
+the fund. Action 6: Build stakeholder capacity 
+ (policy makers, regulator and the private sector)
+Action Build stakeholder capacity (policy makers, regulator and the 
+private sector)
+Resource-service pair(s) Off-grid and on-grid services, wind and solar resources
+Description The Gambia appears to have a shortage of relevant skills for 
+the power sector. 
+ Inadequate technical skills are felt at all levels: engineers, 
+mechanics and technicians. Often these skills are recruited 
+from outside the country, from the wider ECOWAS region or 
+German, Lebanese or French expats. GEG employs around 60 
+expats, for example.
+The MOE, NAWEC and PURA have also expressed a need for 
+more capacity in the power sector. The MOE includes “capacity building for MOE, NAWEC and other stakeholders” as part 
+of its draft Strategic Plan 2010-2014. Specific capacity-building programmes are not identified. Management and project 
+finance training may be beneficial, particularly for managing 
+IPP processes.
+Furthermore, capacity building at the management, regulatory and procurement level will be important for MOE, NAWEC 
+and PURA, as they lead and manage the transition to a fit-forpurpose power system.
+UTG and technical training institutions will play a key role in 
+continuously working with government and private sector 
+to deliver capacity-building and training activities at several 
+levels:
+•	 At the academic level with the development of master
+programmes and the training of engineers, designers, 
+etc.
+•	 At the professional level, with their support in the 		
+capacity-building activities for professionals 
+(installers etc.)
+•	 At the grassroots level, by supporting awareness 	 	
+campaignsStakeholders MOE, PURA, GREC, NARI, RDI, REAGAM, RE Fund, private 
+sector manufacturers and suppliers of equipment, other technical, vocational institutes and the UTG and IRENA
+Timing From 2013 
+Keys to success Capacity-building activities and training programmes are 
+essential to developing a national industry. Establishing 
+contact with international agencies and other countries which 
+have developed these technologies will be important. This 
+will help monitor the development of standards and codes for 
+power system installations. 
+Action 7: Allocate land for renewable energy use
+Action Allocate land for RE use
+Resource-service pair (s) Solar, wind and biomass for on-grid/off-grid electricity 
+Description Given the small size of the country, developing RE plants will 
+mean setting up a robust procedure in consultation with all 
+relevant stakeholders to allocate land suitable potential for 
+the developing RE power plants. 
+Stakeholders MOE, Ministry of Local Government & Lands and its technical 
+departments of Community Development, Physical Planning 
+and Lands and Surveys, MOFEN, Tourism Development 
+Authority (TDA), legal advisor, NARI and NGOs including 
+REAGAM.
+Timing By end of 2014
+Keys to success - Identifying and responding to public concern relating to 
+land use allocation and associated conflicts
+- Inclusive participation of all stakeholders 
+throughout the review
+- An understanding of the need for land use policy and 
+its implicationsIRENA Secretariat
+CI Tower, Khalidiya (32nd) Street
+P.O. Box 236, Abu Dhabi
+United Arab Emirates
+www.irena.org
+Copyright © IRENA 2013 

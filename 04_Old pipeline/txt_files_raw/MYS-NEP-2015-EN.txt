@@ -1,0 +1,1486 @@
+File Name: MYS-NEP-2015-EN
+Year: 2015
+Country Name: Malaysia
+Country Code: MYS
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2015
+Start Year: nan
+End Year: nan
+Language: EN
+------------------------------------------------
+
+NATIONAL
+ENERGY EFFICIENCY 
+ACTION PLANMinistry of Energy, Green Technology and Water, 2015 2
+Table of Contents
+Foreword ........................................................................................................................................4
+1. Executive Summary.................................................................................................................5
+2. Background.................................................................................................................................9
+2.1 The Institutional Setup and Regulatory Framework on Energy Efficiency ...............10
+2.2 Past and Current Initiatives on Energy Efficiency..........................................................11
+2.3 Identified Barriersto Energy Efficiency.........................................................................14
+3. A Plan for Energy Efficiency ..................................................................................................16
+3.1 Energy Efficiency Potentials..........................................................................................16
+3.2 The Guiding Principles of the Plan ................................................................................19
+3.3 The Thrusts of the Plan.......................................................................................................20
+3.3.1 Strategic Thrusts..........................................................................................................20
+3.4 Targets and Impact of National Ten-Year Energy Efficiency Action Plan.....................21
+3.5 Strengthening EE Legislation ..............................................................................................23
+4. Strategic Actions...................................................................................................................24
+4.1 Action 1: Establish a Dedicated Section for NEEAP in EC .................................................24
+4.2 Action 2: Funding for Energy Efficiency ........................................................................26
+4.3 Action 3: Government Led Initiatives ...........................................................................26
+4.4 Action 4: Capacity Building ...........................................................................................27
+4.5 Action 5: Research and Development ..........................................................................27
+5. Key Initiatives........................................................................................................................29
+5.1 Overview of Key Initiatives and Programmes...............................................................29
+5.2 Key initiative 1: Promotion of 5-Star Rated Appliances................................................31
+5.2.1. Programme : 5-star Refrigerators.........................................................................32
+5.2.2. Programme: 5-Star Air-Conditioners....................................................................33
+5.3 Key initiative 2: Minimum Energy Performance Standards (MEPS).............................34
+5.3.1. Programme: Promotion of Efficient Lighting........................................................34
+5.3.2. Programme: High Efficiency Motors.....................................................................35
+5.4 Key initiative 3: Energy Audits in Buildings and Industries ...........................................36
+5.4.1. Programmes: Energy A u d i t s a n d M a n a g e m e n t in C o m m e r c i a l , 
+Industrial a n d G o v e r n m e n t Facilities ............................................................................36
+5.5 Key initiative 4: Promotion of Co-generations ..............................................................41
+5.6 Key initiative 5: Energy Efficient Building Design..........................................................42Ministry of Energy, Green Technology and Water, 2015 3
+6. Costs and Benefits.................................................................................................................44
+7. Monitoring of the National Energy Efficiency Action Plan Progress.....................................46
+7.1 Energy Efficiency Monitoring Framework.....................................................................47
+7.1.1. Energy Efficiency Indicator....................................................................................47
+7.1.2. Reporting the National Energy Efficiency Action Plan Implementation Progress........47
+8.0 Impact...............................................................................................................................48
+8.1. Economic Impact ..........................................................................................................48
+8.2. Environmental Impact ..................................................................................................48
+8.2.1. Final Electricity Energy Demand (FEED) and CO2 emission ..................................48
+8.3. Social Impact.................................................................................................................48
+List of Figures 
+Figure 1: Economic growth rates and Energy growth rates..........................................................16
+Figure 2: Final energy intensity and Industrial energy intensity. .................................................17
+Figure 3: The electricity savings and percentage of savings by the National Energy Efficiency 
+Action Plan ...................................................................................................................................21
+Figure 4: Linkages of target and impact with major stakeholders................................................22
+Figure 5: The organisational Structure of NEEAP Project Team.................................................25
+List of Tables
+Table 1: Key Initiaves...................................................................................................................30
+Table 2: The cash-flow of National Energy Efficiency Action Plan............................................44
+Table 3: Impact of the National Energy Efficiency Action Plan..................................................49Ministry of Energy, Green Technology and Water, 2015 4
+Foreword
+The proposed NEEAP contained herein incorporates the view of majority of the 
+stakeholders and working group collated at the various stages of deliberations of the 
+original NEEMP documents. This Report therefore only focuses on the final outcome of 
+NEEAP. Invariably, it does not include all the process trails of the previous findings. 
+Notwithstanding that, references of them are made from time to time when the occasion 
+arises.Ministry of Energy, Green Technology and Water, 2015 5
+1. Executive Summary
+Malaysia is a developing country where its growing population and expansion of 
+economic activities especially in the manufacturing sector have been the major drivers 
+for the increasing demand for energy supply. Historically, the nation’s energy demand 
+growth rates were higher than the growth rates of its Gross Domestic Products (GDP). 
+The energy demand growth, especially the demand growth for electricity, was 
+accelerated by the industrialisation process in the past two decades. The imbalance 
+ratio between energy demand and GDP is indicative of the more energy-intensive 
+economic activities driving the growth. In this regard, the need to promote efficientuse of energy in the country has become clear. However, the effort requires sound 
+energy efficiency policies supported with good strategies and implementable 
+programmes.
+Since 2000, Malaysia’s energy intensity (energy/GDP) has been rising. This implies 
+that over time Malaysia uses more energy to produce a unit of GDP and this provides
+a compelling reason for Malaysia to improve its efficiency of energy use. Energy 
+efficiency offers an effective and efficient energy policy instrument to address 
+the energy supply security issue as well as energy-related environmental issue in
+the country. At the same time, energy efficiency is also one of the ways that will lead 
+the country to a sustainable energy path.
+Energy efficiency improvement at demand-side is a crucial parts of the energy sector 
+development as the demand dictates the energy supply and fuel consumption. Savings 
+on the demand side will reduce the energy losses due to distribution and transmission 
+of power, losses in power generation plants, and the energy use associated with 
+extraction and transportation of fuels. In energy terms, saving one unit of energy in 
+the demand side will save 3-4 units of primary fuels. In addition, investments in 
+energy supply facilities such as power plants and grid can be deferred or postponed.
+In this regard, the National Energy Efficiency Action Plan, devised for the country, 
+including Sabah and Sarawak, is focused to tackle issues pertaining to energy supply 
+by managing demand efficiently. The Plan prescribes a path towards improving 
+energy efficiency by pursuing the implementation of measures that are considered as
+“harvesting the low hanging fruits”, as they are viable for the nation as well as the end
+users. The plan is built upon the experiences and knowledge from past programmes
+and projects, which were implemented by various institutions and agencies, but was
+lacking in terms of a coherent framework to ensure sustainability in the longer term.
+The lessons from the past experiences have given the understanding on the main Ministry of Energy, Green Technology and Water, 2015 6
+barriers that impeded the progress and success of past energy efficiency improvement 
+efforts in Malaysia. The barriers can be categorised as:
+ Low energy prices;
+ Lack of finance for energy efficiency;
+ Lack of overall national plan for Energy Efficiency;
+ Lack of champion to drive Energy Efficiency; and
+ Lack of consistency in embarking on energy efficiency.
+Therefore, the National Energy Efficiency Action Plan presents the instruments for a 
+successful implementation of energy efficiency strategies in the country for a period 
+of 10 years which will address and mitigate those barriers.
+The National Energy Efficiency Action Plan presents a strategy for a wellcoordinated and cost-effective implementation of energy efficiency measures in the 
+industrial, commercial and residential sectors, which will lead to reduced energy 
+consumption and economic savings for the consumers and the nation. However, it 
+must be borne in mind that the National Energy Efficiency Action Plan is only 
+confined to electricity usage and does not cover the other aspects of the energy sector. 
+The aim of the plan is to promote energy efficiency in order to meet the following 
+policy direction:
+In meeting the policy direction, the National Energy Efficiency Action Plan will be 
+supported by 4 main thrusts that will drive the nation towards a sustainable energy 
+path:
+Thrust 1: Implementation of Energy Efficiency Action Plan;
+Thrust 2: Strengthen Institutional Framework, capacity development and training 
+for Implementation of Energy Efficiency initiatives
+Thrust 3: Establishment of Sustainable Funding Mechanisms to Implement Energy 
+Efficiency Initiatives; 
+Thrust 4: Promotion of Private Sector Investment in Energy Efficiency Initiatives
+“PROMOTE ENERGY EFFICIENCY TO ENSURE PRODUCTIVE USE OF ENERGY 
+AND MINIMISE WASTE IN ORDER TO CONTRIBUTE TO SUSTAINABLE 
+DEVELOPMENT AND INCREASED WELFARE AND COMPETITIVENESS.”Ministry of Energy, Green Technology and Water, 2015 7
+The above 4 thrusts will help eliminate the existing barriers and ensure that energy 
+consumers in the targeted sectors will be encouraged to adopt and adapt energy 
+efficiency as a way of life and reap the benefits that energy efficiency could provide.
+The National Energy Efficiency Action Plan contains 10 specific energy efficiency 
+programmes covering 3 sectors to be implemented over a 10 years period. 
+The programmes can be grouped into 5 key initiatives related to the design of the 
+programmes. i.e:-
+Initiative 1: Promotion of 5-Star Rated Appliances;
+Initiative 2: Minimum Energy Performance Standards (MEPS);
+Initiative 3: Energy Audits and Energy Management in Buildings and
+Industries; 
+Initiative 4: Promotion of co-generation
+Initiative 5: Energy Efficient Building Design.
+The target of National Energy Efficiency Action Plan is to save electricity and reduce 
+electricity demand growth. The effective and efficient implementation of the National 
+Energy Efficiency Action Plan supported with sufficient resources will be able to save
+52,233 GWh of electricity over the plan period against a business-as-usual (BAU) 
+scenario. The corresponding electricity demand growth reduction at the end of the 
+plan is 8 . 0 % . The electricity savings will eventually lead to a reduction in peak 
+demand and the need to build new power plants in future. In other words, National 
+Energy Efficiency Action Plan’s achievement will improve the electricity load profile 
+by better management of peaking load in the power system. A straight-forward 
+calculation of peak demand reduction from the National Energy Efficiency Action
+Plan implementation will result in a total capacity saving of 2,526 MW. The fuel 
+savings derived from the National Energy Efficiency Action Plan will also lead to 
+less environmental impact and reduction in greenhouse gas emissions. The total 
+reduction of greenhouse gas emission over the plan is projected to be 3 8 million 
+tonnes CO2 equivalent. A total reduction of 88 million tonnes of CO2 equivalent will be 
+achieved over the lifetime of the energy-efficient technologies adopted and adapted 
+from the plan implementation.Ministry of Energy, Green Technology and Water, 2015 8
+The effective and efficient implementation of the National Energy Efficiency Action 
+Plan’s programmes requires an average governmental budget allocation of RM 54.3
+million annually. The budget will cover the cost to administer and incentivise the 
+National Energy Efficiency Action Plan’s programmes. The public expenditure on 
+the National Energy Efficiency Action Plan, a total of RM 543 million, will be 
+leveraged by the private sector investments. A total of RM 5,781 million private 
+sector investments will be induced over the plan. From this investment amount, the 
+largest share will be spent on the adaptation of energy-efficient technologies.
+The public and private expenditure on National Energy Efficiency Action Plan 
+programmes, amounting to a total of RM 6, 324 million, will result in a total direct 
+monetary saving benefit of RM 18,518 million. The direct monetary benefit is the 
+value of total electricity saved by the National Energy Efficiency Action Plan, 
+calculated based on the current electricity tariff. The other indirect benefits, i.e. 
+capacity savings and greenhouse gas reduction are not included in the direct monetary 
+benefit.
+The cost-benefit ratio of the National Energy Efficiency Action Plan, which is 
+calculated by dividing the direct monetary benefit with the public and private cost, is 
+3.2. In other words, every RM 1 spent on the National Energy Efficiency Action 
+Plan’s programmes will result in a saving of RM 34.20, while the cost-benefit ratio
+based on the lifetime savings of energy-efficient technologies adopted and adapted
+during the National Energy Efficiency Action Plan is 7.4.Ministry of Energy, Green Technology and Water, 2015 9
+2. Background
+Malaysia is a progressive developing country. Its economic and social development 
+has been growing fast with energy as one of the main inputs to drive them. Malaysia’s 
+final energy consumption had increased from 13 million toe in 1990 to about 53
+million toe in 2013, reflecting an annual average growth rate of 6.3%. The electricity 
+consumption during the period grew at an annual average growth rate of 8.2% to
+reach 116,087 GWh. At the same time, Malaysia’s GDP grew at an annual average
+growth rate of 5.7%. Malaysia is determined to maintain its economic growth over
+the next decade, but the growth in its energy consumption must be managed to ensure
+the productivity and competitiveness of its economy.
+In the process to accelerate its economic and social development, supported by its 
+current position as a net energy exporter, Malaysia provides subsidies on energy-use 
+for various levels of users. The energy subsidies amount offered to various energy 
+users in the country has been growing from year to year, corresponding with the 
+volatility of global energy prices and growing demand for energy. The subsidies 
+amount has reached a worrisome level that the government expenditure capacity has 
+been stretched beyond its ability and has taken the share of other developmental 
+budget allocation. This situation has prompted the Malaysian Government to review 
+its policies related to energy subsidies and to take action to manage energy subsidies 
+with proper mitigation actions. In this regard, energy efficiency offers a sound
+solution to mitigate the effects of the gradual removal of energy subsidies.
+The need to drive its economic growth while maintaining productivity and 
+competitiveness and also the compelling need to rationalise its energy subsidies have 
+made energy efficiency as one of the key energy policy instrument for Malaysia. 
+Energy efficiency will benefit the whole society as it encourages reduced overall costs 
+for energy for the consumers and reduced subsidy payments from the government. 
+These savings can be directed to more useful purposes in households, industries and 
+other sectors of the society and increase the welfare of the nation. At the same time, 
+Malaysia also can enhance its security of energy supply through a cost-effective 
+approach by implementing effective energy-efficiency strategies and programs. 
+Energy efficiency will help to reduce the burden of energy costs for the consumers but 
+at the same time will ensure that the energy quality and quantity derived from the 
+energy used are maintained. In addition, energy efficiency will serve as part of the 
+nation’s strategy on climate change and the reduction in the emission of greenhouse 
+gasses.Ministry of Energy, Green Technology and Water, 2015 10
+2.1 The Institutional Setup and Regulatory Framework on Energy
+Efficiency
+The key agencies involved to promote energy efficiency in Malaysia are the
+Economic Planning Unit (EPU) of the Prime Minister’s Department, the Ministry of
+Energy, Green Technology and Water (MEGTW), Ministry of Works, Ministry of 
+Urban Well Being, Housing and Local Government and the Energy Commission 
+(EC). The role of MEGTW is to formulate and implement energy efficiency policy, in 
+coordination with the EPU. The EPU’s main role is to allocate sufficient resources for 
+the implementation of energy efficiency programmes. The EC, established under the 
+Energy Commission Act 2001, is the regulatory agency for the electricity and the gas 
+supply industry at the reticulation stage. The Commission’s main tasks are to regulate 
+the electricity and gas supply industry at the reticulation stage from the technical, 
+safety and economic aspects. EC also advises the Energy, Green Technology and 
+Water Minister on all matters related to electricity and tariffs including energy 
+efficiency promotion.
+In promoting energy efficiency, MEGTW had enacted a number of legal instruments. 
+The main legal instrument on energy efficiency promotion is the Electricity Supply 
+Act (Amendment) 2001 or known as Act A1116. The Act empowers the Energy, 
+Green Technology and Water Minister under the Section 23A, 23B and 23C of the 
+Act to promote efficient use of electricity in the country. Subsequent to this 
+amendment of the Act, MEGTW issued the Efficient Management of Electrical
+Energy Regulations 2008. Under these regulations, all installations that consume or
+generate 3 million kWh or more of electricity over a period of six months will be
+required to engage an electrical energy manager who shall, among others, be
+responsible to analyse the total consumption of electrical energy, to advise on the
+development and implementation of measures to ensure efficient management of
+electrical energy as well as to monitor the effectiveness of the measures taken. The EC
+is empowered to enforce the Energy Efficiency Regulations.
+In 1989, the Ministry of Energy, Telecommunications and Posts, the predecessor of 
+MEGTW introduced the Guidelines for Energy Efficiency in Buildings. The 
+Guidelines was developed as a Malaysian Standard, i.e. MS 1525 – Code of Practice 
+on Energy Efficiency and Use of Renewable Energy for Non-Residential Buildings” 
+in 2001. The code has been used as a guide in designing energy-efficient buildings in 
+the country. The code was revised in 2007 and 2014 to incorporate the latest
+technological developments. In 2012, the promotion of energy efficiency in new
+commercial buildings was made mandatory by the amendment of the Uniform
+Building By-Laws (UBBL). Section 38A of the UBBL requires new or renovated 
+non-residential buildings with air-conditioned space exceeding 4,000 square metres toMinistry of Energy, Green Technology and Water, 2015 11
+be designed to meet the Overall Thermal Transfer Value (OTTV) and the Roof 
+Thermal Transfer Value (RTTV) of MS 1525. The section also requires those
+buildings to be provided with an Energy Management System (EMS).
+The latest regulatory instrument to promote energy efficiency improvement is the 
+Electricity Regulations (Amendment) 2013. The regulations have been amended to
+allow the implementation of Minimum Energy Performance Standards (MEPS) on 
+selected electrical appliances and lighting. Under the new regulations,
+refrigerators, air-conditioners, televisions, fans and lamps (Fluorescent, Compact
+Fluorescent, Light Emitting Diode and Incandescent) that enter the Malaysian market
+or are sold to consumers must meet the minimum energy performance standards as
+prescribed in the regulation. Furthermore, information related to MEPS of those 
+products must be made available to consumers by labeling. Labeling of appliances
+covered by MEPS will became a mandatory requirement. The regulation will pave the
+way for the phasing- out of inefficient electrical appliances and lighting.
+2.2 Past and Current Initiatives on Energy Efficiency
+In the past 10 years, a number of energy efficiency initiatives had been undertaken by 
+the Malaysian Government. Some of these initiatives were supported by the United 
+Nations Development Programme (UNDP), Japan External Trade Organisation 
+(JETRO), Energy Conservation Centre Japan (ECCJ) and the Danish International 
+Development Agency (DANIDA). Those initiatives have led to capacity building in 
+various aspects of energy efficiency in the country. It has also increased the awareness 
+on energy efficiency among stakeholders, the private sector and energy users at large. 
+The initiatives also paved the way for the enactment and formulation of energy 
+efficiency regulatory instruments for some selected industries in the country.
+Some of those key initiatives are:
+1) Malaysian Green Technology Corporation, formerly Malaysian Energy Centre. A 
+number of projects have been implemented in the areas of energy efficiency and 
+renewable energy. Some of the most significant are:
+a. Malaysian Industrial Energy Efficiency Improvement Project (MIEEIP) –
+was a cooperative project between the Malaysian Government and UNDP 
+with the aim of promoting energy efficiency within the industrial sector. 
+The project focused on energy auditing of industries, demonstration 
+projects, rating of high efficient equipment and increasing the awareness 
+among industrial consumers on energy efficiency.Ministry of Energy, Green Technology and Water, 2015 12
+b. Integrated Resource Planning – was a 4-year DANIDA funded project 
+aimed at providing capacity building on methodologies for effective 
+energy planning and forecasting, taking both supply and demand side 
+initiatives into account.
+c. GEO Building – the building where the present Greentech Malaysia is 
+located is a demonstration building that had been designed with low 
+energy features. The energy consumption of the building was designed to 
+be 50kWh/m
+2
+/year - significantly lower than the average of 200
+kWh/m
+2
+/year of typical office buildings. Furthermore, installation of 
+photovoltaic systems brings the net electricity consumption down to about 
+35kWh/m
+2
+/year.
+2) Centre for Education and Training in Energy Efficiency and Renewable Energy 
+(CETREE) is a centre located in the campus of University of Science, Penang. At 
+the initial stage, CETREE’s establishment was assisted by DANIDA. CETREE’s 
+focus is to increase awareness on energy efficiency and renewable energy among 
+school children and students. The Centre has developed curricula for primary and 
+secondary schools and assisted universities in incorporating energy efficiency in 
+their teaching courses. Furthermore, the centre organises events for schools on 
+energy efficiency and renewable energy and their exhibition busses visits schools 
+all over Peninsular Malaysia. The centre is funded by MEGTW for its operational 
+and developmental expenses.
+3) Fiscal Incentives for Energy Efficiency was introduced under the government 
+financial budget in 2001. The aim is to promote energy efficiency projects and 
+equipment by providing tax incentives. The tax incentives are in the form of 
+waiver of import duty and sales tax on energy efficient equipment and accelerated 
+capital allowances or pioneer status for investment in energy efficient 
+technologies and projects. These incentives were enhanced over the years.
+4) The Green Technology Finance Scheme (GTFS) was launched in January 2010, 
+with a fund of RM 1.5 Billion to support investments in green technology projects, 
+which, among others, include energy efficiency. The fund provides a 2% subsidy 
+to the interest rates offered by commercial banks and a credit guarantee support 
+for the loan capital. Under the 2013 budget, the Government increased the amount 
+of interest subsidy by RM2.0 billion, making the total amount of green financing 
+made available by the Government to RM3.5 billion.
+5) Sustainability Achieved via Energy Efficiency Program or SAVE was a program 
+designed under the Economic Transformation Program (ETP) of the Malaysian Ministry of Energy, Green Technology and Water, 2015 13
+Government in July 2011. The program was aimed to provide cash rebates for the 
+purchase of energy-efficient refrigerators, air-conditioners and chillers. A total of 
+RM 45 million was allocated under the program for the rebates and its 
+promotional campaign activities throughout the country. The budget had covered 
+the purchases of as many as 100,000 units of refrigerators, 65,000 units of airconditioners and 72,000RT capacity of energy efficient chillers for eligible 
+domestic consumers and private companies. SAVE has helped to create a market 
+for energy-efficient appliances and market penetration of those products.
+6) Energy Performance Contracting (EPC) is an initiative started in Jan 2013 by the 
+Malaysian Government to promote energy efficiency in government buildings. 
+Under the EPC concept, government buildings are allowed to engage energy 
+services companies (ESCO) to improve energy efficiency. The cost of investment 
+to implement energy efficiency improvement will be provided by the ESCO, 
+while the government buildings are allowed to pay the cost of investment by the 
+ESCO from the savings made from the improvement efforts. The initiative will 
+help create an ESCO industry in Malaysia as well as ease the government’s 
+monetary burden on building energy bills.
+7) Building Sector Energy Efficiency Project (BSEEP) was started in 2010 and will 
+last until end of 2016. It is supported by the Global Environment Facility (GEF) 
+and implemented by United Nations Development Programme (UNDP) and the 
+Malaysia Public Works Department, (Jabatan Kerja Raya-JKR). The Project goal 
+is to reduce the annual growth rate of Green House Gas emissions in the Malaysia 
+building sector. BSEEP’s objective is the improvement of the energy utilization 
+efficiency in Malaysian buildings, particularly those in the commercial and 
+government sectors, by promoting the energy conserving design of new buildings 
+and by improving the energy utilization efficiency in the operation of existing 
+buildings through the removal of barriers to the uptake of building energy 
+efficiency technologies, systems, and practices.
+8) Industrial Energy Efficiency for the Malaysian Manufacturing Sector (IEEMMS) 
+was launched in April 2012 and will be implemented within 5 years. It is 
+implemented by United Nations Industrial Development Organisation (UNIDO) 
+and SME Corporation Malaysia. The project aims to improve energy efficiency in 
+the Malaysian manufacturing sector through energy efficient optimisation of 
+energy and production systems and through the implementation of energy 
+management system based on the ISO 50001 standard.
+The above initiatives have all contributed to create a strong platform for 
+implementation of energy efficiency, as institutions and human resources have been Ministry of Energy, Green Technology and Water, 2015 14
+developed and basic awareness in all parts of society has been spread.
+2.3 Identified Barriers to Energy Efficiency
+Although various initiatives have been undertaken to promote energy efficiency 
+improvements, the outcome of the initiatives on the nation’s energy supply and 
+demand is unclear. The initiatives have been spread and there has been a lack of 
+synergy among the various projects, as well as a proper plan for the continuation of 
+the activities after the project period. In this regard, a number of key barriers have 
+been identified that prevented a wide-spread adoption of energy efficient practices. 
+They are:
+1) Low energy prices – The electricity and fuel prices have been kept below the 
+actual cost of energy generation due to fuel subsidies. The prices are not 
+reflecting the real cost of production and supply of energy. The low energy
+prices prevent energy efficiency as the consumers are less concerned about the 
+energy costs. Furthermore, energy efficiency investments are not made as the 
+returns in terms of energy savings are small due to the low energy prices.
+2) Lack of finance for energy efficiency – dedicated finance for energy efficiency 
+from commercial lending institutions has been difficult to obtain, as the banks 
+have not built sufficient capacity to deal with energy efficiency project 
+evaluation and project finance schemes. Loans for energy efficiency projects 
+are normally given based on collaterals from the applying companies and not 
+based on the project feasibility. Similarly, there are no loan schemes for 
+energy efficiency for individual consumers and the finance institutions will 
+normally recommend traditional loan schemes such as e.g. term loans, credit 
+card loans, if an individual wishes to purchase energy-efficient appliances.
+3) Lack of overall national plan for Energy Efficiency – Energy efficiency has 
+been a part of the Malaysian Development Plans, but there has not been any 
+underlying road map or action plan for the implementation of energy 
+efficiency. The activities are, therefore, driven by individual short-term 
+projects, without a clear coordination among the activities and a clear medium 
+term and long term objective.
+4) Lack of champion to drive Energy Efficiency – Energy efficiency has been 
+implemented by various agencies and institutions. But there has not been a 
+clear authority in charge of ensuring that energy efficiency plays a central role 
+in the nation’s energy planning. The planning is still very much based on 
+demand forecast and supply planning, without taking into account energy Ministry of Energy, Green Technology and Water, 2015 15
+efficiency and demand side management.
+5) Lack of consistency in embarking on the energy efficiency – most of the effort 
+on promoting energy efficiency has been based on projects with limited time 
+frame. Those projects have contributed to developing capacity in various 
+institutions and a few energy efficiency initiatives have been implemented. 
+But the activities have slowed down or been discontinued after the project 
+funding is ended. The lack of a continuous annual government budget for 
+energy efficiency activities has created a situation where activities are project 
+based which tends to lead to too many starts and stops in the activities.Ministry of Energy, Green Technology and Water, 2015 16
+3. A Plan for Energy Efficiency
+3.1 Energy Efficiency Potentials
+Energy plays an important role in Malaysia’s economic development. In 2013, 
+Malaysia used 53 million toe of energy for its economic development and the wellbeing of its people. The usage of electricity as one of the final energy components was
+123,076 GWh or 10.6 million toe. Figure 1 shows the economic growth rates pattern 
+versus the energy growth rates patterns which are represented by the final energy 
+demand and electricity demand. The energy demand growth tended to move in
+tandem with the economic growth rate. The pattern has proved that Malaysia’s 
+economic development was depending heavily on energy as one of the important
+factor inputs.
+Figure 1: Economic growth rates and Energy growth rates
+According to the National Energy Balance Report 2013, the transport sector of 
+Malaysia was the largest energy user. It accounted for 42% of the final energy 
+demand in 2013. The industrial sector was at the second rank with the share of 25%. 
+The increasing demand for transport energy in Malaysia is driven by passenger 
+transportation sub-sector. Factors such as energy subsidies, rapid urbanisation and
+growing private vehicle ownership are driving the increase in demand. Malaysia is 
+taking concerted efforts to manage its transport energy demand by improving its mass Ministry of Energy, Green Technology and Water, 2015 17
+transit system, promoting the market penetration of efficient hybrid cars by tax 
+exemption and having continuous awareness dissemination programmes. However, 
+energy efficiency improvement on the transport sector is not covered in this Plan and 
+will be addressed separately by the Government.
+Malaysia’s economic development is supported strongly by the industrial sector. 
+Figure 2 shows the relationship between the final energy intensity and industrial 
+energy intensity. The values of both intensities show a strong relationship and they 
+moved in tandem. The reduction in the both intensity values beginning from 2008 
+was caused by the global financial crisis. The reduction in demand for industrial 
+outputs resulting from the crisis affected the Malaysia’s industrial outputs as well. The 
+reduction of energy intensities, which is often related to improvement of energy 
+efficiency, in this case was caused by industrial activity reduction and to some extent 
+by structural changes. The improvement is caused by non-energy components of
+energy intensity.
+Figure 2: Final energy intensity and Industrial energy intensity.
+The potential of energy efficiency in the industrial sector is significant. The energy 
+audits conducted during the Malaysian Industrial Energy Efficiency Improvement 
+Project (MIEEIP) (about 50 audits for the eight industry subsectors) have found that 
+potential energy savings in major industries in Malaysia can be from as low as 2% 
+(for a glass company which was already very efficient) to 52% (for wood companies).Ministry of Energy, Green Technology and Water, 2015 18
+The 2% savings, however, could bring about high savings as the annual energy 
+consumption was high. The highest potential energy saved had been found in the 
+cement industry, which at 32.7% of the annual energy consumption of almost 15 
+million GJ could yield a savings of 4.9 million GJ. The focus on industrial energy 
+efficiency improvement should be on the adaption of energy-efficient equipment and 
+processes, better management of energy at plant and organisational levels and human 
+capacity development.
+The commercial and residential sector’s energy use was small when compared to the 
+other two sectors. But the sector has significant contribution to Malaysia’s economy. 
+The sector’s energy use is mainly in buildings, which is for space cooling and to 
+operate equipment in the buildings. Managing building energy use in Malaysia is 
+relatively easier compared to buildings located in seasonal climates. In this regard, the 
+buildings’ energy needs are quite stable and easily predictable. However, the major 
+challenge in promoting energy efficiency in Malaysia is the enforcement of regulatory 
+instrument due to the lack of human capital and relatively low tariffs for commercial 
+buildings to embark on energy efficiency measures.
+Malaysia’s commercial buildings, other than specific function buildings, on average 
+have a Building Energy Index (BEI) of around 200 to 300 kWh/m
+2
+/year. However, the 
+lesson learned from the showcase office building of the Ministry of Energy, Green 
+Technology and Water (MEGTW) or known as Low Energy Office (LEO) proved 
+that the BEI values for Malaysian office building could be lowered up to 100 
+kWh/m
+2
+/year, with an additional capital investment of 5% against the total capital cost. 
+The additional capital cost had a pay-back period of 8 years. In this regard, the 
+improvement of energy efficiency in buildings could bring significant savings in 
+electricity consumption and other benefits.
+The energy efficiency improvements for the residential sectors will be focused on 
+appliances. The market penetration of the energy-efficient appliances can be enhanced 
+by providing incentives to the buyers. Regulatory measures to ban the importation and 
+sale of inefficient appliances through the Minimum Energy Performance Standards 
+(MEPS), has been introduced. Furthermore information on energy-efficient products 
+to consumers will be widened by mandatory labelling for appliances under the MEPS.Ministry of Energy, Green Technology and Water, 2015 19
+3.2 The Guiding Principles of the Plan
+The National Energy Efficiency Policy is based on 4 principles in achieving 
+energy efficiency by ensuring secure and sustainable energy and to achieve 
+sustainable socio-economic growth in the country.These inter-related and 
+mutually supporting principles are:
+First
+Sustainable Development
+It is defined as meeting our current needs in a manner, that the needs of future 
+generation are not compromised. The agenda for development of the society is 
+that, economic growth does not lead to constraints for further growth in the 
+future.
+Second
+Efficient Use Of Energy
+The aim is to increase productivity and the comfort level of the society in a 
+manner where the energy usage is controlled and not higher than necessary while 
+reducing the waste. Waste is defined as both waste of fuel resources, waste 
+products from energy generation such as pollution and greenhouse gasses as well 
+as waste of money, from overspending on electricity and fuels.
+Third
+Increase Competitiveness And Welfare
+Energy efficiency shall lead to an increase in the comfort and productivity for all 
+parts of society. By reducing the use of energy, this will ensure that the 
+expenditure for energy is kept at a low level, which will cushion consumers from 
+any future increases in energy prices.
+Fourth
+Concerted Participation
+Incorporate increase in energy demand consideration at all levels, and increase 
+participation of stakeholders and major groups for effective implementation of 
+Energy Efficiency initiatives.Ministry of Energy, Green Technology and Water, 2015 20
+3.3 The Thrusts of the Plan
+3.3.1 Strategic Thrusts
+The National Energy Efficiency policy will serve as a guide to integrate the 
+country's energy security issues in planning and implementation of the 
+development programs in addition to promote sustainable economic growth and 
+human capital development as well as environmental conservation. This policy 
+complements other relevant policies and take into account all factors at various 
+levels. Strategic thrusts that have been identified are :
+Thrust 1: Implementation of Energy Efficiency Plan
+An effective action plan has been identified as an important element to ensure 
+continuous implementation of energy efficiency initiatives in the country. The 
+action plan contains 10 specific programs to reduce energy consumption by 
+consumer groups in the industrial, commercial and domestic (appliances) sector.
+Thrust 2: Strenghten Institutional Framework, Capacity Development and 
+Training for Implementation Of Energy Efficiency Initiatives
+The thrust outlines the need to strengthen the Energy Commission in managing, 
+monitoring and reporting the implementation of the initiatives designed under the 
+National Energy Efficiency Plan as well as capacity building and training to 
+stakeholders.
+Thrust 3: Establishment Of Sustainable Funding Mechanisms To Implement 
+Energy Efficiency Initiatives
+To establish a financing mechanism by commercial financial institutions to 
+support the ongoing efforts in promoting and implement energy efficiency 
+activities and initiatives that have been planned.
+Thrust 4: Promotion of Private Sector Invesment in Energy Efficiency 
+Initiatives
+Private sector cooperation and support is crucial to ensure the success of the 
+energy efficiency initiatives objectives. The private sector plays an important role 
+in the implementation of the energy efficiency projects through Energy 
+Performance Contracting concept.3.4 Targets and Impact of National Ten-Year Energy Efficiency Action
+Plan
+The focus of the National Energy Efficiency Action Plan strategies and programmes 
+is on electricity use in the industrial, commercial and residential sectors. Therefore, 
+the target of the National Energy Efficiency Action Plan is to save electricity and 
+reduce the electricity demand growth. The effective and efficient implementation of 
+the National Energy Efficiency Action Plan, supported with sufficient resources, will 
+be able to save 52,233 GWh of electricity over the plan period against a business-asusual (BAU) scenario. The corresponding electricity demand growth reduction at the 
+end of the plan is 8.0%. The National Energy Efficiency Action Plan programmes 
+will continue to produce savings beyond the plan period, owing to the lifetime of the 
+energy efficient technologies adopted and adapted during the plan period. The 
+cumulative lifetime savings of the technologies is estimated at about 122,543 GWh of
+electricity. Figure 3 shows the electricity savings and percentage of savings by the 
+National Energy Efficiency Action Plan.
+Figure 3: The electricity savings and percentage of savings by the National Energy 
+Efficiency Action Plan
+0.0%
+1.0%
+2.0%
+3.0%
+4.0%
+5.0%
+6.0%
+7.0%
+8.0%
+9.0%
+-
+1,000 
+2,000 
+3,000 
+4,000 
+5,000 
+6,000 
+7,000 
+8,000 
+2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+GWh
+Residential Commercial Industrial Percentage of GWh SavingsThe electricity savings will eventually lead to a reduction in peak demand and the 
+need to build new power plants in the future. In other words, the National Energy 
+Efficiency Action Plan achievement will improve the electricity load profile by better 
+management of peaking load in the power system. A simple calculation of peak demand
+reduction from the National Energy Efficiency Action Plan implementation indicates a
+total capacity saving of 2,526 MW at the end of the Plan period.
+This translates into savings in capital expenditure and the operating cost needed for the
+construction of new power plants. At the same, Malaysia’s energy supply security 
+position will be enhanced by easing the constraints on the energy supply
+infrastructure. The fuel savings derived from the National Energy Efficiency Action 
+Plan will also lead to less environmental impact and reduction in greenhouse gas
+emissions. The total reduction of greenhouse gas emissions over the plan period is
+projected to be 38 million tonnes of CO2 equivalent. A total reduction of 88 million tonnes
+of CO2 equivalent will be achieved over the lifetime of the energy-efficient technologies
+that are adopted and adapted from the plan implementation. The significant linkages of
+the target and impact of the National Energy Efficiency Action Plan with major
+stakeholders is shown in the Figure 4 below.
+Figure 4: Linkages of target and impact with major stakeholders3.5 Strengthening EE Legislation
+The absence of a comprehensive legislation on EE is a barrier for successful 
+implementation of EE measures in the nation. It is noted that most of the developed 
+nations and even some emerging economies have specific legislation of their own on EE 
+being their ingredient to successful reduction of energy intensity, albeit the extent of 
+success rate varies.
+Based on these exemplary measures from other economies, the revision of the Energy 
+Supply Act 1990 should be done to accommodate EE legislations along with the revision 
+of Energy Commission Act 2001, to further empower the EC as the agency responsible 
+EE . The structure of the proposed revision in ESA 1990 shall comprise of key 
+provisions such as measures for equipment, measures for consumers, sanction for 
+breaches and non-compliance and others. The main objective of this action is to tap the 
+potential of EE to be able to contribute to the sound development of national economy 
+through implementing necessary measures for the efficient use of energy in factories, 
+buildings, machinery, equipment and other necessary measures to comprehensively 
+promote the efficient use of energy.4. Strategic Actions
+This chapter outlines the content of the five strategic actions, which form the base for 
+the National Energy Efficiency Action Plan. All of these are crucial for the proper 
+implementation of the key initiatives and in achieving the desired impact of the 
+interventions.
+4.1 Action 1: Establish a Dedicated Section for NEEAP in EC 
+The first action under the National Energy Efficiency Action Plan is to establish a
+section in the Energy Commission (EC) to act as the project team to administer and
+implement National Energy Efficiency Action Plan programmes. This 
+recommendation is based on the success factors of other countries and based on the 
+recommendation from the working group, it is proposed that there should be a 
+dedicated section in EC which has the semblance of EE&C system in Japan and India 
+whose structures provide remarkable and continual success in implementation of 
+EE&C measures. This department section can be further empowered by new 
+provisions in the Electricity Supply Act 1990 which can be done over the plan period 
+as the need arises. The section will be instrumental in implementing the energy 
+efficiency programmes under the National Energy Efficiency Action Plan. The
+section also will play a coordinating role with other relevant agencies on the
+National Energy Efficiency Action Plan implementation. The main duties of the
+section are to:
+ Carry out effective and efficient implementation of the National Energy
+Efficiency Action Plan programmes;
+ Promote awareness on energy efficiency to various energy users;
+ Disseminate information and knowledge through campaigns and programmes 
+on energy efficiency;
+ Monitor and evaluate the National Energy Efficiency Action Plan 
+programmes continuously;
+ Prepare progress report on the National Energy Efficiency Action Plan 
+periodically; and
+ Keep and maintain a database with necessary information and data on energy
+use and energy efficiency gathered from the National Energy Efficiency 
+Action Plan.The organisational structure of the National Energy Efficiency Action Plan section is
+shown in Figure 5. The section will be headed by a Project Leader. The Project Leader
+will be assisted by 3 sectoral Programme Managers. The Programme Managers’ main
+duty is to manage the activities within their sectors. The corporate functions related
+to finance and accounting will be managed by a finance officer.
+The officer will manage the funds for the operation of the team as well as fund 
+allocations and disbursement to the National Energy Efficiency Action Plan 
+programmes. The data management and monitoring unit function is to compile energy 
+data and provide data analyses. The function includes the monitoring of the progress
+of the National Energy Efficiency Action Plan with a set of relevant indicators. 
+The effective implementation of the National Energy Efficiency Action Plan is
+dependent on how well its progress is monitored. Corrective steps on the
+National Energy Efficiency Action Plan progress will be based on the monitoring
+report. In this regard, the Unit will report to the Project Team Leader.
+A major part of the communication and data management will be using information 
+technology and information should to a great extent be made available on-line. The 
+National Energy Efficiency Action Plan Project will have a web-portal with all 
+relevant information regarding its activities in order to ensure easy access to 
+information and material by the end-users. Internal information shall be made 
+available on an intranet, where all relevant background information as well as budget 
+and fund information is kept up-to-date. The dissemination and sharing of information 
+using information technologies will be done by the Data Management and Monitoring
+Unit through a Data and information Repository Centre will be established in the 
+section for appropriate statistical data to be systematically collected, compiled, 
+updated and disseminated. This Repository centre will address the grave concern on 
+the lack of current and credible information necessary for energy economists and 
+energy practioners to audit present scenario and forecast future energy economy
+Figure 5: The organizational Structure of NEEAP Project Team4.2 Action 2: Funding for Energy Efficiency
+In line with Thrust 3, the National Energy Efficiency Action Plan acknowledges that
+new Energy Efficiency financing products need to be developed to unlock private 
+sector funding. The success of any project depends on the timeliness and adequacy of 
+the financial resources in meeting the budget requirement. The necessary funding for
+the implementation of the National Energy Efficiency Action Plan will be limited to
+seed capital that will enable the private sector to invest in energy efficiency 
+technologies and projects. Funding is budgeted for two main purposes: 
+a) Administration of the plan including design of programmes and campaigns, and 
+b) Incentives as catalyst to implement energy efficiency technologies and projects for 
+the private sector.
+Equally important is the fact that financial resources have to be managed and 
+monitored by a dedicated department in order to achieve the expected outcomes.
+Malaysia is at a critical stage of national development moving from a developing 
+nation status to a high-income economy status, so unless the government and the 
+people take up a tough step now to change towards a sustainable energy consumption, 
+the nation will be facing uncertainty and it cost for energy supply as well as producing 
+more CO2 to the atmosphere. Therefore, NEEAP must be implemented quickly with 
+the financial supports not only from the government but also the private sector, 
+community and NGOS. As long as good governance prevails in the NEEAP 
+implementation process basing on the principles of Environmental economics, the 
+investment by nation and the people will bring long term returns for both present and 
+the future generations. 
+4.3 Action 3: Government Led Initiatives
+Although the major impact from energy efficiency is envisaged to be from the private 
+sector, the role of government institutions and government-linked companies are 
+crucial for the successful introduction of energy efficiency initiatives. The government
+can, through circulars, direct its institutions to practice energy efficiency in its 
+operations.
+The government shall therefore be the pioneer in implementing internal policies for 
+purchase of energy efficient 5-star energy labelled appliances and equipment, conduct
+energy audits in large facilities and implementation of energy saving measures and 
+also implement energy management practices. This will create a market
+transformation towards energy-efficient technologies and practices, as suppliers will
+be encouraged to make energy efficient technologies and services available in the
+market. This effort by the government will enable the private sector to follow suit in a 
+faster pace as the government will have been the ice-breaker in the market.4.4 Action 4: Capacity Building
+Capacity building of individuals and organisations in energy efficiency will be part of 
+the implementation of the energy efficiency initiatives, whenever training and 
+education in specific areas and practices is required, for example in energy auditing 
+practices and energy management. In addition, it is important that the educational 
+institutions are producing candidates with relevant knowledge and qualifications in 
+energy efficiency such as engineers, economists and technical people. Educational 
+institutions will be encouraged to enhance the resources for energy efficiency training 
+of students to meet the expected demand for such qualified personnel in the future.
+Similarly, professional institutions will be encouraged to upgrade and train their 
+faculty members in energy efficiency by introducing courses and workshops for 
+engineers, architects, economists, accountants etc.
+In order to “teach the people”, the NEEAP unit will need to build the capacity itself to 
+train all segments of people involved directly or indirectly with EE. To a lesser extent, 
+some of the training can be outsourced to other professional bodies and approved 
+training centres of Ministry of human resource, Institution of Engineers Malaysia, 
+SMIDEC, MAESCO and others. It is proposed that the international expertise to be 
+explored to minimize learning curve and fast track-track the preparation of syllabi for 
+a wide spectrum of courses, educational and examination materials and others. The 
+unit will be tasked to increase EE training and professional and semi-professional 
+development. Enhancing the resources and capacity of the unit to deliver and support 
+EE will form an integral part of its skill development needs. Success will depend on 
+the effectiveness of the change management across all levels of the mainstream 
+activities. That being said, EE will not be easy in the Malaysian economy that has been 
+dependent on subsidized fuel and government intervention. Lack of capacity building 
+is one of the few root causes for the limited advancement of EE to date.
+4.5 Action 5: Research and Development
+Existing research institutions such as universities and private entities e.g. Sirim 
+Berhad, manufacturers etc., will be encouraged to enhance research in the field of 
+energy efficiency. This can be in areas of developing energy-efficient technologies as 
+well as studying the impact of various energy efficiency practices and behaviours. As
+the energy efficiency initiatives are targeting market transformation towards energyefficient technologies, it is critical that local manufacturers upgrade and develop their 
+products to meet the highest degree of energy efficiency and play a major role in the 
+market. This will not only enable them to market their products in Malaysia, but also 
+improve the possibilities of exporting their technologies as energy efficiency is an 
+important parameter for buyers in the developing and developed world.This is also in line with the government’s policy on developing a knowledge based
+economy with the development of more intelligent and advanced, green technologies.
+In this context, the government is looking into implementation of smart grid in the 
+long term. It is also planning to have enhanced time of use tariffs. Such tariffs, 
+together with the implementation of smart grids and the use of smart meters, will 
+enable consumers to better understand their own energy needs and help them identify 
+energy saving potentials and implement them in a more effective manner. It will also 
+assist utilities to identify energy saving potentials in the transmission and distribution 
+systems and implement them.Ministry of Energy, Green Technology and Water, 2015 29
+5. Key Initiatives
+The identified key energy efficiency initiatives presented in the section 2.4 is further 
+elaborated in this section in terms of programmes to be implemented under the 
+National Energy Efficiency Plan over a period of 10 years. The programmes are 
+designed to ensure attention to the energy efficiency measures that are introduced for 
+the consumers and provide the necessary incentives to kick-start the introduction of 
+new technologies and processes.
+The programmes will mainly be funded by the private sector, as the capital 
+investments in energy-efficient measures are to be made by the consumers. The 
+programmes will encourage and enable the consumers to implement the measures by 
+promoting technologies and processes and removing market barriers such as additional
+costs for energy-efficient technologies. As the market transformation towards new
+energy efficient technologies takes place and more energy efficient technologies
+become available the additional costs will be lowered, and this reduces or eliminates 
+the need for incentives.
+5.1 Overview of Key Initiatives and Programmes
+The key initiatives to be introduced in the plan period are the following:
+ Key initiative 1: Promotion of 5-Star Rated Appliances
+ Key initiative 2: Minimum Energy Performance Standards (MEPS)
+ Key initiative 3: Energy Audits and Energy Management in Buildings and
+Industries
+ Key initiative 4: Promotion of cogeneration
+ Key initiative 5: Energy Efficient Building Design
+Table 1 details out the key initiatives and the programmes under each key 
+initiative together with expected electricity savings that each of the measures will
+result in.Table 1: Key Initiaves
+Key Initiative Description Program Savings 
+in 10 
+years 
+(GWh)
+Public Fund 
+(RM)
+Private Fund 
+(RM)
+Promotion of 
+5-Star Rated 
+Appliance
+ Star energy rating of 
+appliances and 
+mandatory labelling.
+ Promotion of 5-star 
+appliance
+5-Star Refrigerator 
+Campaign 
+2,706 2,632,670 1,863,648,930
+5-Star Air 
+Conditioner 
+Campaign 
+7,014 2,632,670 2,005,537,380
+Minimum 
+Energy
+Performance
+Standards 
+(MEPS)
+ Review of MEPS
+ Promotion of Efficient 
+Lighting
+ Development of MEPS 
+for new equipments 
+and appliances
+EE lighting 
+Campaign 
+2,216 2,632,660 378,347,165
+High Efficiency 
+Motors
+2,175 0 461,062,525
+Energy Audits 
+and Energy 
+Management 
+in Buildings 
+and Industries
+ Facilitating energy 
+audits and 
+implementation of 
+energy saving 
+measures and energy 
+management initiatives
+Energy Audit and 
+management in 
+Large Commercial 
+Buildings
+5,066 40,438,750 32,670,000
+Energy Audit and 
+management in 
+Medium 
+Commercial 
+Buildings
+1,916 49,579,750 49,071,000
+Energy Audit and 
+management in 
+Large & Medium 
+Industries
+26,969 387,436,500 385,506,000
+Energy Audit 
+Government 
+Facility
+881 7,176,400 6,864,000
+Cogeneration  Promotion of 
+cogeneration through 
+the removal of barriers 
+Cogeneration in 
+Industries and 
+commercial 
+buildings
+3,276 0 572,000,000
+Energy 
+Efficient 
+Building 
+Design
+ Incorporating Energy 
+Efficiency in new 
+building designs and 
+constructions
+Energy Efficiency 
+in New Buildings
+15 0 26,767,9505.2 Key initiative 1: Promotion of 5-Star Rated Appliances
+Energy rating and labelling has been a key in the market transformation of household 
+appliances towards more energy-efficient models. It has been successfully applied 
+worldwide in Europe, USA, Japan, Australia, Thailand etc. for more than a decade 
+and has resulted in significant improvements in the energy efficiency of the 
+technologies. Energy labels allow the consumer to be informed about the energy 
+consumption of the appliances they wish to purchase. As the purchase decision for 
+electrical decision should be made on the basis of life cycle cost i.e. both the initial 
+purchase cost and the operational cost for electricity, it is necessary to have the 
+electricity consumption displayed on the products, so that the consumer can evaluate 
+the cost and compare both the purchase price and operational cost of various models 
+on display in the shops.
+Labelling of the energy performance or energy 
+rating can be applied to all types of energy 
+consuming equipment.
+Mandatory labelling has already been introduced 
+for:
+ Refrigerators
+ Air-conditioners
+ Ceiling and stand fans
+ Televisions
+The labelling can be expanded to more appliances during the plan period, as
+experiences with the market transformation by labelling the above types of appliances
+are evaluated.5.2.1. Programme: 5-star Refrigerators
+A programme to promote 5-star refrigerators is proposed. The programme will be based
+on promoting the existing 5-star rating and label for refrigerators, which was introduced
+on a voluntary basis in 2005. The 5-star rated refrigerators are available in the market,
+but their market share is still considered to be low, compared to conventional
+refrigerators, which are rated as 3-star. The 5-star rated refrigerators are more than 25% 
+more energy-efficient than the average 3-star refrigerators. As nearly all households in
+Malaysia own a refrigerator and this is often the appliance that consumes the most
+electricity, if the household is without air-conditioners, then there lies a high potential
+for energy savings by introducing more energy-efficient refrigerators.
+The programme will be targeting the sale of new refrigerators to transform the market 
+into more efficient models.
+Title 5-Star Refrigerator Campaign
+Type Awareness and enforcement 
+Design The campaign is a combination of the following:
+1)MEPS and labelling enforcement programmes 
+2) Review of the current MEPS value
+3) Promotion of purchase of 5-star refrigerator through awareness enhancement
+4)Awareness on the benefits of smart meter
+Total 
+Market
+Total market is determined based on all residential consumers having one 
+refrigerator each and this will increase annually with the increase in the number 
+of registered consumers. 
+Annual 
+Market
+The average lifetime of a refrigerator is assumed to be 15 years, and the annual 
+market is about 700,000
+Savings An average refrigerator consumes about 420 kWh/year for models between 150-
+300 L. According to a ST survey this is the most sold size range in Malaysia. A 
+5-star rated model is min. 25% more efficient than a 3-star rated model. This is 
+0.25*420=105 kWh savings
+Lifetime The savings are expected to remain the same over the average lifetime of the 
+equipment i.e.15 years. 
+Penetration Assuming that the campaign can start mid 2016 a penetration of 30% by active 
+promotion of the rebate is expected. The penetration is expected to increase to 
+90% of market in 2025 due to consumer demand and suppliers push. Full 
+penetration is about 90% as there will be a demand for certain special purpose 
+models, which are not 5-star.5.2.2. Programme: 5-Star Air-Conditioners
+Air-conditioners are used in mainly residential 
+and commercial sectors. The sale of airconditioners is growing as the economy grows 
+and more and more consumers can afford to buy 
+air-conditioners. For modern homes it is not 
+unusual to have 3-4 air-conditioners installed. In 
+order to ensure that the consumers are choosing
+energy-efficient models, it is planned to introduce a mandatory energy label for airconditioners. The Energy Commission has prepared a star rating scheme for airconditioners and 5-star air-conditioners are at least 25% more efficient that conventional 
+models. The programme will be designed to promote 5-star air conditioners.
+Title 5-Star Air Conditioner Campaign
+Type Awareness enhancement and enforcement
+Design The campaign is a combination of the following:
+1) Mandatory MEPS and labelling of all air conditioners in the market and 
+enforcement
+2) Promotion of purchase of 5-star through awareness enhancement 
+programs
+3) Improve the standards (wider range of capacity) and the MEPS value
+4) Awareness enhancement on the benefit of smart meter
+Total 
+Market
+Not determined
+Annual 
+Market
+Based on the survey by SIRIM on 2014, sales is estimated to be 1,200,000 
+units per year
+Savings Average air conditioners are in the range of 8000-11000 BTU /hr
+EER is about 2.9 W/W equal to EER 9.9 Btu/hr/W (Malaysian EER), 
+so the consumption is about 1 kW per unit. 
+Assuming an average use of 6 hours per day, 365 days x 6 hours x 1 kW ~ 
+2200 kWh/yr Savings are determined by the difference between EER=9.5 to 
+EER=11, which is about 15%. So annual savings are estimated to be 330 
+kWh per unit.
+Lifetime The savings are expected to remain the same over the lifespan of the air 
+conditioner i.e. avg of 7 years
+Penetration Assuming that the campaign can start mid 2016 a penetration of 30% by 
+active promotion. 30% is about 360,000 air conditioners. The penetration is 
+expected to be at maximum of 75% in 2026.5.3 Key initiative 2: Minimum Energy Performance Standards (MEPS)
+5.3.1. Programme: Promotion of Efficient Lighting
+Lighting is an important electrical energy consuming appliance in homes. In the 
+commercial sector, lighting account for about 15% to 20% of the total electrical energy 
+used. Thus, improving lighting energy efficiency can result in substantial savings. The 
+campaign will include the promotion energy efficient lighting (e.g: CFL, T5 and LED) 
+through awareness enhancement programmes, the enforcement of Minimum Energy 
+Performance Standards (MEPS) and labelling and the enhancement of awareness on the 
+benefit of using smart meters.
+Total 
+Market
+Total market is determined based on 6.7 million consumers in 2014 with 
+the assumption of 10 lamps per household. 
+Annual 
+Market
+Assuming each year, each household will change at least 1 T8 lamp, annual 
+market is equal to total market i.e. 6,700,000 per year. 
+Savings Average lighting such as T8 is assumed to be 40W. An EE lamp with similar 
+lumen output is 30W. Power saving is therefore 10W. Assuming 2190 hours 
+of use per year, the savings are 17.52 GWh for the 1st year (based on first 
+year market penetration). Market penetration is expected to be 10% for the 1st 
+year with increment of market penetration of 5% for every year.
+Lifetime The annual savings are expected to remain the same over the lifespan of the 
+lamp i.e. about 3 years. (As suggested by BSEEP and AWER)
+Penetration Assuming that the campaign can start in mid-2016, a penetration rate of 10% 
+by intensive promotion is expected. This is about 850,000 lamps. The 
+penetration is expected to increase to 55% in 2025. 5.3.2. Programme: High Efficiency Motors
+Motors are widely used in industrial processes and 
+machinery, and can either be purchased as standalone motors or integrated in equipment. The 
+Energy Commission has adopted the international 
+CEMEP standard for energy rating of motors, which 
+classifies motors in three classes according to the 
+energy efficiency. The most efficient class is EFF1, 
+followed by EFF2 and EFF3 as the lowest class. The 
+CEMEP scheme is to be changed after the adoption 
+of the latest IEC standard for motor performance
+classifies the most energy efficient motors as IE3, whereas IE1 is the low efficient 
+class. EU is currently in the process of implementing minimum performance 
+standards for motors, which is expected to be minimum class IE2.
+A mandatory minimum energy performance standard for motors will be based on the 
+CEMEP/IEC standard and will define the minimum performance for motors to be 
+minimum IE2/EFF2. This minimum standard is planned to be effective in 2020 and in
+the period till 2019, awareness and promotion campaigns will be carried out to inform
+the industries about the benefits of energy efficiency motors (IE2/IE3) motors and the
+phasing out of low efficient types (IE1). Similarly, importers and manufacturers of
+motors and equipment with integrated motors will be targeted for promotion and
+awareness campaigns.
+Title High Efficiency Motor Campaign
+Type MEPS
+Design The campaign is a combination of the following:
+1) Mandatory labelling of motors in the market
+2) MEPS phasing out IE1 motors -In order to regulate the motor equipment in 
+industry sector, the MEPS regulation need to be amended to include industry 
+equipment 
+Total 
+Market
+Not determined
+Annual 
+Market
+According to a survey conducted by International Copper Association Southeast 
+Asia Ltd in 2014 the average sales of electrical motors is about 115,000 units 
+yearly for year 2010 to 2013 with an annual market increase of roughly around 
+10%. The current market share of IE1 or EFF2 motors is around 75%. This is the 
+sale of stand-alone motors, not including motors sold as a part of equipment e.g. 
+electrical pumps.
+Savings A typical motor of 7.5 KW is assumed to be used about 3000 hours per year at 
+about 70% load. The consumption is about 15MWh/year. The savings are about 
+2% by going from IE 1 to IE2 (High efficiency motor) so the savings estimated is 
+300 kWh/year.Lifetime The savings are expected to remain the same over the lifespan of the equipment i.e. 
+10 years.
+Baseline data will be based on the study conducted by International Copper 
+Association (ICA)
+Penetration As the MEPS is introduced in 2016 it is expected that 25% of the sales of IE1 is 
+phased out in the 1st year. The 2nd year market penetration is expected to be 50% 
+and 90% in the subsequent year. 
+5.4 Key initiative 3: Energy Audits in Buildings and Industries
+Energy audits include the mapping of a facility’s energy consumption in order to 
+identify areas where energy efficiency can be implemented.
+Often the energy audit will reveal no-cost measures such as energy wastages from 
+equipment that is left on, but not being used or improvements in the processes that leads
+to energy savings. The outcome of an energy audit is recommendations on energy
+efficiency measures to be implemented and an evaluation of their costs and benefits.
+Energy audits are typically done by external consultants with expertise in energy
+auditing methods and the particular type of facility.
+5.4.1. Programmes: Energy A u d i t s a nd Ma na g em en t in
+C o m m e r c i a l, Industrial and G o v e r n m e n t Facilities
+The energy audit programmes to be 
+implemented will target the following types 
+of facilities:
+ Government Facilities
+ Large Commercial Facilities
+ Medium sized Commercial Facilities
+ Large and medium sized Industrial 
+Facilities
+The programmes will offer free energy audits to the facilities on the condition that the 
+facility owner will confirm that recommended energy efficiency measures will be 
+implemented for an amount equal to or higher than the cost of the energy audit.
+The number of energy audits to be conducted will depend heavily on the number of 
+trained auditors. There is therefore a need to support the training of energy auditors, 
+so that the resource base can be increased and the number of audits can be intensified.
+The total requirement for auditors will gradually increase to 500 full-time auditors in
+2020 and the work load will be maintained until the end of the plan.The energy savings that can be expected from
+energy audits are at least 5% per year for 3 
+years of the total energy consumption of the
+installations concerned. Most of these savings are 
+derived from eliminating energy wastages and
+accelerated change of in-efficient equipment
+which is beyond their economical and technical
+lifetime. Larger energy efficiency projects are
+not considered in the savings calculations but
+will most likely also take place in many of the facilities which will significantly
+increase the savings. Energy management is the day-to-day monitoring and
+management of the energy consumption in a facility. Programmes will be initiated to 
+mandate facilities to implement energy management by appointing an energy manager
+and prepare energy management reports. The Efficient Management of Electrical
+Energy Regulations 2008 already prescribes that large facilities need to implement
+energy management and this will be expanded to cover medium sized facilities.
+Furthermore, the energy management system requirements will be improved to ensure
+that energy efficiency measures and practices are being continuously implemented and 
+tracked.
+For large government facilities, energy management will be compulsory by circular. 
+This will allow the government to show leadership in energy efficiency as well as in 
+implementing cost reduction measures. A part of the energy management will be 
+procurement procedures ensuring that the government facilities are purchasing 5-star 
+rated equipment.
+The campaign for introducing the mandatory energy management will focus on 
+providing guidelines and training to the energy managers to increase awareness of 
+energy efficiency options available to their facilities. The energy management in 
+facilities will also indirectly support other programmes in the national energyefficiency action plan such as the energy audit programmes and energy rating and 
+labelling programmes as it is expected that the facilities with energy management will
+demand energy-efficient technologies.Title Energy Audit and Management in Large Commercial Buildings
+Type Consultancy and grants
+Design The campaign will offer free energy audits to large commercial 
+buildings, such as offices, hotels, shopping complexes etc. It is required 
+that the building owner accepts to invest in energy savings measures with 
+an amount equal to the cost of the audit. The campaign will be conducted 
+over the period 2016 - 2025. Capacity building for the numbers of 
+auditors required will have to be done.
+The energy management in large commercial facilities will be conducted 
+during the whole plan period Training courses and material will be 
+prepared to create awareness about energy saving options and reporting 
+will be required from the facilities. It will be marketed as an additional 
+brand value for the facility
+*EMEER 2008 amendment to impose mandatory saving
+*Green Technology Financing Scheme (GTFS) and Green Investment 
+Tax Allowance (GITA) will be the funding mechanism for ESCOs to 
+finance and implement the Energy Savings Measures (ESM) based upon 
+the result of the IGA. 
+*ESCOs or In house team could apply for the grant
+Total 
+Market
+The market is defined as commercial electricity customers with a 
+monthly electricity bill exceeding 500,000 kWh. There are approximately 
+600 consumers customers meeting this criteria, with a total consumption 
+of this group to be 9.5TWh per year
+Annual 
+Market
+The annual market will be determined by the number of audits that is 
+realistic to be performed with the consultancy resources available. One 
+consultant can audit about 10 GWh per year. In the first year it is 
+expected that 475GWh (5% of 9.5 TWh) is audited requiring about 95 
+auditors. Annual market penetration is expected to be at 10% every year 
+with annual market increment of 1.1%. (NAPIC data)
+Savings The amount of savings achieved from saving measures identified from 
+implementing the Investment Grade Audit (IGA) are expected to be at a 
+minimum of 15%. It will be implemented in a period of 3 years after the 
+IGA. The savings will be spread evenly at 5 % annually accumulating to 
+15% in the third year (1st year = 5% saving, 2nd year = 5% + 5% = 10% 
+saving, 3rd year = 5% +5% +5% = 15% saving. The 5% savings is 
+equivalent to 800,0000 kWh / year / facility. 
+Lifetime The savings are expected to have an average lifetime of 10 years. Title Energy Audit and Management in Large & Medium Sized Industries
+Type Consultancy and grant
+Design The campaign will offer free energy audits to large & medium sized industries. It 
+is required that the owner accepts to invest in energy savings measures with an 
+amount equal to the cost of the audit. The campaign will run in the period 2016-
+2025
+1. Low Cost Energy audit encouragement:
+ i. Large and medium sized Industry: Should have Self-funded low cost energy 
+audits
+2. Investment Grade Audit (IGA):
+ i. Large and medium sized Industry: Conditional free IGA whereby the 
+installations are obligated to implement an energy efficiency project with an 
+amount equal or more than the funding or grant provided for IGA. 
+ ii. Energy Saving Measures (ESM) implementation through EPC concept with 
+the involvement of Energy Service Company (ESCO).
+ iii. Green Technology Financing Scheme (GTFS) and Green Investment Tax 
+Allowance (GITA) will be the funding mechanism for ESCOs to finance and 
+implement the Energy Savings Measures (ESM) based upon the result of the IGA. 
+Sustainable economic development is essential in Malaysia's long-term 
+development plans and green technology has been envisaged as one of the 
+emerging drivers of economic growth not only to ensure sustainable energy 
+growth for the future through energy interdependent and promote efficient 
+utilization, but also the sustainability of the country economically, socially and 
+environmentally. The transformation of the economy to be driven by green 
+technology have been spelled out as the main agenda under the National Green 
+Technology Policy which was launched in July 2009 and various programmes 
+have been implemented to promote the application and development of green 
+technology including the establishment of the Green Technology Financing 
+Scheme in 2010. The purpose of the Scheme that offers a 60% guarantee of the 
+financing amount and a rebate of 2% on the interest/profit rate charged by the 
+financial institutions, is to accelerate the expansion of green investments by 
+providing easier access to financing from the private and commercial financial 
+institutions. The Scheme which is available until 31 December 2015 or upon 
+reaching a total financing approval amount of RM3.5 billion whichever is earlier, 
+facilitates the growth of local green businesses and generates new markets and job 
+creation.
+3. Sharing of ESM success stories among the industry players.
+The energy management in large and medium sized industries will be conducted 
+during the whole plan period. Training courses and material will be prepared to 
+create awareness about energy saving options and reporting will be required from 
+the industries.
+1. Include CPD point requirement for board of director to attend training for the 
+public listed company.
+2. To suggest to SME Corp to insert additional requirement for SME’s who areapplying for existing funding or financial assistance available from SME Corp to 
+attend energy management training.
+3. Introduce Non-monetary Incentives concept: Data sharing for industry for 
+benchmark
+4. Introduce Disincentive concept:
+ - Publish name to shame delinquent parties
+ - Increase the penalty for those who do not comply to the EMEER2008 
+regulations
+ - Introduce surcharge(to be put under EE fund) under EMEER2008 for those 
+who do not achieve the % saving of the Specific Energy Performance Indicator
+Total 
+Market
+The market is defined as large industrial consumers with a monthly electricity bill 
+exceeding 500,000 kWh *(referring to EMEER 2008) per month. There are 
+approximately 1500 customers meeting this criterion. The total annual 
+consumption for this group is about 40 TWh/year.
+As for medium sized industry, market size is approximately 3000 installations and 
+the total annual consumption for this group is about 10 TWh/year, thus total 
+consumption for large and medium sized industry is about 50 TWh
+Title Energy Audit in Large Government Facilities
+Type Consultancy
+Design The campaign is to implement energy audits in large government buildings, 
+such as institutions, offices etc. It is required that the owner accepts to invest in 
+energy savings measures with an amount equal to the cost of the audit. The 
+campaign will be be conducted from 2016-2025 * Investment Grade Audit. 
+Green Technology Financing Scheme (GTFS) and Green Investment Tax 
+Allowance (GITA) will be the funding mechanism for ESCOs to finance and 
+implement the Energy Savings Measures (ESM) based upon the result of the 
+IGA. 
+Total 
+Market
+The market is defined as government consumers with a monthly electricity bill 
+exceeding 500,000kWh per month. There are approximately 108 customers 
+(based on EMEER 2008) meeting this criteria with total consumption of 
+1800 GWh (Based on TNB Data for large government facilities)
+Annual 
+Market
+The annual market will be determined by the number of audits that is realistic 
+to be performed with the consultancy resources available. One consultant can 
+audit about 10 GWh per year. In the first year it is expected that 90 GWh (5%) 
+is audited requiring 18 auditors. The annual market penetration starts from 5%, 
+peaks at 12% at the middle of the plan period and achieves saturation at 8% at 
+the end of the plan
+Savings The amount of savings achieved from saving measures identified from 
+implementing the Investment Grade Audit (IGA) are expected to be at a 
+minimum of 15%. It will be implemented in a period of 3 years after IGA. The 
+savings will be spread evenly at 5 % annually accumulating to 15% in the third 
+year (1st year = 5% saving, 2nd year = 5% + 5% = 10% saving, 3rd year = 
+5% +5% +5% = 15% saving. The 5% savings is equivalent to 800,0000 kWh / 
+year / facility. 
+Lifetime The savings are expected to have an average lifetime of 10 years. 5.5 Key initiative 4: Promotion of Co-generations
+Generating electricity and thermal energy using cogeneration can achieve thermal 
+conversion efficiencies of over 80% as compared with conversion efficiencies of about 
+over 50% to less than 30% in combined cycle gas turbines and open cycle gas turbines 
+respectively. To promote an uptake of cogeneration, barriers such as the high top up and 
+standby rates and the inadequacies in the natural gas supply for cogeneration will be 
+addressed
+Title Co-generation in Industries and Commercial Buildings
+Type Removal of barriers
+Design The cogeneration system's primary function is to meet the heating or cooling 
+demand in the facility and power generation will be secondary. The systems 
+must be fully cogeneration and can include thermal energy storage tanks
+1.The programme is to promote cogeneration in industries and buildings.
+2. This will be done by reducing barriers, including:
+ a. Standby and top up charges
+ b. Gas tariff pricing (TPA)
+ c. Possible lack of Incentives
+ d. Technical hurdles – lack of capability to locally manufacture some 
+energy supply equipment which leads to higher investments
+ e. Connection to the grid – implication on the reserve margin for the 
+utilities
+ f. Lack of awareness on benefits of cogeneration
+3. To overcome the above barriers, a couples of key strategic measures need 
+to be implemented, such as:
+ a. Design of standby, top up and load connected charges that are co-gen 
+friendly
+ - Lowering the amount of charges
+ - Non Firm standby charges (offering daily or monthly as used 
+charges)
+ b. Open bidding for special package of co-gen plants with special gas 
+tariff pricing.
+ c. Promoting the existing incentives such as low cost financing by 
+MGTC and etc.
+ d. Local manufacturers' capacity building
+ e. Regulatory framework for grid-connected co-gen and sales of excess 
+power
+ f. Awareness enhancement on the benefits of co-gen 
+Total 
+Market
+The market is facilities with high demand of heating or cooling. The 
+preliminary market is only considered to be the supported projects in this 
+programme. By the end of the plan period, it is targeted to have 100 
+operating cogeneration plants.
+Annual 
+Market
+It is envisaged that with the reduction of barriers and the increase in 
+electricity tariffs in the country, about 12 MWe of cogeneration (about 12 
+installations) will be installed per year in the country from the year 2017 
+onwards.5.6 Key initiative 5: Energy Efficient Building Design
+The commercial sector consumes about one-third of all electricity in the country and a 
+large share of this is used in buildings for cooling, ventilation, lighting, appliances etc. 
+The future increase in energy consumption in the commercial sector will come from 
+new buildings. Therefore, a programme to ensure that these new buildings are designed
+and built with consideration of energy efficiency is of high importance. Surveys have 
+shown that new buildings are consuming energy around 200-250 kWh/m
+2
+/year,
+which could be reduced to about 135 kWh/m
+2
+/year by applying the Code of
+Practice MS1525:2014 on energy efficiency and use of renewable energy for nonresidential buildings.
+At present the MS 1525:2014 is a voluntary code of practice and it is therefore purely 
+up to the developers to use it. As many buildings are occupied by tenants or other
+owners rather than by the developers, the building design often does not take energy 
+efficiency into consideration as this might increase the building cost and the savings 
+will not benefit the developer.
+The programme is planned to 
+enforce the provision of MS1525 
+through the Uniform Building By Law 
+(UBBL) with the cooperation and 
+support from the Ministry of Urban Well 
+Being, Housing and Local Government. 
+Savings The savings are in terms of natural gas savings, as cogeneration will utilise 
+the fuel more efficiently. The power generation will save power generation 
+in central power plants. Distribution and transmission lossess are not 
+considered. 1 MWe cogeneration plant is expected to generate 7 GWh/year 
+(at the load factor of 0.8, GWh generated = 1 MW x 24hr x 365 days x 0.8 
+load factor = 7 GWh / year). Thus the electricity savings are 7 GWh/year for 
+1 MW capacity. The value of the savings is not the full tariff savings, but the 
+tariff savings minus the additional fuel cost and O&M cost. So the tariff 
+savings is about 50% of the tariff.Title Energy Efficiency in New Buildings
+Type Awareness enhancement & incorporation into UBBL
+Design The programme is to promote energy efficiency in new buildings. By 
+enforcing building regulations on energy efficiency (such as MS1525) 
+the energy consumption of new buildings will be lower than the baseline. 
+Green Technology Financing Scheme (GTFS) and Green Investment 
+Tax Allowance (GITA) will be the funding mechanism for ESCOs to 
+finance and implement the Energy Savings Measures (ESM) based upon 
+the result of the IGA. 
+Total Market The market is defined by new commercial buildings including Office 
+buildings, shopping complexes, hotels etc.
+Annual Market The annual market is the annual increase in floor space for commercial 
+buildings. The average annual market as of 2013 is 145,000 m2-year.The 
+annual market growths is about 1% (BSEEP study).
+Savings Based on MS1525 EE building consumes 136kWh/m2 -year and a 
+regular building consumes 200 to 300 kWh/m2 - year, so average 
+savings that can be achieved is (200-150 = 50) 50kWh/m2- year. 
+Lifetime The savings are expected to have an average lifetime of 10 years. 6. Costs and Benefits
+The effective and efficient implementation of the National Energy Efficiency Action 
+Plan programmes requires an average governmental budget allocation of RM 54.3
+million annually. The budget will cover the cost to administer and incentivise the 
+National Energy Efficiency Action Plan programmes. The public expenditure on the 
+National Energy Efficiency Action Plan, a total of RM 543 million, will be leveraged
+by private sector investments. A total of RM 5,781 million private investments will be 
+induced over the plan. From this investment amount, the largest share will be spent on 
+the adaptation of energy-efficient technologies.
+The public and private expenditure on the National Energy Efficiency Action Plan 
+programmes, amounting to a total of RM 6,324 million, will result in a total direct 
+monetary saving of RM 18,538 million over the plan period. The direct monetary 
+benefit is the value of total electricity saved by the National Energy Efficiency 
+Action Plan, calculated based on the current electricity tariff. The other indirect
+benefits, i.e. capacity savings and greenhouse gas reductions are not included in the 
+direct monetary benefit.
+The cost-benefit ratio of the National Energy Efficiency Action Plan, which is 
+calculated by dividing the direct monetary benefit with the public and private cost, is 
+2.9. In other word, every RM 1 spent on the National Energy Efficiency Action Plan 
+programmes will result in a benefit of RM 2.90. The cost-benefit ratio based on the 
+lifetime savings of energy-efficient technologies adopted and adapted during the 
+National Energy Efficiency Action Plan is 6.7. The overall “cash-flow” during the plan
+period is summarized in Table 2. The cash-flow shows continuous gain from the sixth
+year of the National Energy Efficiency Action Plan implementation. The reason for
+such pattern is because the energy savings from the early years of the plan are accrued 
+in the later years of the plan.
+Table 2: The cash-flow of National Energy Efficiency Action Plan
+Funding Unit 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Total
+Public 
+Funding
+RM 
+(Million)
+24 39 59 60 61 52 53 54 44 45 493
+Private 
+Funding
+RM 
+(Million)
+207 303 493 496 596 628 672 755 791 840 5,781
+Administrat
+ion
+RM 
+(Million) 5 5 5 5 5 5 5 5 5 5 50
+Total 
+Payments
+RM 
+(Million)
+236 347 557 562 662 685 730 814 840 890 6,324
+Benefits RM 
+(Million)
+28 135 378 799 1,336 1,947 2,552 3,173 3,790 4,401 18,538
+Cash Flow RM 
+(Million) -208
+-
+212 -180 237 674 1,261 1,821 2,359 2,950 3,511 12,214At the end of the plan period, the Maximum demand is expected to be 2021 MW. This in 
+turn translates to a reduction of 2526 MW in new generation capacity plant up. This 
+means, the generation cost that can be avoided:
+i. If in the case of coal plants, referring to generation cost of a 1000 MW 
+coal power plant, which is RM 6 billion (based on the 2012 cost). Hence 
+for a 2500MW coal plant, the avoided cost of new plant up is RM 15 
+billion 
+ii. Or in the case of gas power plants, estimated cost for a 1000 MW plant is 
+RM 2.4 billion (based on 2013 cost). Which equals to RM 6 billion in 
+cost avoided for a 2500 MW gas power plant.Ministry of Energy, Green Technology and Water, 2015 46
+7. Monitoring of the National Energy Efficiency Action Plan
+Progress
+The implementation of the National Energy Efficiency Action Plan requires effective 
+monitoring by the Government. As the EC oversee the implementation of the National 
+Energy Efficiency Action Plan and the National Energy Efficiency Action Plan 
+Project Team executes the plan it is critical that the progress of implementation
+is monitored periodically by the Data Management and Monitoring Unit of the National 
+Energy Efficiency Action Plan Project Team. In this regard, the annual planning and
+resources allocation for the National Energy Efficiency Action Plan is prepared with 
+clear indicators for the expected annual implementation target.
+One of the key factors to promote energy efficiency improvement successfully is to 
+understand how energy is being used, and ways in which energy can be used more 
+efficiently. By understanding them, not only the energy efficiency improvement can 
+be done with great success but it will also help to monitor and evaluate the 
+performances in terms of energy efficiency improvements. To gain such an insight, an 
+appreciation of the many complexities which make up economic and social activities, 
+and the ways in which these interact is required.
+Currently, the method used to monitor Malaysia’s energy efficiency status is by
+judging energy intensity. The energy intensity value is a ratio between energy and 
+economic values. Normally, the energy intensity is calculated by dividing Total 
+Primary Energy Supply (TPES) by Gross Domestic Product (GDP). For Malaysia, our 
+Energy Intensity (EI) in the year 2013 was 67.95 (toe/million, RM at 2005 prices). 
+This implies that Malaysia’s energy efficiency status is decreasing despite the
+continuous efforts undertaken to promote energy efficiency in the country.
+Various strategies and actions have been taken to improve the status of energy 
+efficiency in the country. However, the performances of those efforts to improve the 
+state of energy supply and use in the country have remained unknown. The justification
+of their performances by EI is not accurate because the EI value is not only influenced
+by energy factors but also by non-energy factors such as economic structure, energy 
+quality and activities.Ministry of Energy, Green Technology and Water, 2015 47
+7.1 Energy Efficiency Monitoring Framework
+7.1.1. Energy Efficiency Indicator
+One of the main challenges in executing energy efficiency strategies and action plans 
+effectively and efficiently is to quantify the achievements from the available data. To 
+make this happen, one of the useful tools in energy efficiency implementation is the 
+energy efficiency indicators. In general, an energy efficiency indicator is a ratio to 
+measure energy use against a unit of output. In the industrial sector, for example, the 
+measures are normally energy use per Ringgit of production or energy per physical unit 
+of production. In the building sector, energy intensity is expressed in terms of energy 
+per square metre of floor space and in the transport sector; energy intensity is measured 
+in terms of energy use per passenger-km or energy use per ton-km.
+7.1.2. Reporting the National Energy Efficiency Action Plan 
+Implementation Progress
+The National Energy Efficiency Action Plan Project Team needs to report the 
+progress of the National Energy Efficiency Action Plan implementation as one of the 
+National Energy Efficiency Action Plan’s main monitoring tools. In the reporting, the
+actual progress against the National Energy Efficiency Action Plan targets will be 
+communicated to stakeholders. Ministry of Energy, Green Technology and Water, 2015 48
+8.0 Impact
+8.1. Economic Impact
+The macro energy model for Malaysia forecasts the Final Electricity Energy demand 
+(FEED) of Malaysia to keep growing. In order to reduce the FEED and subsequently 
+CO2 emissions for the Residential, Commercial and Industry sectors, EE measures of 
+varying targets and actions are recommended above. The reduction in FEED lowers 
+energy intensity and leads to reduced CO2 emissions and intensity.
+The overall impact of the National Energy Efficiency Action Plan is shown in Table 3 
+8.2. Environmental Impact
+8.2.1. Final Electricity Energy Demand (FEED) and CO2 emission 
+Final Electricity Energy Demand in the year 2025 is expected to be reduced by 12,391 
+GWh and the cumulative savings over 10 years from 2016 to 2025 is 52,233 GWh. In 
+the case of CO2 emission, in the year 2025 the CO2 emission is reduced by 8,094
+ktCO2eq. The cumulative reduction over 10 years from 2016 to 2025 is 34,886 ktCO2eq.
+8.3. Social Impact
+1. Increase awareness and involvement from the public and stakeholders in the 
+development of the country's energy efficiency program;
+2. Strengthening regulatory and enforcement on energy efficiency across the country 
+to ensure continuous power supply; and
+3. Improve management and human resource development to build human capital and 
+experts in the field of energy efficiency. Ministry of Energy, Green Technology and Water, 2015 49
+Table 3: Impact of the National Energy Efficiency Action Plan
+Summary
+Item Unit 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 Total Lifetime
+Annual Savings GWh 87 386 1,101 2,286 3,783 5,475 7,161 8,909 10,653 12,391 52,233 122,543
+Residential GWh 50 123 219 350 522 712 921 1,184 1,468 1,772 7,320 16,677
+Commercial GWh 28 107 307 626 1,018 1,460 1,908 2,395 2,889 3,391 14,130 31,767
+Industrial GWh 9 156 574 1,310 2,243 3,303 4,332 5,330 6,296 7,228 30,783 74,099
+Cumulative Savings GWh 87 473 1,574 3,859 7,643 13,118 20,279 29,188 39,842 52,233 52,233 122,543
+Demand Savings MW 14 63 179 373 617 893 1,168 1,453 1,737 2,021 2,021
+Capacity Savings MW 18 79 224 466 771 1,116 1,460 1,816 2,172 2,526 -
+Benefits RM (Million) 28 135 378 799 1,336 1,947 2,552 3,173 3,790 4,401 18,538 42,548
+Public Funding RM (Million) 24 39 59 60 61 52 53 54 44 45 493 493
+Private Funding RM (Million) 207 303 493 496 596 628 672 755 791 840 5,781 5,781
+Administration RM (Million) 5 5 5 5 5 5 5 5 5 5 50 50
+Total Payments RM (Million) 236 347 557 562 662 685 730 814 840 890 6,324 6,324
+BCR 2.9 6.7
+Cash Flow RM (Million) - 208 - 212 - 180 237 674 1,261 1,821 2,359 2,950 3,511 12,214 36,224
+Total fuel savings TJ 964 4,225 11,932 24,534 40,204 57,609 74,600 91,892 108,796 125,289 540,045 1,266,995
+Gas Savings TJ 443 1,943 5,489 11,286 18,494 26,500 34,316 42,271 50,046 57,633 248,421 582,818
+Coal Savings TJ 395 1,732 4,892 10,059 16,484 23,620 30,586 37,676 44,606 51,368 221,418 519,468
+GHG savings ktCO2eq 62 273 771 1,585 2,597 3,721 4,819 5,936 7,028 8,094 34,886 81,847
+BAU GWh 117,110 121,431 125,885 130,474 134,830 139,206 143,326 146,992 150,657 154,142 1,364,053
+NEEAP GWh 117,023 121,045 124,784 128,188 131,047 133,731 136,165 138,082 140,004 141,751 1,311,820
+Savings Pct 0.1% 0.3% 0.9% 1.8% 2.8% 3.9% 5.0% 6.1% 7.1% 8.0% 3.8%Ministry of Energy, Green Technology and Water, 2015 50

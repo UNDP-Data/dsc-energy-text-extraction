@@ -1,0 +1,1898 @@
+File Name: ZWE-NEP-2012-EN
+Year: 2012
+Country Name: Zimbabwe
+Country Code: ZWE
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2012
+Start Year: 2012
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+Republic of Zimbabwe 
+NATIONAL ENERGY POLICY 
+MINISTRY OF ENERGY AND POWER 
+DEVELOPMENT 
+Produced by the 
+Ministry of Energy and Power Development 
+ 
+ZIM B AB W E
+M NI SI TRY OF ENERGY & POWER DEVELOPMENTMINISTERIAL FOREWORD 
+Energy plays an invaluable role in social and economic development as it is a 
+critical factor of production, its cost impacting directly on other services and the 
+competitiveness of enterprises. Every productive sector in the economy relies on 
+the provision of energy. It is therefore essential that the policy framework in this 
+sector be sensitive to the ever-rising challenges not only in this sector but in the 
+economy as a whole. 
+The National Energy Policy (NEP) seeks to promote the optimal supply and 
+utilisation of energy, for socio-economic development in a safe, sustainable and 
+environmentally friendly manner. It is clear that the essence of the NEP’s 
+objectives will remain valid even though the social, political, environmental and 
+economic situation changes continually. Such changes will necessitate policy 
+review, with reference being made to the scenarios prevailing in the entire 
+economy and international environment. A consultative process was key to the 
+design and development of the NEP to ensure that the views of all stakeholders in 
+the country were taken into account. 
+The NEP brings out Government’s objective to ensure that the energy sector’s 
+potential to drive economic growth and reduce poverty is fully harnessed. The 
+policy therefore provides a guide to decision-makers, policy-makers and 
+development managers in Government, the private sector, Non-Governmental 
+Organisations and civil society, on Government’s intended actions in the energy 
+sector. 
+Owing to supply constraints, our current (2012) consumption levels are suppressed 
+and below levels achieved in the 1990s. It would therefore be misleading for 
+demand forecasts to be based on an extrapolation of historical statistics. We 
+should instead be guided by the need to restore the economy’s productive capacity 
+and to transform it to match the expectations of our growing population. We can 
+no longer continue to be an economy dependent on the production of primary 
+commodities. 
+The provision of modern energy services such as electricity is a measure of social 
+and economic development. Consumers of energy services must pay for these and 
+the excess funds will be used to extend the services to rural areas. The recently 
+introduced prepaid meters will enable consumers to manage their electricity bills. 
+This is expected to encourage them to pay their bills thereby improving revenue 
+collection. 
+The country is endowed with a variety of renewable and fossil energy resources 
+which need to be exploited in a sustainable manner. Regional cooperation is 
+essential for the development of large-scale hydropower resources. Small-scale 
+hydropower projects may not make a significant impact on national requirements 
+bt thehelp to deelop skills and to speed p access for remote commnities that and coal-bed methane can make a significant contribution to power generation in 
+the short to medium term. Opportunities for regional cooperation also exist for oil 
+and natural gas. 
+Other renewable energy resources with great potential are solar geysers for 
+household and industrial water heating, solar PV for lighting and power, biogas for 
+cooking, and biofuels for transportation. Regional and international research and 
+development opportunities are available for renewables and energy-efficient 
+technologies. The local manufacture of energy technologies is important. With the 
+exception of South Africa and some north African countries, most sub-Saharan 
+countries do not have local manufacturing capacity even for basic components. 
+The petroleum sub-sector has been liberalised and is operating efficiently and 
+competitively. What is necessary is for industry players to assume greater 
+responsibility for infrastructure investment through PPPs. Government has made 
+its contribution in the existing pipeline, rail system and storage facilities. There is 
+an urgent need for a second pipeline to extend service to neighbouring countries 
+such as Botswana, Zambia and the southern Democratic Republic of the Congo. 
+Recent reforms in the sector have also seen National Oil Company of Zimbabwe 
+(NOCZIM) being unbundled to National Oil Infrastructure Company (NOIC) and 
+Petrotrade to improve on efficiency. 
+The Zimbabwe Energy Regulatory Authority (ZERA) is now in place and is expected 
+to create an enabling environment and establish fair play in the energy sector 
+through licensing regulations, product and service standards and investment 
+promotion. Currently there is no coordinated research, and there is no regulation 
+of the solar industry. 
+Manpower and capacity development are the key enablers that will ensure that we 
+grow from being solely African players to becoming global participants. This is a 
+vision that will ensure that we continue to develop and implement policies that 
+provide socially, economically and environmentally sustainable energy services at 
+least cost for all the people. 
+I am in no doubt that the NEP will be instrumental in developing and accelerating 
+the economic activity of the country, and I look forward to continued debate on 
+the implementation of these policies. 
+Finally, I trust that the NEP will achieve its main objectives, which are: to increase 
+access to affordable energy services to all the citizens of Zimbabwe; to contribute 
+to the eradication of poverty; to stimulate sustainable economic growth; and to 
+reduce the country’s heavy dependence on energy imports.
+Elton S. Mangoma (MP)
+MINISTER OF ENERGY AND POWER DEVELOPMENT ACKNOWLEDGEMENTS 
+The development of the NEP and its implementation strategies (NEPIS) was a 
+collaborative exercise involving many stakeholders. The Ministry is indebted to all 
+the participants, experts and resource persons, as well to as its own staff and 
+those from other ministries, state enterprises and parastatals. I would like to 
+extend sincere gratitude to the United Nations Development Programme and 
+Practical Action for providing the financial resources which supported the NEP and 
+NEPIS development. 
+May I also recognise the efforts of all Permanent Secretaries of line ministries, 
+consultants, Provincial Governors and Provincial Administrators who facilitated the 
+holding of provincial consultative workshops countrywide. Last, but not least, 
+sincere thanks go to all the participants and resource persons in the consultative 
+workshops for their invaluable contributions to this exercise. 
+Finally, I wish to thank in advance all investors and related stakeholders who will 
+take advantage of this enabling policy framework to ensure that there is universal 
+access to modern energy services within a generation. 
+Partson I. Mbiriri 
+Permanent Secretary 
+MINISTRY OF ENERGY AND POWER DEVELOPMENT 
+EXECUTIVE SUMMARY 
+Introduction 
+The NEP identifies the key challenges in the exploitation, distribution and 
+utilisation of different energy resources, and provides broad policy objectives and 
+strategies to address those challenges. The NEP has been formulated through 
+extensive stakeholder consultation at all levels and sectors throughout society. The 
+Policy contains strategies to translate the broad policy objectives into specific 
+targets and actions in order to empower stakeholders to contribute towards the 
+resolution and prevention of the recurring energy crises that have been facing the 
+country. These strategies identify gaps between policy and practice and provide 
+specific and actionable recommendations. The Policy is structured according to 
+demand sectors, supply sectors, and cross-cutting issues. Demand Side 
+The demand-side section highlights the issues and policy direction in the context of 
+the five main demand sectors: agriculture, industry and mining, commerce and 
+services, transport, and urban and rural households. The focus of the Policy in the 
+commercial sectors is on the efficient use of energy in carrying out economic 
+activities, and ensuring that an appropriate, reliable and good-quality supply is 
+available. For households, both rural and urban, it is essential that access to 
+energy services is increased – at an affordable price and in a sustainable manner. 
+Basic energy needs should take into account cost, availability and health issues. 
+However, the environmental effects of household energy use are severe in the 
+rural areas, where people use wood as their primary source of energy for heating. 
+Government will promote fuel-wood substitution as a way of conserving the fastdwindling wood resources. 
+Supply Side 
+The supply of energy relates mainly to the use of coal, petroleum products, 
+electricity, gas and renewable energy. There are vast coal resources in the country 
+that are presently underutilised. If used efficiently and sustainably, these 
+resources can benefit the country in terms of economic growth, employment 
+creation, self-sufficiency and trading power within the region. 
+Coal that is mined in the country is currently being used in agriculture, industry 
+and power generation; small quantities are exported. However, supply has been 
+failing to meet demand in recent years, resulting in some industries having to 
+import coal. This Policy has attempted to address this issue, as coal mining can 
+increase employment in the country and is critical for the development of projects 
+such as thermal power stations. Government will also investigate options for the 
+use of local coal for liquefaction and the resource potential of coal bed methane. 
+Clean-coal technologies, to reduce the environmental impacts of coal, will be 
+promoted in all coal projects, small or large. Research will be conducted on 
+suitable equipment for utilising indigenous coal. The coal industry will remain in 
+private hands to encourage investment and competition. 
+Petroleum products are the foundation of the transport sector and are presently 
+regulated by Government. However, an independent regulator, ZERA, is 
+responsible for sector-wide regulation with a common vision to protect consumers 
+and ensure affordable pricing. It has always been Government’s intention to have 
+minimum intervention and regulation in this industry to encourage competition and 
+investment. The policy challenges lie in increasing diversification in the 
+procurement of petroleum products, developing a pricing mechanism suitable for 
+the country, and increasing the storage capacity for products so as to mitigate 
+supply disruptions. Opportunities for the development of natural gas will be 
+pursued with the objective of diversifying energy supplies in the country. Electricity supply and use is one of the most important aspects within the energy 
+sector in Zimbabwe – in both supporting commercial activities and supplying power 
+to domestic consumers. In order to improve the efficiency of the industry and 
+attract private investment, Government will continue with its programme of 
+encouraging Independent Power Producers (IPPs) to participate in the sector. It is 
+also important that the supply infrastructure be continuously upgraded to meet 
+the needs of industry and society. This also includes the sustainable use of local 
+energy resources and ensuring tariffs are transparent and cost-reflective. Creating 
+an infrastructure attractive to IPPs will allow more indigenous, local power 
+generation, resulting in, among other things, an increased diversity of energy 
+supplies and a reduction in energy imports. 
+Renewable energy is a local resource that should be fully utilised, as it can bring 
+both access to energy and environmental benefits. This includes the sustainable 
+use of biomass resources (e.g. wood fuel, industrial waste such as bagasse, and 
+pulp), hydropower, solar power and wind. Hydropower is presently being used in 
+the country, contributing substantially to the national grid. There is a much 
+greater potential, both in terms of grid connected and off-grid, to contribute 
+towards rural power needs. Solar is also underutilised and programmes will be 
+developed to ensure greater uptake of solar electricity and solar thermal 
+technologies. 
+Cross-cutting Issues 
+In addition to the demand and supply of energy, a number of issues cut across all 
+the sub-sectors. Zimbabwe is a landlocked country and hence is heavily dependent 
+on energy imports, in particular of petroleum and electricity. Government 
+therefore needs to ensure that there are strategic and buffer stocks, diverse 
+supply routes for petroleum products, secure electricity supplies, and that local 
+resources are maximised in terms of power generation. Security of energy supply 
+can also be improved through the conservation of energy and the diversification of 
+sources. 
+Other cross-cutting issues include safety, health, the environment, energy 
+efficiency, access to energy for low-income groups, gender, quality assurance and 
+quality standards, research and development, pricing, energy planning, and the 
+need to take cognisance of regional and international energy trade and cooperation. Policy recommendations on these issues have been developed in line 
+with the policy objectives. These issues provide linkages with other sectors that 
+impact on energy development. 
+Government and Institutional Arrangements 
+The fundamental principle for an efficient institutional framework and governance separating the legislature (law maker), judiciary (law interpreter) and executive 
+(law implementer). At the energy-sector level, this is achieved by separating the 
+policy-making role of the minister, the policy-monitoring role of the regulator, and 
+the policy-implementation role of the energy service provider. Appropriate 
+capacity-building should be undertaken so that each institution is able to discharge 
+its responsibilities without interfering with the role of others. 
+As far as is practicable, in order to clarify roles and minimise conflicts of interest, 
+the institutional framework and governance of the energy sector will be guided by 
+the following principles: the minister decides policy, the regulator monitors and 
+enforces policy, and the energy service providers execute the policy. 
+To avoid any role ambiguity, the relationship between the regulator and the 
+ministry will be defined in a compact agreement. Licence terms and conditions 
+will clarify the respective roles of the regulator and the energy service providers. 
+The compact agreement must specify the regulator’s decision-making and advisory 
+roles consistent with the law. 
+The minister will take steps to build the capacity of ZERA rapidly in order to 
+establish its credibility and legitimacy to key stakeholders, in particular to policymakers, investors, financiers and consumers. The compact agreement must specify 
+the transitional period to full regulatory independence when there will be no 
+need for Government representation on the ZERA Board. 
+STAKEHOLDER NEEDS AND EXPECTATIONS 
+The country’s social and economic goals are defined in short-term or medium-term 
+plans of up to five years. The current plan is the Zimbabwe Medium Term Plan 
+(MTP) for the period 2011 to 2015. At the launch of the MTP, ministers indicated 
+that it was a step towards the vision of a US$100 billion economy by 2030. Other 
+documents that express energy-related needs are the Zimbabwe 2010 Millennium 
+Development Goals Status Report, and the regional and international protocols and 
+conventions to which Zimbabwe is a signatory. Five specific key needs emerge 
+from a study of these documents. 
+1. Economic Growth and Transformation 
+According to the Medium Term Plan, the country’s overall development goal is ‘to 
+transform the economy, reduce poverty, create jobs, maintain macroeconomic 
+stability and restore the economy’s capacity to produce goods and services 
+competitively …’
+1
+. The SADC Regional Indicative Strategic Development Plan 
+(RISDP) of 2003 states that ‘The overall goal of the Energy Sector is to ensure the 
+availability of sufficient, reliable, least-cost energy services that will assist in the 
+ 
+1
+ZibbMdiTPl20112015 (HMiif EiPlid Iattainment of economic efficiency and the eradication of poverty whilst ensuring 
+the environmentally sustainable use of energy resources.’
+2
+Energy is a key enabler for all the national priorities outlined in the MTP: 
+infrastructure development; employment creation; human-centred development; 
+entrepreneurship development' macroeconomic stability; ICT and science and 
+technology development; good governance; investment regulation, coordination 
+and promotion; resource utilisation and poverty reduction; and gender 
+mainstreaming into economic activities. 
+The specific strategic goal of the NEP is to increase access to sufficient, reliable, 
+least-cost and environmentally sustainable energy services to support the 
+transformation of the economy from primary commodity production to valueaddition, beneficiation and new knowledge-based industries, thereby creating 
+jobs, reducing poverty and maintaining macroeconomic stability. 
+This calls for a paradigm shift in energy-demand forecasting and in the planning 
+and development of energy infrastructure. Extrapolation from historical demand 
+shows a vicious circle in which energy shortages perpetuate economic 
+underdevelopment. Integrated economic and energy-resource planning should help 
+to establish the appropriate demand forecasts and development targets. 
+2. Millennium Development Goals 
+The achievement of the 2015 Millennium Development Goals (MDGs) is an integral 
+assumption of the MTP. The 2010 and previous MDG status reports note that the 
+country has decided to prioritise the following MDGs: Eradicate Extreme Poverty 
+and Hunger (MDG 1), Promote Gender Equality and Empower Women (MDG 3), and 
+Combat HIV and AIDS, Malaria and Other Diseases (MDG 6). 
+Although energy is not explicitly mentioned in the MDGs, the World Summit on 
+Sustainable Development held in Johannesburg in 2002 recognised that the 
+provision of modern energy services was critical for the attainment of these goals. 
+Energy policies and strategies will be designed to support the national priority 
+MDG targets for the eradication of extreme poverty and hunger, the promotion 
+of gender equality and women’s empowerment, and combating HIV and other 
+infectious diseases. 
+3. Public–Private Partnerships 
+The objectives of promoting competition, efficiency and investment in the energy 
+sector are aligned to the MTP objective of ensuring that the ‘private sector will be 
+the engine of economic recovery and growth in Zimbabwe, necessitating farreaching initiatives and reforms to reduce the risk for investors and make Zimbabwe an attractive investment destination. Accordingly Government will 
+give priority to public–private partnerships (PPPs) in the following areas: ICTs, 
+Local Government, Mining, Health, Water, Transport, Tourism and Natural 
+Resources, Energy and Power Development, Agriculture, Social Amenities and 
+Education.4
+A complementary strategic goal of this energy policy is to improve the 
+institutional framework and governance of the energy sector in order to 
+ensure that the private sector becomes the engine for provision of energy 
+services.
+4. Regional and International Cooperation 
+The SADC Energy Protocol, which was signed in 1996 and became operational in 
+1997, recognises the importance of regional cooperation in ensuring the reliability 
+and security as well as the cost-effectiveness of energy services. ‘The Protocol 
+aims at the harmonisation of national and regional energy policies; cooperation in 
+the development of energy and energy pooling; ensuring the provision of reliable, 
+continued and sustainable energy services in the most efficient and cost-effective 
+manner; promoting joint development of human resources and organisational 
+capacity building; and cooperation in research, development, adaptation, 
+dissemination and transfer of low-cost energy technologies.’5
+On the international arena the country is a signatory to the UN Framework 
+Convention on Climate Change and related protocols that define the overall 
+framework for inter-governmental efforts to tackle the challenges posed by 
+climate change. All countries are expected to take precautionary measures to 
+reduce or eliminate greenhouse-gas emissions and to mitigate their adverse impact 
+on the environment. 
+Consistent with regional and international strategies, protocols and 
+conventions on climate change, a complementary energy policy objective is to 
+ensure that Zimbabwe promotes research and development and the use of 
+renewable sources of energy to support regional and international goals for 
+increasing access to socially and environmentally sustainable energy services. 
+5. Universal Access to Modern Energy Services 
+The broad objective of increasing access to affordable energy services is expressed 
+very succinctly by the strategic goal of the SADC Regional Energy Access Strategy 
+and Action Plan of 2010 which is “to harness regional energy resources to ensure, 
+ 
+3
+ Zimbabwe, Medium Term Plan, 91.
+4
+ Zimbabwe, Medium Term Plan, 94.through national and regional action, that all the people of the SADC Region have 
+access to adequate, reliable, least-cost, environmentally sustainable energy 
+services and at the operational level that the proportion of people without such 
+access is halved within 10 years for each end use and halved again in successive 5-
+year periods until there is universal access for all end uses.’
+6
+Since it is unlikely that there is a single technology that can meet all the end-use 
+needs for a given consumer, it is necessary to consider a portfolio of energy 
+sources. This portfolio approach is superior to the common focus on technology, 
+especially on electrification. Access to electricity is not the same as access to 
+energy, because electricity does not fulfil all the energy needs at least cost. 
+The ultimate objective of the NEP is to ensure universal access to a portfolio 
+of modern energy services that fulfil the light, heat, static and motive power 
+needs for enhancing economic productivity and quality of life. 
+Conclusion 
+Government’s overall development objectives can be fulfilled only through the 
+implementation of this Policy. The strategies contained herein are designed to 
+facilitate the implementation of the NEP by addressing the following issues: 
+a) Ensuring policy clarity and awareness – the strategies help to clarify the 
+NEP policy objectives by providing the policy details and a directory to the 
+energy policies that exist in different documents. 
+b) Ensuring consistency between policy and action – policy clarity and 
+awareness helps to bridge the gap between stated policy and the actions of 
+decision-makers. 
+c) Identifying gaps – the strategies address gaps not covered by existing policy 
+or legislation, or where the policy or law allows for different approaches. 
+d) Providing a framework for regular energy-sector performance review and 
+evaluation – ad hoc attention and response to energy issues has resulted in 
+energy crises that force the country towards expensive ‘quick fix’ solutions 
+instead of an orderly and least-cost energy-development programme. ABBREVIATIONS AND ACRONYMS 
+AFREC African Energy Commission
+CBM coal bed methane
+COMESA Common Market for Eastern and Southern Africa
+ERA Energy Regulatory Authority
+ESC Electricity Supply Commission
+GJ gigajoule, or one joule x 109
+GWh Gigawatt/hour, or one watt x one hour x 109
+IAEA International Atomic Energy Agency
+ICT Information Communication Technology
+IPP Independent Power ProducerLPG Liquefied petroleum gas
+MDG Millennium Development Goal
+MJ megajoule, or one joule x 106
+MTP Medium Term Plan
+MW Megawatt, or one watt x 106
+NEP National Energy Policy
+NEPIS National Energy Policy Implementation Strategy 
+NGO Non-Governmental Organisation
+NOCZIM National Oil Company of Zimbabwe
+NOIC National Oil Infrastructure Company
+PPP Public–Private Partnership
+PV Photovoltaics
+RETs Renewable Energy Technologies
+SADC Southern African Development Community
+ZERA Zimbabwe Energy Regulatory Authority
+ZERC Zimbabwe Electricity Regulatory Commission
+ZESA Zimbabwe Electricity Supply Authority
+ZETDC Zimbabwe Electricity Transmission and Distribution Company
+ZIMSTAT Zimbabwe National Statistics Agency
+TABLE OF CONTENTS 
+MINISTERIAL FOREWORD............................................................................................... i
+ACKNOWLEDGEMENTS..................................................................................................iv
+EXECUTIVE SUMMARY...................................................................................................iv
+STAKEHOLDER NEEDS AND EXPECTATIONS ............................................................ vii
+ACRONYMS......................................................................................................................xi
+1. ENERGY AND DEVELOPMENT ......................................................................................1
+2. BACKGROUND...............................................................................................................1
+2.1. ENERGY SITUATION IN ZIMBABWE....................................................................1
+2.2. ZIMBABWE’S ENERGY RESOURCE BASE ............................................................2
+3. INSTITUTIONAL ARRANGEMENTS AND GOVERNANCE ...............................................3
+4. OPPORTUNITIES IN THE ENERGY SECTOR ................................................................. 4
+5. THE NEED FOR A NATIONAL ENERGY POLICY ...........................................................4
+6. GENERAL POLICY GOALS AND OBJECTIVES ...............................................................5
+6.1. GUIDING PRINCIPLES .........................................................................................5
+6.2. NEP GOALS AND OBJECTIVES............................................................................7
+7. SUPPLY-SIDE POLICY MEASURES.................................................................................8
+7.1. POLICY OBJECTIVE ............................................................................................87.2.2. Challenges ................................................................................................. 11
+7.2.3. Policy Objectives......................................................................................12
+7.2.4. Policy Measures ........................................................................................12
+7.2.5. Strategies ..................................................................................................13
+7.3. FOSSIL FUELS SUB-SECTOR .............................................................................14
+7.3.1. Background................................................................................................14
+7.3.2. Challenges ................................................................................................. 16
+7.3.3. Policy Objectives......................................................................................17
+7.3.4. Policy Measures ........................................................................................17
+7.3.5. Strategies ..................................................................................................18
+7.4. COAL AND CBM SUB-SECTOR ..........................................................................20
+7.4.1. Background................................................................................................20
+7.4.2. Challenges ................................................................................................. 20
+7.4.3. Policy Objectives......................................................................................21
+7.4.4. Policy Measures ........................................................................................21
+7.4.5. Strategies ..................................................................................................21
+7.5. RENEWABLE ENERGY SUB-SECTOR................................................................. 22
+7.5.1. Background................................................................................................22
+7.5.2. Challenges ................................................................................................. 27
+7.5.3. Policy Objectives......................................................................................27
+7.5.4. Policy Measures ........................................................................................27
+7.5.5. Strategies ..................................................................................................28
+7.5.6. General strategies....................................................................................31
+7.6. NUCLEAR ENERGY SUB-SECTOR......................................................................32
+7.6.1. Background................................................................................................32
+7.6.2. Challenges ................................................................................................. 32
+7.6.3. Policy Objectives......................................................................................32
+7.6.4. Policy Measures ........................................................................................33
+7.6.5. Strategies ..................................................................................................33
+8. ENERGY EFFICIENCY IN DEMAND-SIDE SECTORS .....................................................33
+8.1. Background.......................................................................................................33
+8.2. Challenges ........................................................................................................36
+8.3. Policies .............................................................................................................37
+8.4. Strategies .........................................................................................................38
+8.4.1. Households and Institutions ....................................................................38
+8.4.2. Mining and Industry..................................................................................39
+8.4.3. Transport...................................................................................................39
+8.4.4. Agriculture ................................................................................................40
+8.4.5. Commerce................................................................................................. 40
+9. CROSS-CUTTING ISSUES ............................................................................................40
+9.1. Background.......................................................................................................40
+9.2. Challenges ........................................................................................................40
+9.3. ENERGY POLICY AND PLANNING.....................................................................41
+9.3.1. Background................................................................................................41
+9.3.2. Policy Measures ........................................................................................41
+9.3.3. Strategies ..................................................................................................41
+9.4. GOVERNANCE AND INSTITUTIONAL FRAMEWORK.........................................42
+9.4.1. Background................................................................................................42
+9.4.2. Challenges ................................................................................................. 43
+9.4.3. Policy Measures ........................................................................................43
+944Si9.5.1. Background................................................................................................44
+9.5.2. Zimbabwe Energy Regulatory Authority (ZERA) ...................................45
+9.6. RESEARCH AND DEVELOPMENT.......................................................................50
+9.6.1. Background................................................................................................50
+9.6.2. Challenges ................................................................................................. 50
+9.6.3. Policies ......................................................................................................50
+9.6.4. Strategies ..................................................................................................50
+9.7. GENDER AND ENERGY......................................................................................51
+9.7.1. Background................................................................................................51
+9.7.2. Challenges ................................................................................................. 53
+9.7.3. Policies ......................................................................................................53
+9.7.4. Strategies ..................................................................................................54
+GLOSSARY OF TERMS...................................................................................................541. ENERGY AND DEVELOPMENT 
+Energy is essential to social and economic activities and therefore every person 
+has access to energy services of one kind or another. As a developing country 
+the majority of the people in Zimbabwe are dependent on traditional and 
+inefficient energy services that constrain their ability to enhance economic 
+productivity and quality of life. There is a direct correlation between the level 
+of a country’s development and the quality and quantity of its energy services. 
+Therefore the thrust of the country’s energy policy is to ensure sustainable 
+social and economic development through universal access to a portfolio of 
+modern energy services to meet light, heat and power needs. 
+Although Zimbabwe has vast and diverse energy resources, the per capita 
+energy consumption is only 24.0 GJ (gigajoules),7 compared with an average of 
+200 GJ for the developed countries. Appropriate policies need to be put in 
+place in order to facilitate the development and use of these resources to meet 
+the socio-economic needs of the population in an environmentally and 
+economically sustainable manner. 
+2. BACKGROUND 
+2.1. ENERGY SITUATION IN ZIMBABWE 
+The main sources of energy used in Zimbabwe comprise coal, wood fuel, 
+electricity and petroleum fuels. According to the latest (2009) national energy 
+balance, wood fuel provides the bulk (61%) of the total energy supply, followed 
+by liquid fuels (18%), electricity (13%), and coal (8%). 
+Thirty-seven per cent of households in Zimbabwe have access to electricity 
+that is connected via power lines. There is a significant difference between urban and rural areas in their access to electricity. In urban areas 83 per cent 
+of households have electricity, compared with 13 per cent in rural areas. 
+Rural communities meet 94 per cent of their cooking energy requirements from 
+traditional fuels, mainly firewood, and 20 per cent of urban households use 
+wood as the main cooking fuel. Coal, charcoal and liquefied petroleum gas 
+(LPG) are used by very few households (less than 1 per cent). A majority of 
+urban households use electricity for cooking (73 per cent); in contrast, only 6 
+per cent of rural households use electricity for this purpose.8 Most of the rural 
+areas of Zimbabwe are facing a wood fuel shortage owing to, inter alia, the 
+clearing of land for agriculture and unsustainable firewood harvesting. 
+Zimbabwe is currently (2012) facing a shortage of electrical energy owing to 
+internal generation shortfalls and the country imports all its petroleum fuels, 
+at great cost to the country.
+2.2. ZIMBABWE’S ENERGY RESOURCE BASE
+Zimbabwe is well endowed with energy resources:
+ Proven coal resources of 12 billion metric tonnes, situated mainly in the 
+northern/north-western part of the country. Zimbabwe’s coals are 
+generally of good quality, with calorific values ranging from 20 to 32 
+MJ/kg (megajoules/kilogram). 
+ Approximately 40 terra cubic feet (1.132 terra cubic metres) of coal bed 
+methane (CBM). There is a need to establish the full potential and 
+commercial feasibility of exploiting this energy resource. 
+ Hydropower potential, concentrated along the Zambezi River, with 
+potential also at many mini-hydro sites in the Eastern Highlands and 
+dams across the country. 
+ An annual daily average solar radiation over Zimbabwe of 20 MJ/m2
+(megajoules/square metre).  An annual yield of wood fuel from natural forests, estimated at 4.6 
+million tons. 
+ An estimated 1.5 million tons of bagasse, produced annually from waste 
+in the production of sugar from sugar cane in the Lowveld at Triangle 
+and Hippo Valley Estates. With a strong agricultural base, Zimbabwe also 
+produces large quantities of agricultural waste. 
+Wind speeds over Zimbabwe (averaging 3 metres/second) are too low for most 
+wind-based power-generation technologies, although wind energy has been 
+used for a pilot power-generation project at Temaruru in Rusape and for water 
+pumping at various sites around the country. 
+Exploration of oil in the Zambezi basin was carried out by Mobil in the late 
+1980s, covering Mana Pools, Kanyemba, Bumi Hills, Kariba, Mhangura, Mount 
+Darwin, Binga, Hwange, Victoria Falls and Kamativi. 
+Uranium and geothermal energy resources exist but need more exploration 
+work to quantify. Uranium deposits are found in Kanyemba and geothermal 
+energy resources occur in Binga and Hwange. 
+ 
+3. INSTITUTIONAL ARRANGEMENTS AND GOVERNANCE 
+The Ministry of Energy and Power Development has overall responsibility for 
+energy issues in Zimbabwe. The Ministry’s terms of reference include policy 
+formulation, performance monitoring and regulation of the energy sector, as 
+well as research, development and promotion of new and renewable sources of 
+energy. 
+ The Ministry supervises and oversees the performance of state-owned 
+enterprises – the Zimbabwe Electricity Supply Authority (ZESA), the 
+National Oil Infrastructure Company (NOIC), Petrotrade, and the Rural 
+Electrification Agency (REA) – as well as Independent Power Producers 
+(IPPs) such as Rusitu Power Corporation. 
+ The Ministry, in conjunction with the Zambia Ministry of Energy and established by parallel legislation in Zimbabwe and Zambia under the 
+Zambezi River Authority Act to operate, monitor and maintain the Kariba 
+Dam complex and any other dams on the Zambezi River between the two 
+countries. 
+ The Ministry co-operates in energy issues with international and regional 
+organisations, including the Southern African Development Community 
+(SADC), the Common Market for Eastern and Southern Africa (COMESA), 
+and the African Energy Commission (AFREC), among others. SADC 
+coordinates regional cooperation and regional integration through the 
+SADC Energy Ministers’ Forum and the SADC Task Force of Officials. 
+Regional energy trade is carried through the Southern African Power 
+Pool, whose coordination centre is in Harare. 
+4. OPPORTUNITIES IN THE ENERGY SECTOR 
+The opportunities that exist in the energy sector include: 
+ The existence of abundant energy resources (e.g. biomass, coal, CBM, 
+solar energy) in the country. 
+ The existence of land and a climate favourable to the growth of energy 
+crops. 
+ Increased energy demand in the region.
+ Government’s decision to diversify sources of energy.
+ The existence of high-quality skills that can be harnessed to serve 
+energy-sector requirements. 
+ The availability of technologies such as coal-to-liquid conversion on the 
+international market. 
+ Opportunities for regional cooperation programmes (SADC, COMESA, 
+AFREC, etc.). 
+5. THE NEED FOR A NATIONAL ENERGY POLICY 
+Energy policy plays a critical role as it provides the impetus for the production economy, and energy activities relate to both supply and demand. Energy is 
+crucial to economic and social development, and to the alleviation of poverty. 
+Zimbabwe is party to a number of conventions and agreements at a global 
+level. Globalisation, the new international environmental agenda and market 
+reforms are some of the new developments of recent years. Therefore 
+Zimbabwe needs an energy policy that learns from, and takes advantage of, 
+these emerging international developments. 
+6. GENERAL POLICY GOALS AND OBJECTIVES 
+6.1. GUIDING PRINCIPLES 
+The policy framework of the NEP is based on generally accepted principles that 
+can be summarised by the following ‘Five As’, which address the need for 
+energy services to be applicable, acceptable, affordable and available, with 
+clear accountability for each policy and programme. 
+a) Applicability – this is the principle that ensures the responsiveness of 
+energy policies and programmes to stakeholder needs and expectations. 
+Energy is not demanded for its own sake but as a means for enhancing 
+economic productivity and quality of life. The goals and objectives of 
+energy policies and plans must be focussed on the social and economic 
+applications of energy. The different energy resources and technologies 
+should be considered in relation to their applicability to the end-uses. The 
+assessment of demand must include both the extrapolation of historical 
+trends and scenarios for the transformation of society and the economy. 
+b) Acceptability – this is the principle that ensures that the production and 
+use of energy services is in accordance with acceptable standards. The 
+technical quality and the social and environmental sustainability of energy 
+products and services determine their acceptability to local and 
+international stakeholders. There is global consensus on the need to is used to benchmark standards of safety, reliability, security, efficiency 
+and the acceptable environmental and social impacts of energy production, 
+transportation, distribution, supply and use. Sustainability requires energy 
+efficiency and demand-side management to be embedded in all energysector strategies. The social impacts of energy on women and the girl-child 
+are of particular interest, as they bear the burden of providing the 
+country’s largest energy resource – wood fuel. 
+c) Affordability – this is the principle that addresses the gap between 
+policy rhetoric and reality. Energy pricing must be both cost-reflective 
+and competitive in order to balance the need for investment viability and 
+customer affordability. Cost-reflectivity assumes the adoption of least-cost 
+energy-sector strategies and master plans, the regulation of investment 
+returns and cost of service, and the effective targeting of subsidies. 
+d) Accountability – this is the principle that addresses the need for every 
+policy and programme to have someone accountable for development, 
+monitoring and implementation. It is critical that there are clear 
+institutional roles and responsibilities to ensure accountability for all energy 
+products and services and to avoid or minimise the conflicts of interest 
+inherent in policy-making, policy-monitoring and the delivery of energy 
+services. 
+e) Availability – this is the principle that addresses the key energy policy 
+outcome, which is to reduce dependency on traditional energy services 
+by increasing the availability of modern energy services. Consistent with 
+the focus on applications, the availability of energy services refers to a 
+portfolio of modern energy services that require the least cost to fulfil the 
+different light, heat and power end-uses. The policies must ensure that the 
+state of the market and the infrastructure is adequate for the production, 
+transportation, delivery and utilisation of energy services. 
+‘Access’ or ‘accessibility’ is sometimes used as one of the NEP principles. It is, acceptability, availability and affordability of the energy service and hence is 
+embedded in the principles highlighted above. Statistics for energy access can 
+be misleading because access is sometimes confused with availability. 
+Availability is a necessary but insufficient condition for access. Power lines pass 
+close to the premises of many rural customers, but they have no access to 
+electricity because of affordability constraints. 
+The development of Integrated Energy Resource Master Plans through 
+stakeholder participation is the principal strategy for ensuring the practical 
+application of the five principles. 
+6.2. NEP GOALS AND OBJECTIVES 
+The goal of the NEP is to provide a framework for the exploitation, distribution 
+and utilisation of energy resources in fulfilment of the following broad policy 
+objectives and principles: 
+1. Increase the access of all sectors of the economy to affordable energy 
+services through the optimal use of available energy resources and the 
+diversification of supply options (applicability, availability, acceptability 
+and affordability principles).
+2. Stimulate sustainable economic growth by promoting competition, 
+efficiency and investment in the sector (applicability and accountability 
+principles).
+3. Improve the institutional framework and governance in the energy sector to 
+enhance efficiency and the delivery of energy services (accountability 
+principle).
+4. Promote research and development in the energy sector (applicability 
+principle).
+5. Develop the use of other renewable sources of energy to complement 
+conventional sources of energy (applicability and acceptability 
+principles).7. SUPPLY-SIDE POLICY MEASURES 
+7.1. POLICY OBJECTIVE 
+The main objective is to create and promote a conducive environment for 
+energy-sector players to be able to identify and develop opportunities for 
+energy supply that promote sustainable development. 
+7.2. ELECTRICITY SUB-SECTOR 
+7.2.1. Background 
+There is a net deficit in the supply of electrical power in Zimbabwe. The power 
+generated from Kariba, Hwange, Harare, Bulawayo, Munyati and Harare power 
+stations and IPPs is not sufficient to meet current demand. The transmission 
+and distribution network needs to be refurbished since it is obsolete. 
+The electricity supply industry comprises three distinct market segments: 
+generation; transmission and bulk supply; and distribution and retail supply. 
+The generation and retail supply are competitive businesses, while transmission 
+and distribution are natural monopolies. Because of the small size of the 
+industry in Zimbabwe, generation and retail competition is for the market 
+rather than within the market. 
+Traditionally these three business segments have been owned and operated by 
+a single, vertically integrated company. However, in recent years these 
+segments have been unbundled and are now operated as separate businesses, 
+either under combined ownership or under separate ownership. 
+The electricity energy market in Zimbabwe has been developed and operated 
+by local and central government from the early days of the electricity supply 
+industry in the countryAt independence in 1980 Zimbabwe inherited an organisations: the Central African Power Corporation (CAPCO) (generation, 
+transmission and bulk supply); the Electricity Supply Commission (ESC) (subtransmission, distribution and retail supply outside the four municipal areas); 
+distribution and retail supply for the cities of Harare (Harare Municipality 
+Electricity Department), Bulawayo (Bulawayo Municipality Electricity 
+Department), Gweru (Gweru Municipality Electricity Department) and Mutare 
+(Mutare Municipality Electricity Department). 
+These utilities were managed under different Government departments. CAPC, 
+the successor to the Federal Power Board, was a statutory corporation, jointly 
+owned by the Governments of Zambia and Zimbabwe, that reported to a Higher 
+Authority for Power (now called a Council of Ministers) comprising equal 
+numbers of ministers from Zambia and Zimbabwe. The ESC was a parastatal 
+that reported to the department or ministry responsible for power. The four 
+municipal electricity undertakings were part of local authorities under the 
+minister responsible for local government. 
+The Electricity Act of 1985 [Chapter 13:05] and the Zambezi River Authority 
+Act of 1987 [Chapter 20:23] provided for the amalgamation of these utilities 
+into a vertically integrated parastatal called the Zimbabwe Electricity Supply 
+Authority (ZESA). This restructuring was to improve governance of the sector at 
+government level, achieve economies of scale, and provide for a uniform tariff 
+structure. Although these objectives were achieved, there was no significant 
+investment to match the growth in demand. ZESA’s main investments were two 
+interconnections with Cahora Bassa and South Africa, which have provided 
+much-needed imports to compensate for the lack of investment in local 
+generation. 
+To implement reforms, the Electricity Act of 2002 [Chapter 13:19] and the 
+Electricity Amendment Acts of 2003 and 2007 restructured ZESA into a holding 
+company, ZESA Holdings, a state-owned, vertically integrated utility with four 
+subsidiary companies: the Zimbabwe Power Company (power generation); the 
+ZibbEliiTiid DiibiC(ZETDC) Enterprises (manufacturing and support services, mainly for ZETDC and, to a 
+lesser extent, the general public); and Powertel (telecommunications support, 
+mainly to ZETDC and the general public). 
+The Rural Electrification Fund Act [Chapter 13:20] provided for the unbundling 
+of ZESA’s rural electrification functions. The Fund is managed by a Board that 
+operates as the Rural Electrification Agency. This is the only function of the 
+former parastatal that has been physically unbundled. 
+The solution to the challenges facing the electricity sector lies in analysing 
+these electricity-sector reforms and addressing the shortcomings identified. 
+a) The Initial phase of reform is to have a well-developed policy and 
+regulatory framework that takes account of international best practice 
+but with modifications to suit local realities: the best practice at sector 
+level is to separate the policy-making, policy-monitoring and policyimplementation functions and vest these in, respectively, a ministry of 
+energy, an independent regulator, and public/private-sector service 
+providers. At utility level the best practice is to unbundle into at least 
+three separate business segments: Generation, Transmission, and 
+Distribution & Retail. 
+b) The Second phase of reform is to unbundle the accounting in order to 
+set up the desired electricity market structure and test it: the policy and 
+regulatory framework is applied to the existing utility before it is 
+physically unbundled. To facilitate regulation and prepare for transition 
+to the next phases of reform, the utility should be required by law to 
+create separate accounting units for generation, transmission network, 
+system operations, market operations, bulk supply, distribution network 
+and retail supply, all of which do business at arm’s length. In each 
+business, the accounts for the regulated and non-regulated activities 
+must be separated. c) The Third phase of the reform is physical unbundling on the basis of 
+operational efficiency and financial viability: the policy-makers and 
+regulator undertake an appraisal of the performance of the accounting 
+unbundling in order to determine the feasible physical unbundling model 
+for the local realities. Experience has shown the need to have only one 
+transmission network, system and market operator, and several 
+generation, distribution and retail operators in order to avoid the abuse 
+of market power, to extract efficiency gains, and to distribute these 
+gains equitably. The availability of management and professional skills, 
+technology and capital are some of the local realities to take into 
+account. In many developing countries there is also a need to create a 
+‘special purpose vehicle’ to manage legacy liabilities of the electricity 
+sector. 
+d) The Final phase of reform is privatisation in order to expand the investor 
+base and to extract further efficiencies. The regulator must now 
+coordinate with the competition agency to regulate the sector, in 
+particular to prevent the abuse of market power: many sector reforms 
+have suffered through the premature introduction of privatisation 
+because of a failure to realise that its purpose is simply to build upon 
+public-sector investment and operational efficiencies introduced through 
+earlier policy and regulatory reforms. 
+7.2.2. Challenges 
+ Inability to meet demand. 
+ Operational inefficiencies and poor financial performance. 
+ Poor capital base and inadequate resources for infrastructure and 
+equipment maintenance, leading to supply disruptions. 
+ Non-cost-reflective tariffs, leading to low investment and poor service 
+delivery. 
+ Low investment.  Under-funding of the Rural Electrification Programme owing to 
+uneconomic tariffs and the slow energy uptake by target communities. 
+ Idle/underutilised infrastructure (e.g. small thermals). 
+ Vandalism of infrastructure. 
+ Old electricity infrastructure. 
+ Brain drain and loss of experienced/qualified personnel. 
+ Inadequate supplies of foreign currency for power imports. 
+7.2.3. Policy Objectives 
+ Ensure the availability, affordability and accessibility of electricity to all 
+sectors of the economy. 
+ Provide a platform for adequate and reliable access to electricity to all 
+at competitive prices. 
+ Allow access to IPPs and public–private partnerships, public–private 
+associations and other joint ventures. 
+7.2.4. Policy Measures 
+ Classify the vandalism of transmission and distribution systems as 
+economic sabotage. 
+ Encourage the generation of electricity from biomass cogeneration and 
+mini-hydro projects. 
+ Facilitate grid extension that will unlock new supply opportunities in 
+remote areas. 
+ Adopt a pricing mechanism for electricity that is cost-reflective. 
+ Adopt energy efficiency on the supply side. 
+ Promote regional and international integration and cooperation, e.g. 
+increased participation in the short-term energy market to address 
+critical power shortages. 
+ Improve investment opportunities to attract partnerships and mitigate  Observe environmental regulations in all power-sector projects. 
+ Capacitate the Ministry, ZERA and ZESA to function efficiently in the 
+reformed electricity market 
+ Improve service delivery and revenue collection through smart and prepayment meters.
+7.2.5. Strategies 
+In line with international best practice, the Ministry will complete the first 
+three phases of the electricity-sector reform programme by the end of 2012. By 
+the end of 2013, the Ministry will complete the final phase. This exercise 
+requires the amendment of the Electricity Act to remove the restriction on the 
+privatisation of the transmission and distribution businesses of ZESA in order to 
+create opportunities for the involvement of local private-sector investors and 
+to improve efficiency through fairness and competition. 
+The Ministry will unbundle the transmission and distribution business by 2013 in 
+order to create the bulk-supply market that will facilitate and support IPP 
+investments and serve as the basis for the transition to a more competitive 
+wholesale market in future. Accounting unbundling will be achieved by the end 
+of 2012 and physical unbundling by the end of 2013. 
+As part of the electricity-sector reforms, a National Grid Services Company will 
+be formed as a successor to ZESA Holdings and will assume responsibility for: 
+legacy debt; transmission, system and market operations; bulk supply; regional 
+cooperation; and technical advisory services to Government for system 
+development planning, which is the key policy tool for the orderly and leastcost development of the power sector. 
+The Ministry, with advice from ZERA and ZESA, will prepare a short-term to 
+medium-term plan to reduce the impact of load-shedding during the period 
+2012 to 2015, pending the development of new power-generation capacity. Government will co-ordinate the electrification programme, including the 
+following activities: setting realistic electrification targets; determining 
+allocation criteria and priority areas for electrification; ensuring the allocation 
+and management of funds; financing and subsidising electrification projects; 
+and determining the appropriate mix between grid and off-grid technologies. 
+Government will support the establishment and implementation of sensitive 
+but firm strategies to deal with non-payment, energy theft, and vandalism of 
+infrastructure so as to minimise losses. 
+Government will continue to facilitate the improvement of the electricitysupply infrastructure and thus improve the energy-supply service. 
+7.3. FOSSIL FUELS SUB-SECTOR 
+7.3.1. Background 
+7.3.1.1. Upstream Petroleum Sub-sector 
+The value chain for the petroleum industry comprises: exploration; production 
+or drilling for crude oil or natural gas; refining; importation; transportation, 
+storage and handling; and the wholesale and retail market. The upstream 
+sector encompasses all activities from exploration to refining, while the 
+downstream sector comprises the value chain from importation to the retail 
+market. 
+In the early 1960s the country decided to construct a pipeline from the port of 
+Beira in Mozambique to transport crude oil to a refinery at Feruka near Mutare. 
+The refinery is no longer operational, and the pipeline is now used to transport 
+imported refined product. The country has not yet discovered oil or natural gas 
+after the exploration undertaken in the Zambezi Valley. Consequently, current 
+energy policies and legislation does not focus on the upstream sector. There is no specific institution with the responsibility to coordinate energy 
+exploration in order to establish bankable resource levels. Exploration for 
+energy minerals – mainly oil, natural gas and coal bed methane – has been 
+undertaken by potential investors under special mining grants in accordance 
+with the Mines and Minerals Act [Chapter 21:05]. Although mineral exploration 
+and mining activities fall under the oversight of the Ministry of Mines in terms 
+of the Act, it is important that there are legal provisions that empower the 
+Minister of Energy and Power Development to have a role with respect to the 
+exploration, development and utilisation of energy minerals for energy 
+development. 
+The upstream activities require technology, skills and capital outlays that only 
+large oil corporations are able to provide. It is therefore necessary to exempt 
+this sector from restrictive investment regulations but at the same time to 
+encourage public–private sector partnerships. 
+7.3.1.2. Downstream Petroleum Sub-sector 
+The main petroleum products on the market in Zimbabwe are diesel, gasoline 
+(petrol), kerosene (paraffin), aviation fuel (jet-engine fuel and piston-engine 
+fuel), LPG and lubricants. The country currently imports 540 million litres of 
+petrol and 630 million litres of diesel per year. In 1998, at the peak of the 
+country’s economic production, there was a daily consumption of 3 million 
+litres of diesel, 2 million litres of petrol, 0.6 million litres of jet fuel and 0.2 
+million litres of paraffin. 
+The petroleum sector was deregulated in August 2003. Prior to this the 
+downstream petroleum sector was dominated by six players: NOCZIM, the 
+state-owned oil company that was responsible for bulk procurement, 
+transportation, storage and handling and also acted as a regulator; and the ‘big 
+five’ multinational companies that were involved in transportation, storage and 
+retail operations – TOTAL, SHELL, BP, MOBIL and CALTEX. When these players 
+started to experience challenges in providing sufficient fuel to the market, Royal Oil, Country Petroleum, Wedzera Petroleum, Comoil, Exor Petroleum and 
+Engen. 
+Upon deregulation, the Government took over the regulatory function and 
+licensed many more companies, thereby creating a very competitive market. 
+Some of these companies could not survive the competition and fell by the 
+wayside while others thrived. After removing its regulatory functions, the 
+Government decided to unbundle the state oil company, NOCZIM, into a trading 
+company, Petrotrade, and an infrastructure company, NOIC. 
+The deregulation of the petroleum industry has created a very competitive 
+market, which has so far managed to ensure the provision of petroleum 
+products at regionally competitive prices. 
+Infrastructure: Many market participants are traders using facilities that have 
+been developed by others. There is a need for investment to expand 
+transportation and storage facilities, including extending the infrastructure to 
+serve rural areas. Current storage facilities have a capacity of only 500 million 
+litres, which is less than three months of peak consumption, and there are less 
+than 500 service stations, most located in urban areas. The existing pipeline 
+can transport 120 million litres per month, which can be increased by 50 per 
+cent through increasing pumping capacity. It is already operating at nearly 110 
+million litres per month, which is close to its current maximum capacity. For 
+the medium term, a second pipeline is needed, which could be designed for 
+possible extension into neighbouring Botswana, Zambia and southern DRC. 
+Government can no longer be expected to undertake any major investment 
+beyond the maintenance of infrastructure it has already developed. It is now 
+time for the oil companies to coordinate their efforts to deal with the 
+infrastructure challenges. 
+7.3.2. Challenges 
+ The capacity of the pipeline is no longer adequate to meet demand Rail and road infrastructure have not been adequately funded or 
+maintained over the years to cater for the easy movement of liquid 
+fuels. 
+ Monitoring and maintaining product quality. 
+ No clear regulatory framework to govern upstream activities. 
+ Low volumes of strategic reserves. 
+ Lack of buffer stock owing to a shortage of funding. 
+7.3.3. Policy Objectives 
+ Ensure the security of product supply. 
+ Ensure the viability of the industry. 
+ Ensure that buffer stock is in the pipeline. 
+ Ensure the optimal use of infrastructure. 
+ Ensure the efficient use of fuel across the value chain. 
+ Build a national strategic reserve. 
+ Ensure the delivery of a quality and safe product. 
+7.3.4. Policy Measures 
+ Enhance security of supply through the diversity of fuel-supply sources. 
+ Increase pipeline capacity and explore the construction of a second 
+pipeline. 
+ Reduce the fuel import bill by import substitution through the 
+incorporation of biofuels and coal-conversion technologies, e.g. the 
+expansion of ethanol production for blending with petrol. 
+ Centralise the procurement of fuel to achieve economies of scale. 
+ Optimise the use of transport infrastructure to minimise supply costs. 
+ Promote the participation of indigenous entrepreneurs in the fuel 
+industry.
+ Ensure that petroleum products meet international specifications/  Promote investment in the rural areas. 
+ Promote regional and international integration and cooperation.
+7.3.5. Strategies 
+7.3.5.1. Upstream Petroleum Sub-sector 
+Government will ensure that there is a clear regulatory framework to govern 
+upstream activities. There should be a licensing regime that defines the rules 
+for the granting of exploration licenses and specifying the standard terms and 
+conditions for the sharing of any production and the payment of royalties in 
+case of discoveries. 
+The proposed Energy Management Act will provide the legal authority for the 
+Minister of Energy and Power Development to play an oversight role in the 
+exploration, development and management of the utilisation of energy 
+minerals for energy production. 
+Because of the special expertise and technology required for upstream 
+petroleum activities, Government will promote public–private partnerships in 
+which political risks are assumed by the state and commercial risks are 
+assumed by the private sector. Consistent with the policy on mining 
+development, the following provisions will apply to public–private partnerships 
+for the exploration and development of petroleum products: 
+a) Government will hold at least 51 per cent shareholding in new mining 
+projects, which shall be the minimum assumed value of the mineral 
+resource. 
+b) The development partner’s shareholding will be up to 49 per cent.
+c) The development partner will provide debt for development. Dividends 
+will be declared when the debt has been repaid or substituted. 7.3.5.2. Downstream Petroleum Sub-sector 
+Government will increase the pumping capacity of the pipeline in phases to 
+320 million litres per month from the current 120 million. Booster pumps will 
+be installed to achieve the 320 million litre capacity. 
+The Pipelines Act [Chapter 13:08] is designed to facilitate public–private 
+partnerships for pipeline development on a BOT (build–operate–transfer) or 
+BOOT (build–own–operate–transfer) basis. Government will construct a second 
+pipeline and additional storage facilities using the BOT or BOOT route. 
+The existing port facilities at Beira are limited, and there is need to consider a 
+deep port such as Matola. Government will consider the rail route and rolling 
+stock for Matola for commercial operation by 2013. 
+Through ZERA, Government will maintain the existing cost-reflective pricing to 
+ensure investment viability. Consolidation in the industry could help in 
+creating economies of scale for infrastructure development. 
+Strategic Reserves: A 90-day fuel cover will be maintained by the government. 
+The funding for the strategic reserves will be covered by the strategic-reserve 
+levy for the next five years. In the long term, the NOCZIM debt-redemption 
+levy will be converted into a fund to help fund strategic reserves after the 
+liquidation of NOCZIM debts. 
+Through ZERA, Government will liaise with oil companies so that they maintain 
+a 30-day strategic reserve. 
+Product Quality: On several occasions, substandard fuel imports have come into 
+the country. Government, through ZERA, will immediately purchase and deploy 
+mobile laboratories for conducting on-site product-quality checks. 
+Government will promote the use of biofuels in their pure form or blended with 
+petrol or diesel so as to reduce the country’s import bill while at the same time 
+reducing greenhouse-gas emissions. 7.4. COAL AND CBM SUB-SECTOR 
+7.4.1. Background 
+Coal is the locally produced fossil fuel that has been exploited for electricity 
+generation, industrial heating and agricultural crop-processing needs, 
+especially the curing of tobacco. 
+The coal market is dominated by the Hwange Colliery Company, in which the 
+government is the biggest shareholder. In recent years, a number of small-scale 
+mining companies have entered the market. Many people have also been given 
+special grants, but they have no expertise or capital to undertake exploration 
+that will lead to the meaningful development of the resources. 
+At its peak, the economy consumed 4.5 million tonnes of coal per year. About 
+3.5 million tonnes was used for electricity generation, 0.5 million for coking 
+coal, and the remainder for industrial heating and crop processing, especially 
+tobacco curing. The market is currently down to 3 million tonnes, used mainly 
+for power generation. 
+In addition, the country is believed to be endowed with vast amounts of coal 
+bed methane, which could be commercially exploited for power production and 
+used as feedstock for a petrochemical industry. Investment in exploration has 
+so far been lacking, and this potential energy resource remains unexploited. 
+7.4.2. Challenges 
+ Lack of funding and technology, resulting in the undercapitalisation of 
+exploration and extraction. 
+ Lack of clear principles for the pricing of coal. 
+ Limited capacity of the railways to transport coal to centres of demand. 
+ Lack of technical capacity. 
+ A weak distribution network for coal.  Institutional arrangements for issuing grants. 
+7.4.3. Policy Objectives 
+ Fully explore coal and CBM resources. 
+ Fully exploit coal and CBM in a sustainable manner. 
+ 
+7.4.4. Policy Measures 
+ Ensure adequate and reliable supplies of coal in a cost-effective and 
+sustainable manner. 
+ Ensure environmentally friendly exploitation methods. 
+ Enhance competition within the sub-sector. 
+ Ensure the smooth administration of energy minerals. 
+ Explore the techno-economic feasibility of new coal technologies such as 
+gasification and coal-to-liquid conversion. 
+ Encourage economic pricing methods. 
+ Encourage investment in the exploration and exploitation of CBM 
+resources. 
+ 
+7.4.5. Strategies
+Government, through ZERA, will expedite the declaration of coal and CBM as 
+energy sources and establish clear pricing principles in order to guide investors 
+and customers. It is essential that the price is related to both quantity and 
+quality, in particular to the energy content. The proposed Energy Management 
+Act will include provision for the involvement of the Minister and ZERA in the 
+application process for special grants for energy minerals. 
+Government will explore the possibility of investing in a coal terminal in 
+cooperation with Mozambican authorities to enable entry into the coal export 
+market in a significant way. The export of coal should, however, be 
+hd ith tiit ibltht tiThe proposed Exploration Company, if and when created, should carry out 
+extensive exploration to establish bankable coal and CBM reserves. 
+Government will seriously consider the potential for the conversion of coal into 
+liquid fuel because this is likely to be a major stimulus for the growth of the 
+local coal industry. To this end, the Ministry and the proposed Energy Research 
+Council will address the need to develop a coal industry that is focused on 
+using clean-coal technologies for power generation and for liquid-fuel and gas 
+production. 
+7.5. RENEWABLE ENERGY SUB-SECTOR 
+7.5.1. Background 
+7.5.1.1. Biomass 
+Biomass, in the form of wood fuel, provides the bulk of total energy supply, 
+and most rural areas are facing fuel-wood shortages as a result of agricultural 
+land use and unsustainable harvesting. Demand for wood fuel already exceeds 
+supply in Manicaland, Mashonaland East, the Midlands and Masvingo provinces, 
+which are heavily populated. Mashonaland Central and Matabeleland North are 
+fast reaching the same situation. 
+It is estimated that more than 6 million tonnes of wood fuel are consumed 
+annually when the sustainable output of natural forests is 4.6 million tonnes. 
+This translates to a loss of 330,000ha of forest area, or over 60 million trees 
+per year. At present the annual tree-planting rate is only 10 million trees. 
+For the foreseeable future, wood fuel will continue to be used for cooking and 
+space heating by rural and low-income urban households. It is therefore 
+necessary for Government to establish an institutional and funding framework 
+for developing and implementing strategies to deal with the wood fuel crisis. 
+Cil fi81000 hf i24000 hf ld 70,000 tonnes and has potential for the generation of 150MW power and the 
+creation of a more formalised wood fuel and charcoal market. Three companies 
+– Allied Timbers, Border Timbers and The Wattle Company – generate over 
+40,0000m3 of pine waste per year.9
+Bagasse from sugar-cane processing has been used for electricity generation in 
+the country for many years. The expansion of sugar-cane plantations for 
+ethanol production presents an opportunity for expanding the use of bagasse 
+for the generation of electricity. Hippo Valley and Triangle sugar estates 
+generate 72.5MW for their own consumption and can sell up to 10MW of this to 
+the grid. Additional bagasse is coming on stream in the Chisumbanje and Middle 
+Save areas, where sugar plantations are being developed for ethanol 
+production. 
+7.5.1.2. Hydropower 
+Large-scale hydropower on the Zambezi and small-scale hydropower on internal 
+dams and perennial rivers represent a significant renewable energy resource 
+for meeting local and regional electricity demand. Regional cooperation is 
+essential for large-scale hydropower development, where there is excellent 
+potential for export to countries that have the demand but not the hydro 
+resources, such as South Africa and Botswana. 
+Existing in-land dams have an estimated 20MW potential, and run-of-river 
+schemes could generate 150MW. Proposed dams have a potential of 260MW, 
+and the total energy potential is estimated to be between 90 and 120GWh/a. 
+More accurate figures require feasibility studies that take into account the fact 
+that the inland dams are primarily used for irrigation and drinking water. 
+Consideration can be given to simplified regulatory requirements and feed-in 
+tariffs for small-scale hydropower. This is a resource that can take advantage 
+of carbon funding. 7.5.1.3. Liquid Biofuels 
+In order to address the challenges of foreign-currency shortages for the import 
+of petroleum products, the country introduced 15–20 per cent ethanol blending 
+for petrol. This was based on production in the Lowveld (Triangle and Hippo 
+Valley) of 40 million litres a year. In recent years the blending had been 
+suspended. A new company, Green Fuel, has introduced 10 per cent ethanol 
+blending as an initial phase to restore previous blending capacity and to expand 
+production in the Chisumbanje and Middle Save areas to more than double their 
+previous capacity. 
+A subsidiary of the Reserve Bank of Zimbabwe built a 100-million-litre-a-year 
+biodiesel plant. Unfortunately, the country has not been able to produce 
+sufficient feedstock to satisfy both food and fuel production requirements. As 
+food needs take precedence over fuel, the Government has decided to promote 
+the use of non-food crops such as jatropha and castor beans as feedstock for 
+biodiesel. 
+7.5.1.4. Animal Draught Power 
+Most peasant agriculture in Zimbabwe relies on animal draught power. The 
+Government has recognised the need for farm mechanisation, especially 
+following the land-reform programme, which has resulted in many peasant 
+farmers being allocated land that is too large to be farmed using cattle and 
+donkeys. 
+7.5.1.5. Solar 
+The country’s solar energy potential of 16–20MJ/m2/day is greatly 
+underexploited. At 3,000 hours a year, this can produce 10,000GWh of 
+electrical energy per year. Donor-funded solar PV (photovoltaic) installations 
+have been installed in many homes, businesses, schools and health centres 
+since the launch of the Global Environment Fund initiative in the early 1990s. 
+In addition to the Rural Electrification Agency, there are a lot of small and Solar lanterns have a great potential in improving lighting for rural households 
+and institutions; prices range from US$10 to US$25, depending on their size. 
+With local assembly, these prices can be reduced even further. 
+Solar water heating for urban households and businesses could save significant 
+amounts of fossil-fuel electricity. Its potential is greatly under-exploited 
+because, so far, only a few private-sector businesses are in the market. It is 
+estimated that there are 250,000 to 300,000 geysers in households. If all these 
+are retrofitted with solar collectors, the saving in peak demand could be as 
+much as 350MW to 500MW. Industries could also save a lot of power by using 
+solar for pre-heating water. 
+The major challenge with solar is the high up-front cost, which many users 
+cannot afford. Several innovative solutions for subsidising access costs have 
+been used elsewhere and can be tried here. Penalties for energy inefficiency 
+can assist in funding subsidies for a solar geyser roll-out programme. Cost 
+recovery can also be made over an extended period using electricity-bill 
+savings. Local manufacture of imported components can help to lower costs. 
+The power utility can fund this as a DSM (demand-side management) 
+investment. Carbon credits are another source of funds. 
+7.5.1.6. Other Renewables 
+Wind speeds of 3 metres per second are too slow for significant power 
+generation but can be used for water pumping. Geothermal potential of about 
+50MW is estimated. There is significant but unquantified potential for biogas 
+production from municipal sewage-treatment works and waste dumps. Fuel 
+cells and lithium battery manufacture are other renewable energy technologies 
+that can be investigated and promoted if feasible for the local market. Solar 
+cooking, solar crop-drying and efficient wood fuel utilisation are other 
+renewable options that are still at research and development stage. 
+NEP stakeholder consultative workshops highlighted the need to have end-userd
+ih d dlt bfllt f tidhave not yet been commercial successes as they do not fulfil stakeholder 
+expectations and needs. 
+7.5.1.7. Rural Energy 
+The Rural Electrification Fund has provided a successful model for promoting 
+and funding renewable-energy projects for electrification. By extending the 
+mandate of the Fund to address all rural energy needs, the country will have 
+the institutional framework and funding for all other renewable energy sources. 
+The Rural Energy Fund to be created will be funded by levies that are allocated 
+into separate accounts: 
+a) The Electrification Account, with respect to levies and other fees 
+charged on electricity services; this will continue to be used for 
+electrification projects. 
+b) The General Energy Account, with respect to levies and other fees 
+charged on non-electricity licensees and customers; this will be used to 
+support all non-electricity rural-energy-service projects and 
+programmes. 
+ZERA is required to appropriate to the Rural Electrification Fund any surplus 
+from its electricity account and to invest surplus funds from the petroleum and 
+general energy accounts as it deems appropriate. It is recommended that the 
+non-electricity surplus funds be appropriated to the General Energy Account of 
+the Rural Energy Agency. 
+The Rural Energy Agency that will be established as the successor to the 
+electrification agency will become the coordinating agency for nongovernmental organisations (NGOs), community-based organisations (CBOs), 
+and other stakeholders currently involved in implementing energy projects on 
+an ad hoc and uncoordinated basis. The Agency’s role is to develop rural energy 
+master plans, fund projects that fulfil energy master-plan objectives, and 
+provide training and establish quality standards to be followed and enforced 7.5.2. Challenges 
+ Lack of aggressive promotion in households and commercial market. 
+ Uncoordinated and unfocused research. 
+ Poor back-up service, especially in remote rural areas. 
+ Limited local experience and expertise with some technologies. 
+ Resistance to new technologies by end users. 
+ High up-front costs for the promotion and adoption of the technologies. 
+ Lack of awareness on available options. 
+ Inadequate funding for the sub-sector. 
+ Lack of expertise to adopt and adapt to foreign technologies. 
+7.5.3. Policy Objectives 
+ Increase usage of and investment in renewable energy.
+ Promote renewable energy as an environmentally friendly form of 
+energy.
+ Diversify supply options.
+ Increase access to modern energy in rural areas.
+7.5.4. Policy Measures 
+ Adopt a long-term, government-driven, renewable energy technologies 
+(RETs) programme, which encourages IPPs and public-private 
+partnerships to harness sustainable RETs in Zimbabwe. 
+ Institute innovative funding mechanisms and tap into financing 
+opportunities such as Clean Development Mechanisms, feed-in tariffs, 
+and micro-credit institutions for RETs. 
+ Institute RETs-sustainable capacity-building programmes. 
+ Raise awareness about the benefits and opportunities of renewable 
+energy. 
+ Encourage local production and the commercialisation of technologies.  Strengthen the institutional framework for research and development 
+and the promotion of renewable energy technologies. 
+ Promote investment into stand-alone solar energy systems to cater for 
+rural communities. 
+ Promote the efficient use of biomass for cooking. 
+ Encourage the use of waste biomass for energy purposes. 
+ Develop incentives for investment in renewable energy, e.g. subsidies 
+and tax concessions. 
+7.5.5. Strategies 
+7.5.5.1. Biomass 
+It will be the mandate of the proposed Rural Energy Fund to develop and fund 
+strategies for resolving the wood fuel crisis in rural areas. In the meantime the 
+Ministry will facilitate the implementation of the following short-term 
+measures: 
+a) Support the Forestry Commission to increase the tree-planting rate from 10 
+million to 20 million trees per year by 2015 and to promote rural fencing 
+using live trees. 
+b) Support end-user-focused research, and awareness and education 
+programmes, to increase the efficiency of wood fuel use. 
+c) Improve collaboration with the Ministry of Environment and Natural 
+Resources (including the Environmental Management Agency, EMA, and the 
+Forestry Commission), the Ministry of Agriculture, Mechanisation and 
+Irrigation Development (including the Department of Agriculture and Rural 
+Extension, AREX), the Ministry of Local Government, Rural and Urban 
+Development, traditional leadership (Rural District Councils, chiefs, 
+headmen, village heads) and the Ministry of Home Affairs (Police) to 
+enforce existing and proposed regulations against the destruction of natural institutions who make heavy use of wood fuel to establish and maintain 
+woodlots, penalties for the unauthorised cutting of trees, etc. 
+d) Promote the use of alternative heating and cooking fuels such as coal, solar 
+and biogas in rural households and institutions (boarding schools and 
+hospitals) and in rural commercial applications such as bakeries, brick 
+moulding and tobacco curing. 
+Government, through ZERA, will develop regulations and mechanisms such as 
+feed-in tariffs for approval by the Minister in order to promote the use of forest 
+residue and bagasse as significant fuels for electricity generation. This will be 
+done within a period to be advised to the Minister at the earliest opportunity. 
+7.5.5.2. Hydropower 
+The development of large-scale and small-scale hydropower, including run-ofriver schemes, is to be prioritised as a strategy for increasing the share of 
+renewable energy as required by the Energy Regulatory Authority [ERA] Act 
+[Chapter 13:23] and international obligations for environmentally sustainable 
+energy services. The following specific targets and projects will be pursued in 
+the short to medium term: 
+a) Government will ensure that, by 2020, large hydropower and run-of-river 
+schemes on the Zambezi contribute an additional 1,100MW and in-land 
+small-scale schemes about 150MW. This will require immediately action to 
+promote the proposed electricity-sector reforms such as creating a 
+multiple-buyer market for IPPs and investment incentives such as 50 per 
+cent reduction in taxes, licence fees and rates, which currently account for 
+an uncompetitive 20 per cent of investment costs. The Electricity Act allows 
+for a multiple-buyer market, but the current wholesale market policy, 
+adopted on the basis of a 2004 electricity pricing study, assumes a singlebuyer market. 
+b) Kariba South Extension, 300MW (financial closure by 2012 and c) Batoka, 800MW (financial closure by 2013 and commissioning by 2020). 
+d) Inland dams and rivers: Pungwe phase 1 (6MW by 2013) and phase 2 (18MW); 
+Tokwe Mukosi (12MW); Gairezi (30MW); Kondo (100MW). 
+7.5.5.3. Liquid Biofuels 
+To stimulate and sustain the development and expansion of biofuels the 
+Ministry will establish, by 2012, long-term targets and timeframes for 
+increasing the share of biofuels, in line with international best practice. In the 
+interim, the following guidelines are provided: 
+a) A minimum ethanol/petrol blend target of 20 per cent by 2015, and a 5 per 
+cent biodiesel blend by 2020. 
+b) Shift the focus from food crops (e.g. soya beans) to non-food crops (e.g. 
+jatropha) for the production of biofuels. 
+c) Promote out-grower schemes and mini-processing plants for smallholder 
+farmers. 
+d) Undertake research for the improvement of feedstock quality and yields and 
+processing technologies. 
+7.5.5.4. Animal Draught Power 
+In collaboration with the Ministry of Agriculture, Mechanisation and Irrigation 
+Development, the Minister will develop policies to address animal draught 
+power requirements as well as the transition to more extensive farm 
+mechanisation. This will be done at the earliest opportunity. 
+7.5.5.5. Solar 
+The Minister, through the proposed Rural Energy Agency and the power 
+utilities, will establish a fund to promote the use of solar energy as a shortterm to medium-term strategy to address the electricity crisis. The immediate 
+strategies and targets that can be implemented in the meantime are as a) Introduction of regulations by 2013 to mandate the installation of solar 
+geysers in all new homes; penalties in the form of higher electricity prices 
+or other methods can be imposed for non-compliance. 
+b) Provision of incentives and raising awareness of the benefits of retrofitting 
+solar collectors on existing geysers. 
+c) Promotion of other proven solar technologies such as solar water pumping 
+for off-grid borehole and river irrigation and solar PV-charged lights. 
+d) Promotion of technology transfer and the expansion of local manufacturing; 
+training of artisans and harnessing of the informal sector in the assembly 
+and installation of solar geysers and solar PV. 
+e) ZERA will establish cost-reflective renewable feed-in tariffs (REFIT) with 
+appropriate subsidy mechanisms and other incentives to promote grid and 
+off-grid power generation using solar and other renewable energy resources. 
+7.5.6. General strategies 
+The Ministry will initiate the process of developing a Rural and Renewable 
+Energy Act that will establish a Rural Energy Fund to be the successor to the 
+Rural Electrification Fund with an expanded mandate to promote the provision 
+of electricity and other modern energy services to rural areas using renewable 
+energy resources to the maximum extent possible. Levies raised from 
+electricity services will continue to fund rural electrification, while petroleum 
+and general energy levies will fund general energy projects and programmes. 
+The Fund will be managed by a Rural Energy Agency that will be a successor to 
+the Rural Electrification Agency. Pending the completion of these formalities, 
+the Ministry will use existing resources and institutions to extend the full range 
+of renewable-energy service technologies to rural areas. 
+The Minister will, in collaboration with the national designated entity for the 
+Clean Development Mechanism or similar scheme, promote the use of carbon 
+credits for eligible projectsZERA ill deelop and recommend to the Minister renewable energy resources. This will be done within a period to be advised to 
+the Minister. 
+The proposed Energy Research Council will promote focused research on the 
+use of renewable resources to meet end-user needs and expectations. 
+Educational programmes will be introduced at primary and secondary schools 
+to raise awareness on renewable energy. 
+7.6. NUCLEAR ENERGY SUB-SECTOR 
+7.6.1. Background 
+Zimbabwe is reported to have about 25,000 tonnes of uranium around the 
+Kariba and Kanyemba areas that can be exploited for power generation. 
+Nuclear energy is not currently being used to produce power in the country. 
+There has been a change in policy regarding nuclear energy the world over, 
+with many countries reviving their nuclear power programmes. Nuclear power 
+is a clean source of energy and the country should explore the possibility of 
+adopting this technology in the long term. 
+7.6.2. Challenges 
+ Actual quantities of the resource have not yet been determined.
+ Experts to exploit the technology are not available.
+ No legislation exists to support the technology.
+ There are no institutional arrangements to govern the use of nuclear 
+power. 
+7.6.3. Policy Objectives 
+ Explore the feasibility of nuclear energy as an alternative source of 
+energy. 
+Diifthf l7.6.4. Policy Measures 
+ Promote the development and application of nuclear energy for peaceful 
+purposes. 
+ Carry out investigations into the nuclear option as a future energy 
+source. 
+ Build capacity in exploiting nuclear energy. 
+ Promote research and development into the peaceful application of 
+nuclear science and technology. 
+ Promote regional and international co-operation in nuclear science and 
+technology.
+ Identify a strategic partner in the development of a nuclear power 
+station. 
+7.6.5. Strategies 
+A nuclear energy policy will be developed to enable the country to benefit 
+from fuel exports or nuclear power generation. International cooperation 
+through the International Atomic Energy Agency (IAEA) will allow the country to 
+learn from the experience of other countries. 
+The country will continue working with IAEA and AFRA (the African Regional 
+Cooperative Agreement for Research, Development and Training related to 
+Nuclear Science and Technology) in the peaceful use of nuclear energy by: 
+a) Strengthening the regulatory framework. 
+b) Enhancing technical cooperation projects. 
+8. ENERGY EFFICIENCY IN DEMAND-SIDE SECTORS 
+8.1. Background commercial energy, particularly electricity. Energy savings have ripple effects 
+throughout the whole economy because the productive sectors most affected 
+by power cuts will have more power available for production. 
+Unemployment is currently high and most households are poor. In poor 
+households, wood fuel and charcoal are the main energy sources used, while 
+kerosene lamps and candles are used for lighting. Different types of fuel have 
+different end-uses, which militates against the efficient and rational use of 
+energy. Furthermore, low-income households tend to purchase cheap and 
+unsafe appliances, thus increasing the risk to their health. 
+There is unexploited potential for using LPG or kerosene to address the 
+cooking-fuel challenges for the majority of the population, who either have no 
+access to electricity or are unable to afford the cost of using it for cooking and 
+heating. In order to preserve natural forests, some countries, notably Mauritius 
+in the SADC region, have successfully made a transition from wood fuel to LPG 
+as a household fuel. Table 1 demonstrates the competitiveness of LPG as a 
+household fuel. 
+Table 1: Comparison of Low-income Household Fuel Use (Source ZETDC) 
+Household 
+energy need
+Monthly energy 
+source
+Monthly cost 
+US$ (April 
+2010)
+Monthly cost 
+US$
+(September 
+2011)
+COOKING
+(2 meals a day)
+Electric stove (250 kWh) 17.48 23.00
+Gas stove (6 kg LPG) 14.00 18.00
+Kerosene (30 l) 30.00 34.50
+Gel stove (20 kg) 41.50 39.50
+Firewood (60 bundles) 60.00 180.00
+LIGHTING
+(3 rooms, 4 hours 
+a day)
+Energy savers (4kWh) 0.30 0.08
+Incandescent (20 kWh) 1.40 0.40
+Candles (40 or 400g) 11.33 16.80
+ENTERTAINMENT
+(radio, 8 hours a 
+day
+Electric (12 kWh) 0.84 0.24
+Radio (4 torch cells) 4.60 19.40
+The electricity cost of cooking is subsidised for low-income consumers, yet the 
+LPG cost, which is based on market prices, is lower. Prices in the electricity 
+tt titflt tht f thdlt f The promotion of LPG will need to address the need for affordable gas stoves 
+and to deal with safety perceptions. Government and industry will need to 
+work on an educational and promotional campaign. Most rural households, who 
+are unlikely to be connected to the grid or to have access to LPG (determined 
+by the availability and affordability), could use biogas as an alternative fuel. 
+Government is planning to roll out the use of biogas in rural institutions 
+(schools and hospitals) for heating and cooking. Biogas digesters could also be 
+used in urban areas. 
+The numerous problems experienced with wood fuel and charcoal will require a 
+combination of policies that cover the efficiency of energy use, energy 
+conservation, and a switch to modern forms of energy in certain cases. In rural 
+areas, there is need for access to electricity, especially for communal 
+facilities. More affluent households in urban areas generally use electricity, but 
+this percentage is very small. 
+Overall, the national utility cannot meet the demand of industry, so it is 
+necessary to increase the level of power generated to cater for this sector. A 
+lack of expertise in industry has also been identified as one of the key barriers 
+to increased energy efficiency: most industries in Zimbabwe use a large amount 
+of electricity inefficiently. Implementing energy-efficiency programmes will 
+not only reduce consumption but will also reduce operating expenses. 
+The commercial sector includes, among others, wholesale and retail shops, 
+hospitals, hotels, restaurants and recreation centres. Overall, the demand for 
+energy in the sector is met mainly by commercial electricity and petroleum. 
+Power demand for both existing and new mines is currently met by grid 
+electricity, which is in short supply. Mining companies will be encouraged to 
+generate their own power and to cooperate in the development of power 
+infrastructure. They will be encouraged to develop surplus power from autogeneration which will be sold to neighbouring communities. The transport sector is a major user of petroleum products, and all of its needs 
+are met by imports. Although road transportation is predominant, various forms 
+of transportation play vital roles in the lives of the rural populace. Although 
+some regulation is in place, inefficient practices abound in the sector. 
+The economy of Zimbabwe is dependent on agriculture. Subsistence farming is 
+the most common activity, and women are the main stakeholders in most 
+agricultural activities. Human and animal power are the dominant sources of 
+energy in subsistence-farming activities. The drying and processing of 
+agricultural products is managed by traditional applications of solar energy and 
+firewood. Many agricultural activities contribute towards deforestation through 
+extensive farming and slash-and-burn practices. 
+The main energy challenge within agriculture is to ensure a supply of sufficient 
+and cost-effective energy to meet the requirements for improved agricultural 
+activities, including agro-processing and irrigation. There is a need to create a 
+commercial environment and to encourage entrepreneurs to develop and 
+distribute energy products and technologies in order to improve efficiency in 
+agricultural production and add value to agricultural products. Furthermore, 
+methods and approaches to maximise the use of alternative sources of energy 
+such as, micro-hydro, solar, wind, biomass, and other renewable energies, 
+need to be developed and commercialised. 
+8.2. Challenges 
+ A threat to the sustainability of forest resources owing to large-scale use 
+of wood resources, increasing demand for arable land, and urban 
+expansion. 
+ Inefficient production of biomass and the use of inefficient technologies, 
+resulting in adverse effects on the environment and the health of 
+biomass-energy users. 
+ Insufficient awareness among energy end-users about energy 
+conservation possibilities and practices, thus hampering investment in  Poor development of competitive alternative-energy sources, a lack of 
+incentives, including financing mechanisms, for their development, and 
+insufficient incentives to introduce fuel/technology substitutes. 
+ Low public awareness and uptake of the efficacy and potency of 
+renewable energy technologies. 
+ A dominance of aging, energy-inefficient technologies. 
+ Over-dependence on human and animal energy in rural areas. 
+ Inadequate funding to finance energy efficiency and conservation 
+initiatives. 
+ Society’s resistance to technological change. 
+8.3. Policies 
+ Increase the accessibility and affordability of sustainable energy in all 
+energy demand sectors. 
+ Promote energy efficiency and conservation and the development of 
+holistic programmes for all energy demand sectors. 
+ Ensure that energy efficiency and conservation programmes are planned 
+and implemented in a fully participatory manner. 
+ Provide electricity end-use infrastructure at affordable prices to improve 
+the rural household energy situation and to attract entrepreneurial 
+activity in rural areas. 
+ Encourage the use of alternative sources of energy for different 
+applications in all energy demand sectors. 
+ Promote mandatory energy audits and regulate energy efficiency and 
+conservation in all energy demand sectors. 
+ Promote investment in energy efficiency and energy conservation 
+programmes. 
+ Adopt energy efficiency standards and best practices. 
+ Promote and support industries that have the capacity to produce 
+demand-side equipment and to manufacture it for local and regional 
+applications.  Encourage all farmer-training programmes to include tuition in energyuse efficiency and energy planning, and technology selection and 
+operation, as well as planned maintenance. 
+8.4. Strategies 
+8.4.1. Households and Institutions 
+The Minister will set targets and introduce a transitional programme to reduce 
+the country’s dependence on unsustainable wood fuel resources by converting 
+to the use of electricity, petroleum products and biofuels, especially LPG in 
+urban areas and biogas in rural areas, as cooking and heating fuels. The 
+proposed Rural Energy Fund and Agency will be the institution that implements 
+the programme on a sustainable basis. In the meantime, as highlighted above, 
+the Ministry will promote these using existing resources. 
+Government will develop a comprehensive Household Energy Plan, which will 
+adequately address issues related to shortages, the inefficient use of biomass, 
+and the affordability of modern energy services. 
+Government will supply and inject 4.5 million compact fluorescent light bulbs, 
+and will introduce a prepaid metering system so as to reduce peak demand. 
+Government will promote the development and dissemination of improved 
+cooking technology as part of the wider strategy to reduce wood fuel 
+consumption. 
+Government will ensure the integration of energy within broader rural 
+development interventions by forging dialogue and co-ordination among the 
+agencies and communities involved. 
+Government will develop and implement national awareness-raising 
+programmes and action strategies aimed at improving energy savings and 
+conservation, education and information dissemination on energy-technology 
+options, costs and technical know-how. Government will develop awareness-creation programmes and action strategies 
+aimed at improving energy savings and conservation in urban households. 
+Government will promote the use of suitable alternatives to wood fuel – such as 
+LPG, paraffin, electricity and wood fuel briquettes – and solar cookers will be 
+advocated. 
+Government will promote the use of biogas for cooking in both households and 
+institutions. Biogas digesters will be installed in institutions such as schools and 
+hospitals to reduce wood fuel usage and power bills. 
+8.4.2. Mining and Industry 
+Government will develop training programmes and incentives aimed at 
+encouraging the adoption of more efficient technologies, machinery and 
+processes. 
+Government will offer financial incentives for energy efficiency, e.g. the 
+introduction of ‘time-use’ electricity tariffs.
+Government will promote energy efficiency awareness and will encourage the 
+use of energy-efficient practices within the sector. 
+Government will encourage industry and mines to provide their own power 
+supplies and increased the energy mix in energy generation and distribution. 
+Government will facilitate public–private sector partnerships as a way of 
+optimising the application of technology in energy-use management. 
+8.4.3. Transport 
+The feasibility of introducing measures for pollution control will be explored, 
+including using environmentally friendly fossil fuels – e.g. unleaded gasoline, 
+blend petrol, low-sulphur diesel – and the importation of more fuel-efficient 
+vehicles. Government will promote energy-efficiency awareness and conservation and 
+will encourage the use of energy-efficient vehicles. 
+Government will integrate and harmonise implementation of the various 
+national policies related to the transport sector. 
+Government will promote the development and use of alternative fuels such as 
+biodiesel and ethanol blending. 
+8.4.4. Agriculture 
+Government will promote measures to improve the efficiency of energy use in 
+agriculture, such as the provision of information and the use of low-energy 
+equipment. 
+8.4.5. Commerce 
+Government will emphasise the adoption of energy-demand management and 
+the implementation of energy-conservation measures in institutional buildings 
+and in Government departments. 
+9. CROSS-CUTTING ISSUES 
+9.1. Background 
+A number of issues cut across all the energy sub-sectors. These constitute the 
+institutional framework and governance, energy policy and planning, 
+regulation, research and development, and gender issues. Clear policies are 
+needed for these issues since they all affect the energy sector directly or 
+indirectly. 
+9.2. Challenges 
+ Uncoordinated planning. 
+ Uncoordinated research. 9.3. ENERGY POLICY AND PLANNING 
+9.3.1. Background 
+Energy policy and planning involves the collection, recording and storage of 
+data. These data will then be used as the backbone of the policy-making 
+process. There is therefore a need to develop systems to assist in the 
+acquisition, analysis and storage of such data. Zimbabwe is yet to develop an 
+integrated energy plan. 
+The integrated energy plan will address energy demand balanced with energy 
+supply, transformation, economics, gender and environmental considerations, 
+along with the available resources. By addressing the integrated energy plan 
+under the umbrella of different scenarios, it is possible to take into account 
+the various consequences of each scenario. 
+9.3.2. Policy Measures 
+The policy measures to plan effectively for energy provision are to: 
+ Identify secure and reliable sources of energy information and data. 
+ Disseminate energy data regularly. 
+ Adopt an inclusive energy-planning approach. 
+ Ensure environmental considerations in energy supply, transformation 
+and end-use. 
+9.3.3. Strategies 
+Government will enact an Energy Management Act to: 
+ Formalise the energy policy and planning process by defining the roles of 
+different stakeholders and creating the relevant legal and institutional 
+framework (e.g. establishing a National Energy Advisory Council, a multistakeholder policy advisory forum with different working groups). 
+ Empower the Minister to collect all relevant energy data and information  Provide for the funding of energy research and development. 
+ Recognise and define the appropriate role of the Minister in awarding 
+and managing special grants for the exploration, development and 
+utilisation of energy minerals such as coal, gas, oil and nuclear-energy 
+source materials. 
+ Define the principles for resolving ambiguities in the roles of the 
+Minister, other government departments and agencies, the energy 
+regulator and other regulators (such as the Competition and Tariff 
+Commission) in formulating, monitoring and enforcing energy policies 
+and standards. 
+ Provide for the issuing of regulations by the Minister on all matters 
+related to energy management, such as competition for the market by 
+IPPs, the target energy-resource mix for power generation, guidelines 
+for embedding cross-cutting issues in integrated energy resource plans, 
+etc. 
+The Ministry will, in accordance with procedures to be outlined in the proposed 
+Energy Management Act, develop and review integrated electricity energy 
+resource master plans so as to increase the proportion of electricity generated 
+from renewable energy resources for environmental sustainability. ZERA will 
+take account of the integrated resource master plans in licensing new capacity. 
+The Ministry will continue building capacity for policy and planning through 
+cooperation with regional and international organisations. 
+9.4. GOVERNANCE AND INSTITUTIONAL FRAMEWORK 
+9.4.1. Background 
+The prevailing institutional arrangements need to be clarified and 
+strengthened. Currently, roles of different players in the sector vis-à-vis the 
+role of government are not very clear. It is necessary to improve institutional 
+arrangements to bring about more effective coordination of the various accountability and transparency, and develop synergy between the different 
+players. 
+The fundamental principle for an efficient institutional framework and 
+governance is to minimise the conflicts of interest that are inherent in making, 
+monitoring and implementing policy. At the national governance level this is 
+achieved by separating the legislature (law maker), judiciary (law interpreter) 
+and executive (law implementer). At the energy-sector level this is achieved by 
+separating the policy-making role of the Minister, the policy-monitoring role of 
+the regulator and the policy-implementation role of the energy service 
+provider. Appropriate capacity-building should be undertaken so that each 
+institution is able to discharge its responsibilities without interfering with the 
+role of others. 
+9.4.2. Challenges 
+ Direct involvement in the regulation of the sector. 
+ Unclear roles of government, utilities and regulators. 
+ Coordination with other ministries and organisations on energy resources 
+that do not fall directly under the Ministry. 
+9.4.3. Policy Measures 
+ Improve institutional arrangements. 
+ Promote legal, regulatory and institutional frameworks to create 
+consumer and investor confidence. 
+ Enhance corporate governance and accountability in energy institutions. 
+9.4.4. Strategies 
+As far as is practicable, in order to clarify roles and minimise conflicts of 
+interest, the institutional framework and governance of the energy sector will 
+be guided by the following principles: the Minister decides policy, the regulator 
+monitors and enforces policy, and the energy service provider executes the The proposed Energy Management Act will include legal provisions to empower 
+the Minister of Energy and Power Development to have oversight over all 
+energy resources and energy-related cross-cutting issues such as energy pricing, 
+product and service quality, energy efficiency and demand-side management. 
+The apparent duplication of roles between the regulator and the Minister will 
+be resolved by the Energy Management Act, based on the principle that the 
+regulator has the fundamental role of monitoring and enforcing policy while 
+the Ministry’s fundamental role is to decide the relevant energy policies and 
+plans that will then be monitored and enforced by the regulator. 
+9.5. REGULATION 
+9.5.1. Background 
+Regulation of infrastructure services can be defined as ‘the combination of 
+institutions, laws, and processes that, taken together, enable a government to 
+exercise formal and informal control over the operating and investment 
+decisions of enterprises that supply infrastructure services.
+10 Perfect 
+competition is theoretically the most efficient regulatory system. In practice, 
+conditions for perfect competition do not exist, and it is necessary for 
+government to intervene in order to protect investors and consumers from the 
+consequences of market imperfections, such as abuse of monopoly market 
+power that leads to the provision of poor and high-cost products and services, 
+or collusion to fix prices or engage in other anti-competitive activities. 
+The regulation of the energy sector has evolved over the years as a shared 
+responsibility between different government departments, state energy 
+enterprises and parastatals. The major weaknesses of this traditional 
+regulatory system are a lack of transparency, conflicts of interest and weak 
+coordination, which often lead to poor and inevitably contradictory decisions on such key issues as prices, product quality and service standards, with 
+adverse impacts on investment and consumption. 
+The Electricity Act of 2002 established an electricity regulatory commission, 
+ZERC, and the Petroleum Act of 2006 [Chapter 13:22] created a similar 
+regulatory agency for the petroleum sub-sector. Recognising the scarcity of 
+human and material resources and the similarity of function, Government 
+decided, through the Energy Regulatory Authority Act of 2011, to create ZERA 
+to deal with these two sub-sectors and any other energy sub-sector to be 
+defined by the Minister on the recommendation of the regulatory authority. In 
+establishing ZERA, Government also sought to address the weakness in the legal 
+framework that did not provide the adequate degree of independence required 
+for regulatory efficiency. 
+9.5.2. Zimbabwe Energy Regulatory Authority (ZERA) 
+ZERA was established by the Energy Regulatory Authority Act of 2011 ‘to 
+regulate the procurement, production, transportation, transmission, 
+distribution, importation and exportation of energy derived from any energy 
+source’ (section 4(1)(a)). The Electricity Act and the Petroleum Act define the 
+legal framework for the regulation of these sub-sectors, while the ERA Act, 
+section 7, provides the legal framework for extending regulation to other 
+energy sub-sectors. 
+The Act gives ZERA independent decision-making authority for clearly defined 
+functions that are critical for ensuring operational, financial and investment 
+efficiency in the energy sector: ‘Subject to this Act, the Authority shall not, in 
+the lawful exercise of its functions under this Act, be subject to the direction 
+or control of any person or authority (section 4(4)). 
+9.5.2.1. Roles of ZERA 
+The decision-making role of the Authority is principally concerned with the 
+development, monitoring and enforcement of product and service standards, energy prices, dispute resolution, and the issuing, enforcement, renewal, 
+amendment or cancellation of licences. 
+The respective roles shown in Figure 1 need to be respected in order to 
+maintain the regulator’s independence. A compact agreement between the 
+Minister and ZERA can help to clarify roles in the same way that license terms 
+and conditions clarify the expectations of the regulator to the energy market 
+players. 
+Figure 1: Institutional Roles 
+9.5.2.2. Market Structure and Competition 
+Market structures evolve on the basis of whether a product or service can be 
+more efficiently provided through competition within the market or, in the present, the electricity market is dominated by the vertically integrated, stateowned ZESA Holdings. The petroleum market is deregulated, with many players 
+in the trading business, but it still dominated by the public sector and 
+multinationals in storage and transportation infrastructure. The rest of the 
+energy services are provided through informal and formal, community and 
+private-sector markets. The largest energy resource, wood fuel, is supplied 
+largely through the free exploitation of natural forests in rural areas. 
+If competition in the market is approved, the regulator has to monitor the 
+effectiveness of the competition and ensure access to essential facilities which 
+may be owned or managed by a natural monopoly. The regulator also has to 
+deal with any ‘stranded costs’ that cannot be recovered and subsidies that 
+cannot be maintained after deregulation. Where there is evidence of anticompetitive behaviour, ZERA has to take appropriate corrective action, 
+including referring the matter to the Competition and Tariff Commission. 
+9.5.2.3. Pricing 
+The most common price-control approaches are price caps, revenue caps or 
+investment return caps. A cap is a way of simulating competition. In a 
+competitive market the price is determined by market forces of supply and 
+demand. Market players are obliged to operate on the basis of the market price 
+and adjust their supply-and-demand patterns accordingly. Suppliers who cannot 
+cover their costs at the market price go out of business. Consumers who cannot 
+afford the market price switch to alternative products or go without. 
+The energy regulator has to establish a cap that fulfils the need for investors to 
+have prices that reflect the costs of efficient operation and the need for 
+consumers to fulfil their basic energy needs at competitive prices. Particular 
+attention needs to be given to the basic energy needs of low-income groups, 
+mostly the rural population and urban poor. 
+9.5.2.4. Challenges  Duplication of roles between the Ministry and ZERA and between ZERA 
+and the Competition and Tariff Commission. 
+ A lack of transparent regulations for IPPs. 
+9.5.2.5. Policies 
+ Define clearly the roles of ZERA in relation to the Ministry and the 
+Competition and Tariff Commission. 
+ Create, promote and preserve an efficient energy industry. 
+ Provide incentives for energy efficiency and demand-side management. 
+ Have clear pricing and subsidy policies. 
+9.5.2.6. Strategies 
+To avoid any role ambiguity between the regulator and the Ministry, 
+Government will define the relationship between the two institutions in a 
+compact agreement. Licence terms and conditions will clarify the respective 
+roles of the regulator and the energy service providers. The compact 
+agreement must specify the regulator’s decision-making and advisory roles 
+consistent with the law. 
+The Minister will take steps to rapidly build the capacity of ZERA in order to 
+establish its credibility and legitimacy to key stakeholders, in particular the 
+policy-makers, investors, financiers and consumers. 
+Government, through ZERA, will continually monitor market operations to 
+ensure that energy products and services are being provided competitively. 
+Where there is evidence that a service can be provided more efficiently 
+through competition within the market, ZERA will recommend deregulation for 
+approval by the Minister. 
+To promote coordination and to avoid conflict between ZERA and the 
+Competition and Tariff Commission, ZERA will be responsible for developing 
+and implementing regulations to prevent anti-competitive market conduct, market power. The Competition and Tariff Commission will not, however, 
+usurp the role of the energy regulator in deciding energy prices or any other 
+regulatory matters defined in energy policy and legislation. 
+In recognition of the urgent need for the least-cost development of power 
+generation, the Minister, in consultation with ZERA, will, within the earliest 
+possible period, complete the development of transparent regulations 
+governing competition for the market by IPPs. 
+ZERA will incorporate in licences and regulations explicit principles and 
+measures for embedding energy efficiency and demand-side management, 
+environmental protection and gender, and other energy cross-cutting issues 
+related to the quality and sustainability of energy services. 
+In energy pricing the Minister will make decisions on subsidy policies and 
+pricing methodologies recommended by ZERA, and the regulator will decide 
+independently on the price, revenue or rate of return caps according to the 
+approved methodology. The Minister and regulator will ensure that the costs 
+allowed in calculating energy prices are the least-cost in accordance with 
+explicitly defined benchmarks. Integrated energy development master plans 
+will be used to provide an indication of the lowest long-run marginal costs as 
+benchmarks for evaluating competition for the market. 
+ZERA will declare coal, oil, natural gas, coal bed methane, uranium and other 
+nuclear energy material as energy resources in terms of the ERA Act. It will also 
+define the appropriate regulatory framework, including in particular the pricing 
+principles for power-generation applications and general consumer end-uses. 
+This will be done within a period to be advised to the Minister at the earliest 
+opportunity. 
+ZERA will provide the Minister with sufficient information and data to enable 
+the objective determination of affordability and thereby establish targeted 
+subsidies and subsidy funding mechanisms to facilitate access to modern energy 9.6. RESEARCH AND DEVELOPMENT 
+9.6.1. Background 
+Energy research and development is undertaken on an uncoordinated basis by 
+institutions of higher learning, the Scientific and Industrial Research and 
+Development Centre, and donor-funded NGOs. There is no policy defining a 
+target budget and funding for energy research and development. Section 24 of 
+the Research Act [Chapter 10:22] provides for the establishment of research 
+councils and research institutes on the recommendation of any responsible 
+Minister. The Minister of Energy is therefore empowered to recommend the 
+establishment of an Energy Research Council in terms of that Act. 
+9.6.2. Challenges 
+ Uncoordinated energy research. 
+ No funding for research. 
+ Unfocused research not addressing the country’s needs.
+9.6.3. Policies 
+ Coordinate energy research in Zimbabwe. 
+ Promote energy-related research for better exploitation of the country’s 
+energy resources (solar wind, geothermal and nuclear). 
+ Develop or adapt energy technologies to suit the Zimbabwean situation. 
+ Encourage research into socio-cultural aspects of energy use in order to 
+foster wider adoption of more efficient energy technologies and 
+practices. 
+9.6.4. Strategies 
+The Minister will, through section 24 of the Research Act, recommend at the 
+earliest opportunity the establishment of an Energy Research Council to 
+facilitate the coordination of all energy research and development in the budget and funding mechanisms for energy research. In the meantime the 
+surpluses from ZERA levies that are not legally required for Rural Electrification 
+can be used to support energy-research activities. 
+9.7. GENDER AND ENERGY 
+9.7.1. Background 
+Gender issues have come to the forefront in many development sectors, but 
+the energy sector has been slow to acknowledge the links between gender 
+equality, energy and development. Energy and the roles of women and men are 
+socially and culturally linked in many diverse ways. These linkages evolve over 
+time and vary across income groups, between urban and rural households, and 
+from region to region. Some of these variations affect both men and women in 
+the same way. However, the role of women in energy provision and their 
+participation in different facets of the energy sector have not been sufficiently 
+addressed. Therefore, in addressing the issue of energy and gender, the focus 
+is mainly on improving the situation of women. 
+Energy is needed for household uses, such as cooking, lighting, space heating 
+and other appliances; for agricultural uses, such as tilling, irrigation and postharvest processing; and for rural industry uses, such as milling, mechanical 
+energy, and process heat. Energy is also an input to water supply, 
+communications, commerce, health, education and transportation in rural 
+areas. Much of this energy is used and produced by women. 
+Higher-income people generally use more-efficient and more-convenient 
+sources of energy such as gas and electricity, while poor people use lessefficient and less-convenient sources such as wood fuel and human energy. 
+Multiple fuel use is common at all income levels nonetheless, and the ‘fuel 
+ladder’ is perhaps more accurately replaced by a ‘fuel pyramid’ of multiple 
+fuels for different purposes and at different times. Poor people have fewer absolutely (paying higher unit prices) and relatively (as a percentage of their 
+income) – than the non-poor do. Poor women nonetheless value multiple energy 
+options highly and need them to help manage their daily work and time. 
+The main use of inanimate energy in rural areas is for cooking and heating. 
+Biomass is the primary fuel used, and it will continue to be so for the 
+foreseeable future. The major source of energy in rural areas is human labour, 
+which is used for both survival activities and production. This dependence on 
+biomass and human energy is an important factor in rural poverty, and it is not 
+measured either in national accounts or in energy balances. The role of women 
+(and children) in this energy-use system is well known. The adverse effects of 
+energy scarcity on poor women have been well documented. Health is a 
+primary concern here. 
+The presence of a large number of female-headed households in Zimbabwe, as 
+well as women's primary responsibility for energy procurement and 
+management (and the invisibility of these tasks in national energy accounts), 
+give this ‘energy poverty’ a particular gender bias. The risk of poverty is 
+greater for women, with 45 per cent of the households in Zimbabwe being 
+female-headed.11
+Neither public nor private energy infrastructure provisions are gender-neutral. 
+Women use energy and electricity differently from men because of their 
+different household and productive activities. For example, decisions about 
+how or where electricity and electricity services (such as information and 
+communication technology packages) are provided to households and 
+communities influence women's ability to take advantage of these services. 
+Women's micro-enterprises (an important factor in household income as well as 
+in women's welfare and empowerment) are heat-intensive (food processing), 
+labour-intensive and/or light-intensive (intensive home industries with work in 
+evenings). A lack of adequate energy supplies - and other coordinated support –for these activities affects women's ability to operate these micro-enterprises 
+profitably and safely. Conversely, the provision of affordable energy can be a 
+key factor in enabling rural enterprises. The thrust is to mainstream gender 
+issues into all energy-development issues in order to eliminate all negative 
+economic, social and cultural practices that impede the equality and equity of 
+the sexes. 
+Although there are gender disparities in almost every context that need to be 
+examined, they should be considered within the particular social, economic 
+and political context. Since women throughout the world are not a 
+homogeneous group, factors relating to culture, income, social class, religion, 
+family status and geographical location also need to be incorporated into a 
+more integrated view of energy as a factor in promoting social and economic 
+development. 
+9.7.2. Challenges 
+ Limited awareness of gender issues in general in the society. 
+ A small proportion of women enrol for energy-related educational 
+programmes. 
+ No synergy between gender interventions for the energy sector and the 
+country’s overall agenda on gender issues. 
+ Lack of participation by women in making energy choices. 
+9.7.3. Policies 
+ Ensure that the challenge of gender equality in the energy sector 
+becomes a visible and key concern at the policy level. 
+ Ensure that all energy interventions create opportunities for women’s 
+empowerment and gender equality at the programme level. 
+ Ensure that space and opportunities are available to women at the 
+organizational level. 
+ Encourage greater enrolment of women in energy-related disciplines. 9.7.4. Strategies 
+Government will advocate capacity building to integrate a gender perspective 
+into energy programmes at tertiary institutions and in policy and projects. 
+The Ministry will identify a gender focal person to represent the Ministry, and 
+who will direct and coordinate the implementation of gender mainstreaming in 
+the energy sector, as well as ensure the systematic dissemination of energy and 
+gender policies and awareness of energy issues in gender institutions. 
+The Ministry will adopt gender-sensitive budgeting in energy-sector planning 
+and programming, based on regional and international gender protocols and the 
+National Gender Policy to ensure gender equality. 
+For gender-sensitive energy development, Government will promote the 
+acceleration of the representation of women at all levels and in all spheres of 
+energy development and management activities. 
+Government will adopt a gender-mainstreaming strategy in policy analysis, 
+future project design, implementation, and monitoring and evaluation 
+activities. All new energy programmes and schemes will be subjected to a 
+gender appraisal, so as to encourage gender sensitivity and women’s 
+participation from the outset. This approach should entail gender analysis, the 
+use of sex-disaggregated data and gender-sensitive indicators in project 
+reporting and in monitoring and evaluation requirements. 
+Government will expedite rural electrification programmes so that electricity 
+can reach remote areas and ease the burden of rural women in sourcing 
+energy. 
+GLOSSARY OF TERMS Biofuels Fuels derived from organic matter that can be used as a 
+substitute for other fuels. 
+Biomass Organic, non-fossil material of biological origin constituting 
+an exploitable renewable energy resource. 
+Cogeneration The production of electricity and another form of useful 
+energy (such as heat or steam) used for industrial, 
+commercial, heating, or cooling purposes. 
+Cost-reflective In relation to electricity tariffs, whereby the price is 
+representative of the actual cost of supplying electricity. 
+For example, industrial electricity tariffs should be lower 
+than those for domestic customers, as they do not involve 
+the lower voltage networks. 
+Demand-side management Involves encouraging consumers to use sources of energy 
+sparingly, such as switching lights off when they are not 
+needed 
+Ethanol A type of alcohol, manufactured frequently from molasses, 
+and used as a petroleum substitute. 
+Geothermal Utilisation of heat energy from deep inside the earth. Wells 
+are drilled to exploit the steam or hot water, which is 
+either converted to electricity or used directly. 
+Grid Interconnected network of high voltage transmission lines 
+and cables for transportation of electrical power and 
+energy in bulk 
+Hydropower The production of electricity from the kinetic energy of 
+falling water. 
+Independent Power Wholesale electricity producers (other than the 
+Producer (IPP) Government parastatals) that are not affiliated to the 
+utility. Unlike traditional electric utilities, IPPs do not 
+possess transmission facilities and in most cases sell power 
+to the grid. 
+Methane Hydrocarbon gas, can be formed through the breakdown of 
+organic matter in the absence of oxygen, for example when 
+organic waste is buried. 
+MihdSlllhdlt lth100 kWMini-hydro Small-scale hydropower plant 100 kW to less than 2000 kW. 
+Peak load Load sustained for less than 30% of the time. 
+Photovoltaics Direct-current electricity generated from the sun’s rays 
+through solid state semiconductor devices that have no 
+moving parts. 
+Power Static or motive force for doing work. 
+Primary Energy Naturally occurring energy source. 
+Renewable Energy Energy obtained from sources that are essentially 
+inexhaustible (unlike, for example, fossil fuels, of which 
+there is a finite supply). Renewable sources of energy 
+include conventional hydroelectric power, wood, waste, 
+geothermal, wind, photovoltaics and solar thermal energy. 
+Sustainable Energy Energy produced in ways that support present needs 
+without affecting the ability of future generations to fulfil 
+their own. 
+Traditional Energy Primary energy transformed by the end-user to meet basic 
+survival needs. 

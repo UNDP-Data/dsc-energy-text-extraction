@@ -1,0 +1,4323 @@
+File Name: MRT-NREP-2015-EN
+Year: 2015
+Country Name: Mauritania
+Country Code: MRT
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2015
+Start Year: 2015
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+Copyright © IRENA 2015
+Unless otherwise stated, this publication and material featured herein are the property of the International Renewable Energy 
+Agency (IRENA) and are subject to copyright by IRENA. 
+Material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that all such material 
+is clearly attributed to IRENA and bears a notation that it is subject to copyright (© IRENA). 
+Material contained in this publication attributed to third parties may be subject to third-party copyright and separate terms of 
+use and restrictions, including restrictions in relation to any commercial use.
+About IRENA 
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports countries in their 
+transition to a future of sustainable energy, and serves as the principal platform for international co-operation, a centre of 
+excellence, and a pool of renewable energy policy, technology, resources and financial knowledge. IRENA promotes the 
+widespread adoption and sustainable use of all forms of renewable energy, including bioenergy, geothermal, hydropower, ocean, 
+solar and wind energy, in the pursuit of sustainable development, energy access, energy security and low-carbon economic 
+growth and prosperity.
+www.irena.org
+About UNDP
+The United Nations Development Programme (UNDP) is the United Nations’ global development network – an organisation 
+advocating for change and connecting countries to knowledge, experience and resources to help people build a better life. 
+On the ground in 166 countries, UNDP works to assist national counterparts on their own solutions to global and national 
+development challenges, considering rule of law an indispensable factor for the enhancement of human development and the 
+reduction of conflict, poverty and insecurity.
+About RRA
+A Renewables Readiness Assessment (RRA) offers a holistic assessment of the situation in a given country and identifies the 
+actions required to overcome barriers to renewable energy deployment. This is a country-led process, with IRENA primarily 
+providing technical support and expertise to facilitate consultations among different national stakeholders. While the RRA helps 
+to shape appropriate policy and regulatory choices, each country determines which renewable energy sources and technologies 
+are relevant and consistent with national priorities. The RRA is a dynamic process that can be adapted to each country’s 
+circumstances and needs. Experience in a growing range of countries and regions has allowed IRENA to continue refining 
+the basic RRA methodology. In June 2013, IRENA published a guide for countries looking to speed up their renewable energy 
+deployment. For more information, visit www.irena.org/rra.
+Acknowledgement
+This report was commissioned by IRENA in collaboration with UNDP, with valuable input from Laurent Dittrick (international 
+consultant) and Ahmedou Hamed (national consultant). 
+IRENA and the UNDP would like to acknowledge the valuable comments and guidance offered by Cheikh Moctar (APAUS), Dah 
+Ould Sidi Bouna (Director and RRA Focal point, MPEM) and Cherif Kane (UNDP, Mauritania)
+IRENA wishes to thank the following experts for their insights and constructive comments during the peer review process: 
+Ashraf Kraidy (League of Arab States – LAS), Chingiz Orujov (Islamic Development Bank), Habib El Andaloussi (United Nations 
+Economic and Social Development Commission in Western Asia – UN ESCWA), Maged Mahmoud (Regional Centre for Renewable 
+Energy and Energy Efficiency – RCREEE), Linus Mofor (IRENA) and the Country Support and Partnerships team at IRENA (Ilham 
+Talab, Juan Martinez and Kavita Rai).
+Authors: Mustapha Taoumi, Gauri Singh and Gürbüz Gönül (IRENA)
+Disclaimer
+This publication and the material featured herein are provided “as is”, for informational purposes. 
+All reasonable precautions have been taken by IRENA to verify the reliability of the material featured in this publication. Neither 
+IRENA nor any of its officials, agents, data or other third-party content providers or licensors provides any warranty, including as to 
+the accuracy, completeness or fitness for a particular purpose or use of such material, or regarding the non-infringement of thirdparty rights, and they accept no responsibility or liability with regard to the use of this publication and the material featured herein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA, nor is it an endorsement 
+of any project, product or service provider. The designations employed and the presentation of material herein do not imply the 
+expression of any opinion on the part of IRENA concerning the legal status of any region, country, territory, city or area or of its MauritaniaII
+Over the past five years, the electricity sector of 
+Mauritania has experienced steady growth in all of its 
+segments: generation, transport and distribution. An 
+ambitious programme, based on a series of appropriate 
+reforms and major investment, is being led by the public 
+authorities to carry out a recovery plan for the sector to 
+ensure universal access to sustainable energy services 
+at a lower cost and to ensure the availability of reliable 
+and secure electricity for economic operators. The 
+programme places great emphasis on reducing energy 
+costs through the enhancement of national energy 
+resources, including less-polluting resources such as 
+thermal (natural gas) and renewables (solar and wind). 
+After establishing a clear diagnosis of the situation of 
+the sector in 2009, the Government has undertaken to 
+develop a clear strategic vision structured around the 
+following main axes: 
+•	 Add production capacity from local resources, mainly 
+natural gas and hydroelectricity.
+•	 Develop national and regional grid and interconnection 
+networks.
+•	 Enhance the role of renewable energy in the energy 
+mix. 
+•	 Implement decentralised solutions in remote and 
+isolated areas.
+Thus, a Master Plan for the Production and Transport 
+of Electricity was adopted in 2012, intended to provide 
+guidance and technical, economic and financial 
+recommendations for developing the means of 
+production and transportation to cover energy demand 
+in the interconnected network, reduce the number of 
+isolated centres and develop rural distribution networks. 
+It is in this context that the authorities decided in 2011 
+to launch a project to generate electricity from offshore 
+natural gas deposits discovered in Banda in 2001. The 
+natural gas extracted from this project will feed several 
+electric generating units interconnected with domestic 
+and industrial demand centres
+It should be noted that renewable energy already 
+dominates the sustainable development programme 
+initiated by the authorities in Mauritania. The Poverty 
+Reduction Strategy Paper (PRSP) has set a target of 
+raising the share of renewable energy in the national 
+energy mix to 15% by 2015 and 20% in 2020. Following 
+the commissioning in 2013 of the Sheikh Zayed 15 MW 
+solar photovoltaic (PV) plant in Nouakchott, and after 
+completion of the construction of a 30 MW wind power 
+plant and a 30 MW solar PV plant in Nouakchott, this 
+goal will be greatly exceeded. With the contribution 
+made by hydropower, the share of renewable energy 
+in the national energy mix will reach 34% in 2015. 
+Furthermore, a feasibility study is under way for the 
+construction of a 100 MW wind farm in Boulenouar in 
+the northern part of the country. 
+The authorities have sought the support of the 
+United Nations Development Programme and the 
+International Renewable Energy Agency, with a view 
+to integrating renewable energies into a long-term 
+vision, highlighting the contribution of these resources 
+in structuring interventions by key stakeholders, and 
+encouraging the use of renewables in all sectors of the 
+economy, as well as creating the optimum conditions 
+for achieving the country’s national objectives. The 
+authorities are very grateful to IRENA and UNDP for 
+their support in the implementation of the Renewable 
+Readiness Assessment as a principal component of a 
+comprehensive renewable energy strategy in Mauritania.
+In conclusion, I would like, on behalf of the Government 
+of Mauritania, to thank IRENA for its support for the 
+country, and I remain convinced that with the support of 
+technical and financial partners in general development 
+actions, and especially that of IRENA, Mauritania will 
+achieve its goals in promoting renewable energies.
+Mohamed Salem Bechir
+Minister of PetroleumEnergy and Mines of Mauritania
+FOREWORD
+from the Minister of Petroleum, Energy and MinesIII
+An ambitious programme, based 
+on a series of appropriate reforms 
+and major investment, is being 
+led by the public authorities to 
+carry out a recovery plan for the 
+sector to ensure universal access 
+to sustainable energy services at 
+a lower cost and to ensure the 
+availability of reliable and secure 
+electricity for economic operators.IV
+Energy is one of the key elements of human 
+sustainable development. Fossil fuels are among 
+the most used energy sources in the world, 
+even if their import weighs heavily on national 
+budgets. They are also partly responsible for 
+climate change, as the Intergovernmental Panel 
+on Climate Change recently confirmed. Finally, 
+these resources are finite, underlining the need 
+for humanity to think of other, cleaner, energy 
+sources to support sustainable and inclusive 
+development. 
+This is why the United Nations SecretaryGeneral, Ban Ki-moon, launched the 
+Sustainable Energy for All (SE4ALL) initiative 
+in 2011. It has three interlinked objectives to be 
+achieved by 2030: 1) ensure universal access to 
+modern energy services, 2) double the global 
+rate of improvement in energy efficiency and 
+3) double the share of renewable energy in the 
+global energy mix. As Mr Ban Ki-moon said: 
+“Energy is the golden thread that connects 
+economic growth, increased social equity, and 
+an environment that allows the world to thrive. 
+Sustainable Development is not possible 
+without sustainable energy.” 
+Mauritania joined the SE4ALL initiative in 
+2014. This global priority has been included in 
+the United Nations Development Assistance 
+Framework 2012-2016 of the United Nations 
+System in Mauritania. The United Nations 
+leadership in this area in Mauritania. It is in this 
+context that UNDP initiated the elaboration 
+of a “National Strategy for Renewable 
+Energy” in 2012, at the request of the Ministry 
+of Petroleum, Energy and Mines, to help 
+Mauritania optimise its use of an abundant 
+renewable energy resource. 
+In 2013, UNDP mobilised the International 
+Renewable Energy Agency (IRENA) to join the 
+initiative. The final objective of this initiative is 
+to improve the population’s access to clean and 
+sustainable energy resources, namely in rural 
+areas, where access to electricity remains low 
+(approximately 5%). These renewable energy 
+sources can also be used by the productive 
+sector, including mining, as well as for 
+production, transformation and conservation 
+of agricultural and fishing activities. 
+These efforts are illustrated by the inauguration 
+in 2013 of the 15 MW solar photovoltaic power 
+plant. A 30 MW wind farm is also being 
+installed, while hydropower continues to be 
+pursued through recent OMVS installations. 
+This does not account for numerous smallerscale initiatives already operational or planned 
+by SOMELEC, SNIM, APAUS, ADER and others.
+M. Mario Samaja
+Resident Representative 
+FOREWORD
+From the Resident Representative, UNDP MauritaniaV
+Renewable energy can be used 
+by the productive sector, including 
+mining, as well as for production, 
+transformation and conservation of 
+agricultural and fishing activities.VI
+Like much of the Middle East and North Africa, Mauritania enjoys an abundance of sunshine and 
+also considerable wind resources. The transition to making large-scale use of these clean, renewable 
+energy sources entails considerable challenges on the policy, infrastructure and investment fronts. 
+The Renewables Readiness Assessment (RRA) process provides a holistic evaluation of a country’s 
+conditions, identifying actions to overcome the barriers to renewable energy deployment. The 
+process is country-led, with the International Renewable Energy Agency (IRENA) offering technical 
+support and expertise to facilitate consultations among different national stakeholders.
+Since 2011, more than 14 countries in Africa, the Middle East, Latin America and the Caribbean, 
+Asia and the Pacific Islands have undertaken the RRA process, which generates knowledge of 
+best practices and supports international co-operation to enable the accelerated deployment of 
+renewable technologies. Mauritania, in keeping with its strong and consistent support of IRENA’s 
+mission, is one of the countries pioneering the RRA process in the Middle East and North Africa 
+region.
+As the RRA highlights, the country has already taken steps towards large-scale use of renewable 
+energy for on-grid and off-grid applications. The 15 megawatt-peak Sheikh Zayed solar photovoltaic 
+plant, commissioned in 2013, now provides 7% of the power supply of Nouakchott. The same city 
+is also set to benefit from a new 30 megawatt commercial wind farm, a project financed by the 
+Mauritanian government and the Arab Fund for Economic and Social Development.
+FOREWORD
+from the IRENA Director-GeneralVII
+With an electricity network consisting of mini-grids, Mauritania is well positioned to integrate 
+solutions and business models based on renewable energy. Meanwhile, the United Nations 
+Development Programme (UNDP), within the Sustainable Energy for All initiative, is helping tackle 
+the gaps the country faces regarding access to energy.
+By supporting the RRA process, IRENA and UNDP aim to demonstrate the viability of renewable 
+energy solutions for Mauritania and thereby attract investment in the sector. This report provides 
+the foundation for a concrete and visible strategy for doing so, along with a related action plan.
+IRENA would like to thank Minister Mohamed Salem Bechir, former minister Mohamed Ould Khouna 
+and their teams for their generosity in hosting this study. We are grateful for their important 
+contributions, which have resulted in valuable insights for RRAs in other countries. Additionally, 
+this report will feed into IRENA regional work, including modelling and analysis on integration and 
+planning for renewable energy across North Africa.
+We sincerely hope that the outcomes of these RRA consultations will help Mauritania in its pursuit of 
+the transition to an energy system driven by renewables. IRENA stands ready to provide continuing 
+support to the country in implementing the actions identified.
+Adnan Z. Amin
+Director-General
+IRENAVIII
+LIST OF FIGURES IX
+LIST OF TABLES IX
+LIST OF BOXES IX
+ABBREVIATIONS X
+EXECUTIVE SUMMARY
+XI
+I ECONOMIC AND ENERGY BACKGROUND 1
+Introduction 1
+Energy in the socio-economic context 2
+Regional context 3
+Energy sector institutions 4
+Energy supply and demand 6
+Electricity system overview 7
+The Renewables Readiness Assessment methodology 12
+The RRA process in Mauritania 12
+Conducting RRA in Mauritania 14
+II ENABLING FRAMEWORK FOR RENEWABLE ENERGY 17
+Renewable energy resources and use 17
+Energy policy and regulatory framework 27
+Investment and financing 29
+R&D and capacity building 30
+III CHALLENGES IN THE DEPLOYMENT OF RENEWABLE ENERGY 33
+Costs and electricity tariffs 33
+On-grid electricity 36
+Off-grid electricity 36
+IV STRATEGY AND ACTION PLAN FOR DEPLOYMENT OF RENEWABLES 41
+Elements of a renewable energy strategy 41
+RECOMMENDATIONS 49
+REFERENCES 51
+ANNEX 53
+CONTENTSIX
+LIST OF FIGURES
+Figure 1 Organisation of the energy sector 4
+Figure 2 Cost of hydrocarbon imports, by source, 2002-2012 6
+Figure 3 Installed electricity capacity, by source, 2013 (SOMELEC, ASPs, mining) 7
+Figure 4 Electricity generation by source, 2011-2016 7
+Figure 5 Electricity network in Mauritania, 2013 and plans for 2018 9
+Figure 6 Renewables Readiness Assessment process
+Figure 7 Installed hydroelectric capacity (OMVS) available to Mauritania, 2012-2025 13
+Figure 8 Solar potential in Mauritania 17
+Figure 9 Energy supplied to Nouakchott, by source, January and April 2013 18
+Figure 10 Wind energy resources in Mauritania 21
+Figure 11 Consumption of wood fuel and charcoal, 1995-2004 23
+Figure 12 Price of solar PV in selected countries, 2010-2014 26
+Figure 13 Electricity generation costs, by source, on the ECREEE network: commercial versus soft 
+loan conditions
+34
+Figure 14 Mauritania’s electricity grids and mining areas 37
+Figure 15 Renewable energy deployment strategy in Mauritania 42
+LIST OF TABLES
+LIST OF BOXES
+Table 1 Overview of grid-connected electricity generation plants under the high-growth scenario 8
+Table 2 Rate of access to electricity, 2013 9
+Table 3 Comparison of residential electricity rates in West Africa 10
+Table 4 Existing and proposed fee schedule for customers on and off the network 10
+Table 5 SOMELEC electricity tariffs 11
+Table 6 Potential annual electricity generation from conventional fixed PV systems 19
+Table 7 Key R&D institutions and training centres in Mauritania 31
+Table 8 Unit cost of generation from the Banda gas project (SPEG) 35
+Table 9 Updated generation costs of wind power plants 35
+Table 10 Unit costs of bids received by APAUS over three years for off-grid RFQs for capacity 
+ranging from 50 kWp to 120 kWp
+35
+Box 1 Solar platforms for rural electrification 20
+Box 2 The Sheikh Zayed solar PV plant in Nouakchott 21
+Box 3 IRENA’s Global Atlas for Renewable Energy initiative 23
+Box 4 IRENA wind project for four coastal communities 38X
+ABBREVIATIONS
+ACP/EU-EF African Caribbean and Pacific/ European Union Energy Facility
+ADER Rural Electrification Development Agency 
+AFD Agence Française de Développement 
+AMU Arab Maghreb Union
+ANADER National Agency for the Development of Renewable Energy
+APAUS Agency for the Promotion of Universal Access to Basic Services
+ARM Multisectoral Regulation Authority
+ASP Authorised service provider
+CILSS Permanent Interstate Committee for Drought Control in the Sahel
+CNRADA National Research Centre for Agronomy and Agricultural Development 
+COMELEC Maghreb Electricity Committee 
+CRAER Centre for Applied Research in Renewable Energy (University of Nouakchott)
+CSP Concentrated solar power
+DEME Directorate of Electricity and Energy Control
+ECOWAS ECOWAS Economic Community of West African States
+ECREEE Centre for Renewable Energy and Energy Efficiency
+EDF European Development Fund
+ENFVA School of Education and Agricultural Extension 
+ESMAP Energy Sector Management Assistance Program
+FADES Arab Fund for Economic and Social Development 
+FAUS Fund for Universal Access to Services
+GDP Gross domestic product
+GIS Geographic information system
+GIZ Deutsche Gesellschaft für Internationale Zusammenarbeit
+GNP Gross national product
+GRET Group for Research and Technological Exchanges
+HFO Heavy fuel oil
+IDB Islamic Development Bank
+IPP Independent power producer
+IRENA International Renewable Energy Agency 
+ISET Higher Institute of Technological Education: Institut Supérieur d’Enseignement Technologique
+ITC Canary Islands Institute of Technology 
+kWh Kilowatt-hour
+MPEM Ministry of Petroleum, Energy and Mines
+MW Megawatt
+MWp Megawatt-peak
+NGO Non-governmental organisation
+OFID OPEC Fund for International Development
+OMVS Senegal River Basin Development Authority
+PPA Power purchase agreement
+ProCEAO Programme for Efficient Cooking Energy in West Africa
+PRS Regional Solar Programme
+PRSP Poverty Reduction Strategy Paper
+MFSP Multifunctional Solar Platform
+SE4ALL United Nations Sustainable Energy for All initiative
+SPEG Company for the Production of Electricity from Gas
+SNIM National Company for Industry and Mining
+UNDP United Nations Development ProgrammeXI
+EXECUTIVE SUMMARY
+The Renewable Readiness Assessment (RRA) is 
+a wide-ranging tool initiated by the International 
+Renewable Energy Agency (IRENA) aimed at 
+assessing national conditions for the development 
+and deployment of renewable energy and, more 
+specifically, the actions required to improve those 
+conditions. The RRA process was initiated at 
+the request of Mauritania in collaboration with 
+the United Nations Development Programme 
+(UNDP) country office. The official launch of the 
+RRA process was held on 12-13 November 2013 in 
+Nouakchott with strong participation and engaged 
+discussions. The final report validation workshop 
+was organised on 28 May 2014 in Nouakchott. 
+ECONOMIC OVERVIEW
+Mauritania is a large, semi-arid country with 
+a population of 3.4 million people, 60% of 
+whom are under the age of 25. Just over 41% 
+of the population lives in urban areas, and 
+urbanisation is increasing at a rate of 2.9% 
+per year. Gross Domestic Product (GDP) per 
+person was USD 1 247 in 2012, and overall GDP 
+grew 6.7% between 2012 and 2013. 
+The main economic activities are extractive 
+industries (83% mining, with the remainder 
+oil and gas), fishing and agriculture. Industrial 
+activities represent 54.6% of GDP, while 
+services represent 28.5% and agriculture 
+(including fishing) represents 16.9%. In terms 
+of employment, the balance is inverted, with 
+50% of the active population working in the 
+more labour-intensive agriculture and fisheries 
+sector, 40% in the services sector and 10% in 
+the industrial sector. 
+Although resource exports boost the national 
+economy, they also expose it to external 
+fluctuations in commodity prices. Extractive 
+industries provided approximately 38% 
+of national revenues (excluding foreign 
+development aid) in 2011, up from 24% in 2010. 
+In 2008, exports of crude oil brought in USD 
+326 million, whereas fossil fuel imports cost 
+the country USD 546 million. 
+Although the Mauritanian economy will remain 
+exposed to commodity price variations for its 
+export revenues, it can help to reduce price 
+risks by increasing its use of domestic energy 
+resources. The country has acknowledged 
+this situation in its national policies by, among 
+other solutions, supporting the use of offshore 
+natural gas for electricity production as well as 
+promoting renewable energy.
+ENERGY AND DEVELOPMENT
+Energy is explicitly acknowledged as a 
+development priority of the country and is a 
+key element of several of the main themes of 
+the government’s Poverty Reduction Strategy 
+Paper (PRSP) (IRM, 2000, 2006, 2011). These 
+include aims to: 1) accelerate economic growth 
+to improve the economy’s competitiveness 
+and reduce its dependence on external factors,
+2) develop the growth potential and productivity 
+of the poor by promoting the sectors that 
+directly benefit them and the areas in which 
+they are concentrated, 3) develop human 
+resources and improve access to services, and 
+4) promote institutional development and 
+governance, a goal that can be linked to efforts 
+to reform the energy sector. 
+Access to energy services remains limited 
+in Mauritania due to various geographical 
+factors, including widely spread large 
+urban population centres (Nouakchott and 
+Nouadhibou) and significant rural populations 
+distributed throughout the country. The share 
+of households connected to the grid has 
+increased from 18% in 2000 to 34% in 2013 
+(MPEM, 2014). 
+Electricity demand is growing by 10% per year, 
+led primarily by industry needs and fuelled in 
+part by rising domestic demand. The current 
+installed generation capacity is around 350 
+megawatts (MW), of which 75% is based on 
+heavy fuel oil (HFO). In a “high-growth” scenario 
+for the electricity sector, grid-connected demand 
+(excluding mining activities) is projected to grow XII
+by 450% between 2010 and 2030 (INTEC, 2012). 
+This underlines the need for sound policies to 
+lead future capacity expansion. 
+Planned investments in national electricity 
+capacity, including several new wind and solar 
+projects, would increase the contribution of 
+renewables to 36% of capacity by 2020 and 41% 
+by 2030. However, these numbers do not include 
+demand from the mining sector, which is mostly 
+off-grid (due to the remote location of production 
+sites) and is expected to represent nearly three - 
+quarters of total electricity demand by 2025. If 
+mining activities are included, the overall demand 
+growth could near 600% by 2030.
+Mauritania has significant renewable energy 
+resources. The estimated solar photovoltaic 
+(PV) potential is 2000-2300 kilowatt-hours per 
+square metre per year (kWh/m2
+/year), with the 
+lowest radiation measurements being on par with 
+the highest solar resources in southern Europe. 
+For wind, the values are similarly high but are 
+more localised around coastal areas, with peak 
+wind speeds of more than 9 metres per second 
+(m/s) in the Nouadhibou region. 
+These resource potentials indicate that 
+renewable energy sources can be competitive 
+with HFO-generated electricity in most 
+regions, to be balanced via load adjustment 
+to account for variability in production. In 
+addition, significant hydropower resources 
+have begun to be tapped through the Senegal 
+River Basin Development Authority (OMVS), 
+although the potential for small hydropower 
+still needs to be assessed in the country’s 
+south. Biomass, while still used primarily in 
+a traditional form, has the potential to meet 
+many energy needs if managed carefully in a 
+context of local desertification.
+RENEWABLE ENERGY STRATEGY
+Thus far, renewable energy options in Mauritania 
+have been developed on an ad hoc basis. This 
+has resulted in a project-led renewable energy 
+of two large projects in the country: a 15 MW 
+solar PV plant, inaugurated in 2013, and a
+30 MW wind project in Nouakchott, which began 
+construction in 2014. This project-led policy has 
+helped to jumpstart renewables deployment in 
+the country, both for on- and off-grid uses. The 
+challenge now is to capitalise on this experience 
+and to further develop these nascent solutions 
+while maximising the country’s capacity to 
+boost employment while cutting costs. 
+Mauritania has a unique opportunity to develop 
+its local economy and industry while addressing 
+some of the economic challenges it faces today, 
+including the need to generate local employment 
+and to reduce the economy’s exposure to 
+commodity-related price shocks. In this vein, the 
+country may wish to further develop regional 
+co-operation with both the Maghreb region 
+and West Africa, with the aim of becoming an 
+exporter of renewable electricity. 
+Based on its economic development priorities, 
+Mauritania has identified three key “serviceresource pairs” – priority pairings of energydemanding services with relevant renewable 
+energy resources (IRENA, 2013a) – within the 
+RRA process. These are:
+•	 Access to renewable energy services for 
+rural and off-grid applications – including 
+services based on solar, small hydropower, 
+biomass and wind energy;
+•	 Productive activities for economic 
+development – such as industry and mining 
+applications and fishery transformation 
+activities – based on solar and wind 
+energy; and
+•	 Centralised electricity production for gridbased power, based on solar and wind energy.
+Yet despite the significant renewable resources 
+at the country’s disposal and recent project 
+installations, several recurring challenges have been 
+identified. To capitalise on recent and historical 
+experience in the renewable energy sector, the XIII
+•	 The lack of a clear strategy for renewable 
+energy deployment, which has resulted in 
+overlap among programmes and agencies 
+and in a lack of co-ordination of actions in 
+the field of renewables.
+•	 The lack of legislative and regulatory 
+stability, including an electricity tariff 
+structure that fails to accurately reflect 
+costs and a regulatory authority that 
+remains limited in its scope. The lack of legal 
+and regulatory stability impedes necessary 
+investment in the electricity system.
+•	 A range of capacity-building issues, including 
+the need to better capitalise on national 
+experience in the renewable energy sector 
+to increase knowledge and understanding 
+of renewable resources, technologies and 
+their potential. These needs are widespread 
+within the economy, ranging from public 
+actors to the private sector.
+To address these and other issues identified 
+during the RRA process, country stakeholders 
+defined an initial plan of five actions, covering 
+all three key service-resource pairs: 
+ACTION 1: DEVELOP A NATIONAL 
+POLICY ON RENEWABLE ENERGY
+Mauritania needs to develop a comprehensive 
+national renewable energy policy that 
+embraces renewable technologies within a 
+long-term vision that recognises the benefits 
+of large-scale renewables development. This 
+policy should confirm the current renewable 
+generation targets of 15% by 2015, 20% by 2020 
+and 35% by 2030. However, the country may 
+consider increasing these targets, as it already 
+has exceeded the target set for 2015. 
+The policy should also confirm the current 
+targets for electrification of 108 villages in 
+nine of the poorest provinces (wilayas), as well 
+as support for current collective and private 
+electrification initiatives in 192 local areas 
+to reflect the existing PRSP and Millennium 
+Development Goal (MDG) targets for urban and 
+rural electrification (80% and 40%, respectively, 
+by 2015). For the country to meet these targets, 
+however, the policy also needs to include 
+equalisation (pérequation) and tariff principles 
+in order to enable sufficient revenue generation 
+to facilitate new project development, including 
+off-grid. Finally, the policy should outline 
+regulatory and institutional frameworks that 
+are needed to ensure better co-ordination of 
+national programmes and projects.
+ACTION 2: UPDATE THE ELECTRICITY 
+CODE AND ITS ASSOCIATED 
+IMPLEMENTING DECREES
+To be effective, the renewable energy strategy 
+and related targets need to be reflected in future 
+decrees and legislation. The new electricity 
+code under development should specify these 
+objectives as well as the underlying rules for 
+promoting renewables in each sector. The 
+electricity code also needs to help level the playing 
+field in terms of generation costs. Current ongrid generation costs need to be better reflected 
+in the power pricing structure to allow for a 
+competitive comparison of generation solutions 
+(i.e. renewable energy). In addition, because the 
+country may become an exporter of renewable 
+power, the electricity code should reflect this 
+option for potential regional co-operation.
+ACTION 3: CREATE THE 
+INSTITUTIONAL AND REGULATORY 
+FRAMEWORK TO FACILITATE 
+DEPLOYMENT OF RENEWABLES
+Beyond the electricity code itself, Mauritania needs 
+to create a favourable institutional and regulatory 
+framework for the deployment of renewables. A 
+first step is to optimise current interventions in the 
+energy sector by clearly addressing the overlap 
+among agency, state and non-governmental 
+(NGO) activities in the renewable energy area. 
+The country could reinforce this message through XIV
+specific to renewables. To create sufficient 
+local capacity for maintaining and installing 
+renewable energy projects, the country 
+also needs to reinforce vocational training 
+(formation professionelle) and education 
+programmes. Although some resources and 
+infrastructure already exist, these could be 
+exploited more broadly. Finally, the local 
+human resources that have been developed 
+to implement and maintain existing projects 
+should be better deployed to help reduce the 
+overall national costs for maintaining on- and 
+off-grid renewable projects.
+With regard to research and development 
+(R&D), the creation of a renewable energy 
+monitoring centre and training resources, 
+among other actions, could help to develop 
+national competencies. The country should 
+also consider the development, verification 
+and dissemination of a wind and solar atlas, 
+with the collected information then integrated 
+into a public database on renewable energy 
+resources. Applied research related to 
+nationally specific solutions and needs should 
+be developed within existing universities and 
+engineering schools. This would necessitate a 
+dialogue with all stakeholders from the public 
+and private sectors to ensure relevance of the 
+research topics to the country needs. 
+ACTION 5: DEVELOP A FINANCIAL 
+FRAMEWORK AND INCENTIVE 
+SCHEMES 
+A key barrier for renewable energy 
+development is the cost and availability of 
+financing. The government of Mauritania 
+may be able to provide the most effective 
+support to renewables in this area, by 
+promoting stable legislative rules that 
+would lessen inherent country risks and 
+help to greatly reduce the cost of financing 
+projects. Technology risks could be reduced 
+through the promotion of a national human 
+resources capacity for installation and 
+maintenance, and by developing technical 
+•	 Revise the legal framework to enhance 
+the role of regulatory agencies in the 
+renewable energy area and to cover all 
+actors in the sector (including the national 
+electric utility, SOMELEC).
+•	 Create a renewable energy unit (pole des 
+energies renouvelables) dedicated to these 
+resources within the Directorate of Electricity 
+under the Ministry of Petroleum, Energy and 
+Mines (MPEM).
+•	 Encourage off-grid industrial Independent 
+Power Producers (IPPs), which represent 
+a large majority of the national electricity 
+generation capacity, to mix their current 
+capacity with renewable sources. On a large 
+scale, renewable energy can contribute to 
+the production of electricity in Mauritania 
+through IPPs and other private producers. 
+In general, Mauritania should modernise 
+its legislative and regulatory frameworks 
+to enable private investment in energy 
+production in order to meet industrial 
+needs. The economies of scale might 
+bring savings to off-grid consumers, 
+while eliminating the administrative and 
+technical investments and responsibilities 
+that are attached to electricity generation. 
+All stakeholders in the RRA process identified 
+the need to create a dedicated renewable 
+energy “monitoring centre”. This entity could 
+be in charge of capitalising on previous 
+experiences within the country as well as 
+centralising all renewable energy-related data, 
+including renewable resource assessments.
+ACTION 4: PROMOTE CAPACITY 
+BUILDING AND RESEARCH 
+PROGRAMMES, DEDICATED 
+TRAINING AND EDUCATION 
+Considering the breadth of renewable
+power capacity being installed both on- and 
+off-grid, Mauritania needs to develop capacityXV
+conditions of the country and its impact 
+on the operating efficiency of equipment. 
+In addition, the government could create 
+a specific national fund dedicated to 
+promoting renewable energy for off-grid 
+access, to further encourage these solutions. XVI
+Mauritania needs to find alternative 
+sources of employment to balance 
+the structural lack of jobs in the 
+extractive industries. Extreme poverty 
+is not declining as much as overall 
+poverty in the country, indicating 
+the lack of decent employment 
+opportunities, particularly in
+rural areas. 1
+I. Economic and 
+energy background
+INTRODUCTION
+The Islamic Republic of Mauritania is a
+Saharo-Sahelian country in West Africa, 
+covering 1 030 000 square kilometres (km²) 
+and with an Atlantic coastline of 700 km. In 
+2013, the population was 3 461 041, with a 
+total of 557 248 households and an average 
+household size of 6.1 persons. A large majority 
+of the population is concentrated in the capital 
+city of Nouakchott (with 809 360 inhabitants) 
+and in the northern city of Nouadhibou, as 
+well as in a strip running between the Route 
+de l’Espoir and the southern border. Just over 
+half (51%) of the population lives in urban 
+areas, and the urban population is growing by 
+2.9% annually (UN, 2014). 
+GDP per person in Mauritania was USD 1 247 
+in 2012, and overall GDP grew 6.7% between 
+2012 and 2013. The economy is based mainly 
+around mining and quarrying activities, with 
+the country exporting primarily iron ore, 
+copper and gold, in addition to crude oil. Oil 
+production from the Chinguetti field totalled 
+2 242 358 barrels (or 6 143 barrels per day 
+[/day]) in 2013, and the country soon will 
+extract natural gas, to be used exclusively 
+for electricity production. Overall, industrial 
+activities account for 48% of GDP, ahead of 
+the service sector at 37% and agriculture 
+(including fisheries) at 10%. 
+In terms of employment, these figures 
+are reversed, with 50% of the workforce 
+employed in agriculture, 40% in the service 
+sector and 10% in industrial activities. Despite 
+the importance of mining and other extractive 
+industries to the economy, these industries 
+are not as labour-intensive and thus employ 
+unemployment rate is estimated at 10% of the 
+workforce, down from 30% in 2008. 
+Extractive industries accounted for roughly 38% 
+of total government revenue in 2011 (excluding 
+official development assistance), up from 24% 
+in 2010. The mining sector represents 83% of 
+the extractive sector revenue, compared with 
+17% for oil. Notably, Mauritania spent nearly 
+USD 546 million on petroleum product imports 
+in 2008, compared to total export revenue of 
+USD 1 627 million, of which USD 326 million 
+came from crude oil exports. (Although the 
+country’s fishing industry is highly developed, 
+making it a net exporter in this sector, this 
+is not necessarily reflected in the balance of 
+payments, as fisheries exports do not bring in 
+as much foreign currency as mining, and the 
+country exports most of its fishery products 
+unprocessed.) 
+This shows how dependent Mauritania is on 
+commodity prices, both for its exports and 
+for its import costs. This leaves the economy 
+exposed to external economic shocks. A 
+2013 report from the International Monetary 
+Fund notes: “Several potential risks that 
+may adversely affect [the country’s] growth 
+outlook are still very real threats, and the 
+economy remains vulnerable to adverse 
+changes to terms of trade. The top priorities 
+remain reducing the economy’s vulnerability 
+to external shocks” (IMF, 2013). In terms of 
+exports, mining will continue to be vulnerable 
+to fluctuations in world commodity prices. 
+However, it is possible to reduce the country’s 
+dependence on imported resources (including 
+petroleum products) through greater use of 2
+Mauritania also needs to find alternative 
+sources of employment to balance the 
+structural lack of jobs in the extractive 
+industries. Extreme poverty is not declining 
+as much as overall poverty in the country, 
+indicating the lack of decent employment 
+opportunities, particularly in rural areas. In 
+a country like Mauritania, the decentralised 
+nature of renewable energy can have enormous 
+benefits, particularly for poorer rural areas, 
+as renewable energy technologies can often 
+offer a secure and reliable energy alternative 
+that is able to increase the standard of living 
+of rural and less developed communities. 
+Further, local authorities can invest in local 
+renewable energy infrastructure and services, 
+allowing for significant local added value 
+creation in terms of job creation and boosting 
+local economic growth (IRENA, 2014)
+ENERGY IN THE SOCIO-ECONOMIC 
+CONTEXT
+Energy has been explicitly identified as one of 
+the priorities for Mauritania’s development. The 
+country’s Poverty Reduction Strategy Paper 
+(PRSP) covers four main themes, which are 
+summarised as follows (IRM, 2000, 2006, 2011):
+•	 The first theme is aimed at accelerating 
+economic growth to improve the 
+competitiveness of the economy and to 
+reduce its dependence on external factors.
+•	 The second theme is aimed at enhancing 
+the growth potential and productivity of 
+the poor. This involves the promotion of 
+sectors that directly benefit the poor and 
+areas with a high concentration of poverty. 
+This focus, based on the implementation of 
+public investment programmes, will help 
+reduce inequalities and improve the poor’s 
+resource base.
+•	 The third theme focuses on developing 
+human resources and access to basic 
+services. This area will, in the long run, 
+through its impact on productivity and 
+by improving living conditions for the 
+poor. Access to education and health, in 
+particular, significantly reduces the poor’s 
+vulnerability.
+•	 The fourth theme aims to promote genuine 
+institutional development based on good 
+governance and on the full participation of 
+all poverty-reduction stakeholders.
+The four themes of the PRSP can be linked 
+indirectly or even directly to energy policy, 
+including the promotion of renewables in 
+the country. The current system of access to 
+energy services, focused primarily on diesel 
+generators, barely mobilises the resources 
+required to pay for fuel and, by extension, 
+renewal costs. In addition, the PRSP includes a 
+target to increase the renewable share of ongrid electricity generation to 15% in 2015 (IRM, 
+2011) and 20% in 20201 (IRM, 2006). 
+Renewable energy sources present a significant 
+opportunity, among other things, to:
+•	 help secure the country’s energy supply;
+•	 reduce its dependence on imported oil and 
+stabilise the cost of electricity generation; and
+•	 contribute to the energy supply in areas 
+not covered by the national grid.
+In addition, the use of renewables could reduce 
+the overall expense of efforts to provide basic 
+services to off-grid populations. Moreover, 
+deploying renewable energy to a level that 
+goes beyond domestic needs could allow the 
+country to become an exporter of clean energy 
+to neighbouring countries in the region and 
+beyond, thereby accelerating its development.
+To take advantage of these potential 
+contributions, however, Mauritania must better 
+integrate and appropriate the benefits of 
+concerted development of renewable energy. 
+This would require implementing a national 3
+resources, but it especially requires reducing 
+the barriers to renewables development. This 
+in turn necessitates implementing adequate 
+and effective economic policies, creating 
+a framework for effective regulation, and 
+developing strong and dynamic institutions 
+as well as a sustained capacity-building 
+programme.
+REGIONAL CONTEXT
+Mauritania straddles two distinct regions and 
+cultures. To the north, it is a member of North Africa 
+and the Arab Maghreb Union (AMU), and to the 
+south and west, it is an “observer” in the Economic 
+Community of West African States (ECOWAS). 
+The AMU, a Pan-Arab trade agreement 
+formally established in 1989, includes a 
+Ministerial Committee on Infrastructure, and 
+the General Secretariat of the AMU includes an 
+Infrastructure Directorate. There is now also a 
+Maghreb Charter on Environmental Protection 
+and Sustainable Development and a strategy 
+for renewable energy. 
+Mauritania was a founding member of 
+ECOWAS but withdrew from the organisation 
+in 2000; however, it continues to participate 
+as an observer and to engage in a number of 
+projects, including those related to regional 
+electrical interconnection. Moreover, the Banda 
+gas field project, an offshore project being 
+planned for electricity production, would not 
+be economically viable without the possibility 
+of exporting power to ECOWAS countries 
+(in this case, Guinea, Mali and Senegal). The 
+project includes several planned transmission 
+lines, either as an extension to the 225 kilovolt 
+(kV) transport network to Nouadhibou, or via 
+a proposed new 225 kV transport line between 
+Nouakchott and Tobène, Senegal.
+1 The renewable share of capacity is 19.8% today and is
+expected to increase to 26% following construction of the new
+30 MW wind farm in Nouakchott. Planned dual-fuel plant 
+investments would change this share to 25% in 2016 and 23%
+in 2018, and planned investments in combined-cycle natural
+gas power plants from 2022 would reduce this share further.
+In 2012, ECOWAS adopted a regional renewable 
+energy policy, which includes a plan for 
+increasing the share of renewables in order to 
+support the development policy of the West 
+African Power Pool (WAPP) and to contribute 
+significantly to energy access goals (ECOWAS, 
+2012). The mandate of the WAPP (a specialised 
+institution of ECOWAS) is to ensure regional 
+power system integration and the realisation of 
+a regional electricity market. WAPP comprises 
+public and private generation, transmission and 
+distribution companies involved in electricity 
+operations in West Africa. ECOWAS has also 
+established a Centre for Renewable Energy and 
+Energy Efficiency (ECREEE) to help countries 
+develop renewable energy support policies and 
+to provide related decision-support tools. 
+Mauritania has also been a member of the 
+Senegal River Basin Development Authority 
+(OMVS) since that organisation’s inception in 
+1972. The mission of the OMVS is to:
+•	 achieve food self-sufficiency for the 
+people of the basin and sub-region,
+•	 secure and improve people’s incomes,
+•	 preserve the balance of ecosystems in the 
+basin,
+•	 reduce the vulnerability of member state 
+economies to climate and external factors, 
+and
+•	 accelerate the economic development of 
+the member states.
+Within the OMVS, Mauritania has participated 
+in the construction and development of the 
+Manantali dam (which began producing 
+electricity in 2001) and the Félou dam (which 
+began producing electricity in 2013), for 
+which it has drawing rights of 15% and 30%, 
+respectively. The country’s allocation of 
+projected OMVS dams has increased to 25%, 
+on par with the other three OMVS countries 
+(Guinea, Mali and Senegal). 4
+Figure 1: Organisation of the energy sector
+Mauritania is also part of the Permanent 
+Interstate Committee for Drought Control 
+in the Sahel (CILSS), which brings together 
+nine countries in the Sudano-Sahelian region 
+for discussions about food security and the 
+fight against the effects of drought and 
+desertification. In addition, the country is an 
+active member of the Maghreb Committee 
+for Electricity (COMELEC), via the national 
+utility SOMELEC. For now, the country is not 
+interconnected to the COMELEC network, but 
+a connection is planned from Nouadhibou to 
+Morocco, which would strengthen Mauritania’s 
+position and open up export prospects to 
+North Africa and Europe, given the high wind 
+potential in the Nouadhibou region.
+Because it is no longer an ECOWAS member, 
+Mauritania does not, as such, have an integrated 
+regional approach for energy issues. However, 
+with some elements of its national policy directly 
+touching on energy policy in West Africa, it is 
+still indirectly linked, for example through OMVS 
+hydropower activities and the Banda gas project. 
+Additionally, in 2013, Mauritania joined the United 
+Nations Sustainable Energy for All initiative, and 
+it also recently joined RCREEE, which includes as 
+members 15 other Arab countries, including all 
+North-African Arab countries aside from Sudan 
+and Djibouti, as well as other West-African Arab 
+countries.
+It is clear that anchoring national policy in regional 
+policies, as a reflection of Mauritania’s pivotal 
+position between North and West Africa, would 
+add visibility to the country’s objectives and could 
+allow it to benefit from effects of scale, especially 
+in the field of renewable energy.
+ENERGY SECTOR INSTITUTIONS
+The key renewable energy stakeholders in 
+Mauritania are government ministries, national 
+agencies, non-governmental organisations 
+(NGOs) and the private sector. The roles of 
+several of these players are outlined in figure 1 and 
+summarised briefly below.
+REGULATING LAW
+(2001)
+REGULATING
+AUTHORITY
+APAUS ADER
+INDEPENDENT
+PRODUCERS
+SNIM
+MINISTRY IN CHARGE OF ELECTRICITY
+Regulating electricity,
+water, telecommunications
+and postal services
+Enforces the code
+Approves tenders, oversees
+their launch, evaluates bids
+and awards the licenses
+and evaluations
+Draws up the specifications
+for public service delegations
+for electricity
+Determines the amount of
+compensation due to
+delegations
+(e.g. MRO 200 million in 2010)
+Develops, implements and monitors the enforcement of policies, strategies and programmes in the field of electricity
+ELECTRICAL CODE (2001)
+Governs the liberalisation of the generation, transmission, distribution
+and the resale of electricity, subject to the licensing under the control of
+the Regulatory Authority (2001).
+SOMELEC CONTRACT
+PROGRAMME
+Intervenes in urban and rural areas
+(Moughataas)
+Ensures the generation, transmission,
+distribution, purchase and sale of electricity
+in urban areas
+Currently manages 44 centres
+Rates administered:
+• 36.01 MRO/kWh social; 60% of customers
+ 20% of revenue
+• 59 MRO/kWh
+165 000 subscribers
+Balancing subsidy in 2013: 6 billion MRO
+Self producer
+Distribution: Zoueratt
+Self producer
+MCM
+Self producer
+TAZIAST
+Agency for
+Universal public
+access to
+regulated services
+Intervenes in
+rural areas
+Construction of
+networks
+Thermal plants
+Large-scale
+maintenance for
+delegatee plants
+Solar kits
+Thermal plants
+Hybridisation of 
+plants
+Large-scale
+maintenance for
+delegatee plants
+Private law
+association created
+in 2000
+recognised to
+be of public
+interest in 2001
+Intervenes in
+rural areas
+6 000 subscribers / 20 centres / Rates:
+(1) 51 MRO/kWh 
+(2) 81 MRO/kWh
+(3) 90 MRO/kWh
+SPEG Network production
+SOMELEC: 40*
+SNIM: 26%
+Kincross KGP: 36%5
+Ministry of Petroleum, Energy and Mines 
+(MPEM):
+MPEM oversees the main governance 
+structures for energy, including the Department 
+of Electricity and Energy Management 
+(DEME) for the fields of electricity (under 
+the supervision of SOMELEC) and operators 
+on- and off-grid. The Directorate General 
+of Hydrocarbons (DGH) is responsible for 
+granting and monitoring operating licences 
+and distributing petroleum products. 
+These governance authorities, among others, 
+aim to supervise operational structures, such 
+as SOMELEC and the Rural Electrification 
+Development Agency (ADER) for DEME 
+(with the Agency for the Promotion of 
+Universal Access to Basic Services, APAUS, 
+falling under the Ministry of Economic Affairs 
+and Development, MAED); and SOMIR 
+(Mauritanian Refining Industries Company), 
+SMH (the national hydrocarbon company), 
+SOMAGAZ (Mauritanian Gas Company) 
+and GIP (Petroleum Facilities Management 
+Company) for the DGH. 
+Multisectoral Regulation Authority (ARM):
+Established in 2001 under Law 2001-18, the ARM 
+is responsible for regulating activities in the areas 
+for which it is responsible, including the water, 
+electricity, telecommunications and postal services 
+sectors (IRM, 2001a). For now, in the area of 
+electricity, the ARM is in charge of regulating only 
+authorised service providers (ASPs); SOMELEC is 
+not yet included in its scope of action.
+Agency for the Promotion of Universal Access 
+to Basic Services (APAUS):
+Created in 2001 under ORD 2001-06 (IRM, 
+2001b), APAUS is a multi-sectoral public 
+entity in the areas of water, energy and 
+telecommunications. As an independent body, 
+it receives independent funding. Its mission is to 
+promote universal access to services through: 
+advocacy actions, some of which are specific 
+to the private sector; resource mobilisation; 
+ensuring coherence and convergence between 
+the strategies of external partners interested 
+in universal access; and the design and 
+implementation of pilot projects that aim to 
+demonstrate the viability of guidelines and 
+disseminate lessons learned. 
+APAUS also manages the government’s 
+Fund for Universal Access to Services 
+(FAUS), which aims to gradually consolidate 
+most of the resources used for expanding 
+and operating regulated services. APAUS 
+conducts electrification and infrastructure 
+development actions in some villages, while 
+being responsible for heavy equipment 
+maintenance for ASPs. 
+Agency for the Development of Rural 
+Electrification (ADER):
+ADER is a non-governmental and not-for-profit 
+association that carries out rural electrification 
+actions under the supervision of MPEM. 
+Previously invested mainly in the distribution 
+of PV kits, ADER now operates more to 
+complement the projects run by APAUS.
+Mauritanian Electricity Company (SOMELEC):
+SOMELEC was set up in 2001 following the split 
+of SONELEC (the National Company of Water 
+and Electricity), with a view to liberalising 
+the electricity market. It is responsible for the 
+generation, transport, distribution and sale of 
+electricity in urban and suburban areas across 
+the country. It is also in charge of managing 
+remote networks in the regional capitals 
+(moughataas) and for managing solar and 
+wind power plants connected to the grid, 
+including the 15 MW solar PV plant and the 30 
+MW wind plant in Nouakchott. 
+Company for the Production of Energy from 
+Gas (SPEG):
+SPEG was founded in 2012 by its shareholders 
+(SOMELEC 40%, SNIM (the National Company 
+for Industry and Mining) 26% and Kinross Gold 
+Power 34%) to develop, finance and operate 
+energy projects. The primary purpose of SPEG 
+is to capitalise on the natural gas resources 
+of the Banda offshore field, in particular 
+developing them for electricity production.6
+Figure 2: Cost of hydrocarbon imports, by source, 2002-2012 (in USD)
+Petrol Kerosene Diesel Fuel Oil Butane Gas
+0
+100 000 000
+200 000 000
+300 000 000
+400 000 000
+500 000 000
+600 000 000
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012
+Mining companies:
+Some of the mining companies run village 
+electrification operations on which many 
+villages depend. The companies are 
+considering the possibility of reducing their 
+operating costs through the increased use of 
+renewable energy to meet off-grid needs.
+NGOs:
+A number of NGOs, including international 
+ones, are involved in the energy sector, 
+providing both awareness and demonstration 
+projects on the possible use of renewables, 
+especially in rural areas.
+ENERGY SUPPLY AND DEMAND
+Production
+The full extent of Mauritania’s oil and gas 
+reserves remains unknown; however, these 
+resources are large enough to be commercially 
+exploited. The Regional Atlas on West Africa 
+(OECD, 2009) has estimated the country’s oil 
+reserves at 1 billion barrels, which would put 
+it just behind Nigeria in total reserves. But 
+investors have sometimes been disappointed 
+with the results of operations. Oil fields such 
+as Chinguetti, used exclusively for export, 
+saw output fall from 70 000 barrels a day 
+in 2006 to 6 143 barrels a day in 2013. This 
+uncertainty in production may be due in 
+part to the lack of knowledge about the full 
+extent of these resources. To date, the country 
+remains under-explored, with just 1.7 wells per
+10 000 km2
+ in the licensed areas, compared 
+to a worldwide average of 50 wells per
+10 000 km2 (Zawya, 2013).
+The Banda gas field, with an estimated
+1.2 trillion cubic feet of reserves (MPEM, 
+2014), is expected to enter into production 
+by 2017. The start of operations will depend 
+on the finalisation of negotiations on gas use 
+initiated as part of the SPEG framework. The 
+gas reserves of the Banda field do not justify 
+activities such as building gas liquefication 
+facilities to enable export on a global scale, 
+building a pipeline to connect to the West 
+African Gas Pipeline, or even exporting gas to 
+Morocco. The decision was made to use the 
+gas to produce electricity for domestic use 
+by mining companies, with the surplus then 
+exported to the OMVS area.
+Demand
+Oil consumption in Mauritania was estimated 
+at 13 000 barrels a day in 2012 (MPEM, 2014). 
+This level of demand corresponds to a net 
+import of 7 000 barrels a day. Despite its 
+domestic production of crude oil, the country 
+is a net oil importer because it must import 
+all of its refined oil resources. This situation 
+affects oil import costs as well. Figure 2 shows 
+the increase of these costs during 2002-2012, 
+with net predominance of diesel, which is 
+used mainly in the transportation sector and 
+in off-grid power stations.7
+Annual primary energy consumption in 
+the country was estimated at 4.8 million 
+barrels of oil equivalent (0.7 million tonnes 
+of oil equivalent, or toe) in 2010 (EIA, 
+2013). Annual consumption per capita is
+0.3 toe (GTZ, 2009), or 0.17 toe if traditional 
+biomass is excluded. Mauritania’s energy 
+mix comprises approximately 67% biomass 
+(wood and charcoal), followed by petroleum 
+products, which account for the vast majority 
+of commercial energy used in the country. 
+Electricity consumption is increasing by 
+more than 10% per year, yet less than 5% of 
+the rural population has access to electricity 
+(EIA, 2013).
+Overall, access to energy services is limited in 
+the country. Major efforts are focused on rural 
+electrification, but the bulk of the population 
+remains dependent on non-commercial 
+energy resources for its needs (traditional 
+biomass provides 64% of primary energy 
+consumption). The main resources used to 
+generate electricity are imported, and all 
+petroleum products are imported due to 
+the lack of local refining capacity. Although 
+domestic natural gas exploitation will reduce 
+the country’s dependence on imports, any 
+lag in the extraction timeline could have a 
+significant effect on the economy.
+ELECTRICITY SYSTEM OVERVIEW
+Generation
+The main resource used in the country for 
+electricity production is heavy fuel oil (HFO), 
+which accounts for 75% of the installed 
+generation capacity (just over 315 MW total in 
+2013; see figure 3). Under the “high-growth” 
+scenario, excluding demand projections for 
+capacity, electricity demand (both on the 
+grid and from mining) is expected to increase 
+from 220 MW in 2013 to nearly 1 400 MW 
+in 2025, multiplying the current installed 
+capacity by six (INTEC, 2012). Notably, 75% 
+of this projected capacity is related to mining 
+sector demand (1 050 MW in 2025).
+The new gas project in Banda for electricity 
+production is expected to change the trends 
+of electricity generation. As figure 4 illustrates, 
+a significant drop in the contribution of 
+thermal power plants in the electricity mix is 
+expected in 2016 with the commissioning of 
+the 30 MW wind power plant and the 120 MW 
+dual-fuel plant (mixed HFO / natural gas), as 
+well as the completion of the upgrade and 
+additions to the distribution networks in 
+Nouakchott and within major cities, which 
+will be commissioned in 2015.
+Figure 3: Installed electricity capacity, by 
+source, 2013 (in MW) (SOMELEC, ASPs, 
+mining)
+Figure 4: Electricity generation by source, 
+2011-2016 (in GWh/year)
+Source: MPEM, 2014
+Source: APAUS, 2014b
+315
+HFO
+LFO
+Hydro
+Solar PV
+Wind
+4.4
+26
+48
+18
+Gas
+Solar PV
+Wind
+Hydro
+Thermal (oil)
+1500
+1000
+500
+0
+2011 2012 2013 2014 2015 2016
+2000
+Electricity generation (GWh/year)8
+With the country’s planned network capacity 
+additions, total generation capacity would 
+reach 752 MW by 2030, with 280 MW 
+from HFO and mixed power, 217 MW from 
+hydropower and 75 MW from solar and wind 
+(see table 1), for a total of 39% renewable 
+capacity connected to the grid. However, 
+these figures do not include additional 
+Transmission and distribution
+The Mauritanian transmission network is built 
+around the main centres of demand (see 
+figure 5). A 225 kV line (red line) runs south 
+along the coast to Rosso, then along the 
+planned capacity in the mining sector, 
+are not correlated in terms of planned 
+electricity generation, and do not account 
+for the systems used for rural electrification. 
+Moreover, in the event of a delay in planned 
+gas operations, the country will become even 
+more heavily exposed to volatile oil prices 
+and security of supply issues.
+border on the Senegal side before joining the 
+OMVS network at Dagana. Transmission along 
+the border is provided by a 33 kV line (green 
+SOMELEC line) from Rosso to Boghé and a 
+90 kV line (blue OMVS line) from Boghé to Matam.
+Table 1: Overview of grid-connected electricity generation plants under the high-growth scenario
+Source: INTEC, 2012; MPEM, 2014
+Name Plant Type
+Power 
+available 
+(MW)
+Year of 
+commissioning
+Last year 
+planned
+Manantali
+Félou
+Gouina
+Gourbassi
+Bouréya
+Koukoutamba
+Badoumbé
+Total Hydropower
+Hydropower
+(Available power to 
+Mauritania)
+30
+18
+35
+6.25
+40.25
+70.25
+17.5
+217.25
+2002
+2013
+2016
+2017
+2021
+2023
+2025
+2030
+2030
+2030
+2030
+2030
+2030
+2030
+Total Natural Gas Combined-cycle
+natural gas 180
+Dual 1
+Dual 2
+Total Mixed
+Mixed HFO / natural gas 
+(114)
+120
+54
+174
+2015
+2018
+2030
+2030
+Arafat 1 rehabilitated
+Arafat 2
+Wharf
+Nouadhibou
+Total HFO
+HFO
+39
+8.75
+36
+22
+105.75
+2014
+2011
+2011
+2013
+2023
+2020
+2014
+2030
+Wind Farm Nouakchott Wind 30 2014 2030
+Solar Nouakchott
+Solar 2 Nouakchott
+Total Non-Hydro 
+Renewables
+Solar PV
+15
+30
+75
+2013
+2015
+2030
+2030
+TOTAL 7529
+Figure 5: Electricity network in Mauritania, 2013 and plans for 2018
+Source: MPEM, 2014
+The boundaries and names shown on this map do not imply any official endorsement or acceptance by IRENA.
+• Tourine
+• Nouadhibou
+• Nouakchott
+• Rosso
+• Mâl
+• Bogué
+• Kaédi
+• Sélibaby
+• Kiffa
+• Tintane
+• Ayoun el Atrous
+• Tidjikja
+• Akjoujt
+• Atâr
+• Néma • Timbédra
+• Adel Bagrou
+• Tourine
+• Nouadhibou
+• Rosso
+• Mâl
+• Bogué
+• Kaédi
+• Sélibaby
+• Kiffa
+• Tintane
+• Ayoun el Atrous
+• Tidjikja
+• Akjoujt
+• Atâr
+• Néma • Timbédra
+• Adel Bagrou
+• Nouakchott
+As figure 5 illustrates, the network is expected 
+to expand greatly by 2018. Two new 225 kV 
+line projects (red lines) are planned as part of 
+the Banda gas field operations, one extending 
+the transport network to Nouadhibou in the 
+north (and extending to the mining areas 
+within the country), and the other running 
+south to Senegal, allowing for cross-border 
+export. Additional 90 kV and 33 kV network 
+extensions are planned in the country’s south 
+to increase population access. 
+The rate of access to electricity is low in 
+Mauritania, due in part to the difficulty 
+of extending the network and to the 
+scattered nature of demand, which makes 
+interconnection difficult. Overall, it is 
+estimated that the number of households 
+connected to the network increased from 
+22% in 2000, to 24% in 2004, and to 34% in 
+2013 (see table 2). 
+National access rate 34%
+Urban 58%
+Rural 5%
+Nouakchott 70%
+Nouadhibou 68%
+Table 2: Rate of access to electricity, 2013
+Source: MPEM, 2014
+2 The rate of electricity access is the ratio between the number 
+of households covered and the total number of households in
+the area or district.
+To overcome these disadvantages, the 
+Master Plan for the Production and Transport 
+of Electricity considers extending the 
+network from the main consumption centres. 
+Connection areas within a radius of 120 km 
+from the point of generation/interconnection 
+are defined to measure the potential of 
+connection to the network/mini-grid. Some 
+of these areas could be connected directly 
+to the national grid, and others could be 
+powered by solar hybrid/diesel power (Kiffa 
+would be one of the first areas covered by 
+hybrid production and a 33 kV network).10
+Costs and tariffs
+Despite growing diversification, Mauritania’s 
+energy system remains heavily oil-dependent, 
+both on- and off-grid. Moreover, the country’s 
+geography and the distribution of population 
+and activity centres are not conducive to 
+development of the domestic energy market. 
+All of this affects electricity production costs 
+and tariffs.
+As in many West African countries, electricity 
+tariffs in Mauritania are established by 
+government decree, with the monthly 
+residential rate set relatively high at just above 
+USD 0.20 per 100 kWh (see table 3). Currently, 
+two sets of tariffs co-exist in the country: the 
+SOMELEC tariffs that are applied on- and offgrid in the regional capitals (moughataas), and 
+the off-grid tariffs proposed by the authorised 
+service providers (ASPs) (see tables 4 and 5).
+Table 3: Comparison of residential electricity rates in West Africa
+Table 4: Existing and proposed fee schedule for customers on and off the network
+Source: IRENA, 2013b; Mauritania from SOMELEC, 2013 and INTEC, 2012 
+* 2013 GDP was used for Mauritania
+Source: SNC Lavalin, 2013
+Note: Conversion rate is 1 Ouguiya (MRO)= EUR 0.00250428 = USD 0.00343770
+Name 
+Effective monthly 
+residential rate 
+(USD per 100 kWh)
+2009* monthly GNP 
+per capita (USD)
+Share of GNP per capita 
+spent for 100 kWh of 
+electricity (%)
+Gambia 0.280 98 21.7
+Senegal 0.238 139 17.2
+Mauritania 0.203 104 19.5
+Burkina Faso 0.200 103 19.5
+Côte d’Ivoire 0.119 134 8.9
+Ghana 0.820 128 6.4
+On- and off-grid tariffs (SOMELEC) Off-grid tariffs (ASPs/subcontractors)
+Current rate Proposed 
+monthly rate
+Domestic rate 
+<25 kWh 
+per month
+Middle rate 
+25-120 kWh 
+per month
+Higher rate 
+>120 kWh 
+per month
+Fixed premium:
+MRO 329 (USD 1.12) Energy prices:
+Fixed premium:
+MRO 600 
+(USD 2.06)
+Fixed premium:
+MRO 1 625 
+(USD 5.58)
+Fixed premium:
+MRO 7 513 
+(USD 25.77)
+Energy prices:
+<2 kVA: 
+MRO 30.74/kWh 
+(USD 0.11/kWh)
+Domestic: 
+MRO 36.01/kWh 
+(USD 0.12/kWh)
+Higher voltage: 
+MRO 59/kWh 
+(USD 0.21/kWh)
+Energy price:
+MRO 51/kWh 
+(USD 0.18/kWh)
+Energy price:
+MRO 81/kWh 
+(USD 0.27/kWh)
+Energy price:
+MRO 90/kWh 
+(USD 0.32/kWh)
+>2 kVA: 
+MRO 59.03/kWh 
+(USD 0.21/kWh)
+Medium voltage: 
+MRO 37/kWh 
+(USD 0.12/kWh)11
+Table 5: SOMELEC electricity tariffs
+Voltage Category
+Current rate
+Energy price 
+(USD/kWh)
+Monthly fixed 
+premium (USD)
+Low Voltage (LV) 
+Domestic
+0.12
+0.19
+0.19
+11.37
+49.59
+151.66
+Street lights 0.18 144.95
+Industries, crafts and 
+commerce 
+0.19
+0.18
+0.19
+11.37
+49.59
+151.66
+Administration 0.18
+0.19
+49.59
+248.24
+Medium Voltage 
+1
+st Category 0.12 13.97
+2nd Category 0.08 252.90
+Source: SOMELEC, 2014
+The off-grid ASP tariffs are maximum tariffs set 
+by the ARM under MPEM decree. The operators 
+–ASPs – apply these prices for each service area. 
+The ARM assesses the subsidy granted to each 
+ASP on a quarterly basis, using a grant taken 
+from the Fund for Universal Access to Services 
+(FAUS) managed by APAUS. Thus, the state, 
+through the ARM and via APAUS (FAUS), issues 
+the quarterly operating subsidies required to 
+ensure the economic sustainability of the ASPs. 
+Both on- and off-grid rates are subsidised and 
+currently do not allow the state to recover the 
+operating costs on either market. Furthermore, 
+the country’s average electricity generation 
+costs are higher than currently applied tariffs. 
+Because of the high share of oil-fired generation, 
+average generation costs are increasing, reaching
+USD 0.36/kWh in June 2012 (AFD, 2013), 
+compared with USD 0.34/kWh in 2011 and 
+USD 0.32/kWh in 2010. The updated generation 
+costs for a medium-sized (1-5 MW) diesel power 
+plant are estimated at USD 0.38/kWh (INTEC, 
+2012). These cost variations indicate how difficult 
+it is to compare conventional power generation 
+costs to renewable energy generation costs, and 
+point to the need to standardise the different 
+approaches and methods for estimating costs to 
+avoid creating confusion among decision makers, 
+These low electricity tariffs are one of the 
+reasons for SOMELEC’s strong deficits and 
+the slow progress in access to energy services. 
+To respond to these constraints, SOMELEC, 
+with the support of the state, has launched 
+a recovery plan and emergency measures. 
+In 2013, the ASP’s operating subsidy was 
+MRO 430 million (USD 1.37 million) for 6 000 
+subscribers, while SOMELEC’s balancing 
+subsidy was MRO 6 billion (USD 20.5 million) 
+for 180 000 subscribers (MPEM, 2014). 
+However, the state is still obliged to pay 
+annual operating subsidies every year. In 
+2013, the grant allocated to SOMELEC was 
+USD 20.5 million. 
+Emergency measures to balance SOMELEC’s 
+accounts focus largely on recapitalising the 
+company through capital injection and tariff 
+adjustments (IMF, 2012). But longer-term 
+actions have not been implemented. The Banda 
+gas project is expected to improve SOMELEC’s 
+financial situation by generating electricity 
+at low prices. Further, the average cost of 
+production is projected to drop significantly 
+starting in 2015, with the commissioning of the 
+30 MW wind plant and the 120 MW dual-fuel 
+plant, as well as completion of the upgrades 
+and additions to distribution networks in 12
+The country’s electricity price projections are 
+influenced in large part by the planned use of 
+natural gas for electricity generation via the 
+Banda project. However, given that the gas 
+is not yet available (with the production and 
+transportation facilities not yet built), it is difficult 
+to predict when the planned dual-fuel plant will 
+actually switch from oil to gas. Through the Banda 
+project, the country hopes to reduce electricity 
+supply costs sufficiently to enable reductions in 
+the annual operating grants for SOMELEC and 
+to maintain current electricity prices. Shrinking 
+SOMELEC grant budgets would ease pressure 
+on the state’s budget and free up additional 
+resources for rural electrification. In essence, the 
+current tariff structure focuses available grants 
+on the most well-off, grid-connected population, 
+without addressing the development needs of 
+the poorest populations.
+THE RENEWABLES READINESS 
+ASSESSMENT METHODOLOGY
+The Renewables Readiness Assessment 
+(RRA) process, developed by IRENA, is a 
+comprehensive assessment tool for the 
+promotion and deployment of renewable 
+energy. The present RRA process was 
+configured to assist Mauritania in the necessary 
+transition to a renewables-based energy future.
+IRENA became a full-fledged international 
+organisation in April 2011, with a mandate to 
+promote increased adoption and sustainable 
+use of all forms of renewable energy. With its 
+138 members and 33 countries in the process 
+of accession, IRENA has the global reach to act 
+as the focal point for international co-operation 
+and to underpin the effort to increase the 
+inclusion of renewables within the energy mix 
+of countries around the world. Through its work 
+programme, IRENA aims to position itself as a 
+platform for stimulating policy dialogue and 
+developing strategies to assist countries in their 
+renewable energy transitions.
+RRAs are now an integral component of the 
+in “Promotion of regional consensus to 
+adopt renewable energy through strategic 
+intervention”. The RRA process is designed 
+to provide inputs to national and regional 
+renewable energy action plans and to bring 
+together partners who can support the 
+implementation of action plans
+RAPID
+The RRA highlights the 
+requirements for the installation 
+and on-going operation of 
+renewable energy facilities
+in a country
+COMPREHENSIVE
+It covers all renewable energy 
+sources and services
+NATIONAL
+The RRA report, along with the 
+insights and recommended 
+actions therein, arise from a 
+country-led process
+THE RRA PROCESS IN MAURITANIA
+The Directorate of Electricity and Energy 
+Efficiency, within the Ministry of Petroleum 
+Energy and Mines, was the RRA representative 
+for Mauritania. 
+The process itself was initiated in collaboration 
+with the UNDP country office, which played a 
+historic role in this area in the country. Initial 
+preparations were funded by the UNDP 
+Mauritania Office, which chose to launch 
+an advisory mission, “Performing a national 
+strategy for renewable energy development 
+in Mauritania”, at the country’s request. This 
+mission was linked to the RRA process, after 
+a first consultation meeting between MPEM, 13
+Preparations were carried out by a national 
+consultant, an international consultant and 
+MPEM. These, in collaboration with IRENA 
+and UNDP, formed the “expert team” working 
+group of the RRA. The development of the 
+RRA methodology entailed an intensive 
+literature review of the various assessment 
+methodologies in the renewable energy sector 
+and interaction with key experts in the field. The 
+“expert team” invited a representative panel 
+of stakeholders to present the findings of the 
+preliminary report and to start a discussion on 
+the key needs, in order to promote the increased 
+use of renewable energy in the country. 
+The official launch of the RRA process was 
+held on 12-13 November 2013 in Nouakchott. 
+Approximately 70 participants from the public 
+and private sectors discussed the main issues 
+that the sector faces. The lively discussions 
+helped highlight a number of priorities that were 
+identified in sub-workshops, including access 
+to energy services, on-grid production and 
+productive activities. 
+In parallel, IRENA and MPEM launched a mission 
+to identify capacity-building needs, which 
+offered an opportunity to take stock of existing 
+in-country training and additional needs.
+The results of the RRA workshop and the 
+mission identification needs were then 
+included in an interim report. To determine 
+the prospects of the renewable strategy and 
+the initial findings of the report, a meeting 
+was held in early April 2014 with the RRAselected committee. The committee provided 
+comments and suggestions to finalise the 
+report and the recommendations. 
+The final report validation workshop was 
+organised on 28 May 2014 in Nouakchott. 
+Participants, as numerous as those for the 
+launch workshop, were very active and satisfied 
+with the report. Comments on the report were 
+summarised and included in the final report. 
+The process adopted for the country-level RRA 
+has several distinct stages, as shown in figure 6.
+Step 1a: Preparatory Work
+•	 Setting up of a RRA team initiated 
+and lead by National Government
+•	 Contextualisation of the RRA
+•	 Identification of key stakeholders, 
+renewable energy projects and 
+programmes
+•	 Roadmap and timeline for 
+assessment
+Step 1b: Planning the Process
+•	 Identification of appropriate 
+service–resource pairs
+•	 Preparation of list of interviewees, 
+appointments and tentative
+questionnaire for bilateral meetings
+1. SCOPING
+2. ASSESSING
+3. FINALISING
+Step 2a: Initial Plenary Session
+•	 Introductory session led by high-level 
+government official 
+•	 Discussion on status, potential 
+and barriers to scale up renewable 
+energy
+•	 Description of how to conduct the 
+RRA
+•	 Refining and selection of key 
+renewables applications
+Step 2b: The Assessment
+Filling out of RRA templates with regards to:
+•	 Policy & strategy
+•	 Business models 
+•	 Institutional, regulatory & market 
+structure
+•	 Resources, technologies & 
+infrastructure
+•	 Finance, building, operations & 
+maintenance
+Step 2c: Validation Workshop
+•National workshop to present and 
+Step 3a: Final Report
+•	 Final report-writing drawn on 
+preparatory materials, completed 
+RRA templates and list of actions
+•	 RRA Director comments and 
+approves work on behalf of the 
+country
+Step 3b: Follow-Up Actions
+•	 Working with IRENA
+•	 RRA Director and Government Focal 
+Point identify areas for subsequent 
+collaboration and action
+FIigure 6: Renewables Readiness Assessment process14
+CONDUCTING RRA IN MAURITANIA
+The RRA implementation in Mauritania 
+was initiated with an extensive literature 
+review of studies and reports relevant to 
+the national context of the energy sector 
+and the current renewable energy status. A 
+preliminary background report was prepared 
+in accordance with IRENA guidelines.
+The stakeholder mapping exercise identified 
+key entities in public sector bodies, financial 
+institutions, research bodies and the private 
+sector. A series of visits to Mauritania was 
+conducted between June 2013 and May 2014, 
+comprising the following activities:
+•	 An introductory meeting with the Ministry 
+of Energy and UNDP, focused on RRA 
+initiation and information sharing with key 
+stakeholders. 
+•	 An inception workshop with stakeholders 
+aimed at presenting the RRA template 
+information, eliciting further feedback on 
+the findings, and developing the action 
+agenda, which is the key RRA outcome 
+document.
+•	 A consultation process involving the key 
+governmental bodies to identify the main 
+elements and priorities of the action plan 
+and to give guidance on the direction 
+that the future renewable energy strategy 
+should take.
+•	 A validation workshop with key 
+stakeholders aimed at discussing and 
+validating the RRA recommendations.
+Aims and Objectives
+The key objectives of this report are: 
+•	 To assess the energy issues that Mauritania 
+currently faces and to review the status of 
+the country’s energy policy, specifically 
+regarding renewable energy. 
+•	 To critically review employed and planned 
+approaches for developing institutional 
+structures for deploying renewables.
+•	 To review the framework for providing 
+access to renewable energy, as well as 
+the current status of technology and 
+infrastructure to deliver it.
+•	 To critically assess the opportunities and 
+barriers for developing viable business 
+models for renewable energy projects. 
+•	 To suggest a set of actions to address the 
+identified barriers.
+ASSESS & REVIEW
+STATUS AND ISSUES
+of energy & renewable energy 
+in Mauritania
+APPROACHES
+for developing institutional 
+structures for renewable energy
+FRAMEWORK
+for providing access to 
+renewable energy
+TECHNOLOGY & INFRASTRUCTURE 
+for delivering energy & 
+renewable energy
+OPPORTUNITIES & BARRIERS
+for viable business models for 
+renewable energy
+RECOMMEND
+A SET OF ACTIONS TO 
+ADDRESS IDENTIFIED ISSUES
+OBJECTIVES1516
+The country already has hydropower 
+resources provided by the Senegal 
+River through the OMVS. In addition, 
+it boasts extensive wind and solar 
+resources, while meeting a majority 
+of its primary energy needs through 
+the use of traditional biomass.17
+II. Enabling 
+Framework For 
+Renewable Energy
+RENEWABLE ENERGY RESOURCES 
+AND USE
+Mauritania is at a critical stage in its energy 
+development. Numerous steps have been taken to 
+guarantee electricity supply at a low price through 
+exploitation of the Banda gas field. Nevertheless, 
+the country is endowed with substantial renewable 
+resources that can contribute significantly, both 
+economically and competitively, to energy supply 
+and development. The country already has 
+hydropower resources provided by the Senegal 
+River through the OMVS. In addition, it boasts 
+extensive wind and solar resources, while meeting 
+a majority of its primary energy needs through the 
+use of traditional biomass.
+HYDROPOWER
+Mauritania has significant hydropower 
+resources, the majority of which are linked to 
+the Senegal River. As a member of the OMVS, 
+Mauritania participates in projects that are 
+conducted and planned within this framework.
+The two main projects currently in operation 
+are the Manantali dam, for which Mauritania 
+has 30 MW of the 200 MW of available 
+capacity, and the Félou dam, for which it has 
+18 MW of available capacity (see figure 7). 
+Mauritania has received close to 217 MW of the 
+just under 690 MW of capacity planned for 
+all OMVS projects. Additional OMVS dams in 
+Gouina and Gourbassi, slated for completion 
+by 2020, are coupled with interconnection 
+projects to distribute the electricity produced 
+to participating countries.
+Apart from these planned large-scale projects, 
+Mauritania has limited small hydropower 
+potential in the south that could be exploited 
+to serve small communities. The extent of 
+these resources is not well assessed, but they 
+could lead to a joint irrigation and power 
+generation operation. It is recommended that 
+the country better measure and promote 
+the use of its hydropower resources through 
+studies and measurements of the technical and 
+economic potential of building reservoirs and/
+or dams.
+Figure 7: Installed hydroelectric capacity (OMVS) available to Mauritania, 2012-2025 (in MW)
+0
+50
+100
+150
+200
+250
+2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025
+Manantali
+Félou
+Gouina
+Gourbassi
+Bouréya
+Koukoutamba
+Badoumbé
+Installed capacity (MW)18
+SOLAR
+Mauritania receives a large amount of 
+sunshine. The average radiation on a 
+horizontal surface is 4.9-6.5 kWh/m²/day 
+(1 800-2 400 kWh/m²/year), within three 
+general climatic regions: the north, exposed 
+to a hot and dry desert climate; the south, 
+exposed to a more humid climate with lower 
+solar resources; and coastal areas, exposed to 
+lower temperatures but more humidity.
+As illustrated in figure 8, radiation varies between 
+a minimum of 1900-2000 kWh/m2
+/year and 
+a maximum of 2 300-2 400 kWh/m2
+/year. 
+There are several potential “hot spots” (with 
+higher radiation) in coastal areas (GTZ, 2009;
+INTEC, 2012).
+Table 6 provides an overview of estimated 
+solar PV production at five potential project 
+sites. These measurements, which offer an 
+order of magnitude for the expected scale 
+of production, are estimated on an annual 
+basis from direct and indirect radiation. 
+The projected production at these sites is 
+substantial compared to other regions where 
+solar energy is strongly developed, such as 
+Europe. 
+Variations in production among regions are 
+related to differences in overall irradiation 
+as well as estimated heat losses (which can 
+be limited through the use of appropriate 
+technologies) and barriers such as cloud 
+cover, wind, sand and mist. Table 6 also shows 
+that the optimum tilt of solar panels varies 
+between 15° for the localities situated in the 
+south of the country (Rosso and Nouakchott) 
+and 21° for the localities located in the north, 
+such as Atar and Nouadibou.
+Figure 8: Solar potential in Mauritania
+Surface Solar Irradiation
+ - Global Horizontal Irradiation
+(GHI) - Annual Mean (2004-2011) -
+1km - Solar Med Atlas project
+1500 kWh/M2
+1750 kWh/M2
+2000 kWh/M2
+2250 kWh/M2
+2500 kWh/M219
+Table 6: Potential annual electricity generation from conventional fixed PV systems
+Source: EC JRC, 2008
+Location kWh generated per kWp Optimum tilt installation
+Nouadhibou 1 780 21°
+Atar 1 590 20°
+Kiffa 1 460 16°
+Rosso 1 420 15°
+Nouakchott 1 330 16°
+Mauritania has high levels of direct and indirect 
+radiation. Current data, obtained primarily 
+from satellite measurements, allow for good 
+estimates of the available potential but need 
+to be verified at the ground level. Several pilot 
+projects and measures launched in the 1990s 
+could be used to refine the data, but this 
+information often is not available or usable. 
+Although solar energy has been explored for 
+a long time in Mauritania, existing facilities 
+are based almost exclusively on PV. Other 
+technical options, such as concentrated solar 
+power (CSP) and solar hot water, are possible 
+(given the nature of the radiation), but they 
+remain largely overlooked. Many PV systems 
+are available locally, but these are mostly 
+for small-scale (individual or collective) 
+applications. Nouakchott is home to a PV 
+module framing assembly unit with a limited 
+production capacity.
+Off-grid solar applications
+Until recently, solar was used in Mauritania 
+primarily for decentralised, off-grid 
+applications. One of the first large-scale solar 
+programmes implemented in the country was 
+the Regional Solar Programme (PRS), which 
+focused initially on the use of PV systems to 
+supply drinking water (CILSS undated-a,b) 
+and was expanded to include the distribution 
+of community solar systems (e.g. lighting and 
+refrigeration kits). Approximately 210 water 
+and community systems were installed during 
+the two phases of PRS 1 (1990-1998) and 
+PRS 2 (2001-2007). Notably, as many as 30% 
+of the systems installed during PRS 1 had to 
+be rehabilitated during PRS 2, highlighting 
+the need to properly design and maintain the 
+units on site.
+ADER, a Mauritanian non-governmental 
+association that acts on behalf of the state, has 
+installed just over 12000 solar kits throughout 
+the country, with a total installed capacity of 
+309 kWp. ADER has since included the 
+development of mini-grids in its programme. 
+APAUS, the main public stakeholder for rural 
+areas in hydropower and energy, is also active 
+in identifying solar-based solutions. These 
+include solar lighting and refrigeration kits and 
+water pumping, as well as the hybridisation of 
+diesel plants used to power some mini-grids and 
+multifunctional solar platforms (MFSP) (see box 1). 20
+Box 1. Solar platforms for rural electrification
+The solar platforms project, implemented by the French NGO GRET in conjunction with APAUS, 
+cost USD 4.8 million and was funded with USD 3.4 million from the ACP-EU Energy Facility 
+and USD 1.37 million from the Mauritanian government. It aims to install 100 multifunctional 
+solar platforms in Brakna, Gorgol, Assaba and Hodh El Gharbi, with the goals of contributing 
+to economic development and employment, improving socio-economic conditions and 
+integrating the rural population into the national community.
+Based on lessons learned from past projects, several different models of platforms will be 
+installed, ranging from 1.5 kWp to 5 kWp. Past initiatives include 24 platforms within the 
+PERUB project (funded by Energy Facility/APAUS, at USD 2.2 million), 24 platforms from 
+UNDP/USAID/APAUS and 6 platforms from APAUS. 
+The new models will be adapted according to village size and identified needs. The feasibility 
+study has identified the following types:
+•	A comprehensive platform consolidating the services of phone and battery charging, 
+television, welding, crafts, cooling and a mill.
+•	A simplified platform consolidating the services of phone and battery charging, television, a 
+mill or cooling (or other services, as defined with local input).
+•	A single-service platform providing cooling OR a mill OR crafts and welding.
+•	A charging station, consolidating the services of phone and battery charging (two-way or 
+four-way charging load) (or other services, as defined with local input).
+•	Individual lighting kits, using a 12V socket, one to three low-energy bulbs, and a regulator 
+that controls the discharge level of the battery and maximises the lifetime.
+Large-scale solar projects (on- and off-grid)
+Among the country’s objectives are multiple 
+large-scale solar PV projects. The Sheikh Zayed 
+plant, with a peak capacity of 15 MW, was 
+launched in March 2013 in Nouakchott, funded 
+primarily by a donation from Abu Dhabi in the 
+United Arab Emirates (see box 2). Many other 
+projects are also under consideration or in 
+progress.
+Among the planned initiatives are several 
+hybrid solar-diesel generation projects coupled 
+with 33 kV distribution networks for areas not 
+yet electrified. The first is expected to be the 
+Kiffa project, which includes 1.3 MWp of solar 
+power and 4 MW of thermal power. Other 
+similar projects are expected in the coming 
+years and will be implemented depending 
+on the availability of financing. The proposed
+2.6 MW Aftout Echargui project, involving 
+200 km of 33 kV line, already has raised up to 
+USD 30.4 million in funding from the Islamic 
+Development Bank (IDB) and the OPEC Fund 
+for International Development (OFID). 
+Projects to reduce the fuel use of off-grid 
+industries are being considered as well. 
+The first, the 3 MWp Zouerate project, is 
+being carried out by SNIM and should begin 
+operations shortly. 21
+Box 2. The Sheikh Zayed solar PV plant in Nouakchott
+The Sheikh Zayed solar PV power plant in Nouakchott, commissioned in March 2013, has a 
+capacity of 15 MWp and covers an area of 30 hectares. The PV modules, provided by MASDAR 
+Company, are made from amorphous silicon with two power ratings (410 W and 420 W) and 
+from micromorph silicon with power ratings ranging from 470 W to 560 W. The plant is equipped 
+with 17 SMA inverters and transformers of 9 1.6 MVA each. The electricity that is produced is sent 
+to the station north of Nouakchott, providing 7% of the city’s supply (see figure 9).
+SOMELEC has calculated that the solar PV plant enables annual savings of approximately
+5 million litres of HFO, 46000 litres of diesel and 72 800 litres of oil, resulting in cost savings 
+of more than USD 4 million/year. In addition, the plant has reduced greenhouse gas emissions 
+by an estimated 20 000 tonnes of CO2
+-equivalent. The plant construction cost a total of 
+USD 32 million, funded by the Emirate of Abu Dhabi.
+Photo: L. Dittrick
+Arfat Plant
+27%
+Wharf Plant
+53%
+Energy
+provided
+by Manantali
+18%
+Arfat 2
+Plant
+2%
+Solar
+Production
+0% Arfat Plant
+28%
+Wharf Plant
+40%
+Energy
+provided
+by Manantali
+18%
+Arfat 2
+Plant
+7%
+Solar
+Production
+7%
+Figure 9: Energy supplied to Nouakchott, by source, January and April 2013
+Source: SOMELEC, 201422
+Solar manufacturing and supply chain
+The recent development of Mauritania’s 
+solar market, previously limited to offgrid applications, has not yet fostered the 
+emergence of significant industry and 
+expertise in this area. Nouakchott is home to 
+one assembly unit for mounting solar panels 
+(assembling the frame and junction box) – 
+ATERSA Mauritania – but its activity is irregular. 
+The market is currently too small to justify the 
+existence of a complete solar manufacturing 
+supply chain. 
+From an economic perspective, Mauritania’s 
+significant solar resources can be considered 
+competitive with the fossil fuel resources 
+currently being used (i.e. diesel HFO). However, 
+comparing the actual costs of providing power 
+on site from various energy sources remains 
+difficult, as this would require accounting for 
+all development funding obtained for each 
+infrastructure element. 
+Rural solar electrification projects are 
+numerous in Mauritania and include village 
+electrification via hybrid solar-diesel minigrids, the installation of solar platforms 
+(MFSP) and the distribution of solar lighting 
+and refrigeration kits. Recurring issues with 
+these projects include:
+•	 Sustainability of the systems: Once the 
+projects are implemented, their economic 
+viability depends on their financing 
+capacity and ability to increase their 
+revenues. However, currently applicable 
+tariffs help fund only the operation and 
+a small part of renewal, which remains 
+primarily the responsibility of the state and 
+whose terms have not yet been defined.
+•	 Maintenance of the installed systems, 
+during and after the programmes.
+Management of fees and funds collected 
+from customers, as well as differences 
+in pricing among areas connected and 
+not connected to the grid; communities 
+managed by SOMELEC; and communities 
+•	 The necessary transition between off-grid 
+communities and those that potentially 
+could be connected but are not covered 
+by SOMELEC. Communities previously 
+connected to an independent mini-grid 
+that potentially now could be connected 
+to the main grid do not have access to it 
+due to a lack of SOMELEC resources.
+•	 The need for harmonisation of tariffs 
+between the communities served by 
+SOMELEC and those served by ASPs.
+The context is particularly favourable for 
+implementing extensive solar projects to 
+reduce the fuel consumption of off-grid 
+industries, particularly the mining sector. 
+The first SNIM test projects will help to 
+better evaluate possible savings. Similarly, 
+hybridisation projects for mini-grids will 
+reduce energy costs. 
+Despite all this, the following challenges 
+remain:
+•	 It is difficult to prove that savings have 
+been achieved or are feasible because of 
+the existing tariff system and the lack of 
+information regarding the true costs of 
+generating electricity savings. However, 
+off-grid, this measurement is easier.
+•	 There remains a need for better control of 
+hybridisation and/or coupling of solar with 
+other technologies to balance electricity 
+production and consumption either on- or 
+off-grid.
+•	 A project to monitor and evaluate the 
+impact of existing solar plants would 
+provide a better understanding of the 
+conditions of implementation, productivity 
+and the need to extend these applications 
+throughout the country.
+WIND
+Mauritania’s wind resources are estimated 
+mainly from global satellite measurements and 23
+and assessments on the ground (see box 3). 
+As illustrated in figure 10, the northern coastal 
+areas show wind speeds of between 8.3 m/s 
+and 8.7 m/s, although speeds can exceed
+9 m/s in Nouadhibou. Moving south, values drop 
+gradually but remain above 7 m/s along the 
+coast, a level that is still high in absolute terms. 
+It is more difficult to establish wind patterns 
+inland, as they are affected by topography and 
+specific conditions related to the sites.
+Box 3. Solar platforms for rural electrification
+IRENA’s Global Atlas for Renewable Energy initiative, which Mauritania joined in January 2014, 
+was launched with the support of an international global consortium. The Global Atlas provides 
+an Internet platform that includes homogeneous global solar and wind data and allows users 
+to add layers of information on, for example, protected areas, roads or infrastructure, in order 
+to identify areas of opportunity to develop projects. The Atlas also helps with the formulation 
+of energy policies, in planning and with the stimulation of investments in pre-feasibility studies 
+for wind and solar projects.
+IRENA’s Global Atlas platform provides basic information, while enabling businesses and 
+service providers to focus on personalised and high-added-value services based on specialised 
+commercial databases for specific sites and projects. Through the initiative, Mauritania will 
+receive support from IRENA to tackle gaps in data collection and availability in the country. 
+Figure 10: Wind energy resources in Mauritania
+3TIER’s Global Wind Dataset 5km
+onshore wind speed at 80m height
+units in m/s
+3.0 m/s
+3.6 m/s
+4.2 m/s
+4.8 m/s
+5.4 m/s
+6.0 m/s
+6.6 m/s
+7.2 m/s
+7.8 m/s
+8.4 m/s
+9.0 m/s24
+Wind power projects
+Wind power has been explored in Mauritania 
+since the late 1980s, focusing primarily on 
+the use of mechanical wind energy for water 
+pumping and electricity generation (both onand off-grid). Between the late 1990s and early 
+2000s, a major demonstration and testing 
+programme in collaboration with the Canary 
+Islands Institute of Technology (ITC) included 
+the development of a wind atlas for the country, 
+a demonstration platform for renewable 
+energy and maintenance at the University of 
+Nouakchott, and the commissioning of four 
+water desalination units (20-40 m3
+/day) in 
+Banc d’Arguin National Park (Izquierdo, 2005).
+A research project involving Mauritania 
+and Morocco, funded by NATO under the 
+Science for Peace and Security programme, 
+is exploring ways to convert wind energy 
+into hydrogen gas (through electrolysis) and 
+to store it to use when necessary. Currently, 
+some wind measurement instruments have 
+been installed on communication towers in 
+the two countries (NATO, 2012).
+Since 2012, a 4.4 MW wind farm has been in 
+operation in Nouadhibou, serving SNIM needs 
+for the mining industry. It comprises 16 Vergnet 
+turbines mounted on retractable pylons. In 
+addition, a new 30 MW plant is being finalised 
+in Nouakchott and will be connected to the 
+SOMELEC network. The result of the call for 
+tenders for wind power in Nouakchott surprised 
+many national stakeholders because of the low 
+price per kWh stipulated, despite slower wind 
+speeds in this area than in the country’s north.3
+Wind supply chain and technical barriers
+The size of the Mauritanian market does 
+not justify developing local wind turbine 
+manufacturing, although some elements, 
+such as towers and civil works, can be 
+produced locally. However, an assessment of 
+the potential of local manufacturing of wind 
+components should be performed.
+The major technical barriers to the integration 
+•	 The lack of companies with experience in 
+the field.
+•	 The difficulty of connecting to the 
+network. Today, the only wind plant in 
+operation, in Nouadhibou, feeds a small 
+percentage of potential output into the 
+SNIM network. The plant is used only for 
+marginal production when most fuel units 
+are in use.
+•	 The lack of lift capacity. There is no crane 
+in Mauritania capable of installing modern 
+masts and turbines, which can reach over 
+100 metres high and weigh tens of tonnes.
+•	 No overall wind measurement campaign 
+has been conducted in the country.4
+However, some measurements have been 
+made from specific masts, either with a 
+view to carrying out pre feasibility studies 
+for projects or as part of past scientific 
+research.5
+ The most accurate data 
+obtained for feasibility studies have been 
+collected over short periods of a month. 
+These, provided by scientific facilities, are 
+difficult to process today, although they 
+are still available, and require further study.
+In addition to these barriers, it would also be 
+useful to process the long-term data from 
+installed measuring stations, as well as to 
+retrieve the data related to the Wind Atlas 
+prepared in 2000.
+3 MPEM calculated the price of wind power at USD 0.052/kWh.
+Since this price is highly dependent on the structure and cost
+of financing, it should not be used as a standard or benchmark
+(any comparison should be made as an equivalent cost of
+funding); however, it helps to show how some of these solutions
+become competitive with the existing system. 
+4 The only modern measurement campaigns were performed 
+at Nouadhibou and Boulanoir, mainly by EED and Hélimax. 
+5 Sites already equipped thanks to the NATO Science for 
+Peace and Security programme (SaharaWind implementation)
+include: Tweila, 40 kilometres northeast of Nouakchott; the 
+ACS building roof, with a measurement of solar radiation; Wad
+Naga, 50 kilometres southeast of Nouakchott; and
+Nouadhibou road, 33 kilometres north of NKT. Sites to equip
+quickly include: Nouadhibou; Boulanoir, 129 kilometres south
+of Nouadhibou and its water source Inal, 40 kilometres east of
+Boulanoir on a proposal from the APAUS, and another site to
+bidtifid d fAPAUS25
+Wind project in Mamghar carried out by APAUS and opened in July 2013.
+Photo: APAUS
+BIOMASS
+Despite Mauritania’s largely desert climate, an 
+estimated 67% of the country’s primary energy 
+needs are met through the use of traditional 
+biomass (wood and charcoal). Between 1995 
+and 2004, the use of wood decreased, while 
+the use of charcoal increased (see figure 11). 
+Although these resources are a preferred 
+energy source for cooking food, the use of 
+traditional biomass combined with the effects 
+of drought and fire have severely reduced 
+the vegetation cover. The country is engaged 
+in substantial replanting programmes, the 
+results of which have yet to be evaluated.
+Agricultural waste in the country previously 
+totalled just over 500 000 tonnes/year, with 
+3.7 gigawatt-hours (GWh). However, the 
+period between 1991 and 2001 saw a decline in 
+agricultural production. Although agricultural 
+activities have since resumed, the resource 
+potential should be re-evaluated.
+Two additional potential biomass resources are 
+jatropha and typha. Jatropha (nettlespurge), 
+a perennial plant that consumes little water, 
+has been praised for its potential to combat 
+desertification and boost biofuel production.
+It could be used as part of the Mauritanian 
+replanting programme. Typha (bulrush, 
+cattail) could replace charcoal in cooking. 
+Its use as a fuel would also help combat the 
+typha invasion in rivers and streams, which 
+has contributed to habitat destruction and 26
+Figure 11: Consumption of wood fuel and charcoal, 1995-2004 (in thousand tonnes)
+Source: Environment Directorate, 2008
+Wood Wood Charcoal
+100
+50
+0
+150
+200
+250
+300
+350
+400
+1995 1996 1997 1998 1999 2000 2001 2002 2003 2004
+Fuel consumption (1000 tonnes)
+Potential biomass projects
+Typha charcoal could reduce pressure on 
+forest resources. A typha carbonisation 
+programme is being tested in Rosso to 
+produce a replacement for wood charcoal. The 
+first production units have been established, 
+and efforts should gradually be extended 
+in the area. The project is an initiative of 
+APAUS, implemented by the French NGO 
+GRET in collaboration with the High Institute 
+of Technological Education (Institut Supérieur 
+d’Enseignement Technologique - ISET) and 
+UNDP, and co-funded by the European Union 
+within the framework of the African Caribbean 
+and Pacific/ European Union Energy Facility. 
+Preliminary results show the value of the 
+programme in restoring biodiversity – for 
+example, the re-emergence of water lilies and 
+fishing in typha-prevalent areas.
+Other biomass projects include a feasibility 
+study that is under way for a gasification / 
+waste incineration plant in Nouakchott, which is 
+intended to be an independent power producer 
+(IPP) and could allow for 15-20 MW of generation 
+capacity. Additionally, a sugar production 
+project being evaluated in Foum Gleita could 
+enable up to 18 MW of electrical output from the 
+combustion of sugarcane bagasse and produce 
+38 million litres of ethanol per year.
+Producing Typha charcoal in Rosso27
+Biomass supply chain
+The main biomass energy technologies produced 
+in the country relate to improved cookstoves. 
+About 56% of the population (roughly 30% of the 
+urban population and 82% of the rural population) 
+uses solid fuels (wood and charcoal) for cooking. 
+According to the interviews organised during the 
+inception phase of the RRA, only an estimated 
+0.4% of the population uses improved cookstoves, 
+leaving significant room for growth. 
+The two main available improved stoves are the 
+Ouaga Metallic Vita wood-burning stove, which 
+has efficiencies greater than 45% and costs 
+about USD 4.11-8.22/unit (Reikat, 2012), and the 
+Multi 4-7-30 or “maslaha” wood-burning stove, 
+which was introduced in the 1990s and has 
+efficiencies of 30-35% (PREDAS, 2005).
+The first outreach and training programmes 
+for improved cookstoves, supported by the 
+World Bank’s Energy Sector Management 
+Assistance Program (ESMAP), targeted the 
+neighbourhoods of Nouakchott in 1990. The 
+programmes included significant training for 
+potential producers of the stoves, including 190 
+blacksmiths and metalworkers. More recently, 
+the ProCEAO programme, funded by GIZ and 
+the European Commission, implemented a 
+project to distribute improved Vita cookstoves 
+to approximately 5000 households in the 
+Guidimaka region by 2014. However, an 
+evaluation of the success of this project should 
+be carried out to determine whether the initial 
+aims of the project have been achieved and if 
+the project can be duplicated elsewhere.
+Biomass energy can be used for both 
+centralised and decentralised generation, 
+and the options are numerous, ranging from 
+the development of waste-to-energy plants, 
+to the distribution and manufacture of 
+improved cookstoves, to the potential use of 
+biodigesters. There remains a need for: 
+•	 Updated estimates of the resource 
+potentials for agricultural waste, 
+generation capacity and the use of 
+•	 Capitalising on past experiences (whether 
+successes or failures); and 
+•	 An updated summary of available 
+technologies and assessment of local 
+producers in business.
+SUMMARY
+Mauritania has significant renewable energy 
+resources, the extents of which are generally 
+unknown and poorly quantified. One priority 
+would be to improve the level of knowledge 
+by collecting and collating existing (often 
+unprocessed) information sources to enable 
+an initial assessment and the identification 
+of priorities for further action. With regard 
+to biomass, where the exploitable resource 
+depends directly on the management of forest 
+and agricultural resources, it would be useful 
+to learn the extent to which certain laws and 
+decrees have been applied, as well as their 
+effects (e.g. regarding community participation 
+provided for under the Forest Code).
+ENERGY POLICY AND REGULATORY 
+FRAMEWORK
+Mauritania’s energy policy is defined largely 
+in an ad hoc manner, based around existing 
+opportunities and financed by international 
+institutions and bilateral projects. This 
+approach has served the country by allowing 
+it to become a leader in the sub-region in 
+the installation of renewable energy projects. 
+To capitalise on this success and to ensure 
+ongoing and co-ordinated development of 
+renewables, the country needs to better define 
+its goals and the means of achieving them.
+STRATEGIC GUIDELINES
+Energy has been identified as a priority for 
+Mauritania’s development. The first theme 
+of the country’s Poverty Reduction Strategy 
+Paper (PRSP), for example, emphasises:
+•	 Developing infrastructure to support 
+growth through the improvement and 28
+with particular emphasis on the fact that 
+the country pays “specific interest to the 
+development of energy as a factor of 
+production”. 
+•	 Optimal exploitation of sources of growth 
+through the development of oil drilling 
+and exploitation of the Banda gas field to 
+overcome the energy deficit.
+In all, the four priority themes of the PRSP are 
+linked either directly or indirectly to energy. 
+The document also reflects the country’s 
+renewable energy objectives, pointing to the 
+role of renewables in not only contributing to 
+national development, but also reducing the 
+influence of external factors on the economy.
+Mauritania has clearly identified the lack of 
+access to basic services, including energy, as 
+a stumbling block to national development 
+efforts. The PRSP seeks to expand existing 
+electricity distribution channels as soon as 
+possible and to provide services independently 
+in locations where the grid is not available. 
+Specifically, it mentions the need to develop 
+local or regional energy resources (natural 
+gas and hydropower) and to balance the 
+renewable energy mix. 
+The PRSP includes targets for the 
+electrification of 108 villages in the 9 poorest 
+wilayas and support for collective and private 
+electrification initiatives in 192 local areas 
+(villages of 500 to 1 200 inhabitants). It also 
+includes the objectives of increasing the urban 
+electrification rate from 50% to 80% by 2015, 
+and the rural electrification rate to 40% by 
+2015 (IRM, 2011).
+REFORMS IN THE ENERGY AND 
+ELECTRICITY SECTORS
+The economic situation for energy supply 
+development in the country is complex. The 
+electricity sector still faces chronic deficits 
+linked to a combination of factors that are 
+Mauritania began a reform programme based 
+on liberalisation of the electricity sector in 
+1998 (World Bank and Nodalis, 2010). This 
+specifically planned for the abolition of any 
+power supply monopoly, for the participation 
+of private operators in the sector and for setting 
+rates that reflect the cost of service. The reform 
+was intended to result in the privatisation of 
+SOMELEC. However, the privatisation process 
+tender was not conclusive, with only one 
+qualifying bid.
+Key laws and regulations relating to the 
+electricity sector are described below.
+Act 2001-19: This legislation establishes the 
+electricity code and has among its objectives: 
+liberalisation of the electricity sector; the 
+harmonious development of electricity within 
+the framework of existing laws; the creation 
+of economic conditions that guarantee a 
+return on investment in the electricity sector; 
+growth in electricity use in all segments of the 
+population and industry; and the conditions 
+for just and fair competition, upholding the 
+rights of users and operators.
+Although planned privatisation projects have 
+been abandoned, some of the structure that 
+was put in place under the Act to support the 
+industry still exists, including the possibility of 
+IPPs and the establishment of a regulator that 
+is now active in the sector. For the moment, 
+however, the regulator covers only authorised 
+service providers (ASPs), not SOMELEC. 
+State–SOMELEC Programme Contract: To 
+date, this is the only formalisation of relations 
+between the state and SOMELEC. The contract 
+dates from 2001 and does not cover the role 
+of the regulator. Since then, the state has 
+implemented several specific measures, such 
+as shifting the supply of energy services in the 
+mougathaas from ASPs to SOMELEC. 
+Master Plan for the Production and Transport 
+of Electricity: In its Master Plan for the 
+Production and Transport of Electricity 29
+energy scenarios and their consequences, 
+covering the major themes of diversifying 
+production and reinforcing and expanding the 
+transport and distribution network. 
+PRSP: The PRSP specifically mentions renewable 
+energy sources and includes renewable 
+generation targets of 15% by 2015, 20% by 2020 
+and 35% by 2030 (IRM, 2011). It recognises the 
+contribution of renewable energy in helping to 
+secure the country’s energy supply, reduce its 
+dependence on imported oil, stabilise electricity 
+generation costs and improve energy access 
+in off-grid areas. However, the PRSP does not 
+specifically point to renewables as an option for 
+producing lower-cost electricity for large, offgrid applications. The Banda gas project is seen 
+as an end-all solution for developing the mining 
+and industrial sector. However, many centres 
+of energy demand are located so far from the 
+network that grid extension is not feasible. In 
+these cases, renewable energy could be used 
+as a “fuel saver” to complement conventional 
+generation.
+In a pragmatic way, Mauritania has deployed 
+renewable energy through a project-based 
+approach, making it a leader in the sub-region 
+in major solar and wind power capacity (in 
+addition to the hydropower projects deployed 
+through the OMVS). The country has made 
+similar strides with efforts to improve access to 
+energy services, with substantial achievements 
+in solar hybrid off-grid production and the 
+construction of wind-diesel hybrid projects 
+for coastal communities, in addition to gridconnected projects. 
+With these models in place, it would now be 
+useful for Mauritania to provide structure to its 
+renewable energy activities by developing a 
+policy that clearly defines the country’s goals 
+and means to achieve them. This would allow it to 
+continue to progress in a more deliberate manner 
+by ensuring the continuity and sustainability of 
+actions, while giving visibility to participants in 
+the renewable energy field. This long-term vision 
+is critical not only to help national actors plan 
+reduce prices. Any instability in energy policies, 
+whether perceived or real, may increase country 
+risks, potentially discouraging participants from 
+investing in projects and increasing the cost of 
+financing available from banks and donors.
+INVESTMENT AND FINANCING 
+As in other countries in the region, much of 
+the financing for energy sector investments in 
+Mauritania comes from international donors. 
+This is the case for most newly built projects 
+as well as for many of the projects currently 
+under evaluation. SOMELEC’s shaky financial 
+position precludes additional debt, and the 
+company is unable at present to provide 
+energy services in rural areas (whether 
+based on renewables or conventional fuels). 
+The current average generation cost for 
+ASPs is MRO 261 (USD 0.93) /kWh (APAUS, 
+2014a), which far exceeds the selling price of 
+MRO 51-90 (USD 0.18-0.32) /kWh.
+Many international donors are active in 
+Mauritania’s energy sector. A leading donor 
+is the Arab Fund for Economic and Social 
+Development (FADES), which in 2013 
+contributed USD 10.4 million to finance 
+power generation facilities in rural areas, 
+USD 5.2 million to finance the 30 MW wind 
+power plant in Nouakchott and USD 105 million 
+to modernise the national electricity generation 
+and transport system (AF, 2011). All of this 
+funding, in the form of concessional loans, is 
+granted with interest rates ranging from 2.5% to 
+3% over a period of 20-25 years.
+The French development agency AFD 
+has been active in the electricity sector, 
+providing budgetary support in the form of 
+two sovereign concessional loans, totalling 
+USD 89 million, to accompany reform of 
+the sector. It also granted a sovereign loan 
+of USD 26 million, plus a European grant of 
+USD 6.6 million, for the construction of a hybrid 
+solar-thermal power station in the Kiffa region. 
+In addition, it participated in the financing of the 30
+The World Bank is heavily involved in the 
+institutional arena and in guaranteeing 
+development of the Banda gas field, which 
+involves processing the gas, converting it 
+into electricity and transmitting this power 
+throughout the country and beyond. Other 
+donors – such as the European Commission 
+through the European Development Fund (EDF) 
+and the ACP-EU Energy Facility – are involved 
+in energy service provision projects. Additional 
+donors include the Islamic Development Bank 
+(IDB), one of the country’s major donors today; 
+the OPEC Fund (OFID); and the Saudi Fund, 
+which allocated the additional USD 70 million 
+needed for construction of the Nouakchott - 
+Nouadhibou high-voltage line. In addition, the 
+Crown Prince of Abu Dhabi funded the 15 MW 
+Sheikh Zayed solar PV plant in Nouakchott, 
+through a grant of USD 32 million.
+This financing structure allows the country to 
+limit capital costs for national projects. But it 
+also reflects a difficulty in raising commercial 
+funds, given the national economic situation. 
+Mobilising low-cost funding from donors can 
+be an advantage for renewable energy projects, 
+which typically are capital intensive and have 
+low variable costs. The 30 MW wind plant in 
+Nouakchott, for example, was funded with
+USD 52 million from FADES and USD 6.85 million 
+from the Mauritanian government, bringing 
+the cost to USD 0.066/kWh (MPEM, 2014). But 
+renewable energy sources are not necessarily 
+best suited to donor funding mechanisms, 
+as these mechanisms are not always able to 
+take into account renewable energy project 
+specificities (e.g. smaller projects require the same 
+administrative processing costs as larger ones). 
+Moreover, national funding mechanisms do exist 
+in Mauritania. The country’s Fund for Universal 
+Access to Services (FAUS), for example, is 
+funded through several sources. These include: 
+fees collected within specific laws, among them 
+the law relating to the Multisectoral Regulatory 
+Authority (ARM) and sectoral laws relating to 
+water, electricity (only ASPs contribute fees, 
+not SOMELEC) and telecommunications (a key 
+partner contributions for developments; and 
+allocations for poverty reduction resources.
+A critical issue for renewable energy in particular 
+is the availability and cost of financing. Because 
+most renewable technologies have low variable 
+costs, the bulk of the funding must be raised during 
+the project’s “bank closing” to cover fixed costs. 
+This is perhaps an area where the government of 
+Mauritania can have the most influence. Without 
+spending more, it can significantly reduce the 
+cost of financing renewable energy projects 
+by implementing stable legislation that would 
+reduce country-related risks. Technological 
+risks could be managed by developing a strong 
+national capacity for installing, managing and 
+maintaining renewable technologies. Many 
+measures could be taken to use planned and 
+commissioned projects (both on- and off-grid) 
+to train future installers and project managers. 
+The country also may consider creating a specific 
+national fund dedicated to the promotion of 
+renewable energy, thereby reducing financial 
+risks and helping to lower the cost of projects.
+The government’s biggest impact on the 
+development of renewable energy sources could 
+be through the creation of a stable, sustainable 
+and transparent environment. In this context, 
+it may be useful to consider creating longterm rate guarantee mechanisms for power 
+producers, whether they are on the SOMELEC 
+network or directly producing electricity for 
+off-grid industrial needs. The legal framework 
+of the National Electrical Code provides for the 
+existence of IPPs, but it could include specific 
+provisions for renewable energy, as well as 
+provide a standard power purchase agreement 
+(PPA) that could be adapted as needed.
+R&D AND CAPACITY BUILDING 
+Research and development (R&D) is an important 
+component for harnessing new technologies, 
+developing know-how and improving energy 
+performance. In Mauritania, a variety of R&D 
+institutions and training centres for renewable 31
+to-date information for policy makers and 
+developers (see table 7). But close co-ordination 
+among industry, academia, research institutions 
+and governments is needed to better take 
+advantage of renewable energy resources. 
+Additionally, there is a great need in the 
+country for training in renewable energy at 
+the technical and engineering levels (CNA, 
+2013). Companies lack qualified personnel 
+for maintenance and installation jobs, and 
+the courses offered today are not suitable or 
+are too theoretical to meet the need. Training 
+institutions also lack the resources to conduct 
+quality training. 
+To overcome these shortcomings, the 
+following steps are encouraged:
+•	 Regional and international co-operation 
+to allow the exchange of experiences, 
+expertise and know-how. ECREEE (of 
+which Mauritania recently became a 
+member) provides various capacity 
+development, internship and knowledge - 
+exchange activities. Other regional training 
+institutes, including at the secondary level, 
+could share technical platforms, teaching 
+and methods.
+•	 Collaboration with companies in the 
+country and region, to take advantage of 
+their feedback and to ensure that trainees 
+are tailored to their needs.
+•	 Renovation of existing R&D and training 
+facilities and the identification of 
+sustainable resources to maintain them, as 
+well as installation of additional equipment 
+adapted to new R&D needs.
+Table 7: Key R&D institutions and training centres in Mauritania*
+Institution/Centre Description
+Centre for Applied Research in 
+Renewable Energy in Mauritania 
+(CRAER)
+Created in the context of the proposed Renewable Energy Park funded by the 
+Canary Islands (Spain) to promote renewable energy applications, desalination 
+of water, and cooling with national and international partners. CRAER uses 
+applied research to solve new problems posed by different applications in the 
+field and the need for academic training; however, the lack of resources and 
+the cyclical nature of projects make data collection and capitalisation difficult.
+Nouakchott University – Faculty of 
+Science and Technology
+Offers theory-based bachelor-, master- and doctorate-level courses, focused 
+mainly on energy calculation and the design of renewable energy systems. 
+However, it suffers from a deficit in teaching staff and a need for training. 
+It also lacks the necessary resources to meet all requests received for the 
+Renewable Energy Masters.
+École des Mines in Mauritania (EMIM)
+A newly created institution (the first graduates have not yet completed their 
+engineering education) that offers a specialisation in electro-mechanics. EMIM 
+plans to create a renewable energy option, but details on this are not yet 
+available.
+Higher Institute of Technological 
+Education : Institut Supérieur 
+d’Enseignement Technologique 
+(ISET) 
+Primarily an institute of higher education, at the technician level. It provides 
+training that touches on energy but does not specialise in this field. In 
+collaboration with GRET, it also conducts applied research on system 
+maintenance and processing of Typha for the manufacture of a charcoal 
+replacement. ISET offers many agricultural activities that may be of use in the 
+field of bioenergy (use of agricultural residues, etc.).
+Centre for Advanced Technical 
+Training (CSET) 
+Provides short vocational training in tertiary areas (secretary, office assistant, 
+managing SME) and technical occupations (mechanical, electrical, cooling and 
+air conditioning, maintenance, etc.).
+SNIM Technical Training Centre of 
+Zouerate
+Offers vocational and technical training through alternated learning, including 
+courses in mechanics, industrial electricity and welding. Graduates of the 
+Training Centre are given priority when applying for SNIM.32
+One of the greatest limitations to 
+renewable energy development is 
+the difficulty of comparing investment 
+costs. Renewables are often deemed 
+“more expensive” than conventional 
+fossil resources, in part because most 
+cost comparisons do not account for 
+the environmental or social benefits of 
+renewables or for the large subsidies 
+that fossil fuels still receive. 33
+III. Challenges In 
+The Deployment Of 
+Renewable Energy 
+COSTS AND ELECTRICITY TARIFFS 
+Mauritania boasts substantial renewable 
+energy resources in many areas. However, 
+the electricity network and the level of 
+interconnection are still limited. Many 
+population pockets and economic activities 
+are not connected to the grid and could benefit 
+from a renewable energy supply. Existing 
+renewable energy projects have demonstrated 
+their potential to provide generation to the 
+grid as well as their competitiveness with 
+conventional solutions. However, many of the 
+benefits of renewables – in terms of securing 
+energy supply, price stability, job creation, 
+climate change mitigation and others – are 
+currently not included in calculations of the 
+cost of generating electricity.
+One of the greatest limitations to renewable 
+energy development is the difficulty of comparing 
+investment costs. Renewables are often deemed 
+“more expensive” than conventional fossil resources, 
+in part because most cost comparisons do not 
+account for the environmental or social benefits of 
+renewables or for the large subsidies that fossil fuels 
+still receive. Because of their inherently different 
+characteristics, including their variable nature, 
+renewable energy sources cannot be planned, 
+managed or analysed in the same manner as 
+conventional solutions. Nevertheless, price trends in 
+the global renewable energy sector – especially for 
+wind and solar (see figure 12) – confirms that these 
+resources already are competitive with conventional 
+sources in some regions.
+Figure 12: Price of solar PV in selected countries, 2010-2014
+0
+2 000
+4 000
+6 000
+8 000
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2
+2013 USD/kW
+Germany residential
+Chinese c-Si module
+prices (EU)
+US residential
+US non-residential
+US utility
+Australia
+China
+Italy
+Japan
+2010 2011 2012 2013 201434
+Price comparisons should also be made 
+under similar conditions. Most global 
+comparisons of conventional versus 
+renewable generation costs are made under 
+commercial bank financing conditions, 
+which are not always available in Africa. 
+Projects in Mauritania typically are funded by 
+development banks, combining grants and 
+traditional debt to reduce interest rates (see 
+earlier discussion of financing). Comparing 
+costs for grid-connected generation funded 
+by development financing (soft loans), as 
+opposed to commercial conditions, paints a 
+very different picture, with diesel costs much 
+higher than those for renewable energy (see 
+figure 13). 
+Figure 13: Electricity generation costs, by source, on the ECREEE network: commercial versus soft 
+loan conditions
+Source: ECOWAS, 2012
+Resulting costs for renewable energy grid-connected
+production - Commercial conditions
+Resulting costs for renewable energy grid-connected
+production - Soft loans conditions
+0,150
+0,100
+0,050
+0,000
+0,200
+Diesel
+Wind
+Solar PV
+CSP
+Mini-Hydro
+Biomass
+Average
+WAPP
+€/kWh
+0,150
+0,100
+0,050
+0,000
+0,200
+Diesel
+Wind
+Solar PV
+CSP
+Mini-Hydro
+Biomass
+Average
+WAPP
+€/kWh
+The comparison also shows that the 
+“average production price”6
+ of the West 
+African Power Pool (WAPP) is quite low, at 
+USD 0.068-0.096/ kWh. This is because 
+most of the infrastructure built – including 
+the transmission network and the generation 
+capacity – has been subsidised, and because 
+cost calculations are based on infrastructure 
+that has already been widely written off, limiting 
+costs to the variable costs of this infrastructure.
+To be consistent, cost comparisons should be made 
+between new infrastructure to be installed, in order 
+to provide a better idea of the opportunity cost 
+of each option. Furthermore, renewable energy 
+provides the important benefit of price stabilisation: 
+the low share of variable costs helps to stabilise the 
+generation cost over the long term. In addition, 
+renewables can, among other benefits, significantly 
+increasingly resource-constrained environment, 
+meeting growing demands for water and food 
+(IRENA, 2015).
+For Mauritania, comparing the calculated 
+generation costs for electricity from the 
+Banda gas field (table 8) and centralised 
+wind power (table 9) shows that the costs 
+not only are comparable, but even give wind 
+energy the edge. A similar comparison for 
+centralised solar PV generation has not been 
+possible, because the analysis (Tractebel, 2010) 
+used a methodology based on off-grid use. 
+Nevertheless, centralised solar PV could reach 
+similar levels of competitiveness.
+6 It is important to distinguish between “price” and “cost”. Price
+involves measuring a unit of value expressed in the market that 
+does not necessarily take into account all costs incurred by the 
+state and the population. To make two options comparable, it is35
+Table 8: Unit cost of generation from the Banda gas project (SPEG) 
+Table 9: Updated generation costs of wind power plants 
+Source: Tractebel, 2012
+Note: IRR = Internal Rate of Return; O&M = Operation and Maintenance
+Source: Tractebel, 2010
+Components of the 
+unit cost
+IRR = 10% IRR = 13% IRR = 15%
+USD/MWh USD/MWh USD/MWh
+Spec cost. recov. capital 34.22 43.51 34.22
+Fixed cost O&M 7.41 7.41 7.41
+Variable cost O&M 9.2 9.2 9.2
+Cost of fuel 167 167 167
+TOTAL 117.82 127.10 133.86
+Wind speed 
+(m/s)
+Production 
+(MWh/MW)
+Updated production costs 
+(USD/kWh)
+9.0 4 004 0.768
+8.5 3 627 0.850
+8.0 3 224 0.954
+7.5 2 803 1.098
+7.0 2 375 1.296
+OFF-GRID PRICE COMPARISON 
+As might be expected, renewable resources 
+have much higher investment (capital) 
+costs than diesel in Mauritania (see table 
+10). However, the costs per kWh generated 
+paint a different picture. According to one 
+calculation (Tractebel, 2012), the average 
+generation cost for isolated SOMELEC diesel 
+plants was MRO 78.83/ kWh (USD 0.28/kWh), 
+and for authorised service providers (ASPs) 
+(who manage smaller plants), it was
+MRO 141/ kWh (USD 0.51/kWh) (excluding fuel) 
+and MRO 261/ kWh (USD 0.93/kWh) (including 
+fuel) in 2009. This is higher than the average 
+generation cost for solar energy with storage, 
+calculated at USD 0.27/kWh in the Master Plan 
+for the Production and Transport of Electricity 
+(Tractebel, 2012).
+However, the Master Plan does not take these 
+figures into consideration when comparing 
+generation costs. This is not surprising, 
+because the document is mostly technical and 
+does not cover micro- and macro-economic 
+aspects. Nevertheless, the country needs to 
+be aware of the true price and consequences 
+of its energy choices, which is not the case 
+today given the difficulty of measuring the 
+true costs of generation.
+Table 10: Unit costs of bids received by APAUS 
+over three years for off-grid RFQs for capacity 
+ranging from 50 kWp to 120 kWp
+Source: APAUS, 2014a
+Resource Cost (USD/kW)
+Solar 5 297.8
+Wind 4 281.2
+Diesel 471.2836
+ON-GRID ELECTRICITY 
+As seen above, renewable energy can prove 
+competitive for grid-connected generation. It also 
+offers numerous economic and environmental 
+benefits that are difficult to measure through 
+electricity tariffs. However, the competitiveness of 
+a renewable energy solution ultimately depends 
+on the technology, the quality of available 
+resources, the availability of funding, as well as 
+issues specific to the location of the generation. 
+For example, although the Nouadhibou region has 
+strong wind resources – and thus high potential for 
+large wind farms – local electricity demand may not 
+be sufficient to warrant such an investment. Even in 
+the case of significant demand, however, it would 
+be necessary to plan generation based on the 
+capacity of the existing transmission grid, to enable 
+the transport of the electricity to consumption 
+centres. The Banda gas project includes significant 
+transmission capacity, including the creation of a 
+major north-south transport axis, which could be 
+used in part by renewable power plants. The wind 
+conditions in the country’s north could enable 
+Mauritania to consume and export any excess 
+power at reasonable prices to ECOWAS countries 
+via the OMVS network.
+For solar PV, based on the country’s average 
+electricity production price of USD 0.34/kWh 
+(AFD, 2013), generation is already competitive 
+with numerous national production solutions.
+One advantage of renewable energy is its 
+inherently decentralised nature. If there are 
+sufficient resources, they can be deployed 
+directly where they are consumed in order to 
+reduce transmission costs. This makes it possible 
+to plan renewables deployment based on 
+network needs and not vice versa, as in the case 
+of conventional technology (with the network 
+designed around the plant). Renewable energy 
+therefore can provide significant value added by 
+being produced on-site. For example: 
+•	 End-of-the-line production can strengthen 
+the grid, reduce transmission losses and 
+•	 Siting a renewable energy plant at an 
+overloaded substation can help reduce 
+electrical losses and avoid the construction 
+of a new line.
+•	 A renewable power plant can be built faster 
+than a conventional plant; for example, a 
+solar PV plant can be completed in three 
+months to quickly strengthen the grid 
+where needed.
+Finally, long-term planning of renewable 
+power plants is necessary for the preparation 
+of feasibility studies, the possible extension 
+and capacity expansion of the transport or 
+distribution system, and to demarcate areas 
+(zoning) with high renewables potential. This 
+systematic planning should lower potential 
+risks related to site selection and therefore 
+reduce the burdens and costs of projects.
+OFF-GRID ELECTRICITY
+Mauritania is a vast country with a small 
+population that does not require an extensive 
+electricity network, and load centres are 
+spread throughout the country. Therefore, the 
+need for decentralised services is important. 
+Mining operations are often located outside 
+populated areas and away from the grid in the 
+north (see figure 14; mines are depicted with 
+pink squares).
+These mining centres are supplied mostly 
+by large diesel/HFO plants (up to 10 MW 
+per unit and 50 MW per mining centre). But 
+in these conditions and locations, solar and 
+wind energy (depending on wind conditions) 
+can be competitive with existing solutions 
+and used to reduce fuel consumption. There 
+is a rising awareness of renewable energy’s 
+potential to lower production costs within 
+these areas; however, applicable solutions 
+are still not fully understood or are unsuited 
+to the needs of industry (there is a need for 
+IPP offers). Little information is available on 
+planned projects in the short term, but the 37
+Figure 14: Mauritania’s electricity grids and mining areas
+Source: INTEC, 2012
+The boundaries and names shown on this map do not imply any official endorsement or acceptance by IRENA.
+The Banda gas project is seen as the solution for 
+meeting industrial power needs at a reasonable 
+cost. Although the project will help to supply 
+existing needs, many industrial centres (such as 
+those in the northeast) will remain unconnected 
+to the network. The country should encourage 
+the use of renewable energy in these remote 
+centres to reduce the overall cost of generating 
+electricity and to reduce the effect of imported 
+petroleum products on the balance of trade. 
+Moreover, greater private sector investment in 
+renewables would allow Mauritania to reduce 
+numerous costs related to renewable energy 
+deployment (maintenance, installation or 
+merely investment costs), as the market would 
+be much larger. 
+GENERATION IN OFF-GRID
+CONSUMPTION CENTRES
+The Master Plan for the Production and 
+Transport of Electricity offers an interesting 
+scenario for connecting consumption centres 
+outside of the main grid system. Because 
+grid-based electricity, they depend on diesel 
+generation. Renewable energy, depending on 
+the location, can be used economically in the 
+energy production mix.
+This solution already is being used in several 
+isolated consumption centres to reduce the 
+cost of electricity through the hybridisation 
+of generation. One of the first such projects, 
+being built in Kiffa, includes a 4.8 MW thermal 
+unit and a 1.3 MWp solar field. Other planned 
+projects will be launched as and when they 
+can be financed.
+ENERGY SERVICES IN RURAL AREAS
+Numerous programmes and electrification 
+projects in Mauritania focus on poor rural areas 
+that are not connected to the grid (see box 
+4). The government has developed a unique 
+process within Africa to finance a portion of 
+the cost of extending services to rural areas 
+through the Fund for Universal Access to 
+Services (FAUS), which is presently supplied by 38
+be supplemented by contributions from the 
+country’s grid-connected network, including 
+authorised service providers (ASPs) and SPEG 
+in the future, bearing in mind that the current 
+electricity tariff does not generate even enough 
+money to make SOMELEC financially viable.
+The country has been able to develop a market 
+for ASPs. It would be interesting to support 
+and extend this system to provide solutions 
+for off-grid populations. Nevertheless, ASP 
+businesses are still struggling, with tariffs and 
+state subsidies barely able to maintain the 
+status quo. The inclusion of renewable energy 
+sources in these production systems would 
+reduce the variable costs of production and, 
+by the same token, the subsidies required by 
+the state. However, it is essential to consider 
+revising electricity rates to introduce some 
+degree of balance among different areas. 
+Prices and services vary greatly among the 
+areas connected to the grid, the moughataa 
+mini-grids managed by SOMELEC, and 
+networks managed by the ASPs. 
+As part of the Master Plan for the Production and 
+Transport of Electricity, an exercise was carried 
+out to measure potential demand and existing 
+solutions for off-grid villages and to identify 
+potential additional means to provide them 
+with the necessary services. However, the plan 
+largely downplays the potential for renewables 
+and heavily overstates their generation costs. 
+For wind power, it plans for an additional 
+120 MW by 2030, and for solar, it plans for an 
+additional 105 MW by 2030 to meet state goals 
+for renewables. But the plan only provides 
+these figures as indicative – highlighting that 
+the necessary production margins would not 
+be sufficient – without explaining further.
+Box 4. IRENA wind and hybrid projects for rural communities including 
+fishing villages
+A wind power mini-grid project and a grid-connected hybrid solar, wind and hydro project 
+were approved for funding by the IRENA-ADFD (Abu Dhabi Fund for Development) project 
+facility in 2014 and 2015 respectively. Valued at USD 22 million, the projects will be 50% funded 
+by ADFD the rest coming from the Mauritanian government. The multi-sectoral projects seek 
+to provide access to clean energy to 169 villages with an average population of about 1 000. 
+The National Agency for Development of Renewable Energy (ANADER) and the Agency for 
+the Promotion of Universal Access and Services (APAUS) are the project coordinators.
+The wind energy mini-grid project is to use wind not only to meet electricity needs but also 
+water (desalination) and refrigeration needs (ice production) in the conservation of fishery 
+products. It would include 18 wind turbines of 15 kW each, a meteorological measurement 
+system, a 4 kilometre medium-voltage (15 kV) transport network, a 5 kilometre low-voltage 
+(0.4 kV) distribution network, storage with batteries, two desalination units based on reverse 
+osmosis of 100 m3
+/day and two ice manufacturing units producing 5 tonnes/day.
+i The IRENA-ADFD project facility supports renewable energy projects in developing countries The total available concessional loans 
+per year are USD 50 million. The amount available per project is USD 5-10 million, with the loan amount not allowed to exceed 50% 
+of the estimated project cost. Interest rates on concessional loans granted vary between 1% and 2% annually, with a term of 20 
+Solar plant from IRENA-ADFD backed hybrid project in Mauritania 
+Photo: APAUS39
+CHALLENGES
+Despite Mauritania’s existing efforts to develop 
+renewable energy sources, many challenges 
+remain that continue to impede the scale-up 
+of renewables. Several of these challenges 
+were mentioned at all of the workshops and 
+sub-workshops associated with this report, 
+including:
+•	 The lack of an identifiable strategy and 
+long-term vision for the development of 
+renewable energy. 
+•	 The inability of the current legal 
+environment, whether the regulatory or 
+the institutional framework, to sufficiently 
+reflect these priorities and thus to provide 
+a sufficient level of support. 
+•	 The existence of too much overlap between 
+current programmes and institutional 
+participants, creating inefficiencies in 
+managing priorities and available budgets. 
+This overlap affects both equipment 
+maintenance and the management of 
+production facilities. It also creates price 
+inequality, mostly for off-grid applications, 
+as the SOMELEC-supplied moughataas 
+co-exist alongside the ASPs that supply 
+the smaller villages, as well as alongside 
+solar platforms and individual solar kits – 
+each with a specific per kWh price. 
+•	 The lack of a stable regulatory and tariff 
+structure, and the need to overhaul 
+existing electricity tariffs. 
+•	 The need to expand the role of the 
+regulator to cover the electricity company, 
+SOMELEC, and to have broader authority 
+in setting tariffs and market rules.
+Challenges also were identified in the 
+capacity-building arena, starting with a lack 
+of qualified personnel. This highlighted the 
+need to adapt existing vocational training in 
+line with business needs. Finally, expertise 
+and necessary data, which are sometimes 
+collected but not saved, are often missing.40
+The key drivers for integrating more 
+renewables into the country’s energy 
+mix are clear, and there is political 
+support from all of the stakeholders. 
+There is a consensus to diversify the 
+energy mix, particularly through 
+increased use of renewable energy, 
+increased energy efficiency and 
+greater integration of the
+private sector. 41
+IV. Strategy and action 
+plan for deployment 
+of renewables 
+The recommendations for the RRA process 
+outlined in this report all were made during 
+presentations and validation workshops, or 
+were confirmed later within the RRA process. 
+All of the stakeholders unanimously adopted 
+the three service-resource pairs identified 
+during the framework of the process. These 
+were defined, based on Mauritania’s economic 
+development objectives, as follows:
+•	 Access to energy services: solar, small 
+hydro, biomass and, to a lesser extent, 
+wind.
+•	 Productive activities (mining, fishing, 
+agriculture): solar and/or wind (depending 
+on the location) for, e.g. cooling and 
+freezing fisheries resources after 
+processing.
+•	 Centralised production network: wind 
+and solar, plus storage and network 
+management.
+The main discussions and exchanges were 
+structured around these service-resource 
+pairs. Several common themes emerged from 
+exchanges on the RRA process. 
+The main objective of the RRA process and 
+this report is to prepare the ground for the 
+formulation of a renewable energy strategy 
+and action plan in Mauritania. The RRA seeks 
+not only to identify barriers and challenges 
+to renewable energy deployment, but also 
+to develop a targeted programme of actions 
+through a comprehensive participatory 
+approach and consultation process.
+ELEMENTS OF A RENEWABLE ENERGY 
+STRATEGY 
+The key drivers for integrating more 
+renewables into the country’s energy mix are 
+clear, and there is political support from all 
+of the stakeholders. There is a consensus to 
+diversify the energy mix, particularly through 
+increased use of renewable energy, increased 
+energy efficiency and greater integration of 
+the private sector. However, key obstacles 
+holding back developments in the renewable 
+energy sector include: 1) the absence of a clear 
+strategy and policy for renewable energy,
+2) the lack of a clear institutional framework 
+to facilitate implementation of the policy and 
+3) the lack of a clear financial mechanism 
+to support the deployment of renewables 
+projects (both on- and off-grid). A national 
+strategy and policy for renewable energy 
+therefore should be launched in Mauritania 
+with involvement of the key stakeholders.
+The renewable energy strategy can be 
+segmented into four main pillars (see figure 15): 
+•	 Legal and regulatory framework
+•	 Institutional and organisational framework
+•	 Capacity building, R&D and outreach
+•	 Financial framework and incentives.42
+Figure 15: Renewable energy deployment strategy in Mauritania
+RENEWABLE
+ENERGY
+STRATEGY
+Institutional and
+organisational
+framework
+Financial 
+framework and
+incentives
+Legal and 
+regulatory
+framework
+Capacity
+building, R&D 
+and outreach
+LEGAL AND REGULATORY FRAMEWORK
+Although long-term objectives for renewable 
+energy exist in Mauritania, they are included 
+only in the Poverty Reduction Strategy Paper 
+(PRSP) and may not be sufficiently visible. 
+It therefore is necessary to reiterate the 
+country’s goals in a general policy document. 
+Participants in the RRA process and ministry 
+officials have suggested including the specific 
+elements of the renewable energy strategy 
+in the country’s more ambitious “Energy 
+policy declaration note”, in order to increase 
+the visibility and political significance of the 
+strategy. It is expected that this note will be 
+updated to better reflect the situation. 
+This policy declaration note should include the 
+following ambitious targets already set in the 
+PRSP: 
+•	 The share of renewable energy in electricity 
+generation is to increase to 15% by 2015, 
+20% by 2020 and 35% by 2030. To make 
+these goals more ambitious, it would be 
+possible to exclude hydropower generated 
+•	 Electrification rates are to increase from 
+50% to 80% in urban areas, and from 5% 
+to 40% in rural areas, by 2015. The energy 
+policy note could maintain these goals 
+while adopting a longer time frame, for 
+example 2030, to reflect the government’s 
+commitment within the UN SE4ALL 
+initiative, which aims to double the current 
+share of renewable energy by 2030. 
+Moreover, the note should indicate the specific 
+legislative, institutional and capacity-building 
+framework actions detailed below. The note 
+should also cover private sector involvement 
+in the successful implementation of this policy. 
+A recurring comment made during discussions 
+with RRA participants was the need to 
+enforce and harmonise existing policies and 
+regulations. Although the laws and statutes of 
+the various entities cover the main needs of 
+the country, they are not necessarily enforced. 
+As a result, there was less interest in adopting 
+a renewable “stand-alone” law and greater 
+support for including a declaration note 43
+would contain the necessary elements for 
+renewables. 
+Initially, the general policy note, which is 
+expected to be produced shortly, will integrate 
+the country’s vision and objectives for 
+renewable energy. The corresponding decrees 
+must be adapted to account for the changing 
+needs of the country and to set the conditions 
+for renewable energy use and operation – for 
+example, by giving renewables priority access 
+to the grid, establishing the conditions for 
+export, opening up the market to IPPs within 
+a PPA framework, and establishing the roles of 
+various participants. 
+A specific law for renewable energy could then 
+be developed in a second phase and would 
+further strengthen the role of renewables 
+and provide a legal and statutory basis, while 
+attracting investments and building a climate 
+of mutual trust between public and private 
+sector participants. This law could reflect the 
+initial results in applying the general policy 
+note, making it possible to draft the law to 
+better meet the country’s renewable energy 
+objectives.
+An initial set of amendments to the laws and 
+decrees in force is summarised below. These 
+changes could later be reflected directly in 
+the new renewable energy law, or modified in 
+response to lessons learned.
+Electricity Code: The current electricity code, 
+which dates from 2001, should be amended to:
+•	 Change regulation thresholds (currently 
+at 30 kVA) to require all producers, 
+via mandatory declaration, to notify 
+the regulator, in order to ensure better 
+monitoring of the country’s facilities.
+•	 Include the possibility for derogation 
+regimes (for self-generation), in order to:
+•	 Feed excess electricity into the grid 
+where this is in the national interest, at 
+•	 Build and manage distribution 
+networks, limited to the people 
+surrounding the self-generation site, 
+where the public grid is not available.
+•	 Allow multiple non-grid-connected 
+entities to form a consortium to 
+generate electricity for their production 
+needs (extended self-generation).
+•	 Encourage or even require selfgenerators to “hybridise” a portion 
+of their production with renewable 
+energy in order to further reduce the 
+national oil bill.
+•	 Recognise the importance of the 
+private sector in off-grid generation 
+(self-generation) and encourage their 
+participation in discussions about the 
+country’s energy choices and decisions.
+•	 Reflect the possibility of increased regional 
+co-operation, especially with regard to 
+production and export.
+State-SOMELEC contract: The 2001 contract 
+between the state and SOMELEC should be 
+updated to better reflect the changing needs 
+of the country and the energy sector. The 
+contract should place SOMELEC within the 
+scope of the regulator, which is presently not 
+the case, despite the fact that ARM statutes 
+provide for this. 
+Electricity tariff framework: The tariff 
+framework (whether on- or off-grid) should 
+be revised to better reflect the situation of the 
+country and to ensure operators’ economic 
+viability (a principle already stated in the 
+Electricity Code), while also reflecting the 
+purchasing power of the population. The tariff 
+changes being evaluated should:
+•	 Ensure the economic viability of operators, 
+such as SOMELEC and the ASPs.
+•	 Balance the situation in rural areas, where 44
+unconnected moughataas) with ASP 
+tariffs, leading to a confused price signal.
+•	 Consider tariff equalisation mechanisms 
+to ensure that subscribers in urban areas 
+can contribute, even if only partially, to 
+subsidising rates in rural areas.
+ASP statutes and concession contracts: 
+Statutes and contracts related to ASPs should 
+be revised to better reflect changes in markets, 
+delegations and population needs. Proposed 
+changes include:
+•	 Revising tariffs to ensure the economic 
+viability of operators, while adjusting to the 
+purchasing power of the population.
+•	 Restructuring balancing subsidies to allow 
+operators to install renewable systems
+(i.e. making it possible to front-load 
+subsidies at the start of projects to allow for 
+investment in renewable energy).
+•	 Revising the concession contract length to 
+provide better long-term visibility to local 
+operators.
+•	 Revising the equipment leasing concept 
+(affermage) to allow operators who wish 
+to do so to invest in renewable energy 
+facilities.
+•	 Providing necessary maintenance of 
+light and heavy equipment to ensure its 
+longevity.
+•	 Seeking additional funds (such as those 
+collected under the Fund for Universal 
+Access to Services, FAUS) to stabilise 
+available revenues for financing access to 
+services and to allow authorities to extend 
+access to energy services.
+INSTITUTIONAL AND ORGANISATIONAL 
+FRAMEWORK
+As with the country’s legal framework, 
+institutional needs relate mainly to optimising 
+illustration, competition between institutions 
+led to the decision to dissolve the National 
+Agency for Renewable Energy Development 
+(ANADER) in January 2013, after being in 
+existence for just over two years, and to share 
+ANADER’s powers among existing agencies 
+and institutions rather than maintaining a 
+specific entity. This highlights the need to 
+co-ordinate the actions of key actors before 
+considering the creation of new entities. 
+An initial set of recommendations for key 
+institutions is summarised below.
+MPEM: MPEM should be the exclusive 
+institutional anchor for all structures and 
+interventions in the energy sector, in order to 
+provide a clear framework for interventions in 
+this area. This role can be shared with other 
+departments, such as APAUS, which is also 
+controlled by the Ministry of Economic Affairs 
+and Development. However, MPEM should 
+maintain its role in policy co-ordination and 
+intervention. A specific service for renewable 
+energy could be created within MPEM to coordinate policies and actions in this area.
+Multi-sector committee: As is the case for 
+ECOWAS countries, Mauritania should consider 
+establishing a multi-sector committee that 
+brings together all “operational” departments, 
+headed by MPEM, to co-ordinate line ministry 
+investment needs in energy services. This 
+would optimise the funds invested in these 
+resources and ensure that they are put to best 
+use and maintained. 
+ARM: The scope of the Multi-sector Regulatory 
+Authority should be extended to cover all 
+participants in the energy sector, including 
+SOMELEC, to ensure greater consistency 
+among market stakeholders, fair and 
+reasonable pricing, market transparency and 
+the possibility of arbitration in case of dispute 
+or conflict.
+Monitoring centre: The creation of a monitoring 
+centre for renewable energy would help 45
+existing projects, specifically those run by 
+NGOs, the private sector and individuals. This 
+monitoring centre could be created within a 
+public-private-NGO partnership framework 
+and should be responsible for collecting all 
+renewable energy project information in the 
+country. The centre also could be responsible 
+for centralising all renewable energy data 
+collected in the country, including data 
+related to rural electrification. A geographic 
+information system (GIS) database could be 
+created to include all existing and planned 
+installations, to ensure better co-ordination 
+of the location and maintenance of installed 
+systems.
+ASP equipment maintenance: Currently, 
+several entities are responsible for heavy 
+maintenance of ASP equipment, including 
+APAUS and ADER. However, it seems that 
+heavy maintenance is currently problematic. 
+This may be related in part to the day-today maintenance that must be performed 
+by the ASPs, but also to the difficulty of 
+organising such maintenance, given that 
+several participants are tasked with ensuring 
+the maintenance without necessarily having 
+the ability or opportunity to influence the use 
+of the equipment to guarantee its longevity. 
+It would be useful to give this responsibility 
+to a single entity or to completely revise the 
+concession contracts so that the responsibility 
+for heavy maintenance falls to the ASPs.
+CAPACITY BUILDING, R&D AND OUTREACH
+An initial set of recommendations in the area 
+of capacity building, R&D and outreach is 
+summarised below.
+Training and education: These are perhaps 
+the most important issues for the country’s 
+future development. Existing training and 
+education programmes should be supported 
+and expanded to better meet the needs of the 
+private sector and to enhance co-operation 
+with this sector and within the various regional 
+organisations. In addition to education, 
+vocational training should be developed to 
+This requires regular financial resources to fund 
+institutions, training centres and laboratories.
+Technical platform certification, testing, 
+research and training: There is a need to 
+maintain a technical platform for testing, 
+certification and training. Currently, there is no 
+certification process for imported materials, 
+leading to wide-ranging quality in imported 
+equipment. Although numerous training 
+and demonstration materials were installed 
+historically in Mauritania, inconsistent budgets 
+did not allow for their maintenance. It would 
+be appropriate for the country to consolidate 
+a number of technical activities into a single 
+common entity to facilitate the maintenance 
+of a capacity to test, certify, train and 
+demonstrate. 
+This technology platform could be shared by 
+different institutes for training, research and 
+demonstration to give the country the ability to 
+track the evolution of technology and to adapt 
+training and national standards. Equipment 
+already exists and could be regrouped under a 
+common entity to ensure better operation and 
+maintenance. This platform would need regular 
+funding, which could come from certification 
+and testing activities (which can be funded), 
+from training institutes (based on their use of 
+the facilities) and from international donors. 
+When combined, these resources could be 
+used to create a common platform, facilitating 
+the provision of additional and sustained 
+support for local capacity building. There is 
+also a need to certify the personnel who would 
+be ensuring the installation and maintenance 
+of, for example, off-grid PV systems. 
+Resource assessments: Numerous resource 
+assessments have been carried out in the 
+country at different times, but the measurements 
+and results often have been lost due to lack of 
+regular resources. It is necessary to collect these 
+existing results in a common database and to 
+conduct additional assessments, particularly for 
+wind, solar, biomass and small hydropower. The 
+technical platform team could conduct these 46
+researchers already involved in the renewables 
+field in the country. 
+To be as complete as possible, the assessments 
+should include local measurements from 
+already established projects (each plant 
+solar and wind is equipped with measuring 
+devices to enable estimation of performance). 
+These measurements should be incorporated 
+into a GIS system that includes existing and 
+future infrastructure in order to better assess 
+the technical potential and development 
+opportunities by location. The “monitoring 
+centre” should store the collected data so that 
+it is made available to all participants. 
+Technical studies: Mauritania is among the 
+leaders in the region in installed renewable 
+generation capacity. To capitalise on this 
+experience and go further, the country should 
+initiate several pilot projects to manage the 
+integration of existing renewable resources 
+and to develop additional expertise in coordinating the renewable generation with 
+existing conventional production. 
+Installation, operation and maintenance: 
+Mauritania already has a relatively large 
+number of installed renewable energy projects. 
+To ensure their sustainability, the country needs 
+to develop its own capacity for maintenance 
+and installation through a shared technical 
+platform and the development and adaptation 
+of technical training on these topics. This 
+should be done through the support of existing 
+maintenance structures in the country. In 
+addition, private companies with experience in 
+providing energy services could be trained to 
+potentially provide services and maintenance 
+to existing solar power plant facilities.
+Regional co-operation: Mauritania intersects 
+several regional power groupings (COMELEC 
+in the north and OMVS/WAPP in the south). It 
+could benefit greatly from more extensive cooperation with these regions in order to draw 
+useful experiences for its own development 
+and its potential to become a regional 
+Several national projects are already under 
+way to meet the needs of neighbouring 
+countries; this model could be expanded and 
+developed to provide an additional source of 
+national economic development.
+Outreach and communication: Finally, the 
+country should consider launching an outreach 
+and communication programme with the 
+public and policy makers to raise awareness 
+about renewable energy and its applications 
+and to help ensure the sustainability of 
+implemented programmes.
+FINANCIAL FRAMEWORK AND INCENTIVES
+Mauritania’s renewable energy market must 
+be developed in a concerted and sustainable 
+manner. The actions outlined above will 
+provide the framework for developing 
+renewable energy resources while reducing 
+the technical risk perceived by the private 
+sector and banks. However, the stability of 
+the legal and regulatory framework will be 
+decisive in developing this market by reducing 
+the country risk. Technical and country risk 
+factors most affect the cost of financing. 
+Because renewable energy entails primarily 
+capital costs and not variable costs (fuel, 
+maintenance, etc.), controlling these two risk 
+factors (which influence the cost of capital) 
+will likely have the greatest effect on the 
+country’s development of renewables. Even 
+if most project funds come from international 
+donors, the donors themselves use banking 
+methods for calculating risk when establishing 
+their funding conditions. 
+An initial set of recommendations regarding 
+financing and incentives is summarised below.
+Financial and customs incentives: The 
+government should consider possible financial 
+and customs incentives that would encourage 
+the deployment of renewable energy without 
+endangering the national budget. To bolster 
+its efforts to reduce exposure to risk and 
+to volatile commodity prices, the country 
+may consider earmarking a portion of 47
+to promote renewables. This would not only 
+limit the import of petroleum products, but 
+also potentially redistribute mining profits in 
+sectors that have not necessarily benefited 
+from them until now.
+Revolving access fund: Apart from grid 
+investments, which are rising at a constant 
+rate, a leading challenge in the country is 
+access to energy services. The country already 
+has implemented a universal fund (FAUS) to 
+help increase this access. The energy-specific 
+elements of this fund should be strengthened 
+by identifying additional resources to maintain 
+a consistent pace of progress in access to 
+services. Including SOMELEC in regulation 
+would raise additional resources related to 
+licensing, but other resources should be 
+identified as well. Some of these resources 
+could come from an increase in electricity tariffs 
+from grid-connected populations (as a sign of 
+solidarity towards rural and poor populations), 
+while additional funds would need to come 
+from donors and, for example, from a slight 
+increase in mining activity taxes (similar to the 
+tax on mobile telecommunications that helps 
+to support FAUS). 
+Centralised purchasing platform (centrale 
+d’achat): To reduce the overall costs of access 
+to energy, Mauritania could consider creating a 
+centralised platform for purchasing PV modules 
+and materials to supply off-grid projects. By 
+purchasing and trading in bulk, the country 
+could greatly reduce its supply costs.
+Standard power purchase agreement (PPA): 
+A fairly specific legislative measure would 
+simplify negotiations for PPAs that are 
+now established on a case-by-case basis. 
+Developing a standardised PPA that outlines 
+the main terms, conditions and state guarantees 
+needed (while allowing enough flexibility to 
+adapt to the specifics of each project) would 
+offer the advantage of clarifying the main 
+clauses for producers wishing to invest in the 
+country, while providing the authorities in 
+charge of negotiations with a stable basis for 
+Dedicated renewable energy fund: Finally, 
+to facilitate financing of renewable energy 
+projects, a dedicated renewable energy fund 
+could be developed to support renewables 
+deployment in Mauritania. This fund could be 
+supported by local, regional and international 
+donor funds.
+CONCLUSION
+Mauritania is blessed with substantial 
+renewable energy resources in the areas 
+of wind, solar, biomass and even small 
+hydropower (with large hydropower being 
+developed as part of the OMVS). The country is 
+highly dependent on the availability of energy 
+and electricity for its development and is also 
+highly sensitive to changes in commodity 
+prices, both for its export revenues and its 
+import costs. Within this context, the large 
+Banda gas field project was presented as a 
+means to provide additional power generation 
+capacity (260 MW by 2022 and 350 MW by 
+2030).
+Developing renewable resources to meet the 
+country’s energy needs can help stabilise 
+the economy by reducing its dependence 
+on energy imports and its exposure to price 
+fluctuations. Already, Mauritania is one of the 
+first countries in sub-Saharan Africa to install 
+large renewable energy projects, including the 
+15 MW solar PV plant in operation, the 4.4 MW 
+wind project installed by SNIM and the 30 MW 
+wind plant under construction. Renewable 
+energy has also been used historically (since 
+the early 1990s) to meet off-grid generation 
+needs.
+Today, the opportunities far outweigh the 
+constraints. The country can use its pro-active 
+policy for grid-connected projects to become 
+an energy exporter to both West Africa and 
+North Africa. Substantial work will be needed 
+to strengthen management of both the 
+network and generation, but it may allow the 
+country to develop a new expertise that could 
+generate further export revenues. To promote 
+development of the national market, the 48
+adoption of renewable energy solutions by offgrid industries. This would enable the country 
+to develop expertise in low-cost renewable 
+energy deployment for off-grid applications, 
+which remains a top national priority. 
+Mauritania now has an opportunity to move 
+towards achieving the targets outlined in the 
+UN Millennium Development Goals as well as 
+in the SE4ALL initiative,7
+ which Mauritania 
+joined in 2014. To do so, the country should 
+clearly define and announce its goals and plan 
+the implementation and action needed to 
+achieve them. This activity should be reflected 
+in national laws and decrees to ensure the 
+stability of the institutional framework and the 
+monitoring of all sector participants. 
+Beyond this, the institutional and regulatory 
+structure should ensure the monitoring of 
+these objectives. A significant programme 
+of capacity building is needed to assist the 
+country in this area by providing essential 
+skills on-site, ensuring the necessary training 
+and supporting applied research needs. A 
+financial framework and incentives should also 
+be implemented to achieve these objectives 
+without putting a strain on public finances. 
+This effort would contribute not only to the 
+security of supply and to the availability of 
+energy for all at reasonable prices, but also to 
+widespread access to energy by 2030, while 
+ensuring streamlined energy consumption 
+and protection of the environment. The 
+effects on the country’s development would 
+be significant and long-term, ensuring 
+diversification of economic activity and 
+employment sources. 
+Participants in the RRA process also 
+recognised the crucial role that co-operation 
+with IRENA has in assisting the country in its 
+efforts to integrate more renewable energy 
+into the energy mix. In particular, international 
+and regional co-operation can be effective 
+in capacity building, education, technology 
+transfer, information sharing, R&D and the 
+mobilisation of resources.
+The concluding section provides an outline of 
+actions identified and recommended during 
+the RRA process. 
+7 The SE4ALL initiative aims to provide universal access to
+electricity, double the energy efficiency rate and double the
+share of renewable energy in the energy mix by 2030.49
+RECOMMENDATIONS
+Action Steps
+Develop a national policy 
+on renewable energy
+•	 Redefine the country’s objectives through a “general policy note” for 
+renewable energy.
+•	 Set breakthrough objectives for renewable energy.
+•	 Equalise pricing principles and sectorial priorities.
+•	 Set up clear institutional and regulatory objectives. 
+Include the objectives for 
+renewables and operating 
+principles in a new 
+electricity code and related 
+implementing decrees
+•	 Develop a new electricity code that includes the objectives and operating 
+principles relating to the promotion of renewables in all sectors, as well as 
+the operating principles of potential regional co-operation and export.
+•	 Update the State-SOMELEC contract to include SOMELEC in the scope of 
+regulator.
+•	 Review and update the bylaws and contracts related to ASPs to allow 
+for the economic equalisation of operators, review of concession periods 
+(better visibility) and revision of the concept of leasing to make it easier 
+for ASPs to invest in renewables.
+•	 Work towards levelling the costs associated with electricity generation 
+and the price differences between SOMELEC and ASPs in rural areas.
+Create the institutional and 
+regulatory framework to 
+facilitate the deployment of 
+renewable energy
+•	 Address jurisdiction overlaps between the agencies, NGOs and SOMELEC 
+to optimise the use of resources.
+•	 Give MPEM exclusive institutional anchoring structures and operations in 
+the field. 
+•	 Create a unit of renewable energy and energy efficiency within the DEME.
+•	 Revise the legal framework to place the Multi-sector Regulatory Authority 
+(ARM) at the heart of the system.
+•	 Consider creating a multi-sectorial committee dedicated to access to 
+energy services and assemble a national energy access programme with 
+a renewable energy component, involving all participants (especially local 
+authorities and the private and public sectors). 
+•	 Set realistic and achievable goals for 2030 and take into account the 
+guidelines of the SE4ALL initiative. 
+•	 Create a “monitoring centre” for renewable energy in a collaborative 
+framework between the government, the private sector and NGOs to 
+focus information on past experiences, data and reports within a single 
+unit.
+•	 Clarify responsibility for the maintenance of ASP heavy equipment so that 
+one entity is responsible.
+The RRA process for Mauritania has identified and recommended five main actions and related 
+steps, as outlined below. These actions apply to all three of the identified service-resource pairs and 
+have been developed in light of the SE4ALL guidelines. The actions are not listed in any order of 
+importance, nor are they exhaustive, given the rapid nature of the assessment process. 50
+Action Steps
+Promote capacity-building 
+and research programmes, 
+dedicated training and 
+education
+•	 Create a common technical platform for certification, testing, research 
+and training. Consolidate existing equipment within a single entity that is 
+able to operate and maintain this equipment as well as facilitate applied 
+research in the country. 
+•	 Evaluate the country’s renewable resource potential by using existing 
+data and launching additional measures. Allow for the development of a 
+solar and wind atlas to be integrated into a GIS system that includes the 
+resources, existing production facilities and infrastructure.
+•	 Initiate technical impact assessments and projects to manage the further 
+integration of renewables into the Mauritanian grid.
+•	 Develop the technical capacity for operation, maintenance and installation 
+of renewable systems in the country.
+•	 Enhance local skills in finance analysis to help with assessment of 
+renewable energy projects.
+•	 Reinforce vocational training and education related to renewable energy 
+to ensure its applicability.
+•	 Launch an outreach and communication programme with the population 
+and renewable energy decision makers.
+Financial framework and 
+incentives
+•	 Stabilise the legal and institutional framework to reduce country risk, 
+and ensure technical capacity for installation and maintenance to reduce 
+technology risk.
+•	 Identify and implement possible financial and customs incentives that 
+may encourage renewable energy development.
+•	 Create a national fund dedicated to the promotion of renewable energy 
+(e.g. state guarantees) and decentralised rural electrification projects.
+•	 Consider creating a purchasing centre using the orders related to largescale power plants to reduce the provision costs for off-grid renewables 
+projects.
+•	 Develop an IPP model contract containing the main terms, conditions and 
+state guarantees to facilitate the negotiation and finalisation of contracts 
+in the country.
+•	 Reform the system of subsidies for fossil fuels to improve the cost 
+comparison with renewable energy and to remove barriers to the 
+introduction of renewables.
+•	 Encourage industrial self-generators to hybridise via the production of 
+renewable resources.
+•	 Facilitate access to guarantee funds and loans for private companies.
+Actors •	 MPEM, Ministry of Finance, APAUS, SOMELEC, Regulatory Agency
+Timing •	 Preparation during 2015-2016 and implementation from 2017.
+Keys for success •	 Nomination of one key Mauritanian actor to drive the process, setting and 
+respecting a time frame for stakeholder consultations and inputs.51
+REFERENCES
+AF (Arab Fund for Economic & Social Development) (2011), www.arabfund.org.
+AFD (French Development Agency) (2013), “Public Operation Communication note, Financing a 
+hybrid photovoltaic/thermal plant in Kiffa and electricity networks in the region of Kiffa”, April.
+APAUS (Agency for the Promotion of Universal Access to Basic Services) (2014a), internal note.
+APAUS (2014b), “Annual Report”.
+CNA (2013), “Mission Report, Capacity Needs Assessment under the RRA Mauritania”, IRENA, Touria 
+Daffrallah, November.
+CILSS (Permanent Interstate Committee for Drought Control in the Sahel) (undated-a), “Objectives 
+and results, Regional Solar Programme 2”, www.cilss.bf/prs/article.php3?id_article=5.
+CILSS (undated-b), “Areas of intervention, organisation and implementation of the PRS 2”, www.
+cilss.bf/prs/article.php3?id_article=5.
+EC JRC (European Commission Joint Research Centre) (2008), Ecole des Mines de Paris/Armines/
+CNRS, “PVGIS (Photovoltaic Geographical Information System)”, Institute for Energy and Transport, 
+http://re.jrc.ec.europa.eu/pvgis/. 
+ECOWAS (Economic Community of West African States) (2012), “ECOWAS Renewable Energy 
+Policy (EREP), Final Version”, September 2012.
+EIA (U.S. Energy Information Administration) (2013), “Mauritania country profile”, www.eia.gov/
+countries/country-data.cfm?fips=MR#pet.
+GTZ (Deutsche Gesellschaft für Technische Zusammenarbeit) (2009), “Renewable Energies in 
+West Africa”, Regional Reports on Potentials and Markets – 17 Country Analysis, Energy Policy 
+Framework papers, Bonn.
+IMF (International Monetary Fund) (2012), “Islamic Republic of Mauritania: Letter of intent, 
+memorandum of economic and financial policies, and technical memorandum of understanding”, 
+Washington, DC, November 5, www.imf.org/external/np/loi/2012/mrt/110512.pdf.
+IMF (2013), “Sixth Review under the Three-year Extended Credit Facility Arrangement and Request 
+for Waiver of Nonobservance of Performance Criterion”, Washington, DC, 31 May, www.imf.org/
+external/pubs/ft/scr/2013/cr13188.pdf.
+INTEC (2012), “Master Plan for the Production and Transport of Electricity in Mauritania Between 
+2011 and 2030”, November.
+IRENA (International Renewable Energy Agency) (2013a), “Renewables Readiness Assessment. 
+Design to Action”, Abu Dhabi, www.irena.org/DocumentDownloads/Publications/RRA_Design_
+to_Action.pdf.
+IRENA (2013b), “The Gambia Renewable Readiness Assessment 2013”, Abu Dhabi. www.irena.org/
+DocumentDownloads/Publications/RRA_Gambia.pdf.
+IRENA (2014), “The Socio-economic Benefits of Solar and Wind Energy”, Abu Dhabi, www.irena.
+org/DocumentDownloads/Publications/Socioeconomic_benefits_solar_wind.pdf.
+IRENA (2015), “Renewable Energy in the Water, Energy & Food Nexus”, Abu Dhabi, www.irena.org/
+documentdownloads/publications/irena_water_energy_food_nexus_2015.pdf.
+IRENA (undated), “Global Atlas for Renewable Energy”, www.irena.org/globalatlas/.52
+IRM (2001a), “Law No. 2001-18 on the Multisectoral Regulation Authority”.
+IRM (2001b), “Order No. 2001-06, Establishing the Agency for the Promotion of Universal Access 
+to Services”.
+IRM (2006), “Poverty Reduction Strategy Paper Action Plan 2006-2010”, October.
+IRM (2011), “Poverty Reduction Strategy Paper. Volume 2: Action Plan 2011-2015”. 
+Izquierdo, Gonzalo Piernavieja (2005), “The Canary Islands Institute of Technology ITC”, 
+Presentation, www.exportinitiative.de/fileadmin/publikationen_veranstaltungsdoku/dokumente/
+Expo_ES_05/6b_Do_n_Wrage_proexca.pdf.
+MHE-MCI (2008), “Joint Order 2418, MHE MCI fixing the maximum retail prices of electricity in 
+locations subject to delegation by the public electricity service”, 23 June.
+MPEM (Ministry of Petroleum, Energy and Mines) (2014), “Annual Report”.
+NATO (North Atlantic Treaty Organization) (2012), “NATO-sponsored project helps harvest 
+wind energy in the Sahara”, 29 October, www.nato.int/cps/en/natolive/news_91105.
+htm?selectedLocale=en.
+Nodalis (2012), “Study on the Delegation of Public Service of Electricity in Mauritania”, Paris.
+OECD (Organisation for Economic Co-operation and Development) (2009), “Regional Atlas on 
+West Africa”, Paris, http://browse.oecdbookshop.org/oecd/pdfs/product/4409011e.pdf.
+PREDAS (Regional Programme for the Promotion of Household and Alternative Energies in the 
+Sahel) (2005), “Surveys on Domestic Energy Consumption in Mauritania”, CECO COUNCIL, CILSS 
+PREDAS, February.
+Reikat, Andrea (2012), “Programme pour l’Energie de Cuisson Economique en Afrique de l’Ouest :
+Présentation globale”, presentation at the ECOWAS Regional Bioenergy Forum, Bamako, Mali, 
+20 March, www.globalbioenergy.org/fileadmin/user_upload/gbep/docs/2012_events/WGCB_
+Activity_1_Bamako_19-22_March_2012/IV.3_Presentation_on_GIZ-ProCEAO_Cookstoves_
+project.pdf.
+SNC-Lavalin (2013), “Rate Study of SOMELEC”, Montreal, March.
+SOMELEC (2013), Annual Report.
+SOMELEC (2014), Annual Report.
+SWERA (Solar and Wind Energy Resource Assessment) (undated), “Mauritania”, http://en.openei.
+org/apps/SWERA/?active=Mauritania.
+Tractebel (2010), “Study on the Master Plan for the Generation and Transport of Electric Power in 
+Mauritania (2011-2030)”.
+Tractebel (Tractebel Engineering SA) (2012), “Report of Stage III (APD) of the Feasibility Study for 
+the Production and Transport of Electricity Based on Gas (SPEG)”, September.
+United Nations (2014), “World Urbanization Prospects, The 2014 Revision”, New York.
+World Bank and Nodalis (2010), “Restructuring of SOMELEC and the Electricity Sector in Mauritania”, 
+February.
+//53
+ANNEX: 
+RECOMMENDED ACTIONS
+ACTION 1
+Develop a national renewable energy policy and an action plan
+Action Centralised production, access to energy services, productive activities, all renewable 
+energy sources
+ServiceResource Pair(s)Centralised production, access to energy services, productive activities, all renewable 
+energy sources
+Description
+There is broad consensus among government and non-governmental participants in 
+Mauritania on the importance of the potential role of renewable energy. The Ministry of 
+Petroleum, Energy and Mines (MPEM) is responsible for developing renewable energy policy 
+and the action plan that sets guidelines for the widespread use of renewable resources. 
+Apart from the centralised hydropower plant (developed under the auspices of the OMVS), 
+wind and solar energy can greatly help reduce the country’s dependence on oil.
+MPEM will set achievable goals for existing renewable resources based on the results of the 
+RRA process, additional resource assessments and network capacity. 
+Initially, MPEM shall formalise existing targets and the means of achieving them within the 
+energy policy note expected in early 2016. Depending on the results, a second specific law 
+for renewable energy could take into account experiences related to the implementation 
+of the note on energy policy.
+Key participants MPEM, ARM, APAUS
+Timing 2016-2017
+Key to success
+The success of the policy depends on how realistic the objectives are (based on the 
+results of resource assessments and network penetration studies) and its adoption by 
+industry stakeholders. The objectives of the note on energy policy may be integrated 
+into a specific renewable energy law if it turns out that the note is not sufficiently 
+encouraging or binding. 
+ACTION 2
+Include the objectives and operating principles for renewables in a new electricity code 
+and related implementing decrees
+Action Inclusion of renewables objectives and operating principles in the electricity code and 
+related decrees
+ServiceResource Pair(s)Centralised production, access to energy services, productive activities, all renewable energy 
+sources
+The RRA process has identified and recommended the five actions below. They are not given in any 
+order of priority and should not be considered exhaustive. These actions could improve the ability 
+of Mauritania to develop and deploy renewable energy more rapidly and more sustainably.54
+Description
+The existing consensus on the use of renewable energy in the country should be expressed 
+specifically in the laws and decrees relating to the energy sector that do not currently take 
+renewables into account.
+MPEM shall be responsible for developing legislative proposals and implementing regulations 
+to put this policy into practice. The texts to be modified include: 
+•	 The electricity code, which must include the objectives and operating principles for the 
+promotion of renewable energy and potential regional export;
+•	 The State-SOMELEC contract, which should include SOMELEC in the scope of the 
+regulator; and
+•	 ASP statutes and contracts with the ARM, which should reflect a better economic balance 
+of the operators, revised duration of concessions and updated leasing that allows direct 
+investment in renewable ASP solutions.
+Moreover, the costs of electricity generation should be levelled to balance the price 
+differences between SOMELEC and ASPs in rural areas.
+Key participants National Assembly, MPEM, ARM, SOMELEC, APAUS, ADER, NGOs, private sector
+Timing 2016-2017
+Key to success
+One of the main keys to success will be the inclusion of industry representatives in 
+discussions and debates related to the structuring of new laws, decrees and acts to 
+be implemented. Furthermore, the inclusion of SOMELEC in the scope of the regulator 
+will require real co-ordination work between SOMELEC and the state to ensure that 
+objectives are understood and shared by all participants. 
+ACTION 3
+Create the institutional and regulatory framework to facilitate the deployment of renewable 
+energy
+Action Create the institutional and regulatory framework to facilitate the deployment of 
+renewable energy
+ServiceResource Pair(s)Centralised production, access to energy services, productive activities, all renewable 
+energy sources
+Description
+MPEM, shall, with its institutional, private and community partners, define and implement 
+an institutional and regulatory framework for optimising actions within the sector.
+As part of planned development work, this should be presented and developed in 
+collaboration with participants so that everyone can take part and ensure its adoption. 
+The framework should permit MPEM to ensure the institutional anchoring of the sector. 
+But MPEM needs to provide the regulator with comprehensive coverage in the industry to 
+ensure the consistency of measures put in place. MPEM should also create a “monitoring 
+centre” for renewable energy in a collaborative framework between the government, the 
+private sector and NGOs to focus information on past experiences, as well as the relative 
+data and reports within a single entity.
+Moreover, MPEM should encourage the emergence of a dedicated multi-sectoral 
+committee for access to energy services in rural areas. This will, among other things, 
+co-ordinate the actions of public participants in the provision of energy services in 
+these areas and maintain them more efficiently. This committee should set realistic and 
+achievable goals for 2030, in accordance with the guidelines of the SE4ALL initiative. 55
+Key participants MPEM, ARM, APAUS
+Timing 2016-2017
+Key to success One of the keys to successful implementation will be the participation of stakeholders 
+and their adoption of shared goals. 
+ACTION 4
+Promote capacity-building and research programmes, dedicated training and education
+Action Promote capacity-building and research programmes, dedicated training and 
+education on renewable energy
+ServiceResource Pair(s)Centralised production, access to energy services, productive activities, all renewable 
+energy sources
+Description
+Mauritania already has significant experience with renewable energy, dating from the 
+1990s. However, part of this experience has been diluted due to lack of resources or 
+capacity. Capacity building – including in the areas of R&D, education and awareness – 
+is essential for the success of this policy.
+By creating a common technical platform for users (whether in the area of research, 
+training or standards), the country would develop a centre of excellence, based on its own 
+needs, that would significantly reduce the technical risk of the projects implemented. 
+In technical terms, there is a need for additional means to test and certify equipment 
+used, as well as a need to use existing equipment to produce detailed solar and wind 
+atlases that are integrated into a GIS system. In addition, studies and pilot projects 
+should be launched in the short term to better measure the impact of renewables on 
+the current network and to manage the network and the existing means of production 
+according to renewable energy sources.
+Renewable energy training within the country should be strengthened and made 
+more relevant to ensure better “employability” for students and to ensure the highest 
+possible practical vocational training. Finally, a public awareness programme would 
+help to better integrate renewable energy within the country. 
+Key participants MPEM, Ministry of Education, universities, schools, NGOs, private sector
+Timing 2016-2017
+Key to success
+Capacity building should be implemented in a fair and transparent manner in order to 
+maximise its effects. It should also take into account the needs for fiscal stability of the 
+agencies involved, regarding both research and training units and testing of equipment to 
+ensure sustainability. 56
+ACTION 5
+Developing Capacity Building for renewable energy 
+Action Develop a financial framework and incentive schemes for the development of 
+renewable energy
+ServiceResource Pair(s)
+Centralised production, access to energy services, productive activities, all renewable 
+energy sources
+Description
+Before considering any further action, it is important to recognise how legislative, 
+institutional and regulatory stability is critical to reducing project costs. 
+MPEM, in partnership with industry players, may suggest the use of customs and tax 
+incentives for renewable energy sources in the country. These actions can be justified 
+by the potential savings that they offer in terms of balance of trade and energy 
+dependence. 
+A fund dedicated to the promotion of renewable energy could be considered. This 
+would cover a portion of energy access needs by complementing the actions of the 
+Fund for Universal Access to Services (FAUS) to encourage the use of renewable 
+resources. Actions in the field of centralised projects and self-generation/independent 
+production should be measured accurately. Because budgets are limited, it is more 
+difficult to guarantee a significant impact.
+Description
+However, the country could create a specific“guarantee fund” for Renewable EnergiesIPP contracts that would not need to be refinanced but would have the advantage of 
+further reducing the cost of financing, including for international financial institutions.
+Other concrete and high-leverage actions to be implemented could include: 
+•	 Defining an IPP model contract for renewable energy resources.
+•	 Creating a purchasing centre that takes advantage of larger volumes to reduce the cost 
+of equipment.
+•	 Encouraging industrial self-generators to hybridise with renewable-based generation. 
+Finally, the system of subsidies for fossil fuels should be reformed to ensure greater 
+market balance and to reduce barriers hindering the development of renewable energy.
+Key participants MPEM, ARM, APAUS, Ministry of Finance, industries
+Timing 2016-2017
+Key to success The sustainability of financial resources used and their optimisation are the biggest keys 
+to the success of this policy.

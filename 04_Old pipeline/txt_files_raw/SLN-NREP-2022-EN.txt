@@ -1,0 +1,2001 @@
+File Name: SLN-NREP-2022-EN
+Year: 2022
+Country Name: Small Islands
+Country Code: SLN
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2022
+Start Year: 2022
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+TECHNICAL PAPER 4/2022
+BY FARAN RANA AND ABDULLAH 
+RENEWABLE ENERGY 
+TARGETS IN SMALL 
+ISLAND DEVELOPING 
+STATESUnless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that 
+appropriate acknowledgement is given of the author(s) as the source and IRENA as the copyright holder. Material in this publication attributed 
+to third parties may be subject to separate terms of use and restrictions, and appropriate permissions from these third parties may need to be 
+secured before any use of such material.
+ISBN 978-92-9260-483-7
+Citation: Rana, F., and Abou Ali, A. (2022), Renewable energy targets in small island developing states, 
+International Renewable Energy Agency, Abu Dhabi.
+About IRENA 
+The International Renewable Energy Agency (IRENA) serves as the principal platform for international 
+co-operation, a centre of excellence, a repository of policy, technology, resource and financial knowledge, 
+and a driver of action on the ground to advance the transformation of the global energy system. An 
+intergovernmental organisation established in 2011, IRENA promotes the widespread adoption and sustainable 
+use of all forms of renewable energy, including bioenergy, geothermal, hydropower, ocean, solar and wind 
+energy, in the pursuit of sustainable development, energy access, energy security and low-carbon economic 
+growth and prosperity. www.irena.org www.irena.org
+Acknowledgements
+This technical paper was developed under the guidance of Rabia Ferroukhi (Director, IRENA Knowledge, 
+Policy and Finance Centre), Ute Collier, and authored by Faran Rana and Abdullah Abou Ali with valuable 
+contributions from Diala Hawila, Costanza Strinati (former IRENA) and Hyunjin Kim (IRENA).
+Valuable review and feedback were provided by IRENA colleagues Arieta Gonelevu Rakai, Nadia Mohammed, 
+Elizabeth Press and Paul Komor. Valuable external review was provided by the Alliance of Small Island States 
+(AOSIS). The technical paper was edited by Erin Crum. 
+For further information or to provide feedback: publications@irena.org
+Available for download: www.irena.org/publications
+Disclaimer
+The views expressed in this publication are those of the author(s) and do not necessarily reflect the views or policies of IRENA. This publication 
+does not represent IRENA’s official position or views on any topic. 
+The Technical Papers series is produced as a contribution to technical discussions and to disseminate new findings on relevant topics. Such 
+publications may be subject to comparatively limited peer review. They are written by individual authors and should be cited and described 
+accordingly. 
+The findings, interpretations and conclusions expressed herein are those of the author(s) and do not necessarily reflect the opinions of IRENA 
+or all its Members. IRENA does not assume responsibility for the content of this work or guarantee the accuracy of the data included herein. 
+Neither IRENA nor any of its officials, agents, data or other third-party content providers provides a warranty of any kind, either expressed or 
+implied, and they accept no responsibility or liability for any consequence of use of the publication or material herein. The mention of specific 
+companies, projects or products does not imply that they are endorsed or recommended, either by IRENA or the author(s). The designations 
+employed and the presentation of material herein do not imply the expression of any opinion on the part of IRENA or the author(s) concerning 
+the legal status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers or boundaries.KEY MESSAGES
+Similar to global trends, renewable energy targets in national policy documents (national policies, plans, 
+roadmaps or laws) and targets in Nationally Determined Contributions (NDCs) are not always in sync in 
+small island developing states (SIDS).1
+While targets may be updated in the NDC, this update may not always be reflected in national policy documents 
+– which are more binding at the national level than NDCs. Similarly, a country may have targets in national 
+policy documents, but these may not be indicated as part of its NDC, which represents a commitment made 
+to the international community. This makes it difficult to compare the two targets and derive any meaningful 
+conclusions. 
+• In cases where renewable energy targets in national policy documents predate the NDCs by several years 
+(e.g. eight years in Grenada’s case), the differences in targeted capacity may be significant. This may be 
+due to the two targets being set in very different contexts. As such, for countries that have not updated 
+their NDCs and national policy documents in tandem, and where the time gap between when they were 
+published is relatively large, comparing the two may not produce meaningful results. 
+• Similarly, in countries where renewable power targets in NDCs predate those in national policy documents, 
+the targets may be set in very different contexts. Again, in this case comparing the two may not produce 
+any meaningful conclusions, although this may emphasise the fact that renewable energy deployment in 
+SIDS is mostly driven by objectives beyond climate. 
+For countries that have updated targets in both their NDCs and national policy documents, and where the time 
+gap between them is relatively short, the comparison is more meaningful and some trends can be identified, 
+giving insights on 1) the level of ambition of nationally binding targets in country plans compared with those in 
+NDCs; 2) the importance of international collaboration for deploying renewables and achieving targets; and 3) 
+the drivers for renewable energy deployment beyond climate. 
+Collectively, the renewable energy targets set in national policy documents are more ambitious than the 
+targets set in NDCs. 
+If all national targets were achieved, total renewable power capacity in SIDS would reach 13 gigawatts (GW) 
+by 2030, which is 1.5 GW higher than the targeted capacity in NDCs (conditional and unconditional combined). 
+Achieving these targets would require renewable power capacity to more than double compared with 2021 
+levels. While this makes up a small portion of the renewable energy deployment required globally to reach 
+the 1.5°C Scenario, it would have a transformational impact in many SIDS, notably for their socio-economic 
+development, energy security and independence. However, the level of ambition varies between countries.
+The international community plays an instrumental role in scaling up renewable energy in SIDs and 
+unleashing its multifaceted benefits. 
+More than half of the collective renewable power targeted capacity in NDCs in SIDS is conditional on 
+international support in the form of financing, technical assistance, technology transfer, capacity building and 
+other forms of support based on each country’s national context. 
+Since 2009, commitments for energy-related development aid to SIDS have been rising and shifting towards 
+renewables, particularly solar, although non-renewables such as oil-fired plants continue to be funded. But 
+disbursement rates remain low, suggesting implementation problems. Furthermore, energy-related aid is 
+unevenly flowing between SIDS as the allocations made to individual countries have had little correlation with 
+their income levels or energy access gaps. Moreover, improvements in access to electricity have been slow in 
+those countries where the gap is largest (Atteridge and Savvidou, 2019).strengthening co-ordinated efforts with SIDS and development partners to support the acceleration of 
+their energy transition. IRENA, in partnership with the United Nations Development Programme (UNDP), the 
+NDC Partnership and other partners, is supporting 18 SIDS2 in their NDC enhancement and implementation 
+including, but not limited to: the development of energy management methodology for greenhouse gas (GHG) 
+emissions; target tracking; roadmaps for the electrification of the transport sector and emerging technologies 
+such as green hydrogen and ocean energy; rooftop solar simulation; energy monitoring, reporting and 
+verification; mitigation scenarios; project facilitation; and access to finance (IRENA, 2022a).
+Renewable energy deployment is driven by policy objectives beyond climate (e.g. socio-economic 
+development, energy security and independence). 
+Some countries have set targets in their national policy documents that are equal to those in NDCs and 
+are not conditional on any external support (e.g. Bahamas, Bahrain, Mauritius and Singapore).3
+ This shows 
+international support is not a prerequisite for achieving these commitments, although it should be noted that all 
+countries in this category are high-income countries as per the World Bank’s income classification for countries. 
+Commitment to renewable energy deployment can be driven by objectives beyond climate, such as reliable 
+energy supply, food and water security, among other objectives (Figure 1). 
+2 Antigua and Barbuda, Belize, Cuba, Dominica, the Dominican Republic, Fiji, Grenada, Mauritius, Palau, Papua New Guinea, 
+Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines, São Tomé and Príncipe, Seychelles, Solomon Islands, Tonga, 
+and Trinidad and Tobago. 3 These countries are categorised as high-income countries as per the World Bank Group classifications (except for 
+Marshall Islands).
+Figure 1 Drivers for renewable energy deployment beyond climate
+Some SIDS have made unconditional commitments in their NDCs without pronouncing a target in their 
+national policy documents. Examples include Saint Vincent and the Grenadines, Suriname and Tuvalu. These 
+commitments should be made more operational by reflecting them in national policy. 
+Other countries have made commitments but rely on support from the international community. These fall 
+under several categories:
+• Countries that have not made any binding commitments in their national policy documents but as per 
+their NDCs, they are committed to deploying renewables should international support be provided. These 
+include countries such as Haiti, Nauru, Saint Kitts and Nevis, São Tomé and Príncipe, and 
+Timor-Leste.4
+ Energy security and 
+independence
+Economic 
+growth
+Resilience to 
+disasters 
+Food and water 
+security
+Access to 
+education and 
+healthcare 
+Job creation 
+and gender 
+equality
+Improved 
+quality of 
+life
+DRIVERS
+ FOR RENEWABLE 
+ENERGY 
+DEPLOYMENT
+IN SIDSNDCs that are conditional on international support. This may mean that while renewable energy is a high 
+priority, these countries could deploy even more renewable energy if the appropriate financial, technical, 
+technological and other forms of assistance were made available. These include Belize, the Dominican 
+Republic and Guinea-Bissau. 
+• Countries that have set targets in their national policy documents that are equal to the conditional targets 
+set in the NDCs. This includes countries such as Dominica, Palau, Saint Lucia, Samoa, Seychelles and 
+Vanuatu. This could mean that while renewable energy is a national priority, these countries may be 
+looking to fund their objectives by securing climate financing from external sources. 
+• Some countries have made national commitments that are more ambitious than their conditional targets 
+in NDCs. Similar to the preceding category, these countries may be looking to secure climate financing to 
+fund at least part of their targeted capacity. Alternatively, it could mean that the national targets are 
+aspirational. Countries in this category include Barbados, Cook Islands, Grenada, Papua New Guinea
+and Tonga. 
+• Countries that have set both conditional and unconditional targets in their NDCs, as well as made national 
+commitments, can be broken down into two categories: 
+» The national target is between unconditional and conditional; this means that there is a strong 
+commitment that is unconditional, but the country is willing to do more should further support be 
+available. 
+» The national target is equal to the sum of conditional and unconditional NDC targets. This could 
+mean countries are looking to secure climate financing to fund at least a part of their targeted 
+renewable energy deployment. Examples include Guyana and Niue. 
+Finally, there are countries that have not set any targets in either their national policy documents or their 
+NDCs. These include Comoros and Micronesia. 
+NDCS IN SIDS UPDATED AS OF MID-OCTOBER 2022 
+By mid-October 2022, 193 Parties had ratified the Paris Agreement and 194 had submitted NDCs.5 Of the 
+166 Parties that submitted new or updated NDCs, only 99 Parties representing 81% of global GHG emissions 
+submitted enhanced ambitions.6 Of the remaining Parties that submitted new or updated NDCs in 2022, 67 
+Parties (accounting for a further 14% of global emissions in 2019) submitted NDCs with either the same emission 
+reduction targets, increased emissions compared to their first NDCs, or emission reduction targets that are not 
+comparable with their initial NDCs (IRENA, 2022b).
+Although SIDS make up a small portion of the world’s mitigation potential, they are increasingly capitalising on 
+their renewable energy resources to mitigate and adapt to their climate-induced vulnerabilities while ensuring 
+energy security and sustainable socio-economic growth. 
+Overall, of the 40 SIDS that have ratified the Paris Agreement, all have submitted an NDC to date. Around 29 
+SIDS have submitted new, updated or second NDCs since September 2020.7
+ From this, a total of 18 SIDS have 
+increased ambition in terms of their GHG reduction targets (Climate Watch, 2022).8 Overall, 32 SIDS have a 
+quantifiable renewable energy target in their NDCs. 
+5 As of 16 October 2022, Eritrea had not ratified the Paris Agreement but had submitted an NDC. 6 These countries revised their emission targets upwards compared to targets submitted previously. 7 Antigua and Barbuda, Bahrain, Barbados, Belize, Cabo Verde, Comoros, Cuba, Dominica, the Dominican Republic, Fiji, Grenada, 
+Guinea-Bissau, Haiti, Jamaica, Maldives, Marshall Islands, Mauritius, Nauru, Papua New Guinea, Saint Kitts and Nevis, Saint Lucia, 
+Samoa, São Tomé and Príncipe, Seychelles, Singapore, Solomon Islands, Suriname, Tonga, Vanuatu. 8 Barbados, Cabo Verde, Comoros, the Dominican Republic, Fiji, Grenada, Guinea-Bissau, Haiti, Jamaica, Marshall Islands, Mauritius, have set specific targets in end uses such as transport and heating/cooling, and three have set their targets 
+as a percentage of the whole energy mix. Some SIDS have included measures for sector coupling, e.g. across 
+energy and agriculture. 
+Many of the SIDS have committed to 100% renewables in their electricity mix by or before 2030. Although 
+climate is a major driver for renewables deployment in these countries, increased ambition is also driven by 
+energy security and other socio-economic benefits, which are adversely affected by importing fossil fuels. 
+However, the majority of these targets remain conditional on international support in the form of financing, 
+technology transfer and technical assistance.
+The following section quantifies SIDS’ renewable energy targets as per their NDCs. Unconditional and 
+conditional contributions are separated where applicable. Annex 1 includes detailed descriptions of renewable 
+energy contributions in SIDS, along with other selected targets,9 as stated in their NDCs. Finally, Annex 2 
+compares quantified renewable power targets in NDCs with those in national plans and policies. 
+QUANTIFIED RENEWABLE ELECTRICITY CONTRIBUTIONS IN NDCS
+Table 1 presents a quantified estimate of the power sector-related renewable energy targets in NDCs of the 
+SIDS in terms of capacity in megawatts – conditional and unconditional.10 Although renewable energy targets in 
+the power sector – in both NDCs and national energy plans – are typically expressed in terms of fixed capacity 
+(in megawatts), in many countries they may be cited as a percentage of the electricity mix (e.g. 45% renewable 
+energy share in electricity generation), and in some cases they can be a combination of both. 
+In SIDS, 33 Parties have a power target, of which 8 are fixed (capacity-based in terms of megawatts), 14 are 
+percentage-based, and another 8 are a combination of the two. In cases where targets are expressed in terms 
+of fixed capacity, they are taken as is. In case the target is expressed as a share of a mix, the total electricity 
+generation is first calculated based on a ten-year historical compound annual growth rate (CAGR),11 and the 
+overall renewable energy generation in the target year is obtained by multiplying the share with the overall 
+electricity generation. Next, the technology-specific share in the renewable electricity mix is estimated based 
+on the share of technology-specific capacity additions over the last five years. Finally, the megawatt equivalent 
+of the target is derived using capacity factor data obtained from IRENA's costs database (IRENA, 2022c). The 
+detailed methodology is presented in Annex 1.
+Currently, the SIDS that are Parties to the Paris Agreement account for around 5.2 GW of installed capacity 
+(IRENA, 2022d). If SIDS continue based on historical trends, their total installed capacity is expected to reach 
+less than 6GW by 2030. However, these countries have committed to reach 13GW of renewable power capacity 
+by 2030 as per their national energy plans (Figure 1). 
+9 Emissions targets are included only if there is a renewable energy–specific component, e.g. Marshall Islands. 10 Since most renewable energy targets focus on the power sector
+this analysis focuses on quantifying thoseand targeted capacity based on national plans and NDCs, by 2030
+Note: For the NDCs, about 200 MW of conditional capacity and 254 MW of unconditional capacity is targeted for 2031-2040 
+and was not included in the chart.
+Moreover, their NDCs shows that more than half of the deployment is conditional on international assistance: 
+SIDS have committed to reaching 11.5 GW renewable power installed capacity by 2030. The unconditional 
+targets total 5.5 GW while the conditional targets are estimated to be equivalent to 6 GW (Table 1). 
+This means developed countries will need to provide substantial international support in the form of financial 
+and technical assistance, capacity building and technology transfer to help SIDS achieve their renewable energy 
+targets.
+2015 2016 2017 2018 2019 2020 2021 Targeted capacity 
+in national policies 
+and plans by 2030
+Targeted capacity
+in NDCs by 2030
+Gigawatts (GW)
+6
+5.5
+13
+Historical capacity Conditional Unconditional Targeted capacity based on national plans 
+0
+2
+4
+6
+8
+10
+12
+14
+2.9 3.3 3.4 3.8 4.6 5 5.2COUNTRY
+RE POWER 
+TARGET IN 
+NATIONAL 
+ENERGY PLAN 
+(MW) BY 2030
+RE POWER 
+TARGET IN NDC 
+(MW)
+RE POWER TARGET 
+IN NDC – 
+UNCONDITIONAL 
+(MW)
+RE POWER TARGET 
+IN NDC - 
+CONDITIONAL 
+(MW)
+TARGET YEAR 
+IN NDC
+ELECTRICITY 
+ACCESS 
+RATE IN 2020 
+(%)
+RE 
+SHARE 
+IN 2021 
+(%)
+Antigua and Barbuda 483 270 0 270 2030 100 16.9
+Bahamas 475 475 475 0 2030 100 0.3
+Bahrain 461 710 710 0 2035 100 0.1
+Barbados 625 606 0 606 2030 100 15.8
+Belize 75 120 0 120 2030 97.1 52.8
+Cabo Verde 252 615 235 380
+Unconditional 
+by 2030
+conditional 
+by 2040
+94.2 20.1
+Comoros None None None None 86.7 6.3
+Cook Islands 22 25 4 21 2020 NA 20.6
+Cuba 2 144 2 144 836 1 308 2030 100 19.1
+Dominica 35 35 0 35 2025 100 24.8
+Dominican Republic 795 977 0 977 2030 100 26.7
+Fiji 395 399 133 266 2030 100 56.1
+Grenada 92 15 0 15 2030 93.6 6.2
+Guinea-Bissau 72 90 0 90 2030 33.3 4
+Guyana 321 462 26 436 2025 92.5 14.8
+Haiti None 199.5 37.5 162 2030 46.9 17.1
+Jamaica 1 038 None None None 100 17.5
+Kiribati 9 5.6 2.1 3.5 2025 92 30.4
+Maldives None None None None 100 5.8
+Marshall Islands 49 69 69 0 2030 99.2 5.3
+Mauritius 863 863 863 0 2030 99.7 28.7
+Federated States 
+of Micronesia None None None None 82.9 12.3
+Nauru 10 6 0 6 2030 100 11.1
+Niue 3 2.9 1.1 1.8
+Unconditional 
+by 2020
+conditional 
+by 2025
+NA 31.1
+Palau 24 24 0 24 2025 100 5.2
+Papua New Guinea 2 116 860.1 0 860.1 2030 60.4 30.9
+Saint Kitts and Nevis None 68.8 35.7 33.1 2030 100 5.8
+Saint Lucia 72 72 0 72 2025 100 4.3
+Saint Vincent and 
+the Grenadines None 15 15 0 2025 100 13.9
+Samoa 35 35 0 35 2025 100 47.9
+São Tomé and Príncipe None 49 0 49 2030 76.6 5.6
+Seychelles 11 11 0 11 2030 100 15.5
+Singapore 2 000 2 000 2 000 0 2030 100 5.4
+Solomon Islands 48 68.6 22.8 45.8 2030 73.3 5.4
+Suriname None 209 209 0 2030 98.2 33.2
+Timor-Leste None 352 0 352 2030 96.1 0.4
+Tonga 46 31 0 31 2030 100 30
+Trinidad and Tobago 601 None None None 100 0.2
+Tuvalu 6 6 6 0 2020 99.7 42.4
+Vanuatu 47 47 0 47 2030 67.3 33.9
+Total 13 231 11 938 (by 2040)
+11484 (by 2030)
+5 680 (by 2040)
+5480 (by 2030)
+6 257 (by 2040)
+6003 (by 2030)ANNEX 1 – DESCRIPTIONS 
+OF RENEWABLE ENERGY 
+CONTRIBUTIONS, ALONG 
+WITH OTHER TARGETS, IN NDCS
+Table A1 below includes the descriptions of renewable energy contributions in SIDS, along with other selected 
+targets,12 as stated in their NDCs. Unconditional and conditional contributions are separated where applicable. 
+Further details on the quantification of these targets are provided in Annex 2. 
+Table A1 Description of renewable energy contributions, along with other targets, in NDCs
+SIDS DESCRIPTION OF SELECTED TARGETS IN NDCS FOCUSING ON 
+RENEWABLE ENERGY
+SUBMISSION 
+DATE
+LINK TO THE 
+NDC 
+DOCUMENT
+Antigua and Barbuda
+Conditional:
+Electricity
+86% renewable energy generation from local resources in the 
+electricity sector by 2030.
+• 100 MW of renewable energy generation capacity available 
+to the grid by 2030.
+• 50 MW of renewable energy generation capacity owned by 
+farmers who can sell electricity to off-takers by 2030.
+• 100 MW of renewable energy generation capacity owned 
+by social investment entities by 2030.
+• 20 MW of wind-powered energy generation by 2030.
+Transport
+• 100% of government vehicles will be electric vehicles (EVs) 
+by 2035.
+• 100% of all new vehicle sales to be EVs by 2030.
+Adaptation
+• 100% of the water supply infrastructure powered by their own 
+grid-interactive renewable energy sources by 2030. 
+• 100% of education, health, food security and emergency 
+shelter facilities powered by their own grid-interactive 
+renewable energy sources by 2030.
+• 30 000 homes or 50% of pre 2020 homes to have back-up 
+renewable energy systems for at least four to six hours of 
+energy by 2030.
+Gender
+• 100% of female-headed households have all barriers removed 
+to access back-up renewable energy generation and storage 
+systems (i.e. 20 000 homes).
+• 20% increase in the number of women-led businesses 
+implementing renewable energy and adaptation interventions
+Just transition
+100% of the affected parts of the national workforce are trained to 
+use new mitigation technologies for a low-GHG-emissions 
+transition by 2030.
+02/09/2021 Updated 
+first NDC
+Bahamas* Unconditional:
+30% renewable electricity by 2030. 31/10/2016 First NDC
+Bahrain Unconditional:
+Renewables will cover 5% of peak capacity in 2025 and 10% in 2035. 18/10/2021 Updated 
+first NDC
+*Updated NDC in preparation as of July 2022. Barbados
+Conditional:
+Electricity
+• 95% share of renewable energy in the electricity mix by 2030.
+Transport
+• 100% electric or alternatively fuelled vehicles in the passenger 
+fleet by 2030.
+Others
+The mitigation ambition of 70% reduction in GHG emissions, 
+economy-wide, by 2030 will be complemented by, among other 
+things, the following strategies and plans:
+• Support for research and development of renewable energy 
+and energy storage technologies appropriate for SIDS, in 
+particular ocean energy in line with the national strategy to 
+develop its blue economy.
+• A deliberate focus on using distributed generation (e.g. 
+household solar photovoltaics [PV]) to provide modern 
+energy access and build resilience (adaptation co benefits) 
+for low-income households, with an initial target of retrofitting 
+3 000 low-income homes with solar PV by 2030 under the 
+Roofs to Reefs Programme.
+30/07/2021 Updated 
+first NDC
+Belize
+Conditional:
+Electricity
+• 75% gross generation of electricity from renewable energy 
+sources by 2030 through the implementation of hydropower, 
+solar, wind and biomass, including in the tourism sector.
+• Install 40 MW utility-scale solar power by 2025.
+Transport
+• Deployment of 77 hybrid and electric buses by 2030 (17 by 2025).
+01/09/2021 Updated 
+first NDC
+Cabo Verde
+Unconditional:
+Electricity
+• 30% renewable energy share in the electricity supply in 2025 
+and up to 50% in 2030.
+Transport
+• Electrify at least 25% of Cabo Verde's land-borne transport 
+fleet (new vehicles) by 2030 by resorting to renewable energy 
+sources.
+Conditional:
+Electricity
+• 100% renewable energy share in the electricity supply in 2040.
+• Increase wind energy capacity by installing 10 MW wind farm 
+for Santiago by 2022 and 60 MW by 2030.
+• Increase solar PV energy by installing an additional 150 MW 
+by 2030.
+• Install a waste-to-energy biogas landfill in Santiago by 2025 
+and construction of eight biogas plants across islands by 2030.
+Transport
+• By 2050, fully replace all residual thermal vehicles (gasoline/
+diesel) with EVs.
+• By 2025, establish the procurement rules for the acquisition of 
+100% EVs by institutional entities and have at least 50% of EVs 
+in the new acquisition of urban collective transport.
+• By 2030, the national public recharge infrastructure is fully 
+implemented.
+• By 2030, the public administration’s vehicle fleet is fully 
+electrified.
+Gender
+• Operationalise the Action Plan for Gender and Energy by 2030, 
+support the emergence of local businesses and promote 
+economic opportunities for women particularly in the field of 
+renewable energy to represent at least 20% of the workforce 
+in 2030.
+02/04/2021 Updated 
+first NDC
+Comoros Mentioned renewable energy (including PV and geothermal) to 
+produce electricity but no specific targets. 05/11/2021 Updated 
+first NDCCook Islands
+38% GHG emissions reductions from electricity by 2020.
+Conditional:
+100% renewable electricity by 2020.
+01/09/2016 First NDC
+Cuba
+Conditional:
+Others
+• The installation of 833 333 units of solar heaters 
+(1 million square meters in the collection area) in the 
+residential and industrial sectors.
+• The installation of 5 000 solar pumping systems in 15 livestock 
+farms.
+• Increase the use of biogas for electricity and heat production 
+in the swine (pig) sector and install 18 534 biodigesters of 
+different types in the 2020 30 period.
+Combination of both conditional and unconditional:
+Electricity
+• Increase to 24% of electricity generation based on renewable 
+energy sources (RES) in the Cuban electricity matrix by 2030 
+(sugar cane biomass – 14%; wind + solar PV + water – 10%).
+• The main actions include the installation of a 2 144 MW power 
+capacity connected to the grid up to the year 2030 based on 
+RES. Total cost estimated for the implementation of the 
+contribution is USD 7 723 million. The financing is to be 
+attained from two sources: 
+ Unconditional: USD 3 010 million mainly from the 
+ state budget.
+ Conditional: USD 4 713 million through long-term 
+ credits to cover the importation of the technology.
+Transport
+• Introduction of more than 55 000 EVs and the installation of 
+around 25 000 recharge stations by 2030. The estimated 
+implementation cost for this contribution is USD 1 479 million. 
+Two main financing sources are considered:
+ Unconditional: USD218 million mainly from the state budget.
+ Conditional: USD 1 261 million through long-term credits to 
+ cover the importation of the technology.
+17/09/2020 Updated 
+first NDC
+Dominica
+Conditional:
+100% renewable energy usage by 2030, principally from the 
+harnessing of geothermal resources.
+15 MW geothermal already planned or due to be commissioned.
+04/07/2022 Updated NDC
+Dominican Republic
+Conditional:
+Electricity
+• Installation of 477 MW of wind power by 2030 at an estimated 
+cost of USD 715.5 million.
+• Installation of 479 MW of solar PV power by 2030 at an 
+estimated cost of USD 407.15 million.
+• Installation of 21 MW of power in small and medium-scale 
+hydroelectric plants by 2030 at an estimated cost of 
+USD 31.5 million.
+Transport
+• Displacement of 220 000 units of the private vehicles fleet by 
+75% EVs and 25% hybrids by 2030 with recharging from 
+renewable sources at an estimated cost of USD 5 million.
+• Transformation of 300 diesel buses for 100% electric units by 
+2030 with recharging from renewable sources at an estimated 
+cost of USD 90 million.
+29/12/2020 Updated 
+first NDC
+Fiji
+Combination of conditional and unconditional:
+Electricity
+• 100% renewable energy power generation (grid connected) 
+by 2030. Unconditional targets are one-third of the total and 
+conditional targets are two-thirds of the total.
+31/12/2020 Updated 
+first NDC
+Grenada
+Conditional:
+Incorporation of 15 MW of renewable energy to the existing feeder 
+line network by 2030.
+01/12/2020 Second NDCGuinea-Bissau
+Electricity
+NDC scenario (not a commitment per se).
+• Increase the share of renewable energies in the electricity 
+mix to 58% by 2030, 40% of which would come from 
+hydroelectricity and the rest from solar PV and wind power.
+• Increase the installed renewable energy capacity to around 
+90 MW by 2030.
+12/10/2021 Updated 
+first NDC
+Guyana
+Unconditional:
+Electricity
+• 26 MW of wind power and the electrification of six townships 
+with renewable energy mini-grids.
+Conditional:
+Electricity
+• 100% renewable electricity by 2025, and the development 
+of the Amaila Falls Hydropower project (165 MW).
+20/05/2016 First NDC
+Haiti
+Unconditional:
+• Hydroelectricity – 1 MW (36 units).
+• Off-grid mini hydro – 1 MW (0.5 units).
+• Solar/diesel mini-grid – 40 kilowatts (kW) from solar (20 units).
+• 1 000 LED solar lights – (20 units).
+• Solar PV home systems – 500 watts (W) (15 units).
+Conditional:
+• Hydroelectricity – 1 MW (32 units).
+• Off-grid micro hydro – 1 MW (20 units).
+• Solar/diesel mini-grid – 40 kW from solar - (30 units).
+• Solar PV (small isolated grid) – 2 MW (20 units).
+• 1 000 solar water heaters, residential level (10 units).
+• 1 000 solar LED lights (100 units).
+• Solar street lights – 0.05 MW (5 units).
+• PV solar home systems – 500 W (20 units).
+• Onshore wind turbines with storage – 1 MW (50 units).
+01/06/2022 Updated 
+first NDC
+Jamaica Mentioned the production of biogas using animal waste and 
+increasing the use of biodigesters, but no specific targets. 01/07/2020 Updated 
+first NDC
+Kiribati
+Unconditional:
+• 1.3 MW of grid-connected solar PV by 2025.
+• Off-grid solar PV equivalent to GHG reductions of 1 100 tonnes 
+of CO2
+ equivalent (CO2-eq) (0.8 MW) by 2025.
+Conditional:
+• 1.15 MW of solar PV.
+• Biodiesel (coconut oil) for electricity generation and transport 
+by 2025.
+• 3 900 solar home systems.
+• 12 community systems for solar water desalination.
+21/09/2016 First NDC
+Maldives
+Conditional
+Increase the installed the renewable energy share to 15% of the 
+energy mix, which includes the public and private sectors.
+28/12/2020 Updated 
+first NDC
+Marshall Islands
+Unconditional:
+Reducing GHG emissions by at least 45% below 2010 levels by 2030. 
+Electricity
+• Additional 29.9 kilotonnes (kt) CO2
+-eq through solar compared 
+with 2025.
+• Additional 1.5 kt CO2
+-eq through wind compared with 2025.
+• Additional 3.7 kt CO2
+-eq through coconut oil compared with 
+2025.
+31/12/2020 Second NDC
+Mauritius 60% of energy needs to be produced from green sources by 2030. 05/10/2021 Updated 
+first NDC
+Micronesia 
+(Federated States of)
+No specific renewable energy targets are included; it is stated that 
+the NDC builds upon existing renewable energy and transport 
+targets and policies.
+15/09/2016 First NDCNauru
+6 MW solar PV farm with 5 MW/2.5 MW battery capacity to achieve 
+renewable energy making up 50% of Nauru’s power generation.
+14/10/2021 Updated 
+first NDC
+Niue
+Unconditional:
+• 38% renewable electricity by 2020.
+Conditional:
+• 80% renewable electricity by 2025.
+• 1.8 MW of solar PV.
+28/10/2016 First NDC
+Palau
+Conditional:
+• 5 MW of solar PV.
+• 10 MW of solar PV for the water sector.
+22/04/2016 First NDC
+Papua New Guinea
+Conditional:
+Increasing levels of renewables in the energy mix for on-grid 
+connection through increasing the share of installed capacity 
+of renewable energy from 30% in 2015 to 78% in 2030.
+• Installation of 16.05 MW of solar PV + energy storage system 
+by 2030 at an estimated cost of USD 86.67 million.
+• Installation of 19.95 MW of hydropower by 2030 at 
+an estimated cost of USD 68.70 million.
+16/12/2020 Second NDC
+Saint Kitts and Nevis
+Combination of both conditional and unconditional:
+Electricity
+100% renewable energy in electricity generation – the main actions 
+include the installation of a 68.8 MW of renewable energy capacity 
+by 2030. The total cost estimated for the implementation of the 
+contribution is USD 281 million.
+ Unconditional: Installation of 35.7 MW of solar PV by 2023 at an 
+ estimated cost of USD 70 million.
+ Conditional: Installation of 6.6 MW of wind power, 25 MW of 
+ geothermal power, 1.5 MW of solar PV by 2030 at an estimated 
+ cost of USD 211 million.
+Conditional:
+Heating
+5% reduction in power demand by introducing solar water heaters 
+by 2030 at an estimated cost of USD 20 million.
+Transport
+Increasing the share of EVs in the vehicle fleet to at least 2% at an 
+estimated cost of USD 15 million.
+25/10/2021 Updated 
+first NDC
+Saint Lucia
+Conditional:
+• 35% renewable electricity by 2025.
+• 50% renewable electricity by 2030.
+22/04/2016 First NDC
+Saint Vincent and 
+the Grenadines
+Unconditional:
+Geothermal plant to generate over 50% of country’s electricity. 29/06/2016 First NDC
+Samoa Conditional:
+Reach 100% renewable electricity generation by 2025. 30/07/2021 Second NDC
+Sao Tome and Principe
+Conditional:
+Increase in the use of renewable energy sources up to 49 MW, 
+mainly from solar (32.4 MW), hydroelectric (14 MW) and biomass 
+(2.5 MW).
+30/07/2021 Updated 
+first NDC
+Seychelles
+Conditional:
+Electricity
+Increase the renewable energy share in the electricity supply to 15% 
+in 2030.
+Transport
+• By 2030, 30% of large tourism businesses must have electric 
+transport in their fleet.
+• By 2030, small and medium tourism businesses (omnibuses, 
+taxis) must have 20% electric transport.
+30/07/2021 Updated 
+first NDC** Mitigation options were identified which underwent cost-benefit analyses and socio economic impact assessment and 
+include policy instruments, knowledge and awareness approaches to elicit behavioural changes and direct technology 
+intervention options such as clean technology, fuel switching and renewable energy and energy efficiency technologies.
+Note: All NDC documents are retrieved from the NDC registry hosted by the UNFCCC.
+Source: UNFCCC (2022), NDC registry.
+Singapore
+Unconditional:
+Electricity
+At least 2 gigawatts peak (GWp) of solar PV by 2030. 2 GWp of 
+solar PV would meet about 4% of Singapore’s (2020) annual 
+electricity needs and 10% of daily peak electricity demand today.
+31/03/2020 Updated 
+first NDC
+Solomon Islands
+Combination of both conditional and unconditional:
+Electricity
+The government is committed to the Renewable Energy Roadmap 
+for Honiara to achieve 100% renewable energy by 2030 and 
+achieving 100% accessibility by 2050.
+ Unconditional: Installation of 15 MW of hydropower by 2024, 
+ 3.22 MW of solar PV by 2021 and 4.574 MW of off-grid solar-
+ diesel hybrid systems by 2022.
+ Conditional: Installation of 3.77 MW/USD 10.65 million of 
+ hydropower, 20-40 MW/USD 150 million of geothermal power, 
+ 1 MW of solar PV/USD 4 million and 1 MW/USD 6 million of off-grid 
+ solar-diesel hybrid systems by 2030.
+19/07/2021 Updated 
+first NDC
+Suriname
+Unconditional:
+Electricity
+Maintain a share of electricity from renewable sources above 35% 
+by 2030.
+09/12/2019 Second NDC
+Timor-Leste
+Conditional:
+Electricity
+352 MW of renewables, including 252 MW of hydropower, 72 MW 
+of wind, 22 MW of solar and 6 MW of biomass/waste sources.
+16/08/2017 First NDC 
+Tonga
+Conditional:
+70% of electricity generated from renewable sources by 2030 
+through combination of solar, wind and battery storage.
+09/12/2020 Second NDC
+Trinidad and Tobago No renewable energy targets were identified.** 22/02/2018 INDC
+Tuvalu
+Unconditional:
+100% renewable electricity by 2020. The main action includes the 
+installation of 6 MW of renewable energy capacity by 2020.
+22/04/2016 First NDC 
+Vanuatu
+Conditional:
+Electricity
+Close to 100% renewable energy in the electricity sector by 2030. 
+Transport
+• Introduce EVs (e-buses) for public transportation (10% of total 
+public buses); introduce electric cars (e-cars) in Vanuatu (10% 
+of government fleet); and 1 000 electric two-wheelers 
+(e-bikes)/three-wheelers (e-rickshaw) by 2030.
+• 20% biodiesel (biofuel) blending in diesel by 2030.
+Other sectors
+• 65% renewable electricity use by rural tourism bungalows 
+by 2030.
+• Installation of 1 000 biogas plants for commercial and 
+residential use by 2030.
+22/03/2021 Updated 
+first NDC*As per IRENA’s roadmap for Antigua and Barbuda – 100% (no hydrogen) scenario.
+ANNEX 2 – COMPARISON OF 
+RENEWABLE ENERGY TARGETS 
+IN NDCS WITH THOSE IN 
+NATIONAL ENERGY PLANS
+This section compares the renewable energy targets in NDCs with the renewable energy targets in other 
+national policy documents such as national plans, policies, roadmaps or laws. As expected, there are some 
+discrepancies between the two. This could be due to several reasons. For example, some of the NDC targets 
+can be conditional on international support and therefore may be more ambitious. In other cases, the national 
+energy policy that is in effect may predate the NDC by many years (and vice versa). This time lag between when 
+different documents are updated can result in a difference in the targeted capacity. For example, a target of 
+80% renewable energy in the electricity mix by 2030 that was set in 2012 may be set under different demand 
+growth assumptions to those that are applicable today. 
+ANTIGUA AND BARBUDA
+• Targets in the NDC are conditional and are ambitious at 270 MW of renewable energy capacity by 2030 
+(up from 16 MW installed capacity in 2020). Renewable energy targets in national plans are estimated to 
+total 36 MW. This shows that the country has good renewable energy potential, but realising this potential 
+will require international support.
+Antigua 
+and 
+Barbuda
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+02/09/2021
+Conditional:
+Electricity
+86% renewable energy generation from local 
+resources in the electricity sector by 2030.
+• 100 MW of renewable energy generation capacity 
+available to the grid by 2030.
+• 50 MW of renewable energy generation capacity 
+owned by farmers who can sell electricity to 
+off-takers by 2030.
+• 100 MW of renewable energy generation capacity 
+owned by social investment entities by 2030.
+• 20 MW of wind-powered energy generation 
+by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 270
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2021
+The national energy policy targets a 100% renewable 
+energy in the electricity supply by 2030 (Government 
+of Antigua and Barbuda, 2011; IRENA, 2021).
+483*• Targets in both the first NDC and national plans are estimated to be at 475 MW (up from 1 MW installed 
+capacity in 2018) and are not conditional on any financial or technical support. As per the Bahamas NDC, 
+the commitment towards renewable energy deployment is driven by benefits that go beyond climate to 
+improved energy security (through reduced dependency on imported oil) and other economic and 
+social benefits.
+Bahamas
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+31/10/2016 Unconditional:
+30% renewable electricity by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+475 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/01/2013
+The Bahamas national energy policy sets the target of 
+increasing the percentage of renewables in the energy 
+mix to 30% by 2030 (Government of Bahamas, 2013).
+475
+Bahrain
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+18/10/2021
+Unconditional:
+Renewables will cover 5% of peak capacity in 2025 
+and 10% in 2035.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+710 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/01/2017
+Bahrain's National Renewable Energy Action Plan sets 
+the target of increasing the percentage of renewables 
+in the energy mix to 10% by 2035 (The Sustainable 
+Energy Unit, 2017). 
+710
+Barbados
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+30/07/2021
+Conditional:
+95% share of renewable energy in the electricity mix 
+by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 606
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2019
+Barbados's National Energy Policy sets the target of 
+100% share of renewable energy by the year 2030. 
+This translates to 625 MW of renewable installed 
+capacity (excluding 200 MW of storage), including 
+310 MW of solar, 91.2 MW of wind, and 15 MW of 
+biomass and waste-to-energy (Government of 
+Barbados2019)
+625
+BAHRAIN
+• Targets in both the NDC and national plans are estimated to be at 710 MW, and are not conditional on any 
+financial or technical support. 
+BARBADOS
+• Barbados’s National Energy Policy sets a target of 100% share of renewable energy by 2030, which would 
+see renewable energy capacity reach 625 MW. However, this target is probably set as an inspirational 
+target, as a similar (slightly less ambitious) target estimated at 606 MW was set in the NDC, which is fully 
+conditional on international support. • Renewable energy targets in national plans total 75 MW of installed capacity. The targets in the NDC are 
+higher at 120 MW, subject to receiving international support.
+Belize
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+01/09/2021
+Conditional:
+• 75% gross generation of electricity from 
+renewable energy sources by 2030 through the 
+implementation of hydropower, solar, wind and 
+biomass, including in the tourism sector.
+• Install 40 MW utility-scale solar power by 2025.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 120
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+27/06/2016
+Barbados's National Energy Policy sets the target of 
+100% share of renewable energy by the year 2030. 
+This translates to 625 MW of renewable installed 
+capacity (excluding 200 MW of storage), including 
+310 MW of solar, 91.2 MW of wind, and 15 MW of 
+biomass and waste-to-energy (Government of 
+Barbados, 2019). 
+75
+Cabo Verde
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+02/04/2021
+Unonditional:
+• 30% renewable energy share in the electricity 
+supply in 2025 and up to 50% in 2030.
+Conditional:
+• 100% renewable energy share in the electricity 
+supply in 2040.
+• Increase wind energy capacity by installing 
+10 MW wind farm for Santiago by 2022 and 
+60 MW by 2030.
+• Increase solar PV energy by installing an 
+additional 150 MW by 2030.
+• Install a waste-to-energy biogas landfill in 
+Santiago by 2025 and construction of eight 
+biogas plants across islands by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+235 by 2030 380 by 2040
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+15/12/2018
+Cabo Verde's Electricity Sector Master Plan 2018-2040 
+sets the target of a 54% renewable energies 
+penetration rate by 2030. This translates to 251.8 MW 
+of renewable installed capacity, including 160.6 MW 
+of solar and 91.2 MW of wind (Imprensa Nacional de 
+Cabo Verde, 2019). 
+252
+CABO VERDE
+• Estimations based on the NDC show that the country is targeting 235 MW of installed capacity by 2030 
+unconditionally. This is almost aligned with the target cited in Cabo Verde's Electricity Sector Master Plan, 
+totalling 252 MW of renewable energy installed capacity.
+• Conditional on international financial and technical support, the country would add another 380 MW of 
+renewable energy capacity by 2040, thereby reaching a 100% renewable energy share in the 
+electricity mix.• No specific renewable energy targets in either the NDC or national plans.
+Comoros
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+05/11/2021
+Conditional:
+Mentioned renewable energy (including PV and 
+geothermal) to produce electricity but no specific 
+targets.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+- No national renewable energy targets were identified. -
+Cook 
+Islands
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+01/09/2016
+Unonditional:
+38% GHG emission reductions from electricity 
+generation by 2020.
+Conditional:
+100% renewable electricity by 2020.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+4 21
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+15/01/2021
+Cook Islands' Economic Development Strategy sets 
+the target of increasing the percentage of electricity 
+generation from renewable energy to 60% by 2030 
+(Government of the Cook Islands, 2021). 
+22
+COOK ISLANDS
+• Estimated targets in the NDC equal unconditional capacity of 4 MW by 2020, and 21 MW conditional on 
+international financial and technical support. 
+• The NDC targets for 2020 were not realised with overall capacity in 2021 at 4.7 MW, mainly made up of 
+solar PV. This signals the need for further international support.
+• Targets in national plans amount to 22 MW of renewable energy installed capacity by 2030. It could mean 
+that the targets set are inspirational and rely on international support. Cuba
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+17/09/2020
+Electricity
+• Increase to 24% of electricity generation based 
+on RES in the Cuban electricity matrix by 2030 
+(sugar cane biomass – 14%; wind + solar PV + 
+water – 10%).
+• The main actions include the installation of a 
+2 144 MW power capacity connected to the grid 
+up to the year 2030 based on RES. Total cost 
+estimated for the implementation of the 
+contribution is USD 7 723 million. The financing 
+is to be attained from two sources: 
+Unconditional: USD 3 010 million mainly from the 
+state budget.
+Conditional: USD 4 713 million through long-term 
+credits to cover the importation of the technology.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+836 1 308
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/06/2014
+Cuba's energy policy set the goal of generating 24% 
+of its power from renewable energy by 2030 
+(Government of Cuba, 2019). 
+2 144
+Dominica
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+04/07/2022
+Conditional:
+Dominica has set a target of 100% renewable energy 
+usage by 2030, principally from the harnessing of 
+geothermal resources.
+15 MW geothermal already planned or due to be 
+commissioned.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 35
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2019
+Dominica's National Energy Policy sets the 100% 
+renewable energy generation target by 2030 
+(Caribbean Centre for Renewable Energy & Energy 
+Efficiency, 2020). 
+35
+• As per Cuba’s National Energy Policy, 2 119 MW of renewable energy installed capacity by 2030 will be 
+added. The NDC indicates a similar target estimated at 2 144 MW, of which 836 MW is unconditional 
+capacity while 1 308 MW could be added based on international support. 
+DOMINICA
+• The updated NDC includes conditional renewable energy targets reaching 35 MW of capacity. This is 
+consistent with the targets laid out in Dominica’s National Energy Policy of 100% renewable energy 
+generation by 2030, which amounts to 35 MW.
+• The updated NDC was submitted in July 2022, superseding the first NDC submitted in September 2016, 
+which had a target of 16 MW of renewable installed capacity. This again goes to show that sometimes the 
+discrepancy between national policy documents and NDCs can be due to a time lag. • Targets in the NDC are conditional and are more ambitious, amounting to 977 MW of renewable energy 
+capacity, compared with the renewable energy targets in the Dominican Republic’s Law 57-07 on 
+Renewable Energy, which is estimated at 795 MW. 
+• This signals that the country needs further international support in the form of financial and technical 
+assistance to realise its targets for renewable energy.
+Dominican 
+Republic
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+29/12/2020
+Conditional:
+• Installation of 477 MW of wind power by 2030 
+at an estimated cost of USD 715.5 million.
+• Installation of 479 MW of solar PV power by 
+2030 at an estimated cost of USD 407.15 million.
+• Installation of 21 MW of power in small and 
+medium-scale hydroelectric plants by 2030 
+at an estimated cost of USD 31.5 million.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 977
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+07/05/2007
+Dominican Republic's Law 57-07 on Renewable 
+Energy (supported by the 2008 Renewable Energy 
+Regulating Decree No. 202-08) sets the 25% 
+renewable energy generation target by 2025 
+(Government of Dominican Republic, 2012). 
+795
+Fiji
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+31/12/2020
+Combination of both conditional and unconditional:
+100% renewable energy power generation (grid 
+connected) by 2030. Unconditional targets are 
+one-third of the total and conditional targets are 
+two-thirds of the total.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+133 266
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/08/2014
+Fiji's Green Growth Framework targets renewable 
+energy share in electricity generation to be around 
+99% by 2030 (Government of Fiji, 2014). 
+395
+FIJI
+• Targets in national plans and NDC are similar, aiming for a 100% share of renewables in power generation 
+(grid connected). 
+• As per Fiji’s Green Growth Framework, 395 MW of renewable energy installed capacity by 2030 will be 
+added. The NDC cites a close target estimated at 399 MW, 136 MW unconditional while 266 MW could be 
+added based on financial support. 
+• This signals that the country needs further international support in the form of financial and technical 
+assistance to realise its targets for renewable energy.Grenada
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+01/12/2020
+Conditional:
+Incorporation of 15 MW of renewable energy to the 
+existing feeder line network by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 15
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2012
+Grenada's Vision 2030 sets a 100% renewable energy 
+target for both the electricity and transport sectors 
+2030 (Government of Grenada, 2012). 
+92
+GuineaBissau
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+12/10/2021
+Conditional:
+NDC scenario (not a commitment per se)
+• Increase the installed renewable energy capacity 
+to around 90 MW by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 90
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+15/10/2017
+Guinea-Bissau’s PANER plans to reach 72 MW of 
+renewable energy by 2030, representing 52% of peak 
+demand and 72% of total electricity demand. This 
+includes an additional 53 MW of hydropower, 15 MW 
+of solar PV, 2 MW of wind and 2 MW of bioenergy 
+(Government of Guinea-Bissau, 2017). 
+72
+• Grenada’s NDC includes conditional targets amounting to 15 MW of renewable energy capacity whereas 
+Grenada’s Vision 2030 sets a 100% renewable energy generation target for 2030, which is estimated to 
+be 92 MW. There is an eight-year lag between the two documents – the NDC was submitted in 2020 and 
+Grenada’s Vision 2030 was published in 2012.
+• In any case, the NDC communicates that the country will need further international support to realise its 
+renewable energy ambitions as set forth in its national plans. 
+GUINEA-BISSAU
+• The NDC communicates a conditional target of 90 MW renewable energy capacity which is relatively more 
+ambitious than the targets in Guinea-Bissau’s National Plan of Action for Renewable Energy (PANER) 
+totalling 72 MW. 
+• This signals that the country will need international support in the form of financial and technical assistance 
+to realise its national renewable energy targets.• Guyana’s NDC sets a target of 462 MW by the year 2025, of which 26 MW will be achieved unconditionally 
+while 436 MW will be achieved conditionally based on further international support. 
+• Guyana's Green State Development Strategy sets a target of 63% renewable energy generation by 2035, 
+which is estimated to total to 475 MW. According to the NDC, about 92% of this capacity could be reached 
+ten years earlier with international financial and technical support.
+Guyana
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+20/05/2016
+Unconditional:
+• 26 MW of wind power and the electrification of 
+six townships with renewable energy mini-grids.
+Conditional:
+• 100% renewable electricity by 2025, and the 
+development of the Amaila Falls Hydropower 
+project (165 MW).
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+26 436
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/05/2019
+Guyana's Green State Development Strategy sets a 
+target of 63% renewable energy generation by 2035 
+and 100% by 2040 (Government of Guyana, 2019). 
+470 MW (by 2035)
+Haiti
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+1/06/2022
+Unconditional:
+• Hydroelectricity – 1 MW (36 units).
+• Off-grid mini hydro – 1 MW (0.5 units).
+• Solar/diesel mini-grid – 40 KW from solar 
+(20 units).
+• 1 000 LED solar lights – (20 units).
+• Solar PV home systems – 500 W (15 units).
+Conditional:
+• Hydroelectricity – 1 MW (32 units).
+• Off-grid micro hydro – 1 MW (20 units).
+• Solar/diesel mini-grid – 40 kW from solar 
+(30 units).
+• Solar PV (small isolated grid) – 2 MW (20 units).
+• 1 000 solar water heaters, residential level 
+(10 units).
+• 1 000 solar LED lights (100 units).
+• Solar street lights – 0.05 MW (5 units).
+• PV solar home systems – 500 W (20 units).
+• Onshore wind turbines with storage – 1 MW 
+(50 units).
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+37.5 162
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/01/2012 No national renewable energy targets were identified 
+(Government of Haiti, 2012). -
+HAITI
+• The NDC cites an overall target of 199.5 MW, of which 162 MW is conditional on international support. 
+• No national renewable energy targets in national plans, policies or other documents were found.Jamaica
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+01/07/2020 No renewable energy targets were identified in the 
+updated NDC.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+21/02/2020
+Jamaica's IRP sets out annual capacity additions from 
+2018 to 2037. By 2037, the following capacity 
+additions are expected to be added to current levels:
+• 1 260 MW solar/wind.
+• 74 MW hydro, waste-to-energy, biomass 
+(Government of Jamaica, 2009). 
+1 587.6
+Kiribati
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+21/09/2016
+Unconditional:
+• 1.3 MW of grid-connected solar PV by 2025.
+• Off-grid solar PV equivalent to GHG reductions 
+of 1 100 tonnes CO2
+-eq (0.8 MW) by 2025.
+Conditional:
+• 1.15 MW of solar PV.
+• Biodiesel (coconut oil) for electricity generation 
+and transport by 2025.
+• 3 900 solar home systems.
+• 12 community systems for solar water 
+desalination.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+2.1 3.5
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+05/2017
+KIER serves as an implementation plan for the 
+National Energy Policy that was endorsed in 2009. 
+The goal for Tarawa is a 45% reduction in fossil fuel 
+use by 2025. 23% of this goal will be achieved through 
+deployment of renewable energy and 22% through 
+improvements in energy efficiency. The goal for 
+Kiritimati is a 60% reduction in fossil fuels by 2025. 
+40% is to be achieved through deployment of 
+renewable energy and 20% through improvements in 
+energy efficiency. The goal for the Outer Islands is a 
+60% reduction in fossil fuel use in all rural public 
+infrastructure, including Southern Kiribati Hospital 
+and ice plants (40% through deployment of renewable 
+energy and 20% through improvements in energy 
+efficiency) by 2025. The goal for rural public and 
+private institutions (e.g. boarding schools, the Island 
+Council, private amenities and households) is to meet 
+of 100% electricity demand with renewable energy by 
+2025 (IRENA2017)
+9
+• According to Jamaica's IRP, 1 587.6 MW are to be added by 2037. However, no renewable energy targets 
+were identified in the latest NDC.
+KIRIBATI
+• As per the Kiribati Integrated Energy Roadmap (KIER), which is used as an implementation plan for the 
+Kiribati National Energy Policy that was endorsed in 2009, the renewable energy target totals 9 MW. 
+Renewable energy targets in the NDC amount to 5.6 MW, of which 3.5 MW is conditional on receiving 
+international support. The targets based on the roadmap are more ambitious than the NDC’s, which are 
+already partially conditional. This means that the targets based on the KIER may need additional 
+international support. • No quantifiable targets are presented in either the NDC or any national policy documents.
+Maldives
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+28/12/2020
+Conditional:
+Increase of electricity production by renewable 
+energy with storage and grid stabilisation.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+- No national renewable energy targets were identified. -
+Marshall 
+Islands
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+31/12/2020
+Unconditional:
+Reducing GHG emissions by at least 45% below 2010
+levels by 2030. 
+Electricity
+• Additional 29.9 kt CO2
+-eq through solar 
+compared with 2025.
+• Additional 1.5 kt CO2
+-eq through wind compared 
+with 2025.
+• Additional 3.7 kt CO2
+-eq through coconut oil 
+compared with 2025.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+69 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/12/2018
+Marshall Islands Electricity Roadmap sets the target 
+of 100% energy generated from renewable energy 
+sources by 2050. This translates to 130.1 MW of 
+renewable installed capacity (excluding storage), 
+including 80.6 MW of solar and 49.5 MW of wind 
+(Government of the Marshall Islands, 2018). 
+130.1
+MARSHALL ISLANDS
+• The NDC cites an unconditional target estimated at 69 MW by 2030, while the Marshall Islands Electricity 
+Roadmap sets a further target of “100% energy generated from renewable energy sources by 2050”, 
+which translates to 130.1 MW of renewable installed capacity by 2050.
+• The roadmap presents pathways for the sector to help achieve its 2030 NDC targets while further outlining 
+longer-term pathways to achieve total decarbonisation of the electricity sector by 2050. The roadmap 
+states that these steps will require significant international support and strong political leadership.Nauru
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+14/10/2021
+Conditional:
+• 6 MW solar PV farm with 5 MW/2.5 MW battery 
+capacity to achieve renewable energy making up 
+50% of Nauru’s power generation. The NDC 
+covers the period 1 January 2021 to 31 December 
+2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 6
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+//
+Nauru's Energy Roadmap targets 50% of grid 
+Micronesia
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+15/09/2016
+No specific renewable energy targets are included; it 
+is stated that the NDC builds upon existing renewable 
+energy and transport targets and policies.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+- No national renewable energy targets were identified 
+(National Renewable Energy Laboratory, 2016). -
+Mauritius
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+05/10/2021
+Unconditional:
+60% of energy needs to be produced from green 
+sources by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+863 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+05/08/2019
+Mauritius Renewable Energy Roadmap 2030 has been 
+reviewed and sets a target in line with the NDC at 60% 
+share of renewable energy generation by the year 
+2030 (Government of Mauritius, 2019). 
+863
+• The NDC expresses an unconditional target of 60% share of renewable energy by 2030, estimated to be 
+equivalent to installed capacity of 863 MW.
+• The Mauritius Renewable Energy Roadmap 2030 has been revised and sets a target in line with the NDC 
+at a 60% share (up from 40% previously) of renewable energy generation by 2030.
+FEDERATED STATES OF MICRONESIA 
+• No quantifiable targets are presented. 
+NAURU
+• Nauru’s NDC has a conditional target of 50% of Nauru’s power generation coming from renewable sources 
+by 2030 while also citing a solar PV target of 6 MW. 
+• Nauru’s Energy Roadmap also cites a target of 50% grid electricity supplied from renewable energy 
+sources by 2020, totalling 10 MW. By the end of 2020, Nauru’s renewable energy capacity was only 
+2.1 MW.
+• International support in the form of financing, technical assistance, and technology transfer can help 
+Nauru achieve its renewable energy targets.• Niue's Strategic Energy Road Map sets the target of 80% renewable energy generation by 2025 equivalent 
+to an estimated 3 MW. 
+• The targets expressed in the NDC are estimated to total 2.9 MW. This includes 1.1 MW of unconditional 
+capacity, and another 1.8 MW of conditional capacity to be achieved based on international support.
+Niue
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+28/10/2016
+Conditional:
+• 80% renewable electricity by 2025.
+• 1.8 MW of solar PV.
+Unconditional:
+• 38% renewable electricity by 2020.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+1.1 1.8
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2015
+Niue's Strategic Energy Road Map sets the target 
+of 80% renewable energy generation by 2025 
+(Government of Niue, 2015). 
+3
+Palau
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+22/04/2016
+Conditional:
+• 45% renewable energy target by 2025.
+• 5 MW of solar PV.
+• 10 MW of solar PV for the water sector.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 24
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+10/08/2017
+Palau's Executive Order No. 403 sets the target of 
+45% renewable energy generation by 2025 
+(Government of Palau, 2017). 
+24
+PALAU
+• Palau's Executive Order No. 403 (published in 2017) sets the target of 45% renewable energy generation 
+by 2025, which is estimated at 24 MW. The NDC (submitted in April 2016) expresses the same target, all 
+conditional. 
+• This signals that the country will need substantial international support to realise its national renewable 
+energy plans.Papua New 
+Guinea
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+16/12/2020
+Conditional:
+Increasing levels of renewables in the energy mix for 
+on-grid connection through increasing the share of 
+installed capacity of renewable energy from 30% in 
+2015 to 78% in 2030.
+• Installation of 16.05 MW of solar PV + energy 
+storage system by 2030 at an estimated cost 
+of USD 86.67 million.
+• Installation of 19.95 MW of hydropower by 2030 
+at an estimated cost of USD 168.70 million.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 860.1
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2017
+Papua New Guinea's National Energy Policy sets the 
+target of 100% power from renewable sources by 
+2050. This includes 1 906 MW of hydropower (mostly 
+from the Purari Hydropower Project), 100 MW of solar 
+by 2030, 100 MW of wind power by 2030, and 
+100 000 solar home systems by 2020 (Government of 
+Papua New Guinea, 2017). 
+2 116
+• Papua New Guinea's National Energy Policy sets the target of 100% power from renewable sources by 
+2050, which includes 2 116 MW of renewable energy capacity. 
+• The NDC communicated a target to increase on-grid installed capacity of renewable energy to 78% (from 
+30% today) on a conditional basis. This is estimated to be 887 MW.
+• This signals that substantial international support may be required for Papua New Guinea to meet its 
+renewable energy targets.
+SAINT KITTS AND NEVIS
+• While no renewable energy targets were found in national policy documents, the NDC communicates an 
+unconditional target of 35.7 MW by 2030 and a conditional target of 33.1 MW by the same year. 
+Saint Kitts 
+and Nevis
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+25/10/2021
+Combination of both conditional and unconditional:
+100% renewable energy in electricity generation – the 
+main actions include the installation of a 68.8 MW of 
+renewable energy capacity by 2030. The total cost 
+estimated for the implementation of the contribution 
+is USD 281 million. 
+Unconditional: Installation of 35.7 MW of solar PV by 
+2023 at an estimated cost of USD 70 million.
+Conditional: Installation of 6.6 MW of wind power, 
+25 MW of geothermal power, 1.5 MW of solar PV by 
+2030 at an estimated cost of USD 211 million.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+35.7 33.1
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+- No national renewable energy targets were identified. -• Targets in both the NDC and national plans are estimated to be at 72 MW by 2025 and are not conditional 
+on any financial or technical support. This could signal that the country aims to achieve its set targets 
+driven by objectives beyond climate. 
+Saint 
+Lucia
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+22/04/2016
+Conditional:
+• 35% renewable electricity by 2025.
+• 50% renewable electricity by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 72 by 2025
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2017
+Saint Lucia's National Energy Transition Strategy 
+sets the target of 35% of electricity generated by 
+renewable sources by 2025 (Rocky Mountain 
+Institute, 2017). 
+72
+Saint 
+Vincent 
+and the 
+Grenadines
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+29/06/2016
+Unconditional:
+Geothermal plant to generate over 50% of country’s 
+electricity by 2025.*
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+15 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+- No national renewable energy targets were identified 
+(IRENA, 2010). -
+Samoa
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+30/07/2021
+Conditional:
+Reach 100% renewable electricity generation 
+by 2025.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 35
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+-
+Samoa's Energy Sector Plan 2017-2022 sets the target 
+of 100% electricity generation from renewable energy 
+sources by 2025 (Government of Samoa, 2017). 
+35
+SAINT VINCENT AND THE GRENADINES
+• While no renewable energy targets were found in national policy documents, the NDC targets 15.7 MW of 
+unconditional geothermal capacity by 2030.
+*No specific year is mentioned for this target, but the year is assumed to be 2025 based on emissions scenarios presented in 
+the NDC.
+SAMOA
+• Targets in both the NDC and national plans are estimated to be at 35 MW, equivalent to 100% of electricity 
+generation, and are not conditional on any financial or technical support. São Tomé 
+and 
+Príncipe
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+30/07/2021
+Conditional:
+Increase in the use of RES up to 49 MW, mainly from 
+solar (32.4 MW), hydroelectric (14 MW) and biomass 
+(2.5 MW) by 2030.* 
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 49
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+- No national renewable energy targets were identified. -
+Seychelles
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+30/07/2021
+Conditional:
+Increasing the renewable energy share in the 
+electricity supply to 15% in 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 11
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/01/2012
+Seychelles’ Sustainable Development Strategy sets the 
+target of 15% renewable electricity by 2030. The 
+strategy also includes technology-specific targets as 
+follows: 6 MW of wind, 3.2 MW of solar PV, 0.75 MW of 
+micro hydropower, five pilot biogas plants and 1 000 
+solar home systems (Government of Seychelles, 2012). 
+11
+Singapore
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+31/03/2020
+Unconditional:
+Singapore aims to achieve at least 2 GWp of solar PV 
+by 2030. 2 GWp of solar PV would meet about 4% of 
+Singapore’s current (2020) annual electricity needs 
+and 10% of daily peak electricity demand today.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+2 000 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+29/10/2019
+Singapore's energy policy sets the target of deploying 
+2 GWp of solar by 2030 (Government of Singapore, 
+2019). 
+2 000
+• While no renewable energy targets were found in national policy documents, the NDC targets 49 MW of 
+conditional capacity by 2030.
+SEYCHELLES
+• Targets in both the NDC and national plans are estimated to be at 11 MW and are conditional on financial 
+or technical support. 
+*Although no specific year was mentioned for the renewable energy targets, the target year is assumed to be 2030 based on 
+the target year specific for emission reduction targets.
+SINGAPORE
+• Targets in both the NDC and national plans are estimated to be at 2 000 GWp (peak) and are not 
+conditional on any financial or technical support. • The NDC communicates that the country will achieve 100% renewable energy by 2030. 
+• This includes 22.8 MW of renewable energy capacity to be achieved unconditionally which is equivalent 
+to almost half of the target cited in the Solomon Island’s National Energy Policy, totalling 48 MW of 
+renewable energy installed capacity.
+• Conditional on international financial and technical support, the country can add another 45.8 MW of 
+renewable energy capacity by 2030, thereby reaching a 100% renewable energy share in the 
+electricity mix.
+Solomon 
+Islands
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+19/07/2021
+Combination of both conditional and unconditional:
+The government is committed to the Renewable 
+Energy Roadmap for Honiara to achieve 100% 
+renewable energy by 2030.
+Unconditional: Installation of 15 MW of hydropower 
+by 2024, 3.22 MW of solar PV by 2021 and 4.574 MW 
+of off-grid solar-diesel hybrid systems by 2022.
+Conditional: Installation of 3.77 MW/USD 10.65 million 
+of hydropower, 20 MW to 40 MW/USD 150 million of 
+geothermal power, 1 MW of solar PV/USD 4 million 
+and 1 MW/USD 6 million of off-grid solar-diesel hybrid 
+systems by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+22.8 45.8
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+2014
+The Solomon Islands National Energy Policy sets the 
+target of 79% of power generation from renewables 
+by 2030 (Government of Solomon Islands, 2014). 
+48
+SURINAME
+• The NDC communicates an unconditional target which is estimated at 209 MW of renewable energy 
+capacity. No renewable energy targets in national policy documents were found.
+Suriname
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+09/12/2019
+Unconditional:
+Maintain a share of electricity from renewable sources 
+above 35% by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+209 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+- No national renewable energy targets were identified. -Timor-Leste
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+09/12/2019
+Conditional:
+452 MW of renewables, including 352 MW of 
+hydropower, 72 MW of wind, 22 MW of solar and 
+6 MW of biomass/waste sources.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+209 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+-
+No national renewable energy targets were identified 
+but the government has announced a target to 
+achieve 50% renewable energy use by 2030 
+(Government of Timor-Leste, 2011). 
+-
+Tonga
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+09/12/2019
+Conditional:
+70% of electricity generated from renewable sources 
+by 2030 through combination of solar, wind and 
+battery storage.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 31
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/02/2016
+Tonga's Climate Change Policy sets the target of 100% 
+of power generation from renewables by 2035 
+(Government of Tonga, 2016). 
+63
+Trinidad 
+and 
+Tobago
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+- None
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+-
+Trinidad and Tobago's Vision 2030 set a goal to meet 
+10% of its energy demands from renewable energy by 
+2021 (Government of Trinidad and Tobago, 2016).
+601
+• The NDC communicates a target of 352 MW of renewable energy capacity by 2030, conditional on 
+international support. No renewable energy targets in national policy documents were found. 
+TONGA
+• Tonga's Climate Change Policy (published in 2016) sets the target of 100% of power generation from 
+renewables by 2035, which is estimated to be equivalent to 63 MW. 
+• The NDC (communicated in December 2020) sets a conditional target of 70% renewable energy share in 
+the generation mix by 2030, estimated to be equivalent to 31 MW by 2030.
+TRINIDAD AND TOBAGO
+• No quantifiable targets are presented in either the NDCs or national policies and plans.• While no quantifiable targets are presented in national policies and plans, the NDC cites an unconditional 
+target of 6 MW by 2020. Currently, renewable energy capacity comprises 2.3 MW of solar PV.
+Tuvalu
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+22/04/2016
+Unconditional:
+100% renewable electricity by 2020; the main action 
+includes the installation of 6 MW of renewable energy 
+capacity by 2020.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+6 -
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+-
+Tuvalu's National Energy Policy sets the target of 
+100% of electricity from renewable sources by 2020 
+(Government of Tuvalu, 2009). 
+6
+Vanuatu
+DATE DESCRIPTION OF THE RENEWABLE ENERGY TARGET 
+IN THE NDC QUANTIFIED ESTIMATES
+22/03/2021
+Conditional:
+Close to 100% renewable energy in the electricity 
+sector by 2030.
+UNCONDITIONAL
+MW
+CONDITIONAL
+MW
+- 47
+DATE QUANTIFIED RENEWABLE ENERGY TARGET IN 
+NATIONAL PLANS QUANTIFIED ESTIMATES (MW)
+01/06/2016
+Vanuatu's National Energy Road Map sets the target 
+of 100% of electricity from renewable sources by 
+2030. The updated roadmap includes an investment 
+plan for the period 2016-21 with renewable energy 
+capacity and costs per technology as follows: 8 MW of 
+geothermal at a cost of USD 108 million; 3 MW of solar 
+at a cost of USD 11 million; 1.8 MW of hydropower at a 
+cost of USD 9.85 million; five solar pico-grids at a cost 
+of USD 2.1 million; and USD 16.6 million to 
+USD 17.1 million for off-grid solar, including mini-grids, 
+solar lighting industrial centres and agro-processing 
+power stations (Government of Vanuatu, 2016). 
+47
+VANUATU
+• Both the NDC and Vanuatu's National Energy Road Map set the target of 100% of electricity from 
+renewable sources by 2030. This is equivalent to 47 MW installed capacity by 2030.
+• The target cited in the NDC is conditional – this signals that the country will need international support to 
+realise its renewable energy ambitions as outlined in its National Energy Road Map. ANNEX 2 – METHODOLOGY
+All targets in the power sector are quantified in terms of capacity in megawatts. While renewable energy 
+targets in the power sector – in both NDCs and national energy plans – are typically expressed in terms of fixed 
+capacity (in megawatts), in many countries they may be cited as a percentage of the electricity mix (e.g. 45% 
+renewable energy share in electricity generation), and in some cases they may be a combination of both. 
+In SIDS, 33 parties have a power target of which 8 are fixed (capacity based in terms of megawatts), 14 are 
+share-based, and another 8 are a combination of the two.
+The estimation method for these three cases is described below: 
+1. If a country expresses fixed targets in terms of megawatts, the target is taken as is.
+If the target is expressed as a share (e.g. Country A plans to reach 68% share of renewable energy in the 
+electricity generation mix by 2030), the following steps are followed:
+a. Overall electricity generation is obtained (if unavailable in official national data) or approximated based on 
+a ten-year historical CAGR.12
+ Given that for some countries (e.g. many SIDS), baseline generation was very low, 
+resulting in a very high growth rate that may not be realistic to project into the future, a growth rate of 1-2% is 
+often assumed. 
+b. The overall renewable energy generation in the target year is obtained by multiplying the targeted 
+share with the overall electricity generation. 
+c. Next, the technology-specific share in the renewable electricity mix is obtained (if unavailable in 
+official national data) or estimated. The shares are assumed to equal the share of a technologyspecific capacity addition in the overall renewable capacity added over the last five years. For 
+example, for a technology such as solar, the capacity added between 2017 and 2021 is divided by the 
+overall renewable capacity added during this period. This share is assumed to be the same as the 
+“technology-specific share in the renewable electricity mix in the target year”. Note that some 
+adjustments are inevitable to account for baseline capacity for technologies that have had no recent 
+deployment (which is often the case for hydropower and bioenergy).
+d. Once the technology-specific generation in target year is obtained, the following formula is used to 
+calculate the megawatt equivalent of the target. Capacity factor data are obtained from IRENA’s costs 
+database.
+2.In cases where targets are expressed as both a share of electricity mix and fixed capacity, e.g. “Country A 
+plans to reach 68% share of renewable energy share by 2030; specific measures include the addition of 
+30 MW of solar PV”, it is assessed whether the fixed capacity target will alone be enough to reach the 
+targeted share. In case it will not be enough, the percentage-based target is estimated and adjusted 
+based on the fixed capacity target. 
+Note: Certain assumptions and approximations are made to account for the gaps and ambiguities in available 
+data. These are made on a country-by-country basis to reflect local conditions where possible. 
+Data on energy generation and renewable energy capacity can be found at IRENA’s website here. Data on 
+renewable energy costs can be found here.
+Capacity (MW) = Capacity Factor*Time (h)
+Actual Energy Generation (MWh*)
+* MWh = megawatt-hoursREFERENCES
+Atteridge, A. and G. Savvidou (2019), “Development aid for energy in Small Island Developing States”, 
+Energy, Sustainability and Society, Vol. 9/1, p. 10, www.doi.org/10.1186/s13705-019-0194-3.
+Caribbean Centre For Renewable Energy & Energy Efficiency (2020), “2020 energy report card: Dominica”, 
+Caribbean Centre for Renewable Energy & Energy Efficiency, www.ccreee.org/wp-content/uploads/2021/12/
+CCREEE-ERC-DOMINICA-Feb-23.pdf. 
+Climate Watch (2022), NDC Enhancement Tracker, www.climatewatchdata.org/2020-ndc-tracker
+(accessed 10 August 2022).
+Government of Antigua and Barbuda (2011), National Energy Policy, Government of Antigua and Barbuda, 
+www.lse.ac.uk/GranthamInstitute/wp-content/uploads/laws/8481.pdf. 
+Government of Bahamas (2013), The Bahamas National Energy Policy, Government of Bahamas, 
+www.thebahamasweekly.com/uploads/16/energypolicy.pdf. 
+Government of Barbados (2019), Barbados National Energy Policy 2019-2030, Government of Barbados, 
+www.smartenergybarbados.com/wp-content/uploads/2021/03/BNEP-summary-b.pdf. 
+Government of Belize (2012), Strategic Plan 2012 2017: Integrating Energy, Science And Technology into 
+National Development Planning And Decision Making to Catalyze Sustainable Development, Government 
+of Belize, www.publicservice.gov.bz/jdownloads/Strategic%20Plans/MESTPU_Strategic_Plan_-_2012-
+2017.pdf. 
+Government of Cuba (2019), Consejo de Estado (State Council), Government of Cuba, www.gacetaoficial.gob.
+cu/sites/default/files/goc-2019-o95.pdf. 
+Government of Dominican Republic (2012), Ley Número 57-07: Sobre Incentivo Al Desarrollo de Fuentes 
+Renovables de Energía y sus Regímenes Especiales (Law Number 57-07: On Incentives for the Development 
+of Renewable Energy Sources and their Special Regimes), Government of Dominican Republic, www.cne.gob.
+do/wp-content/uploads/2015/05/REGLAMENTO-LEY-57-07.pdf. 
+Government of Fiji (2014), A Green Growth Framework for Fiji, Government of Fiji, www.policy.
+asiapacificenergy.org/sites/default/files/Green%20Growth%20Framework%20for%20Fiji_16%20Sept%20
+2014_LowRes%20%284%29.pdf. 
+Government of Grenada (2012), Grenada Vision 2030, Government of Grenada, www.climate-laws.org/
+geographies/grenada/policies/grenada-vision-2030. 
+Government of Guinea-Bissau (2017), Plano de Ação Nacional No Sector das Energias Renováveis (Paner) 
+da Guiné-Bissau Perío (National Action Plan in the Renewable Energy Sector (Paner) of Guinea-Bissau Period) 
+2015 2030, Government of Guinea-Bissau, www.ecowrex.org/system/files/web_plano_de_acao_nacional_
+optimized.pdf. 
+Government of Guyana (2019), Green State Development Strategy: Vision 2040, Government of Guyana, 
+www.resourcedata.org/dataset/9aea81ee-41fb-4673-ac9b-8b2a5de50fa1/resource/3ee51a5b-b162-4fc4-
+a1e1-6aee5d90b3f1/download/file2f3c79a6f21.pdf. 
+Government of Haiti (2012), Avant-Projet de Politique Energétique de la République d’Haïti (Draft Energy 
+Policy of the Republic of Haiti), Government of Haiti, www.bme.gouv.ht/energie/Declaration%20de%20
+politique%20energetique_ebauche9.pdf. www.mset.gov.jm/wp-content/uploads/2019/07/National-Energy-Policy_0.pdf. 
+Government of Mauritius (2019), Renewable Energy Roadmap 2030 for the Electricity Sector, Government 
+of Mauritius, www.publicutilities.govmu.org/Documents/Ministry%20of%20Energy%20-%20RE%20
+ROADMAP%202030.pdf. 
+Government of Nauru (2018), Nauru Energy Road Map 2018 to 2020 – A Pwiyeiy Bwio Light Up My Land, 
+Government of Nauru, www.prdrse4all.spc.int/sites/default/files/undp_nerm_report.pdf.
+Government of Niue (2015), Niue Strategic Energy Road Map 2015 2025, Government of Niue, 
+www.prdrse4all.spc.int/system/files/niue_strategic_energy_road_map_2015-2025_updated_3.pdf. 
+Government of Palau (2017), Executive Order No 403: Establishing the Palau National Energy Committee 
+to Monitor and Guide All National Renewable Energy Efforts, Government of Palau, www.palauenergyoffice.
+com/wp-content/uploads/2017/09/Executive-Order-403_Establishing-the-Palau-National-Energy.pdf. 
+Government of Papua New Guinea (2017), National Energy Policy 2017 2027, Government of Papua New 
+Guinea, www.prdrse4all.spc.int/sites/default/files/national_energy_policy_-_2017_-_2027.pdf. 
+Government of Samoa (2017), Samoa Energy Sector Plan 2017 2022, Government of Samoa, www.mof.gov.
+ws/wp-content/uploads/2022/08/Energy-Sector-Plan-2017-2022.pdf. 
+Government of Seychelles (2012), Seychelles Sustainable Development Strategy 2012 2020, Government 
+of Seychelles, www.climate-laws.org/geographies/seychelles/policies/seychelles-sustainable-developmentstrategy-2012-2020. 
+Government of Singapore (2019), Our Energy Policy in a Nutshell, Government of Singapore, www.mse.gov.
+sg/policies/energy. 
+Government of Solomon Islands (2014), Solomon Islands National Energy Policy and Strategic Plan, 
+Government of Solomon Islands, www.policy.asiapacificenergy.org/sites/default/files/volume1_solomon_
+islands_national_energy_policy.pdf. 
+Government of the Cook Islands (2021), Cook Islands Economic Development Strategy 2030, Government of 
+the Cook Islands, www.mfem.gov.ck/images/ECON/1-EDS_Final_for-publication_Optimized.pdf. 
+Government of the Marshall Islands (2018), Marshall Islands Electricity Roadmap, 
+Government of The Marshall islands, www.islands.irena.org/-/media/Files/IRENA/Sids/
+NavigatingourEnergyFutureMarshallIslandsElectricityRoadmapDecem.ashx. 
+Government of Timor-Leste (2011), Timor-Leste Strategic Development Plan 2011 2030, Government of 
+Timor-Leste, www.cdn.who.int/media/docs/default-source/searo/timor-leste/home-national-strategicdevelopment-plan-2011-2030.pdf?sfvrsn=b26c901f_2. 
+Government of Tonga (2016), Tonga Climate Change Policy: A Resilient Tonga by 2035, Government 
+of Tonga, www.lse.ac.uk/GranthamInstitute/wp-content/uploads/laws/4353.pdf. 
+Government of Trinidad and Tobago (2016), Vision 2030, Government of Trinidad and Tobago, 
+www.planning.gov.tt/sites/default/files/Vision%202030-%20The%20National%20Development%20
+Strategy%20of%20Trinidad%20and%20Tobago%202016-2030.pdf. 
+Government of Tuvalu (2009), National Energy Policy, Government of Tuvalu, www.climate-laws.org/
+geographies/tuvalu/policies/national-energy-policy-eeaa2642-a6a9-4eb2-a2d8-04d7ecb57765. 
+Government of Vanuatu (2016), Updated Vanuatu National Energy Road Map 2016-2030, Government 
+of Vanuatu, www.policy.asiapacificenergy.org/sites/default/files/Updated%20Vanuatu%20National%20
+Energy%20Road%20Map%202016-2030.pdf. 
+IEA (International Energy Agency) (2017), Belize National Sustainable Energy Strategy 2012-2033, IEA, Paris, 
+wwwieaorg/policies/6319-belize-national-sustainable-energy-strategy-2012-2033Council of Ministers), Imprensa Nacional de Cabo Verde (Cabo Verde National Press), 
+www.extwprlegs1.fao.org/docs/pdf/cvi185115.pdf. 
+IRENA (International Renewable Energy Agency) (2022a), SIDS Lighthouse Initiative: Progress and 
+way forward, International Renewable Energy Agency (IRENA), Abu Dhabi, www.islands.irena.org/-/
+media/Files/IRENA/Agency/Publication/2022/Aug/IRENA_SIDS_LHI_Progress_Way_Forward_2022.
+ashx#:~:text=The%20SIDS%20Lighthouses%20Initiative%20is,the%20IRENA%2DAOSIS%20Energy%20
+Compact.
+IRENA (2022b), Renewable energy targets in 2022: A guide to design, IRENA, Abu Dhabi, 
+www.irena.org/Publications/2022/Nov/Renewable-energy-targets-in-2022. 
+IRENA (2022c), Renewable Power Generation Costs in 2021, IRENA, Abu Dhabi, 
+www.irena.org/publications/2022/Jul/Renewable-Power-Generation-Costs-in-2021.
+IRENA (2022d), Renewable energy statistics, IRENA, Abu Dhabi, www.irena.org/Data/Downloads/
+IRENASTAT (accessed 3 November 2022).
+IRENA (2021), Antigua and Barbuda: Renewable energy roadmap, IRENA, Abu Dhabi, www.irena.org/
+publications/2021/March/Antigua-and-Barbuda-Renewable-Energy-Roadmap.
+IRENA (2017), Kiribati Integrated Energy Roadmap: 2017-2025, IRENA, Abu Dhabi, www.policy.
+asiapacificenergy.org/sites/default/files/Kiribati%20Integrated%20Energy%20Roadmap-%202017-2025.pdf.
+IRENA (2010), Energy Action Plan for St. Vincent and The Grenadines: First Edition, IRENA, Abu Dhabi, islands.
+irena.org/-/media/Files/IRENA/Sids/Publications/Saint-Vincent-and-the-Grenadines---Energy-Action-PlanFirst-Edition.ashx?la=en&hash=30705C0C5E703442A2FD42676C9E6DD59117F313. 
+National Renewable Energy Laboratory (2016), “Federated States of Micronesia: Pursuing a sustainable and 
+resilient energy future”, National Renewable Energy Laboratory, www.nrel.gov/docs/fy16osti/66692.pdf.
+Rocky Mountain Institute (2017), Saint Lucia National Energy Transition Strategy, Rocky Mountain Institute, 
+www4.unfccc.int/sites/PublicNAMA/_layouts/UN/FCCC/NAMA/Download.aspx?ListName=NAMA&Id=225&
+FileName=Saint%20Lucia%20NETS%20Final%20Report_%20Aug%209%202017.pdf. 
+The Sustainable Energy Unit (2017), The Kingdom of Bahrain National Renewable Energy Action Plan, 
+Sustainable Energy Unit Kingdom of Bahrain, www.sea.gov.bh/wp-content/uploads/2018/04/02_NREAPFull-Report.pdf. 
+UN (United Nations) (n.d.), "List of SIDS", UN, www.un.org/ohrlls/content/list-sids.
+UNFCCC (United Nations Framework Convention on Climate Change) (2022), NDC Registry, UNFCCC, 
+www.unfccc.int/NDCREG.
+World Bank (2022), “Access to electricity (% of population)”, www.data.worldbank.org/indicator/EG.ELC.
+ACCS.ZS (accessed 3 November 2022).wwwirenaorg

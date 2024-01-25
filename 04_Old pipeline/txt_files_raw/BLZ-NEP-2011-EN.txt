@@ -1,0 +1,1311 @@
+File Name: BLZ-NEP-2011-EN
+Year: 2011
+Country Name: Belize
+Country Code: BLZ
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2011
+Start Year: 2011
+End Year: 2040
+Language: EN
+------------------------------------------------
+
+2011
+PREPARED for
+The GOVERNMENT OF BELIZE
+By:
+Ambrose Tillett
+Jeffrey Locke
+John Mencias
+November 302011
+TOWARDS
+Energy Efficiency, 
+Sustainability and 
+Resilience for BELIZE 
+in the 21st Century
+National Energy Policy Framework
+“Energy By the People … For the People”Disclaimer
+This document was prepared specifically at the request of the Government of Belize; and is intended solely for 
+their use. It represents a work in progress. The views, opinions and recommendations expressed herein 
+are those of the authors, unless stated otherwise. A number of data and figures presented in this document 
+originate from data and figures published in publicly available presentations or reports or gotten from 
+interviews with various public officials and other persons. Although great care has been taken to ensure the 
+accuracy and factuality of the material, the integrity of calculations, and all other information presented 
+herein, the authors do not assume any responsibility or accept any legal liability for any consequences which 
+may arise from the use of the material.
+All costs and prices given in this document are in 2010 US Dollars unless otherwise stated.Electric vehicles “refilling” at a solar-powered charging station1
+ 
+1 SOURCE: Mukhar, N. (2011). What do Electric Cars have to do with Solar Energy? Retrieved April 2011, 
+from getSolar.com: http://www.getsolar.com
+“The significant problems we face 
+today cannot be solved at the same 
+level of thinking as when they were 
+created"…. Albert EinsteinLIST OF ACRONYMS & ABBREVIATIONS
+AC Alternating Current (Electricity)
+A/C Air Conditioning (or Air Conditioner)
+AEI American Enterprise Institute for Public Policy 
+Research
+AEO Annual Energy Outlook (EIA Publication)
+AST Active Solar Thermal
+BAL Belize Aquaculture Limited
+BAT Best Available Technologies
+Bbl, bbl Barrel
+BCCI Belize Chamber of Commerce and Industry 
+BECOL Belize Electric Company Limited
+BEEC Building Energy Efficiency Codes
+BEL Belize Electricity Limited
+BELCOGEN Belize Cogeneration Energy Limited
+BELTRAIDE Belize Trade and Investment Development
+BNE Belize Natural Energy Limited
+BPT Best Practice Technologies
+BSI Belize Sugar Industries Limited
+BTB Belize Tourism Board
+BTIA Belize Tourism Industry Association
+BTU British Thermal Unit
+BZ Belize
+BZD Belize Dollar
+oC Degrees Celsius (Measurement of temperature)
+CA Central America
+CARICOM Caribbean Community
+CBA Central Building Authority (Belize)
+CBO Congressional Budget Office (USA)
+CCGT Combined Cycle Gas Turbine
+CCS Carbon Capture and Sequestration
+CDB Caribbean Development Bank
+CDM Clean Development Mechanism
+CER Certifiable Emission Reduction (per CDM)
+CF Capacity Factor
+CFC Chlorofluorocarbon
+CFE Comisión Federal de Electricidad (Mexico)
+CFL Compact Fluorescent Lamp
+CHENACT Caribbean Hotel Energy Efficiency Action Program 
+CHP Combined Heat and Power
+CIA Central Intelligence Agency (USA)
+CIF Cost, Insurance and FreightCIPS, CIPower Canadian International Power Services Inc.
+CNG Compressed Natural Gas
+CO2, CO2 Carbon Dioxide
+COP Coefficient of Performance (Heat Pumps)
+CPRSA Cost of Power Rate Stabilization Account (BEL)
+CP Carbon Pricing
+CPV Concentrator Photovoltaic
+CREDP Caribbean Renewable Energy Development 
+Programme
+CRS Congressional Research Service (USA)
+c-Si, C-Si Crystalline Silicon (Solar PV)
+CSP Concentrating Solar Power
+CTZ Constant-Temperature Zone
+DA Distribution Area (Belize)
+DAO Distribution Area Operator (Belize)
+DC Direct Current (Electricity)
+DG Distributed Generation
+DNI Direct Normal Irradiance (Measured in kWh/square 
+meter/day)
+DTI Department of Trade and Industry (United Kingdom)
+€ EU Currency Symbol
+EE Energy Efficiency
+EEP Energy and Environment Partnership with Central 
+America
+EER Energy Efficiency Ratio
+EERE Energy Efficiency & Renewable Energy (of the US 
+DOE)
+EGS Enhanced Geothermal System (or Engineered 
+Geothermal System)
+EIA Energy Information Administration (United States)
+EPA Environmental Protection Agency (United States)
+EPC Energy Performance Contract
+ESCO Energy Service Company
+ESMAP Energy Sector Management Assistance Program 
+(World Bank)
+ESP Energy Supply Provider
+ETSAP Energy Technology Systems and Analysis 
+Programme (IEA)
+EU European Union
+EV Electric Vehicle
+oF Degrees Fahrenheit (Measurement of temperature)
+FAO Forestry Administration Organization
+FC Firm Capacity
+FFV Flex Fuel VehicleFIT Feed-in Tariff
+ft Feet (Measurement of length or distance)
+FX Foreign Exchange
+g Gram (Measurement of weight)
+gals US gallons (Measurement of volume)
+GBC Green Building Certification (Belize)
+GCEP Global Climate & Energy Project
+GDP Gross Domestic Product
+GHG Green House Gas
+GOB Government of Belize
+GPD Geology and Petroleum Department (in the Ministry 
+of Natural Resources, Government of Belize)
+g/p-m Gallons per Passenger-mile
+gpm Gallons per Mile
+GSHP Ground-source Heat Pump (Geothermal Heat Pump)
+GST General Sales Tax (Belize)
+GT Gas Turbine
+GW Gigawatt
+GWh Gigawatt-hour
+HCFC Hydro-chlorofluorocarbon
+HDR Hot Dry Rock (Geothermal Systems)
+HEV Hybrid Electric Vehicle
+HFC Hydrofluorocarbon
+HFO Heavy Fuel Oil
+HP High Pressure (Steam)
+HTF Heat Transfer Fluid
+HVAC Heating, Ventilation and Air-conditioning
+Hydro Hydro-electric Power
+IAEA International Atomic Energy Agency
+ICE Internal Combustion Engine
+IDB Inter-American Development Bank
+IEA International Energy Agency
+IPP Independent Power Producer (Electricity)
+ISO International Organisation for Standardization
+kg Kilogram
+KJ Kilojoule
+km Kilometre
+km2 Square Kilometre 
+KV Kilovolt
+KW Kilowatt
+KWh Kilowatt-hour
+KW-Yr Kilowatt-year
+LAC Latin America and the CaribbeanLCODE Levelized Cost of Delivered Energy
+LCOE Levelized Cost of Energy
+LCV Lower Calorific Value
+LED Light-emitting Diode
+LEED Leadership in Energy and Environmental Design
+(USA)
+LFL Linear Fluorescent Lamp
+LGE Litre of Gasoline Equivalent
+LNG Liquefied Natural Gas
+LP Liquefied Petroleum (Gas)
+LPG Liquefied Petroleum Gas
+LRMC Long-run Marginal Cost
+LSD Low Speed Diesel
+m Metre (Measurement of length or distance)
+m2 Square Metre 
+m/s Metres per Second
+MER Mercado Eléctrico Regional (Regional Electricity 
+Market of SIEPAC)
+MIT Massachusetts Institute of Technology
+MJ Megajoule
+MMBTU Million British Thermal Units
+mpg Miles per Gallon
+mph Miles per Hour
+mpk Miles per Kilowatt-hour
+MRV Measurement, Reporting and Verification (for GHG 
+emissions)
+MSD Medium Speed Diesel
+MSW Municipal Solid Waste
+MW Megawatt
+MWh Megawatt-hour
+NECC National Electricity Control Center (Belize)
+NEEPI National Energy and Electricity Planning Institute 
+(Belize)
+NEMS National Energy Modeling System (United States)
+NEP National Energy Policy (Belize)
+NEPD National Energy Policy Development (Belize)
+NETS National Electricity Transmission System (Belize)
+NETSO National Electricity Transmission System Operator 
+(Belize)
+NG Natural Gas
+NGL Natural Gas Liquid
+NGO Non-Government Organization
+NMS National Meteorological Service (Belize)
+NPV Net Present ValueNREL National Renewable Energy Laboratory (United 
+States)
+OAS Organization of American States
+OECD Organization for Economic Co-operation and 
+Development 
+OLADE Organización Latinoamericana de Energía (Latin 
+American Energy Organization)
+O&M Operations and Maintenance
+PDVSA Petroléo de Venezuela, S.A 
+PEe Primary Energy Equivalent
+PHEV Plug-in Hybrid Electric Vehicle
+PM Particulate Matter
+PPA Power Purchase Agreement (Electricity)
+ppm Parts per Million
+PTC Production Tax Credit
+PUC Public Utilities Commission (Belize)
+PV Photovoltaic
+R&D Research and Development
+RD&D Research, Development and Demonstration
+RE Renewable Energy
+RFP Request for Proposal
+RFS Renewable Fuel Standard
+RO Renewables Obligation
+ROC Renewables Obligation Certificate
+ROLEDA Rural or Low-Energy Density Area
+RPS Renewable Energy Portfolio Standard
+RSA Refer to CPRSA above
+scf Standard Cubic Feet (Measurement of volume)
+SCGT Simple Cycle Gas Turbine
+SIEN Sistema de Información Energética Nacional
+(National Energy Information System of OLADE)
+SIEPAC Sistema de Interconexion Eléctrica de los Paises de 
+America Central (Electricity Interconnection System 
+of the Countries of Central America)
+SLC Single Large Consumer (Belize)
+SPE Society of Petroleum Engineers (USA)
+sq Square
+SUV Sport Utility Vehicle
+tCO2e Metric Ton of CO2-equivalent (of GHG emissions)
+T&D Transmission and Distribution
+TES Thermal Energy Storage
+TJ Terajoule
+TOE Tonne (Metric Ton) of Oil Equivalent
+TOR Terms of Reference (for this Report)TOU Time of Use
+TPES Total Primary Energy Supply
+TSDF Tropical Studies and Development Foundation 
+(Belize)
+UB University of Belize
+UK United Kingdom
+UNEP United Nations Environment Programme
+UNFCCC, FCCC United Nations Framework Convention on Climate 
+Change
+UNIDO United Nations Industrial Development Organization
+US, USA United States (of America)
+USD United States Dollar
+US DOE United States Department of Energy
+USGBC United States Green Building Council 
+VAFE Vehicle Average Fuel Economy
+W Watt (Measurement of power)
+WBCSD World Business Council for Sustainable Development
+WEC World Economic Council
+WEO World Energy Outlook
+WHO World Health Organization
+WPD Wind Power Density
+WTE Waste-to-EnergyTABLE OF CONTENTS
+List of Acronyms & Abbreviations .................................................................................iv
+EXECUTIVE SUMMARY.............................................................................................................1
+Background ............................................................................................................................1
+Main Study Outputs..............................................................................................................2
+Proposed Goals and Strategies for Belize’s Energy Sector ............................................2
+Energy Plans ....................................................................................................................................4
+Policy Recommendations ...........................................................................................................5
+Energy Planning ................................................................................................................................6
+Energy Sector Restructuring ........................................................................................................6
+Indigenous Energy Supply.............................................................................................................7
+Energy Imports and Exports...................................................................................................... 14
+Energy Distribution Infrastructure & Pricing..................................................................... 15
+Financing for Indigenous Energy Development ................................................................ 21
+Energy Efficiency and Conservation....................................................................................... 22
+Financing for Energy Efficiency and Recoverable Energy Projects............................ 28
+Implementation Plan.................................................................................................................29
+A National Database of Energy Data and Information..................................................... 29
+An Organizational Structure to Move Us Forward............................................................ 29EXECUTIVE SUMMARY
+BACKGROUND
+How can we make the most of the energy resources available to us to serve our 
+economic and social needs in the present and in the foreseeable future as cost-efficiently 
+as practicable, while simultaneously mitigating the ravages of energy price volatility and 
+the environmentally-damaging effects of fossil fuel use? What part can we play to ensure 
+that future generations are not relegated to diminished lifestyles or even mass calamity 
+because of the way we harness and use energy now, but that they are instead 
+bequeathed stable supplies of efficient and clean energy? What opportunities can we 
+forge to take advantage of our unique position as a relatively energy abundant country 
+in the midst of burgeoning demand all around us in the Central American mainland? 
+The short answer is that we must transition to a path of efficient and sustainable 
+energy, and build resilience within our energy supply chain(s) by using “effective rules 
+and smart policy frameworks”.
+This Draft National Energy Policy Framework (NEPF) is a recommended roadmap that
+puts Belize on a path to energy efficiency, sustainability and resilience over the next 30 
+years. It provides policy recommendations to policy-makers and decision-makers, and –
+where appropriate - discusses the pros and cons of various policy instruments that can 
+be used to achieve policy objectives.
+The approach taken in formulating this draft NEPF comprised of six main activities:
+1) Assessing the major factors driving energy policy-making in the 21st Century. 
+2) Carrying out a brief overview of the main trends and players that are currently 
+impacting and that may continue to impact the global and regional energy market,
+followed by a fairly in-depth analysis of the current state of Belize’s energy sector in 
+terms of the inter-relationships between supply and demand, the cost of energy, and 
+the related GHG emissions of the different sub-sectors.
+3) Conducting a comprehensive assessment of the main supply options, both 
+indigenous and external to Belize, available now and in the near future to meet our 
+energy needs. 
+“If I am asked today what is the most important issue for global 
+security and development - the issue with the highest potential for 
+solutions, but also for serious problems if we do not act in the right 
+way - it is Energy and Climate Change.”
+Jose Manuel Barroso, President of the European Commission (EC), Opening 
+Speech at World Energy Congress held in Rome, Italy on November 2007
+Pierre Gadonneix, Chairman, World Energy Council4) Analyzing various end-use efficiency and conservation measures that can be put in 
+place to reduce local demand for energy. 
+5) Developing goals and strategic objectives for Belize’s energy sector, and formulating 
+and evaluating various plans for meeting these strategic energy objectives, and 
+which utilize, to varying extents, the supply options and end-use efficiency measures 
+referred to above. 
+6) Recommending specific policies for ensuring the realization of the optimal energy 
+plan (from above) which best achieves the proposed strategic objectives over the 
+planning horizon, as well as general policies and a supporting organizational 
+framework for administering and guiding the development of the energy sector as a 
+whole in line with these strategic objectives.
+MAIN STUDY OUTPUTS
+Proposed Goals and Strategies for Belize’s Energy Sector
+Goals
+ To foster the sustainable production, distribution and use of energy as a critical 
+resource needed to achieve the overarching national goals of economic growth and 
+long-term prosperity, security, poverty reduction and social equity.
+ To minimize the cost of energy in the local economy:
+o The cost of energy referred to is the net present cost of energy use by final endusers, and should take into account all capital, O&M and fuel costs of primary 
+energy capture and conversion, including conversion losses and costs of 
+environmental impacts; all capital and O&M costs of secondary energy 
+distribution, including distribution losses and costs of environmental impacts; 
+and all capital and O&M costs of secondary energy conversion to end-use energy, 
+including conversion losses and costs of environmental impacts.
+o The benchmark for this goal could be the average cost of energy in those 
+emerging economies with similar socio-economic structure to Belize or countries 
+who are our major competitors. However, this may be too low or too high 
+depending on our own unique circumstances relative to theirs, and it is best that 
+energy cost minimization be subject only to availability of resources and 
+technologies and other uncontrollable factors. Moreover, the cost of energy is 
+very dependent on the nature and composition of a nation’s produce. Countries 
+like Belize that feature mainly light industries such as Tourism generally 
+consume less energy per dollar of GDP than energy-intensive countries that 
+engage in heavy industries like cement making and steel production. For this reason, the energy intensity, which is the total primary energy supply per dollar of 
+GDP, may also used as a reliable indicator of the cost of energy.
+ To mitigate the impacts of uncontrollable events such as external market price and 
+supply shocks and natural disasters on the cost of energy and on the reliability of 
+energy supply.
+ To create a national energy-efficiency-focused culture that is fully aware of how its 
+actions (or inactions) affect energy use and that is pro-active about the conservation 
+and efficient use of energy.
+Strategies
+1) Elevate and promote the importance of planning for energy efficiency in all sectors of 
+the economy.
+2) Promote and support the production of energy from indigenous renewable resources 
+in order to promote sustainability, increase resilience and engender local 
+participation in the energy industry
+3) Preserve, develop and manage the Agriculture, Agro-Processing and Forestry Sectors 
+as a major source of biomass feedstock for energy production.
+4) Pursue both resource and geographic diversity of the supply mix in order to 
+maximize the resilience of the energy sector.
+5) Develop an energy-for-export industry aimed at supplying the regional and other 
+foreign markets over the long term.
+6) Build a modern and robust electricity distribution infrastructure to foster greater 
+energy efficiency and resilience and provide infrastructural support for the 
+electricity-for-export industry.
+7) Nurture the crude oil industry as a for-export industry. 
+8) Put in place measures to maximize the production of non-crude oil products from 
+petroleum extraction activities. 
+9) Develop a local electricity micro-generation market where small producers, such as 
+individual households, communities, commercial establishments and even small 
+industrial participants, can sell electricity into local distributions systems and the 
+national grid. 
+10)Promote and support local participation in the energy supply industry in order to 
+build support for renewable energy initiatives, increase local input and control over
+the local petroleum industry, and generate employment and economic opportunities 
+locally. 11)Provide access to cleaner and more versatile energy carriers in rural areas and 
+populations living on the margins of the socio-economic fabric as part of broader 
+initiatives of the GOB and NGOs to improve the standard of living and productivity in 
+these areas.
+12)Promote the adoption of energy efficiency and conservation measures in energy 
+applications throughout all sectors of the economy.
+13)Promote the adoption of energy efficient equipment and devices throughout all 
+sectors of the economy.
+14)Institute a price on carbon in line with binding covenants such as the Kyoto Protocol 
+and in harmony with the evolution of the global carbon market.
+Energy Plans
+The team formulated three plans designed to follow the path directed by the strategies 
+introduced above. These plans are not optimal but are rather indicative and can serve as 
+starting points for further more optimal variations that can be explored in a future study 
+if so required.
+; An ‘end-use-centric’ plan that seeks to reduce demand via the least-cost mix of enduse efficiency and conservation measures without further development of any of our 
+renewable energy resources.
+; A ‘supply-centric’ plan that seeks to put in place the least-cost supply mix to meet all 
+our energy demands without concern for end-use efficiency or conservation.
+; A ‘comprehensive’ plan that uses both the least-cost mix of end-use efficiency and 
+conservation measures to minimize energy use, and the least-cost supply mix, with 
+further renewable energy development.
+Each plan was formulated to achieve the following measurable objectives, which are for 
+the most part derived directly from the strategies above:
+Plan Objectives 
+ Minimize the cost of energy use
+ Minimize the amount of GHG emissions
+ Maximize the renewability index (RI); that is, the percentage of indigenous 
+renewable energy in the total primary energy supply mix
+ Maximize production of energy from indigenous sources (Minimize dependence on 
+foreign energy sources) 
+ Maximize the diversity of the energy supply mix 
+ Maximize the use of electricity in the secondary energy supply mix Overview of Results – Plan Performance
+The table below gives the results of key aggregated performance indicators for the 
+various plans over the 30-year planning horizon. It should be borne in mind that these 
+plans are fairly conservative and do not take into consideration any possible gains from 
+energy exports or other spinoff effects on the energy sector or the wider economy or 
+society as a whole. 
+PERFORMANCE INDICATORS Baseline Plan Plan A Plan B Plan C
+Net Present Cost of Energy 
+Supply (USD)
+$3,206,418,586 $3,073,966,847 $2,961,116,791 $2,798,608,329
+Net Present Cost of 
+Emissions (USD)
+$468,891,516 $433,438,097 $414,976,848 $340,433,237
+Net Present Cost of Energy 
+Supply inc. Emissions (USD)
+$3,675,310,102 $3,507,404,944 $3,376,093,638 $3,139,041,565
+Total Foreign Oil and 
+Electricity Imports (BOE)
+17,226,531 15,449,375 15,161,820 12,106,393
+Average Dependence on 
+Foreign Imports
+68.72% 67.17% 55.78% 52.72%
+Average Renewability Index 28.57% 31.67% 40.1% 46.15%
+Average Resource Diversity 
+Index
+42.67% 38.52% 35.66% 33.7%
+Average Electricity as % of 
+Secondary Energy 
+Consumption
+16.74% 17.79% 17.45% 17.79%
+Table A: Comparison of Plans - Results of Key Aggregated Performance Indicators
+The results clearly show that all three alternative paths – Plan A, Plan B and Plan C – are 
+improvements on the ‘Continue-Business-As-Usual’ (Baseline) Plan.
+Plan C for instance would yield the following improvements over the Baseline Plan:
+ A 14.6% reduction in net present cost, which works out to nearly $57 million USD 
+per year or nearly 4% of GDP.
+ 30% reduction in foreign imports of fuel (including electricity imports).
+ Over 60% increase in use of renewable energy.
+ 21% increase in the diversity of energy supply sources.
+ Just over 6% increase in the permeation of electricity within the secondary energy 
+supply mix.
+Policy Recommendations
+The plans introduced above chart possible courses forward, given the data and 
+information on hand, that should enable us to realize our goals for Belize’s energy sector
+over the planning horizon. Plans, especially, of such a broad scope and which potentially 
+involve hundreds of projects distributed over a wide cross-section of the economy, can only be brought to fruition if proper policies are in place to stimulate, guide and 
+coordinate action.
+The policy recommendations highlighted below are intended to serve two main
+purposes: 
+; To support the plans formulated in the previous section or subsequent iterations of 
+or updates to these plans;
+; To generally administer and guide the development of Belize’s energy sector along 
+the path of efficiency, sustainability and resilience and towards meeting the goals and 
+supporting the strategies proposed in the previous chapter.
+It is important to note that these policies are in most cases co-dependent and mutuallyreinforcing; and so the effectiveness of any individual policy will largely depend on how 
+it fits into the entire portfolio of policies being put forward.
+Energy Planning
+; Establish a National Energy and Electricity Planning Institute
+ The NEP Team recommends that GOB set as its first and immediate priority the 
+establishment of a National Energy and Electricity Planning Institute (NEEPI), 
+with responsibility for formulating energy plans and policies in coordination with 
+relevant stakeholders, for disseminating these plans and policies to relevant 
+stakeholders (after the requisite approvals have been gotten), and for monitoring 
+and enforcing – where applicable – adherence to these plans and policies by the 
+bodies charged with administering them. 
+; Setup an Energy Sector Planning Framework
+ The NEP Team recommends that a robust standardized planning framework be 
+setup and adopted by the NEEPI to guide the process of formulating a least-cost 
+long-term plan(s) for the further development of Belize’s Energy Sector along the 
+path of sustainability and resilience. 
+Energy Sector Restructuring
+; Re-structure the Electricity Industry to cater for Clearer Lines of Responsibility 
+and to prepare for the Evolution of an Export Market as follows:
+ The center of the new structure will be the National Electricity Transmission 
+System (NETS); consisting of transmission and sub-transmission lines and cables, 
+transmission substations, and a National Electricity Control Center (NECC).
+ Each load center will be regarded as a Distribution Area (DA). DAs will be 
+connected to and purchase power and energy from the NETS via one or more connection points (substations) for on-selling to final consumers, or they may 
+supply energy from their own generation facilities if not connected to the NETS. 
+ One or more Single Large Consumers (SLCs), who require a separate and 
+exclusive high-voltage connection to the NETS, may also be directly connected to 
+and purchase power and energy from the NETS via one or more connection 
+points (substations). An SLC may be located outside of Belize’s national borders.
+ Generating stations or energy supply providers (ESPs) will be connected to and 
+sell power and energy to the NETS via one or more connection points. These ESPs
+will bid for and enter into contracts with the NETSO to provide power and energy 
+as required. An ESP may be located outside of Belize’s national borders.
+; Establish Roles and Responsibilities for Electricity Supply and Transmission 
+Planning 
+; Put in place framework for Leasing of Electricity Transmission Capacity and 
+Wheeling 
+; Put in place framework for Electricity Buyback between Distribution Area 
+Operator and Customer
+; Formulate and Implement a Regulatory Framework for Petroleum Fuel Supply 
+and Distribution
+ In order to prepare for a possible transition from a monopolistic to an 
+oligopolistic supply arrangement in petroleum fuel supply into Belize, given the 
+opportunity to take advantage of the Petro-Caribe offer an also the prospect of 
+introducing biofuels and blended fuels into the local market, Government should 
+set up a formal regulatory framework to regulate and preserve (the viability of 
+the) downstream fuels sector, including issuing licenses, setting and enforcing 
+quality standards and setting prices.
+ This responsibility for putting this regulatory framework into effect should be 
+assigned to the PUC, and a Director of Fuel Supply should be hired to work on 
+setting up the new regulatory framework.
+Indigenous Energy Supply
+Optimal Utilization Land and Natural Resource for Energy Supply
+; Enact Legislation to Vest Ownership of Natural Resources in People of Belize
+; Review and Revision of All Energy Supply Contracts that use the Natural 
+Resources of Belize to reflect the Provisions of the Policy Recommendation 
+Above
+ Particular attention is hereby drawn to one such clause that currently exists in 
+the contracts for the supply of hydropower from BECOL. This clause states that Fortis/BECOL has the right of first refusal for all contemplated hydro 
+developments along the Macal River and for that matter all other rivers of Belize, 
+and is clearly a contravention of the spirit of the proposed requirement that 
+ownership of Belize’s natural resources should at all times remain vested in the 
+People of Belize.
+Promote Local Content in Indigenous Energy Projects
+; Maximize Local Benefit from and Local Control of Undertakings that process 
+Belize’s Indigenous Resources 
+Renewable Energy Development
+; Commission Natural Resource Use Planning Study 
+ A natural resource inventory study should be commissioned under the direction 
+of the Ministry of Natural Resources in order to catalog the types, quantities and 
+locations of Belize’s natural resources both terrestrial and marine areas. The 
+results of this study should be documented in a database such as a GIS and used 
+to produce resource contour maps.
+; Conduct Inventory of Energy Production Potential of Natural Resources 
+o The following projects should be given special priority as part of the inventory 
+study:
+1) Country-wide Wind Speed Mapping Project 
+2) Country-wide Hydrological Data Collection and Monitoring Project
+3) Geological and Hydro-geological Inspection of the Most Promising Sites for 
+Future Utility-Scale Hydropower Development 
+; Conduct Pre-Feasibility Assessment of Implementing GSHP-based Cooling for 
+Buildings in Selected Urban Areas
+; Ensure Optimization of Indigenous Energy Conversion Processes
+ The pre-feasibility or feasibility study of any project that exploits our natural 
+resources should include an investigation into the expected output of the 
+resource site using best available technologies and optimum project parameters 
+compared with the expected output using the proposed technology and project 
+parameters, and also a benefit-cost analysis of the optimum versus the proposed 
+project. The results of the investigation and analysis should be reviewed by the 
+NEEPI in order to determine if the project as proposed should be approved, 
+assuming that it is feasible, or if an effort should be made to undertake a project 
+with parameters that are closer to those of the optimum project.  Renewable energy-based facility owners should be required to take the necessary 
+steps to improve the efficiency of energy conversion processes if found to be 
+below the currently-applicable required standard or benchmark. If a significant 
+new technology improvement has become commercially available after the initial 
+deployment of the project facility, the NEEPI will investigate the economic and 
+technical feasibility of upgrading the facility with the new technology, and if 
+found to be feasible, the facility owner will be required to upgrade the facility 
+with the new technology. 
+Facilitate Renewable Energy Development Process
+; Demarcate and Designate Renewable Energy Zones
+ These zones should be the best available sites for renewable energy development 
+with minimal environmental impact, and should be afforded the same 
+protections, under law, which are currently given to nature reserves.
+ Licenses should only be approved for renewable energy projects which are to be 
+developed within the renewable energy zones. Such a map will be useful as a 
+guide for potential investors who would normally have to spend an inordinate 
+amount of time doing investigative research.
+; Promulgate Best Practices for Renewable Energy Projects 
+; Setup facility to Provide Assistance to Potential Renewable Energy Developers
+ The NEEPI should setup a facility within its organization to provide full 
+assistance to potential renewable energy developers from project idea and 
+feasibility study, through acquiring the necessary financing, to final licensing by 
+the relevant authority. This facility will provide information on relevant policies 
+and the permitting process in general, give advice on best available sites for 
+renewable energy development, and expedite the acquiring of necessary permits 
+and licenses.
+; Introduce Transmission Network for Renewable Energy Development Credit 
+Incentive
+ In order to further encourage the development of renewable energy projects, 
+GOB should setup a Transmission Network Development Credit Incentive: giving 
+a fixed amount of tax credit (to the NETSO) for every mile of transmission 
+network that passes through any of the designated renewable energy zones. 
+; Introduce Annual Renewable Energy Portfolio Standards for Each Renewable 
+Energy Type
+; Introduce Annual Minimum Feed-In Tariffs for Each Renewable Energy Type
+Build Public Awareness and Acceptance of Renewable Energy Projects; Introduce Renewable Energy Technologies in School Curricula 
+; Setup Renewable Energy Projects for Demonstration and Educational Purposes 
+Manage impacts of Indigenous Energy Projects on Local Communities
+; Institute Measures to Mitigate Visual and Environmental Impacts of Renewable
+Energy Projects on Local Communities
+; Encourage Participation of Local Communities in Renewable Energy Projects 
+ Where a renewable energy project is to be sited within or near to a particular 
+community (or communities), then the project developer will be required to 
+source as much of its unskilled labor requirement as possible from the particular 
+community (or communities).
+ At least 10% of the ordinary shares of the business vehicle carrying the 
+renewable energy project should be made available to members of the local 
+community in which the project is sited.
+ At least 25% of the ordinary shares of the business vehicle carrying the 
+renewable energy project should be made available to citizens of Belize as a 
+whole.
+Indigenous Petroleum
+; Apportion Petroleum Royalties to Areas That Could Be Most Negatively 
+Affected by Petroleum Production-Related Activities
+ Government could build support for petroleum exploration and subsequent 
+production activities by pledging allocation of a portion of petroleum royalties for 
+use in areas that could be most negatively affected by petroleum-related 
+activities as follows:
+ When production occurs onshore or in lakes or rivers:
+a) 50% to be committed to the Government for financing projects and paying 
+obligations as it sees fit;
+b) 10% to the Ministry of Natural Resources and the Environment for 
+financing programs supporting scientific research, technology 
+development and capacity building applied to the petroleum industry;
+c) 10% to be allocated to a special Environmental Risk Management and Oil 
+Spill Mitigation Fund (ERMOSM) used for financing programs supporting 
+scientific research, technology development and capacity building applied 
+to environmental risk management and oil spill prevention and mitigation 
+activities;d) 15% to the Ministry of Tourism and the BTB for financing terrestrial 
+infrastructure and capacity building projects;
+e) 10% to be used for financing projects aimed in the district where the 
+production occurs;
+f) 5% to be used for financing projects in the municipalities where the 
+production occurs.
+ When production occurs offshore:
+a) 40% to be committed to the Government for financing projects and paying 
+obligations as it sees fit;
+b) 10% to the Ministry of Natural Resources for financing programs 
+supporting scientific research, technology development and capacity 
+building applied to the petroleum industry;
+c) 15% to be allocated to a special Environmental Risk Management and Oil 
+Spill Mitigation Fund (ERMOSM) used for financing programs supporting 
+scientific research, technology development and capacity building applied 
+to environmental risk management and oil spill prevention and mitigation 
+activities;
+d) 15% to the Ministry of Tourism and the BTB for financing marine 
+infrastructure and capacity building projects;
+e) 20% to be used for financing projects in the district or caye fronting the 
+area where the production occurs;
+; Earmark Local Crude Oil and its Products for International Markets
+ Locally-produced crude oil and any locally-refined oil products should be 
+earmarked for international markets, with the exception of crude oil, HFO and 
+diesel that can be used in the industrial sector. Promoting the sale of oil and oil 
+products locally could potentially cause policy conflicts with the NEP Team’s 
+recommendations for reducing dependence on fossil fuels in general.
+; Maximize Processing of Associated Gas of Crude Oil Extraction 
+ Government should commission the GPD to conduct a study of the potential for 
+further processing of the associated gas from Belize’s current petroleum 
+extraction operations into useful hydrocarbons (particularly for electricity 
+generation, transport, cooking and for use as a refrigerant fluid for cooling) using 
+best practice technologies and best available technologies, and to prepare a costbenefit analysis of the various options available.
+; Enact Legislation to ensure that Government Royalties should be tied to Full 
+Production Potential of the Petroleum Production Site  The calculation of the total royalties attributable to the GOB should be based on 
+the full production potential of the extracted petroleum resources using best 
+practice technologies applicable to the particular petroleum production site. Onsite usage and resource losses - such as flaring of associated gas - that exceed
+industry benchmarks applicable to the site, given its characteristics and the 
+nature of its operations, should be counted in this production potential.
+ Current legislation should be updated to reflect this principle.
+; Demarcate an Offshore No-Drill Zone with Barrier Reef as Center-line
+ An offshore no-drill zone should be demarcated to maintain the barrier reef and 
+cayes at a sufficiently “safe” distance from any offshore oil drilling rigs in order to 
+mitigate the visual impacts of oil rigs on the natural seascape in the area of the 
+barrier reef and cayes and to reduce the probability of the spread of effluent from 
+potential oil spills into these areas.
+; Formulate a National Petroleum Safety and Oil Spill Mitigation Standard
+ A National Petroleum Safety and Oil Spill Mitigation Standard should be 
+formulated to guide action to prevent and mitigate the impacts of oil spills, 
+accidents and other environmental disasters, and should reflect the latest postGulf of Mexico Oil Spill mandates put into effect by the USA. 
+; Form a National Petroleum Safety and Oil Spill Mitigation Authority
+ A National Petroleum Safety and Oil Spill Mitigation Authority should be setup 
+with responsibility for enforcing adherence by all operators to the National 
+Petroleum Safety and Oil Spill Mitigation Standard and for formulating, directing 
+and coordinating the Spill Mitigation and Containment Emergency Response 
+Plan.
+Biofuels
+; Pursue Biofuels Development within Broader National Development Context
+ Following in the footsteps of other developing countries, Belize should develop 
+its biofuels industry to contribute to larger environmental and social objectives 
+such as rural development, land rehabilitation and waste treatment apart from 
+GHG emissions reduction.
+ Biofuels development initiatives that target the use of semi-arid soils and other 
+marginal lands should be promoted to enhance biodiversity, revitalize natural 
+ecosystems, support the development of rural populations in poorer regions, and 
+hence maximize the efficiency of the utilization of our natural resources.
+; Promulgate National Biofuel Product Standards As a first step toward creating a viable market for biofuels in Belize, the NEEPI 
+should prepare a set of biofuel standards for the major classes of biofuels, bioethanol and bio-diesel, as well as standards for feedstock inputs into biofuel 
+production.
+ The development of these standards should be guided by international and 
+regional standards such as those currently being prepared by the ISO.
+; Develop the Biofuels Industry along the lines of the Most Efficient Bio-Energy 
+Chains
+ In keeping with long-term energy supply development plans, the Government 
+should focus on using biomass residues, including bagasse and other agricultural 
+and forestry wastes (except wood fuel), for electricity generation, sugar cane for 
+ethanol production, and jatropha, other local oil-producing plants and , in the 
+future, alga-culture for biodiesel production.
+ Ethanol production should be focused on supplying the local blended fuel market, 
+for use in the transesterification process of local biodiesel production, and for 
+export to the USA and Europe. Given our comparative advantages in biomassbased electricity generation and biodiesel production, these bio-energy chains 
+should be optimized for sufficing local requirements and for export.
+; Promulgate Biofuel Production Technologies that cater to Multiple Feedstocks 
+and Small Scale Deployment
+; Conduct a Cost-Benefit Analysis of Upgrading BSI’s Refinery Infrastructure for 
+Dual Sugar/Ethanol Production
+; Promote Local Biofuels Research
+ The Government should actively promote and support research into ways to 
+improve the productivity and sustainability of biofuel feedstocks: by seeking 
+improved yields from conventional feedstocks through better agricultural and 
+forestry practices, by exploring the potential for cultivation of native perennial 
+lingo-cellulosic crops (e.g. jatropha) throughout the districts, and by developing
+breeding programs for higher-yielding species and novel energy crops, such as 
+algae.
+ Belize, through the Ministry of Agriculture, UB and the TSDF, is already party to a 
+2009 Memorandum of Understanding signed with Mexico, the rest of Central 
+America, Colombia, and the Dominican Republic for further collaboration and 
+research in the biofuels field. The GOB is strongly encouraged to use this platform 
+as a launch pad to start up an International Biofuels Research Center within the 
+University of Belize, in conjunction with the National Coordination Committee for 
+Agricultural Research and Development (NCCARD), to attract the inflow of international funding, best available technologies and technical expertise into 
+Belize.
+; Seek Technical Assistance for Biofuels Industry Development from Industry 
+Leaders, particularly Brazil and the USA
+; Encourage Public-Private Investment Partnerships to support Smallholder 
+Participation in Biofuel Value Chains 
+ The GOB should encourage public-private sector investment partnerships in the 
+commercial scale production of biofuels in order to facilitate smallholder 
+participation as much as possible in biofuel value chains. This may be mandated 
+by requiring that say 20% of the shareholdings in such partnerships are open to 
+take up by such smallholders.
+; Introduce Annual Renewable Fuel Standards for Each Biofuel Type
+; Introduce Annual Minimum Feed-In Tariffs for Each Biofuel Type
+Micro-Generation
+; Commission Study on Impacts of Micro-Generation on Grid Electricity Supply 
+Operation, Reliability and Cost 
+; Establish Formal Energy Buyback Pricing and Payment Scheme for MicroGeneration
+ The NEP Team recommends the adoption of two pricing schemes for energy 
+buyback from micro-generation sources:
+ Micro-generation from residential premises that have a maximum power output 
+up to 200 KW should be priced on the basis of a basic net metering-based energy 
+buyback scheme.
+ Pricing for micro-generation from sources with a maximum power output above 
+200 KW should be based on a gross metering (two-meter) arrangement, where 
+the total quantity of energy exported can be tracked separately. 
+; Formulate Interconnection Standards for Micro-Generation Sources
+; Establish Energy Buyback Rules
+ The NEP Team recommends that the PUC draft and, after consultations with the 
+relevant energy stakeholders, implement Energy Buyback Rules to underpin 
+agreements for energy buyback between electricity providers and microgenerators and that are based on the following principles:
+Energy Imports and Exports
+Electricity Imports; Investigate the Technical and Economic Feasibility of Upgrading the 
+Interconnection with Mexico
+ BEL is currently unable to take more than 50 MW of power from Mexico without 
+experiencing voltage regulation problems at certain load center bus bars. CFE has 
+indicated that it is prepared to supply up to 60 MW to Belize as long as certain 
+power flow conditions are met.
+ The NEP Team recommends that BEL urgently look into the technical and 
+economic feasibility of making the necessary transmission system upgrades to 
+overcome these problems so that full advantage can be taken of the supply from 
+CFE.
+; Limit Maximum Amount of Total Foreign Electricity Imports
+; Limit Maximum Term of Contracts for the Import of Electricity
+Electricity Exports
+; Seek Membership or Direct Involvement in SIEPAC
+ BEL and the GOB should vigorously pursue membership or direct involvement in 
+SIEPAC as a long term measure in order to enhance the security of electricity 
+supply but more importantly to be in a position to sell energy to the SIEPAC 
+market in the future. 
+ In the short-term, access to the SIEPAC market can be arranged by supplying 
+excess energy to Mexico and/or Guatemala. The GOB and BEL should immediately 
+pursue this opportunity by writing a formal letter to CFE asking if this 
+arrangement (with Mexico) can be setup. This action is critical to the 
+development of an electricity-for-export industry.
+; Limit Participation in Contracts to export Electricity to ESPs only
+ Only authorized ESPs should be allowed to enter into contracts with foreign 
+entities to export electricity. The authorization to enter into such contracts should 
+be conferred as a special provision of the terms and conditions of the license of 
+the particular ESP at the request of the ESP and must be approved by the GOB 
+acting on the advice of both the NEEPI and the PUC.
+ All other non-authorized ESPs and all DAOs and SLCs should be expressly 
+excluded from participating in such contracts with foreign entities to export 
+electricity. The NETSO can be a party to such a contract only to extent that it is 
+required to provide facilities for transmission of the power and associated energy 
+from the ESP to the connection point with the foreign entity.
+Energy Distribution Infrastructure & PricingTransmission & Distribution Lines
+; Revise Transmission Line Construction and O&M Standards in anticipation of 
+and in preparation for further connection of the NETS with regional electricity 
+transmission networks to accommodate electricity importation and 
+exportation transactions with regional partners
+; Formulate plans for the Transition to a Smart Grid Electricity System in order 
+to facilitate and foster grid connection of utility-scaled renewable energy 
+sources such as wind and solar energy plants and micro-generation sources in 
+general
+; Prepare an Updated Transmission Grid Code to accommodate Variable Power 
+and Micro-Generation Sources
+Rural Electrification
+; Demarcate and Declare Rural or Low-Energy Density Distribution Areas 
+(ROLEDA)
+ Once an area is so declared, it is subject to rural standards for energy supply and 
+distribution; and is eligible for certain special funding, subsidies and tariffs 
+applicable to ROLEDAs.
+; Formulate Separate Rural Electricity Distribution Standards, which minimize 
+the cost of construction while maintaining adequate service reliability 
+concomitant with the purposes of electricity use in ROLEDAs
+; Setup a Special Rural Electricity Pricing Mechanism
+; Influence pattern of development of Rural Energy Services to maximize use of 
+renewable energy-based community-managed distributed generation sources
+Electricity Pricing
+; Conduct a study should be undertaken to derive formulae, and to develop a 
+software tool that uses the formulae, for calculating the LRMC and the SRMC of 
+electricity supply. 
+; Implement a New Consumer Electricity Tariff-Setting Methodology 
+ A study should be undertaken to investigate and assess the current electricity 
+tariff-setting methodology employed by the PUC and to come up with a new 
+methodology that removes price distortions and that reflects key pricing 
+principles, including cost reflexivity, revenue adequacy, stability, flexibility and 
+transparency.
+; Introduce Special Electricity Tariffs for SLCs Electricity tariffs charged to SLCs, who are connected directly to the NETS, should 
+only bear their share of costs related to energy supply, transmission and 
+connection to the NETS, and should not bear any distribution-related costs. 
+ Likewise, high-voltage consumers who are connected directly to the high-voltage 
+distribution network of the DA in which they are located should only bear their 
+share of costs related to energy supply, transmission, high-voltage distribution, 
+and connection to the high-voltage network, and should not bear any low voltage 
+distribution-related costs.
+; Introduce a Two-Part Electricity Tariff for All Consumers
+ In keeping with the principles of transparency and revenue adequacy in tariffsetting, a two-part electricity tariff, consisting of a periodic fixed charge and a 
+volumetric energy charge, should be applied to all customers. The periodic fixed 
+charge should reflect the provider’s fixed costs, while the volumetric energy 
+charge is the cost of energy. 
+; Introduce a Time-of-Use Electricity Tariff for Major Electricity Consumers 
+; Introduce a Seasonal Electricity Tariff for Major Consumers
+ BEL’s cost of energy supply is higher during the “dry season” because of reduced 
+output from the hydro plants and BELCOGEN, which are currently its lowest cost 
+energy supply sources, resulting in greater dependence on supply from electricity 
+imports and diesel generation.
+ Due consideration should be given to implementing a seasonal electricity tariff 
+schedule - comprising a relatively lower energy charge for electricity during the 
+“wet season” and a relatively higher energy charge during the “dry season” –
+initially for customers who consume electricity above a certain threshold level
+and later for all consumers. This would have the effect of communicating the 
+correct price signal to such consumers; who could change their consumption 
+habits in step with the energy charges. It could also provide a steadier stream of 
+cash flows into BEL.
+; Remove Rate Stabilization for High-Consumption Customer Accounts
+ Rate stabilization should not be applicable to customers who consume electricity 
+above a certain threshold level – particularly SLCs, high-voltage, commercial and 
+industrial customers – and who can therefore have a significant impact on overall 
+cost borne by other consumers if they suddenly close their electricity accounts. 
+Moreover, this is the class of consumers that is best able to respond – and whose 
+response yields the most significant economic impacts - to the correct price 
+signals that tend to be distorted by rate stabilization mechanisms. 
+; Commission a study of the impact of rate stabilization on electricity prices and 
+consequent consumer behavior should be commissioned with a view to determining if rate stabilization, as currently implemented, is efficacious; and 
+to consider alternative methodologies for effecting rate stabilization. 
+Fuel Industry Regulation & Pricing
+; Re-evaluate Belize’s Future with Petro-Caribe 
+ Regardless of any ulterior motives on the part of Venezuela, Belize can benefit 
+significantly from the low cost financing terms offered under the Petro-Caribe 
+Agreement: gaining nearly $15,000,000 USD per year if all our gasoline and diesel 
+requirements are supplied from Venezuela. 
+ Petro-Caribe represents an opportunity for Belize to gain substantial revenues 
+from favorable financing terms, diversify its imported petroleum fuel supply 
+sources, and establish a significant relationship with an important petroleumrich regional partner.
+ Government should revitalize this now defunct arrangement on the conditions 
+that GOB is completely satisfied that the supply from Venezuela will be reliable 
+and that importers can make their own shipping arrangements in order that the 
+costs of freight and insurance can be sufficiently reduced so that the benefits 
+obtained from the low cost financing are not negated.
+ Once the arrangement has been revived, a portion of the gains from the favorable 
+financing terms made available to the Government should be used to offset the 
+per-unit CIF cost differential, if any, between the supply from Petro-Caribe and 
+the traditional supply from Esso on a month-by-month basis, in order to equalize 
+the CIF cost borne by the various importers in each month.
+; Establish a Temporary Methodology for the Stabilization and Rationalization 
+of Fuel Prices 
+ In keeping with the principle of stability, transparency and simplicity, fuel prices 
+should in the meantime and pending the outcome of a Fuel Price-Setting 
+Methodology Study be fixed on a month by month basis (from the 1st day through 
+to the last day of the month). The price for the next month should be based on the 
+average CIF cost of all fuel received over the last 10 days of the previous month 
+and the first 20 or 21 days of the current month, and should be advertised at least 
+five days before the start of the next month. Importers should be required to 
+standardize order amounts as much as possible.
+ Given the relatively small cost of transportation as a percentage of total fuel 
+price, a country-wide standard transportation charge should be introduced to 
+cover the cost of transportation. While transportation companies will still be 
+remunerated according to the current schedule of charges, final consumers will 
+see one fixed charge regardless of where fuel is purchased.; Implement a New Refined Petroleum Products, Biofuels and Fuel Blends PriceSetting Methodology 
+ A study should be undertaken to investigate and assess the current refined 
+petroleum products price-setting methodology employed by the GOB and to 
+come up with a new methodology that also provides for pricing of biofuels and 
+fuel blends, removes price distortions and that reflects key pricing principles, 
+including cost reflexivity, revenue adequacy, stability, flexibility and 
+transparency.
+Internalization of the Costs of GHG Emissions and Other Pollutants
+; Implement GHG Pricing in Local Economy 
+ Government should, through its membership on regional and international 
+bodies and participation in regional and international forums, vigorously lobby 
+for agreement on adopting a fair and consistent global carbon pricing regime, 
+that is implemented incrementally so as to give less developed countries 
+sufficient time to make required adjustments, and where developing countries 
+are required to pay a proportionate part of the cost of making these adjustments.
+ In the meantime, Belize must begin the process of preparing our local economy 
+for the inevitability of the adoption – or imposition – of this global carbon pricing 
+regime in a way that does not cause undesirable distortions and without putting 
+our export-oriented industries at a disadvantage to other countries - especially 
+direct competitors - that are slower to introduce a carbon-pricing regime. We 
+recommend three complementary courses of action:
+o Setting up of a pilot baseline-and-credit regime with the following parameters:
+1) This pilot should be regarded as a test run for a possible future regime and 
+should therefore cause no financial or economic consequences on the 
+companies involved. The main objective is to develop the institutional 
+structures required, to instill the required institutional discipline in the 
+administrators and participants for measuring, reporting and verifying 
+relevant emissions data, to get the actors accustomed to operating –
+particularly trading credits - within the new regime, and to document the 
+actual trends in carbon intensity.
+2) A baseline should be set for each industry/sector – on an annual basis -
+according to regional benchmarks and historical trends. 
+3) It should be setup with no formal ties to any other global, regional or 
+otherwise extra-national carbon emissions reduction regimes. It should 
+initially cover only the major GHG-emitting sectors including electricity, 
+petroleum, transportation, and major industries.o Implementing a carbon tax on petroleum and other fossil fuels used in transport 
+and for electricity generation. 
+1) The level of such a carbon tax should be dictated by the global GHG emissions 
+market price. The main focus of the tax at this juncture is to curb domestic 
+consumption from – and hence production of - products with a relatively 
+higher carbon footprint to products with a relatively lower carbon footprint.
+2) The tax must be accompanied by an appropriate rebate for all export-oriented 
+industries in order to ensure that the competitiveness of our exports is not 
+adversely affected by the additional cost (tax burden).
+3) It is not to be used as a revenue generator for government, but as an economic 
+price signal: the proceeds, less the rebates, are therefore to be re-distributed 
+back to tax-payers – particularly the lower income classes - in the form of a 
+lower income tax or subsidy. Redistributing the carbon tax proceeds as a flat 
+dividend (e.g. x dollars per person or household) will diminish the negative
+income distribution effect of the tax on lower-income classes.
+o Belize must continue to take advantage of the CDM and any other beneficial 
+opportunities for obtaining carbon finance for undertaking economically feasible 
+renewable and energy efficiency projects. Aside from the institutional structures 
+being put in place to prepare us for an impending global carbon regime, the CDM 
+should, at this time, be used solely as a source of low-cost finance and subsidies 
+for eligible RE and EE projects; and not as a framework directly dictating any
+national or sectoral strategy.
+; Evaluate Cost of Impacts of Non-GHG Pollutants on Belize’s Economy
+Energy Supply Resilience
+; Establish Strategic Petroleum Stock Levels for all refined fuel types at the 
+national level and at each major population center level to better manage the 
+uncertainty of supply and the price volatility of petroleum imports and to 
+protect against extended disruptions of fuel supply due to disasters
+; Establish Requirement for Geographic Diversity of Electricity Supply Sources
+in evaluation criteria of RFPs for electricity supply 
+; Build Resilience into the National Electricity Supply Network by developing a 
+smart grid overlay of the national electricity system in order to mitigate 
+disruptions of electricity supply
+; Setup standards to ensure that Power Lines, Wind Turbines and Solar Panels
+are built and installed to withstand Extreme Weather Conditions
+; Setup a Self-Insurance Scheme of the National Electricity Supply Network 
+against Potential Loss from Natural and Other DisastersFinancing for Indigenous Energy Development
+Our analyses of the various energy supply options – wind power, solar PV, hydro, 
+biomass, biofuels, solar thermal energy for water heating, GSHP for cooling and heating
+– have shown that, based on the project economics alone and without taking potential 
+carbon savings into account, almost all of these renewable energy forms are ready for 
+deployment in Belize. There is no need therefore for any preferential above-market 
+price incentives to be given to any renewable energy development projects, 
+except perhaps for PV and offshore wind. What is needed are supporting frameworks 
+and financing mechanisms that cater to the unique characteristics of such renewable 
+energy investments, namely: more costly feasibility and siting studies, high upfront 
+capital costs, output variability, and carbon savings.
+; Sponsor country-scoped studies to gauge the energy production potential of 
+our natural resources (wind, hydro, geothermal, biomass, biofuel etc) and
+prepare resource potential maps so as to defray costs that individual project 
+developers would have had to bear on their own if they had to search for 
+optimum areas for renewable energy development from scratch. This is also 
+important for securing the necessary financing:
+ These studies should also include undertaking pilot/demonstration projects for 
+technologies that have not so far been deployed on a commercial scale in Belize 
+to gain a better understanding of the particular challenges that could be faced 
+when deploying and operating plants based on such technologies under local 
+conditions.
+; Provide non-traditional innovative financing mechanisms for RE developers 
+that incorporate flexibility in repayment schedules or government guarantees 
+to bridge the gap between the fixed repayment commitments and varying
+energy revenues
+; Use revenues derived from redeeming CERs earned through participation in 
+the CDM and other GHG reduction programs to offset operational expenditures 
+and debt servicing costs. 
+; Set up a Green Investment Bank is to vest the decision-making process for 
+financing renewable energy projects and the expertise for making such 
+decisions in a single entity
+ Through this arrangement, Government will also be able to implement innovative 
+financing models such as packaging smaller projects into one proposition for 
+greater management efficiency and taking advantage of special financing streams 
+such as programmatic CDM; streamline and provide better oversight and control 
+of the renewable energy project financing process; and attract and aggregate 
+equity and debt capital from various sources into one pool. Importantly, one such source (of capital) could be the local populace: thus providing yet another avenue 
+for them to participate in the new renewable energy economy.
+; Bolster the Green Bank’s mission by providing interest rate and other 
+subsidies for initial feasibility and siting studies and mandating special 
+financial incentives (FITs, PTCs etc) for early demonstration of nearcommercial technologies. 
+Energy Efficiency and Conservation
+; Incorporate planning for energy efficiency beyond the energy sector and at the 
+very highest levels of national strategy formulation by avoiding the building of 
+unnecessary energy loads into long-lived assets and hence our way of life
+ The macro-level energy efficiency impact – that is, the effect of a project on the 
+energy efficiency of the nation as a whole - should therefore be a fundamental 
+criterion and determinant in all major economic investment decisions. Planning
+; Establish Requirement of Cost Neutrality of Imposed Efficiency Standards
+ That is, the projected energy savings resulting from energy efficiency upgrades 
+should as a minimum cover the estimated incremental cost of the upgrade plus 
+any associated incremental costs of O&M on a net present value basis measured 
+over the lifetime of the upgrade. 
+; Limit Total Financial Incentives & Penalties Applicable to Energy Efficiency 
+Projects
+ The policy planning process must therefore ensure that the total 
+financial/economic incentives that can be applied to a specific project for 
+achieving a particular EE target do not exceed the total net energy savings that 
+can be gained from achieving the target. 
+Transportation
+Instigate change-over to More Energy-Efficient and EnvironmentallyFriendly Vehicles and Modes of Transport
+; Adopt Vehicle Average Fuel Economy (VAFE) Standards
+ The NEEPI should each year prepare the Recommended and Minimum VAFE
+Standards (miles per gallon or miles per KWh for EVs) for brand-new vehicles 
+classified by class – for example, light-duty pickup trucks or large buses - and fuel 
+type. The VAFE for mass transport vehicles should be expressed in person-miles per 
+gallon.; Require that Permission for Vehicle Importation and Vehicle Licensing be tied 
+to the Minimum VAFE Standard 
+; Introduce Cash-for-Scrap Program 
+ Once permission to license a vehicle is denied on the basis of its assessed fuel 
+economy, then the owner of the vehicle would be eligible to receive a cash rebate
+in return for scrapping the vehicle. 
+; Require that Vehicle Import Duties and Vehicle Licensing Fees be tied to the 
+Recommended VAFE Standard
+; Promote VAFE Standards to Lending Institutions for Inclusion in criteria for 
+Approval of Vehicle Loans
+; Commission Research into Use of Biofuels and Fuel Blends as Alternative 
+Vehicle Fuels
+; Launch a Country-wide Campaign to promote the Benefits of Walking, Cycling, 
+Carpooling and Mass Transport
+; Do Study on Urban and Interurban Mass Transport System in Belize to 
+determine Required Service Standards, Required Service Infrastructure, Costs 
+and Pricing Policies
+Build Driver Awareness of Factors influencing Vehicle Efficiency
+; Revise Driver Licensing Examination Content and Other Requirements
+; Prepare and Disseminate Vehicle Fuel Efficiency Handbook
+; Implement a Smart Driver Training Workshop for Heavy-Duty and Mass 
+Transport Vehicle Drivers
+; Implement a Smart Fleet Manager Training Workshop
+Influence Behavior towards More Efficient Vehicle Operations and 
+Maintenance Practices
+; Launch an EE in Transport Rating Program underpinned by Mandatory Audits 
+of Mass Transport and Freight Carriers Companies
+; Revise Pre-requirements for Vehicle Licensing
+ The pre-requirements for vehicle licensing should be upgraded to include a prerequirement that the condition of the vehicle assessed at the time of the licensing –
+such as condition of lube oil and tires (rolling resistance) – as it affects the overall 
+fuel economy of the vehicle should meet minimum acceptability levels.
+; Enforce Vehicle Speed Limits on Highways for all vehicles including mass 
+transport buses by instituting highway traffic patrols on the major highwaysBuild Mobile Efficiency into Urban Plans
+; Restrict Heavy Vehicle Traffic through Urban Areas
+; Reduce Traffic Congestion within Belize City and along the Main Routes leading 
+into Belize City during Rush Hours
+ Investigate various options for reducing traffic congestion within Belize City itself 
+and along the main routes leading into Belize City during rush hours. Some of 
+these options could be:
+1) Converting the main highways and arteries into Belize City into four-lane 
+routes (two-lanes in each direction) with each of the incoming lanes joining a 
+different main street within Belize City.
+2) Setting up a tolling system for incoming traffic along the Northern Highway 
+Entrance. The toll fee should vary by time of day – higher during rush hours -
+and should not be applicable to mass transport vehicles. Eventually, this 
+tolling system can be upgraded to enable electronic operation, where 
+electronic sensors installed at the tolling booth identify a vehicle and 
+automatically charge the owner’s credit or debit card.
+3) Carving out or reclaiming (from the seashore) a right-of-way going 
+completely around Belize City’s shoreline to be used for a free way that 
+segues from the main highways and arteries, before their entrance into Belize 
+City proper, and joins into its main streets along the circular route. The rightof-way should also provide for large-scale parking space along the shoreline
+outside of the central Belize City areas. 
+4) Building an Urban Electric Tram Transport System through Belize City and 
+concomitantly banning vehicle traffic along the tram routes. 
+5) Building motor-cycle and bicycle paths along with pedestrian walkways along 
+tram routes to encourage less energy-intensive and healthier forms of 
+mobility.
+Buildings, Lighting & Cooling
+Stimulate (consumer) investment in energy efficient homes and 
+buildings
+; Update Building Codes to reflect Mandatory Energy Efficiency Provisions
+; Establish a Mandatory Green Building Certification Program for Domestic and 
+Commercial Buildings to encourage a shift towards low-carbon, zero-energy or 
+even energy-plus buildings. The certification rating awarded could be based on a building’s score in a number 
+of categories, including: provision for day-lighting and natural light sensors in 
+lighting systems, incorporation of occupancy sensors in lighting systems, use of 
+solar lighting technologies, provisions for passive cooling using natural 
+ventilation, provision of energy-efficient window glazing and frames, insulation 
+of roofs and walls, air-tightness of the building envelope, provisions for use of 
+geothermal cooling and solar cooling technologies, provisions for use of solar 
+water heating technologies, use of indigenous materials, adequacy of internal 
+electrical wiring, provisions for water conservation, and proximity to urban 
+centers. 
+; Require New Government Buildings to be Zero-Energy or Energy-Plus 
+Buildings
+; Promote Green Building Certification to Lending Institutions as a part of 
+Lending Criteria for Home and Commercial Building Mortgages
+; Require that Property and Property Sale Taxes be tied to Green Building 
+Certification Rating 
+; Introduce a Voluntary Energy Efficiency Improvement Program for 
+Commercial & Services Sector
+ This program will entail conducting energy audits of the facilities and buildings 
+each of the participating companies to be conducted every two years. These 
+audits should cover mainly lighting, cooling and heating systems with a view to 
+detecting inefficient components and systems and system leakages, evaluating 
+maintenance practices, and seeking opportunities for renewable and recoverable 
+energy use.
+; Encourage Provision for Vents in Rural Households where Wood Fuel Cooking
+is done
+Stimulate (consumer) investment in energy efficient appliances
+; Implement a Country-wide Project to Change-over from Electric Incandescent 
+to Solar and Electric Fluorescent and LED Lamps
+; Implement a Country-wide Project to Change-over to Hybrid Solar-Electric 
+Street Lights
+; Lower Import Duties on Solar and Electric Fluorescent and LED Lamps relative 
+to Incandescent Lamps
+; Introduce Energy Labeling of Appliances
+ The intention is to increase consumer’s awareness of the real energy use of 
+household appliances at the point of purchase through a liable and clear labeling.; Introduce Recommended and Minimum Appliance Energy Efficiency Standards 
+; Require that Appliance Import Duties be tied to the Recommended Appliance 
+Efficiency Standard
+; Require that Permission for Appliance Importation be tied to the Minimum 
+Appliance Energy Efficiency Standard 
+; Rationalize Import Duties on Solar and Geothermal Cooling and Heating 
+Equipment relative to Electric Air-conditioners and Water Heaters
+; Require Mandatory Use of Solar Water Heaters
+ Government should mandate that all water heating used in residential and 
+commercial buildings should be provided by solar technology. The importation of 
+electric-only water heaters should be halted immediately.
+; Setup Program to Replace Traditional Wood Stoves with New Improved Wood
+Stoves for Cooking and Water Heating
+; Set up of a National Laboratory for Testing of Appliance and Equipment Energy 
+Performance
+Influence Consumer End-Use Energy Consumption Patterns
+; Initiate a Country-wide Campaign to Install Occupancy Sensors in Government 
+Office Buildings, Commercial Buildings and Hotels
+; Initiate a Country-wide Campaign to Install Natural Light Sensors in 
+Government Office Buildings, Commercial Buildings and Hotels
+; Encourage Use of Energy Monitors in High Energy Consumption Residential 
+and Commercial Buildings
+; Prepare and Disseminate a Residential and Commercial Energy Efficiency 
+Handbook and Website
+Industry
+; Encourage Participation in Voluntary Certification Programs for Energy 
+Efficiency Improvement 
+; Introduce Voluntary Target-Setting Agreements for Energy Efficiency 
+Improvements
+ The GOB should setup a Voluntary Energy Efficiency Improvement Program
+whereby an individual industrial company can voluntarily enter into an 
+agreement with the GOB to achieve certain energy efficiency targets within a 
+certain time frame, in return for receiving technical and financial support and 
+other economic incentives such as tax breaks and import duty reductions. BSI/BELCOGEN is currently Belize’s single largest consumer of energy, and the 
+single largest producer of energy. This company must therefore be singled out for 
+special immediate attention for energy efficiency improvements, and should be 
+required to enroll in the Efficiency Improvement Program.
+; Implement Mandatory Energy Audits that are tied to Licenses, Concessions and 
+Other Economic Incentives 
+ The GOB should mandate that all companies operating within certain highpriority industries, and that are not engaged in its Voluntary Energy Efficiency 
+Improvement Program, be required to undergo regular energy audits as a 
+condition of their license to operate or for the continued receipt of other 
+economic incentives and concessionary benefits.
+; Place a High Priority on Exploitation of Opportunities for Waste Heat Recovery 
+and Waste Reuse as Feedstock 
+; Require that Energy Manager/Coordinator Position be setup within Certain 
+Industrial Companies 
+; Foster a Corporate Culture focused on Energy Efficiency
+; Establish a Leadership in Energy Efficiency Recognition Program
+ An annual recognition program should be launched to honor the top-performing 
+companies and executives who had a transformational impact on energy 
+efficiency improvement in their enterprise or in Belize as a whole.
+Agriculture & Forestry
+; Launch a Renewable Energy for Agriculture Program 
+ The GOB should launch a Renewable Energy for Agriculture Program to encourage 
+the use of renewable energy technologies in farms and agro-processing: including 
+solar crop dryers; solar water heating for dairy operations and pen and 
+equipment cleaning; solar PV solutions for small motors, lighting and water 
+pumping, especially in remote off-grid farms; and wind-pumping solutions for 
+irrigating agricultural fields with surface water and pasturelands from 
+underground aquifers.
+; Support Local Research of and Education of Farmers in Low-Energy 
+Agricultural Practices in order to wean the modern agricultural production 
+systems off their heavy dependence on fossil fuels for energy, fertilizers and 
+pest management
+; Measure Biomass Production Potential of Forestry, Agro-Processing and 
+Industrial Activities  This study should also classify these biomass-producing sites by output potential, 
+determine the locations of these sites and come up with more precise costs for 
+collecting biomass from dispersed locations to central locations. 
+; Commission a Cost-Benefit Analysis of Commercialization of Dried Fuelwood 
+Processing and Distribution 
+ The GOB should commission a study into the commercial arrangements that can 
+be implemented to collect and deliver wood to a central facility for proper drying 
+and controlled distribution in the communities that are dependent on its use for 
+cooking and water heating.
+Education and Information Dissemination
+; Ensure that Government plays a Visible Leadership Role in Promulgating 
+Policies issued by NEEPI 
+; Disseminate Success Stories to Gain Support for and Encourage Participation in 
+Programs
+ Successful outcomes of programs as whole, especially voluntary programs, and of 
+individual instances should be publicized so as to gain support for and encourage 
+participation in programs. 
+Capacity Building
+; Build Strong Technical and Scientific Education Foundation to support Local 
+Energy Development
+Financing for Energy Efficiency and Recoverable Energy 
+Projects
+Government Programs
+; Provide full subsidies for initial energy audits particularly for larger 
+commercial and industrial EE projects on the condition that, once these 
+companies are made aware of the potential for savings and hence for 
+increasing profits, they should find ways to access the capital needed for the 
+upfront investment.
+; Provide residential consumers or even smaller commercial consumers with 
+free technical assessments of the retrofits needed to upgrade the buildings 
+they own in order to meet the minimum GBC rating
+Financial Institutions; Encourage lending institutions to factor energy cost savings into interest rates 
+(to reduce them) and building worth valuations (to increase them), and to 
+formulate and promote mortgage packages with clear links to GBC levels
+; Provide a GOB guarantee for the energy efficiency portion of the loans on the 
+condition that this guarantee is also factored into the overall mortgage interest 
+rate for the particular loan application
+ESCOs
+; Put in Place Institutional and Legal Framework to Foster the Development of 
+ESCOs in Belize
+; Encourage the Use of Programmatic CDM Financing for ESCOs
+ Programmatic CDM allows for a single entity to manage and coordinate a number 
+of smaller CDM-eligible projects under a single program manager. ESCOs should 
+be encouraged to consider signing up as CDM program managers in order to take 
+advantage of carbon credits earnable by EE projects included as part of a 
+registered CDM program that otherwise could not be cost-effectively earned by 
+the project owner on his own. The CERs earned may be used to help finance the 
+initial investments needed for the EE projects, resulting in further benefits for 
+both ESCO and participant. 
+Implementation Plan
+A National Database of Energy Data and Information
+The number one priority of the NEEPI must be to develop a vast compendium of 
+continuously-updated data and technical knowledge that form the basis of an energyeconomic model and that can be fed into a computer-based tool – whether a basic homegrown spreadsheet tool or a more advanced analytical framework such as NEMS (EIA) 
+or SIEN (OLADE) or LEAP that is then used to analyze the impact of energy policy 
+proposals on key economic performance areas.
+The resultant energy information system should also be used to produce energy 
+intelligence and reports for dissemination to the various industries and other energy 
+stakeholders.
+An Organizational Structure to Move Us Forward
+The collection, compilation, collation and updating of this data; the subsequent analyses 
+of the data; the derivation of plans and policy proposals from the results of these 
+analyses; and the assessment of the impact of proposed plans and policies on other
+sectors of Belize’s economy require a concerted, focused and consistent effort. In our view, such an effort can best be channeled and managed through a National Energy and 
+Electricity Planning Institute (NEEPI).
+TOR of NEEPI
+The NEEPI should be charged with the responsibility for formulating energy plans and 
+policies in coordination with relevant stakeholders, for disseminating these plans and 
+policies to relevant stakeholders (after the requisite approvals have been gotten), for 
+monitoring adherence to these plans and policies through the bodies charged with 
+administering them, and for providing information feedback to stakeholders.
+NEEPI Outputs
+The major outputs of the NEEPI should be the following:
+; Policy proposals
+; Energy plans on which the policy proposals are based
+; Annual energy reports, similar to the Annual Energy Outlook produced by the US DOE
+; Quarterly energy reports, following the same format as the annual energy report
+; Aggregate energy statistics by sector
+Relationship with Government and Other Organizations
+The NEEPI should be setup as an autonomous statutory body under the auspices of the 
+Ministry of Public Utilities or the Ministry of Natural Resources or a new Ministry of 
+Energy. The NEEPI should not directly report to any particular Ministry or other 
+Government department. Government exerts its control over the direction of the NEEPI 
+through the representatives it appoints on the NEEPI’s board and, more importantly, 
+through Government’s stated national priorities and objectives, which the NEEPI should 
+be bound to follow. 
+Proposed Technical Organizational Structure
+The technical responsibilities of the NEEPI should be assigned to units on the basis of 
+area of energy supply or consumption sector: upstream petroleum, agriculture and 
+upstream biofuels, transport (which would include downstream petroleum fuels and 
+biofuels), renewable electricity, buildings, and industry (including agro-processing). 
+Technical responsibilities assigned to each unit may be further re-assigned to sub-units 
+within the unit. 
+A separate technical planning and policy-formulation unit should be setup to receive the 
+results of analyses and recommendations from each of the other units, and to collate 
+these results and recommendations into the energy plan and final policy proposals. The 
+technical planning unit should be headed by a technical planning committee, made up of 
+the heads of each of the other units and technical planning experts. The recommendations of this technical planning committee are then submitted to the Board 
+of the NEEPI for their approval, before submission to the Cabinet or appropriate 
+Ministry for final ratification and follow-up action.

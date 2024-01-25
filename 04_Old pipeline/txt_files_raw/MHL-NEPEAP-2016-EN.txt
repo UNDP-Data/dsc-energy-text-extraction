@@ -1,0 +1,2895 @@
+File Name: MHL-NEPEAP-2016-EN
+Year: 2016
+Country Name: Marshall Islands
+Country Code: MHL
+Category: NEPEAP
+Document Title: nan
+Exists?: Y
+Publication Date: 2016
+Start Year: 2016
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+Republic of the Marshall Islands
+National Energy Policy and Energy Action Plan
+April 2016This is a publication of the Republic of the Marshall Islands.
+The 2016 National Energy Policy was prepared by the Energy Planning Division of the 
+Ministry of Resources and Development with the technical assistance of the Energy 
+Programme of the Economic Development Division of the Secretariat of the Pacific 
+Community. This document was developed through extensive consultation within 
+government, development partners and the general public. It expresses the RMI’s 
+commitment towards a new energy direction and serves as the foundation for planning and 
+development in the energy sector over the medium term.
+A special thanks for their generous assistance in preparing this document goes to Ms. 
+Angeline Heine, Mr. Walter Myazoe, Jr., Ms. Dolores deBrum-Kattil, the Secretariat of the 
+Pacific Community and the ADMIRE Program, as well as the many people and organization 
+listed in Annex 3 of this document.
+The policy review and national consultations were further supported by the SPC/EU North 
+Pacific ACP Renewable Energy and Energy Efficiency Project (North-REP) and the EU Energy 
+Initiative Partnership Dialogue Facility (EUEI PDF). Contents
+Abbreviations..........................................................................................................................................4
+Map of Republic of the Marshall Islands ................................................................................................5
+Foreword.................................................................................................................................................6
+Executive summary.................................................................................................................................7
+1. A framework for the national energy policy and its implementation ..............................................11
+1.1 RMI national development plan vision.................................................................................11
+1.2 Energy policy logical process ................................................................................................12
+1.3 Guiding principles .................................................................................................................14
+1.4 Goals, baseline indicators and targets..................................................................................16
+1.5 Rationale for revising the National Energy Policy.................................................................19
+1.5.1 National.........................................................................................................................19
+1.5.2 Sub-regional ..................................................................................................................19
+1.5.3 Regional.........................................................................................................................19
+1.5.4 International .................................................................................................................20
+1.6 National energy policy areas.................................................................................................21
+1.6.1 Energy policy administration and coordination............................................................21
+1.6.2 Petroleum .....................................................................................................................24
+1.6.3 Electric power ...............................................................................................................26
+1.6.4 Energy efficiency (Supply and Demand) .......................................................................28
+1.6.5 Transport and energy use .............................................................................................29
+1.6.6 Renewable energy.........................................................................................................31
+2.0 Linking the policy outcomes, expected outputs to the strategies..................................................33
+3.0 Monitoring and evaluation .............................................................................................................37
+3.1 Monitoring ............................................................................................................................37
+3.2 Evaluation .............................................................................................................................37
+Annex 1: Energy Action Plan 2016 - 2019.............................................................................................38
+Annex 2: Monitoring Plan ...................................................................................................................60
+Annex 3: Organizations and people consulted .....................................................................................68Abbreviations
+ADB Asian Development Bank
+ADMIRE Actions for the Development of Marshall Islands Renewable 
+Energies (GEF/UNDP)
+AG Attorney General
+DOI United States Department of Interior
+EAP Energy Action Plan
+EPA Environmental Protection Authority
+EPD Energy Planning Division
+EPPSO Economic Policy, Planning and Statistics Office
+ETF Energy Task Force
+GEF Global Environment Facility
+IUCN International Union for Conservation of Nature (World 
+Conservation Union)
+KAJUR Kwajalein Atoll Joint Utility Resource
+MEC Marshalls Energy Company
+MOFA Ministry of Foreign Affairs
+MOF Ministry of Finance
+MIA Ministry of Internal Affairs
+MIDB
+MIMA
+Marshall Islands Development Bank
+Marshall Islands Mayor Association
+MPW Ministry of Public Works
+MRD Ministry of Resources and Development
+MTC Ministry of Transportation and Communications
+NEP National Energy Policy
+OEPPC Office of Environmental Planning and Policy Coordination
+PPA Pacific Power Association
+PPM Parts Per Million
+PSC Public Service Commission
+RE Renewable Energy
+REP Regional Energy Programme
+RMI Republic of the Marshall Islands
+SE4ALL Sustainable Energy For All
+SPC Secretariat of the Pacific Community
+TA Technical Assistance 
+UNFCCC United Nations Framework Convention on Climate Change 
+UNDP United Nations Development Programme
+USA United States of America
+USD United State Dollars
+USDA United States Department of Agriculture
+WB World Bank Group
+WUTMI Women United Together Marshall IslandsMap of Republic of the Marshall IslandsForeword
+I am pleased to present this National Energy Policy and Action Plan that 
+will guide the development of the country's energy sector in the next five
+to ten years.
+The policy and action plan is an output of the review of the National 
+Energy Policy and Energy Action Plan 2009 and is aligned to the Strategic 
+Development Plan Framework 2003–2018: Vision 2018. 
+The National Energy Policy encompasses government’s energy sector priorities, outcomes and goals; 
+it brings to our attention our energy sector situation – where we stand in terms of the energy targets 
+and goals we aim to achieve by 2020. Aligned to the National Energy Policy is a three-year action 
+plan that brings to the forefront urgent actions to be carried out and turn our visions into reality. 
+We also reflect in this decade on our commitments towards achieving and contributing to the goals 
+of the UN Sustainable Energy for All (SE4ALL) initiative, a global initiative that Marshall Islands is 
+closely aligned to. Our combined policy goals at the national level will take us to meeting our 
+regional commitments, in particular the Majuro Declaration for Climate Leadership, the Pacific 
+Regional Energy Minister’s Resolution and Communique, the Green Energy Micronesia Initiative and 
+the Intended Nationally Determined Contributions (INDCs) that was communicated and submitted 
+to the United Nations Framework Convention on Climate Change (UNFCCC). Let us not forget our 
+continued efforts to adapt to and mitigate the impact of climate change.
+While the government is trying its best to acquire resources to improve access to modern energy 
+services and to reduce our fossil fuel dependence, it can only do so much. I am glad to state that this 
+policy includes enabling frameworks to improve the partnership between government and the 
+private sector, creating financial incentives to foster the participation of the business community to
+integrate renewable energy with energy efficient technologies and practices. 
+The contributions from development partners and non-government organizations and the private 
+sector are considered vital to meeting our national goals, and they have done so much over the past 
+years. Our national visions and goals cannot be met without the commitment, the partnerships and 
+the willingness of all the Marshallese people.
+I wish to thank the people and organizations that have contributed in one way or another to the 
+completion of the National Energy Policy and Energy Action Plan.
+I trust that the National Energy Policy will enhance our efforts to improving the quality of life 
+through securing resources, and improving coordinated efforts towards an efficient and sustainable 
+energy future for the Republic of the Marshall Islands.
+Honorable Alfred Alfred, Jr.
+Minister of Resources and DevelopmentExecutive summary
+This 2015 National Energy Policy of Republic of the Marshall Islands (RMI) integrates the findings and 
+recommendations of the review of the National Energy Policy and Energy Action Plan 2009, and the 
+outcomes of two national consultations held in Majuro in January 2014 and in October 2014. In 
+reviewing the 2009 national energy policy (NEP), the issues listed below were considered important 
+and will form part of the 2015 NEP undertakings and commitments. There is a need to:
+ Review and update the current 2009 national energy targets and goals for the development of 
+the energy sector.
+ Review the current policy vision, outcomes, goals, policy statements/outputs, key thematic 
+areas, strategies and activities to better reflect national, regional and global developments in the 
+energy and climate change areas, including the development of baseline indicators for 
+monitoring progress and impacts.
+ Improve policy efficiency to ensure reliability, security and high quality of energy services and 
+energy access.
+ Strengthen the overall policy and regulatory framework in the energy sector.
+ Put in place and institutionalize the implementation of a sustainable monitoring and evaluation 
+mechanism for the implementation of activities in the energy sector, including financial regimes 
+to promote private sector participation.
+ Improve coordination and partnerships between key local stakeholders and development 
+partners.
+ Mainstream energy across all sectors and regional and global initiatives, including the 
+Sustainable Energy for All (SE4ALL) initiative.
+The 2015 National Energy Policy is presented as follows: 
+Chapter 1: A framework for the national energy policy and its implementation
+Chapter 2: Linking the policy outcomes, expected outputs to the strategies
+Chapter 3: Monitoring and evaluation 
+A separate report, Energy sector review, provides complementary data and information on RMI’s 
+physical, social, economic status, including energy sector baseline information and current projects. 
+An energy action plan for 2015 – 2019 is annexed to this policy.
+Vision
+The vision1for energy sector is aligned to the national vision:
+“an improved quality of life for the people of the Marshall Islands through clean, reliable, 
+affordable, accessible, environmentally appropriate and sustainable energy services.”
+Broad goals
+Four broad goals from the 2009 NEP remain, and an additional four have been added. The goals are:
+• To strengthen financial, policy and legislative frameworks for the energy sector;
+• To supply 100% of urban households with electricity by 2015;
+ 
+1 2014 NEP vision is the same as the 2009 NEP vision.• To provide 95% of rural outer atoll households with off grid electricity by 2015;
+• To provide access to modern forms of cooking to 90% of all households by 2020;
+• To make households and businesses 50% more energy efficient and government buildings 
+75% more energy efficient by 2020;
+• To achieve a 20% efficiency improvement in transport sector fuel use by 2020;
+• To reduce supply side energy losses from MEC by 20% by 2017; and
+• To provide 20% of power generation through indigenous renewable resources by 2020.
+Priority outcomes2
+The 2015 National Energy Policy has four priority outcomes:
+• improved enabling frameworks for reducing dependence on imported fossil fuel;
+• all Marshallese have equitable access to modern energy services;
+• smarter uses of energy in households, businesses, government, transport sector and 
+power utilities; and
+• reliable, sustainable and affordable energy supply.
+The National Energy Policy lays out the strategies and activities in six thematic or key result areas of 
+energy policy administration and coordination, petroleum, electric power, energy efficiency and 
+conservation, transport energy use and renewable energy.
+The strategies and estimate costing for the energy action plan for three years 2016 – 2019 are given 
+in the table below.
+Key Result Area Strategies Estimated 
+budget /USD
+Energy policy 
+administration and 
+coordination
+A new energy law, (Energy Sector Management Act) will be 
+considered as appropriate to clarify powers and 
+responsibilities within government for energy
+88,000
+Annual work plan developed for MRD’s Energy Planning 
+Division, with clear objectives, priorities and timeframe, to 
+be reviewed quarterly
+8,000
+Informal training of EPD staff through attachments, RE/EE 
+training and possible diploma or degree level training in 
+energy
+20,000
+EPD coordinates energy database development, production 
+and regular revision with relevant stakeholders 18,000
+The Marshall Islands to engage effectively with national, 
+regional and global stakeholders, including energy service 
+providers, private sectors, non-government organizations 
+and community-based organizations and vulnerable groups 
+to promote energy initiatives 
+4,000
+MRD participation in the budget reform process, including 
+advocacy of performance-based budgeting within the 
+government, with energy criteria as performance measures 
+for each government ministry and agency
+5,000
+ 
+2 Outcomes are also called recognized as purpose or immediate objectivesEPD introduces a communications plan using multiple media 
+and having targeted messaging to address particular 
+interests of local stakeholder and international 
+development partners
+10,000
+TOTAL ENERGY POLICY ADMINISTRATION AND 
+COORDINATION
+149,000
+Petroleum
+Develop a Petroleum Act with provision of licensing as well 
+as supply of petroleum data and reports
+5,633,000
+Conduct an independent study of petroleum pricing on 
+Majuro and outer atolls to determine benefits and costs and 
+a proper pricing mechanism
+35,000
+Establish and maintain a system for inspection and 
+certification of storage, handling and safety procedures, and 
+licensing of petroleum storage and distribution facilities
+25,000
+TOTAL PETROLEUM SECTOR 6,008,000
+Electric power
+Conduct a comparison of two sustainability models 
+currently in use – through selling of handicrafts and through 
+the local government funds.
+8,000
+Establish an effective and sustainable plan to address tariff 
+collection and SHS maintenance
+4,000
+Assessment of costs and benefits to the government subsidy 
+to MEC as part of government's efforts to rationalise 
+payments to landowners
+500,000
+Promote cleaner fuels and efficient cooking technologies to 
+improve health and environmental protection, particularly 
+the women and children
+154,500
+TOTAL ELECTRIC POWER 668,500
+Energy efficiency 
+and conservation
+Effective implementation of the RMI Sustainable Renewable 
+Energy and Energy Efficiency Measures in Micronesia 
+including RMI3
+189,500
+Effective implementation of the SIDS DOCK project titled 
+Energy Efficiency Loan Schemes (EELS) 4 24,000
+Revise taxation system to encourage the import of energy 
+efficient air conditioners/major household appliances and 
+introduce mandatory standards and labeling system 
+8,000
+Develop energy efficiency standards for new buildings and 
+renovations including homes, businesses and government 
+premises, with financing on subsidized terms for designs 
+and construction/renovation meeting the standards
+60,000
+Carry out energy audits on the remaining government 
+facilities, business communities and households and 
+implementation of recommended energy efficient measures
+1,500,000
+ 
+3 RMI SREEM (Sustaining Renewable Energy and Energy Efficiency Measures in Micronesia) Project includes 
+energy efficiency at MEC power plants
+4 The project includes activities to establish the energy efficiency loan schemes (EELS), to be completed by 
+April 2015TOTAL ENERGY EFFICIENCY AND CONSERVATION 1,781,500
+Transport Energy 
+Use
+Establish guidelines for the maintenance of government 
+vehicles with adequate budget allocation 48,000
+Promote, increase awareness and create incentives (in the 
+private sector) on efficient mode of transport, e.g. bicycles, 
+sail boats, fuel efficient taxis
+50,000
+Investigate the practicality of retrofits to reduce fuel use in 
+sea transport (e.g. more efficient propellers, sail-assist 
+technologies, and other alternate energy sources)
+100,000
+TOTAL TRANSPORT ENERGY USE 198,000
+Renewable Energy
+Develop appropriate legislation and regulations with clearlydefined authority, obligations and responsibilities for 
+electric power supply in Majuro and throughout the 
+Marshall Islands
+110,000
+Quantify reduction in the national energy import bill for 
+power generation 9,000
+Determine the indigenous energy resources that are 
+available for development through feasibility studies 62,500
+Expand solar electrification for off-grid areas 1,015,000
+Expand the solar PV grid-connected capacity in Majuro, 
+Kwajalein, Jaluit and Wotje 10,355,000
+Increase awareness and provide training to public and 
+private sectors on appropriate renewable energy systems 50,000
+Develop policy regimes including incentives and a marketing 
+plan to increase private sector involvement and facilitate 
+introduction of renewable energy systems
+10,000
+Conduct an independent study of the viability of alternatives 
+to diesel fuel for power generation where economically 
+sound (e.g. coconut oil, LNG, grid-connected solar, ocean 
+energy, wind energy, etc.). Implementation of 
+recommended viable alternatives
+20,000
+TOTAL RENEWABLE ENERGY 11,631,500
+TOTAL COST OF RMI ACTION PLAN 2015 - 2019 20,316,500.001. A framework for the national energy policy and its implementation
+This NEP is intended to be a pragmatic document, guiding the planning, communicating, financing
+and advancing of the energy sector in RMI through a 'whole of sector' energy development 
+approach. This approach, as defined in a 2012 paper by Charles Feinstein et al. for the Forum Energy 
+Ministers' Meeting, Brisbane, seeks to strike a balance among the following:
+ the desire for increased access to secure, reliable, affordable and high quality energy 
+services, in both the urban areas and outer islands and atolls of the country;
+ improvement of, and increased efficiency in the use of energy in all sectors, including the 
+residential and commercial sectors, the transport sector, and government buildings and 
+utilities;
+ enhancement of the potential for an increased share of renewable energy resources in the 
+overall national energy mix; and
+ the potential benefits from adopting more efficient practices in petroleum supply chain 
+management and procurement.
+1.1 RMI national development plan vision
+This 2015 NEP also aspires to contribute to achieving the vision of the Strategic Development Plan 
+Framework 2003–2018: Vision 2018, and therefore all of its broad mission outcomes, strategies and 
+prioritised activities should be effectively mainstreamed into national development budgeting and 
+strategic planning.
+The vision of the Marshall Islands, as expressed in Vision 2018, is:
+“to become a country within an inter-dependent world, with an enhanced socio-economic selfreliance, and an educated, healthy, productive, law-abiding and God-loving people in which individual 
+freedom and fundamental human rights are protected, and culture and traditions are respected, and 
+development and environmental sustainability are in harmony.”
+The Government of the Republic of the Marshall Islands endorsed its three-year National Strategic 
+Plan (NSP) 2015–2017, in June 2014 that was built around the concept of 1-5-3, capturing the 
+importance of one clear, concise objective, five sectors with development objectives and three
+years' rolling plan. One of the five sectors is Infrastructure Development, and energy is in this sector, 
+along with transportation, water and sanitation, solid and hazardous waste management and 
+information communications technology
+The energy sector complements the NSP by a review of its 2009 NEP and aligning its Energy Action 
+Plan (EAP) to the NSP three-year timeframe. The 2015 NEP monitoring plan has been developed as 
+part of this policy, aligning the priorities outcome and goals to the overall vision of the energy sector 
+and the 2018 vision.1.2 Energy policy logical process
+In order to realize the energy sector vision, the energy policy framework includes the following key 
+thematic areas; policy administration and coordination, petroleum sector, electric power sector, 
+energy efficiency and conservation sector, transport energy use and renewable energy. There are 8 
+broad goals, 4 outcomes and 18 expected outputs or results as shown below.
+Thematic/Key 
+Result Areas Goals Outcomes
+Policy 
+administration and 
+coordination
+Petroleum Sector
+To strengthen financial, policy and 
+legislative frameworks for the energy sector
+Improved enabling frameworks for 
+reducing dependence on imported 
+fossil fuel
+Expected Outputs
+The Energy Planning Division continuously developed its capacity and skills set to 
+enable it to review and manage the energy policy frameworks
+A national energy database is developed and managed (for analysis and policy 
+development) and maintained
+Coordination and communication on energy issues at national5, regional (within 
+Micronesia and wider Pacific) and global levels shall always be strengthened
+Decision making regarding the importation and consumption and pricing of 
+petroleum products shall be based on reliable data on petroleum imports, sales and 
+end-use 
+The wholesale and retail prices of petroleum products shall be made equitable for 
+urban and rural users through control and regulation 
+Safe storage, handling and distribution shall be ensured for all petroleum products
+Thematic or Key 
+Result Area Goals Outcome
+Electric power
+To supply 100% of urban households with 
+electricity by 2015;
+To provide 95% of rural outer atoll 
+households with off grid electricity by 2015;
+To provide access to modern forms of 
+cooking to 90% of all households by 2020
+All Marshallese have equitable 6
+access to modern energy services
+Expected outputs
+The management and financial system for outer islands PV electrification regularly 
+reviewed and enhanced to ensure sustainability, and make certain the recovery of 
+O&M and battery replacement costs, for household and institution systems (e.g. 
+health, fisheries, telecom, and school installations)
+ 
+5
+Including national, regional and global energy initiatives and projects
+6 Equitable considers that all people, women and men and children have equal access to modern energy 
+services irrespective of their roles at households, community or in businesses, their locations and social status. A transparent tariff structure shall be established for those receiving full electricity 
+supplies that covers the real costs of each island system, with a lifeline tariff that 
+genuinely benefits low-income consumers without adversely affecting MEC income 
+Initiatives on provision of access to clean and efficient fuels and appliances shall 
+ensure the incorporation of interventions that promotes sustainable livelihoods, 
+health and safety and environmental protection
+Thematic or Key 
+Result Areas
+Goals Outcome
+Energy efficiency 
+and conservation
+Transport and 
+energy use
+To make households and businesses 50% 
+more energy efficient and government 
+buildings 75% more energy efficient by 
+2020;
+To achieve a 20% efficiency improvement in 
+transport sector fuel use by 2020;
+To reduce supply side energy losses from 
+MEC by 20% by 2017
+Smarter uses of energy in households, 
+businesses, government and 
+transport sector and power utilities
+Expected outputs
+The reduction of MEC supply-side losses by 20% in 2017, consistent with sound 
+technical and financial criteria should be developed and assessed
+The number of efficient electric appliances imported into the country through 
+appropriate fiscal incentives for, businesses, households and government sectors 
+increased
+The energy use consumption is monitored and improved through energy auditing 
+and demand side management
+Increased the number of energy efficient vehicles into the country through 
+appropriate fiscal incentives for business, private sectors, households and 
+government sectors
+Government developed a more energy efficient transport network through 
+collaborations with various stakeholders and adopting best practices that are 
+applicable in the RMI
+Thematic or Key 
+Result Areas
+Goals Outcome
+Renewable energy
+To provide 20% of power generation 
+through indigenous renewable resources by 
+2020.
+Reliable, sustainable and affordable 
+power supply
+Expected 
+Outputs/Results
+Private sector participation in the electric power supply in RMI shall be allowed 
+under conditions that are fair to MEC and the supplier (i.e. independent power 
+producer’s agreement)
+Available energy modelling shall be done to ascertain the technical and economic 
+indigenous energy sources where technically practical and economically viable
+The technical capacities of government (EPD) and MEC to plan, develop, implement 
+and manage renewable energy systems (small and medium-scale rural; large-scale 
+urban) shall be continuously updated and enhanced.Economically feasible alternatives to diesel fuel for power generation shall be 
+utilized
+1.3 Guiding principles
+The following guiding principles for implementing this policy are aligned to the principles adopted 
+for national, sub-regional, regional and international initiatives, including the SE4All initiative goals,
+the regional Framework for Action on Energy Security in the Pacific (FAESP) and Micronesia’s Energy 
+Initiative. These six guiding principles need to be embraced in the implementation of this national 
+energy policy and energy action plan.
+a. Whole-of-energy-sector: The government coordinates and fosters partnerships and cooperation 
+between relevant ministries and energy sector institutions, including the Marshalls Energy Company 
+and petroleum oil companies, the private sector, and non-governmental and community-based 
+organizations. A strong leadership of the Energy Planning Division with an appropriate legal 
+mandate should be strengthened to coordinate planning and management of the energy sector. 
+There should be a clear, appropriate and effective definition of roles for government, utilities and 
+the private sector in the planning and management of the energy sector. Comprehensive energy 
+planning should be undertaken, with energy treated as an integrated sector into all development 
+sectors including poverty alleviation, health, education and financial and economic planning. 
+Simultaneously, energy planning should be strongly coordinated with other infrastructure plans that 
+are intensive in the use of energy, such as water and sewerage services, schools, hospitals and 
+health clinics, and commercial and industrial development. 
+b. Financial sustainability: The following principles should be considered in assessing the financing 
+strategy.
+ Transparency: effort should be made to calculate the opportunity costs associated with 
+fiscal incentives. The roles of the private sector should be recognized and avenues for 
+private sector participation be defined under a clear and transparent regulatory framework.
+ Consistency: clear criteria should be set for each incentive and they should be available to all 
+who satisfy the criteria.
+ Accountability: the government should report regularly to the legislature and the public on 
+implementation of this national energy policy and its energy action plan. 
+ Leadership: the government should continue to show leadership in adopting energy 
+efficiency and facilitating the sharing of data and information on the energy sector, but it 
+should also package and promote as part of its investment policy the types of renewable 
+energy and energy efficiency projects it plans to consider, as opposed to waiting for ad hoc 
+proposals.
+ Time-bound and budgeted: government investments and initiatives on energy should be 
+guided by a realistic, time bound and wholly-budgeted sector plan that leads to measurable, 
+tangible outcomes.
+c. Environmental and social sustainability: Environmental and social sustainability encompasses 
+both minimising local negative social and physical environmental impacts of the energy sector, as well as aligning with global goals with respect to minimising the impact of climate change. The 
+initiatives on promoting energy efficient biomass stoves for cooking in rural areas should be 
+supported, as they consider the impacts of using biomass for cooking on the health of women and 
+children simultaneously saving the environment. 
+Emphasis should be placed on the need for environmental, social, cultural and gender analyses in 
+energy plans and projects that would capture the productive and strategic uses of electricity, not 
+just for lighting, but for linking electricity access to the creation of economic opportunities, jobs, 
+delivery of health care, education, telecommunication, access to transport and other vital services.
+d. Climate change: The impact of climate change and climate variability in the Marshall Islands is 
+evident and energy sector planning and coordination is mindful of the impacts of fossil fuel usage. 
+Through the Majuro Declaration for Climate Leadership, the government has declared a 40% 
+reduction in Co2 emissions below 2009 levels by 2020 to be implemented through the Joint National 
+Action Plan for Climate Change Adaptation and Disaster Risk Management, the Green Energy 
+Micronesia initiative and this 2015 NEP and its energy action plan.
+e. Data management and information: The availability, accessibility and quality of data and 
+information for all key strategic areas are critical in order to make informed decisions and policy 
+interventions. Continued efforts are needed across all sub-sectors for effective and efficient data 
+collection and management.
+f. Many partners, one team: The guiding principle 'many partners, one team' is used by the 
+Framework for Action on Energy Security in the Pacific. It is relevant and significant in the 
+implementation of this national energy policy and therefore is adopted as one of its guiding 
+principles. The 29 atolls and five islands of the Marshall Islands are scattered, and visiting these 
+islands to implement energy projects is expensive and takes a lot of time and effort, so the 'many 
+partners, one team' approach is required in meeting the RMI national objective of improving
+livelihoods in the outer islands. This approach was used during the 2013 outer islands energy survey,
+when the Energy Planning Division (EPD) and the Marshalls Energy Company (MEC) conducted an 
+energy survey in three outer islands and included the NGO, KIO Club, in the distribution of energyefficient biomass stoves, as well as the Ministry of Internal Affairs and College of the Marshall Islands 
+in conducting water quality testing and training.1.4 Goals, baseline indicators and targets
+The 2009 NEP targets or goals are still relevant. However, they are further strengthened in this policy 
+by including additional targets, baseline indicators, to make progress on achieving the goals. The 
+indicators are provided as a measure of success of the NEP and therefore link to the monitoring and 
+evaluation plan provided in Chapter 3.
+Indicators
+Baseline Targets
+2013 2016 2018 2020
+Goal 1: To strengthen financial, policy and legislative frameworks for the energy sector
+Number of policies including budget and annual 
+work-plan developed, reviewed for the energy 
+sector
+0 3 4 5
+Number of Energy Task Force (ETF) meetings held 
+annually with participation of government, non -
+government and private sectors
+0 4 6 8
+Number of financing schemes and applications 
+approved for renewable energy technologies 
+(RETs) and energy-efficient (EE) appliances to 
+increase public and private sector participation7
+0
+5 10 15
+Number of endorsed and implemented laws and 
+regulations on the energy sector 1 2 4 6
+Percentage of verified and processed data sets that 
+are available 42% (2014) 50% 60% 80%
+Indicators
+Baseline Targets
+20118 2016 2018 2020
+Goal 2: To supply 100% of urban households with electricity by 2015
+Percentage of urban households with access to 
+grid-connected electricity 85% 100%
+Goal 3: To provide 95% of rural outer atoll households with off-grid electricity by 2015
+Percentage of outer atoll households’ access to offgrid electricity. This increased to 93% in 2014 75% 95%
+Goal 4: To provide access to modern forms of cooking to 90% of all households by 2020
+Percentage of rural and urban households with 
+modern forms of cooking 66% 90%
+Sustainability of energy services: SHS monthly tariff 
+collection rate (%) is improved 
+{Actual collection/target collection}
+66% (2014) 80%
+ 
+7 Refer to Annex 1 for Financial Options
+8
+Sourced from the 2011 National Census reportIndicators
+Baseline Targets
+2008 2016 2018 2020
+Goal 5: To make households and businesses 50% more energy efficient, and government buildings 75% 
+more energy efficient by 2020
+Percentage decrease in the average monthly 
+electricity consumption of connected households 
+158 kWh per 
+customer 
+(20089)
+50%
+(79 kWh)
+Percentage decrease in the average monthly 
+electricity consumption of commercial customers 3,283 kWh
+per customer
+50%
+(1,641.5
+kWh)
+Percentage decrease in the average monthly 
+electricity consumption of government buildings 10,842 kWh
+per customer
+75%
+(8,131.5
+kWh)
+Indicators
+Baseline Targets
+2014 2016 2018 2020
+Goal 6: To achieve a 20% efficiency improvement in transport sector fuel use by 2020
+Percentage increase in fuel-efficient vehicles 
+imported (engine size) and car seats (increasing 
+load) through adoption of appropriate fiscal 
+incentives
+0 5% 10% 20%
+Improvement in the diesel quality used in 
+transport (500 ppm sulphur content) – MEC, 10
+ppm (Mobil)
+500 ppm 10 ppm 10 ppm
+Percentage improvement in the efficiency of fuel 
+use in the transportation sector through use of 
+public buses and government vehicles
+(Data on fuel for land transport to be available)
+0 2% 3% 20%
+Indicators
+Baseline Targets
+2010 2016 2018 2020
+Goal 7: To reduce supply side energy losses from MEC by 20% in 2017
+Combined percentage decrease in power 
+generation and distribution losses of the power 
+utilities
+26.21% 20.97%
+Station losses - MEC10 8.45% 11 6.76%
+ 
+9 Customer consumption data sourced from 
+http://www.irena.org/DocumentDownloads/Publications/Marshall-Islands.pdf; Customer number data 
+sourced from EPPSO.
+10 MEC is included only due to lack of data for KAJUR and other outstations in the atoll islands
+11 Sourced from the KEMA reports. Note data is specifically for Majuro alone.Technical losses 6.41% 5.128%
+Non-technical losses 11.35% 9.08%
+Goal 8: To provide 20% of power generation through indigenous renewable resources by 2020
+Indicators
+Baseline Targets
+2012 2016 2018 2020
+Share of installed electric power generation 
+capacity from indigenous renewable energy. This 
+increased to 5% in 2013
+3.46%12 20%
+Affordability of energy services: 10% decrease in 
+the average household energy expenditure load by 
+2020
+17.6% 
+(200213)
+15.84%
+ 
+12 Energy Office Estimation
+13 2002 HIES report1.5 Rationale for revising the National Energy Policy
+1.5.1 National
+The 2009 NEP and EAP (2009–2012) were developed and endorsed in 2009 as a result of the 
+economic emergency in 2008 that was caused by exorbitant increases in the cost of imported 
+petroleum fuel and food items.
+Over the last four to five years, many broad goals of the NEP and activities under the EAP have been 
+realized and government has taken drastic steps in working towards achieving other targets, such as 
+electrification of 95% of rural outer atolls households by 2015. In terms of renewable energy, new 
+and emerging technologies have come into play, such as wind and ocean thermal, which need to be 
+captured in detail, in addition to the proven technologies such as solar power that is being used 
+extensively in the RMI. Various government sectors, such as transport, public works and climate 
+change and environment, have also drafted and/or introduced policies that will complement or add 
+value to the energy sector.
+The government has taken steps to reduce its carbon emissions and shift to low carbon 
+development through its commitment to the 2013 Majuro Declaration on Climate Leadership. There 
+is an extensive need to strengthen the institutional structure and framework of the energy sector to 
+ensure that the energy policy is planned, coordinated and implemented in a consistent, coordinated 
+and structured manner. There is also a need to have a reliable energy information and database 
+system that will be used extensively in the planning and policy coordination and in ensuring the 
+sustainability of the energy sector. There is also a need to put in place a monitoring and evaluation 
+mechanism for the energy sector to gauge its development and also to highlight the challenges in 
+the energy sector.
+1.5.2 Sub-regional
+The Green Energy Micronesia (GEM) Initiative of the Northern Pacific was endorsed in 2010 with the 
+aim of promoting a clean energy drive for the three Micronesian islands: Palau, Marshall Islands, and 
+the Federated States of Micronesia. The goal includes a 20% of power generation through renewable 
+energy by 2020 and general improved energy efficiency.
+1.5.3 Regional 
+At the regional level, Forum Leaders met in New Zealand in 2011 for the 42nd Pacific Islands Forum 
+and recognized the need to have secure access to energy for the sustainable economic development 
+of the region. They reaffirmed their commitment to renewable energy and the promotion of energy 
+efficiency and they also recognized the value of energy audits, and the development of credible 
+whole-of-sector plans and structures to improve energy security, reduce dependence on fossil fuels 
+for electricity generation, and improve access to electricity. The Leaders also supported the 
+development of effective management of fuel supply, risks, meeting energy efficiency targets, 
+expanding existing energy efficiency standards and labeling programs for electrical appliances, and 
+facilitating greater private sector participation in the regional energy sector by systematically 
+reducing barriers to the uptake of distributed generation. The Leaders also called on development 
+partners to assist in the implementation of the activities in the national and regional energy sector 
+and strengthen coordination of their financing activities.In September 2013, RMI joined other Forum Island countries in the Majuro Declaration on Climate 
+Leadership and stated that:
+Pursuant to the Republic of the Marshall Islands 2009 National Energy Policy and Energy Action Plan, 
+the 2011 National Climate Change Policy Framework and Joint National Action Plan (for climate 
+change adaptation, energy security and disaster risk reduction), and the Green Energy Micronesia 
+Initiative:
+• A 40% reduction in CO2 emissions below 2009 levels by 2020;
+• Electrification of 100% of urban households and 95% of rural outer atoll households by 2015;
+• The provision of 20% of energy through indigenous renewable resources by 2020;
+• Improved efficiency of energy use in 50% of households and businesses, and 75% of 
+government buildings by 2020;
+• A 20% efficiency improvement in transportation sector fuel use by 2020;
+• Feasibility studies and internationally supported financing plans for innovative ‘gamechanging’ renewable energy and sustainable development opportunities including Majuro 
+atoll waste-to-energy and Kwajalein/Ebeye atoll OTEC (Ocean Tidal Energy Conversion)
+plants undertaken by 2015
+• 40% reduction of CO2 emissions below 2009 levels by 2020, pursuant to the 2009 National
+Energy Policy and Energy Action Plan, and with subject to the provision of adequate 
+international support. 14
+1.5.4 International
+At the international level, the General Assembly of the United Nations (UN) in recognising the 
+importance of energy for sustainable development designated the year 2014 as the International 
+year of Sustainable Energy for All (SE4ALL). The SE4ALL initiative aims to mobilize urgent global 
+action to three complementary objectives to be achieved by 2030:
+• Ensure universal access to modern energy services 
+• Double the rate of improvement in energy efficiency 
+• Double the share of renewable energy in the global energy mix
+2014–2024 has been declared the UN’s Decade of SE4ALL. This has presented an opportunity to 
+raise awareness about the importance of increasing sustainable access to energy, energy efficiency 
+and renewable energy at the local, national, regional and international levels. Energy services have 
+profound effects on productivity, health, education, climate change, food and water security, and 
+communications services. The post-2015 Sustainable Development Goals will obviously feature a 
+goal on sustainable energy. This 2015 NEP is to capture the links to SE4ALL through targets added to 
+the 2009 NEP.
+RMI is a member of the International Renewable Energy Agency (IRENA), which seeks to make an 
+impact on the world of renewable energy by maintaining a clear and independent position, providing 
+a range of reliable and well-understood services that complement those already offered by the 
+renewable energy community and gather existing, but scattered, activities around a central hub. In 
+2014, IRENA provided technical assistance to the formulation of the Renewable Readiness 
+Assessment, which will also link to this policy targets and activities.
+ 
+14 http://www.majurodeclaration.org/commitmentsFurthermore, RMI is a member of SIDS DOCK. The RMI current project under the SIDS DOCK program 
+in the Pacific is Sustaining Renewable Energy and Energy Efficiency Measures in Micronesia (SREEM) 
+with two major components: the MEC Power Plant Performance Improvement and the Energy 
+Efficiency Loan Scheme (EELS). The ultimate goal of SIDS Dock is to support the SIDS transition 
+towards a low carbon economy through development and deployment of RE resources and 
+promotion of greater energy efficiency (EE)
+1.6 National energy policy areas
+The following key thematic areas from the 2009 NEP are still relevant. However, one of the issues 
+discussed during the consultation for this NEP was that the imported petroleum key policy area is to 
+focus only on imported petroleum, while the demonstrations and research on biofuel are 
+categorised under renewable energy. Thus the thematic area in the 2009 NEP was amended to 
+Petroleum instead of Petroleum and alternative liquid fuels. The thematic areas for the 2015 NEP
+are:
+o energy policy administration and coordination;
+o petroleum;
+o electric power;
+o transport and energy use;
+o energy efficiency; and
+o renewable energy
+For each of the thematic areas, key outputs and strategies were identified and listed. All these 
+outputs and strategies lead to the four priority outcomes.
+Priority outcomes
+o Improved enabling frameworks for reducing dependence on imported fossil fuel
+o All Marshallese have access to modern energy services
+o Smarter uses of energy in households, businesses, government, transport sector and power 
+utilities
+o Reliable, sustainable and affordable energy supply
+The following chapter provides a brief explanation of the current status of each thematic policy area,
+including institutional settings and stakeholders, as well as policy outputs aligning the policy areas to 
+the four outcomes of the NEP.
+1.6.1 Energy policy administration and coordination
+The Energy Planning Division (EPD) under the Ministry of Resources and Development (MRD) was reestablished in 2008 during the energy crisis to formulate a policy that would guide the energy sector 
+during the crisis and, in particular, identify actions that put the government into an energy crisis 
+when the global price of oil increased to above USD 120 a barrel. Since then the EPD has been the 
+focal point for all energy-related activities and initiatives in the Marshall Islands, from managing 
+energy projects including ADMIRE – the Actions for the Development of Marshall Islands Renewable 
+Energies, the Northern Regional Energy Project (North-REP) and other national energy initiatives. 
+Since the endorsement of the 2009 NEP and EAP, the EPD has been responsible for coordinating the 
+implementation of the NEP and the five-year EAP. Foremost and one of the priority needs for MRD 
+and EPD is to put in place a law that governs the establishment of the EPD and its roles and 
+functions.The table below, taken from the 2009 National Energy Policy Framework, is still relevant as it 
+summarizes the main stakeholders and their responsibilities for the energy sector within 
+government, in particular those responsibilities related to policy. This remains reasonably valid in 
+2015, although there was discussion at the first consultation about a Cabinet paper that had been 
+submitted for housing the EPD under the Office of the President. If this happens, then the EPD will 
+be housed with the Office of Environmental Planning and Policy Coordination and the Economic 
+Policy, Planning and Statistics Office. The formation of the national Energy Task Force (ETF) as a key 
+advisory body reporting directly to Cabinet was one of the achievements of the past years. However, 
+this Energy Task Force and its membership needs a legal mandate to strengthen its powers and 
+coordination role, in particular collating information, and coordinating and delineating its role as a 
+coordinating body for the energy sector. This is another priority activity under the revised EAP.
+Once the ETF is formally recognized, and this can be done through endorsement of this policy and its 
+institutional framework, it will have more powers to work with other relevant ministries such as the 
+Ministry of Internal Affairs, which sets maximum retail margins for some products, including outer 
+island petroleum fuels, as well as the Ministry of Finance in the allocation of funds and as the formal 
+link to development agencies active in the energy sector, including the Asian Development Bank and 
+the World Bank. Other government agencies are of course also involved in energy services, including 
+the Attorney General's Office (AG), the Ministry of Public Works (MPW), the Division of Customs, the 
+Ministry of Transportation and Communications (MTC) and other relevant stakeholders. However,
+for the ETF to have its legal mandate, a proposed energy sector management act (ESMA) should be 
+an option that will provide the legal powers and functions of the ETF. The formulation of ESMA is 
+included as a priority activity in the revised EAP.
+Because energy is an input to all government and private development efforts, there is inevitably a 
+range of overlapping, fragmented and sometimes unclear energy sector responsibilities, and these 
+responsibilities will change over time. 
+Under each policy thematic area, an organization chart showing responsibilities and links among key 
+players is provided. Some of these will be ad hoc, some will change as activities are implemented, 
+and some may be more-or-less permanent. 
+Although energy matters are important to all sectors of the economy and all agencies of 
+government, the human resources of RMI are modest; it is important that a review and an 
+assessment of all existing legislation be carried out as a first step to determining the extent to which 
+a legal framework may be established. This is a priority in the revised strategic action plan.Priority outcome: Improved enabling frameworks for reducing dependence on imported fossil 
+fuel
+Outputs: 
+ The Energy Planning Division continuously developed its capacity and skills set to enable it to 
+review and manage the energy policy frameworks
+ A national energy database is developed and managed (for analysis and policy development)
+and maintained
+ Coordination and communication on energy issues at national, regional (within Micronesia and 
+wider Pacific) and global levels shall always be strengthened1.6.2 Petroleum 
+The Marshall Islands is highly dependent on imported petroleum fuels. It is estimated that about 
+92% of energy used in 2011 was from petroleum, biomass remaining significant but declining to 
+about 2%, with on-grid and off-grid solar power totalling around 6%. The main petroleum imports 
+are gasoline, diesel fuel, dual-purpose kerosene (used as aviation turbine fuel and household 
+kerosene), and liquefied petroleum gas (LPG). In 2011, the Marshall Islands imported 56 million liters 
+of petroleum fuel. The Marshalls Energy Company (MEC) and Mobil are the main importers, with 
+MEC having very large storage capacity. Based on information for the years 2007 to 2011, 48% of 
+imports were used for transportation and 52% for electricity generation. Kerosene demand for 
+households is almost nil with increasing numbers of people using LPG for cooking and solar energy 
+for lighting. However, in the outer islands and atolls, there is evidence that biomass is still the 
+predominant fuel for cooking.
+Despite the lack of price control, fuel prices in Majuro (excluding duties and taxes) are about average 
+for Pacific Island countries, while outer islands fuel prices are notably higher.
+Petroleum will continue to be the dominant fuel that drives the economy and provides social 
+services to the people, in particular the urban areas of Majuro and Ebeye. Environmental 
+considerations were a priority when diesel fuel for power generation was changed from 5,000 parts 
+per million (ppm) sulphur to 500 ppm sulphur in October 2013. For the transport sector, diesel of 10
+ppm sulphur has also been imported to the islands by Mobil.
+A lack of regulation/legislation to monitor the cost of petroleum fuel is still a challenge in the 
+Marshall Islands, as there is no monitoring of prices in the urban and rural areas. The Retail Price 
+Monitoring Act 1992 currently monitors food items but not petroleum. The responsibilities regarding 
+petroleum standards and pricing are not as well regulated and there is no legislation that provides 
+for safety, handling, storage and distribution of petroleum products in the Marshall Islands. One of 
+the major suppliers of petroleum products, Mobil, is responsible for the importation of motor 
+gasoline (benzene), dual-purpose kerosene (DPK) for aviation as well as diesel for transport. The 
+diagram below shows an appropriate structure in a real-case scenario and one which is most 
+appropriate for the monitoring of petroleum standards, handling and pricing. The outputs for the 
+petroleum sector are included as part of the energy sector administration and coordination area,
+whereby it is the responsibility of the EPD to coordinate with the MIA on the review of the Retail
+Price Monitoring Act and also include the licensing of the petroleum suppliers under the proposed 
+ESMA.In the arrows showing linkages in this and other graphics, the following conventions have been used:
+indicates direction of decisions or authority
+indicates direction of influence or interest
+Priority outcome: Improved enabling frameworks for reducing dependence on imported fossil fuel
+Outputs:
+ Decision making regarding the importation and consumption and pricing of petroleum products 
+shall be based on reliable data on petroleum imports, sales and end-use 
+ The wholesale and retail prices of petroleum products shall be made equitable for urban and 
+rural users through control and regulation 
+ The safe storage, handling and distribution shall be ensured for all petroleum products
+Fuel quality 
+and pricing
+MPW
+MIA
+EPD
+Fuel storage, 
+standards and 
+Shipping
+RMI
+EPA
+Fuel Importers 
+(including MEC)
+Price 
+Monitoring 
+Board
+EPD
+Reliable 
+database
+EPD1.6.3 Electric power
+Getting electricity is one of the criteria for ranking the World Bank Group Doing Business and in 
+2014, the Marshall Islands was ranked 63 out of 189 economies and the ranking shows a negative 
+change for 2015. In 2011, MEC increased accountability and revenue collection through increased 
+use of prepaid metering, one of the recommendations put forward in the 2010 KEMA report. The 
+report provided an assessment of the power system's total loss of 26.88%, comprising technical and
+non-technical losses, unbilled usage such as street lighting and power station losses. The power 
+station loss was 8.45%, which is relatively high; a typical station loss is lower than 5%. MEC supplies 
+electricity on Majuro, Jaluit and Wotje and expects to eventually provide power to 28 other atolls 
+with the operation and maintenance of solar PV home systems. 
+In the fiscal year 2011 (October 2010 through September 2011), MEC generated 62,639 MWh of 
+electricity, used 4,098,283 US gallons (15,513 689 liters) of fuel for an overall fuel efficiency of 15.24 
+kWh/US gal (4.038 kWh/liter). The peak load during that period was 8.75 MW. 
+In that same year, MEC installed 2629 standard residential meters and 462 residential pre-paid 
+meters. There were 462 commercial meters and 145 government meters. Average household 
+electricity consumption was 531 KWh/month, with a tariff rate of USD 0.30 per kWh. In April 2012, 
+the tariff rate (lifelines) increased to USD0.43 kWh and this remains the current lifelines tariff rate.
+Pre-paid metering was recently introduced and the plan is to convert all residential meters to the 
+pre-paid type as soon as possible. It has been reported that the introduction of pre-paid meters has 
+positively influenced energy conservation. A subsidised amount – 1000 kWh/month – is provided to 
+those persons whose land is used for transmission lines. In 2015, there are more than 600 
+households receiving this benefit. 
+The second-largest power system in the Marshall Islands is KAJUR on Ebeye. It has an installed 
+capacity of 4.8 MW and a peak demand of 2 MW. It has about 1,300 metered customers and 
+generates 15.6 GWh of electricity per year, using 4.2 million liters of fuel. The cost of electrical 
+energy is heavily subsidised through duty tax imports exemptions and tax rebates given to MEC. 
+There is no legislation governing the standards on electrical wiring, licensing of electricians and other 
+electrical work outside MEC operations. In 2010, a two-year comprehensive recovery plan was put 
+forward by the stakeholders: MEC and Board of Directors, ADB, the World Bank, the Pacific Power 
+Association and the RMI EPD.
+The goals and objectives of the MEC recovery plan are being considered in the development of this 
+policy and action plan. Electricity pricing and monitoring is important if MEC operates in a 
+commercial way. However, MEC is a state-owned enterprise and its role (as is being developed 
+under the Article of Association) is to provide electrical or energy services to the population. The 
+Marshall Islands is the only country in the Pacific that has no electricity act and therefore legal 
+mandates and clear responsibilities and functions of the MEC Board and MEC are not mandated 
+through the Nitijela (Parliament). 
+The outer islands and atolls are mostly electrified through off-grid solar home systems (SHS) under 
+various projects since 2006. However, the sustainability of these solar home systems with regard to 
+the continuation of maintenance of batteries over the lifespan, as well as replacement at the end of 
+the battery life of five years is questionable. Some of the root causes of the non-sustainability of these systems relate to low payment (USD 5.00
+per month), which does not cover the actual operation and maintenance cost of USD 28.00 per 
+month; limited cash income opportunities in rural households; no proper planning on ownership of 
+the SHS; no actual payment of USD 12.00/month given to MEC); no mandated payment or collection 
+methods and therefore each atoll depends on the national government to pay for the service. 
+However, it should be noted that government has provided MEC with an electricity subsidy over the 
+last years for the urban areas. It was estimated that, by the end of 2014, and with the completion of 
+the EU/SPC Regional Energy Programme for the Marshall Islands, a total of 3,400 SHSs should be in 
+place, with a government subsidy estimated at USD 530,000 per annum to continually maintain,
+operate and sustain the SHSs for rural communities. 
+The following chart illustrates the various stakeholders in the electric sector, with the need for an 
+overarching legislation that governs the sector, including its standards, licensing, and electrical 
+standards for MEC, KAJUR and other producers, as well as SHS provisions and maintenance.
+The electric power sector outcomes and outputs are summarized as follows for the purposes of 
+follow-up actions.
+Electricity 
+legislation 
+and 
+regulations 
+MRD
+MoF
+MEC, KAJUR
+Jaluit, Kili, 
+Wotje
+MPW
+MEC
+Board
+PPA, 
+ADB, 
+MIA Solar WB 
+home 
+system -
+sustainabi
+lity 
+Donor RE 
+projectsPriority outcome: All Marshallese have equitable access to modern energy services
+Outputs:
+ The management and financial system for outer islands PV electrification regularly reviewed 
+and enhanced to ensure sustainability, and make certain the recovery of O&M and battery 
+replacement costs, for household and institution systems (e.g. health, fisheries, telecom, and 
+school installations)
+ A transparent tariff structure established for those receiving full electricity supplies that covers 
+the real costs of each island system, with a lifeline tariff that genuinely benefits low-income 
+consumers without adversely affecting MEC income
+ Initiatives on provision of access to clean and efficient fuels and appliances ensured the 
+incorporation of interventions that promotes sustainable livelihoods, health and safety and 
+environmental protection
+1.6.4 Energy efficiency (Supply and Demand)
+Demand side efficiencies can be improved greatly at relatively low cost. To date there have been no 
+concentrated efforts to improve demand side management (DSM). There are no data available on 
+the savings of electricity since 2009. There has, however, been some effort to reduce government 
+spending on energy efficiency. The remaining challenge is finding the investment cost needed to 
+replace inefficient air-conditioners and lights in all the ministries and the capitol building in Majuro. 
+The government is the major user of energy in the Marshall Islands, accounting for around 6% of its 
+total general fund expenditure. This policy continues to reiterate the need for government to 
+demonstrate leadership by good energy use stewardship in all its activities. Energy conservation was 
+mandated and energy audits were to be undertaken in government departments but this needs 
+increased capacity, incentives and a positive attitude towards conservation practices. 
+Government departments were to champion good energy use stewardship, with resultant publicity
+of good practices and effort. An innovative proposal for the Ministry of Finance to allow 
+departments to retain energy cost savings and spend them on other areas is very noteworthy. It 
+would be good to improve the prospect for full implementation of this proposal. Plans to improve 
+energy efficiency in the government transport fleet by improving maintenance and progressive 
+replacement with more energy-efficient vehicle imports and more public transportation requires 
+enforcement action in the first place to become effective. The phase-out of inefficient incandescent 
+lamps and their replacement with higher efficiency products such as light emitting diodes (LEDS) or 
+compact fluorescent lamps (CFLs) provides one of the most straightforward and cost-effective ways 
+to significantly reduce electricity use and carbon emissions. 
+Several measures, such as appliance rating and labeling and favorable import duty rates, to 
+encourage the importation of energy-efficient appliances, and special loan programs and training of 
+private contractors in energy auditing to allow construction or retrofitting of new or existing homes 
+to improve energy efficiency have been introduced, with limited success, but they remain relevant 
+for the new planning period. Efforts to change the building code to allow increased energy efficiency 
+needs to be fully implemented in the new planning period. This is an area where government and 
+the private sector can enhance collaboration to pay huge dividends to the Marshall Islands during 
+the new planning period.The 2010 KEMA report analyzed the MEC power system and determined total losses of 26.88% 
+consisting of:
+ 8.45% in power station auxiliaries (station losses) which is relatively high amount of loss; 
+typically, station losses are lower than 5%;
+ 0.67% in street lighting ( which should be accounted for and billed)15
+ 6.41% in technical losses; and
+ 11.35% in non-technical losses.
+The non-technical and technical losses total 17.76%. The 2011 PPA benchmarking report provided 
+indicators, one of which was the transmission losses. The target agreed in 2002 for transmission 
+losses for all participating utilities in the benchmarking report is 5%. 
+Priority outcome: Smarter uses of energy in households, businesses, government, the transport 
+sector and power utilities
+Outputs:
+ The reduction of MEC supply-side losses by 20% in 2017, consistent with sound technical and 
+financial criteria should be developed and assessed
+ The number of efficient electric appliances imported into the country through appropriate fiscal 
+incentives for, businesses, households and government sectors increased
+ The energy use consumption is monitored and improved through energy auditing and demand 
+side management
+
+1.6.5 Transport and energy use
+The Ministry of Transport and Communication is mandated only to provide policies and standards on 
+safety in sea transport, including infrastructure development but there is no mainstreaming of 
+energy efficiency and conservation in sea transport. The sustainable transport and the use of 
+indigenous energy sources for transport is seemingly considered a very attractive prospect but 
+technical, capacity development and social acceptance are still areas to be seriously considered and 
+explored given advances in innovation in technologies.
+Land, sea and domestic air transport is the largest user of imported fuel in the Marshall Islands. The 
+quality of life and the economic survival of outer island residents is tied strongly to the cost of 
+transporting goods and people to and from Majuro, Ebeye and other islands. It is especially 
+important that the fuel efficiency of sea transport be improved, both through technical means and 
+through improved management of the available facilities. In addition there is a need to monitor and 
+control the freight costs to the outer islands in a way that is viable and fair to both the service 
+provider and the end users.
+The goal of the energy policy is to lower the amount of fuel imported for transport by 20% by 2020,
+relative to a 2009 baseline. Two types of efforts will assist to meet this goal: (1) reducing energy 
+intensity of travel by improving average vehicle fuel efficiency in miles per gallon (mpg) of fuel used; 
+(2) reducing the amount of travel (or the need for travel) by improving efficiency of management of 
+ 
+15 In 2009, IUCN assisted MEC to change 800 inefficient mercury vapour streetlights (175 watts) to LED lights, a 
+saving of 399,055 kWh per year on street lighting.vehicles through increased average passenger mpg of fuel or, for freight carrying vehicles, increased 
+average ton mpg. While the use of alternative fuels may potentially result in fuel cost savings and 
+reduced GHG emissions, alternative fuels are not considered to be a true energy efficiency strategy. 
+They might deliver significant fuel cost savings for the operator, but an equivalent amount of energy 
+(and sometimes more) is often required to complete the same transport task using conventional 
+fuel. Thus the substitution of one fuel for another rarely results in energy savings.
+16
+Some of the improvement can come from better fuel efficiency brought about by improved 
+maintenance of the existing vehicle stock. There are private companies that have vehicle testing and 
+basic car maintenance facilities; however, there is no enabling environment such as regulation or 
+incentive for enforcing standards on fuel efficiency or vehicle worthiness. There is no legislation on 
+restrictions of second hand cars, importation of engine sizes and fiscal incentives for importing larger 
+vehicles with more seats.
+Other initiatives are the use of hybrid cars and electric vehicles, which are considered relevant when 
+reducing the fossil fuel consumption for transportation. The Ministry of Foreign Affairs has received 
+a hybrid car by the European Union for demonstration use and the benefits are yet to be 
+documented. 
+The testing and maintenance process set in 2009 was mandatory for government vehicles, and 
+vehicles owned by government-owned corporations. This action was not, however, kept up or 
+monitored; only the Ministry of Education participated and continues to enforce the maintenance of 
+its fleet. In addition, the replacing of existing vehicles with more fuel efficient models was a slow 
+process and therefore the goal set in 2009 was not met. It was also noted during the first 
+consultation that there is an increased number of vehicles on the road. One of the targets that are
+included in this policy is to work with Ministry of Finance and Customs Division to monitor and 
+restrict the importation of certain engine sizes and to create incentives for importing larger vehicles 
+(eight or more seats) for public transportation around Majuro.
+One of the ongoing challenges in improving efficiency in the land transport sector is the lack of a 
+regulatory body that could establish policies and enforce legislation related to promoting fuel 
+efficient vehicles. The Ministry of Transport and Communication is mandated only to provide policies 
+and standards on safety in sea transport, including infrastructure development, but there is no 
+mainstreaming of energy efficiency and conservation in sea transport. The sustainable transport and 
+the use of indigenous energy sources for transport is seemingly considered a very attractive 
+prospect but technical, capacity development and social acceptance are still grey areas. 
+Priority outcome: Smarter uses of energy in households, businesses, government, the transport 
+sector and power utilities
+Outputs:
+ Increased the number of energy efficient vehicles into the country through appropriate fiscal 
+incentives for business, private sectors, households and government sectors.
+ Government developed a more energy efficient transport network through collaborations with 
+various stakeholders and adopting best practices that are applicable in the RMI
+ 
+16 Rare Consulting (2011) Fuel for Thought – Identifying potential energy efficiency opportunities in the 
+Australian road and rail sectors.1.6.6 Renewable energy
+Renewable energy is the most long-term alternative to imported petroleum products for electricity 
+production in the Marshall Islands; solar photovoltaic systems are considered one of the most 
+appropriate technology for electricity production from renewable energy, and the country has made 
+considerable progress in improving energy production (electrification) using solar energy, mainly in 
+the remote and outer islands and atolls. The use of renewable energy sources is a priority for the 
+government, with its strong commitment to mitigate climate change effects, and also as a way of 
+showing that a small island developing state is gravely concerned about the increase and impact of 
+greenhouse gas emissions produced globally. In 2012, the ADMIRE project provided funding support 
+for the installation of wind monitoring masts in two atolls; Wotje and Jaluits, to collect information 
+on the potential for wind energy in these atolls. The island's first wind turbine was installed in April 
+2011 by a private firm, Moana Marine LLC. Capacity currently stands at 10 kW. Wind speeds for the 
+island have been recorded in the past by the USA, with averages in the region of 6–7 m/s throughout
+the islands.
+The EDF 9 funding support through the Renewable Energy Programme (REP-5) implemented from 
+2008 to 2012 installed 420 SHSs of 200 Wp in various island communities and six stand-alone PV 
+systems, each in six primary schools with a system range from 6–13 kWp, thus a contribution of solar 
+PV energy of around 141 kWp. The contribution of the EU/SPC Northern Pacific Regional Energy 
+Project (North-REP) has in total installed 1,500 stand-alone SHSs (300 kWp) in the islands and it is 
+expected that the project will be completed by 2015. It is likely that electrification programs using 
+solar PV will continue in the future with EU funding. The sustainability of these systems is a 
+continued challenge; there is a discussion amongst the key stakeholders, including MRD, MEC, MIA
+and communities to develop a more sustainable program, where the true costs of maintenance are 
+included. The responsibility for maintenance and collection of the maintenance fee of USD 5.00 a 
+month (a subsidised rate) is currently with MEC.
+Ocean energy has long term potential. Technologies to harness ocean energy have been 
+commercialized and more efficient technologies are being developed. Technical assistance is 
+required for conducting a feasibility study, including social and economic viability. During the 
+consultation for the formulation of this 2015 NEP, it was suggested that proper reporting on the 
+feasibility study should be presented to the decision makers, in particular to the government. The 
+wave energy and OTEC are two renewable energy technologies not yet well progressed in the 
+region. 
+Biomass energy has some potential as well. A proposed project for small-scale mill systems in the 
+outer islands is currently on hold. MEC also plans to refit the Majuro Station One, Engine #3 to utilize
+biofuels. The Global Sustainable Energy Islands Initiative has conducted a feasibility study on the 
+uptake of coconut/copra biofuels as a source of energy for the Marshall Islands. The Tobolar copra 
+mill is retailing a 50/50 blend of filtered coconut oil and diesel, below the price of regular diesel. 
+Priority outcome: A reliable, sustainable and affordable energy supply
+Outputs:
+ Private sector participation in the electric power supply in RMI shall be allowed under conditions that are fair to MEC and the supplier (i.e. independent power producer’s 
+agreement)
+ Available energy modelling developed to ascertain the technical and economic 
+indigenous energy sources where technically practical and economically viable
+ The technical capacity of government (EPD) and MEC to plan, develop, implement and 
+manage renewable energy systems (small and medium-scale rural; large-scale urban) shall 
+be continuously updated and enhanced.
+ Economically feasible alternatives to diesel fuel for power generation shall be utilized2.0 Linking the policy outcomes, expected outputs to the strategies
+The strategies laid out in this chapter provide the links between the policy outcomes, expected
+outputs to the planned activities. The strategies are ideas that are then linked to the committed plan 
+of action that have been identified to achieve the key priority outcomes, goals and vision. These 
+strategies are provided for each of the policy outputs under the six thematic areas – energy policy 
+administration and coordination, petroleum, electric power, transport and energy use, energy 
+efficiency, and renewable energy. The planned activities or action plan for the three years, 2015 –
+2019 is included as part of the policy and attached as Annex 1.
+The strategic links to the action plans, when they are effectively implemented, should achieve the 
+four policy outcomes;
+• improved enabling frameworks for reducing dependence on imported fossil fuel
+• all Marshallese have equitable access to modern energy services
+• smarter uses of energy in households, businesses, government, the transport sector, and
+power utilities
+• reliable, sustainable and affordable energy supply
+The links of the policy output and the strategies to the policy outcomes is provided in the tables 
+below.
+Outcome 1 - Improved enabling frameworks for reducing dependence on imported fossil fuel
+Expected Output 1: The Energy Planning Division developed its capacity and skills set to 
+enable it to review and manage the energy legislations and policy frameworks
+Strategy 1.1 A new energy law, (Energy Sector Management Act) will be considered as 
+appropriate to clarify powers and responsibilities within government for 
+energy
+Strategy 1.2 Annual work plan developed for MRD’s Energy Planning Division, with clear 
+objectives, priorities and timeframe, to be reviewed quarterly
+Strategy 1.3
+Informal training of EPD staff through attachments, RE/EE training and 
+possible diploma or degree level training in energy
+Expected Output 2: A national energy database is developed, managed (for analysis and 
+policy development) and maintained
+Strategy 2.1 EPD coordinates energy database development, production and regular 
+revision with relevant stakeholders
+Expected Output 3: Coordination and communication on energy issues at national, regional 
+(within Micronesia and wider Pacific) and global levels shall always be strengthened
+Strategy 3.1 The Marshall Islands to engage effectively with national, regional and 
+global stakeholders, including energy service providers, private sectors, 
+non-government organizations and community-based organizations and 
+vulnerable groups to promote energy initiatives 
+Strategy 3.2 MRD participation in the budget reform process, including advocacy of 
+performance-based budgeting within the government, with energy criteria 
+as performance measures for each government ministry and agencyStrategy 3.3 EPD introduces a communications plan using multiple media and having 
+targeted messaging to address particular interests of local stakeholder and 
+international development partners
+Expected Output 4 Decision making regarding the importation and consumption and pricing 
+of petroleum products based on reliable data on petroleum imports, sales and end-use
+Strategy 4.1 Develop a petroleum act with provision of licensing as well as supply 
+of petroleum data and reports
+Expected Output 5 The wholesale and retail prices of petroleum products shall be made 
+equitable for urban and rural users through control and regulation 
+Strategy 5.1 Conduct an independent study of petroleum pricing on Majuro and 
+outer atolls to determine benefits and costs and a proper pricing 
+mechanism 
+Expected Output 6: The safe storage, handling and distribution shall be ensured for all 
+petroleum products
+Strategy 2.3.1 Establish and maintain a system for inspection and certification of 
+storage, handling and safety procedures, and licensing of petroleum 
+storage and distribution facilities
+Outcome 3 - All Marshallese have equitable access to modern energy services
+Expected Output 7: The management and financial system for outer islands PV electrification 
+regularly reviewed and enhanced to ensure sustainability, and make certain that recovery of 
+O&M and battery replacement costs, for household and institutional systems (e.g. health, 
+fisheries, telecoms, and school installations)
+Strategy 7.1 Conduct a comparison of two sustainability models currently in use –
+through selling of handicrafts and through the local government funds.
+Expected Output 8: A transparent tariff structure established for those receiving full 
+electricity supplies that covers the real costs of each island system, with a lifeline tariff that 
+genuinely benefits low-income consumers without adversely affecting MEC income
+Strategy 8.1 Establish an effective and sustainable plan to address tariff collection and 
+SHS maintenance
+Strategy 8.2 Assessment of costs and benefits to the government subsidy to MEC17 as 
+part of government's efforts to rationalise payments to landowners
+Expected Output 9: Initiatives on provision of access to clean and efficient fuels and 
+appliances ensured the incorporation of interventions that promotes sustainable livelihoods, 
+health and safety and environmental protection 
+Strategy 9.1 Promote cleaner fuels and efficient cooking technologies to improve health 
+and environmental protection, particularly the women and children
+ 
+17 MEC is one of the SOE under the Ministry of Public Works portfolioOutcome 4 - Smarter uses of energy in households, businesses, government, the transport sector 
+and power utilities
+Expected Output 10 The reduction of MEC supply-side losses by 20% in 2017, consistent 
+with sound technical and financial criteria should be developed and assessed
+Strategy 10.1 Effective implementation of the RMI Sustainable Renewable Energy and 
+Energy Efficiency Measures in Micronesia including RMI18
+Expected Output 11 The number of efficient electric appliances imported into the country
+through appropriate fiscal incentives for business, private households and government 
+sectors increased
+Strategy 11.1 Effective implementation of the SIDS DOCK project titled Energy 
+Efficiency Loan Schemes (EELS) 19
+Strategy 11.2 Revise taxation system to encourage the import of energy efficient air 
+conditioners/major household appliances and introduce mandatory 
+standards and labeling system
+Strategy 11.3 Develop energy efficiency standards for new buildings and renovations 
+including homes, businesses and government premises, with financing on 
+subsidized terms for designs and construction/renovation meeting the 
+standards
+Expected Output 12 The energy use consumption is monitored and improved through 
+energy auditing and demand side management
+Strategy 12.1
+Carry out energy audits on the remaining government facilities, business 
+communities and households and implementation of recommended 
+energy efficient measures
+Expected Output .13: Increased the number of energy efficient vehicles into the country 
+through appropriate fiscal incentives for business, private sectors, households and 
+government 
+Strategy 13.1 Establish guidelines for the maintenance of government vehicles with 
+adequate budget allocation
+Strategy 13.2 Promote, increase awareness and create incentives (in the private 
+sector) on efficient mode of transport, e.g. bicycles, sail boats, fuel 
+efficient taxis
+Expected Output 14 Government developed a more energy efficient transport network 
+through collaborations with various stakeholders and adopting best practices that are 
+applicable in the RMI
+Strategy 14.1
+Investigate the practicality of retrofits to reduce fuel use in sea transport, 
+e.g. more efficient propellers, sail-assist technologies, and other alternate 
+energy sources
+Outcome 4 - A reliable, sustainable and affordable energy supply
+Expected Output 15 Private sector participation in the electric power supply in RMI shall be 
+allowed under conditions that are fair to MEC and the supplier (i.e. independent power 
+producer’s agreement)
+ 
+18 RMI SREEM (Sustaining Renewable Energy and Energy Efficiency Measures in Micronesia) Project includes 
+energy efficiency at MEC power plants
+19 The project includes activities to establish the energy efficiency loan schemes (EELS), to be completed by 
+April 2015Strategy 15.1
+Develop appropriate legislation and regulations with clearly-defined 
+authority, obligations and responsibilities for electric power supply in 
+Majuro and throughout the Marshall Islands
+Strategy 15.2 Quantify reduction in the national energy import bill for power generation
+Expected Output 16 Available energy modelling developed to ascertain the technical and 
+economic indigenous energy sources where technically practical and economically viable
+Strategy 16.1
+Determine the indigenous energy resources that are available for 
+development through feasibility studies 
+Strategy 16.2
+Expand RE electrification for off-grid areas 
+Strategy 16.3
+Expand the grid-connected RE capacity in Majuro, Kwajalein, Jaluit and 
+Wotje
+Expected Output 17 The technical capacity of government (EPD) and MEC to plan, develop, 
+implement and manage renewable energy systems (small and medium-scale rural; largescale urban) shall be continuously updated and enhanced
+Strategy 17.1 Increase awareness and provide training to public and private sectors on 
+appropriate renewable energy systems
+Strategy 17.2 Develop policy regimes including incentives and a marketing plan to 
+increase private sector involvement and facilitate introduction of 
+renewable energy systems
+Expected Output 18 Economically feasible alternatives to diesel fuel for power generation 
+shall be utilized
+Strategy 18.1 Conduct an independent study of the viability of alternatives to diesel fuel 
+for power generation where economically sound (e.g. coconut oil, LNG, 
+RE). Implementation of recommended viable alternatives3.0 Monitoring and evaluation
+This section represents a plan to guide the monitoring and evaluation (M&E) of the energy efforts 
+and initiatives within the Marshall Islands over the life span of this national energy policy. It has been 
+developed in conjunction with the EPD and other relevant departments, authorities, utilities and 
+partners. The M&E plan has been developed in alignment with the RMI Strategic Development Plan 
+objectives and the national energy policy outcomes, goals and policy outputs. 
+Principles of the M&E plan
+1. It should be useful
+2. It should be simple
+3. It will strengthen government’s ability to track its progress and assess effectiveness and 
+efficiency
+4. It provides a sound basis for purposes – evidence and contestability
+5. It enhances transparency and accountability
+3.1 Monitoring
+The EPD will be the main coordinating entity for this M&E plan. It will work alongside relevant 
+government agencies, statistics units and the national utility to collect data and undertake 
+monitoring for the M&E plan. For the purpose of this plan, monitoring is used to describe an ongoing 
+process of collecting routine data. 
+A monitoring logical framework for this national plan is provided in Annex 2. It focuses on tracking 
+the key outcome indicators outlined above.
+It is recommended that an annual monitoring report be developed, summarising the key activities 
+undertaken during the year, as well as an analysis with recommendations based on progress against 
+the M&E log frame to assist with forward planning, decision making on priorities, resource allocation 
+and fundraising. This report should include an analysis of the extent to which the implementation of 
+activities has contributed to the achievement of outcomes, which planned results were achieved, 
+and some narrative on whether the planned activities were appropriate. The indicators and their 
+means of verification, at the appropriate level in the log frame analysis, should be referred to.
+3.2 Evaluation
+An external evaluation will be undertaken at the mid-term juncture (2017) of the NEP to assess 
+progress and outcomes of the energy efforts and to assist with any refinements to the EAP. A final 
+evaluation should be undertaken at the end of the NEP lifespan (2020). This should also summarize
+the 'lessons learned' and should include information on the major challenges to implementation of 
+the NEP and EAP, and the response to those challenges. The evaluations will be undertaken, looking 
+at key measures of effectiveness, efficiency, relevance and sustainability. It should also have a 
+special reference to gender and the extent to which gender has been integrated into energy 
+initiatives and activities.The Energy Sector Action Plan provides guidance on implementing related activities to achieving the outcomes and 
+goals set in the NEP. There are six key policy areas or thematic actions that the activities are aligned to
+ Policy Administration and Coordination
+ Petroleum 
+ Electric Power
+ Transport and Energy Use
+ Energy Efficiency and
+ Renewable Energy
+All of the activities that were not fully implemented in the 2009 EAP and considered important are included in the 
+2016 EAP. It is anticipated that the EAP to be monitored and evaluated annually through a log frame matrix which is 
+developed as part of this policy and to be used for the monitoring of the EAP.
+The EAP is revised to a three years strategic plan and with specific years for each activity. Each action plan includes:
+ Policy Outputs as defined in the NEP
+ Strategies that links the NEP to the Action Plan
+ Activities under each strategy
+ Organization responsible for each activities
+ Support or participating organizations for implementing the activities
+ Activity priority and year : the priority and the importance of each activity to progress towards the desired 
+objectives and these are ranked as 1 as high therefore needs to be implemented in the first year of 
+endorsing the plan
+ Estimated budget and potential sources based on available information. This is expected to be change on a 
+yearly basis when new information and projects are implemented.
+The aim of the action plan is to allow the relevant stakeholders to work together to achieve the vision of the plan. 
+The plans intend to include all activities related to the energy sector development so and that the development is 
+coordinated through one agency and plan. Guiding principles as noted in the NEP should be considered when 
+implementing the plan; these are adopting the whole of energy sector approach, the many partners one team 
+approach, financial, social and environmental sustainability, gender, data management and information and climate 
+change. The Action Plan sets out activities for a three years period and that are required to contribute to the policy 
+outcomes and policy goal set out for the energy sector. The action plan also includes the leading agency and 
+supporting or participating stakeholders required to implement the activities. It is noted that most of the activities 
+are to be implemented and coordinated by the Energy Planning Division, in particular on the coordination of 
+activities. This action plan is aligned to the National Energy Policy Outcomes identified in the policy framework;
+1. Improving enabling frameworks for reducing dependency on imported fossil fuel
+2. Ensure all Marshallese have access to modern energy services
+3. Smarter uses of energy in households, businesses, government and transport sector, and
+4. Reliable, sustainable and affordable energy supply
+Each action plan includes:
+ Policy Outcome
+ Policy Goals linking to the Outcome Activities under each strategy
+ Rankings is based on the Indicative Ranking Matrix see table 18
+ Organization responsible for each activities
+ Support or participating organizations for implementing the activities
+ Activity priority : the priority and the importance of each activity to progress towards the desired objectives 
+and these are classified as high therefore needs to be implemented in the first year of endorsing the plan
+ Estimated budget and potential sources based on available information. This is expected to be change on a 
+two year basis when new information and projects are implemented.
+The activities were prioritized in accordance with the ranking matrix see below - Operationalization of the EAP
+The aim of the action plan is to allow the relevant stakeholders to work together to achieve the vision of the national 
+energy policy. The strategic and action plans intend to include all activities related to the energy sector 
+development so and that the development is coordinated through one agency and plan. Cross cutting issues as 
+defined in the 2016 NEP should be considered when implementing the action plan. The guiding principles are whole 
+of energy sector, financial sustainability, environmental and social sustainability, climate change, data management 
+and information and many partners one team.
+Operationalization of the EAP 
+Local ownership and responsibility for the EAP are important sustainability criteria for any Plan. It was very 
+encouraging that a number of activities in the existing EAP were earmarked to be implemented using local financial 
+resources. This is planned to be the case in the new EAP. Increased effort is being made in the revised EAP to confirm 
+donor funding for activities in Plan to reduce slippage during implementation. This will also enhance public 
+confidence in the Plan. . Additionally, a ranking criterion will be used to prioritize the activities into high, low and 
+medium categories. To enhance transparency the ranking matrix below is proposed for used to rank projects in the 
+new EAP. 
+Table 1: Indicative Ranking Matrix
+Criteria Weight (%)
+Up to
+Ease of implementation: proposal prepared and donor identified 15
+Consistent with international obligations 10
+Has revenue generation or employment creation potentials 15
+Significant reduce energy imports in short run 15
+Has to be implement before another activity can commence 15
+Positive environmental impacts 10
+Positive impact on women and poor communities 10
+Meeting NEP outcomes 10
+Total 100
+The matrix was used to rank the activities as follows: activities with scores of 100-75% are ranked priority 1; those 
+scoring 74 to 60%, priority 2 and those scoring 59-50% are ranked as priority 3. 
+The implementation of EAP was predicated on actions by state and non-state actors at the levels of the household, 
+community and private sector investor (local and/or foreign). 
+It was not possible to obtain information on major users of energy in the private sector. In terms of the private g gppy
+would be to quantify savings and costs associated with private sector activities as part of the revised EAP.
+The private sector was to play a leading role in introducing renewable energy. Changes to energy legislation, fiscal 
+incentives, data collection and feasibility studies were to be undertaken to contribute to an enabling environment to 
+attract private sector investments in the renewable energy sectors. Limited progress and mixed results were made in
+this area. As part of the new EAP a national energy model will be developed to forecast the level of energy to be 
+supplied by renewable energy and quantify the level of required investment to meet the targets. As part of the 
+revised EAP GRMI will also consider developing a strategy to proactively market these opportunities available to the 
+private sector in the energy sector. This will be included as part of the national inward investment strategy/Plan. 
+Otherwise the required investment might not materialize and the GRMI would be in a weak position, having to react 
+to ad hoc proposals from investors, which very often are speculative and not viable.
+Of equal importance to creating an enabling environment for private sector involvement in the energy sector are 
+developments in the continuation of the public sector reform programs discussed earlier. This will give prospective 
+investors confidence and reduce uncertainty concerning the overall sustainability of RMI over the long term, when 
+compact grants end in 2023. There is an increasingly competitive international business environment in which to 
+attract investment. RMI would have some challenges in this area as it is ranked 114th by the World Bank, out of 189 
+countries in terms of doing business in 2014. In a few areas which are very important for attracting foreign investor 
+or establishing a small business out of 189 countries RMI ranked as follows: starting a business, 56; enforcing 
+contracts, 61; getting credit, 86; obtaining a construction permit, 32 and registering property, 189. In terms of 
+developing a strategy to generally expand the private sector it would be advantageous for RMI to consider the issues 
+highlighted by the World Bank doing business report. 
+At the household level, behavioral change is necessary to adopt energy conservation and energy efficiency practices. 
+This would not only contribute to household energy cost savings, which could be diverted to other priority 
+expenditure, it would also contribute to reduction of the national energy import bill and the national expenditure on 
+energy subsidies. A number of education and awareness programs throughout the education system and using pubic 
+media and social media commenced, more collaboration with the Ministry of Internal Affairs, Community 
+Development Division in the current plan to facilitated action at the household level, These will be consolidated in 
+the revised EAP. In addition a progressive tariff regime, which allowed the rate of import duties on energy efficient 
+appliance and vehicles, was proposed in the 2009 EAP and recorded mixed results. Likewise various home financing 
+loan programs were proposed, and achieved similar result. These efforts would be consolidated in the revised EAP. 
+More effort would be made to increase education and awareness of these programs. As part of these effort will be 
+to project savings from household, as this should increase interest in participating in these programs.THEMATIC AREA 1: ENERGY POLICY PLANNING AND COORDINATION
+Expected Output/Result 1: The Energy Planning Division developed its capacity and skills set to enable it to review and manage the energy legislations and policy 
+frameworks
+Strategy 1.1: A new energy law (Energy Sector Management Act) will be considered as appropriate to clarify powers and responsibilities within government for energy 
+(1st priority)
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential
+Source
+Amount
+(USD)
+1.1.1 Formulate an Energy Sector Management Act20 that provides for 
+the management of the energy sector in the RMI including:
+a) Petroleum supply, safety, storage, transport, distribution and 
+pricing
+b) RMI electricity utilities and their activities -
+c) Land, sea and domestic air transport
+d) Access to appropriate sites for renewable energy development and 
+energy distribution 
+e) Fiscal incentives (imports and taxations) and regulations relating to 
+fuels, renewable energy components, electric appliances, vehicles, 
+boats, large pumps and other equipment that are major energy 
+providers and users on the national scale.
+MRD
+AG, MOF,
+MEC,KAJUR, EPA, 
+MIA, 
+EPPSO,OEPPC, 
+MTC, Ports 
+Authority, MISC,
+Private-Sector,
+AMI
+1 2016 World Bank 
+TA, SPC
+Petroleum 
+Advisory TA
+85,000
+1.1.2 Based on above activity, review, prepare amendments, 
+regulations and bylaws to clearly delineate responsibilities and 
+structures for energy supply, distribution and their management
+MRD Same as above 1 2016 Q1
+1.1.3 Formally established the ETF membership, roles and functions 
+and reporting mechanism through Cabinet. Members to include the 
+primary energy sector stakeholders, MEC, MIA, MPW, MRD, EPPSO & 
+OEPPC including private sector and civil society rep.
+MRD ETF members 1 2016 Q1 Internal 3,000
+ frameworks
+Strategy 1.1: A new energy law (Energy Sector Management Act) will be considered as appropriate to clarify powers and responsibilities within government for energy 
+(1st priority)
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential
+Source
+Amount
+(USD)
+a) First step is to prepare clear terms of reference for the ETF to 
+include coordination of energy related efforts and improving 
+energy efficiency within government 
+Sub-total Strategy 1.1 88,000
+Strategy 1.2: Annual work plan developed for MRD’s EPD with clear objectives, priorities and timeframe including a communication strategy to be reviewed quarterly
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+source
+Budget
+(USD)
+1.2.1 Approval of national energy policy and strategic action plan 
+providing a guideline to the energy sector planning MRD ETF 3 2016 Q2 Internal 3,000
+1.2.2 Develop MRD EPD Annual Work Plan, based on the NEP and 
+EAP, projects activities with clear objectives. If necessary, review and 
+amend Action Plan according to resources available.
+MRD ETF 1 2016 Q1
+Internal TA
+SPC
+5,000
+Sub-total Strategy 1.2 8,000
+Strategy 1.3 Informal training of Energy Planning Division staff through attachments, RE/EE training, and possible diploma or degree level training in energy
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+1.3.1 Determine the human resources needed to effectively 
+implement the revised legislation, regulations and bylaws. MRD
+MEC/KAJUR
+ETF, PSC
+MOF, MIA
+1 2016 Q1
+ADMIRE,
+Internal 
+Budget (TA)
+10,000
+132 Develop a capacity building program with costs where neededMRD as above 1 2016 Q3 Internal10000Sub-total Strategy 1.3 20,000
+Expected Output/Result 2: A national energy database is developed and managed (for analysis and policy development) and maintained
+Strategy 2.1:EPD coordinates energy database development, production and regular revision with relevant stakeholders
+Planned Activity
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+2.1.1 EPD to recruit a database officer to collate data and develop 
+energy statistics yearbooks and to be trained on technical, gender and 
+social aspects of energy. 
+MRD EPPSO, MOF, SPC 2 ongoing Internal 10,000
+2.1.2 Enforce the regulation and through licensing to require all 
+petroleum suppliers and retailers to provide quarterly reports to MRD 
+and EPPSO on volumes of fuel imported as well as fuel consumption by 
+sector – transport, fisheries, aviation, households/residential
+MRD AG, MEC, Fuel 
+importers,
+2 2016 Q2 SPC 3,000
+2.1.3 Maintain an up-to-date active registry of opportunities for donor 
+support through projects channeled to MRD-EPD
+MRD EPD, MOFA 2 2016 Q1 SPC - TA 5,000
+Sub-total Strategy 2.1 18,000
+Expected Output/Result 3: Coordination and communication on energy issues at national, regional (within Micronesia and wider Pacific) and global levels shall 
+always be strengthened
+Strategy 3.1 The Marshall Islands to engage effectively with national, regional and global stakeholders including energy service providers, private sectors, nongovernment organizations and community based organizations and vulnerable groups to promote energy initiatives
+3.1.1 Develop calendar events at national level with MIA –mayor, 
+women, youth, disabled and other gender groups and work together 
+to promoting energy initiatives (EE awareness and RE services)
+MRD MIA, SPC 3 2016 Q2 Internal 2,000
+3.1.2 EPD to work in close collaboration with the OEPPC in 
+mainstreaming of climate change activities, particularly support for 
+appropriate and practical RE/EE, capacity building for environmental 
+sustainability and economic opportunities and climate financing
+MRD OEPPC 2 2016 Q3
+Project 
+partners 
+/GIZ, IUCN, 
+SPC, SPREP, 
+IRENA
+2,000
+Subtotal Strategy 31 4000Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source
+Budget
+(USD)
+3.2.1 EPD to submit annual budget relating to policy implementation 
+with energy indicators as performance measures
+MRD MOF, MIA, SPC 1 2016 Q1 SPC 5,000
+Sub-total Strategy 3.2 5,000
+Strategy 3.3 EPD introduces a communications plan using multiple medias and having targeted messaging to address particular interests of local stakeholder and 
+international development partners
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+3.3.1 EPD develops energy messages through different media 
+targeting different gender groups, women, men, youth and school 
+children
+MRD
+MIA,
+SPC
+2 2016 Q1 SPC 10,000
+Sub-total Strategy 3.3 10,000
+TOTAL POLICY ADMINISTRATION AND COORDINATION ACTION PLAN 149,000THEMATIC AREA: PETROLEUM SECTOR
+Expected Output/Result 4: Decision making regarding the importation, consumption and pricing of petroleum products based on reliable data on petroleum 
+imports, sales and end-use
+Strategy 4.1 Develop Petroleum Sector Act with provision of licensing as well as supply of petroleum data and reports
+Planned Activities
+Organization (s) Responsible
+Ranking
+Time Frame 
+for 
+initiation
+Planned Budget
+Coordinating 
+agency
+Participating or 
+Supporting
+Potential 
+Source
+Budget 
+(USD)
+4.1.1 Develop a Petroleum Act regulating the storage and handling of 
+petroleum including rules for transporting and storing and licensing 
+regime, sharing of data and information on a quarterly basis to MRD & 
+EPPSO). This is in addition to Customs reporting requirements) on 
+volumes of each type of fuel imported and sold.
+MRD with AG
+MOF,
+MEC,
+Fuel Importers
+2 2016 -2017
+Internal,
+TA/SPC 55,000
+4.1.2 Provide information quarterly to SPC quarterly regional fuel price 
+monitor that will assist with national fuel monitoring pricing. MRD with MIA
+MOF,
+Fuel importers
+3 2016 - 2019 TA/SPC 3,000
+4.1.3 Implement the MEC-Petroleum Reform Programme (PRP) activities;
+Management and Operational, Procedural and process and Physical MEC MRD 3 2016 - 2019 5,380,000
+Sub-total Strategy 4.1 5,633,000
+Expected Output/Result 5: The wholesale and retail prices of petroleum products shall be made equitable for urban and rural users through control and regulation
+Strategy 5.1 Conduct an independent study of petroleum pricing on Majuro and outer atolls to determine benefits and costs and a proper pricing mechanism
+Planned Activities
+Organization(s) Responsible Ranking
+Time Frame 
+for Initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source
+Budget
+(USD) 
+5.1.1 Develop a pricing template appropriate for RMI to monitor the fuel 
+prices to be later regulated by legislation or other means MRD
+MIA
+AG
+1 2016- 2017
+SPC/TA,
+Internal
+5,000
+5.1.2 Arrange an independent study to evaluate gasoline, diesel fuel, 
+kerosene and the benefits and costs of a mechanism to establish 
+MRD SPC 2 2016 Q3 SPC/TA 20,000p
+5.1.3 Develop expertise with EPD and MEC as appropriate to tender, 
+negotiate and monitor petroleum supply contracts through 
+consultations
+MRD
+MIA,
+MEC
+2 2016 Q3 SPC/TA 10,000
+Sub-total Strategy 5.1 35,000
+Expected Output/Result 6: The safe storage, handling and distribution shall be ensured for all petroleum products
+Strategy 6.1 Establish and maintain a system for inspection and certification of storage, handling and safety procedures and licensing of petroleum storage and 
+distribution facilities
+Planned Activities
+Organization(s) Responsible
+Ranking Time Frame 
+for Initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source
+Budget 
+(USD)
+6.1.1 Recruit staff dedicated to implementation of the proposed 
+Petroleum Act – inspection and licensing of petroleum storage and 
+handling
+MRD,
+PSC
+MEC,
+MIA
+1
+2016- 2019
+WB, SPC 10,000
+6.1.2 Through proper trainings, develop standards/guidelines for 
+inspection and certification of storage, handling and safety procedures 
+and licensing of petroleum storage and distribution facilities 
+MRD
+MEC, KAJUR
+MIA, MOF,EPA
+1 SPC, WB 5,000
+6.1.3 Obtain professional advice on the quality and suitability of fuels 
+imported into RMI and any bio-fuels produced locally. Develop standards 
+if required.
+MRD
+MEC, EPA,
+Toboloar
+2 SPC/TA 5,000
+6.1.4 To develop a concept on how to monitor the high sea fuel 
+bunkering MRD
+MEC
+AG
+2 2016 Q1 SPC/TA 5,000
+Sub-total Strategy 6.1 25,000
+TOTAL PETROLEUM ACTION PLAN 6,008,000Energy Action Plan 2016 2019
+KEY THEMATIC AREA: ELECTRIC POWER
+Expected Output/Result 7: The management and financial system for outer islands PV electrification regularly reviewed and enhanced to ensure sustainability, and 
+make certain that recovery of O&M and battery replacement costs, for household and institutional systems (e.g. health, fisheries, telecoms, and school installations)
+Strategy 7.1: Conduct a comparison of two sustainability models currently in use – through selling of handicrafts and through the local government funds
+Planned Activities
+Organization(s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source
+Budget
+(USD)
+7.1.1 Marshall Islands Major Association (MIMA) in partnership with EPD to 
+review and highlight pros and cons of the two models and develop a 
+solution/establish partnerships with relevant agencies
+MRD
+MIA, MEC,
+MIMRA
+Tobolar, 
+WUTMI
+3 2016 Q2 Internal 5,000
+7.1.2 Introduce Green tax for sustaining SHS to contribute to reducing use 
+of petroleum products thus promoting a green and clean economy
+MRD
+OEPPC
+MEC, EPD 2 2016 Q3 Internal 1,000
+7.1.3 Develop a plan on the maintenance and operations of all SHS to 
+develop proposals for replacement of batteries when required EPD MEC 1 2016 Q1
+Internal,
+North REP
+2,000
+Sub-total Strategy 7.1 8,000
+Expected Output/Result 8: A transparent tariff structure established for those receiving full electricity supplies that cover the real costs at each island system, with a 
+lifeline tariff that genuinely benefits low-income consumers without adversely affecting MEC income
+Strategy 8.1 Establish an effective and sustainable plan to address tariff collection and SHS maintenance
+Planned Activities
+Organization(s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source
+Budget 
+(USD)
+8.1.1 Improving collection of monthly usages taking into consideration the 
+limited cash opportunities in the outer and rural households. An assessment 
+of real costs of rural PV electrification was done through North REP.
+MRD MEC, MIA 1 2016 Q1 Internal 2,000
+8.1.2 Maintain collaborations with MIA and women’s group organization to 
+effectively adopt a plan for sustainability of the solar home systems MRD MIA, MEC, 
+WUTMI 1 2016 Q1 Internal 2,000Planned Activities
+Organization(s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+source
+Budget 
+(USD)
+8.2.1 Develop a transparent policy that clearly defines the benefits of the 
+1,000kWh per month electricity allowance for landowners and government. MRD MEC, MIA 2 2016 Q1 MEC 2,000
+8.2.2 Implement a cash power meter systems in all MEC customers 
+including government, businesses and households MEC, KAJUR MRD 1 ongoing
+Japan, 
+Australia, 
+DOI,
+ADB
+500,000
+Sub-total Strategy 8.2 502,000
+Expected Output/Result 9: Initiatives on provision of access to clean and efficient fuels and appliances ensured the incorporation of interventions that promotes 
+sustainable livelihoods, health and safety and environmental protection
+Strategy 9.1: Promote cleaner fuels and efficient cooking technologies to improve health and environmental protection particularly the women and children
+Planned Activities
+Organization(s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source
+Budget 
+(USD)
+9.1.1 Promotes and seek support to distribute energy efficient biomass stove 
+and LPG use for cooking22.
+EPD KIO 1 ongoing
+USA,GEFUNDP,
+SPC
+154,500
+Sub-total Strategy 9.1 154,500
+TOTAL ELECTRIC POWER ACTION PLAN 668,500
+ 
+21 MEC is one of the SOE under the Ministry of Public Works portfolio
+22 Two types of energy efficient stoves have been distributed to outer islands and atolls by KIO. The first 900 was purchased from StoveTech through the USA funding, the second patch 960 KEY THEMATIC AREA: ENERGY EFFICIENCY AND CONSERVATION
+Expected Output/Result 10: The reduction of MEC supply-side losses by 20% in 2017, consistent with sound technical and financial criteria should be developed and 
+assessed
+Strategy 10.1:Effective implementation of the RMI Sustainable Renewable Energy and Energy Efficiency Measures in Micronesia including RMI
+Planned Activities
+Organization (s) Responsible
+Ranking
+Time 
+Frame for 
+initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+10.1.1 Preparation for the power plant testing (Majuro Power Stations 
+1& 2)
+MEC
+MRD, UNDP, 
+SPREP
+1 2016 Q1
+SIDSDOCK,
+SPREPPIGGAREP+
+2,000
+10.1.2 Conduct of power plant testing to establish the actual energy 
+utilization performance of the generating units
+MEC
+MRD, UNDP, 
+SPREP
+1 2016 Q1 94,500
+10.1.3 Analysis and interpretation of the performance testing of each 
+power generation unit
+10.1.4 Documentation of the results, findings and evaluation of the 
+energy utilization performance of each power generation unit in the 
+Majuro Power Plant (1 &2)
+10.1.5 Identification of EE improvements in the power plant operations 
+and in each power generation unit (no cost or housekeeping measures; 
+low to medium cost measures; capital intensive)
+MEC
+MRD, UNDP, 
+SPREP
+1 2016 Q1 4,000
+10.1.6 Power generation technical expert recruited to design an EE 
+Improvement measures with implementation cost
+MEC
+MRD, UNDP, 
+SPREP
+2 2016 Q2 73,000
+10.1.7 Development of a computerized load distribution and dispatch 
+system MEC
+MRD, UNDP, 
+SPREP
+2 2016 Q2 8,000
+10.1.8 Implementation of the load distribution and dispatch 
+optimization systemPlants MEC
+MRD, UNDP, 
+SPREP
+1 2016 Q2 8,000
+10.1.10 Conduct of capacity development on EE power plant 
+operations, power plant testing and load optimization for MEC Power 
+Plants technical and operations personnel
+Sub-total Strategy 10.1 189,500
+Expected Output/Result 11: The number of efficient electric appliances imported into the country through appropriate fiscal incentives for business, private sectors, 
+households and government sectors increased
+Strategy 11.1 Effective implementation of the SIDS DOCK project titled Energy Efficiency Loan Schemes (EELS) 23
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame for 
+initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+11.1.1 Review of existing financing schemes in RMI and 
+literature on financial mechanisms for EE housing projects and 
+EE appliance/equipment loan programs MIDB
+MRD
+Sub contract 1 2014 Q4 - 2016
+same as 
+above
+5,000
+11.1.2 Design an appropriate financing scheme and capacity 
+building 9,000
+11.1.3 Launch of EELS 10,000
+Sub-total Strategy 11.1 24,000
+Strategy 11.2 Revise taxation system to encourage the import of energy efficient air-conditioners / major household appliances & introduce mandatory standards and 
+labeling system
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame for 
+initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+11.2.1 Review an existing act to adopt an appliance and labeling 
+standard applicable to the RMI MRD EPPSO, SPC 2 2015 Q4 - 2016 SPC 5,000
+ based on local and region experiences)
+retailers
+Sub-total Strategy 11.2 8,000
+Strategy 11.3: Develop energy efficiency standards for new buildings and renovations including homes, businesses and government premises, with financing on subsidized 
+terms for designs and construction/renovation meeting the standards
+Planned Activities
+Organization (s) Responsible
+Ranking
+Time 
+Frame for 
+initiation
+Planned Budget
+Coordinating 
+agency
+Participating or 
+Supporting
+Potential Source Budget (USD)
+11.3.1 Implement recommendation from research on energy 
+codes and standards for buildings based on code from Palau
+MRD MPW, MIDB
+USDA, Hawaii 
+DBEDT
+1 2016
+ADMIRE
+Internal
+5,000
+11.3.2 Re-form a building codes task force and engage a 
+consultant to prepare draft energy codes/guidelines for new 
+building construction and building renovation appropriate to 
+the type of building construction used in RMI
+MRD
+DPW, Private 
+contractors,
+MIA, MALGOV
+1 2016
+ADMIRE
+UNDP
+Internal
+50,000
+11.3.3 Implement and enforce new energy 
+code/standards/guidelines for construction and renovation of 
+buildings
+MRD 1 2016
+WB
+EIB (MIDB)
+EC
+5,000
+Sub-total Strategy 11.3 60,000
+Expected Output/Result 12: The energy use consumption monitored and improved through energy auditing and demand side management
+Strategy 12.1 Carry out energy audits on remaining government facilities, business communities and households and implementation of recommended energy efficient 
+measures
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame for 
+initiation
+Planned Budget
+Coordinating 
+agency
+Participating or 
+Supporting
+Potential 
+Source Budget (USD)and implement retrofits in at least five homes 
+General Public,
+Media
+Denmark 
+(PIGARREP 
+plus), Japan, 
+ADB, GEF
+12.1.2 Carry out energy audits and efficiency improvements 
+within government, households and businesses 
+MRD MPW, MEC, 
+KAJUR 2 2016 - 2017 200,000
+12.1.3 Based on results of energy audits, develop and 
+implement a program to improve energy efficiency in 25% of 
+all Majuro and Ebeye homes
+MRD As above plus 
+RMI banks 1 2016 - 2019 800,000
+12.1.4 Evaluate and refine programs and continue to engage 
+public in energy conservation and efficiency education 
+programs
+MRD Task Force, 
+DOE,Media 1 2016 - 2019 300,000
+12.1.5 Support the ongoing activities in delivering of energy 
+audits, capacity and awareness raising on demonstrations of 
+good practice
+MRD/MPW All government 
+agencies 1 2016- 2019 100,000
+Sub-total Strategy 12.1 1,500,000
+TOTAL ENERGY EFFICIENCY ACTION PLAN 1,781,500GO06 09
+THEMATIC AREA: TRANSPORT AND ENERGY USE
+Expected Output/Result 13: Increased the number of energy efficient vehicles into the country through appropriate fiscal incentives for business, private sectors, 
+households and government
+Strategy 13.1: Establish guidelines for the maintenance of the Government vehicle with adequate budget allocation
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+13.1.1 Review current legislation and develop a regulation or policy 
+for mandating vehicle maintenance and engine size for government 
+vehicles – do a comparative study to that of other pacific countries in 
+the North.
+MPW
+MRD , OEPPC
+1 2016 Q3 Internal 25,000
+13.1.2 Provide Training of government personnel in the testing and 
+repair process for government and private sector. MPW OEPPC, MRD 2 2016 Internal 5,000
+13.1.3 Incorporate maintenance expenses in the National budget 
+process
+MOF MPW, MRD 2 2016 – 2019 Internal 2,000
+13.1.4 Introduce a regulatory instrument for spot-checks on vehicle 
+emissions with penalties for emissions above a specified level OEPPC
+MRD, MPW
+3 2016 Q4
+Internal/
+SPC TA
+3,000
+13.1.5 Develop standards on energy efficient vehicles and mandating 
+all government vehicles comply with the standards and develop 
+monitoring mechanisms
+MPW OEPPC, MRD 1 2016 SPC TA 3,000
+13.1.6 Develop a policy that government made availability public 
+transport for government workers (passenger seat of more than 12 
+people)
+MPW MRC 3 2016 Internal 10,000
+Sub-total Strategy 13.1 48,000Strategy 13.2 Promote, increase awareness and create incentives (in the private sector) on efficient mode of transport e.g. bicycles, sail boat, fuel efficient taxis, small 
+engine sizes
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting 
+agencies
+Potential 
+Source Budget (USD)
+13.2.1 Assess options to discourage the importation of vehicles that 
+have larger engines through revise Import Duties Act and provide 
+incentives for smaller engines or increased seat capacity
+MRD
+MPW,
+MOF/Customs 1 2016 Q2 Internal 10,000
+13.2.2 Undertake a study of an efficient public transport systems in 
+Pacific islands, with similar traffic patterns for implementation MPW
+Customs, 
+MTC,
+EPD
+2 2016 Q2 Internal 15,000
+13.2.3 Study the feasibility of LPG, hybrid and electric (powered by 
+renewable electricity vehicles, including buses MOF EPD 1 2016 Q3 Internal 20,000
+13.2.4 Demonstrate the fuel savings on the hybrid car used by the
+Ministry of Finance OEPPC MRD/EPD 1 2016 Q1 Internal 5,000
+Sub-total Strategy 13.2 50,000
+Expected Output/Result 14: Government developed a more energy efficient transport network through collaborations with various stakeholders and adopting best 
+practices that are applicable in the RMI
+Strategy 14.1 Investigate the practicality of retrofits to reduce fuel use in sea transport, e.g. more efficient propellers, sail-assist technologies, and other alternate energy 
+sources
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential 
+Source Budget (USD)
+1411 Study the possibility that all diesel powered government MRD MOF2 2016 2019 Internal 50000py 
+14.1.2 MRD coordinates with MTC on standards/codes on fuel 
+efficient vessels with possible regulated under the Domestic Water 
+Craft Act
+MRD
+MTC
+MOF
+MIA
+EPA
+1 2016
+ADB/WB
+TASPC/EDD 
+10,000
+14.1.3 If feasibility study is technically feasible (above activity) the 
+consultant would prepare a project that can encourage diesels for 
+replacement of existing gasoline engines through favorable term 
+financing and incentives.
+MTC MRD 1 2016 TASPC/EDD 20,000
+14.1.4 Develop programs to encourage the use of wind 
+supplementation for intra-atoll transport and lagoon fishing MIA
+WAM, MRD, 
+OEPPC, MTC, 
+MIMRA,
+WUTMI
+1 2016- 2019 Internal 20,000
+Sub-Total Strategy 14.1 100,000
+TOTAL TRANSPORT AND ENERGY USE 198,000ENERGY ACTION PLAN 2016 2019
+KEY THEMATIC AREA: RENEWABLE ENERGY
+Expected Output/Result 15: Private sector participation in the electric power supply in RMI shall be allowed under conditions that are fair to MEC and the supplier (i.e. 
+independent power producer’s agreement)
+Strategy 15.1: Develop appropriate legislation and regulations with clearly-defined authority, obligations and responsibilities for electric power supply in Majuro and 
+throughout the RMI
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting Potential Source Budget (USD)
+15.1.1 Develop the Electricity Act, that clearly define the 
+powers of the MEC and other utilities, obligations, 
+constitution and roles of the Board and responsibilities for 
+electric power supply in Majuro and throughout the RMI 
+Cabinet ,
+MEC Board
+MOF,
+MPW,
+MRD
+1 2016 Q1
+Possibly WB as 
+follow up to 
+proposed 2009 
+study *
+85,000
+15.1.2 Development of technical guidelines for grid 
+connected self-generation through renewable energy 
+sources, and feed-in tariffs to be established. This guidelines 
+are to be adopted through the proposed Electricity Act
+MEC Board
+MRD,
+ETF
+1 2016 Q1
+IRENA,
+JICA,
+PPA
+20,000
+15.1.3 Consider the recommendations on the MEC and 
+utilities tariff review conducted through North REP project 
+and to be regulated through the ESMA and the proposed 
+Electricity Act
+MRD with MEC
+MOF,
+Business 
+Community
+2 2016 Q3
+SPC,
+WB (follow-up to 
+study)
+5,000
+Sub-total Strategy 15.1 110,000
+Strategy 15.2 Quantify reduction in the national energy import bill for power generation
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting Potential Source Budget (USD)
+1521 Piddd dlid MEC MRDSPC 1 2016 2019 Il 9000Expected Output/Result 16: Available energy modelling developed to ascertain the technical and economic indigenous energy sources where technically practical and 
+economically viable
+Strategy 16.1 Determine the indigenous energy resources that are available for development through feasibility studies 
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating
+agency
+Participating 
+or Supporting
+Potential Source Budget (USD)
+16.1.1 Establish and adopt the guidelines for on grid 
+connection including appropriate policy measures such as 
+feed in tariffs and power purchase agreements
+MRD, MEC
+MPW, Chamber 
+of Commerce, 
+SPC, PPA
+2 2016 Q2
+EC
+ADMIRE
+PPA/IRENA
+25,000
+16.1.2 Adopt the above guidelines into policies; the policies 
+will include the designs and appropriate feed in tariffs, power 
+purchase agreement, etc.
+MRD Same as above 2 2016 Q4
+DOI; NREL
+Possibly EC TCF 
+EC; UNDP
+15,000
+16.1.3 Complete the Renewable Readiness Assessment MRD MEC 3 2016 Q1 EC, IRENA 20,000
+16.1.4 Create awareness and incentives for private and local 
+households to participate in the on grid connections
+MEC,MIDB MRD 1 2016 Q 2 EC, ICDF 2,500
+Sub-Total Strategy 16.1 62,500
+Strategy 16.2 Expand solar electrification for off-grid areas 
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential Source Budget (USD)
+16.2.1 Rehabilitation of SHS (change batteries)
+MRD MEC, EPA, MAWC 1 2016 - 2017 Taiwan, EC 1,000,000
+16.2.2 Develop environmentally sound disposal plan for 
+batteries, solar panels, etc.
+EPA,
+MAWC
+MRD, MEC, MIA 2 2016 Q2 Taiwan, ADMIRE 5,000the EELS – Energy efficiency Loan Scheme
+, , ,
+Sub-total Strategy 16.2 1,015,000
+Strategy 16.3 Expand the grid connected RE capacity in Majuro, Kwajalein, Jaluit and Wotje
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting
+Potential Source Budget (USD)
+16.3.1 A solar PV Grid Stability Study MRD MEC 1 ongoing JICA 350,000
+16.3.2 Consider implementation of the proposed additional 
+500 kWp of grid connected RE systems for Majuro schools and 
+government offices based on the feasibility study conducted 
+by JICA
+MRD
+MEC,
+MPW,
+MOE
+3 2016 Q1 JICA 5,000,000
+16.3.3 Project proposals submitted to UAE funding for 
+additional 500kWp for grid connected solar at MEC MRD
+MEC, MPW,
+MOE
+3 2016 Q1 UAE 5,000,000
+16.3.4 Undertake a roof tops and parking areas assessments 
+to establish locations for solar installations
+MRD MEC 3 2016 Q 2 IRENA 5,000
+Sub-total Strategy 16.3 10,355,000
+Expected Output/Result 17: The technical capacity of government (EPD) and MEC to plan, develop, implement and manage renewable energy systems (small and
+medium-scale rural; large-scale urban) continuously updated and enhanced
+Strategy 17.1 Increase awareness and provide training to public and private sector on appropriate renewable energy system
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting Potential Source Budget (USD)
+17.1.1 Replacement of electric water heaters with solar 
+water heaters in existing buildings and use of solar water 
+heaters for new buildings. MEC/MWSC MRD 3 2016 EU 50,000systems
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting Potential Source Budget (USD)
+17.2.2 Develop policies and payment methods (feed-intariffs) for private generation using solar energy sources MRD MEC 1 2016 WB/TA 10,000
+Sub-total Strategy 17.2 10,000
+Expected Output/Result 18 Economically feasible alternatives to diesel fuel for power generation shall be utilized
+Strategy 18.1: Conduct an independent study of the viability of alternatives to diesel fuel for power generation where economically sound (e.g. coconut oil, LNG, gridconnected solar). Implementation of recommended viable alternatives
+Planned Activities
+Organization (s) Responsible
+Ranking Time Frame 
+for initiation
+Planned Budget
+Coordinating 
+agency
+Participating 
+or Supporting Potential Source Budget (USD)
+18.1.1 Seek funding for proposal on continue assessment of 
+the 10% biodiesel use for power generation including MRD
+MIA,
+Tobolar, MEC
+2 2016 Q1
+UNDP, French,
+Taiwan
+20,000
+Sub-total Strategy 18.1 20,000
+TOTAL RENEWABLE ENERGY ACTION PLAN 11,631,500Annex 2: Monitoring Plan
+INTERVENTION LOGIC INDICATORS AND TARGETS MEANS OF VERIFICATION RISKS AND ASSUMPTIONS
+GOAL
+TO STRENGHTEN FINANCIAL, POLICY AND LEGISLATIVE FRAMEWORKS FOR THE ENERGY SECTOR
+OUTCOMES
+Improved enabling frameworks for 
+reducing dependence on imported fossil 
+fuel
+Number of energy sector plans developed and reviewed24. 
+Target is 5 planning documents produced in 2020
+ Reports on review of 
+national energy policy, 
+annual work plans
+ National Interest in 
+formulating plans is high 
+Number of ETF meetings held annually with participation of 
+government, non -government and private sectors. Target is 
+8 ETF meetings held annually in 2020
+ ETF meeting minutes
+ Interest in energy issues is high 
+and stakeholders contribute 
+effectively to the meetings
+ Proper records and 
+dissemination of minutes
+Number of financing schemes/loans and applications 
+approved for renewable energy technologies (RETs) and 
+energy-efficient (EE) appliances. Target is 100 loan 
+applications by 2020
+ Bank records on funds 
+disbursed and applications
+ Implementing agencies and 
+stakeholder’s genuine 
+willingness to cooperate to 
+implement the SREEM project
+ Interest from all people is high 
+in changing to energy efficient 
+appliances
+Number of endorsed and implemented laws and regulations 
+on the energy sector increased. Target is 4 energy 
+legislations/regulation by 2020
+ Legislative frameworks
+ Stock take reports updates
+ Energy security indicators
+ Political willingness is high
+Percentage of verified and processed data sets increased. 
+Target is 80% of required data set is readily available by 2020
+ Data sets, energy security 
+indicators
+ Funding support for database 
+officer post is available 
+ Data providers cooperates
+EXPECTED OUTPUTS/RESULTS
+1. The Energy Planning Division 
+developed its capacity and skills set to 
+enable it to review and manage the energy 
+legislations and policy frameworks
+ A report with findings of legislation, regulations or 
+bylaws that now have or may have in the future an effect 
+on consistent and effective energy management.
+ Completion of draft legislation as noted by the review 
+and recommendations submitted to MRD
+ Participation is expanded in the ETF and cabinet 
+endorsed TOR for the ETF
+ National legislative 
+framework
+ National policy frameworks
+ Training reports 
+ National interest in energy 
+issues is high
+ Regional and international 
+support for training and policy 
+and legislative formulation 
+continues 
+ perform the tasks required under the new legislation, 
+regulations and bylaws and positions filled
+2. A national energy database is 
+developed and managed (for analysis and 
+policy development) and maintained
+ Database officer is recruited
+ Energy data collection and updates on energy security 
+indicators
+ Information on donor funded projects and costs are 
+readily available
+ Legislation 
+ Energy data set 
+ Energy security indicators
+ Project matrix records
+ Availability of financial and 
+human resources
+3. Coordination and communication 
+on energy issues at national, regional 
+(within Micronesia and wider Pacific) and 
+global levels shall always be strengthened
+ Number of activities that EPD is engaged with MIA on 
+awareness on energy efficiency and conservation
+ Climate change policies integrate energy initiatives 
+relating to mitigation to cc
+ NEP budget are included in the annual budget 
+submission to implement the energy action plan
+ A Communication plans developed for EPD
+ Majuro Declaration on 
+climate initiative progress 
+report
+ Government budgets
+ Trip reports 
+ Availability of human and 
+financial resources
+ Supportive government in 
+energy budget
+4. Decision making regarding the 
+importation, consumption and pricing of 
+petroleum products based on reliable data 
+on petroleum imports, sales and end-use
+ A Petroleum Act developed and adopted
+ Regulation on data sharing developed
+ Templates and training on data reporting delivered
+ Data on the Marshall Islands fuel prices is reported 
+monthly and included as part of the SPC Monitoring Price
+ Energy security day improves
+ SPC Price Monitoring 
+ MEC Benchmarking report
+ Legislative framework
+ Pacific Energiser
+ Energy Security Indicators
+ Political support
+ Availability of financial support
+5. The wholesale and retail prices of 
+petroleum products shall be made 
+equitable for urban and rural users through 
+control and regulation
+ Pricing template available 
+ Completion of independent study evaluating the fuel 
+prices and establish maximum wholesale and retail price 
+margins
+ Number of people trained on petroleum tendering, 
+monitor of petroleum supply and contracts
+ Pricing templates
+ Energy Study and reports
+ Training reports 
+ Availability of financial and 
+human resources
+ SPC Petroleum Advisory 
+support
+ Availability of data and 
+information
+6. The safe storage, handling and 
+distribution shall be ensured for all 
+petroleum products
+ Petroleum officer recruited 
+ Adoption of the environmental standards and regulation 
+under the proposed Petroleum Act
+ Templates developed and used for assessing the quality 
+of fuels imported or produced locally;
+ Production and enforcement of any standards 
+developed
+ Legislative and regulatory 
+frameworks
+ Energy Reports
+ Recruitment report
+ Availability of financial and 
+human resourcesINTERVENTION LOGIC INDICATORS AND TARGETS MEANS OF VERIFICATION RISKS AND ASSUMPTION
+GOAL
+TO SUPPLY 100% OF URBAN HOUSEHOLDS WITH ELECTRICITY BY 2015
+TO PROVIDE 95% OF RURAL OUTER ATOLL HOUSEHOLDS WITH OFF GRID ELECTRICITY BY 2015
+TO PROVIDE ACCESS TO MODERN FORMS OF COOKING TO 90% OF ALL HOUSEHOLDS BY 2020
+OUTCOME
+Ensure all Marshallese have access to 
+modern energy services
+Percentage of urban households access to grid connected 
+electricity- Target is 100% by 2015
+ MEC maintenance reports
+ MEC financial records
+ MEC customer records
+ Willingness of households to 
+pay for electricity bills
+Percentage of outer atoll households with access to off-grid 
+electricity. Target is 95% by 2015
+ MEC SHS financial and 
+maintenance records
+ WUTMI records on payment 
+of SHS
+ Household’s willingness to pay 
+for monthly usage
+ Political support for 
+maintenance of SHS
+ Women group support for 
+payment of SHS
+Sustainability of energy services: SHS monthly tariff collection 
+rate (%) is improved {Actual collection/Target collection}.
+Target is 80% collection rate by 2015
+ MEC financial records  Availability of financial and 
+resources
+Percentage of rural and urban households with modern 
+forms of cooking Target is 90% by 2015
+ KIO Field trip – dissemination 
+reports
+ Project progress report
+ Commitment of KIO
+ Availability of financial and 
+human resources
+Improvement in the diesel quality used in 
+transportation (500 ppm) MEC, 10 ppm (Mobil) Target 
+is increased to 10ppm by 2017
+ Petroleum imports database 
+through customs and EPPSO 
+ Petroleum suppliers 
+ Support of petroleum suppliers
+ MEC willingness to changes 
+ Availability of financial 
+resources
+EXPECTED OUTPUTS/RESULTS
+7. The management and 
+financial system for outer island PV 
+electrification regularly reviewed and 
+enhanced to ensure sustainability and 
+make certain the recovery of O&M and 
+ MOA signed between MEC & MIA (local government) 
+and WUTMI
+ Green tax paper developed and submitted to Cabinet for 
+approval and implement with funding collected for 
+sustaining SHS in outer islands
+ Long, Medium and short term plan with investments 
+developed and submitted to government or future 
+ Cabinet papers
+ EPU reports 
+ Consultant reports
+ North REP Existing plan
+ Training reports
+ Support and interest of 
+stakeholders is high
+ National support and 
+willingness to consult with 
+relevant stakeholders(g, , , 
+school installations)
+ Transfer of SHS plan in place ( North REP Project Exit 
+Strategy)
+8. A transparent tariff structure 
+established for those receiving full 
+electricity supplies that cover the real 
+costs at each island system, with a 
+lifeline tariff that genuinely benefits 
+low-income consumers without 
+adversely affecting MEC income
+ An approved and acceptable model for payment of SHS is 
+put in place which can be different to each atoll/island 
+situation and also for public institutions (schools and 
+health centres) using the recommendations from the 
+study
+ A policy paper that defines the benefits of the 1000kwh 
+is developed and presented to MEC Board 
+ Increased number of MEC customers with prepaid 
+meters
+ Energy reports and policies
+ MEC data 
+ MEC financial records
+ MEC annual report
+ MEC website
+ Project matrix
+ MIMA’s support and interest in 
+maintaining SHS is high
+ MEC’s Board support and 
+willingness to changes to the 
+policy for landowners benefits
+ Availability of financial 
+resources
+9. Initiatives on provision of 
+access to clean and efficient fuels and 
+appliances ensured the incorporation 
+of interventions that promotes 
+sustainable livelihoods, health and
+safety and environmental protection
+Funding support obtained for purchase of energy efficient 
+biomass stove
+ Project Proposals
+ Trip reports 
+ Energy security indicators
+ Financial and human resources
+ KIO’s interest is high
+INTERVENTION LOGIC INDICATOR AND TARGETS MEANS OF VERIFICATION RISKS AND ASSUMPTION
+GOAL
+TO MAKE HOUSEHOLDS AND BUSINESSES 50% MORE ENERGY EFFICIENT AND GOVERNMENT BUILDINGS 75% MORE ENERGY EFFICIENT BY 2020
+TO ACHIEVE A 20% EFFICIENCY IMPROVEMENT IN TRANSPORT SECTOR FUEL USE BY 2020
+TO REDUCE SUPPLY SIDE ENERGY LOSSES FROM MEC BY 20% BY 2017
+OUTCOME
+Smarter uses of energy in households, 
+business, government and transport 
+sector
+20% decrease in the average monthly electricity 
+consumption of connected households target is 79kWh 
+per customer by 2020
+ MEC consumer records  Availability of data
+20% decrease in the average monthly electricity consumption 
+of commercial customers. Target is 1641 kWh per customer 
+by 2020
+ MEC consumer records  Availability of data
+20% decrease in the average monthly electricity consumption 
+of government buildings Target is 8131kWh per customer by 
+2020
+ MEC records on 
+ Government’s electricity bill
+ Availability of datapppy 
+ Regional and international 
+technical support 
+20% improvement in the efficiency of fuel use in the 
+transportation sector (Data on fuel end use for land and 
+sea transport should be collated) by 2020
+ Petroleum suppliers 
+Database – annual reports
+ Availability of data
+ Political support to adoption of 
+policies
+ Regional and international 
+technical support
+20.97 combined percentage decrease in power 
+generation, and distribution losses of the power utilities 
+by 2017
+ MEC – KEMA report 
+ MEC power utility 
+performance report; SIDS 
+DOCK project progress 
+reports, PPA reports
+ Availability of data
+ Regional and international 
+technical support
+ Availability of financial and 
+human resources
+Station losses at MEC improves to 6.76% in 2017
+Technical losses improves to 5.12% in 2017
+Non-technical losses improves to 9.08% in 2017
+EXPECTED OUTPUTS/RESULTS
+10. The reduction of MEC supply-side 
+losses by 20% in 2017, consistent with 
+sound technical and financial criteria 
+should be developed and assessed
+ Mechanical and electrical systems data and 
+specifications available
+ Actual energy utilization performance of the generating 
+units conducted and made available
+ Measured and calculated operating parameters 
+compared with standards
+ Number of EE improvements measures with costings 
+available
+ An impact analyses of the load distribution and dispatch 
+optimization system
+ Number of MEC power plants operators trained
+ MEC Benchmarking reports
+ MEC financial reports
+ Energy Security Indicators 
+ PIGGAREP plus progress 
+reports
+ MEC Annual reports
+ Availability of data 
+ Availability of financial and 
+human resources
+11. The number of efficient electric 
+appliances imported into the country 
+through appropriate fiscal incentives for 
+business, private sectors, households and 
+government sectors increased
+ A report on existing financing mechanisms on EE for 
+housing and appliance and equipment
+ An appropriate financing scheme is designed with 
+awareness and training
+ Number of applications approved for EE home loans and 
+appliances
+ Efficiency labeling system used/ adopted for imported 
+appliances
+ Number of different types of air-conditioners, 
+ Customs Data
+ Retailers records
+ Energy Reports and 
+Assessments 
+ National support and interest
+ Availability of financial and 
+human resources
+ Regional and international 
+support is available Relative change (improvement) in percentage of 
+appliances sold that are energy efficient
+ A report on energy codes and standards for buildings 
+based on code from Palau available
+ Draft energy code/standards/guidelines for construction 
+and renovation of buildings available
+ Percentage of buildings constructed and renovated that 
+meet the energy efficiency codes/standards/guidelines
+12. The energy use consumption 
+monitored and improved through energy 
+auditing and demand side management
+ Training completed and at least five homes renovated 
+with improved energy efficiency practices
+ Number of household and business audit completed
+ Number of house adopting energy efficiency 
+improvements
+ Number of programs and special releases and new paper 
+supplement 
+ Participation of media and retailers in energy related 
+event organised by EPU
+ Number of Energy audits completed ( all government 
+buildings)
+ MEC records 
+ Energy Audits reports 
+ National support and interest 
+is high
+ Availability of financial and 
+human resources
+13. Increased number of energy 
+efficient vehicles into the county through 
+appropriate fiscal incentives for business, 
+private sector, households and 
+government
+ A comparative study of type of registered vehicles that 
+in FSM and Palau. A review report is available and with 
+recommendations
+ Number of vehicles per month tested and scheduled for 
+maintenance
+ Maintenance expenses became part of the national 
+budget
+ A regulation for spot check on vehicle emission with 
+fines available
+ Customs Act reviewed to include fiscal incentives on 
+imports of fuel efficient vehicles
+ A proposal on the costs and benefit of having public 
+transport for government workers for Majuro
+ Fuel efficient vehicles and standards are available
+ Reports on fuel savings using hybrid car is available and 
+scaled up
+ Energy Data sets
+ Energy Reports
+ Legislative framework
+ Plant and Vehicle Units 
+recordscollaborations with various stakeholders
+recommendations
+ Feasibility study report available on trialling of using 
+biofuel to replace existing diesel engine powered 
+outboards
+ Energy Security Indicators
+support is available
+ Coconut producer’s interest is 
+high
+ Availability of financial and 
+human resources
+INTERVENTION LOGIC INDICATORS AND TARGETS MEANS OF VERIFICATION RISKS AND ASSUMPTIONS
+GOAL
+TO PROVIDE 20% OF POWER GENERATION THROUGH INDIGENOUS RENEWABLE RESOURCES BY 2020
+OUTCOME
+Reliable, sustainable and affordable 
+energy supply
+Share of installed power generation capacity from indigenous 
+renewable energy target is 20% by 2020
+ North REP Progress Report
+ Annual Energy sector Review 
+ Energy Security Indicators
+ MEC generation and 
+transmission reports
+ MEC annual reports
+ HIES report
+ Availability of financial and 
+human resources
+Affordability of energy services: percentage decrease in the 
+average household energy expenditure load Target is 
+15.84% by 2020
+ Availability of reliable data
+EXPECTED OUTPUTS AND RESULTS
+15. Private sector participation in the 
+electric power supply in the RMI shall be 
+allowed under conditions that are fair to 
+MEC and the supplier (i.e. independent 
+power producers' agreement)
+ Electricity Act drafted in 2015 and adopted in 2016
+ Practical/Technical guidelines for grid connected 
+renewable energy sources produced & adopted as policy 
+guidelines
+ An appropriate new tariff system developed and put into 
+operation
+ Energy security indicator updated
+ Increased in MEC profits 
+ Legislative framework
+ MEC website
+ Energy security indicator
+ MEC financial reports
+ MEC annual report
+ Political, financial and human 
+resources available
+16. Available energy modelling done 
+to ascertain the technical and economic 
+indigenous energy sources where 
+technically practical and economically 
+viable
+ Wind map produced. Estimate of kWh per kW of turbine 
+provided by consulting firm. Specifications of appropriate 
+turbine type received.
+ Percentage of the one year data collection period during 
+which the data are actually collected and logged (Goal 
+98%)
+ Number of outer islands SHS have new batteries
+ Schools selected by MOE for electrification receive 
+sufficient solar capacity for the operation of the intended 
+programs
+ Increased solar on grid proposals and installations 
+ Energy assessments report
+ Survey reports
+ Energy security indicators 
+ Outer island trip reports
+ Project proposals
+ Availability of financial and 
+human resources
+ National and political support develop, implement and manage 
+renewable energy systems (small and 
+medium-scale rural; large scale urban) 
+continuously updated and enhanced
+ Net metering policy in place MEC financial reports
+ MEC website
+ Availability of financial and 
+human resources
+18. Economically feasible alternatives 
+to diesel fuel (biofuel and LNG) for power 
+generation shall be utilized
+ Number of project proposals developed and submitted 
+to donors on biofuel use for power generation
+Project proposals 
+Project progress reports 
+National and regional support
+Availability of financial and human 
+resourcesAnnex 3: Organizations and people consulted 
+Government
+Office of the Attorney General
+Nitijela (Parliament) – Legal Counsel
+Marshall Islands Department of Public Safety
+Ministry of Education
+Ministry of Finance
+Ministry of Foreign Affairs
+Ministry of Health
+Ministry of Internal Affairs
+Ministry of Resources and Development
+Division of Trade and Investment
+Energy Planning Division
+Ministry of Transportation and Communications
+Office of Commerce and Investment
+Economic Planning, Policy and Statistics Office
+Office of Environmental Planning and Policy Coordination
+Public enterprises and state-owned companies
+Environmental Protection Authority
+Majuro Atoll Waste Company
+Marshall Islands Journal
+Marshall Islands Mayor Association
+Marshall Islands Visitors Authority
+Marshalls Energy Company
+Okinawa Enetech (JICA Project)
+RMI Ports Authority 
+Tobolar
+University of the South Pacific
+College of the Marshall Islands
+Local government and civil society
+AilInglapalp Atoll Local Government
+Church Youth Representative – Rita Village
+Council Women Representative – Laura Village
+KIO Club 
+Women United Together Marshall Islands

@@ -1,0 +1,1934 @@
+File Name: ZWE-NREP-2019-EN
+Year: 2019
+Country Name: Zimbabwe
+Country Code: ZWE
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: March 2019
+Start Year: 2020
+End Year: 2034
+Language: EN
+------------------------------------------------
+
+ 
+Republic of Zimbabwe
+MINISTRY OF ENERGY AND POWER DEVELOPMENT
+National 
+March 2019
+Republic of Zimbabwe
+MINISTRY OF ENERGY AND POWER DEVELOPMENT
+National Renewable Energy PolicyTable of contents
+1. Country Overview 13
+1.1 Demographics 13
+1.2 Economy 13
+1.3 Energy Sector 13
+1.4 Current Acts and Policies 14
+1.5 Consultations 15
+2. Renewable Energy in Zimbabwe 16
+2.1 Renewable Energy Potential in Zimbabwe 16
+3. Barriers to Uptake of Renewable Energy in Zimbabwe 17
+4. Policy Vision, Goal and Objectives 19
+4.1 Vision 19
+4.2 Policy Principles 19
+4.3 Goals and Objectives 20
+5. Policy Term 20
+6. Setting Targets for Renewable Energy 21
+6.1 Policy Provisions to Enforce Renewable Energy Targets 22
+6.1.1 Objectives 22
+6.1.2 Action Points 23
+7. Incentives for Promoting Investment in Renewable Energy 24
+7.1 National Project Status and Tax Incentives to Renewable Energy Projects 24
+7.2 Prescribed Asset Status to Renewable Energy Projects 24
+7.3 Viability Gap Funding for Off-grid Community Project in Rural Areas 24
+7.4 Incentives for Sale of Power to Third Party Grid Access 24
+7.5 Reduced Licensing Fees and Requirements for Developers of Renewable Energy Projects 25
+7.6 Policy Provisions to Provide Incentives for Promoting Investment in Renewable Energy 25
+7.6.1 Objectives 25
+7.6.2 Action Points 26
+8. Procurement Mechanisms for Renewable Energy in Zimbabwe 26
+8.1 Sale of Power to the Utility 26
+8.1.1 Standard Bankable PPA and RfP 278.3 Policy Provisions for Procurement 28
+8.3.1 Objectives 28
+8.3.2 Action Points 29
+9. Addressing the Development Risks in Renewable Energy Projects 30
+9.1 Approval Timelines 30
+9.2 Setting Up a Nodal Agency 31
+9.2.1 Pre-Development Phase 32
+9.2.2 Development Phase 32
+9.2.3 Execution Phase 32
+9.3 Land Acquisition 33
+9.3.1 Policy Recommendations for Land Acquisition for Renewable Energy Projects 33
+9.4 Policy Provisions to Address Development Risks for Renewable Energy Projects in Zimbabwe 34
+9.4.1 Objectives 34
+9.4.2 Action Points 34
+10. Promoting Off-grid Technologies and Other Clean Energy Solutions in 
+Zimbabwe 36
+10.1 Guidelines to Promote Off-grid Technology and Other Clean Energy Solutions in Zimbabwe 36
+10.1.1 Standards and Specifications 36
+10.1.2 Procurement Method 36
+10.1.3 Financing the Development of Off-grid Technologies and Other Clean Energy Projects 37
+10.1.4 Other Provisions to Promote Development of Off-grid and Clean Energy Projects 37
+10.2 Guidelines to Implement Programmes for Off-grid and Clean Energy Technologies 38
+10.2.1 Off-grid Technologies 38
+10.2.2 Clean Energy Solutions 39
+10.3 Policy Provisions for Promoting Off-grid Technologies and Clean Energy Solutions in Zimbabwe 40
+10.3.1 Objectives 40
+10.3.2 Action Points 41
+11. Promote Local Manufacturing of Renewable Energy Technologies 42
+11.1 Policy Provisions to Promote Local Manufacturing of Renewable Energy Technologies 42
+11.1.1 Objectives 43
+11.1.2 Action Points 43
+12. Skills Development and Technology Transfer 43
+12.1 Policy Provisions to Enhance Skills Development in Zimbabwe 44
+12.1.1 Objectives 4413. Biofuels in Zimbabwe 45
+14. Funding Mechanisms for Renewable Energy 45
+14.1 Domestic and Foreign Banks 45
+14.2 Green Energy Fund 45
+14.3 International Donor Community Funding and NGO’s 46
+14.4 Sovereign Guarantee 46
+14.5 Prescribed Asset Status 47
+14.6 Policy Provisions for Funding in Zimbabwe 47
+14.6.1 Objectives 47
+14.6.2 Action Points 47
+15. Improving Socio-economic Conditions in Zimbabwe 48
+15.1 Promoting Local Entrepreneurs and Community Development through Renewable Energy Projects 51
+15.2 Social Impact Assessment of Renewable Energy Projects 51
+15.3 Policy Provisions for Improving Socio-economic Conditions in the Country 52
+15.3.1 Objectives 52
+15.3.2 Action Points 52
+16. Institutional Framework for Renewable Energy in Zimbabwe 53
+16.1 Action Plan for Implementation of Policy Provisions 54
+Annexure 1.Computation of Renewable Energy Targets 55Ministerial Foreword
+Energy has a major role to play in the overall economic and social development of Zimbabwe. The energy sector in 
+Zimbabwe is overseen by the Ministry of Energy and Power Development (MoEPD). The National Energy Policy (NEP)
+was promulgated in the year 2012 to provide an overal framework for optimal supply and utilization of energy in 
+general and ensure access to modern energy services for the country’s socio-economic development. The National 
+Renewable Energy Policy (NREP) focusses on the energy needs of the country from renewable energy resources. It is 
+an initiative aimed at securing the long term energy needs of the country in a sustainable way.
+The Policy aims to augment the national vision of the country as spelt out by the President of Zimbabwe, His 
+Excellency Cde. E. D. Mnangagwa. The thrust of Vision 2030 is to transform Zimbabwe into an upper middle income 
+economy. This vision also aims to raise employment levels upwards, and to progressively reduce the poverty rate to 
+levels consistent with the upper middle income economies, among other factors. These will be achieved through Five 
+pillars of Vision 2030 which are as follows:
+1. Governance.
+2. Inclusive economic growth.
+3. Macro-economic Stability and Financial re-engagement.
+4. Social Development.
+5. Cross-Cutting Enablers. 
+MOEPD is under the Cross-Cutting Enablers Pillar and this policy is one of the initiatives undertaken by my Ministry 
+to achieve this vision. The pursuit of Vision 2030 would be anchored on the following national priorities:
+ Private sector-led rapid growth and development
+ Enhanced domestic and foreign investment as encapsulated by the mantra “Zimbabwe is open for business”
+ Creation of a responsive, efficient and e-enabled Public Service apparatus.
+All of these are clearly defined in this policy.
+Zimbabwe at present is mainly dependent on coal, petroleum, hydroelectric power and fuel-wood to meet its energy 
+needs. The country is dependent on petroleum and power imports due to lack of petroleum resources and ageing 
+electricity system infrastructure. The shortage of electricity is compounded by the fact that little investment has 
+occurred in the sector in the past Twenty-five (25) years prior to the year 2014. Due to the frequent power 
+shortages, business had resorted to purchasing and operating diesel generators as an alternative to grid power. 
+Diesel generators are expensive to operate and pollute the environment. More than sixty percent (60%) of the 
+population still rely on solid biomass fuel for thermal needs and have no access to clean energy sources. Renewable 
+energy sources will help address these problems. Also, Zimbabwe has huge and diversified renewable energy 
+potential which needs to be harnessed effectively to create a sustainable energy portfolio in the country. The 
+National Renewable Energy Policy also addresses the Climate Change concerns and the country’s commitment to the 
+World to reduce greenhouse gas (GHG) emissions.
+Zimbabwe has vast renewable energy resources like solar, hydro, biomass and to a limited extent, wind and 
+geothermal, that to date have largely remained unexploited. The majority of the population especially in rural areas,
+has no access to basic energy services with the energy supply-demand gap continuing to widen. The Government of 
+Zimbabwe, non-governmental organizations (NGOs) and the private sector have supported the development of 
+renewable energy since the country`s Independence in the year 1980. A number of programmes have been 
+implemented to promote the adoption of renewable energy technologies such as National Energy Policy, Sustainable 
+Energy for All (SE4ALL), The National Biogas Programme, Rural Electrification (using solar mini-grids), Nationally time to exploit the huge renewable energy potential to meet Zimbabwe’s growing energy demand, achieve universal 
+energy access and secure the country’s long term energy needs in a sustainable manner. 
+This National Renewable Energy Policy was developed by the MoEPD to promote and drive investment into the sector 
+by overcoming a number of barriers that currently exist in the energy sector. It also aims to improve the livelihood 
+of the rural population by providing access to reliable energy through off-grid solutions, and thus creating 
+opportunities which did not exist before.
+Honourable Dr J. M. Gumbo (MP)
+MINISTER OF ENERGY AND POWER DEVELOPMENT.Acknowledgement
+The formulation of the National Renewable Energy Policy involved a robust stakeholder consultation process around 
+different thematic areas of the Policy, such as Renewable Energy targets, procurement models, project development 
+processes, financing, skills development, and environmental and social impacts. In developing the Policy, the key 
+stakeholders consulted were the Zimbabwe Electricity Supply Authority (ZESA) Holdings and its subsidiary 
+companies, Zimbabwe Energy Regulatory Authority (ZERA), Rural Electrification Fund (REF), various Ministries and 
+parastatals, financial institutions, project developers, suppliers, Engineering Procurement and Contracting (EPC) 
+entities, academic and research institutions, development partners, non-governmental organisations as well as local 
+community members. In addition, three regional outreach programmes were held in Matabeleland, 
+Masvingo/Manicaland and Mashonaland provinces. Three national workshops were also held, initially to introduce the 
+policy formulation process and subsequently to discuss the draft and the final draft Policy.
+The Ministry of Energy and Power Development hereby expresses its utmost profound gratitude to all stakeholders 
+who participated and contributed to the development and crafting of this National Renewable Energy Policy. Your 
+efforts will no doubt, add value to the successful achievement of the objectives of the Energy and Power sector in 
+Zimbabwe. The Ministry also looks forward to your continued support and participation during the critical upcoming 
+phase of implementating this Policy.
+Dr. G. S. Magombo
+SECRETARY FOR ENERGY AND POWER DEVELOPMENT.Executive Summary
+Zimbabwe currently has a national electrification rate of 42%. While electricity has reached 83% of the urban 
+households, rural electrification is still around 13% as per the National Energy Policy of 2012. The country has an 
+installed capacity of about 2,300 MW, with Zimbabwe Power Company (ZPC), a generation subsidiary of ZESA, 
+owning around 95% of this. More than 50% of electricity is generated from hydropower power while the remainder 
+is from thermal power plants. Bagasse, mini hydropower and small sized grid connected solar systems have an 
+installed capacity of about 130MW. Against this background, the actual power generation capacity is about 1400MW 
+against a peak demand of about 1700MW. The limited capacity is attributed to water availability issues, old 
+equipment which needs rehabilitation and limited coal supplies.
+The National Renewable Energy Policy (NREP) was developed under the overall framework laid out by the National 
+Energy Policy of 2012. The policy also recognises that an upper middle income economy of 2030 needs to be driven 
+by clean, sustainable energy sources. Apart from improving the share of renewable energy in the overall energy mix 
+and addressing issues of Climate Change, this policy also focuses on driving cost-effective implementation of 
+sustainable energy sources, social upliftment through community involvement, gender equality and employment 
+generation as laid out in other various Government Acts and Policies.
+This NREP focusses on establishing market oriented measures and regulatory instruments for the renewable energy 
+sector in Zimbabwe. Primarily, the renewable energy sector in Zimbabwe consists of solar, hydro, wind, geothermal
+and biomass (which includes bagasse (sugarcane based), biogas, forestry and sawmill waste). Zimbabwe has vast 
+renewable energy resources that are presently underutilised and present a big scope for investment. This policy thus 
+also aims at addressing the barriers to the uptake of renewable energy in the country through different provisions 
+and programs.
+One of the primary objectives of the Policy is setting of overall targets for renewable energy based on the Nationally 
+Determined Contributions (NDCs) interventions submitted to the United Nations Framework Convention on Climate 
+Change (UNFCCC), demand-supply scenario, grid absorption capacity, and the ability of utilities to pay for renewable 
+energy electricity. The Policy aims to achieve an installed renewable energy capacity of one thousand one hundred 
+Mega Watts (1,100 MW) (excluding large hydro) or sixteen comma five percent (16.5%) of total electricity supply, 
+whichever is higher, by year 2025 and two thousand one hundred Mega Watts (2,100 MW) or twenty-six comma five 
+percent (26.5%) of total electricity supply, whichever is higher by year 2030.
+"The installed capacity of renewable energy excluding large scale hydropower is expected to increase from about five 
+percent (5%) in 2017 to about twenty-seven percent (27%) in 2030". 
+Furthermore, the country shall install more than two-hundred and fifty thousand (250 000) solar geysers in old (as 
+retrofits) and new buildings by the year 2030. Other additional alternative energy programmes include institutional 
+and domestic biogas digesters, solar mini-grids and solar water pumping systems. These targets will enable the 
+country to meet the current and projected energy supply deficit as well as meet the GHG emissions reduction
+objectives as per the NDCs submissions. 
+The Policy aims to promote investment in the renewable energy sector by providing specific incentives. It
+recommends providing National Project Status to all the renewable energy projects. It encourages the Ministry 
+responsible for Energy to recommend renewable energy projects on case-to-case basis to the Ministry responsible 
+for Finance for according Prescribed Asset Status so as to unlock Insurance and Pension funding. It also recommends relaxations in licensing requirements for renewable energy projects. Favourable tax incentives and rebates are also 
+recommended in the NREP in addition to the existing Statutory Instruments.
+Depending on the renewable energy technology of the plant and capacity, the procurement mechanism shall be 
+tailored to ensure higher investment in the sector, effective implementation of the project in the scheduled time 
+period and appropriate returns to the investor thereby meeting the development needs of the country. There are 
+various procurement methods that can be used to procure power from renewable energy generators. Some of them 
+include sale of power to the Transmission and Distribution utility in the country. Different procurement mechanisms, 
+such as Feed-in Tariffs (FiT) for small hydropower, biomass, and geothermal projects are recommended. 
+Competitive Bidding for solar photovoltaics (PV) and concentrating solar power (CSP) are proposed in the Policy. For 
+wind, next five years procurement shall be through FiT and thereafter it may be through Competitive Bidding based 
+on the analysis during the mid-term review.
+The Policy also aims to address the development risks associated with the promotion of the uptake of renewable 
+energy in the country. It outlines and suggests well-defined approval timelines for the administrative processes. The 
+Policy recommends setting up of a Nodal Agency to facilitate the entire process of obtaining approvals from different 
+Ministries and other government agencies, and aims to make certain complex and time consuming processes such as 
+land acquisition, simpler and time bound. The role of the Nodal Agency will be to facilitate the entire process of 
+obtaining approvals from different authorities and departments, and also to monitor the progress of development of 
+renewable energy projects. The policy aims to address the land acquisition issue through fairly conducted land 
+auctions by the Government for the development of renewable energy, particularly solar and wind energy projects.
+Off-grid energy has the potential to increase electricity access in rural areas. However, off-grid application needs to 
+be incentivised in order to make them a viable option for rural electrification. The policy therefore provides the 
+necessary guidelines, incentives and provisions related to standards, procurement, financing mechanisms and others 
+for promoting the development of off-grid projects. The policy recommends developing specific programmes for offgrid energy to promote the uptake of these technologies. The outcomes of the Rural Energy Master Plan (REMP) will 
+be very crucial in designing these specific programmes.
+The policy also includes provisions for promoting manufacturing of renewable energy equipment. Specific incentives 
+such as domestic content requirement for renewable energy systems installed in the country, approved standards 
+and specifications, and financial and tax incentives aim to promote domestic manufacturing of renewable energy 
+equipment. The policy also provides recommendations to design and initiate skill development programs to build 
+capacity of the population and enable access to a skilled labour base. It has also made provisions to initiate Research 
+and Development activities in renewable energy technologies for the long-term sustainability of the sector.
+Financing is one of the key constraints in the development of renewable energy. The policy recommends to explore 
+both domestic and foreign financing resources. The policy also recommends to set up a separate Fund called Green
+Energy Fund of Zimbabwe. This Fund will be used in promoting, developing and extending financial assistance for 
+setting up of projects relating to new and renewable sources of energy and off-grid sources. For a period of one year 
+from its inception, the Fund shall be administered by the Rural Electrification Fund (REF), and the Ministry 
+responsible for Finance shall also oversee the management of the Fund. Thereafter, it shall be managed by 
+Infrastructure Development Bank of Zimbabwe. It also encourages renewable energy projects to tap funding from 
+pension funds, insurance funds and bond markets through the Prescribed Asset Status mechanism.
+The National Renewable Energy Policy is holistic in nature and its provisions address various national socio-economic 
+issues and the needs of stakeholders involved across all value chains. Some of these include providing National 
+Project Status to renewable energy projects and providing specific incentives to local entrepreneurs in the development of renewable energy projects. In order to protect the interests of the local community, the policy 
+recommends at least one percent (1%) of the revenue to be spent on the affected communities. 
+The policy focusses on energy issues, its impact on other non-energy sectors and significant potential for value 
+creation along the different segments of the renewable technologies. Some of the key socio-economic areas 
+addressed in the policy include affordability and accessibility of energy from renewable sources, employment 
+opportunities, gender equity, and benefits to children, youth participation, food security, and improved access to 
+basic facilities. The progress in each of these key areas shall also be monitored against some key performance 
+indicators by dedicated departments and agencies.List of Abbreviations
+Abbreviations Description
+CSP Concentrating Solar Power
+DFI Development Finance Institution
+DDIs Domestic Institutional Investors
+EIA Environmental Impact Assessment
+EPC Engineering, Procurement and Construction
+ESKOM National Utility of South Africa
+FDI Foreign Direct Investment
+FIIs Foreign Institutional Investors
+FiT Feed-in Tariff
+FY Fiscal Year
+GDP Gross Domestic Product
+GHG Green House Gas
+GJ GigaJoule
+GWh Giga-Watt-hour
+NDC Nationally Determined Contribution
+IPP Independent Power Producer
+IRENA International Renewable Energy Agency
+JV Joint Venture
+ktoe kilo ton of oil equivalent
+kV kilo-Volt
+kW kilo-Watt
+kWh Kilo-Watt-hour
+LCOE Levelised Cost Of Electricity
+LPG Liquefied Petroleum Gas
+Ministry responsible for 
+Agriculture, Mechanization 
+and Irrigation Development
+Ministry of Agriculture, Mechanization and Irrigation Development as on date of 
+Policy is notified
+Ministry responsible for 
+Energy Ministry of Energy and Power Development (MOEPD) as on date of Policy is notified
+Ministry responsible for 
+Finance Ministry of Finance and Economic Development as on date of Policy is notified
+Ministry responsible for Health 
+and Child care Ministry of Health and Child Care as on date of Policy is notified
+Ministry responsible for Higher 
+and Tertiary Education, 
+Science and Technology
+Ministry of Higher and Tertiary Education, Science and Technology as on date of 
+Policy is notified
+Ministry responsible for Ministry of IndustryCommerce and Enterprise Development as on date of Policy is Abbreviations Description
+promoting Industry and 
+Commerce
+notified
+Ministry responsible for Land Ministry of Lands, Agriculture and Rural Resettlement as on date of Policy is notified
+Ministry responsible for
+Women Affairs, Gender and 
+Community Development
+Ministry of Women and Youth Affairs as on date of Policy is notified
+Ministry responsible for Youth, 
+Indigenization and Economic 
+Empowerment
+Ministry of Women and Youth Affairs as on date of Policy is notified
+MW Mega-Watt
+NBPZ National Biofuel Policy of Zimbabwe
+NEP National Energy Policy
+NREP National Renewable Energy Policy
+NGCC Natural Gas Combined Cycle
+NGO Non-Government Organization
+PPA Power Purchase Agreement
+PPP Public Private Partnership
+PV Photovoltaic
+RE Renewable Energy
+REAZ Renewable Energy Association of Zimbabwe
+REC Renewable Energy Certificates
+REF Rural Electrification Fund
+REFiT Renewable Energy Feed-in Tariff
+Regulator Zimbabwe Energy Regulatory Authority (ZERA) as on date of Policy is notified
+REIPPP Renewable Energy Independent Power Procurement Program
+REMP Rural Energy Master Plan
+RES Renewable Energy Sources
+RET Renewable Energy Technologies
+RfP Request for Proposal
+ROA Return On Asset
+RPO Renewables Purchase Obligation
+RPS Renewable Portfolio Standards
+RRA Renewables Readiness Assessment
+SADC Southern African Development Community
+SAPP Southern African Power Pool
+SAZ Standards Association of Zimbabwe
+SDP System Development Plan
+SE4ALL Sustainable Energy for All
+SHS Solar Home SystemsAbbreviations Description
+Transmission Utility Zimbabwe Electricity Transmission and Distribution Company (ZETDC) as on date of 
+Policy is notified 
+USD/US$ US Dollar
+Utility Transmission and/or Distribution Utility. It is ZETDC as on date of Policy is notified
+VAT Value Added Tax
+WACC Weighted Average Cost of Capital
+WTO World Trade Organization
+ZENT ZESA Enterprises
+ZERA Zimbabwe Energy Regulatory Authority
+ZESA Zimbabwe Electricity Supply Authority
+ZESCO National Utility of Zambia (formerly Zambia Electricity Supply Corporation)
+ZETDC Zimbabwe Electricity Transmission and Distribution Company
+ZIMSTAT Zimbabwe National Statistics Agency
+ZPC Zimbabwe Power CompanyBackground and Overview
+1. Country Overview
+1.1 Demographics
+Zimbabwe is a landlocked country in Southern Africa, with a total human population of thirteen comma four (13.4)
+million as per 2014 Labour Force and Child Labour Survey (ZIMSTAT, 2014). Major regions of the country have 
+tropical climate and there are few local variations. A majority of the population live in the rural parts of the country, 
+with around sixty-eight percent (68%) living in rural areas (up from nearly sixty-six percent (66%) in the year 
+2007) and remaining thirty-two percent (32%) in urban areas as of 2015 (based on World Bank data). However, 
+statistics indicate that most of the population living in rural areas do not have access to electricity. As per the 
+National Energy Policy, electricity access rate is thirteen percent (13.0%) in rural areas and eighty three percent 
+(83.0%) in urban areas. Electricity is also used for cooking with very low penetration at thirty percent (30%), with 
+over sixty-five percent (65%) of households depending on firewood (ZIMSTAT, 2014). Overall, forty percent (40%)
+of the population has access to electricity.
+1.2 Economy
+The Gross Domestic Product (GDP) at market prices of the country was nearly fourteen comma two (14.2) billion 
+USD, with an annual growth rate of one comma one percent (1.1%) in the year 2016, as per the 2017 National 
+Budget. The GDP per capita stood at eight hundred and ninty, comma four (890.4) USD in 2015 (World Bank Data).
+Economic growth slowed from three comma eight percent (3.8%) in the year 2014 to an estimated one comma five 
+percent (1.5%) in the year 2015 as a result of weak domestic demand, high public debt, tight liquidity conditions, 
+drought, poor infrastructure and others. The Government strongly believes that there shall be a revival in the 
+economy with higher industrial growth and improved access to electricity to communities and businesses.
+1.3 Energy Sector
+The primary sources of energy used include wood fuel, coal, electricity and petroleum products. Most of the rural 
+areas and some urban areas still do not have access to electricity. The persistent lack of adequate and reliable 
+electricity supply in Zimbabwe has resulted in significant losses to the economy. Also, major use of fossil fuel as 
+primary energy source leads to deforestation and pollutes the environment.
+The country has an installed capacity of about 2,300 MW, with Zimbabwe Power Company (ZPC), a generation 
+subsidiary of ZESA, owning around 95% of this. More than 50% of electricity is generated from hydropower power 
+while the remainder is from thermal power plants. Bagasse, mini hydropower and small sized grid connected solar 
+systems have an installed capacity of about 130MW. Against this background, the actual power generation capacity 
+is about 1400MW against a peak demand of about 1700MW. Zimbabwe is importing fifty Mega Watts (50 MW) firm 
+power from HCB, Mozambique, and around three hundred Mega Watts (300 MW) non-firm power from ESKOM, 
+South Africa. Zimbabwe is also exporting around eighty Mega Watts (80 MW) of power to NamPower, Namibia 
+based on a commercial agreement between ZPC and NamPower (ZERA). 
+Historically, supply has been failing to meet demand which has led to significant power deficits and frequent load 
+shedding. The deficit has increased to thirty-eight percent (38%) in the year 2016 from twenty five percent (25%)
+in the year 2009. The huge increase in deficit during the same period is coupled by high demand increase from one 
+thousand four hundred Mega Watts (1400 MW) (based on AFDB-Zimbabwe report on rehabilitation and recovery in the power sector) in the year 2009 to one thousand nine hundred and fifty Mega Watts (1,950 MW) (Rapid 
+Assessment and Gap Analysis report) in the year 2015, followed by very low increase in supply from one thousand 
+and fifty Mega Watts (1,050 MW) in the year 2009 to around one thousand two hundred Mega Watts (1,200 MW) in 
+the year 2015.
+1.4 Current Acts and Policies
+Zimbabwe’s energy sector is currently governed by the following Acts and Policies:
+Table 1. Acts governing energy sector
+Act and Year Primary goal
+Electricity Act [Chapter 
+13:19] (2002)
+To establish Zimbabwe Electricity Regulatory Commission and provide its functions and 
+management, and detail the licensing and regulation for the generation, transmission, 
+distribution and supply of electricity by the utility and IPPs.
+Rural Electrification Fund 
+Act [Chapter 13:20]
+(2002)
+To establish the Rural Electrification Fund Board for distribution of Rural Electrification 
+Funds.
+Environmental 
+Management Act [Chapter 
+20:27] (2002)
+To establish the National Environmental Council and Environmental Management 
+Agency.
+Petroleum Act[Chapter 
+13:22] (2006)
+To establish the Petroleum Regulatory Authority and its function and management, 
+and licensing and regulation of the petroleum industry.
+Energy Regulatory 
+Authority Act [Chapter 
+13:23] (2011)
+To establish the Energy Regulatory Authority and provide its functions and 
+management, and amend the provisions of Electricity Act (2002) and Petroleum Act 
+(2006).
+Zimbabwe’s Intended 
+Nationally Determined 
+Contribution (2015)
+To contribute to the global climate target and ensure that food production is not 
+threatened by climate changes to enable economic development in a sustainable 
+manner.
+Table 2. Policies governing the energy sector
+Policy and Year Primary goal
+National Energy Policy 
+(2012)
+Seeks to promote the optimal supply and utilisation of energy, for socio-economic 
+development in a safe, sustainable and environmentally friendly manner. It brings out 
+Government’s objective to ensure that the energy sector’s potential to drive economic 
+growth and reduce poverty is fully harnessed.
+Zimbabwe’s Intended 
+Nationally Determined 
+Contribution (2015)
+To contribute to the global climate target and ensure that food production is not 
+threatened by climate changes to enable economic development in a sustainable 
+manner.
+Zimbabwe’s National 
+Climate Change Response 
+Sought to establish specific provisions for dealing with climate change issues,
+understanding the extent of the threat and putting in place specific actions to manage Policy and Year Primary goal
+Strategy potential impacts
+Zimbabwe Climate Policy 
+(2016)
+Seeks to create a pathway towards a climate resilient and low carbon development 
+economy in which the people have enough adaptive capacity and continue to develop 
+in harmony with the environment. The policy is expected to mainstream climate issues 
+in all sectors of the economy including; energy, agriculture, industrial processes, 
+waste, land use, land cover and forestry.
+2030 Agenda for 
+Sustainable Development
+The Goal 13 of UN Sustainable Energy for All states the need to take urgent action to 
+combat climate change and its impacts
+Vision 2030 To transform Zimbabwe into an upper middle income economy, raise employment 
+levels upwards, and to progressively reduce the poverty rate to levels consistent with 
+the upper middle income economies, among other factors.
+The Renewable Energy Policy was developed under the overall framework laid out by the National Energy Policy.
+Apart from improving the share of RE in the overall energy mix and addressing issues of climate change, this policy 
+also focuses on obtaining cost-effective implementation of productive energy sources, social upliftment through 
+community involvement, gender equality and employment generation as laid out in other different Acts and 
+Policies.
+1.5 Consultations
+MOEPD spearheaded the development of the National Renewable Energy Policy. Discussions and workshops were
+held with a range of stakeholders to identify and discuss their perspectives and analyse the issues faced. The 
+stakeholders included the Government ministries and departments, ZESA Holdings subsidiaries, ZERA, developers 
+and private players, local manufacturers, financial institutions, local communities, consultants and others. Based on 
+analysis and feedback from stakeholder consultations, certain barriers to the promotion of RE were identified. 
+Certain strategies aimed at addressing these barriers were identified based on analysis of international best 
+practices and elaborate discussions with key stakeholders involved.Renewable Energy Sources and 
+Applications
+2. Renewable Energy in Zimbabwe
+Zimbabwe has vast RE resources that are presently underutilised and presents a big scope for investment. The 
+primary, renewable energy sources are solar, hydro, wind and biomass which includes bagasse (sugarcane based), 
+sawmill waste, biogas and forestry waste.
+2.1 Renewable Energy Potential in Zimbabwe
+Solar: Solar potential of sixteen (16) to twenty (20) MJ/m2/day in Zimbabwe is vastly unexploited and is present in 
+several regions of the Country. Zimbabwe has a present installed capacity of about five Mega Watts (5 MW) that is 
+well short of the potential.
+Small hydropower: Significant small hydropower potential is present in the Eastern Highlands region and 
+perennial rivers. Around one hundred and twenty Mega Watts (120 MW) of small hydropower potential is estimated 
+in the country.
+Biomass: Based on International Renewable Energy Agency (IRENA) reports, Zimbabwe has a total potential of 
+one thousand Mega Watts (1,000 MW) from biomass in the form of bagasse, agricultural and municipal waste,
+forest residue and other forms. Forest residue from commercial forests has been estimated at seventy thousand 
+tonnes (70,000 tons) which has the potential to generate nearly one hundred and fifty Mega Watts (150 MW)
+power. Detailed energy resource assessments need to be done to assess potential of biomass as a RE source.
+Geothermal: Zimbabwe also has geothermal energy potential of around fifty Mega Watts (50 MW) that has not 
+been harnessed and presents scope for future exploitation. Detailed energy resource assessments need to be done 
+to assess potential of geothermal energy.
+Wind: Wind speeds of three (3) meters per second are not significant for power generation, but can be used for 
+water pumping as per National Energy Policy. Detailed resource assessment studies shall be conducted at eighty 
+metres (80 m) hub height or above in next three (3) years to understand the potential for electricity generation.
+The estimated potential for different energy sources based on various reports and studies are summarised below:
+Table 3. Assessment of RE potential by different studies
+National Energy 
+Policy
+REFIT (ZERA) Renewables 
+Readiness Report 
+(IRENA)
+Support to SE4ALL 
+Draft Action Agenda
+Year of Study 2012 2013 2015 2016
+Wind 39,300 MW
+Solar 16–20MJ/m2/day PV (109,000 MW)
+CSP (39,500 MW)National Energy 
+Policy
+REFIT (ZERA) Renewables 
+Readiness Report 
+(IRENA)
+Support to SE4ALL 
+Draft Action Agenda
+Hydro 90 -120GWh/Year 120 MW
+Biomass and Biogas 150 MW
+Biofuel1
+Geothermal 50 MW 50 MW
+3. Barriers to Uptake of Renewable Energy in Zimbabwe
+Zimbabwe has significant RE potential, however, the growth in installation of RE technologies has not been 
+significant due to absence of RE policy, which could address the barriers across the RE value chain. Some of the 
+barriers to investment in RE in Zimbabwe are listed in Table 4. Barriers to .
+Table 4. Barriers to RE
+Renewable Energy 
+Investment Enablers
+Barriers identified in stakeholder discussions and reports
+Creating/assessment of 
+market potential for RE
+ Absence of long term RE targets in the National Energy Policy make it difficult to 
+take steps to promote RE
+ Inadequate studies on potential for development of RE technologies
+ Limited enforcement of environmental impact certification on all energy projects
+ Inadequate integrated resource planning
+Setting up a procurement 
+model for purchase of RE
+ Inadequate regulatory framework on RE procurement models (FIT, Competitive 
+Bidding, among others)
+ Limited clear tariff structure for RE projects
+ Inadequate regulatory framework for third party sale 
+ Uncertainty with regards to PPAs and procurement framework
+ High production costs affecting the economic viability of RE projects
+Attracting developers 
+including private sector 
+participation
+ Inadequate transmission and distribution infrastructure to develop, install and 
+commission RE projects
+ Limited incentives like electricity banking, trading, net metering for third party 
+access and rural electrification 
+ Limited standard specifications for various RE technologies to address the quality 
+ Renewable Energy 
+Investment Enablers
+Barriers identified in stakeholder discussions and reports
+concerns
+Institutional structure and 
+process for approvals and 
+clearances
+ Inadequate institutional structure dedicated to RE
+ Development risks, especially land acquisition issues
+ Absence of clarity on the approvals and timelines for development of RE projects 
+and the responsible agencies for the same 
+ Lengthy and complex administrative approval processes
+ Land acquisition related issues especially for sugarcane production which needs 
+large tracts of land; and the same issues apply to solar farms
+Developing an efficient 
+funding mechanism 
+ Inadequate financing for developing RE projects due to high capital costs and 
+absence of long term financing
+ Financial and liquidity constraints especially to new entrants 
+ Limited alternative funding options for development of RE projects
+ Absence of a policy to attract Foreign Direct Investment (FDI)/foreign funding for 
+large scale projects 
+Skill development and 
+local manufacturing
+ Absence of appropriate skill development and technology transfer mechanism for 
+local empowerment
+ Lack of incentives for Research and Development in RE Sector
+ Limited incentives for local manufacturing
+ Inadequate training of technical personnel
+ Limited local experience for developing and operating RE technologies
+ Limited skills to design and operate mini-gridsPolicy Provisions
+4. Policy Vision, Goal and Objectives
+‘RE’ refers to small hydro, solar, wind, geothermal, biofuels and biomass and other such clean energy sources as 
+approved by the Ministry responsible for Energy. The policy is designed to promote RE projects including small 
+hydro projects (less than or equal to thirty Mega Watts (30 MW)). Large hydro projects (more than thirty Mega 
+Watts (30 MW)) will continue to be guided by the National Energy Policy. 
+4.1 Vision
+To provide energy access to all in a sustainable manner by increasing the mix of RE sources.
+4.2 Policy Principles
+The RE policy for Zimbabwe was developed keeping in mind the following key principles:
+ Development - Economic and social development is the basic right of every citizen. This policy aims to 
+achieve overall development of the energy sector in the country resulting in the economic and social 
+empowerment of the citizens.
+ Sustainability – People are entitled to a healthy and productive life. However, this should be in harmony 
+with nature. Development today must not undermine the development and environmental needs of the 
+future generations. This policy aims to develop sustainable energy resource for the country which will not 
+only benefit the current generation but also create a sustainable future.
+ Affordability – The policy aims to create a balance between project viability and affordable energy cost to 
+provide citizens of Zimbabwe with cleaner, greener and cheaper energy options. 
+ Accessibility – This key principle in framing this policy is driven by the United Nations SE4ALL program 
+which aims to reduce the carbon intensity of energy as well as increasing energy access to make it available 
+to everyone. 
+ Gender equality- The advancement of gender equality and equity is a critical theme that runs through all 
+developmental policies and frameworks in Zimbabwe. The key message here is that the Government seeks 
+to achieve a Gender Just Society where men and women, boys and girls, enjoy equality and equity, and 
+participate as equal partners in the development process of the country.
+ Poverty eradication and employment creation - Poverty eradication, is the application of a set of 
+measures, both economic and humanitarian, that are intended to permanently lift people out of poverty. 
+The measures also aim at removing social and legal barriers to income growth among the poor. The 
+availability of energy in rural communities will unlock their productive potential. There is significant energy 
+divide between the rich and the poor, between men and women, boys and girls. Access to energy has 
+significant economic and social impact which varies based on gender, social strata, geographic and 
+demographic segmentation. This policy promotes development of RE resource to create opportunities for 
+better health, employment and income generation equally for men and women, boys and girls. 4.3 Goals and Objectives
+The goal is to increase access to clean and affordable energy through addition of installed RE capacity of:
+ One thousand one hundred Mega Watts (1,100 MW) by the year 2025 or sixteen comma five percent 
+(16.5%) of the total generation from RE sources, whichever is higher; and
+ Two thousand one hundred Mega Watts (2,100 MW) by the year 2030 or twenty six comma five percent 
+(26.5%) of total generation from RE sources, whichever is higher.
+The contribution of RE sources excluding large scale hydropower to the installed electricity supply mix current 
+stands at about five percent (5%). This contribution comes predominantly from bagasse cogeneration power plants 
+in the south-east of the country and a few mini-hydro power plants in the eastern highlands. 
+In support of the above principles, vision and goal, the following objectives shall be pursued:
+ To have a strong institutional and regulatory framework for promoting up-take of RE.
+ To have a robust procurement mechanism framework for purchase of RE, thereby promoting investment in 
+the sector. 
+ To reduce development timelines by addressing the risk, issues and simplifying approval process. 
+ To improve electrification levels in a sustainable manner by promoting off-grid technologies.
+ To have a robust financing mechanism for funding capital intensive RE projects.
+ To increase local participation and community involvement in projects generating energy from RE sources.
+ To empower children, youth and women through skill development workshops, training programs, 
+awareness campaigns, local participation in RE projects and campaigns, well-designed schemes for key 
+areas, better employment opportunities, and others.
+ To incorporate comprehensive communication strategy, and increase the level of awareness of developers 
+and end users on setting up RE projects, and use benefits of off-grid products and RE equipment 
+respectively.
+ To promote local manufacturing of RE equipment.
+ To support and compliment the provisions in the biofuel policy.
+In order to attain the desired goals and objectives set in the policy, certain key initiatives and steps need to be 
+taken with respect to target setting for RE, procurement mechanism, development process and others to create an 
+enabling environment for the uptake of RE in the country. The following are the policy provisions to achieve the 
+goals and objectives of this policy.
+5. Policy Term
+The policy shall be in force until the end of year 2030 beyond which a new policy framework will be developed. 
+Considering the developments in the RE space, a policy duration that is too long may be too rigid to adapt to 
+hdhhll bhd f d hhin the policy that may be necessary to adjust to the latest developments that may arise in the future. Projects 
+which have been issued license before policy notification will have to migrate to new policy. All projects issued 
+license after policy notification shall be governed by this RE policy.
+6. Setting Targets for Renewable Energy
+The RE target for any country should be backed by a strong policy framework, regulations and institutional support 
+to ensure that they are enforced. RE targets has been set for Zimbabwe considering greenhouse gas (GHG) 
+emission targets set in the NDC objectives, demand-supply projections, grid absorption capacity and ability of 
+utilities to pay for such energy. 
+Based on the NDC target of achieving GHG emissions of thirty three percent (33%) below the projected “Business
+As Usual” level, clean energy sources need to generate energy of around two thousand four hundred Giga Watthours (2,400 GWh) by the year 2025 and around four thousand six hundred Giga Watt-hours (4,600 GWh) by the 
+year 2030. The generation targets from clean energy sources are provided below (Refer to Annexure 1 for 
+calculations):
+Table 5. RE Targets by the year 2030
+Year
+Total Renewable Energy 
+Generation Target (in GWh)
+Corresponding Renewable 
+Energy Capacity (MW)
+Renewable energy generated 
+as a percentage of total 
+electricity demand (%)
+2025 2,400 1,100 16.5%
+2030 4,600 2,100 26.5%
+The above targeted capacity from RE will also help in meeting the incremental demand. These targets are also in 
+line with the targets set in country’s SE4ALL Action Agenda report. Year-wise RE targets are set out in Annexure 
+1. 
+The technology specific targets in accordance to SE4ALL and above cumulative targets are as below: 
+Table 6. Technology specific RE targets by the year 2030
+Technology Target (MW)
+Small Hydro 150
+Grid Solar 1,575
+Wind 100
+Bagasse and other RE 275
+Total RE target 2,100
+Table 7. Other renewables
+Technology Number of Units
+Solar Water Heaters 250,000Technology Number of Units
+Domestic Biogas Digesters 8,000
+Institutional Biogas Digesters 288
+To begin with, technology neutral targets shall be considered. This will promote competition between different 
+technologies and will therefore help in development of least cost technology, leading to least or no impact on the 
+consumer tariff. Also, technology neutral targets shall ensure rapid implementation of RE projects and 
+electrification, since the most suitable technology is pursued in terms of cost, skill availability and other suitable 
+conditions. 
+The regulator can ratify technology-specific targets based on the above targets in the future, considering market 
+dynamics and after gaining substantial experience in developing RE projects. The Nodal Agency can assist the 
+regulator in target setting process, regarding collection of operational data and information and gathering 
+stakeholder views on targets being set.
+Ministry responsible for Energy shall design and develop specific programmes for promoting off-grid technologies,
+like it has done for the solar water heaters (geysers) program. The programs shall also include the target, like it 
+has set a target of installing at least two hundred and fifty thousand (250,000) solar water heaters (geysers) by the 
+year 2030. 
+The Ministry responsible for Energy shall design the programs with assistance from Rural Electrification Fund (REF)
+in the areas of electricity access and agriculture, and clean energy solutions in the areas of cooking and heating.
+6.1 Policy Provisions to Enforce RE Targets
+Target setting is important as it will help the developers to understand the demand for RE and the utilities to plan 
+their power purchase. 
+6.1.1 Objectives
+ To set the RE target for Zimbabwe based on analysis of Nationally Determined Contribution (NDC) objectives 
+for Green House Gas (GHG) emissions, demand-supply scenario, ability of utilities to pay for such power and 
+marginal increase in tariffs of end consumers.
+ To perform detailed resource assessment on selected RE technologies to determine the potential of these 
+resources in the country.
+ To improve electrification levels in the rural areas of the country by making the energy accessible and 
+affordable to all based on policy principles.
+ To achieve cumulative installed RE capacity of one thousand one hundred Mega Watts (1,100 MW) or sixteen 
+comma five percent (16.5%) of overall electricity supply, whichever is higher, from RE sources by the year 
+2025 and two thousand one hundred Mega Watts (2,100 MW) or twenty-six comma five percent (26.5%) of 
+overall electricity supply, whichever is higher, from RE sources by the year 2030.6.1.2 Action Points 
+In order to achieve the above objectives, the key action points that are suggested in this policy include the 
+following:
+ The Regulator
+o Regulator shall come up with the mandatory Renewable Purchase Obligations (RPOs) in the form of 
+regulations/orders within a period of six months from the date of notification of the policy. It shall be 
+yearly obligations and shall be set for at least five (5) years. 
+o Regulator shall invite bids to perform detailed resource assessments on selected RE technologies 
+including geothermal, wind and biomass energy to determine their potential in the country and improve 
+investor confidence.
+o While setting the RPO, the regulator shall consider the targets being set in the policy, NDC objectives 
+for GHG emissions, ability of utilities to pay for such power and marginal increase in tariffs of end 
+consumers. 
+o Regulator shall set technology-specific or technology-neutral targets. To begin with, technology neutral 
+targets could be considered. Regulator shall perform appropriate market analysis, and shall consider the 
+technology-specific RE targets set in the policy to arrive at and ratify the technology-specific targets in 
+future. 
+o Implement mandatory RPO for defined obligated entities in order to ensure that target is attained. The 
+obligated entities shall be utilities and/or open access consumers and/or captive consumers. The 
+Regulation or Order shall also define the penalty mechanism in case of non-compliance of obligations by 
+the obligated entities.
+o Ministry shall approve the SDP, which would include the green corridor schemes for evacuation of 
+energy from RE projects.
+ The Transmission Utility
+The Transmission utility shall:
+o Come up with well-defined plans to set up a ‘Green Corridor’, which shall connect the RE potential 
+zones to load centres and substations. These plans can be part of yearly annual SDP identifying the 
+transmission lines and substations that need augmentation and cost of such augmentation. 
+Transmission utility shall submit the SDP to Ministry for approval of such programmes.
+o Give approvals to developers for grid access, before construction of any RE project based on the 
+results/recommendations of the load flow studies. Conduct proper due diligence/load flow studies for 
+each project including availability of transmission lines, substations, capacity of available substations 
+and transmission lines, commercial and technical feasibility studies as well as transmission 
+interconnection costs.
+o Provide these approvals to the developers within a period of one hundred and twenty (120) days, based 
+on results of load flow studies that shall be performed by the transmission utility and available 
+transmission capacity in the networko Sign a Transmission Service Agreement with the developer which shall include detailed provisions for 
+transmission charges, sharing of other charges and transmission losses, and provisions for 
+compensation for the developers in case of delayed grid expansion or delayed construction of 
+evacuation infrastructure by the transmission utility. This agreement needs to be signed in a period of 
+60 days from the date of evacuation approval from the transmission utility.
+ Rural Electrification Fund (REF)
+o To design schemes to improve electrification levels in rural areas and achieve the RE targets set in the 
+policy. 
+o To design the schemes based on the policy principles of affordability, accessibility, sustainability, 
+development and gender equity.
+7. Incentives for Promoting Investment in Renewable Energy 
+The policy proposes incentives to boost the development of RE projects by addressing the concerns of investors and 
+developers, and improving the sentiment in the sector. 
+7.1 National Project Status and Tax Incentives to Renewable Energy Projects
+Awarding National Project Status to the RE projects to enable projects to be exempted from the customs and 
+general excise regulations. This will allow the developers to import certain RE systems used in the generation plants 
+at competitive rates. The incentives under national project status are guided by following legislation:
+ Finance Act
+ Income Tax Act
+ Value Added Tax Act and Value Added Tax Regulations
+ Customs and Excise Duty Act and Customs and Excise General Regulations
+The incentives shall change with changes in legislation from time to time and approval by the respective Ministry.
+7.2 Prescribed Asset Status to Renewable Energy Projects
+Prescribed Asset Status will encourage investors/developers to have access to sufficient capital to fund RE projects. 
+It will attract capital from pension funds and insurance funds as under the investment guidelines, pension funds 
+have to invest certain percentage of the capital in Prescribed Assets. It will also encourage projects to raise funds 
+through issuance of bonds. Ministry responsible for Energy shall recommend RE projects on case to case basis to 
+Ministry responsible for Finance for according Prescribed Asset Status.
+7.3 Viability Gap Funding for Off-grid Community Project in Rural Areas
+To increase electricity access and develop off-grid community solutions, projects in rural areas will be eligible for 
+Viability Gap Funding from REF for development of distribution network in the area. The quantum of Viability Gap 
+Funding will be as determined by REF.
+7.4 Incentives for Sale of Power to Third Party Grid Access  Indiscriminative open access shall be granted to RE producers or beneficiaries.
+ Priority dispatch shall be granted to RE producers. 
+ Energy banking facility shall be extended by the utility for solar and wind generators. 
+ Utility and the developers shall enter into a wheeling agreement. Utility to submit and get the model 
+wheeling agreement approved by the Regulator within four months from the date of notification of the 
+policy. The approved model wheeling agreement shall be used for execution.
+ Net metering facility shall be extended to beneficiaries, namely the consumers availing net metering facility.
+7.5 Reduced Licensing Fees and Requirements for Developers of RE Projects 
+Being a clean source of energy, RE projects shall be provided concessions in licensing fee and enjoy relaxations in 
+other licensing requirements. Based on the values of the capacity factor and the ratio between the capacity factors 
+of RE technologies to that of conventional power plant, the licensing fees shall be reduced for developing RE
+projects. A framework is shown below:
+Table 7. Licensing fees for RE
+Technology Capacity 
+Factor
+Ratio Licensing fee for Generation in USD
+1-10 MW Beyond 10 MW
+Fixed Fixed Variable per 25 MW
+Conventional power 
+plant 0.8 1 10,000 20,000 10,000
+Solar PV 0.23 0.2875 2,875 5,750 2,875
+Biomass 0.6 0.75 7,500 15,000 7,500
+Small hydro 0.55 0.6875 6,875 13,750 6,875
+Geothermal 0.72 0.8961 9,000 18,000 9,000
+Wind 0.3 0.375 3,750 7,500 3,750
+7.6 Policy Provisions to Provide Incentives for Promoting Investment in RE
+In order to implement the above initiatives and provide the developers and users the necessary incentives to adopt 
+RE technologies, there has to be a clear allocation of roles and responsibilities between all the stakeholders. 
+7.6.1 Objectives
+ To boost RE development in Zimbabwe by providing tax incentives under the applicable Legislation and changes 
+in Legislation from time to time.
+ To provide incentives for sale of power to a third party.
+ To reduce the license fees for RE projects based on capacity utilization factor.7.6.2 Action Points 
+In order to achieve the above objectives, the key action points that are suggested in this policy include the 
+following:
+ Ministry Responsible for Energy
+o Issue notification for National Project Status to RE projects in coordination with other Government 
+Ministries.
+o Recommend projects on case to case basis to Ministry responsible for Finance for according Prescribed 
+Asset Status.
+ The Regulator
+o Notify regulations/order/amendments for open access (third party grid access), energy banking, and 
+priority dispatch in a period of six months from the date of notification of policy.
+o To come up with specific amendments with respect to licensing procedures for RE projects.
+ Rural Electrification Fund
+o To develop procedure for application and approval of Viability Gap Funding for rural area off-grid 
+community projects for increasing access to electricity.
+ The Transmission Utility
+o Modify grid operating procedure to provide priority dispatch to RE projects on the transmission and 
+distribution systems.
+ Developers
+o Make the fee payments as mentioned in the regulations within the defined timelines.
+8. Procurement Mechanisms for Renewable Energy in Zimbabwe
+An effective procurement mechanism will enable the development of new and cleaner electricity generation sources 
+by attracting investment and hence providing energy security and long term visibility of power purchase costs. 
+There are various procurement methods applicable for different technologies. This can vary for utility scale projects, 
+captive consumption and community electrification. 
+8.1 Sale of Power to the Utility
+Feed-in Tariff and Competitive Bidding are the most preferred procurement mechanism for sale of power to utilities. 
+The procurement method which shall apply for different RE technologies are as follows:
+ Solar PV and CSP: Considering that the costs of solar modules and equipment are continuously changing,
+Competitive Bidding shall be the mode of procurement for all ground mounted solar PV and solar CSP. A
+plug and play solar park model shall be adapted for this procurement method. In this model projects will be 
+packaged wherein government shall provide all the land, clearances and a bankable PPA. Selected developer will be required to bring in the equipment, finance and required manpower to develop and 
+operate the project. For rooftop solar, procurement will be under the FiT and net metering regulations. 
+ Small Hydropower: In line with the National Energy Policy (NEP) for small-scale hydropower (less than or 
+equal to 30 MW) procurement is proposed to be through FiT. 
+ Biomass: With low variances in costs of equipment and limited competition FiT shall be the ideal 
+procurement method for procuring energy from biomass energy developers.
+ Geothermal Energy: Geothermal energy is comparatively new technology and therefore further resource 
+assessments needs to be carried out. Keeping this in consideration, FiT shall be the suitable procurement 
+mechanism to spur growth in the development of this technology. Pilot projects shall be implemented for 
+geothermal energy to prove its sustainability and scalability.
+ Wind: Wind is a mature technology globally. However due to lack of resource assessment studies in 
+Zimbabwe at high hub heights it will not be ideal to consider this currently under Competitive Bidding route.
+Detailed resource assessment studies shall be conducted at 80m hub height or above in the year 2018 and 
+onwards. Once the resource assessment is completed, procurement of wind energy through Competitive 
+Bidding shall apply. Therefore, for next five (5) years procurement of wind energy shall be through FiT and 
+thereafter the Ministry responsible for Energy may recommend Competitive Bidding during the first review 
+of policy.
+8.1.1 Standard Bankable PPA and RfP
+Standard Bankable PPA 
+An appropriate procurement model will require a standard Power Purchase Agreement (PPA), approved by the 
+regulator for FiT and Competitive Bidding projects. The regulator is responsible for setting the guidelines and 
+approving the standard PPA, it may draw references from COMESA PPA guidelines. Ultimately, the power is bought 
+by the utility. Hence, the utility is responsible for inviting bids based on standard guidelines and approved PPA. The 
+PPA needs to have certain features in order to make it bankable and attract more private sector participation. These 
+can be summarised as below:
+ The PPA shall define the tenure and extension period as applicable. Usually, the tenure is linked to the 
+global benchmark life of the plant. The regulator is the competent authority to define tenure of the PPA 
+based on life of the plant.
+ The PPA shall clearly allocate the risks explicitly in the event of change in tax regime or change in law. It 
+should be done in a way to reduce the damages to the power producer resulting from the changes and the 
+off-taker to share this risk for making the project bankable.
+ The PPA shall specify the condition to commercial operations which shall include the approvals, clearances, 
+milestones along with timelines.
+ The PPA shall specify the tariff to be paid by the off taker (FiT or tariff determined through Competitive 
+Bidding) for sale of RE power by the power producer which should be adequate to cover the cost of 
+operating the facility, repay the debt and provide a reasonable return on equity. The PPA shall also consider 
+tariff escalation based on market dynamics. The PPA shall specify the minimum availability of a plant and also provide provisions to allocate financial 
+risk for losses incurred due to operational curtailment.
+ The PPA shall also specify as to which party is responsible for connecting the generating facility with the 
+transmission network and related costs. 
+ If an event of force majeure event occurs, the agreement shall have provisions to relax the obligations of 
+the power producer.
+ The agreement shall explicitly allocate the risk in case of expropriation and civil disturbances.
+ The agreement shall explicitly specify the basis of termination of the PPA. In case of termination by the off 
+taker, the agreement shall specify the termination payments that shall enable the producer to pay the 
+debts and other obligations related to the project.
+ The PPA shall cover the payment due date, incentive/damages for early/late payment and mechanism for 
+payment disputes.
+Standard Request for Proposal (RfP) and bidding guidelines shall be prepared by the regulator for projects to 
+be awarded through Competitive Bidding. During the bidding process, the utility will issue an RfP and PPA for each 
+project separately which will be as per the standard documents and guidelines prepared by the regulator. RfP 
+should favour credit worthiness and technical capability of developers. RfP shall also facilitate market entry for new 
+players to the Zimbabwe energy market. RfP shall be tailored depending on technology, site location, support 
+infrastructure available and whether developer is investing in the transmission network.
+8.2 Procurement of Energy from Government Utilities
+Government owned entities including ZPC can sell power to the utility based on a mutually agreed tariff (limited to 
+the FiT approved by the regulator). However to create a competitive environment in procurement of power in the 
+Zimbabwe and promote private sector investment in the sector, procurement through negotiated route from 
+government owned entities will be restricted to maximum of fifty percent (50%) of total RE procured/required in 
+each year. Under this procurement mode minimum domestic content for capital investment for the project will be at 
+least thirty percent (30%). This minimum domestic content of thirty percent (30%) shall be reviewed during the 
+policy review process. Government utilities are also open to develop projects by participating in Competitive Bidding 
+or under FiT route.
+8.3 Policy Provisions for Procurement
+8.3.1 Objectives
+The objectives of the policy includes:
+ To meet the development needs of the country through a viable procurement mechanism. 
+ Providing investors a platform where there is certainty on off-take of power at appropriate returns.
+ To carry out resource assessment of different RE technologies.
+ To have guidelines and pricing structures for FiT and Competitive Bidding in order to encourage the 
+development of RE technologies. To effectively implement a project in the scheduled time period.
+8.3.2 Action Points 
+In order to achieve the above objectives, the key action points that are suggested in this policy include the 
+following:
+ The Regulator
+o Assess the market maturity for different technologies at periodic intervals of five years. Notify the nodal 
+agencies to carry out resource assessment of different RE technologies.
+o Issue well-defined regulations for the Feed-in-Tariff (FiT) mechanism including standard PPA in a period 
+of six months from the date of notification of policy. 
+o Implement mandatory Renewable Purchase Obligation (RPO). Come out with a RPO Regulation/Order in 
+a period of six months from the date of notification of policy.
+o Develop Competitive Bidding guidelines in a period of six months from the policy notification date. 
+o Prepare standard bidding documents including request for proposal (RfP), power purchase agreement 
+(PPA), bid formats including evaluation formats and other necessary documents, within a period of six 
+months from the date of notification of the policy. 
+o Monitor the tariff at which government owned entities sell power to the utility and review it on a yearly 
+basis. 
+o Develop and notify net metering regulation in a period of six months from the date of notification of 
+policy.
+ The Utility
+o Come out with yearly procurement requirement for different technologies based on the yearly targets.
+o Develop packages for the solar park and coordinate with the Nodal Agency to obtain clearances and 
+approval for the same. In cases where the utility is not able to identify land for developing solar parks, 
+it shall coordinate with the Ministry responsible for Energy to identify land for solar parks and make it 
+suitable for RE power generation and evacuation. 
+o Responsible to sign the wheeling agreements with developers.
+o Invite bids for procuring solar parks based on the targets set by the regulator.
+o For solar parks, the transmission utility to lay out power evacuation line from solar park to the nearest 
+substation or interconnection point and arrange for metering infrastructure at the interconnection point.
+o Submit compliance of targets to the regulator annually including reasons for deviation.
+o Comply with the regulations, orders, guidelines, standard documents/formats approved by the 
+regulator. Developers
+o Comply with the grid code, regulations, applicable and amended from time to time.
+o For project other than solar park to lay the power evacuation lines from the generating station to the 
+nearest substation or interconnection point.
+o Developers are also responsible for project identification, development and preparation for funding.
+o Arrange for project finance for developing the RE project.
+o Develop and operate the project for term of the PPA.
+o Carry out resource assessment of different RE technologies. Apply for license for conducting the 
+resource assessment.
+9. Addressing the Development Risks in Renewable Energy Projects
+RE projects are required to obtain necessary consents, permissions and approvals from different departments and 
+licenses from regulatory authorities to start implementation of the project. The key approvals required for 
+development of RE projects include land use permit, water extraction permit, environmental impact assessment, 
+investment endorsement, grid connection approval and others that are defined in the licensing requirements
+notified by the regulator from time to time. 
+9.1 Approval Timelines
+The departments and agencies within the Ministry responsible for Energy shall give priority approval to RE projects. 
+The timelines for approval will be reviewed during the mid-term review process.
+Licensing: The licensing process is clearly defined by the regulator, which has the responsibility of issuing 
+generation, transmission and distribution licenses to applicants. The process shall be amended for RE projects as 
+below:
+ The regulator has the responsibility of issuing license within a period of one hundred and twenty (120) days
+from the date of application. 
+ In case of delays beyond the period of one hundred and twenty (120) days, the project shall be given 
+deemed approval provided that the regulator has not rejected the license application or has requested for 
+additional clarification and the developer has not provided the same in required timeframe.
+ The developers shall adhere to the requirements and processes described in the licensing guidelines. In 
+case of violation or misrepresentation of any material fact by the developer, the application shall be 
+cancelled and necessary action shall be taken as deemed fit by the regulator.
+ Regulator shall make efforts to reduce time required to issue generation, and transmission and distribution 
+licenses especially to RE developers in order to expedite the process of approvals and clearances.
+ In case of rejection of the license application, specific and appropriate reason shall be given by the 
+authority to the developer within a period of seven (7) days from the rejection of application. Also the 
+developer shall be given a timeframe of thirty (30) days to rectify the reasons for rejection. The rectified with appropriate reasons for approval or rejection. This process can be ongoing till all the concerns are 
+addressed or else the developer can make a fresh application withdrawing the current application.
+ The projects awarded through Competitive Bidding shall be accorded a deemed generation license, and 
+shall be exempt from the licensing regulations. However, the licensing fees shall be applicable.
+Grid Connection Approval: In order to ensure favourable access to the grid infrastructure for the RE developers, 
+the grid connection approval shall be provided based on results of load flow studies and commercial and technical 
+feasibility studies conducted by the transmission utility. This approval shall be provided within a period of one 
+hundred and twenty (120) days from the date of application. In case there is no requirement for load flow studies 
+and commercial and technical feasibility studies, the transmission utility shall consider to reduce time period for grid 
+connection approval. The cost for grid connection approval should be reflective of actual costs incurred.
+Water Extraction Approval: It is the responsibility of the developer to obtain water approvals from Zimbabwe 
+National Water Authority (ZINWA) by fulfilling the requirements as set by ZINWA. ZINWA shall reduce the time 
+required for obtaining water extraction approvals. 
+Environmental Impact Assessment (EIA): The RE projects need to undergo the EIA process prior to 
+implementation as per provisions in the Environmental Management Act, 2002 and Statutory Instrument 7 of 2007 
+(Environmental Impact Assessment and Ecosystems Protection) Regulations. EIA shall also monitor disposal of RE
+equipment. As RE projects have minimal or no environmental impact and positive social impact, following 
+concessions shall be provided:
+ For projects with installed capacity of less than or equal to five Mega Watts (5 MW), EIA process and 
+approval shall be relaxed.
+ For projects with installed capacity of more than five Mega Watts (5 MW), the approval shall be completed 
+within a period of thirty (30) days from submission of EIA report, and in cases of delay beyond thirty (30)
+days, deemed approval shall be provided by the Ministry provided EIA has not rejected the application or 
+has requested for additional clarification and the developer has not provided the same in required 
+timeframe.
+9.2 Setting Up a Nodal Agency
+Ministry responsible for Energy is proposed to be set up as the Nodal Agency to facilitate administrative approvals 
+and assist in certain complex and time consuming processes such as land acquisition and transmission connectivity 
+and signing of PPA. The Nodal Agency will also be responsible for information management, monitoring and 
+evaluation of different RE projects. It will also be responsible for resource estimation and preparing pre-feasibility 
+report of various priority projects.
+The role of the Nodal Agency is primarily consultative with an objective to facilitate the entire process of obtaining 
+approvals from different authorities and departments involved. However primary responsibility of obtaining the 
+approvals and clearances is with the developer. Fees and charges payable to the Nodal Agency for rendering such 
+services shall be set by the Ministry responsible for energy in consultation with the regulator. Since the Nodal 
+Agency will be engaged in various tasks such as collection of operational data, data monitoring and evaluation, 
+inviting bids for land acquisition and others as defined in the following sections, a certain percentage of the 
+licensing fees can be marked to fund the services offered by Nodal Agency. Fees and charges can also be sourced 
+from grants and Government funding.9.2.1 Pre-Development Phase
+The Nodal Agency can be the single go to Agency to address all these issues related to development of RE project 
+process for developers.
+ Nodal Agency shall be approached by the developers to obtain information regarding licensing procedures 
+and requirements.
+ Nodal Agency shall provide all the necessary information to the developers regarding bidding procedures 
+including selection criteria and other important parameters.
+ Nodal Agency shall also inform the developers regarding the availability and suitability of land in terms of 
+resource availability, access to road and water and others for development of RE projects.
+9.2.2 Development Phase
+The development phase involves obtaining all the necessary clearances and approvals from multiple authorities and 
+departments, acquiring land to begin construction of the facilities, achieve financial closure, and signing of PPA with 
+transmission and distribution utilities. The Nodal Agency can address these issues by performing certain specific 
+functions which are explained below. 
+ Clearances and approvals: 
+o The Nodal Agency shall have a consultative role to provide useful information and facilitate 
+developers in obtaining all the necessary consents, approvals and clearances from several 
+authorities including water extraction, forest, land, environmental clearances, and other necessary 
+approvals. 
+o The Nodal Agency shall prepare RE investment toolkit which should include a list of the clearances, 
+approvals and other permissions required for developing a RE project in Zimbabwe within two 
+months from the policy notification date. This shall include the list of all clearances and approvals 
+required, documents required, timelines for these processes, approval fees and the respective 
+departments and agencies involved in obtaining these clearances and approvals.
+o Primary responsibility to obtain project clearances rest with the project developers, Nodal Agency 
+shall facilitate the process. 
+o The Nodal Agency shall be the single go to Agency for the developers to obtain information 
+regarding investment in RE project in Zimbabwe.
+ Progress monitoring: In order to make this process simple and transparent for the developers, the Nodal 
+Agency can maintain an online platform to depict the current state of approvals to all the parties involved. 
+9.2.3 Execution Phase
+After obtaining requisite clearances and approvals, the developers need to begin construction of plants and ensure 
+its completion in a fixed timeframe. The Nodal Agency has the responsibility to monitor the status of these projects 
+and in cases of delay by developers or in obtaining approvals, the Nodal Agency shall analyse the root causes 
+leading to such delays and take necessary actions to expedite the process.
+Table 8. Construction time for plants based on RE technologyTechnology Capacity Estimated construction time
+Solar PV Up to 50 MW
+More than 50 MW
+Within 18 months
+Within 24 months
+Solar CSP Up to 100 MW
+100 MW to 200 MW
+More than 200 MW
+Within 36 months
+Within 42 months
+Within 48 months
+Small hydro Less than and equal to 30 MW Within 48 months
+Biomass Any capacity Within 48 months
+Wind Any capacity Within 24 months
+The above timelines shall be mentioned in the license by providing additional timeline of twelve (12) months as 
+condition subsequent for obtaining all the approvals and clearances including financial closure. Grace period of 
+another six (6) months may be provided for getting the approvals and clearances subject to payment of liquidated 
+damages. 
+9.3 Land Acquisition
+The land acquisition process has been identified as a major hurdle in development of RE projects. Projects usually 
+face competition from other services such as agriculture, irrigation and other activities. Also, lack of transparency in 
+the acquisition process leads to future problems such as conflicts with land owners and subsequent delays in project 
+implementation.
+9.3.1 Policy Recommendations for Land Acquisition for Renewable Energy Projects
+One of the objectives in this policy is to simplify the land acquisition process and make it more transparent to avoid 
+unnecessary delays, ensure fair prices to land owners and developers, and prevent future disputes. The Nodal 
+Agency shall work with other ministries and agencies to address the issues pertaining to land acquisition for RE
+projects.
+ Nodal Agency in coordination with the Ministry responsible for Land shall identify land parcel for 
+development of RE projects.
+ Nodal Agency shall provide details on land including type of land, its suitability for developing RE projects, 
+ownership of the land, that is whether it is Government owned or privately owned and other necessary 
+information.
+ Nodal Agency shall inform the developers and other private players regarding the availability of land in 
+periodic intervals of 6 months.
+ Available lands that are Government owned shall be allocated to the developers following land auction 
+system. Based on the available land, the Nodal Agency shall advertise the site inviting bids. 
+ The Nodal Agency shall have the responsibility to provide guidelines for the land auction system including  The winning bidder shall pay the amount directly to the Ministry responsible for Land. The Nodal Agency 
+shall charge an administrative fee for this process. Such charge shall be approved by the Ministry 
+responsible for Energy in consultation with the regulator from time to time.
+ All the above process is just to facilitate and simplify land acquisition process. However, developers are free 
+to identify land on their own and approach respective departments for acquisition, approvals and 
+clearances. But, they can seek help from the Nodal Agency for facilitating the acquisition process.
+9.4 Policy Provisions to Address Development Risks for Renewable Energy Projects in 
+Zimbabwe
+The objectives and action points in this policy to address the development risks include the following:
+9.4.1 Objectives
+The objectives of the policy with respect to addressing the development risks and reducing administrative delays 
+include the following:
+ To have well-defined timelines for licensing, grid-connection, land acquisition, water extraction and other 
+approvals and reduce time required in obtaining approvals.
+ To relax EIA requirement for less than five Mega Watts (5 MW) RE projects and reduce EIA approval 
+timelines for greater than five Mega Watts (5 MW) RE projects.
+ To set up a Nodal Agency to facilitate the entire development process and provide information to developers 
+on the administrative processes, design a list of approvals with involved authorities and defined timelines 
+and fees, monitor progress of the project through an online platform and integrate operational data.
+ To define the time-lines for construction and commissioning of the projects.
+ To identify sites for development of RE projects and inform the developers periodically.
+ To sell land through auctions for fair price to land owners and transparency in the process.
+9.4.2 Action Points
+The provisions including approval timelines, setting up the Nodal Agency and addressing land acquisition issues to 
+address the development risks have been summarised in the form of certain action points. 
+ Nodal Agency
+o Design guidelines and procedures for the land auction process in coordination with Ministry 
+responsible for Land.
+o Coordinate with ministries and departments involved including Ministry responsible for Environment, 
+Water, Climate, Rural Development, Preservation and Promotion of Culture and Heritage and other 
+Ministries for speedy approval of process.
+o Coordinate and collaborate with the Ministry responsible for Land to identify land suitable for 
+development of RE projects.o Invite bids through the Nodal Agency from developers for allocation of land through the land 
+auction process.
+o Provide necessary information to developers regarding bidding process, clearances and approvals, 
+and land availability.
+o Facilitate the entire process of obtaining clearances, approvals and permits, monitor progress in 
+development of RE projects, integrate operational data and conduct the land auction process.
+o Monitor the construction and development of RE projects.
+o To use information on project implementation and approval processes, to ensure that all 
+departments involved in approvals and administrative processes are improving their efficiency to 
+reduce time required for such processes.
+o Integrate operational data from the developers and other departments across all stages of the 
+project.
+ The Regulator
+o Provide license to developers within the defined time period of one hundred and twenty (120) days.
+o To coordinate with the Environmental Management Agency to relax the EIA process for RE projects 
+with capacity less than five Mega Watts (5 MW).
+o Monitor that environmental impact assessment approval is provided within thirty (30) days of 
+application with RE capacities greater than five Mega Watts (5 MW).
+o To give advise on the fees that shall be charged by the Nodal Agency for the services it shall offer 
+to the developers.
+ The Transmission Utility
+o To provide grid connection approval to developers within one hundred and twenty (120) days from 
+date of license application.
+o For project other than solar parks, the transmission utility to assist the developers in laying out 
+connection lines to the nearest interconnection point, if approached by the developers, and may 
+charge a fee as well for this purpose.
+ Zimbabwe National Water Authority (ZINWA)
+o To provide water extraction approvals and permits within the designed timelines.
+ Developers
+o Produce the necessary documents and fulfil other requirements as defined in the regulations and 
+procedures to obtain all clearances, approvals and permits. The developers shall demonstrate their 
+ability in getting all the necessary clearances and approvals, and may seek the help of the Nodal 
+Agency to obtain information regarding the administrative processes.o Make the fee payments as mentioned in the regulations within the defined timelines.
+o Make the necessary evacuation arrangements to the nearest substations either by making own 
+arrangements or asking the transmission utility to lay out the connection lines for the same 
+purpose.
+10. Promoting Off-grid Technologies and Other Clean Energy Solutions in 
+Zimbabwe
+Renewables based off-grid systems and other clean energy solutions can provide access to electricity and clean 
+energy sources in regions where traditional grid extension is not economically feasible. They provide affordable 
+lighting, improve communications, improve the quality of healthcare facilities and educational institutions in 
+addition to other businesses and institutions. A load forecast of domestic households and institutions in rural offgrid areas in the Rural Energy Master Plan indicate that the potential additional rural electricity demand by the year 
+2034 is between five hundred Mega Watts (500 MW) and nine hundred Mega Watts (900 MW), assuming all rural 
+customers will be grid-connected. There are several off-grid technologies and other clean energy solutions that can 
+improve energy access in the distant rural areas of Zimbabwe like mini grid, micro grid, solar lighting, solar home 
+systems, small hydro, solar water heaters, clean cook stove and RE based water pumps and systems.
+10.1 Guidelines to Promote Off-grid Technology and Other Clean Energy Solutions in 
+Zimbabwe
+The policy aims to improve the electrification levels and energy access in the country, especially in the distant rural 
+areas which lack access to grid infrastructure. In areas where grid expansion might take a long time and are not 
+commercially feasible, renewables based off-grid electrification will provide a feasible way to provide access to basic 
+and modern energy services to the common citizens of Zimbabwe. However, to promote renewables based off-grid 
+technologies in these areas, there is a need for a dedicated programme backed by strong institutional support and 
+legal and regulatory framework. The following provisions are proposed to improve the development of off-grid 
+technologies in Zimbabwe:
+10.1.1 Standards and Specifications
+All the available renewables based off-grid products shall adhere to the specified quality standards. The regulator
+along with Standards Association of Zimbabwe (SAZ) have endorsed the International Electro-technical Commission 
+(IEC) standards for solar PV and lighting as national standards for use in Zimbabwe among others. 
+10.1.2 Procurement Method
+Standalone Renewables Based Clean Energy Solutions
+ Clean energy solutions such as solar water heaters, solar home systems, clean cook stoves, lighting 
+systems and RE based water pumps can be obtained from the market or Government programmes. 
+ For solar water heaters obtained under Government schemes, the grid connected consumers shall have a 
+pre-paid meter installed in their homes or business premises. The cost of such water heaters shall be 
+recovered through a monthly energy bill.
+Mini-grid and Micro-grid 
+ The mini-grids and micro-grids shall be based on RE technologies.  All the projects would need to obtain the license. However, licensing fees shall be waived off for installation 
+and operation of micro-grids and mini-grids with an installed capacity of less than one Mega Watts (1 MW).
+ In order for the mini-grids and micro-grids to qualify as community projects, these projects shall provide 
+electricity to nearby communities, community projects, health facilities and educational institutions. 
+Further, these projects shall get the approval of at least sixty-six percent (66%) or two thirds (2/3)
+majority of the local population before beginning work on the project. 
+ Guidelines and standards shall be developed by the regulator for qualifying these projects as community 
+based projects. 
+ The tariff set for these programmes shall consider the paying capacity of the consumers.
+10.1.3 Financing the Development of Off-grid Technologies and Other Clean Energy Projects
+The following initiatives shall be provided to attract private funds and finance the development of these projects:
+ Grants: The Government shall work with the NGOs and multi-lateral institutions to obtain grants that can 
+be provided for development of micro-grid and mini-grid projects. 
+ Concessional Loans: Off-grid projects employing renewable sources shall be eligible to get concessional 
+loans from the dedicated Green Energy Fund. 
+ Grace Period in Loans: Loans availed by the developers from the dedicated Green Energy Fund and REF
+for developing these projects shall be eligible for an initial extended grace period for repayment that will 
+allow the developers to recover the operating expenses and other investments in the initial years before 
+making the interest and principal payments of the loan.
+ Subsidies: The Government shall provide a certain defined amount of subsidy according to the type and 
+size of the project in order to make the project financially sustainable in the initial years and attract funds 
+from private investors. 
+ Budgetary Allocation: Developing off-grid projects needs government support and a yearly allocation of 
+the annual budget shall provide a boost to the developers.
+10.1.4 Other Provisions to Promote Development of Off-grid and Clean Energy Projects
+ Tax Exemption: For community funded or NGO sponsored off-grid projects, all import duties on import of 
+equipment and all the taxes related to consumption of electricity shall be waived off as provided in the 
+respective legislation and future amendments (Finance Act, Income Tax Act, Value Added Tax Act and Value 
+Added Tax Regulations, Customs and Excise Duty Act and Customs and Excise General Regulations). 
+ Awareness Programs: It has been observed that people lack knowledge and experience in operating 
+these technologies. Certain initiatives shall be taken to promote awareness of off-grid technologies.
+o The campaigns shall include free demonstrations regarding the use and benefits of off-grid 
+technologies that shall be facilitated by trained and experienced personnel. 
+o Also, there shall be structured programs to invite developers and inform them about the different 
+programmes and support mechanisms, financing provisions, and other incentives and programmes that are provided by the Government to promote the development of renewables based off-grid 
+projects.
+o These awareness campaigns shall be conducted by the Government agencies in collaboration with 
+NGOs, communities and international agencies. 
+10.2 Guidelines to Implement Programmes for Off-grid and Clean Energy Technologies
+The Ministry responsible for Energy along with the Rural Electrification Fund (REF) shall develop programmes for 
+promoting different technologies considering the guidelines mentioned regarding standards and specifications, 
+procurement, tariff and payment, financing mechanisms, efficiency measures and other incentives. The 
+specifications of the programs shall be similar to the solar water heaters (geysers) program. 
+In addition to these provisions, the programme shall clearly indicate the target number of installations of the 
+systems, like it has set a target of installing two hundred and fifty thousand (250,000) solar water heaters 
+(geysers) by the year 2030. 
+The programme shall have certain guiding features which are provided below:
+ The programme should define all the initiatives and steps that shall be taken to achieve the targets 
+mentioned in the SE4ALL Action Agenda report.
+ The programme shall provide incentives for higher adoption of off-grid and clean energy equipment among 
+the local population. It shall also indicate the provisions for grants and subsidies from Governments and 
+multi-lateral agencies.
+ The programmes shall provide innovative payment mechanisms considering the paying capacity of 
+consumers, life of equipment and returns to the investors. They should have low upfront costs and an EMI 
+that will be suitable for the customers. The payment mechanism should be designed so as to incentivise the 
+adoption of off-grid products and make it affordable for use by the customers.
+ Customers can obtain off-grid products and equipment by paying a monthly rent to suppliers. 
+o The customers who shall pay the rent continuously for two years can own the product. This will 
+ensure that the manufacturer of the product gets continuous cash flows for a period of two years 
+and the consumer also has the option of buying or not buying the product. 
+o The monthly rent amount shall be decided considering the paying capacity of the customers and the 
+return required by the manufacturer or investor.
+o The products sold on rent basis shall have warranty support during the rent period and shall be 
+replaced with other equipment in case of repairs or maintenance.
+Programmes shall be designed by the Ministry responsible for Energy for off grid technologies under two key areas,
+electricity access and agriculture. Also, programmes shall be developed for clean energy solutions under two key 
+areas, cooking and heating.
+10.2.1 Off-grid Technologies 
+Electricity Access The objective of the programme shall be to increase access to electricity in remote area by providing reliable and 
+stable power. The Rural Electrification Fund is already implementing several schemes to improve the electrification 
+levels in rural areas through grid extension programs and lighting community establishments by RE technologies. In 
+continuation to their existing initiatives, it shall be responsible to improve electrification levels in rural areas. All the 
+rural electrification schemes shall be designed and carried out in consultation with the Rural Electrification Fund.
+ The renewables based off-grid technologies which can be used for electrification are mini grid projects and 
+others. Standalone decentralised systems which can be used are solar lighting systems, solar home 
+systems, solar lanterns and biogas electrification plants.
+ Special provision for tariff shall be made to make it affordable while ensuring a desired return to investors. 
+ The programme shall promote local community participation in the development and operations of the 
+project. 
+ It shall also support the development of independent grids supplied by micro-hydro and pico-hydro, 
+biomass gasifiers and solar PV systems in dispersed distant settlements. 
+ The programme shall prioritise supporting electrification for productive uses and key social services. Captive 
+generation shall be promoted through incentives. 
+ The programme shall promote public private partnership and private participation through tendering. 
+ The programme shall involve carrying out feasibility study for micro and mini hydro sites to provide power 
+to mini grids in rural areas to be managed by cooperatives, communities and local entrepreneurs.
+Agriculture 
+The renewables based off-grid technologies which can be used for agriculture are RE powered water pumps, biogas 
+based heating and lighting farm systems including boilers, watering of animals using RE powered equipment, and 
+others. Off-grid renewables can support productive activity at all stages of the agriculture food chain. The 
+installation of RE equipment such as solar panels, wind turbine or a biomass digester can support irrigation (water 
+pumping) and post-harvest activities including agro-processing and food preservation (drying, milling, pressing and 
+cooling) for storage and transport.
+The objective of the programme is to develop scalable models which shall improve RE powered pumps for irrigation 
+purposes and explore prospects of such pumps through coordination with other cross sectoral activities. Plans shall 
+be formulated to make it sustainable for water supply and agriculture. Provisions for financial assistance shall be 
+provided in the programme for reducing the cost of equipment.
+10.2.2 Clean Energy Solutions
+Cooking 
+The objective of this programme is to promote efficient sources of energy for the purpose of cooking.
+ The renewables based off-grid technologies which can be used for cooking are clean cook stoves, solar 
+cookers and biogas based cookers. There is a need to promote installation of the above mentioned 
+technologies in rural areas using wood or solid fuel for cooking as this is more efficient and clean source. For promotion of these programmes, planning shall be carried out to study willingness of people to pay, 
+affordability, sustainability and efficiency. Committees shall be formed at the village level keeping in mind 
+gender diversity. 
+ Grants and funds shall be provided to households who would want to purchase solar cookers and biogas 
+digesters and NGOs shall be involved to effectively implement the programmes. Also the programmes shall 
+promote awareness campaigns. Some of the stakeholders have identified issues in operation and efficiency 
+of biogas digesters. The programme shall also cover the standard specifications, warranties and free 
+Operations and Maintenance for certain period. The programme shall also have specific targets on 
+installations of different equipment as referred in each of the schemes.
+Heating and Lighting
+The renewables based off-grid technologies which can be used for heating are solar water heating systems and 
+biomass fired cogeneration. Scheme for installation of solar water heaters by the Government in Zimbabwe, and 
+Electricity (Solar Water Heating) Regulations, 2017 has also been notified. RE technologies such as solar lighting 
+systems can also be used in improving access to lighting systems to the people. In order to foster development, 
+municipal authorities and industries will work together in developing the potential of industries that generate waste. 
+Promoters can access finance from development banks, multi-lateral financial institutions and incentives shall be 
+put in place to promote the conversion of waste to energy.
+10.3 Policy Provisions for Promoting Off-grid Technologies and Clean Energy Solutions in 
+Zimbabwe
+The policy has certain objectives and action points for promoting off-grid technologies and clean energy solution in 
+Zimbabwe. This is specified below:
+10.3.1 Objectives
+The policy has the following objectives for promoting adoption and usage of off-grid technologies and clean energy 
+solutions:
+ To identify feasible off-grid technologies and clean energy solutions for implementation in Zimbabwe, and 
+develop standards and specifications for the available off-grid equipment to ensure quality.
+ To conduct awareness campaigns at district and community levels for spreading awareness regarding the 
+use and benefits of off-grid systems and clean energy solutions.
+ To design financing mechanisms for raising funds for development of off-grid projects and clean energy 
+solutions through grants, concessional loans from the RE Fund, Government subsidies, initial grace period in 
+loans and others.
+ Provide incentives such as import duty exemption, tax exemption, and others under the current Legislation 
+and future amendments, for promoting the adoption and use of off-grid and clean energy products and 
+equipment.
+ Develop specific programmes for key off-grid areas, electricity access and agriculture. Also, develop 
+specific programmes for clean energy solutions under key areas, cooking and heating. The programmes 
+shall cover the targets for different off-grid technologies in line with the targets set under SE4ALL Action 
+Agenda10.3.2 Action Points
+The policy recommends some action points in order to attain the above mentioned objectives. 
+ Ministry Responsible for Energy 
+o Design and develop specific programmes with the Rural Electrification Fund (REF) for promoting off-grid 
+technologies in the areas of electricity access and agriculture, and clean energy solutions in the areas of 
+cooking and heating, within a period of six months from the policy notification date.
+o Conduct awareness campaigns in coordination with REF and collaborating with NGOs and international 
+institutions to provide information regarding off-grid programmes and plans.
+o Allocate a certain percentage of the energy budget for conducting awareness campaigns.
+o Initiate skill development programs with REF and institutions to build capacity among local 
+communities.
+o Develop some pilot projects during the initial period of the programme.
+o Provide capital subsidies in the initial stages of the project.
+o Provide clear mechanism for grants and capital subsidy.
+o Allocate a certain percentage of the annual budget solely for development of renewables based off-grid 
+projects that include micro-grids and mini-grids, and installation of off-grid products such as solar water 
+heaters.
+o Consider prepaid metering as an option to recover charges incurred during installation of off-grid RE
+devices at consumer premises.
+o Coordinate with multi-lateral institutions and agencies to obtain grants, financial support and technical 
+expertise for development of renewables based off-grid projects. 
+ Rural Electrification Fund (REF)
+o To collaborate with the Ministry responsible for Energy to design and develop specific programmes
+for promoting off-grid technologies in the areas of electricity access
+o Provide funding for setting up off-grid distribution network (mini-grids and micro-grids)
+o Deploy funds for installation and development of off-grid technologies and clean energy solutions in 
+rural areas.
+ The regulator
+o Ensure that available off-grid products and systems and clean energy solutions in the market 
+adhere to the standards and specifications approved by it and SAZ.o To monitor the fees charged in prepaid solar water heater schemes by the Government. The 
+charges to the consumer needs to be approved by the regulator as this shall form a part of tariff 
+recovery.
+o Waive off licensing fees for installation and operation of micro-grids and mini-grids with an installed 
+capacity of less than one Mega Watts (1 MW).
+o Design guidelines and standards which need to be adhered to by the developers, to qualify as 
+renewables based off-grid projects and clean energy solutions to avail the associated benefits.
+o Provide a framework to the developers and management of the project to calculate the tariff.
+ Developers / Suppliers
+o Design products that strictly adhere to the defined standards and specifications by the regulator and 
+SAZ.
+o Meet the standards and requirements as defined by the regulator to qualify as a renewables based 
+off-grid project and clean energy solutions. 
+o Undertake technical training to build strong relevant skills in the manufacturing and production of 
+these technologies.
+11. Promote Local Manufacturing of Renewable Energy Technologies
+Local manufacturing of RE systems and devices will not only spur a growth in the energy sector, but will also ensure 
+a robust supply chain and generate employment opportunities for the workforce of the country. Following are some 
+of the initiatives to promote local manufacturing of RE technologies in Zimbabwe:
+ Standard Specifications: The regulator will ensure that the RE products and equipment available in the 
+market adhere to the designed standards and specifications by the regulator and SAZ.
+ Domestic Content Requirements: A certain percentage of the RE technology systems installed in the 
+country are mandated to have the domestic content. Mandatory domestic content requirements shall be 
+implemented when there is a sizeable demand.
+ Financial and Tax Incentives: Financial incentives include providing low interest sources for project
+financing, custom duties and tax incentives as provided in the respective legislation and future amendments 
+(Finance Act, Income Tax Act, Value Added Tax Act and Value Added Tax Regulations, Customs and Excise 
+Duty Act and Customs and Excise General Regulations).
+ Promoting Research and Development in Renewable Energy Technologies: It is essential to initiate 
+Research and Development activities related to RE technologies which is pivotal for long-term sustainability 
+of the industry and developing tailor made solutions for the Zimbabwean market. 
+11.1 Policy Provisions to Promote Local Manufacturing of Renewable Energy Technologies
+The policy has certain objectives and action points that aim to promote manufacturing in the country. 11.1.1 Objectives
+Promoting manufacturing of RE systems in the country needs support of a strong institutional framework with welldefined roles and responsibilities of the stakeholders. This will ensure that the planned objectives can be met in a 
+suitable manner. A robust supply chain and effective stakeholder coordination is essential to ensure efficient 
+manufacturing in the country. The policy has certain objectives and action points that aim to promote 
+manufacturing in the country:
+ To design standards and specifications for the RE systems and equipment to ensure consistency in the 
+quality of these products.
+ To provide domestic content requirements aimed at promoting manufacturing of high-quality RE products 
+and equipment.
+ To provide financial and tax incentives to manufacturers and developers under the current Legislation and 
+future amendments.
+ To promote Research and Development in RE technologies. 
+11.1.2 Action Points
+The policy recommends certain key action points that need to be carried out by the stakeholders involved. These 
+have been summarised below:
+ Ministry Responsible for Energy
+o Coordinate with Ministry responsible for promoting Industry and Commerce and set domestic 
+content requirements for RE systems aimed at promoting manufacturing of RE equipment.
+o Coordinate and work with the Ministry responsible for Finance to decide on the financial incentives 
+and tax credits that can be provided to manufacturers to boost sentiment and promote 
+manufacturing.
+o Coordinate and work with Ministry responsible for promoting Industry and Commerce and other 
+Research and Development institutions and Universities to design specific plans to promote 
+Research and Development in RE technologies and attract investment in the sector.
+ The Regulator
+o Ensure that all the RE systems and equipment adhere to the approved standards and specifications.
+o Design standards and specifications for equipment which do not have any defined standards. The 
+regulator shall come up with these standards within a period of three (3) months from policy 
+notification date.
+12. Skills Development and Technology Transfer
+Developing RE technologies in a country needs availability of skilled labour and access to latest technology in order 
+to be competitive with the global players and provide equipment at a competitive price. The rapid growth of RE
+technologies will require an extensive pool of competent manpower to design, install and maintain the RE projects.The initiatives to promote skill development and enable technology transfer are as follows:
+ Collaboration with Other Countries: Zimbabwe shall form partnerships with other Countries for skill 
+development and technology transfer in the RE sector. Cross country programs will encompass exchange 
+programme visits to countries which have renowned practices in RE.
+ Collaboration of Universities with RET Developers and Manufacturers: There shall be important tieups between universities and the RE technology manufacturers to impart skills and training to the 
+workforce. Private sector including private companies and financial institutions, can support skills 
+development training programmes on RE in collaboration with tertiary and vocational training institutions.
+ Setting up of Training Institutes: Based on international practices, training institutes shall be developed 
+with adequate resources and trained staff and personnel to impart vocational training to the workforce. 
+12.1 Policy Provisions to Enhance Skills Development in Zimbabwe
+The policy objectives and action points have been mentioned below that aim to promote skill development and build 
+capacity in the RE sector.
+12.1.1 Objectives
+The policy has certain objectives to promote skill development and technology transfer in the country. These 
+include the following:
+ To engage in collaborations and partnerships with other countries to promote technology transfer, and 
+sharing of technical knowledge and resources.
+ To set up training institutes to impart vocational training to the local workforce.
+ To collaborate with Universities and technical institutions to impart quality training to the workforce.
+ To promote participation of youth in the skill development and training programs, and encourage 
+employment in the RE sector.
+12.1.2 Action Points
+To achieve the above mentioned objectives, the policy recommends certain key action points that are mentioned 
+below:
+ Ministry Responsible for Energy
+o To initiate steps for collaborations and partnerships with other countries to stimulate skill 
+development and technology transfer in relevant RE technologies.
+o Design training programs after discussions with industry players and thought leaders in the sector 
+to meet the requirements of skilled labour base.
+o Design specific plans to encourage higher participation of youth in the capacity building measures 
+and training programs with a view to encourage employment in the RE sector.
+o Collaborate with Universities and technical institutions to design training programs for the  Developers / Suppliers
+o The developers shall coordinate with the Universities and technical institutions and develop mutually 
+beneficial tie ups with educational and training institutes.
+13. Biofuels in Zimbabwe
+In the year 2015, MOEPD published the draft National Biofuel Policy of Zimbabwe (NBPZ). The policy framework 
+focusses on the production and use of liquid Bio-fuels in the transport sector for the time period the years 2015 and 
+2030. As per the policy after a period of economic decline, the economy in Zimbabwe is getting revived. Since year 
+2009, the country’s energy demand is rising with a current national requirement of one comma two (1.2) million 
+and two comma three (2.3) million litres of petrol and diesel per day respectively. Due to the landlocked nature of 
+the country, fuel prices have remained high and consumers have not benefitted. The development of a bio-fuel 
+sector could therefore provide a price buffer with potential benefits to the consumers. 
+The aim of the Biofuel policy is to:
+ Provide an enabling environment for bio-fuels sector development in Zimbabwe
+ Ensure that bio-fuel production, processing, distribution and marketing remain within the parameters of 
+economic, environmental and social sustainability.
+The biofuel subsector in Zimbabwe shall be guided by the National Biofuel Policy of Zimbabwe (NBPZ). Given the 
+cross sectoral nature of the bio-fuel business, the successful implementation of the NBPZ will largely depend on 
+close cooperation and coordination among key government institutions. 
+The key stakeholders are Ministry responsible for Energy, Agriculture, Mechanization and Irrigation, Environment, 
+Water, Climate and Finance. These Ministries shall constitute an Inter-Ministerial Bio-fuels Development 
+Coordination Committee under the Ministry responsible for Energy. The Committee shall co-opt representation from 
+academia, private sector and civil society as appropriate. The Committee shall review various strategies and key 
+actions proposed under the policy pillars (Economic, Agriculture, Environment, Social and Institutional) and develop 
+a phased policy implementation plan, including financing options and a strong communications strategy for raising 
+awareness at various stakeholder levels.
+14. Funding Mechanisms for Renewable Energy
+Financing is a crucial element to promote development of RE. Financing requirement is long-term and shall involve 
+both domestic and foreign funds. Along with financing, fiscal incentives shall also be provided in the form of tax and 
+duty exemptions to reduce upfront costs.
+14.1 Domestic and Foreign Banks
+The Government shall collaborate and coordinate with the domestic banks and foreign banks to promote 
+development of RE in the country by providing a better rate of interest, shortening the payback period, and by 
+having a sound approval process.
+14.2 Green Energy Fund
+A separate clean energy Fund called Green Energy Fund of Zimbabwe shall be set up to extend financial assistance 
+for setting up projects relating to new and renewable sources of energy and other sustainable energy projects such by the Rural Electrification Fund (REF) and Ministry responsible for Finance shall also oversee the management of 
+the Fund. There shall be equal participation in the management of the Fund by representatives from the 
+development banks, development partners, DIIs and FIIs who would provide financing for this Fund. 
+Infrastructure Development Bank of Zimbabwe (IDBZ) who provides funding for all infrastructure project in 
+Zimbabwe, in the future shall be responsible for the management of the Green Energy Fund once the necessary 
+institutional development and capacity building is undertaken to operate the Green Energy Fund. To operate the 
+Fund the bank will have representation from different funding partners including banks, development partners, 
+Foreign Institutional Investors (FIIs), Domestic Institutional Investors (DIIs) and others. The agency shall be in 
+charge of managing the Green Energy Fund, collaborating with domestic banks, foreign banks, development banks, 
+multi-lateral institutions, and international donors and NGOs. It shall be responsible for defining the funding 
+strategy, plans and budgets for Green Energy Fund. 
+The dedicated Green Energy Fund shall be backed by the Government, and private institutions to finance RE
+projects. The Fund can make equity and mezzanine investments in RE projects. The sources for this Fund can be 
+financial resources and grants obtained from multi-lateral institutions, loans from development banks and 
+international institutions, funds from development partners, local donors, revenue generated from the imposed 
+carbon tax and penalty funds as well. Ministry responsible for Energy shall develop a detailed roadmap for creating 
+this Fund and collecting of carbon taxes, penalty funds among other measures, as well as highlight roles and 
+responsibilities of inter-ministerial departments and other stakeholders, within six (6) months of notification of this 
+policy.
+The Fund must not be used for other commercial purposes. This Fund shall act as a single window for receiving, 
+coordinating and managing financial flows related to green energy projects in an efficient and systematic manner. 
+The activities where the Fund can be used include the following:
+ To increase financial inflow for RE projects and finance existing stalled and new projects.
+ To fund pilot projects.
+ Engage in capacity building and awareness raising activities and co-finance RE projects together with the 
+local banks. 
+ To provide loans at concessional rates to local manufacturers of RE systems on meeting certain criteria as 
+defined by the Rural Electrification Fund (REF) in the initial period and the Infrastructure Development 
+Agency after being set up.
+ To fund off-grid projects in order to facilitate competition.
+14.3 International Donor Community Funding and NGO’s
+Donor community funding shall be used to support community scale projects in RE. The funds obtained from these 
+sources shall be included in the Green Energy fund.
+14.4 Sovereign Guarantee
+Sovereign guarantee is very essential for developing interest of international funding and development agencies in 
+funding RE project in Zimbabwe. The Ministry responsible for Energy in coordination with the Ministry responsible 
+for Finance will develop a detailed plan to enhance the investor confidence and value of sovereign guarantee in the market. Ministry responsible for Energy will also have the responsibility to work on approvals and other legal 
+matters for providing sovereign guarantees.
+14.5 Prescribed Asset Status
+RE projects may also be accorded Prescribed Asset Status on case to case basis. This will help in getting funding 
+from pension funds and insurance funds and also tap the bond market.
+14.6 Policy Provisions for Funding in Zimbabwe
+The policy provides certain guidelines for financing the development of RE projects which include the following:
+14.6.1 Objectives
+The objectives of the policy with respect to financing development of RE projects include:
+ To promote, develop and extend financial assistance for setting up projects relating to new and renewable 
+sources of energy and off-grid sources.
+ To fund RE projects in areas with low electricity penetration rate.
+ To create a Green Energy Fund for channelling funds for the development of RE in Zimbabwe.
+ To encourage innovative financing mechanisms.
+ To attract foreign investments.
+ To finance Research and Development activities in RE technologies by allocating a certain percentage of the 
+Green Energy Fund as deemed appropriate by the Ministry responsible for Energy.
+ To allocate one percent (1%) of the Green Energy Fund on awareness campaigns for consumers and 
+community level training programmes.
+14.6.2 Action Points 
+In order to achieve the above objectives, the key action points that are suggested in this policy include the 
+following:
+ Ministry Responsible for Energy
+o To engage with Domestic and International funding and development agencies for RE funding 
+programmes.
+o To develop a detailed roadmap for collection of carbon tax and penalty funds.
+o To attain an approval from the legislative body for sovereign guarantee.
+o To provide a framework for sovereign guarantee in order to reduce the risks associated and hence the 
+cost of funds.
+o To coordinate with the Ministry responsible for Finance for management of Green Energy Fund and 
+decide the allocation of funds for Research and Development activities from the Green Energy Fund. o To coordinate with the Ministry responsible for Finance to create a financing mechanism where domestic 
+banks can be encouraged to promote RE.
+o To coordinate with the Ministry responsible for Finance and develop a detailed plan to enhance the 
+investor confidence and value of sovereign guarantee in the market.
+o Recommend projects on case to case basis to Ministry responsible for Finance for according Prescribed 
+Asset Status.
+ Rural Electrification Fund (REF)
+o Administer the Green Energy Fund with Ministry responsible for Energy. 
+o Collaborate with the development partners, multi-lateral and bilateral institutions, foreign institutional 
+investors, development banks and others who provide financing for the Green Energy Fund.
+o Define the criteria that should be met by the developers and the projects in order to avail financing 
+from the RE funds.
+o Conduct extensive discussions with the developers and IPPs, utility, and other stakeholders before 
+identifying the eligible activities and allocating the funds to different activities.
+15. Improving Socio-economic Conditions in Zimbabwe
+The policy is aimed at not only improving energy access in the country, it is also aimed towards the overall 
+development of the country. The policy has certain features that aim to address the key areas which can improve 
+the existing socio-economic conditions. These include the following:
+ Affordability: Provisions and incentives in the policy which will make electricity cheaper and more 
+affordable. Procurement methods like Competitive Bidding will reduce prices and incentives like import duty 
+exemptions for community funded projects or NGO, which will lead to decrease in the cost of equipment 
+and tax exemption on off-grid projects, hence making it more affordable.
+ Availability: Policy provisions promote strategically diversified energy portfolio and supply pathways for 
+each energy source in order to ensure sufficient supply.
+ Accessibility: Policy provisions focusing on grid expansion by the transmission utility and higher uptake of 
+off-grid technologies shall improve access to electricity.
+ Sustainability: The policy sets the RE targets to achieve the NDC objectives of achieving thirty-three 
+percent (33%) less GHG emissions from energy sector.
+ Employment Opportunities: The policy recommends that at least forty percent (40%) of the workforce 
+employed in the running of the RE plant should be from the local communities which should be in line with 
+the National Youth Policy. The policy recommends key initiatives to promote skill development programs for 
+an efficient and trained workforce.
+ Benefits to Local Communities: The policy makes provisions for minimum contribution of at least one 
+percent (1%) of total annual revenue for community development, and that appropriate local ownership of 
+each project with capacity less than two Mega Watts (2 MW) as per the indigenization lawsFor larger projects, the developers need to contribute a certain percentage of their returns in developmental activities 
+of nearby communities.
+ Development of Industrial and Commercial Enterprises: The policy aims to improve energy access in 
+the country which shall promote industrial growth. Formation of Nodal Agency and robust procurement 
+mechanisms will promote private participation in RE projects.
+ Food Security: Crops can be irrigated using RE powered pumps instead of watering by hand, which 
+dramatically increases crop yields and refrigeration can dramatically extend the longevity of produce.
+ Gender Equity: The policy recommends certain key initiatives to address gender issues and move towards 
+a gender-neutral participation in RE projects:
+o Involving Women Entrepreneurs: Women entrepreneurs and representatives should be involved
+in energy planning and policy formulation, and other initiatives in RE development.
+o Access to Technical Education: The policy recommends specific steps should be initiated to 
+improve access of women to technical education.
+o Training Programs: In collaboration with NGO’s, training programmes shall be designed to focus 
+on training women on business plan development, procurement, marketing, financial management, 
+legal frameworks, alternative supply chains, business models, and land titling arrangements. 
+o Assessments and Audits: The policy suggests to conduct regular assessments and audits of 
+gender specific issues and underlying barriers to determine the effectiveness of the policy 
+measures.
+ Children and Youth Participation: Development activities including construction of RE plants, promotion 
+activities, managerial and entrepreneurship promotion, and awareness campaigns of the Government shall 
+be marked by increased participation of children and youth (people below the age of thirty five (35) years)
+and children of the local communities. The policy recommends educational courses on RE technologies to be 
+conducted in collaboration with universities and other educational institutions for youth and children. 
+ Improved Access to Basic Facilities: Access to energy services in schools and healthcare facilities shall 
+enable children, the aged and rural communities to have access to better healthcare and education 
+services. The policy should ensure that the special communities including children and youth get basic 
+access to electricity from renewable sources with well-designed schemes by the Ministry responsible for 
+Energy.
+The progress in these key areas need to be monitored by responsible agencies. The Ministry responsible for Energy 
+along with the concerned bodies shall take appropriate capacity building measures for monitoring and evaluation of 
+socio-economic parameters as shown below. A framework with the key indicators that need to be monitored has 
+been provided below for this purpose.
+Table 9. Monitoring progress of the socio-economic areas
+Key areas Results Indicators Monitoring responsibility
+Affordability Increased willingness to 
+pay and increase in RE
+% change in the number of 
+users of electricity from RE
+Ministry responsible for 
+EnergyKey areas Results Indicators Monitoring responsibility
+consumption (% of 
+total energy 
+consumption)
+sources
+Accessibility Increased
+access to RE by all 
+% change in number of project 
+beneficiaries (gender 
+segregated) with access to 
+energy services from RE 
+Ministry responsible for 
+Energy in collaboration 
+with REF
+Sustainability Increased use of RE in 
+place of wood fuels and
+diesel.
+% change in GHG emissions 
+from energy sector 
+Ministry responsible for 
+Energy in collaboration 
+with Ministry responsible 
+for Environment, Water 
+and Climate
+Employment Better job opportunities 
+in the market for the 
+local population
+% change of total energy 
+sector employment (gender 
+segregated) in RE projects
+Ministry responsible for 
+Energy in collaboration 
+with Ministry responsible 
+for Youth, Indigenization 
+and Economic 
+Empowerment
+Industrial and 
+commercial 
+development
+Higher industrial output 
+and production of RE
+systems
+% change in number of 
+companies getting electricity 
+services from RE
+Output of RE systems and 
+equipment manufacturers
+Ministry responsible for 
+Energy in collaboration 
+with Ministry responsible 
+for Industry and 
+Commerce
+Benefits to local 
+communities
+Higher standard of 
+living and better job 
+opportunities
+Change in income level of local 
+population in areas with RE
+projects
+Ministry responsible for 
+Energy in collaboration 
+with Ministry responsible 
+for Youth, Indigenization 
+and Economic 
+Empowerment
+Food security Higher food output Use of solar pumps in 
+agriculture, change in crop 
+yields after using solar pumps
+Ministry responsible for 
+Energy with Ministry 
+responsible for 
+Agriculture, 
+Mechanization and 
+Irrigation Development
+Gender equity Involvement of women 
+in income-generating 
+activities and RE 
+projects
+% use of RE by women Ministry responsible for 
+Energy in collaboration 
+with Ministry responsible 
+for Women Affairs, 
+Gender and Community 
+DevelopmentKey areas Results Indicators Monitoring responsibility
+Health and education 
+facilities
+Better health, quality of 
+life, increase in literacy 
+level
+Increased life expectancy, 
+literacy level and standard of 
+living. 
+Ministry responsible for 
+Energy in collaboration 
+with Ministry responsible 
+for Health and Child care, 
+Ministry responsible for
+Higher and Tertiary 
+Education, Science and 
+Technology and Ministry 
+responsible for Finance 
+Children and youth 
+participation in 
+development activities
+Increased participation 
+in national 
+development activities 
+and awareness of 
+development goals of 
+the country
+Number of persons below the 
+age of 35 years involved in 
+promotion and implementation 
+of the policy programmes and 
+guidelines
+Ministry responsible for 
+Energy and the 
+participating agencies 
+including the Regulator
+and REF.
+15.1 Promoting Local Entrepreneurs and Community Development through Renewable 
+Energy Projects
+Involving local entrepreneurs and stakeholders in the development of RE projects is crucial to ensure sustainable 
+and equitable growth in the country. This can be achieved with certain initiatives as explained below:
+Projects with Capacity Below 2 MW
+All RE projects less than two Mega Watts (2 MW) should have appropriate ownership by Zimbabweans in 
+accordance with the existing indigenization laws. In addition, a minimum one percent (1%) of the total revenue 
+should be spent in developmental activities of the project affected communities as mandated by the Ministry 
+responsible for Energy from time to time. 
+Projects with Capacity Above 2 MW
+For the development of RE projects greater than two Mega Watts (2 MW), the developers shall contribute minimum 
+1% of the total annual revenue in developmental activities of the project to affected communities as mandated by 
+the Ministry responsible for Energy from time to time.
+15.2 Social Impact Assessment of Renewable Energy Projects
+The policy aims at improving the overall socio-economic conditions in the country. Provisions for improvement in 
+the socio-economic conditions concerning social welfare, gender equity, poverty eradication and community 
+development.
+ The developers have the responsibility to provide information to the Nodal Agency related to impact of the 
+project on socio-economic parameters mentioned earlier by conducting outreach programmes. The Nodal Agency will monitor and evaluate the information provided by the developers, and conduct a 
+social impact assessment of the RE projects in order to assess the impact of the projects on the key-socioeconomic parameters mentioned in the policy. 
+ At least fifteen percent (15%) of the local population need to be consulted during the social impact 
+assessment and the observations need to be recorded to ensure adequate representation in the project.
+ The Nodal Agency needs to provide social impact approval to the developer within a period of 60 days, post 
+which it will be deemed approved.
+15.3 Policy Provisions for Improving Socio-economic Conditions in the Country
+The policy has certain objectives and action points that aim to promote local manufacturing in the country.
+15.3.1 Objectives
+ To promote local entrepreneurship and involve the participation of local communities.
+ To conduct social impact assessment of RE projects to assess the impact of the projects in the key socioeconomic areas
+15.3.2 Action Points 
+In order to achieve the above objectives, the key action points that are suggested in this policy include the 
+following:
+ Ministry Responsible for Energy
+o Provide guidelines for community development activities for project affected people in line with the 
+current policies and statutory requirement. 
+o Monitor the progress of community development activities by developers.
+o Conduct consultation workshops for children and youth to understand their issues and design specific 
+provisions to address them.
+ Nodal Agency
+o Publish guidelines and data formats for undertaking social impact assessment 
+o Review the social impact assessment report and recommend social measure to be undertaken by the 
+developer within a period of sixty (60) days from the date of application.
+ Developers
+o Conduct outreach programmes to collect information relevant to the concerned project regarding key 
+socio-economic parameters.
+o Provide necessary information to the Nodal Agency to obtain social impact approvals.16. Institutional Framework for Renewable Energy in Zimbabwe
+The figure below gives the layout for the proposed institutional framework to facilitate and ensure successful 
+implementation of RE projects.
+ The Ministry responsible for Energy has the overall responsibility for the implementation of the policy. It is 
+the responsibility of Ministry responsible for Energy to coordinate and collaborate with different ministries to 
+devise the strategies.
+ The Regulator shall act as the regulator to monitor the implementation of several activities and 
+programmes in the policy by the stakeholders. It shall also regulate different activities including tariff 
+setting, procurement, development of on-grid and off-grid generation sites and others based on existing 
+regulatory frameworks and the new frameworks that shall be developed.
+Figure 1. Institutional framework for implementation of renewable energy technologies
+Commercial & 
+industrial 
+customers
+Generation
+Zimbabwe 
+Power 
+Company 
+(ZPC)
+Imports from 
+other 
+countries
+Independent 
+power 
+producers 
+(IPPs)
+Renewables
+Bulk 
+Consumers
+Consumption
+Domestic & 
+agricultural 
+Consumers
+The Regulator - Zimbabwe Energy Regulatory Authority (ZERA)
+Transmission Distribution Supply
+Utility - ZETDC
+(Primary transmission, distribution and supply licensee)
+Ministry responsible for Energy - MOEPD
+Rural 
+Electrification 
+Fund
+Mini-grid and Micro-grid Operator
+Funding
+Green 
+Energy Fund
+Development 
+banks
+NGOs and 
+Multilateral 
+institutions
+Approvals
+Land owners
+Government 
+departments
+Other 
+Ministries
+Nodal Agency
+Funding of T&D 
+infrastructure 
+in Rural Areas The Rural Electrification Fund (REF) shall be responsible for improving the overall electrification levels in the 
+country. It shall also be responsible for the management of the Green Energy Fund in the initial years and 
+coordinate with Ministry responsible for Finance for the management of the Fund. 
+ Ministry responsible for Energy shall operate as the Nodal Agency to facilitate the entire process of 
+obtaining clearances, approvals and licenses, integrate operational data, monitor progress of development 
+of RE projects, and conduct the land auction process as mentioned in the policy. 
+ The generation side of the industry consists of Zimbabwe Power Company (ZPC), developers and IPPs, 
+renewables based generation and other private players. The Nodal Agency will facilitate these entities in 
+setting up new RE projects and the activities shall be regulated as per the regulations set by the Regulator. 
+The policy shall facilitate in guiding the activities of these entities and provide necessary incentives for 
+higher investment in the RE sector.
+ The utility has the major responsibility in the transmission and distribution of electricity to the end user. 
+The policy provides certain relevant guidelines and activities for the transmission and distribution utilities in 
+order to help improve the evacuation infrastructure. The utility has the responsibility to provide necessary 
+approvals and clearances to developers in a defined time period to promote rapid generation of electricity 
+from renewables.
+16.1 Action Plan for Implementation of Policy Provisions
+It is imperative that the Ministry responsible for Energy in consultation with the stakeholders develops well-defined, 
+specific and time-bound action plans to implement the policy provisions and guidelines. 
+ Ministry responsible for Energy needs to discuss and coordinate with other ministries to enable strong cooperation in developing these projects.
+ Based on the key policy objectives and guidelines, Ministry responsible for Energy shall devise the action 
+plan in consultation with the involved stakeholders. The action plan shall be specific and actionable, and 
+shall signal the strong intent of the Government to promote RE. 
+It is the responsibility of the Ministry responsible for Energy to come up with these strategies and action plans in a 
+period of six months from the policy notification date. The policy shall be reviewed in the year 2024 and year 2029. 
+Thereafter, major changes to the RE policy will be considered and if necessary, a new policy will be developed in 
+the year 2030. Annexure 1. Computation of Renewable Energy Targets
+Considering the NDC GHG emissions target of year 2015, the yearly generation targets from clean energy sources 
+are computed as follows:
+Table 10. Year-wise RE targets
+Year
+Total RE Generation 
+Target (in GWh)
+Corresponding RE
+Capacity (MW)
+RE as a percentage of 
+total electricity demand 
+(Cumulative)
+2017 850 388 9.4%
+2018 969 442 10.2%
+2019 1,104 504 10.7%
+2020 1,258 574 11.3%
+2021 1,433 654 12.1%
+2022 1,633 746 13.1%
+2023 1,861 850 14.1%
+2024 2,120 968 15.3%
+2025 2,416 1,103 16.5%
+2026 2,753 1,257 18.1%
+2027 3,137 1,432 19.9%
+2028 3,574 1,632 21.9%
+2029 4,072 1,860 24.0%
+2030 4,640 2,119 26.6%
+This policy sets a target to achieve a capacity of one thousand one hundred Mega Watts (1,100 MW) or sixteen 
+percent (16%) of total generation to meet electricity demand, whichever is higher, from RE sources by the year 
+2025 and two thousand one hundred Mega Watts (2,100 MW) or twenty seven percent (27%) of overall generation 
+to meet electricity demand, whichever is higher, from RE sources by the year 2030.
+These targets are in line with the country’s SE4ALL Action Agenda report which has set grid-connected RE targets of 
+three thousand three hundred and seventy-eight Mega Watts (3,378 MW) over the next ten (10) to fifteen (15)
+years. However, this includes a target of two thousand two hundred and fifty Mega Watts (2,250 MW) from large 
+hydro. However, based on the progress of large hydro projects planned by ZPC, the policy considers one thousand 
+and fifty Mega Watts (1,050 MW) from large hydro projects particularly from the Kariba South Hydropower Station 
+extension. Thus, the remaining target set under SE4ALL Action Agenda report for large hydro needs to be obtained 
+from RE sources which is around two thousand three hundred Mega Watts (2,300 MW) by the year 2030. This is in 
+line with the RE policy target set in the policy. Details are as shown in the table below.
+Table 11. Grid-connected RE development target as per SE4All Action Agenda Report, 2016 (in MW)
+RE Type 2015 2020 2025 2030RE Type 2015 2020 2025 2030
+Large hydro 750 1,350 2,250 2,250
+Small hydro 6 50 100 153
+Grid solar 0 300 400 600
+Bagasse and other RE 97 102 130 275
+Wind 0 0 50 100
+TOTAL 853 1,802 2,930 3,378
+Total excluding large 
+hydro
+103 452 680 1,128
+Considering only one thousand and fifty Mega Watts (1,050 MW) capacity from large hydro by year 2030. The 
+differential capacity to meet the RE target is proposed to be met by solar. 
+Table 12. RE targets considering revised large hydro target
+RE Type 2030
+Large hydro 1,050
+Small hydro 150
+Grid solar 1,800
+Bagasse and other RE 275
+Wind 100
+TOTAL 3,375
+Total excluding large hydro (as per SE4ALL) 2,325
+Target proposed under the policy 2,100

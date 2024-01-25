@@ -1,0 +1,3545 @@
+File Name: TZA-NREP-2017-EN
+Year: 2017
+Country Name: United Republic of Tanzania
+Country Code: TZA
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2017
+Start Year: 2017
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that 
+appropriate acknowledgement is given of IRENA as the source and copyright holder. Material in this publication that is attributed to third 
+parties may be subject to separate terms of use and restrictions, and appropriate permissions from these third parties may need to be 
+secured before any use of such material. 
+About IRENA 
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports countries 
+in their transition to a sustainable energy future, and serves as the principal platform for international cooperation, a 
+centre of excellence, and a repository of policy, technology, resource and financial knowledge on renewable energy. 
+IRENA promotes the widespread adoption and sustainable use of all forms of renewable energy, including bioenergy, 
+geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable development, energy access, 
+energy security and low-carbon economic growth and prosperity. 
+ISBN 978-92-9260-020-4
+Citation: IRENA (2017), Renewables Readiness Assessment: United Republic of Tanzania, International Renewable 
+Energy Agency, Abu Dhabi.
+About RRA
+A Renewables Readiness Assessment (RRA) is a holistic evaluation of a country’s conditions and identifies the actions 
+needed to overcome barriers to renewable energy deployment. This is a country-led process, with IRENA primarily 
+providing technical support and expertise to facilitate consultations among different national stakeholders. While the 
+RRA helps to shape appropriate policy and regulatory choices, each country determines which renewable energy 
+sources and technologies are relevant and consistent with national priorities. The RRA is a dynamic process that 
+can be adapted to each country’s circumstances and needs. Experience in a growing range of countries and regions, 
+meanwhile, has allowed IRENA to continue refining the basic RRA methodology.
+In June 2013, IRENA published a guide for countries seeking to conduct the process in order to accelerate their 
+renewable energy deployment.
+For more information: www.irena.org/rra
+Acknowledgement
+This report has benefited greatly from the input of national and international experts, notably including Yacob Mulugetta 
+(University College London) and Jensen Shuma (Tanzania Traditional Energy Development Organization/TaTEDO), as 
+well as review and comments by Kabaka Kato (Tanzania Geothermal Development Company/TGDC), Maneno Katyega 
+(Tanzania Electric Supply Company Limited/TANESCO), Paul Kiwele (Ministry of Energy and Minerals, Tanzania), 
+Kudakwashe Ndhlukula (SADC Centre for Renewable Energy and Energy Efficiency/SACREEE) and James Ngeleja 
+(independent expert, Tanzania). IRENA colleagues including Rabia Ferroukhi, Arslan Khalid, Joanne Jungmin Lee, Alvaro 
+Lopez-Peña, Asami Miketa, Spyridon Pantelis, Gurbuz Gonul, Henning Wuester and Sakari Oksanen have also provided 
+valuable guidance and input.
+Contributing authors: Safiatou Alzouma Nouhou, Tijana Radojicic and Nopenyo Esselasse Dabla (IRENA)
+For further information or to provide feedback: publications@irena.org
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the reliability 
+of the material in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party content providers 
+provides a warranty of any kind, either expressed or implied, and they accept no responsibility or liability for any consequence of use of 
+the publication or material herein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA. The mention of specific companies 
+or certain projects or products does not imply that they are endorsed or recommended by IRENA in preference to others of a similar 
+nature that are not mentioned. The designations employed and the presentation of material herein do not imply the expression of any FOREWORD
+from the Minister of 
+Energy and Minerals
+Tanzania is endowed with diverse forms of renewable energy resources, 
+ranging from hydropower and geothermal to solar, wind and bioenergy. This 
+potential has not been fully exploited. Tapping more of these sustainable 
+resources will facilitate Tanzania’s economic transformation, which aims to 
+make it a middle-income country in the next decade. 
+Energy is a vital input to all sustainable development goals. It needs to be 
+affordable in economic terms, as well as cleaner and sustainable. Some 
+of the country’s conventional energy sources, such as coal, are yet to be 
+exploited. However, our enormous renewable energy potential also needs to 
+be promoted. Our energy mix should include all available resources, with the 
+renewable energy contribution gradually increasing.
+With these aims in mind, Tanzania approached the International Renewable 
+Energy Agency (IRENA), undertaking to conduct the Renewables Readiness 
+Assessment (RRA) process with IRENA’s support. Completion of the process 
+will help to establish an effective framework and stimulate stakeholder 
+efforts to accelerate our energy transition.
+As a country, we are very much committed to this, as evidenced by numerous 
+projects and our subscription to Sustainable Energy for All (SE4All) and 
+other international initiatives. I am confident the present assessment will 
+complement our existing efforts and even help us develop our renewable 
+energy resources at a faster pace.The RRA process was the first of its kind in Tanzania, allowing for progressive 
+dialogue amongst various stakeholders countrywide. It helped to identify 
+specific opportunities and potential, along with barriers and constraints, for 
+the country’s renewable energy development. Areas for action over the short 
+to medium term include resource assessments and planning; policy and 
+regulatory frameworks; private sector engagement; and human capacities 
+and skills related to renewables. 
+I sincerely hope this report will garner wider international support, thereby 
+helping to increase investment in our renewable energy sector. Tanzania is 
+grateful to IRENA for facilitating the RRA process and is committed, as part of 
+efforts to boost renewable energy deployment, to complete the ratification 
+process and become a full member of IRENA.
+Hon. Prof. Sospeter M. Muhongo (MP)
+Minister for Energy and Minerals
+United Republic of TanzaniaFOREWORD
+from the IRENA
+Director-General
+The United Republic of Tanzania, like many African countries, faces a number 
+of pressing challenges, such as a growing population, accelerating economic 
+activity and rising energy demand. Tanzania has recognised renewables as 
+an important means to meet these challenges and achieve a sustainable 
+energy future.
+Harnessing Tanzania’s vast renewable energy potential energy offers the 
+prospect of expanded energy access and secure domestic energy supplies, 
+sufficient to meet and even exceed the targets set out in the country’s 
+development vision for 2025. 
+This Renewables Readiness Assessment (RRA), undertaken in co-operation 
+with the government of Tanzania, examines the energy sector holistically, 
+identifying barriers and highlighting actions to accelerate renewable energy 
+deployment. It presents clear and practical steps for Tanzania to make 
+maximum use of renewables to power sustainable economic growth
+In this regard, the report underlines the need to revise the country’s current 
+energy plans, taking into account the latest analysis on renewable resource 
+potential and technology costs. It identifies dedicated incentive and riskmitigation frameworks as necessary measures to attract private finance 
+and investment. The report highlights the need to expand renewable 
+energy training at higher and vocational education levels, as well as on-thejob training schemes, given that the uptake of new technologies calls for specialised training and education. The RRA also proposes the establishment 
+of a national renewable energy research institute to collect and make 
+available all relevant statistics and resource information on renewables. 
+Some 30 countries, spanning the Asia-Pacific region, Latin America, the 
+Caribbean, the Middle East and Sub-Saharan Africa, have undertaken 
+Renewables Readiness Assessments (RRAs) since 2011, exchanging 
+knowledge and encouraging international co-operation to promote clean, 
+indigenous renewable energy technologies. RRA consultations are countryled, with IRENA providing technical support and expertise to facilitate 
+consultations among different national stakeholders.
+IRENA wishes to thank Tanzanian authorities, in particular the Ministry of 
+Energy and Minerals, for their commitment to this report. We are grateful for 
+their positive engagement and valuable input. 
+I sincerely hope these RRA findings will strengthen the pursuit of renewable 
+energy solutions. IRENA stands ready to work closely with Tanzania as the 
+country strives for a sustainable energy future.
+Adnan Z. Amin
+Director-General
+International Renewable Energy AgencyCONTENTS
+INTRODUCTION
+1.1. Country background 01
+1.2 Role of energy in development in Tanzania 02
+1.3 Rewewables Readiness Assessment process 03
+01
+ENERGY CONTEXT
+2.1 Regional context 05
+2.2 Energy supply and demand in Tanzania 07
+2.3 Electricity sector 09
+2.4 Renewable energy resources 14
+02
+RECOMMENDED ACTIONS 05
+REFERENCES 06
+FIGURES VIII
+TABLES VIII
+ABBREVIATIONS IX
+EXECUTIVE SUMMARY XI
+03 ENABLING ENVIRONMENT FOR 
+RENEWABLE ENERGY
+3.1 Key energy stakeholders and institutional set-up 25
+3.2 Energy policies and regulatory framework 27
+3.3 Financing and investment 29
+04 EMERGING ISSUES AFFECTING 
+RENEWABLE ENERGY DEPLOYMENT
+4.1 Resource assessment and planning 31
+4.2 Planning 33
+4.3 Policy and regulatory frameworks 35
+4.4 Private sector involvement 38
+4.5 Human capacity and skills 41
+01
+05
+25
+31
+45
+48Figures
+Figure 1 Per capita GDP growth in member states of eastern African 
+sub-region, 2000-2011 05
+Figure 2 Electricity access rates in selected countries in eastern Africa 06
+Figure 3 Total primary energy supply in Tanzania, 2012 08
+Figure 4 Final energy consumption in Tanzania, 2012 09
+Figure 5 Oil product consumption in Tanzania, 2012 09
+Figure 6 Institutional framework and market structure of the electricity sector 10
+Figure 7 Electricity generation by energy source in Tanzania, 2012 11
+Figure 8 Electricity consumption by sector in Tanzania, 2012 11
+Figure 9a Location of geothermal prospects in Tanzania 16
+Figure 9b Tanzania’s geothermal resources 17
+Figure 10 Wind map of Tanzania 17
+Figure 11 Wind energy zones in Tanzania 19
+Figure 12 Global solar irradiation in Tanzania 19
+Figure 13 Concentrated solar power zones in Tanzania 20
+Figure 14 Solar PV zones in Tanzania 20
+Figure 15 Woodfuel resource density in Tanzania in tonnes per hectare 22
+Figure 16 Retirement schedule of existing and plants under construction 33
+Figure 17 Capacity balance according to IRENA’s assessment 34
+Figure 18 Total undiscounted system costs according to IRENA’s assessment 35
+Figure 19 TANESCO liquidity ratios, 2010-2013 36
+Figure 20 TANESCO debt-to-asset and equity-to-asset ratios 36
+Figure 21 Profitability ratios, 2011-2013 36
+Figure 22 Renewables-based power generation market in Tanzania 38
+Figure 23 New build renewable asset finance in Tanzania by type 38
+Figure 24a Estimates for jobs in renewable electricity by technology and year 41
+Figure 24b Breakdown of jobs by technology in 2030 42
+Figure 25 Renewable energy jobs in 2030 by value chain segment 42
+TABLES
+Table 1 NELSAP’s pipeline of power development and trade projects at 
+pre-investment stage 07
+Table 2 Present and projected installed capacity by year 2025 12
+Table 3 Electricity tariffs 14
+Table 4 Overview of small hydropower projects in Tanzania 15
+Table 5 Wind resources in Tanzania 18
+Table 6 Policies and legislation which affects the renewable energy sector 27
+Table 7 Estimated installed capacity potential (MW) for wind, solar PV, and 
+solar CSP at various thresholds of resource quality 32
+Table 8 LCOE ranges of renewable energy zones 32
+Table 9 Financial ratio comparison table for sample utilities of southern and 
+eastern Africa 37
+Table 10 Renewable energy higher education courses 42
+FIGURES AND TABLESAfDB African Development Bank
+CO2 carbon dioxide
+COMESA Common Market for Eastern and Southern Africa
+CSP Concentrated Solar Power
+DRC Democratic Republic of the Congo
+EWURA Energy and Water Utilities Regulatory Authority
+GDP gross domestic product
+GW gigawatt 
+GWh gigawatt-hour
+IPP independent power producer
+km kilometre
+kV kilovolt
+KW kilowatt 
+kWh kilowatt-hour
+LBNL Lawrence Berkeley National Laboratory (US)
+m3 cubic metre
+MW megawatt
+NELSAP Nile Equatorial Lakes Subsidiary Action Program
+O&M operation and maintenance
+pcm per calendar month
+RRA Renewables Readiness Assessment
+SAPP Southern African Power Pool
+SPPA small power purchase agreement
+TaTEDO Tanzania Traditional Energy Development Organization
+TPES total primary energy supply
+TZS Tanzanian shilling
+USD US dollar 
+TOU Time-of-Use
+TPES Total Primary Energy Supply
+USD United States Dollars
+Wp Watt-peak
+ABBREVIATIONSSolar photovoltaic installations serve remote communitiesEXECUTIVE SUMMARY
+The United Republic of Tanzania (referred to throughout this report as 
+“Tanzania”) is situated in eastern Africa. Of its 50.76 million inhabitants, 
+only 18% have access to electricity. At the same time, the country’s economy 
+is diversifying and shifting away from its agricultural base. This has added 
+considerable pressure to energy consumption, making the low access rate 
+and other supply limitations an obstacle to economic growth.
+Total primary energy supply (TPES) is dominated by biomass and has almost 
+doubled in the last decade. Electricity is mainly generated from hydropower, 
+oil and more recently natural gas. Costly oil products account for around
+one-fifth of power generation and are mainly required for off-grid applications 
+and emergency on-grid power supply. The electrical supply varies in times 
+of drought and is highly dependent on hydropower generation, leading to 
+rolling blackouts. What is more, a quarter of power produced is lost due 
+to the state of the grid infrastructure. The unreliability of power supply has 
+had a negative impact on the development of Tanzanian industry. Although 
+Tanzania has excellent wind, solar, geothermal and biomass resources for 
+power production, only 4.85% of non-hydropower renewables are being 
+considered in the Electricity Industry Reform Roadmap to 2025.
+The country’s abundant renewable energy potential offers the possibility to 
+overcome some of the challenges faced by the energy and power sector in a 
+cost-effective way. This would lead Tanzania towards economic growth that 
+is sustainable. 
+A renewable energy zoning study carried out by the International Renewable 
+Energy Agency (IRENA) and the Lawrence Berkeley National Laboratory 
+(LBNL) found that wind power in Tanzania could displace much of the 
+oil-based power at a third of the cost, due to the high correlation of wind 
+resources with system demand (IRENA and LBNL, 2015). An examination 
+of the characteristics of the least-cost energy system for Tanzania found 
+that utility-scale solar PV and wind projects could reach 3.7 gigawatts (GW) 
+and 1.9 GW by 2030, alongside 694 megawatts (MW) of gas-fuelled power 
+plant investment already in the pipeline. This analysis supports the need to 
+reduce the expansion of coal and oil-fired power plants in order to reach the 
+least-cost scenario. IRENA estimates that the overall share of renewables 
+in electricity production, including large hydropower, could reach 78% by 
+2030. This would require investments of USD 11.4 billion in generation and
+USD 6.7 billion in transmission and distribution investment between 2013 
+and 2030. The average generation cost would fall by 17% between 2013 and 
+2030. This calls for a revision of the existing electricity master plan as well a 
+roadmap to realise the desired least-cost power system investment strategy. 
+On the policy and regulatory framework side, the draft Electricity Systems 
+Operations Act 2016, under approval, gives priority for dispatch to the 
+electricity generated from renewable energy sources and indigenous sources. 
+However, this act does not specify guidelines for the power forecast period. 
+Despite the existence of feed-in tariffs and small power purchase agreements 
+(SPPAs) for grid-connected projects, renewables-based power generation is 
+unattractive to private investors. This is due to the weak financial position 
+of TANESCO, the sole off-taker, and the government’s inability to guarantee 
+payment if TANESCO defaults. Another barrier to private sector involvement in the 
+renewable energy industry is the very restrictive financial 
+environment, including the difficulty of obtaining 
+investment loans due to the high cost of borrowing. 
+The Renewables Readiness Assessment (RRA) 
+discussions also disclosed that the financial sector’s 
+limited knowledge of renewables is another obstacle to 
+facilitating financing for renewable energy development 
+in Tanzania. This is because most domestic banks 
+still lack the capacity to plan, structure and appraise 
+projects with suitable financial instruments. There are 
+no established quality control and technical standards 
+or mechanisms for renewable energy equipment. If 
+policy measures are not taken, substandard products 
+will flood the market, affecting the confidence of 
+developers who invest in renewable energy and 
+technology uptake. Other factors restricting renewables 
+investments include the low purchasing power of 
+potential customers, especially in rural areas, and the 
+high upfront investment costs of renewable energy. 
+Equally obstructive are lengthy project development 
+lead times, high land acquisition costs and cumbersome 
+procedures for environmental impact assessment and 
+hydropower water use rights permits.
+There are also shortcomings in human capacities and 
+skills in the renewable energy sector in Tanzania. These 
+will need to be resolved adequately so that Tanzania can 
+meet the employment levels required by the Electricity 
+Supply Industry Reform Strategy and Roadmap 2014-
+2025 and beyond. According to the analysis carried 
+out for this report, the renewable electricity sector 
+could employ 36,000 people throughout the value 
+chain in Tanzania in 2030 under the renewable energy 
+scenario. This is around six times the 2015 figure. 
+However, only the University of Dar es Salaam offers a 
+Master of Science in Renewable Energy at the moment, 
+while other academic institutions in Tanzania only 
+offer undergraduate diplomas for the sector. Given 
+the potential for scaling up renewables in Tanzania, 
+more courses related to renewables are needed. These 
+courses should diversify and expand into all areas of 
+renewable energy project development at the technical, 
+managerial and financial level.
+RECOMMENDATIONS
+Revise national energy plans
+Energy planners in Tanzania need to revise their plans 
+by taking into account the latest studies on resource 
+potential and technology costs. Equally, they need to 
+explore different policy assumptions and scenarios 
+that justify or work out the challenge associated with 
+certain investment decisions. This could be followed by 
+a roadmap for realising the desired investment strategy. 
+Provide incentives in Electricity System 
+Operation Rules
+The draft Electricity System Operation Rules 2016 need 
+to be revised to include provisions in forecasts for better 
+integrating renewable energy in power systems. These 
+need to take into account the fact that Tanzania is a 
+member of the Southern African Power Pool (SAPP), 
+where the day-ahead market is already in place. This 
+will give renewables the opportunity to make a greater 
+contribution to satisfying the country’s growing power 
+demand.
+In achieve this aim, Tanzania could consider acquiring 
+the necessary infrastructure including sophisticated 
+information and communication tools for more efficient 
+system-wide decision-making. Furthermore, grid 
+operators will need to acquire the ability to integrate 
+forecast data into their daily operations by learning 
+how to manipulate grids with high share of renewables. 
+Tanzania should consider adopting transmission and 
+wheeling charges conducive to variable renewables. 
+This should be clearly stated in the revision of the draft 
+Electricity Systems Operations Act 2016. Additionally, 
+private generators could be given the flexibility to sell 
+their surplus power to the grid operator.
+Promote long-term equity financing for renewable 
+energy projects through non-banking financial 
+institutions
+Tanzania could consider empowering the domestic 
+financial sector to provide equity investments into 
+renewable energy technologies, especially through 
+the Dar es Salaam Stock Exchange. This would be 
+welcomed by the Dar es Salaam Stock Exchange, 
+which has appealed for an environment favouring 
+the increased utilisation of the stock exchange by the 
+private sector,1
+ supervised by the Capital Markets and 
+Securities Authority. Through the Dar es Salaam Stock 
+Exchange, the government should also promote the use 
+of mutual funds, which currently only represent 0.1% 
+of asset allocation in the Tanzanian financial systems. 
+These would increase private sector participation by 
+using pooling to reduce renewable energy project risk.
+Improve facilitation, collaboration and co-ordination 
+among private sector and financial institutions
+In line with the previous recommendation, a framework 
+must be established to enhance facilitation, collaboration 
+and co-ordination among private renewable energy 
+actors and financial institutions. This would increase 
+financial institution knowledge of the renewable energy 
+sector and give the private sector more understanding 
+of the inner workings of the financial system. Close 
+co-operation of this kind between these two types of 
+entities will help mitigate the perceived risk from the 
+renewable energy sector and would foster financing.Create a risk mitigation mechanism for local 
+investments
+In order to increase participation from the local private 
+sector, a risk mitigation mechanism is needed for 
+local investments. It could provide liquidity support as 
+well as guarantees and facilitate access to substantial 
+loans from the banking industry. The facility could be 
+established at a regional level through the Common 
+Market for Eastern and Southern Africa (COMESA) 
+Regional Investment Agency. COMESA could
+co-operate with international partners, such as IRENA, 
+the Green Climate Fund, German development bank 
+KfW and the African Trade Insurance Agency.
+Intensify and expand renewable energy training at 
+the higher and vocational educational levels as well 
+as on-the-job training 
+The planning scenarios suggested in this RRA show that 
+by 2030 around 20,000 construction and installation 
+jobs will be required in Tanzania for the renewable energy 
+sector. Around 1,100 will be needed in fuel production, 
+2,900 in manufacturing, 4,000 in decommissioning and 
+7,900 in operation and maintenance. The Government of 
+Tanzania should make full use of the vocational training 
+facilities across the country to intensify and expand 
+renewables training to meet that labour demand. A 
+renewable energy programme should be promoted 
+within the country’s top business schools. It should 
+develop training programmes and courses to broaden 
+the financial and business knowledge base in renewable 
+energy technology projects. New and young engineers 
+entering the local power job market should be given the 
+opportunity to gain experience in the practical aspects 
+of the value chain. Capacity improvement at the 
+vocational education level could be financed through 
+charges applied to foreign investments and through 
+state funding and other sources.
+Design and implement local-content requirements for 
+renewable energy projects
+Through a local-content requirement, people could gain 
+better conditions like job security, for which demand 
+will rise if more qualified labour becomes available. The 
+local-content requirement could be applied to labour 
+and manufactured products for renewable energy 
+projects implemented in Tanzania. There are several 
+examples of this in countries in the sub-Saharan African 
+region, such as Ghana, Kenya and South Africa.
+Establish a national renewable energy 
+research centre
+Given the inconsistency of statistical data and lack of 
+quality control or standard-setting mechanism, the 
+Government of Tanzania should create and provide the 
+capacity for a renewable energy centre whose mandate 
+would be as follows: 
+• establish a legal and institutional framework for 
+assembling renewable energy statistics
+• collect and store all relevant statistics and resource 
+information on renewables
+• provide easier access to renewable energy 
+information and resolve inconsistencies in the data
+• conduct a data audit to identify relevant data gaps
+• develop and implement a methodology for quality 
+control and standards.
+1 Corporate bonds and most of the equity and government 
+bond papers issued and listed on the Dar es Salaam Stock 
+Exchange have been oversubscribed by up to twice the
+amount available. This shows the extent of liquidity in the 
+hands of the Tanzanian private sector. Elephants crossing a river in Serengeti National Park
+TanzaniaI. INTRODUCTION
+1.1 Country Background
+Located in eastern Africa, the United Republic of Tanzania (referred to 
+throughout this report as “Tanzania”) is bordered by Kenya and Uganda to 
+the north, Rwanda, Burundi, the Democratic Republic of the Congo (DRC) 
+and Zambia to the west, Malawi and Mozambique to the south and the Indian 
+Ocean to the east. With a surface area of 947,303 square kilometres (km2
+), it 
+is the largest country in East Africa in terms of land mass.
+The country was formed out of the union of Tanganyika and Zanzibar on 26 
+April 1964. Tanzania is a presidential constitutional republic and since 1996 
+has had its official capital at Dodoma. In the coastal region, the city of Dar 
+es Salaam is the economic capital and main seaport of mainland Tanzania, 
+serving as a gateway to East and Central Africa. The official currency is the 
+Tanzanian Shilling (TZS) and the official language is Kiswahili/Swahili, while 
+English is widely used for official communication (www.tanzania.go.tz).
+Tanzania is mountainous and densely forested in the northeast. The centre of 
+the country consists of a large plateau with plains, savannah woodlands and 
+arable land, and the eastern coast is hot and humid. Three of Africa’s Great 
+Lakes are partly within Tanzania, namely Nyasa, Tanganyika and Victoria. 
+Given its geographic configuration, Tanzania is vulnerable to climate change 
+and extreme weather events. As a result, Tanzania’s hydroelectric capacity 
+has been dramatically affected (AfDB, 2015). However, Tanzania has among 
+lowest per capita carbon dioxide (CO2
+) emissions in the world at just
+0.2 metric tonnes.2
+The United Nations ranks it as a Least Developed Country with annual per 
+capita gross domestic product (GDP) at USD 879. According to the World 
+Bank, 43.5% of the population lived on less than USD 1.25 a day3
+ in 2012, 
+making it one of the poorest countries in the world. Its population of
+50.76 million (2014) is growing at 2.8% per year, and about 27.6% of the 
+population is urban (World Bank, 2015a). Forecasts by Tanzania’s Ministry of 
+Energy and Minerals suggest that the country’s population will rise to at least 
+69.5 million by 2025 (MEM, 2014). 
+The Tanzanian economy has continuously performed well over the last 
+few years, with a growth of 6.9% in 2012 and 7.3% in 2013. Information and 
+communications, as well as construction and manufacturing, are the main 
+contributors to this growth. Inflation has declined to an annual average of 5.6% 
+in 2015 due to a careful monetary policy, favourable agricultural conditions 
+and falling oil prices. Growth is projected to reach 7.2% in 2016 and 7.5% in 
+2017 (AfDB, OECD and UNDP, 2015). In order to sustain that growth, public 
+investments will become increasingly necessary, especially in infrastructure.
+Agriculture is the most important economic sector, employing more than twothirds of the country’s workforce and supporting the livelihoods of more than 
+three-quarters of Tanzanians (AfDB, OECD and UNDP, 2015). It is followed by 
+services (information and communication), mining and manufacturing. 
+2 Emissions per capita for sub-Saharan Africa amounted to 0.8 metric tonnes of CO2 per 
+year. The annual average for Low Income Countries was 0.3 metric tonnes of CO2 in 
+2011 (World Bank, 2015a).The Government of Tanzania is going through an 
+economic restructuring process to improve the 
+investment environment and increase the role of the 
+private sector, with the government limiting itself to 
+a facilitating and regulatory function. In addition, the 
+government has been implementing the “Big Results 
+Now” initiative4 since 2013, which aims to foster 
+progress in key development sectors, including energy. 
+This strategy is aligned with Tanzania’s Development 
+Vision 2025, which aims to convert Tanzania to a 
+middle-income country by 2025 with a GDP per capita 
+of at least USD 3,000. 
+The good economic performance of recent years 
+has not necessarily accelerated poverty reduction. 
+Disparities still exist between rural and urban areas, 
+better off and disadvantaged regions (AfDB, OECD and 
+UNDP, 2015). Natural disasters like droughts and El Niño 
+climatic events have affected agricultural productivity, 
+power production and transportation, and this has 
+had negative effects on the economy. However, at this 
+stage, widespread and persistent poverty is the main 
+development obstacle for Tanzania. Through recent 
+policy initiatives, the Government of Tanzania has 
+shown an increased level of commitment to broader 
+poverty reduction, greater social protection and the 
+human development agenda. Public expenditure on 
+infrastructure, energy and increased rural electrification 
+is being promoted. This is viewed as a key development 
+vector for poverty elimination and the economic 
+inclusion of the rural population.
+1.2 Role of energy in development 
+in Tanzania
+Energy is a critical input affecting all sustainable 
+development efforts. As is the case across the world, 
+energy is vital to all major economic activities in 
+Tanzania.
+• Energy for services
+Services are the main contributor to GDP, 
+taking a 48.8% share in 2014 (Tanzania National 
+Bureau of Statistics, 2015). The information and 
+communications subsector has experienced 
+sustained growth in the usage of mobile phones. 
+This includes the recent expansion in mobile money 
+services, which had around 11.7 million registered 
+users in March 2014 (AfDB, OECD and UNDP, 2015). 
+Energy is also essential for a number of social 
+welfare services, which include health, schools, water 
+and telecommunications in rural areas. Renewable 
+energy could provide the basis for satisfying those 
+needs. Some social services, such as remote health 
+centres, are already equipped with PV for lighting 
+or storing medical supplies. Some PV units are also 
+used in water pumping. As they grow, social services 
+will need to improve and become more reliable and 
+more sustainable.For energy to play an effective role 
+in poverty alleviation, emphasis should be put on 
+improving energy services in productive uses such 
+as business, agriculture, industry, fishing and tourism.
+• Energy for agriculture
+Agriculture is the most important sector of the 
+Tanzanian economy. The agricultural activities 
+include land preparation, irrigation, weeding, 
+harvesting and processing agricultural products. 
+The sector employs about 80% of the active 
+workforce that supports the livelihoods of more 
+than three-quarters of the population in Tanzania. It 
+contributed to about 23% of GDP in 2014 and meets 
+about 95% of national food requirements (Tanzania 
+National Bureau of Statistics, 2015). The sector has 
+consistently registered a below average annual 
+growth rate over the last decade, amounting to 4%. 
+This is due to factors such as the limited availability 
+of energy and absence of modern agricultural 
+methods, leading to a high reliance on rainfall. 
+About 70% of cultivation in Tanzania is carried 
+out by hand hoe, 20% by ox plough and 10% by 
+tractors (Organisation for Economic Co-operation 
+and Development, 2011). The government has 
+launched a new initiative, the Southern Agricultural 
+Growth Corridor of Tanzania, in order to meet the 
+annual sector growth rate of 6% - 10% in its New 
+Vision for agriculture. Its aim is to steer public 
+and private sector initiatives investment initiatives 
+using the model of an agricultural growth corridor 
+to boost agricultural productivity in Tanzania. The 
+Southern Agricultural Growth Corridor of Tanzania 
+investment generation programme has identified 
+power generation as one of the key areas that 
+increases agricultural productivity. This will help to 
+reverse the current high reliance on human energy 
+for these agricultural activities. 
+• Energy for industry
+Over time, Tanzania’s industrial sector has changed, 
+mirroring national policy reforms as well as the 
+changing patterns of domestic demand and the 
+global market. It is the third largest contributor to 
+the economy (22.2% of GDP in 2014) after services 
+and agriculture. Recovery in the mining sector 
+continued in 2014, mainly due to increased gold 
+production and higher international prices. Thanks 
+to the sustained stability in power generation as well 
+as sustained demand for manufactured products 
+both abroad and at home, the performance of the 
+manufacturing sector has remained strong. 
+4 Launched in 2013, the “Big Results Now” initiative is based on 
+a Malaysian development model and altered to fit the
+Tanzanian context.Rural Tanzania’s most commonplace industries have 
+major relevance to rural sustainable development 
+efforts. They include brick burning, crop processing 
+and the production of charcoal, among other 
+activities. These have the potential to raise rural 
+incomes by processing agricultural and forest 
+products to add value. Hence energy is important for 
+both urban and rural development. It is among the 
+most widely used inputs, and the industrial sector is 
+the second large consumer of energy in Tanzania after 
+households. The energy used for industries in urban 
+areas is mostly electricity. Gas is also used by industry 
+in Dar es Salaam. About 70% of electricity is used to 
+run machines (motor and other equipment). The rest 
+of the electricity is used for other energy services 
+(lighting, alarms, offices etc.) in factories. However, old 
+or outdated equipment and underutilised capacity in 
+most factories leads to inefficient energy use.
+Improvement of the power sector as highlighted in 
+different government policies, strategies and plans, 
+such as the Power Systems Master Plan of 2012, 
+is considered essential to ensure sustainability of 
+the manufacturing firms. Reliable power supply to 
+manufacturing companies will certainly increase 
+productivity and the industrial base, which is 
+indispensable to the country’s overall development 
+agenda. 
+• Regional integration
+Regional power integration is essential to 
+optimising the development of energy resources 
+within regional blocks. This will then ease access to 
+the electrical power supply through regional power 
+interconnection. Certain local obstacles to power 
+supply oblige Tanzania to use additional power 
+from neighbouring countries with a surplus. It thus 
+stands to benefit a great deal from regional power 
+integration. Equally, power supply infrastructure 
+connectivity within the region can enable surplus 
+power produced in Tanzania to be easily exported to 
+other countries with a power deficit (MEM, 2015a). 
+In 2010, Tanzania joined the Eastern Africa Power 
+Pool;5
+ however, work on physical interconnection 
+and effective electricity exchange within the pool 
+is only under way between Uganda and Kenya 
+(Gebrehiwot, 2013), and Ethiopia and Djibouti. In 
+addition, Tanzania is a member of the Southern 
+African Power Pool (SAPP), along with 11 other 
+African nations.6
+ This is an advantage because 
+it implies that Tanzania could act as a “bridge” 
+country interconnecting both electricity pools in the 
+medium term, thus linking northern and southern 
+areas of Africa. 
+1.3 Renewables Readiness 
+Assessment process
+The Renewables Readiness Assessment (RRA) in 
+Tanzania was led by the Ministry of Energy and Minerals in 
+close co-operation with the Tanzania Traditional Energy 
+Development Organization (TaTEDO). TaTEDO has 
+acted as an interface between Tanzanian stakeholders 
+and the RRA support team. Following recommendations 
+from stakeholders, including the Ministry of Energy and 
+Minerals and several donors, the RRA was conducted 
+with a special focus on implementation. Rather than 
+focusing on specific pairings of resources and services, 
+the assessment examined several broad thematic areas, 
+namely resource assessment and planning; policy and 
+regulatory frameworks; private sector involvement; and 
+human capacity and skills. 
+At the first stage, a background and issues paper on 
+Tanzania was prepared. This was based on desktop 
+research information and a survey conducted through 
+a field mission, which consisted of interviews of 
+representatives of key stakeholder institutions from 
+key governmental, private and civil society bodies. The 
+survey covered topics such as energy sources and access 
+levels; main renewable energy applications and service 
+demands; and the main challenges affecting renewable 
+energy development. Due to time constraints, field 
+respondents were asked to independently complete 
+the remaining questions covering costs, capacity gaps 
+and other subjects. They were requested to return the 
+completed questionnaires within two working weeks 
+of the day of the interview. A final RRA workshop was 
+organised on 9 - 10 March 2016 to peer review and 
+validate the findings from the background paper and 
+issues paper. It defined the practical action that will set 
+these renewable energy subsectors in motion. 
+This report is structured into five sections. The first 
+presents the introduction, covering country background 
+and the RRA process in Tanzania. The second highlights 
+the regional energy setting and examines Tanzania’s 
+national energy sector and specific energy challenges. It 
+offers an overview of the country’s renewable energy use 
+at present, as well as its potential. This entails a detailed 
+discussion of the electricity sector. The third section 
+identifies institutions playing a part in Tanzania’s energy 
+sector and defines key energy policies and regulatory 
+frameworks, as well as examining finance and investment 
+conditions in Tanzania. The fourth section discusses RRA 
+findings related to emerging concerns and enabling 
+conditions in the four thematic areas identified. It sums 
+up the related opportunities and constraints. Finally, the 
+fifth section covers the recommended action necessary 
+for scaling up renewable energy in Tanzania.Modern bioenergy offers great development potential2. ENERGY CONTEXT
+2.1 Regional context
+Most countries in the eastern Africa sub-region7 have exhibited strong 
+economic growth trends, with robust increases in per capita GDP over 
+the last decade (United Nations Economic Commission for Africa, 2014). 
+Between 2000 and 2011, Burundi, the Comoros, the DRC, Eritrea, Ethiopia, 
+Kenya and Rwanda have more than doubled their per capita GDP while the 
+GDP of Ethiopia and Rwanda has grown more than 180% in the same period.
+In most of the 14 countries of the eastern Africa sub-region, more than 90% of 
+the population rely on biomass as their main energy source. The utilisation of 
+electricity and other forms of modern energy sources is relatively low. Electricity 
+access rates range from 1% in South Sudan (leaving 9.3 million people without 
+access) to 11% in the DRC (nearly 60 million without access). In Uganda 12% 
+have electricity access, leaving 27 million people without. In Tanzania 18% 
+have access, and 38 million do not. In Kenya 16% have access, and more than
+32 million do not, while in Ethiopia 22.5% have access, and nearly 64.5 million 
+do not (see Figure 2). Energy security has also gained in importance due to the 
+increased dependence on imported oil products. Electricity in the eastern Africa 
+sub-region has traditionally been generated from hydroelectricity. However, 
+inadequate energy planning and rapid energy demand growth have compelled 
+the region’s policy makers to make particular technology choices to overcome 
+immediate difficulties related to energy. This has resulted in the expansion of 
+thermal generation. The absolute growth in petroleum consumption from 
+2000 to 2011 amounted to 67% in eastern Africa. This constitutes a significant 
+increase in exposure to global energy markets and associated sources of energy 
+insecurity (United Nations Economic Commission for Africa, 2014). 
+7 The eastern African sub-region referred to in this report consists of Burundi, Comoros, 
+Figure 1: Per capita GDP growth in countries of the eastern African 
+sub-region
+Source: United Nations Economic Commission for Africa, 2014 (based on International 
+Monetary Fund and World Economic Outlook data)
+200
+150
+100
+50
+0
+Burundi
+Comoros
+D.R. Congo
+Djibouti
+Eritrea
+Ethiopea
+Kenya
+Madagascar
+Rwanda
+South
+Sudan
+Tanzania
+Uganda
+Seychelles
+2011-2000 % Change
+in Per Capita GDPFigure 2: Electricity access rates in selected countries in eastern Africa
+Source: United Nations Economic Commission for Africa, 2014 (adapted from World Energy Outlook data, 2011)
+South
+Sudan
+D.R.
+Congo
+Uganda
+Kenya
+Tanzania
+Madagascar
+Ethiopia
+Eritrea
+12%
+16%
+1%
+11%
+18%
+19%
+23%
+32%
+The energy sector in eastern Africa faces numerous 
+challenges but also abundant opportunities. These 
+countries are endowed with significant clean energy 
+resources in transboundary hydropower systems that can 
+be developed to spearhead energy integration across the 
+sub-region. The discovery of oil and gas resources in the 
+sub-region, and growing interest in biofuel development, 
+also offer a route to greater energy security through 
+regional frameworks and infrastructure. 
+In 2012, total installed electricity capacity in East 
+Africa exceeded 36 gigawatts (GW), including Egypt. 
+This generated about 160 terawatt-hours of electricity 
+largely from gas-fired power plants. Egypt’s installed 
+capacity accounts for more than 70% of the region’s 
+total, and hydropower is the main source in Ethiopia, 
+Burundi, Uganda and Sudan. After gas and hydropower, 
+remaining capacity is mainly based on oil-fired power 
+plants, with small contributions from wind and solar 
+(IRENA, 2015a). Considering the energy potential of the 
+sub-region, regional integration remains low mainly due 
+to constrained generation capacity and limited regional 
+interconnectivity. Sub-regional electricity trade along 
+with joint investment ventures are a promising way to 
+expand the electricity supply in the sub-region. 
+Bilateral power exchanges exist among some countries 
+but interconnections are still limited. Existing power 
+interconnections include: the DRC, Burundi and Rwanda; 
+Kenya-Uganda; Ethiopia-Djibouti and Ethiopia-Sudan. 
+However, a number of power interconnection projects 
+are currently under development in line with the Eastern 
+Africa Power Pool/ East African Community framework. 
+These are expected to bear fruit within the next five to 
+ten years. In addition, the Kenya-Tanzania interconnector 
+project has secured finance to begin engineering work. 
+The line is 260 km long and will have a capacity of 1,520 
+megawatts (MW) at 400 kilovolt (kV) alternating current. 
+In additionfeasibility studies for the Rusumo-Tanzania 
+line were completed in 2010. This line is associated with 
+the Rusumo Falls Hydropower Plant (90 MW), which will 
+serve and interconnect the grids of Tanzania, Rwanda and 
+Burundi (United Nations Economic Commission for Africa, 
+2014). More widely, Tanzania and Zambia are working on 
+an interconnector which once completed will interconnect 
+the southern Africa regional grid with the eastern Africa 
+regional grid. Together with the older interconnections, 
+namely Kenya-Uganda, Egypt-Libya and BurundiDRC-Rwanda, the projects in the pipeline will boost the 
+interconnection across the eastern Africa region, involving 
+all current member countries (IRENA, 2015b).
+Nile Basin Initiative 
+As a partnership that unites Burundi, the DRC, Egypt, 
+Ethiopia, Kenya, Rwanda, Sudan, Tanzania and Uganda, 
+the Nile Basin Initiative has launched the Nile Equatorial 
+Lakes Subsidiary Action Program (NELSAP). This is one 
+of its investment programmes. It promotes investments 
+in power development and trade, river basin 
+management and development, agricultural trade and 
+productivity, and fisheries and watershed management.
+In accordance with its 2012 - 2016 Strategic Plan, 
+NELSAP has listed the following under its “Power 
+Development and Trade” sub-programme:
+• Programmatic goal 1: to harness hydropower 
+through co-operation
+• Programmatic goal 2: to facilitate better 
+interconnections and increase power trade
+NELSAP continuously detects and lays the ground 
+for new projects, aiming to help identify, prepare and 
+implement the supervision and facilitation of resource 
+mobilisation for investment projects in its two subprogrammes (Nile Basin Initiative, 2012).
+Within these programmes, several projects are at 
+various stages in the development phase: the Regional 
+Rusumo Falls Hydroelectric and Multipurpose Projectthe Kenya-Tanzania Transmission Line, the Iringa-Mbeya 
+Power Transmission Line, Uganda-DRC (Nkenda-BeniButembo-Bunia) Power Transmission Line and the 
+Tanzania-Zambia Power Transmission Line. In addition, 
+NELSAP has identified the pipeline of projects that could 
+deliver prominent results. These are listed in Table 1.
+Common Market for Eastern and Southern Africa 
+The COMESA Model Energy Policy Framework, adopted 
+by the Common Market for Eastern and Southern Africa 
+(COMESA) in 2007, seeks to improve the effectiveness 
+and efficiency of modern energy supply industries; 
+the security and reliability of energy supply systems; 
+access to affordable and modern energy services as 
+a contribution to poverty reduction; the availability, 
+potential and demand of various energy resources; 
+economic development; energy sector governance 
+and administration; and the environmental, safety and 
+health impacts of energy production and utilisation. In 
+addition, it seeks to soften the impact of high energy 
+prices on vulnerable consumers (COMESA, 2008).
+Power transmission networks for interconnection, as 
+well as several power generation projects, are among 
+its regional key infrastructure projects. The ZambiaTanzania-Kenya Power Interconnector in currently in the 
+construction phase. This distribution network has several 
+aims. Among them, it wishes to promote and stimulate 
+the development of new power generation projects and 
+electricity export potentialand improve the quality of 
+power to northern Zambia and western Tanzania. It wants 
+to reinforce the Tanzanian national grid and make the 
+country a trading member of the SAPP.
+2.2 Energy supply and demand in 
+Tanzania
+Tanzania is an economy moving away from its 
+agricultural base. This has placed considerable pressure 
+on energy consumption. Total primary energy supply 
+(TPES) climbed from 13.46 million tonnes of oil 
+equivalent (mtoe) to 22.16 mtoe in 2012 – an increase 
+of almost 100% over the last decade. Figure 3 displays 
+the TPES trend over a six-year period, showing the 
+continued dominance of biomass as primary energy 
+source. According to International Energy Agency 
+statistics for Tanzania in 2012, biomass accounted for 
+85.5% of TPES, with the remainder distributed between 
+petroleum (6.6%), gas (1.5%), hydroelectricity (0.6%), 
+and coal and peat (0.2%). This energy supply and enduse structure reflects Tanzania’s level of development, 
+with limited industrial and manufacturing activity and 
+the dominance of households in energy consumption
+Strategic 
+area High-level results and key activities Estimated cost (USD million) 
+Pre-investment Investment
+Hydropower 
+generation
+and power 
+transmission
+lines
+Semuliki hydropower project (72 MW) (Uganda-DRC) 6
+Mugomba hydropower project in the DRC (100 MW) 6
+Akanyaru river hydropower (Rwanda and Burundi) 
+(22 MW) 3
+Project structuring and financial modelling of 
+hydropower generation projects in South Sudan 
+(Fula, Shukoli, Bedden and Lakki)
+8
+Uganda (Karuma)-South Sudan (Juba) power 
+transmission interconnection, 400 kV of 320 km 3
+Kenya (Kisumu)-Tanzania (Mwanza) power transmission 
+interconnection, 220 kV of 330 km 3
+Burundi (Jiji-Mulembwe)-Tanzania (Kigoma) power 
+transmission line, 220 kV of 180 km 2
+Kenya-Tanzania transmission, 220 kV of 257 km 262
+Uganda-DRC (Nkenda-Beni-Butembo-Bunia) 
+transmission line, 220 kV of 396 km 165
+Uganda-Tanzania (Masaka-Mwanza) interconnection
+Table 1: NELSAP’s pipeline of power development and trade projects at pre-investment stage
+Source: Nile Basin Initiative (2012)Figure 3: Total primary energy supply in Tanzania, 2012
+Source: United Nations Economic Commission for Africa, 2014
+2012
+2009
+2006
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Coal and coal products Oil products Natural Gas Hydropower Primary solid biofuels
+Solid biomass in the form of firewood and charcoal is the 
+main energy source for cooking. The quantity of firewood 
+consumed in rural areas is 26 million cubic metres (m3
+). Of 
+this, 24 million m3
+ is used for household cooking, 2.03 million 
+m3
+ for rural small and medium-sized enterprises and 14.4 
+million m3
+ in urban areas – mainly as charcoal. According 
+to the United Nations Framework Convention on Climate 
+Change, only 4% of the biomass used is sustainable out 
+of the 90% of solid biomass energy consumed by users. 
+Most biomass demand is for household consumption for 
+cooking and heating, and the remainder (10%) is used 
+by home-based enterprises, commercial, institutional 
+and industrial sectors. Experience shows that biomass 
+energy will remain a dominant source of energy, at least 
+in the medium term. More efforts will thus be needed to 
+ensure sustainability of biomass supply (United Nations 
+Framework Convention on Climate Change, 2012).
+Charcoal is the single largest source of household energy 
+in urban areas, representing 20% of total energy use. In 
+Dar es Salaam, more than 70% of households are using 
+charcoal. The city alone consumes approximately half 
+Tanzania’s annual charcoal supply, amounting to around 
+500,000 tonnes in 2009 (Renewable Energy and Energy 
+Efficiency Partnership, 2014). 
+A sector breakdown of energy consumption in Tanzania 
+is shown in Figure 4. The residential sector consumes 
+about 70% of total energy consumed, amounting to
+19.25 mtoe. This high proportion of residential sector 
+energy consumption is explained by the use of inefficient 
+stoves for cooking with firewood and charcoal. At the 
+same time, other economic sectors have low total energy 
+consumption. Low energy consumption in the industrial 
+and agricultural sectors is characteristic of an economy 
+based on subsistence farming and little processing and 
+manufacturing activity, which tends to be energy-intensive. 
+All Tanzania’s fossil liquid fuels are imported, and 
+75% of these are used by the transport sector. Diesel 
+amounts to approximately 75% of transport fuels 
+used in the country. Trains owned by the two railway 
+companies operating in the country, along with a large 
+proportion of freight transport vehicles, are fuelled 
+by diesel. Smaller household electricity generators 
+(“gensets”) run on petrol while larger ones of at least 
+10 kilowatts (KW) run on diesel (Renewable Energy 
+and Energy Efficiency Partnership, 2014). Oil product
+consumption escalated dramatically by over 100% 
+between 2000 and 2012 (International Energy Agency, 
+2012), with petroleum products comprising 8.1% of 
+total final consumption, and electricity accounting for
+just 1.9%. 
+Tanzanian imports of fossil fuels corresponded to 25% 
+of total gross imports, accounting for USD 2.9 billion 
+(Massachusetts Institute of Technology, 2012) and 
+representing a heavy burden on the country’s finances. 
+Diesel for transportation (middle distillates) and fuel oil 
+for electricity generation are driving the abrupt increase 
+in fossil fuel imports. This is a considerable risk to the 
+whole energy sector.
+Although currently dependent on imported fossil fuels, 
+Tanzania has a wealth of largely unused indigenous 
+energy resources. These include hydropower, coal, 
+natural gas, uranium, solar, wind and geothermal 
+energy. Its hydropower potential is estimated at 4.7 GW, 
+coal reserves at about 1,200 million tonnes – of which 
+304 million tonnes are proven – and natural gas at more 
+than 1.6 trillion m3
+ of proven reserves (Government 
+of Tanzania, 2014). With appropriate planning and 
+utilisation, these resources have the potential to 
+contribute to Tanzania’s National Development Vision 
+2025 to become a middle-income country.Figure 4: Final energy consumption in
+Tanzania, 2012
+Source: International Energy Agency, 2012
+Commercial and public service
+1% Agriculture/Forestry
+4% Non-specified
+3%
+Transport
+10%
+Industry
+8%
+Non-energy use
+0%
+Residential
+69%
+2.3 Electricity sector
+The power sector institutional framework and 
+market structure in Tanzania is depicted in Figure 
+6. The Ministry of Energy and Minerals is in charge 
+of policy formulation while the Energy and Water 
+Utilities Regulatory Authority (EWURA) is in charge 
+of developing regulations in the power sector and 
+monitoring their effective implementation by all 
+relevant stakeholders. The national parastate utility, 
+TANESCO, owns and operates the main grid and has a 
+monopoly over power transmission and distribution of 
+electricity generated from its own facilities as well as 
+from Independent Power Producers (IPPs). In addition, 
+small power producers and stand-alone system 
+providers operate in rural areas with the support of the 
+Rural Energy Agency.
+Figure 5: Oil product consumption in Tanzania, 2012
+2 500
+2 000
+thousand tonnes 1 500
+500
+0
+1 000
+1972 1974 1976 1978 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012
+Fuel oil Middle distilates Aviation fuels Gasoline LPG** Other**
+*Consumption includes international bunkers **LPG includes LPG, NGL, ethane and naptha. Others also include direct use of 
+crude oil and other hydrocarbons.
+Coal
+Tanzania aims for 200 MW of wind 
+power capacity by 2025
+Photograph: ShutterstockFigure 6: Institutional framework and market structure of the electricity sector
+Source: AfDB, 2015; MEM, 2014
+Ministry of Energy
+and Minerals
+Rural Energy
+Agency (REA)
+Co-funding, capacity
+building, pre-investment
+support
+Stand-Alone
+Systems
+Service
+Providers
+Small Power Producers/
+Mini-grids Service Providers
+Policy Direction Energy & Water Utilities
+Regulations Authority (EWURA) Regulations
+Stand-Alone
+Systems Customers
+Tanzania Electric Supply
+Company (TANESCO)
+Imports IPPs Enforcement
+TANESCO
+Distribution
+Retail Grid and
+Mini-Grid Customers
+SPPA
+SPPA, PPAs & Bulk Tariff
+Approval, Licensing
+Retail Tariff Approval
+Customer Complaints
+In Tanzania, the power sector is steered by the National 
+Electricity Policy 2015, the Energy and Water Utilities 
+Regulatory Authority Act 2001, the Electricity Act 2008 
+and Electricity (General) Regulations GN 63. Following 
+the enactment of the Electricity Act 2008, EWURA 
+devised a number of rules in 2011 for regulating the 
+electricity supply services, including among others the 
+transmission, generation, distribution and operation of 
+such services. The Electricity (Distribution Services) 
+Rules 2011 give provisions for the governance of 
+regulatory and licensing matters related to the supply 
+of electricity distribution services in Tanzania. 
+Generation
+Electricity in Tanzania is mainly generated from 
+hydropower, oil and recently natural gas. The electricity 
+supply varies, especially in times of drought, when 
+hydropower generation is adversely affected. Nearly 
+25% of electricity generated is lost due to poor grid 
+infrastructure (MEM, 2013a). The unreliability of 
+electricity supply has had a negative impact on the 
+development of the Tanzanian industrial sector. By May 
+2014, Tanzania’s total installed generation capacity was 
+1,591 MW, of which 1,466 MW was available on the grid. 
+This was composed of 562 MW of large hydropower 
+(35%)527 MW of natural gas (34%) and 495 MW of 
+27 MW and 13 MW in biomass and small hydropower 
+respectively. Another 300 MW of power generation 
+capacity is thought to exist off the grid, mainly from 
+diesel engines. TANESCO also imports power from 
+Uganda (8 MW), Zambia (5 MW) and Kenya (0.85 MW) 
+to distribute to towns near the borders MEM, 2014). 
+IPPs and emergency power producers own and operate 
+thermal power plants, the total installed capacity of 
+which amounts to around 417 MW (MEM, 2015a).
+From 1980 to 2002, hydropower accounted for nearly 
+all the generation mix. Consequently, the droughts 
+that occurred in 2006 and 2010 led to severe power 
+supply shortages and a reduction in hydropower share 
+to just 35%. TANESCO supplies 59% of total capacity. 
+Meanwhile, IPPs, emergency power producers and 
+small power producers,8
+ which sell wholesale to 
+TANESCO, provide 26%, 13% and 2% respectively. To 
+close the electricity supply gap, TANESCO contracted 
+emergency power producers in 2011. These prove to 
+be a relatively expensive option as they are mainly 
+generating from diesel. Private sector involvement is 
+encouraged. However, the associated generation costs 
+exceed USD 0.30 per kilowatt-hour (kWh).
+8 Small power producers are IPPs with a capacity of less thanAs a vertically integrated utility, TANESCO generates 
+power from its own installations but also acts as a 
+single buyer by purchasing from IPPs and small power 
+producers. It is also in charge of selling to its own 
+customers. The “Big Results Now” initiative proposes 
+a drastic restructuring (unbundling) of TANESCO. 
+The Electricity Supply Industry Reform Roadmap 
+2014 - 2025, prepared by the Ministry of Energy and 
+Minerals, suggests to first split TANESCO into two or 
+three profit business units (generation, transmission 
+and distribution). These would grow into two or three 
+separate entities, which will be further divided into 
+smaller generation and distribution companies. The 
+intention is to increase generation capacity from 1,591 
+MW to 2,780 MW by 2025 and give access to electricity 
+to five million people in Tanzania. Another aim is to 
+eliminate costly reliance on emergency power plants 
+and meet new demand through low cost solutions. 
+The eventual objective is to make each of the newly 
+created companies profitable. They would apply a costreflective tariff, TANESCO’s debts would be reimbursed, 
+and the Government of Tanzania would no longer 
+provide subsidies to the sector (MEM, 2014). 
+Tanzania’s annual per capita power consumption is 
+very low, at about 105 kWh in 2014 (MEM, 2014), less 
+than half the average in Least Developed Countries. 
+Final total electricity consumption in 2012 was 
+4,441 gigawatt-hours (GWh). The largest electricity 
+consumer was the residential sector at 44% followed 
+by industry at 25%, and commercial and public services 
+at 23%, Agriculture accounted for only 4% of electricity 
+consumption (International Energy Agency, 2012). 
+Generation is forecast to increase to 47,723 GWh by 
+2035 (MEM, 2013a). According to the National Energy 
+Policy 2015installed capacity should be increased to at 
+The electricity demand growth rate is 10% - 15% per 
+year, and peak demand in 2012 was about 1,041 MW 
+(Government of Tanzania, 2014; MEM, 2015). Should 
+business-as-usual conditions prevail, TANESCO foresees 
+significant demand increases due to mining operations, 
+liquefied natural gas plants, factories, water supply and 
+household consumers, thus the peak demand would be 
+close to 8,000 MW by 2025 (MEM, 2015b). 
+The Rural Energy Agency is responsible for 
+implementing the rural electrification strategy, which 
+mainly concentrates on the extension of the grid and 
+mini-grid distribution network in rural areas. In areas 
+where grid extension is not feasible, the Rural Energy 
+Agency also supports the development of solar PV 
+projects in some villagesPilot projects on wind-solar 
+Figure 7: Electricity generation by energy source in Tanzania, 2012
+Source: International Energy Agency, 2012
+6 000
+5 000
+GWh
+4 000
+1 000
+2 000
+0
+3 000
+1972 1974 1976 1978 1980 1982 1984 1986 1988 1990 1992 1994 1996 1998 2000 2002 2004 2006 2008 2010 2012
+Coal* Oil Natural gas Hydropower Biofuels/waste
+*In this graph, peat and oil shale are aggregated with coal.
+Figure 8: Electricity consumption by sector in 
+Tanzania, 2012
+Source: International Energy Agency, 2012
+Agriculture
+4% Other
+4%
+Industry
+25%
+Commercial and
+public service
+23%
+Residential
+44%public institutions in rural areas. The Rural Energy 
+Agency receives funds from the Government of Tanzania 
+and development partners, including the Swedish 
+International Development Agency, the World Bank’s 
+Tanzania Energy Development and Access Project, and 
+the Norwegian Agency for Development Cooperation. 
+TANESCO operates a number of isolated mini-grids. In 
+March 2015, 18 diesel-fired mini-grids were in operation, 
+with a total installed capacity of 82.2 MW. Two of these 
+are mini-grids with an installed capacity of 29 MW 
+fuelled by natural gas. The remaining mini-grids have 
+a total installed of capacity of 53.2 MW and are diesel 
+generators (TANESCO, 2015). Rural electricity access in 
+Tanzania is estimated to be less than 6%.9
+To supply growing on-grid demand, the Ministry of Energy 
+and Minerals presented a diversified electricity generation 
+mix in its 2014 Electricity Supply Industry Reform report. 
+This included natural gas, coal, hydropower and nonconventional renewables. Despite the high renewable 
+energy resource potential, which could translate into 
+the provision of power at a lower cost, the Electricity 
+Supply Industry Reform Roadmap considers only 4.85% 
+of renewable energy potential. The generation growth 
+envisaged by 2025 is shown in Table 2 below.
+9 Value according to the definition of the National 
+Electrification Program Prospectus (Innovation Energie 
+Développment, 2014).
+Source
+Existing 
+capacity (MW)
+(March 2013)
+Additional 
+capacity (MW)
+Total capacity 
+by 2025
+(MW)
+Hydropower 565.8* 1 529 2 095
+Oil 456.3 0 456
+Natural gas 501 3 968 4 469
+Biomass 27 0 27
+Coal 0 2,900 2 900
+Wind 0 200 200
+Solar 0 100 100
+Geothermal 0 200 200
+Interconnection 14 400 414
+Total 1 564.1 9 297 10 861
+Table 2: Present and projected installed capacity by year 2025
+*Including small hydropower (<10 MW)
+Source: Electricity Supply Industry Reform Strategy and Roadmap (MEM, 2014)
+Transmission and distribution
+The Tanzania transmission network includes the main 
+grid, which covers large urban centres, some mini-grids 
+in suburbs and rural areas located a long way from the 
+central grid, and diesel-powered private generation. 
+In addition, TANESCO imports electricity from its 
+neighbouring countries at distribution level (AfDB, 2015).
+TANESCO owns and operates the transmission and 
+distribution systems. However, in some areas, small power 
+producers are responsible for isolated mini-grids. By May 
+2014, the transmission system consisted of 43 substations 
+with 4,867 km of transmission lines comprising 2,732 km 
+with system voltages at 220 kV, 1,556 km at 132 kV and 
+580 km at 66 kVAlmost all the transmission lines are 
+radial single circuit lines. The system is entirely alternating 
+current operating at a frequency of 50 Hertz. The total 
+installed capacity in the main grid system amounts to 
+1,396 MW (TANESCO, 2014).
+For the coming decade, the country’s project portfolio 
+for interconnectors consists of five projects: 
+• a 400 kV interconnector to Kenya in preparatory 
+stage 
+• a 400 kV interconnector to Zambia with secured 
+funding from AfDB and construction already under 
+way on the Zambian side
+• a planned 220 kV interconnector to Mozambique, 
+for which discussions under way with Mozambican 
+counterparts • a 63 MW hydropower plant project at the Rusumo 
+border with Rwanda and Burundi, which will 
+interconnect the national grids of Tanzania, Rwanda 
+and Burundi through a 220 kV transmission line 
+• a 220 kV transmission line to Malawi by 2021 and a 
+340 MW hydropower plant project at the Songwe 
+border.
+System losses are high at nearly 18%, largely due to 
+long distance transmission lines, ageing infrastructure 
+and commercial losses. Major investment is required 
+to renovate transmission lines and infrastructure in 
+different parts of Tanzania.
+For the Tanzanian electricity sector, scaling up off-grid 
+systems remains a significant challenge (AfDB, 2015). 
+This is due to multiple factors, such as the low density 
+and sparse distribution of the rural population, as well 
+as income poverty. According to the 2012 National 
+Census, the average population density in mainland 
+Tanzania was 49 inhabitants/km2
+. However, the rural 
+regions of Lindi, Katavi and Ruvuma have densities of 
+13, 15 and 22 inhabitants/km2
+ respectively (National 
+Bureau of Statistics, 2013). 
+The Rural Electrification Investment Prospectus 
+shows that approximately 46% of rural populations 
+are near the grid; 20% are further away but located 
+in densely populated areas, and 34% are further away 
+in low density areas. Furthermore, USD 3.5 billion of 
+investment is required in the sector to increase the 
+rate of rural access from 6.6% to 36.6%, and the rate in 
+urban areas from 34.2% to 75.7% by 2022 (Innovation 
+Energie Développment, 2014).
+Costs and tariffs
+Electricity tariff review and approval is in hands of EWURA. 
+With the authorisation of the Ministry of Energy and Minerals, 
+TANESCO submits tariff review requests to EWURA. The 
+tariff level is dependent on a number of factors, including 
+electricity production cost (including operation cost), social 
+cost and other political economic criteria. 
+In January 2012, EWURA authorised a 40% tariff 
+increase to TANESCO. Nevertheless, TANESCO still 
+incurs losses primarily due to its dependency on 
+emergency power producers, which account for 13% 
+of installed capacity at 205 MW (TANESCO, 2013). 
+As far as integrated generation, transmission and 
+distribution costs are concerned, TANESCO states in its 
+Tariff Review Application Report that the current tariff 
+regime yields an average revenue of about 198 TZS/kWh 
+(USD 0.10/kWh).10 However, the revenue requirement 
+target for TANESCO in 2013 amounted to 332 TZS/kWh 
+(0.16 USD/kWh). The shortfall of 134 TZS/kWh (62.5%) 
+has severely restricted the ability of the company to 
+provide the services required to meet its obligations to 
+both its lenders and customers (TANESCO, 2013). 
+The present tariff regime differentiates between the 
+following customer groups and component costs 
+according to basic charge at TZS per calendar month 
+(pcm), energy charge (TZS/kWh) and demand charge 
+(TZS per kilovolt-amp/kVA pcm) (see Table 3). For 
+2015, TANESCO estimates it had 1.85 million customers, 
+of which 52% correspond to customer category T1 and 
+47% to category D1 (25% consume more than 50 kWh 
+pcm and 22% less than 50 kWh pcm). The final 1% of 
+customers were in categories T2, T3 and T5.
+10 Exchange rate used: USD 1/TZS 2,075 (July 2015).
+ograph: ShutterstockCustomer category Component Unit From 1 February 2013
+TZS USD*
+D1 Domestic low usage – low 
+consumption users
+Basic charge USD pcm 0 0
+Energy charge USD/kWh
+50-0 kWh/pcm USD/kWh 60 0.03
+> 50 kWh/pcm 273 0.13
+T1 General use – for general use of 
+electricity including residential, 
+small commercial and light 
+industrial use, public lighting and 
+billboards
+Basic charge USD pcm 3 841 1.85
+Energy charge USD/kWh 221 0.11
+T2 Low voltage maximum demand 
+usage, for general use at 400 volts 
+with average consumption greater 
+than 7500 kWh per meter reading 
+period
+Basic charge Oil 14 233 6.86
+Energy charge Oil 132 0.06
+Demand USD/pcm 16 944 8.17
+T3 High voltage maximum demand 
+usage for general use where power 
+is metered at 11/33 kV
+Basic charge Oil 14 233 6.86
+Energy charge Oil 118 0.06
+Demand USD/pcm 14 520 7.00
+T5 Bulk supply tariff for Zanzibar
+Basic charge Oil 14 233 6.86
+Energy charge Oil 106 0.05
+Demand USD/pcm 12 079 5.82
+Table 3: Electricity tariffs
+*Exchange rate used: USD 1/TZS 2,075 (July 2015)
+Source: TANESCO, 2013
+Although a low social tariff exists for customers using 
+less than 50 kWh per month, very few potential 
+customers were able to take advantage of this reduced 
+tariff due to the high connection fees. In December 
+2012, the household connection fees payable upfront 
+to TANESCO were substantially decreased to 
+approximately USD 68 for a rural customer and USD 120 
+for an urban customer (TANESCO, 2013).
+The power shortage emergency of 2010 and 2011 
+has resulted in a major expansion of costly thermal 
+generation. The final report of the Joint Energy Sector 
+Review in 2013 states that while electricity provided 
+by the company Songas costs USD 0.066/kWh, the 
+emergency thermal units (Jet A1 and diesel) cost ranges 
+from USD 0.30/kWh to USD 0.43/kWh – a significantly 
+higher cost. Consequently, the cumulative cost of 
+the emergency power producer from August 2011 to 
+December 2012 was estimated at USD 597 million and 
+financed through loans guaranteed by government 
+from local commercial banks (Larsson et al., 2013).
+For the country’s economy, cheaper electricity 
+generation sources must be explored and energy 
+access efforts intensified in the medium to long term. 
+The existing tariff levels will not be able to withstand 
+the rise in average costs without driving TANESCO into 
+insolvency.
+2.4 Renewable energy resources
+Tanzania has considerable renewable energy resources, 
+including hydropower, solar, wind and biomass 
+resources in the form of forests, agricultural residues, 
+animal and urban waste. There are also potential 
+geothermal resources. Renewable energy resources 
+and potentials in Tanzania are provided in the sections 
+below. 
+With the exception of biomass and hydropower, 
+renewable energy sources have only been exploited 
+to a limited extent. The spread of renewable energy 
+technologies has been limited mainly to promoting improved stoves, improved charcoal production 
+techniques, biogas, windmills for water pumping and to 
+a lesser extent PV. This has been installed on rooftops, 
+providing power solutions to areas not connected to 
+the grid and as a backup to intermittent grid power 
+supply. PV is also used for telecommunications towers 
+and street lighting in some urban areas.
+Other renewable energy sources have mainly been 
+promoted through private initiatives at various locations 
+in Tanzania. Hotels, hospitals and dispensaries have 
+attempted to install solar water heaters. Unfortunately, 
+many of these units are out of order, mainly due to lack 
+of after sales services. Micro-hydropower generation 
+has mostly been undertaken by missionaries.
+Large hydropower
+While Tanzania’s potential hydropower capacity 
+is estimated at 4,700 MW, only 561 MW has been 
+built (Government of Tanzania, 2014). The largest 
+hydropower plants are at the Mtera (80 MW), which has 
+a storage capability of more than one year, and Kidatu 
+(200 MW) dams on the Great Ruaha River. 
+One of the challenges for hydropower development 
+in Tanzania is the geographical distance between 
+hydropower sites and major demand centres. While the 
+former are located mainly in the southwest, the bigger 
+and more commercial cities are the major demand 
+centres, and these are in the north, northwest and 
+east. Tanzania has abundant hydropower resources 
+which could play a significant role in its future energy 
+development. It could provide an excellent backup 
+to other renewables and store large quantities of 
+intermittently generated electricity from solar and wind. 
+For energy security, it could provide peaking power and 
+also generate large amounts of power at least during 
+the rainy season.
+The Electricity Supply Industry Reform Roadmap targets 
+an additional capacity of 1,529 MW to be installed by 
+2025 to bring the total to 2,091 MW. Taking into account 
+planned capacity additions, large hydropower will still 
+represent approximately 20% of the installed capacity 
+after 2025, with risks of supply disruptions due to 
+recurring droughts. 
+Small hydropower
+Although assessments show an overall potential of 
+480 MW for small hydropower, only 15 MW of small 
+hydropower installations are connected to the grid. 
+Most of the remaining small hydropower installed in the 
+country is owned by private entities. Five sites in the 
+300 - 8,000 kW range are owned by TANESCO. More 
+than 16 are owned by faith-based groups, 29 with a 
+15 - 800 kW capacity range amounting to a total of 2 
+MW (AfDB, 2015). 
+By 2013, 11 projects had signed small power purchase 
+agreement (SPPAs). Of these, four are mini-hydropower 
+projects totalling 20.5 MW, biomass projects totalling 
+(21.6 MW) and solar projects (2 MW) (MEM, 2013b). 
+TANESCO has also signed Letters of Intent for six 
+small hydropower projects with a total capacity of 29.9 
+MW while small hydropower projects are also being 
+developed as isolated mini-grids (see Table 4 below). 
+Developer Ministry of Energy 
+and Minerals 
+Rural Energy Agency, 
+Global Village Energy 
+Project and World Bank
+EU UNIDO*
+Sites
+Morogoro, Iringa, Njombe, 
+Mbeya, Ruvuma, Rukwa, 
+Katavi, Kagera
+6 hydropower 
+mini-grids Yovi
+Six mini-grids based 
+on mini/microhydropower
+Capacity 7.5 MW 1 - 2.3 MW
+Table 4: Overview of small hydropower projects in Tanzania
+*United Nations Industrial Development Organization
+Source: MEM, 2015
+Geothermal energy
+Tanzania lies within the East African Rift System. Several 
+reconnaissance surveys, hot spring and geothermal 
+site assessments have been carried out in the country 
+since 1949. These studies of geothermal sites included 
+measurements of surface temperature, water and gas 
+flow as well as analysis of water and gas in the hot 
+springs (Mayalla et al., 2011). 
+The country established the Tanzania Geothermal 
+spearheading domestic geothermal development 
+since 2013. Since then, a number of exploration 
+studies on geothermal energy are in progress at 
+different levels in different geothermal sites. The 
+most researched site is Ngozi prospect. This is 
+now at the detailed exploration stage, refining the 
+geothermal conceptual modal and locating the drilling
+targets for exploration wells expected to be drilled
+by 2017. Most of the other geothermal prospects in the 
+country are at the reconnaissance stageThe early geothermal studies of surface manifestations 
+across the country indicated the potential for more than 
+5,000 MW in geothermal projects. More than 50 sites 
+have been identified so far and are proposed for more 
+detailed investigation, mainly from three regions. These 
+sites are: 
+• the Northern Zone (Kilimanjaro, Arusha and Mara 
+region) 
+• the Southern Zone (Rukwa and Mbeya region)
+The Japan International Cooperation Agency will 
+evaluate the resource further by supporting satellite 
+imaging and the identification of resources at sites 
+with high potential. It will then select from between 
+three and five fields for further in-depth investigation. 
+Pre-feasibility studies based on conceptual models 
+of the field will be carried out, along with suitability 
+• the eastern coastal belt, which is associated with 
+rifting and magmatic intrusion (the Rufiji Basin) and 
+the Luhoi Spring site, with potential for 50 - 100 MW.
+Tanzania does not have any geothermal power 
+generation facilities, and there is no commercial usage 
+of geothermal water. However, there is potential to 
+harvest the resource for domestic to industrial heating 
+once it is brought to the surface (Mnjokava, 2014).
+Figure 9a: Location of geothermal prospects in Tanzania 
+Source: Tanzania Geothermal Development Company (2015)
+Northern
+Volcanic
+Region
+Rungwe
+Volcanic
+Region
+assessments based on project economics and 
+environmental and social factors. An exploratory welldrilling programme will be prepared for promising sites, 
+and test well drilling will take place with the support 
+of the Scaling Up Renewable Energy Program of the 
+World Bank. Resource confirmation will be followed by 
+feasibility studies (AfDB, 2015).Figure 9b: Tanzania
+s geothermal resources 
+Figure 10: Wind map of Tanzania
+Source: Tanzania Geothermal Development Company (2015)
+Geothermal Prospects Estimated 
+potential 
+(MW)
+Northern Volcanic region: 1,000
+Lake Natron, Manyara, Eyasi, Mt. 
+Meru, Ngorongoro in Arusha - 
+Kilimanjaro region 
+Mtagata - Kagera, Iringa, Tanga >1,000
+(Amboni), Kigoma, Maji Moto in 
+Kavati region, Rock of Hades in 
+Rukwa; and Ushirombo in Geita 
+region:
+Central Zone: 500
+Dodoma, Singida and Shinyanga
+800 Nyasa - Mbeya - Rukwa Zone
+Kisaki in Morogoro region 600
+Luhoi, Utete in Coast region 600
+Maji Moto in Mara region 500
+Mt. Meru
+Natron
+Luhoi
+Kisaki
+Ngozi
+Wind Speed at 50m m/s
+Tanzania 2km 2005 - 2015 WBG
+3 -3.23 m/s
+3.23 - 3.47 m/s
+3.47 - 3.7 m/s
+3.7 - 3.93 m/s
+3.93 - 4.17 m/s
+4.17 - 4.4 m/s
+4.4 - 4.63 m/s
+4.63 - 4.87 m/s
+4.87 - 5.1 m/s
+5.1 - 5.33 m/s
+5.33 - 5.57 m/s
+5.57 - 5.8 m/s
+5.8 - 6.03 m/s
+6.03 - 6.27 m/s
+6.27 - 6.5 m/s
+6.5 - 6.73 m/s
+6.73 - 6.97 m/s
+6.97 - 7.2 m/s
+7.2 - 7.43 m/s
+7.43 - 7.67 m/s
+7.67 - 7.9 m/s
+7.9 - 8.13 m/s
+8.13 - 8.37 m/s
+8.37 - 8.6 m/s
+8.6 -8.83 m/s
+8.83 - 9.07 m/s
+9.07 - 9.3 m/s
+9.3 - 9.53 m/s
+9.53 - 9.77 m/s
+9.77 - 10 m/s
+Wind
+Tanzania is blessed with strong wind resources, which 
+attain speeds of between six and eight metres per 
+second (m/s), particularly in escarpment areas around 
+the Rift Valley and along the coastal areas (see Figure 
+10 and Figure 11).Several studies have been in progress for a number of 
+years, including an investigation programme sponsored 
+by the Ministry of Energy and Minerals, TANESCO and 
+TaTEDO with technical and financial support from the 
+Denmark National Laboratory (RISØ), and the Danish 
+International Development Agency (DANIDA). These 
+TANESCO and the Ministry of Energy and Minerals are 
+leading wind resource assessments in Mkumbara, Karatu, 
+Gomvu, Litembe, Makambako, Mgagao and Kititimo, 
+while the Rural Energy Agency is supporting wind 
+measurements on Mafia Island. Wind measurements at 
+30 m are available from TANESCO for the three sites of 
+Makambako, Mwanga and Singida. Singida is where the 
+country’s first ever large-scale wind power plant is being 
+built, with a capacity of 100 MW. When the study report 
+was issued in 2005, measurements had been taken for 
+the high wind season. The results showed average wind 
+speeds of 10-11 m/s, thus confirming the previous results 
+from the DANIDA project. 
+The latest resource assessment initiatives include the 
+preliminary findings from the World Bank Energy Sector 
+Management Assistance Program (ESMAP) renewable 
+energy resource mapping project. The initial results were 
+based on global datasets and satellite analysis and show 
+high wind power potential over more than 10% of the 
+organisations have made major efforts to assess wind 
+resources and undertake investment feasibility for 
+harnessing wind energy. This investigation ended 
+in 2003 (DANIDA/IS, 2003) and presented specific 
+locations for which it produced detailed information. 
+This is described in the table below.
+Table 5: Wind resources in Tanzania
+Source: German Technical Cooperation Agency (Deutsche Gesellschaft für Technische Zusammenarbeit), 2009b
+Site Study 10 m wind speed 
+(m/s)
+30 m wind speed 
+(m/s)
+Makambako Original Wind East 
+Africa 7.6 8.7
+Singida Wind East Africa 8.2 9.4
+Karatu (Arusha) DANIDA/Risø/
+TANESCO 4.9 5.5
+Mkumbara (Tanga) DANIDA/Risø/
+TANESCO 4.14 4.9
+Gomvu (Kigamboni) DANIDA/Risø/
+TANESCO 3.56 4.28
+Litembe (Mtwara) DANIDA/Risø/
+TANESCO 3.21 4.47
+country. This is an area comparable to the size of Malawi 
+(World Bank, 2015b). 
+Moreover, the International Renewable Energy Agency 
+(IRENA) and the Lawrence Berkeley National Laboratory 
+(LBNL) have developed a methodology for renewable 
+power development within the Africa Clean Energy 
+Corridor, an initiative in which Tanzania is a participant. 
+The approach combines geospatial, statistical, energy 
+engineering and economic methods to comprehensively 
+identify and value high quality wind zones for grid 
+integration based on technoeconomic criteria, generation 
+profiles, and socioenvironmental impacts. 
+Geo-referenced PDF maps are one of the key outputs of 
+that study, embedding both the visual content as well 
+as the attribute values of each zone. A snapshot of the 
+interactive map is presented in Figure 11 below for wind 
+zones and shows the highest potential and most costeffective zones for Tanzania. Figure 11: Wind energy zones in Tanzania
+Figure 12: Global solar irradiation in Tanzania
+Source: IRENA-LBNL (2015); for more on IRENA-LBNL zoning study: mapre.lbl.gov
+Potential photvoltaic electricity
+production kWh/kWp World 
+1km 1994/1996/2006-2015
+1.9 - 2.14 kWh/kWp
+2.14 - 2.36 kWh/kWp
+2.38 - 2.63 kWh/kWp
+2.63 - 2.87 kWh/kWp
+2.87 - 3.11 kWh/kWp
+3.11 - 3.35 kWh/kWp
+3.35 - 3.59 kWh/kWp
+3.59 - 3.83 kWh/kWp
+3.83 - 4.08 kWh/kWp
+4.08 - 4.32 kWh/kWp
+4.32 - 4.56 kWh/kWp
+4.56 - 4.8 kWh/kWp
+4.8 - 5.04 kWh/kWp
+5.04 - 5.28 kWh/kWp
+5.28 - 5.53 kWh/kWp
+5.53 - 5.77 kWh/kWp
+5.77 - 6.01 kWh/kWp
+6.01 - 6.25 kWh/kWp
+6.25 - 6.49 kWh/kWp
+6.49 - 6.73 kWh/kWp
+6.73 - 6.98 kWh/kWp
+6.98 - 7.22 kWh/kWp
+7.22 - 7.45 kWh/kWp
+7.46 - 7.7 kWh/kWp
+Solar
+Tanzania’s annual solar resources exceed 5 kWh/m2 
+per day throughout the country. Insolation is generally 
+higher and more consistent in the Lake Victoria basin 
+and along the coast. However, in the elevated areas 
+around Moshi and Arusha, and in Iringa and further 
+south, insolation is considerably reduced (i.e. less than 
+4 kWh/m2
+ per day) during the cloudy season. This is 
+between May and August (see Figure 12). The preliminary results from the renewable mapping 
+project carried out by the World Bank Energy Sector 
+Management Assistance Program, as well as the IRENALBNL study, both show that Tanzania has a good store 
+of solar resources (Figures 13 and 14).
+Figure 13: Concentrated solar power zones in Tanzania
+Figure 14: Solar PV zones in Tanzania
+Source: IRENA-LBNL (2015); for more on IRENA-LBNL zoning study: mapre.lbl.govTanzania’s PV consumer market started evolving in the 
+early 2000s due to the capacity developed by NGOs and 
+the formation of the Tanzania Solar Energy Association, 
+which is now called TAREA. The private market has 
+evolved from an installed capacity of 300 kilowattpeak in the late 1990s to just over 5 MW in small-scale 
+installations in 2012 (Hansen, Pedersen and Nygaard, 
+2014). During this development, annual sales grew 
+from 70 kilowatt-peak in 2002 to 2 MW in 2011. They 
+are thought to have been higher in 2012 and 2013 due 
+to favourable policy developments, support schemes 
+and the rapid reduction of costs for solar PV in offgrid locations.11 The increased sales in off-grid markets 
+are also a result of increased consumer awareness and 
+buying power. Equally, sales have been influenced by 
+the government’s recognition of the potential role of 
+solar PV in the electrification of large economically 
+active parts of the country. The grid would otherwise 
+take a much longer time to reach these areas. 
+Solar home systems and small-scale commercial 
+systems amount to around 75% of installed PV capacity 
+in Tanzania and therefore contribute the most to the 
+country’s solar market (Ondraczek, 2013). By the 
+end of 2008, 40,000 solar home systems had been 
+installed, and their annual sales amounted to 4,000 
+- 8,000 (Hansen, Pedersen and Nygaard, 2014). The 
+remaining 25% of installed PV capacity mainly consists 
+of PV systems in schools, health centres, missions 
+and government offices, and to a minor extent in the 
+telecommunications and tourism sectors (Hansen, 
+Pedersen and Nygaard, 2014). There is some application 
+of solar PV electricity for productive use. Examples 
+include pineapple processing by Matunda Mema (T) 
+(in Karagwe District), gold processing by New Luika 
+Mines (in Mbeya District) and Geita Gold Mine (in Geita 
+District), and timber machining by Sao Saw Mill.
+There are currently no grid-connected PV generation 
+plants in Tanzania. However, grid-connected solar PV 
+is increasingly viewed as a promising replacement 
+for thermal power generation in remote mini-grids. 
+Nevertheless, no large investments have taken place 
+yet. There is growing interest in small and large 
+projects involving connection to the main grid but 
+these discussions are still only at a preliminary stage 
+(Deutsche Auslandshandelskammer, 2013).
+Biomass
+Biomass energy is major renewable energy resource 
+used in a traditional way by almost all households, 
+institutions and small and medium-sized enterprises 
+in Tanzania. Biomass energy is mostly used for heat 
+production and as fuel for cooking in Tanzania. Figures 
+on dependence on woodfuel for cooking range from 
+more than 73% to 90% (World Health Organization, 
+Global Environment Facility and United Nations 
+Development Programme, 2009). More than 90% 
+of biomass demand is for household consumption 
+(firewood, charcoal, crop residues). The rest of biomass 
+demand is for commercial, institutional and industrial 
+sectors (10%). Annual consumption of charcoal in 
+Tanzania stands at one million tonnes per year and is 
+growing fast, contributing to more than nine million 
+tonnes of CO2 and depletion of more than 300 hectares 
+of natural forest per day. Change of land use and 
+deforestation also accounts for 58% of the country’s 
+total greenhouse gas emissions. Growing demand is 
+driven by rapid urbanisation and high relative prices 
+or scarcity of energy substitutes, particularly kerosene, 
+electricity, biogas, biomass briquettes and liquefied 
+petroleum gas. The Biomass Energy Strategy report 
+baseline projections show that without supply-side and 
+demand-side interventions, demand for charcoal will 
+double by 2030 from approximately 2.3 million tonnes 
+in 2012 (CAMCO Clean Energy, 2014). 
+The initiatives supporting increased access to clean 
+cookstoves or fuels have been scattered. They were 
+launched in the 1980s by the Ministry of Energy and 
+Minerals and carried out by TaTEDO, which has been 
+playing a leadership role and supporting the coordination and sustainability of efforts. Since much higher 
+total energy consumption is expected in future, reducing 
+total firewood and charcoal use by improving cookstoves 
+would have a positive impact on deforestation. 
+11 The mini-grid market segment in Tanzania is also limited,
+and little is known about it. No agency currently keeps 
+track of the deployment of specific PV systems.
+ograph: ShutterstockFigure 15: Woodfuel resource density in Tanzania in tonnes per hectare 
+Source: Food and Agriculture Organization of the United Nations (2010)
+Woody biomass t/ha
+0.1 - 5
+6 - 10
+11 - 20
+21 - 50
+51 - 100
+101 - 200
+201 - 300
+301 - 400
+401 - 700
+Kilometers
+0 145 290 580
+Commercial biomass energy12 is a major energy and 
+income revenue source for rural and urban livelihoods. 
+Charcoal and commercial woodfuel (firewood) 
+amounted to approximately USD 1 billion in revenues 
+for a large portion of the rural and urban producers, 
+transporters and wood energy sellers in 2012. 
+Commercial biomass energy is the largest source of 
+revenue in rural areas (CAMCO Clean Energy, 2014).
+Biogas was introduced by the Small Industries 
+Development Organization in 1975, with a number of 
+other NGOs promoting use of the technology. However, 
+the Centre for Agricultural Mechanization and Rural 
+Technology, later in co-operation with the German 
+Cooperation, accelerated awareness and technology 
+dissemination, especially in northern Tanzania. The 
+Tanzania Domestic Biogas Programme started in 2009, 
+and its first phase finished in 2013 with the installation 
+of 8,799 biogas plants. The second phase started in 
+2014 and will end in 2017. The two phases are aiming 
+to erect 20,700 plants altogether. The programme is 
+hosted in the Centre for Agricultural Mechanization 
+and Rural Technology and receives technical assistance 
+from SNV Netherlands Development Organisation. It 
+is part of the Africa Biogas Partnership Programme 
+managed by Hivos with funding from the Netherlands 
+Directorate for Development Cooperation (Directoraatgeneraal Internationale Samenwerking).
+With more than 17,000 hectares of sugarcane 
+plantations along with forest and agricultural residues, 
+there is estimated co-generation potential of more than
+country’s power generation. Energy generation 
+potential from excess bagasse in sugar mills is about 
+99 GWh per year – 3% of national electricity generation 
+MEM, 2013b). Two private companies currently supply 
+TANESCO with biomass generation: Tanganyika 
+Planting Company (a major sugar producer) supplies 
+3 MW while Tanzania Wattle Company (a tannin 
+producer) has an SPPA for 1.5 MW. 
+Driven by high oil prices, energy security concerns and 
+global climate change, demand for biofuels has been 
+increasing and has found its way onto the agricultural 
+development, energy policy and natural resource 
+management agendas. The Government of Tanzania 
+made its interest in biofuel developments explicit in 
+2005 at the time of a GIZ study on liquid biofuel for 
+transportation in Tanzania. This reviewed the potential 
+of the biofuel subsector in the country and the 
+importance of developing biofuels, with an emphasis on 
+biodiesel and bioethanol. The study proposed a biofuel 
+development institutional structure. It suggested that 
+the Ministry of Energy and Minerals could facilitate 
+the formation of the National Biofuel Task Force, 
+National Biofuel User Association and the Biofuel 
+Policy. Different stakeholders were engaged in liquid 
+biofuel development, including the sector-oriented 
+ministries, civil society organisations, the private sector, 
+multinational companies and individuals. Some of the 
+initiatives established were biofuel rural electrification 
+and biofuel outgrower schemes.
+12 Thtil biftbiRenewables, including off-grid
+solutions, can help meet rising 
+urban energy needsSolar PV off the main grid3. ENABLING 
+ENVIRONMENT
+FOR RENEWABLE 
+ENERGY
+3.1 Key energy stakeholders and institutional set-up
+The energy sector in Tanzania comprises governmental institutions, private 
+sector operators, NGOs and a parastatal and vertically integrated power 
+utility, TANESCO.
+Government/public sector institutions
+• Ministry of Energy and Minerals: this has the overarching role of overseeing 
+policies, strategies and laws within the areas of energy and mineral 
+resource management. The ministry’s stated vision is to be “an effective 
+institution contributing significantly to the acceleration of socioeconomic 
+development through sustainable development and utilisation of energy 
+and mineral resources in Tanzania by 2025”. Its tasks also include planning, 
+capacity development and financial resource mobilisation.
+• Tanzania Electric Supply Company Limited (TANESCO): this is a 
+parastatal institution within the Ministry of Energy and Minerals and is 
+in charge of power generation, transmission and distribution. It is the 
+main power utility company in the country and provides about 60% of 
+the effective generating capacity of the national grid. It supplies power 
+directly to mainland Tanzania and to Zanzibar Electricity Corporation. 
+Its mission is to generate, transmit and supply electricity in the most 
+effective, competitive and sustainable manner possible. 
+• Energy and Water Utilities Regulatory Authority (EWURA): this is an 
+autonomous regulatory body set up in 2006 that oversees the technical 
+and economic regulation of the energy and water sectors. Its tasks consist 
+of regulating power retail tariffs, awarding licences and monitoring and 
+enforcement activities. 
+• Rural Energy Agency: this was founded in 2005 as part of the Rural 
+Energy Act to support the Government of Tanzania’s endeavours to 
+accelerate access to rural areas. It is an autonomous body under the 
+Ministry of Energy and Minerals and its task is to deal with rural access by 
+co-financing rural electrification programmes implemented by relevant 
+actors.
+• Tanzania Investment Centre: this had the mandate of becoming “the 
+primary agency of the government to co-ordinate, encourage, promote, 
+and facilitate investment in Tanzania”. Although not mandatory, the 
+centre is promoted as a one-stop shop for new local and foreign investors 
+because of the incentives offered to projects it approves.
+• Tanzania Geothermal Development Company: this is a subsidiary 
+company of TANESCO and became operational in July 2014 with a 
+mandate to be at the forefront of geothermal development in Tanzaniaconcerned with enabling and supportive policies 
+and regulations that would accelerate geothermal 
+development in the country. The company is keen 
+to develop the country’s geothermal roadmap and 
+development plan.
+Private sector institutions
+• Emergency power producers and IPPs: these are 
+private investors owning power plants of more 
+than 10 MW and contributing 40% of the installed 
+electricity capacity. Current players include Songas, 
+Independent Power Tanzania Limited (IPTL), 
+Symbion Arusha, Aggreko and Symbion Dodoma. 
+All these companies have thermal stations that 
+operate with diesel, gas or heavy fuel oil.
+• Small power producers: these are private 
+companies operating small renewables-based 
+power projects (up to 10 MW) under an SPPA to sell 
+power to TANESCO or directly to customers. Many 
+of the small power producers also operate in other 
+business areas such as tea and sugar. The small 
+power producers include Mwenga Hydropower, 
+Mufindi Paper Mills, TANWATT, Texpol Company, 
+Ngombezi (Mafia) etc. 
+• Private solar energy companies: most of these 
+companies are organised under the Tanzania 
+Renewable Energy Association but work 
+independently in solar PV installation, importing 
+and selling solar PV products. These companies 
+include ENSOL, Sustainable Energy Services 
+Company (SESCOM), Ashton Energy, Zara Solar, 
+Alternative Energy, Step Solar, Solar Sisters, Resco, 
+Davis and Shirtliff, Rex Energy, Baraka Solar, Anchor 
+Power, Photons Energy etc.
+• Private biomass energy companies: these are 
+companies engaged in the fabrication and supply of 
+improved and clean woodfuel cookstoves. Among 
+these companies are the Sustainable Energy and 
+Enterprise Company, ARTI Energy, Husk Power 
+Systems, INVOTECH, Green Resources, Sugar 
+Companies (Illovo-Kilombero, Tanzania Plantation 
+Company, Mtibwa and Kagera), Centre for 
+Agricultural Mechanisation and Rural Technology, 
+Tanganyika Wattle Company (TANWAT), Sao Hill 
+Sawmill Industries/Green Resources, East African 
+Briquette Company, Tanga, Kilimanjaro Industrial 
+Development Corporation, Mena Wood Briquetting, 
+SIMGAS, Katani, Biomass Energy Tanzania etc.
+Academic and research institutions 
+• Capacity-building for people working in the 
+energy sector is offered at various universities and 
+research and training institutions in Tanzania. These 
+institutions include Arusha Technical College, Dar 
+es Salaam Institute of TechnologyMbeya Institute 
+Salaam, University of Dodoma and organisations 
+within the Vocational Education Training Authority 
+(Mafinga Lutheran Vocational Training Centre, 
+Legeruki Lutheran Vocational Centre, Hai Vocational 
+Training Centre, Mobisol Academy and M-Power 
+Academy).
+• Research and development efforts to stimulate 
+energy innovation are important pillars of 
+development in the energy sector. Although the 
+energy policy stipulates a requirement for research, 
+the country does not have specific institution for 
+energy research. Research studies are conducted 
+by consultancies commissioned by different 
+stakeholders, such as the Economic and Social 
+Research Foundation, Costech, Geological Survey 
+of Tanzania, Nishanti Associates, Research on 
+Poverty Alleviation, TaTEDO, Institute of Resource 
+Assessment, Sokoine University of Agriculture etc.
+Most of the research studies cover policy development 
+and also the production and use of renewable energy 
+such as bioethanol as a fuel for domestic and industrial 
+uses. Equally, they deal with the renewable energy fuel 
+value chain, liquid biofuel feedstock production etc.
+Civil society organisations 
+Civil society organisations in the renewable energy 
+sector include NGOs, faith-based organisations and 
+renewable energy networks. Various NGOs and faithbased organisations promote access to sustainable 
+and renewable energy. The faith-based organisations 
+include missionaries who installed mini-grids as far 
+back as 1928. Up until now, many mini-hydropower 
+plants have been owned, operated and managed by 
+faith-based organisations. The two main networks 
+in Tanzania are the Tanzania Renewable Energy 
+Association and the National Gender and Sustainable 
+Energy Networks. TaTEDO is a national NGO that 
+has been advocating sustainable energy access for 
+over two decades. Other NGOs include AMKA Trust, 
+CARE-Tanzania, Clean Cookstoves and Fuel Alliance 
+of Tanzania, Tanzania Forest Conservation Group, SNV 
+Netherlands Development Organisation (Tanzania), 
+Voluntary Service Overseas (Tanzania), NORGES VEL, 
+Tanzania Renewable Energy Incubator, Energy Lab, 
+Same/Mwanga Environmental Conservation Advisory 
+Organization and WWF (Tanzania). 
+Local government authorities 
+Local government authorities in Tanzania have 
+experience of off-grid production and distribution 
+of energy in their own (mostly urban) areas using 
+decentralised energy systems and mini-grids. For 
+instance, the local government authority in Mbarari, 
+Mbeya used small hydropower to supply electricity 
+to Mbarali Township. Few district councils generate 
+electricity using thermal generators. Most largely rely power in their urban areas. By the end of November 
+2014, only 12 district headquarters had not yet been 
+electrified, namely Bukombe, Kasulu, Kilinda, Kilolo, 
+Ludewa, Namanyere, Namtumbo Ngara, Ngorongoro, 
+Serengeti, Ukerewe, and Utete. Around 30 MW of 
+thermal generation is in isolated off-grid areas. There 
+is a need for intensive strategies to expand energy 
+generation to different sources by local government 
+authorities.
+3.2 Energy policies and regulatory 
+framework
+Tanzania formulated the first version of the National 
+Energy Policy in 1992, which was subsequently 
+revised in 2003. This spearheaded development in 
+the energy sector by aiming to align itself with crosscutting macroeconomic objectives and by promoting 
+the involvement of the private sector in energy. The 
+implementation of the National Energy Policy yielded 
+the enactment of the Rural Energy Act 2005 leading 
+to the foundation of the Rural Energy Agency and the 
+Rural Energy Fund in 2007. This had been preceded 
+by the establishment of EWURA in 2006 as well as 
+the Electricity Act 2008, the Petroleum Act 2008 and 
+the adoption of the Standardised Power Purchase 
+Agreement and Tariffs, also in 2008. The National 
+Energy Policy document was again revised in 2015 
+and included more aggressive approaches to easing 
+the entry of the private sector and alternative energy 
+technologies (MEM, 2015). The renewable energy 
+sector in Tanzania is guided by a number of polices 
+and legislation shown in Table 6. These are divided into 
+general guidelines; electricity sector; renewable energy 
+sector; tariffs and strategies.
+General Status Description of policy/strategy
+National Energy 
+Policy 2015
+In place
+Published in 2015
+By ensuring an efficient and sustainable energy value chain 
+which includes production, procurement, transportation, 
+distribution and end-use systems, the National Energy Policy 
+aims to ensure the provision of reliable and affordable energy 
+in Tanzania.
+Electricity Supply 
+Industry Reform 
+Strategy and 
+Roadmap 
+2014 - 2025
+Published on 30 June 2014
+The Electricity Supply Industry Reform Strategy and Roadmap 
+aims for more efficiency as well as an improvement of the 
+quality of services and goods delivered to customers, a sound 
+business environment and the growth of the power sector to 
+allow the country to meet its development targets.
+National 
+Public Private 
+Partnership 
+Implementation 
+Strategy
+To be covered in Electricity 
+Supply Industry Reform 
+Strategy and Roadmap
+This strategy provides an important instrument for attracting 
+investments and effectively resolving managerial, financial 
+and maintenance issues related to public goods and services. 
+The implementation of the strategy will enable the 
+Government of Tanzania to efficiently deliver socioeconomic 
+goods and services.
+Ministry of Energy 
+and Minerals 
+Three-Year 
+Strategic Plan
+In place (2011/12–2015/16)
+Published November 2012
+This plan provides strategic direction, guiding the 
+implementation of the ministry’s plan and budget. 
+National 
+Investment 
+Promotion Policy
+1996 Encourages investment in all feasible sources, with a focus on 
+domestic resources.
+Electricity sector
+Electricity Act 
+2016 Draft This act, which is being drafted, includes more options for renewables.
+Electricity Act 
+2008 In effect
+This act provides for the facilitation and regulation of 
+generation, transmission, transformation, distribution, supply 
+and use of electric energy as well as cross-border trade in 
+electricity and rural electrification planning and regulation.
+Table 6: Policies and legislation which affect the renewable energy sectorElectricity sector
+Rural Energy Act 
+2005 In effect This act facilitates the establishment of the Rural Energy Board, the Rural Energy Fund and Rural Energy Agency.
+Power System 
+Master Plan
+In effect; the 2012 update was 
+issued in May 2013
+The overall objective of the plan is to reassess short-term 
+(2013 - 2017), mid-term (2018 - 2023) and long-term (2024 
+- 2035), generation, transmission plan requirements as well 
+as the need to connect currently off-grid regions, options for 
+power exchanges with Ethiopia (through Kenya), Zambia, 
+Uganda, Rwanda, Burundi and Mozambique, and increased 
+supply of reliable power. 
+Rural Energy 
+Strategy
+Draft Rural Energy Prospectus 
+ready
+The strategy intends to provide direction for bridging the 
+energy access gap in rural parts of Tanzania.
+Rural 
+Electrification 
+Master Plan
+Due to follow the Rural Energy 
+Strategy
+The Rural Energy Master Plan aims to promote decentralised 
+power generation from renewable sources in rural 
+electrification efforts. 
+ Renewable energy sector
+Environmental 
+Management Act 
+2004 
+In effect
+This comprehensive piece of legislation represents the main 
+legal and institutional framework governing sustainable 
+environmental management in Tanzania. It includes incentives 
+as well as mechanisms to ensure adequate environment 
+management at all levels of governance in a way that 
+includes villages and districts in the national environmental 
+management framework.
+Biofuels Policy Draft policy under approval
+This document provide direction for developing liquid biofuels 
+in Tanzania by giving proper guidelines to stakeholders 
+interested in investing in liquid biofuels in the country.
+Biomass Energy 
+Strategy Draft strategy under approval
+With the objective of ensuring the implementation of an 
+enabling institutional framework, this strategy aims to uncover 
+sustainable supply pathways for biomass energy while at the 
+same time addressing energy access and energy efficiency in 
+the biomass energy subsector.
+Tariffs
+Energy and 
+Water Utilities 
+Regulatory 
+Authority Act 
+2001 
+In effect
+This act aims to set up a central regulatory authority for 
+water and energy utilities, which was concretised by the 
+establishment of EWURA in 2006.
+Feed-in tariff 
+policy
+Consultancy final report on 
+Renewable Energy Feedin Tariff (REFIT) submitted 
+to EWURA and waiting for 
+endorsement before policy 
+preparation
+The policy expects to promote a multi-player renewablesbased power generation market by establishing a fixed tariff 
+for a certain period. The policy was launched to provide 
+security and confidence to investors in renewables-based 
+power generation.
+Small Power 
+Producers 
+Framework
+2nd Generation framework in 
+application since April 2015 
+This framework aims to stimulate the increased involvement 
+of private actors in the development of small renewable 
+energy installations (less than 10 MW) in Tanzania. To reach 
+that objective, the framework clarifies tariffs and outlines 
+incentives and tools to mitigate the risks often encountered 
+during small-scale projects. 
+Table 6: Policies and legislation which affect the renewable energy sector - CONTINUED3.3 Financing and investment
+Foreign direct investment is critical to energy 
+infrastructure, especially in developing countries such 
+as Tanzania. In 2013, Tanzania received the highest total 
+foreign direct investment in the East African Community, 
+amounting to USD 1.87 billion. This was primarily due 
+to the gas and mineral sectors. The total injected 
+into the East African Community region amounted to
+USD 6.2 billion (United Nations Conference on Trade 
+and Development, 2014).
+Between 1997 and 2014, Tanzania accommodated 12 
+projects funded by foreign direct investment in the energy 
+sector – 11 in electricity and one in natural gas. The total 
+sum invested amounted to USD 960 million, of which
+USD 644 million was directed at electricity (World Bank, 
+2016). This was exclusively aimed at IPPs and emergency 
+power producers using thermal generation (principally 
+through natural gas). New foreign direct investment 
+directed at the renewable energy sector is accounted for 
+in the Scaling Up Renewable Energy Program and in the 
+Electricity Supply Industry Reform Roadmap. 
+Within the same framework for attracting more private 
+involvement in the power sector, a feed-in tariff scheme 
+was put in place in 2008 for small power producers 
+(100 kW to 10 MW) in Tanzania. SPPAs for small power 
+projects were approved in 2009 for mini-hydropower, 
+biomass, solar PV and wind. Flaws have been observed 
+in the implementation of the SPPAs, namely the 
+unattractive tariffs based on avoided costs; the payment 
+of small power producer tariffs in local currency; and 
+the relatively short term of the SPPA (15 years). This 
+made it rather difficult for the local private sector to 
+make use of SPPAs and did not significantly increase 
+the penetration of renewable energy technologies. 
+Under the first generation SPPA, EWURA only approved
+40.1 MW of SPPAs with biomass (15.6 MW), solar
+(2 MW) and hydropower plants (22.5 MW). A second 
+generation SPPA was therefore approved in 2015. It 
+provides for a fixed tariff in US dollars for the duration 
+of the SPPA (up to 25 years) by size for hydropower and 
+biomass regardless of the location, instead of annual 
+tariffs in local currency. For solar and wind, the tariffs 
+will be defined through competitive bidding to allow 
+the users to benefit from technology cost reduction. 
+In addition, the Rural Energy Agency provides grants 
+for qualified project developers through the Rural 
+Energy Fund, Resourced through governmental annual 
+budgetary allocation, contribution from international 
+partners, levies on the sale of electricity by the national 
+utility, and also through Special Purpose Funds for rural 
+energy by development partners, the Rural Energy 
+Fund provides money in the following forms:
+• grants towards the capital costs of projects
+• capacity-building activities in relation to planning 
+and project preparation
+• financial assistance e.g. for co-financing investment 
+in innovative projects related to the objects of 
+Special Purpose Funds created by development 
+partners.
+Meanwhile, the Tanzania Investment Centre offers 
+certificates for incentives and investment guarantees, 
+and registers technology agreements for investments 
+worth more than USD 300,000 (foreign investors) and 
+USD 100,000 (local investors). It also assists in the 
+removal of bottlenecks to establishing and running 
+businesses by bringing together relevant government 
+agencies in a one-stop shop. Energy is among the 
+priority investment areas for which, among other 
+incentives, the following are offered to encourage 
+investment:
+• import duty exemption on various goods, including 
+wind generators, solar PV and thermal equipment
+• zero duty on imported raw materials for the local 
+production of deep cycle batteries and solar PV 
+equipment 
+• zero rated value-added tax on exports.
+Moreover, the Tanzania Investment Act 1997 provides 
+the following incentives to all holders of certificates of 
+incentives: 
+• 0% duty and value-added tax relief on all capital 
+goods
+• 30% corporate tax (25% for listing company on the 
+stock exchange)
+• 10% withholding tax on dividends
+• 10% withholding tax on interest.
+Moreover, with the support of international partners, 
+Tanzania’s financial system actors are increasingly 
+considering opportunities to provide financing for 
+renewable energy and energy efficiency projects. Rural 
+and urban entrepreneurs with a courageous spirit can 
+approach these macro- and microfinancial institutions, 
+and obtain finance for launching and developing 
+renewable energy projects.Solar PV off the main grid4. EMERGING 
+ISSUES AFFECTING 
+RENEWABLE ENERGY
+DEPLOYMENT 
+Challenges and opportunities for the renewables sector in Tanzania are explored 
+in this section. The development of the renewable energy market is largely 
+subject to the country’s natural resource assets and corresponding technologies 
+which convert energy sources into services. This section is thus divided into 
+subsections covering different resources, policy and regulatory frameworks, 
+private sector involvement, and human capacities and skills for developing the 
+existing renewable energy resources. In each subsection, the status of each 
+particular subsector is reviewed followed by matters that need to be resolved.
+4.1 Resource assessment and planning
+Although Tanzania’s potential renewable energy resource is considerable, the 
+Electricity Industry Reform Roadmap takes into account less than 5% of the 
+non-hydropower renewables that could be connected to the grid. This rather 
+low target could be attributed to a number of factors. One important factor 
+is a general lack of information on the technical and economic potential 
+of different renewable energy resources in the country. This has led to 
+inadequate target-setting and planning, and decisions biased towards more 
+conventional generation sources, such as coal, gas and large hydropower, in 
+which the country has solid experience. 
+As indicated in Section 2.4, a number of country assessments of the renewable 
+energy resource have been carried out. However, in many cases this data 
+lacked further analysis to determine the technoeconomic potential of power 
+generation from these sources. For example, available resource information 
+for geothermal power generation is limited to preliminary studies of surface 
+temperature, water and gas sampling and analysis of hot springs which date 
+back to the 1950s. For power generation from biomass, there is no estimation 
+of the potential attributed to different crops. Until recently, wind speed data 
+were only available for a small number of stations at heights of under 10 m. 
+Yet data for heights of 50 - 100 m are required for large-scale wind energy 
+applications. For solar, no estimates have been taken on the potential for 
+PV or concentrated solar power (CSP) power generation, nor how much is 
+technically or economically feasible.
+To enable policy makers, project developers and other interest groups to 
+make balanced decisions on large-scale renewable energy development, 
+further analysis of these resource assessments is required. This needs to 
+evaluate the quality of renewable resources from a technical and economical 
+point of view. In addition, other criteria should also be considered. These 
+include, for example, grid operability (temporal correlation between 
+electricity generation and system demand at a particular site), transmission 
+and road infrastructure cost, proximity or overlap with environmentally 
+sensitive areas, and population density. 
+Photograph: E.ON Off Grid Solutions — Rafiki PowerAccording to the zoning methodology in the IRENALBNL study (IRENA and LBNL, 2015), the estimated 
+installed capacity potential for PV, CSP and wind 
+technologies in Tanzania is considerable. This is shown 
+in Table 7. The minimal ambition reflected in the 
+country’s energy targets is not justified given the level 
+of potential shown in estimates of installed wind and 
+solar capacity. The Electricity Industry Reform Roadmap 
+plans for 200 MW of wind and 100 MW of solar PV. 
+The zoning study found that the capacity values of the 
+wind zones identified are very high, which indicates 
+Furthermore, agricultural land was found to comprise 
+about half the wind resource area in Tanzania, implying 
+that land leasing policies could be of importance to 
+high potential and cost-effective wind development. 
+Given that the direct land footprint of a wind turbine 
+is relatively low compared to the entire area of a wind 
+farm (Denholm et al., 2009), dual use of the land for 
+farming and wind generation is preferable from a land 
+use efficiency point of view.13
+Stakeholders are not always aware of all the resource 
+assessment studies being undertaken or how best 
+to use these. Furthermore, the absence of a central 
+repository unit which stores, analyses and advocates 
+the validation of resource assessments means there 
+that the wind generation profiles could contribute 
+significantly to meeting the country’s peak demand. It 
+could thereby contribute to system reliability due to its 
+higher correlation with system demand. Approximately 
+20% of the total installed capacity is emergency oilbased generation at around USD 0.30/kWh. Due to its 
+high capacity value, wind generation has the potential 
+to displace much of this oil-based emergency power 
+and to do so at a third of the cost as the levelised 
+cost of energy (LCOE) for wind lies in the range of
+USD 0.065-10/kWh (see Table 8).
+is a lack of awareness, difficult access and ultimately 
+low use of available information. During the RRA 
+consultation process, stakeholders expressed the need 
+to establish a designated unit in Tanzania which will 
+contain all relevant statistics and resource information 
+on renewables.
+Wind Solar PV Solar CSP
+Resource quality 
+(w/m2) 200 250 300 350 400 230 240 250 260 270 260 270 280 290 300
+Installed capacity 
+potential (MW) 46 900 20 800 9 390 4 570 1 900 59 000 59 000 58 400 50 700 47 200 26 100 21 600 10 500 4 140 5 000
+Planned capacity 200 100 0
+Technology LCOE range (USD/kWh)
+Wind 0.065 – 10.0
+CSP 0.214 – 0.22
+Solar PV 0.118 – 0.14
+Table 7: Estimated installed capacity potential (MW) for wind, solar PV and solar CSP at various thresholds 
+of resource quality
+Table 8: LCOE ranges of renewable energy zones
+Analysis from IRENA-LBNL zoning study (2015)
+Analysis from IRENA-LBNL zoning study (2015)
+13 In an actual sense, land can be leased, but only to local 
+users. Whenever land is leased to a foreign entity, the local
+or central government has to be involved through the 
+Ministry of Lands. If the area required by an investor is 
+below 50 hectares, it can be leased by the village
+government. Land of more than 50 hectares needs a permit 
+from the local or central government land office (through 
+the Ministry of Lands). The land ownership in this case 
+should be changed from village to general land and then 
+leased to the investor.4.2 Planning
+IRENA has devised a power sector investment planning 
+tool for southern African countries. Known as the 
+System Planning Test (SPLAT-S) model, it covers 
+the investment period to 2050. This is a least-cost 
+optimisation model, which enables analysts to assess 
+investment paths to achieve different policy goals. 
+For the purpose of the Tanzania RRA, the scenario was 
+updated to reflect the latest renewable energy cost 
+trends. Moreover, the renewable energy zones identified 
+through the zoning methodology in the IRENA-LBNL 
+Study (IRENA and LBNL, 2015) have been explicitly 
+incorporated in the SPLAT-S model for Tanzania. 
+The assessment presented here is based on certain 
+assumptions, including fuel costs, infrastructure 
+development and policy developments, which were 
+taken from the assumptions primarily in the SAPP 
+According to the Power Sector Master Plan,14 electricity 
+demand in Tanzania is projected to rise from five 
+terawatt-hours today to 24 - 33 terawatt-hours by 2030. 
+Even using the most conservative estimate, the existing 
+capacity and the capacity addition in the pipeline would 
+clearly not be sufficient to meet demand by 2030. 
+IRENA’s costing analysis anticipates that Tanzania could 
+benefit from the global trend of rapid cost reductions 
+in wind and solar power alongside local policies to 
+promote the renewable energy. Given these patterns, it 
+suggests that the levelised cost of electricity generation 
+for grid-connected renewable technologies could be 
+reduced by 17% for biomass, 50% for wind and 36% for 
+solar PV compared to 2013
+Master Plan with some updates from IRENA’s range 
+of evaluations. These may well be different from 
+the perspective of the energy planners in Tanzania. 
+Since our assessment is strongly influenced by these 
+assumptions, IRENA encourages the energy planners 
+in Tanzania to explore different policy assumptions and 
+scenarios needed to justify or to elaborate challenges 
+associated with certain investment decisions.
+The starting point of this analysis is an assessment of 
+current power plants and identification of new scheduled 
+capacity additions already under construction (Figure 
+16), including the retirement schedule for older power 
+plants. According to the latest statistics (2013), the total 
+installed capacity in the Tanzanian power system is
+1,393 MW which includes 832 MW of thermal capacity, from 
+which 454 MW is run on natural gas, 351 MW run on oil and 
+27 MW on biomass plus 561 MW of hydropower. Only small 
+capacities (42 MW gas and 171 MW oil) are expected to be 
+decommissioned within the planning time horizon.
+Figure 16: Retirement schedule of existing plants and plants under construction
+Biomass Coal Hydro Oil Gas
+0
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Operating Capacity (MW)
+2 000
+1 800
+1 600
+1 400
+1 200
+800
+600
+400
+200
+1 000
+In this scenario, three resource zones for wind, solar 
+PV, and CSP (nine renewable energy zones in total) are 
+included in the analysis. For each type of technology, 
+the three “best” zones are identified on the basis of 
+economic criteria alone. This is worked out from the total 
+LCOE of a representative project from each zone, taking 
+into account resource quality, transmission investment 
+needs and road construction needs. The wind zones 
+selected are located in the Iringa province in the centre 
+of the country, as well as the Arusha province in the 
+14 The Power System Master Plan was used for the analysis 
+because it provides more detailed information on 
+additional capacities and their timelines, unlike the 
+Electricity Supply Industry Reform Roadmapnortheast. The selected PV and CSP zones are in the 
+upper central part of the country in Sigida.15 The sum 
+of the maximum output from the three zones is beyond 
+the projected demand for 2030 for each technology.16
+As shown in Figure 17, the installed capacity of utilityscale solar PV and wind projects in this scenario would 
+reach 3.7 GW and 1.9 GW by 2030 respectively. Solar 
+PV starts to be an important part of capacity mix in 
+the early 2020s, while wind is introduced in the second 
+half of the decade. Since 694 MW of gas-fuelled power 
+plant investment is already in the pipeline (i.e. under 
+construction), gas is the most important fuel for power 
+generation over the next decade. However, there is 
+considerable gain from exporting the gas resources 
+instead of using them for domestic power production. 
+The country’s coal reserves may be exploited to some 
+extent, providing affordable baseload power. However, 
+the further expansion of coal-fired plants is not part 
+of a least-cost energy system by 2030. Until then, 
+no additional capacity is projected for oil-powered 
+plants, whose share of the capacity mix will be as low 
+as 2%. Assessments show that by 2030 peak demand 
+As shown in Figure 18 below, a transition to such a 
+system would require USD 11.4 billion investment in 
+generation and USD 67 billion in transmission and 
+reaches 4.5 GW, and the sum of installed capacity for 
+dispatchable power plants (i.e. hydropower, gas, oil and 
+coal) also amounts to about 4.5 GW. To ensure there is 
+balance in a system with such a high share of installed 
+variable renewables capacity, strong interconnections 
+are needed with neighbouring countries, as well as 
+enough reserve power.
+IRENA’s analysis also finds that 378 MW may be sourced 
+from decentralised generation, which will account for 
+almost 4% of total electricity supply. Decentralised 
+generation will consist mainly of mini-hydropower 
+options and oil generators, where solar PV may be 
+introduced by the end of the decade. 
+15 The zones included in the analysis are as follows: AB, AH, K 
+for wind (as in Figure 11), Z, AG and R for solar PV (as in 
+Figure 14), M, N, and O for CSP (as in Figure 13). 
+16 Maximum deployment of these technologies is set at
+500 MW per zone. In assessing the penetration of 
+renewable energy, consideration is given to the “must 
+run” minimum generation limit which cannot be replaced 
+by variable renewable energy and is experienced by some 
+fossil based technologies. This limit is set at 50% for coalfired plants and 25% for future gas power plants.
+Figure 17: Capacity balance according to IRENA’s assessment
+Dist. Solar PV
+Hydro Nuclear Gas Oil Coal
+Mini Hydro Biomass Oil Wind Solar Thermal Solar PV
+Biomass
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+12 000
+Installed Capacity (MW)
+maintenance (O&M) and fuel costs would amount to 
+USD 4.9 billion and USD 6.5 billion respectively. The 
+average generation cost would drop by 17% between Figure 18: Total undiscounted system costs according to IRENA
+s assessment
+Import costs O&M costs generation Total fuel Annualized domestic T&D investment costs
+2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+0
+20
+40
+60
+80
+100
+120
+140
+160
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+Million USD
+USD/MWh
+Annualized investment: Generation Average generation costs (USD/MWh), right axis
+These may well be different from the perspective of 
+the energy planners in Tanzania. Since the present 
+assessment is strongly influenced by assumptions 
+discussed above, IRENA encourages the energy planners 
+in Tanzania to explore different policy assumptions and 
+scenarios needed to justify or to work out the challenges 
+associated with certain investment decisions. 
+RECOMMENDATION:
+Revise national energy plans
+Energy planners in Tanzania need to revise the country’s 
+plans by taking into account the latest studies on 
+renewable energy potential and their associated costs. 
+They need to explore different policy assumptions and 
+scenarios to justify or to work out challenges associated 
+with certain investment decisions. This can be followed 
+by an updated “roadmap” for realising the desired 
+investment strategy. 
+4.3 Policy and regulatory frameworks
+The Electricity Act 2008 gives priority access to the 
+grid for electric energy from a least-cost generation 
+licensee. This is not conducive to power generation 
+based on variable renewableswhich is currently more 
+power generation if capital costing is considered 
+alone. Variability has been dealt with in the draft 
+Electricity (Systems Operation) Act 2016, which is 
+under approval. This gives priority for dispatch to the 
+electricity generated from renewable energy sources 
+and indigenous sources. 
+However, this act does not specify any guidelines for 
+power forecast time. Current forecast times are not 
+necessarily favourable to all renewable energy types, 
+particularly given the variable nature of some sources 
+(solar and wind). The best practice recommended 
+forecast time is closer to real time, which will have a 
+substantial impact on the cost-effectiveness of the 
+renewable energy generators. Furthermore, the use of 
+forecasts favourable to renewables will entail changes 
+in the power systems operations given that the grid 
+infrastructure and grid operators currently do not have 
+the capacity to accommodate and manage grids with 
+higher shares of variable renewables.
+In Tanzania the distribution network operator bears 
+the interconnection costs for projects within 10 km of a 
+substation. However, there is no reference to connection 
+and wheeling charges, so that the charges are related 
+to the generation sources. Common practice shows that 
+the charges are higher for renewables such as wind and 
+solar because of their variabilityTo incentivise grid-tied some countries are given the option to pay transmission 
+and wheeling charges at a cost equivalent to the average 
+unit cost of electricity wheeled through the grid. 
+Despite the existence of FiTs and SPPAs for gridconnected projects, the weak financial position of 
+TANESCO, the sole off-taker, means renewables-based 
+power generation is not attracting private investors. 
+This is confirmed by the latest TANESCO financial 
+statements (2013, 2012 and 2011 annual reports) 
+Furthermore, changes in debt-to-asset and equity-toasset values,18 as well as the utility’s negative returns 
+on asset and on equity, indicate an increasingly high 
+financial risk (see Figures 20 and 21 below).
+17 The cash ratio of a company should not exceed 0.1 because
+higher values could indicate poor asset utilisation.
+18 The combined values of the debt-to-asset and the equityto-asset ratios is always equal to 1. However, the values of 
+debt-to-asset ratios should be below 0.5, and equity-toasset ratios above 0.5. This would indicate that the assets 
+of the company are less tied to debt.
+highlighting that current assets minus inventories cover 
+less than 55% of current debts, including deferred 
+income. As the ratios below demonstrate, the liquidity 
+of the company is below where it ought to be, and 
+the cash ratio17 is relatively high (see Figure 19 below), 
+which could indicate poor asset utilisation.
+Figure 19: TANESCO liquidity ratios 2010-2013
+Figure 20: TANESCO debt-to-asset and
+equity-to-assets ratio
+Figure 21: Profitability ratios, 2011-2013
+2012
+2013
+2011
+2010
+0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9
+Current ratio Quick ratio Cash ratio
+Based on TANESCO annual reports, 2011-2013
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+2010 2011 2012 2013
+Debt to assets ratio Equity to assets ratio
+-0.7
+-0.6
+-0.5
+-0.4
+-0.3
+-0.2
+-0.1
+0
+2011 2012 2013
+Return on assets Return on equityThe creditworthiness of TANESCO has been put into context through two other public utilities from the region: 
+Botswana Power Company and Mozambique Electricity (Electricidade de Moçambique). The results of this analysis 
+can be seen in Table 9.
+The analysis of the ratios shows at first glance that none 
+of the utilities analysed is significantly more profitable 
+than the others. Yet TANESCO’s profitability ratios 
+have been in constant decline, while Botswana Power 
+Company and Electricidade de Moçambique have been 
+improving their positions in the timeframe analysed.
+There seems to be increasing reliance on debt in 
+Botswana Power Company and TANESCO, which gives 
+both those utility companies a higher debt-to-equity 
+ratio than 2 after 2012, going up to 4.03 for TANESCO 
+in 2013. Through market mechanisms – mainly interest 
+rate swaps – Botswana Power Company has managed to 
+keep its financing costs low. This gave it a very positive 
+interest coverage ratio (the quotient of earnings before 
+interest payments by financing costs).
+In the liquidity ratios, TANESCO seems to be keeping 
+a very high cash position, highlighted by a cash ratio 
+substantially higher than the recommended value of 0.1. 
+This could indicate poor asset utilisation.
+The conclusion of this ratio analysis emphasises the 
+low creditworthiness of TANESCO, which weakens its 
+position as off-taker to private investors venturing into 
+power generation in Tanzania. This is exacerbated by 
+the fact that if TANESCO defaults or delays payment, 
+the Government of Tanzania cannot guarantee the 
+payment, and no sanction can be taken against the 
+off-taker. This increases the perception of risk on the 
+part of the private sector and partly justifies its low 
+involvement in the segment
+TANESCO
+(Tanzania)
+BPC
+(Botswana)
+EdM
+(Mozambique)
+Ratios 2010 2011 2012 2013 2010 2011 2012 2013 2010 2011 2012 2013
+Liquidity
+Current ratio 0.69 0.63 0.48 0.69 0.55 0.50 0.41 0.32 0.16 0.11 0.10 0.11
+Quick ratio 0.57 0.52 0.38 0.55 0.48 0.42 0.31 0.20 0.23 0.19 0.20 0.18
+Cash ratio 0.21 0.21 0.11 0.19 0.07 0.25 0.11 0.05 0.16 0.11 0.10 0.11
+Debt
+Debt to assests 0.52 0.59 0.69 0.80 0.50 0.65 0.71 0.73 0.59 0.58 0.52 0.58
+Equity to assets 0.48 0.41 0.31 0.20 0.50 0.65 0.71 0.73 0.59 0.58 0.52 0.58
+Debt to equity 1.07 1.44 2.25 4.03 1.01 1.82 2.48 2.66 1.43 1.36 1.09 1.35
+Interest coverage -0.77 -3.34 -4.53 154.74 70.49 132.02 139.38 -0.07 -0.72 -0.75 -0.61
+Profitability
+Return on assests -0.015 -0.053 -0.124 -0.116 -0.055 -0.109 -0.024 -0.010 -0.018 0.003 -0.002
+Return on equity -0.36 -0.174 -0.623 -0.233 -0.156 -0.380 -0.086 -0.025 0.043 0.006 -0.004
+Table 9: Financial ratio comparison table for sample utilities of southern and eastern Africa
+Based on the annual reports of TANESCO, Botswana Power Company and Electricidade de Moçambique
+Finally, we recommend power output off-take beyond 
+the capacity subscribed to in the power purchase 
+agreement, partly to boost private operator confidence 
+for further investments in grid-tied renewable energy 
+installations.
+RECOMMENDATION:
+Provide incentives in Electricity System 
+Operation Rules
+Given that Tanzania is a member of the SAPP, where 
+the day-ahead market is already in place, the draft 
+Electricity System Operation Rules 2016 need to be 
+revised to include provisions in forecasts for better 
+integration of renewable energy in power systems. This 
+let renewables contribute more to meeting the growing 
+power demand of the country.
+For renewables to play a more relevant role in meeting 
+increasing power demand, Tanzania could look into 
+acquiring the necessary infrastructure, including 
+sophisticated information and communication tools, 
+for more efficient system-wide decision making. 
+Furthermore, grid operators will need to acquire the 
+ability to integrate forecast data into their daily operations 
+to manage grids with a high share of renewables. 
+If Tanzania were eligible for the Regional Liquidity 
+Support Facility, this could mitigate TANESCO’s power 
+off-taker risk, as further discussed below. IRENA and 
+other international partners should work to facilitate 
+Tanzania’s inclusion into the facilityFurthermore, Tanzania is recommended to consider 
+adopting transmission and wheeling charges conducive 
+to variable renewables. This should be clearly 
+mentioned in the draft Electricity Systems Operations 
+Act 2016. In addition, the private generators could be 
+given the flexibility to sell their surplus power to the 
+grid operator.
+4.4 Private sector involvement
+Private operators already participate a great deal 
+in the provision of electricity in Tanzania although 
+their installations are to a very large extent based on 
+As discussed in the planning scenario, Tanzania will 
+require USD 11.4 billion investment in generation, and 
+USD 6.7 billion in transmission and distribution between 
+2013 and 2030. O&M and fuel costs would amount 
+to USD 4.9 billion and USD 6.5 billion respectively. 
+Average generation cost would decline by 17% between 
+2013 and 2030. 
+According to Bloomberg New Energy Finance, the 
+finance flowing into the Tanzanian renewable energy 
+sector amounted only to USD 88 million in 2014 
+(Bloomberg New Energy Finance, 2016). Most of this 
+was provided through debt financing (as shown in 
+Figure 23).
+thermal technologies (liquid fuel and natural gas). 
+Operated by private actors, IPPs and emergency power 
+producers, they together represented nearly 40% of 
+installed capacity in March 2013 (AfDB, 2015). However, 
+private sector participation in renewables-based
+technology development is still minimal, as Figure 22 
+demonstrates. 
+The private sector’s low involvement in the renewable 
+energy field is primarily due to the very restrictive 
+financial environment. Obtaining investment loans is 
+difficult because of the high cost of borrowing, which 
+not only includes interest rates as high as 16% (Bank of 
+Tanzania, 2016) but also high bank charges.
+Figure 22: Renewables-based power generation market in Tanzania 
+IPP
+26%
+SPP
+2%
+EPP
+13%
+TANESCO
+59%
+EPP
+31.0
+TANESCO
+561.8
+Based on “Renewable Energy in Africa: Tanzania Country Profile”, AfDB, 2015
+Figure 23: New build renewable asset finance in 
+Tanzania by type
+30
+20
+10
+0
+2004 2006 2008 2010 2012 2014
+Debt finance Equity finance Other finance
+Million USDThe RRA discussions disclosed other concerns, which 
+are described below.
+Limited knowledge of renewables by the financial 
+sector: Limited knowledge of the renewable energy 
+sector among lenders who appraise projects obstructs 
+the facilitation of financing for developing renewables in 
+Tanzania. Despite the introduction of policy incentives, 
+most domestic banks still lack capacity to plan, structure 
+and evaluate projects using suitable financial instruments. 
+This reinforces the perception that renewable energy is a 
+high-risk venture, since there is a lack of awareness of the 
+costs and of technology reliability.
+Lack of established quality control and technical 
+standard mechanisms: No well-established quality 
+control mechanism has been devised for renewable 
+energy equipment, even though such equipment 
+is exempt from value-added tax and benefits from 
+reductions in import duties. If no policy measures are 
+taken, substandard products will flood the market, 
+affecting the confidence of developers who invest in 
+renewable energy and technology uptake. Moreover, 
+the life span of projects could be affected, thus 
+increasing the risk of higher operational costs and 
+altering strategic financial management of the project.
+The high collateral requirements: In line with the 
+prudential regulations of the Bank of Tanzania, the 
+borrower is required to provide a collateral of at least 
+125% of the credit accommodation. This is high and 
+restricts potential borrowers because banks in Tanzania 
+have developed stringent processes that do not permit 
+fund disbursement before perfecting the collateral. In 
+addition, the valuation methodology for collateral is 
+lengthy. Such collateral in Tanzania includes real estate 
+and tangible moveable property, for which valuation 
+can be complex.
+The mismatch between deposits and loans: The effect 
+of the high collateral requirement is exacerbated by 
+the inability of banks to provide long-term financing 
+due to the mismatch between long-term deposits and 
+long-term loans. The Bank of Tanzania sets a regulatory 
+20% minimum ratio between liquid assets and demand 
+liabilities, which banks strive to follow by setting an even 
+higher ratio. In March 2014, the weighted average loanto-deposit ratio was 71.9%, up from 68.8% in 2013 (The 
+Business Year, 2015). Those customer deposits provide 
+very little room for manoeuvre for the provision of longterm loans if the proportion of short-term deposits and 
+short-term loans is discounted.
+High risk for the private sector: Liquidity concerns 
+exacerbated by power off-taker risk undermine the 
+creation of new IPPs, whose creditworthiness with 
+banks largely depends on power off-taker ability to 
+guarantee timely and reliable payments. In the absence 
+of a government guarantee mechanism, obtaining a 
+letter of credit from a commercial bank would require 
+full cash collateral from the off-takers. Yet due to their 
+constrained liquidity and poor credit ratings, many 
+off-takers like TANESCO are unable to put down cash 
+collateral for a letter of credit. This cascading liquidity 
+risk (arising from off-taker risk) can be overcome by a 
+liquidity facility that would provide a short-term letter 
+of credit or credit line to IPPs without additional cash 
+requirements from utilities.
+Other issues: Other factors obstruct renewables 
+investments. For instance, potential customers have 
+low purchasing power, especially in rural areas. 
+Renewable energy upfront investment costs are high, 
+and the project development lead time is too long. 
+Land acquisition is a costly and lengthy process, and 
+environment impact assessments and hydropower 
+water use rights permitting are both cumbersome. 
+RECOMMENDATIONS:
+To foster the participation of the private sector in 
+renewable energy development, the following steps are 
+recommended: 
+Promote long-term equity financing for renewable 
+energy projects through non-banking financial 
+institutions
+Tanzania could consider the possibility of empowering 
+the domestic financial sector to provide equity 
+investments into renewable energy technologies, 
+especially through the Dar es Salaam Stock Exchange. 
+This would be welcomed by the Dar es Salaam Stock 
+Exchange, which has appealed for an enabling 
+environment that favours increased utilisation of 
+the stock exchange by the private sector19 under the 
+supervision of the Capital Markets and Securities 
+Authority. Through the Dar es Salaam Stock Exchange, 
+the government should also promote the use of mutual 
+funds20 to increase private sector participation as well as 
+reducing the risk associated with financing renewable 
+energy projects through pooling. The UK Green 
+Investment Bank’s Offshore Wind Fund created by the 
+UK Government, which is also its sole shareholder, is an 
+example illustrating the co-operation between energy 
+and financial authorities to boost renewables.
+19 Corporate bonds and most of the equity and government
+bond papers issued and listed on the Dar es Salaam Stock 
+Exchange have been oversubscribed by up to twice the 
+amount available. This shows the extent of liquidity in the 
+hands of the Tanzanian private sector.
+20 These currently only represent 0.1% of asset allocations in 
+the Tanzanian financial system.UK Green Investment Bank Offshore 
+Wind Fund
+The UK Green Investment Bank Offshore Wind 
+Fund was established with the aim of attracting 
+capital into the UK’s offshore wind sector from 
+new, long-term investors seeking good, riskadjusted returns. The fund is the world’s first 
+dedicated offshore wind fund and has a target size 
+of GBP 1 billion (approximately USD 1.247 billion). 
+The combination of natural resources (strong and 
+consistent wind), favourable locations for turbines, 
+a robust regulatory regime and a well-established 
+and experienced industry has helped the UK 
+secure its position as one of the global leaders in 
+the development of offshore wind.
+In addition to its own investments in the UK’s 
+offshore wind market, the UK Green Investment 
+Bank established a fund through its wholly 
+owned subsidiary UK Green Investment Bank 
+Financial Services Limited to invest in operating 
+offshore wind farms in the UK. Attracting new 
+capital and creating a liquid market for operating 
+assets is crucial to the continued growth of the 
+sector and will also help to reduce the long-term 
+cost of finance. New investors also allow the 
+original developers to sell down their stakes and 
+use the proceeds to finance new projects. The 
+fund’s portfolio currently consists of interests in 
+five operational wind farms with an aggregate 
+installed capacity of 1,177 MW.
+Source: UK Green Investment Bank (2016)
+Improve facilitation, collaboration and co-ordination 
+among private sector and financial institutions
+In line with the previous recommendation, the Government 
+of Tanzania should establish a framework to enhance 
+facilitation, collaboration and co-ordination among private 
+renewable energy firms and financial institutions. This will 
+increase financial institution knowledge of the renewable 
+energy sector while giving private renewable energy firms 
+more understanding of the inner working of the financial 
+system. Close co-operation of this kind will help reduce 
+the perception of risk in the renewable energy sector and 
+thus encourage financing.
+Create a risk mitigation mechanism for 
+local investments
+In light of the low participation of the Tanzanian private 
+sector partly as a result of stringent requirements 
+from the Tanzanian banking sector, a risk mitigation 
+mechanism is a possible option to facilitate greater 
+participation in priority development areas by local 
+investors, including in energy.
+Under the “Big Results Now” initiative promoted by the Office 
+of the President, this risk mitigation facility could provide 
+guarantees for viable local projects within the initiative to 
+The size of the proposed risk mitigation facility would 
+have to be co-ordinated with international partners and 
+could build on the initial mobilisation of capital in the 
+following ways:
+• charges and levies on electricity concessions and 
+electricity sold to end-users
+• taxes on bulk electricity consumers
+• taxes on mining and oil exploration
+• taxes on transport and marketing of petroleum 
+products
+• taxes on commercial licences
+• annual budgetary allocation by the state
+• funding from development partners
+• personal contributions from operators and other 
+donors.
+In addition, this risk mitigation facility could be 
+considered from a regional point of view. A risk 
+mitigation facility to empower local private investors 
+could be established with the participation of the 
+region’s countries and facilitated through COMESA’s 
+Regional Investment Agency. 
+Tanzania could join the Regional Liquidity Support 
+Facility21 under development by IRENA, German 
+development bank KfW and the Africa Trade Insurance 
+Agency. Its purpose is to resolve the type of liquidity 
+risk affecting African power off-takers, and it will 
+provide short-term credit lines to IPPs. It aims to enable 
+financial closure for renewable energy projects and 
+ease the cash flow constraints on utility balance sheets 
+in five pilot countries in sub-Saharan Africa (Ghana, 
+Kenya, Malawi, Rwanda and Zambia) (IRENA, 2016). 
+Tanzania’s eligibility for the Regional Liquidity Support 
+Facility would help mitigate TANESCO’s power off-taker 
+risk. IRENA and other international partners should 
+work to facilitate Tanzania’s inclusion into the facility.
+By disclosing the performance of utilities, the Regional 
+Liquidity Support Facility also aims to improve the 
+payment records of utilities and set a reliable benchmark 
+for future lending practices. 
+Success in the pilot countries will enable the facility 
+to expand to other countries in sub-Saharan Africa. 
+If applied in Tanzania, this model may demonstrate a 
+way to resolve TANESCO’s low creditworthiness and its 
+liquidity risk.
+21 A funding proposal for the Regional Liquidity Support
+Facility has been submitted to the Green Climate Fund and 
+was due to be reviewed by the fund’s board by the end of 
+2016. Once its financing has been approved, the facility will 
+be able to tackle shortfalls in short-term cash flow in
+the target countries. IRENA facilitates dialogue between 
+governments, while KfW, the Green Climate Fund and the
+Africa Trade Insurance Agency will manage the cash
+collateral and provide short-term liquidity risk insurance
+for additional leverage on the Regional Liquidity Support Like other types of incentives for private participation 
+in the grid-tied power sector, the private sector 
+should be given guarantees of priority place when 
+funds are disbursed. This will be dependent on the
+legal agreements between TANESCO and its different 
+debtors. 
+4.5 Human capacity and skills
+The RRA process uncovered weaknesses in the 
+availability of human resource and institutional 
+capacities and skills in Tanzania’s renewable energy 
+sector. These shortcomings will need to be adequately 
+resolved if Tanzania is to overcome the challenges 
+ahead. It needs to develop a renewable energy sector 
+as well as meet future challenges related to goals in 
+the Electricity Supply Industry Reform Strategy and 
+Roadmap 2014 - 2025 and beyond.
+Tanzania’s human resource capacity deficiencies are 
+listed below:
+• resource assessment
+• renewable energy data collection through statistics 
+to evaluate data, potential and progress, and to plan 
+for a renewable energy future
+• renewable energy project conceptualisation, 
+preparation, appraisal and implementation
+• local courses and training related to renewable 
+energy. 
+The Tanzanian Electricity Supply Industry Reform 
+Strategy and Roadmap 2014 - 2025 recognised that the 
+availability of well-trained and skilled human capital is 
+essential to meet targets set out in the roadmap, and that 
+a human capital development programme needs to be 
+created. The results of the planning work described in the 
+second section of chapter 4 indicate that employment in 
+the renewable electricity sector in Tanzania could reach 
+36,000 in 2030 under the renewable energy scenario. 
+This is around six times as high as in 2015 (Figure 24a). 
+In 2015, the sector employed more than 6,000 people, 
+mostly in hydropower and biomass projects. While most 
+of these jobs were in centralised applications, around 
+1,000 people were also employed in construction and 
+O&M of distributed small hydropower. 
+In 2030, distributed and centralised solar PV will be 
+the largest renewable energy employer, with more than 
+20,000 jobs. This will be followed by small hydropower, 
+large hydropower, wind and biomass (Figure 24b). 
+Jobs in utility-scale solar PV are expected to rise 
+sharply from 2020 as Tanzania moves ahead with plans 
+for deploying around 3.8 GW by 2030. From 2023 
+onwards, wind energy employment may also grow as 
+plans for deploying 1.8 GW by 2030 are set in motion. 
+Jobs in large hydropower may remain stagnant due to 
+lack of new investments after 2020 but jobs in small 
+hydropower will rise with new installations. 
+Figure 24a: Estimates for jobs in renewable electricity by technology and year
+2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+0
+15
+10
+5
+20
+25
+30
+35
+40
+Thousand JobsFigure 24b: Breakdown of jobs by technology
+in 2030
+Figure 25: Renewable energy jobs in 2030 by 
+value chain segment
+Dist. Solar PV
+994
+Mini Hydro
+4 420
+Hydro
+4 287
+Wind
+3 993
+Biomass
+3 352
+Solar PV
+19 190
+Fuel production
+3% Manufacturing
+9%
+Decomm.
+11%
+O&M
+22%
+C&I
+55%
+Analysis of the segments of the value chain provides 
+further insights. In 2030, the construction and 
+installation segment is expected to account for the bulk 
+of the jobs, followed by O&M, decommissioning and 
+manufacturing (Figure 25). Most of the construction 
+and installation jobs are in solar PV project installation, 
+which is likely to be filled by construction workers, 
+technicians and engineers. Around 30% of O&M jobs 
+are in large hydropower, and are mostly taken by 
+managers, engineers and technicians. Though low to 
+start with, the share of manufacturing jobs is likely to 
+increase to 9% by 2030, and production of different 
+components including electrical equipment, solar PV 
+mounting structures and parts of wind towers will be 
+local. Several other types of job opportunities will be 
+At the vocational training level, only five of the 40 institutions across the country offer courses related clearly to the 
+renewable energy projects value chain. These are listed in Table 11.
+created for experts in marketing, distribution and supply 
+chain management in all technologies, especially the 
+small-scale solar PV value chain.
+The human capital development programme will thus 
+need to be designed to cover all the different aspects of 
+renewable energy project conception, implementation 
+and operation. This includes but is not limited to 
+technical, managerial, finance and evaluation.
+In Tanzania, some higher education institutions offer 
+related subjects in electrical engineering. However, 
+the courses specifically tailored to renewable energy
+at higher education level are offered as shown in
+Table 10.
+Institution Relevant programme Level
+University of Dar es Salaam Master of Science in Renewable Energy MSc
+Arusha Technical College Ordinary Diploma in Renewable Energy 
+Technology
+Undergraduate 
+diploma
+Dar es Salaam Institute of Technology Ordinary Diploma in Renewable Energy 
+Technology
+Undergraduate 
+diploma
+Table 10: Renewable energy higher education coursesGiven the country’s potential for scaling up renewables, 
+the scale and range of courses on offer needs to be 
+increased. They need to be expanded to all aspects of 
+renewable energy project development at the technical, 
+managerial and financial level.
+Different skills will need to be continuously upgraded at 
+all levels to reinforce local capacities starting from the 
+conceptualisation stage of renewable energy projects all 
+the way through to financial engineering, construction 
+and O&M. They also need to be geared towards 
+innovation – a key feature of the energy industry.
+RECOMMENDATIONS:
+Given these challenges and the current conditions 
+in Tanzania, the recommendations that follow are 
+intended to prepare the ground for renewable energy 
+development in terms of human capacities and skills: 
+Intensify and expand renewable energy training
+• Higher education and vocational education 
+The training institutions need to co-operate with 
+technical institutions already offering electrical 
+engineering courses while acquiring the capacity to 
+diversify into renewables. These institutions include, 
+for instance, the Nelson Mandela African Institute 
+of Science and Technology, Mandela Institute of 
+Technology and the Mbeya University of Science 
+and Technology. They should also work with the 
+Vocational Educational and Training Authority 
+in order to benefit from its presence across the 
+country.
+The suggested expansion in vocational education 
+should be regarded as a full programme of capacity 
+Institution Relevant programme Level
+Arusha College of Electronics Certificates in electronics Vocational training
+Mafinga Lutheran Vocational Training Centre
+Courses in mechanics, metal work and 
+welding, masonry and building, plumbing 
+and painting
+Vocational training
+Samanga Catholic Vocational and Training 
+Center
+Courses in electrical installation, welding and 
+fabrications Vocational training
+Tanzania Institute of Commerce and 
+Industries Courses in electrical installation Vocational training
+Vocational Education and Training Authority Electrical installation, electrical and 
+telecommunications, welding and masonry Vocational training
+Table 11: Vocational training institutions offering courses relevant to electricity projects
+market in which there is a continuous supply of 
+relevant skills. This should provide a solid pipeline 
+that will support policies related to local content in 
+renewable energy project development by foreign 
+investors in Tanzania.
+As explained above, construction and installation 
+will account for around 20,000 of the 36,250 jobs 
+that will be required in the renewable energy project 
+value chain in Tanzania. Around 11,000 will be 
+needed in fuel production, 2,900 in manufacturing, 
+4,000 in decommissioning and 7,900 in O&M. The 
+Government of Tanzania needs to expand these 
+various elements to all the vocational training 
+centres across the country in order to meet these 
+skills availability targets.
+In addition, a renewable energy programme should 
+be promoted within Tanzania’s top business schools, 
+such as the Tanzania Business School. It should 
+develop training courses and courses aimed at 
+increasing the financial and business knowledge of 
+projects based on renewable energy technologies 
+in the country. This could help to bridge the gap 
+between project development and project appraisal, 
+which is one of the main constraints the local 
+private sector faces as it develops and implements 
+its projects.
+This capacity enhancement at the vocational 
+education level could be financed through charges 
+applied on foreign investments, state allocations 
+and other contributions. 
+• On-the-job training
+New and young engineers entering the local job 
+marketespecially in the power sectorshould be of the power system. This will familiarise them 
+with practical aspects of the value chain and will 
+create well-trained engineers with a comprehensive 
+overview of the power system. It will help improve 
+the overall quality of human resources in the sector.
+The intensification and expansion of training 
+related to renewable energy is beneficial because 
+it reduces costs. Local staff is cheaper to employ 
+than expatriates, and overall staffing costs incurred 
+by project developers decrease as local human 
+resource content increases. Value is retained along 
+the value chain through the skills base created. This 
+is not only an advantage to Tanzania but will spread 
+across the region and continent.
+However, for capacity enhancement schemes to 
+be effective, incentives have to be put in place so 
+that the labour force will acquire the necessary 
+skills. Job security and job growth are among the 
+incentives needed.
+Design and implement local-content requirements 
+for renewable energy projects 
+Local-content requirements generate broad benefits like 
+secure job creation, ensuring that labour is employed 
+and products manufactured within the country to feed 
+or support renewable energy development. Tanzania 
+could consider examples from other countries doing 
+the same in the sub-Saharan African region such as 
+South Africa, Kenya and Ghana.
+South Africa follows a progressive model which set the 
+local-content requirement at 35% in 2011 and is aiming 
+for 60% by 2030. In Ghana, the local-content rule came 
+into force in 2013 with a threshold of 10% aiming for 90% 
+by growing 10% each year. This array of models provides 
+a basis from which Tanzania could form its own localcontent requirement policy.
+Establish a national renewable energy research centre
+Given the inconsistency of statistical data and lack of 
+quality control or standard-setting mechanisms, the 
+Government of Tanzania should create and provide the 
+capacity for a renewable energy centre whose mandate 
+would be as follows: 
+• establish a legal and institutional framework for 
+assembling renewable energy statistics
+• collect and store all relevant statistics and resource 
+information on renewables
+• provide easier access to renewable energy 
+information and resolve inconsistencies in the data
+• conduct a data audit to ascertain data gaps. 
+This process should start off by equipping the statistics 
+staff with the necessary knowledge of renewable 
+energy statistical methods.
+To make further use of the statistical data it stores, this 
+renewable energy research centre could be equipped 
+with testing facilities and given the capacity to establish 
+standards and codes. This would ensure satisfactory 
+guidelines for the quality, design, safety and O&M 
+of renewable energy equipment used in small-scale 
+applications to stimulate the response to the existing 
+policy incentives. The formation of a methodological 
+quality control and standards mechanism for 
+renewable energy equipment could also feed into the 
+recommended local-content requirement policy. The 
+role of quality control will increase as more content is 
+sourced locally.
+Modern bioenergy offers great development potential 5. SUMMARY OF
+RECOMMENDED 
+ACTIONS
+Action Revise national energy plans
+Theme Resource assessment and planning
+Description
+Revise plans by considering latest studies on potentials and on technology costs and also 
+by exploring different policy scenarios needed for investment decisions followed by an 
+investment strategy roadmap
+Actors Ministry of Energy and Minerals
+Timing 12 - 18 months
+Keys to success Capacitation and engagement of all stakeholders and creation of platform for interaction 
+and information exchange among relevant institutions
+Action Provide incentives in Electricity System Operation Rules
+Theme Policy and regulatory frameworks
+Description
+• Forecasts to include assumptions of greater integration of renewable energy in power 
+systems 
+• Consider the adoption of transmission and wheeling charges conducive to variable 
+renewables
+Actors
+• Ministry of Energy and Minerals
+• EWURA
+• Tanzania Electric Supply Company 
+Timing 12 - 18 months
+Keys to success Capacitation and engagement of all stakeholders and creation of platform for interaction 
+and information exchange among relevant institutions
+Action Promote long-term equity financing for renewable energy projects through 
+non-banking financial institutions
+Theme Private sector involvement
+Description
+Empower the domestic financial sector especially by working with the Dar es Salaam 
+Stock Exchange and the Capital Markets and Securities Authority to provide equity 
+investment in renewable energy projects
+Actors
+• Ministry of Energy and Minerals
+• Capital Markets and Securities Authority
+• Dar es Salaam Stock Exchange
+Timing 18 - 24 months
+Kt
+Productive collaboration and knowledge-sharing between all relevant stakeholders from Action Improve facilitation, collaboration and co-ordination among private sector 
+and financial institutions
+Theme Private sector involvement
+Description
+Establish a framework to enhance facilitation, co-operation and co-ordination among 
+renewable energy private actors and financial institutions so that the two sectors become 
+better informed about each other
+Actors
+• Ministry of Energy and Minerals
+• Bank of Tanzania
+• Ministry of Finance and Planning
+• Ministry of Industry, Trade and Investment
+Timing 12 months
+Keys to success Awareness of the benefits of a multi-sectoral collaborative approach in the development 
+of renewable energy
+Action Create a risk mitigation mechanism for local investments
+Theme Private sector involvement
+Description
+Create a local risk mitigation facility to encourage local private sector participation. 
+It could provide liquidity support as well as guarantees and could facilitate access to 
+substantial bank loans
+Actors
+• Ministry of Energy and Minerals
+• Ministry of Industry, Trade and Investment
+• Ministry of Foreign Affairs, East African Community, COMESA
+• IRENA
+• Green Climate Fund 
+• KfW
+• African Trade Insurance Agency
+Timing 12 - 24 months
+Keys to success Engagement of all relevant stakeholders at national and regional level, as well as with 
+international development partners
+Action Intensify and expand renewable energy training
+Theme Human capacity and skills
+Description
+Make full use of current wide vocational training facility networks as well as higher 
+education institutions to create a local supply of relevant labour skills along the value 
+chain of renewable energy project development
+Actors
+• Ministry of Energy and Minerals
+• Ministry of Education, Science, Technology and Vocational Training
+• Planning Commission
+Timing 12 - 24 months
+Keys to success Collaboration between the Ministry of Education and the Ministry of Energy as well as 
+with the Planning CommissionAction Design and implement local-content requirements for renewable 
+energy projects
+Theme Human capacity and skills
+Description Implement local-content requirement for labour and manufactured products for 
+renewable energy projects in order to create demand for relevant local labour
+Actors
+• Ministry of Energy and Minerals
+• Planning Commission
+• Ministry of Industry, Trade and Investment
+Timing 12 months
+Keys to success Assessment of the current and potential manufacturing capacities in the country
+Action Establish a national renewable energy research centre
+Theme Human capacity and skills
+Description Resolve inconsistencies in statistical data and the lack of a quality control mechanism by 
+creating and providing capacity for a renewable energy research centre
+Actors
+• Ministry of Energy and Minerals
+• National Bureau of Statistics
+• Tanzania Bureau of Standards
+• IRENA
+Timing 18 - 24 months
+Keys to success Engagement of all relevant stakeholders6. REFERENCES
+AfDB (2015), “Renewable energy in Africa -- Tanzania country profile”, Renewable Energy in Africa, 
+www.afdb.org/fileadmin/uploads/afdb/Documents/Generic-Documents/Renewable_Energy_in_Africa_-_Tanzania.pdf. 
+AfDB, OECD and UNDP (2015), “African economic outlook 2015” in African Economic Outlook 2015, African Development Bank 
+(AfDB), Organisation for Economic Co-operation and Development (OECD), United Nations Development Programme (UNDP), 
+www.africaneconomicoutlook.org/sites/default/files/content-pdf/AEO2015_EN.pdf. 
+Bank of Tanzania (2016), Monthly Economic Review, 
+www.bot.go.tz/Publications/MonthlyEconomicReviews/MER%20MARCH%202016.pdf. 
+Bloomberg New Energy Finance (2016), Newly Built Renewable Asset Finance in Tanzania by Type, Bloomberg New Energy Finance, 
+available at www.bnef.com/core/country-profiles/tza.
+Botswana Power Corporation (BPC) (2014), Annual Report 2013, 
+www.bpc.bw/about-us/Annual%20Reports/BPC%202013%20AR%20Final.pdf.
+BPC (2013), Annual Report 2012, www.bpc.bw/about-us/Annual%20Reports/BPC%20Annual%20Report%202012.pdf.
+BPC (2011), Annual Report 2010, www.bpc.bw/about-us/Annual%20Reports/BPC%20Annual%20Report%202011.pdf.
+CAMCO Clean Energy (2014), Biomass Energy Strategy (BEST) Tanzania, www.euei-pdf.org/sites/default/files/field_publication_file/
+BEST_Biomass_Energy_Strategy_Tanzania_Final_Version_April_2014.pdf.
+COMESA (2008), The COMESA Model Energy Policy Framework, Common Market for Eastern and Southern Africa, 
+http://programmes.comesa.int/attachments/article/133/Model%20Energy%20Policy%20Framework.pdf.
+Deutsche Gesellschaft für Technische Zusammenarbeit (German Technical Cooperation Agency) (2009a), Project Development 
+Programme in East Africa: Tanzania’ s Solar Energy Market. 
+https://www.giz.de/fachexpertise/downloads/gtz2009-en-targetmarketanalysis-solar-tanzania.pdf.
+Deutsche Gesellschaft für Technische Zusammenarbeit (German Technical Cooperation Agency) (2009b), Project Development 
+Programme in East Africa: Tanzania’s Wind Energy Market. Project Development Programme East Africa. 
+https://www.giz.de/fachexpertise/downloads/gtz2009-en-targetmarketanalysis-wind-tanzania.pdf.
+Deutsche Gesellschaft für Technische Zusammenarbeit (German Technical Cooperation Agency) (2009c), Project Development 
+Programme in East Africa: Tanzania`s Small-Hydropower Energy Market. 
+https://www.giz.de/fachexpertise/downloads/gtz2009-en-targetmarketanalysis-hydro-tanzania.pdf.
+EdM, “Demonstrações financeiras da electricidade de Moçambique até 31 de Dezembro de 2013 (Financial Statements of Mozambique 
+Electricity to 31 December 2013)”, Electricidade de Moçambique (Mozambique Electricity), www.edm.co.mz/index.php?option=com_
+docman&task=doc_download&gid=185&Itemid=68&lang=en.
+EdM, “Demonstrações financeiras da Electricidade de Moçambique até 31 de Dezembro de 2012 (Financial Statements of Mozambique 
+Electricity to 31 December 2012)”, www.edm.co.mz/index.php?option=com_docman&task=doc_download&gid=187&Itemid=68&lang=en.
+EdM, “Demonstrações Financeiras da Electricidade de Moçambique até 31 de Dezembro de 2011 (Financial Statements of Mozambique 
+Electricity to 31 December 2011)”, www.edm.co.mz/index.php?option=com_docman&task=doc_download&gid=186&Itemid=68&lang=en.
+Engery4impact (2016), Six Mini-Hydropower Projects in Tanzania Closer to Realising Goal of Power Generation, viewed on 6 
+November 2016 at www.energy4impact.org/news/six-mini-hydropower-projects-tanzania-closer-realising-goal-power-generation. 
+Food and Agriculture Organization (2010), “Global forest resources assessment 2010 -- country report Tanzania”, Food and 
+Agriculture Organization, Rome, Italy, www.fao.org/docrep/013/al657E/al657E.pdf.
+Gebrehiwot, Z. (2013), “Eastern Africa Power Pool” in IRENA Workshop for Africa Clean Energy Corridor, 
+http://web.vdw.co.za/Portals/15/Documents/Presentations/EAPP%20presentation_to_AFSEC-%205.pdf.
+German Chambers of Commerce Abroad (Deutsche Auslandshandelskammern) (2013), Target Market Study Tanzania Solar PV and 
+Wind Power, Nairobi, Kenya, www.africansolardesigns.com/resources_32_493092621.pdf. 
+Government of the United Republic of Tanzania (2011), The Tanzania Development Vision 2025, Government of the United Republic 
+of Tanzania, Dar es Salaam, United Republic of Tanzania, www.mof.go.tz/mofdocs/overarch/vision2025.htm.
+Government of the United Republic of Tanzania (2014), Invest in Tanzania, 
+www.newsdeskmedia.com/images/Upload/PDFs/Invest-in-Tanzania-2014.pdf.
+Government of the United Republic of Tanzania (2015), webpage, viewed 21 July 2015 at www.tanzania.go.tz/home/pages/19. 
+Hansen, U. E., M.B. Pedersen and I. Nygaard (2014), “Review of solar PV market development in East Africa”, United Nations 
+Environment Programme, www.uneprisoe.org/URC-Working-Paper-Series.
+International Energy Agency (2012), “IEA statistics -- energy balances of non-OECD countries”, International Energy Agency, Paris, 
+France, http://doi.org/10.1787/energy_bal_non-oecd-2013-en.Innovation Energie Développment (2014), National Electrification Program Prospectus, 
+www.ied-sa.fr/index.php/en/documents-and-links/publications/send/3-reports/33-national-electrification-program-prospectus.html.
+IRENA (2016), Unlocking Renewable Energy Investment: the Role of Risk Mitigation and Structured Finance, International Renewable 
+Energy Agency, Abu Dhabi, United Arab Emirates, 
+www.irena.org/DocumentDownloads/Publications/IRENA_Risk_Mitigation_and_Structured_Finance_2016.pdf.
+IRENA (2015a), Africa Power Sector: Planning and Prospects for Renewable Energy, IRENA, Abu Dhabi, United Arab Emirates,
+www.irena.org/documentdownloads/Publications/IRENA_Africa_Power_Sector_synethesis_2015.pdf.
+IRENA (2015b), Djibouti Renewables Readiness Assessment,IRENA, Abu Dhabi, United Arab Emirates, 
+www.irena.org/DocumentDownloads/Publications/IRENA_RRA_Djibout_2015_EN.pdf.
+IRENA (2015c), Africa 2030: Roadmap for a Renewable Energy Future, IRENA, Abu Dhabi, United Arab Emirates, 
+www.irena.org/DocumentDownloads/Publications/IRENA_Africa_2030_REmap_2015_low-res.pdf.
+IRENA (2013), Southern African Power Pool: Planning and Prospects for Renewable Energy, IRENA, Abu Dhabi, United Arab Emirates, 
+www.irena.org/documentdownloads/publications/.pdf.
+IRENA and LBNL (2015), Renewable Energy Zones For The Africa Clean Energy Corridor. Multi-Criteria Analysis For Planning 
+Renewable Energy, IRENA, Abu Dhabi, United Arab Emirates, 
+www.irena.org/DocumentDownloads/Publications/IRENA-LBNL_Africa%20RE%20_CEC_2015.pdf.
+Kibodya (2006), The Taking and Enforcement of Collateral – Financial Sector Review, 
+http://info.worldbank.org/etools/docs/library/233790/Kibodya%20TBA.pdf.
+Larsson, L., Davy, T., Jönsson, M., Hagström, L. and John, G. (2013). Draft Final Report: SIDA AND MEM Consultancy Services for the 
+Joint Energy Sector Review (JESR) 2012/13, Tanzania. Pöyry SwedPower AB, Sweden.
+Massachusetts Institute of Technology (2012), Tanzania (TZA) Profile of Exports, Imports and Trade Partners, The Observatory of 
+Economic Complexity, viewed 23 July 2015 at https://atlas.media.mit.edu/en/profile/country/tza/.
+Mayalla, J. et al. (2011), “Geothermal development in Tanzania”, in Kenya Geothermal Conference 2011, Nairobi. Kenya, 
+www.gak.co.ke/nibs/web_resources/GEOTHERMAL%20DEVELOPMENT%20IN%20TANZANIA.pdf.
+MEM (2013a), “Power system master plan (May)”, pp. 333–335, 
+www.tanesco.co.tz/index.php/investments/investment-report/22-power-system-master-plan-2012-update/file
+(MEM, 2013b), Investment Plan for Tanzania -- Scaling-up Renewable Energy Programme, Ministry of Energy and Minerals (MEM), 
+www-cif.climateinvestmentfunds.org/sites/default/files/meeting-documents/srep_tanzania_investment_plan_design.pdf. 
+MEM (2013c), Joint Energy Sector Review (JESR), www.tzdpg.or.tz/fileadmin/documents/dpg_internal/dpg_working_groups_
+clusters/cluster_1/Energy_and_Minerals/Key_Documents/JESR/JESR_Final_Report_2012-2013.pdf.
+MEM (2014), Electricity Supply Industry Reform Strategy and Roadmap 2014-2025, 
+www.gst.go.tz/images/TANZANIA%20ELECTRICITY%20SUPPLY%20INDUSTRY%20REFORM%20STRATEGY%20&%20ROADMAP.pdf.
+MEM (2015a), The Draft National Energy Policy 2015, 
+https://mem.go.tz/wp-content/uploads/2015/02/NATIONAL-ENERGY-POLICY-2015-Feb-2015.pdf.
+MEM (2015b), Tanzania Energy Sector -- Challenges and Opportunities, Ministry of Energy and Minerals, Dar es Salaam, United 
+Republic of Tanzania.
+MNRT (2015), National Forest Resources Monitoring and Assessment of Tanzania (NAFoRMA), Ministry of Natural Resources and 
+Tourism (MNRT), www.fao.org/forestry/43612-09cf2f02c20b55c1c00569e679197dcde.pdf.
+Mnjokava, T. T. (2012), “Geothermal development in Tanzania – a country update”, in ARGEO-C4 Conference, Nairobi, Kenya.
+Mnjokava, T. T. (2014), “Geothermal development in Tanzania – status report”, in Short Course IX on Exploration for Geothermal 
+Resources, pp. 1–11,organised by UNU-GTP, GDC and KenGen at Lake Bogoria and Lake Naivasha, Kenya, 2-23 November 2014, Lake 
+Bogoria and Lake Naivasha, Kenya.
+Moremi, M. (2012), Business Financing in Tanzania (Challenges & Opportunities), www.globalskill.co.tz/docs/Moremi.pdf.
+Nile Basin Initiative (2012), NELSAP at a Glance, nelsap.nilebasin.org/attachments/article/34/NELSAP%20AT%20A%20GLANCE.pdf.
+Nzali, A. H. and S. J. S. Mushi (2006), “Wind energy utilization in Tanzania”, Science and Technology, 1–14, 
+http://ewbusa.tizgee.com/files/2015/06/tanzaniawind.pdf.
+OECD (2011), Effective support for Agricultural Development, Organisation for Economic Co-operation and Development, Paris 
+France, www.oecd.org/dac/dac-global-relations/Final%20Report%20on%20Joint%20Study%20Visit%20to%20Tanzania.pdf.
+OJK (2016), “OJK and energy and mineral resources ministry build cooperation in energy development”, press release, 
+www.ojk.go.id/en/kanal/iknb/berita-dan-kegiatan/siaran-pers/Documents/Pages/Press-Release-OJK-and-Energy-and-MineralResources-Ministry-Build-Cooperation-in-Energy-Development/PR%20MOU%20OJK%20-%20ESDM.pdf. 
+Ondraczek, J. (2013), “The sun rises in the east (of Africa): a comparison of the development and status of solar energy markets in 
+Kenya and Tanzania”, Energy Policy, 56, 407–417, http://doi.org/10.1016/j.enpol.2013.01.007.
+REEEP (2014)Tanzania Policy and Regulatory OverviewsRenewable Energy and Energy Efficiency PartnershipRisø National Laboratory and Danish International Development Agency (2003), Wind Measurements and Wind Power Feasibility 
+at Selected Sites in Tanzania 2000-2003 – Final Report.
+Rural Electrification Corporation (2011), Power Sector Reform Strategies in Tanzania, 
+www.academia.edu/5772406/Power_Sector_Reform_Strategies_in_Tanzania_Prepared_and_Presented_by_ACKNOWLEDGEMENT. 
+Scaling up Renewable Energy Programme (SREP) (2013), Investment Plan for Tanzania, 
+https://www-cif.climateinvestmentfunds.org/sites/default/files/meeting-documents/srep_tanzania_investment_plan_design.pdf.
+Snc Lavalin and Parsons Brickenhoff (2011), Regional Power System Master Plan and Grid Code Study, 
+www.eac.int/energy/index.php?option=com_docman&task=doc_download&gid=89&Itemid=70.
+TANESCO (2013), TANESCO Tariff Review Application, 
+www.newsite.ewura.go.tz/attachments/article/119/TANESCO%20Tariff%20Application%202013.pdf.
+TANESCO (2014), TANESCO’S Transmission Network, viewed 24 July 2015 at: 
+www.tanesco.co.tz/index.php?option=com_content&view=article&id=51&Itemid=159.
+TANESCO (2015), “Tanzanian solar PV-hybrid” in P. Tsakhara (ed.), presentation at the Tanzanian solar PV-hybrid workshop, Berlin, 
+Germany.
+Tanzania National Bureau of Statistics (2013), “Tanzania in figures 2012”, 
+www.nbs.go.tz/nbs/takwimu/references/Tanzania_in_figures2012.pdf.
+Tanzania National Bureau of Statistics (2015), “National accounts of Tanzania mainland 2007-2014”, 
+www.nbs.go.tz/nbs/takwimu/na/National_Accounts_of_Tanzania%20_Mainland_Publication_2014.pdf.
+Tanzania Geothermal Development Company (2015), Geothermal Development in Tanzania – a Country Update, Dodoma, Tanzania, 
+www.geothermal-energy.org/pdf/IGAstandard/ARGeo/2012/Mnjokava.pdf.
+The Business Year (2015), “Tanzania takes account”, The Business Year, 
+www.thebusinessyear.com/tanzania-2015/tanzania-takes-account/review.
+The United Republic of Tanzania -- National Audit Office (2013), “Report of the controller and auditor general on the financial 
+statements of Tanzania Electric Supply Company Limited for the year ended 31 December 2012”, 
+www.tanesco.co.tz/index.php/media1/downloads/financial-statements/15-tanesco-audited-accounts-2012.
+The United Republic of Tanzania -- National Audit Office (2015),”Report of the controller and auditor general on the consolidated 
+financial statements of Tanzania Electric Supply Company Limited for the 18-month period ended 30th June 2015”, www.tanesco.
+co.tz/index.php/media1/downloads/financial-statements/61-report-of-the-controller-and-auditor-general-on-the-consolidatedfinancial-statements-2014-15.
+Thomson Reuters (2015), “Tanzania in talks with China on funding for wind farm”, viewed 25 July 2015, Reuters, 
+http://af.reuters.com/article/investingNews/idAFKBN0M81NC20150312.
+UK Green Investment Bank (2016), Delivering Value in the UK’s Offshore Wind Market, 
+www.greeninvestmentbank.com/funds/offshore-wind-fund/.
+UNCTAD (2014), World Investment Report 2014: Investing in the SDGs: an Action Plan, United Nations Conference on Trade and 
+Development, http://unctad.org/en/PublicationsLibrary/wir2014_en.pdf.
+UNECA (2014), Energy Access and Security in Eastern Africa. Status and Enhancement Pathways, United Nations Economic Commission 
+for Africa, www.uneca.org/sites/default/files/publications/energy_access_and_security_in_ea_eng_fin_lowres_27dec2013.pdf.
+UNFCCC, Information Note: Default Values of Fraction of Non-Renewable Biomass for Least Developed Countries and Small Islands 
+Developing States (Version 01.0), EB67 Report Annex 22, United Nations Framework Convention on Climate Change, Bonn, Germany, 
+http://cdm.unfccc.int. 
+World Bank (2016), Private Participation in Infrastructure database, website available at 
+http://ppi.worldbank.org/explore/ppi_exploreCountry.aspx?countryId=43.
+World Bank (2015a), “Country data Tanzania”, World Bank, Washington D.C, US, http://data.worldbank.org/country/tanzania.
+World Bank (2015b), Wind Resource Mapping in Tanzania -- Mesoscale Modeling Report, 
+http://documents.worldbank.org/curated/en/758141468186533619/Wind-resource-mapping-in-Tanzania-mesoscale-modeling-report.
+World Bank (2015c), “Tanzania: solar wind potential could help meet future power generation goals”, 
+www.worldbank.org/en/news/feature/2015/06/09/tanzania-solar-and-wind-potential-could-help-meet-future-power-generation-goals.
+World Health Organization, Global Environment Facility and United Nations Development Programme (2009), Transformation Of 
+Rural Photovoltaic Market In Tanzania Project, www.climate-eval.org/sites/default/files/evaluations/367%20Transformation%20of%20
+Rural%20Photovoltaic%20Market%20in%20Tanzania%20Project.pdf.
+Zorita, E. and F.F. Tilya (2002), “Rainfall variability in Northern Tanzania in the March – May season (long rains) and its links to largescale climate forcing”, Climate Research, 20 (1), 31–40, http://doi.org/10.3354/cr020031.

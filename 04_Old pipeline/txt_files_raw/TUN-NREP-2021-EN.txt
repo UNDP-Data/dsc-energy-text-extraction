@@ -1,0 +1,3979 @@
+File Name: TUN-NREP-2021-EN
+Year: 2021
+Country Name: Tunisia
+Country Code: TUN
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2021
+Start Year: 2021
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+© IRENA 2021
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or 
+stored, provided that appropriate acknowledgement is given of IRENA as the source and copyright holder. Material 
+in this publication that is attributed to third parties may be subject to separate terms of use and restrictions, and 
+appropriate permissions from these third parties may need to be secured before any use of such material.
+Citation:
+IRENA (2021), Renewable Readiness Assessment: The Republic of Tunisia, International Renewable Energy Agency, 
+Abu Dhabi.
+ISBN: 978-92-9260-296-3
+About IRENA
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that 
+supports countries in their transition to a sustainable energy future and serves as the principal 
+platform for international co-operation, a centre of excellence and a repository of policy, technology, 
+resource and financial knowledge on renewable energy. IRENA promotes the widespread adoption 
+and sustainable use of all forms of renewable energy – including bioenergy, geothermal, hydropower, 
+ocean, solar and wind energy – in the pursuit of sustainable development, energy access, energy 
+security and low-carbon economic growth and prosperity.
+Acknowledgements
+This report was prepared by IRENA in close collaboration with the Government of Tunisia, as 
+represented by the Ministry of Industry, Energy and Mines and the National Agency for Energy 
+Conservation (ANME).
+The report benefited from the input of various experts, notably from Amira Klibi (MEMTE), Jihene 
+Touil (UNDP), Rafik Bezzaouia (STEG), Rim Boukhchina (RCREEE), Nafaa Baccari (ANME).
+IRENA colleagues who provided valuable review and support include: Abdulmalik Oricha Ali (exIRENA), Imen Gherboudj, Huiyi Chen, Rafael De Sa Ferreira, Dolf Gielen, Asami Miketa. 
+Main Contributors: Zoheir Hamedi, Reem Korban, Gürbüz Gönül, Abdelkarim Ghezal (consultant)
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the reliability of the 
+material in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party content providers provides a warranty of 
+any kind, either expressed or implied, and they accept no responsibility or liability for any consequence of use of the publication or material herein. THE REPUBLIC
+OF TUNISIAForeword
+For over three decades, Tunisia has been committed to a clean energy transition through a proactive and 
+uninterrupted energy management policy, positioning itself as a pioneer in the region. Tunisia embarked on an 
+accelerated energy transition to achieve multiple objectives; to realise its energy security through a diversified 
+energy mix and to improve the country’s economic competitiveness within the framework of its strategic vision 
+towards a low-carbon economy.
+Tunisia’s energy transition strategy is based on four main pillars: energy security; increasing energy independence; 
+reducing costs; and diversifying energy resources. With abundant renewables sources, renewable energy 
+technologies constitute the main pillar of Tunisia’s energy transition strategy given the socio-economic benefits 
+that this strategy will provide to the Tunisian economy in terms of increased investments, a clean economic 
+growth, job creation and preserving the environment. Similarly, improving energy efficiency would contribute to 
+this energy transition by reducing the demand for energy.
+In this regard, a Tunisian solar plan was adopted in 2015, which aims to reduce primary energy demand by 30% 
+and increase the share of renewables in the electricity production mix to 30% by 2030.
+I would like to thank the International Renewable Energy Agency (IRENA) for its support throughout the process to 
+deliver the Renewables Readiness Assessment report that provides a detailed analysis on the status of renewable 
+energy in the country and identifies short- to medium-term actions needed to develop enabling frameworks 
+conducive to increased renewable energy investments.
+This analysis was conducted through close collaboration between the National Agency for Energy Conservation 
+(ANME), the Ministry of Industry, Energy and Mines and IRENA. It provides relevant and focused information to all 
+the stakeholders in the field of renewable energy, including governmental institutions, public and private-sector 
+companies, and regional and international development organisations.
+On behalf of the Ministry of Industry, Energy and Mines let me reiterate my thanks to, all the IRENA team members 
+and national stakeholders who contributed to the completion of this report. I hope that this co-operation will be 
+accelerated in the future, allowing the achievement of the Energy Transition goals in Tunisia.
+ 
+H.E. Mr Mohamed Boussaîd,
+Minister of Industry, Energy and Mines,
+Republic of Tunisia
+from the Minister of Industry, 
+Energy and MinesFOREWORDS
+Foreword
+Tunisia’s need to ensure a continuous energy supply, enhance energy security and long-term industrial and socioeconomic development provides a compelling case for renewables. As governments advance on recovery plans 
+amid significant public financing constraints, an energy transition with renewables is a central pillar of decarbonising 
+the energy mix. With increasing cost-competitiveness and abundantly available resources, renewable energy 
+solutions will be instrumental in achieving the objectives of improving energy security, reducing cost of energy 
+supply for consumers and advancing environmental preservation. 
+Tunisia’s energy transition is notably based on the implementation of an energy management strategy that is built 
+on the increase of energy efficiency and the development of renewable energy, with a 30/30 target to reduce 
+primary energy demand by 30% in 2030 compared to the trend scenario; and renewable energy to 30% of the 
+electricity production by 2030, in comparison to the installed 373 MW renewable energy in 2019.
+Renewables Readiness Assessment: Tunisia, prepared in collaboration with the National Agency for Energy 
+Conservation (ANME) and the Ministry of Industry, Energy and Mines, identifies key challenges as the country 
+pursues environmentally and economically sustainable power and heat. It offers recommendations under five 
+thematic areas that address renewables applications in the power sector and long-term energy planning, and 
+attract renewable energy financing. The recommended actions present the collective outcome of which is for 
+renewables to reach a much higher share in Tunisia’s energy mix while improving energy security and cost of 
+supply. 
+Tunisia has made important strides over the past decade to encourage the involvement of the private sector 
+and accelerate the realisation of national objectives, the assessment finds the need to improve the mapping 
+of renewable energy resources, establish an energy planning framework with higher shares of renewables that 
+building capacity of local financing institutions and developers will unlock further investment in the sector, and 
+reinforce Tunisia’s renewable energy targets. 
+IRENA wishes to thank the team at ANME for their key input and engagement. We also appreciate the valuable 
+contributions of numerous other stakeholder and international partners. I sincerely hope the resulting study helps 
+to accelerate Tunisia’s shift to a sustainable energy future.
+Francesco La Camera
+Director-General, 
+International Renwable Energy Agency
+from the
+IRENA Director-GeneralFigures 8
+CONTENTS
+Tables 9
+Boxes 9
+Abbreviations and acronyms 10
+Units of measurement 11
+Executive summary 12
+1
+Introduction 15
+1.1 Country background 15
+1.2 Renewables Readiness Assessment for Tunisia 17
+2
+Energy context 18
+2.1 Energy supply and demand in Tunisia 19
+2.2 Electricity governance 22
+2.3 Electricity supply and demand 24
+2.4 Transmission and distribution 25
+2.5 Electricity tariffs 25
+3
+Enabling environment for renewable energy 29
+3.1 Energy transition strategy 29
+• Drivers for the energy transition strategy 30
+• Tunisian Solar Plan 32
+3.2 Renewable Energy resources and exploitation 33
+• Wind energy 33
+• Solar energy 34
+• Hydropower 39
+• Biofuels and waste-to-energy 40
+• Geothermal energy 40
+3.3 Renewable Energy regulatory framework 41 
+3.4 Renewable Energy institutional framework 47
+• Renewable Energy programmes and project pipeline 47
+3.5 Financial initiatives for Renewable Energy 50
+4
+Key challenges and recommendations 52
+4.1 Long-term energy planning 52
+4.2 Regulatory framework for Renewable Electricity generation 54
+4.3 Institutional framework 56
+4.4 Financing 57
+4.5 Maximising the benefits of Renewable Energy deployment 58
+References 61
+Annex 1. Renewable Energy institutional roles 64
+ContentsFigures
+Figure 1 Gross domestic product growth: Annual change, Tunisia, 2000–2018 15
+Figure 2 Evolution of domestic primary energy supply and demand, Tunisia, 1990–2019 18
+Figure 3 Domestic primary energy production of crude oil and natural gas, Tunisia, 1991–2019 19
+Figure 4 Total primary energy supply by source, Tunisia, 1990–2018 19
+Figure 5 Energy import dependency, Tunisia, 2010–2018 20
+Figure 6 Energy import bill, Tunisia, 1993–2017 20
+Figure 7 Total final energy consumption, Tunisia, 2018 21
+Figure 8 Total final energy consumption by sector, Tunisia, 2018 21
+Figure 9 Total final energy consumption by source and sector, Tunisia, 2018 23
+Figure 10 Annual peak load, Tunisia, 20017- 2018 24
+Figure 11 Evolution of electricity consumption by voltage level, Tunisia, 2018 25
+Figure 12 Evolution of electricity consumption in high-voltage and medium-voltage levels by 
+economic sector, Tunisia, 2018
+25
+Figure 13 Evolution of medium-voltage electricity selling prices for Uniform tariff subscribers, Tunisia 28
+Figure 14 Energy strategy targets, Tunisia 29
+Figure 15 Global weighted average of total installed costs and project percentile ranges for 
+concentrated solar power, solar photovoltaic and onshore and offshore wind, 2010 - 2018
+31
+Figure 16 Renewable energy target, Tunisia, 2030 32
+Figure 17 Wind map of Tunisia 33
+Figure 18 Electricity generation of wind farms, Tunisia, 2009–2019 34
+Figure 19 Global horizontal irradiance, Tunisia 35
+Figure 20 Direct normal irradiance, Tunisia 35
+Figure 21 Cumulative installed solar photovoltaic capacity for self-production on the low-voltage grid, 
+Tunisia, 2011–2019
+36
+Figure 22 Sector distribution of photovoltaic projects relating to the medium-voltage grid, Tunisia, 37
+Figure 23 Distribution of power installations, Tunisia, 37
+Figure 24 Registered Solar PV installers 37
+Figure 25 Proposed TuNur consolidated solar power project in southern Tunisia 38
+Figure 26 Solar collector area installed under Prosol programme, Tunisia, 2005–2018 38
+Figure 27 Area of solar collectors, Tunisia, 2018 39
+Figure 28 Annual hydropower production, Tunisia, 2005–2018 40
+Figure 29 Flexibility solutions 43
+Figure 30 Procedure for energy-selling projects under Authorisation scheme, Tunisia 46
+Figure 31 Project proposal procedure for energy-selling projects under Concession scheme, Tunisia 47FIGURES, TABLES AND BOXES
+Table 1 Main economic indicators, Tunisia, 2015–2018 16
+Table 2 Composition of net power generation capacity, Tunisia, 2016 - 2018 24
+Table 3 Low-voltage tariff categories, Tunisia 26
+Table 4 Current tariffs for low-voltage network, Tunisia, June 2019 26
+Table 5 Time schedule for Four-shift tariff, Tunisia 26
+Table 6 Medium-voltage tariffs, Tunisia, June 2019 27
+Table 7 Medium-voltage tariffs, Gray Cement industry, Tunis 28
+Table 8 High-voltage electricity tariffs, Tunisia 28
+Table 9 Hydropower stations, Tunisia, 2015 39
+Table 10 Overview of renewable energy support policies and regulation, Tunisia 41
+Table 11 Criteria under the legal regimes for renewable energy projects, Tunisia 42
+Table 12 Provisions for self-consumption projects connected to low- and medium-voltage grids, Tunisia 45
+Table 13 Revised renewable energy programme targets, Tunisia, 2017–2022 48
+Table 14 Geographical distribution of renewable energy projects under Concession scheme, Tunisia 48
+Table 15 Renewable capacities announced under the first call for projects, 49
+Table 16 Proposed capacity for installation by Tunisian Company of Electricity and Gas, Tunisia 50
+Table 17 Financial incentives provided by the Energy Transition Fund for renewable energy, Tunisia, 2018 51
+Box 1 Five pillars of Tunisia’s Strategic Development Plan, 2016-2020 16
+Box 2 Tunisia Solar Plan 32
+Box 3 Open Solar Contracts, Tunisia 43
+Box 4 Leveraging local capacity and the materials required for renewable energy technologies 56
+Box 5 Leveraging local capacity, distribution of human resources and occupational requirements 60
+Tables
+BoxesANME National Agency for Energy Management 
+(Agence Nationale pour la Maîtrise de l’Energie)
+ANGED National Waste Management Agency 
+(Agence Nationale de Gestion des Déchets)
+CSP Concentrated Solar Power
+CTER Technical Commission for Independent Power Production from Renewable Energy 
+(Commission Technique de production privée de l’électricité à partir des Energies Renouvelables)
+DNI direct normal irradiance
+FTE Energy Transition Fund 
+(Fonds de Transition Energétique)
+GDP gross domestic product
+HV high voltage
+IPP independent power producer
+IRENA International Renewable Energy Agency
+LV low voltage
+MIEM Ministry of Industry, Energy and Mines
+(Ministère de l’Industrie, de l’Energie et des Mines)
+MISME Ministry of Industry and Small and Medium-sized Enterprises 
+(Ministère de l’Industrie et des Petites et Moyennes Entreprises)
+MEMTE Ministry of Energy, Mines and the Energy Transition 
+(Ministère de l’Energie des Mines et de la Transition Enérgitque)
+MV medium voltage
+NDC Nationally Determined Contribution
+(national climate pledge under the Paris Agreement)
+O&M operation and maintenance
+PPA power purchase agreement
+PV photovoltaic
+RRA Renewables Readiness Assessment
+SDP Strategic Development Plan
+SME small or medium-sized enterprise
+STEG Tunisian Company of Electricity and Gas 
+(Société Tunisienne de l’Electricité et du Gaz)
+SWH solar water heating
+TFEC total final energy consumption
+TND Tunisian dinar
+TPES total primary energy supply
+TSP Tunisian Solar Plan
+AbbreviationsABBREVIATIONS AND UNITS OF MEASUREMENT
+GW gigawatt
+GWh gigawatt-hour
+kWh kilowatt-hour
+kWp kilowatt peak
+km kilometre
+km2 square kilometre
+ktoe thousand tonnes of oil equivalent 
+kV kilovolt
+m2 square metre
+MW megawatt
+MWh megawatt-hour
+m/s metres per second
+Units of measurementExecutive summary
+Tunisia has witnessed growing deficits in its energy balance 
+over the past two decades. This trend is largely the result 
+of increasing energy consumption in all economic sectors, 
+coupled with the decline of hydrocarbon production. 
+This led to an energy deficit amounting to 50% in 2019 
+compared to 7% in 2010, thus leading the country to 
+become more dependent on imported fossil energy. 
+The electricity generation mix is dominated by natural 
+gas, while renewable energy resources represented only 
+3.0% in 2019. This strong dependence on natural gas 
+has serious implications for Tunisia’s energy security, 
+since domestic production of gas has stagnated to the 
+point of even declining in recent years.
+In response to the energy security challenges of the 
+early 2000s, and Tunisia’s vulnerability to volatile 
+international energy prices, the country has decided to 
+embark on an energy transition process as part of its 
+wider sustainable economic and social development 
+strategy. Amid the coronavirus outbreak in early 2020, 
+renewables and energy efficiency have become a key 
+part of the country’s recovery plans.
+Tunisia’s energy transition is notably based on: 
+• Diversification of the energy mix and integration of 
+renewable energies
+• Strengthening energy efficiency
+• Rationalisation of the energy subsidy
+• Strengthening of the grid and the interconnections
+The implementation of an energy management 
+strategy that is built on the increase of two components:
+(i) energy efficiency and the development of 
+renewable energy, with a 30/30 target to reduce 
+primary energy demand by 30% in 2030 compared to 
+the trend scenario; and (ii) renewable energy to 30% 
+of the electricity production by 2030.
+The Tunisian Solar Plan (TSP) is the intended operational 
+tool to implement the strategy to increase the share of 
+renewable electricity. The latest TSP version was updated 
+by Tunisia’s National Agency for Energy Management 
+(ANME – Agence Nationale pour la Maîtrise de l’Energie) 
+in 2015 and adopted by the government in July 2016. 
+To achieve the country’s update objectives, 
+the TSP has established a target for total 
+installed renewable energy capacity at
+1 860 megawatts (MW) by 2023 and 3 815 MW by 
+2030, a five-fold and ten-fold increase, respectively, 
+from the 2017 installed renewable energy capacity. 
+The targets were updated to reflect Tunisia’s climate 
+commitment to reduce the country’s carbon intensity 
+by 41% compared to 2010 by 2030 compared to an 
+unconditional target to reduce carbon intensity by 13%, 
+specifically as pledged in its Nationally Determined 
+Contributions under the Paris Agreement. The bulk 
+of the country’s identified mitigation potential arises 
+from the energy sector, including 68% from energy 
+efficiency and 32% from renewable energy. 
+The considerable amount of installed renewable 
+energy capacity needed to meet the targets set out 
+in the TSP will require extensive private investment 
+support. In response, the Tunisian state adopted 
+regulatory reforms in 2015 through a new law (Law 
+No. 2015-12) relating to the production of electricity 
+from renewable energy. The objective is to establish 
+a legal framework that is conducive to privatesector investment in the production of electricity 
+that will arise from renewable energy sources 
+through three new regulatory regimes: (i) selfgeneration/consumption; (ii) independent power 
+production for local consumption (concession and
+authorisation); and (iii) independent power production 
+for export.
+Notwithstanding the new legal framework and 
+the various measures adopted by the Tunisian 
+government over the past two years, several of these 
+measures include enabling policy initiatives, update 
+of the current documentation surrounding current 
+electricity purchase agreements, and establishment 
+of guarantees to encourage the development of 
+renewable energy. There remain several challenges 
+that hinder the transition, however; these have been 
+identified under Tunisia’s national energy strategy.
+Various barriers to renewable energy development 
+were identified through the Renewables Readiness 
+Assessment (RRA) process. These could be addressed 
+through eight key recommended actions.EXECUTIVE SUMMARY
+The RRA’s main recommendations can be summarised
+as follows:
+Establish a renewable energy planning 
+and scheduling framework
+• With the TSP calling for additions of about
+4 gigawatts (GW) of variable renewable energy 
+(VRE) sources (i.e. solar and wind power) to the 
+grid, the country will require a holistic long-term 
+planning methodology that will include realistic 
+scheduling for capacity additions to the national 
+electricity system beyond 2023. Advance plans on 
+new capacity, locations and technologies can help 
+to address system constraints. VRE deployment 
+must be supported by robust long-term energy 
+and power sector planning. 
+• The plan could also address electricity grid 
+infrastructure development to enable the smooth 
+integration of VRE into the system. The plan 
+should provide long-term visibility on renewable 
+energy development prospects in Tunisia. In this 
+context, the opportunities for regional dialogue 
+and collaboration are significant and may lead to 
+broader flexibility solutions (IRENA, 2020a).
+Enhance renewables resource 
+assessment through zoning 
+• Long-term energy planning relies on data from 
+resource databases. Tunisia’s current resource 
+database, therefore, should be improved to reflect 
+the recent assessment campaigns on renewable 
+energy resources. More detailed resource data 
+will be essential to define promising development 
+zones across Tunisia’s territory for different 
+renewable energy technologies. The Global 
+Atlas for Renewable Energy, an online resource 
+assessment platform hosted by the International 
+Renewable Energy Agency (IRENA), provides 
+guidance on identifying cost-effective zones with 
+high renewable energy potential. 
+Simplify procurement procedures for
+power grid development
+• The acquisition and implementation of grid 
+transmission infrastructure by the Tunisian 
+Company of Electricity and Gas (STEG) is subject 
+to long-running public procurement procedures, 
+resulting in a time lag between renewable energy 
+plant completion dates and connection to the grid 
+to send out the electricity produced.
+• IRENA has established that integrated studies with 
+key renewable energy stakeholders could help 
+identify grid infrastructure scenarios. Such studies 
+would reflect planned additions of both solar 
+and wind capacity totalling 1 000 MW under the 
+Concessions scheme. This would ensure alignment 
+between renewable generation development and 
+grid infrastructure reinforcement. 
+Clarify institutional roles and
+strengthen human resources
+• Private-sector developers have faced difficulties 
+understanding the procedures to obtain authorisation 
+for projects, given the considerable number of 
+ministries and public institutions involved in renewable 
+energy projects. In response, the Government of 
+Tunisia has taken preliminary measures, supported by 
+international partners in the field, such as the United 
+Nations Development Programme. Measures include a 
+Help Desk provided by the ANME that would provide 
+guidance to the private sector.
+• IRENA has found that combining efforts and 
+creating a single online platform may ensure 
+transparency and clarity of the roles of the 
+various involved institutions in terms of project 
+agreements. The platform would include guidelines 
+under a standard template and would list the 
+public institutions involved, including the roles and 
+responsibilities of each during the various stages 
+of project implementation (Section 4.3).
+COVID-19 pandemic recovery
+Amid the coronavirus outbreak in early 2020, renewables
+and energy efficiency have become a key part of
+the country’s recovery plans.• Renewable energy transition will bring with it 
+ample benefits, including the opportunity to build 
+human resources and skills. In this context, public 
+institutions may opt to strengthen their current 
+human capacity through enhanced training 
+sessions on the technical, economic, administrative 
+and legal aspects relating to the development of 
+renewable energy projects.
+Establish an independent 
+electric power regulator
+• The procedures to create and establish an 
+independent regulatory authority for the electricity 
+sector are being finalised as part of Tunisia’s NDCs 
+to ensure the achievement of its renewable energy 
+targets. The authority will ensure compliance with 
+regulations and will promote a transparent and fair 
+competitive environment for private producers.1
+• The regulatory authority will, among other 
+responsibilities, oversee a range of project 
+development procedures for renewable energy, 
+including the monitoring of legislation to ensure 
+effectiveness and the validation of technical 
+conditions for electricity evacuation. It also will 
+ensure the streamlining of not only the governing 
+administration but also of the various market 
+actors.
+Operationalise the Energy Transition Fund
+• The Energy Transition Fund (FTE – Fonds de 
+transition énergétique) is the principal financing 
+tool for energy efficiency and renewable energy 
+activities in Tunisia. For the fund to effectively 
+support renewables in the country, work must 
+begin to mobilise the necessary funding from 
+the public and private sectors to foster their 
+development. To do this effectively will require a 
+combination of incentives, loans and credit lines 
+from international finance institutions.
+Create a dedicated financing mechanism
+for solar water pumping
+• Design a programme encouraging farmers to 
+substitute solar photovoltaic (PV) energy for 
+diesel, given the important socio-economic 
+impacts of solar water pumping. This programme 
+may be developed under the broader Prosol and 
+Prosol électrique programme mechanisms, such 
+that the state subsidy, including the credit system, 
+is compatible with the repayment capacity of 
+farmers.
+Involve local banks in the financing 
+of renewable energy
+• The development of renewable energy applications 
+in Tunisia, particularly for farmers and small- and 
+medium-size enterprises, requires involvement by 
+local banks. To improve the capacity for project risk 
+assessment at local financial institutions and boost 
+their confidence to develop lending schemes, the 
+government should reinforce their human and 
+technical capacity.
+• The search for favourable foreign financial lines 
+should be strengthened, particularly through 
+bilateral co-operation and climate financing 
+programmes guaranteed by the Tunisian Guarantee 
+Company (Société tunisienne de garantie)2
+ or 
+reinforced by the Central Bank of Tunisia. This 
+should reduce concerns that surround private 
+sector investment risk over the need to commit 
+30% equity for PV installations and thus improve 
+financial viability. 
+• The Energy Transition Fund, Tunisia Investment 
+Authority and Tunisian Guarantee Company can 
+be complemented with guarantee funds or secure 
+credit lines (e.g. liquidity guarantees or credit lines) 
+to local commercial banks by international finance 
+institutions like the French Development Agency 
+(AFD) and International Finance Corporation.
+1 Several international partners are working with ANME to establish an electricity regulatory authority to oversee licenses, power grid connections and third-party access for auto producers.
+2 A public interest company that guarantees various loans granted to small- and medium-size enterprises by credit institutionsINTRODUCTION
+Introduction
+1.1 Country background
+Tunisia is located in the northernmost part of Africa. Tunisia’s capital, Tunis, is in the 
+northeast of the country. The total surface area coverage of Tunisia is 163 610 square 
+kilometres (km2), with arable land constituting 19% of total land area (Trading 
+Economics, 2020) and the Sahara representing more than 30% (RES4MED, 2016). 
+The population of Tunisia in 2017 reached 11.54 million, with an annual growth rate 
+of 1.1%. Total urban population is 69% (INS, 2018a).
+Tunisia benefits from unique climatic features, placing the country as an emerging 
+economic hub and attractive tourist destination. The climate varies considerably 
+from one region to another - Mediterranean in the north and along the coast, semiarid within the country and arid in the south. The landscape similarly contrasts, with 
+mountainous regions in the northwest, steppes in the centre, vast plains in the north, 
+the Sahel to the east and desert in the south. 
+Tunisia had an average annual gross domestic product (GDP) growth rate of 4.3% 
+over the period 2000–2010, and was considered the most competitive economy in 
+Africa. Despite political instability, Tunisia has witnessed a rapid recovery of its GDP 
+growth following a recession in 2011, reaching 4.0% in 2012. Since then, however, it 
+has struggled to maintain this level, with a 2.6% growth rate in 2018. The evolution 
+of GDP growth since 2000 is shown in Figure 1.
+Figure 1. Gross domestic product growth: Annual change, 
+Tunisia, 2000–2018
+Source: Trading Economics (2020)
+4.7
+3.8
+1.3
+4.7
+6.2
+3.5
+5.2
+6.7
+4.2
+3.0
+3.5
+-1.9
+4.0
+2.9
+3.0
+1.2 1.3
+1.8 2.5
+1.4
+(3.0)
+(2.0)
+(1.0)
+0.0
+1.0
+2.0
+3.0
+4.0
+5.0
+6.0
+7.0
+8.0
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+G
+DP gro
+wth (%)
+Annual growth (%)Several factors challenge the national economic 
+situation today, including the devaluation of the 
+Tunisian dinar, thus amplifying the public debt and 
+foreign trade deficit to record highs. As of September 
+2018, Tunisia has a public debt of 71.4% relative to 
+GDP, with a foreign trade deficit that widened by 
+16.8% over 2017 (Trading Economics, 2020). Table 1 
+presents further details on the economic indicators 
+recorded in Tunisia during the last few years.
+Tunisia has undertaken a series of reforms, including a 
+Strategic Development Plan (SDP) that was adopted 
+for the period 2016–2020 to boost economic activity 
+and investment, as well as to reassure stakeholder 
+confidence. The SDP represents a new development 
+model that is based on the promise of a new social 
+contract under which the state is expected to provide 
+a level playing field to ensure inclusion and equal 
+opportunity.
+The main objective of the SDP is the transformation 
+and modernisation of Tunisia’s existing economic 
+model, aiming to reduce unemployment to 11.5% and 
+reach an average GDP growth rate of 5% in 2020.
+2015 2016 2017 2018
+Investment rate 
+(% of GDP) 19.9 18.4 19.3 20.4
+Unemployment rate 
+(%) 15.4 15.5 15.5 15.5
+Rate of coverage 
+(exports/imports in %) 69.7 69.8 68.8 69.2
+Budget deficit 
+(% of GDP) 4.8 6.2 5.9 4.6
+Government debt 
+(% GDP) 55.4 61.9 69.9 71.4
+Table 1. Main economic indicators, Tunisia, 2015–2018
+Source: Central Bank of Tunisia (2018).
+Note: GDP = gross domestic product; GNDI = gross national disposable income.
+Box 1. Five pillars of Tunisia’s Strategic 
+Development Plan, 2016-2020
+• Good governance includes fighting corruption 
+and easing the administrative barriers to 
+economic participation, in order to increase 
+opportunities for success for all citizens.
+• Shifting to a hub economy focuses on 
+increasing productivity for competitiveness 
+and positioning Tunisian businesses in global 
+value chains. 
+• Promoting human development and social 
+inclusion emphasises quality education, 
+women’s participation in economic and 
+political activity, improved health outcomes, 
+and a social protection system. 
+• Tackling regional disparity seeks to achieve 
+the ambitions of economic development 
+in rural regions through advancing 
+investment in infrastructure and supporting 
+entrepreneurship.
+• Promoting green growth for sustainable 
+development to ensure the sound utilisation 
+of natural resources, with emphasis on 
+rationalising water and energy use. INTRODUCTION
+1.2 Renewables Readiness Assessment 
+for Tunisia
+The International Renewable Energy Agency (IRENA) 
+developed the Renewables Readiness Assessment 
+(RRA) as a tool for carrying out a comprehensive 
+evaluation of the conditions for renewable energy 
+deployment in a country. The RRA is a country-led 
+and consultative process. It provides a framework 
+for multi-stakeholder dialogue to identify challenges 
+to renewable energy deployment and to arrive at 
+recommendations to overcome existing barriers. 
+Short-and medium-term recommended actions are 
+presented to governments to guide the formation 
+of new policies or the reform of existing ones, thus 
+opening a more enabling environment for renewable 
+energy. The RRA also consolidates existing efforts and 
+mobilises resources for priority actions. 
+The RRA elaboration process was launched at the 
+request of the previously known Ministry of Energy, 
+Mines and Renewable Energy (Ministère de l’Energie 
+des Mines et des Energies Renouvelables), now known 
+as Ministry of Industry, Energy and Mines. However, 
+from March 2020 to October 2020, renewable energies 
+were taken up by the Ministry of Energy, Mines and the 
+Energy Transition (Ministère de l’Energie des Mines et 
+de la Transition Enérgitique). From September 2018 
+to March 2020, renewable energies were taken up by 
+Ministry of Industry and Small and Medium Enterprises 
+(MISME – Ministère de l’Industrie et des Petites et 
+Moyennes Entreprises,).3
+IRENA developed this RRA assessment for Tunisia 
+in conjunction with the National Agency for Energy 
+Management (ANME – Agence Nationale pour la Maîtrise 
+de l’Energie), the public agency responsible for executing 
+the government’s policies in energy management 
+studying and promoting renewable energy. 
+Applying the RRA framework to Tunisia provides a 
+comprehensive analysis of the presence or absence of 
+enabling conditions for the development of renewables. 
+Crucially, the analysis considers how the country’s 
+renewable energy policies can contribute to its national 
+policy objectives. This coincides with the government’s 
+efforts to assess the context for renewables in Tunisia, 
+particularly since the introduction of the country’s 
+renewable energy action plan, the Tunisian Solar Plan 
+(TSP), was put in place in 2015. The RRA highlights the 
+key issues to be tackled in implementing the TSP, with 
+the aim of recognising Tunisia’s positionas a regional 
+hub economy as part of the broader framework of 
+the SDP. 
+A general overview of the Tunisian energy sector 
+was outlined during the first stage of process, with 
+a special focus on renewable energy. Potential 
+barriers and bottlenecks were identified to the ensure 
+successful deployment of renewables. IRENA and 
+ANME organised an expert validation workshop on 
+21 June 2018 to validate these findings and facilitate 
+open dialogue among a wide range of stakeholders. 
+The main objectives were to discuss the identified 
+challenges for renewable energy deployment and the 
+corresponding recommendations to ensure favourable 
+conditions for the sector. 
+The event provided the opportunity to review global 
+renewable energy best practices and highlight the 
+country’s commitments to renewable energy. It 
+enabled local stakeholders to validate the set of 
+recommended actions identified through the RRA 
+process to further advance the renewable energy 
+sector, for endorsement by MEMTE. This report lays 
+out the necessary actions and conclusions drawn from 
+the RRA process in Tunisia.
+Meteline – Kchabta wind park in Bizerte
+Photograph: National Agency for Energy Conservation (ANME)
+3 Given the role of the different institutions in renewable energy governance, citations within the report are referenced to the Ministry of Industry and Small and Medium Enterprises and 
+the Ministry of Energy, Mines and Renewable Energy.Energy Context
+The energy sector is a key contributor to Tunisia’s various economic sectors. In the 
+past two decades, however, the country has witnessed a growing energy balance 
+deficit, largely as a result of relying on fossil fuel sources – oil and natural gas – to 
+meet its heightened energy demand. The decline of its own hydrocarbon resources 
+has led to increased dependence on fossil fuel imports, which rose to record levels 
+in 2019 when the deficit in the balance of primary energy reached 5 672 thousand 
+tonnes of oil equivalent (ktoe), as shown in Figure 2, highlighting that 49% of total 
+energy consumed is imported.
+In response, Tunisia has begun to leverage its wide array of renewable energy sources 
+to diversify its energy mix. This is coupled with energy efficiency programmes to 
+alleviate its energy balance deficit.
+Figure 2. Evolution of domestic primary energy supply and demand, 
+Tunisia, 1990–2019
+Source: (MISME, 2019a)
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+Total Primary Energy (thousand toe)
+Total domestic supply Total demand
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+10000ENERGY CONTEXT
+2.1 Energy supply and demand in Tunisia
+The country is close to being fully electrified at 99.8%. The 
+electricity generation mix is dominated by natural gas at 
+97.5%. The strong dependence on natural gas has serious 
+implications for Tunisia’s energy security, as domestic 
+production of natural gas has stagnated and even declined 
+during recent years. Between 1990 and 2019, primary 
+energy production fell from 5400 ktoe to 3703 ktoe. 
+Domestic production of oil and natural gas has dropped 
+significantly since 2010 (54% and 47%, respectively), as 
+shown in Figure 3.
+In 2018, natural gas accounted for 48.7% of total primary 
+energy supply (TPES), equivalent to 5569 ktoe, and oil 
+(including primary and secondary oil) accounted for 40.8 % 
+of TPES, totalling 4 665 ktoe (Figure 4) (MISME, 2018b). The 
+remainder largely came from biomass and waste sources.
+Figure 3. Domestic primary energy production of crude oil and natural gas, 
+Tunisia, 1991–2019 
+Figure 4. Total primary energy supply (TPES) by source, Tunisia, 1990–2018
+Sources: INS (2018a), MISME (2019a).
+Sources: INS (2018a)MISME (2019a)
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+Domestic primary energy
+prodcution (thousand toe)
+1991 1993 1995 1997 1999 2001 2003 2005 2007 2009 2011 2013 2015 2017 2019
+Crude oil Natural Gas
+0
+2000
+4000
+6000
+8000
+10000
+12 000
+1990 1995 2000 2005 2010 2015 2016 2017 2018
+82 71 79 0 0 0 0 0 0
+1 234 1 924 2 732 3 091 5 083 5 055 5 209 5 436 5 569
+0 0 0 0 0 0 0 0 0
+4 3 6 12 4 6 4 2 1
+0 0 2 4 39 89 100 103 103
+638 750 934 1 121 1 058 1 076 1 081 1 082 1 090
+2 989 3 053 3 554 4 087 3 933 4 573 4 552 4 612 4 665
+TPES (ktoe)
+Coal
+Natural Gas
+Nuclear
+Hydro
+Geothermal, solar, wind
+Biofuels and waste
+Primary and secondary oil0% 10% 20% 30% 40% 50% 60% 70%
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Year
+Millions (TND)
+Crude Oil Oil products Natural Gas
+801
+194
+5 676
+6 285
+2 523
+3 388
+0 2 000 4 000 6 000 8 000 10 000
+2018
+2019
+12 000
+Figure 5. Energy import dependency, Tunisia, 2010–2018
+Figure 6. Energy import bill, Tunisia, 1993–2017
+Sources: ONE (2018a), MISME(2019b).
+Source: INS (2018b)
+Primary energy demand reached 9 606 ktoe in 2019 
+against 8 358 ktoe in 2010, with an average annual 
+growth rate of 1.7%. After a dip in 2016, the energy 
+demand/supply balance deficit accelerated again 
+in 2017, strengthening a major structural deficit that 
+compels the country to further rely on energy imports, 
+increasing from an import dependency rate of 7% in 
+2010 to 60% in 2018, as shown in Figure 5.
+The country’s energy deficit problem is likely to 
+deteriorate further given rising energy demand, 
+coupled with depleting oil and gas production. 
+The current increase in energy imports highlights 
+Tunisia’s economic and social vulnerability amid 
+volatile international energy prices, further 
+amplified with the devaluation of the Tunisian dinar 
+(TND). Figure 6 shows the evolution of the energy 
+import bill, which peaked in 2014 at more than 
+TND 7 billion (over USD 3.5 billion at the time or
+USD 2.5 billion at mid-2019 exchange rates).ENERGY CONTEXT
+According to the National Energy Observatory 
+(Observatoire National de l’Energie),4 total final 
+energy consumption (TFEC) reached approximately
+8 710 ktoe in 2019; excluding biomass,5 it amounted to 
+7 620 ktoe. Oil products accounted for 53% of TFEC, 
+followed by natural gas and electricity in equal shares, 
+as shown in Figure 7. 
+4 The National Energy Observatory is the public institution mandated by MEMTE to ensure the effective collection of data relevant to energy. Since April 2017, it has been renamed the 
+National Observatory of Energy and Mines (Observatoire National de l’energie et des Mines).
+5 Biomass in the Tunisian context mainly relates to modern means of biomass, as defined by the International Energy Agency’s statistics database, used in relation to Tunisia’s residential 
+sector (Figure 9)
+Energy is used in various end-use sectors in the 
+economy, including transport (32%), industry (27%) 
+and the residential sector (27%). This is followed by 
+the commercial and agricultural sectors (8% and 6%, 
+respectively), as shown in Figure 8.
+17.8%
+12.5%
+0.8%
+16.3% 14.0%
+15.3%
+47.2%
+6.3%
+10.0%
+52.6%
+0.7%
+6.5%
+Oil products
+Solar, Geothermal, etc. Electricity Diesel oil Fuel oil Petcoke
+Natural gas Biomass
+LPG
+Gasoline Kerosene Jet fuels
+27%
+32%
+27%
+8%
+6%
+Industry
+Transport
+Residential
+Commericial
+Agriculture
+Figure 7. Total final energy consumption, Tunisia, 2018 
+Figure 8. Total final energy consumption by sector, Tunisia, 2018 
+Source: MISME (2018b). 
+Note: LPG = liquefied petroleum gas. 
+Source: IEA (2019), MISME (2019b).The source of TFEC differs from one economic 
+activity to another. Figure 9 shows that natural gas 
+is consumed mainly by the industrial sector, while the 
+energy consumption of the agricultural, residential 
+and transport sectors is dominated by petroleum 
+products, particularly liquefied petroleum gas in 
+households that are not connected to the natural gas 
+distribution network.
+2.2 Electricity governance
+As of March 2020, the Tunisian electricity sector is 
+managed by the Ministry of Energy, Mines and the 
+Energy Transition. For the past two years, renewable 
+energy portfolio was managed by the Ministry of 
+Industry, Small and Medium Size Enterprises. MEMTE 
+is responsible for electricity infrastructure, planning 
+and the implementation of national policy in the field 
+of electricity, energy efficiency and renewable energy, 
+with regulatory oversight also carried out by the 
+ministry. Yet, Tunisia has no independent regulator. 
+Instead, MEMTE monitors and analyses the evolution 
+of supply and demand, with two directorates 
+responsible for carrying out specific activities in the 
+energy sector:
+Figure 9. Total final energy consumption by source and sector, Tunisia, 2018 
+Source: IEA (2019), MISME (2019a).
+0 0 855 12 0
+9 493 430 387 100
+185 907 252 190 26
+2364 2162 583 101 398
+Biofuels and waste
+Electricity
+Natural Gas
+Oil Products
+Transport Industry Residential Commercial and
+public services
+Agriculture
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+4000
+Total final energy consumption (thousand toe)
+• Directorate General for Electricity and Renewable 
+Energy: Responsible for implementing state policy 
+in the renewable energy sector and examining 
+requests for private production and selfconsumption of electricity from renewable energy. 
+• Directorate General for Energy from Hydrocarbon 
+sources: Re-sponsible for implementing state 
+policy in the hydrocarbon sector. 
+• Directorate General for overseeing Strategy 
+and Co-ordination: Responsible for developing 
+programmes and strategies, as well as national 
+and sectoral policies, pertaining to the energy 
+sector, coupled with action plans to ensure better 
+management of resources. 
+• Directorate General for Manufacturing Industries: 
+Responsible for implementing government policy 
+relevant to industry, including development of an 
+enabling environment for the promotion of the 
+renewables industry. ENERGY CONTEXT
+The monopoly on electricity generation, transmission 
+and distribution from 1962 to 1996 was held by the 
+Tunisian Company of Electricity and Gas (STEG – 
+Société Tunisienne d’Electricité et du Gaz). STEG is 
+a state-owned company responsible for managing 
+the production, transmission and distribution of 
+electricity and gas in Tunisia in high-, mediumand low-voltage lines and pipelines, including the 
+implementation and operation of renewable energy 
+projects. 
+ANME, a public institution under the Ministry of 
+Energy, Mines and the Energy Transition, became 
+responsible as of 1985 for executing the government’s 
+policies for promoting energy efficiency measures 
+and the deployment of renewable energy. Moreover, 
+ANME is responsible for proposing regulations and 
+manages the Energy Transition Fund (FTE – Fonds 
+de transition énergétique). ANME’s additional 
+responsibilities include managing the specific 
+renewable energy programmes (i.e. Prosol and Prosol 
+électrique) and developing awareness and training 
+campaigns for the deployment of renewable energy. 
+The High Commission for Independent Power 
+Production (Commission Supérieure de la
+Production Indépendante d’Electricité), a commission 
+established under Law No. 96-27, was organised as 
+an inter-ministerial body responsible for deciding 
+on the procedures and selection criteria for the 
+public tender process to (i) select independent 
+power producers (IPP); (ii) award contracts to IPPs; 
+(iii) pass rulings on granting tax incentives to IPP 
+investors, the benefits from which are to be granted 
+to the developers of concessions; as well as any other 
+matter relating to independent power production. 
+The Interdepartmental Commission for 
+Independent Power Production (Commission 
+Interdépartementale de la Production Indépendante 
+d’Electricité), an inter-ministerial body serving as 
+a de facto regulator, is responsible for suggesting 
+the terms and conditions to be granted to IPP 
+concession developers, reviewing the reports and 
+examination of tenders submitted for decision to the 
+High Commission for Independent Power Production, 
+monitoring the negotiations for concession awards 
+and securing public subsidies on a case-by-case 
+basis. Moreover, the Interdepartmental Commission 
+for Independent Power Production is responsible for 
+proposing the extension of concession benefits and 
+overseeing matters relevant to the implementation 
+of projects submitted by the Ministry of Energy, 
+Mines and Renewable Energies. 
+The Technical Commission for Renewable Energy 
+(CTER – Commission Technique des Energies 
+Renouvelables) approves power generation projects 
+from renewable sources, subject to the system of 
+authorisation under the Ministry of Energy, Mines 
+and Renewable Energies while approving extensions 
+to the validity of authorisations. In addition, CTER 
+is the entity responsible for verifying the feasibility 
+of developing private renewable projects on lands 
+belonging to the state domain. It also examines all 
+queries and concerns relevant to the production of 
+electricity from renewable energy resources. 
+Law No. 96-27 (April 1996) authorises the private 
+generation of electricity through concessions provided 
+by state authorities. It does not allow, however, unsolicited 
+private power production (either from conventional or 
+renewable sources). Only one concession agreement has 
+been granted, authorising the creation and operation of 
+Tunisia’s first IPP (Carthage Power Company in Radès,
+471 megawatts (MW)). This power station began 
+operation in 2002 under a 20-year power purchase 
+agreement (PPA). A private initiative to generate 
+electricity from flared gas led to a change in legislation, 
+thus paving the way for the second concession 
+agreement and Tunisia’s second IPP (Société d’Electricité 
+d’El Bibane, SEEB, 27 MW) commissioned in 2003 in El 
+Bibane, southern Tunisia, and shut down in 2010 due to 
+unforeseen gas supply contamination and the struggle 
+to meet scheduled loan repayments. As of February 
+2018, the concessions are operationalised by Power 
+Turbine Tunisia.
+Law No. 2015-12 sets the framework for renewable energy 
+proliferation, which includes electricity production from 
+renewable energy to generate electricity, transport 
+the generated electricity to other consumption points 
+through the national grid, and sell the excess produced 
+energy to STEG at fixed prices within the limits of the 
+maximum rate. With that said the law introduced 
+three new regulatory regimes: (i) self-generation/
+consumption; (ii) independent power production for 
+local consumption (concession and authorisation); and 
+(iii) independent power production for export. The fixed 
+prices are set by the Minister in charge of energy - in this 
+case MEMTE - on opinion of the technical commission, 
+with a contract subject to approval by MEMTE. 
+Law No. 2015-12, however, was amended by
+Law 2019-47, dated 29 May 2019, with adjustments 
+to allow for corporate PPAs. This provides the right for 
+companies adopting renewables for self-production to 
+sell electricity to other consumers or companies with 
+subscribed power greater than the threshold set by 
+MEMTE electricity 30% and use the national grid network 
+to transport electricity2.3 Electricity supply and demand
+By the end of 2018, total installed power generation 
+capacity had reached 6 147 MW, of which STEG owns 
+and operates 74.6% (4 587 MW). The remainder includes 
+the natural gas combined-cycle IPP, commissioned in 
+2002 and managed by Carthage Power Company, with 
+an installed capacity of 471 MW. Natural gas accounts 
+for 94.5% of domestic installed power capacity. See 
+modifications in Table 2. The evolution of the power 
+generation capacity during the period 2016-2018 and 
+its composition are detailed in the table.
+Electricity production by STEG and Carthage Power 
+Company during the period 2013–2018 increased 
+from 16 995 gigawatt-hours (GWh)/year to
+19 060 GWh/year (STEG, 2019a), recording an average 
+annual growth rate of 3%. 
+Types of equipment 2016 2017 2018
+Tunisian Company of 
+Electricity and Gas
+Steam turbines 1 020 920 660
+Combined-cycle gas turbines 1 639 1 612 1 612
+Open-cycle gas turbines 1 772 2 004 2 004
+Hydro 62 62 66
+Wind 240 240 245
+Total STEG 4 753 4 838 4 587
+Solar rooftop* 36 45 62
+Independent power producer 471 471 498
+Total installed capacity (MW) 5 260 5 315 6 147
+Table 2. Composition of net power generation capacity, Tunisia, 2016 - 2018, 
+* Based on interviews conducted with National Agency for Energy Management (Agence Nationale pour la Maîtrise de l’Energie) and Tunisian Company of Electricity and Gas
+(STEG – Société Tunisienne de l’Electricité et du Gaz).
+In this context, domestic production of natural gas 
+stood at approximately 2 139 ktoe, equivalent to 58% 
+of the country’s overall electricity production needs. 
+With domestic natural gas production declining, 
+Tunisia’s energy security could face serious challenges 
+in the coming years.
+Tunisia’s peak load has experienced robust growth 
+during the past decade, as shown in Figure 10. The 
+annual peak in electricity demand increased from
+2 172 MW in 2005 to 4 025 MW in 2017 (STEG, 2018a), 
+climbing at an average pace of 161 MW/year and 
+with an average annual growth rate of 5.5%. In 2018, 
+however, the peak load dropped due to heightened 
+energy efficiency measures. Since 2000, peak load 
+demand has transitioned from the winter period 
+at night to the summer season in the day due to an 
+increase in residential and commercial space cooling.
+Figure 10. Annual peak load (MW), Tunisia, 20017- 2018
+Source: STEG (2019a)STEG (2018a); STEG (2016)
+2416
+2660
+3010 3024
+3353
+3144
+3465
+3599
+3400
+4025 3916
+2000
+2200
+2400
+2600
+2800
+3000
+3200
+3400
+3600
+3800
+4000
+4200
+2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Peak load (MW)
+2467ENERGY CONTEXT
+Electricity consumption increased from 10 355 GWh 
+in 2005 to 15 671 GWh in 2018, recording an average 
+growth rate of 4% per annum. Despite Tunisia’s 
+slowdown in economic growth, the industrial sector 
+remains the largest consumer of electricity. Its share 
+of total electricity consumption, has increased from 
+45% in 2005 to 67% in 2018. Since 2013, the largest 
+growth in consumption has been recorded by STEG 
+customers connected to the low-voltage (LV) grid, 
+accounting for 47% of the electricity consumed in 
+2017. Figure 11 illustrates the evolution of electricity 
+consumption for the different economic sectors 
+during the period 2005-2018.
+2.4 Transmission and distribution
+STEG operated about 6 906 kilometres (km) of 
+transmission lines in 2018, with 208 km at the
+400 kilovolt (kV) level, 2 910 km at the 225-kV level,
+2 382 km at the 150-kV level and 1 406 km at the
+90-kV level. The rate of loss on the transmission grid 
+reached 2.3% in 2018, as in 2017 (STEG, 2019a).
+The transmission grid is currently interconnected 
+via one 400 kV line, two 225 kV lines, one 
+150 kV line and two 90 kV lines. Tunisia also has 
+two 225 kV interconnections. Electricity trade with 
+countries in the region represents less than 1% of 
+national consumption and the interconnections are 
+used mainly for reliability and emergency purposes 
+(STEG, 2019a). 
+To expand interconnections and the capacity of the 
+national grid for renewable energy absorption, an 
+infrastructure project known as ELMED has been 
+signed to build an underwater interconnection line 
+with a capacity of 600 MW between Tunisia and Italy 
+(400 kV, direct current, about 200 km). 
+Tunisia’s electricity distribution network totalled 
+175 389 km by the end of 2018, including 59 691 km 
+medium-voltage (MV) lines and 115 698 km LV lines. 
+The number of MV/LV transformer substations reached 
+75 065 in 2018. Tunisia has an electrification rate 
+estimated at 99.8%. The number of STEG customers 
+connected to the electricity grid is 4.05 million (high 
+voltage (HV): 21 customers; MV: 19 291 customers;
+LV: 4 030 130 customers) (STEG, 2019a).
+2.5 Electricity tariffs
+The selling price of electricity supplied to consumers 
+is set by the Tunisian government based on a proposal 
+submitted by STEG and after approval of MEMTE and 
+the Ministry of Finance. The underlying principle of 
+the electricity tariffs is the level of the supply voltage.
+LV tariffs depend on the sector of the consumer 
+(residential or non-residential), monthly consumption 
+(in kilowatt-hours (kWh)) and the level of power 
+contracted (in kilovolt amperes). The two LV consumer 
+categories are defined in Table 3. Tariff prices for the 
+LV network are presented in Table 4 for the respective 
+categories. 
+Figure 11. Evolution of electricity
+consumption by voltage level, 
+Tunisia, 2018
+Figure 12. Evolution of electricity
+consumption in high-voltage
+and medium-voltage levels by
+economic sector, Tunisia, 2018
+Source: STEG (2019a).
+Source: STEG (2019a).
+High Voltage Medium Voltage Low Voltage
+1302 GWh
+6856 GWh
+7390 GWh 8%
+44%
+48%
+Agriculture Industrial Transport
+Tourism Services
+8%
+67%
+4%
+8%
+13%Low-voltage tariff categories
+Economic Category Normal Category
+Level of power supply: ≤ 2 kVA Level of power supply: > 2 kVA
+Monthly electricity consumption
+is up to 200 kWh
+Monthly electricity consumption
+goes beyond 200 kWh
+Electricity billing is based on progressive tranches 
+with monthly consumption
+(1–50 kWh; 51–100 kWh; 101–200 kWh)
+Electricity billing is based on progressive
+tranches with monthly consumption 
+(1–200 kWh; 201–300 kWh;
+301–500 kWh; greater than 500 kWh)
+Tariff* Sector
+Power 
+charge 
+(USD/
+kVA/
+month)
+Energy price (USD/kWh) 
+Range of monthly consumption (kWh/month)
+1–50 51–100 101–200 201–300 301–500 501 +
+Economic Category
+(1 and 2 kVA and 
+consumption
+≤ 200 kWh/month)
+Residential
+0.24
+0.022
+Nonresidential
+0.0322
+0.035
+Economic Category 
+(1 and 2 kVA consumption 
+> 200 kWh/month)
+Normal Category
+(> 2 kVA)
+Residential
+0.24
+0.059 0.073 0.114 0.139
+Nonresidential 0.065 0.081 0.117 0.131
+Table 3. Low-voltage tariff categories, Tunisia
+Table 4. Current tariffs for low-voltage network, Tunisia, June 2019
+Source: STEG (2019a). 
+Note: kVA = kilovolt ampere; kWh = kilowatt hour.
+Source: STEG (2019b). 
+Note: USD = U.S. dollar; kVA = kilovolt ampere; kWh = kilowatt-hour.
+* TND 1 = USD 0.355 (July 2020).
+Time schedule September to May June to August
+Day 07:00–18:00 06:30–08:30; 13:30–19:00
+Morning peak summer – 08:30–13:30
+Evening peak 18:00–21:00 19:00–22:00
+Night 21:00–07:00 22:00–06:30
+Table 5. Time schedule for Four-shift tariff, Tunisia
+Source: STEG (2019b).
+For MV subscribers, there are two main tariffs: Uniform 
+tariff and the Four-shift tariff. 
+Under the Four-shift tariff, the price per kWh varies 
+according to the time of electricity consumption. 
+The distribution of the four shifts (day, morning peak 
+summer, evening peak and night) differs between 
+seasonsas shown in Table 5
+In addition to the two main tariffs, three special tariffs 
+exist for irrigation services in water pumping and 
+agriculture alike, as well as emergency services. These 
+are shown in Table 6. Electricity sold to farmers for 
+water pumping is the least expensive. ENERGY CONTEXT
+Solar PV sites in Tunis
+Photograph: National Agency for Energy Conservation (ANME)
+Tariff
+Power charge 
+(USD*/kW/
+month)
+Energy price (USD/kWh) 
+Day Morning peak 
+summer Evening peak Night
+Uniform 1.68 0.084
+Four-shift 3.69 0.081 0.123 0.110 0.063
+Pumping for 
+irrigation** NA 0.094 NA Cut-off 0.076
+Agricultural irrigation NA 0.064 Cut-off 0.0663*** 0.046
+Emergency services 2.01 0.086 0.137 0.122 0.067
+Table 6. Medium-voltage tariffs, Tunisia, June 2019
+Source: STEG (2019a).
+Note: NA = not applicable; USD = U.S. dollar; kW = kilowatt; kWh = kilowatt-hour. 
+* TND 1 = USD 0.355 (July 2020).
+** Pumping for irrigation tariff refers to the irrigation service charges (water tariffs) that are no longer applicable.
+*** During the winter months, from September to May, the tariff is not considered. The tariff applies only during peak summer hours.In addition to the above tariffs, there were natural 
+gas tariffs for grey cement industries. These related 
+to high pressure and medium pressure lines (Table 7).
+For HV users, only the four-shift tariff is available. This 
+holds the distinction of being considered a special 
+tariff for emergency scenarios, as shown in Table 8.
+Due to increased natural gas imports, electricity selling 
+prices in Tunisia have been subject to several rises. 
+These price adjustments are not periodic and depend 
+on the evolution of oil prices and the exchange rate of 
+the local currency. 
+Prices also depend on government policies, including 
+those wherebysubsidies are provided by the state to 
+the energy sector. 
+The increases during the past decade have been 
+significant and have affected all electricity consumers, 
+apart from low-consumption households. As an 
+indication, Figure 13 presents the evolution of the price 
+of electricity sold to those companies connected to 
+the MV grid with the Uniform tariff. For this category, 
+the total increase stands at about three times those of 
+2010 prices.
+Tariff Subscribed 
+flow (MJ/h)
+ Subscription fee Price of Energy 
+(USD/month) (USD/MJ-hmonth)
+Indexation 
+formula Energy price*
+High pressure ≥ 41 868 105.99 0.06 1 xPg 0.020
+Medium pressure 4 187 – 125 604 7.1 0.21 1.032 xPg 0.020
+Table 7. Medium-voltage tariffs for grey cement industry, Tunis
+Pg=purchase of natural gas in units of 
+Note: MJ = megajoule; h = hour; USD = U.S. dollar; 
+* Price of energy based on the purchase price of natural gas of 0.005 (USD/MJ).
+millimes
+thermies
+Tariff
+Power charge 
+(USD/kW/
+month)
+Energy price (USD/kWh) 
+Day Morning peak 
+summer Evening peak Night
+Four-shifts 3.35 0.069 0.103 0.094 0.054
+Emergency services 1.74 0.075 0.117 0.106 0.056
+Table 8. High-voltage electricity tariffs, Tunisia
+Source: STEG (2019a).
+Note: USD = U.S. dollar; kW = kilowatt; kWh = kilowatt hour. 
+Figure 13. Evolution of medium-voltage electricity selling prices for Uniform tariff subscribers, Tunisia
+Source: STEG (2019a)STEG (2018a); STEG (2016)
+Medium-voltage electricity price (UScents/kWh)
+Price (UScents/kWh)
+2.2 2.2 2.3 2.5 2.5 2.7 2.9 3.1 3.3 3.6 3.9 4.3 4.7 4.9 5.2
+5.7 5.7 6.0
+7.2
+0
+1
+2
+3
+4
+5
+6
+7
+2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+Enabling environment 
+for Renewable Energy 
+3.1 Energy transition strategy
+In response to energy security challenges and the vulnerability to volatile 
+international energy prices, Tunisia has decided to embark on an energy transition 
+process as part of its wider sustainable economic and social development strategy. 
+A national energy debate was launched in 2013 to define the strategic objectives of 
+the new policy through extensive consultations with key energy stakeholders from 
+various institutions, public and private organisations, civil society, experts, financial 
+organisations and academia, among others. 
+The results of this debate concluded that Tunisia must fully engage in an energy 
+transition. This should be based on a revision of the modes of production, processing 
+and energy consumption to strengthen its energy security, and should safeguard 
+the competitiveness of its economy and protect the environment.
+Tunisia’s energy transition is based on the implementation of an energy 
+management strategy with two components: the increase of energy efficiency and 
+the development of renewable energy, such that the main targets are achieved, as 
+defined in Figure 14. 
+The main objectives of this strategy, developed in 2014 and updated in 2019, are as 
+follows:
+• Energy efficiency: Strengthen policies and measures for the rational use of 
+energy to reduce overall primary energy consumption by 30% in 2030, compared 
+to the baseline scenario.
+• Renewable energy: Increase the share of renewable energy in the electricity 
+production mix to reach 30% in 2030.
+Figure 14. Energy strategy targets, Tunisia Energy strategy targets
+Energy eciency
+Renewable energy
+Reduce primary demand 
+by 30% by 2030
+30% of overall electricity
+production by 2030ANME initiated work in 2017 on a low carbon 
+strategy to 2050 that would include carbon pricing 
+instruments. The Partnership for Market Readiness, 
+United Nations Development Programme and World 
+Bank are supporting Tunisia in the implementation 
+of its Nationally Determined Contributions (NDC) 
+and low carbon strategy. In this context, Tunisia’s 
+NDCs pledge to include measures to reduce carbon 
+intensity by 41%, including an unconditional target of 
+13% and a conditional target of 28%. Moreover, 75% 
+of these reductions stem from mitigation measures in 
+renewable energy. This commitment is well reflected 
+in the TSP and includes measures to build institutional 
+capacity and further address the planning gaps from 
+the first round to the second round of NDC reviews in 
+2020 (UNDP, 2018a). 
+The low carbon strategy, to be finalised in 2020, will 
+be based on carbon pricing instruments, in line with 
+Tunisia’s Energy Conservation Policy (30-30 target), 
+FTE and development of its Nationally Appropriate 
+Mitigation Actions. It also will depend on international 
+support through financial and technical assistance 
+(UNDP, 2018b). 
+Drivers for the Energy transition strategy:
+1. Energy Security: With a growing energy balance 
+deficit, there is a compelling case for renewables, 
+based on a decline in conventional resources 
+against a sustained increase in demand. The ability 
+of renewable energy to address energy imports 
+is significant. Renewable energy solutions bring 
+about important benefits to energy security, 
+including availability, accessibility, affordability 
+and a long-term outlook.
+2. Economics: With the reduction in the cost 
+of renewable energy technologies over the 
+past decade, governments have continued 
+to search for renewables projects to benefit 
+from economies of scale. 
+ 
+Global average prices have dropped from 
+approximately USD 241/megawatt hour (MWh) to
+USD 66/MWh for solar photovoltaic (PV), 
+while onshore wind prices have dropped from 
+approximately USD 79/MWh to USD 46/MWh. 
+Solar PV prices continued to fall between 2017 and 
+2018, albeit at a slower pace, reaching USD 62/MWh 
+in 2018. Onshore wind prices have edged slightly 
+upward, reaching USD 55/MWh. The Middle East/
+North Africa region has seen remarkably low prices 
+for new renewable energy projects, especially solar 
+PV. Tunisia, itself, recorded the lowest bid in Africa 
+for a 500 MW solar PV tender at USD 0.0244/kWh 
+(pvmagazine, 2019a).
+3. Environmental: Tunisia, in its NDCs, has included 
+measures to reduce its carbon intensity with a 
+focus on reducing greenhouse gas emissions by 
+41%, with 75% of these reductions stemming from 
+mitigation measures in renewable energy and 
+energy efficiency. The development of renewable 
+energy is a central pillar of decarbonising the 
+energy mix while securing a reliable energy supply. 
+In 2018 alone, renewable energy generation from 
+solar PV and wind avoided nearly 1.5 million tonnes 
+of carbon emissions.
+Moreover, around 20 energy efficiency actions 
+have been included in the calculation of avoidable 
+emissions, covering the industrial, building, transport 
+and agriculture sectors. This commitment is well 
+reflected in the TSP, and the country has taken 
+measures to build institutional capacity and further 
+address the planning gaps from the first round to the 
+second round of NDC reviews in 2020 (UNDP, 2018a).
+In 2017, ANME initiated work on a low carbon 
+strategy to 2050 that would include carbon pricing 
+instruments. The Partnership for Market Readiness, 
+United Nations Development Programme and World 
+Bank are supporting Tunisia in the implementation of 
+its NDC and low carbon strategy. ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+Figure 15. Global weighted average of total installed costs and project percentile ranges for
+concentrated solar power, solar photovoltaic and onshore and offshore wind, 2010 - 2018
+Source: IRENA (2019a).
+0
+0.1
+0.2
+0.3
+0.4
+2010
+2012
+2014
+2016
+2018
+2020
+2010
+2012
+2014
+2016
+2018
+2020
+Onshore wind Solar photovoltaic Oshore wind Concentrating solar power
+2018 USD/kWh
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+2010
+2012
+2014
+2016
+2018
+2020
+2022
+Fossil fuel cost range
+Auction database LCOE database
+0.085
+0.371
+0.045 0.048
+0.159
+0.108
+0.341
+0.073Figure 16. Renewable energy target,
+Tunisia, 2030
+Source: ANME (2015b).
+Note: CSP = concentrated solar power; PV = photovoltaic; MW = megawatt.
+Wind Solar PV CSP Biomass
+1 755 MW
+1 510 MW
+450 MW
+100 MW
+3 815 MW
+2030
+Box 2. Tunisian Solar Plan
+• Objective: 30% renewable energy in electricity 
+production in 2030
+• NDC pledges: Reduce carbon intensity by 
+41%, with 75% of the reduction resulting from 
+the energy sector
+• Target for installed renewable capacity:
+3 815 megawatts (2030)
+• Market access mechanism: Net metering 
+– Self-production – Independent power 
+production for domestic consumption – 
+Private concession by tender – Direct public 
+investment by Tunisian Company of Electricity 
+and Gas (STEG)
+• Investment cost (2015): USD 9 436 million
+• Renewable projects (2015): USD 7 465 million
+• Project for strengthening the electrical 
+system: USD 1 971 million
+• Funding: Public sector: USD 3 106 million; 
+Private sector: USD 6 331 million
+• Impacts: 
+1. Cumulative energy savings over the period 
+2015–2030: 16 million tonnes of oil equivalent 
+2. Cumulative carbon dioxide emissions 
+reduction over the period 2015–2030:
+38 million tonnes of carbon dioxide equivalent
+3. Gain on the energy bill: USD 16 billion 
+4. Jobs created: Approximately 10 000.
+Tunisian Solar Plan
+The TSP is the operational tool to implement the 
+Tunisian strategy for the deployment of renewables in 
+the power sector. As such, it focuses only on on-grid 
+electricity generation, based on wind, solar PV, CSP 
+and biomass. The first version of the TSP was launched 
+in 2009. The present version is the result of several 
+improvements made over the years to reflect Tunisia’s 
+national strategy and targets. It was finalised by ANME 
+in 2015 and adopted by the Tunisian government in 
+July 2016. Tunisia took note of the notable progress in 
+renewable energy deployment In December 2017, and 
+has further updated and extended the targets to 2022. 
+To achieve the objectives of the national strategy, the 
+TSP has set a total capacity for renewable electricity 
+generation of 1 860 MW by 2022 and 3 815 MW by 
+2030, in comparison to the installed 373 MW renewable 
+energy in 2018 (IRENA, 2020b). The distribution of 
+projected capacity between the different renewable 
+technologies is shown in Figure 16.ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+3.2 Renewable energy resources
+and exploitation
+Tunisia is endowed with abundant renewable energy 
+resources, particularly solar and wind energy; 
+however, renewable energy currently plays a minor 
+role in the country’s energy supply. Tunisia’s total 
+installed renewable power generating capacity had 
+reached approximately 352 MW by the end of 2019, 
+with wind energy at 245 MW, hydropower at 66 MW) 
+and PV at 62 MW (IRENA, 2020b). The use of solar 
+thermal energy for heating water can be regarded 
+as a success story, with a total installed area of
+980 000 square metres (m2) at the end of 2017 
+(ANME, 2018).
+Wind energy 
+Wind resources were evaluated by ANME in 2009 in 
+collaboration with Spain’s National Renewable Energy 
+Centre (Centro Nacional de Energias Renovables). 
+This was possible through the development of a wind 
+atlas for the entire country (Figure 18). 
+Tunisia’s wind map illustrates the existence of several 
+suitable sites for wind farms. The most interesting 
+sites (speed exceeding 7 metres per second (m/s) at 
+80 metres height) are found in the regions of Bizerte 
+and Nabeul, in the central region (Kasserine) and in 
+the southern regions (Tataouine, Western Cape, Gabes 
+and Kebili). 
+By comparison, sites with less attractive wind 
+conditions (speed between 6.5 m/s and 7 m/s) can be 
+found in the eastern areas of Tozeur, the east coast of 
+Medenine and the Monastir region (IRENA, n.d).
+The total area available for wind power development 
+is estimated to be about 32 200 km². The gross wind 
+energy potential in Tunisia is estimated at more than
+8 000 MW (GIZ, 2013). This potential does not consider 
+potential development opportunities in offshore wind.
+Tunisia’s wind generation development began 
+in 2001, when STEG brought online a wind farm 
+at the Sidi Daoud site in the northeast, with an 
+initial capacity of 10 MW and later expanding to 
+55 MW in 2008. The wind farm of Sidi Daoud is 
+comprised of three diverse wind turbine profiles: 
+two small turbine models of 300 kilowatts and
+800 kilowatts, and larger turbines of 1.32 MW 
+(RES4MED, 2016).
+STEG launched two other wind farms in 2012 at 
+the sites of Metline and Kchabta (Bizerte region). 
+Together they account for a total of 143 wind turbines 
+with a total capacity of 190 MW. The total electricity 
+production of the three wind farms installed by STEG 
+in 2017 reached 449 GWh, and peak production was 
+recorded in 2014 at 507 GWh, as shown in Figure 17.
+Figure 17. Wind map of Tunisia
+Sources: IRENA: Global Atlas; Map data: Technical University of Denmark (DTU), 2021, 2021 OpenStreetMap contributors, 2021 United Nation administrative boundaries.
+Notes: m = metre; m/s = metres per second. 
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion on the part of IRENA concerning the 
+status of any regioncountryterritorycity or area or of its authoritiesor concerning the delimitation of frontiers or boundaries
+m/s
+<= 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+8 - 9
+9 - 10
+> 10
+Wind speed at 100m height
+Annual average
+36°N 36°N
+32°N 32°N
+8°E
+8°E
+12°E
+12°E
+TunisiaFigure 18. Electricity generation of wind farms (gigawatt hours), Tunisia, 2009–2019
+Sources: MISME (2019a).
+98
+139
+109
+196
+358
+507
+448
+474
+449 453
+500
+2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Electricity generation (GWh)
+Solar energy 
+Tunisia has solar resources exceeding 3000 hours/year, 
+although hours of sunshine vary throughout the 
+different regions. Most of the southern provinces have 
+a solar exposure time of more than 3 200 hours/year, 
+with peaks of 3 400 hours/year on the south coast (Gulf 
+of Gabes), while the minimum period of insolation in 
+the northern provinces is between 2 500 and 3 000 
+full-sun hours equivalent (Renewable and Sustainable 
+Energy Reviews, April 2016). Solar irradiation 
+ranges from 1 800 kWh/m2/year in the north to
+2 600 kWh/m2/year in the south. 
+Global horizontal irradiance is a reliable resource 
+measure for solar PV installations. As shown in 
+Figure 20, the daily average global solar irradiance is 
+between 4.2 kWh/m2/day in the northwest of Tunisia 
+and 5.8 kWh/m2/day in its far south. 
+With these favourable conditions, the productivity of 
+PV solar systems in Tunisia is very high. According to 
+IRENA’s Global Atlas, annual electricity production 
+by PV solar systems varies between 1 450 kWh per 
+kilowatt-peak (kWp) in the northwest region and
+1 830 kWh/kWp for systems installed in the extreme
+southeast region.
+Direct normal irradiance (DNI) is the main parameter for 
+evaluating the potential for concentrated solar power 
+(CSP) technology. Generally, the DNI should be at least 
+2000 kWh/m2/year to provide a viable energy yield. 
+In Tunisia, as shown in Figure 21, direct solar irradiation 
+in the south and in most of the central region exceeds 
+this typical DNI value. The DNI in some regions of the 
+extreme southeast of Tunisia can reach a value of
+2 300 kWh/m2 /year. ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+Figure 19. Global horizontal irradiance, Tunisia
+Sources: IRENA: Global Atlas, Map data: World Bank, ESMAP, 2021, 2021 OpenStreetMap contributors, 2021 United Nation administrative boundaries.
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion on the part of IRENA concerning the 
+status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers or boundaries.
+Global Horizontal Irradiation
+kWh/m2
+<= 1600
+1600 - 1700
+1700 - 1800
+1800 - 1900
+1900 - 2000
+2000 - 2100
+> 2100
+36°N 36°N
+32°N 32°N
+8°E
+8°E
+12°E
+12°E
+Annual average
+Tunisia
+Figure 20. Direct normal irradiance, Tunisia
+Sources: IRENA: Global Atlas, Map data: World Bank, ESMAP, 2021, 2021 OpenStreetMap contributors, 2021 United Nation administrative boundaries.
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion on the part of IRENA concerning the 
+status of any regioncountryterritorycity or area or of its authoritiesor concerning the delimitation of frontiers or boundaries
+kWh/m2
+<= 1400
+1400 - 1500
+1500 - 1600
+1600 - 1700
+1700 - 1800
+1800 - 1900
+1900 - 2000
+2000 - 2100
+2100 - 2200
+> 2200
+Direct Normal Irradiation
+Annual average
+36°N 36°N
+32°N 32°N
+8°E
+8°E
+12°E
+12°E
+TunisiaSolar PV 
+The use of solar PV systems in Tunisia began with 
+decentralised rural electrification and pumping 
+for drinking water supply, supporting low-income 
+populations with very high subsidies. Only about 100 
+pumping stations, concentrated in the south of the 
+country, have been installed. Tunisia had about 13 200 
+rural households electrified by PV systems by the end 
+of 2014, totalling an installed capacity of approximately 
+1 450 kWp. Despite this advancement, no information 
+is currently available on the real operating number of 
+systems, as there is no monitoring procedure. Solar 
+PV systems for decentralised rural electrification 
+have minimal potential, given that STEG’s 
+electricity network covers most remote areas, while
+limited potential exists for pumping for small-scale 
+irrigation. 
+Grid-connected solar PV systems are recent in 
+Tunisia. Their installation started upon the issuance 
+of Law No. 2009-7, which authorises self-production 
+of electricity from renewable energy sources. Gridconnected solar PV has mainly been implemented 
+through the Prosol électrique programme, initiated in 
+May 2010 by ANME and STEG.
+The financial mechanism for this programme, 
+exclusively intended for residential consumers 
+connected to the LV grid, combines subsidies granted 
+by the FTE and loans repaid over a period of seven 
+years via the consumer’s STEG electricity bill.
+By the end of 2019, 3 644 solar PV systems were 
+connected to the LV grid. The total PV capacity 
+installed is evaluated at around 11 298 kWp, 90% of 
+which were installed in the residential sector. Figure 
+22 illustrates the evolution of the cumulative solar PV 
+capacity connected to the LV grid.
+With continuing increases in electricity rates and the 
+significant price decline of PV systems, the profitability 
+of solar energy continues to improve for all electricity 
+consumers, including those connected to the MV grid. 
+In this context and until February 2020, MIEM has 
+granted the necessary authorisation for 150 solar PV 
+installations, totalling a capacity of approximately
+26 megawatts-peak (MWp), with intended for
+production to the MV grid (ANME, 2020). The distribution 
+of the PV energy projects is largely in the agriculture 
+sector, followed by the industry and tertiary sectors, with 
+64% of the installations below 100-kilowatt capacity.
+Figure 21. Cumulative installed solar photovoltaic capacity for self-production on the low-voltage
+grid, Tunisia, 2011–2019
+Sources: IRENA (n.d.); World Bank (2020).
+Disclaimer: The designations employed and the material presented in this map do not imply any opinion on the part of IRENA concerning the legal status of any region, country territory or 
+area, or concerning the delimitation of frontiers or boundaries.
+230
+754
+1 909
+3 517
+6 240
+9 553
+13 282
+16 771
+20 985
+25 061
+411 1 450
+4 016
+7 982
+15 511
+25 837
+38 939
+48 773
+61 673
+72 971
+0
+10000
+20000
+30000
+40000
+50000
+60000
+70000
+80000
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Number of systems Installed capacity (kW)
+Cumulative installed solar PV capacity (kW)ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+Figure 22. Sector distribution of photovoltaic
+projects relating to the 
+medium-voltage grid, Tunisia
+Figure 23. Distribution of power installations, 
+Tunisia
+Source: ANME (2019). Source: ANME (2019).
+Agriculture Industry Tertiary
+52%
+26%
+22%
+< 50 kWc 50 ≤Pc<100 kW 100 ≤Pc<200 kW
+200≤Pc< 300 kWc >300 kWc
+39%
+25%
+23%
+7%
+6%
+Solar PV demand in Tunisia has led to the creation of 
+a network of companies specialising in the installation 
+of PV systems. By the end of 2019, ANME listed 350 
+registered companies, among which 150 were active. In 
+addition, five manufacturing units for PV modules were 
+created in Tunisia during the period 2011–2019, with an 
+annual production capacity estimated at 100 MW.
+Concentrated solar power 
+Studies by DESERTEC found the gross 
+potential of CSP plants in Tunisia to vary 
+with irradiation from 50 gigawatts (GW) to
+1 250  GW. But with limited water available for 
+cooling, this falls to between 4 GW and 65 GW 
+(mitigationmomentum2016)
+Currently, Tunisia does not have any CSP generation 
+plants. A pre-feasibility study was conducted in 2009, 
+however, for a 50–100 MW capacity CSP project in the 
+region of Gabes (Oued Akarit).
+Separately, an ambitious project was presented, by a 
+private company, to the Tunisian government in 2008 
+to build a CSP plant in southern Tunisia and export 
+its electricity production to Europe: the TuNur CSP 
+Project. The proposed project consists of a 2 250 MW 
+solar CSP plant in the Sahara Desert and a 2 GW HV 
+direct-current submarine cable from Tunisia to Italy 
+(Figure 26). 
+Figure 24. Registered Solar PV installers
+Sources: Nur Energie (n.d.).
+51
+29
+34
+28
+31
+43
+32
+28
+3
+5
+9
+1
+80
+114
+142
+173
+216
+248
+276
+156
+20
+32
+48
+75
+84
+78
+101
+110
+117
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+New qualified companies Total qualified companies Active companies
+solar PV installers (number)Solar water heating
+The solar water heating (SWH) sector in Tunisia was 
+initiated in the 1980s through the creation, in 1982, of 
+the first manufacturing unit for solar water heaters and 
+the establishment of a specific consumer credit system. 
+Hindered by technical skill levels, however, the country 
+experienced a sharp decline in annual installations from 
+approximately 5000 m²/year installed collector area to 
+only several hundred square metres in the mid-1990s. 
+The market was revived through a Global Environmental 
+Facility project that provided a grant of up to 35% of 
+the purchase price and the establishment of technical 
+requirements and guarantees for solar water heaters 
+sold on the market to restore consumer confidence in 
+SWH technology
+The project helped revitalise the market, restore 
+the technology’s reputation and create a more 
+competitive local business. The project stopped 
+in late 2001, however, with the depletion of the 
+funds reserved for the grant (USD 6.6 million). 
+The market then declined significantly to less than
+8000 m2 in 2004.
+As of 2005 the Tunisian government decided to 
+boost the SWH market by implementing the Prosol 
+programme, based on an innovative financing 
+and incentive mechanism. The programme offers 
+capital grants combined with value-added tax 
+exemption, reduction of custom duties and reduced 
+interest loans paid back through electricity bills 
+(Solarthermalworld2017)
+Figure 26. Solar collector area installed under Prosol programme, Tunisia, 2005–2018
+Sources: ANME (2019). 
+23
+58
+118
+198
+278
+358
+429
+504
+570
+635
+701
+765
+825
+885
+20
+120
+220
+320
+420
+520
+620
+720
+820
+920
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Prosol area of solar collectors (1000m2)
+solar collector area (thousand square meters)
+Figure 25. Proposed TuNur consolidated solar power project in southern Tunisia
+Sources: Nur Energie (n.d.).ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+This programme transformed the Tunisian SWH market 
+whereby, by 2008, the annual installed area of solar 
+water heaters in the residential sector had reached 
+more than ten times the average recorded prior to the 
+start of the Prosol programme. 
+After reaching an annual peak of 80000 m2 during the 
+period 2008–2010, the market registered a decrease in 
+2011. The total collector’s area installed under the Prosol 
+since its start in 2005, however, is about 885000 m². 
+Figure 27 illustrates the evolution of annual and 
+cumulative solar collector area installed under Prosol.
+A programme specific to the commercial and industrial 
+sector also was established in 2009, named Tertiary 
+Prosol, which had installed around 28000 m² of solar 
+collectors by the end of 2016. This specific programme 
+has not experienced the same dynamic as in the 
+residential sector; the payback period often is not 
+attractive for end users in the tertiary sector due to 
+competition from heavily subsidised natural gas.
+From the commercialisation of SWH systems in 1982 
+until the end of 2018, the cumulative total area of 
+solar collectors installed in Tunisia is estimated at
+1 040 000 m², as shown in Figure 28. The evolution of 
+SWH has been accompanied by a significant growth 
+in the number of suppliers, installation companies and 
+equipment models sold on the Tunisian market. 
+The SWH market offer at the end of 2016 was 
+characterised by the presence of:
+• 53 suppliers, including ten local manufacturers;
+• 1 200 installers, of which 500 were qualified, 
+according to the Qualisol label6
+ established by 
+ANME;
+• 250 approved models of SWH systems;
+• 16 engineering consulting firms;
+• 12 qualified installation companies of collective solar 
+heating systems; and
+• three technical control offices.
+Hydropower
+Hydropower was the first renewable resource 
+exploited in Tunisia through the installation of 
+two hydropower stations in Arroussia and Nebeur 
+(northwest region) in 1956, with a total capacity of
+18 MW. 
+Figure 27. Area of solar collectors,
+Tunisia, 2018
+Tertiary Prosol
+3%
+Residential Prosol
+85%
+Residential Prosol Tertiary Prosol 1982-2004
+1 040 000 m2
+1982 - 2004
+12%
+Hydropower stations Capacity 
+(MW)
+Sidi Salem 36.0
+Fernana 9.7
+Nebeur 13.0
+Aroussia 4.8
+Kasseb 0.7
+Bouherthma 1.3
+Sejnene 0.6
+TOTAL 66
+Table 9. Hydropower stations, Tunisia, 2015
+Source: STEG (2019a).
+6 This is a training and qualification programme for installers who are required to respect a specific code and comply with definitive criteria and standards during the installation of solar
+water heaters
+Its installed hydro capacity by 2018 stood at
+66 MW, spread over seven stations, as shown in
+Table 9.
+Tunisia does not have large dams and its hydraulic 
+energy potential is limited. The production of 
+hydropower is variable, and its share of total electricity 
+production is very limited, as shown in Figure 29. 
+Electricity produced from hydropower in 2018 totalled 
+approximately 18 GWh, which represented 0.12% of 
+STEG electricity production.Figure 28. Annual hydropower production, Tunisia, 2005–2018
+Sources: MISME (2019a).
+145
+92
+49
+38
+79
+50 54
+110
+60 56
+70
+45
+18 17
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018
+Annual hydropower production (GWh)
+Biofuels and waste-to-energy 
+There is minimal use of traditional biomass fuels in 
+Tunisia as almost the entire country has access to 
+electricity and to non-solid fuels for cooking. The 
+production of charcoal has remained almost stable 
+over the last decade, averaging 150 ktoe/year, and 
+wood is frequently used in traditional ovens.
+The National Waste Management Agency (ANGED – 
+Agence Nationale de Gestion des Déchets) estimates that 
+the country produces approximately 6 million tonnes of 
+organic waste annually (2.2 million tonnes of household 
+waste, 2.2 million tonnes from farms and agri-industry,
+1 million tonnes from olive oil processing, 400 000 tonnes 
+from poultry droppings and 200 000 tonnes from waste 
+water treatment). According to ANGED, the potential 
+for generating electricity through waste is estimated 
+at 1000 GWh/year. Various challenges currently exist 
+to exploit this potential, including initial investment 
+cost constraints, a lack of technical knowledge, limited 
+knowledge on biomass resources, lack of clarity on 
+the long-term supply of power plants from low-cost 
+waste, and overlapping roles between ANGED and 
+municipalities, both responsible for waste collection. 
+One pilot biogas plant capable of generating
+2.4 GWh/year of electricity was developed in 2010. 
+The plant is set up to use waste from the wholesale 
+market of Bir El Kassaa; however, it remains offline 
+due to technical problems (ANME, 2017).
+Geothermal energy
+The southern part of the country, specifically the 
+Kebili, Gabes and Tozeur regions, is rich in hot springs 
+- a good indicator of geothermal activity. These 
+geothermal resources originate from the extensive 
+Continental Intercalary aquifer, covering an area of 
+1 million km2
+ and spreading into the neighbouring 
+countries of Libya and Algeria. The aquifer is about 
+2.8 km deep and has temperatures ranging from 30°C 
+to 80°C (UN, 2008). 
+Use of geothermal energy in the power sector, 
+however, is underdeveloped due to the low enthalpy 
+of geothermal resources. Therefore, many geothermal 
+applications are based on direct use of geothermal 
+heat in agriculture (e.g. for heating greenhouses, 
+powering irrigation pumps) and recreational thermal 
+baths.ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+3.3 Renewable energy regulatory framework
+The first regulatory framework allowing for the use 
+of renewable energy to produce electricity was 
+set up in 2009 through the promulgation of Law 
+No. 2009-7 (adopted 9 February 2009). This law 
+authorises households, companies and groups of 
+companies active in different economic sectors to 
+exploit renewable resources to produce electricity to 
+cover their needs. The law provides the possibility for 
+companies connected to the MV and HV grids to sell 
+their production surpluses to STEG. The requirements 
+and procedures for these projects were set by Decree 
+No. 2009-2773 (28 September 2009) (MEMTE, 2016).
+Aware of the need to establish regulatory reforms to 
+mobilise private investment for the development of 
+renewable energy, the Tunisian government began 
+discussions in 2012 to put in place a new legislative 
+framework more attractive to various kinds of private 
+developers.
+In 2015 Tunisia adopted a new legislation relating to 
+electricity sources from clean energy developments. 
+Law No. 12 of 11 May 2015, relating to electricity
+produced from renewable energy sources, was 
+implemented to promote the development of 
+renewable energy, encourage private-sector 
+investment and liberalise rules regarding the 
+production (and export) of clean energy. This new law 
+provides for three regulatory regimes, as follows. 
+• Production projects for self-consumption
+• IPPs to meet the needs of local consumption
+• IPPs intended for export.
+This law provides several legal texts that are essential 
+for its implementation (i.e. decree, order, decision). 
+Currently, the regulatory framework for electricity 
+generation from renewable energy is defined through 
+the key texts outlined in Table 10.
+Legislation Type
+Law No. 96-27 of 1 April 1996 • Establishes concessions on electricity production 
+Decree No. 96-1125 of 20 June 1996 • Sets the conditions and procedures for granting the concession of 
+electricity generation to private consumers
+Law No. 2015-12 of 11 May 2015
+• Promotes the development of renewable energy and encourages 
+private sector investment 
+• Liberalises rules regarding the production (and export) of clean 
+energy
+Law No. 2016-71 of 30 September 2016 • Establishes the law on investment
+Governmental decree No. 2016-1123 of 
+24 August 2016
+• Sets the conditions and procedures for the completion of projects 
+relating to electricity production from renewable energy
+Ministerial Decision of 6 December 
+2016
+• Designates members of the technical committee for independent 
+power producers from renewable energy 
+Ministerial Decisions issued on
+9 February 2017 and 30 August 2018
+• Ratifies connection grid codes
+• Ratifies typical contracts for the purchase and transmission of 
+electricity in various production regimes
+Governmental decree No. 2017-389 of 
+9 March 2017
+• Supports investment through financial incentives under the 
+Investment Law
+Governmental decree No. 2017-983 of 
+26 July 2017
+• Regulates the Energy Transition Fund (Funds de transition 
+énergétique)
+Governmental decree of 30 August 
+2018
+• Approves the revision of the standard power purchase agreement 
+contracts for the sale of electricity produced by renewable energy 
+sources under authorisation scheme to the Tunisian Company of 
+Electricity and Gas (STEG) 
+Law No. 2015-12 was amended to Law 
+2019-47 of 29 May 2019 • Amended to allow for corporate power purchase agreements 
+Governmental Decree No. 2020-105 • Amended and completed decree No. 2016-1123 of August 24, 2016
+Table 10. Overview of renewable energy support policies and regulation, Tunisia
+Source: STEG (2019a)According to Law No. 2015-12, renewable energy 
+projects are to be developed under four different legal 
+regimes. These are set out in Table 11.
+Legislation Type
+Energy production for self-production • Installations connected to the low-voltage grid need approval from 
+the Tunisian Company of Electricity and Gas (STEG).
+Authorisation scheme: energy-selling 
+projects ≤ maximum power
+• Installations connected to the medium- and high-voltage grids 
+require an authorisation from the Ministry of Industry, Energy 
+and Mines.
+• A prior agreement is granted by MIEM following a call for projects.
+• The agreement is valid for a period of two years for photovoltaic 
+projects and three years for wind projects, during which the 
+developer will have to form the project company and complete 
+the plant with a possibility for extension by one year subject to 
+challenges within the project.
+• The developer receives authorisation from MIEM to operate and 
+produce electricity after the commissioning test by the Tunisian 
+Company of Electricity and Gas.
+Concession scheme for energy-selling 
+projects > maximum power
+• MIEM grants a concession after a public call for tenders.
+• Projects are carried out in accordance with the concession 
+procedures defined by Decree No. 96-1125 of 20 June 1996. 
+• Project Agreement (PPA and concession agreement) are submitted 
+to Parliament for validation.
+Concession scheme for energy export 
+projects
+• MIEM grants a concession after a call for tenders.
+• Contracts are submitted to Parliament for validation.
+Table 11. Criteria under the legal regimes for renewable energy projects, Tunisia
+Source: GIZ (2014); ANME (2015a).
+Note: Maximum power = the maximum installed capacity of electricity generation projects from renewable energy intended to meet the needs of local consumption. It is subject to 
+authorisation by MIEM and is set by Decree No. 2016-1123: 10 MW for solar PV and solar thermal; 30 MW for wind energy; 15 MW for biomass; and 5 MW for projects 
+using other renewable resources.
+Meteline – Kchabta wind park in Bizerte
+Photograph: National Agency for Energy Conservation (ANME)ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+Box 3. Addressing power system flexibility 
+in Tunisia
+Tunisia has set ambitious renewable energy targets 
+in its Tunisia Solar Plan (TSP) for the year 2030. A 
+national plan to maintain grid stability is essential, 
+taking curtailment into account, as the current grid 
+may need to be reinforced to handle additional 
+capacity from renewable energy sources due to 
+current grid infrastructure limitations. This will 
+become a major concern when large-scale projects 
+under the concession scheme come online. 
+In this context, IRENA’s analysis in Power System 
+Flexibility for the Energy Transition finds that, for the 
+effective management of large-scale VRE, several 
+flexibility sources need to be exploited and planned 
+for ahead of time. 
+Flexibility in the energy system can be provided 
+by different sectors, including transmission and 
+distribution systems, storage and more flexible 
+demand (demand-side management and sector 
+coupling). Therefore, proper planning methodologies 
+need to be undertaken to integrate all energy system 
+players, including both technical and institutional 
+aspects. Figure 25 shows the different flexibility 
+measures that may be taken at different timescales 
+to address VRE curtailment. In this context, China has 
+integrated different measures to address curtailment, 
+including the improvement of operational practices, 
+implementation of wholesale energy markets, grid 
+infrastructure development, integration of demandside programmes with a focus on interruptible loads 
+and pumped hydro solutions (IRENA, 2018a).
+IRENA finds that planning for flexibility is a 
+complex multi-step process that requires significant 
+mathematical computation using the appropriate 
+tools. As such, IRENA has developed the Flex tool to 
+assess the current flexibility of the power system in 
+different countries. The Flex tool is a user-friendly tool 
+that analyses the power system holistically, considering 
+traditional and innovative technologies that enrich the 
+concept of flexibility, including flexible demand, energy 
+storage and sector coupling. Moreover, the Flex Tool 
+can be used to carry out long-term analysis, proposing 
+various solutions to Tunisia’s goal of including 30% 
+renewables in its future power system by 2030. 
+Addressing variable renewable energy in long-term 
+planning comes as a timely assessment, as MIEM is 
+currently drafting the updated national plan for the 
+years 2021 – 2025, as stipulated by articles 40 and 
+43 of law No. 2015-12. The plan is expected to include 
+disaggregated renewable energy targets defined for 
+each production regime. IRENA’s FlexTool analysis 
+aims to help the MIEM assess different flexibility 
+solutions to enable Tunisia to reach key goals and 
+fulfil the TSP.
+Figure 29. Flexibility solutions
+Time
+SYSTEM
+OPERATIONS
+ VRE IMPACTS
+DEMAND SIDE FLEXIBILITY
+ELECTRICITY STORAGE SOLUTIONS
+Cost
+OPERATIONAL FLEXIBILITY
+SECTOR COUPLING
+SUPPLY SIDE FLEXIBILITY 
+Increased cycling, 
+increased challenges to 
+dispatch inflexible units
+ Demand Response
+Flywheels Batteries Pumped Hydro
+Co-optimised hydro-thermal unit 
+commitment
+Pooling of resources
+Intra-day markets
+ Improved VRE forecasting
+Power-to-Heat
+EVs Power-to-Gas
+Retrofitting units, new flexible units
+Synthetic inertia Down regulation by VRE
+Geographic dispersion of VRE*
+10 sec …. 1 min …. 10 min …. 30 min …. 1 hour …. 1 day …. 
+Regulation Balancing Unit Commitment
+Frequency stability 
+issues due to high Rate 
+of Change of 
+Frequency
+Increased need
+for operating 
+reserves
+days …. 
+Load following
+Increased net 
+load rampsFor the integration of renewables onto the electricity 
+grid, key items under Law No. 2015-12 must be 
+accounted for. These include power system flexibility 
+for the integration of variable renewable energy 
+(VRE) onto the grid. Current grid infrastructure 
+and operations accommodate the current share 
+of renewables in the grid, which is at 2.5%. The 
+TSP expects a share of 30% by 2030, however, 
+and therefore further measures must be taken. 
+In this context, Article 3, Article 4 and Article 40
+of Law No. 2015-12 account for power flexibility 
+measures. 
+Law No. 2015-12 requires the creation of a national 
+plan to produce renewable electricity. MIEM, in 
+consultation with the national council of energy, 
+is responsible for developing a national plan for 
+electricity generation from renewable energy.
+Article 3 of Chapter II of the law lists the requirements 
+of the national plan (i.e. grid stability, consistency 
+in supply and demand, reserves, rate of industrial 
+integration, and inventory zones), while Article 4 of 
+Chapter II sets out the process for agreement of the 
+national plan. 
+The approval of the plan by government decree on a 
+proposal by MIEM is followed by agreement from the 
+ministers in charge of finance, national defence, state 
+property, agriculture, environment, equipment and 
+local communities. 
+Meanwhile, Article 40 of Chapter VI deals with the 
+timing of the national plan: it must be finalised and 
+approved within five years from the date of the law’s 
+entry into force. The plan will include disaggregated 
+renewable energy capacity targets by technology and 
+production regime.
+Self-consumption scheme
+The main regulatory and administrative provisions for 
+renewable energy production for self-consumption 
+vary according to the nature of the project, with the 
+primary distinction being between projects connected 
+to the LV grid or the MV grid (Table 12). 
+Solar PV site in Tunis
+Photograph: National Agency for Energy Conservation (ANME)ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+Self-consumption scheme
+Characteristics Projects connected to 
+low-voltage (LV) grid
+Projects connected to 
+medium-voltage (MV) grid
+Eligible selfproducers
+• All customers of the Tunisian Company of 
+Electricity and Gas (STEG) connected to 
+LV network
+• Any local authority, public or private 
+establishment operating in the industrial, 
+agriculture or tertiary sector subscribed to 
+STEG
+• Any facility connected to the MV or highvoltage grid
+Renewable 
+power capacity
+• Installed power capacity must not exceed 
+that of the STEG subscriber
+• No limitations on power contracted but 
+the producer cannot sell surplus electricity 
+greater than 30% of annual production to 
+STEG
+Technical 
+requirements
+• Installation must be technically compliant 
+with the specifications for electricity 
+dispatch from renewable energy connected 
+to the LV network
+• Wheeling services to areas of consumption 
+are available for a fee
+• Installation must be technically compliant 
+with the specifications for the connection 
+and evacuation of energy produced from 
+renewable energy installations to the MV 
+and high-voltage network.
+Administrative 
+requirements
+• Project request subject to approval from 
+STEG
+• Obtain an authorisation by the minister 
+in charge of energy (on the advice of the 
+Technical Commission for Independent 
+Power Production from Renewable Energy 
+(Commission Technique de production 
+privée à partir des Energies Renouvelables).
+Validity of 
+contract
+• One year, with tacit renewal for period of 
+one year • 20 years
+Specific 
+provisions for 
+photovoltaic 
+solar 
+installations
+• Qualified installers are extracted from the 
+lists of the National Agency for Energy 
+Management (Agence Nationale pour la 
+Maîtrise de l’Energie)
+• Photovoltaic modules must be certified 
+by the National Agency for Energy 
+Management.
+• Inverters must be certified by STEG.
+• Sale of surplus production: up to 30% of 
+the annual production of the renewable 
+energy plant
+• Sales tariff of surplus production differs 
+according to the hourly period
+Table 12. Provisions for self-consumption projects connected to low- and medium-voltage grids,
+Tunisia
+Sources: MDICI (2017); ANME (2014).Authorisation scheme
+Under the Authorisation scheme, energy-selling 
+projects can be initiated subject to meeting all the 
+regulatory and technical requirements, with final 
+approval from MIEM. The agreements are granted 
+within the limit of the overall installed capacity defined 
+in the annual notice relating to the renewable capacity 
+to be achieved through the authorisation system.
+Following lengthy discussions regarding the 
+guaranteed purchase tariffs and the modalities of their 
+application and revision, however, the decision was 
+taken to grant authorisations only based on calls for 
+projects announced by MIEM and within the limits of 
+the objectives set by the annual notice. According to 
+this approach, electricity sales prices are not fixed and, 
+instead, are offered by private developers interested 
+in participating in calls for projects. Figure 30 sets 
+out the procedure applied under the Authorisation 
+scheme. 
+Power purchase agreements
+The PPA is an essential formal consensus that governs 
+the power transaction between the renewable energy 
+producer and the off-taker, serving as a key element 
+of project bankability. PPAs should be designed to 
+be relevant to country context for private project 
+developers and government alike. Accordingly, Tunisia 
+has developed bankable documentation (projects 
+agreements), including a standard PPA form under 
+the Authorisation and Concession schemes, approved 
+under the decision of 30 August 2018 (repealing that 
+of 9 February 2017) by MIEM. 
+As such, the PPA between developer and utility must 
+include the following key items (MEMTE, 2017b): 
+• Contract term: Initial term of 20 years, with a take 
+or pay mechanism.
+• Tariffs: Individually determined, based on offer 
+made by developer.
+• Connection costs: Developer’s responsibility, 
+including initial connection and reinforcement costs.
+• Technical requirements: Electricity produced is 
+supplied in line with connection codes, approved by 
+the ministry.
+• Force Majeure: No compensation is available under 
+the PPA for either party affected in the context. 
+STEG is entitled to suspend performance under 
+political force majeure.
+• Transfer conditions: Capital transfers are allowed, 
+subject to approval by MIEM.
+In addition to the PPA, several other key documents are 
+required: agreements on implementation, operation 
+and maintenance, supply and installation, as well as 
+finance facility term sheets. In this context IRENA, 
+together with the Terrawatt Initiative, launched 
+the Open Solar Contracts project to standardise 
+contracts and thereby simplify and streamline project 
+development and finance practices. In this regard, the 
+Open Solar Contracts project will reduce risk, save time 
+and unlock greater investment by providing confidence 
+to the project developers (IRENA, 2018a).
+Figure 30. Procedure for energy-selling projects under Authorisation scheme, Tunisia
+Source: MEMTE (2017a)
+Preliminary site authorisation 
+1. Obtain the preliminary agreement of MEMR
+2. Create the project company
+3. Obtain the authorisations required by the 
+ regulations, conducting studies relating to 
+ electrical connection and environmental 
+ impact, financial closure, acquisition of 
+ equipment and construction of the plant
+4. Conclude PPA with STEG
+5. Install and commission the plant
+6. Obtain the final authorisation
+7. Operate the plant
+Developer provisions
+• Project capacity, equipment specifications, 
+ and an implementation plan for the project
+• Term sheets agreed upon by lenders and 
+ backing parties
+• An analysis of local industrial integration 
+• Environmental and social impact assessment 
+Site proposal criteria
+• Resource potential
+• Availability of the site for purchase or lease 
+ by providing an agreement or ownership 
+ title depending on whether it is under 
+ private or state ownership
+First-stage
+bidding criteria
+Land
+requirements
+Provisional
+authorisation ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+Figure 31. Project proposal procedure for energy-selling projects under Concession scheme, Tunisia
+Source: Bennani and Associés (2018)
+Minimum
+power
+Wind 
+30 MW
+SolarPV
+10 MW
+Biomass
+15MW
+Other 
+renewable 
+sources
+5 MW
+Two-stage selection process Project development
+• Pre-qualification based on 
+ technical and financial 
+ capabilities 
+• Private bid with pre-qualified 
+ bidders
+• Project company (design, 
+ finance, construct, own, 
+ operate and maintain project)
+• Power purchase agreement 
+ for 20 years
+• Finalised agreements 
+ submitted to the ministry
+Concession scheme
+Projects under the Concession scheme are defined 
+by Decree No. 2015-12, which states that private 
+production projects with capacity exceeding 
+minimum power (Figure 31), defined by MIEM, are 
+to be carried out through concessions in accordance 
+with the legislation in force following call for tenders. 
+The scheme procedure is outlined in Figure 31. 
+3.4 Renewable energy 
+institutional framework
+Several institutions involved in electricity governance 
+are responsible for renewable energy deployment. 
+There are various support mechanisms for the 
+deployment of renewable energy, from setting an 
+enabling strategy and regulatory framework, to 
+providing support for schemes in the form of grants 
+and subsidies (further details on the energy-relevant 
+institutions and their respective roles are presented in 
+Annex I). 
+Furthermore, several associations and institutions are 
+active in the field of vocational training, including the 
+following:
+The National Centre for Continuous Vocational 
+Training and Professional Promotion (Centre 
+National de Formation Continue et de Promotion 
+Professionnelle) is responsible for managing the 1.5% 
+of tax revenues set aside for the vocational training of 
+professionals in the field of renewable energy.
+The National Centre for Instructor Training and 
+Training Development (Centre National de Formation 
+de Formateurs et d’Ingénierie de Formation) and 
+the Mechanical and Electrical Industries Technical 
+Centre (Centre Technique des Industries Mécaniques 
+et Electriques) are responsible for developing training 
+programmes and products to disseminate the 
+necessary knowledge to build competency and skills. 
+In the field of certification and standardisation, the 
+National Institute of Standardisation and Industrial 
+Property (Institut National de la Normalisation et de 
+la Propriété Industrielle) is responsible for standards 
+development, certifying compliance and ensuring the 
+Tunisian national certification system accords to ISO 
+standards. 
+Renewable energy programmes and project 
+pipeline 
+Following the completion of the renewable energy 
+regulatory framework, MIEM made an announcement 
+in January 2017 that it would adjust the renewable 
+electricity capacity to be installed during the period 2017–
+2020. According to this announcement, the production 
+programme for the period 2017–2020 is limited to solar 
+PV and wind energy, and aims to achieve an additional 
+capacity of 1000 MW. The same document sets the 
+additional capacity to be installed during the period 
+2020–2025 at 1 250 MW. It also specifies that a portion 
+of this capacity may be advanced and implemented 
+during the period 2017–2020.7
+7 Tunisia updated the targets in the TSP in May 2019 to accurately reflect the current targets and progress undertaken in the country.The renewable electricity generation programme for 
+the period 2017–2020 was updated in April 2018 by 
+MIEM. According to this adjustment, the power level 
+to be achieved during this period was set at 1 860 MW 
+instead of the 1 000 MW initially planned. The largest 
+capacity increase was recorded for projects under 
+concessions, as shown in Table 13. 
+Notably, the upward revision of renewable energy 
+capacity for the period 2017–2020 was decided after 
+a national conference in Tunis on 7-8 December 2017. 
+Discussion took place on the possibility of accelerating 
+the implementation of the TSP. By increasing the 
+capacity for concessions, the Tunisian government 
+seeks mainly to cut costs via economies of scale.
+In 2019, the renewable energy targets set in the TSP 
+were updated and extended to 2022. 
+MIEM launched pre-qualification tenders on 23 May 
+2018 for the realisation by concession (build, own, 
+operate) of five solar PV plants, totalling a capacity 
+of 500 MW, and four wind farms with a total capacity 
+of 500 MW. The sites planned for these projects 
+already have been selected and they mostly belong 
+to the state, except for 200 MW of wind, for which 
+the land should be proposed by the developers 
+with a maximum capacity of 100 MW per project. 
+The geographical distribution of solar PV and wind 
+concessions is provided in Table 14.
+Type of project Mode of realisation Wind (MW) Solar photovoltaic 
+(MW)
+Concession Tender (independent power 
+producer) 500 500
+Authorisation Call for projects 130 140
+Self-consumption Spontaneous requests 80 130
+Tunisian Company of 
+Electricity and Gas 
+(STEG)
+Tender (engineering, procurement 
+and construction) 80 300
+Total 790 1 070
+Renewable energy 
+technology
+Regions with projects 
+under Concession scheme
+Capacity
+(MW)
+Solar photovoltaic
+Kairrouan 100 
+Sidi Bouzid 50 
+Gafsa 100 
+Tozeur 50 
+Tataouine 200 
+Wind
+Kebili 100 
+Nabeul 200 
+Pending developer proposals 200 
+Table 13. Revised renewable energy programme targets, Tunisia, 2017–2022
+Table 14. Geographical distribution of renewable energy projects under Concession scheme, Tunisia
+Source: MEMTE (2018a).
+Sources: MEMTE (2018b), MEMTE (2018c).ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+MIEM announced on 23 November 2018 the list of 
+developers who pre-qualified to participate in two 
+private tenders for the concession of PV and wind 
+power plants (Refere, 2018). The pre-qualified lists 
+include:
+• 16 companies and consortia for the concession of 
+PV power plants on state land;
+• 12 companies for the concession of wind farms on 
+state lands; and
+• private sites - still pending.
+Candidates were invited to present bids for a 20-
+year concession contract at the start of 2019 with 
+energy sales to STEG (ANSAmed, n.d.). Despite the 
+delay in the bidding process, five bids were received 
+for the 500 MW solar tender. The proposed bids 
+were all within the range of USD 0.0244/kWh to
+USD 0.0286/kWh (MEMTE, 2019a). While all the 
+bids received were below USD 0.03/kWh, the
+USD 0.0244/kWh bid tendered by Scatec Solar for the 
+200 MW Tataouine project (Table 14) was the lowest 
+bid recorded in Africa (MEMTE, 2019a). 
+For renewable projects under the Authorisation 
+scheme, MISME proceeded in May 2017 to launch 
+the first call for projects for the development of
+210 MW from solar PV and wind. For projects under 
+authorisation in May 2018, the capacity of wind power 
+plants should not exceed 30 MW, and the maximum 
+capacity of PV power plants was set at 10 MW. The 
+breakdown of renewable energy plants covered by 
+this first call for projects under the Authorisation 
+scheme is provided in Table 15.
+Solar photovoltaic proposals under 
+Authorisation scheme
+The evaluation results of the proposals that came 
+out of this call for projects allowed the selection of 
+six solar PV projects, with a unit capacity of 10 MW, 
+and four projects of 1 MW capacity. The proposed 
+tariffs vary from USD cents 4.6/kWh to USD cent
+6.9/kWh for the 10 MW solar plants and from USD cents
+6.7/kWh to USD cents 9.7/kWh for the solar plants of 
+1 MW capacity (MEMTE, 2018d). 
+All project sites were proposed by the selected 
+developers. Preliminary studies carried out by STEG 
+have confirmed the possibility of connecting these 
+plants to the electricity grid and have estimated the 
+costs required for this connection. The solar projects 
+selected following the first call for projects will be 
+located on different sites in the regions of Sidi Bouzid, 
+Kairouan, Sfax, Kasserine, Tataouine, Gafsa and Beja.
+MIEM launched a second call on 30 May 2018 for 
+projects for solar PV power plants with a total capacity 
+of 70 MW; 60 MW for projects with a maximum 
+capacity of 10 MW; and 10 MW for solar PV plants 
+with a capacity not exceeding 1 MW. The deadline for 
+submitting applications was set for 15 August 2018, 
+which was extended to April 2018, and the results 
+were announced in April 2019 with an average tariff of 
+4.5 cents (USD 0.045)/kWh for projects with 10 MW 
+capacity and 7.2 cents (USD 0.072)/kWh for projects 
+with a capacity of 1 MW (MEMTE, 2019b).
+Under the Authorisation scheme, Tunisia has initiated 
+a third tender for the development and construction 
+of several solar power plants not exceeding 10 MW in 
+size (MEMTE, 2019c).
+Source Total capacity
+(MW)
+Maximum Individual 
+capacity
+(MW)
+Deadline
+Wind 60-120 up to 30 January 2019
+Solar photovoltaic
+60 1 to 10 April 2018; extended 
+to March 2019
+4 MW in April 2018; 
+extended to April 
+2019
+10 Up to 1 
+Table 15. Renewable capacities announced under the first call for projects, 
+Authorisation scheme, Tunisia
+Source: MISME (2019c).Wind projects under Authorisation scheme
+For wind projects, proposals received for the first 
+round were conditional on changes being made to the 
+terms of the PPA. As a result, bidding companies were 
+invited to submit new proposals by 18 December 2018 
+(an extension from the initial deadline of 15 August 
+2018), based on the new PPA that was approved by 
+order on 30 August 2018 and published in Tunisia’s 
+Official Gazette on 28 September 2018.
+Results were announced on 10 January 2019 and four 
+authorisations were granted with an average of tariff 
+received of 4.26 cents (USD 0.0426) /kWh (MEMTE, 
+2019d). 
+STEG renewable energy projects 
+STEG designed a programme for its future renewable 
+energy development in the period 2017–2022. STEG 
+began building a solar PV power plant in 2017 with 
+a capacity of 10 MW (extended to 20 MW) in Tozeur, 
+southeast Tunisia. The first 10 MW was commissioned 
+in the beginning of 2020 while the latter 10 MW is 
+under construction.
+According to the notice published by MIEM, the total 
+capacity of the renewable energy plants to be built 
+by STEG during the period 2017–2022 amount to 
+380 MW, of which 300 MW comprise solar PV and
+80 MW comprise wind energy. STEG has completed 
+the preliminary studies for these plants and the 
+selection of their sites. 
+3.5 Financial initiatives for 
+renewable energy
+The FTE is the specific instrument for the financial 
+support of energy policy in Tunisia. It was established 
+by the Finance Law No. 54-2013 of 30 December 
+2013 (article 67 -68) to replace the National Fund for 
+Energy Management, created in 2005, and whose 
+field of action was limited to the granting of direct 
+subsidies for certain energy management actions. 
+Through the creation of this new fund, the Tunisian 
+state seeks to boost the country’s energy transition 
+through diversification by providing funding to:
+• encourage investment in the field of energy 
+conservation;
+• support the creation and promotion of energy 
+companies;
+• facilitate the implementation of national programmes 
+contributing to energy conservation; and
+• support the implementation of the NDC through 
+the provision of smart subsidies, loans and equity.
+The FTE is funded by several resources, including:
+• taxes on the first registration of cars;
+• taxes on air-conditioning appliances;
+• taxes on energy products consumed;
+• taxes on used engine and spare part imports;
+• donations and grants from individuals and legal 
+entities to the fund; and
+• resources from the fund’s interventions.
+The FTE also may be financed through other resources 
+that can be allocated for its benefit, including funding 
+provided by international development funds. 
+The rules governing the organisation, functioning 
+and modalities of FTE intervention were fixed by 
+Governmental Decree No. 2017-983 of 26 July 2017. In 
+accordance with this decree, the support provided by 
+the FTE may be provided in the form of:
+• direct subsidies for tangible and intangible 
+investments;
+• additional credits to loans granted by banking 
+institutions;investment funding in the form of 
+equity investment; and
+Source Installed capacity
+(MW)
+Solar photovoltaic 300 
+Wind 80 
+Table 16. Proposed capacity for installation 
+by Tunisian Company of 
+electricity and gas, Tunisia
+Source: Bennani & Associés (2018).ENABLING ENVIRONMENT FOR RENEWABLE ENERGY
+• funding of national projects and programmes 
+initiated by the state and local communities.
+The amounts of the various subsidies provided by 
+the FTE are defined usually as a percentage of the 
+cost of the investment, with a ceiling amount defined 
+according to the purpose of the investment. The FTE 
+may also provide subsidised loans for renewable 
+energy projects. The conditions for receiving these 
+loans are as follows:
+• The need for a bank to participate in the financing 
+of the project.
+• The maximum amount of the FTE loan must not 
+exceed 50% of the cost of the investment.
+• The amount of the FTE loan must not exceed the 
+amount of credit granted by the bank.
+• The repayment period of the loan must not exceed 
+seven years.
+• The maximum grace period is two years.
+Despite the publication of the decree setting out 
+the FTE’s available interventions being July 2017, 
+the technicalities of supporting the fund through 
+additional loans and repayable endowments or 
+participation in the capital market have yet to be 
+defined, and its current intervention is limited to the 
+granting of subsidies.
+While the FTE’s support is limited to the provision 
+of subsidies, a new fund has been established under 
+Law No. 2016-71 - the Tunisian Investment Fund (FTE) 
+which enables the provision of grants and loans for 
+new investment projects. In the renewable energy 
+context, projects under the Authorisation scheme are 
+eligible to receive incentives from this fund, subject to 
+site-specific criteria.
+The grants provided vary between 15% and 30% 
+of the cost of the investment, ranging between 
+USD 390 000 and USD 1 170 000, respectively. 
+The different rates and amounts of subsidies and 
+additional loans accorded by the FTE in 2018 for 
+renewable energy are summarised in Table 17.
+Investment
+Subsidy Energy 
+Transition Fund 
+loan ceiling Rate (%) Max. amount 
+(USD)
+Intangible 
+investmentsFeasibility studies 70 11 700 -
+Assistance and support activities 70 27 400 -
+Other intangible investments 70 27 400 -
+Tangible investments
+Individual solar water heater 
+(storage < 300 litres) USD 78/system -
+Individual solar water heater 
+(storage > 300 litres) USD 158/system -
+Collective solar water heating in industrial and 
+tertiary sectors 30
+USD 100 per 
+square metre of 
+solar collector
+-
+Biogas production 30 19 500 39 000
+Solar photovoltaic self-production connected to 
+low-voltage grid (residential) USD 470–590 
+per kilowatt
+1 200 -
+Solar photovoltaic self-production connected to 
+low-voltage grid (non-residential) 2 000 -
+Renewable energy self-production connected to 
+medium- and high-voltage grids 20% 78 000 235 000
+Electricity production not connected to the grid 
+by renewable resources
+USD 390–2 350 
+per kilowatt 19 500 39 000
+Table 17. Financial incentives provided by the Energy Transition Fund for renewable energy, 
+Tunisia, 2018
+Sources: MDICI (2017); ANME (2014).Key challenges and 
+recommendations 
+Conscious of the vulnerability and dependency of its energy situation, Tunisia has 
+set ambitious targets for the development of renewable energy, particularly in the 
+power sector.
+To achieve these objectives, Tunisia has undertaken several measures, including:
+• adoption of the TSP;
+• creation of an independent regulatory authority for the electricity sector to 
+enhance the framework for the mobilisation of renewable energy investment; 
+• development of innovative financing tools for promoting renewables in the 
+residential sector; and
+• strengthening of the FTE.
+Despite the recent reforms to encourage the involvement of the private sector 
+and accelerate the realisation of national objectives, there are several barriers that 
+continue to hold back more accelerated renewables deployment. The next section 
+presents the main challenges and the corresponding recommended actions to 
+overcome them, a result of the RRA process.
+4.1 Long-term energy planning
+Achieving higher shares of renewable energy in the electricity mix - as well as 
+successful integration of VREs such as wind and solar energy - into the national 
+electricity grid requires an integrated long-term energy planning process. Several 
+key factors should be considered, including:
+• evolution of electricity demand and the corresponding electricity production 
+and transmission infrastructure;
+• capacity of the current electricity grid to accommodate higher shares of 
+renewables and the need for its reinforcement;
+• renewable energy potential in different application segments (utility scale, 
+remote decentralised systems and cities);
+• land availability and access; and
+• topographical constraints and limitations. 
+Yet, Tunisia does not have a solid long-term timeframe to account for capacity 
+additions. The integrated planning for the period 2017–2022 was set mainly by MIEM 
+with reference to the objectives of the TSP. The preparatory phase of this programme 
+did not include all the relevant stakeholders and did not consider the various aspects 
+relating to the implementation of energy planningsuch as access to landKEY CHALLENGES AND RECOMMENDATIONS
+Furthermore, Law No. 2015–12 calls for a national plan 
+to produce renewable electricity within five years from 
+the date the law entered into force. The national plan 
+will have to be data driven; include a holistic evaluation 
+of different renewable energy technologies; and 
+ideally consider a mix of renewable power generation 
+assets that include utility-scale power plants, remote 
+decentralised grids, and residential distributed 
+systems. With respect to utility-scale generation 
+targets, the zones currently allocated for concessions 
+could be a starting point. A comprehensive leastcost assessment for the development of generation 
+assets, however, is yet to be developed, in addition 
+to a corresponding assessment of the cost of 
+reinforcing the electricity grid. Such a plan is yet to 
+be developed although, in 2018, ANME initiated the 
+preparatory phase to define the necessary studies for 
+the development of this plan.
+Moreover, to meet the ambitious targets of the TSP (i.e. 
+30% renewable share in the electricity mix) - coupled 
+with the reduction in the cost of VRE, solar and wind 
+power deployment - is likely to increase, particularly 
+when the concession schemes come online. Achieving 
+these ambitious targets will require corresponding 
+investments in the grid to maintain reliability and 
+avoid curtailment. Fortunately, numerous new 
+technologies and approaches are available that can 
+ease the integration of variable renewables (wind and 
+solar PV) into electricity systems (IRENA, 2019b).
+Establish an energy planning framework with 
+higher shares of renewables
+The long-term energy planning process must be 
+solidified through a participatory approach involving 
+a range of stakeholders, thereby ensuring stronger 
+institutional buy-in and rapid resolution of possible 
+constraints. The plan may also address electricity grid 
+infrastructure development that will help smooth the 
+integration of VRE into the system. The plan should 
+provide long-term visibility on renewable energy 
+development prospects in Tunisia.
+Within the planning framework, the monitoring 
+system also must be evaluated and revised as needed 
+to permit regular updates, taking into account 
+implementation constraints, technological advances, 
+economies of scale and national climate pledges. With 
+rapidly decreasing costs, storage brings substantial 
+value for grid management as a stand-alone asset, as 
+well as when integrated with renewable power supply. 
+When deployed as part of a holistic strategy storage, 
+coupled with sector coupling, also has the potential 
+to reduce the investment needs in transmission and 
+distribution infrastructure to integrate higher shares 
+Consider adopting renewable energy targets 
+for end-use sectors 
+While renewable energy penetration in the power 
+sector has been the government’s priority, strong 
+and clear targets for renewables deployment in enduse sectors would signal the political commitment of 
+the government to the public, investors, international 
+institutions and other relevant stakeholders. This also 
+applies to end users in the industrial and residential 
+heating and cooling, along with the transport sectors.
+As a first step, the potential and feasibility for the 
+deployment of various technology options in end-use 
+sectors could be assessed, including, electrification 
+of end-use sectors (see Annex I). As the second 
+step, IRENA finds that policies are the main driver 
+for the uptake of renewables in end-use sectors, 
+where government programmes would pave the way 
+for robust engagement by the private sector in the 
+long-term by promoting competition and innovation 
+in deployment. In general, push, pull and integrated 
+policies, such as mandates and taxes, coupled with 
+financial instruments for research, development and 
+demonstration as well as specific sector targets, would 
+stimulate behavioural and market growth (IRENA, IEA 
+and REN21, 2018).
+Improve the mapping of renewable energy 
+resources
+The long-term planning process requires the 
+establishment of a solid resource database provided 
+by the detailed zoning of the renewable energy 
+resources across the country, particularly for solar and 
+wind energy. A genuine resource mapping process 
+should include, but not be limited to:
+• quantitative assessment of resource potential for 
+various renewable energy resources;
+• distance to the grid and the nearest sub-station;
+• distance to load centres;
+• environmentally sensitive areas; and
+• land topography.
+In this context, IRENA - with its regional partners 
+the Regional Centre for Renewable Energy and 
+Energy Efficiency (RCREEE) and the League of Arab 
+States (LAS) are currently supporting every country 
+in the region, at an operational level, to build solid 
+foundations for the uptake of renewables. The partnership is conducting a zoning and suitability 
+study for utility-scale and decentralised solar and wind 
+applications to harness the datasets and methods 
+developed through the Global Atlas initiative. The 
+study would combine the resource quality with 
+local constraining criteria, such as the transmission 
+distance and load centres, to provide insight into the 
+theoretical installable capacity and prospective zones 
+in each case for long-term planning to accommodate 
+high shares of VRE, policy and regulatory regime 
+planning.
+Additional analyses would assess the financial viability 
+of identified resource-rich areas, such as estimated 
+investment needs and the levelised cost of electricity. 
+In the urban context, 3D building rooftop and resource 
+irradiation models may assist in identifying the optimal 
+business and policy models required to activate this 
+market.
+Simplify procurement procedures for power 
+grid development
+STEG is currently developing studies for the 
+development and reinforcement of the national 
+electricity grid infrastructure to align renewable 
+generation development with grid infrastructure 
+reinforcement to enable smooth integration of 
+renewable electricity. These studies would identify the 
+necessary grid infrastructure development scenarios 
+needed, based on planned solar and wind electricity 
+capacity additions to the grid, reaching to 1 000 MW 
+as per current plans. 
+The implementation of grid infrastructure projects 
+by STEG, however, is subject to lengthy public 
+procurement procedures, delaying the evacuation 
+of electricity from the completed renewable energy 
+projects. Simplification and streamlining of such 
+procedures will help reduce delays and thus prevent 
+possible curtailment of electricity.
+4.2 Regulatory framework for renewable 
+electricity generation
+The implementation of the current regulatory 
+framework for renewables presents several obstacles 
+and challenges for private sector participation. 
+Strengthening the confidence of private investors 
+to invest in renewables would require the 
+enhancement of relevant primary and secondary 
+legislation (particularly, Law No. 2015-12, Decree No. 
+2016-1123 and ministerial orders of 9 February 2017). 
+Furthermore, based on past experiences - and given 
+the inadequacy of information and lack of clarity on 
+the regulatory environment and tendering process 
+- stronger involvement of key stakeholders in the 
+revision process of the regulatory framework would 
+enable addressing some of the key concerns of private 
+investors.
+Under the Self-consumption scheme, developers 
+are subject to complex administrative procedures, 
+including the requirement for a preliminary validation 
+of the installation request by STEG, the examination 
+of the project by the technical commission CTER and 
+the publication of the agreement signed by MIEM 
+in Tunisia’s Official Journal. According to the 
+renewable energy guides released in May 2019, 
+validating requests for projects connected to the MV/
+HV grid takes six months. The lengthy administrative 
+procedures particularly discourage small-scale 
+renewable energy project developers from advancing 
+their projects. 
+In addition, the current regulatory framework 
+stipulates a complex metering and billing system 
+for establishments connected to the MV grid, which 
+are registered under the uniform tariff regime. This 
+mode of energy metering excludes those consumers 
+that do not match the required renewable energy 
+production profile, including solar PV projects by local 
+administrations for public lighting purposes. 
+The tariffs for the sale of surplus electricity produced 
+are currently set at low levels and have not been 
+revised since 2014, despite multiple increases in 
+electricity prices. This has constrained growth 
+electricity production, pushing self-consumers to 
+reduce their installed renewable capacity to levels in 
+line with their own consumption needs, rather than 
+selling excess production to STEG.
+With respect to the Authorisation scheme, one 
+of the main concerns for private developers is the 
+absence of standardised contractual documents 
+for bid submissions, thus resulting in discrepancies 
+and lack of transparency, eventually reducing the 
+bankability of PPAs. In general, the absence of any 
+guarantee scheme regarding the off-taker risks limits 
+the attractiveness of PPAs.
+The results of the first call for projects of May 2017 
+highlighted the constraints in project bankability, 
+where most private sector offers were conditional 
+upon the change in the structure of the PPA. KEY CHALLENGES AND RECOMMENDATIONS
+Owing to this problem, no wind project has been 
+selected at this round of call for projects.
+Building on feedback received from the first round, 
+MIEM reviewed the contract and made amendments to 
+the PPA template. These changes, however, were not 
+fully reflected on the ground – various stakeholders 
+were unaware of the consultative process undertaken 
+due to insufficient communication and information 
+from the ministry to private stakeholders. 
+The second round of calls for projects launched on
+30 May 2018 for 70 MW of solar PV and 130 MW 
+of wind energy also has reflected the absence of 
+developer and lender confidence in the process and 
+the overall renewable energy market. Additionally, 
+private developers have often raised concerns 
+pertaining to land acquisition. With the interest shown 
+by these developers in regions with high potential for 
+renewable energy and within proximity of the grid, 
+the price of such land has increased considerably. 
+These landholdings are generally agricultural, and 
+several administrative procedures must be followed 
+to obtain the authorisation to use them for renewable 
+energy facilities.
+This situation has prompted developers to search for 
+state land; however, renewable energy Law No. 2015-12 
+does not set clear criteria for the allocation of state land 
+to private investors. To overcome this problem, MIEM is 
+considering an alternative law that allows temporary 
+occupation of state land by the private sector for a 
+period not exceeding three years. 
+Corporate PPAs under Law 2019-47 will hedge against 
+rising electricity costs, thus presenting a trade-off for 
+the national utility, STEG. Under the Concession scheme, 
+the requirement to have the parliamentary approval 
+of the concession agreements leads to delays in the 
+implementation of the projects under this scheme.
+A virtual platform should be created under the current 
+Authorisation scheme and made accessible to all project 
+developers. The platform would serve as the database 
+for the contractual documents necessary for bid 
+submissions. The public disclosure of these documents 
+will strengthen procurement process transparency and 
+provide clarity.
+Projects under the Authorisation scheme also may 
+encounter obstacles in the form of complex landacquisition agreements, thus dampening the appetite 
+of project developers. A complete zoning analysis, 
+therefore, would be advisable ahead of the next round 
+of large-scale projects, with a view to identifying the 
+most attractive, technically viable and economical 
+locations for solar PV and wind energy investments 
+(Recommendation S.4.1).
+The project approval processes under the Concession 
+scheme can also be simplified. An approval mechanism 
+could be placed under the authority of MIEM to 
+accelerate project implementation.
+Standardise PPAs for renewable power 
+procurement
+The key design elements of current renewable energy 
+PPAs are advised to be reviewed, along with the 
+development of standardised PPAs. Other contractual 
+project document templates for renewable energy 
+projects also should be reviewed as per international 
+best practice. 
+With the inclusion of corporate PPAs, the key elements 
+may be compared to that of utility-scale PPAs to 
+better understand export criteria. IRENA finds that 
+an auction process run by the system operator lowers 
+possible bids for capacity and power, where the 
+winning bidders would then be able to sign PPAs with 
+corporate buyer of electricity (IRENA, 2018b). This 
+may aid against expensive electricity tariffs. For the 
+duration of the PPA, STEG may need to be engaged 
+directly, as corporate PPAs diminish STEG revenues.
+In this context, the Open Solar Contracts initiative can 
+provide the necessary contractual templates that would 
+be included in the bidding process for solar projects. This 
+would include the PPA template (IRENA, 2018a) (Box 3).
+Streamline administrative procedures 
+With respect to the self-consumption scheme for 
+small self-production projects connected to the MV 
+grid with capacities not exceeding a certain threshold, 
+the obligation for ministerial agreement is mandatory, 
+while technical requests by STEG may be revisited. The 
+procedure for net-metering should be simplified. In 
+this regard, the government may consider adjustment 
+and periodic review of the sales tariffs associated with 
+surplus generation of self-producers
+A complete zoning analysis, 
+therefore, would be advisable 
+before the next round of largescale projects, to identify the most 
+viable locations for solar PV and 
+wind energy investments.Box 4. Open Solar Contracts, Tunisia
+The energy sector today has a legacy where 
+power generation projects were predominantly 
+large in scale and technically complex. Due to 
+their highly intricate transaction structures, these 
+projects require customised and complex legal and 
+financial solutions, which have been inherited by 
+renewables. This has resulted in high transaction 
+costs and prolonged project development timelines, 
+hindering further capacity growth, particularly in 
+small- to medium-scale renewable energy projects. 
+Redesigning prevailing market practices, therefore, 
+need to become a priority in project development 
+and finance, along with reforming the overly 
+complicated contractual framework.
+In response, the International Renewable Energy 
+Agency (IRENA) and the Terrawatt Initiative have 
+jointly launched a drive to simplify and streamline 
+the contractual framework for solar power, so as 
+to unlock greater investments globally. The Open 
+Solar Contracts initiative, supported by multiple 
+reputable law firms, will provide a standardised 
+contractual documentation solution that will be 
+freely and publicly available and is designed to be 
+universally applicable. 
+The initiative presents templates for six core 
+contracts: 
+1. Implementation agreement
+2. Power purchase agreement
+3. Supply agreement
+4. Installation agreement
+5. Operation and maintenance agreement
+6. Finance term sheet
+Work on the contracts was supported by the review 
+of specific model clauses to address cross-cutting 
+matters in a consistent manner and to reduce 
+complexity. These include:
+1. Governing law
+2. Dispute resolution
+3. Grid connection principles
+4. Corruption and sanction
+5. Force majeure
+The resulting contract templates are intended to be 
+used in conjunction with one another. This will ensure 
+that the scope of work and the risks are appropriately 
+allocated.
+The initiative aims to decrease transaction costs, 
+shorten project development timelines and establish 
+a balanced risk allocation between public and private 
+parties. The initiative also aims to simplify due diligence 
+processes by financiers and to build the ground for 
+project aggregation and securitisation. These would 
+eventually support the rapid and widespread scale-up 
+of solar power to the required level.
+Contract templates have been finalised and are 
+available to the global solar power community on 
+www.opensolarcontracts.org. 
+4.3 Institutional framework
+Current procedures for the execution of renewable 
+energy projects involve several ministries and public 
+institutions. In addition to MIEM and STEG, institutions 
+dealing with land, agriculture, finance planning 
+and environment are involved, along with several 
+commissions (e.g. CTER), ministries responsible for 
+the control of protected areas and restricted zones, 
+authorities issuing building permits, and those 
+responsible for financial and fiscal incentives. The 
+substantial number of actors involved in the process 
+poses a challenge in the absence of a clear and 
+transparent definition of the responsibilities of each 
+institutionsometimes resulting in conflicting roles
+Public institutions involved in renewable energy 
+projects, including STEG and MIEM, face the challenge 
+of insufficient human resources, thus hindering 
+the fulfilment of their commitments vis-à-vis 
+various processes during project development and 
+implementation. The limitations in number and skills 
+of staff are often a source of delay in the execution of 
+procedures, especially under the Self-production and 
+Authorisation schemes.
+Furthermore, in the absence of an independent 
+regulatory authority for the electricity sector, such 
+regulatory function is currently performed by MIEM. 
+The initiative aims to decrease 
+transaction costs, shorten 
+project development timelines 
+and establish a balanced risk 
+allocation between public and 
+private parties.KEY CHALLENGES AND RECOMMENDATIONS
+Law No. 2015-12 provides for the creation of a 
+specialised authority responsible for the examination 
+of possible disputes and appeals against decisions of 
+the public administration. At present, however, the 
+specialised authority functions as an advisory body to 
+provide recommendations to MIEM, raising concerns 
+over guaranteeing investors’ rights and ensuring 
+transparency during the development, execution and 
+operation of renewable energy projects.
+Clarify institutional responsibilities and 
+strengthen institutional capacity
+With many ministries and public institutions involved 
+Tunisia’s renewable power projects, the procedures for 
+obtaining the required authorisations are complicated 
+and time-consuming. To provide clarification on the 
+roles of various public institutions, consideration 
+should be given to creating an online platform and 
+developing a guidebook. 
+The platform would include details on the following:
+• Roles and responsibilities of the various public 
+institutions across the various stages of renewable 
+energy project implementation.Administrative 
+authorisations that should be obtained from each 
+institution.
+• Procedures necessary for obtaining such 
+authorisations.
+To ensure the effectiveness of the key public 
+institutions involved in the development of renewable 
+energy, local capabilities could be reinforced by:
+• making adequate and qualified human resources 
+available to relevant public institutions to perform 
+assigned duties; and
+• organising tailored capacity-building programmes 
+for skill development across the renewable energy 
+value chain, including the technical, economic, 
+administrative and legal aspects of renewable 
+energy to meet NDC targets.
+Improve the renewable energy investment 
+environment through establishment of an 
+electricity regulatory authority
+On the broader issue of electricity sector operation, 
+creating an independent regulatory authority 
+to oversee the electricity sector would enable 
+a transparent and competitive environment for 
+renewable energy developers. 
+The regulatory authority would, among other actions:
+• monitor effective implementation of the renewable 
+energy-related legislation;
+• validate technical conditions for evacuation and 
+grid connection concerns; 
+• ensure non-discriminatory access for private 
+renewable energy producers to the grid;
+• enforce compliance with the governing 
+administrative framework for renewable energy 
+project development and implementation; and
+• settle conflicts among market actors relating to the 
+interpretation or implementation of established 
+legislation and procedures.
+4.4 Financing
+The FTE is the main financing tool for renewable 
+energy and energy efficiency activities in Tunisia. 
+The actions financed by this fund and the forms of 
+its support have been broadened through Decree No. 
+2017-983 of 26 July 2017. It allows the participation 
+of this fund in renewable energy investments through 
+financing and equity participation, in addition to the 
+original function of grant support.
+The practicality of these new schemes is not yet 
+tested, and the participation of the FTE is still limited 
+to grant contribution to renewable projects. The 
+payment of such grant support by the ANME - in 
+charge of managing the FTE - is currently processed 
+with significant delay, causing serious financial 
+problems for companies that are active in the fields of 
+solar water heating and solar PV.
+The expansion of FTE support will require the 
+mobilisation of substantial additional resources. 
+Current annual resources are in the order of
+TND 40 million (about USD 14 million at July 2020 
+exchange rates), while the new scope of support will 
+require an annual budget of more than TND 100 million 
+(USD 36 million) (ANME, 2015a). The law establishing 
+the FTE envisages the possible imposition of taxes on 
+consumed energy products to resource the FTE, but 
+no provision has been made so far to this effect.
+In addition, the incentives granted by the FTE cover a 
+small proportion of the investment. Renewable energy 
+promoters generally seek to close the financing of 
+their projects through bank credits. Access to bank loans represents a major constraint 
+for renewable energy developers, especially for small 
+projects, since local banks are not accustomed to 
+assuming renewable energy project-specific risks 
+and generally require additional guarantees as a 
+precondition for loan approval.
+Operationalise the FTE
+Most small-scale applications of solar water heaters 
+and PV rooftop systems in the residential sector, 
+developed under the Prosol and Prosol électrique 
+programmes, have benefited from FTE support thanks 
+to its dedicated financing structures. Development 
+of clear and transparent procedures is needed to 
+implement FTE provisions and define operational 
+conditions and modalities, as well as to equip the 
+fund with adequate resources to support renewable 
+energy development at a larger scale. The structure 
+of the fund may be revisited, for instance, to give it 
+financial autonomy and help it act as an effective 
+financial intermediary that makes credit lines and 
+equity investment available to different projects.
+Create a dedicated financing mechanism for 
+solar water pumping
+Water pumping is vital to the agriculture sector. A 
+dedicated programme for solar water pumping set up 
+by the government - or MIEM under FTE support - and 
+supported by an appropriate financing mechanism 
+could encourage farmers to use solar PV systems as 
+a substitute for diesel generator sets. Such financing 
+mechanism could rely on concessional lending 
+schemes compatible with the repayment capacity of 
+farmers.
+Encourage the involvement of local banks in 
+renewable energy financing
+The development of renewable energy solutions, 
+especially for farmers and small- and medium-size 
+enterprises (SME), requires a stronger involvement 
+of local banks in the financing of renewable energy 
+projects. The technical dimension of local banks 
+may need to be reinforced to develop capacity for 
+renewable energy projects. Appropriate partnership/
+co-financing mechanisms should be explored with 
+international financing institutions and bilateral funding 
+partners, including climate funding instruments and 
+programmes, to meet the country’s NDC commitments. 
+In turn, allowing local banks to serve as a financial 
+intermediary to receive resources from international 
+banks may address risk concerns surrounding lending 
+proceduresIn this casesetting up credit lines through 
+intermediary financial institutions tends to attract 
+investments to the sector. This increase will lead to 
+Tunisia’s Central Bank’s endorsement of national loan 
+guarantee schemes. In this context, the scope of the 
+Tunisian Guarantee Company (Société Tunisienne de 
+Garantie) mechanism could be expanded to include 
+renewable energy projects. 
+Dedicated capacity building programmes can be 
+developed to target the local financial sector and 
+to incentivise project developers to improve the 
+knowledge of, and enable easier access to, the 
+available financial tools. This will help reduce and 
+better address the risks, as well as enhance investment 
+conditions relating to renewable energy projects. 
+4.5 Maximising the benefits of 
+renewable energy deployment
+Deployment of renewable energy presents considerable 
+socioeconomic benefits and opportunities for local 
+value creation along the various segments of the value 
+chain. This includes the sourcing of raw materials, 
+manufacture and assembly of components, construction 
+and installation, and operation and maintenance. 
+IRENA’s assessment of Tunisia’s renewable energy 
+manufacturing potential found that there is unfulfilled 
+potential to leverage local value creation along the 
+entire value chain of large-scale solar and wind 
+projects. For example, certain electrical and mechanical 
+components of wind turbines can be produced locally 
+that could account for more than 70% of wind turbine 
+costs (EIB and IRENA, 2015).
+Tunisia has well-qualified staff for research and 
+development activities, such that intellectual property 
+rights are well protected, and the quality of its 
+research institutes is acknowledged. Despite these 
+assets, upgrading programmes are necessary for local 
+companies to move from low-value to relatively highvalue activities (EIB and IRENA, 2015). 
+Implement upgrading programmes targeting 
+specific industrial actors
+Industrial upgrade programmes can serve as strong 
+assets in the effort to strengthen the capabilities 
+of local firms. These programmes would aim to 
+enhance the technological capabilities of SMEs by 
+enabling them to capture value from renewable 
+energy investments and to facilitate closer linkages 
+with business partners. Therefore, with the support 
+of public authorities and other local stakeholders, 
+developing industrial and service-sector policies can 
+help promote the solar and wind value chainsKEY CHALLENGES AND RECOMMENDATIONS
+Box 5. Leveraging local capacity
+and the materials required for 
+ renewable energy technologies
+Renewable energy development can drive economic 
+growth, create new jobs and enhance human health 
+and welfare. To design effective policies in support 
+of value creation, however, policy makers need a 
+thorough understanding of the materials and labour 
+requirements.
+The Leveraging Local Capacity report series (IRENA, 
+2017a; 2017b; 2018c) examines these requirements 
+in the solar photovoltaic (PV) and onshore and 
+offshore wind industries.
+The figure below shows the main materials needed 
+for plants in these industries, and thus indicates the 
+sort of industries most relevant to renewable energy 
+deployment. 
+Leveraging this capacity can provide expertise, 
+raw materials and intermediary products for the 
+manufacture of PV components, such as cells and 
+modules, inverters, trackers, mounting structures 
+and electrical equipment.
+For a typical 50 megawatt (MW) onshore 
+wind facility, almost 23 000 tonnes of concrete 
+are necessary for the foundations, and nearly 
+6 000 tonnes of steel and iron for the turbines and 
+foundations. For offshore wind, the requirements 
+are similar. Manufacturing the main components of 
+a wind turbine requires specialist equipment, as well 
+as welding, lifting, and painting machines that are 
+used in other industries, such as construction and 
+aeronautics. 
+Examining these requirements provides insights 
+into industrial capabilities that can be leveraged. 
+The figure below indicates the materials required 
+for a 1 MW solar PV plant, a 50 MW onshore wind 
+plant, and a 500 MW offshore wind plan.
+50 MW 
+Onshore
+Wind plant
+500 MW 
+Oshore
+Wind plant
+Glass 70
+tonnes 56
+Steel tonnes 47
+Concrete tonnes
+19
+tonnes
+Aluminium
+7
+tonnes
+Silicon
+7
+tonnes
+Copper
+6
+tonnes
+Plastic
+Concrete 22 836tonnes
+5 860
+tonnes
+Steel
+and Iron 681 tonnes
+Polymer
+materials 370tonnes
+Fiberglass
+168 tonnes
+Aluminium
+and alloys
+87 tonnes
+Copper
+and alloys
+46 tonnes
+Electronics
+and electrics
+37tonnes
+Oil and
+coolant
+201241 tonnes
+Low alloy and 
+electrical steel 656 190 tonnes
+Copper 115 149 tonnes
+Lead 033 71 tonnes
+Steel 
+(grey cast
+iron)
+391 47 tonnes XLPE
+insulation 066 27tonnes
+Polyproylene 1566tonnes
+Fiberglass 9423 tonnes
+High-alloy
+Chromium
+steel
+450 tonnes
+Pre-stressed
+concrete 230 tonnes
+NdFeB
+material
+1 MW Solar
+PV plant
+Materials for a solar photovoltaic plant (1 MW) onshore wind plant (50 MW) and offshore 
+wind plan (500 MW)Box 6. Leveraging local capacity, distribution 
+of human resources and 
+occupational requirements
+The Leveraging Local Capacity report series of the 
+International Renewable Energy Agency (IRENA, 
+2017a; 2017b; 2018c) generates valuable information 
+for policy makers on the occupational and skill structure 
+along the value chain. The figure below illustrates the 
+labour force requirement for solar photovoltaic plants 
+and onshore and offshore wind farms.
+To develop a typical 50 MW solar photovoltaic
+project, a total of approximately 230 000 persondays is required from project planning to 
+manufacturing, installing and operation and 
+maintenance (O&M), as well as decommissioning. 
+The highest labour force requirements are in O&M 
+(56%), followed by procurement and manufacturing 
+(22%) and construction and installation (17%). 
+In the procurement and manufacturing segment, 
+factory workers and technicians represent 64% of 
+the labour need, followed by engineers (12%). In the 
+O&M segment, construction workers account for 
+48% of the labour force requirements, followed by 
+safety experts (19%) and engineers (15%).
+Similarly, for the development of a 50 MW onshore 
+wind project, a total of 144 000 person-days is 
+needed. Human resource requirements are highest 
+in O&M (43% of total), followed by construction and 
+installation (30%) and manufacturing (17%).
+For offshore wind, the majority of human resources 
+(totalling 2.1 million person-days for a 500 MW farm) 
+lies in the manufacturing and procurement segment. 
+Existing manufacturing facilities for onshore wind 
+can serve the needs of the offshore sector, as many 
+components are comparable. Significant synergies 
+also exist between the offshore oil and gas industry 
+and the offshore wind sector.
+Project Planning 2%
+Project Planning 1 %
+229 055 person-days
+50 MW solar PV:
+144 420 person-days
+50 MW onshore wind:
+2.1 million person-days
+500 MW oshore wind:
+Project Planning 1% 22% 17%
+56%
+2%
+7%
+5%
+Procurement Manufacturing Transport Installation Grid
+Connection Operation andMaintenance Decommissioning
+17 % 30%
+59% 11 %
+2%
+1 %
+1 %
+43%
+24%
+Human resource needs for renewable energy infrastructure
+Educate and train skilled workforce
+Investment in the education and training of engineers 
+and other high-skilled workers is considered a key 
+building block for expanding local institutional capacity 
+in renewable technologies. Agencies and associations 
+already active in such initiatives include (i) the 
+Cairo-based Regional Center for Renewable Energy 
+and Energy Efficiency (RCREEE); (ii) the regional 
+RE-ACTIVATE project of the Germany International 
+Cooperation Agency (GIZ – Deutsche Gesellschaft für 
+Internationale Zusammenarbeit GmbH); (iii) ANME; 
+(iv) the National Centre for Continuing Vocational 
+Training and Professional Promotion (Centre 
+National de Formation Continue et de Promotion 
+Professionnelle); and (v) the Research and Technology 
+Centre for Energy Technologies (Centre de Recherches 
+et des Technologies de l’energie). Such stakeholders 
+have been development and dissemination of energy 
+policies, research activities and training on low- and 
+medium-power renewable applications (e.g. rooftop 
+PV, solar water heaters, water pumping). 
+Similar efforts could address the training needs of 
+large-scale projects. The role played by international 
+institutions on educational policies through the 
+inclusion of renewables in educational programmes 
+and strategic planning to meet the required skills 
+needs, therefore, will be essential to instil a skilled 
+workforceREFERENCES
+References
+ANME (Agence Nationale pour la Maitrise de L’energie) (2019), Agence Nationale pour la Maîtrise de l’Energie 
+(National Agency for Energy Management), www.anme.tn, (accessed 20 March 2021).
+ANSAmed (n.d.), “Enel vying for Solar and Wind Project in Tunisia”, 5 December, 
+www.ansamed.info/ansamed/en/news/sections/economics/2018/12/05/enel-vying-for-solar-and-wind-project-intunisia_cf029e32-4eed-40e5-8707-01ac67d83208.html. 
+Bennani & Associés (2018), Renewable Energy in Tunisia, Bennani & Associés , Tunisia Office, Tunis, 
+http://rnepartner.com/wp-content/uploads/2018/08/RnE-Tunisia-market-update-2018.pdf.
+Central Bank of Tunisia (2018), Annual Report on Banking Supervision 2017, Central Bank of Tunisia, Tunis, 
+www.bct.gov.tn/bct/siteprod/documents/sup_bc_ang.pdf.
+EIB (European Investment Bank) and IRENA (International Renewable Energy Agency) (2015), Evaluating 
+Renewable Energy Manufacturing Potential in the Mediterranean Partner Countries, EIB, Luxembourg City; IRENA, 
+Abu Dhabi, https://irena.org/-/media/Files/IRENA/Agency/Publication/2015/femip_study_evaluating_renewable_
+energy_manufacturing_potential_en.pdf.
+GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit) (2014), Analysis of the Regulatory Framework 
+Governing Network Access for Producers of Electricity from Renewable Energy Sources in Tunisia, GIZ, Bonn, 
+www.giz.de/en/downloads/giz2014-en-renewable-energy-resources-tunisia.pdf. 
+GIZ (2013), Study on the Renewable Energy Potential for Electricity Generation for National Consumption in Tunisia 
+and Export to the EU, Final Report, Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH, Bonn, 
+https://energypedia.info/images/2/2b/Renewable_energy_potential_for_electricity_generation_for_national_
+consumption_in_Tunisia_and_export_to_the_EU.pdf. 
+IEA (International Energy Agency) (2019), Data and Statistics, IEA, Paris, 
+www.iea.org/statistics/balances (accessed 16 January 2019).
+INS (National Institute of Statistics) (2018a), Energie, Statistiques Tunisie, 
+www.ins.tn/en/themes/energie (accessed 16 January 2019).
+INS (2018b), Energy Import Bill, http://dataportal.ins.tn/en (accessed 16 January 2019).
+IRENA (2020a), Power Sector Planning in Arab Countries: Incorporating variable renewables, IRENA, Abu Dhabi, 
+www.irena.org/publications/2020/Jan/Arab-VRE-planning.
+IRENA (2020b), Renewable Capacity Statistics 2020, IRENA, Abu Dhabi, 
+www.mitigationmomentum.org/downloads/NAMA-proposal-for-renewable-energy-and-energy-efficiency-in-thebuilding-sector-in-Tunisia_December%202015.pdf.
+IRENA (2019a), Renewable Power Generation Cost in 2018, IRENA, Abu Dhabi, 
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2019/May/IRENA_Renewable-Power-Generations-Costsin-2018.pdf.
+IRENA (2019b), Innovation Landscape for a Renewable -Powered Future, IRENA, Abu Dhabi, 
+www.irena.org/publications/2019/Feb/Innovation-landscape-for-a-renewable-powered-future.
+IRENA (2018a), Open Solar Contracts, International Renewable Energy Agency, Abu Dhabi, 
+https://opensolarcontracts.org.
+IRENA (2018b), Renewable Energy Auctions: A Guide to Design, International Renewable Energy Agency, Abu Dhabi, 
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2015/Jun/IRENA_Renewable_Energy_Auctions_A_
+Guide_to_Design_2015.pdf.IRENA (2017a), Renewable Energy Benefits: Leveraging Local Capacity for Solar PV, International Renewable Energy 
+Agency, Abu Dhabi, 
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2017/Jun/IRENA_Leveraging_for_Solar_PV_2017.pdf. 
+IRENA (2017b), Renewable Energy Benefits: Leveraging Local Capacity for Onshore Wind, IRENA, Abu Dhabi , 
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2017/Jun/IRENA_Leveraging_for_Onshore_Wind_2017.pdf.
+IRENA, IEA (International Energy Agency) and REN21 (2018), Renewable Energy Policies in a Time of Transition, 
+International Renewable Energy Agency, Abu Dhabi; Organisation for Economic Co-operation and Development/
+IEA, Paris; and REN21, Paris, 
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2018/Apr/IRENA_IEA_REN21_Policies_2018.pdf.
+MDICI (Ministry of Development, Investment and International Cooperation) (2017), Investment Law, MDICI, Tunis, 
+www.mdici.gov.tn/en/ministry/investment/presentation.
+MISME (2019a), Tunisia Energy Status 2019, Tunis, Ministry of Industry and Small and Medium Enterprises, 
+www.tunisieindustrie.gov.tn/
+MISME (2019b), National Energy Balance, Tunis, Ministry of Industry and Small and Medium Enterprises, 
+www.tunisieindustrie.gov.tn/
+MISME (Ministry of Industry, Small and Medium Enterprises) (2019c), Renewable Energy guide summary, Tunis, 
+Ministry of Industry and Small and Medium Enterprises, 
+www.tunisieindustrie.gov.tn/upload/ENR/Guide_detaille_ENR_tunisie_mai2019.pdf
+MEMTE (2019a), “Result of the restricted call for tenders for electricity production from solar PV projects in the 
+concession regime”, Ministry of Industry and Small and Medium Enterprises, Tunis, 
+www.energymines.gov.tn/web/resultat-AOR-500MW.pdf
+MEMTE (2019b), “Results of the second round of the call for projects for electricity production from renewable 
+energy under the authorisation scheme”, Tunis, 
+www.energymines.gov.tn/web/documents/resultat-second-round-solaire-10mw.pdf
+MEMTE (2019c), Call for projects for the production of electricity from renewable energies within the framework 
+of the authorization system third round, Ministry of Energy, Mines and Renewable Energy, Tunis, 
+www.energymines.gov.tn/web/addendum-troisieme-round.pdf
+MEMTE (2019d), Results of the second round of the call for projects for electricity production from renewable 
+energy under the authorisation scheme, Tunis, 
+www.energymines.gov.tn/web/documents/resultat-second-round-solaire-1mw.pdf
+MEMTE (2018a), Tunisia Renewable Energy Programme, Ministry of Energy, Mines and the Energy Transition, Tunis, 
+www.energymines.gov.tn/web/Actualites/livret_pst.pdf
+MEMTE (2018b), “Call for prequalification applications for the concession of wind power plants with a total capacity 
+of around 500 MW”, Ministry of Energy, Mines and the Energy Transition, Tunis, 
+www.energymines.gov.tn/web/autorisation-eo.htm
+MEMTE (2018c), “Call for prequalification applications for the concession of photovoltaic solar plants with a total 
+capacity of around 500 MW”, Ministry of Energy, Mines and Renewable Energy, Tunis, 
+www.energymines.gov.tn/web/autorisation-pv.htm
+MEMTE (2018d), “List of prequalified companies for the 200 MW concession”, Ministry of Industry, Mines and 
+Renewable Energy, Tunis, www.energymines.gov.tn/web/documents/liste-MEMprequalifies-PV.pdf
+MEMTE (2017a), Procedural Manual – Electricity Production Projects from Renewable Energy Subject to the 
+Authorisation System, Ministry of Industry and Small and Medium Enterprises, Tunis, 
+www.energymines.gov.tn/web/documents/Contrat-ventePPA.pdf.REFERENCES
+MEMTE (2017b), “Call for projects for the Production of Electricity from Renewable Energy within the Framework 
+of Authorisations – Round One”, Ministry of Industry and Small and Medium Enterprises, Tunis, 
+www.energymines.gov.tn/web/autorisation-eo2.htm.
+MEMTE (2016), “Official Journal of the Republic of Tunisia”, Article 2, Ministry of Energy, Mines and Renewable 
+Energy, Tunis, www.energymines.gov.tn/web/documents/cc-raccordementBT.pdf
+Mitigationmomentum (2016), NAMA for renewable energy and energy efficiency in the building sector in Tunisia, 
+March 2016, www.mitigationmomentum.org/downloads/NAMA-proposal-for-renewable-energy-and-energyefficiency-in-the-building-sector-in-Tunisia_December%202015.pdf
+ONE (Observatoire National de l’Energie et des Mines) (2018a), National Energy Balance 2016, ONE.
+pv magazine (2019a), “Lowest bid in Tunisia’s 500 MW solar tender comes in at $0.0244”, 23 July, 
+www.pv-magazine.com/2019/07/23/lowest-bid-in-tunisias-500-mw-solar-tender-comes-in-at-0-0244.
+pv magazine (2019b), “Tunisia reveals winners of second 70 MW PV tender”, 1 April, 
+www.pv-magazine.com/2019/04/01/tunisia-reveals-winners-of-second-70-mw-pv-tender. 
+pv magazine (2018), “Tunisia shortlists developers for 500 MW tender”, 29 November, 
+www.pv-magazine.com/2018/11/29/tunisia-shortlists-developers-for-500-mw-tender. 
+RES4MED (Renewable Energy Solutions for the Mediterranean) (2016), Renewable Energy Solutions for the 
+Mediterranean – Country Profiles: Tunisia, 
+www.res4med.org/wp-content/uploads/2017/11/Country-Profile-Tunisia-Report_05.12.2016.pdf.
+Solarthermalworld (2017a), Tunisia: National Subsidy Scheme Prosol Extended to 2020, Solarthermal world, 
+www.solarthermalworld.org/news/tunisia-national-subsidy-scheme-prosol-extended-2020
+STEG (Tunisian Company of Electricity and Gas) (2019a), Annual Report 2018, Tunisian Company of Electricity and 
+Gas, Tunis, www.steg.com.tn/fr/institutionnel/publication/rapport_act2018/Rapport_Annuel_steg_2018_fr.pdf.
+STEG (2019b), “Electricity Tariffs HT-MT for September 2018”, Tunisian Company of Electricity and Gas, Tunis, 
+www.steg.com.tn/fr/clients_res/tarif_electricite.html.
+STEG (2018a), Annual Report 2017, Tunisian Company of Electricity and Gas, Tunis.
+STEG (2016), Retrospective Electricity Statistics (2005-2015), Tunisian Company of Electricity and Gas, Tunis, 
+www.steg.com.tn/fr/institutionnel/perspective_qualite.html
+Trading Economics (2020), Tunisia GDP Annual Growth Rate, 
+https://tradingeconomics.com/tunisia/gdp-growth-annual (accessed April 17)
+UN (United Nations) (2008), “Geothermal Energy Development in Tunisia: Present Status and Future Outlook”, 
+United Nations University, Geothermal Training Programme, Reykjavik, 
+https://orkustofnun.is/gogn/unu-gtp-30-ann/UNU-GTP-30-20.pdf. 
+UNDP (United Nations Development Programme) (2018a), “Tunisia: Country Profile”, Factsheets, UNDP, New 
+York, www.ndcs.undp.org/content/dam/LECB/docs/factsheets/Tunisia.pdf. 
+UNDP (2018b), Tunisia: Market Readiness Proposal, United Nations Development Programme, New York, 
+https://info.undp.org/docs/pdc/Documents/TUN/Tunisia%20MRP%20English.pdf. 
+World Bank (2020), Global Solar Atlas, World Bank, Washington, DC, 
+https://globalsolaratlas.info/map?c=11.523088,8.173828,3 (accessed 30 July 2020)Annex 1. 
+Renewable energy institutional roles
+Several institutions play a role in the development of renewable energy in Tunisia. Table A1.1 summarises the key 
+actors and their tasks relating to the promotion and development of renewable energy.
+Institutions Principal missions
+Research and Technology Centre of Energy 
+(Centre de Recherches et des Technologies de 
+l’energie)
+Under the Ministry of Higher Education and 
+Scientific Research (Ministère de l’Enseignement 
+supérieur et de la Recherche scientifique)
+• Conduct research on renewable energy; mainly PV, wind 
+and solar water heaters
+Tunisian Agency of Vocational Training (Agence 
+Tunisienne de Formation Professionnelle)
+Under the Ministry of Employment (Ministre 
+de la Formation Professionnelle et de l’Emploi, 
+MFPE)
+• Oversee vocational training 
+National Centre of Continuing Vocational 
+Training and Professional Promotion (Centre 
+National de Formation Continue et de 
+Promotion Professionnelle)
+Under MFPE 
+• Manage the 1.5% of tax revenues designated for vocational 
+training of professionals, include those in renewable 
+energy
+• Finance the training of professionals in the public and 
+private sectors
+• Provide technical assistance for the development of 
+training plans and strategies for private companies
+National Centre for Instructor Training and 
+Training Development (Centre National de 
+Formation de Formateurs et d’Ingénierie de 
+Formation ) 
+Under MFPE 
+• Develop training programmes and materials
+• Include the provision of training to trainers to disseminate 
+necessary knowledge
+Mechanical and Electrical Industries Technical 
+Centre (Centre Technique des Industries 
+Mécaniques et Electriques ) 
+Under MISME
+• Address the company’s relevant know-how and address 
+competency
+• Test products, electrical and mechanical components and 
+equipment
+• Establish a laboratory to test solar PV modules (not yet 
+functional)
+Building Materials, Ceramics and Glass Technical 
+Centre ( Centre Technique des Matériaux de 
+Construction, de la Céramique et du Verre )
+Under MISME
+• Operate laboratory to test the thermal performance of 
+solar water heaters
+• Aid solar water heater manufacturers to improve their 
+products
+National Institute of Standardisation and 
+Industrial Property (Institut National de la 
+Normalisation et de la Propriété Industrielle)
+Under MISME
+• Develop standards 
+• Certify compliance with product and service standards
+• Currently developing the Tunisian national certification 
+system for solar heating according to ISO 17065
+Table A1.1. Institutions involved in the development of renewable energy, TunisiaANNEXES
+Ministry of Energy, Mines and Energy Transition 
+(Ministère de l’Energie, des Mines et de la 
+Transition Energitique,MEMTE)
+Directorate-General for Electricity and 
+Renewable Energy (Direction Générale de 
+l’Electricité et des Energies Renouvelables) 
+• Define strategic guidelines for the energy sector
+• Determine energy tariffs
+• Set purchase price and transmission tariff of surplus 
+electricity produced by self-producers
+• Decision for granting funding from the Energy Transition 
+Fund (FTE)
+• Participate in the development of renewable energy laws 
+and regulations
+• Examine the requests for private production and selfconsumption of electricity from renewable energy 
+following their execution
+Ministère de l’Industrie et des Petites et 
+Moyennes Entreprises
+Directorate-General for Manufacturing 
+Industries (Direction Générale des Industries 
+Manufacturières)
+• Develop and implement government policy in areas 
+relating to industry
+National Agency for Energy Conservation 
+(Agence Nationale pour la Maîtrise de l’Energie)
+• Implement policies developed by MEMTE in the fields of 
+energy efficiency and renewable energy 
+• Propose regulations governing renewable energy
+• Manage the FTE
+• Manage specific renewable energy programmes (e.g 
+Prosol, Prosol électrique)
+• Conduct studies on the development of renewable energy
+• Promote awareness and training
+Tunisian Company of Electricity and Gas 
+(Société Tunisienne de l’Electricité et du Gaz)
+• Adjust current technical conditions on the electricity grid
+• Implement and operate renewable energy projects
+• Contribute to the implementation of renewable energy 
+programmes (e.g Prosol, Prosol électrique)
+Technical Commission for Renewable Energy 
+(Commission Technique de production privée à 
+partir des Energies Renouvelables) 
+• Issue opinions on power generation projects from 
+renewable sources subject to the authorisation regime
+• Verify the appropriateness of renewable energy projects 
+located on state land
+Technical Advisory Committee (chaired by 
+National Agency for Energy Conservation) • Approve FTE grant applications
+Ministry of Finance (Ministère des Finances) • Take decisions to grant tax benefits
+• Collect funds for FTE
+Renewable energy associations (Chamber 
+of National Union of Renewable Energies 
+(Chambre Syndicale Nationale des Energies 
+Renouvelables /Tunisian Solar Installers’ 
+Association (Chambre Syndicale du 
+Photovoltaïque)
+• Oversee administrative practices of renewable energy 
+professionals
+• Conduct training of professionals (e.g. solar water heater 
+and photovoltaic (PV) installers)
+• Continue dialogue with public institutions Annex 2. 
+Sector coupling and the electrification
+of end-use sectors
+The current energy diversification strategy in Tunisia 
+has set a target to meet 30% of its electricity generation 
+from renewables. To achieve such ambitious targets, 
+several enabling initiatives have been established. As 
+solar and wind power gain momentum, they will occupy 
+a larger share of power generation. To accommodate 
+such a large share of electricity, therefore, a stable and 
+flexible grid is essential to maintain reliability and avoid 
+production being curtailed. In the Tunisian context, the 
+current grid is unable to accommodate the ambitious 
+2030 targets, and additional grid reinforcement 
+measures should be taken. 
+Grid reinforcement measures require significant 
+investment. The report, Renewable Energy Policies in 
+a Time of Transition, by the International Renewable 
+Energy Agency, International Energy Agency and 
+REN21 (2018) concluded that policy makers in charge 
+of energy sector planning must explore different 
+cost-efficient methods to address curtailment. In 
+turn, cost-efficient sector coupling may better align 
+electricity demand with variable renewable energy 
+(VRE) production profiles. This is achievable if 
+proper strategies for shaping the demand profile are 
+adopted. Several options are available, including the 
+electrification of heating and cooling, stationary 
+long- and short-term energy storage, and key sectorcoupling applications, such as electric vehicles (EVs) 
+(Figure A2.1). 
+Global sales of electric vehicles (EV) hit a record high in 
+2016. Despite being in the early phases of deployment, 
+the International Renewable Energy Agency has found 
+that EVs have significant potential, its analysis indicating 
+that there likely will be 157 million vehicles in 2030. EVs 
+can assist in providing valuable system services, thus 
+increasing the value of VRE by ensuring that energy is 
+consumed at times of high VRE production. 
+In addition, electricity can replace fossil fuels in industry 
+and help reduce its energy-related – and, in some cases, 
+process-related – greenhouse gas emissions, while 
+providing enhanced flexibility to the system. Additional 
+sector coupling can be achieved by using renewables 
+to produce hydrogen or hydrogen-rich chemicals to 
+serve as feedstock, process agents or fuels. Power-togas or power-to-liquids (commonly named Power-to-X 
+(P2X)) technologies combine hydrogen with carbon 
+or nitrogen to produce fuels for end-use sectors. 
+Producing storable energy carriers, such as hydrogen 
+or synthetic fuels, can increase the long-term value of 
+VRE.
+For Tunisia to meet its renewable energy targets, it 
+needs to establish direct policies for the various enduse sectors within the overall energy planning process. 
+As presented in Figure A2.1, several opportunities are 
+available, including the electrification of the heating 
+and cooling sectors, the transport sector and industrial 
+processes, coupled with the use of synthetic fuels. 
+These provide ample opportunities to address flexibility 
+concerns and increase renewable energy deployment 
+(IRENA, IEA and REN21, 2018).
+Electicity supply system
+Heating/cooling generation
+Fuel
+supply
+Fossil
+fuels
+Biomass
+Synthetic
+fuels
+Thermal power plants
+P2X Transmission and
+distribution grid
+Electricity storage
+Individual or collective
+heating/cooling
+distribution system
+Renewable energy plants Co-generation plants
+Heat boilers Geothermal and solar heat Heat pumps/AC
+Electric boilers
+Electricity storage
+P2X = Power to X Existing technology New technology Fuel Electricity Heat
+Figure A2.1. Project proposal procedure for energy-selling projects under Concession scheme, 
+Tunisia

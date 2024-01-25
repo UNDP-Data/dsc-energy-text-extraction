@@ -1,0 +1,1444 @@
+File Name: GEO-NEP-2019-EN
+Year: 2019
+Country Name: Georgia
+Country Code: GEO
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2019
+Start Year: 2019
+End Year: 2020
+Language: EN
+------------------------------------------------
+
+Unofficial Translation
+National Energy Efficiency Action 
+Plan (NEEAP) (2019–2020) Contents
+Executive Summary........................................................................ 1
+Overview of Georgian energy situation........................................................................2
+Overview of national energy efficiency targets ..............................................................4
+Measures implementing the EED........................................................ 9
+1. Horizontal measures ...................................................................................9
+2. Energy efficiency measures in buildings .......................................................... 13
+3. Energy efficiency measures in public bodies..................................................... 17
+4. Energy efficiency measures in industry ........................................................ 22
+6. Promotion of efficient heating and cooling .......................................................2
+7. Energy transformation, transmission, distribution, and demand response............................2List of abbreviations
+BAU Business As Usual
+BP British Petroleum
+CCGT Combined Cycle Gas Turbine
+CO carbon monoxide
+CO2 carbon dioxide
+CO2eq / 
+CO2eqv
+carbon dioxide equivalent
+CoM Covenant of Mayors
+CNG Compressed Natural Gas
+EBRD European Bank for Reconstruction and Development
+EE Energy Efficiency
+EED Energy Efficiency Directive
+EEO Energy Efficiency Obligation
+EaPGREEN Greening Economies in the European Union's Eastern Neighbourhood
+EnPC Energy Performance Contracting
+EPBD Energy Performance in Buildings Directive
+ESCO Electricity System Commercial Operator of GeorgiaEU European Union
+EUR Euro
+E5P Eastern Europe Energy Efficiency and Environment Partnership
+GDP Gross Domestic Product
+GHG Greenhouse gas
+GNERC Georgian National Energy and Water Supply Regulatory Commission
+GSE Georgian State Electrosystem
+HPP Hydro-power plant
+HID High Intensity Discharge
+IFC International Finance Corporation
+IFI International Financial Institute
+IRR Internal Rate of Return
+INDC Intended Nationally Determined Contribution
+LED light-emitting diode
+LEDS Low Emission Development Strategy 
+LFI Local Financial Institution
+NAMA Nationally Appropriate Mitigation Action
+NEFCO The Nordic Environment Finance Corporation
+NEEAP National Energy Efficiency Action PlanNGO Non-governmental Organization
+NO2 nitrogen dioxide
+MOESD Ministry of Economy and Sustainable Development of Georgia
+MEPA Ministry of Environmental Protection and Agriculture 
+PPP Purchasing Power Parity
+RECP Resource Efficient and Cleaner Production
+SEAP Sustainable Energy Action Plan
+SME Small and medium-sized enterprises
+SON Sodium discharge lamps
+TPP Thermal Power Plant
+UNIDO United Nations Industrial Development Organization
+UNFCCC United Nations Framework Convention on Climate Change
+USD United States dollar
+WPP Wind power plant
+Dimensions and coefficients
+kV Kilovolt kV.
+kWh kilowatt-hour kWh.GWh gigawatt-hour =1 000 000 kWh GWh. =1000 000 kW.h
+TWh terawatt-hour =1000000000 kWh TWh. =1000000000 kW.h
+Mtoe million tonnes of oil 
+equivalent
+Mtoe
+W watt w.
+kW kilowatt =1000 W kw. =1000 W.
+MW megawatt =1000000 W mW. =1000000 W.
+Kg kilogram kg.
+t tonne =1000 kg t. =1000 kg.
+Kt kiloton =1000000 kg kt. =1000000 kg.
+Mt megaton =1 000000000kg mt. =1 000000000 kg.
+km kilometer km.
+tkm tonne-kilometer t.km.
+pkm passenger-kilometer pass.km.
+TOE per MWh 0,085984523 The tonne of oil equivalent 
+per Megawatt hour
+TOE per GJ: 0,02388459 The tonne of oil equivalent 
+per gigajoules
+MWh per GJ 0,277777778 megawatt hours per 
+gigajoulesGcal per MWh 0,859845228 Gigacalories per megawatt 
+hours
+GEL per EUR 2,7206 Gel per EUR
+USD per EUR 1,092 USD per EURExecutive Summary
+This document sets out Georgia’s First National Energy Efficiency Action Plan (NEEAP) which establishes a 
+set of investment and policy measures to be carried out in the coming period (2019- 2020) which can last
+up to 2022 year. The aim of NEEAP is at optimizing and reducing the use of energy resources as compared 
+to a Business As Usual (BAU) scenario. The NEEAP has been developed in order to assist in meeting a number 
+of strategic goals of Georgia, including:
+; Setting out energy savings targets for the coming 3 year period and beyond in order to:
+o Improve competitiveness 
+o Reduce the needs for import of energy 
+o Reduce greenhouse gas emissions in a way that is consistent with Georgia’s commitments, 
+such as the Nationally Determined Contribution (NDC) submission to the UNFCCC in 2015;
+; Providing a signal to the international and national community on energy efficiency priorities and 
+plans
+; Laying out a roadmap for implementation of priority measures – including development of the EE 
+Law
+; Reporting on the plans for implementation of the EU’s Energy Efficiency Directive (EED -
+2012/27/EU) which Georgia has committed to under the EU – Georgia Association Agreement and 
+also by signing up to the Energy Community.
+This document is a summary of the full NEEAP report. It lays out targets for savings of primary energy 
+consumption1 as well as policy and investment measures to achieve these targets. Measures described 
+include:
+a) those already underway;
+b) thosecommitted by various international agreements; 
+c) those being planned for implementation in the coming years which are in-line with national priorities. 
+The measures are sorted by the following categories:
+9 Horizontal measures which impact more than one sector (e.g. public and private) and / or are 
+consistent with horizontal measures as laid out by the EU’s guidance on developing NEEAPs
+; 1 Building measure in private commercial and residential buildings;
+; 9 Public sector measures which will be carried out at the level of central and non-central 
+government
+; 6 Industry sector measures which include 1 information gathering and various investment types 
+of measures, which are also related to the horizontal measures;
+ 
+1 Primary energy consumption measures the total energy demand of a country
+It covers consumption of the energy sector itself; Transport sector measures;
+; 8 Energy sector measures related to energy transformation, transmission, and distribution subsectors. 
+According to calculations developed for the NEEAP, in 2020 the implementation of the measures mentioned 
+above could lead to 9% of energy saving in primary energy sources and 4% in final energy consumption.
+In 2025 it could lead to 13% in primary energy sources and 9% in final energy consumption; In 2030 - 14% 
+in primary energy sources and 11% in final energy consumption, compared to the BAU scenario.
+Those energy-saving measures can have an important contribution to the targets set by Georgian Nationally 
+Determined Contribution (NDC). In December 2015, Georgia determined the fulfilling of this commitment
+on COP21Paris conference of the parties for United Nations Framework Convention of the Climate Change.
+s
+It is also noteworthy, that out of the measures defined within the NEEAP:
+; 5 of them considers the implementation of large public and private sector investments. The 
+implementation is already planned by the Government / private sector;
+; 3 measures are under development stage, which envisages the policy introduction in different 
+directions;
+; 9 measures envisage introduction of policy directions, committed by the accession of Georgia to 
+the Energy Community Treaty/ signing the Association Agreement (AA) with EU. / EU;
+; Implementation of 21 measures which envisages policy introduction at the municipal level and 
+relevant investment realizations, are not yet committed;
+; 6 of them are policy measures targeting mostly private sector.
+The process of designing the NEEAP involved significant interaction and consultation with stakeholders, 
+including:
+; Contact with over 100 national-level, municipal, Government and international stakeholders of 
+which the vast majority of them provided inputs into the NEEAP in some way;
+; A total of over 50 people attended 2 workshops carried out for discussions of the NEEAP draft
+; Written comments provided by 25 different stakeholders on the NEEAP.
+Overview of Georgian energy situation
+Currently Georgian energy sector, energy policy and regulatory framework is in a state of active reforms 
+and development. It should be noted that, in order to regulate field of energy efficiency several draft law 
+are prepared, draft law on Energy Efficiency, draft law on Energy Performance of Buildings and draft law 
+on Energy Labelling, (draft law on Energy Performance of Buildings and draft law on Energy Labelling are 
+submitted to the Parliament of Georgia). Once those are in force, legal base for the mandatory 
+implementation of the targetedmeasures defined by NEEAP will be established.
+Reforms are particularly influenced by the Association Agreement signed with the European Union 
+in June 2014. Under the Agreement, Georgia took an obligation of implementing the EU directives in energy sector and will have to comply with the requirements of the third energy package.2 Georgia joined the 
+Energy Community as a Contracting Party in July 2017.
+Based on energy balance dataof 2017, fossil fuels accounted 73% of primary energy consumption in 
+Georgia. Almost entire domestic supply of fossil fuels (98%) are imported from neighbouring countries,
+which means that energy security and independence are significant challenges for the country – especially 
+since there are strained relationships within the region. Moreover, the situation has also been exacerbated 
+by a tendency of an increase in fossil fuels consumption in recent years. (Figure1 and figure 2), Which 
+leads to an increase in imports. The largest increase can be seen/observed in natural gas imports.
+Figure 1: Graphical representation of final energy consumption according to fuel categories – 2013 and 2017
+Figure 2: Share of economic 
+sectors in energy consumption 
+Source: GeoStat (2018) Energy 
+balance of Georgia,2017
+Even though compared to other 
+countries, the Georgian 
+economy does not have much 
+energy intensive industry. Its 
+GDP intensity is still much higher than, for instance, in Turkey, whose economic structure (industrial 
+ 
+2 European Union (30 August 2014) Association Agreement between the European Union and the European Atomic Energy 
+0
+500
+1000
+1500
+2000
+2013 2014 2015 2016 2017
+Energy consumption by fuel
+2013-2017 yearsTOE
+coal oil products Natural gas Geothermal, solar and etc Biofuel and waste Electricity
+16%
+32%
+10%
+30%
+1%4%7%
+Share of economic sectores in energy balance 
+2017.
+Industry
+Transport
+Private and state
+services
+Households
+Agriculture, forestry and
+fish cultures
+Other
+For non-energy
+purposessector) is characterized by high rate of energy use. This indicates that there is potential for energy 
+efficiency improvements in Georgia..
+Overview of national energy efficiency targets
+Georgia’s indicative national energy efficiency targets for 2020, are laid out/shown in Table 1.
+The table also outlines expected results of the planned activities for 2025 and 2030,as an additional
+indicative target period. That target can be reached by implementing all measures of the NEEAP. The given 
+targets are symbolic and are not legally binding.
+Table 1: Georgia’s indicative energy efficiency targets for 2020, 2025, and 2030 Compared to the Business As 
+Usual (BAU) Scenario
+Year 2014 2020 2025 2030
+Category
+Primary 
+Energy 
+(GWh)
+Final 
+energy 
+(GWh)
+Primary 
+Energy 
+(GWh)
+Final 
+energy 
+(GWh)
+Primary 
+Energy 
+(GWh)
+Final 
+energy 
+(GWh)
+Primary 
+Energy 
+(GWh)
+Final 
+energy 
+(GWh)
+Business as 
+Usual (BAU) 54,894 46,758 63,185 57,426 85,542 70,201 101,810 83,710
+Savings from 
+measures - - 5,455 2,588 10,856 6,167 14,584 9,253
+With 
+measures 54,894 46,758 57,729 54,838 74,687 64,034 87,226 74,457
+% energy 
+reduction 
+from the BAU
+0% 0% 9% 4% 13% 9% 14% 11%
+Note: Figures for energy consumption in 2014 come from Geostat’s Energy Balance (published in 2015). The final 
+energy consumption figures for 2014 do not include 27 GWh of non-energy use consumption of oil products in the 
+energy sector.
+AsTable 1 shows energy efficiency measures described in this NEEAP would have a significant impact on 
+Georgia’s energy consumption. 
+The BAU scenario was developed using MARKAL modelling software using inputs developed by the Georgian 
+Government as part of the LEDS project. Assumptions underlying the Business As Usual scenario are as 
+follows:
+; The current population is assumed to be 3,720,400 people3 – and would remain constant at this 
+level.
+; GDP growth is projected to be 5.6% annually through 2030.
+; Per capita GDP is projected to grow from ~EUR 3,450 in 2015 to ~EUR 7,660 in 2030. 
+; The number of households is projected to remain steady at 955,000 by 2030.
+; The number of families by 2030 will remain the same - 955 000;
+; Growth of energy electricity consumption in industry is projected to grow by 5.6% per year by 2030.
+ The impact on energy consumption has been calculated through the use of individual models for each 
+measure – wherein a BAU case was developed in terms of final energy consumption and primary energy 
+consumption, and then the energy efficiency case was developed which entailed a number of potential 
+changes including:
+Use of renewable energy technologies, instead of technologies working on traditional, primary 
+energy sources and energy carriers. – such as full or partially switching from electricity to solar 
+resources for hot water heating . As a result, there is no change of final energy demand, but there 
+is savings of primary energy sources( which is consumed to create electricity). 
+; Improvement of energy distribution / transmission / transformation efficiencies – such as 
+reducing electricity losses or natural gas losses on their networks, or improving the efficiency of 
+natural-gas fired power plants by switching to combined-cycle plants.Improving the efficiency of 
+end-use equipment – such as introducing efficient lighting, efficient wood-stoves, improving the 
+efficiency of vehicles, use of efficient pumps, boilers and etc. in industry and other sectors.
+; Switching to more efficient transport means – such as switching from personal cars to buses or 
+metros. This also involves the shift of freight transportation from heavy goods vehicles to railways;
+Reduction of end-user demand – such as reduction of heating losses in building envelopes, reduction in 
+the use of internal-combustion-engine vehicles (ICEV) , improving maintenance of industrial firms, etc.The 
+targets for measures were calculated based considering EE market potentialas much as possible. Also, –
+with certain assumptions made regarding the market penetration levels or levels of investment which 
+would occur. These are described in details for each measure in the full NEEAP document. The dates of 
+2020, 2025, and 2030 as the target dates were chosen to be consistent with the planning horizon of the EU 
+and Energy Community – as well as with Georgia’s Intended Nationally Determined Contribution for 
+reduction of greenhouse gases .
+The achievement of the indicative targets of this NEEAP is particularly dependent on three factors:
+1. The implementation of an ambitious policy agenda for energy efficiency:
+a. Implementation of an overall project identification, technical assistance, and grant 
+distribution scheme by the Ministry of Economy and Sustainable Development of Georgia 
+(H-1) 
+b. Incentivizing energy efficiency in industry (H-2)
+c. In buildings, implementation of the EPBD including energy audit rules (H-9) and building up 
+energy auditors’ expertise (H-5).
+d. In industry, building up knowledge and capacity amongst decision-makers on energy 
+efficiency issues (H-3), adopting energy audit rules and assisting increase of expertise 
+amongst energy auditors (H-6)
+e. The introduction of energy efficient public procurement practices (P-8)
+f. A regulatory mechanism to increase the share of the market for efficient light bulbs (B-1 , 
+P-3 and investments in industry ); and
+g. A technical inspection programme of vehicles (T-2)
+2. The availability of technical assistance for implementation: Many measures are contingent upon 
+the availability of technical assistance within the various sub-sectors in planning energy efficiency 
+investments. 
+3. The availability of investment funds for implementation of projects: The availability of lending 
+funds at a reasonable rate and grants for implementation of measures.
+Figure 3 shows the /distribution of the amount of energy savings per sector while Figure 4 shows the savings. Savings targets were not calculated for some horizontal measures, as their impact will be mostly 
+related to stimulation of energy efficiency development and investments in other sectors. 
+Figure 2: Primary energy savings according to sector for 2020, 2025, and 2030 (GWh)
+221 1298
+3288
+78
+231
+374
+614
+744
+1190
+1665
+3537
+4377
+2844
+4741
+5179
+2020 2025 2030
+Primary energy savings targets - 2020 to 2030 (GWh)
+Energy transformation,
+transmission, distribution,
+and demand response
+measures
+Transport sector measures
+Industry sector measures
+Public sector measures
+Building sector measures
+Horizontal measuresFigure 3: Primary energy savings targets in percentage for 2020, 2025, and 2030 (%)
+The Table 2 below shows the key priority policy measures planned as part of the NEEAP – which are directly 
+related to facilitating investment in EE and also to implementation of measures reflected in a 3-year long 
+DCFTA Action Plan. The most critical measures as far as energy saving and /or facilitation of investments 
+have a light blue background.
+Table 2
+No.Title of the energy saving measure 2019 2020 2021 2022
+Horizontal measures to be implemented by the Ministry
+H-1 Alternative policy measures - Financing schemes for energy efficiency
+H-3 Alternative policy measures – Training and education, including energy advisory 
+programmes
+H-8 Consumer information programmes and training
+T-2 Public awareness - Information campaign for transport
+1%
+8%
+13%
+4%
+3%
+1%
+2%
+3%
+3% 13%
+13%
+18%
+36%
+32%
+31%
+43% 42%
+35%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2020 2025 2030
+Primary energy savings targets - 2020 to 2030 (%)H-7 Energy audits and management systems, boiler inspections in the industry sector*
+Public sector and Building policy measures
+H-4 Standards and norms and labelling schemes in appliances*
+H-5Qualification, accreditation, and certification schemes – Buildings*
+H-9 EPBD Transposition and Enforcement: Standards and norms and energy performance 
+certification schemes in buildings*
+B-1 Regulations leading to improved efficient lighting systems in residential and 
+commercial buildings
+P-1 Develop a national energy efficiency information system for publicly owned 
+buildings
+P-8 Energy efficient procurement**
+Transport sector policy measures
+T-1 Vehicle improvement - Mandatory periodic roadworthiness tests for motor vehicles
+T-8 Vehicle improvement - Increase of hybrid and electric vehicles**
+Primary Energy sector policy measures
+E-2 Policies and investments to rehabilitate hydropower assets
+E-3 Optimization of reserves and seasonal operational regimes
+E-5 Regulations on the rules of calculation of normative electricity losses - stimulating 
+investments**
+E-6 Regulations on the rules of calculation of normative natural gas pipeline losses - 
+stimulating investments**
+Policy development and adoption
+Policy implementation
+Priority measures for energy saving / facilitation of market development
+* Policy required as part of Energy Community Membership / EU accession
+** Policies already in placeMeasures implementing the EED
+This section is aimed at bringing together information on all important energy efficiency measures planned 
+to be adopted in Georgia to implement the EU’s Energy Efficiency Directive (EED - 2012/27/EU). The 
+analysis and presentation of the measures planned for the NEEAP was developed by Ministry of Economy 
+and Sustainable Development with the assistance of a consortium of local and international experts. 
+Significant inputs from a variety of national-level and municipal stakeholders have been incorporated into 
+the action plan. Overall responsibility for the implementation and monitoring of the NEEAP is on the 
+Government of Georgia. A number of other national and sub-national entities (including municipalities) 
+will play a significant role as well. These are outlined in detail within the description of the measures in 
+the full NEEAP document.
+The section below outlines the measures planned broken down by the sector impacted – as consistent with 
+EU guidance for NEEAP development. 
+1. Horizontal measures
+1.1. Energy efficiency obligation scheme / alternative measures
+Article 7 of the EED requires EU member states to set up an energy efficiency obligation (EEO) scheme or 
+to achieve the same amount of savings with alternative measures. The EEO scheme requires energy 
+distribution companies to achieve energy savings of at least 1.5% of annual sales to final consumers. For 
+Energy Community Contracting Parties, the target for EEOs was set at 0.7% each year from 1 January 2019 
+to 31 December 2022 . A country can opt to introduce the above 0.7% target gradually (i.e., 0.5% in 2019 
+and 2020; 0.7 % in 2021 and 2022), and such and other alternative calculation measures should notify to 
+Energy Community Secretariat by the end of 2019. In order to achieve above mentioned target, as a result 
+of consultations, Georgian government has opted to implement alternative policy measures, To achieve 
+this, implementing capital investments and a number of technical measures in various sectors of the 
+economy will be needed. Therefore, the EEO target will not be used for Georgia’s NEEAP. Instead of 
+implementing an EEO scheme, Georgia plans to implement a set of alternative policy measures linked 
+with technical/financial measures which reduce final energy consumption.
+As an alternative (or supplement) to setting up an energy efficiency obligation scheme, the Article 
+7 of EED allows to take other policy measures to achieve energy savings among final consumers. 
+; The alternative measures included in Georgia’s first NEEAP are as follows: Financing schemes for 
+energy efficiency (H-1)
+; Incentivising /mandatingng energy efficiency in industry (H-2)
+; Training and education, including energy advisory programmes (H-3)
+; Standards and norms and labelling schemes in appliances (H-4)4
+The above measures will not achieve direct savings equivalent to the impact of the EEO scheme, however 
+they will make it possible to achieve savings through the specific technical/investment measures described 
+ 
+4 This measure is linked to Directive 2010/30/EU
+Even though Georgia is not yet an EU Member Stateit is a Contracting Party later in this section It is possible to achieve more savings through implementation of sector-specific 
+measures than through implementation of an EEO scheme.Additional Horizontal measures include:
+; Qualification, accreditation, and certification schemes in Buildings impacting the buildings and 
+public sector (H-5)
+; Qualification, accreditation, and certification schemes in industry (H-6)
+; Energy audits and management system, as well as boiler inspection requirements for large industrial 
+companies (H-7)
+; Consumer information programmes and training (H-8)
+; EPBD Transposition and Enforcement: Standards and norms and energy performance certification 
+schemes in buildings impacting the buildings and public sector (H-9)
+Table 3: Overview of individual horizontal measures
+No. Title of the energy 
+saving measure Implementing body Source Type of financing
+Required financing in the coming 
+period (2019-2020)
+2019 2020 Total 2019 
+- 2020
+H-1
+Alternative policy 
+measures - Financing 
+schemes for energy 
+efficiency
+Initially Ministry of 
+Economy and 
+Sustainable 
+Development 
+Central 
+Government In-kind TBD TBD TBD
+IFIs/Banks -
+Investment Grants TBD TBD TBD
+Total
+H-2
+Alternative policy 
+measures –
+Incentivising / 
+mandating energy 
+efficiency in industry
+Ministry of Economy 
+and Sustainable 
+Development
+Central 
+Government In-kind € 0 € 79,000 € 79,000
+Industry/Private 
+companies
+In-kind and 
+investment € 0 € 9,361,000 € 9,361,000
+Total € 0 € 
+9,440,000
+€ 
+9,440,000
+H-3
+Alternative policy 
+measures – Training 
+and education, 
+including energy 
+advisory programmes
+Ministry of Economy 
+and Sustainable 
+Development in 
+cooperation with other 
+relevant entities, 
+donors/ IFIs
+Central 
+Government In-kind € 0 € 0 € 0
+Total € 0 € 0 € 0
+H-4
+Standards and norms 
+and labelling schemes 
+in appliances
+Ministry of Economy 
+and Sustainable 
+Development in 
+cooperation with other 
+relevant entities
+Central 
+Government In-kind € 13,000 € 91,000 € 104,000
+Private Sector Investment € 0 € 0 € 0
+Total € 13,000 € 91,000 € 104,000
+H-5
+Qualification, 
+accreditation, and 
+certification schemes 
+- Buildings
+Ministry of Economy 
+and Sustainable 
+Development in close 
+cooperation with 
+training institutions and 
+other relevant entities.
+Central 
+Government In-kind € 138,000 € 133,000 € 271,000
+Total € 
+138,000 € 133,000 € 271,000
+H-6 Qualification, 
+accreditation, and 
+Ministry of Economy 
+and Sustainable 
+Central 
+Government In-kind € 138,000 € 133,000 € 271,000certification schemes 
+- Industry
+Development in close 
+cooperation with 
+training institutions and 
+other relevant entities.
+Total € 
+138,000 € 133,000 € 271,000
+H-7
+Energy audits and 
+management systems, 
+boiler inspections in 
+the industry sector
+Ministry of Economy 
+and Sustainable 
+Development in 
+cooperation with other 
+relevant entities
+Central 
+Government In-kind € 38,000 € 39,000 € 77,000
+Industry/Private 
+companies Investment € 83,000 € 413,000 € 496,000
+Total € 
+121,000 € 452,000 € 573,000
+H-8
+Consumer information 
+programmes and 
+training
+Ministry of Economy 
+and Sustainable 
+Development in 
+cooperation with other 
+relevant entities 
+(possibly 
+Municipalities), donors/ 
+IFIs
+Central 
+Government In-kind € 0 € 756,000 € 756,000
+Municipalities In-kind € 0 € 200,000 € 200,000
+Total € 0 € 956,000 € 956,000
+H-9
+EPBD Transposition 
+and Enforcement: 
+Standards and norms 
+and energy 
+performance 
+certification schemes 
+in buildings
+Ministry of Economy 
+and Sustainable 
+Development in 
+cooperation with other 
+relevant entities
+Central 
+Government In-kind € 25,000 € 130,000 € 155,000
+Real estate 
+developers/ 
+building owners
+Investment € 0 € 7,377,000 € 7,377,000
+Municipalities In-kind € 25,000 € 25,000 € 50,000
+Total € 50,000 € 
+7,532,000
+€ 
+7,582,000
+Total € 
+460,000
+€ 
+18,737,000
+€ 
+19,197,0001.3 Energy Services
+Information on measures related to energy performance contracting (EnPC)5 and energy services 
+are not yet applicable as the market does not exist – nor are there concrete plans to promote them yet.
+Based upon analysis carried out in preparation of this NEEAP, the scope for the potential market for 
+Energy Performance Contracting are as follows related to specific sectors in which EnPCs are common:
+; Industry: There is a large market potential for EnPC implementation in the industrial sector, with 
+potentially over EUR 200 million in investment opportunities available with IRRs over 30%. However, 
+there are significant market barriers which would inhibit the growth of such a market – notably lack 
+of awareness of savings opportunities, and lack of stability within the industry sector leading to 
+risk-averse behaviour related to capital investments (i.e. industries are not willing to invest or 
+implement energy efficiency measures due to concern about the basic health of the 
+business).Public sector buildings: There is limited scope for EnPC implementation in the public 
+building sector due mostly to low IRRs related to heating of buildings (typically 1 – 10% at a 
+maximum). This is primarily due to low energy consumption in existing buildings and low energy 
+prices – particularly natural gas.
+; Public sector lighting: There is a large market potential for EnPC implementation in public sector 
+lighting – with potentially over EUR 90 million in investment required and typical IRRs of over 30%. 
+Specific steps will need to be taken to establish this market.
+The types of companies which could provide these services include national engineering and construction 
+firms – likely linked with international firms interested in the Georgian market. An additional potential 
+implementing company could be the energy distribution companies – who could set up separate companies 
+to implement energy efficiency measures via an EnPC modality.
+Actions which should / could be taken to develop the market for energy services in Georgia include:
+; Addressing specific regulatory and non-regulatory barriers – Review of public procurement 
+legislation issues (see P-8 – Energy Efficient Public Procurement);
+; Development and publication of model contracts for energy services providers and best practices 
+for energy performance contracting;
+; Assignment of a national point of contact to provide consumers with information on energy services;
+; Development of an independent mechanism such as an ombudsman to ensure the handling of 
+complaints on energy service contracts;
+; Steps to enable independent market intermediaries to play a role in stimulating market 
+development of the demand and supply sides; and
+; Steps to ensure that energy distributors, distribution system operators and retail energy sales 
+companies refrain from activities that may impede the demand for and delivery of energy services, 
+or hinder the development of markets for such services.
+ 
+5 An EnPC is a partnership between an organisation (the client) and an energy service company (ESCO). The ESCO conducts a 
+comprehensive energy audit for the facility and identifies improvements to save energy. The ESCO then designs and carries out 
+the project interventions that meets the client’s needs and the ESCO also arranges the necessary financing. The ESCO 
+guarantees that the improvements will generate energy cost savings sufficient to pay for the project over the term of the 
+contractThe client then continues to pay energy bills at the same (or equivalent) rate for a certain period of time to the In addition to those Horizontal measures describe above, in the coming period, Georgia also plans to 
+undertake the following activities/measures to encourage energy efficiency:
+; Defining changes in existing regulations for simplifying investments in multi-family apartment 
+buildings
+; Improving public procurement regulations (See measure P-8 Energy efficient procurement); and
+; Transposing the EU’s Energy Performance in Buildings directive in the coming years (see H-9 below).
+2.Energy efficiency measures in buildings
+Policy and investment measures linked together and are closely connected to to buildings and to public 
+bodies. This is because public sector measures are often linked to EE in buildings and also because the 
+policy framework bringing about investments in the private building sector and public sector are closely 
+linked.
+2.1 Addressing the requirements of the recast EPBD (2010/31/EU)
+In 2014 the EU and Georgia signed the Association Agreement (AA), The Association Agreement recognizes 
+Georgia’s commitment to implementing and promoting energy efficiency in the buildings sector under the 
+EPBD. Georgia is obligated to align its national laws with the EU legislation and is at the beginning of the 
+EPBD transposition process. Support for reforms in the field of energy outlined in the EU-Georgian 
+Association Agreement for building sector improvement is currently being planned within the framework 
+of the Danish Neighbourhood Program launched by the Ministry of Foreign Affairs of Denmark and Ministry 
+of Economy and Sustainable Development of Georgia as well as with the Energy Community supported 
+technical assistance under EU4 Energy entitled “Gap analysis of Georgian legislation in relation to energy 
+performance of buildings and development of Draft Energy Performance of Buildings Law”.
+2.2 Building renovation strategy
+The EED requires that the NEEAP present a long-term strategy for mobilising investment in 
+the renovation of buildings and that it is included in the NEEAP. However, there is currently 
+no national building renovation strategy in place and very limited information on the sector 
+available (in particular, on the building stock).Public sector buildings
+The inventory of the building stock in Georgia is not available and thus providing reliable information on 
+the entire public building stock will not be possible. Related to fuels used, electricity is used for lighting, 
+appliances, and cooling. The typical fuels used for Central Government buildings are natural gas for heat, 
+and some electric space heaters. Central, District heating is not used. 
+Non-Central Government buildings represent a large part of public buildings. In Georgia there is not yet an 
+inventory of public buildings and their energy performance – nor have minimum energy performance 
+requirements been established. Information on public buildings not owned and occupied by the Central 
+Government is partially available based on the SEAPs developed by specific municipalities – Tbilisi, Kutaisi, 
+Batumi, Rustavi, Zugdidi, Gori, and Telavi. Additionally, information on schools is available from the 
+Ministry of Education, Science, Culture and Sport of Georgia . It is likely that schools, kindergartens, and 
+administrative buildings are the predominant type of public building not owned and occupied by the 
+Central Government. ; Total number of schools with central heating – electricity: 72 
+; Total number of schools with heating – natural gas: 536 
+; Total number of schools with heating – wood: 377
+; Total number of schools with unknown heating source – 1,215
+Technologies typically used in other publicly-owned building are natural gas boilers, natural gas space 
+heaters for smaller spaces, electricity based air conditioning/heating units, and highly inefficient wood 
+stoves for area heating.
+There are number of barriers complicating the wide implementation of energy efficiency in this sub-sector. 
+The most important are:
+; Lack of pipeline of good energy efficiency projects
+; No legal requirements about the minimum energy performance
+; An absence of incentives for implementing agents (administrators)
+; Lack of Awareness of options and impacts.
+Commercial sector buildings – private
+There is no official information on private commercial buildings sector. It is noteworthy that most hospitals 
+and medical centres are privately owned. The typical fuels used in these buildings varies, but in general, 
+natural gas is used for heating in more urban areas, while wood (and sometimes electricity) is used in more 
+rural areas. Energy consumption in these buildings is not generally known in any systematic way – though 
+some energy audits have been conducted for hospitals/medical centres and large supermarkets and 
+generally have high energy consumption (e.g. Specific heating and hot water demand of 250 kWh/m2 in 
+hospitals). There are severe data limitations in this sector, so development of the building stock will be 
+an important first step in developing a strategy.
+Special features in energy consumption for the private commercial buildings sector include:
+; A significant amount of under-heated buildings meaning there is suppressed demand;
+; Very poor energy properties of the external building envelopes;
+; The use of inefficient wood or electric space heaters in many instances which only heat parts of 
+the buildings.
+Key barriers to investment are mostly related to finance and awareness of potential energy savings from 
+implementing measures.
+Residential sector buildings
+There is no official information on residential buildings sector related to area, number of dwellings, 
+or number of buildings. The results of the recently carried out census will likely have information on the 
+residential sector. It is noteworthy that the vast majority of residential buildings are privately owned by 
+the families living in them.
+The typical fuels used in these buildings varies, but in general, natural gas is used for heating in 
+more urban areas, while wood is used in more rural areas. Energy consumption in these buildings is not 
+generally known in any systematic way – though some energy audits have been conducted which show that 
+they generally have high energy consumption (e.g. Specific heating demand of 200 kWh/m2 in houses and 
+170 kWh/m2 in apartments). There are severe data limitations in this sector, so development of the 
+building stock will be an important first step in developing a strategySpecial features in energy consumption for the residential buildings sector include:6
+; A significant amount of under-heated buildings meaning there is suppressed demand. This is 
+particularly prevalent amongst single houses;
+; Very poor energy properties of the external building envelopes;
+; The use of inefficient wood, electric, or natural gas space heaters in many instances which only 
+heat parts of the buildings.
+Key barriers to investment are mostly related to finance and awareness of potential energy savings from 
+implementing measures.
+It should also be noteworthy, that the survey on energy consumption in household sector was conducted 
+by the National Statistics Office of Georgia in 2017 with the methodological support of Energy Institute of 
+Croatia. The survey gives detailed picture in terms of energy efficiency of households. It’s planned, that 
+the same survey should be conducted once per 5 years.
+Steps in the coming 3-year period to develop a strategy
+In the coming 3-year period, the following steps should be carried out to develop a full strategy for 
+improvement of energy efficiency in the building sector:
+1. Adoption of the legislative framework and it’s harmonization with European directives;
+2. Define upon reference building types to be examined
+3. Establish a system for tracking the inventory of buildings. This should be linked to Measure P-1 
+Develop a national energy efficiency information system for publicly owned buildings 
+4. Conduct energy audits and building inventories for the various sub-sectors throughout the country
+– first of all, focus should be made on the cities. (in particular, municipalities, which are the 
+signatories to the Covenant of Mayors) Energy audits can be conducted and filed as a part of training 
+programmes under H-5: Qualification, accreditation, and certification schemes - Buildings. When 
+an energy audit is performed as a part of a training course, it can be filed in the national energy 
+information system.
+In parallel to these steps, there should be an energy efficiency programme set up for the various subsectors which stimulate investment in each of them. Energy audits and lessons learned as a part of these 
+ 
+6 Multiple surveys in various parts of Georgia have been carried out related to this topic, including: 
+SDAP (2013) Technical Report 21: Energy Analysis of Lower Alazani-Iori Pilot Watershed Area (Dedoplistskaro Municipality, 
+Kakheti Region)
+SDAP (2013) Technical Report 22: Energy Analysis of Lower Rioni Pilot Watershed Area (Khobi and Senaki Municipalities, 
+Samegrelo and Zemo Svaneti region)
+SDAP (2013) Technical Report 23: Energy Analysis of Upper Alazani Pilot Watershed Area (Akhmeta and Telavi Municipalities, 
+Kakheti Region)
+SDAP (2013) Technical Report 24: Energy Analysis of Upper Rioni Pilot Watershed Area (Ambrolauri and Oni Municipalities, 
+Racha-Lechkhumi and Kvemo Svaneti region) andinvestments can be filed with the national energy information system. Particular measures which can be 
+implemented in parallel to data-gathering include:
+; B-1: Regulations leading to improved efficient lighting systems in residential and commercial 
+buildings
+; P-2: Pilot project for low energy public sector buildings
+; P-3: Efficient lighting systems in public buildings
+; P-5: Improvement of the energy efficiency in schools
+; P-6: Improvement of the energy efficiency of non-central government-owned public buildings -
+kindergartens
+The following additional measures, which haven’t been considered within the NEEAP but can be revisited 
+in the coming years, are:
+; Improvement of energy efficiency in existing private houses
+; Improvement of energy efficiency in multi-family apartment buildings
+; Improvement of the energy efficiency in existing commercial buildings.
+B-1 considers energy saving measures, replacement of inefficient incandescent light bulbs or other Halogen 
+lamps with high-efficient models, like fluorescent or LED bulbs. The implementation of the said measure 
+is possible by adoption of the relevant regulations.
+Table 4 Describes approximate assumptions regarding the cost of implementing the measures# Title of the energy 
+saving measure Implementing body Source Type of financing
+Required financing in the 
+coming period 
+2019 2020 Total
+2019 - 2020
+B1
+Regulations to 
+improve the 
+efficiency of lighting 
+systems in 
+residential and 
+commercial buildings
+Ministry of Economy and 
+Sustainable Development of 
+Georgia
+Central 
+Government Non-financial € 13000 € 6000 € 19000
+Household Sector Investment € 0 € 3382000 € 3382000
+Commercial Sector Investment € 0 € 753000 € 753000
+Total: € 13000 € 4141000 € 4 154 000
+Total: € 13000 € 4141000 € 4 154 000
+3.Energy efficiency measures in public bodies
+A number of measures defined for the public sector are mandatory and recommended to implement as 
+part of the EED. 
+As per the Energy Community’s adoption of the EED, Contracting Parties to the Energy Community must 
+ensure that, as from 1 December 2017, 1% of the total floor area of heated and/or cooled buildings owned 
+and occupied by their central government is renovated each year to meet at least the minimum energy 
+performance requirements set out in the recast EPBD. Georgia has a commitment to carry out renovations 
+on 1% of the public building stock each year starting from 2019. However, the number of buildings and 
+useful floor area are not yet known in Georgia. Additionally, the national minimum energy performance 
+requirements have not been established. 
+Based on some assumptions, the NEEAP expert team estimates that 1% of the total area would be 6,446 m2
+to be renovated per year. While this number is indicative, it does provide a sense of scale of the needs for 
+renovation to comply with the Energy Community requirements. The NEEAP includes a number of measures 
+related to central Government-owned buildings to:
+; The development of National Energy efficiency information system for public buildings/Evaluate 
+current energy consumption and potential savings (P-1)
+; Implement a pilot project (P-2)
+; Implement EE lighting in all public buildings as replacements become necessary (P-3)
+; Improvement of Energy efficiency in public buildings(P-4)
+The EED also requires that public bodies that are not owned and occupied by the central government 
+should be encouraged to demonstrate their exemplary role in buildings energy efficiency. Measures to be 
+implemented related to this sub-sector involve EE measures in schools (P-5) kindergartens (P-6) and in 
+other non-central Government-owned buildings (P-7).
+In additionThe EEDrequires that central governments purchase productsservices and buildings with public procurement leads the market by example, by creating demand of EE goods, reducing the market 
+prices, enhancing the sustainability and diversity of the market for EE goods and services. The 
+implementation of this measure is included in measure P-8.
+An additional measure which is in the public sector but not related to buildings is improvement of 
+efficiency in street-lighting / outdoor lighting. The measure is to be carried out in: Tbilisi, Kutaisi, Batumi, 
+Rustavi, Zugdidi, Gori, Telavi, and potentially others. To some extent, this measure is already underway 
+in a number of the municipalities, but will be scaled up. Additionally, lighting improvements can be made 
+for inter-city roads.
+Table 5 describes approximate assumptions regarding the cost of implementing the measures# Title of the energy 
+saving measure Implementing body Source Type of financing 
+Required financing in the coming period 
+2019 2020
+Total
+2019 - 2020
+P
+-
+1
+Develop a national 
+energy efficiency 
+information system 
+for publicly owned 
+buildings
+Ministry of Economy and 
+Sustainable Development for 
+elaboration of the System. 
+Ministry of Regional Development 
+and Infrastructure for the 
+coordination and obtainment of 
+the information from the 
+Municipalities
+Central 
+Government
+Nonfinancial € 13000 € 6000 
+€19 000
+Municipalities Nonfinancial € 48 000 € 122 000
+€ 170 000
+Total: € 61 000 € 128 000
+€ 189,000
+P
+-
+2
+Pilot project for low 
+energy public sector 
+buildings
+Municipal administration – After 
+getting the information on 
+results, they are spread to the 
+various Municipalities and Public 
+institutions. (Ministry of Economy 
+and Sustainable Development)
+Central 
+Government
+Nonfinancial € 12 000 € 0
+€ 12 000
+Donors-Grants Grants € 35 000 € 0
+€ 35 000
+Total: € 47000 € 0
+€ 47000
+P
+-
+3
+Efficient lighting 
+systems in public 
+buildings
+Ministry of Economy and 
+Sustainable Development - the 
+buildings owned by the Public 
+Institutions
+Central 
+Government Investment € 25 000 € 78 000
+€ 103,000
+Municipalities Investment € 13 000 € 41 000
+€ 54 000
+Total: € 38 000 € 119 000 € 157 000
+P
+-
+4
+Improvement of the 
+energy efficiency in 
+central governmentowned public 
+buildings 
+The Ministries, which use specific 
+buildings - Ministry of Economy 
+and Sustainable Development
+Central 
+Government
+Nonfinancial € 13000 € 13000
+€26 000# Title of the energy 
+saving measure Implementing body Source Type of financing 
+Required financing in the coming period 
+2019 2020
+Total
+2019 - 2020
+E5P Grants € 1 000 000 € 1 000 000 € 2,000,000
+Total: € 2 513 000 € 2 513 000 € 5,026,000
+P
+-
+5
+Improvement of the 
+energy efficiency in
+public schools
+Ministry of Education, Science, 
+Culture and Sport
+Ministry of Regional Development 
+and Infrastructure
+Central 
+Government
+Nonfinancial € 19 000 € 20 000
+€ 39 000
+E5P Grants € 1 207 000 € 1 231 000
+€2,438,000
+IFIs/Banks Investment € 0 € 0
+Total: € 1226000 € 1251000 € 2,477,000
+P
+-
+6
+Improvement of the 
+energy efficiency of 
+non-central 
+government-owned 
+public buildings -
+kindergartens
+Municipalities with the assistance 
+of international organizations
+Municipalities Nonfinancial € 62000 € 63 000
+€ 125 000
+IFI/BanksInvestment Investment € 0 € 490 000
+490000
+Total: € 62000 € 553000
+€
+615000 
+P
+-
+7
+Improvement of the 
+energy efficiency of 
+non-central 
+government-owned 
+public buildings - nonkindergartens
+Municipalities with the assistance 
+of Ministry of Regional 
+Development and Infrastructure
+Central 
+Government
+Nonfinancial € 6000 € 6000
+€ 120 00
+Municipalities Nonfinancial € 62000 € 63000
+€ 125 000
+Total: € 68000 € 69000
+ 
+€ 137 000 
+P
+-
+8
+Energy efficient 
+procurement
+State Procurement Agency with 
+the Ministry of Economy and 
+Sustainable Development for 
+elaboration of the procedures 
+regarding procurement
+Central 
+Government
+Nonfinancial € 25000 € 496000
+€ 521000# Title of the energy 
+saving measure Implementing body Source Type of financing 
+Required financing in the coming period 
+2019 2020
+Total
+2019 - 2020
+Also the Ministry of Regional 
+Development and Infrastructure 
+will be involved in terms of 
+implementation with the local 
+Public authorities
+Municipalities Nonfinancial € 0 € 26000 € 26000
+Total: € 25000 € 522000
+ €547,000
+P
+-
+9
+Improvement of 
+efficiency in streetlighting/outdoor 
+lighting
+Municipalities and Ministry of 
+Regional Development and 
+Infrastructure with the assistance 
+of donors/IFI regarding the 
+increasing of the competence of 
+the implementing agencies for 
+supporting the implementation of 
+the process.
+Central 
+Government
+Nonfinancial € 6000 € 6000
+€ 120 00
+Municipalities Nonfinancial € 102 000 € 35000
+€ 137,000
+IFI/BanksInvestment Investment € 0 € 9 145 000
+€ 9 145 000
+Total: € 108 000 € 9 186 000
+€ 9,294,000
+Total: € 4 148 000 € 14 341 000 € 18,489,0004. Energy efficiency measures in industry
+4.1. Characteristics of industry in Georgia
+Georgian industrial sector is not a large consumer of energy. However, the 10.5 TWh of 
+energy consumed in industry in 2014 (for both energy and non-energy use) represents 22% of 
+finalenergy consumed in Georgia that year. 
+Historically, Georgia was a much larger energy consumer; Industrial sector consumed 
+nearly 3 times more energy in 1990 than in 2013/2014. However, there it has been a large 
+reduction of industrial (and other sectors) development since 1990, after the break-up of the 
+Soviet Union. 
+Ministry of Economy and Sustainable Development of Georgia developed the MARKAL model,, 
+that predicts annual growth of energy consupmtion (4.94% per year) in 2016-2030, , that is –
+directly linked to GDP growth. While the preparation of NEEAP the MARKAL projected growth 
+figures have been used. This level of growth would involve doubling of production between 
+2016 and 2030. 
+The predominant energy consuming sub-sectors in industry are:
+; Non-metallic minerals with 26% of final energy consumption; 
+; Chemicals (including petrochemical) with 26% of final energy consumption, even if nonefficient use of natural gas is included; and
+; Cast Iron and steel with 25% of final energy consumption
+Additionally, it is assumed that energy consumption in Food, beverages and tobacco does not 
+fully reflect energy consumption in the energy balance. 
+Number of large industries and number of SMEs
+There are 170019industrial enterprises, 421 “large, 1851 “medium” and 162452 “small” 
+industrial organisations registered in Georgia according to Geostat Data. There are also 5295 
+enterprises, the size of which, according to Geostat, is unknown at this stage.
+Comparisons of the energy intensity (energy consumption per tonne of output) for other 
+industrial processes with the EU are difficult as there is not disaggregated/detailed available 
+information on exact products and processes for production in Georgia and their energy 
+consumption. For this reason, the measure “I-1: Industry data disaggregation” ” is necessary 
+to improve the information available and allow for meaningful comparisons.
+Special features in energy consumption
+Based on reviews of energy audits and reports composed after sites visits conducted during the 
+preparation of the NEEAP, it turned out that industry energy savings will come from 4 main 
+routes:No/low cost energy-saving, good energy management and control, which is an enabling step 
+to identifying and eliminating poor behaviour/ bad practice. These include:
+; Understanding site energy consumption patterns, through suitable sub-metering and 
+software;
+; Identifying and eliminating poor-practices, “good-housekeeping”, behavioral changes;
+; Careful development of theplanning and scheduling for optimum efficiency;
+; Identifying and financially assessing low-cost technical opportunities.
+Low-cost technical opportunities which naturally follow good energy management andsome of 
+the more importantmeasures are the following: :
+; Thermal insulation on steam/ hot-water/ refrigerant gas pipes;
+; Attention to steam leaks, steam traps, maximum condensate returns, etc.;
+; Compressed air leak detection, water traps, etc.
+; Upgrades to building fabric: glazing, roof and wall insulation;
+; Lighting: replacing HID (High Intensity Discharge), incandescent or old style T8 tubes 
+with EE LED lighting.
+Sector specific technical investment opportunities: Traditionally, this is what emerging 
+economy nations focus upon. There are several excellent sector-specific opportunities within 
+Georgia. Details of two of these sectors – steel and cement – are provided in the list of measures 
+of NEEAP.
+Cross-sector investment opportunities, that are common to several industrial sectors: Four 
+of the more important are also provided in the list of measures:
+; Boilers and Steam/ hot water systems: combination of no/low cost EE actions combined 
+with replacing old (inefficient, over-sized) boilers with new, correctly sized EE boilers 
+; Refrigeration compressors and distribution systems – similar comments related to 
+replacing old (inefficient, oversized) refrigeration units with new, correctly sized ones.
+; Motors: replacing old (inefficient and over-sized) motors with new, correctly sized IE3 
+or better motors, where applicable with Variable Speed Drive (VSD) controls. 
+; Lighting: concerted effort to upgrade, particularly incandescent lights with LED 
+equivalents.
+Key barriers and drivers /stimulations of investments
+There are several key barriers to investment in the industry sector. These include:
+Technology & Equipment: Historically, there has been little or no investment in energysaving equipment; In some industries, this is a step backwards in decades.
+Mentality and awareness: The mind-set of industry is still production driven, a historic 
+mind-set and not entirely due to the poor state of the economy. There is limited awareness of 
+modern energy management techniques and EE technologies relevant to the site. Energy Management: There is limited understanding of where energy is consumed 
+across each site. This is true for electricity consumption and secondary energy consumption 
+such as steam, hot water, or compressed air. For example, the consumption at the boiler may 
+be known but where this heat is used is not known. 
+ESupport and skills/ expertize: Unlike EU Member States, there is very little amount of 
+independent energy-efficiency expertize that Georgian industry can draw-on, including generic 
+/ cross-sector technologies and sector-specific technologies.
+Limited funds or opportunity to borrow: The Georgian industrial sector has had 
+significant market-based problems, particularly in the past 2 years. Many long-standing export 
+markets: Russia, Ukraine and other Regional countries – have been directly or indirectly 
+affected by conflicts or embargos, which has reduced export demand hence production. Issues, 
+such as EE, are a long way down the priority list. Even when good EE investment opportunities 
+are identified by site managers or by external consultants, there is limited opportunity to 
+borrow for investment. 
+Low energy costs: Although unit costs have been rising substantially in recent years and 
+are now approx. 50 – 70 EUR/MWh (electricity) and 20 to 25 EUR/MWh (natural gas), they are 
+still only around 50% (electricity) to 70% (natural gas) of the unit costs for EU industry.
+High cost for investment in EE technologies: There is no local production of EE 
+equipment in Georgia: boilers, furnaces, motors, etc. As such, Georgian industry has to pay 
+international prices for any EE equipment plus transport and any import levies. 
+Lack of incentives, covering several areas: There are currently no incentive-based 
+mechanisms to encourage energy efficiency or renewable energy in industry.
+4.2. Industry measures: Energy savings and financing 
+The following measures can be carried out in the industry sector. They are directly linked 
+with the following horizontal measures:
+; H-2: “Alternative policy measures – Incentivising / mandating energy efficiency in 
+industry” – which will stimulate interest and improve the financial case for investment 
+even beyond the strong financial parameters present;
+; H-3: “Alternative policy measures – Training and education, including energy advisory 
+programmes” – which will educate industry’s decision-makers on investment options;
+; H-6: Qualification, accreditation, and certification schemes in industry”, will increase 
+the level of certified expertise in the industry sector to better enable investment 
+planning and implementation;
+; H-7: „Energy audits and management systems, boiler inspections in the industry sector“
+– which will require energy audits/energy management in large industries and encourage 
+them in SMEs.
+The implementation of these measures would involve the following key aspects:; Improvement of the statistical data on industry production and energy consumption 
+; A programme of technical assistance; 
+; Energy audits from the horizontal measures (H-7) would also be linked to investments 
+in this sector – which has technical assistance requirements;
+; nvestment toindustry – via a credit line, bank financing, or other financing sources in 
+2019 – 2020. 
+T
+Table 6Overview of estimated prices of individual measures. # Title of the energy 
+saving measure Implementing body Source Type of financing
+Required financing in the coming period 
+2019 2020
+Overall
+2019-2020
+I-1 Industry data 
+disaggregation
+GEOSTAT
+Central government Non-financial € 6000 € 0 € 6000
+Total: € 6 000 € 0 € 6000
+I-2
+Conversion of wetcement process to 
+dry cement process
+Industry of cement and 
+fossil fuel recycle 
+Industry / private 
+companies
+Investment € 39616000 € 0 € 39616000
+Total: € 39616000 € 0 € 39616000
+Summary € 39622000 € 0 € 39 622 0005. Energy efficiency measures in transport
+5.1. Characteristics of transport in Georgia
+Transport is an important sector for energy consumption in Georgia – and it is noteworthy, that
+energy consumption in this sector continues to grow.. In 2014, transport accounted for 33% of final energy
+consumption in Georgia – up from 26% in 2013. The vast majority of fuel used in the transport sector is 
+either oil products (diesel and gasoline) or natural gas – all of which are imported. Diesel, gasoline, and 
+natural gas use make up 91.8% of energy consumption in the transport this sector - 14,175 GWh. This 
+amount represents over 30% of all energy consumed in Georgia in 2014. For this reason, energy efficiency 
+in the sector is becoming more and more important.
+The dominant types of transport in Georgia include:
+• In passenger transport, there is a strong public transportation system utilizing mini-buses – along 
+with large buses. However, increasingly, private light-duty passenger vehicles are taking up a large 
+amount of passenger.
+• n freight transport, there is a significant amount of freight being transported by rail. However, it 
+should be noted that the amount offreight, carried by motor vehicles is not assessed. 
+There is no official data on the fuel efficiency of the passenger vehicle fleet, though it can be assumed 
+that it is less efficient than that of the EU – given the age of most vehicles in Georgia where 91% of vehicles 
+are older than 10 years.7 
+It is noteworthy that in Georgia, Compressed Natural Gas (CNG) is an increasingly popular fuel and it’s 
+consumption is growing– with fueling stations throughout the country and a large number of vehicles 
+utilising this fuel. However, there are no reliable statistics as to the level of penetration of these types of 
+vehicles. Also. It should be mentioned that there is a significant increase of vehicles using Liquefied 
+petroleum gas (LPG), with / the increase of the hybrid vehicles.
+Key barriers and drivers / stimulations of investment include:
+• Lack of knowledge / awareness about the vehicle fleet and lack of regulation fulfillment to ensure 
+vehicles are less polluting;
+• Lack of walking / cycling friendly infrastructure in most major urban areas – in particular the 
+capital;
+• A lack of comfortable / reliable public transport;
+• A culture increasingly geared towards personal cars resulting significant traffic and pollution 
+problems in the capital and elsewhere.
+5.2. Main policy measures addressing energy efficiency in transport
+The package of measures outlined below would involve the following key aspects:
+ 
+7
+llkllk• Vehicle improvement measures – fuel replacement by the natural gas (potentially by the electrical 
+energy) and better management of the vehicle fleet, including the introduction of technical 
+inspections, that has started in 2018 and will be implemented in the future (T-1); 
+; Public awareness campaigns on Eco-driving and to encourage efficient transport modes would 
+increase the efficiency of driving habits (T-2);
+; Investments in intra-city urban mobility would result in modal shifts from passenger cars to public 
+transport, walking, and cycling. Additionally, improvements in the road infrastructure would 
+improve efficiency of movement of traffic (T-3, T-4, T-5, T-6, and T-7). 
+Technical assistance would be necessary for implementation of these measures, likely to be divided into 2 
+programmes to achieve goals:
+1. Assistance to municipalities for urban infrastructure and transport planning program– including 
+feasibility studies for major infrastructure projects such as , bike lanes, etc. Infrastructure 
+planning, that will be implemented in Tbilisi, is running step by step.
+2. Assistance to the national government in implementing the program for mandatory periodic 
+technical inspection , as well as in planning major national infrastructure projects and 
+evaluating – amongst other aspects - how they may impact energy consumption.
+Expences / budget of that type of measures can be available at the planning stage of the program. 
+6.Promotion of efficient heating and cooling 
+As part of compliance with the EED in order to encourage efficient production of heat and cooling, it 
+is necessary to analyse the costs and benefits of implementing cogeneration for any large installation (over 
+20 MW of thermal input – for industry and electricity). The process of identification of competent public 
+authorities, private actors for implementation, and development of methodology for installation-level 
+cost-benefit analysis has not yet been developed in Georgia. This measure will be revisited in future 
+NEEAPs. 
+7. Energy transformation, transmission, distribution, and 
+demand response
+7.1 Characteristics of the energy transformation, transmission, and 
+distribution sector in Georgia
+Total installed capacity in the system
+Georgia’s total installed capacity is 4,225 MW (including a recent 13.2 MW coal power plant) the 
+most significant addition being the 231.2 MW thermal power plant (TPP) operating with new technologies 
+(combined cycle natural gas-fired power plant) commissioned in 2015. Of this total capacity, almost 78% 
+is from hydro power with the remainder being from thermal plants based mostly on natural gas.
+Total energy transformation sorted by the source of energy
+The only significant energy transformation within Georgia is the transformation of gas (with some 
+coal) for electricityIn 2014559 TWh of gas were supplied to thermal power plants producing electricity expected to have been higher due to commissioning of a 231 MW combined cycle gas turbine power plant 
+with expected 54% efficiency.8
+Grid transmission losses
+High voltage transmission grid total losses in 2014 were around 2% which is a high standard.9 The 
+transmission losses are expected to grow with the commissioning of additional capacities. However, 
+according to the 10 year development plan of the network, investment in certain projects has a local 
+effect of reducing the losses for particular regimes of the network.10
+Total losses via transmission and distribution
+The losses per year via transmission and distribution of the electricity system have been decreasing 
+and the level of losses can be considered average when compared with losses in EU countries such as 
+Bulgaria (9%) and Romania (12%) but high in comparison to EU countries such as Germany (4%) and France 
+(7%). It is noteworthy that in 2015, JSC Telasi and JSC ENERGO-PRO Georgia had losses of below 10%. 
+Planned development of the sector
+The 10-year network development plan has within it an aggressive projection of energy production 
+and export with significant increase of generation capacity. There are three scenarios of demand growth: 
+3%, 5% and 7% annual growth. There are more than 120 hydropower projects in development under 
+memorandums signed with potential investors.11 Along with hydropower, the 10 Year Plan Network 
+Development Plan also envisages construction of two 230 MW TPPs operating with new technologies 
+(expected to be combined cycle natural gas-fired power plants) by 2019 and 2026 respectively and one 
+coal fired 150 MW power plant in 2020. 
+Additionally, the completion of a 20.7 MW wind power plant in 2016 is introducing wind technology 
+for the first time in Georgia and generate 88 GWh per year.12
+The total generation capacity is expected to grow from the current level to:
+; 4,820 MW by 2020;
+; 6,663 MW by 2025; and 
+; 7,365 MW by 2030. 
+ 
+8 At the time of NEEAP development, this efficiency could not be calculated in retrospect for 2015 as the energy balances had 
+not been completed for 2015. 
+9 Transmission System Operator JSC “Georgian State Electrosystem” (2015) Ten Year National Development Plan for 2015-2025, 
+table 10.1, page 140. In EU Member States, the average losses in transmission networks are between 1% and 2.6% (Ecofys 2013 
+“Incentives to improve energy efficiency in EU Grids”).
+10 Transmission System Operator JSC “Georgian State Electrosystem” (2015) Ten Year National Development Plan for 2015-2025 
+Figure 1.11.
+11 Based on information from the Ministry of Economy and Sustainable Development Furthermore, new regulations have been developed to allow for the integration of distributed energy 
+producers into the grid – such as micro producers. Though this was not modelled as a part of the NEEAP, it 
+can be considered an energy saving measure. 
+Along with the major expected developments in power sector, there is an ongoing development in oil 
+and gas. Expansion of South Caucasus Pipeline (SCPx) is expected to add about 0.8 billion m3 of natural gas 
+to Georgia’s energy balance by 2019-2020. There is also an ongoing development of a gas storage facility 
+which will be completed for when the new capacity of the SCPx will start operation. 
+Related to distribution, the completion of individual electricity metering and expansion of the gas 
+network are the major expected developments. In Tbilisi the individual metering has been completed while 
+in the regions about 40,000 consumers still need to be metered individually. 
+Special features in energy consumption, production, distribution and demand response
+Among the special features in energy consumption and production is that there is a strong seasonal 
+dependence on hydropower as the main source of electricity in Georgia. As a result there is a mismatch 
+between hydropower production and demand patterns where peak of consumption is in winter, while peak 
+of hydropower generation is in summer. Additionally, the summer peak and winter peak are both trending 
+upwards as summer demand is increasing. Thus, it becomes difficult to develop hydropower without 
+seasonal trade or exchange with neighbouring countries. Therefore the development of power sector in 
+Georgia is strongly related to its neighbouring countries. For example, a strong stimulating role in 
+developing the HPP projects has been played construction of transmission capacity to Turkey. 
+Another special feature in Georgia is the significant portion of non-regulated electricity 
+consumption (by Abkhazia. Which accounts about 18% of country’s total consumption.It is also worth 
+noting that in energy consumption there is still a strong contribution of fuel wood which is consumed very 
+inefficiently in simple stoves in poorly insulated homes. Furthermore, for this wood, mainly newly cut trees 
+are burned.13
+Comparison with EU, comment on the tendencies/trends (level of losses);
+In comparison with the EU, Georgia has a much higher share of renewable energy for electricity 
+production. In the EU countries - 25.4% of electricity was produced from renewable energy in 2013.14 In 
+2014, Georgia had 80.4% of electricity produced was from renewable hydropower.15
+Related to electricity losses, Georgia’s level of system losses are higher than those of some EU 
+countries but lower than others – and can generally be considered average, though with room for 
+improvement.
+ 
+13 See Public Policy Research & Training Centre (2014) Policy to encourage sustainable energy consumption by Georgian 
+households”) https://tenders.procurement.gov.ge/public/lib/files.php?mode=app&file=866803&code=1408364354
+14 EuroStat (2015) Renewable energy statistics: Available at http://ec.europa.eu/eurostat/statisticsexplained/index.php/Renewable_energy_statistics
+15 
+lf lblhdlKey barriers and drivers of investments
+In the power sector, as is generally the case with power infrastructure projects, investors are reluctant 
+to invest at their own risk into major projects unless there are strong possibilities for off-taker agreements. 
+For this reason, some major drivers of investments are as follows:
+; The Turkish market where electricity can be exported. 
+; Where there are strong power purchase guarantees provided by ESCO and backed by the 
+Government. 
+; Companies which are producing power for their own consumption – of which there are a number in 
+Georgia. 
+; USAID’s G4G aiming to establish the trading mechanism that will allow Georgian producers to trade 
+on the Turkish market.
+At the same time, the regulations dealing with electricity and gas distribution are highly encouraging 
+of energy efficiency. 
+One additional driver of investment in the gas sector is that the government is investing in extending 
+the gas network to the regions (to the settlement level). SOCAR is continuing this investment to bring the 
+connection to the customers’ property.16
+7.2 Planned policies and investments in the primary energy sector
+Planned investments for the primary energy sector are described in the measures below. The 
+implementation of these measures would involve the following key aspects:
+; Large-scale investments in improvements of:
+o More efficient natural gas fired power plants – 2 x 230 MW (E-1);
+o Improvements in the transmission network (E-3)
+o Efficient household energy production from solar hot water heaters and biomass stoves –
+including a grant mechanism (E-7 and E-8).
+; Energy Policies which are to already in place (E-5 and E-6) and which are planned (E-2) Which aims 
+to promote investmentს in the sector (E-5 and E-6)
+; Potential improvements of the dispatch system to reduce costs and primary energy consumption17
+; A programme of technical assistance for the period 2017 – 2020 – This would likely be via:
+o One package oriented towards improvements in the hydro-power and dispatch systems
+o One package oriented towards distribution systems
+o One package linked to the residential sector measures which would be focused on solar hot 
+water heaters & efficient biomass stoves. 
+ 
+16 The connection cost for low pressure customers (0-6 m3/h) is 400 GEL (lump sum payment). See GNERC (2009 July 9) Decision 
+#12: http://gnerc.org/files/untitled%20folder2/mierTeba.pdf). “New Customers” of natural gas (those connected to the grid 
+after 2008) are deregulated, which means that GNERC does not set a tariff cap for those customers. See Ministry of Energy’s 
+Decree # 69 of 25 September 2007 on “Natural Gas Supply Deregulation and Partial Deregulation”: 
+(https://matsne.gov.ge/ka/document/view/73006) and the following amendment in 2008 (Energy Minister’s Decree # 73 of 24 
+July 2008. https://matsne.gov.ge/ka/document/view/78880).Table 2: Overview of individual measures in the energy supply sector
+No. Title of the energy 
+saving measure Implementing body Source Type of financing 
+Required financing in the coming period 
+2019 2020 
+Total 
+2019-2020 
+E-1
+Natural gas savings -
+replacement of old thermal 
+power plants with new 
+technologies
+JSC Georgian Oil and Gas 
+Corporation
+Government Non-financial
+€ 0
+€ 0 € 0
+Oil and Gas 
+Corporation
+Invest
+€ 50 000 000 € 0 € 50 000 000
+Total 
+€ 50 000
+0000 € 50 000 000
+E-2
+Rehabilitation and 
+investments of hydropower 
+plants
+Hydropower generation 
+companies with technical 
+assistance and funding from 
+international financial 
+institutions and with the 
+support of the Ministry of 
+Economy and Sustainable 
+Development and GNERC
+Government Non-financial € 32 000 € 6000 € 38 000
+Industry 
+Private 
+companies
+Invest € 0 € 1 732 000 € 1 732 000
+Total € 32 000 € 1 738000 € 1 770 000
+E-3 Optimization of power 
+reserves and seasonal modes 
+GNERC, Ministry of 
+Economy and Sustainable 
+Development
+Government Non-financial € 32 000 € 32 000 € 64 000
+Total € 32 000 € 32 000 € 64 000
+E-4
+Expanding the power grid, 
+integrating new generation 
+capacities into the grid and 
+reducing losses
+Georgia State Electrosystem
+Private 
+companies
+Invest € 58 000 00 € 172 918 000 € 178 718 000 
+Total € 5 800 000 € 1 72 918 000 € 178 718 000
+E-5
+Regulatory Requirements 
+for Rules for Calculating 
+Normative Electricity 
+Losses - Investment 
+Incentives
+Energo-Pro Georgia Ltd, 
+JSC Telasi,
+Industry / 
+Private 
+companies
+Invest
+€ 9 945 000 € 10 143 000 € 20 088 000
+Total € 9 945 000 € 10 143 000
+€ 20 088 000 
+E-6 Goverment Non-financial € 13 000 € 13 000 € 26 000Rules for calculating natural 
+gas normative losses in 
+pipelines - investment 
+incentives
+Distribution licensees
+Industry / 
+Private 
+companies
+Invest
+€ 4 410 000 € 4 410 000 € 8 820 000
+Total € 4 423 000 € 4 423 000 € 8 846 000
+E-7 Introduction of energy 
+efficient stoves
+Non-governmental 
+organization WECF - in 
+cooperation with relevant 
+agencies
+Government Non-financial € 25 000 € 26 000 € 51 000
+Donors / 
+Grants
+Grants € 0 € 300 000 € 300 000
+Customers Invest € 0 € 649000 € 649000
+Total € 25 000 € 975 000 € 1 000 000
+E-8 Solar water heaters
+Non-governmental 
+organization WECF - in 
+cooperation with relevant 
+agencies
+Government Non-financial € 12000 € 12000 € 24000
+Donors / 
+Grants
+Grants € 0 € 246 000 € 246 000
+Families Invest € 0 € 369 000 € 369 000
+Total € 12 000 € 627 000 € 639 000
+Total € 70 269 000 € 190856000 € 261 125 000

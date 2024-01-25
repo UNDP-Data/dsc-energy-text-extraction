@@ -1,0 +1,807 @@
+File Name: SLB-NEP-2014-EN
+Year: 2014
+Country Name: Solomon Islands
+Country Code: SLB
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: 2014
+Start Year: nan
+End Year: nan
+Language: EN
+------------------------------------------------
+
+FINAL DRAFT
+SOLOMON ISLANDS NATIONAL ENERGY 
+POLICY AND STRATEGIC PLANNING
+VOLUME 1: SOLOMON ISLANDS NATIONAL 
+ENERGY POLICY
+2014
+MINISTRY OF MINES, ENERGY AND RURAL ELECTRIFICATION
+ENERGY DIVISION
+SOLOMON ISLANDS 
+NATIONAL ENERGY POLICY
+2014
+Volume 1
+SOLOMON ISLANDS NATIONAL ENERGY
+POLICY AND STRATEGIC PLAN
+MINISTRY OF MINES, ENERGY AND RURAL 
+ELECTRIFICATIONSOLOMON ISLANDS NATIONAL ENERGY 
+POLICY AND STRATEGIC PLAN
+MINISTRY OF MINES, ENERGY AND RURAL ELECTRIFICATION
+2014
+SOLOMON ISLANDS 
+NATIONAL ENERGY POLICY
+2014
+VOLUME 1Contents
+EXECUTIVE SUMMARY ............................................................... 1
+PART 2: A FRAMEWORK FOR THE NATIONAL ENERGY POLICY AND ITS 
+IMPLEMENTATION ................................................................... 4
+2.1 Vision................................................................................. 4
+2.2 Mission ............................................................................... 4
+2.3 Broad outcomes...................................................................... 4
+2.4 Guiding principles.................................................................... 4
+2.5 Energy sub sectors.................................................................... 5
+PART 3: POLICY OUTCOMES AND STATEMENTS...................................... 7
+PART 4: LINKING THE POLICY TO THE STRATEGIES AND INVESTMENT PLANS........ 13
+PART 5: SCALE OF IMPLEMENTATION................................................ 20
+5.1 Institutional framework............................................................... 20
+5.2 Governance and regulation........................................................... 21
+5.3 Monitoring and evaluation ........................................................... 21
+ANNEX 1: List of organisations interviewed and consulted.......................... 22
+LIST OF TABLES
+Table 1: Planning coordination, leadership and partnership strategies
+and investment costs................................................................. 13
+Table 2: Electric power (urban) strategies and investment costs ............................... 14
+Table 3: Electric power (rural) strategies and investment costs................................. 15
+Table 4: Renewable energy strategies and investment costs ................................... 16
+Table 5: Petroleum and alternative liquid/gaseous fuels strategies 
+and investment costs................................................................. 17
+Table 6: Renewable energy strategies and investment costs ................................... 18Foreword
+I am pleased to present to you the Solomon Islands National Energy Policy, which presents 
+the priorities of the government and the strategic directions for key initiatives in the energy 
+sector over the next ten years to facilitate sustainable economic development. This policy 
+is an improvement on the 2007 policy and is closely linked to the National Development 
+Strategy of Solomon Islands 2011–2020 and its vision of a ‘united and vibrant Solomon Islands’.
+Energy is included in the Solomon Islands National Infrastructure Investment Plan and the 
+National Development Strategy as being integral and important for achieving the goals they 
+have set. Energy is a key driver of economic growth, social development and improvement in 
+the livelihood of communities. Against that context, it is, therefore, important that the policy 
+directions in the energy sector are set right for the planning and implementation processes 
+of the strategies and investment plans. This will ensure that there is conformity and linkages 
+that positively support the development aspirations of other sectors within the economy.
+Solomon Islands has its own challenges and opportunities in terms of our energy situation. 
+Our extremely low national electricity coverage, high energy costs and high dependence on 
+imported fossil fuel are exacerbated by the geographical spread of the archipelago, and this 
+adversely affects our economic and social development. Although our country is blessed with 
+abundant renewable energy resources, it is important that the country utilises its resources 
+wisely and minimises any potentially detrimental effect on economic and social development.
+The aspiration of the government to increase electricity access that is affordable to the 
+population of Solomon Islands needs policy direction to support effective planning and 
+implementation. Given our high dependence on imported fossil fuel, management of the 
+petroleum sub-sector needs policy direction to ensure safety aspects are upheld and energy 
+efficiency is maintained.
+This policy was developed in close consultation with energy service providers, representatives 
+of the government and community, the private sector, and development partners. It is, 
+therefore, a country-owned and led document, and a living document, which can be adjusted 
+in response to future changes and needs that may impact the energy situation of the country.
+For this reason, the government intends to establish an energy advisory committee, comprised 
+of high-level multi-sectoral members tasked with monitoring the progress of the policy 
+against policy performance indicators.
+In conclusion, I wish to thank all national stakeholders and development partners for their 
+contributions to this Solomon Islands National Energy Policy. Its implementation requires 
+concerted effort from all stakeholders and I strongly encourage you to continue to support 
+and contribute to the implementation of the policies identified in this document that will 
+help improve the lives of all Solomon Islanders.
+Hon. Moses Garu
+Minister for Mines Energy and Rural ElectrificationAcknowledgements
+The 2014 Solomon Islands National Energy Policy (SINEP) was developed through consultative 
+processes, including workshops, interviews and a desktop review of relevant documents. The Energy 
+Programme of the Secretariat of the Pacific Community’s Economic Development Division provided 
+technical assistance for the review and development of the 2014 SINEP. The first in-country visit 
+was conducted in November 2012 and during the second visit the draft policy was presented at the 
+National Energy Forum held in June 2013. The policy was also presented at the Prime Minister’s 
+Second Roundtable Discussion held in November 2013. It was also circulated to all government 
+ministries and the private sector for the period October to November 2013.
+The efforts of the following agencies and persons are greatly appreciated and acknowledged. Their 
+contributions and insights in the review and formulation of the 2014 SINEP were extremely valuable.
+▶ The Asian Development Bank (ADB) for supporting the renewable energy strategies and investment 
+plan, and their willingness to work together on aligning the policy with renewable energy targets 
+for urban and rural households;
+▶ The World Bank Energy Specialist for Solomon Islands for initial comments provided;
+▶ The private sector, government officials and NGO participants, regional and international partners 
+at the November 2012 national energy workshop on the review and amendments to SINEP and at 
+the June 2013 national energy forum, all of whom actively and willingly reviewed the draft SINEP 
+and the energy efficiency and petroleum strategies and investment plan;
+▶ The presenters at the June 2013 National Energy Forum for their valuable insights into the energy 
+sector issues and challenge: the Central Bank of Solomon Islands, the Ministry of Infrastructure 
+and Transport, the Solomon Islands Electricity Authority, and the private sector’s perspective by 
+Geodynamics Limited and the Inter Action Corporation; and the Foreign Investment Division 
+for presenting on the business climate and foreign investment in Solomon Islands;
+▶ The Deputy Director and staff at the Energy Programme of the Economic Development Division 
+of the Secretariat of the Pacific Community for their endurance and guidance in facilitating the 
+review of the 2007 SINEP, and the formulation of the 2014 SINEP and associated strategies and 
+investment plans on energy efficiency and petroleum;
+▶ Pacific Appliance Labelling and Standards (PALS) Programme, funded by the Government of Australia 
+through the Department of Climate Change and Energy Efficiency, for additional funding and 
+resources.Abbreviations
+ADB Asian Development Bank
+EAC Energy Advisory Committee
+ED Energy Division
+FAESP Framework for Action on Energy Security in the Pacific
+NDS National Development Strategy 
+PALS Pacific Appliance Labelling Standards
+REIP Renewable Energy Investment Plan
+RD&D Research and Development and Demonstrations
+SBD Solomon Dollars
+SIEA Solomon Islands Electricity Authority
+SINEP Solomon Islands National Energy Policy
+SISEP Solomon Islands Sustainable Energy Project
+SPC Secretariat of the Pacific Community
+TRHDP Tina River Hydro Development ProjectExecutive Summary
+The energy sector is important to the development of the Solomon Islands social, economic and environmental status quo. 
+The National Development Strategy (NDS) 2011–2020 highlights three main focus areas that reflect the challenges facing 
+the people of Solomon Islands. These challenges are: (i) poverty alleviation; (ii) access to quality health care and education 
+services; (iii) raising the standard of living; and (iv) improving livelihoods. To combat these challenges, the NDS has the 
+following focus areas:
+Overarching focus area: building better lives for all Solomon Islanders;
+Central focus areas: (1) taking better care of the people and (2) improving the livelihoods of the people;
+Underlining focus area: creating and maintaining the enabling environment.
+These focus areas are supported by eight national objectives.
+Overarching focus area: Building better lives for all Solomon Islanders
+Objective 1: To alleviate poverty and provide greater benefits and opportunities to
+improve the lives of Solomon Islanders in a peaceful and stable society
+Central focus area 1: Taking better care of all people of Solomon Islands
+Objective 2: To provide support to the vulnerable
+Objective 3: To ensure that all Solomon Islanders have access to quality health care and to combat malaria, 
+HIV, non-communicable and other diseases
+Objective 4: To ensure that all Solomon Islanders have access to quality education and for the country to 
+adequately and sustainably meet its manpower needs.
+Central focus area 2: Improving the livelihoods of all the people of Solomon Islands
+Objective 5: To increase the rate of economic growth and equitably distribute the benefits of employment 
+and higher incomes amongst all the provinces and people of Solomon Islands
+Objective 6: To build and upgrade physical infrastructure and utilities to ensure that all Solomon Islanders 
+have access to essential services and markets.
+Underlining focus area: Creating and maintaining the enabling environment
+Objective 7: To effectively manage and protect the environment and ecosystems and
+protect Solomon Islanders from natural disasters
+Objective 8: To improve governance and order at national, provincial and community levels and strengthen 
+links between them.
+The Solomon Islands Government (SIG) views its energy sector as a key enabling factor to support its poverty alleviation 
+effort, accelerate access to better health care and education services, and improve the standard of living and livelihoods of 
+communities. At the same time, the SIG appreciates that, in 2009, access to electricity for the urban areas was only 16%. The 
+widely scattered market on islands that are separated by large areas of sea and that have small, isolated communities make 
+sustainable energy development challenging. Energy policy changes are required to increase energy access, private sector 
+participation and foreign investment, and also to create fiscal incentives for improving energy access, efficiency and activities 
+that will contribute to expanding the economic base.
+Solomon Islands has the potential to increase electricity access and use through renewable energy resources and technologies 
+to 100% by 2050. However, increasing the use of these renewable energy resources presents challenges. These include a lack 
+of enabling environments to foster private investment in the electricity sector and the need to improve funding opportunities 
+(through consolidating funding proposals) and support to assist the Solomon Islands Energy Authority (SIEA) and the Energy 
+Division (ED) in expanding energy access in both urban and rural areas.
+The 2014 Solomon Islands National Energy Policy (SINEP) will provide an enabling platform that will inform decision makers 
+on policy directions and strategies for improving the effectiveness of the Solomon Island energy sector and achieving the NDS 
+2011–2020 through increased access to reliable, affordable and clean sources of electricity.
+The estimate costs for the implementation of the SINEP is given in the table below.Sub sector Goals Estimated budget 
+(USD million)
+Planning, coordination, 
+leadership and partnership
+Strengthen the energy sector leadership and planning 4.18 
+Electric power (urban) Increase access to electricity in urban areas to 100% by 
+2020
+64.0 
+Electric power (rural) Increase access to electricity in rural households to 35% 
+by 2020
+14.57 
+Renewable energy Increase the use of renewable energy sources for power 
+generation in urban and rural areas to 79% by 2030
+75
+Petroleum and alternative and 
+gaseous fuels
+Increase access of safe, affordable and reliable petroleum 
+fuels to outer islands and remote rural locations
+Increase the development and penetration of gaseous 
+fuels and alternative liquid fuels from indigenous raw 
+materials
+1.67 
+Energy efficiency and 
+conservation
+Improve energy efficiency and conservation in all sectors 
+by 10.7% by 2019
+6.29
+Methodology
+The policy has been developed through the following;
+▶ a desk review of relevant documents;
+▶ review of the 2007 SINEP and 2009 Strategic Action Plan. Some recommendations were made that contribute to 
+relevant issues in this policy, such as thematic areas and guiding principles to be adopted;
+▶ a participatory and consultative process, engaging various stakeholders in face-to-face interviews. Consultations 
+were done with government departments, development partners, financing institutions, private sector operators and 
+community service organisations. A two-day national workshop was also conducted during the first country visit in 
+November 2012;
+▶ a national energy forum was conducted on 19–20 June 2013, at which there was broad participation by all government 
+ministries, the private sector and development partners’ They commented on the draft policy and energy efficiency 
+and petroleum strategies. A list of stakeholders consulted for the formulation of the 2014 draft policy is attached as 
+Annex 1;
+▶ presentation of the policy at the Prime Minister second roundtable in October 2013; and
+▶ the draft 2014 SINEP was circulated in October 2013 to all national and regional stakeholders, including the 
+development partners, for final comment. The final comments were compiled and edited in December 2013.2. A Framework for the National Energy Policy 
+and its Implementation
+The 2014 SINEP is intended to guide energy sector planning over the next ten years (2014–2024) and is expected to contribute 
+to the achievement of Solomon Islands’ national vision: ‘A united and vibrant Solomon Islands’ (see Solomon Islands NDS 
+2011–2020) and the vision of the energy sector (see 2.1 below).
+The policy is also intended to guide the development over the next five years of energy sub-sector strategies and investment 
+plans. It is envisaged that the strategies for the different energy sub-sectors will be integrated into the Ministry of Mines, Energy 
+and Rural Electrification (MMERE) five-year corporate plan, which is mainstreamed into government financial resources 
+and budgeting. However, new information should be accommodated and adjustments made to the strategies and investment 
+plans where appropriate and in a timely manner.
+2.1 Vision
+Unlocking the development potential of Solomon Islands’ economic base through a dynamic and effective energy sector
+2.2 Mission
+Provides the base for appropriate coordination, planning, promotion, development and management, and efficient use of 
+energy resources
+2.3 Broad outcomes
+▶ Strengthen the energy sector leadership and planning
+▶ Increase access to electricity in urban areas to 100% by 2020.1
+▶ Increase access to electricity in rural households to 35% by 2020.
+▶ Increase access of safe, affordable and reliable petroleum fuels to outer islands and remote rural locations
+▶ Increase the use of renewable energy sources for power generation in urban and rural areas to 79% by 2030.
+▶ Increase the development and penetration of gaseous fuels and alternative liquid fuels from indigenous raw 
+materials.
+▶ Improve energy efficiency and conservation in all sectors by 10.7% by 2019.
+2.4 Guiding principles
+The guiding principles are aligned to Solomon Islands; NDS 2011–2020, the regional Framework for Action on Energy Security 
+in the Pacific (FAESP) and the Sustainable Energy for All Initiative Goals. The eleven guiding principles are to be embraced 
+in the implementation of the policy.
+▶ Whole-of-energy-sector: Instigate a whole-of-energy-sector approach and foster partnerships between the relevant 
+institutions and stakeholders. Each institution’s roles and responsibilities are to be recognised through proper 
+delineation of roles and avoidance of repetitive or overlapping activities. A strong leadership with legal mandates 
+should be developed and strengthened to coordinate planning and management in the energy sector. The whole-ofenergy-sector approach also means looking at all the options in a holistic manner – how the energy sub-sectors connect 
+to each other e.g petroleum uses can be minimised through energy efficiency and conservation. The deployment 
+the energy services and technologies is determined by understanding the community’s needs, the availability of 
+appropriate energy sources rather than a predetermined application, technology and energy source.
+▶ Environment and climate change: The energy sector strives to ensure that the environment is protected through the 
+proper management, storage and disposal of renewable energy accessories and parts, energy efficient technologies and 
+parts, and petroleum fuel wastes. While environmental issues are considered the responsibility of the Environment 
+Department, the onus is on private developers and communities to take responsibility for any waste generated through 
+energy sector activities. Climate change is a risk to the development of the nation and therefore efforts to reduce the 
+carbon footprint through the use of renewable energy technologies and energy efficient measures are considered an 
+important part of this energy policy.
+▶ Capacity building, training and research: Capacity building, training and research in all aspects of the energy sector 
+are continuous efforts that should be integrated into all sub-sector strategies and activities.
+▶ Gender: Gender is to be recognised as an important element for sustainability of energy programmes and provision 
+of efficient and affordable energy services. The wantok communal system continues to be a barrier in promoting 
+equitable distribution of energy projects and programmes. However, gender sensitive approaches should be considered 
+1 ADB 2013; Renewable Energy Investment Plan. ADB TA-8130 SOL: Provincial Renewable Energy Project (46014-001). Prepared 
+bSMEC Ittil PtLtdin understanding the different energy needs of men, women, and children, as well as in recognising the ability to 
+pay for, operate and maintain the energy services. The gender sensitive approach considers the traditional decision 
+making process and resource ownership and is therefore inclusive of all members of the society or community.
+▶ Culture and kastom: the cultural diversity of Solomon Islands is to be valued. Traditional institutions and chiefs 
+form an important part of the country’s social fabric and community and, while they are recognised in the country’s 
+constitution, they are largely left out of formal governance and administrative structures (SPC, Solomon Islands Nasional 
+Policy Framework blong KALSA, 2012). Acknowledging the traditional administrative structure at the community 
+level and the control and ownership of resources (rivers, land, biomass, etc.) is important for access to land, thereby 
+facilitating improvements to renewable energy resources and the installation of renewable energy technologies.
+▶ Land issues: Group and individual identity are defined by their relationship with the land. Of the total land area, 87% 
+is customary land and 13% is alienated land. Alienated land was procured during colonial times and its boundaries 
+are surveyed and registered. Customary lands are not surveyed and boundaries are fixed by geographical features 
+such as rivers and ridges. Therefore ownership can be contested by many communities or land-owners. Promoting 
+energy service systems should consider where land access has been secured and that the resource used should benefit 
+only those communities in order to minimise conflicts over land/resource issues.
+▶ Legislation and regulations: Updating of legislation and regular review of regulations to align to changes and needs 
+for effective governance and management of the energy sector.
+▶ Data management and information: The availability, accessibility and quality of data and information for all key 
+strategic areas are critical in order to make informed decisions and policy interventions. Continued efforts are needed 
+across all sub-sectors for effective and efficient data collection and management.
+▶ Financing: Financing the investment plan is required for implementing the policy with its strategies and activities. 
+The energy sector is a high capital infrastructure and therefore all avenues for sourcing funding should be a priority.
+▶ Investment: The Ministry of Commerce, Industry, Labor and Immigration (MCILI) is the lead one-stop agency 
+responsible for the formulation and implementation of economic and industrial development strategies for Solomon 
+Islands. The energy sector is currently one of the priority areas for government and this has encouraged investments 
+in both the Savo Geothermal and the Tina River Hydro Development projects. A conducive and enabling environment 
+for investors is required to increase the uptake of renewable energy technologies. To achieve this, action to be taken 
+could include changes to current policies to include more players (at local, regional and international level) through 
+offering a package of trade and investment incentives for renewable energy and energy efficiency, including duty 
+concessions, investment allowances, tax exemption and tax free regions, low corporate tax rate.
+▶ Sustainability: energy sector management should be improved through a stronger emphasis on sustainability 
+principles: economic growth, social development and environmental protection. Therefore, it is very important to 
+recognise the value of natural resources and communities’ contribution and participation in project planning and 
+decision making about energy services and technologies. Development partners and energy service providers should 
+also encompass a user pays principle, support community-based activities that empower communities, and provide 
+services and assistance that will achieve sustainable development with or without external support.
+2.5 Energy sub sectors
+The Solomon Islands energy sector is divided into six sub-sectors (thematic areas) that have been identified as important. 
+These include:
+▶ planning, coordination, leadership and partnership;
+▶ electric power (urban);
+▶ electric power (rural);
+▶ renewable energy;
+▶ petroleum and alternative liquid and gaseous fuels; and
+▶ energy efficiency and conservation.
+Each sub-sector is supported with a policy outcome, policy statement, policy details and key priorities. The strategies and 
+investment plans for the energy sub-sectors are developed as separate documents. All are aligned to the policy vision, mission 
+and goals.3. Policy Outcomes and Statements
+Thematic area 1: Planning, coordination, leadership and partnership
+Policy outcome 1.1: Strengthened energy sector leadership and planning through an integrated approach to policy 
+implementation
+Policy statements
+▶ Leadership is strengthened through an approved high-level multi-sectoral coordinating 
+mechanism, supported by legislation.
+▶ The energy sector is provided with the appropriate level of legal authority and resources 
+(financial and human) to perform its leadership role.
+▶ Partnerships are established and strengthened at local, national, regional and international 
+levels for the development of energy programmes and projects.
+Policy details
+The energy sector is vertically structured with the Energy Division responsible for policy development, rural electrification 
+project and administration of The Petroleum Act 1987.
+More emphasis on strengthening partnerships at local, national, regional and international levels is required to support 
+sustainability and financing of the energy programmes and strategies.
+Regarding a multi-sectoral coordinating mechanism, an energy advisory committee (EAC) is needed to facilitate the wholeof-energy-sector approach to the planning and management of the energy sector.
+Capacity building through informal and formal training should be key priority for the Energy Division staff in order to raise 
+the quality of the work on renewable energy, energy efficiency and conservation, energy data collection, establishing an 
+energy database, licensing for storage of petroleum products, and petroleum safety standards and procedures. Monitoring 
+and evaluation of the energy sector through a more strategic approach, including the use of energy security indicators, could 
+be encouraged in order to improve the reporting on the overall status of the energy sector. Key priorities
+Establish an EAC to coordinate and monitor the implementation of the SINEP.
+Establish an energy regulator through the proposed Energy Act to regulate the energy subsectors: electricity, petroleum, renewable 
+energy, standards, etc.
+Reporting regularly on Energy Division activities and projects, including progress towards the energy policy goal and the NDS focus 
+areas.
+Mainstream the energy sector in other development sectors: transport, agriculture, climate change, education health, investing 
+and financing.
+Establish a mechanism for the provision of energy data to relevant stakeholders through licensing, registration, fiscal incentive 
+provisions, etc.
+Develop a national energy balance database.
+Build capacity in the areas of petroleum storage, and regulating and monitoring petroleum supply and demand.
+Review the Petroleum Act 1987.
+Promote and strengthen partnerships with relevant financing and investing in the energy sector through presentations at annual 
+investment/development partners’ forums.Thematic area 2: Electric power (urban)
+Policy outcome 2.1: Access to grid connected electricity in the urban areas increased to 80% by 20202
+Policy statements
+▶ Establish a profitable, efficient and sustainable business.
+▶ Improve the capacity and condition of the Honiara and outstation networks.
+▶ Develop and implement energy efficiency and conservation in all sectors.
+▶ Extend existing networks to surrounding rural communities where feasible.
+▶ Install renewable energy technologies for demonstrations (head office and solar farm).
+Policy details
+The electricity sector is managed by the government-owned company, the Solomon Islands Electricity Authority (SIEA). SIEA 
+is totally dependent on diesel for power generation; 80% of energy is produced for Honiara while 20% is for outstations in 
+eight provincial centres. SIEA has a total of 14,000 customers in 2013. It produces around 78 Gwh of energy annually, using 
+1.7 million litres of diesel a month for power generation, which contributes to 80% of the total expenses of the company. While 
+SIEA operates in a commercial way, a major challenge is the non-payment of government institutions and commercial and 
+residential customers. The Solomon Islands Sustainable Energy Programme (SISEP) started in June 2009 has improved the 
+operational efficiency, system reliability and financial sustainability of SIEA by improved financial and operational management, 
+reduction of losses, and increased revenue collection.
+The current focus of SIEA, critical to its ongoing financial sustainability is on:
+i. reducing arrears from state owned enterprises, in particular Solomon Islands Water Authority;
+ii. addressing metering deficiencies and fraud by large commercial/industrial consumers;
+iii. implementing improved financial controls and reporting, including replacing SIEA’s existing general ledger accounting 
+system (WB report no. ISR4675);
+iv. a tariff review; and
+v. professional staff development.
+With only 14% electrification rate in the urban areas of Honiara and provincial centres in 2009, SIEA also needs to increase 
+its renewable energy mix to meet the increasing demand for electricity. Key priorities
+Increase access to affordable electricity in the urban and semi-urban areas.
+Improve the efficiency of SIEA.
+Create a regulatory framework (under the proposed Energy Act) to regulate the participation of independent power producers and 
+integrate power purchase agreements.
+Regulate the provision and standards of renewable energy technologies for on-grid connections.
+Regulate and monitor the electricity tariff as related to increased fuel prices.
+Sustain a 24-hour electricity service to Honiara and the outstations.
+Improve on the cooling system of the Lungga generators (gain 2.5 MW) by December 2013.
+Install 2 x 1.5 Mw diesel generators at Honiara Power Station by August/September 2013.
+Install 2 x 5.0 Mw Diesel Generators at Lungga Power station by 2015/2016.
+Install new diesel generators at Noro, Munda, Tulagi.
+Thematic area 3: Electric power (rural)
+Policy outcome 3.1: Access to electricity in rural households and institutions increased to 35% by 20203
+Policy details
+Access to electricity in both the rural and urban areas has made slow progress since 2005. However, there is an increase of 7% 
+rural households that use solar PV systems for lighting in 2009. The 2009 household income and expenditure survey showed 
+an estimate of 71,749 households relying on kerosene and traditional biomass for lighting. There are about 619 primary 
+2 ADB. 2013. Renewable energy investment plan, ADB TA-8130 SOL: Provincial Renewable Energy Project (46014-001). Prepared 
+by SMEC International Pty Ltd. Page 53.
+3schools and health centres that require modern sources of energy. There are 135 high schools and three hospitals that require 
+a reliable and affordable source of electricity. A capacity of 100 Watts solar PV home systems with batteries (lead acid type) 
+are appropriate for these rural and remote services and households while off-grid mini and micro hydro–power of 1000 Watts 
+are appropriate at the community level within the specific hydro site. Key priorities
+Sustainability of renewable energy technologies in rural areas.
+Regulate the provision and standards of renewable energy technologies.
+Regulate the price of petroleum and power/electricity. 
+Promote legislation and fiscal incentives to encourage wide use of renewable energy.
+Deployment of energy services that will create paid jobs at the community level.
+Create awareness and include training opportunities for renewable energy opportunities and technologies on wind, biomass and hydro 
+resources.
+Thematic area 4: Renewable energy
+Policy outcome 4.1: Use of renewable energy sources for power generation in urban and rural areas increased to 50% 
+by 2020
+Policy statements
+▶ Establish an appropriate, reliable, affordable and sustainable renewable energy-based power 
+supply.
+▶ Assess, cost, promote and enhance the potential for renewable energy resources.
+▶ Increase productivity in rural communities with the use of renewable energy services.
+▶ Develop renewable energy policy instruments (standards and regulations, net metering 
+policies, market-based instruments, procurement strategies) to meet the renewable energy 
+targets.
+▶ Facilitate partnerships in development of renewable energy developments.
+Policy details
+The share of renewable energy for power generation in Solomon Islands in 2009 was only 0.6%. A renewable energy resource 
+summary shows the generating electricity capacity for the different renewable energy resources:
+▶ geothermal: available but not fully explored except for the Savo Island geothermal resource currently being 
+explored with estimated potential between 20 and 40 MW;
+▶ hydro: small hydro approximate potential of 11 MW, a total estimated hydro potential of approximately 300 MW;
+▶ wind: no detailed wind assessment has been carried out;
+▶ solar energy: solar radiations estimated at 5.5 to 6.5 kwh/m2/day with potential for small, off-grid solar schemes 
+of a total capacity of less than 1 MW;
+▶ traditional biomass energy: timber wood/forest waste and biofuel with an approximate potential of 20 MW; and
+▶ off-grid biomass/biogas schemes to serve rural communities with total potential of about 500 kW.
+The Levelised Cost of Energy (LCOE) for different renewable energy options and technologies shows that solar PV appears 
+to be the best option for renewable generation in remote villages. Solar PV costs USD 0.24 per kWh, while other options of a 
+hybrid of a solar PV system with a biomass gasifier or with biofuel and hydro have an LCOE between 0.27 and 0.28 USD per 
+kWh, with the exception of wind at 0.50 USD per kWh. However the utility scale renewable generation options such as the 
+Tina Hydro Development Project and the Savo Geothermal will have a lower LCOE.4
+Increasing renewable energy largely depends on public policies that foster public / private partnerships and create policy 
+instruments for renewable energy. These policy instruments include the setting up of regulations and standards, quantity 
+instruments, procurement strategies and price instruments.
+Research, development and assessment of renewable energy technology options, including biomass gasification, is considered 
+vital due to the high land mass area of Solomon Islands. The scaling up of successful trials on bio-fuel use for power generation 
+and transport also requires policy support.Key priorities
+Establish guidelines on the sustainability of renewable energy technologies in rural areas, schools, telecommunications and 
+health centres in partnership with communities and government sectors.
+Monitor and maintain renewable energy projects (Tina River Hydropower and Savo Geothermal schemes and provincial centres 
+RE projects).
+Proper dispose of used equipment, such as batteries, lights, bulbs, accessories.
+Establish and regulate renewable energy resources and technology standards, e.g. biofuel and solar PV home systems.
+Create and regulate financial incentives, standards and market-based policy instruments in meeting the renewable energy 
+targets.
+Encourage research and development, and demonstrations (RD&D).
+Thematic area 5: Petroleum and alternative liquid and gaseous fuels
+Policy outcome: 5.1: Access to safe, affordable and reliable petroleum products and alternative liquid fuels and 
+gaseous fuels increased
+Policy statements
+▶ The monitoring and regulating of petroleum prices is done through transparent and 
+coordinated ways.
+▶ A reliable supply of quality petroleum products at landed cost is supplied to all people in 
+Solomon Islands.
+▶ Petroleum storage and handling facilities conform to local and international safety and 
+environmental standards.
+▶ Suppliers and users of petroleum products dispose of petroleum-related wastes in an 
+environmentally sound manner.
+▶ Research in alternative liquid and gaseous fuels is promoted, supported and well 
+coordinated.
+Policy details
+The energy sector remains dependent on petroleum products for driving the economy, in particular the electricity and 
+transport (land, air and sea) sectors, and therefore it is very important that the petroleum sub-sector is regulated properly 
+to maintain fair and unbiased prices to both the suppliers and the users. What remains a challenge in Solomon Islands is the 
+proper handling, storage and distribution of the petroleum products in the outer and remote islands. In addition, enforcement 
+of the Price Control Act in the outer islands is not effective due to the lack of human resources and financial constraints. A 
+one cent levy on the imported petroleum product was recommended to assist the Price Control Unit to check that proper 
+prices are applied in rural and remote areas. The Petroleum Act 1978 is also out-dated, with provisions for fines irrelevant 
+and inappropriate. There are currently no safety and environmental standards due to limited capacity in developing these 
+standards. While there may be international standards that are available, these standards need to be adapted to the local 
+context. Activities related to alternative fuels are limited to small-scale use trials, such as the ADB and SIEA 360 kW biofuel 
+plant trial in Auki. SIEA is promoting the use of coconut oil. In addition, SIEA has a power purchase agreement with Solomon 
+Tropical Products Ltd on using biofuel while a transport trial is being developed in Honiara.
+The challenges faced by SIEA in maintaining the use of coconut oil is the shortage of supply due to the limited supply of 
+copra from plantation owners and farmers. There is also competition from well-established exporters to foreign markets 
+with links to local farmers. The potential for harnessing biomass through the gasification process of by-products and forest 
+waste needs to be properly assessed.Key priorities 
+Improve the supply of petroleum products to outer islands and remote locations.
+Establish fuel storage (depots) to the islands for ease of distribution. 
+Effectively monitor the regulated petroleum prices in the nine provinces.
+Encourage the use of alternative liquid fuels in power generation and transport through
+▶ Support private sector to establish professional alternative fuel producers;
+▶ Supporting primary producers that can supply raw materials; and
+▶ Construct infrastructure as necessary to support new alternative fuel industry.
+Provide financial support/investment to support primary producers that supply raw materials for alternative fuels.
+Invite private sector companies to identify markets and invest in land transport fuels and power generation capacity in addition to 
+SIEA.
+Thematic area 6: Energy efficiency and conservation
+Policy outcomes 6.1
+▶ Reduce electricity consumption in Government services by 20% in 2019, while increasing efficiency of service 
+delivery by 2019
+▶ Reduce electricity consumption in the residential services by 10% in 2019
+▶ Reduce electricity consumption in commercial services by 5% in 2019
+▶ Reduce electricity consumption in industrial services by 5% in 2019
+▶ Build a sufficient body of expertise within government in order to implement energy efficiency and enegy conservation 
+strategy targets
+Increase nationwide levels of awareness leading to strong demand for energy efficiency products and services
+▶ Include as mandatory course materials on energy efficiency and conservation at all levels of the education systems 
+by 2019
+▶ By 2019, realise electricity savings of 2.56 GWh from mandatory implementation of minimum energy performance 
+standards and energy labelling for freezers, refrigerators, lights and air conditioning units
+▶ By 2019, fully realise incentives for the purchase and use of efficient vehicles and cooking technologies
+Policy statements
+▶ Promote energy conservation and efficiency measures at government, residential, 
+commercial and businesses sectors.
+▶ Encourage energy efficiency in appliances, equipment and technologies.
+Policy details
+The standards on efficient appliances and the ways in which electricity use in households, government buildings and public 
+institutions, as well as petroleum use in the electricity and transport sector, are all part and parcel of this energy sub-sector. 
+Information sharing and dissemination on energy efficient practices and appliances is important. Information is more easily 
+conveyed to people through demonstration, yet there have been few demonstrations of energy efficient appliance in past 
+years. A regional programme has been developed to reduce this gap in most countries where energy efficiency has not been 
+a priority for the government. Solomon Islands needs to commit its resources to promoting, regulating and increasing the 
+use of energy efficient appliances and fuel efficient vehicles. Key priorities
+Residential, Commercial and Industrial 
+sector initiatives 
+Carry out demand-side management activities.
+Conduct energy audits of commercial and industrial buildings.
+Government led activities Carry out extensive data collection and collation.
+Conduct energy audits of government-owned buildings.
+Conduct government energy awareness programmes.
+Replace inefficient lights.
+Reduce overall electricity consumption.
+Public awareness Conduct energy awareness programmes in Honiara and outer islands.
+Develop and adapt course materials for use in schools.
+Appliances, equipment and 
+technologies
+Promote energy labelling and standards for freezers, refrigerators, lights and air 
+conditions.
+Offer tax incentives for the use of energy efficient vehicles including LPG vehicles.4. Linking the Policy to the Strategies and 
+Investment Plans
+The strategies and investment plans5 for each policy sub-sector are developed as separate volumes to this policy document. 
+The Energy Programme of the Economic Development Division of the Secretariat of the Pacific Community is providing 
+technical assistance to the Energy Division in developing both the Energy efficiency and conservation strategies and investment 
+plan (EE-EC-IP) and the Petroleum strategies and investment plan (PS-IP). The ADB has formulated the Renewable Energy 
+Investment Plan (RE-IP), which was adapted to formulate the Renewable Energy Strategy and Investment Plan (RE-SIP). 
+SIEA is formulating its Power sector strategies and action plan which is also aligned to this policy framework.
+The strategies for each energy sub-sector are presented in Tables 1 to 6. The strategies are to guide the formulation of shortterm and long-term activities for achieving the goals and targets for each sub-sector. The investment costs and responsible 
+agencies are also highlighted in the policy so to get a clear estimate of the capital investment required for implementing 
+the policy.
+Table 1: Planning coordination, leadership and partnership strategies and investment costs
+Thematic Area 1: Planning, coordination, leadership and partnership
+Policy outcome: Strengthened the energy sector leadership and planning through an integrated approach to policy implementation STRATEGIES
+Policy statement 1.1 Leadership is strengthened through an approved high-level multi-sectoral coordinating mechanism supported 
+by legislation.
+1.1.1 Achieve government leadership and effective coordination and partnership through the Energy Advisory Committee.
+1.1.2 Support the regulation of the energy sector – off-grid and on-grid electrification.
+1.1.3 Establish standards and certification to cover all electrical equipment.
+1.1.4 Support and review the energy legislation (The Petroleum Act and the recommendations on the study of the review of the 
+Electricity Act).
+1.1.5 Support the formulation and enacting of an Energy Act.
+Policy statement 1.2 The energy sector is provided with appropriate level of resources (financial and human) to perform its leadership 
+role.
+1.2.1 Submit annual budgets on time.
+1.2.2 Follow processes for membership with donor agencies and meet deadlines.
+1.2.3 Identify funding services.
+1.2.4 Empower institutions through professional staff development.
+Policy statement 1.3 Partnerships are established and strengthened at local, national, regional and international levels for the 
+development of energy programmes and projects.
+1.3.1 Develop targeted training programmes and awareness campaigns for communities on the operation and maintenance of 
+renewable energy projects. 
+1.3.2 Promote provincial and community institutional structure and set-up during project planning and implementation.
+1.3.3 Holds timely meetings of energy working groups and energy advisory committees with meeting records documented.
+Responsible agencies ▶ Ministry of Mines, Energy and Rural Electrification, Energy Division
+▶ Energy Advisory Committee members, including Ministry of Public service; Public Service 
+Commission; Attorney General’s Chamber; SIEA; Solomon Islands National University; 
+Ministry of Education & Human Resources Development; Ministry of Foreign Affairs & 
+External Trade; Ministry of Finance & Treasury; Ministry of Development Planning & Aid 
+Coordination; Ministry of Provincial Government; Ministry of Rural Development; Ministry 
+of Commerce, Industries, Labour & Immigration. 
+Estimated inputs USD 4.18 million6
+ (2014–2017)
+*USD 4.18 million (2014–2017) 6
+5 SPC, in collaboration with the Energy Division, has developed energy efficiency and conservation and petroleum strategies and Table 2: Electric power (urban) strategies and investment costs
+Thematic area 2: Electric power (urban)
+Policy Outcome 2.1 Access to grid-connected electricity in the urban areas increased to 100% by 2020 STRATEGIES
+Policy statement 2.1 Establish a profitable, efficient and sustainable business 
+2.1.1 Reform SIEA to operate commercially to deliver reliable, affordable and efficient electricity services.
+2.1.2 Re-structure the current SISEP programme to adequately meet changes in events and current challenges 
+faced by the SIEA. 
+2.1.3 Reduce government and SOE’s electricity bills
+2.1.4 Complete the tariff review and implement
+Policy statement 2.2 Improve the capacity and condition of the Honiara and outstations network
+2.2.1 Progress the Lungga Expansion Project
+2.2.2 Complete the 33kV cable, 11kV Switchgear (Honiara), Network Upgrades (Honiara) Projects under the SISEP 
+programme
+Policy statement 2.3 Develop and implement energy efficiency & conservation programme
+2.3.1 Improve awareness and understanding of energy efficiency and conservation in all sectors.
+2.3.2 Investigate non-technical losses and implement actions
+2.3.3 Resolve and implement street – lighting issues
+Policy statement 2.4 Extend existing networks to surrounding rural communities where feasible
+2.4.1 Develop and strengthen collaboration between Ministry of Lands and SIEA to address land access for 
+transmission and distribution.
+2.4.2 Establish an independent body to regulate electricity supplies and standards to maintain quality.
+2.4.3 Establish an independent body to regulate the independent power producers and power purchase 
+agreements.
+Policy statement 2.5 Install renewable energy technologies for demonstrations
+(head office and solar farm)
+2.5.1 Install 1.5 MW solar at Head office in Lungga
+Responsible agencies SIEA, Energy Division, Ministry of Land, Honiara Town Council, prospective independent power 
+producers, Asian Development Bank, World Bank, CIF-SREP
+Estimated inputs USD 64 million*
+ (2014–2017)
+*USD 64 million7
+ (2014–2017)Table 3: Electric power (rural) strategies and investment costs
+Thematic area 3: Electric power (rural)
+Policy outcome: Access to electricity in rural households increased to 35% by 2020 STRATEGIES
+Policy statement 3.1 Increase the supply and coverage of electricity by responding to community requests.
+3.1.1 Encourage extension of SIEA to nearby rural communities.
+3.1.2 Encourage public / private partnership for power generation.
+Policy statement 3.2 Increase the supply of modern energy services in rural schools, telecommunication and health 
+centres.
+3.2.1 Improve and increase the use of solar and hydro power.
+3.2.2 Encourage the use of other renewable energy sources, including geothermal.
+3.2.3 Work with communities and townships to establish electrification for rural communities.
+Policy statement 3.3 Planned and sustainable energy development consistent with government objective*
+3.3.1 Develop policies for managing Independent Power Producers
+3.3.2 Develop and implement land access policy and strategy 
+3.3.3 Develop a National Public Private Partnership Policy for power generation
+Policy statement 3.4 Develop a renewable energy policy and rural electrification policy
+3.4.1 Implement the Rural Electrification Master Plan (JICA-funded project) and recommendations in the 2006 
+Maunsell Report on review of the Solomon Islands Electricity Act and Rural Electrification Framework.
+Responsible agencies SIEA, Energy Division, prospective independent power producers, Asian Development 
+Bank, Renewable Energy Services Company
+Estimated inputs USD 14.57 million* (2015–2020)
+*Policy statement 3.3 Planned and sustainable energy development consistent with government objective8
+*USD 14.57 million9 (2015–2020)Table 4: Renewable energy strategies and investment costs
+Thematic area: Renewable energy
+Policy outcome: Use of renewable energy sources for power generation increased to 50% by 2020 * STRATEGIES
+Policy statement 4.1 Establish an appropriate, reliable, affordable and sustainable renewable energy-based power supply in urban 
+and rural areas.
+4.1.1 Support the development and implementation of the Tina River Hydropower Development Project (TRHDP). 
+4.1.2 Support the development and implementation of the Savo Geothermal Project.
+4.1.3 Improve SIEA energy services through off grids (hydro and solar) and generating plants.
+4.1.4 Replicate successful and scaling-up of deployment of solar PV home systems in rural households
+4.1.5 Encourage the establishment of rural centres including ICT powered by renewable energy at provincial level
+4.1.6 Encourage Renewable Energy Services Company (RESCO’s) involvement in productive uses of renewable energy sources.
+4.1.7 Promote the use of renewable energy technologies in rural schools.
+4.1.8 Promote the use of renewable energy technologies in health centres.
+4.1.9 Promote the use of low-cost specific renewable energy technologies (e.g. solar charging stations, solar lanterns).
+Policy statement 4.2 Assess, cost, promote and enhance the potential for renewable energy resources.
+4.2.1 Undertake an assessment and data collection on wind energy potential.
+4.2.2 Undertake an assessment and data collection on geothermal energy potential.
+4.2.3 Undertake an assessment of biofuel potential based on coconut.
+4.2.4 Undertake an assessment of gasification potential from by-products and forest waste.
+4.2.5 Undertake an assessment and data collection on mini hydro sites
+4.2.6 Develop training and capacity development on new renewable energy technologies.
+Policy statement 4.3 Develop renewable energy policy instruments (standards and regulations, net metering policies, market-based 
+instruments, procurement strategies) to meet the renewable energy targets.
+4.3.1 Develop a clear policy on fiscal incentives e.g tax holiday incentives and duty tax exemptions including loans for 
+renewable energy technology deployment*
+4.3.2 Develop clear policies and legislations/regulation on net metering
+4.3.3 Establish standards for on- and off-grid connections of renewable energy technologies.
+Responsible agencies SIEA, Energy Division, prospective independent power producers, Asian Development Bank, Renewable 
+Energy Services Company, SPREP, SPC
+Estimated inputs USD 75 million*
+Thematic area: Renewable energy
+* Policy outcome: Use of renewable energy sources for power generation increased to 50% by 202010
+*4.3.1 Develop a clear policy on fiscal incentives e.g tax holiday incentives and duty tax exemptions including loans for renewable energy 
+technology deployment11
+*USD 75 million12
+10 35% in rural areas by 2020 and 45% of grid connected in the urban and provincial centres
+11 The proposed National Energy Advisory Committee TOR is also to approve tax incentives for renewable energy technologies. 
+Therefore, the Income Revenue Department is to be included as one of the members.
+12 REIP Rt V1158Ail 2013Table 5: Petroleum and alternative liquid/gaseous fuels strategies and investment costs
+Thematic Area: Petroleum and alternative liquid/gaseous fuels
+Policy outcome: Access to safe, affordable and reliable petroleum products and alternative liquid fuels increased STRATEGIES
+Policy Statement 5.1 The monitoring and regulating of petroleum prices is done through transparent and 
+coordinated ways.
+5.1.1 Ensure an appropriate and effective regulatory framework is in place.
+5.1.2 Ensure compliance to regulated oil and gas prices.
+Policy Statement 5.2 A reliable supply of quality petroleum products at landed cost is supplied to all people in 
+Solomon Islands.
+5.2.1 Ensure a secure and reliable supply of petroleum products within Solomon Islands.
+5.2.2 Develop appropriate technical guidelines and standards for oil storage permits.
+Policy statement 5.3 Petroleum storage and handling facilities conform to local and international safety and 
+environmental standards.
+5.3.1 Ensure that petroleum storage and handling facilities conform to local and international safety and 
+environmental standards.
+Policy statement 5.4 Suppliers and users of petroleum products dispose petroleum related wastes in an 
+environmentally sound manner.
+5.4.1 Ensure that the draft contingency oil spill plan is finalised and implemented.
+5.4.2 Ensure there is regulation for disposal of petroleum-related wastes.
+Policy statement 5.5 Research in alternative sources of liquid and gaseous fuels is promoted, supported and wellcoordinated.
+5.5.1 Promote the use of bio-fuel for power generation and transportation.
+5.5.2 Research and demonstrate appropriate design of biogas digesters.
+5.5.3 Promote the use of LPG for cooking and lighting
+Responsible agencies
+Price Control Unit of the Ministry of Commerce, Industry, Labour and Immigration; petroleum 
+companies, Ministry of Environment, Energy Division; copra oil producers, SPC – Petroleum 
+Advisory Team
+Estimated inputs USD 1.67 millionTable 6: Energy efficiency and conservation strategies and investment costs
+Thematic area: Energy efficiency and conservation
+Policy outcomes:
+Reduce electricity consumption in Government services by 20% in 2019, while increasing efficiency of service delivery by 
+2019
+▶ Reduce electricity consumption in the residential services by 10% in 2019
+▶ Reduce electricity consumption in commercial services by 5% in 2019
+▶ Reduce electricity consumption in industrial services by 5% in 2019
+▶ Build a sufficient body of expertise within government in order to develop national energy efficiency targets by 
+2019
+▶ Increase nationwide levels of awareness leading to strong demand for energy efficiency products and services
+▶ Include as mandatory course materials on energy efficiency and conservation at all levels of the education systems 
+by 2019
+▶ By 2019, realise electricity savings of 2.56 GWh from mandatory implementation of minimum energy performance 
+standards and energy labelling for freezers, refrigerators, lights and air conditioning units
+▶ By 2019, fully realise incentives for the purchase and use of efficient vehicles and cooking technologies
+STRATEGIES
+Policy Statement 6.1 Promote energy efficiency and conservation measures at government, residential, commercial 
+and industrial sectors
+6.1.1 Encourage demand side management and ensure the transformation towards a more efficient use of energy 
+6.1.2 Ensure wider public engagement in energy efficiency
+Policy Statement 6.2 Encourage energy efficiency in appliances, equipment and technologies.
+6.2.1 Ensure there is appropriate standards, guidelines and tax incentives for the use of energy efficient
+appliances, equipment and technologies
+Responsible agencies
+Pacific Appliance Labelling Standards (PALS) – SPC, Energy Division, SIEA, 27 heads of 
+ministries and staff, energy efficiency companies (EECOS), Customs Department, oil 
+companies, provincial councils, Ministry of Education, NGOs
+Estimated inputs USD 6.29 million (2014–2019)5. Scale of Implementation
+5.1 Institutional framework
+The Energy Division is the leading coordinating agency for implementing the policy, while the administration and oversight 
+of the progress is to be monitored by a high-level multi-sectoral committee to be known as the Energy Advisory Committee 
+(EAC). The Ministry of Development Planning and Aid Coordination is the key member of the committee and its coordinating 
+role in promoting congruence between government priorities and donors is considered important. The EAC is to be chaired 
+by the Permanent Secretary of the Ministry of Mines, Energy and Rural Electrification, with core members from the 12 
+ministries, as illustrated in Figure 1.
+A technical working group (TWG) is required to provide technical advice on the implementation of energy projects and 
+programmes. The TWG will include alternate members from the various energy sub-sectors, including the electricity/power 
+companies, petroleum oil companies, a regulatory body such as the Commerce Commission, the Price Control Unit, and 
+related government ministries and private agencies, including donor partners. The proposed TWG is to report to the EAC on 
+project implementation and progress and is to be coordinated and chaired by the ED, which also provides technical support 
+and reporting to the EAC. The TWG will allow external project partners, such donors, Division or consultants to provide and 
+also get feedback on projects implementations. The proposed institutional structure is provided in Figure 1.
+Figure 1: Composition and management structure of the Energy Advisory Committee5.2 Governance and regulation
+The current institutional framework for governance and coordination is vertically structured and there is no overall coordination 
+or regulation for the energy sector. Petroleum pricing and storage are regulated through the Price Control Act and Petroleum 
+Act respectively but both acts need updating as the fines are out-dated.
+Consideration should be given to the merits of developing an energy act to mandate new efforts under the policy and 
+subsequent strategies. An energy regulator is to be established under the proposed energy act, which mandates the terms 
+and conditions of the independent power producers, and regulates standards for off-grid and on-grid connections and other 
+energy sector regulations.
+During the National Energy Forum, there was a recommendation that the Commerce Commission be engaged to regulate the 
+RE standards and certification. However, technical knowledge and capacity development are needed to set up and regulate 
+standards for all relevant stakeholders.
+5.3 Monitoring and evaluation
+To monitor the progress of the 2014 SINEP, a log-frame matrix is to be put together with strategies and activities, performance 
+indicators, means of verification and time-lines. The log-frame matrix will become an implementation plan for the policy. 
+Each energy sub-sector has goals and quantified targets, which can be easily monitored. A review of the implementation 
+plan is to be done annually, and this should indicate what needs to be done if monitoring shows a lack of progress.
+The progress of SINEP will be monitored and performance evaluated against the performance indicators of the policy and 
+against the energy security indicators. The 2009 energy security indicators for Solomon Islands can be used as a baseline 
+for planning and monitoring progress if there is no other baseline information available.
+In addition, SINEP outputs should also be monitored according to the NDS objectives and goals. The policy outcomes, 
+statements, strategies and activities are to be mainstreamed into the MMERE Corporate Plan, which then feeds into NDS 
+policies and strategies thus progress to be assessed effectively at a macro level.Annexes
+Annexw 1: List of organisations interviewed and consulted
+Government
+Central Bank of Solomon Islands
+Customs & Excise Division
+Foreign Investment Division of the Ministry of Commerce, Industry and Immigration
+Ministry of the Prime Minister’s Office
+Ministry of Education and Human Resources Development
+Ministry of Environment, Conservation and Disaster Management
+Ministry of Infrastructure and Development.
+Ministry of Development Planning and Aid Coordination
+Ministry of Mines Energy and Rural Electrification
+Ministry of Rural Development
+Price Control Unit of Ministry of Commerce, Industry, Labour and Immigration
+Solomon Island Electricity Authority
+Development partners and CROP agencies
+Asian Development Bank
+Clinton Foundation
+IUCN-Oceania Regional Office
+Japanese International Cooperation Agency – Solomon Islands
+New Zealand High Commission
+Pacific Power Association
+Secretariat of the Pacific Community
+United National Development Partners – Solomon Islands Office
+Private sectors and civil societies
+Development Services Exchange
+Downstream Community
+Geodynamics Limited
+Humphrey Engineering Ltd
+InterAction Corporation
+Rokotanikeni Women’s Group
+Solomon Island Maritime Transport AssociationFINAL DRAFT
+SOLOMON ISLANDS NATIONAL ENERGY 
+POLICY AND STRATEGIC PLANNING
+VOLUME 1: SOLOMON ISLANDS NATIONAL 
+ENERGY POLICY
+2014
+MINISTRY OF MINES, ENERGY AND RURAL ELECTRIFICATION
+ENERGY DIVISION
+Energy Division
+Ministry of Mines, Energy and Rural Electrification
+P.O Box G37, Honiara, Solomon Islands
+© Copyright Solomon Islands Government

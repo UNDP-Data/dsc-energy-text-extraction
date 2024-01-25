@@ -1,0 +1,3041 @@
+File Name: SEN-NREP-2012-EN
+Year: 2012
+Country Name: Senegal
+Country Code: SEN
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2012
+Start Year: 2012
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+RENEWABLES READINESS 
+ASSESSMENT 2012
+SENEGALAbout IRENA 
+The International Renewable Energy Agency (IRENA)
+promotes the accelerated adoption and sustainable use of all
+forms of renewable energy. IRENA’s founding members were
+inspired by the opportunities offered by renewable energy to
+enable sustainable development while addressing issues of
+energy access, security and volatility. Established in 2009, the
+inter-governmental organisation provides a global networking
+hub, advisory resource and unified voice for renewable energy. 
+www.irena.org
+The designations employed and the presentation of materials herein
+do not imply the expression of any opinion whatsoever on the part
+of the Secretariat of the International Renewable Energy Agency
+concerning the legal status of any country, territory, city or area or
+of its authorities, or concerning the delimitation of its frontiers or
+boundaries. The term “country” as used in this material also refers,
+as appropriate, to territories or areas.RENEWABLES 
+READINESS 
+ASSESSMENT 
+2012
+SENEGALTable of Contents
+4
+LIST OF ACRONYMS 6
+LIST OF FIGURES 8
+LIST OF TABLES 8
+LIST OF IMAGES 8
+ACKNOWLEDGEMENTS 9
+FOREWORD 11
+PREFACE 13
+EXECUTIVE SUMMARY 15
+I. INTRODUCTION 19
+Background 19
+The Renewables Readiness Assessment 22
+Developing the methodology 22
+Testing the methodology in Senegal 24
+Objectives 24
+II. ENERGY AND RENEWABLE ENERGY CONTEXT 25
+The regional context 25
+Overview of the energy sector in Senegal 25
+Renewable energy in Senegal 31
+Key energy stakeholders 34
+Energy policy and regulatory framework 36
+Financing and investment 40
+III. MARKET DEVELOPMENT BY SECTOR 43
+A. On-grid electricity 43
+Findings from the RRA 45
+B. Off-grid applications 48
+Decentralised rural electrification 48
+Motive and thermal applications 49
+Findings from the RRA 51
+C. Biofuels for transport 53
+Findings from the RRA 53
+RENEWABLES READINESS ASSESSMENT5
+IV. RECOMMENDED ACTIONS 55
+V. BEST PRACTICES AND FUTURE COOPERATION 57
+Identified examples of good practice 57
+Good practice demonstration 1: 57
+Business models used for rural and off-grid electrification
+Good practice demonstration 2: 58
+Legal and institutional framework
+Future cooperation 59
+VI. REFERENCES AND BIBLIOGRAPHY 60
+VII. ANNEX: DETAILED LIST OF RECOMMENDED ACTIONS 63
+Action 1: Adapt the rules of intervention for the regulator 63
+in the specific case of small electricity producers (ERILS)
+Action 2: Finalise and sign the implementing decrees of 64
+the framework laws on renewable energy
+Action 3: Finalise policies on the integration of electricity 65
+generated from renewable sources onto Senelec’s grid, 
+and define the associated technical and capacity-building 
+requirements for integration
+Action 4: Promote small-scale production of biodiesel 66
+Action 5: Improve strategy for the institutional, legal and 67
+regulatory conditions and modalities for utilising land 
+in support of the national biofuels strategy
+Action 6: Establish policy and institutional mechanisms to increase 68
+private sector involvement in re-manufacturing
+Action 7: Establish institutional capacity and conditions for 70
+improving O and M (Operation and Maintenance) 
+of renewable energy technologies
+Action 8: Elaborate and implement a strategy for 72
+comprehensive mapping of resources in key areas
+SENEGAL6
+AfDB African Development Bank
+ANCs National Rural Councillors Association
+ANDES National Agency for Solar Energy Development 
+APANPP Association for African Non-Oil Producer Countries
+APIX Agency for Investment Promotion
+ASER Rural Electrification Agency
+ASN Senegalese Association for Standardisation
+BOO Build Own Operate
+CERER Centre for Research and Studies on Renewable Energy
+CF Carbon Fund
+CIER Interministerial Committee on Renewable Energy
+CIMES Intersectorial Committee for the Implementation of Synergies 
+between Energy and other Strategic Sectors 
+CNB National Biofuel Committee
+CRSE Commission de régulation du secteur de l’électricité
+CSS Senegalese Sugar Company
+DGIS Netherlands Directorate-General for International Cooperation
+DSRP Document of the Strategy for Poverty Alleviation
+ECOWAS Economic Commission of West African States
+ECREEE ECOWAS Centre for Renewable Energy and Energy Efficiency
+ERIL Rural Electrification through Local Initiatives
+FABER-ABERF African Biofuels and Renewable Energy Fund
+FIT Feed-in Tariff
+GOANA Great Agricultural Offensive for Food and Agriculture
+GW Gigawatt
+HV/MV/LV High Voltage/ Medium Voltage/Low voltage
+ICS Industries Chimiques du Sénégal
+IEA International Energy Agency
+IPP Independent Power Producer
+ISRA Senegalese Institute for Agricultural Research
+IRENA International Renewable Energy Agency
+JICA Japan International Cooperation Agency
+kV Kilovolt
+kW Kilowatt
+List of Acronyms
+RENEWABLES READINESS ASSESSMENT7
+LPDSE Lettre de Développement du Secteur de l’Energie
+LPG Liquefied Petroleum Gas
+MC Ministry of Commerce
+MDG Millennium Development Goal 
+MER Ministry of Renewable Energy
+MEF Ministry of Economy and Finance
+MoE Ministry of Energy
+MW Megawatt
+NBC National Committee for Biofuels
+NGO Non-Governmental Organisation
+O and M Operations and Maintenance
+OMVG Organisation for the Development of the Gambia River Basin
+OMVS Organisation for the Development of the Senegal River
+PASER Rural Electrification Action Plan
+PERACOD Programme to Promote Rural Electrification and 
+a Sustainable Supply of Domestic Fuel
+PPP Public Private Partnership
+PREDAS Regional Programme for Households and Alternative Energies in the Sahel
+PRS Regional Solar Programme
+RE Renewable Energy
+REF Rural Electrification Fund
+REVA Retour Vers l’Agriculture
+RRA Renewables Readiness Assessment
+SAR Société Africaine de Raffinage
+SENELEC Senegalese National Electricity Company
+SPEC Sustainable Power Electric Company
+TPES Total Primary Energy Supply
+WAEMU West African Economic and Monetary Union
+VAT Value Added Tax
+WAPP West African Power Pool
+WMO World Meteorological Organization
+Wp Watt Peak
+SENEGAL8
+LIST OF FIGURES
+Figure 1 Senegal energy profile 28
+Figure 2 Evolution of total primary energy supply 29
+Figure 3 Energy sources used 29
+Figure 4 Senegal oil bill evolution 30
+Figure 5 Electricity use per capita for 2008 31
+LIST OF TABLES
+Table 1 Types, location and potentials of energy resources 32
+LIST OF IMAGES
+Image 1 Traditional use of biomass in Senegal 30
+Image 2 National electricity grids and RE potential 33
+Image 3 Work in progress at SPEC's solar modules 46
+mounting facility
+Image 4 Senegalese sugar production company 47
+in Richard-Toll
+Image 5 Sine Moussa solar wind diesel 49
+hybrid power plant
+Image 6 Solar water heater in rural area in Senegal 50
+Image 7 Installation of a small wind turbine 51
+at the University of Dakar
+Image 8 Molasses lake at Senegalese 53
+Sugar Company (CSS)
+RENEWABLES READINESS ASSESSMENT9
+Acknowledgements
+This Renewables Readiness Assessment report was prepared by the
+International Renewable Energy Agency (IRENA) working in close
+collaboration with the Government of Senegal. The International
+Institute for Sustainable Development (IISD) provided valuable support.
+SEMIS Consult facilitated the groundwork. H.E. Louis Seck, former
+Minister of Renewable Energy, Senegal, was involved from the outset of
+the project and continued to provide helpful insights.
+We wish to thank the following experts, in alphabetical order, for their
+insights and constructive guidance during the peer review process:
+Abeeku Brew-Hammond (Board of the Energy Commission, Ghana), Bah
+Saho (ECOWAS Regional Centre for Renewable Energy and Energy
+Efficiency, Cape Verde), Ismael Lo (Ministry of Energy, Senegal), Haruna
+Gujba (African Climate Policy Centre, Ethiopia), Sambou Kinteh
+(Development Management Consultants International, Gambia).
+Karmic Design provided the design and layout. 
+Comments or questions about this Renewable Readiness
+Assessment report can be sent to SAlzouma@irena.org,
+MSokona@irena.org, or to secretariat@irena.org.
+SENEGAL10 RENEWABLES READINESS ASSESSMENT11
+THE RENEWABLE ENERGY SECTOR occupies an important place in the economic
+development strategy of Senegal. Our energy policy aims primarily at diversifying and
+reducing dependence on imported petroleum products by increasing the share of renewable
+energy and biofuels in the country’s energy mix by at least 15% by 2020.
+That is why for nearly two years now Senegal has been reviewing the technically and
+economically exploitable potential of renewable energy sources for electricity production,
+and also determining the technical, economic and financial factors that can ensure people's
+access to modern energy services.
+This study has led to the establishment of a legislative and regulatory framework conducive
+to the development of electricity production from renewable energy sources. Institutional
+reform has been in progress since March 2012 with the creation of an agency dedicated
+exclusively to the promotion of renewable energy.
+It is expected that this new structure will lead to important activities including the
+development of synergies necessary to allow more effective collaboration between public
+sector research actors and the private sector; the establishment of appropriate incentives
+to make equipment and the purchase of green electricity more accessible; the stimulation
+of self-generation of renewable-based electricity by households; the identification of internal
+resources and financial mechanisms that can support alternative energies; and supporting
+the development of small- and medium-sized enterprises (SMEs) and industries (SMIs) in
+the local production of components specific to renewable energy technologies (RETs).
+The execution of this vast project requires multilateral as well as bilateral cooperation.
+Therefore we welcome the initiative of the International Renewable Energy Agency (IRENA),
+which in November 2011 enabled Senegal to host the pilot phase of the Renewables
+Readiness Assessment.
+Foreword
+SENEGAL12
+This project has enabled us to highlight our country’s strengths, as well as its weaknesses,
+concerning the rapid deployment of renewable energy across the various network options,
+off-grid applications and the use of biofuels. The actions identified in this evaluation will
+make, I believe, a significant contribution to the deployment of renewable energy. Putting
+all the measures identified into practice could lead our country to effective diversification
+of its sources of energy.
+The Government of Senegal is confident that, with international cooperation, particularly
+with IRENA, our country will soon reach its goals of promoting renewable energies to
+become a model in the ECOWAS region.
+Finally, I reiterate here, that all our national experts are available to assist other countries in
+the conduct of their own RRAs and confirm my continued support for IRENA’s mission.
+Aly Ngouille NDIAYE 
+Minister of Energy and Mines, Senegal
+RENEWABLES READINESS ASSESSMENT13
+The First Renewables Readiness Assessment (RRA) – presented here by Senegal – is an
+important milestone for IRENA, whose mission is to promote the widespread and increased
+adoption and sustainable use of all forms of renewable energy. 
+The RRA is a central pillar of IRENA’s work and is a country-driven process supported by
+IRENA providing an opportunity for countries to engage in a national dialogue with all
+relevant stakeholders in order to pinpoint renewable energy drivers, comparative advantages
+as well as areas of improvement to set concerted actions needed to be taken to enable the
+development and scale-up of renewables.
+This will allow IRENA to identify and provide country-specific support and advice to the
+participating countries. More broadly, it will also generate knowledge of good practices and
+cooperation between countries, which are essential to increasing deployment. 
+Senegal, in keeping with its strong and consistent support of IRENA’s mission, kindly
+volunteered to host the first country pilot study. The process and details of RRAs will
+necessarily evolve with experience. We thank Senegal for its generosity in hosting this first
+study. The country’s engagement and input have gone beyond what we could have expected
+and IRENA is grateful for this important contribution.
+In common with all countries, the RRA found areas where Senegal had examples of good
+practice that could be shared with others, areas where readiness was high and other areas
+where readiness could be improved in the short- to medium-term, under initiatives led by
+Senegal. The report now presented focuses on these actions and examples of good practice. 
+IRENA hopes that the RRA will enable Senegal to increase its deployment of renewables.
+We offer our continuing support, across all our functions and work programmes, to Senegal
+in implementing the actions identified.
+Adnan Z. Amin 
+Director General, IRENA
+Preface
+SENEGALRENEWABLE READINESS ASSESSMENTSENEGAL 
+BACKGROUND
+Senegal is a West African country with a population of 12.6 million, a
+GDP of USD 14.3 billion, and an estimated economic growth rate of 4%
+in 2011. The country’s energy sector is characterised by a growing
+demand for modern energy services and a lack of reliable electricity
+supply. The electric system is based on inefficient oil-based power
+plants, now operating beyond their initial design life span, and suffers
+recurring power outages. Traditional biomass accounts for 54% of
+Senegal’s primary energy supply, oil products for 40% and other
+resources, including coal and hydro power, for the remaining 6%. All oil
+products are imported, making Senegal’s trade balance very vulnerable
+to oil price volatility. 
+Senegal has actively pursued reform policies in the energy sector, with
+a strong focus on promoting renewable energy. The current energy
+policy is reflected in the “Lettre de Développement du Secteur de
+l’Energie (LPDSE 2008),” a government strategy document building on
+the lessons learned from previous energy policies. The emphasis on
+renewable energy has resulted in the adoption of two laws aiming at
+increasing the cumulative share of renewable energy and biofuels to at
+least 15% energy mix by 2020. 
+As a further commitment to renewable energy, Senegal joined hands
+with the international community and signed the statute of the
+International Renewable Energy Agency (IRENA) during its founding
+conference in 2009. Resulting from IRENA’s engagement with African
+governments, the Renewables Readiness Assessment was identified as
+a crucial step for a better understanding of the opportunities and
+constraints in Africa, and as a collaborative process that will provide a
+Executive Summary6 RENEWABLE READINESS ASSESSMENT
+rapid, objective assessment of the status of
+renewable energy opportunities and
+identify pathways to address gaps. Senegal
+hosted the first country Renewable
+Readiness Assessment pilot study.
+RRA IN SENEGAL
+The Renewables Readiness Assessment in
+Senegal revealed that many steps have
+been taken towards liberalising the national
+electricity market. Although SENELEC, the
+national utility, still enjoys a monopoly for
+transmission and distribution, generation
+has been opened up to independent power
+producers and conditions for self-generation have been simplified. The only
+renewable-based electricity injected into
+the grid is from the Manantali hydro power
+plant in Mali, as part of the Western African
+Power Pool project. 
+Funding for research and development in
+the renewable energy sector remains
+insignificant despite the presence of
+research centres and institutes dedicated
+to renewables and the creation of the first
+West African solar PV assembler. Senegal
+could, therefore, build on these assets to
+accelerate the assessment of the technical
+renewable energy potential in order to
+facilitate investment and involvement of
+the private sector in specific projects.
+In 2011, Senegal’s national access to
+electricity was estimated at 40%, with an
+urban electrification rate of 70% and rural
+electrification of 22%. The objective is to
+increase national access rate to 75% by the
+end of 2012. All the necessary conditions
+for the rapid expansion of rural
+electrification are in place, with the
+adoption of a concerted programme of
+rural electrification (PASER) and the
+creation of a dedicated national rural
+electrification agency (ASER). In addition,
+concessions for rural electrification have
+been successfully tendered and awarded to
+national and international bidders and are
+being complemented by small local
+projects. Both approaches include renewables as one of the most appropriate
+solutions.
+Significant experience with Independent
+Power Producers (IPPs) generating
+electricity for the national grid (from
+conventional sources) and the opening of
+the power-generating sector to renewable
+sources through the LPDSE 2008 should
+have increased the involvement of
+renewable-based IPPs. However, no
+mechanism exists yet to set appropriate
+feed-in tariffs (FiTs) and Power Purchase
+Agreements (PPAs) from renewable-based
+electricity generation for the grid. The
+promulgation of the Renewable Energy
+Law’s implementing decrees, which
+provide “must run” status to renewables,
+and the design of suitable FiTs constitutes
+The Renewables Readiness Assessment was identified as a crucial step for a better
+understanding of the opportunities and constraints in Africa, and as a collaborative
+process that will provide a rapid, objective assessment of the status of renewable
+energy opportunities and identify pathways to address gaps. 
+Senegal hosted the first country Renewables Readiness Assessment pilot study.
+RSENEGAL 
+an important milestone to expand on-grid
+renewable-based electricity generation. 
+Licensing, operation and sales of electricity
+are regulated by the Regulatory
+Commission of the Electricity Sector, which
+is also mandated to approve tariffs for
+electricity supply, regardless of the
+installation’s size. This process is timeconsuming and acts as a barrier to the
+implementation of small local projects, thus
+limiting their expansion. A measure to
+alleviate this constraint could include
+exempting installations below a certain
+capacity (e.g., below 100 kW) from
+requiring regulatory body approval for
+proposed tariffs, and instead allow
+approval at the local and community level.
+The decentralisation of regulatory powers,
+following decentralisation at governmental
+level, and associated capacity building at
+the local level to respond to tariff
+proposals, could also assist the process.
+The biofuels sector, although relatively
+recent in Senegal, is carried by a strong
+political will to expand feedstock
+production from both sugarcane and
+jatropha in order to partially meet domestic
+fuel demand. However, the complex system
+of land tenure and the lack of agroecological zoning assessments for
+feedstock production could present
+significant barriers for the development of
+biofuels feedstock if not carefully
+integrated into the biofuel policy and
+regulatory framework.
+KEY RECOMMENDATIONS
+As a result of the Renewables Readiness
+Assessment process in Senegal, the
+Government of Senegal identified the
+following key recommendations to
+stimulate the deployment of renewable
+energy in the country. The Government of
+Senegal should: 
+w Detail out a comprehensive strategy
+for mapping renewable energy
+potentials in key areas including their
+techno-economic feasibility.
+w Facilitate grid integration of electricity generated from renewable
+sources by enacting the Renewable
+Energy Law, implementing decrees
+that provide the necessary conditions, guidelines and tariffs to
+incorporate renewable-based electricity to the grid.
+w Consider restructuring the institutional, legal and regulatory framework for utilising land for biofuels
+production and adapt the rules of
+intervention of the regulator in offgrid small-scale renewable energy
+projects.
+w Identify the conditions needed to
+increase private sector involvement,
+especially for operation and maintenance, in the renewable energy
+sector.8 RENEWABLE READINESS ASSESSMENT
+196722 
+km2
+GEOGRAPHICAL AREA
+Dakar
+CAPITAL CITY
+12.6
+million
+POPULATION
+2.6%
+POPULATION GROWTH RATE
+(ANSD,2011)
+>35%
+OF FOREIGN EXCHANGE 
+EARNINGS USED FOR OIL IMPORT
+SENEGALSENEGAL 
+BACKGROUND
+Senegal is a country in Western Africa, bordered by the Atlantic Ocean
+and Mauritania, Mali, Guinea, Guinea-Bissau and Gambia. Senegal’s
+economy grew at an average rate of 4% in 2011, with nearly 77.5% of the
+population employed in the primary sector, and is expected to grow by
+4.2% and 4.7% respectively in 2012 and 2013 (ANSD, 2011).
+Senegal currently uses more than 35% of its foreign exchange earnings
+for oil imports, making it highly vulnerable to oil price fluctuations
+(Ministere des Energies Renouvelables, 2011). In 2008, Senegal decided
+to promote the use of other energy sources and has restructured the
+country’s national energy policy by considering the development of
+renewable energy as a major focus area. Institutional, legislative and
+regulatory structures were therefore strengthened to support the
+objectives laid out in the National Energy Policy. This high political
+commitment to institutional reform and policy positioned Senegal as
+the leader in renewable energy promotion in the Economic Commission
+of Western Africa [ECOWAS] region and the country was tasked to
+develop solar energy projects in the sub-region by Heads of State and
+Government in the ECOWAS Summit held in July 20101
+. In 2009, Senegal
+also joined hands with the international community to support the
+foundation of the International Renewable Energy Agency (IRENA). 
+Because of Senegal’s strong commitment to renewable energy,
+ECOWAS proposed that it should be chosen as one of the pilot countries
+to field-test the methodology being developed by IRENA for the
+Renewables Readiness Assessment (RRA) process. Senegal hosted the
+first pilot study from 14-18 November 2011 and this document, the final
+report from that study, contains the insights gained from interviews and
+workshop sessions with key stakeholders, together with findings from
+the published literature to summarise the status of the country’s policy
+and institutional framework before proposing short- and medium-term
+actions for Senegal.
+I. Introduction
+1 The 38th Summit 
+of the Authority of
+Heads of State and
+Government of
+ECOWAS, held on 
+2 July in Sal, Cape
+Verde, adopted a
+Special Resolution
+establishing the
+ECOWAS Solar
+Commission (ESC)
+with the objective to
+develop large-scale
+solar plants to
+complement the
+region’s energy needs.
+Under the
+Chairmanship of H.E.
+Me Abdoulaye Wade,
+President of the
+Republic of Senegal,
+ECREEE has been
+designated the
+implementing agency
+for the ESC. RENEWABLE READINESS ASSESSMENT
+IRENA became a full-fledged international
+organisation in April 2011, with a mandate
+to promote increased adoption and
+sustainable use of all forms of renewable
+energy. With 104 Members in the Agency,
+48 signatories and 7 applicants for
+membership, IRENA has the global reach
+to act as the focal point for international
+cooperation and to underpin the effort to
+increase the deployment of renewables in
+the energy mix of countries around the
+world. Through its work programme,
+IRENA aims to position itself as an inclusive
+global platform to stimulate policy
+dialogue, and develop strategies to assist
+countries for their necessary transition to a
+renewables-based energy future.
+In July 2011, more than 25 Ministers of
+Energy and Heads of Delegation attended
+the IRENA High-Level African Consultative
+Forum on Partnership on Accelerating
+Renewable Energy Uptake for Africa’s
+Sustainable Development, where they
+discussed the vision and direction for
+IRENA’s work in Africa. The communique
+issued at the end of the forum urged
+IRENA to inter alia “better understand the
+opportunities and constraints in our countries and regions by mapping ‘Renewable
+Energy Readiness’, a collaborative process
+that will provide a rapid, objective assessment of the status of renewable energy
+opportunities, and identify pathways to
+address gaps.”
+RRAs are now an integral component of
+the IRENA Work Programme and are
+included in the “Promotion of regional
+consensus to adopt renewable energy
+through strategic intervention”. The RRA
+process is designed to provide input to
+national and regional renewable energy
+action plans and bring together partners
+who can support the implementation of
+action plans, including providing solutions
+to energy access. 
+RRA
+RENEWABLES READINESS
+ASSESSMENT
+R Rapid assessment of the conditions
+necessary for the installation and ongoing
+operation of renewable energy facilities in
+a country.
+R Covers all RE sources and services of
+preference to the country’s national
+product.
+R The RRA report is a product of the
+country, and the actions and insights in it
+come from a country-owned process.
+IRENA
+INTERNATIONAL RENEWABLE
+ENERGY AGENCY
+AS OF N0VEMBER 2012
+104 
+Members of the Agency
+55
+Signatories/applicants for membership
+159
+Total participation 
+(158 states plus the European Union)
+48
+Participating states in AfricaSENEGAL 
+THE RENEWABLES READINESS
+ASSESSMENT
+The RRA is a country-driven process that
+facilitates dialogue between stakeholders.
+It aims to help IRENA Member States
+achieve their aspirational goals through
+adopting the appropriate renewable
+energy technologies by assessing the
+current situation and identifying the gaps,
+and drawing concrete and prioritised
+action plans to be implemented within a
+determined timeframe, while specifying
+the responsible stakeholders and clarifying
+their roles. The process also facilitates
+comparisons and case studies, and enables
+the useful matching of attributes of
+renewable energy, with opportunities for
+its deployment.
+The RRA comprises a process and a
+methodology that includes completing a
+set of templates and a final report. The
+RRA methodology covers all forms of
+energy services (transport, heat, electricity
+and motive power), and all renewable
+energy sources, with countries selecting
+those of particular relevance. The RRA also
+brings in strong country stakeholding as
+the processes designed to be conducted by
+national governments, allowing countries
+to obtain a comprehensive overview of the
+conditions for renewable energy from their
+own national perspective. All processes
+and documentation are led by the country
+and derive inputs from discussions with
+stakeholders, facilitated by the country
+focal point with the assistance of IRENA.
+The resulting report is therefore a national
+one, developed and owned by the country.
+This sets the process and methodology of
+the RRA apart from other assessment
+processes led by international organisations. IRENA offers its support during the
+RRA, but it is the actions and insights
+developed through a country-owned
+process that provide the key to rapid
+deployment.
+RRAs facilitate a coordinated approach and
+the setting of priorities that can inform
+discussion with bilateral and multilateral
+cooperation agencies, financial institutions
+and the private sector regarding the
+implementation of actions and initiatives
+emerging out of the RRA. IRENA’s backing
+of the RRA process offers countries access
+to a global network with the capacity to
+follow up on actions and facilitate an
+exchange of experiences. IRENA can also
+facilitate implementation of the follow-up
+actions, where necessary, after specific
+requests from the country or regional
+entity.
+The Renewables Readiness Assessment (RRA) is designed to define a detailed list of
+criteria considered necessary for the installation and ongoing operation of renewable
+energy facilities. Application of this framework to individual countries will provide a
+comprehensive analysis of the presence, or otherwise, of enabling conditions for the
+development of renewables. Crucially, this analysis should take into account how the
+renewables policy of the country in question contributes to its other policy objectives.
+RTHE RRA METHODOLOGY
+The methodology adopted for the countrylevel RRA has a number of distinct stages
+as shown in the RRA methodology chart.
+TESTING THE METHODOLOGY 
+IN SENEGAL
+The pilot study in Senegal was undertaken
+to field-test the draft methodology for the
+RRA, obtain feedback from key stakeholders in Senegal on the criteria being
+used to assess the readiness, and further
+improve the methodology. An extensive
+literature review of recent relevant studies
+was also undertaken.
+Stakeholder mapping identified key stakeholders in government departments and
+public sector bodies, financial institutions,
+research bodies, NGOs and the private
+sector. These key stakeholders are
+highlighted in Section 2.4. This research set
+the stage for a mission to Senegal to
+complete the on-ground assessment
+process. The mission comprised the following activities:
+1. An introductory meeting with the
+Ministry of Renewable Energy (MER)
+and affiliated institutions provided an
+introduction to the project and opportunities to share knowledge with
+key stakeholders. 
+2. A site visit to Sine Moussa, a village
+three hours’ drive from Dakar, where
+a hybrid power plant of 20 kW (solar
+5 kW, wind 5 kW and diesel 10 kW)
+has been used to electrify village
+dwellings and provide street lighting.
+3. A series of fact-finding interviews
+with stakeholders from the renewable energy sector.
+4. Working sessions with employees
+from the MER and other stakeholders
+to fill in RRA templates for different
+renewable energy resources and
+services.
+5. A final workshop with stakeholders
+held on the final day of the mission,
+aimed at presenting findings from
+the week, eliciting further feedback
+on these findings, and developing
+the set of actions that form the last
+stage of an RRA.
+As stated in the introduction, the
+experience gained from the pilot RRA
+assessment conducted in Senegal will
+assist further regional and country level
+assessments, and other work in partner
+countries. 
+RENEWABLE READINESS ASSESSMENT
+SENEGALESE
+RRA MISSION
+R Introductory meeting with MER and 
+affiliated institutions
+R Site visit to small wind-solar-diesel 
+hybrid power plant in Sine Moussa
+R Fact-finding interviews with key
+stakeholders
+R Working sessions to fill RRA templates with
+employees of MER and other stakeholders
+R Final workshop with stakeholders to
+present findings, obtain feedback and to
+develop a set of actions
+OBJECTIVES
+R Assess and review the status
+of energy and RE in Senegal
+R Approaches for developing institutional
+structures for RE
+R Framework for providing access to RE
+R Technology and Infrastructure 
+for delivering energy and RE
+R Opportunities and Barriers 
+for viable business models for RE
+R Recommend a Set of Actions 
+to address identified issuesSENEGAL 
+Renewable Readiness
+Assessment Methodology
+STEP 1A 
+PREPARATORY
+WORK
+R Setting up of the RRA team
+initiated and led by National
+Government
+R Contextualisation of RRA
+R Identification of key
+stakeholders, RE projects
+and programmes
+R Roadmap and timeline for
+assessment
+STEP 1B
+PLANNING 
+THE PROCESS
+R Identification of appropriate
+service–resource pairs
+R Preparation of list of
+interviewees, appointments
+and tentative questionnaire
+for bilateral meetings
+Scoping
+STEP 2A
+INITIAL 
+PLENARY
+SESSION
+R Introductory session led by
+high-level government
+official (e.g., Minister of RE)
+R Discussion on status,
+potential and barriers to
+scale up RE
+R Description of how to
+conduct the RRA
+R Refining and selection of
+key renewables applications
+STEP 2B
+ASSESSMENT
+R Filling out of RRA templates
+with regards to:
+w Policy and strategy
+w Business models 
+w Institutional, regulatory 
+and market structure
+w Resources, 
+technologies 
+and infrastructure
+w Finance, building, 
+operations and 
+maintenance
+STEP 2C
+VALIDATION
+WORKSHOP
+R National workshop to
+present and validate
+preliminary findings
+2Assessing
+STEP 3A
+FINAL REPORT
+R Final report-writing drawn
+on preparatory materials,
+completed RRA templates
+and list of actions
+R RRA Director comments
+and approves work on
+behalf of the country
+STEP 3B
+FOLLOW UP
+ACTIONS
+R Working with IRENA
+R RRA Director and
+Government Focal Point
+identify areas for
+subsequent collaboration
+and action
+1 3FinalisingRENEWABLE READINESS ASSESSMENT
+OBJECTIVES
+This report aims to foster understanding
+and debate around the renewable energy
+sector in Senegal and provide an
+introduction to the issues facing the
+country. It also offers a broad summary of
+the experiences of the energy market
+development and the deployment of
+renewables. The key objectives for this
+report are:
+1. To assess the energy issues facing
+Senegal and review the current
+status of energy policy, specifically
+regarding renewable energy, at a
+regional and national levels.
+2. To critically review employed and
+planned approaches to developing
+institutional structures for renewables.
+3. To review the framework for
+providing access to modern energy
+services using renewable energy as
+well as the current status of
+technology and infrastructure to deliver it.
+4. To critically assess the opportunities
+and barriers for developing viable
+business models for renewable
+energy projects.
+5. To suggest a set of actions to
+address the identified barriers.
+This report aims to conclude the pilot stage
+of the RRA process for Senegal and to
+highlight an action framework that would
+enhance the deployment of renewable
+energy. The analysis presented here is
+intended to put the issues and proposed
+actions in the context of regional and
+international experience.
+The experience gained from the pilot
+RRA assessment conducted in
+Senegal will assist further regional
+and country level assessmentsII. Energy and Renewable 
+Energy Context
+THE REGIONAL CONTEXT
+The ECOWAS region is characterised by a growing demand for modern
+energy and low levels of access and reliability of modern energy
+services2. According to the African Development Bank one-third of
+Africans are now “middle-class” (defined as having between USD 2 and
+USD 20 to spend daily); while improvements in governance, better
+access to technology, and better use of natural resources have begun
+to raise millions out of dire poverty (AfDB, 2011). However, the improving
+economic growth experienced by African countries is being stunted by
+poor performance of the energy sector, especially in Sub-Saharan Africa.
+Taking the electricity sector for example, the low growth in generation
+capacity is unable to keep pace with the growth in the demand for
+electricity and has resulted in a current supply/demand gap of about
+40% (GTZ, 2009). This situation is general for the whole continent.
+Bazilian et al. (2011) suggest that if Africa is to meet the goal of universal
+energy access by 2030, electricity generation capacity needs to grow
+at an annual rate of 13%, compared to the 2% annual growth recorded
+over the past two decades. Current spending in the energy sector is
+much less than required, even for conventional development and
+energy-use patterns. For example, Sub-Saharan Africa countries spend
+on average less than 3% of their GDP on their power sector with about
+75% of this spending used as operating costs (Eberhard et al., 2008),
+suggesting that a mere 0.75% of GDP is used to expand power
+infrastructure.
+2The International Energy Agency (IEA) defines Universal Modern Energy Access as 
+“a household having reliable and affordable access to clean cooking facilities, a first
+connection to electricity and then an increasing level of electricity consumption over
+time to reach the regional average”. The Asian Development Bank (ADB) also defines
+Energy Access as any or a combination of the following: (1) provision of electricity and
+motive power to households, (2) improvement in the supply and delivery of energy
+services to households, (3) provision of modern fuels and/or efficient devices for
+cooking and/or heating to households and (4) provision of finance to households to
+access energy (Sokona et al. Widening energy access in Africa, 2012).
+SENEGALECOWAS
+MEMBER COUNTRIES
+BENIN
+BURKINA FASO
+CABO VERDE
+COTE D'IVOIRE
+GAMBIA
+GHANA
+GUINEA
+GUINEA BISSAU
+LIBERIA
+MALI
+NIGER
+NIGERIA
+SENEGAL
+SIERRA LEONE
+TOGOLESE Republic
+<0.75% of GDP
+of Sub-Saharan African countries is used for 
+expanding power infrastructure
+Households with electricity access 
+in the ECOWAS region
+<30%
+in 9 out of 15 countries
+15%
+in remaining countries 
+(Guinea, Guinea Bissau, Liberia, Niger and Sierra Leone)
+20%
+for the whole ECOWAS region
+Traditional biomass dominates primary energy supply in the 
+ECOWAS region of electricity generated, 64% is from fossil fuels, 31%
+from hydro power and the rest is from imports.
+West African Power Pool (WAPP) set up in 2006 by ECOWAS to 
+address power supply deficiency in the region.
+ECOWAS Regional Electricity Regulatory Authority set up to harmonise
+the regulations governing trans-border electricity trade.
+ECOWAS Regional Centre for Renewable Energy and Energy 
+Efficiency (ECREEE), set up by the ECOWAS Commission in 
+collaboration with the various partners, as a regional response to
+address specific issues relating to catalysing markets for renewable
+energy and energy efficiency technologies.
+Public-private partnerships
+The setting up of these will cover technical aspects, management
+systems, fundraising and financial risk-taking.
+6 RENEWABLE READINESS ASSESSMENTSENEGAL 
+ECOWAS has drawn up multiple energy
+access goals to address the supply/
+demand gap. The countries in the region
+have decided to implement an ambitious
+regional energy policy (ECOWAS, 2006) in
+order to increase access to modern energy
+services. The region aims to provide access
+to modern energy services to at least half
+of the population by the year 2015. This
+would mean bringing 36 million additional
+households within the ambit of modern
+energy services (ECOWAS, 2006) and is
+proposed to be implemented by strengthening regional integration (pooling of
+knowledge, cross-border cooperation and
+capacity building), harmonisation of political and institutional frameworks, and the
+development of coherent energy policies
+based on poverty reduction in rural and
+peri-urban areas.
+During the implementation of the energy
+programmes designed to achieve these
+goals, priority should be given to publicprivate partnerships (PPPs). It is most
+important that public actors (state, public
+institutions, local authorities, etc.) and
+private actors (national and local entrepreneurs, financial institutions, associations
+and cooperatives, NGOs, etc.) are
+mobilised.
+One key regional initiative was the
+establishment of the West African Power
+Pool (WAPP) as a specialised ECOWAS
+institution in 20063. WAPP is now working
+to harmonise the regulatory framework
+that governs the electricity sector in each
+member country. The first phase of its work
+involved engaging with countries that are
+already interconnected, including Nigeria,
+Benin, Burkina Faso, Cote d’Ivoire, Ghana,
+Niger and Togo, although some critical
+gaps in grid infrastructure still need to be
+addressed. WAPP has also begun to
+engage with countries which do not yet
+have interconnection facilities, including
+Guinea, Guinea-Bissau, Liberia, Mali,
+Senegal and Gambia. Other key initiatives
+include the ECOWAS Regional Electricity
+Regulatory Authority and the ECOWAS
+Regional Centre for Renewable Energy and
+Energy Efficiency (ECREEE).
+Although the generation, transmission and
+distribution of electricity are mainly
+provided by publicly-owned, verticallyintegrated national utilities, efforts are
+being made by a number of countries to
+mobilise private sector finance through
+IPPs with varying levels of success4. These
+efforts continue to be hampered by
+perception of investor risks, regulatory
+concerns with competition between public
+and private generation assets and
+difficulties in developing bankable business
+models. 
+The Total Primary Energy Supply (TPES) of
+Senegal in 2010 was 141.6 PJ. Biomass
+accounts for about 47% of the country’s
+energy supply with oil products accounting
+for about 48% (Figure 2). Coal, hydro,
+natural gas and solar (whose combined
+share has greatly increased since 2000) are
+the other energy sources used (Figure 3).
+3 WAPP was created by Decision A/DEC.5/12/99 during the 22nd Summit of the Authority of ECOWAS
+Heads of State and Government. WAPP was guided by a Steering Committee comprising Energy Ministers
+of ECOWAS Member States, supported by a Project Implementation Committee, comprising Managing
+Directors of Members States’ Utilities and Technical and Institutional Working Groups. The 29th Summit of
+the Heads of State and Government of the ECOWAS Member States held in Niamey in January 2006
+adopted the Articles of Agreement establishing the new WAPP organisation by Decision A/DEC.18/01/06
+on 12 January 2006. The same meeting granted the status of a Specialised Institution of ECOWAS to WAPP,
+by Decision A/DEC.20/01/06.
+4 Successful cases are CIPREL and Azito in Côte d'Ivoire; Global Electrical Group (GEG) in Gambia;
+Takoradi II, Sunon Asogli and Bui Hydro, in Ghana; AES Barge, Okpai , Afam VI and Aba Integrated, in
+Nigeria; GTi Dakar, and Kounoune I, in Senegal; and Centrale Thermique de Lome in Togo. 8 RENEWABLE READINESS ASSESSMENT
+157.9 PJ
+Total Primary Energy Supply 
+2,858 GWh
+86.8 PJ
+Share of renewables in TPES
+(54.8% of TPES)
+2,858 GWH
+Electricity generation 
+292.0 GWH
+Share of RE in electricity generated
+(10.2 % of total)
+548 MW
+Electrical capacity (2008) 
+2 MW
+Share of RE in electrical capacity
+(0.4% of total)
+189 KWH
+Electricity use per capita 
+55.5%
+Senegal’s Energy
+Self-sufficiency
+US $1.2 BILLION 
+Senegal’s fuel imports
+(23.2% of total imports)
+Approximately 25%
+Share of population 
+using solid fuels 
+Senegal Energy Profile Figure 1. Senegal Energy ProfileSENEGAL 
+All the fossil fuels consumed in the country
+are imported – in particular the oil products
+that are used for transport and electricity
+generation – and make a significant contribution to the country’s imports bill with an
+estimated CFA 620 billion (approx. USD 1.2
+billion)5 in 2009 corresponding to 23.3% of
+total imports (Figure 4). This leaves
+Senegal very vulnerable to increases in the
+price of oil products. Households account
+for 52% of the total energy consumption,
+followed by the transportation sector
+(30%), and the industrial sector (14%). Agriculture and public services consume the
+remaining 4%.
+Both the biomass and oil products used in
+Senegal are sources of concern: the use of
+traditional fuels – wood and charcoal – is
+putting great pressure on forests and
+contributing to a degradation of the
+environment. In order to decrease
+5. USD 1 = CFA 532 
+Figure 3. Energy Sources Used
+Source: IEA, 2011
+Figure 2. 
+Total Primary Energy
+Supply by FuelRENEWABLE READINESS ASSESSMENT
+traditional biomass consumption, Senegal
+has had a policy of subsidising liquefied
+petroleum gas (LPG) supplies for more
+than two decades.
+About 40% of the households in Senegal
+have access to electricity, principally
+through SENELEC’s interconnected grid.
+SENELEC shares generation with ESKOMManantali6, GTI-DAKAR7 and Kounoune I8
+to power the interconnected grid, while
+there are small independent and selfpower producers such as Cim-Sahel
+Energy, CSS, SONACOS, SOCOCIM and ICS.
+The rate of electrification is progressing
+through new connections to this main grid
+and through small off-grid projects. However, consumers and businesses connected
+to the grid still have to contend with a
+highly unstable and unreliable electricity
+supply, leading to revenue and productivity
+losses to firms and the economy.
+Modernisation of Senegal’s power generation infrastructure is lagging behind
+demand. This is reflected in increased
+power generation costs – the current average wholesale cost of power in Senegal is
+about CFA 70/kWh (USD 0.14/kWh)
+(SENELEC, 2012) compared with USD
+0.13/kWh in the Sub-Saharan region’s
+larger power systems (AfDB, 2011). The
+existing high cost of electricity to consumers means that it is impossible to
+finance further new connections through
+increased consumer tariffs and the scarcity
+of capital available to the government
+means that investments have to rely
+heavily on donors. 
+Senegal has a proven reserve of oil
+estimated at 100 million m3 in the south
+(Casamance area) but as yet, neither
+6 ESKOM-Manantali is in charge of running the Manantali dam (a joint venture between Mali, Mauritania
+and Senegal), in the frame of the OMVS with a 200 MW installed capacity with Senegal receiving 32% of
+the power generated.
+7 GTI-DAKAR signed a 15-year exclusive contract for electricity supply with SENELEC in 1996 and has
+installed a capacity of 53 MW (natural gas 37 MW and 16 MW from a steam turbine).
+8 Kounoune I signed a 15-year exclusive BOO contract for electricity supply with SENELEC in 2008 and 
+has installed a capacity of 68 MW (HFO diesel).
+Image 1: Traditional Biomass in Senegal 
+© www.beershebaproject.org
+Figure 4. 
+Senegal Oil Bill 
+in billion CFA FrancsSENEGAL 
+upstream nor downstream production capacity has been developed (Enda-Energie,
+2006; Enefebio, 2007). Imported crude oil
+is refined at Societe Africaine de Raffinage
+(SAR) which has an annual capacity of 1.2
+million tons (SAR, 2010). Gas reserves,
+estimated to be 30.4 billion m3 in the
+Gadiaga area as of 2011, are used exclusively for running four gas turbines with
+a total output of 88 GWh (8% of the total
+electricity production within the country)
+(SENELEC, 2012). Table 1 presents the
+estimated energy potentials in Senegal by
+resources. 
+RENEWABLE ENERGY IN SENEGAL
+Senegal is endowed with a large solar
+energy resource. Over most of country’s
+territory, the solar irradiation is above 
+2 000 kWh /m2/year for Global Horizontal
+Irradiation and above 1 800 kWh/m2/year
+for Direct Normal Irradiation (Ministere des
+Energies Renouvelables, 2011). This provides good prospects for photovoltaic solar
+power projects. The falling prices of photovoltaic panels and system components
+make solar a very attractive solution, particularly when the costs of the alternatives –
+imported oil products – are high. 
+There is also significant wind energy potential along Senegal’s coast between Dakar
+and Saint Louis with an average speed
+estimated around 4 m/sat 10 metres
+height. Recent measurements performed
+at 30-40 metres revealed the existence of
+speeds above 6 m/s (Ibid).
+189 KWH
+Per capita electricity use in Senegal – 
+fourth among west African countries.
+579 KWH
+Average for Africa
+2777 KWH
+Average for world
+COST 
+COMPARISON
+CFA 110/KWH 
+or
+US$ 0.22/KWH
+Average cost to customer for 
+electricity in Senegal
+US$ 0.04/KWH
+Average for South Asia
+US$ 0.07/KWH
+Average for East Asia
+Figure 5: Per Capita Electricity Use
+kWh per capita
+Source: IRENA 2011bRENEWABLE READINESS ASSESSMENT
+Resources Sites Potential
+Oil Casamance (heavy oil) 100 million m3
+Peats Niayes 390 million m3
+Natural Gas Diamiadio 400 billion m3
+(reserve 30.4 billion m3)
+Biomass Tambacounda Kolda, Ziguinchor 331.3 million m3
+Hydro Senegal and Gambia rivers 1 400 MW
+Solar Countrywide 1 800 kWh/m2/year,
+Direct Normal Irradiation
+2 000 kWh/ m2/year, 
+Global Horizontal Irradiation
+Wind Great coast areas 4- 6 m/s
+Table 1: Types, location and potentials of energy resources
+(Enda-Energie, 2006; Enefebio, 2007)
+The total potential for large hydro
+power in Senegal is estimated to be
+approximately 1 400 MW on the
+Senegal and Gambia Rivers (Ibid).
+Solid biomass (agricultural and agribusiness by-products) and liquid
+biofuels also have potential in parts
+of the country. As mentioned earlier,
+biomass is the dominant source of
+energy in Senegal providing more
+than 50% of the national energy
+balance. Biomass resources, such as
+agricultural byproducts (approximately 3.3 million dry tons of agricultural residues) agribusiness (rice
+husk, bagasse, peanut shells, cotton
+stalks, etc.), also have the potential
+for grid-distributed and off-grid
+electricity generation (Ibid). Plant
+species (plant oil, jatropha curcas,
+cat-tails, sunflower, cotton, castor,
+sweet sorghum etc.) also have
+potential for biofuel production.
+Image 2 is a geographical representation of Senegal’s renewable
+energy potential in relation with the
+existing power grid.
+KEY ENERGY STAKEHOLDERS
+A wide range of stakeholders was
+identified to participate in the workshops and discussions in order to
+support the RRA process. The stakeholders were primarily technical
+staff drawn from government departments and public sector agencies, but also came from the private
+sector, civil society, dev-elopment
+and cooperation agencies as well as
+financial institutions, since they all
+play an important role in building a
+renewable energy sector. In
+addition, bilateral meetings and
+interviews were conducted with key
+senior officials of these different
+institutions. It is because so many
+people were able to give their inputs
+that the Renewables Readiness Assessment is meaningful in building
+national consensus on renewable
+energy in the country. On the
+following pages is a list and description of these institutions.SENEGAL 
+HV lines(225kv & 90 KV)
+HV lines(30 KV)
+Grid Connected Thermal Plants
+HV/MV Injector and Thermal Plants
+Decentralized Thermal Plants
+Renewable Energy Potential
+Generation and transmission grids
+Wind
+Solar
+Hydro(Small)
+Bio energy
+Ziguinohor
+Boutoute
+Kolda
+Kolda
+Tambacounda
+Tambacounda
+Dakar
+Mbour
+Cap-des biches
+Bel-al
+Saint-louis
+Podor
+Diourbel
+Louga Matam
+Ourossogul
+Dakel
+Saint-louis
+Kaolack
+Kahone
+Fatick
+Fatick Thies
+Thies
+Louga
+Towards Manantali Dam
+Generation and transmission grids
+HV lines(30 KV)
+HV lines(225kv & 90 KV)
+Podor
+Decentralized
+HV/MV Injector and
+Grid Connected Thermal Plants
+HV lines(30 KV)
+Decentralized Thermal Plants
+HV/MV Injector and Thermal Plants
+Grid Connected Thermal Plants
+HV lines(30 KV)
+ Thermal Plants
+Thermal Plants
+Saint-louis
+Louga
+Saint-louis
+Renewa
+Solar
+Wind
+wable Energy Potential otential
+Bel-al
+Cap-des biches
+Dakar Thies
+s
+T
+Thies
+Diourbel
+biches
+Louga
+Louga
+Diourbel
+Ourossogul
+Louga Matam Dakel Bio energy
+Hydro(Small)
+Cap-des biches Thies
+a
+ies atic r FaticFa
+Cap-des biches
+Mbour Fatick
+K
+atick
+Kahone
+Kaolack
+Tambacound Tambacounda
+Towards Manantali Dam ds Manantali Dam
+Boutou
+Ziguinohor K
+ute
+guinohor Kolda
+Kolda
+Tambacounda
+National Electricity Grids and RE Potential 
+Image 2
+(Author and Senelec, 2012)RENEWABLES READINESS ASSESSMENT
+Council of Ministers 
+The Council of Ministers takes the major decisions related to energy, especially on-grid electricity.
+Inter-Ministerial Committee on Renewable Energy
+However, in order to coordinate and facilitate the integration of electricity from renewables into the
+grid, all matters relating to renewable energy need to be discussed and finalised in consultation with
+the key actors (MoE, MER, CRSE, ASER, SENELEC) in the Inter-ministerial Committee on Renewable
+Energy (Comité Interministériel sur les Energies Renouvelables, or CIER) before taking them for
+decision to the Council of Ministers.
+Ministry of Energy (MoE) 
+MoE is in charge of on-grid electricity policy and closely monitors its implementation. 
+Ministry of Renewable Energy (MER) 
+MER is responsible for framing policies for the promotion of electricity generation from renewable
+energy sources and thus plays a key role in formulating policies and monitoring decisions taken in
+consultation with the MoE and other relevant stakeholders for promoting decentralised renewable
+energy applications.
+The Regulatory Commission for the Electricity Sector (CRSE)
+CRSE has the role of promoting competition, efficiency and economy in bulk power markets,
+regulating electricity tariffs, improving the quality of supply, advising the government on the
+removal of institutional barriers to bridge the demand supply gap, thus safeguarding the interests of
+consumers. 
+Senegalese Agency for Rural Electrification (ASER) 
+ASER is responsible for much of Senegal's off-grid rural electrification and power generation
+although some projects still fall under SENELEC's authority. ASER, which was established in 2000
+but only became fully operational in 2005, has been given the responsibility of implementing the
+strategy for rural electrification (PASER).
+SENELEC: The national electricity utility
+SENELEC is one of the pillars of the economic and social development of Senegal and is its main
+electricity generator.
+SENELEC is the concessionaire for the transmission and distribution network in Senegal (with the
+exception of Manantali interconnection) and operates in a monopoly condition for the purchase and
+sale of wholesale power. 
+SENELEC has been through several phases of privatisation but its priority now is to strengthen the
+capacity of power generation and implement organisational restructuring.
+Key Energy Stakeholders SENEGAL 
+Intersectorial Committee for the Implentation of Synergies 
+between Energy and other Strategic Sectors (CIMES)
+CIMES is a multi-sectorial group comprising, among others, the relevant ministries, civil society,
+private sector and donors. The group worked towards including energy issues within the National
+Poverty Reduction Strategy and is considering the energy gaps to meet development goals, and the
+contribution of renewable energy to these goals. 
+National Agency for Solar Energy (ANDES)
+ANDES is a new agency set up by Senegal in response to the 2010 mandate it received from the
+heads of states of ECOWAS countries to promote solar energy in the sub-region.
+University Cheikh Anta Diop de Dakar and its subsidiaries
+The University Cheikh Anta Diop of Dakar focuses on research in renewable energies in Senegal
+through its Research and Study Centre for Renewable Energy (CERER). Activities covered include
+studies into the renewable energy potential of the country, as well as pilot projects in wind and solar
+thermal energy.
+The Polytechnic School (ESP) has been integrating renewable energy content into its curriculum for
+a long time, but no dedicated programme exists. Each department in the ESP has a liaison teacher
+to the private sector. 
+Enda-Energy
+Enda-Energy is a branch of the Enda-Tiers Monde organisation; its work focuses on energy use and
+management in the African context, with an emphasis on the linkages between energy and
+development.
+Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ)
+GIZ develops capacities for sustainable development of the energy sector in Senegal through the
+Programme to Promote Rural Electrification and a Sustainable Supply of Domestic Fuel (PERACOD). 
+CMS and Sen Finance 
+CMS and Sen Finance are local micro-finance institutions with a good, well spread network of local
+branch offices. However, renewable energy is missing from their portfolios due to a lack of
+understanding of renewable energy technologies, industry standards and business models. 
+Refer to footnotes for more information on CRSE9 , ASER10 , ANDES11 and PERACOD12 .
+9. The CRSE was created by the Law of 98-29 of 14 April 1998.
+10 Villages close to the grid and the ones electrified before 2000 are under SENELEC control while all
+remaining rural localities are under ASER responsibility.
+11 ANDES was established by Decree No. 2011-634 of 17 May 2011, but it is yet to become operational. 
+12 PERACOD is funded by the EU Energy Facility, the DGIS and the French Development Cooperation. The
+main activities of PERACOD are off-grid rural electrification, improving cook stoves, and training
+communities and the private sector in implementing these measures. PERACOD activities began in 2003
+and will end in 2015.6 RENEWABLE READINESS ASSESSMENT
+ENERGY POLICY AND 
+REGULATORY FRAMEWORK
+Senegal initiated its comprehensive energy planning more than a decade ago with
+the “Lettre de Developpement du Secteur
+de l’Energie (LPDSE),” in 1997. This policy
+articulated the goals of the country to
+eliminate inefficiencies, decrease supply
+costs to consumers and mobilise funding
+for energy sector development. In 1998, the
+energy sector, through the enactment of
+the Law of 98-2913, opened up for private
+sector investment in electricity generation
+and the Regulatory Commission for the
+Electricity Sector (CRSE) was formed in
+order to ensure fair and equitable treatment for all players. The CRSE became fully
+functional with a chairman and technical
+members, and worked to promote competition, efficiency and economy in bulk
+power markets, improve the quality of
+supply, promote investments and advise
+government on the removal of institutional
+barriers to bridging the supply/demand
+gap and foster the interests of consumers.
+The Law of 98-29 was further amended in
+2002 in order to provide a greater level of
+transparency to the procedures for inviting
+private sector tenders.
+However, all the objectives which were laid
+out for LPDSE in 1997 could not be achieved during the five-year implementation
+period and LPDSE 2003 was formulated
+with the aim of completing the necessary
+sector reforms. New measures were designed to promote development, enhance
+the involvement of the private sector and
+reduce the cost of supply to consumers.
+Improved access to energy services was
+identified as a key objective of Senegal’s
+national poverty reduction strategy and
+strong linkages to this goal were
+incorporated into grid infrastructure
+planning.
+In order to further the framework for
+energy policy, LPDSE 2008 was formulated. LPDSE 2008 builds on the
+experience gained and has a strong focus
+on promoting renewable energy as a
+measure for reducing the vulnerability of
+the country to external factors including oil
+ENERGY PLANNING
+R 1997: Creation of LPDSE.
+R 1998: Law of 98-29. Setting up of CRSE.
+R 2003: LPDSE 2003 to complete reforms.
+R 2008: LPDSE 2008. MER set up, Laws on 
+Renewable Energy and Biofuels enacted.
+R Current: National Strategy for Renewable 
+Energy under discussion. To set a target of 
+20% renewables in electricity mix by 2020.
+RURAL ELECTRIFICATION
+Senegalese Rural Electrification Action Plan(PASER) 
+8% 
+Electricity access to rural households in 2000
+62%
+Electricity access to rural households in 2022
+LPDSE 2008
+50%
+Rural electrification target for 2012
+13The Law of 98-29, enacted as part of the reform of the electricity sector, aims to promote private
+investment and eventually to introduce competition in production, wholesale and bulk purchase.This
+law was amended in 2002 and systems of launching and control of tenders for the production of
+electricity and the concept of ownership of the facilities of production, transportation and distribution
+were introduced.price volatility. The role of renewable
+energy in providing access to modern
+energy services and transport fuels was
+first highlighted in LPDSE 2008. The
+Ministry for Renewable Energy (MER) was
+created and the Law on Renewable Energy
+and Law on Biofuels were enacted to give
+further effect to the political intent stated
+in LPDSE 2008 which defines the framework for renewable energy deployment in
+the country and a law for promoting
+biofuels.
+A renewable energy development policy
+(National Strategy for Renewable Energy),
+which draws on the tenets enunciated in
+the law, is under discussion in Senegal.
+When this policy is approved by the
+Council of Ministers, Senegal will have a
+renewable energy target of 10% of
+electricity from renewable resources in its
+electricity mix by 2020 (Ministere des
+Energies Renouvelables, 2011). The policy
+also envisages the development of a
+master plan to develop flagship projects
+and identify funding sources while emphasising the need to strengthen both
+training and research and development in
+renewable energy14.
+In terms of decentralised application, rural
+electrification has been made a national
+priority and clear linkages with strategies
+for poverty reduction have been
+established in the policy framework.
+Senegal has an ambitious multi-year
+programme (2002-2022) for rural electrification, the “Plan d’Action Senegalais
+d’Electrification Rurale” (PASER – Senegalese Rural Electrification Plan of Action),
+which aims to increase the rate of rural
+electrification (in terms of rural household
+connections) from about 8% in 2000 to
+62% in 2022.
+Many ministries have recognised the role
+that renewable energy can play in the
+achievement of the MDGs. The Ministry of
+Health has stressed the importance of
+renewable energy for maintaining the cold
+SENEGAL 
+14 Senegal plans to reinforce the installed capacity connected to the grid by producing 400 MW from
+clean energy resources by 2020 (200 MW in 2015 and an additional 200 MW by 2020),
+(http://fr.allafrica.com/stories/201106240575.html) 
+BIOFUELS
+National Biofuels Strategy 2006
+320,000 ha
+Target for land area to be planted 
+with Jatropha by 2012
+1.2 billion litres
+Target forJatropha oil to be produced by 2012
+Comité National des Biocarburants (CNB)
+Set up to coordinate across relevant institutions in
+the biofuels sector
+Law No. 2010-22
+To create favourable conditions for the 
+development of the biofuels sector8 RENEWABLE READINESS ASSESSMENT
+chain for vaccine distribution. In their
+sectorial policies, the Ministries of Water
+and Agriculture have similarly stated the
+importance of using renewable energy for
+pumping to provide safe drinking water
+and irrigation. The Ministry of Construction
+has made the usage of solar water heaters
+mandatory in government buildings and
+those of various institutions. The National
+Strategy for Poverty Alleviation – DSRP
+2006-10 – built on these sectorial policies,
+placed a high priority on strengthening the
+infrastructure for providing access to
+electricity in rural and peri-urban households as well as electrification for social
+infrastructure and providing energy for
+mechanising motive applications15. 
+The agenda set by the National Strategy
+for Poverty Alleviation is well-reflected in
+LPDSE 2008 which set a goal of 50% rural
+electrification by 2012 (Ministere de l'Energie, 2008). The National Strategy for
+Renewable Energy, currently under discussion, identifies a key role that the private sector will be required to play in the
+generation of electricity through the
+installation of decentralised applications
+and also in developing the market for solar
+photovoltaic applications, small wind turbines and biofuel engines (e.g., multifunctional platforms). It recognises the role
+of renewable energy for both generation of
+electricity and mechanisation of motive
+applications for rural areas.
+With regard to biofuels, following the meeting convened in Dakar for the establishment of the Pan-African Non-Petroleum
+Producers Association (PANPPA) in
+November 2006, many African countries,
+including Senegal, have reflected on the
+role of biofuels in their agricultural and
+energy policies. Therefore, when Senegal
+established its National Bioenergy Strategy
+in 2006, one of its aims was to contribute
+to national energy security through the
+production of bioenergy. This included
+developing jatropha for biodiesel production and sugarcane for ethanol production.
+The fuels produced were to be used not
+only for transport, but also for blending
+with diesel for power generation. The
+government aimed to plant a total of 
+320 000 ha of jatropha by 2012, by
+providing each of 320 rural communities
+with 1 000 ha of jatropha seedlings, which
+would be used to produce a total of 
+1.2 billion litres of jatropha oil to meet
+annual petrol and diesel needs. However,
+implementation of this project is currently
+lagging behind. 
+Policy measures for biofuels are also
+included in agricultural policies and programmes such as Retour Versl’ Agriculture
+– Going Back to Agriculture – (REVA) and
+15The Document of the Strategy for Poverty Alleviation(DSRP) targeted the electrification of basic rural
+infrastructure for rural and peri-urban areas in order to facilitate the operationalisation of basic infrastructures
+(health centres, schools, etc.), the access to electricity for 66% of households (30% from rural areas) by 2015,
+and the access to motive power for rural women, as priorities for achieving the MDGs.
+FINANCING 
+RENEWABLE ENERGY 
+THE SOURCE
+R Bilateral and multilateral Banks
+R Donors
+R Rural Electrification Fund (operated by ASER)
+R Carbon Fund (set up by Government of Senegal)
+R Local banks and private sector are reluctant to 
+invest in energy due to risk perception
+R National Agency for promotion of Investment (APIX) 
+set up to implement the investment code adopted 
+by Senegal and to create favourable conditions for 
+investmentsSENEGAL 
+Grande Offensive Agricole pour la
+Nourriture et l’ Abondance – the Great
+Agricultural Offensive for Food and
+Agriculture (GOANA).
+Law No. 2010-2216, a law on the
+orientation of the biofuels sector, was
+adopted in 2010 with the aim of creating
+favourable conditions for the development
+of the biofuels sector and providing
+answers to the problems of economic
+growth, based on a policy of energy selfsufficiency through the development of
+biofuels. The law therefore covers all components of the biofuels sector including production, processing, storage, transport,
+marketing and distribution. It determines
+the operating environment for all forms of
+biofuels and the conditions and standards
+for their production and exploitation on
+Senegal’s national territory and/or through
+international cooperation.
+Implementing decrees are currently being
+drafted and will determine incentives for
+production, tax and customs treatment,
+marketing and other arrangements. The
+Ministry of Renewable Energy has a
+mandate to cover both biomass (under the
+Directorate of Renewable Energy) and
+biofuels (under the Directorate of Biofuels).
+A national technical committee, the
+“Comité National des Biocarburants”
+(CNB), has also been established under the
+aegis of the National Bioenergy Strategy to
+facilitate coordination across relevant institutions. The CNB comprises members from
+the Ministries of Renewable Energy, Energy
+and Agriculture, Investment Promotion
+Agencies, and reports to the Director of
+Biofuels and Biomass in the Ministry of
+Renewable Energy. The government also
+appointed the Senegalese Institute for
+Agricultural Research (ISRA) under the
+16 Law No. 2010-22 of 15 December 2010 of the biofuel sector.
+Photo Courtesy: INENSUS West Africa S.A.R.LNational Bioenergy Strategy to take charge
+of monitoring biodiesel and bioethanol
+production. To raise awareness of the need
+for jatropha plantation, rural communities
+have been involved using the decentralised
+framework of the National Rural Councillors Association (ANCS). 
+A range of research institutions are active
+in the biofuels sector, including universities,
+CERER and ISRA17; and there are several
+training institutes across the country.
+Quality control of biodiesel and bioethanol
+products falls under the responsibility of
+the Societe Africaine de Raffinage (SAR–
+the Senegalese Refinery).
+The regulatory framework in Senegal
+comes in the form of decrees promulgated
+from time to time. The two most important
+and recent decrees for implementing the
+Law on Renewable Energy were issued in
+December 2011. They lay down the
+conditions of purchase and remuneration
+for electricity generated by renewable
+energy plants, the conditions for the
+connection of these plants to the grid, and
+the conditions for purchase and remuneration of surplus electricity from captive
+power plants generating electricity from
+renewables. However, reduced taxes and
+customs duties applicable to renewable
+energy equipment are only considered on
+a case-by-case basis. The decrees are
+therefore aimed at eliminating inefficiencies, decreasing the cost of supply to
+consumers, and promoting development
+funding for the energy sector.
+FINANCING AND INVESTMENT
+In Senegal, investment and finances in the
+energy sector largely rely on funding from
+multi and bi lateral banks or donors, but
+rarely from the private sector. In renewable
+energy, electrification projects are jointly
+funded by the private sector and the Rural
+Electrification Fund (REF) while other
+applications, such as motive and thermal
+projects, are being implemented through
+donor-funded programmes. 
+As in many other developing countries,
+public investments in the energy sector fall
+short of the requirements for funds needed
+to strengthen and modernise the infrastructure. The government has placed a
+levy on the selling of hydrocarbons and
+created a Carbon Fund (CF). This fund is
+being used to create additional capacity
+and to provide subsidies to consumers in
+the form of lower electricity costs. The
+government has also set up funds to promote renewable energy and biofuels, and
+raise awareness about these resources.
+However, there is still a strong reliance on
+external funding (from donors) for the
+implementation of energy programmes
+and projects. Local banks and the private
+sector remain reluctant to invest in the
+energy sector due to risk perception.
+Senegal is making a clear thrust towards
+rural electrification. A Rural Electrification
+Fund (REF) operated by ASER has been
+established and is responsible for financing
+17The ISRA is a research institute in applied science and technology created in 1974 to design, 
+organise and carry out all research on the rural sector in Senegal. Its mission is to generate knowledge
+and appropriate technologies that would support the country’s socio-economic development by
+stimulating job creation, increasing food security among other things.
+RENEWABLE READINESS ASSESSMENTSENEGAL 
+sustainable development of rural electrification. Through the REF, ASER supports investments by granting subsidies to
+operators, financing credit lines and guaranteeing funds to banks, micro-finance
+institutions and other programme partners.
+Senegal has also adopted a National
+Investment Code designed to create favourable investment conditions. The code provides protection against expropriation and
+nationalisation, as well as guidelines for
+repatriation of the investment and its
+returns. A special agency, “Agence
+Nationale chargée de la Promotion de
+l’Investissement et des Grands Travaux”
+(APIX - National Agency for the Promotion
+of Investment) has been formed to oversee
+the code. National treatment for foreign
+direct investment is also ensured which has
+provided an atmosphere conducive to
+stimulating business initiatives. Although
+energy is not specifically mentioned in the
+investment code, and is not therefore
+currently an eligible sector, if investments
+creating a new enterprise also create jobs
+and are located in underdeveloped areas of
+the country, the enterprise would receive
+all the preferential tax benefits under the
+investment code.
+Fiscal incentives for promoting cropping
+and harvesting feedstock for biofuels and
+producing biofuels on a commercial scale
+are provided in the regulations. The
+National Investment Code provides that
+the activities on agricultural production,
+processing and storage will be eligible to
+receive benefits while farm incomes from
+biofuels will be exempt from income tax for
+a period of five years.
+The development of affordable energy in
+sufficient quantities is crucial to achieving
+Senegal’s economic development goals.
+Renewables therefore need to be exploited.
+Fortunately, the current political and institutional context is favourable to a step
+change in their deployment.
+Photo Courtesy: INENSUS West Africa S.A.R.LRENEWABLE READINESS ASSESSMENT
+RENEWABLE ENERGY HAS A HIGH
+LEVEL OF POLITICAL SUPPORT, WHICH
+SHOULD HELP OVERCOME SOME OF
+THE CHALLENGES TO ITS SCALE-UP.
+INDEED, SENEGAL HAS ALREADY
+ADOPTED A RENEWABLE ENERGY LAW
+FROM WHICH A RENEWABLE ENERGY
+STRATEGY HAS BEEN OUTLINED.SENEGAL 
+A. ON-GRID ELECTRICITY
+Hydropower is the only renewable energy resource connected to the
+grid through the 200 MW Manantali hydro project18 of which 64 MW is
+dedicated to Senegal.
+The electricity produced by SENELEC and private companies is
+insufficient to cope with the growth in demand. Growing infrastructure
+obsolescence is leading to frequent shut-downs and transmission losses
+are estimated at around 21% (Ministere de l'Energie –Direction National
+de l'Energie, 2007) and the installed capacity has been reduced to an
+effective capacity of around 548.7 MW, of which 429.7 MW is connected
+to the grid (SENELEC, 2012). As mentioned earlier, even those who have
+access to electricity suffer from shortages and poor quality of supply.
+Unscheduled outages, load shedding, fluctuating voltage and erratic
+frequencies are common. Consumers and the economy bear a large
+burden of this poor quality of supply. 
+SENELEC enjoys a monopoly position in the distribution of electricity in
+Senegal. The electricity distribution system of SENELEC as of 2008 was
+comprised of:
+1. An MV network at 6.6 kV and 30 kV with a 
+total length of 7 627 km;
+18The Organisation for the Development of the Senegal River (OMVS), which consists of
+Mali, Mauritania and Senegal, has constructed the Manantali dam on the Bafing River,
+the main tributary of the Senegal River in Mali, in 1987. The Manantali project includes a
+200 MW power station and a 1 300 km grid of transmission lines to the capitals of Mali
+(Bamako), Mauritania (Nouakchott) and Senegal (Dakar).
+III. Market Development 
+by Sector2. A LV network with a total length of
+6 761 km;
+3. 13 HV/HV substations and 3 511
+MV/LV(30/6.6 kV) substations.
+Senegal signed the WAPP agreement in
+2000 as mentioned earlier, where it was
+decided to develop energy production
+facilities and interconnect the respective
+electricity grids. Senegal has been actively
+participating in the planning, decisionmaking and implementation of the WAPP
+in order to develop interconnection
+between existing and future hydro power
+projects in the Senegal and Gambia river
+basins. Projected commissioning of the
+project was scheduled for 2012 but delays
+in implementation have postponed it to
+2015.
+In 2010, electricity generation in Senegal
+was estimated at 2 400 GWh, jointly
+produced by SENELEC and private
+companies. (SENELEC, 2012; IEA, 2009). It
+was mainly consumed by the residential
+sector followed by the commercial and
+public services sector. This figure is lower
+than the 3 110 GWh generated in 2008
+(SENELEC, 2012; IEA, 2009). The decline in
+generation is due to switching disruptions
+and outages linked to system malfunctions
+and the decline in the quantity of imported
+oil due to high prices.
+Senegal has good potential to promote
+biomass, solar and wind to generate grid
+electricity through both the public and
+private sector (mainly independent power
+producers). Although most of the
+dominant market players have not started
+considering renewable power as a serious
+investment option, feasibility studies for
+various projects by new actors are under
+way.
+SENEGALESE HIGH VOLTAGE
+TRANSMISSION GRID
+1,262.5 km 
+Power line
+[Senelec, 2012] 
+National component owned and operated by 
+SENELEC 
+Supranational component owned and operated by
+the Manantali hydro project.
+21%
+Transmission losses due to obsolescence of
+infrastructure
+548 MW
+Installed capacity
+429.7 MW
+Connected to grid
+2 400 GWh
+electricity generated in 2010
+3 110 GWh
+generation in 2008
+RENEWABLE READINESS ASSESSMENTFor example, a typha-based19 power plant,
+has identified a costof sale to SENELEC of
+CFA 66/kWh (USD 0.13/kWh), which is
+below the average wholesale cost of
+current generation of CFA 70/kWh (USD
+0.14/kWh).
+Similarly for solar projects to become
+commercially viable, the required costs of
+sale are in the range of CFA 120-130/kWh
+(USA 0.24-0.26/kWh).
+Wind projects are only viable20 if a sale
+cost of CFA 85-95/kWh (USD 0.17-19/kWh)
+can be negotiated with SENELEC. At
+present, no feed-in tariff has been
+announced for renewable energy by the
+regulator. 
+As with wind, there is currently no solar
+grid-connected power generation in
+Senegal, despite the existence of a very
+good solar potential uniformly distributed
+across the country. However, an
+encouraging development in this area has
+been the 2010 greenfield investment by a
+private consortium of investors in a
+photovoltaic module assembly plant in
+Senegal. With an annual capacity of 25
+MW, the facility is geared for producing
+high-quality modules of 50-300 Wp (SPEC
+(Sustainable Power Electric Company),
+2012). It also has the requisite capacity to
+function as a system integrator for gridconnected systems. Strong local content
+and trained personnel should provide a
+strong impetus for government to support
+on-grid plants by fixing an attractive feedin tariff.
+Findings from the RRA
+Renewable energy has a high level of
+political support, which should help
+overcome some of the challenges to its
+scale-up. Indeed, Senegal has already adopted a Renewable Energy Law from which
+a Renewable Energy Strategy has been
+outlined. The implementing decrees of the
+Renewable Energy Law are as follow:
+w Decree No. 2011-2013 provides
+conditions of power purchase and
+remuneration for electricity generated by renewable energy plants and
+the conditions of their connection to
+19 Typha is an invasive species growing in the Senegal River
+20 A feasibility study for a wind power plant project of 15 MW to be connected to the grid was initiated in
+the Saint Louis area by Midi-Pyrénées (France), C3E (Dakar) company and CEGELEC (Toulouse).
+CFA 70/kWh 
+Wholesale power purchase price of SENELEC 
+Identified wholesale prices from RE projects: 
+Biomass 
+CFA 66/kWh
+Solar 
+CFA 120-130/kWh
+Wind 
+CFA 85-95/kWh
+USD 1 = approx. CFA 532
+PV module assembly plant in Dakar (SPEC)
+50-300 Wp
+High quality modules to be produced 
+at the facility for up to
+25 MW
+annual capacity
+Invested in by private consortium comprising of:
+AREVA, Schneider Electric, African Fund for Biofuels 
+and Renewable Energy (FABER-ABERF), Peacecock, 
+Enersaf Energy Solutions
+SENEGAL6 RENEWABLE READINESS ASSESSMENT
+the grid21. It also provides the
+formula for the avoided cost22 which
+serves as a reference for calculating
+the power purchase price cap. It also
+contains elaboration on renewable
+power purchase obli-gation and
+feed-in tariffs for different renewable
+energy technologies.
+w Decree No. 2011-2014 provides the
+conditions of power purchase of
+surplus renewable energy-based
+electricity from self-producers23. It
+has fixed the maximum intake from
+renewable energy sources (variable
+power), determined the purchase
+price, conditions of purchase of
+surplus energy and connection to the
+grid, and other conditions.
+The effectiveness of these decrees will
+depend on how investors respond to the
+incentives for renewable energy. The
+availability of funds to support deployment
+in the form of feed-in tariffs (and any other
+fiscal incentives) will also be crucial and will
+depend in part on continued engagement
+with donors.
+Electricity tariffs regulation aims to
+minimise consumers’ charges while maintaining the financial viability of SENELEC
+and the quality of the supply by fixing a
+five-year price cap. However, tariffs
+currently appear quite disadvantageous,
+particularly for SENELEC, which does not
+have any control over its investment
+programme from the perspective of
+funding mobilisation. A study could be
+undertaken for the grid integration to
+define the modality and to identify where
+money will come from (as the government
+has committed to pay the difference
+between the feed-in tariff and average cost
+of diesel energy). Furthermore, the CRSE
+should be strengthened, particularly in
+view of unbundling SENELEC activities,
+encouraging the active participation of the
+private sector in production and distribution, and investigating the possibility of
+21 Decree No. 2011-2013 related to the conditions of purchase and compensation of electricity
+produced by renewable energy power plants and the conditions of their connection to the grid.
+22 Capital and operating costs saved by the grid operator when electricity from conventional energy
+source is substituted with electricity from renewables in the frame of electricity purchase obligations
+prescribed by law and regulations.
+23 In Decree No 2011-2014, “self-producers” means any company or household producing electricity for
+their own consumption and usage.
+Image 3: Work in progress at SPEC's solar modules mounting facility (©www.spec-solar.com)SENEGAL 
+opening up the renewable grid-connected
+sector.
+Since CIER is responsible for reaching an
+agreement on integration of renewable
+energy into the grid, one of its main tasks
+in the near future will be determining the
+technical feasibility of absorbing renewable
+electricity into the centralised grid and
+approving the grid code amendments that
+are necessary to integrate renewables into
+the system. Currently the grid operator
+(SENELEC) has no experience in
+integrating variable energy sources into the
+grid, so capacity-building measures in
+terms of how to technically manage these
+sources will be required. 
+IPPs have more than 10 years of experience
+in Senegal with diesel-powered generation.
+This suggests a relatively stable relationship between independent providers and
+SENELEC which could be capitalised on so
+that the practical experience gained with
+diesel generation can benefit renewable
+energy deployment. However, in the past
+IPPs have generally had government
+guarantees to back commercial contracts
+to offset the risks.
+In biomass projects, costs will often
+depend on the boundary of the project
+(e.g., for typha, it must be determined who
+bears the costs of clearing the river). To
+date, there has been limited private sector
+participation in bioenergy. However, there
+are key areas where biomass could play a
+role, particularly where agricultural
+residues could provide a low-cost fuel for
+power generation in rural areas, although
+mechanisms for collection and storage
+would need to be worked out meticulously
+and the costs built into the tariff regime.
+Costs would vary, depending on the
+particular technology under consideration,
+but there is evidence that biomass production could be commercially viable.
+One of the key issues in large-scale renewable energy projects is the ownership of
+the land needed for project development.
+In Senegal, most land is owned by local
+communities and, therefore, to protect the
+project’s viability, mechanisms must be
+developed that involve landowners
+throughout the project life cycle.
+Another issue is Senegal’s limited experience with the installation, operation and
+2 MW
+Total installed solar power in2007
+2.5 MW
+Capacity in 2010
+Image 4: Senegalese Sugar Production Company
+in Richard-Toll. © www.css.sn8
+maintenance of large-scale renewable
+energy power plants. However, the government does have the capacity to assess and
+select proposed projects, thereby ensuring
+that developers with sufficient experience
+in this sector get preference.
+Overall, the main issue for grid-connected
+renewable-based electricity is almost
+always related to the fact that proposed
+selling prices to SENELEC are always above
+its electricity purchase price (CFA 70/kWh
+– USA 0.14kWh). Senegal needs to capitalise on existing experience with IPPs to
+build business models for renewable
+energy operators and to explore the potential role of public-private partnerships.
+Power purchase agreements which focus
+on variable power and keep the issues of
+grid connection at the forefront need to be
+designed in order to give certainty to
+investors. 
+B. OFF-GRID APPLICATIONS
+DECENTRALISED RURAL
+ELECTRIFICATION
+This section deals with decentralised electrification, motive power for productive
+uses and thermal applications (cooling and
+heating). 
+Senegal already has a great deal of experience in implementing national and regional projects and programmes to promote
+off-grid applications of renewable energy
+(PRS/CILSS, PREDAS/CILSS, PERACOD,
+PROGEDE, etc.). 
+Solar PV technology has been variously
+adapted to provide solutions for electrifying health centres, schools, households
+and extending communication networks.
+The total installed capacity of solar power
+in the country increased from 2 MW in
+2007 to 2.5 MW in 2010, although the use
+of small aero generators in Senegal is
+limited and the total installed capacity is
+estimated to be around 0.5 MW (Ministere
+des Energies Renouvelables, 2011).
+CSS, a sugar factory in north Senegal,
+produces electricity for its own consumption with an installed capacity of up to
+48 MW (EcosurAfrique, 2012). Bagasse
+generated from plant operations provides
+feedstock for a 25 MW co-generation plant
+which currently provides power to the
+plant but could also power unserved
+neighbouring towns and villages. The CSS
+25 MW cogeneration plant is the first Senegalese-registered Clean Development
+Mechanism (CDM) project (Ibid).
+ASER has adopted a market model for rural
+electrification that is technology neutral
+and thereby provides a framework for
+private operators to carry out electrification in rural areas using renewable
+energy along with other fuels24.
+Individuals, enterprises or communities
+generating electricity from renewables for
+self-consumption are governed by one of
+the decrees25 for implementing the
+provisions of the Law on Renewable
+Energy 2011. This provides the conditions
+for purchase and tariff for surplus
+electricity, which can be fed into the grid
+or sold through decentralised distribution
+networks. 
+24The rural regions of Senegal that have not yet been electrified have been divided into a total of 11
+geographical concession areas of which ASER has 10. The electrification of these areas is put out to 
+public tender by ASER and is undertaken by private sector enterprises. The concession model includes 
+the following elements: grid expansion, isolated networks and single homes supply (mainly solar home
+systems). The financing of these areas is secured through the Senegalese state and international 
+donors. ASER settled a minimum share of 10% for renewable energies in each concession.
+25The Decree 2011-2014 adopted on 21 December 2011 on the conditions for purchase and
+remuneration of surplus electricity from captive plants generating electricity from renewables.
+RENEWABLE READINESS ASSESSMENTPilot projects for off-grid electrification
+have been undertaken by educational and
+training institutions, government agencies
+at the central and provincial level, as well
+as NGOs and institutions in the private
+sector. The project to supply electricity
+undertaken by the University Check Anta
+Diop of Dakar is particularly noteworthy.
+In order to strengthen quality control, two
+laboratories have been set up under the
+supervision of the Senegalese Association
+for Standardisation (ASN)26 with the specific task of ensuring the adoption of national standards for photovoltaic components.
+Senegal has a great deal of diverse and rich
+experience in the area of decentralised
+electrification. Many non-state actors are
+involved in the marketing, installation and
+maintenance of equipment and systems. 
+Renewable energy is being increasingly
+recognised as a cost-effective option for
+decentralised applications in areas far from
+the grid, given that the cost of grid
+extension is also a factor of the load. In
+remote areas, where expected electricity
+load is relatively low, the transport cost of
+diesel is high, making renewable hybrid
+systems with a higher share of renewable
+energy technologies cost-competitive.
+ASER has assessed the economic viability
+of such options and has included the
+development of mini-grids for the electrification of villages in its concessions
+under “Electrification Rurale par des Initiatives Locales”(ERILS)27. 
+The Programme for Rural Electrification
+and Cooking Fuel (PERACOD) is supporting the sustainable development of the
+energy sector in Senegal by implementing
+rural electrification projects through the
+private sector. The Sine Moussa village
+electrification is one illustration of
+PERACOD intervention. However, financing
+for small projects is limited and usually the
+involvement of local communities in terms
+of management and responsibility is
+insufficient.
+MOTIVE AND THERMAL APPLICATIONS
+Senegal has long-standing experience in
+the deployment of off-grid motive (primarily water pumping) and thermal
+applications (primarily water heating, also
+cooking and drying). Development and
+marketing of water pumping solutions has
+also been a focus of the private sector in
+Senegal. Government incentives include
+fiscal benefits for importing equipment
+26 The laboratories have been set up by Order No 29/MEMI 21 April 1999.
+27 ERILs are specification of Senegal and offer high chances for the implementation of renewable energies.
+28 SPEC is producing currently PV modules of 50-300 Wp.
+Image 5: Sine Moussa Solar Wind Diesel Hybrid
+Power Plant © www.peracod.sn
+SENEGALrelated to water pumping. Technologies for
+solar and wind pumping systems exist in
+the country and wind pump sets are also
+locally manufactured. With the setting up
+of SPEC, it is hoped that the solar
+applications customised for use in Senegal
+will be assembled by private sector
+operators28. 
+There have been mixed experiences
+regarding the quality of operation and
+maintenance (O and M) of installations.
+Earlier programmes for wind pumps
+supported by government ran into
+problems with O and M29, although recent
+programmes seem to have performed
+better. Wind pumps have higher maintenance requirements due to their large
+number of moving parts. Current business
+models work with user charges and the
+establishment of a fund for maintenance,
+administered by the community and the
+service provider. The model seems to be
+successful, with high levels of demand and
+significant sums of money being accrued in
+accounts to fund O and M as well as plant
+replacement at the end of life. In the waterpumping sector communities are increasingly employing service managers to
+take responsibility for operating and
+maintaining the system.
+Although solar water heating has been
+used in urban areas and in rural hospitals
+for more than two decades, maintenance
+problems remain. Strong programmes have
+been initiated by government in
+partnership with30 local construction firms.
+However, business models implemented
+have generally lacked incentives to provide
+after-sales service.
+Operators are responsible for the quality of
+installation, and in theory there is some
+institutional monitoring. However, there
+have been problems with the reliability of
+installations because nobody is responsible
+for testing heating equipment, even though
+standards do exist. Although research institutes are operating in this area, their findings are frequently not available to the
+private sector.
+In order to increase the uptake of solar
+water heating equipment, a 35% tax rebate
+against capital cost policy has been
+adopted since the early 1980s, although
+this only benefits tax-paying businesses.
+29 Of more than 200 wind pumping systems installed in 1983 and 1984 only 40% were operating
+three years later and even these fell into disrepair. 
+30 e.g. 1 000 homes installed with panels, and the payment was spread over the life of project,
+but this failed since there was no responsibility for maintenance.
+Image 6: Solar Water Heater in rural area in
+Senegal ©www.enersol.com
+RENEWABLES READINESS ASSESSMENT
+35%
+Tax rebate against capital cost 
+of solar heating equipmentOther incentives include import tax exemptions for equipment relating to thermal
+heating, a low rate of VAT for local fabrication and fiscal exemptions for investors.
+The use of solar thermal absorption
+systems for cooling buildings is becoming
+well-established, and is included in the
+National Energy Strategy. Together with
+good awareness at government level, this
+provides the basis for taking the
+technology forward.
+Universities, institutes and technical and
+vocational training centres are carrying out
+training programmes and strong efforts are
+being made to involve the private sector in
+the ongoing Research and Development
+programme on small-scale aero generators
+at the University of Dakar.
+Findings from the RRA
+Senegal’s RRA highlighted the lack of
+coordination between processes of elaboration of sectorial policies as the main
+issue on decentralised applications. It recommended that CIMES should play a coordinating role in the future in order to
+strengthen cooperation across the relevant
+ministries and regulatory agencies, and
+also between the private sector and
+research institutes, to achieve better harmonisation in sectoral policies and complementarity in the intervention of all
+stakeholders.
+The need to strengthen cooperation across
+the relevant ministries and regulatory
+agencies and between private sector and
+research institutes was also highlighted.
+One major issue that emerged from the
+RRA discussions was that the regulator
+(CRSE) is currently obliged to approve
+tariffs for electricity supply to the final
+consumer, regardless of the size of the
+installation. This process is time-consuming
+and acts as a barrier to the implementation
+of small concessions (ERILs), thus limiting
+their more general implementation. There
+is therefore an urgent need to decentralise
+the decision-making process and the
+means of capacity development at the
+CRSE (e.g., setting tariffs locally).
+Measures to alleviate this constraint could
+include, for example, exempting installations below a certain capacity (e.g., below
+50 kW) from requiring regulatory approval
+for the proposed tariff and allowing
+approval by village communities. Decentralisation of regulatory powers, following
+decentralisation at governmental level, and
+associated capacity building at the local
+level to respond to tariff proposals, could
+assist the process while advantage could
+also be taken from the existence of
+decentralised governance structures to
+assist local deployment of renewable
+energy technologies.
+The understanding of legal issues
+SENEGAL 
+Image 7
+Installation of a small wind turbine 
+at the Univesity of Dakar ©www.eolsenegal.comRENEWABLE READINESS ASSESSMENT
+concerning renewable energy by local
+elected representatives, and the capacity
+of private operators, should be strengthened to handle the deployment of
+renewable energy technologies, evaluate
+proposals for tariffs and assist the electrification process.
+The participation of micro-finance institutions in the sector should also be
+supported, which could be done through
+training and sensitisation in order to build
+their understanding of renewable energy.
+The motive power sector offers good perspectives judging by existing experience in
+the use of wind turbines for pumping and
+the involvement of the private sector in the
+local manufacture of wind pumps. Waterpumping technology using wind is a
+mature technology and there is local
+expertise in producing the parts necessary
+for constructing and maintaining wind
+pumps. Improvements in solar technology
+are now being made which will allow
+pumping at the same depth as for wind.
+Resource availability for solar water
+pumping has been assessed and several
+companies in Senegal already supply solar
+pumps (e.g., Equiplus and Mattforce).
+There is also the potential to use multifunctional platforms based on biofuels to
+supply motive power; technology
+improvements are still being made for
+multi-functional platforms although this is
+dependent on the development of the
+biofuels sector. Currently these platforms
+are diesel-fuelled but,if and when the
+possibility to convert to biodiesel becomes
+available, it could provide a local application for local biofuel production.
+There is still a need to build on existing
+experience with wind power (e.g., water
+pumping) to build expertise and skills in
+Senegal for O and M, and mechanisms
+need to be put in place to transfer skills
+from project developers to local communities regarding installation and
+maintenance. 
+Another required major action is the
+strengthening of domestic manufacturing
+capacity to meet poverty reductionstrategy targets. Once capacity has been
+strengthened an equipment testing body
+should be introduced to ensure that the
+technology meets the established
+standards and platforms for cooperation
+with the private sector and research
+institutes should be created. For example,
+meetings should be organised between
+suppliers and equipment manufacturers to
+identify the necessary requirements for
+further development or strengthening
+cooperation between the private sector
+and research institutes.
+Targets and policy delivery concerning the
+inclusion of solar water heating in buildings
+are the responsibility of the Ministry of
+Construction, while responsibility for
+ensuring that a building has met legal
+requirements is split between the Ministry
+of Construction (which determines if the
+installation been done) and the Ministry of
+Renewable Energy (which check that the
+system is operating as intended). Therefore, effective cooperation across these
+ministries is necessary.
+There is also a need to develop existing
+production capacity for technologies and
+the supply chain of components in order to
+minimise costs. Lessons learnt in earlier
+projects at the national or regional level
+should be used to informfuture projects.
+From the RRA analyses, it is evident that
+the sector is offering an opportunity for
+government to provide a major push on
+this technology and provide a suitableSENEGAL 
+private-sector business model that
+includes service provision with necessary
+after-sales service. The sector also offers
+the opportunity to link with the government decentralisation agenda, with local
+government taking responsibility for water
+and health, and also take forward solar
+heating initiatives linked to local job
+creation and hence economic development
+opportunities. This could be combined with
+employment programmes for young
+people to train in maintenance and service.
+C. BIOFUELS FOR TRANSPORT
+The development of biofuels in Senegal is
+relatively recent and production is small.
+The CSS31 set up a plant for the production
+of bioethanol from sugarcane in 2007 with
+a target production of 8-12 million litres of
+bioethanol per year (ISRA-BAME, 2009) on
+the premise that from 2013 the blending
+would be mandatory for ethanol.
+Production volumes are expected to be
+sufficient for meeting domestic production,
+although lack of policy support is reflected
+in a negligible market demand for
+bioethanol which has slowed down
+production. Exports of biofuels are
+restricted, despite foreign demand.
+Good quality, disease-free seeds are
+required for biofuels. Only certified seeds
+are allowed for the industrial production of
+biofuel and their control and certification is
+the responsibility of the Ministry of
+Agriculture.
+Infrastructure constraints for biodiesel
+centre around the storage and processing
+of jatropha seeds. The best storage
+conditions reduce the loss of oil. The
+emergence of modern jatropha processing
+units could lead to large-scale production
+of biodiesel in the same way that the
+investments done by the CSS have worked
+for sugarcane. ISRA is currently distributing
+free jatropha seedlings and a decree to
+allocate more funds to scale up this
+programme isexpected. Small private
+farmers are able to produce biodiesel from
+jatropha, using currently available smallscale processing technologies,such as
+artisanal presses. 
+There is no currently significant private
+financing devoted to biofuels. This can
+partly be attributed to perceived risks–
+while micro-finance initiatives exist, they
+are unwilling to lend to these projects.
+Findings from the RRA
+It is not possible to judge the sustainability
+of the overall strategy because environmental impacts are not assessed at a
+national level. A project-by-project approach is taken instead (for all proposed
+large-scale projects). There is a very
+important need for training at all levels to
+raise awareness. Similarly, there is a low
+level of awareness among the general
+public.
+Image 8: Molasses lake at Senegalese Sugar Company
+(CSS). © D. Dia 2009
+31 CSS has had a distillery in operation for ethanol production of 60 000 litres per day since 2008. RENEWABLE READINESS ASSESSMENT
+The RRA process has highlighted land
+ownership issues. These issues need to be
+resolved in order to ensure that land is
+available to meet the needs of the industry
+and competing pressures. This is complicated in Senegal by the complex system
+of land ownership and allocation. 
+There is a real need for capacity building
+across the sector. Planning, communication
+and information provision can be
+implemented through the National
+Assembly, Senate and rural communities. It
+is possible to use the experience of the
+Ministry of Energy, regarding fuel for
+example, for distribution and networking.
+The Ministry of Renewable Energy has the
+capacity and tools to assess benefits, but
+lacks expertise in other areas. The NBC
+needs technical assistance.
+Measures should be taken to follow-up the
+programmes and strategies to determine
+how successful production levels are, what
+volumes of oil are being produced, and
+what markets exist for jatropha farmers.
+The restriction on biofuels export, originally
+designed to ensure that Senegal benefits
+from the development of the industry, may
+also stunt the development of the market. 
+The lack of testing and quality control
+institutions has also been responsible for
+the lack of coordination across actors. Each
+institute is currently responsible for its own
+research, and an institute needs to be
+established for testing and quality control.
+More work could be carried out on jatropha
+to understand the business model risks
+associated with various parts of the supply
+chain to help overcome barriers to the
+Ministry of Economy and Finance lending
+(e.g., for small-scale producers). The key
+issue is to address capacity for small-scale
+farmers’ production, and to build a reliable
+supply chain for establishing a reliable
+price for the product so that farmers can
+get sufficient return to attract further
+production. Priority should be given to
+addressing perceived risks in order to
+facilitate financing and the transfer of
+technology and human skills.
+Agricultural producers have been operating
+plants for some time and the advantages –
+such as employment creation in the
+operation stages – are well-known. For
+example, for the typha plant, local people
+are employed to harvest and handle the
+plants, while biogas production has the
+added benefit of producing fertiliser for
+agriculture.SENEGAL 
+R Engage with existing initiatives for data collection,
+including observatory currently being established by
+ECREEE.
+R Identify precise requirements for resource mapping,
+based on priority areas for RE.
+R Establish a plan for collection of data.
+R Explore the potential for funding ground
+measurement campaigns with multilateral/bilateral
+organisations.
+Elaborate a process for
+comprehensive mapping
+of renewable energy
+resources in key areas.
+R Decentralisation of the regulatory powers according
+to the national decentralisation process.
+R Capacity building for the Rural Electrification
+Agency to handle all off-grid tariffs.
+R Associate capacity building at the local level to
+respond to tariff proposals.
+Adapt the rules of
+intervention for the
+regulator in the specific
+case of small electricity
+producers (ERILs).
+R Assess potential site infrastructure status.
+R Conduct studies on grid capacity to uptake variable
+renewables sources. 
+R Strengthen SENELEC's human resources technical
+capacities. 
+Facilitate grid integration of
+electricity generated from
+renewable resources.
+R Incorpotate land tenure rights into land availability
+assessments.
+R Identify potential for higher productivity through
+advances in technology and agriculture.
+R Assess environmental, economic and social impacts
+of strategy implementation.
+R Identify the extent and basis of private company
+participation.
+Review the institutional, legal
+and regulatory conditions for
+utilising land for biofuels
+production.
+R Identification of priority areas for development of
+manufacturing capacity, including training and
+education requirements to build the necessary skills.
+R Creating a forum to support collaboration between
+the private and research sectors.
+Identification of conditions
+for increased private sector
+involvement in RE-related
+manufacturing.
+R Develop and fund training programmes to address
+capacity gaps.
+R Define and formalise legal status and framework for
+service providers.
+R Incentivise deployment of hybrid technologies.
+R Introduce standards for quality control testing and
+service requirements.
+Identify conditions needed
+for Oand M (operation and
+maintenance) of off-grid
+motive and thermal power.
+The following schematic identifies the recommended actions from the RRA process. These actions
+are not presented in any order of priority, and the list of actions from a rapid assessment is unlikely
+to be exhaustive. The detailed list of actions can be found in the Annex.
+IV. Recom mended Actions6 RENEWABLE READINESS ASSESSMENT
+THE DOMESTIC COMMITMENT
+TO RENEWABLE ENERGY IS
+REFLECTED IN THE ROLE THAT
+SENEGAL HAS ASSUMED 
+IN REGIONAL AND
+INTERNATIONAL FORUMS.SENEGAL 
+Identified Examples of Good Practice
+GOOD PRACTICE DEMONSTRATION 1: 
+BUSINESS MODELS USED FOR RURAL AND 
+OFF-GRID ELECTRIFICATION
+Rural electrification, using both conventional and renewable energy
+resources, has been defined as a key sector to reduce poverty and
+increase rural living standards. Senegalese authorities plan to reach a
+30% rural electrification rate by 2015, and a 60% rate by 2022.
+Responsibility for meeting the target is in the hands of the Senegalese
+Agency for Rural Electrification (ASER), an autonomous body reporting
+to the Ministry of Energy.
+Based on an economic assessment of conditions for electrification, ASER
+has defined 10 concessions and has launched tenders for electrification
+of these areas in a competitive bidding process. Each bidder will be
+required to indicate the percentage funding that they will provide; the
+remainder will be provided by the government. Each bidder will also be
+required to develop a local electrification plan, defining the technologies
+to be used.To date, the following concessions have been awarded:
+w Concession for Dagana-Podor: awarded to ONE-Maroc
+w Concession for Mbour: awarded to ONE-Maroc
+w Concession for Kaffrine- Tambacounda-Kédougou: awarded 
+to EDF
+V. Best Practices and 
+Future Cooperation8 RENEWABLE READINESS ASSESSMENT
+Complementing these concessions are
+small local projects (ERILs), developed by
+local sponsors such as community
+associations and villages. These will also be
+funded through private/public financing.
+To date, the level of bilateral funding has
+been significant. 
+The case of Sine Moussa village is a
+successful ERIL case where a good
+business model has been developed by the
+operator. Senegal should build on such
+successful initiatives to develop a more
+attractive enabling environment for
+business to encourage operators to enter
+the market and reduce the cost of access
+and sustainability of rural electrification
+schemes. 
+This model offers a potential to attract the
+private sector with its associated finance,
+skills and implementing capacity into rural
+electrification.
+While the programme is still in process, the
+experience of Senegal suggests a number
+of actions that may be useful in
+implementing a rural electrification
+programme based on a concession
+structure. These include:
+w Definition of an agency with responsibility for rural electrification
+and autonomy to define the programme and method of operation for
+achieving objectives;
+w a transparent approach to tendering
+and awarding concessions; 
+w an approach based on an understanding of economic conditions and
+viability; 
+w an extension of decentralisation at
+the government level into rural
+electrification; and
+w integration of renewable energy into
+the implementation framework.
+GOOD PRACTICE DEMONSTRATION 2: 
+LEGAL AND INSTITUTIONAL
+FRAMEWORK
+Senegal has shown a strong commitment
+to renewable energy, most notably with the
+establishment of a dedicated Ministry for
+Renewable Energy and the passing of
+framework laws on Renewable Energy and
+Biofuels at the end of 2010 (Act 2010-21 of
+20December 2010 and Act 2010-22 of 15
+December 2010). This commitment is
+currently being tested by a process of
+agreeing and finalising the implementing
+decrees for these framework laws.
+However, it is clear that renewable energy
+is viewed as both important in its own right
+and also as an enabler in the broader
+development of the energy sector, rural
+development and poverty reduction.
+There are a number of institutions and
+frameworks dedicated to the further
+development of renewable energy, notably
+CERER (Centre for Studies and Research
+into Renewable Energy) at the University
+of Dakar, and the National Energy for Solar
+Energy. More broadly, agencies such as
+ASER (Agence Senegalaise d’Electrification
+Rurale), ASN (Association Sénégalaise de
+Normalisation) and CRSE (Commission de
+Regulation du Secteur de l' Electricite du
+Senegal) include renewable energy as a
+central part of their remit. Crossinstitutional cooperation has been facilitated by the establishment of an
+Inter-ministerial Committee on Renewable
+Energy (CIER) and the National Committee
+of Biofuels. Maintaining and extending thisSENEGAL 
+cooperation will enable ongoing success in
+the implementation of Senegal’s vision for
+renewable energy. In particular, efforts
+could be usefully directed at ensuring the
+participation of civil society.
+The domestic commitment to renewable
+energy is reflected in the role that Senegal
+has assumed in regional and international
+forums. At the project level, there are many
+examples of cross-Sahelian initiatives in
+design and implementation. At the strategic level, Senegal has taken a central
+role in IRENA and ECREEE (ECOWAS
+Regional Centre for Renewable Energy and
+Energy Efficiency).
+FUTURE COOPERATION
+This first pilot study in Senegal has identified a number of areas in which Senegal
+can take action to improve readiness for
+the deployment of renewables. Many of
+these actions can be taken in the near term,
+building on the momentum that has
+already been established in the country
+through recent institutional developments
+in support of renewable energy. The support of bilateral and multilateral institutions, both now and in the future, is an
+important element in the successful realisation of these actions. This report can
+serve as a basis for the development of
+international cooperation on country-level
+and regional-level programmes.
+At the country level, the report opens up
+the possibility of piloting a multilateral
+initiative to support feed-in tariffs to
+promote renewable energy in Senegal. At
+the regional level, Senegal is well positioned to become an active stakeholder in
+the Global Solar and Wind Atlas initiative
+being coordinated by IRENA.
+In addition to highlighting actions to
+further the deployment of renewable
+energy, the pilot study has also provided
+valuable inputs to the development of the
+RRA methodology and process. The
+improved methodology and process were
+discussed and amended during a technical
+workshop in April 2012 in Abu Dhabi before
+rollout to a number of other ECOWAS
+countries. It is very much hoped that
+Senegal will be able to continue its
+exemplary leadership in this process by
+supporting this rollout.6
+RENEWABLE READINESS ASSESSMENT
+AfDB. (2011). The Middle of the Pyramid: Dynamics of the Middle Class in Africa.African
+Development Bank .
+ANSD. (2011). Note d’Analyse des Comptes Définitifs 2008, Semi Définitifs 2009 et Provisoires 2010.
+Dakar,Sénégal: Agence Nationale de La Statistique et de la Démographie.
+APIX. (2006). Code de l’Investissement, Révision: 29/08/06. Dakar, Sénégal: Agence Nationale
+chargée de la Promotion de l' Investissement et des Grands Travaux.
+Bazilian, M., Nussbaume, P., Rogner, H., B.H. A., Foster, B., Pachauri, S., et al. (2011). Energy Access
+Scenarios to 2030 for the Power Sector in Sub-Saharan Africa.FEEM Working Paper.
+Duarte, M., Nagarajan, S., and Brixiova, Z. (2010). Financing of Sustainable Energy Solutions. AfDB.
+Eberhard, A., Foster, V., Cecilia, B.G., Ouedraogo, F., Camos, D., andShkaratan, M.
+(2008).Underpowered: The State of the Power Sector in Sub-Saharan Africa. Washington, DC: The
+Wolrd Bank.
+EcosurAfrique. (2012). ecosureafrique. 
+Retrieved from www.ecosureafrique.com :
+http://www.ecosurafrique.com/references-reference_detail.php?refid=16
+ECOWAS. (2006). White Paper for a Regional Policy: Geared towards increasing access to energy
+services for rural and peri-urban populations in order to achieve the Millennium Development
+Goals.Economic Commission of West African Countries.
+Enda Energie. (2005). Rôle des énergies renouvelables sur le développement des activités
+productives en milieu rural Ouest Africain: le cas du Sénégal. Dakar, Sénégal.
+Enefebio. (2007). Synthèse des enquêtes au sein des PMEs au Sénégal.Lettred'information No1, 4 p.
+GTZ. (2009). Regional Reports on Renewable Energy 30 Country Analysis on Potentials and Markets
+in: West Africa (17), East Africa (5) Central Asia (8).Eschborn: GTZ.
+IEA.(2009). World Energy Outlook Perspective.Paris : International Energy Agency.
+IRENA.(2011a). Country Profiles – SENEGAL. Abu Dhabi: International Renewable Energy Agency.
+VI. References 
+and BibliographySENEGAL 6
+IRENA.(2011b). Country Case Study, Renewables Readiness Assessment.SENEGAL Preliminary
+Findings.Abu Dhabi: International Renewable Energy Agency.
+ISRA-BAME.(2009). Le Sénégal face à la crise Energétique Mondiale: Enjeux de l' Emergence de la
+Filière des Biocarburants. Dakar: Institut Sénégalais de Recherches Agricoles - Bureau d'
+AnalysesMacro Economiques.
+Lugmayr, M. (2011). ECREEE presentation at the SWAC/OECD Meeting. ECREEE Strategy to Promote
+Renewable Energy and Energy Efficiency investments in teh ECOWAS (2011 to 2016).
+Ministère de l'Energie - Direction National de l'Energie. (2007).
+Systèmed’InformationEnergétique.Sénégal.
+Ministère de l'Energie. (2008, Février). Lettre de Politique de Développement du Secteur de
+l'Energie (LPDSE). Dakar.
+Ministère des Energies Renouvelables. (2011, Décembre). Application de la Loi d'Orientation sur les
+Energies Renouvelables relatif aux conditions d'Achat et de Rémunération de l'Electricité produite
+par des Centrales à partir des Sources d'ENR ainsi que les conditions de leur raccordement au
+Réseaux.Décret No 2011-2013. Dakar, Senegal.
+Ministère des Energies Renouvelables. (2011, Décembre).Décret No 2011-2014. Application de la Loi
+d'Orientation sur les Energies Renouvelables relatif aux condition d' Achat et de Rémunération du
+Surplus d' Electricité d'Origine Renouvelable résultant d'une Production pour Consommation Propre.
+Dakar, Sénégal.
+Ministère des Energies Renouvelables. (2011). Situation Energétique au Sénégal (Etat des lieux et
+projections). Bonn.
+Ministère des Energies Renouvelables. (2011). Stratégie Nationale des Energies Renouvelables
+(SNER). Dakar.
+Primature (République du Sénégal). (2011). Arrêté PRIMATORAL No 1577. Création, Organisation et
+Fonctionnement du Comite interministériel sur les Energies Renouvelables. Dakar, Sénégal.
+République du Sénégal. (2010, Octobre). Document de Stratégie de Réduction de la Pauvreté( DRSP
+II). Dakar, Sénégal.6
+RENEWABLE READINESS ASSESSMENT
+République du Sénégal. (2010). Loi No 2010-21. Loi d’Orientation sur les Energies Renouvelables.
+Dakar, Sénégal.
+République du Sénégal. (2010, Décembre 15). Loi No 2010-22. Loi d’Orientation sur les
+Biocarburants. Dakar, Sénégal.
+SAR. (2012). Société Africaine de Raffinage –Carte d’identité. Retrieved from www.sar.sn:
+http://www.sar.sn/Carte-d-identite.html
+SENELEC.(2012). Senelec– Production. Retrieved from www.senelec.sn:
+http://www.senelec.sn/content/view/15/66/
+SPEC (Sustainable Power Electric Company). (2012). SPEC – Produit. Retrieved from
+www.spec-solar.com: http://www.spec-solar.com/produits/modules-photovoltaiques.htmlSENEGAL 6
+Action 1
+Adapt the rules of intervention for the regulator 
+in the specific case of small electricity producers (ERILs)
+Action Adapt the rules of intervention for the regulator in the 
+specific case of small electricity producers (ERILs).
+Resource-Service pair(s) Off-grid electricity, all resources.
+Description The regulator (La Commission de régulation du secteur de
+l'électricité du Sénégal, or CRSE) is currently obliged to approve
+tariffs for electricity supply to the final consumer, no matter what
+the size of the installation. This process is time-consuming and acts
+as a barrier to small concessions (ERILs), thus limiting their more
+general implementation. Measures to alleviate this constraint could
+include, for example, exempting installations below a certain
+capacity (e.g., below 50 kW) from requiring regulatory approval for
+the proposed tariff and allowing approval by village communities.
+The decentralisation of regulatory powers, following
+decentralisation at governmental level, and associated capacity
+building at the local level to respond to tariff proposals, could assist
+the process.
+Actors CRSE, Ministry of Energy, Ministry of Renewable Energy, private
+operators, SENELEC to participate in review. Educational and
+training institutions for capacity-building in decentralised
+institutions.
+Timing Mid-2012.
+Keys for suc cess Engagement by the regulator, improved staffing in the regulator,
+decentralisation of power and building capacity of the regulator.
+Such capacity-building activities will be a focus of the future IRENA
+Work Programme, both in Senegal and elsewhere.
+VII. Annex6
+RENEWABLE READINESS ASSESSMENT
+Action 2
+Finalise and sign the implementing decrees of 
+the framework laws on renewable energy
+Action Finalise and sign the implementing decrees of the framework 
+laws on RE.
+Resource-Service pair(s) On-grid and off-grid electricity, all RE resources.
+Description The framework laws on renewable energy provide a structure for
+deployment, but this deployment is dependent on finalising the
+implementing decrees. These decrees would enhance the
+attractiveness of RE investment by giving certainty to:
+R the conditions of purchase and remuneration for electricity 
+generated from renewable energy plants and the conditions of 
+their connection to the network;
+R conditions for purchase and remuneration of surplus electricity 
+from own-generation renewable electricity sources; and
+R tax and customs duties applicable to renewable energy 
+equipment.
+R Implementation of decrees will require funding sources to be 
+identified and secured, and this should also form part of the 
+action. One particular action that could be explored is the 
+Global Energy Transfer Feed-in Tariff (GET FiT), which seeks to 
+use public sector (or donor) funds to create stable incentives 
+for renewable energy, and in doing so attract private financing 
+into the sector32. Identification of partners willing to support 
+implementation in Senegal would provide a route for securing 
+funding.
+R Complementary actions could include exploring funding 
+opportunities with multilateral and bilateral donors and with 
+potential investors from private companies, utilities and 
+commercial banks. Strengthening engagement with the 
+Ministry of Economy and Finance, and awareness-building 
+within the ministry in order to ensure budgetary provision 
+could also be important.
+32 For further details and an application to an African country, see W. Rickerson, C. Hanley, C. Laurent, and
+C. Greacen (2010). Implementing a Global Fund for Feed-in Tariffs in Developing Countries: A Case Study
+of Tanzania. World Renewable Energy Congress: 2010. SENEGAL 6
+Actors The Government of Senegal, Ministry of Energy, Ministry of
+Renewable Energy, Ministry of Economy and Finance , donors and
+other potential investors (private companies, utilities and
+commercial banks). IRENA could bring together donors and
+country representatives to investigate a global initiative.
+Timing Mid-2012.
+Keys for success Finalisation will require consensus on the terms of the text. The
+effectiveness of proposed decrees will depend on the extent to
+which they give incentives for renewable energy. The availability of
+funds to support deployment in the form of feed-in tariffs (and any
+other fiscal incentives) will also be crucial and will depend in part
+upon continued engagement with donors.
+Action 3
+Finalise Policies on the integration of electricity generated from renewable sources
+onto SENELEC’s grid, and define the associated technical and capacity-building
+requirements for integration
+Action Facilitate an agreement on the integration of electricity generated
+from renewable sources onto SENELEC’s grid, and define the
+associated technical and capacity-building requirements for
+integration.
+Resource-Service pair(s) On-grid electricity, all resources.
+Description The Inter-ministerial Committee on Renewable Energy
+(ComitéInterministérielsur les Energies Renouvelables, or CIER) has
+been charged with, among other tasks, coordinating the policies for
+integration of renewable energy and the grid code. Their finalisation 
+will assure more coherence in integrating renewables onto the
+interconnected grid. 
+Technical aspects of integrating variable energy sources into the grid
+is an area in which the grid operator, SENELEC, does not have any
+experience, and capacity-building measures in terms of how to
+manage these sources will be required. 
+Actors CIER, SENELEC, Ministry of Renewable Energy, Ministry of Energy,
+organisations with experience of similar issues in other countries and
+regions (e.g., Morocco, Egypt).66 RENEWABLE READINESS ASSESSMENT
+Timing End 2012.
+Keys for success Engagement of SENELEC and adequate resources within SENELEC.
+Establishing good links and exchanges with other countries with
+experience of similar issues can also be valuable – IRENA can play a
+coordinating role in this. 
+Action 4 
+Promote small-scale production of biodiesel
+Action Promote small-scale production of biodiesel.
+Resource-Service pair(s) Biofuels for transport (and also electricity).
+Description Plans for production of biodiesel from the jatropha plant focus on
+small producers, but engagement by these producers is limited by
+lack of market structures and supply chains. Securing further
+production depends, among other factors, on the production
+technology available to farmers for biodiesel and the ability of farmers
+to secure financing for projects and sell their output. Actions to
+address this could include:
+R setting of the price at which farmers can sell output – this should
+be set with the finalisation of the implementing decrees on 
+biofuels;
+R establish markets for sale of output – as of 2013 this will be 
+supported in part by domestic blending mandates;
+R increase availability of financing for farmers wishing to invest in 
+production – this will require better understanding of the 
+technology and associated risks;
+R review of technology requirements for improved production, and
+subsequent dissemination of the technology and best practices;
+and
+R development of physical infrastructure as necessary to support 
+distribution of biofuels.
+Actors Comité National des Biocarburants (CNB), Directorate of Biofuels and
+Biomass, Ministry of Energy, Ministry of Agriculture, National Rural
+Councillors Association (ANCR), finance institutions.SENEGAL 6
+Timing Complete action plan by mid-2012.
+Keys for success Development of better understanding and awareness of biofuels 
+at all levels, including among farmers, government institutions 
+and the public.
+R Further work to understand the business model risks associated
+with various parts of the supply chain to help overcome barriers
+to micro-finance lending (e.g., for small-scale producers), 
+and dissemination of this work to finance and micro-finance 
+institutions.
+R Finalisation of terms on which farmers can sell their output.
+Action 5 
+Improve the institutional, legal and regulatory conditions and 
+modalities for utilising land in support of the National Biofuels Strategy
+Action Improve the institutional, legal and regulatory conditions and
+modalities for utilising land in support of the National Biofuels
+Strategy.
+Resource-Service pair(s) Biofuels for transport (and also electricity).
+Description In 2006, Senegal launched a National Biofuels Strategy, focusing
+on the production of ethanol and biodiesel. Under the strategy, the
+government aims to plant a total of 320 000 hectares of jatropha
+by 2012, with each of 320 rural communities planting 1 000
+hectares of jatropha seedlings provided by the government. These
+seeds will be used to produce a total of 1.2 billion litres of oil to
+meet petrol and diesel needs.
+Among other factors, realisation of these targets is dependent
+upon the availability of land for production, the distribution of high
+quality agricultural inputs and on maintaining production. In
+Senegal, this needs to take account of the complex structure of
+land rights. Associated actions are:
+R reviewing land requirements for the successful implementation 
+of the strategy (it will also be necessary to consider other 
+resources, such as water); 
+R identify land tenure rights wherever possible and incorporate 
+them into land availability assessments;68 RENEWABLE READINESS ASSESSMENT
+R Identify the potential for increased productivity through 
+technology advances and agricultural techniques, and how these
+can be secured; 
+R assess environmental, economic and social impacts of strategy 
+implementation – such assessments are currently conducted on
+a project-by-project basis; and
+R identify the extent and basis of private company participation.
+Actors Ministry of Agriculture, Ministry of Renewable Energy (Directorate
+of Biofuels and of Biomass), Village Community Organisations,
+Legal Advisor, ISRA and other agricultural research institutions,
+non-governmental organisations (NGOs).
+Timing Mid-2012.
+Keys for success Identification and addressing of public concern relating to land use
+pressures and associated conflicts;
+R Inclusive participation of all relevant actors throughout the 
+review; and
+R Understanding of current status of the strategy and its 
+implementation.
+Action 6
+Establishment of policy and institutional mechanisms 
+to increase private sector involvement in RE manufacturing
+Action Establishment of policy and institutional mechanisms to increase
+private sector involvement in RE manufacturing.
+Resource-Service pair(s) Off-grid and on-grid services, wind and solar resources.
+Description Senegal has significant experience in the deployment of certain
+renewable energy technologies (e.g., small-scale solar, wind for
+water pumping), and some domestic manufacturing capacity has
+grown up around this (most recently SPEC, an assembly facility for
+solar panels). There is also a considerable level of research capacity
+regarding manufacturing (e.g., design and development of solar
+pumping technology at CERER, the Centre d’Etudes et de
+Recherchessur les Energies Renouvelables). SENEGAL 6
+These strengths could be captured to further build manufacturing
+capacity in the country, thereby positioning Senegal as a supplier of
+technologies and facilitating local industrial development. As a first
+step, a round table of manufacturers and suppliers of technologies
+would provide a forum to identify their requirements and actions to
+address these. Other actions include:
+R finalising implementing decrees for renewable energy, including
+provisions relating to fiscal treatment of renewable energy 
+technologies. In addition to giving financial incentives, this would 
+also help to ensure market demand; 
+R identification of priority areas for development of 
+manufacturing capacity;
+R identification of training and education requirements to build the
+necessary skills for the development of the manufacturing sector;
+and
+R creating a forum to support collaboration between private 
+and research sectors.
+Actors Private sector manufacturers and suppliers of equipment, Ministry
+of Renewable Energy, Ministry of Industry, Ministry of Higher
+Education, Ministry of Technical Education, CERER and other
+research institutes, APIX, foreign investors.
+Timing 2012.
+Keys for success Participation of key actors and commitment by the 
+Government of Senegal;
+R Engagement with foreign investors and/or donors could help to
+secure financing for subsequent actions; and
+R Review of previous experience regarding manufacturing capacity
+and research, including success factors (e.g., regarding the 
+closure of the Industrial Society for Applications in Solar Energy).RENEWABLE READINESS ASSESSMENT
+Action 7 
+Establish institutional capacity and conditions for improving 
+O and M (Operation and Maintenance) of renewable energy technologies
+Action Establish institutional capacity and conditions for improving 
+O and M of off-grid renewable energy technologies.
+Resource-Service pair(s) Off-grid motive power (wind and solar); off-grid thermal power
+(solar).
+Description While Senegal has long-standing experience in the deployment of
+off-grid motive (primarily water pumping) and thermal (primarily
+water heating, also cooking and drying) power, the long-term
+lifetimes of each of these systems have been compromised by
+problems with O and M. In particular:
+R Motive Power: Experience of solar pumping has shown that in 
+cases where O and M services have been provided by third-party
+service companies and paid for by villages using funds from the
+sale of water, a number of weaknesses have occurred which need
+to be overcome to assure the viability and sustainability of 
+systems. In particular are the absence of a legal framework, 
+inadequate financial systems to ensure that customers honour 
+their bills and the low competence level of maintenance staff. 
+O and M problems are worse for wind than solar due to wind 
+technology having more moving parts. 
+R Thermal power: The small current market for new equipment 
+and small number of systems in operation make the market 
+unattractive to private sector suppliers. The absence of standards
+and quality testing for equipment entering Senegal compounds
+the difficulties in developing these applications.
+There is therefore a need to implement actions to improve 
+O and M provision. Improvements should be based on a review
+with the parties below and subsequent development and 
+implementation of a plan of action. Preliminary suggestions 
+include:
+R Both: Develop and fund training programmes to address 
+capacity gaps.SENEGAL 
+Motive Power: 
+R Define and formalise legal status and framework for service 
+providers
+R Incentivise deployment of hybrid technologies.
+Thermal Power:
+R Introduce standards for quality control testing and service 
+requirements; 
+R Identify and enable implementation of business models for 
+improved maintenance.
+Actors Both: Ministry of Renewable Energy, equipment manufacturers,
+training institutes.
+Motive Power: Village communities, service providers, equipment
+manufacturers, Ministry of Renewable Energy, Ministry of
+Hydrology, donors.
+Thermal Power: Private sector suppliers, equipment providers,
+Agency for Standards.
+Timing Mid-2013.
+Keys for success Understanding the motivation of all actors in the supply chain and
+providing incentives for them to act as desired; existence of
+sufficient organisations with the knowledge, capacity and interest
+to provide services; general support to the development of markets
+for off-grid motive and thermal power.RENEWABLE READINESS ASSESSMENT
+Action 8 
+Elaborate and implement a strategy for 
+comprehensive mapping of resources in key areas
+Action Elaborate a process for comprehensive mapping of resources 
+in key areas.
+Resource-Service pair(s) Wind, solar and bioenergy, for all applications.
+Description There is currently a broad-based understanding of resource
+availability and potential, but this is generally insufficient to enable
+project development or a comprehensive assessment of potential.
+Similarly, there is some data collection from actual projects, but this
+is neither comprehensive nor centralised. 
+Comprehensive data will facilitate the implementation of the draft
+renewable energy strategy and future project development.
+Particular gaps exist in the areas of solar, wind and biofuels;
+benefits could also be gained from an assessment of bioenergy
+potential. Likely actions in implementing a mapping process could
+include:
+R engaging with existing initiatives for data collection, including 
+observatory currently being established by the ECOWAS 
+Regional Centre for Renewable Energy and Energy Efficiency 
+(ECREEE);
+R identify precise requirements for resource mapping, based on 
+priority areas for renewable energy development; 
+R establish a plan for collection of data; and
+R explore the potential for funding ground measurement 
+campaigns with multilateral/bilateral organisations .
+Actors Ministry of Energy, Ministry of Renewable Energy, ECREEE, project
+developers, CERER and other research institutes, donors.
+Timing Mid-2012 for definition of requirements and establishing protocol,
+ongoing for data collection.
+Keys for success Technical and human resources available for data collection,
+identifying and securing funds for data collection, establishing a
+protocol for sharing data. SENEGAL 
+Photo Courtesy: INENSUS West Africa S.A.R.LTHIS FIRST PILOT STUDY IN SENEGAL
+HAS IDENTIFIED A NUMBER OF AREAS
+IN WHICH SENEGAL CAN TAKE ACTION
+TO IMPROVE READINESS FOR THE
+DEPLOYMENT OF RENEWABLES. 
+MANY OF THESE ACTIONS CAN BE
+TAKEN IN THE NEAR TERM, BUILDING
+ON THE MOMENTUM THAT HAS
+ALREADY BEEN ESTABLISHED IN 
+THE COUNTRY THROUGH RECENT
+INSTITUTIONAL DEVELOPMENTS IN
+SUPPORT OF RENEWABLE ENERGY. International Renewable Energy Agency
+C67 Office Building
+Khalidiyah [32nd] Street
+PO Box 236, Abu Dhabi
+United Arab Emirates
+www.irena.org
+Copyright 2012

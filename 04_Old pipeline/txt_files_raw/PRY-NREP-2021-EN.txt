@@ -1,0 +1,2675 @@
+File Name: PRY-NREP-2021-EN
+Year: 2021
+Country Name: Paraguay
+Country Code: PRY
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2021
+Start Year: 2021
+End Year: 2050
+Language: EN
+------------------------------------------------
+
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed 
+and/or stored, provided that appropriate acknowledgement is given of IRENA as the source and copyright 
+holder. Material in this publication that is attributed to third parties may be subject to separate terms of 
+use and restrictions, and appropriate permissions from these third parties may need to be secured before 
+any use of such material.
+Citation:
+IRENA (2021), IRENA Renewable Readiness Assessment: Paraguay, International Renewable Energy Agency, 
+Abu Dhabi.
+ISBN: 978-92-9260-357-1
+About IRENA
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation 
+that supports countries in their transition to a sustainable energy future, and serves as the 
+principal platform for international co-operation, a centre of excellence, and a repository of 
+policy, technology, resource and financial knowledge on renewable energy. IRENA promotes the 
+widespread adoption and sustainable use of all forms of renewable energy, including bioenergy, 
+geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable development, 
+energy access, energy security and low-carbon economic growth and prosperity. 
+www.irena.org
+Acknowledgements
+This report was prepared by IRENA in close collaboration with the Government of the Republic 
+of Paraguay, through the Ministry of Public Works and Communications (MOPC), represented by 
+the Vice-Ministry of Mines and Energy (VMME). Special thanks are also due to officials, especially 
+those from National Electricity Administration (ANDE), Itaipu Binational, Ministry of Environment 
+and Sustainable Development (MADES), Ministry of Foreign Affairs (MRE), Ministry of Industry 
+and Trade (MIC), and Technical Secretary of Planning and Economic Development (STP). 
+This report benefited from the inputs of various experts, most notably Roberto Aiello (IDB), 
+Guillermo Koutoudjian (OLADE), Ludmilla Diniz, Roberto Cespedes, Veronique Gerard (UNDP). 
+IRENA colleagues including Diala Hawila, Paul Komor and Ute Collier also provided valuable 
+guidance and input. 
+This report was developed under the guidance of Gürbüz Gönül and Binu Parthan (IRENA) and 
+authored by Fabian Barrera (IRENA), José Torón (IRENA), Edna Soto (IRENA), Fernando Anaya 
+(IRENA Consultant) and Fabio Lucantonio (IRENA Consultant). 
+Report available for download: www.irena.org/publications 
+For further information or to provide feedback: publications@irena.org
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the 
+reliability of the material in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party content 
+providers provides a warranty of any kind, either expressed or implied, and they accept no responsibility or liability for any consequence 
+of use of the publication or material herein. 
+The information contained herein does not necessarily represent the views of all Members of IRENA. The mention of specific companies 
+or certain projects or products does not imply that they are endorsed or recommended by IRENA in preference to others of a similar 
+nature that are not mentionedThe designations employed and the presentation of material herein do not imply the expression of PARAGUAY
+Renewables 
+Readiness 
+AssessmentParaguay’s main renewable energy resource is hydropower, thanks to the great resource potential 
+offered by the Paraná and Acaray rivers and the tributaries that it shares with neighbouring countries. 
+The development of the country’s electricity sector is planned and executed by the National Electricity 
+Administration (Administración Nacional de Electricidad, ANDE), a vertically integrated state-owned 
+company. ANDE has carried out large investments in infrastructure, enabling electricity coverage for more 
+than 99% of the population in addition to supporting economic development and supplying growing 
+electricity demand. The local industries that produce ethanol and biodiesel also play an important role as 
+renewable and sustainable energy sources, supplying around 7% of the fuel demand for road transport.
+According to a study on energy prospects developed by the Vice-Ministry of Mines and Energy of the 
+Ministry of Public Works and Communications (VMME-MOPC), the existing power supply will be surpassed 
+in the medium term due to increased and sustained demand. Therefore, one of the most important 
+challenges is diversifying the energy mix through the deployment of renewable energy sources. The 
+invaluable support and recommendations of the International Renewable Energy Agency (IRENA) have 
+contributed to the development of this report, which identifies the conditions for the wide implementation 
+and use of renewables in Paraguay’s national territory.
+Paraguay has adopted various international climate commitments, such as the Paris Agreement, in the 
+fight against climate change. These commitments are reflected in the guidelines provided by the 2040 
+Energy Policy of the Republic of Paraguay, which aims to promote the use of alternative energy sources, 
+encouraging energy projects to mitigate and adapt to the effects of climate change, as well as to implement 
+environmental services.
+The VMME-MOPC, which is responsible for the implementation of energy policy, is the key actor to follow 
+up on this Renewables Readiness Assessment (RRA). The actions described in the report will lay the 
+foundations to make the necessary adjustments and further promote the optimal exploitation of Paraguay’s 
+endowed renewable resources, helping to incorporate renewable technologies into the energy system in 
+the most efficient way.
+We express our gratitude to IRENA and to all the people who participated in this assessment. In addition, 
+we ratify our commitment to developing initiatives that allow for the deployment of renewable energy 
+and that position Paraguay, thanks to its strategic geographical location, as a pivotal country for regional 
+energy integration based on the sustainable use of its natural resources.
+Arnoldo Wiens Durksen
+Minister of Public Works and Communications
+Paraguay
+Foreword
+From the Minister of
+Public Works and
+CommunicationsThe Republic of Paraguay is a global leader in the use of renewable energy, with hydropower providing 
+most of its electricity generation, an important renewable energy source in Latin America. The country has 
+also successfully developed bi-national power generation projects, promoting the wider deployment of 
+renewables, and supporting the region’s sustainable energy future.
+In recent years, the share of fossil fuels in Paraguay’s energy mix has grown. The country’s increasing 
+dependence on these fuels has resulted in rising greenhouse gas emissions from the energy sector, adversely 
+affecting Paraguay’s energy security and climate commitments. This fossil fuel use is driven mainly by the 
+transport sector, opening an opportunity to discuss the potential deployment of renewables and lowcarbon technologies beyond power generation that would lead towards decarbonisation of the energy 
+sector. Already, the effects of climate change have impacted the country’s power generation, affecting not 
+only the supply but also revenues from electricity exports. Thus, the need to diversify the energy mix has 
+become a key driver for the promotion of clean energy technologies.
+These aspects are clearly highlighted in Paraguay’s National Energy Policy 2016-2040 and, more recently, in 
+concrete actions outlined in the Energy Agenda 2019-2023, which focuses on the key pillars for enhancing 
+energy security through the use of renewables, encouraging renewable-powered electrification and 
+promoting sustainable mobility. These key components aim to support the economic growth of the country 
+in line with the 2030 Sustainable Development Goals.
+The RRA process has been led by the Ministry of Public Works and Communications, represented by the 
+Vice Ministry of Mines and Energy (VMME) in co-operation with IRENA. The consultation process of the 
+RRA involved a co-ordinated dialogue among the most relevant national energy institutions in Paraguay, 
+as well as regional partners working in the country, identifying key actions to expand renewable energy 
+development. These examine Paraguay’s energy institutions and their governance, long-term energy 
+planning practices, and the socio-economic benefits of promoting renewable and low-carbon technologies 
+in the end-use sectors. The RRA process took place in synergy with the country’s revision of its National 
+Determined Contribution (NDC). The report highlights the strong link between diversifying the energy mix, 
+scaling up renewable energy use, and promoting low-carbon technologies such as green hydrogen and 
+electric vehicles, alongside climate action.
+Foreword
+from the IRENA
+Director-GeneralThe Renewables Readiness Assessment (RRA) aims to contribute to the country’s pathway towards carbon 
+neutrality. It identifies short- and medium-term actions that would enable the accelerated deployment of 
+indigenous renewable energy technologies, facilitate meeting the Paris Agreement commitments while 
+supporting economic growth. Since 2011, nearly 40 countries, spanning Latin America and the Caribbean, 
+Africa, the Middle East, Asia and the Pacific have undertaken RRAs, exchanging knowledge and fostering 
+international co-operation to accelerate the deployment of renewables. 
+IRENA wishes to thank the team from the Vice-Ministry for its support and collaboration during the RRA 
+process. We also recognise the active participation of government agencies, and national and regional 
+stakeholders during the discussion part of this study. IRENA will continue to support the Government of 
+Paraguay in the implementation stage of the recommendations identified herein and looks forward to 
+continuing a close collaboration with all the country stakeholders to bring these actions to reality.
+I am convinced that the recommendations from this RRA will strongly contribute to the decarbonisation of 
+Paraguay’s energy sector, enhancing economic growth, supporting ambitious climate action and improving 
+the welfare of the population. IRENA will continue to support the country’s transition towards a net zero 
+future. 
+Francesco La Camera
+Director-General, IRENAContents
+Figures 9
+Tables 9
+Boxes 9
+Abbreviations 10
+Executive summary 12
+Introduction 16
+Country profile 16
+Renewables Readiness Assessment (RRA) 19
+Energy context 20
+Energy sector overview 20
+Power sector 24
+Energy sector institutions 31
+Legal and regulatory framework 33
+Energy and climate action 36
+Promoting sustainable development 39
+Renewable energy development 41
+Drivers of renewable energy deployment 41
+Renewable energy resources 43
+Renewable energy financing 47
+Professional and institutional capabilities 50
+2
+1
+34 Challenges and Recommendations 52
+Strengthen institutional structure and governance in energy 52
+Enhance planning, policy and the regulatory framework for renewable energy 54
+Develop policy instruments and implementing initiatives to foster energy efficiency 57
+Promote the use of renewable energy beyond the power sector 57
+Foster investment in renewable energy technologies 60
+Reinforce the continuous creation of institutional and human capacities 61
+5 References 62Figures
+Figure 1 Annual population growth, 
+2000-2020 16
+Figure 2 Paraguay GDP growth (annual 
+%), 2000-2020 17
+Figure 3 Total energy supply in 
+Paraguay, 2010-2019 20
+Figure 4 Total final energy consumption 
+by sector, 2010-2019 22
+Figure 5 Total final energy consumption 
+by source, 2010 and 2019 23
+Figure 6 Shares of renewables in the 
+total final energy supply in 
+Paraguay, 2010-2019 23
+Figure 7 Total production and domestic 
+consumption of electricity, 
+2001-2019 25
+Figure 8 Final electricity consumption 
+by sector, 2001-2019 26
+Figure 9 Exports from hydropower 
+plants, 2008-2019 27
+Figure 10 Transmission system in 
+Paraguay 28
+Figure 11 Electricity rates, 2019 30
+Figure 12 Institutional structure of the 
+VMME 31
+Figure 13 Carbon dioxide emissions by 
+source, 2010-2019 36
+Figure 14 Renewable energy components 
+of NDCs, as of the first quarter 
+of 2021 38
+Figure 15 Onshore wind speed zoning 
+assessment 44
+Figure 16 Solar PV horizontal irradiation 
+assessment 45
+Figure 17 Generation of urban organic 
+waste by department 46
+Table 1 Relevant indicators related 
+to energy, transport and the 
+environment 18
+Table 2 Main bioethanol producing 
+companies 21
+Table 3 Supply of forest biomass for 
+energy purposes 21
+Table 4 Installed power capacity,
+2020 24
+Table 5 Selected variable renewable 
+energy projects in Paraguay 24
+Table 6 Subsidies applied to electricity 
+tariffs, 2010-2019 30
+Table 7 Priority activities from the 
+energy strategic framework 40
+Table 8 Drivers and expected impacts 
+of renewable energy in 
+Paraguay 43
+Table 9 Recent energy-related projects 
+financed in Paraguay 48
+Table 10 Additional renewable capacity 
+by 2025 49
+Tables
+Box 1 Renewable energy in the 
+energy matrix 23
+Box 2 Promoting energy efficiency in 
+Paraguay 35
+Box 3 IRENA’s climate action with 
+renewables: Enhancing 
+Nationally Determined 
+Contributions (NDCs) 38
+Box 4 Promoting green hydrogen in 
+Paraguay 59
+BoxesAbbreviations
+°C Degrees Celsius
+AECID Spanish Agency for International Development Cooperation
+AFD Paraguay’s Development Finance Agency
+ANDE National Electricity Administration
+ARPEL Association of Oil, Gas and Biofuels in Latin America and the Caribbean
+AZPA Paraguayan sugar company S.A.
+CAF Development Bank of Latin America
+CIER Regional Energy Integration Commission
+CNEE National Committee for Energy Efficiency 
+CO2 Carbon dioxide
+CONACYT National Council of Science and Technology
+CONAPTIE National Council for Independent Production and Transport of Energy
+COVID-19 Coronavirus disease
+DGEEC General Directorate of Statistics, Surveys and Census (National Institute of Statistics)
+DRE Directorate of Energy Resources
+EEP Energy Efficiency Plan
+FAO Food and Agriculture Organization of the United Nations
+GCF Green Climate Fund
+GDP Gross domestic product
+Gg Gigagram
+GWh Gigawatt hour
+IDB Inter-American Development Bank 
+INPASA Paraguayan Alcohol Industry S.A.
+IRENA International Renewable Energy Agency
+KfW German state-owned Development Bank
+kTCO2e Kilotonne of carbon dioxide emissions equivalent 
+kV Kilovolt
+kW Kilowatt
+kWh Kilowatt hour
+LCOE Levelised cost of electricityLPG Liquefied petroleum gas
+LTS Long-term strategies
+m3 Cubic metre
+MADES Ministry of Environment and Sustainable Development
+MERCOSUR Southern Common Market
+MIC Ministry of Industry and Trade
+MITIC Ministry of Information Technologies and Communications
+MoPaDual Paraguayan Model of Dual Vocational Training
+MOPC Ministry of Public Works and Communications
+MW Megawatt
+NAMA Nationally Appropriate Mitigation Action
+NAPA National Adaptation Program of Action
+NDC Nationally Determined Contribution
+OLADE Latin American Energy Organization
+PETROPAR Petróleos Paraguayos National Oil Company
+PJ Petajoule
+PROEZA Poverty, Reforestation, Energy and Climate Change Project
+PV Photovoltaic
+PYG Paraguayan Guaraní
+RRA Renewables Readiness Assessment
+SDG Sustainable Development Goal
+SIN National Interconnected System
+SNPP National Service for Professional Promotion
+STP Technical Secretary of Planning and Economic Development 
+TFEC Total final energy consumption 
+UN United Nations
+UNDP United Nations Development Programme
+UNFCCC United Nations Framework Convention on Climate Change
+USD United States dollar
+VMME Vice-Ministry of Mines and Energy
+µg MicrogramExecutive summary
+The energy mix of the Republic of Paraguay is dominated by clean energy sources, with one of the highest 
+shares of renewable energy in South America. Hydropower accounts for the largest share of the country’s 
+power generation, representing around 99.5% of the installed power capacity. Consequently, Paraguay is 
+highly dependent on the hydrological conditions of the rivers that feed the main hydropower plants of the 
+country, where most of the electricity produced is exported to neighbouring countries.
+Paraguay’s economy is based mainly on agriculture, livestock and the services sector, which has been 
+growing in recent years. However, the global crisis caused by the COVID-19 pandemic has affected the 
+country’s economy, reducing its Gross Domestic Product (GDP) by around 1% during 2020. Regardless of 
+persistent challenges, Paraguay has experienced social and economic progress over the last two decades, 
+with national policies and strategies increasingly contributing to the achievement of the Sustainable 
+Development Goals (SDGs) and reiterating Paraguay’s commitment to reducing its greenhouse gas 
+emissions by 2030. Advances include the ratification of the Paris Agreement in 2016, the National Climate 
+Change Law of 2017, and the updated Nationally Determined Contribution (NDC) under the Paris Agreement 
+submitted in July 2021.
+Paraguay’s renewable energy resources are vast and diverse and have an important role in enhancing 
+energy security, mitigating climate change and promoting economic growth aligned to the United Nations 
+2030 Agenda for Sustainable Development and to the net zero objectives of the Paris Agreement. By 2020, 
+renewables had reached a total installed capacity around 8 832 megawatts (MW). Hydropower capacity 
+alone accounted for 8 810 MW and bioenergy for 22 MW. Despite renewables being the largest source of 
+Paraguay’s total energy supply, emissions have been increasing gradually due to the growing use of fossil 
+fuels, mainly in the transport sector. During the period of 2010-2019, the import of oil derivatives (mostly 
+petrol and diesel) increased rapidly, an average annual growth of 5.1%, making it the second-largest source 
+of energy in the country. 
+Paraguay sees the need to encourage the diversification of its energy mix through the adoption of renewable 
+energy and net zero technologies. This would contribute to the decarbonisation of end-use sectors, the 
+mitigation of greenhouse gas emissions, the promotion of energy efficiency, and the achievement of net 
+zero emissions, while attracting investment and bringing diverse socio-economic benefits to the country’s 
+population.
+These aspects are clearly highlighted in the National Energy Policy 2016-2040, which promotes the use 
+of Paraguay’s endowed renewable energy sources to improve energy access, enhance energy security, 
+implement energy efficiency and, thanks to its geographical position and to existing bi-national 
+hydropower projects, consolidate the country’s key role in regional energy integration. The national 
+energy policy also provides clear implementation guidelines that are leveraged in the recently developed
+Sustainable Energy Agenda 2019-2023. The agenda focuses its efforts on promoting sustainable mobility, 
+with the aim of greatly reducing imports of oil derivatives to the country. Likewise, the National Development 
+Plan 2030 highlights the crucial role that renewable energy will play in increasing national income and 
+contributing to the sustainable development of the country.
+The Renewables Readiness Assessment (RRA) process for Paraguay has identified key actions for accelerating 
+the deployment of renewable energy in the country. The consultative process led by the Ministry of Public 
+Works and Communications, represented by the Vice-Ministry of Mines and Energy (VMME), and facilitated 
+by the International Renewable Energy Agency (IRENA), aims to help unlock Paraguay’s renewable energy 
+potential. The identified actions are grouped in six areas, where the main challenges have been identified.Challenges and key recommendations
+1. Strengthen energy institutions and governance 
+Paraguay’s current institutions face capacity constraints to guarantee the rapid implementation of policies, 
+programmes and strategies in the energy sector. The key energy institutions require additional human 
+resources, capabilities and budgetary resources in order to lead multi-sectoral responsibilities, implement 
+national energy programmes and provide technical assistance in the design of business models, installation, 
+maintenance and certification of renewable energy technologies. 
+Therefore, it is essential to prioritise enhancing the governance of energy institutions in the country by 
+strengthening capacities and increasing the budgets of existing entities or creating specialised agencies 
+to implement strategic pillars of the energy policy, such as energy efficiency and renewable energy. For 
+instance, a short- to medium-term approach could reside in the creation of an Energy Committee as a 
+transitory measure towards the eventual creation of a leading institution for the energy sector, such as a 
+Ministry of Energy. This Committee would enhance co-ordination among the different institutions of the 
+energy sector, following up on implementation of the National Energy Policy and assessing the potential 
+benefits of energy reforms in the country. 
+Furthermore, Paraguay needs to establish an independent regulatory environment, either by increasing 
+this capacity in an existing institution or by considering granting these responsibilities to a new one. The 
+regulatory body should guarantee adequate and independent supervision of different aspects of the 
+energy sector and work closely with the key energy institutions in the country. Additionally, there is a 
+need to streamline administrative procedures when granting permits and concessions to accelerate the 
+deployment of renewable energy projects. The creation of a “single-window agency”, as an independent 
+legal body or under the mandate of an existing institution, can facilitate more efficient and rapid awarding 
+of licences for faster advancement of renewable energy projects. 
+2. Enhance planning, policy and the regulatory frameworkfor renewable energy
+The development of the energy sector in Paraguay requires better guidance given by a robust national 
+energy plan that includes clear guidelines for all end-use sectors, including power, transport, industry and 
+buildings. The current planning responsibilities in the country are scattered among different institutions, 
+hindering utilisation of the full renewable energy potential in the country. Likewise, the Paraguayan energy 
+sector would benefit from the definition of clear renewable energy targets beyond the power sector – 
+which could integrate the economic, social, environmental and governance dimensions of sustainable 
+development – as well as from a clear linkage and contribution to climate action in the framework of the 
+NDCs and the Long-Term Strategy (LTS).
+The Paraguayan renewable energy sector has a strong nexus with different aspects of the SDGs and having 
+a clear link to these goals would benefit the achievement of a sustainable energy future and net zero 
+emissions by 2050. The development of a cross-cutting strategy highlighting the nexus areas of the energy 
+sector with the SDGs would position the sector as a national priority and highlight its contributions towards 
+improved land use, modernisation of the agricultural sector and women’s empowerment, among others.
+Furthermore, there is a need to prioritise actions to establish clear enabling frameworks for the development 
+of renewable energy projects in the country. Creating transparent and effective rules and legislation for 
+renewable energy projects – including incentives, regulations and guarantees – could help attract new 
+investments into the country.3. Develop policy instruments and implementing initiatives to foster energy efficiency
+Energy efficiency is one of the pillars of the country’s National Energy Policy, and some actions have been 
+implemented to foster more efficient use of energy in Paraguay. For instance, the country has developed 
+an inter-ministerial co-ordination mechanism and has established guidelines across the economic sector 
+through the National Energy Efficiency Committee (CNEE) as well as the development of a National Energy 
+Efficiency Plan.
+However, these efforts have not yet led to concrete outcomes, and energy efficiency still requires wider 
+promotion and targeted implementation in the country. The development of legislation on energy efficiency 
+can provide conditions for the implementation of targets and clear initiatives throughout different sectors, 
+including buildings, transport, industry, etc., while promoting the adoption of renewable energy and energy 
+efficiency technologies for different applications. Moreover, there is a need for programmes that raise 
+general public awareness about the responsible use of energy, helping to shift the prevailing view that 
+the country has infinite hydropower resources. The development of integral policies that offer a more 
+relevant role for the population in its approach to energy consumption could favour raising awareness 
+about responsible energy use in Paraguay.
+4. Promote the use of renewable energy beyond the power sector
+The deployment of renewable energy can benefit many different sectors in the country, by assessing the 
+potential and impact of clean energy technologies in end-use sectors such as transport, industry, buildings, 
+etc. Nevertheless, institutional co-ordination to execute cross-cutting strategies demands co-ordination 
+among ministries and vertical coherence across other government institutions. 
+Paraguay has a rich diversity of renewable energy resources that have not yet been clearly assessed and 
+developing resource maps could help in the identification of zones with potential for the development 
+of renewable energy projects that serve power generation or other applications. Additionally, it would 
+be beneficial for Paraguay to develop roadmaps that assess the potential penetration of clean energy 
+technologies, highlighting the diverse benefits brought about by these types of projects, such as enhanced 
+food security, the mitigation of emissions from the transport sector, the modernisation of the industrial 
+sector, among others. 
+The development of roadmaps across different sectors will require strengthening institutional and 
+stakeholder co-ordination beyond the power sector, with the aim of having all relevant actors involved and 
+committed to moving forward the actions identified in the roadmap. The institutional co-ordination could 
+also fill the need to assess the capacity to invest in low-carbon technologies and to design business models 
+to install and deploy renewable energy technologies. Likewise, Paraguay can leverage its work on existing 
+regional initiatives to foster international cooperation for the promotion of renewables and contribute to 
+the regional energy integration in Latin America.
+5. Foster investment in renewable energy technologies
+Paraguay’s strengthened macroeconomic framework is based on fiscal rules, inflation reduction targets, low 
+public debt and adequate foreign exchange reserves. At the beginning of 2020, its favourable investment 
+conditions positioned it among the five countries in Latin America with the lowest risk premium. However, 
+the country faces challenges to attract investments in certain areas of the energy sector. 
+To accelerate investments in renewable and energy efficiency projects in Paraguay, direct incentives can be 
+created in the form of tax exemptions and discounts for high-efficiency and renewable energy equipment, 
+among others. Additionally, the country can consider providing technical assistance to study the economies 
+of scale for developing the use of renewable energy in strategic sectors, to support the organisation and 
+professional development of small- and medium-sized enterprises, and to create capacities in commercial 
+banks and borrowers to increase access to financing.More financing opportunities should be created in the country to boost the rapid development of renewable 
+energy projects. For instance, guarantees, credit lines and other dedicated financing mechanisms can 
+help attract the interest of project developers and investors. Additionally, climate finance support from 
+international institutions should be considered for the development of renewable energy and energy 
+efficiency projects.
+6. Reinforce the continuous creation of institutional and human capacities 
+Currently, Paraguay is experiencing an imbalance between supply and demand for trained personnel 
+with skills in energy-related activities, including energy policy, regulation, installation and maintenance of 
+renewable energy systems, certification of technologies and project development, among others. 
+It is necessary to map the labour skills that are in demand and to develop adequate education, capacitybuilding programmes and training to satisfy the growing demand of professionals and technicians in the 
+energy sector. This can be done in collaboration with academia, by identifying current and future skills 
+needed in the energy sector and reinforcing existing educational programmes.
+Collaboration among the different stakeholders from the public and private sectors involved in the 
+development process of the RRA will be key in bringing these actions to reality. The implementation of 
+these steps is expected to pave the way for the energy transition and associated climate action in Paraguay.
+View of a sugar cane factory in Troche, Paraguay.
+Image credit: Shutterstock1. Introduction
+Country profile
+The Republic of Paraguay is located in central South America and bordered by Argentina, Bolivia and 
+Brazil. The country has a landlocked area of 406 752 square kilometres, divided into two natural regions 
+by the Paraguay River. The eastern zone contains 90% of the population, while the western zone, known 
+as the Paraguayan Chaco, represents 60% of the territorial surface. The eastern region is dominated by 
+the Amambay, Mbaracayú and Caaguazú mountain ranges. The Paraguay River is the main fluvial system, 
+navigable by deep-sea vessels from Paraná to Asunción and by medium-sized fleets from Asunción to 
+Corumbá (Brazil). The next largest river is the Paraná River, which extends for 679 kilometres bordering the 
+east-south limits of Paraguay.
+Paraguay’s population, estimated at 7.3 million, is growing at an average annual rate of 1.5%, exceeding the 
+1% average annual growth rate for Latin America and the Caribbean overall (Figure 1). Of this population, 
+62.5% is located in urban areas and 37.5% in rural areas (DGEEC, 2015). The most populated cities are 
+Asunción and Ciudad del Este in Alto Paraná. In 2018, the Human Development Index value for Paraguay 
+was 0.72, below the regional average of 0.76 for Latin America and the Caribbean, ranking Paraguay in 98th 
+place out of 198 countries worldwide.
+Figure 1. Annual population growth, 2000-2020
+Source: World Bank, 2020a
+0.00%
+0.50%
+1.00%
+1.50%
+2.00%
+Year
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+Paraguay Latin America & Caribbean
+Population growth (annual %)By the end of 2019, 99.95% of the population had access to electricity, and 69% used modern energy sources 
+– such as liquefied petroleum gas (LPG) or electricity – for cooking purposes (ANDE, 2019a). Between 2015 
+and 2016, the country’s energy intensity (energy consumption per unit of gross domestic product, (GDP) 
+decreased by 1.85%, from 10 267 kilojoules per USD to 10 080 kilojoules per USD (DGEEC, 2015).
+In October 2015, the Government of Paraguay submitted its Nationally Determined Contribution (NDC) to 
+the United Nations Framework Convention on Climate Change (UNFCCC). The NDC established a global 
+target for reducing the country’s greenhouse gas emissions of 20% by 2030 (10% conditional and 10% 
+unconditional), using the year 2000 as a baseline (UNFCCC, 2016). In July 2021, Paraguay submitted 
+an updated NDC, which ratifies the commitments presented in the first NDC. The revised NDC includes 
+cross-cutting axes used for the generation of instruments necessary to manage climate risk, regulatory 
+aspects, gender perspectives, inclusion of indigenous people, climate empowerment and promotion of the 
+United Nations’ Sustainable Development Goals (SDGs) by 2030. The energy sector is presented with three 
+objectives, aimed at: 1) improving electricity services, 2) conserving water basins where hydroelectricity is 
+generated, and 3) developing and promoting alternative energy sources (UNFCCC, 2021). 
+Between 2012 and 2019, the transport sector expanded steadily. The motorcycle fleet grew at an average 
+annual rate of 16.3%, followed by cars (11.6%), buses (4.6%) and trucks (6.6%). In 2015, the country generated 
+close to 50 000 kilotonnes of carbon dioxide equivalent (CO2e), with the energy sector (mainly transport) 
+accounting for 12% of total CO2 emissions (SIEN, 2019). 
+In 2019, Paraguay ranked fourth in competitiveness among the Southern Common Market (MERCOSUR) 
+countries, its main strength being macroeconomic stability based on the fulfilment of inflation targets and 
+prudential levels of debt (DECI, 2019). It achieved a GDP per capita of USD 12 684. For the period 1999-
+2020, the country’s GDP grew at an average annual rate of 2.93% (World Bank, 2020b) (Figure 2), which 
+fell to -1.0% in 2020 due to the COVID-19 pandemic; meanwhile, the share of the population in poverty1 
+declined from 44.7% in 1999 to 23.5% in 2019 (DGEEC, 2019). The services sector contributes the largest 
+share of GDP, at 32% in 2018, followed by agriculture and livestock (including meat and dairy) at 14.8%, 
+trading at 11.7%, and electricity and water at 8.8% (BCP, 2019).
+1 The poverty line corresponds to the population with incomes lower than the estimated basic basket of consumption. For 2019, the values were estimated at USD 101 for urban areas
+and USD 72 for rural areas.
+Figure 2. Paraguay GDP growth (annual %), 2000-2020
+Source: World Bank, 2020b
+-10
+0
+10
+20
+30
+40
+50
+60
+70
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+-2.3 -0.8-0.02
+4.3
+4.1 2.1
+4.8
+5.4
+6.5
+11.1
+4.3
+-0.7
+-0.3
+8.3
+5.3
+3.0
+4.3
+4.8
+3.2
+-0.4 -1.0
+GDP accumulated (%)
+YearIn 2019, climate phenomena such as droughts affected agricultural production and electricity generation in 
+some areas, while the country was also affected by heavy rains that caused floods and impacted livestock 
+production and the construction sector, with effects on the national economy (ECLAC, 2019). Table 1 shows 
+the main indicators related to the energy, transport and environment sectors.
+Source: SIEN, 2019; VMME, 2016; MADES, 2019, 2021; DRA, 2021; IRENA, 2021a 
+Table 1. Relevant indicators related to energy and the environment
+Energy consumption from fossil 
+fuels (2019) 40%
+Electricity generation capacity 
+(2019) 8 848 MW
+Electricity production 
+(2019) 49 456 GWh
+Electricity production from 
+renewable sources (2019) 99.5%
+Growth of the vehicle fleet 
+(2012-2019) 215.9%
+Growth of the motorcycle fleet 
+(2012-2019) 287.2%
+Growth of the bus fleet (including 
+minibuses) (2012-2019) 123.4%
+Growth of the truck fleet
+(2012-2019) 34%
+NDC’s aspiration for greenhouse 
+gas emission reduction by 2030 20%
+Number of hectares of new forest 
+plantations by 2030 (in thousands) 160 
+Number of energy efficiency 
+programmes to be implemented 
+by 2030
+3
+Total greenhouse gas emissions2
+(2015) 51 293 kTCO2
+e
+Share of greenhouse gas emissions 
+from the energy sector (2015) 12%
+Particulate matter (PM2.5) 
+emissions, City of Asunción (2018) 30 g/m3
+The National Development Plan for 2030 proposes strategies to guarantee employment, social security, 
+competitiveness, innovation, product diversification and the valorisation of environmental capital. 
+The energy policy framework promotes new developments on renewables through sustainable production 
+of energy and direct use of natural resources. For this purpose, Paraguay aims at taking advantage of 
+alternative energy sources such as solar and wind energy, in addition to further developments in small 
+and large hydropower. The policy also proposes strengthening energy research and innovation and the 
+country’s resource management capacity (for details, see section 2.4).
+2 Includes carbon dioxide, methane and nitrous oxide.Renewables Readiness Assessment (RRA)
+The RRA is a country-led consultative process developed by the International Renewable Energy Agency 
+(IRENA) to identify appropriate policy and regulatory choices that support an accelerated transition 
+towards renewable energy and low-carbon technologies in all energy sector applications.
+The RRA Paraguay has been initiated by the Ministry of Public Works and Communications, represented by 
+the Vice-Ministry of Mines and Energy (VMME) in co-operation with IRENA, with a view to supporting the 
+country’s efforts in enabling the wider penetration of various renewable energy technologies.
+IRENA developed the RRA as a tool for carrying out a comprehensive evaluation of the conditions for 
+renewable energy deployment in a particular country. The RRA provides a venue for multi-stakeholder 
+dialogue to identify existing challenges for renewable energy deployment and devise solutions to overcome 
+existing barriers.
+Short and medium-term recommendations are presented to governments for the structuring of new 
+policies or or reform existing ones and establish a more conducive enabling environment for renewable 
+energy deployment. The RRA also consolidates existing efforts and mobilises resources for priority action. 
+Since 2011, the RRA methodology has been used to conduct more than 40 country assessments, often 
+resulting in extensive stakeholder engagement and improvements in policies and institutional frameworks.
+The RRA process in Paraguay started with a literature review of research in the energy sector and interviews 
+with key stakeholders from government institutions, regional partners, academia and the private sector. 
+The process continued with the hosting of a Consultation Workshop in February 2021 to discuss the main 
+challenges hindering the accelerated deployment of renewable energy in Paraguay. 
+A series of recommendations were then developed and presented to the country’s stakeholders during 
+a Validation Workshop in May 2021, aiming to validate the short- and medium-term proposed actions 
+streaming from this study. Workshops and meetings with experts and agents from relevant sectors such as 
+transport, energy, industry and agriculture were conducted throughout 2020 and 2021 in a hybrid setting, 
+combining on-site and virtual meetings due to COVID-19-related measures.
+The RRA Paraguay has a strong focus on promoting diversification of the energy mix and the use of 
+renewable energy and low-carbon technologies beyond the power sector, linking the potential socioeconomic benefits and contribution to the UN 2030 Agenda for Sustainable Development, and climate 
+action from the Paraguayan energy sector.2. Energy Conext
+Energy sector overview
+Energy supply
+The energy supply in Paraguay is dominated mainly by hydrologic and biomass resources, which 
+represented 41.0% and 36.8%, respectively, of energy use in 2019. Between 2010 and 2019, energy supply 
+grew at an average annual rate of 1.3%, to reach a total of 457.4 petajoules (PJ) in 2019 (Figure 3). There are 
+no recorded imports of crude oil since the closing of the operations of the Petróleos Paraguayos refinery 
+(PETROPAR) in 2005. Paraguay depends heavily on imports of oil derivatives, mostly petrol and diesel, 
+which account for nearly 90% of liquid fuel imports. The import of oil derivatives has increased rapidly 
+in recent years, growing 5.1% annually on average during the period 2010-2019, driven primarily by the 
+increase in the country’s vehicle fleet. 
+Paraguay’s energy supply is mostly used for power generation and for obtaining charcoal and alcohols 
+(bioethanol). During the period 2010-2019, electricity exports represented an average of 75.2% of total 
+production.
+Figure 3. Total energy supply in Paraguay, 2010-2019
+Source: VMME, 2020a
+0
+50
+10
+150
+200
+250
+300
+350
+400
+450
+500
+550
+2010 2016 2017 2018 2019
+Energ
+y
+Sup
+ply (PJ)
+Hydropower Biomass Oil derivativesSource: PETROPAR, 2019; AZPA, 2019; INPASA, 2019; IP Agency, 2018; FAO, 2018
+Source: FAO, 2018
+Table 2. Main bioethanol producing companies
+Table 3. Supply of forest biomass for energy purposes
+Company Location Installed capacity
+(million litres/year)
+INPASA
+Department of San Pedro 252
+Department of Canindeyú 144
+PETROPAR Department of Guairá 80
+AZPA S.A. Department of Guairá 30
+Ingenio San Luis S.A.C.I.C. Department of Canindeyú 20
+ALPASA Paraguarí Department 15
+Areas Tonnes per year
+Productive native forests in the eastern region 289 000
+Productive native forests in the western region 1 500 000
+Forest plantations 600 000
+Total 2 389 000
+Paraguay is home to around 14 bioethanol plants, which are distributed among 12 alcohol producers 
+authorised by the Ministry of Industry and Trade (MIC). In 2018, the national bioethanol production capacity 
+reached 550 million litres. The current production, 55% from corn and 45% from sugar cane, doubled the 
+cultivated area of these raw materials during the period 2008-2018 (FAO, 2018). Table 2 shows the six 
+companies with the highest installed bioethanol production capacity, led by Paraguayan Alcohols Industry 
+S.A. (INPASA) and PETROPAR.
+Biodiesel production capacity has grown steadily, achieving total production of 376 million litres in 2019, 
+up from 138 million litres in 2010 (SIEN, 2019). By 2014, around nine companies had a combined annual 
+capacity of 45 million litres (MIC, 2018). Since 2019, ECB Paraguay S.A. (part of the ECB Group) has been 
+planning to build a second-generation plant with an installed capacity of 3 million litres per day for the 
+production of biodiesel and biokerosene, equivalent to one-third of the conventional diesel currently 
+consumed in the country (MIC, 2019). 
+Furthermore, mono-culture forest plantations occupy an area of nearly 12 000 hectares, equivalent to a 
+supply of 600 000 tonnes per year for electricity and mostly heat purposes (FAO, 2018). Nearly 60% of 
+the planted area is located in the districts of Alto Paraná, San Pedro and Caazapá. Table 3 summarises the 
+supply of forest biomass for energy purposes. 
+The installed capacity of biogas (from agricultural residues) comes from a biomethane production 
+plant commissioned in 2017. The plant, owned by Itaipú and CIBiogas, has an installed capacity of
+300 cubic metres (m3
+) per day and is used mainly to supply the power plant’s vehicle fleet. The plant has 
+the capacity to handle 600 kilograms of food scraps, 1.5 tonnes of vegetable residues, and 10 m3 of sewage 
+sludge (Itaipú Binacional, 2017).Energy consumption
+Between 2010 and 2019, total final energy consumption (TFEC) increased by 48.8%, from 180.4 PJ to
+268.5 PJ. The transport sector accounted for the largest share, followed by the residential, commercial, 
+industrial and public sectors (VMME, 2012, 2020a), as shown in Figure 4.
+Between 2010 and 2019, the consumption of biomass increased in the residential and commercial sectors 
+by 20.7% and in the industrial sector by 23.7%. In 2019, biomass supplied 41.3% of the TFEC, mainly 
+from firewood (69.8%) and charcoal (8.1%). Firewood was mainly used for cooking purposes, which 
+has traditionally been based on the use of inefficient stoves. In the same period, the use of electricity 
+increased by 91%, and transport increased its consumption of derivatives (diesel and petrol) by 68.6%. The 
+consumption of LPG at the residential level increased by 7.2% and displaced part of the consumption of 
+firewood for cooking (DGEEC, 2016).
+The consumption of liquid biofuels doubled, due to the implementation of projects to produce the fuels 
+following the 2005 Law to Promote the Use of Biofuels. As shown in Figure 5, the final energy consumption 
+of the public sector is composed of 97% electricity, with the remainder being biomass (mainly firewood). 
+Figure 4. Total final energy consumption by sector, 2010-2019
+Source: VMME, 2012, 2017, 2019a, 2020a
+33%
+32% 31% 30% 30%
+35%
+37%
+40% 41% 41%
+30%
+27%
+26% 26% 25%
+2%
+3%
+3%
+3% 4%
+0
+50
+100
+150
+200
+250
+300
+Total final energy consumption (PJ)
+Residential and commercial Transport Industry Public sector
+2010 2016 2017 2018 2019Box 1. Renewable energy in the energy mix
+The energy mix in Paraguay is characterised by high participation of renewable sources. In the last 
+decade, hydrologic and biomass resources contributed an average of 82% of the total final energy 
+supply. In the last five years, the contribution of biomass has increased, driven by the growing 
+demand for sugar cane, corn and other energy crops for the production of biofuels (VMME, 2019a). 
+The growth in biomass use relates to national policies and laws to promote the blending of biofuels 
+into regular petrol and diesel. Conversely, the contribution of hydropower decreased because of 
+increased imports of oil-based fuels. Figure 6 shows the shares of renewable sources in the total 
+final energy supply. 
+The residential and industrial sectors have high wood consumption, together accounting for 
+58.5% of the country’s biomass consumption in 2019. Combined, they created a demand for forest 
+exploitation that, according to data from the Food and Agriculture Organization of the United 
+Nations (FAO), is above the sustainable supply of forests in some regions in the country (particularly 
+the eastern region) (FAO, 2019).
+The policies of access to efficient fuels aim to control the pressure on the country’s native forests 
+and displace part of the consumption of firewood from the residential sector.
+Figure 5. Total final energy consumption by source, 2010 and 2019
+Source: VMME, 2012, 2020a
+80 60 40 20 0 PJ 0 20 40 60 80 100 120
+YEAR 2010 YEAR 2019
+Public sector
+Industry
+Transport
+Residential and
+commercial
+Electricity Biomass* Derivatives Alcohol
+* Includes charcoal
+Figure 6. Shares of renewables in the total final energy supply in Paraguay, 2010-2019
+Note: Figure excludes exports and unused energy potential.
+Source: SIEN, 2019
+55% 57% 57% 57% 54% 52% 50% 47% 46% 41%
+29% 27% 27% 27% 29% 30% 31% 32% 33% 36%
+16% 16% 16% 16% 18% 18% 18% 21% 22% 23%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Hydropower Biomass Oil derivativesPower sector
+The Itaipú and Yacyretá hydropower plants represent the largest installed generation capacity in the country 
+and are integrated with the electricity systems of Brazil and Argentina. The Acaray hydropower plant is the 
+third largest, followed by small thermal plants using diesel, bagasse and biogas that are mostly managed 
+by the National Electricity Administration (ANDE). Table 4 shows the installed generation capacity by type 
+in 2020; the capacity shares have remained similar for the past decade, with small variations in the installed 
+capacity from bioenergy.
+The existing installed capacity of variable renewable energy serves primarily isolated systems and pilot 
+projects in remote locations (see Table 5). Examples include the solar photovoltaic (PV) system for 
+35 indigenous people’s centres in areas of the Paraguayan Chaco, the wind and solar plant of the Joel 
+Estigarribia military base, and the solar PV plant of a military base located in Mayor Pablo Lagerenza. Wind 
+turbines have also been installed for research purposes.
+Hydropower has traditionally dominated electricity production, accounting for 98.8% of the country’s 
+total power generation in 2018 (IRENA, 2021a). In the previous two decades, between 75% and 80% of 
+Paraguay’s electricity production was destined for export. Between 2001 and 2018, domestic electricity 
+consumption roughly tripled, from 6 000 gigawatt-hours (GWh) to 17 000 GWh; this is equivalent to an 
+annual growth rate of 6.2%, which is above the historical average of electricity supply in countries in Latin 
+America and the Caribbean (3.2% per year) (IDB, 2020a).
+Note: Excludes off-grid pilot projects.
+Source: IRENA, 2021a
+Table 4. Installed power capacity, 2020
+Generation plants Installed capacity (MW) %
+Itaipú (hydropower) 7 000 79.1%
+Yacyretá (hydropower) 1 600 18.1%
+Acaray (hydropower) 210 2.26%
+Thermal power plants 26 0.29%
+Bioenergy 22 0.25%
+Total 8 858 100%
+Source: FIUNA, 2019; CONACYT, 2019; ANDE, 2016a; Itaipú Binacional, 2018
+Table 5. Selected variable renewable energy projects in Paraguay
+Project Responsible body Maximum power installed
+Solar PV plant for indigenous peoples in isolated areas 
+of the Paraguayan Chaco Itaipú Binational – INTN 20 kW
+Solar-wind farm at Joel Estigarribia military base, 
+Paraguayan Chaco
+Renewable Energy 
+Consulting Itaipú Binational
+Solar = 40 kW
+Wind = 5 kW
+Solar PV park at Mayor Pablo Lagerenza military base, 
+Paraguayan Chaco
+Renewable Energy 
+Consulting Itaipú Binational 40 kW
+Wind Turbine Engineering Faculty of the National 
+University of Asunción (FIUNA) FIUNA 15 kW
+Solar PV plants in 45 communities in the eastern 
+region of Paraguay VMME 50.4 kWSeveral factors have contributed to the increase in domestic electricity consumption, including GDP growth, 
+which averaged 3.87% during the 2001-2018 period (World Bank, 2020b); the low cost of electricity; 
+and growing energy intensity in the industrial sector (where average consumption per user grew from
+7.7 kilowatt hours (kWh) per month to 90 kWh per month) and in the residential sector (where average 
+consumption per user grew from 231 kWh per month to 363 kWh per month) (ANDE, 2018a). 
+Between 2001 and 2018, the electricity consumption of the public sector grew at an average annual rate 
+of 8.2% (SIEN, 2019), with an average tariff of PYG 250.9 per kWh (4.9 US cents per kWh) (ANDE, 2019a). 
+Residential electricity consumption increased 6.1% annually, at an average rate of PYG 351.5 per kWh
+(6.9 US cents per kWh) (SIEN, 2019). This increase in internal energy supply was balanced by 31% growth 
+in dispatched energy to the national system. Figure 7. Total production and domestic consumption of 
+electricity, 2001-2019 shows the evolution of total production and domestic consumption of electricity. 
+Figure 7. Total production and domestic consumption of electricity, 2001-2019
+Source: SIEN, 2019
+0
+15,000
+30,000
+45,000
+60,000
+75000
+90000
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Production Internal Supply
+Electricity production (GWh)Electricity consumption
+During the period 2001-2019, final electricity consumption grew 15.8% annually on average, from
+4 502 GWh to 12 840 GWh. The residential and public sectors had the largest shares, with 43.1% and 
+20.2%, respectively. This was followed by the industrial sector (18.6%) and the commercial sector (18.1%)
+(SIEN, 2019). Figure 8 shows the evolution of final electricity consumption by sector. 
+Paraguay has one of the highest levels of access to electricity among countries in Latin America. In 2019, 
+the electrification rate was 99.95%, equivalent to serving a population of 7 198 913 and 3 601 people without 
+access (ANDE, 2019b). Of the total number of Paraguayans without access, 88% live in rural areas, and the 
+rest live in urban areas.
+Figure 8. Final electricity consumption by sector, 2001-2019
+Source: SIEN, 2019
+Residential Commercial Industry Public sector
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+Electricity consumption (GWh)
+2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019International power trade
+Paraguay is considered a net power exporter. In 2019, it sold 64% of the total power produced to Brazil and 
+Argentina, equivalent to 31 748 GWh. Electricity sales to neighbouring countries represented 6.0% of the 
+GDP that year (VMME, 2020b).
+Over the last decade, however, Paraguay’s electricity exports have been declining. In 2019, energy exports 
+fell 25%, mainly driven by the increase in domestic consumption and the dry hydrological years in the 
+Paraná River Basin. Figure 9 shows the evolution of exports from the country’s main hydropower plants.
+Figure 9. Exports from hydropower plants, 2008-2019
+Source: SIEN, 2019
+46291 45042
+43378
+46120
+47663 47364
+41400 41127
+48415
+43635
+42205
+31748
+6691 6322 7643 8259 7495 7700 8345 7362 8355 9177 9258
+7437
+39412 38272
+35379
+37725
+40016 39528
+32939 33651
+39940
+34387
+32920
+24180
+188 448 355 136 151 135 116 113 120 70 27 130
+0
+10000
+20000
+30000
+40000
+50000
+60000
+2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Total Argentina from Yacyretá Brazil from Itaipú Brazil and Argentina from Acaray
+Electricity exports (GWh)Transmission and distribution network
+In 2019, the National Interconnected System (SIN) comprised 6 682 kilometres of transmission networks. 
+Of the total, 10.6% corresponded to 500 kilovolt (kV) lines, 69.1% to 220 kV networks, and the remaining 
+20.3% to 66 kV lines. The installed power in transformers reached 15 585 megawatts (MW) distributed in 
+94 sub-stations. The electricity distribution networks comprised 68 331 kilometres of medium-voltage lines 
+and 85 913 transformers with an installed power of 6 561 MW (see Figure 10) (ANDE, 2019a).
+Figure 10. Transmission system in Paraguay
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion on the part of IRENA 
+concerning the status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers or boundaries.
+Source: MOPC, 2019
+Km 15
+Km 30
+Km 8 Parq. Industrial
+Hernandarias
+MCAL
+Estigarribia
+Filadelfia
+Loma Plata
+Acueducto I Acueducto II
+Vallemi II
+Vallemi I Bella Vista Norte
+Pedro J. Caballero
+Cerro Cora CZ Bella Vista
+YBY Yau
+Concepcion Horqueta
+Concepcion II Santa Rosa
+Cap. Bado
+San Pedro
+Norte Salto Del Guaira
+Katuete
+Minga Pora
+Curuguaty II
+B’ San Pedro
+Itac. Rosario
+San Estanislao
+Carayao
+Vaqueria
+Itakyry
+Itaipu
+Acaray
+Microcentro
+Alto Parana II
+Del Este
+PDTE. Franco
+Hernandarias
+Mallorquin
+Campo 2
+Santa
+Rita
+Naranjal
+Parque
+Industrial
+Paranambu
+Carlos A. Lopez
+Ma. Auxiliadora
+Natalio
+Pirapo
+Trinidad
+Cambyreta
+Costanera
+Encarnacion
+Fram
+San Pedro
+Del Parana
+CNEL. Bogado
+Yacyreta
+Ayolas
+Villabin
+San Patricio
+Pilar San Juan BTA
+Caaguazu
+CNEL. Oviedo
+Col. Independencia
+Villarrica
+Paso PE
+LA Colmena
+Caazapa
+Ava I
+Caapucu
+Valle Quindy
+Apua
+Buey
+Rodeo
+Villeta
+Asuncion
+Villa Hayes
+CDAO. Nueva
+Umpio
+Altos
+E. Ayala
+Paraguari
+Valenzuela Pirayu Taugua
+Caplata
+Acepar Cuida Nueva
+Villa Hayes
+Limpio
+MR. Alonso
+Vinas Cue
+Villeta
+PTO. Mariscal
+Guarambare
+Gran
+Hospital
+Nacional
+Itaugua
+San Antonio La Victoria
+Capiata Villa Elisa
+Lambare
+PTO.
+Sajonia
+San Lorenzo
+Luque
+PTO.
+Botanico Parq.
+Caballero
+Blue Tower
+Molinos
+Mburucuya
+BCO Central
+Barrio Parque
+Villa
+Aurella FDO. De
+La Mora
+Itaipu
+Acaray
+Microcentro
+Alto Parana II
+Del Este
+PDTE. Franco
+North
+South
+East
+West
+Center
+Metropolitan
+Existing 500 kV station
+Existing 200 kV station
+Existing transmission 220 kV
+Existing 66 kV station
+Existing transmission 220 kV
+Existing transmission 220 kV
+Proposed transmission 500 kV
+Proposed transmission 66 kV
+Proposed transmission 200 kV
+Proposed transmission 500 kV
+Proposed station
+Proposed station
+Proposed stationThe operational capacity of the transmission system needs to be improved to ensure the quality of the 
+electricity supply. In hours of high demand for the Metropolitan System, the 500 kV transmission lines and 
+the 500 kV to 220 kV transformation sub-station operate at near-maximum capacity, leading to increasing 
+technical losses and risks due to unscheduled interruptions (IDB, 2020b).
+Paraguay is among the countries with the highest electricity losses in Latin America. In 2019, the electricity 
+losses represented 25.8% of the internal supply of electricity, equivalent to 4 470 GWh; of this, 5.2% was 
+transmission losses and 20.6% was distribution losses (ANDE, 2019a). 
+Within the framework of measures to improve technical and commercial management, ANDE is carrying 
+out actions to reduce losses. These efforts prioritise strengthening the high-voltage network infrastructure, 
+implementing direct measurement instruments, modernising meters, mapping the installed street lighting 
+and increasing customer awareness, among others.
+Upgrading power infrastructure
+The largest ongoing projects in the energy sector aim to modernise existing power plants and strengthen 
+the transmission system. In November 2018, the Inter-American Development Bank (IDB) approved a 
+USD 125 million loan for the Acaray Hydropower Plant Rehabilitation and Modernization Program. The 
+funds for updating the transmission system came from two operations approved in 2017 and 2019 by the 
+Development Bank of Latin America (CAF). 
+The first, approved in May 2017, is the Program to Strengthen Transmission of the SIN and Rural Electricity 
+Distribution, which allocated USD 170 million to provide greater reliability and security of electricity 
+supply in the eastern, northern, southern and central systems of the country. Two years later, in 2019, a
+USD 250 million operation was initiated to execute the Programme to Improve the Transmission and 
+Distribution System of Electricity and Modernise the Management of Distribution in Paraguay. 
+Finally, the IDB project Expansion of the High Voltage Transmission System and Energy Efficiency Actions 
+supports the improvement of the reliability and efficiency of the high-voltage transmission system and 
+improves the efficiency of ANDE’s commercial buildings and street lighting. The programme was approved 
+with co-funding from the IDB (USD 70 million, approved in May 2020) and the Japan International 
+Cooperation Agency (JICA) (USD 85 million, approved in July 2021) (IDB, 2018, 2020c; CAF, 2013, 2019).
+Electricity prices
+The Executive Branch, in co-ordination with the National Council for Economic Coordination, sets the 
+internal prices of oil-based fuels and electricity rates. In the case of hydrocarbons, prices are determined 
+based on the proposal of PETROPAR and in agreement with the Ministry of Industry and Commerce. 
+The tariff schedules for electricity are set following a review by the Board of Directors of ANDE followed by 
+executive power approval. The tariff schedules maintain social tariffs (expanded in 2011) that subsidise up 
+to 75% of the electricity use of users who consume less than 300 kWh per month (ANDE, 1964). The tariff 
+structure is based on operating expenses and the guarantee of earning an annual net income of no less than 
+8% and no more than 10% of the investments in a fixed asset (ANDE, 1964). Operating expenses encompass 
+electricity supply activities, from production to sale, including administrative expenses, depreciation of 
+physical assets and amortisation of intangible assets.3
+ ANDE disaggregates expenses into energy costs, 
+staff,4 travel, materials, fuel, contracted services and depreciation. Energy costs represent around 50% of 
+the total expenses. The investment in fixed assets corresponds to the value assigned to the physical and 
+intangible assets affected by the service, in the state and condition of use in which they are found, plus the 
+working capital necessary for ANDE’s operations (ANDE, 1964). 
+3 Excludes capital interest and other financial charges related to financial services.
+4 Includes salaries, social laws, collective agreements on benefits and retirement programmes.In 2018, the national average electricity rate remained the lowest in Latin America. Hydropower generation 
+reached an approximate cost of US cents 5.7 per kWh and an average sales price of US cents 6.4 per kWh, 
+representing a surplus of 12%. The main income from the exploitation of water resources comes from the 
+sale of electricity and to a lesser extent from income sources such as profits and compensation received by 
+the bi-national companies. Historically, 40% of ANDE’s turnover comes from the residential and commercial 
+sectors. Around 87% of all customers are residential, while 0.12% are from the industrial sector and represent 
+7.5% of the company’s turnover (ANDE, 2018b, 2019a). Figure 11 shows the rates by consumption group.
+Paraguay applies a subsidy to electricity rates that favours users whose consumption is
+0 - 300 kWh per month. In the last decade, this subsidy represented between 0.020% and 0.029% of the 
+GDP. The budget for the subsidy decreased 0.6% between 2010 and 2019 (Table 6).
+Figure 11. Electricity rates, 2019
+Note: The exchange rate used is USD 1 = PYG 6 138
+Source: ANDE, 2019a
+0.070 0.067 0.066 0.064 0.062 0.061
+0.055
+0.044 0.042
+0.030
+0
+0.01
+0.02
+0.03
+0.04
+0.05
+0.06
+0.07
+0.08
+Electricity rates (USD/kWh)
+Residential
+Dierential
+Street lighting
+National average
+Others
+Governmental
+Industrial
+Ultra high voltage
+High voltage
+Electro intensive
+Source: Republic of Paraguay, 2021; ANDE, 2010, 2016b, 2018a, 2018b, 2019a 
+Table 6. Subsidies applied to electricity tariffs, 2010-2019
+2010 2016 2017 2018 2019
+Million USD 9.88 10.17 10.31 10.48 9.37
+% of GDP 0.029% 0.024% 0.023% 0.023% 0.020%Energy sector institutions 
+The Ministry of Public Works and Communications (MOPC) manages Paraguay’s energy sector through the 
+Vice-Ministry of Mines and Energy (VMME). In 1993, the VMME was created to be responsible for establishing 
+and guiding policy regarding the use and management of the country’s natural mineral and energy resources. 
+The MOPC exercises its mandate in co-ordination with three entities: the Ministry of Industry and Trade (MIC), 
+which has authority over downstream activities in the electricity and hydrocarbon sub-sectors, the National 
+Electricity Administration (ANDE), which oversees the electricity service sector, and the Ministry of Foreign 
+Affairs (MRE), which manages and oversees international agreements in the sector.
+The VMME (Figure 12) distributes its functions in five directions: 1) Mineral Resources, 2) Energy Resources, 
+3) Hydrocarbons, 4) Financial Analysis and Programmes and 5) Alternative Energies. The latter elaborates 
+on the strategies for the promotion of investment projects in renewable energy; in doing so, it promotes 
+research and development, increases supervision, and controls the production processes of biofuel, wind 
+and solar energy. In the area of hydrocarbons, the company PETROPAR controls the only refinery in the 
+country that is currently dedicated primarily to the import of oil derivatives as well as their storage and 
+distribution in the national market.
+Figure 12. Institutional structure of the VMME
+Source: VMME, 2019b
+Vice Ministry
+Mines & Energy
+Cabinet Chief
+Technical support
+Evaluation
+comittee
+Administration
+Legal counsel
+Security
+Geoprocessing
+Secretariat
+Budget Logistics
+Energy resources
+Energy eciency
+Planning &
+statistics
+Electricity
+Energy overseer
+Mineral resources
+Geology
+Mines
+Hydrocarbons
+Hydrocarbons
+Oil derivatives
+markets
+Financial analysis
+& programmes
+Financial analysis
+Permits &
+concessions
+Alternative
+energies
+Bioenergy
+Solar & wind
+QuarriesThe VMME’s Directorate of Energy Resources (DRE) oversees the electricity sector in close co-ordination 
+with ANDE and the National Council for Independent Production and Transport of Energy (CONAPTIE). 
+ANDE, originally created in 1964, is responsible for reporting to the MOPC on the activities of the power 
+sector. Its current capabilities include proposing electricity tariffs and approving contracts for the purchase, 
+sale and exchange of energy within and outside of the country. ANDE also supervises the operation of the 
+National Interconnected System (SIN) and guarantees its safety and quality of service. 
+CONAPTIE supports ANDE with the analysis and preparation of tariff schedules and evaluating the impacts 
+of energy policies with the MOPC. CONAPTIE was created in 2006 and includes the ministers of Public 
+Works and Communications, Industry and Trade, and Foreign Affairs, together with representatives from 
+the Technical Secretary of Planning and Economic Development (STP) and the Secretary of Environment. 
+CONAPTIE reviews and approve licences for independent generation or transport of energy in Paraguay.
+Institutional framework for the power sector
+The power sector is vertically integrated and has a monopoly on energy sales. ANDE controls activities in 
+the generation, transmission, and distribution of electricity and street lighting throughout the country. The 
+sector lacks an independent regulator, with ANDE exercising certain regulatory functions. In addition, it is 
+the only state agency with the authority to delegate its electricity distribution rights to other companies 
+that supply energy and public lighting services. 
+The main hydropower plants in the country, Itaipú and Yacyretá, are managed on an equal footing based 
+on bi-national treaties established with Brazil and Argentina, respectively. The operation of these plants, 
+applied by international statutes and independent administrative bodies, is assigned at the national level to 
+ANDE through Law 966 of 1964, which creates ANDE as an autonomous entity representing Paraguay in binational energy treaties (Republic of Paraguay, 1964). Overall, the future of the country’s electricity sector 
+will be defined through ANDE, the revision of treaties, and legislation (such as Annex C to the Treaty of 
+Itaipú) that seeks to promote modernisation and competition in the sector; thus, it would be key to ensure 
+a sustainable ratio of local generation to the import/export of electricity.
+This law also regulates the production and independent transport of electricity, including co-generation 
+or self-generated electricity, and defines national policies for regional energy integration, energy mix 
+diversification for sustainable development, and the adoption of new technologies to strengthen the 
+reliability and security of the energy supply while minimising environmental impacts. Furthermore, this 
+law opens the participation of private individuals in the generation or transmission of energy for selfconsumption or export. The provisions of the law include contracts that could be incorporated into the SIN 
+according to the rules of dispatch and operation established by ANDE.
+Historical site of Encarnacion and jesuit ruins - Paraguay
+Image credit: ShutterstockLegal and regulatory framework 
+Policy framework for the energy sector
+The National Energy Policy 2016-2040 was released in October 2016 (Decree 6092) and followed a 
+planning process based on energy governance, strengthened institutional co-ordination and capacity 
+building while considering productive integration, the environment and society. It defines the objectives 
+of: 1) guaranteeing energy security with social and environmental responsibility while prioritising selfsupply at a low cost as well as high efficiency; 2) ensuring access to good-quality energy services while 
+protecting consumer rights; 3) using national energy resources and promoting the production of oil-based 
+products as strategic resources to reduce energy dependency and increase value-added in the country; 
+4) consolidating Paraguay’s role in regional energy integration by harnessing its geographic location and 
+natural resources; and 5) creating public awareness on the importance of energy and its sustainable use. 
+The implementation process of this policy considers specific objectives and action plans in four strategic 
+areas: 1) electricity, 2) bi-national entities and energy integration, 3) bioenergy and 4) hydrocarbons. In 
+particular, the policy defines Action Plans that establish specific objectives, strategic lines, tools, goals and 
+deadlines in 10 spheres: 1) institutional, 2) energy matrix, 3) infrastructure for energy supply, 4) energy 
+integration, 5) society and environment, 6) financing, 7) energy efficiency, 8) international co-operation,
+9) information and planning, and 10) research, development and education (VMME, 2016). 
+At the same time, the Sustainable Energy Agenda 2019-2023 establishes the goal to promote the transition 
+to sustainable mobility, which will lead to the replacement of imported fuel by energy produced in the 
+country. Therefore, the implementation of an electric mobility programme is included in the Action Plan 
+of the Energy Matrix as a tool to expand the share of electricity in consumer sectors with criteria of 
+technical and economic efficiency. In 2020, Paraguay created the Mobility Board (Resolution No. 44,334 of 
+22 October, 2020) to assess and define electricity rates for charging vehicles. 
+The Technical Secretary of Planning and Economic Development (STP) is responsible for the long-term 
+planning of the country’s strategic sectors, including the power sector (Law No. 312 of 1962). In this sector, 
+the STP partially shares its responsibilities with the VMME after Law No. 167 of 1993 assigned to this 
+institution the responsibility of preparing energy projections and proposing energy policies. Currently, the 
+long-term energy planning process is partially documented; there could be an opportunity for an accepted 
+flowchart across key energy institutions that would highlight the necessary order and interdependence of 
+activities in achieving goals, estimated budgets and projected timelines. Additionally, this flowchart may 
+include indicators to anticipate risks when implementing budgets and mitigation measures.
+A significant aspect of the evolution of the legal and regulatory framework in the last three decades was 
+the creation of the state-owned company PETROPAR as well as the industry legislation regarding natural 
+gas, the promotion of biofuels, and opening the country to independent energy production and transport.
+Paraguay’s energy sector is mainly based on five laws that regulate the use and/or exploitation of resources:
+1. The hydrocarbons law (Law No. 779 of 1995), which establishes the legal regime for the prospecting, 
+exploration and exploitation of oil and other hydrocarbons. Under the law, the State may grant permits 
+or concessions to hydrocarbon entities for a limited period. The application for a prospecting permit 
+and exploration concession and subsequent exploitation must be presented to the MOPC, with a 
+maximum surface area for prospecting of 2 400 000 hectares. The concession for exploration offers 
+the exclusive right to explore the granted area for a four-year term, during which the concessionaire 
+shall fulfil the minimum work plan and investment. The exploitation lots must be between 20 hectares 
+and 5 000 hectares in size, with concessions granted for up to 20 years (Republic of Paraguay, 1995).
+2. The law for natural gas (Law No. 3,254 of 2007), which provides the regulatory framework for activities 
+in the natural gas value chain. It establishes the legal framework for the natural gas industry and 
+applies to activities related to transport, distribution of natural gas or other fuel gas networks, import, 
+transit and export, storage, marketing and consumption (Republic of Paraguay, 2007a).3. The law on water resources (Law No. 3,239 of 2007), which establishes the conditions for approving 
+concessions for the use of water and states that access to a minimum quantity of drinking water, 
+enough to satisfy basic needs, is a human right (Republic of Paraguay, 2007b).
+4. Law No. 3,009 of 2006, which defines the conditions for the production and independent transport 
+of electricity from conventional and non-conventional energy sources (Republic of Paraguay, 2006).
+5. Law No. 5,169 of 2014, which creates the Radiological and Nuclear Regulatory Authority and establishes 
+its scope of application to the nuclear energy area (Republic of Paraguay, 2014). 
+In addition, the law that approves the statute of the International Renewable Energy Agency (Law No. 5,984 
+of 2017) establishes in its objectives the implementation and sustainable use of all forms of renewable energy 
+based on the country’s priorities and the benefits derived from their use (Republic of Paraguay, 2017a). 
+Finally, the forestry law (Law No. 422 of 1973), while not explicitly referring to the exploitation of forests for 
+energy purposes, does establish the conditions for the use of forests to produce fuels from raw materials 
+of vegetable origin (Republic of Paraguay, 1973), which are referred to in the laws promoting biofuels
+(Law No. 2,748 of 2005, Law No. 5,444 of 2015 and Law No. 6,389 of 2019). 
+Furthermore, the country is currently discussing legislation for the regulation and use of renewable energy 
+resources other than hydropower, opening the opportunity for private developers to implement renewable 
+energy projects (SIL, 2021). In line with this, in July 2021, the first two licences for private power generation 
+were approved in the country, one of them involving co-generation with biomass resources and the other 
+self-generation with solar PV (MOPC, 2021a, 2021b).
+Regulatory framework for the power sector
+Paraguay lacks a systemic regulatory framework for the electricity sector. Law No. 966 of 1964 created ANDE 
+and grants it the exclusive right to operate electricity supply systems and to market electricity within and outside 
+of the national territory. Other laws regulate the scope of participation of public agents in the sector’s value 
+chain: for example, the Itaipú and Yacyretá hydropower plants. 
+The commercialisation of electricity is carried out through bi-lateral contracts and is not open to free trade. 
+However, Law 3,009 creates a legal framework for independent producers of electricity for self-consumption or 
+export, granting licences to independent power generators (private or public) with a capacity of less than 2 MW, 
+concessionaires for co-generation and self-generation projects, and shared risk contracts for power generation 
+from hydraulic resources in plants larger than 2 MW. This law also sets sales conditions and fees. For example, for 
+transport companies, ANDE proposes the tolls and connection fees to the Executive Branch, with the possibility 
+of an adjustment after evaluating the use and time in which the energy will be transported.
+In 2019, in collaboration with the Latin American Energy Organization (OLADE) and the IDB, Paraguay initiated 
+the implementation of the Energy Information System (sieParaguay). The Energy Information System consists 
+of online hardware and software that serves as a co-ordinated platform for the various actors that provide 
+energy information based on common methodologies, units and definitions. This new information system 
+will strengthen the country’s capacity to administer, store and process statistical information in relation to the 
+various topics that are required to analyse, monitor and understand the evolution of the energy sector. This will 
+automate access to this type of information with modern technological tools and promote models of knowledge 
+management and energy planning in the country. 
+In reference to the modelling of the electricity sub-sector, the Telematics Master Plan 2018-2024, published 
+by ANDE, highlights the actions and acquisitions that must be made in order to improve the information 
+technology and communications systems that support the services and systems for the business and operational 
+management of ANDE.In particular, ANDE is working on the implementation of a SCADA/DMS/OMS distribution system and a 
+Comprehensive Electrical Distribution Management System (SGIDE) that allows the creation of its own model 
+of electrical energy distribution management, adapted to the reality of the company and country. To model 
+the electricity distribution network, the company modernised the operation of the transmission system, with 
+a SCADA system that includes applications for the safe and efficient administration of the national grid. This 
+initiative includes a geographic information system (GIS) that uses both urban and rural digital cartography, on 
+which all the components of the electrical distribution system are represented and modelled.
+Paraguay’s climate change law identifies the potential development of a national carbon market, as a key 
+strategy to boost the mitigation of emissions in Paraguay and at the same time facilitate achievement of the 
+country’s climate pledges, such as those presented in the NDCs. Likewise, the National Development Plan 2030, 
+through the strategy Global Habitat Sustainability, identifies a carbon market as a relevant action to increase the 
+national income from the sale of environmental services. 
+The promotion of renewable energy integrates the lines of action of the strategic framework. There has been 
+important progress in the drafting of laws, such as the law on the Production and Independent Transportation 
+of Electricity and the submission of a new bill in August 2018 to Promote the Use of Renewable Resources 
+for Energy Purposes that establishes conditions for optimising access to electricity supply, contributing to the 
+reduction of greenhouse gas emissions, and providing incentives for research and development. Another recent 
+initiative, registered in March 2020, is the draft law that Regulates the Production, Promotion, Commercialisation 
+and Use of Non-Hydraulic Renewable Resources for Energy Purposes and establishes the conditions for the 
+fiscal purchase, sale and incentives in the national energy system for non-hydraulic renewable energy sources.
+Box 2. Promoting energy efficiency in Paraguay
+Paraguay created the National Energy Efficiency Committee (CNEE) in 2011. The CNEE aims to develop 
+and execute the National Plan for Rational and Efficient Use of Energy for the Republic of Paraguay 
+(Energy Efficiency Plan). The Committee includes representatives from the MOPC, the Ministry of 
+Education and Culture, ANDE, MADES, PETROPAR, the National Institute of Technology, Standardization 
+and Metrology, the bi-national hydropower plants of itaipu and Yacyretá, the National Council of Science 
+and Technology, the National University of Asunción and the National Forest Institute. 
+In 2014, the first National Energy Efficiency Plan was created with the objective of providing guidelines 
+for the implementation of measures and strategies in the efficient use of energy resources in different 
+sectors, supporting national sustainable development. The strategic axes of the plan are: 1) policies 
+(decrees, laws, norms and other legal instruments); 2) education, awareness and training, 3) energy 
+efficiency implementation programmes, 4) diagnosis and energy audits and 5) sustainability actions 
+during the process. However, the Plan did not specify quantitative targets due to the lack of data. 
+In 2015, Paraguay published its National Energy Policy 2016-2040, which includes among its 
+components the improvement of energy efficiency levels in the supply and demand of energy. The 
+energy policy also establishes an Action Plan for Energy Efficiency, including policy instruments to 
+be implemented in the form of plans and programmes with specific time frames. These aspects are 
+discussed in section 2.4 (VMME, 2016). 
+Other projects, studies and programmes related to energy efficiency include but are not limited to the 
+Energy Efficiency Indicators of the Industrial Sector of the Republic of Paraguay (BIEE), the triangular 
+co-operation “affordable and sustainable energy for Paraguay, implementing the National Energy 
+Policy 2040”, guidelines for the implementation of energy efficiency labelling, and education and 
+awareness programmes such as energy efficiency manuals and training programmes, among others. 
+Currently, a legislative project on energy efficiency is under review by different energy institutions of 
+the country. The document was developed by the VMME (Alternative Energies Directorate) with the 
+support of the IDB.Energy and climate action 
+In 2015, Paraguay’s carbon dioxide emissions totalled 45 841 gigagrams (Gg), around 1% of global emissions. 
+This was up from 40 023 Gg in 2000, representing an average annual increase of 0.97% during the period. 
+On average, the energy sector accounted for 10.3% of national CO2 emissions in the period 2000-2015 
+(UNFCCC, 2018).
+Between 2010 and 2018, CO2 emissions from the energy sector (fossil fuels) and biofuels increased from
+8 753 Gg to 13 996 Gg, a rise of 59.9%. The consumption of fossil fuels averaged 52% of the total, and 
+biomass5 averaged 41% (as a result of the degradation of native forests). Figure 13 groups the emissions 
+from the energy sector and biofuels.
+Energy and climate change policies are presented together in national strategies and implemented through 
+national committees and task forces. Decision makers face the challenge of crafting tailored policies that 
+allow Paraguay to meet its energy needs while acting responsibly to implement effective mitigation and 
+adaptation initiatives. In the country’s NDCs, energy use and climate change are inextricably linked through 
+targets in the energy sector and strategic, long-term energy scenarios integrated with other government 
+policies. 
+In July 2021, Paraguay presented its updated NDC including adaptation and mitigation actions towards 
+2030. The NDCs are aligned with the Energy Policy 2016-2040 and contemplate 7 prioritised sectors 
+and a total of 25 objectives by 2030, which include relevant lines of action, gaps and needs. The line of 
+actions are: 1) resilient communities and cities; 2) health and epidemiology; 3) ecosystems and biodiversity; 
+4) energy; 5) agriculture, livestock, forestry and food security; 6) water resources and 7) transport. The 
+national climate commitments are also aligned with the National Development Plan 2030, which includes 
+the climate change planning process as a strategy at the sectoral and local levels to reduce risks in the 
+national development process.
+Figure 13. Carbon dioxide emissions by source, 2010-2019
+Source: SIEN, 2019
+0
+2000
+4000
+6000
+8000
+10000
+12000
+14000
+2010 2011 2012 2013 2014 2015 2016 2017 2018 2019
+Carbon dioxide emission (Gg)
+Fuel Oil
+Coal
+Petroleum coke
+Kerosene and jet fuel
+LPG
+Ethanol
+Charcoal
+Other biomass
+Gasoline
+Cane products
+Diesel oil
+5 Cane products, firewood and charcoalThe country’s NDC includes three objectives for the energy sector aimed at 1) improving the distribution 
+capacity of electricity services in vulnerable communities, through the following lines of action: increasing 
+the capacity, quality and reliability of electric transmission and distribution systems, strengthening 
+maintenance planning, and fostering education and training of local technicians; 2) conserving or restoring 
+the water basins for hydropower generation; and 3) promoting the use of alternative energy sources other 
+than hydropower, which includes the following lines of action: promoting the use of efficient stoves for 
+families that depend on biomass for cooking, promoting initiatives for distributed generation using solar 
+and wind systems, and using solar thermal energy for water heating (DNCC/MADES, 2021). 
+Furthermore, the revised NDC present the mitigation component based on the Climate Change Mitigation 
+Plans (PMCC) for 5 sectors: 1) agriculture; 2) land use, land-use change, and forestry (LULUCF); 3) industrial 
+processes and product use (IPPU); 4) waste; and 5) energy and transport. 
+Mitigation measures for the energy sector incorporate the use of certified forest biomass (as contemplated 
+in the Decree 4056/2015), optimal use of energy through energy efficiency measures, improvement of the 
+quality of fossil fuel used, fostering sustainable construction in cities, projects to promote renewable energies 
+of Itaipú Binacional, promote clean cooking through the efficient stove program, and follow the guidelines 
+from the National Energy Efficiency Plan, National Energy Policy and National Development Plan 2030. For 
+the transport sector, mitigation measures included the substitution of fossil fuel for biofuels, efficient 
+driving for public and freight transport, the substitution of conventional vehicles by electric and hybrid 
+vehicles, and the use of green hydrogen (UNFCCC, 2021).
+The National Plan of Adaptation to Climate Change (SEAM, 2016) incorporates further measures on 
+adaptation, such as: analysing energy demand and proposing improvements to the transmission and 
+distribution system; elaborating economic and environmental assessments on clean energy deployment in 
+industries; developing energy performance and resilience standards, including codes on climate variations 
+in new and existing buildings; expanding energy access and deploying smart meters; and strengthening 
+renewable energy transmission and distribution networks to ensure efficient public transport. 
+The Energy Policy 2016-2040 also integrates measures to mitigate and adapt to climate change impacts. This 
+policy prioritises (among others) the preparation of a Plan for Monitoring and Controlling GHG Emissions 
+in the Energy Sector; a National Policy on Nationally Appropriate Mitigation Actions (NAMAs), Strategy to 
+Accelerate the Development of Energy Projects that Mitigate Climate Change; a Plan for Adaptation to New 
+Meteorological Regimes; and the Design and Implementation of National Adaptation Programs of Action 
+(NAPAs).Box 3. IRENA’s climate action with renewables: 
+Enhancing Nationally Determined Contributions (NDCs)
+Figure 14. Renewable energy components of NDCs, as of the first quarter of 2021
+Note: NDCs = Nationally Determined Contributions
+Source: IRENA, 2021b
+Under the Paris Agreement, Parties are mandated to submit Nationally Determined Contributions 
+every five years explaining their climate targets and contribution to achieving the Agreement. 
+IRENA’s World Energy Transitions Outlook analyses the NDCs communicated by countries during 
+the first quarter of 2021. Of the total of 191 Parties, IRENA found that 141 Parties (74%) included 
+quantified renewable energy targets for the power sector, while only 63 Parties (33%) included 
+targets for direct heat and transport (Figure 14).
+IRENA, in its role of promoting renewable energy as a key climate solution, has set out to support 
+its Member Countries worldwide in communicating its climate action. The Agency’s current 
+engagement on NDCs includes 70 countries with a combined population of more than 1.5 billion and 
+3.2 billion tonnes of energy-related greenhouse gas emissions per year. IRENA has set up a system 
+of comprehensive and robust mechanisms to assist the NDC revision process and implementation 
+plans, as well as investment frameworks, to close gaps and accelerate the energy transition.
+The Agency currently supports 20 countries in Latin America and the Caribbean, including 
+Paraguay, in its NDC enhancement and implementation process through various offerings, 
+including Renewable Readiness Assessment (RRA), renewable energy roadmaps, data and statistics 
+(including monitoring, reporting and verification (MRV) systems), decarbonisation roadmaps, 
+project facilitation, resource and technology assessments; and capacity building activities in areas 
+such as policy and finance, low-carbon technologies and modelling of energy scenarios, among 
+others. These activities aim to enhance countries’ renewable energy capacity, resulting in a more 
+robust NDC leading to a just and inclusive energy transition.
+Source: IRENA, 2021b, 2021c
+30
+1 7
+44
+Asia
+46
+33 30
+Europe
+32 27
+55
+Latin
+America and
+Caribbean
+16 11 44
+Middle East
+and North
+Africa
+19 14
+33
+North
+America and
+Oceania
+48
+39
+17
+Sub-Saharan
+Africa
+191
+141
+75 63
+World
+Number of parties
+having submitted NDCs
+Number of parties with
+quantified renewable power
+targets in their NDCs
+Number of parties with quantified
+renewable energy targets for direct
+heat and/or transport in their NDCs Number of parties having
+submitted revised NDCs
+34
+9
+22
+14
+55
+Note: NDCs = Nationally Determined Contributions.
+11Promoting sustainable development 
+Under the National Development Plan 2030, Paraguay links its development ambitions to the Sustainable 
+Development Goals (SDGs) of the UN’s 2030 Agenda for Sustainable Development. The country has in 
+place policies and actions that contribute to at least 13 of the 17 SDGs. Regarding poverty and food security, 
+the higher objectives of the bi-national hydropower entities prioritise public investment programmes, 
+productive development and the fight against poverty with actions that aim to increase rural households’ 
+access to electricity and industrial machinery in order to strengthen agricultural value chains. In terms of 
+actions to reduce undernourishment and malnutrition, the National Human Development Report Paraguay 
+2019-2020 highlights progress in increasing access to efficient fuels for cooking.6
+The use of wood and coal, which is linked to the conditions of poverty, also has a gender component. The 
+collection and use of these fuels for cooking is exclusively or predominantly a female domestic task (also 
+performed by children). In terms of health and wellbeing, the National Development Plan 2030 establishes 
+the Adequate and Sustainable Habitat Strategy, which aims to improve the energy efficiency of homes, 
+increase access to drinking water and quality electricity, and reduce deaths attributable to indoor air 
+pollution.
+To promote equal opportunity, the Energy Policy 2016-2040 integrates a line of work on inclusive energy 
+development with equality of gender criteria and ethnic diversity. It considers the implementation of 
+programmes to provide energy services for social inclusion simultaneously with programmes that will 
+increase equal access to land, water, infrastructure and agricultural technology. The National Energy 
+Efficiency Committee was created to develop and monitor the implementation of the National Energy 
+Efficiency Plan to promote responsible production and consumption. The Plan gives priority to updating 
+the regulatory framework, implementing technological innovation programmes in the main sectors of the 
+economy, promoting a culture of efficient energy use, and monitoring and measuring the Plan’s impact. 
+In terms of environmental issues, Paraguay has a National Climate Change Law that reiterates the country’s 
+commitment to implementing its NDC in order to reduce its greenhouse gas emissions 20% by 2030 
+(Republic of Paraguay, 2017b). In this regard, the National Development Plan 2030 contemplates the 
+implementation of the strategy Valorisation of Environmental Capital to increase renewable energy use by 
+60% and to reduce fossil fuel use by 20%. The Plan also defines actions to create alliances that facilitate 
+achievement of the SDGs through the strategic axis on Insertion of Paraguay in the World. This axis defines 
+the country’s actions to work with strategic partners on energy integration, biodiversity conservation and 
+climate change reduction.
+In the energy sector, the strategic framework follows the guidelines of the Energy Policy 2016-2040 and 
+the mandate of the VMME to guarantee energy security, ensure access to high-quality energy, use national 
+energy sources, and consolidate energy integration and sustainable energy use. The VMME prioritises five 
+areas of action: institutional framework, energy policy, institutional management, legal framework and 
+energy integration. The Energy Policy 2016-2040 highlights actions that respond to the energy needs of 
+the population and productive sectors, attending to social and environmental responsibility and energy 
+efficiency and constituting energy as a factor of economic growth. Its main components propose the 
+implementation of actions structured on the basis of institutional framework, energy policy and planning, 
+institutional management and legal framework. Table 7 shows part of the high-priority activities of the 
+VMME and the Energy Policy 2016-2040.
+Furthermore, the United Nations Development Programme (UNDP) developed the study Energy and 
+Human Development for Paraguay, highlighting various links between the energy sector and sustainable 
+development in the country. The report emphasises the role of the energy transition in the achievement 
+of a more equal society, by promoting more human development and less inequality. Additionally, the 
+Paraguayan energy transition has the potential to boost employment in the country, especially through the 
+creation of small- and medium-sized enterprises in the energy sector (UNDP, 2020).
+6 The Energy Policy of the Republic of Paraguay 2016-2040 includes a programme to install efficient stoves in three phases: 15 000 stoves (phase 1), 50 000 stoves (phase 2) 
+and 200 000 stoves (phase 3).Source: VMME, 2016
+Table 7. Priority activities from the energy strategic framework
+Institutional Framework
+Creation of the National System of Energy (SISNAE) 
+Creation of the National Energy Policy Council (CONAPE)
+Creation of the Direction of Energy Regulation (DRE)
+Energy Policy and Planning
+Defining the Energy Agenda 
+Indicative Biofuel Supply Infrastructure Development Plan
+Public and Private Financing Plan for Energy Efficiency Projects and Technology
+Program for the Promotion of Biogas and Thermal Uses of Solar Energy 
+Certification Plan of Solid Biomass
+Plan for Monitoring and Control of GHG Emissions
+Program for the Promotion of Renewable Sources for Electricity Generation
+Institutional Management
+Implementing an Institutional Information Management and Monitoring System
+Implementing the Investor Orientation Unit for the Development of Energy Projects
+Training Professionals in Electricity Subsector Activities
+Promotion of Research for the Development of Bioenergy and Alternative Sources
+Legal Framework 
+Draft Law on the Use of Additional Financial Resources in the Energy Sector
+Enactment of a New Legal Framework for the Solid Biomass Subsector 
+Enactment of the Law on Independent Power Generation 
+Enactment of the Law on Rational and Efficient Use of Energy
+Issuance of Regulations for Electric Mobility and Distributed Generation 
+Energy Integration
+International Energy Marketing Strategy for National Projects
+Creation of an Electricity Market Observatory3. Renewable Energy 
+Development
+Renewable energy development in Paraguay focuses on the use of hydrologic resources and biomass. 
+Other renewable energy sources were not included in the country’s energy balance as of 2019, although 
+small-scale wind and solar projects do exist in isolated areas. Energy crops7 such as corn, sugar cane and 
+soybeans have maintained sustained growth driven by the demand for liquid biofuels (bioethanol and 
+biodiesel). The country seeks to take advantage of the potential to produce biogas and green hydrogen 
+by implementing the actions defined in the Energy Policy 2016-2040 and the Sustainable Energy Agenda 
+2019-2023. 
+Drivers of renewable energy deployment
+The Republic of Paraguay is committed to the sustainable development of its energy sector and society. 
+The country is recognised globally for its clean energy matrix, with high shares of renewable energy and 
+electricity generated mainly by hydropower.
+Paraguay is not endowed with oil and gas resources, and in recent years it has become increasingly 
+dependent on fossil fuels, used mostly in the transport sector. Additionally, climate change has been 
+affecting the production of electricity from hydrologic resources, with the recent long dry periods in the 
+river basins threatening the energy security of the country. Therefore, Paraguay is aiming to diversify its 
+energy mix through the promotion of other renewable energy resources and the implementation of low 
+carbon-technologies such as green hydrogen. 
+Renewable energy technologies are an affordable option for the diversification of the Paraguayan energy 
+mix. Power generation from renewable technologies such as solar PV and onshore wind have experienced 
+a significant cost reduction in the past decade. The global weighted-average levelised cost of electricity 
+(LCOE) for solar PV has been reduced 85% in the period between 2010 and 2020, being the renewable 
+energy source with the highest price reduction. In the same period, LCOE for onshore wind fell by 56%. Cost 
+reductions for renewables continued despite the COVID-19 pandemic in 2020, showcasing the resilience 
+of renewable energy technologies. The LCOE for new capacity installation in 2020 decreased compared to 
+2019, for instance, concentrated solar power (CSP) fell by 16%, onshore wind by 16% and utility-scale solar 
+PV by 7% (IRENA, 2021d). The cost reduction for variable renewable energy technologies has the potential 
+to be competitive in the Paraguayan context, where cost of electricity generation from hydropower is low.
+Enhancing energy security by promoting renewable technologies and the electrification of the energy 
+sector are clearly highlighted in the country’s Sustainable Energy Agenda 2019-2023, and goes in line 
+with the objectives of the National Energy Policy 2016-2040 of guaranteeing energy security with social 
+and environmental responsibility. Electrification with renewables is an important aspect in achieving a 
+sustainable energy future. IRENA’s World Energy Transition Outlook highlights that the global electrification 
+rate will need to reach 90% (include green hydrogen) to achieve the goal of limiting global temperature rise 
+to 1.5 degrees Celsius (°C) (IRENA, 2021b).
+7 This refers to fast-growing crops intended to produce energy or combustible substances.Paraguay’s climate change policy has among its main pillars measures for mitigation of emissions and 
+climate adaptation of systems in the country. Therefore, reducing the use of fossil fuels is an important 
+component of the country’s climate action strategy, which is reflected in the revision process of its NDCs. 
+The transport sector is the main user of fossil fuels and, consequently, Paraguay is promoting the transition 
+of the sector through the use of biofuels, implementation of electromobility, and the use of green hydrogen 
+for larger transport. 
+Progress has included the creation of the Electric Mobility Board in 2018. Led by the Ministry of Information 
+Technologies and Communications (MITIC), the board brings together the main stakeholders to implement 
+a strategy for the energy transition in the transport sector. In 2019, the board presented the Regional 
+Electric Mobility Project submitted to the Green Climate Fund (GCF) to receive support for identifying and 
+addressing main barriers, providing assessments, and financing alternatives to accelerate the adoption of 
+electric mobility technology in the country (STP, 2019). 
+Paraguay is currently co-chairing, pro tempore, the Steering Committee of the GCF Readiness Project on 
+Advancing a Regional Approach to Electric Mobility in Latin America. The country is also preparing a Green 
+Hydrogen Road Map, following the guidelines of the National Energy Policy and, more specifically, the 
+Sustainable Energy agenda 2019-2023. It consists of three phases: 1) knowledge acquisition, 2) expansion 
+of the project to increase hydrogen generation capacity, and 3) consolidation of hydrogen use in Paraguay. 
+Both initiatives are part of the objective of promoting the energy and technology transition and increasing 
+the country’s productivity.
+Paraguay’s National Energy Policy 2016-2040 recognises the importance of the energy sector for economic 
+growth by increasing the country’s productivity and promoting sustainable development. The energy 
+sector is a key contributor to human development (UNDP, 2020) and job creation. For instance, IRENA 
+estimates that the energy transition towards the 1.5°C pathway could generate 43 million jobs worldwide 
+in the renewable energy sector alone by 2050 (IRENA, 2021b). For Latin America and the Caribbean, it is 
+expected that renewable energy alone generates around 3.3 million jobs by 2030, accounting for 55.5% 
+of the total jobs from the energy sector in the region. Bioenergy and solar will have the largest potential 
+for job creation in Latin America and the Caribbean, followed by hydropower and wind. This will have 
+a positive impact on the economic growth of the region, resulting in GDP increment of 0.7% by 2030, 
+compared to the business-as-usual scenario (IRENA, 2020). Paraguay’s wider uptake of renewable energy 
+technologies could also signify a positive impact on the country’s socio-economic development in line with 
+the National Energy Policy.
+The adoption of clean energy technologies beyond the power sector has the potential to address many 
+aspects of the UN 2030 Agenda for Sustainable Development, such as improving the quality of energy 
+access, enhancing food security, including a gender perspective, and improving health services, among 
+others. Clean energy projects can have positive impacts on local communities, enhance the local economy, 
+empower women leaders in society, and contribute to the modernisation of industry and agriculture in the 
+country. 
+An overview of the drivers for the deployment of renewable energy in the Republic of Paraguay, together 
+with the expected impacts of the implementation of action lines, can be found in Table 8.Source: VMME, 2016; STP, 2014a; UNFCCC, 2016
+Table 8. Drivers and expected impacts of renewable energy in Paraguay
+Driver Expected impacts from promoting renewable energy
+Enhance energy security
+• Diversification of the energy mix through local energy sources
+• Reduced dependence on (and imports of) oil-based fuels
+• Increased energy network interconnections
+• New opportunities to export renewable energy from variable renewable 
+sources, biomass, geothermal, etc. to the power market
+• Strengthened infrastructure for generation, transport and storage of energy
+• Increased energy efficiency
+• Increased share of renewables in final energy consumption 
+• Increased efficiency of land use, helping to mitigate emissions from land-use 
+change and forestry
+• Mitigation policies that increase the resilience of energy systems
+Achieve sustainable 
+development 
+• Universalisation of access to high-quality and reliable electricity 
+• Industry growth as a result of increased energy supply 
+• Increased private investment for the development of energy infrastructure 
+• Increased trade in goods and services associated with renewable energy
+• Enhanced food security, with the use of modern renewable energy in the agrifood sector 
+• Improved health and health services through modern renewable energy 
+sources
+• Improved energy services, mitigating energy poverty in the country
+• Achievement of the 2030 Agenda for Sustainable Development
+Mitigate climate change
+• Reduced greenhouse gas emissions, contributing to climate action (NDC/LTS)
+• Improved air quality in urban and rural areas with the use of clean 
+technologies 
+• Mitigation of the degradation of natural resources 
+• Achievement of targets posed in Climate Commitments
+Renewable energy resources
+Paraguay is endowed with a high capacity for hydro energy production. Therefore, it is one of the few 
+nations in the world that has an electrical system based almost exclusively on a clean source, hydropower. 
+Because the current installed capacity satisfies the growing electricity demand, interest in using other 
+clean energy resources has remained low. However, the country has an untapped diversity of renewable 
+resources that could mitigate the use of fossil fuels and play a key role in diversifying the energy mix 
+and enhancing energy security. The use of bioenergy, solar and wind has been briefly explored in the 
+country, but other resources such as low-temperature geothermal have not yet been considered and could 
+contribute to the decarbonisation of the industrial and agricultural sectors. 
+Hydropower
+Paraguay has excellent hydropower potential thanks to its hydrographic conditions and watercourses that 
+flow through the basins of the Paraguay and Paraná rivers. In addition to the current installed capacity, 
+the country has an estimated usable hydropower potential of 872.7 MW, which comprises 325.2 MW in the 
+basins of eastern Paraguay (which drain into the Paraná), 378.8 MW of interconnections8
+ with Itaipú, and 
+168 MW in the Paraguay River (Itaipú Binacional, 2011a, 2011b).
+8 These correspond to flow transfers from tributary basins to the Paraná River.At the regional level, the Ypane and Jejui basins present the greatest potential of the Paraguay River’s 
+watershed, each with more than 61 MW. On the Paraná River’s slope, the Monday and Ñacunday basins 
+reach their maximum potential, with 39 MW and 61 MW respectively. In the rest of the country's basins, 
+the potential for developing small hydropower has been identified. Other energy uses for the hydraulic 
+potential include water pumping stations, grinding of food and minerals, among others (Itaipú Binacional, 
+2011a). 
+Twenty-two sites with favourable technical and economic conditions have been identified. Three of the 
+sites can take advantage of the flows for the installation of two large plants (>50 MW) in Monday and 
+Ñacunday and a medium-sized plant (20 MW to 50 MW) in Ñacunday. Additionally, five sites are in the 
+Ypane basin and three in Jejui, where their exploitation might have a productive use. Of the high-potential 
+areas, 20% could have access to the transmission networks coming from the central eastern region (close 
+to Itaipú), while 22% of the sites in the north of the eastern region could be connected to the 220 kV lines 
+without incurring relevant transport costs.
+Wind energy
+The wind potential of Paraguay is classified as medium to high, with some of the best locations for wind 
+power generation located in Alto Paraguay and Boquerón. In these areas, wind speeds reach an average of 
+6.5 metres per second per year at an altitude of 80 metres, as shown in Figure 15.
+Figure 15. Onshore wind speed zoning assessment
+Source: IRENA: Global Atlas, Map data: Technical University of Denmark (DTU), 2021, 2021 OpenStreetMap contributors, 2021 United Nations administrative boundaries
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion on the part of IRENA 
+concerning the status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers or boundaries.
+Annual average
+< = 3
+3 - 4
+4 - 5
+5 - 6
+6 - 7
+7 - 8
+> 8
+Wind speed at 100mFigure 16. Solar PV horizontal irradiation assessment
+Source: IRENA: Global Atlas, Map data: World Bank, ESMAP, 2021, 2021 OpenStreetMap contributors, 2021 United Nations administrative boundaries
+Disclaimer: This map is provided for illustration purposes only. Boundaries and names shown on this map do not imply the expression of any opinion on the part of IRENA 
+concerning the status of any region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers or boundaries.
+Global horizontal
+irradiation
+< = 1 750
+1 750 - 1 800
+1 800 - 1 850
+1 850 - 1 900
+1 900 - 1 950
+> 1 950
+kWh/m2
+Annual average
+Solar energy
+There is a high potential for the use of solar energy throughout the country. The areas with the highest 
+irradiation index are in Alto Paraguay, Boquerón, Concepción, Amambay, San Pedro, Canindeyú and Alto 
+Paraná, with maximum usage between 1 850 kWh and 2 000 kWh per square metre a year, as shown in 
+Figure 16.Bioenergy
+Forest biomass
+Paraguay has the potential to utilise forest biomass from native forests, with an estimated productive area9 
+of 700 000 hectares in the eastern region and 12.2 million hectares in the western region, which represents 
+a supply of 5.3 million m3 of biomass per year.10 Of this, at least 3.5 million m3 per year could be used for 
+energy purposes.11 However, the sustainability of forested areas in the eastern region has been affected 
+by the conversion for agricultural development and by the demand for firewood from the residential and 
+industrial sectors. In recent years, these two sectors together consumed nearly 10 million tonnes of wood 
+per year on average, four times the sustainable supply of forest biomass in this location and resulting in 
+average national forest degradation of 7.6 million tonnes of biomass per year (FAO, 2018).
+Biogas
+Although Paraguay has experience exploiting biogas, studies quantifying this potential are lacking. Based 
+on available information on organic waste, the country has the potential to take advantage of biogas from 
+landfills in urban areas. Every day, Paraguay generates 4 000 tonnes of organic urban waste with a heat 
+production capacity of 4.6 million kilocalories per year12 and 584 GWh per year of energy.13 The largest 
+generation of waste (33%) is concentrated in the Central department, followed by Alto Paraná with 12%. 
+Figure 17 shows the generation of urban organic waste by department.
+9 Excludes protected wilderness areas.
+10 Considering an average productivity of 2.5 m3
+ per hectare per year for the eastern region and 1.3 m3 per hectare per year for the western region.
+11 Considering that 34% and 86% of the wood harvested in the eastern and western regions is destined for energy use, respectively. 
+12 Assuming that one kilogram of dry organic waste has a calorific value of 3.154876 x 103 kilocalories. 
+13 Assuming that one tonne of waste is capable of generating 400 kW per hour.
+Figure 17. Generation of urban organic waste by department
+Source: STP, 2014b
+1316
+497
+369
+337
+260
+186
+155
+152
+141
+136
+115
+103
+77
+77
+54
+40
+11
+Central
+Itapuá
+San Pedro
+Paraguarí
+Canindeyú
+Caazapá
+Misiones
+Ñeembucú
+Alto Paraguay
+Boquerón
+Presidente...
+Amambay
+Guaira
+Concepción
+Cordillera
+Caaguazú
+Alto Paraná
+0 200 400 600 800 1000 1200 1400
+ tonnes/dayBioethanol
+The potential for developing crops for bioethanol production depends on the availability of land for 
+agriculture (FAO, 2018). The Paraguayan territory comprises 55% cultivable areas (22.3 million hectares), 
+a quarter of which are used by the agricultural sector. The National Sugarcane Plan 2019 highlights the 
+potential to develop 20 000 hectares of new crops by 2023 that can be used for energy purposes.
+Biodiesel
+In 2019, fat production in the country reached 38.3 million kilograms from agricultural activities, enough to 
+produce around 22 million litres of biodiesel.14 Of this total fat production, however, only an estimated 50% 
+is used for biofuel production. According to records of the National Service for Quality and Animal Health 
+(SENACSA), the production comes from 47 slaughterhouses with sanitary registration, of which nearly 
+three-quarters (74%) are grouped in Central, Itapúa, Paraguarí, Concepción and Alto Paraná. 
+Geothermal energy
+The country has documented the “low” existence of exploitable aquifers as well as very-low-enthalpy 
+geothermal resources for direct-use applications. Systems identified in the Chaco region are the Yrenda, 
+Patiño, Misiones and Caacupé aquifers, which are permeable due to their intergranular porosity (Godoy 
+and Paredes, 1995). However, the high solar irradiation of the country combined with the heat absorption 
+capacity of the subsoil suggests that there is a geothermal potential that could have applications for heat 
+pumps. The country has not yet implemented an official survey of the geothermal potential of aquifers and 
+the thermal favourability of the subsoil for productive or energy uses. 
+Renewable energy financing
+Investment in renewables
+The main external financiers of renewable energy and energy efficiency projects in Paraguay are the 
+Inter-American Development Bank (IDB), the Development Bank of Latin America (CAF) and the German 
+development bank KfW. During the 1960s and 1970s, the IDB allocated resources to develop the Acaray and 
+Itaipú hydropower plants (IDB, 1967, 1974). In the period of 2019-2021, the bank approved the following: 
+1) technical co-operation to support the preparation and implementation of clean energy projects under 
+the Conditional Credit Line for Investment Projects (PR-O004) and the rehabilitation and modernisation 
+programme of the Acaray hydropower plant (PR-L1156), for a total amount of USD 850 000; and 2) a loan 
+for the expansion to a high-voltage transmission system and energy efficiency, with USD 70 million in 
+financing (complemented by the approved loan by JICA in July 2021 of USD 85 million). 
+In 2017, CAF approved a USD 170 million loan for the Program to Strengthen the Transmission System of 
+the SIN and Rural Electricity Distribution. In 2019, it approved the programme to improve the electricity 
+transmission and distribution system and modernise the management of electricity distribution in Paraguay 
+(ANDE-6) for USD 250 million. Finally, KfW is providing technical assistance to ANDE, including financing 
+of the Environmental and Social Impact Study (EIAS) of the Electricity Transmission Works Package in the 
+Southeast Chaco Region of Paraguay, which will involve an investment of around USD 110 million.
+Infrastructure investments to produce biofuels come mainly from the private sector. During the 2010s, 
+twelve bioethanol and eight biodiesel production companies began operations. In 2018, in response to the 
+growing demand for bioethanol, the second alcohol plant belonging to Paraguayan Industry Alcohol S.A. 
+(INPASA) was inaugurated in Guayaibí, which mobilised investments of USD 80 million.
+Paraguay’s ANDE, through its Generation Master Plan 2021-2040, has committed an action plan with 
+a gross investment of USD 3.6 billion over 20 years, including infrastructure and equipment. This plan 
+presents a synthesis of the technical planning studies carried out with a view to determining the set 
+of necessary works to be performed in the National Interconnected System (SIN) for the generation of 
+14 Considering an average final production yield of 60%.electricity, in order to develop a steady supply and to provide a service of technically acceptable conditions 
+according to the adopted criteria and planning premises. In addition, in 2018, an agreement between 
+the United Nations Development Programme (UNDP) and PETROPAR mobilised an investment plan of
+USD 7.6 million to make improvements to the Mauricio José Troche bioethanol plant owned by PETROPAR. 
+In a position of support, UNDP monitors the implementation of the investment, provides technical advice 
+and administrative services, and prepares the financial reports (UNDP, 2018). 
+The Green Climate Fund provides funding for the project Poverty, Reforestation, Energy and Climate Change 
+(PROEZA), implemented in 2019 with an investment of USD 90.3 million (STP, 2017). The programme 
+provides technical and financial support to establish agricultural-forestry systems, plantations and the 
+regeneration of natural forests. The FAO will provide technical and legal assistance in land use, environment 
+and energy issues. The VMME is developing a programme to promote clean and efficient cooking in 
+households under the PROEZA programme, which encompasses the installation of 7 500 efficient stoves. 
+Further GCF initiatives include the following: 
+1. FP063 (IDB Project): Promoting private sector investments in energy efficiency in the industrial 
+sector and in Paraguay. The project involves the financing of energy efficiency investment projects 
+in industrial small and medium-sized enterprises for a total of USD 57.05 million. The objective is to 
+promote energy efficiency in Paraguay’s economy by providing medium- and long-term finance for 
+energy efficiency investment projects. 
+2. FP121: UN REDD+ Results-based payments in Paraguay for the period 2015-2017. The project included 
+a budget of USD 588 600. During the project period, the country cut its emissions by 23 million tonnes 
+of CO2 equivalent through reducing deforestation, forest degradation, enhancement of forest stocks 
+and conservation (REDD+). 
+3. FP128: Arbaro Fund – Sustainable Forestry Fund. The programme grants USD 25 million to Latin 
+American countries investing in sustainable plantation projects in emerging forestry markets, while also 
+bringing adaptation co-benefits. This approach provides low-income countries and rural communities 
+with a way to increase carbon sinks by producing wood more sustainably and conserving natural 
+forests, while helping to reduce illegal logging.
+Source: IDB, 2020b, 2020d; CAF, 2019, 2021; GCF, 2018a, 2018b, 2019, 2020; UNDP, 2018; ANDE, 2021a
+Table 9. Recent energy-related projects financed in Paraguay
+Financing 
+institution Year Project Amount (USD) Description
+IDB-JICA 2020-2021 PR-L1173 70 million IDB; 
+85 million JICA
+Expansion of the high-voltage transmission system and 
+energy efficiency
+Arbaro Fund 
+– GCF 2020 FP128 25 million Sustainable Forestry Fund
+CAF 2019 250 million
+Programme to improve the electricity transmission and 
+distribution system and modernise the management of 
+electricity distribution in Paraguay (ANDE-6)
+UNDP 2018 7.6 million Improvements to the Mauricio José Troche bioethanol 
+plant owned by PETROPAR
+GCF 2018 90.3 million Poverty, Reforestation, Energy and Climate Change 
+(PROEZA)
+IDB-GCF 2018 FP063 57.05 million Promoting private sector investments in energy efficiency 
+in the industrial sector and in Paraguay
+CAF 2017 170 million Program to Strengthen the Transmission System of the 
+SIN and Rural Electricity Distribution
+KfWFONPLATA 105.3 million Electricity Transmission Works Package in the Southeast 
+Chaco Region of Paraguay
+REDD+GCF 2015-2017 FP121 588 600 REDD+ Results-based payments in ParaguayPlanned infrastructure on renewable energy
+Through the Generation Master Plan 2021-2040, ANDE has planned the construction of 2 new large 
+hydropower plants and the expansion of Acaray, 19 small hydropower plants, 1 retrofit hydropower plant, 
+a machine house in a dam, 5 solar PV systems, 9 hybrid PV-diesel plants, and 5 battery banks, with a total 
+investment of USD 1 878.5 million (Table 10). 
+Private companies are also assessing investing in solar PV projects. This includes an investment of
+USD 18 million for the installation of a 20 MW solar power plant (IP Agency, 2021). Its development depends 
+on the approval of legislation, which was still under discussion at the time of writing this report.
+The most relevant projected investment in biofuels comes from the Omega Green project. The project 
+involves mobilising around USD 800 million to install a plant with a capacity to produce 3 million litres per 
+day of biodiesel and biokerosene. Its construction will begin in 2021 (MIC, 2019).
+Source: ANDE, 2021b
+Table 10. Additional renewable capacity by 2025
+Total cost 
+(USD million)
+Solar PV
+5 solar PV plants (100 000 kWp
+) 343.5
+9 hybrid PV-diesel plants (8 155 kWp
+) 27.7
+Construction 5 of a 100 MW to 400 MWh lithium-ion battery bank 429.4
+Small hydropower plants
+Jejui 1 (3.3 MW), Jejui 2 (3.2 MW) and Jejui 3 (3.1 MW)
+505.0
+Tembey 1 (13.1 MW), Tembey 2 (13.3 MW) and Tembey 3 (13.2 MW)
+Capiibary 1 (16.1 MW)
+Pirajui 1 (14.1 MW)
+Ñacunday 1 (12.1 MW), Ñacunday 2 (12.3 MW) and Ñacunday 3 (12.2 MW)
+Carapa 1 (6.2 MW), Carapa 2 (6.1 MW)
+Itambey 1 (8.1 MW)
+Ypané 1 (2.5 MW), Ypané 2 (2.1 MW), Ypané 3 (2.2 MW), Ypané 4 (2.3 MW), Ypané 5 (2.4 MW)
+Large hydropower plants
+Paraguay River A (41.0 MW) 144.0
+Paraguay River B (54.7 MW) 108.0
+Acaray III (35 MW) 85.5
+Acaray (machine house in dam on Yguazú River) (41.19 MW) 80.5
+Acaray retrofit 154.85
+Total 1 878.5Financing opportunities
+Paraguay’s Development Finance Agency (AFD) has access to concessional and non-reimbursable 
+resources from the GCF to finance renewable energy and energy efficiency projects. These resources include
+USD 40 million in loans (20 million from AFD and 20 million from the GCF) and USD 2 million in nonreimbursable funds. The funds can be used for projects at small and medium-sized enterprises that reduce 
+energy costs, increase business profitability and competitiveness, minimise exposure to energy price 
+volatility, and increase the market for energy-efficient goods and services with a low environmental impact 
+(AFD, 2021). 
+The AFD offers loans to finance reforestation projects for commercial purposes. Companies in the forestry 
+sector can apply for financing through an intermediary financial institution to invest in forestry plans 
+for fast-growing native or exotic species. The loans might finance up to 100% of the project value, with 
+maximum terms of 12 years.
+Finally, the Sustainable Finance Program co-finances energy efficiency. Co-ordinated by the Sustainable 
+Finance Bureau, the initiative offers technical and financial support from the French Development Agency 
+(Proparco), KfW and the Dutch Finance and Development Corporation (FMO). The programme has a line of 
+credit of USD 120 million with the Sudameris Bank to grant for projects for machinery renovation. 
+Paraguay has backed its infrastructure development through the issuance of sovereign bonds while also 
+receiving support from multiple multilateral banks and development funds, such as the Organization of 
+the Petroleum Exporting Countries (OPEC), the GCF, the IDB, the International Bank for Reconstruction 
+and Development (IBRD) of the World Bank (a key project is Strengthening of the Electric Power Sector in 
+Paraguay, 2010), the Financial Fund of the Plata Basin (FONPLATA), the Development Bank of Latin America 
+(CAF), the Spanish Agency for International Development Cooperation (AECID), the Japan International 
+Cooperation Agency (JICA), the Japan Bank for International Cooperation (JBIC), the European Investment 
+Bank (EIB), KfW, the MERCOSUR Structural Convergence Fund, the Korea International Cooperation Agency 
+(KOICA), the United Kingdom Official Credit Institute (ICO) and Banco do Brasil (BB), among others.
+In the last decade, Paraguay was able to strengthen its macroeconomic framework based on fiscal rules, 
+inflation reduction targets, low public debt and adequate foreign exchange reserves (World Bank, 2020c). 
+At the beginning of 2020, its favourable investment conditions positioned it among the five countries 
+in Latin America with the lowest risk premium (World Bank, 2020d), thus allowing it to garner greater 
+investor confidence and profitability on projects. Between the first quarters of 2019 and 2020, the balance 
+of loans from financial institutions increased to 7.52%, while the effective interest rate on development 
+loans from financial institutions fell 2.23% by 2020 (BCP, 2020).
+Professional and institutional capabilities
+Paraguay has universities that offer careers in energy-related fields, covering areas aimed at prospecting, 
+exploration and the sustainable use of energy sources. Post-graduate specialisations and masters and 
+doctoral degrees are offered in energy management, planning and energy technology, energy systems 
+planning (automation and control), and electrical and electronic engineering sciences with an emphasis on 
+power electronics.
+The Paraguayan Model of Dual Vocational Training (MoPaDual) is used for capacity building in collaboration 
+with institutions in the energy sector. The programme offers mixed training and was developed with 
+support from the National Service for Professional Promotion (SNPP).15 In 2018, ANDE managed a Training 
+Course in Electrical Engineering through the MoPaDual that offered degrees as Industrial Electricians and 
+Electrotechnical Technicians with SNPP training and an internship at ANDE (SNPP, 2020). 
+15 Made by Law No. 1,253 in 1971.In addition, the National Council of Science and Technology (CONACYT), through the Program to 
+Support the Development of Science, Technology and Innovation (PROCIT), has been financing projects 
+and scholarships in multi-phase electricity generation to take advantage of the potential of renewable 
+energy. This also supported the development of algorithms to maximise the power of solar energy panels, 
+optimising biodiesel production using local fruits, testing new technologies for biogas production with 
+industrial effluents and studying the wind potential in the Chaco region (CONACYT, 2013).
+At the international co-operation level, there are agreements to provide training and education to 
+professionals from ANDE and the VMME.16 OLADE has implemented Virtual Energy Training Courses (CAPEV) 
+in energy planning since 2008. In 2009, the AECID financed a co-operation programme implemented by 
+the UNDP to support the transfer of knowledge, technology and action on climate change. The initiative 
+provided support in the preparation of the National Appropriate Mitigation Actions (NAMAs) for the 
+reduction of the use of non-renewable biomass. The AECID is continuing this initiative (in collaboration with 
+OLADE) by providing technical assistance in analysing the impact of climate change on Paraguay’s energy 
+planning. The analysis includes assessing vulnerabilities and risks and identifying measures to strengthen 
+the infrastructure of the energy sector. In 2015, IRENA provided training in energy planning to harness the 
+potential in renewable energy. 
+Finally, the IDB–OLADE collaboration Energy Information System for Paraguay (SieParaguay – 2019) seeks 
+to generate the capacity to harmonise the methodology for the elaboration of the national energy balance. 
+Within this initiative, and in collaboration with EUROCLIMA (2020), the VMME prepared the National 
+Balance of Useful Energy (BNEU), which includes strengthening capacity on planning and crafting energy 
+efficiency policies.
+16 Some current agreements include OLADE, IRENA, CIER, ARPEL, FURNAS/ELETROBRAS and Itaipú Binacional.
+Heroes Pantheon - Asuncion, Paraguay.
+Image credit: Shutterstock4. Challenges and 
+Recommendations
+This section presents the main recommendations for accelerating the deployment of renewable energy in 
+Paraguay, based on the challenges identified during the Renewable Readiness Assessment (RRA) process. 
+The consultative process included a review of the literature, insights from interviews, and outcomes from 
+focus groups and multi-stakeholder roundtable discussions held during workshops, along with subsequent 
+exchanges with selected stakeholders. This section groups the recommendations in six areas and identifies 
+the main challenges for each. Within the six groupings are a total of 15 short- to mid-term actions for an 
+accelerated deployment of renewable energy in Paraguay.
+Strengthen institutional structure and governance in energy
+The Ministry of Public Works and Communications (MOPC) manages Paraguay’s energy sector through 
+the Vice-Ministry of Mines and Energy (VMME), which is responsible for establishing and guiding policy 
+regarding the use and management of the country’s natural mineral and energy resources as well as 
+overseeing the electricity sub-sector in close co-ordination with the National Electricity Administration 
+(ANDE). ANDE exercises certain regulatory functions and controls activities in the generation, transmission, 
+and distribution of electricity and street lighting. Its current responsibilities include setting electricity tariffs 
+and approving contracts for the purchase, sale and exchange of energy within and outside of the country. 
+The current institutional capacity faces constraints to guaranteeing the rapid implementation of the Energy 
+Policy. The VMME and ANDE require additional human resources, capabilities and budget to lead multisectoral responsibilities; implement national energy programmes and provide technical assistance in the 
+design of business models, installation, maintenance and certification of renewable energy technologies. 
+Specifically, the VMME needs additional operational, technical and budgetary capacity for the creation of 
+new operational units in charge of policy implementation activities. However, giving the VMME a ministerial 
+rank with its own budget and authority has proved to be challenging; seven bills were submitted to the 
+National Congress in the 2009-2020 period, but none gained approval, even though most of the energy 
+stakeholders have agreed on the need for a centralised institution for the sector. 
+The existing procedure for awarding concessions imposes additional barriers of entry for energy developers 
+of projects of any size. The National Congress is the sole entity with the power to award concessions for the 
+exploitation of natural resources, resulting in a lengthy due diligence process that is costly for independent 
+producers. 
+Action 1. Create an energy committee to ensure key energy policy implementation
+It is necessary to prioritise enhancing the governance of energy institutions in the country. This can be done 
+by strengthening capacities and increasing the budgets of existing entities or creating specialised agencies 
+to implement strategic pillars of the Energy Policy, such as energy efficiency and renewable energy. 
+As a short- to medium-term approach, the Government might consider creating an Energy Committee as 
+a transitional measure towards the eventual creation of a leading institution for the energy sector, such as 
+a Ministry of Energy. This energy committee would support the implementation of urgent actions, such as
+1) rapid implementation of the Energy Policy and 2) strengthening the Vice-Ministry of Mines and Energy and transforming energy sector institutions. This committee should have competencies and autonomy, in 
+order to lead these actions and effectively implement development policies and national commitments. 
+Without this guidance, development of the Paraguayan energy sector will be hindered due to the absence 
+of a clear directive and leadership in the sector. 
+Furthermore, this committee should have a defined structure and include representatives from the key 
+energy institutions in the country as well as members of parliament, legislators, and representatives from 
+judicial institutions and industrial associations. The aim would be to raise awareness of the relevance of the 
+energy sector for the economic development of Paraguay as well as the specific needs that will help foster 
+it. Immediate committee actions might include integrating members of congress on inter-institutional 
+committees, preparing studies on the potential benefits of energy reforms, enhancing inter-institutional 
+co-ordination, and developing a clear action plan to ensure implementation of the national energy policy, 
+among others. 
+Action 2. Foster an independent regulatory environment
+To promote the development and growth of the energy sector, the country needs to establish a strong 
+regulatory environment. The purpose of this would be to prepare further regulation, supervision, and 
+oversight of compliance with legal and regulatory provisions and technical standards on the production, 
+storage, transport, and distribution of liquid fuels, gas, heat and electricity. This regulatory environment, as 
+well as the required framework, could be fostered either by increasing capacity in an existing institution, or 
+by granting these responsibilities to a new institution. In any case, the regulatory body should guarantee 
+adequate and independent regulation of the different aspects of the energy sector. Additionally, the 
+proposed governance arrangement should work closely with the key energy institutions in the country 
+such as the VMME and ANDE, among others, to develop the conditions for policy and regulations in line 
+with the growing energy needs of Paraguay, the national energy plans and climate action strategies.
+An independent regulatory environment would also improve the transparency of the sector, eliminate selfregulation along value chains, strengthen leadership to enforce regulation and close regulatory gaps, and 
+impose penalties when necessary. This will also contribute to improving the electricity service to final users 
+and promote the improvement of energy infrastructure in Paraguay, including transmission and distribution 
+lines.
+In line with Action 1, an Energy Committee can also contribute to identifying the necessary adaptation 
+of the regulatory framework for the creation of an independent regulatory entity (as part of an existing 
+institution or as a new agency) and define the powers that it will be granted (consultative, arbitrative or 
+punitive).
+Action 3. Streamline administrative procedures when granting permits and concessions
+Streamlining administrative procedures when granting permits and concessions is an important step to 
+accelerate the deployment of renewable energy projects. The government may modify the process for 
+granting concessions (differentiating its requirements for small, medium, and large-scale projects) and 
+enhance co-ordination among the various government offices involved in issuing permits, to reduce project 
+delays and construction costs. 
+Creating a “single-window agency” may help to accelerate the due diligence of permits and concessions for 
+renewable energy projects and serve as a third-party office to assist in minor conflict resolution. This entity 
+can be created as an independent legal body, or included under the mandate of an existing institution. An 
+existing regulation entity should ensure that timetables for various permitting processes are clearly defined 
+and that procedures are transparent.Enhance planning, policy and the regulatory framework for renewable energy
+The National Energy Policy 2016-2040 defines key objectives for the development of the country’s energy 
+sector, including guaranteeing energy security with social and environmental responsibility; ensuring 
+access to good-quality energy services; using national energy resources; consolidating Paraguay’s role in 
+regional energy integration; and creating public awareness of the importance of energy and its sustainable 
+use, among others. 
+The STP is responsible for long-term planning of the country’s strategic sectors, including the electricity 
+sub-sector. The STP partially shares its responsibility for energy planning with the VMME, delegating to the 
+Vice-Ministry the responsibility of preparing energy projections and proposing energy policies. Long-term 
+energy planning might benefit from strengthening the co-ordination of energy institutions to agree on a 
+flowchart that highlights priority actions, estimated budgets and projected timelines. Weaknesses of such 
+co-ordination in long-term planning pose barriers to accelerating the country’s readiness to implement the 
+Energy Policy as well as having a clear pathway for development of the energy sector. 
+The strategic framework for cross-cutting energy areas of the economy is based mainly on the National 
+Development Plan 2030, which also is aligned with the national Sustainable Development Goals (SDGs). 
+The National Development Plan addresses development areas such as poverty, food security, gender 
+inequalities, access to energy in rural households and drinking water, and energy efficiency, among other 
+important aspects promoting the welfare of the Paraguayan population. Also, the National Energy Policy 
+2016-2040 considers the implementation of programmes to increase equal access to land, infrastructure 
+and agricultural technology. Legal actions to support the Nationally Determined Contribution (NDC) include 
+the National Climate Change Law, which reiterates the country’s commitment to reducing its greenhouse 
+gas emissions by 2030. 
+Paraguay can accelerate its progress in achieving its energy goals by updating strategic and regulatory 
+frameworks. Some energy action plans have unclear targets, goals and budgets for increasing the share 
+of renewables in the energy mix and reducing greenhouse gas emissions. The implementation of actions 
+to meet the targets of the NDCs should contemplate pathways to achieve energy-related goals, such as 
+modernising carbon-based and inefficient technologies used in industry; increasing the share of renewables 
+in national energy consumption; and promoting energy efficiency in buildings, households, industry and 
+the public sector. 
+Furthermore, the planning of the power sector and cross-cutting energy areas are the responsibility of 
+different institutions, which makes it difficult to have a clear roadmap of development for the energy sector, 
+omitting important aspects such as the role of electrification in end-use sectors; the need to promote 
+technologies to increase flexibility in the power sector; assessing power grid stability with the incorporation 
+of low-carbon technologies, such as electric vehicles and green hydrogen; and the potential contribution of 
+the energy sector to climate action, among others. A clear long-term energy plan can provide an important 
+basis to attract investment by setting clear rules and perspectives in the sector.
+Well-co-ordinated energy planning needs to include all the energy institutions and sectors; the provision 
+of clear targets and goals in the medium and long term; and the implementation of new technologies, such 
+as variable renewable energy, electric vehicles, green hydrogen, etc. It also needs to consider the required 
+investment in energy-related infrastructure, such as transmission, distribution and storage.
+The creation of new incentives, standards and certifications sometimes is constrained by the direction and 
+capabilities of the institutions interested in promoting them. Scattered direction across energy institutions 
+can make it difficult to create adequate conditions for the adoption of renewable energy. The key activities 
+for enhancing renewable readiness include removing the barriers to entry for new energy agents, creating 
+legal conditions for independent energy producers, and reducing the time and requirements for granting 
+concessions and permits. Action 4. Map renewable energy potential
+Paraguay has a diversity of renewable energy resources that has not yet been clearly assessed, especially for 
+variable renewable energy. Developing resource maps for the potential of solar, wind and geothermal in the 
+country using satellite data can be the first step in the identification of potential zones for the development 
+of renewable energy projects for power generation or other applications. A zoning exercise could also 
+contribute to the planning exercise and serve as a solution to economise in infrastructure expansion, by 
+focusing on specific areas of development.
+Action 5. Establish clear renewable energy targets
+Defining clear targets and actions for development of the renewable energy sector might help foster 
+commitment and integrate the economic, social, environmental and governance dimensions of sustainable 
+development. The identified targets should cover all end uses beyond power, account for electrification of 
+end uses, and highlight areas of opportunity such as electromobility and green hydrogen initiatives to take 
+advantage of power surpluses for decarbonising the transport and industrial sectors and achieving climate 
+neutrality by mid-century. 
+Defining renewable energy targets in different sectors would require co-ordinated work among energy, 
+environmental and economic institutions, aiming to capture the effects of achieving such targets and the 
+necessary measures to create a pathway towards the proposed goals. Sectorial renewable energy targets 
+require a well-established set of data as the basis for developing such goals, as well as to monitor progress 
+in their implementation. 
+Additionally, developing sectorial renewable energy targets needs to consider the policy, regulations and 
+investment required to bring those ambitions to reality. A dedicated Energy Committee (as presented in 
+Action 1) can facilitate the co-ordination of the country institutions, taking a holistic approach that is able 
+to set achievable goals.
+Action 6. Enhance long-term energy planning practices for the development of a national 
+energy plan 
+The planning responsibilities for the energy sector are scattered among different institutions; therefore, it is 
+necessary to co-ordinate them towards execution and evaluation of both the long-term national electricity 
+plan as well as the development of the broader National Energy Policy. An updated National Energy 
+Plan should consider the end-use sectors (transport, industry, buildings) and the power sector, including 
+flexibility options and trends in low-carbon technologies. Additionally, a national energy plan should be 
+aligned with climate action components such as targets as part of the Nationally Determined Contributions 
+(NDCs).
+The STP and the VMME in co-ordination with key energy institutions can define long-term planning through 
+the preparation of sectoral plans (agriculture, transport, energy and others related to the SDGs) and longterm energy scenarios, providing guidance for the development of potential implementation roadmaps, 
+assigning clear responsibilities and a framework to monitor actions and their expected impact. 
+Many countries in Latin America are well advanced in the development of long-term energy planning as 
+well as in the elaboration of long-term energy scenarios, with recognition at the global level. Additionally, 
+most of these countries have successfully implemented renewable energy technologies and other lowcarbon technologies, in line with their own climate commitments under the Paris Agreement. Paraguay can 
+use existing regional forums and initiatives in Latin America to access best practices in the development of 
+national energy plans and learn from more experienced countries in the region.Action 7. Prepare a cross-cutting strategy to align the nexus between the National Energy 
+Policy, the SDGs and climate action
+The implications of climate change for a diverse range of issues addressed by the SDGs are worth addressing 
+in a long-term strategy in order to reach national commitments and net zero by 2050. Paraguay has great 
+potential to achieve net zero by 2050 thanks to renewable energy resources and the existing low-carbon 
+power sector. This strategy should be based on the National Energy Policy and on evaluation of the renewable 
+energy contribution to national and local economic growth. It should identify the enabling frameworks that 
+are required to enhance the socio-economic impacts of increasing the adoption of renewable energy in the 
+country, such as job creation, gender equality, development of local industries, attractivity of investments, 
+health, among others. Additionally, the cross-cutting strategy needs to consider the nexus between renewable 
+energy and the SDGs, for instance improving health services, enhancing food security, water availability, 
+securing sustainable energy for all, and women’s empowerment, among others. 
+Furthermore, the cross-cutting strategy needs to assess the potential of renewable energy in achieving the 
+climate commitments of the country, aligning it to the NDC. For instance, Paraguay’s terrestrial ecosystems 
+may be profoundly altered through increased land-use change and forestry activities, desertification, 
+invasive species and other climate-related factors. Renewable energy is a direct solution to provide resilient 
+energy infrastructure and mitigate the effects of climate change. Likewise, strategic plans for developing 
+and modernising the agricultural and industrial sectors could facilitate better land use and improve forestry 
+activities. The use of variable renewable energy can help reduce the excessive use of forests as a source of 
+fuelwood for biomass as well as contribute to decreasing the energy intensity of processes used for converting 
+biomass into fuel. 
+The government should also consider that, while energy-related actions can promote the adoption of efficient 
+and renewable energy, its links to the various aspects reflected in the SDGs provide the sector with a high 
+potential to secure sustainable economic growth in the country. Simultaneously, it can help to mitigate 
+greenhouse gas emissions and serve as a key part of the measures considered in climate adaptation strategies.
+Action 8. Create enabling frameworks for the wide adoption of renewable energy 
+technologies
+The government may prioritise actions to bring clear legislation and suitable environment for attracting 
+independent energy investors and increasing the diversification of the energy mix. Key actions to implement 
+effective regulations might include reaching agreements through expanding the scope of sustainable biofuels 
+roundtable discussions to other renewable energy applications and gaining consensus with energy producers 
+regarding actions for increasing their participation in energy markets. The government may consider revising 
+regulations that limit power sector returns on investments and constrain the options for negotiating long-term 
+power purchase agreements and removing barriers of entry for experienced international energy developers.
+Agreements between the public and private sectors might improve the effectiveness of new laws and facilitate 
+identifying and prioritising adequate incentives, regulations and guarantees to attract new investments within 
+the assessment process.
+Introducing energy standards may promote innovation among manufacturers and technology importers. 
+Standards might help regulated technologies become more homogeneous by making them all efficient, safe 
+and low-carbon appliances. Additionally, further work on the certification of the sustainable use of biomass is 
+required, due to the importance of this energy source in the total energy supply of the country. 
+As a result of the previous assessment and its findings, the VMME will be able to define a roadmap of priority 
+regulations that require the preparation of national standards. The effectiveness of a regulatory framework 
+will benefit from including analyses of the economic, environmental and social impacts of new standards 
+and regulations on renewable energy and energy efficiency. The government can harness the existing coordination among the National Institute of Technology, Standardization and Metrology (INTN); the National 
+Council of Science and Technology (CONACYT); the Quality Commission and the National Accreditation Body 
+(ONA); academia; and actors with high technical capacity.Develop policy instruments and implementing initiatives to foster energy efficiency
+The country has built inter-ministerial co-ordination and set guidelines across the economic sector 
+through the National Energy Efficiency Committee (CNEE). The CNEE is responsible for preparing the 
+Energy Efficiency Plan (EEP) and assessing fiscal, financial, and tax measures and energy efficiency criteria 
+(standardisation and labelling, among others). The EEP prioritises updating the regulatory framework, 
+implementing technological innovation programmes, creating awareness and monitoring of the rational 
+use of energy, and measuring impacts. However, the plan might benefit from including specific targets 
+and local diagnostics (such as energy indicators by sector and use). Also, policy makers face difficulties in 
+changing the widespread perception that hydropower plants have sufficient capacity to cover the country’s 
+energy demand indefinitely at affordable prices. 
+Action 9. Strengthen the framework to promote energy efficiency
+Adopting a law specific to energy efficiency can provide the conditions to integrate binding policies and 
+targeted initiatives, as well as additional incentives for high-efficiency and renewable energy equipment 
+that might include discounts implemented through government programmes. Action plans can include 
+specific initiatives to promote energy efficiency in buildings, transport, households, industry and the public 
+sector. Working in co-ordination with municipalities and the Ministry of Housing, Urbanism and Habitat 
+might help to enforce sustainable construction standards. Public tenders can also drive the adoption of 
+renewable energy and energy efficiency technologies in the acquisition of goods and services. 
+Action 10. Raise public awareness on energy conservation and efficiency
+Promoting education at various levels can be a key strategy to reduce national energy demand. The 
+country could conduct public awareness campaigns on energy efficiency using lessons learned from 
+mobile education units deployed by Itaipú Binacional. The new policies and strategic framework should 
+help change the ongoing perception that Paraguay has infinite hydropower resources and emphasise that 
+the country needs to be more conscious in its use of electricity resources. Renewable energy needs to 
+be integrated into the daily lives of consumers and prosumers (those who both produce and consume 
+energy), as well as into institutional frameworks, to allow these participants to be part of the overall energy 
+transition. 
+Policies that allow for full participation in the energy system include, for example, awareness-raising 
+programmes to encourage behavioural change and policies to couple renewable energy technologies with 
+livelihoods (to enhance access). A new policy approach that prioritises diversifying the energy mix and 
+creating awareness of the rational use of energy might unite institutional efforts in the development of 
+variable renewable energy projects and the adoption of energy efficiency measures. 
+Promote the use of renewable energy beyond the power sector
+Paraguay has excellent resources for renewable energy. So far, the country has promoted renewables mainly 
+in the power sector and is missing the opportunity to increase their application in end-use sectors, which 
+could favour energy security, climate action and achievement of the SDGs. The country has a large hydro 
+resource potential, which could be used not only for power generation but also for the installation of water 
+pumping stations, food and mineral grinding. The existing solar potential can energise community centres 
+and isolated productive areas of the country, particularly in Alto Paraguay, Boquerón and Concepción. 
+The wind potential, identified as medium to high quality, is concentrated in the north-western region, 
+specifically in the department of Boquerón. 
+Paraguay comprises 55% cultivable areas (totalling 22.3 million hectares). The National Sugarcane Plan 
+2019 highlights the potential to develop 20 000 hectares of new crops by 2023 that can be used for energy 
+purposes. Between 2015 and 2019, bioethanol demand increased 56.7%, reaching a national average blending level with petrol of 26%, one percentage point above the established goal. The biodiesel market, 
+meanwhile, has not developed as expected due to a lack of competitiveness associated with the extra cost 
+of blending with diesel. 
+These energy estimates can be strengthened with additional data collection. Most of the available 
+information is based on models, extrapolations and global measurements that can be improved with data 
+gathering in the field. 
+The implementation of a “cross-cutting strategy considering the nexus of SDGs and climate actions” 
+(Action 7) demands a clear structure to organise horizontal coherence across ministries and vertical 
+coherence across government levels (national, sub-national and local). For the NDCs, institutions need to 
+gain experience and have enough capacity for the design and implementation of carbon markets, carbon 
+pricing mechanisms, and monitoring, reporting and verification (MRV) systems. Further, the country might 
+benefit from adding binding guidelines and policies to support the implementation of variable energy 
+projects (energy efficiency, electric mobility and green hydrogen initiatives) in industry, building codes and 
+public procurement.
+Action 11. Develop a roadmap of clean energy technologies for the end-use sectors
+The development of a roadmap to assess the potential penetration of clean energy technologies in all the 
+sectors, in line with the NDCs and SDGs, can draw a pathway for the implementation of renewable energy 
+and low-carbon technologies in key sectors such as industry, buildings and transport. 
+The roadmap should include the evaluation of challenges as well as options to overcome them. Energy 
+efficiency and self-sufficiency, as well as the high costs of initial investments, are the main challenges across 
+sectors, along with the lack of technical skills for installation and maintenance. For instance, the industrial 
+sector should promote the modernisation of processes that use low-efficiency technologies that consume 
+biomass and diesel for heating purposes, replacing them with low-carbon and renewable technologies 
+such as solar thermal and green hydrogen, among others. 
+In agriculture, the adoption of low-carbon technologies needs to be addressed in terms of trade-offs, 
+while leveraging interactions within the water and food nexus. The implementation of renewable energy 
+technologies and the adoption of electric machinery and vehicles for food production can mitigate the use 
+of fossil fuels in the sector, enhance food security and favour a more technified and controlled land use. 
+For the transport sector, the roadmap should foster the transition to electric vehicles and at the same 
+time propose actions for the promotion of charging infrastructure. Additionally, it should assess the 
+implementation of biofuels and green hydrogen for specific applications, such as for heavy-duty vehicles, 
+and to implement the Sustainable Energy Agenda to empower new business models based on clean energy 
+solutions for all value chain stakeholders. The evaluation of initiatives to increase the adoption of clean 
+energy technologies can include strengthening the management of carbon emissions for new projects and 
+controlling greenhouse gases originating from industrial production processes; replacing fossil fuels with 
+renewable alternatives; and introducing conventional energy efficiency and conservation technologies.
+The elaboration of roadmaps should include a participatory process with different stakeholders in the 
+sectors, aiming to identify short- and medium-term responsibilities for implementation of the ambitions 
+evaluated here. The engagement of municipalities and regional governments can bring an inclusive 
+approach that also benefits local communities and seeks to provide major contributions to local economies. 
+Additionally, the roadmap should include clear targets for the penetration of low-carbon technology in 
+each sector. These targets should be in line with the national Sustainable Energy Agenda, NDCs and LTS, 
+and should highlight their link to the respective SDGs. 
+When developing strategies for the implementation of low-carbon technologies – such as green hydrogen, 
+solar PV for water irrigation, electric mobility, and biomass at the industrial level – co-ordinated action 
+between the government and industry can contribute to exploring the development of industrial parks close to the available resources, and at the same time promote the adoption of modern technologies. 
+These plans should include an assessment of the type of technology, potential application and investment 
+required. 
+Action 12. Strengthen institutional and stakeholder co-ordination beyond the power sector
+Additionally, the country can consider identifying target groups within the strategic sectors with the 
+potential to create economies of scale for developing renewable energy applications. The institutional coordination should include working with stakeholders with the potential to adopt renewable technologies 
+beyond the power sector and assessing their capacity to invest in low-carbon technologies and design 
+business models to install and deploy renewable energy technologies. The institutional and stakeholder 
+co-ordination should be under periodical revision and adjusted based on the achievement of goals set for 
+each target group. 
+Paraguay’s geographical location can also facilitate its co-operation with neighbouring countries towards 
+the achievement of regional energy integration. The country can leverage existing initiatives focused on the 
+power sector – such as Renewable Energy for Latin America and the Caribbean (RELAC) and the Regional 
+Energy Integration of the Southern Cone (SIESUR) – to expand the scope of collaboration into new areas 
+such as the trade and development of renewable heat and green hydrogen. Furthermore, the government 
+can ask multilateral institutions for technical co-operation to replicate international practices on institutional 
+and stakeholder co-ordination to promote business model innovations and create the conditions for the 
+massive deployment of renewable energy and the adoption of certified low-carbon technologies.
+Box 4. Promoting green hydrogen in Paraguay
+Paraguay is interested in using its renewable energy potential to produce green hydrogen for domestic 
+use as well as potential export to the region. In June 2021, the Government of Paraguay and the IDB 
+developed a roadmap for the use of green hydrogen in the country. The roadmap highlights Paraguay’s 
+huge potential to produce green hydrogen at competitive prices of around USD 2.2 per kilogram. The 
+national power system has the capacity to accommodate large production companies manufacturing 
+electrolytic hydrogen, without major drawbacks for the electricity balance. This manufacturing process 
+can also facilitate the co-production of electrolytic oxygen.
+The Green Hydrogen Roadmap is aligned to the National Sustainable Energy Agenda 2019-2023, as 
+it proposes green hydrogen as an energy vector that can contribute to development of the country’s 
+energy sector. The focus is on the decarbonisation of the transport sector (VMME, 2021), the largest 
+consumer of fossil fuels in Paraguay.
+The roadmap is divided into two documents: 1) a conceptual framework, containing the guidelines to 
+promote the development of green hydrogen for sustainable socio-economic growth in Paraguay; and 
+2) an innovation proposal, with guidelines for a green hydrogen supply and a utilisation demonstration 
+project in the country. 
+Currently, the Government of Paraguay, through the Vice-Ministry of Mines and Energy with assistance 
+from various international organisations, is developing a Strategy for the Use of Hydrogen in the 
+Transport Sector, including overland and river transport (OLADE, 2020).Foster investment in renewable energy technologies
+In the last decade, Paraguay has strengthened its macroeconomic situation based on fiscal rules, inflation 
+reduction targets, low public debt and adequate foreign exchange reserves (World Bank, 2020c). At 
+the beginning of 2020, its favourable investment conditions positioned it among the five countries in 
+Latin America with the lowest risk premium (World Bank, 2020d), allowing it to garner greater investor 
+confidence. 
+Despite its favourable investment conditions, Paraguay faces challenges in attracting investments in certain 
+areas of the energy sector. The main constraints for participating in energy markets are price signals for 
+independent power producers, available incentives for project developers and the difficulties of reaching 
+financing closure. Financing mechanisms are scarce, and only one known bank in the country offers green 
+financing mechanisms for non-conventional energy projects. National banks need support in filling the 
+knowledge gap on environmental and social issues related to green credit lines. Finally, the poor financial 
+performance of project developers (mainly in small and medium enterprises) increases the risk perceived 
+by commercial banks. This results in higher financing costs and lower returns on investments. 
+Action 13. Create incentives for renewable energy and energy efficiency
+Current tax and fiscal benefits can be added to a range of goods and services eligible for exemptions. Tax 
+exemptions might include further incentives for developing projects in strategic regions of the country that 
+lack infrastructure and economic development. Additional incentives for massive adoption of certified highefficiency and renewable energy equipment might include discounts implemented through government 
+programmes. The VMME can lead a task group responsible for reviewing tax and fiscal schemes and can 
+recommend modifications aligned with Energy Policy implementation. 
+The country can also consider providing technical assistance to study economies of scale for developing 
+renewable energy applications in strategic sectors, such as power, transport and agriculture, supporting 
+the organisation and professionalisation of small and medium-sized enterprises, and creating capacities in 
+commercial banks and borrowers to increase access to financing. The VMME can design and implement 
+programmes to channel additional resources directed to technical assistance to small and medium-sized 
+enterprises for assessing economies of scale and preparing energy audits and feasibility analyses.
+Action 14. Develop dedicated financial instruments for renewable energy and energy 
+efficiency
+Defining a financing mechanism for renewable energy projects using the experience of the Program to 
+Support the Diversification of the Economy (PADE) might attract the interest of both energy developers 
+and commercial banks. Meanwhile, guarantees have the potential to boost the development of renewable 
+energy in promising areas that require high investments in infrastructure – for example, green hydrogen 
+and energy storage. 
+The implementation of financing mechanisms might include credit lines backed by sovereign guarantees, 
+while for investor guarantees the Government might consider assessing investors’ risks and working with 
+development agencies to structure dedicated mechanisms for targeted sectors. Having a clear roadmap 
+to approach multilateral institutions might help to identify financial and guarantee mechanisms across 
+sectors. For example, Climate Finance Support from the GCF, the Global Environment Facility (GEF), the 
+IDB and the World Bank, among others, could be a key element for financing the implementation of small 
+and medium-scale projects on renewable energy and energy efficiency. Reinforce the continuous creation of institutional and human capacities
+The Paraguayan Model of Dual Vocational Training (MoPaDual) is used for capacity building in collaboration 
+with institutions in the energy sector. The programme offers mixed training and was developed with the 
+support of the National Service for Professional Promotion (SNPP).17 In 2018, ANDE managed a Training 
+Course in Electrical Engineering through the MoPaDual that offered degrees as industrial electricians and 
+electrotechnical technicians with SNPP training and an internship at ANDE (SNPP, 2020). In addition, 
+CONACYT, through the Program to Support the Development of Science, Technology and Innovation 
+(PROCIT), has been financing projects and scholarships in multi-phase electricity generation to take 
+advantage of the potential of renewable energy.
+The country must take actions to fill the imbalance between educational supply and demand for skills in 
+fast-growing energy-related sectors. Public and private entities need to gain additional knowledge and 
+expertise in the design, manufacture, construction, assembly and operation of renewable energy systems 
+and energy efficiency. The energy sector needs to create adequate conditions to spur innovation in the 
+design of new business models and financing mechanisms; knowledge and experience in the installation 
+and maintenance of variable energy systems; and the certification of technologies and processes for 
+the production, transport and consumption of renewable energy; as well as on project development for 
+renewable energy projects 
+Action 15. Map labour and skill demand and develop training and capacity building 
+programmes
+The country can guide its capacity building by mapping current and future technical skills needed in the 
+energy sector (private and public institutions). Mapping the needs in collaboration with academia could 
+serve to align the professional and technical demand of the country in the energy sector, with the existing 
+educational and formation programmes. Participation of the finance sector in the mapping is also key, as 
+a mechanism to create better understanding on the financing of renewable energy projects as well as to 
+improve the financial performance of local renewable project developers.
+It is equally important to address priority energy capacities. On the energy and social nexus, the capacity 
+building can prioritise actions to promote the use of sustainable, clean and affordable energy throughout the 
+socio-economic system and especially in vulnerable households, to guarantee good health conditions and 
+greater gender equality. The VMME can prepare a plan to strengthen the capacities of energy institutions. 
+It might consider working with CONACYT to include new trainings in co-ordination with the SNPP, the 
+National System of Labour Training and Education (SINAFOCAL) and energy sector companies. 
+17 Created by Law No. 1,253 in 1971.References
+ANDE (2021a), Plan Maestro de Transmisión 2021-2030 (Transmission master plan 2021-2030), 
+National Electricity Administration, Asunción, www.ande.gov.py/documentos/plan_maestro/PLAN%20
+MAESTRO%20DE%20TRANSMISION%20%202021%20-%202030.pdf (accessed July 2021).
+ANDE (2021b), Plan Maestro de Generación 2021-2040 (Generation master plan 2021-2040), National 
+Electricity Administration, Asunción, www.ande.gov.py/plan_maestro.php (accessed June 2021).
+ANDE (2019a), Memoria Anual 2019 (Annual report 2019), National Electricity Administration, Asunción,
+www.ande.gov.py/finanzas/MEMORIA_ANUAL_2019/ANDE_-_MEMORIA_ANUAL_2019.pdf 
+(accessed June 2021). 
+ANDE (2019b), Compilación Estadística 1999-2019 (Statistical compilation 1999-2019), National Electricity 
+Administration, Asunción, www.ande.gov.py/finanzas/COMPILACION_ESTADISTICA_1999_2019/ANDE_-_
+Compilacion_Estadistica_1999-2019.pdf (accessed June 2021).
+ANDE (2018a), Memoria Anual 2018 (Annual report 2018), National Electricity Administration, Asunción, 
+www.ande.gov.py/documentos_contables/651/memoria_anual_2018.pdf (accessed July 2021).
+ANDE (2018b), Memoria Anual 2017 (Annual report 2017), National Electricity Administration, Asunción, 
+www.ande.gov.py/documentos_contables/571/memoria_anual_2017.pdf (accessed August 2020). 
+ANDE (2016a), Plan Maestro de Generación 2016-2025 (Generation master plan 2016-2025), National 
+Electricity Administration, Asunción, www.ande.gov.py/documentos/plan_maestro/PM_2016_2025_Gen_
+Trans_Distrib_Telematica.pdf (accessed July 2021).
+ANDE (2016b), Memoria Anual 2016 (Annual report 2016), National Electricity Administration, Asunción, 
+www.ande.gov.py/documentos_contables/531/memoria_anual_2016.pdf (accessed August 2021).
+ANDE (2010), Memoria y balance 2010 (Annual report 2010), National Electricity Administration, 
+Asunción, www.ande.gov.py/documentos_contables/156/memoria_y_balance_2010_ande.pdf 
+(accessed August 2021).
+ANDE (1964), “Law no. 966, articles 84 and 88”, National Electricity Administration, Asunción,
+www.economia.gov.py/application/files/2714/6713/9098/1964_Ley_N_966_Carta_Organica_ANDE.pdf
+(accessed July 2021).
+AFD (2021), "Entrevista a la AFD, Agencia Financiera de Desarrollo (Interview with AFD, Paraguay's 
+Development Finance Agency)", www.afd.gov.py/noticias/entrevista-a-la-afd-329 (accessed July 2021).
+AZPA (2019), "Alcoholes, por fermentación fermentación de la melaza (Alcohols, by fermentation of 
+molasses)", Azucarera Paraguaya S.A., www.azpa.com.py/portfolio/alcoholes (accessed July 2021).
+BCP (2020), Statistical bulletins 2019-2020, Central Bank of Paraguay, 
+bcp.gov.py/boletines-estadisticos-i62 (accessed July 2021) 
+BCP (2019), Anexo estadístico del informe económico (Statistical annex of the economic report 2019), 
+Central Bank of Paraguay, www.bcp.gov.py/anexo-estadistico-del-informe-economico-i365 (accessed July 
+2021).
+CAF (2021), “Paraguay projects”, Development Bank of Latin America, 
+www.caf.com/en/countries/paraguay (accessed July 2021).CAF (2019), “CAF aprueba USD 462 millones a favor de Paraguay para inversiones que fortalecen 
+su infraestructura energética y vial (CAF approves USD 462 million to Paraguay for investments to 
+strengthen its energy and road infrastructure)", Development Bank of Latin America, www.caf.com/es/
+actualidad/noticias/2019/12/caf-aprueba-usd-462-millones-a-favor-de-paraguay-para-inversiones-quefortalecen-su-infraestructura-energetica-y-vial (accessed July 2021).
+CAF (2013), “More and better energy for Paraguayans”, Development Bank of Latin America, 
+www.caf.com/en/currently/news/2013/02/more-and-better-energy-for-paraguayans (accessed July 2021).
+CONACYT (2019), “Investigadores de la FIUNA instalaron aerogenerador que podría abastecer de 
+electricidad a comunidades aisladas (FIUNA researchers installed a wind turbine that could supply 
+electricity to isolated communities)”, National Council of Science and Technology, www.conacyt.gov.
+py/investigadores-fiuna-instalaron-aerogenerador-podria-abastecer-electricidad-comunidades-aisladas
+(accessed July 2021).
+CONACYT (2013), Reporte de avances de programas de apoyo a la ciencia, tecnología e innovación en 
+Paraguay 2011-2012 (Report on the progress of programs to support science, technology and innovation in 
+Paraguay 2011-2012), National Council of Science and Technology, Asunción, 
+www.conacyt.gov.py/sites/default/files/ANUARIO_PROCIT_2011-2012.pdf (accessed July 2021).
+DECI (2019), Reporte de competitividad global 2019: Análisis de los resultados para la República del 
+Paraguay (Global competitiveness report 2019: Analysis of the results for the Republic of Paraguay), 
+Department of Commercial Strategies and Integration, Asunción, https://economia.gov.py/application/
+files/4315/7480/0867/Reporte_de_competitividad_global_2019.pdf (accessed September 2020). 
+DGEEC (2019), “Principales resultados de pobreza monetaria y distribución de ingreso 2019 (Main results 
+of monetary poverty and income distribution 2019)”, General Directorate of Statistics, Surveys and 
+Censuses, Asunción, www.ine.gov.py/Publicaciones/Biblioteca/documento/5781_Pobreza%20Monetaria%20
+2019_Boletin.pdf (accessed July 2021). 
+DGEEC (2016), “Encuesta de indicadores múltiples por conglomerado – MICS-Paraguay 2016 (Survey of 
+multiple indicators by conglomerate – MICS-Paraguay 2016)”, General Directorate of Statistics, Surveys 
+and Censuses, Asunción, www.ine.gov.py/publication-single.php?codec=Mjg= (accessed July 2021).
+DGEEC (2015), Proyección de la población nacional, áreas urbana y rural por sexo y edad, 2000-2005 
+(Projection of the national population, urban and rural areas by sex and age, 2000-2025), General 
+Directorate of Statistics, Surveys and Censuses, Asunción, www.dgeec.gov.py/Publicaciones/Biblioteca/
+proyeccion%20nacional/Estimacion%20y%20proyeccion%20Nacional.pdf (accessed August 2020).
+DNCC/MADES (2021), “Actualización de la NDC de la República del Paraguay al 2030 (Updated 
+submission of Paraguay's NDC to 2030)”, Climate Change Department / Ministry of Environment 
+and Sustainable Development, Asunción, www4.unfccc.int/sites/ndcstaging/PublishedDocuments/
+Paraguay%20First/ACTUALIZACIÓN%20DE%20LA%20NDC%20DEL%20PARAGUAY_Versión%20Final.pdf
+(accessed August 2021)
+DRA (2021), “Estadística de matriculaciones correspondiente al periodo: Octubre año 2000 a Junio 
+año 2021 (Statistics of enrollment corresponding to the period: October 2000 to June 2021)”, National 
+Registry of Motor Vehicles, www.pj.gov.py/contenido/155-direccion-del-registro-de-automotores/2119
+(accessed July 2021).
+ECLAC (2019), Preliminary overview of the economies of Latin America and the Caribbean – Paraguay, 
+Economic Commission for Latin America and the Caribbean, Santiago, https://repositorio.cepal.org/
+bitstream/handle/11362/45000/97/BPE2019_Paraguay_es.pdf (accessed July 2021).
+FAO (2019), “Data”, Food and Agriculture Organization of the United Nations, 
+www.fao.org/faostat/en/#data (accessed July 2021).FAO (2018), Sostenibilidad de la biomasa forestal para energía y del etanol de maíz y caña de azúcar en 
+Paraguay (Sustainability of forest biomass for energy and of corn and sugarcane ethanol in Paraguay). 
+Working paper no. 70, Food and Agriculture Organization of the United Nations, Rome, 
+www.fao.org/3/i9576es/I9576ES.pdf (accessed August 2020). 
+FIUNA (2019), “Realizaron el diseño y construcción de un prototipo de un pequeño aerogenerador de eje 
+vertical y el análisis de su eficiencia (Design and construction of a prototype of a small vertical axis wind 
+turbine and the analysis of its efficiency)”, Facultad de Ingeniería de la Universidad Nacional de Asunción, 
+www.ing.una.py/?p=41015 (accessed July 2021).
+GCF (2020), “FP128: Arbaro Fund – Sustainable Forestry Fund”, Green Climate Fund, 
+www.greenclimate.fund/project/fp128 (accessed July 2021).
+GCF (2019), “REDD+ Results-based payments in Paraguay for the period 2015-2017”, Green Climate Fund, 
+www.greenclimate.fund/document/redd-results-based-payments-paraguay-period-2015-2017 
+(accessed July 2021).
+GCF (2018a), “FP062: Poverty, Reforestation, Energy and Climate Change Project (PROEZA)”, Green 
+Climate Fund, www.greenclimate.fund/project/fp062 (accessed July 2021).
+GCF (2018b), “FP063: Promoting private sector investments in energy efficiency in the industrial sector 
+and in Paraguay”, Green Climate Fund, www.greenclimate.fund/project/fp063 (accessed July 2021).
+Godoy, V. and R. Paredes (1995), "Acuíferos potenciales del Paraguay (Potential aquifers of Paraguay)",
+www.geologiadelparaguay.com.py/Acuiferos-Potenciales-del-Paraguay.pdf (accessed September 2020). 
+IDB (2020a), “PR-L1173: Expansión del sistema de transmisión en alta tensión y acciones de eficiencia 
+energética (PR-L1173: Design and construction of a prototype of a small vertical axis wind turbine and 
+the analysis of its efficiency)”, Inter-American Development Bank, www.iadb.org/es/project/PR-L1173
+(accessed July 2021).
+IDB (2020b), “Sustainable energy investment program (PR-O0004 and expansion of the high voltage 
+system (PR-L1173))”, Inter-American Development Bank, 
+http://idbdocs.iadb.org/wsdocs/getdocument.aspx?docnum=EZSHARE-894921464-104 (accessed August 
+2020).
+IDB (2020c), “PR-L1183: Expansion of the high voltage transmission system and energy efficiency actions 
+– phase II”, Inter-American Development Bank, www.iadb.org/en/project/PR-L1183 (accessed July 2021).
+IDB (2020d), “PR-T1285: Supporting the Preparation and Implementation of Clean Energy Projects 
+under PR-O0004 and PR-L1156”, Inter-American Development Bank, www.iadb.org/en/project/PR-T1285
+(accessed July 2021).
+IDB (2018), “PR-L1156: Rehabilitation and Modernization Program for the Acaray Hydropower Plant”, 
+Inter-American Development Bank, www.iadb.org/en/project/PR-L1156 (accessed July 2021).
+IDB (1974), “TC7408223: Complejo Hidroelectrico Itaipú (Itaipú Hydroelectric Complex)”, Inter-American 
+Development Bank, www.iadb.org/es/project/TC7408223 (accessed July 2021).
+IDB (1967), “PR0047: Proyecto Hidroelectrico Acaray I (PR0047: Hydroelectric project Acaray I)”, InterAmerican Development Bank, www.iadb.org/es/project/PR0047 (accessed July 2021).
+INPASA (2019), “Inpasa del Paraguay S.A. (Inpasa of Paraguay S.A.)”, Industria Paraguaya de Alcoholes 
+S.A., www.inpasa.com.py/es/empresa (accessed July 2021).
+IRENA (2021a), Renewable capacity statistics 2021, International Renewable Energy Agency, Abu Dhabi, 
+www.irena.org/-/media/Files/IRENA/Agency/Publication/2021/Apr/IRENA_RE_Capacity_Statistics_2021.pdf
+(accessed July 2021).IRENA (2021b), World energy transitions outlook: 1.5°C pathway, International Renewable Energy Agency, 
+Abu Dhabi, https://irena.org/-/media/Files/IRENA/Agency/Publication/2021/Jun/IRENA_World_Energy_
+Transitions_Outlook_2021.pdf
+IRENA (2021c), Climate action with renewables: Enhancing Nationally Determined Contributions, 
+International Renewable Energy Agency, Abu Dhabi, www.irena.org/-/media/Files/IRENA/Agency/Topics/
+Climate-Change/IRENAClimateActionBrochureV17.pdf..
+IRENA (2021d), Renewable Power Generation Costs in 2020, International Renewable Energy Agency, Abu 
+Dhabi, https://www.irena.org/publications/2021/Jun/Renewable-Power-Costs-in-2020 (accessed July 2021).
+IRENA (2020), Global Renewables Outlook: Energy transformation 2050, International Renewable Energy 
+Agency, Abu Dhabi, https://www.irena.org/publications/2020/Apr/Global-Renewables-Outlook-2020
+(accessed July 2021).
+IP Agency (2021), “ANDE construirá primera planta de energia solar en Paraguay (ANDE will build the 
+first solar power plant in Paraguay)”, Information Agency of Paraguay, www.ip.gov.py/ip/ande-construiraprimera-planta-de-energia-solar-en-alto-paraguay (accessed July 2021).
+IP Agency (2018), “Alcoholera en San Pedro inicia producción para abastecer demanda nacional (Alcohol 
+company in San Pedro begins production to supply national demand)”, Information Agency of Paraguay, 
+www.ip.gov.py/ip/alcoholera-de-san-pedro-inicia-produccion-para-satisfacer-demanda-local-combustibles
+(accessed July 2021).
+Itaipú Binacional (2018), Monthly management report, September 2018, Asunción, https://die.itaipu.gov.
+py/die/files/files2016/file/9_ER_GP_INFORME%20SETIEMBRE%202018%20ERGP%20vF.pdf (accessed 
+August 2020).
+Itaipú Binacional (2017), "Pesquisa, desarrollo e innovación (Research, development and innovation)", 
+www.itaipu.gov.br/sites/default/files/rs2015/es/2017/pesquisa-innovacion.html (accessed July 2021).
+Itaipú Binacional (2011a), Atlas del potencial hidroenergético del Paraguay Vol. II (Atlas of the hydropower 
+potential of Paraguay Vol. II), Asunción, www.ssme.gov.py/vmme/pdf/eficiencia/AtlasRHPYVol_II.pdf
+(accessed August 2020). 
+Itaipú Binacional (2011b), Atlas del potencial hidroenergético del Paraguay Vol. I (Atlas of the hydropower 
+potential of Paraguay Vol. I), Asunción, www.geologiadelparaguay.com.py/ITAIPU%20VOLUMEN%20I%20
+CUENCAS%20HIDRICAS.pdf (accessed July 2021).
+MADES (2021), NDCs de la República del Paraguay (NDCs of the Republic of Paraguay), Ministry of 
+Environment and Sustainable Development, http://dncc.mades.gov.py/ndcs-de-la-republica-del-paraguay
+(accessed July 2021).
+MADES (2019), Inventario nacional de gases de efecto invernadero (National inventory of greenhouse 
+gases), Ministry of Enviornment and Sustainable Development, Asunción, http://dncc.mades.gov.py/
+wp-content/uploads/2019/10/Resumen-del-cap%C3%ADtulo-del-INGEI-del-Segundo-Informe-Bienal-deActualización-del-Paraguay-–-IBA2.pdf (accessed August 2021).
+MIC (2019), “Instalarán planta de biocombustibles en Paraguay (A biofuel plant will be installed in 
+Paraguay)”, Ministry of Industry and Commerce, www.mic.gov.py/mic/w/contenido.php?pagina=2&id=1255
+(accessed July 2021).
+MIC (2018), “Base de datos estadísticos del MIC 2018 (MIC Statistical database 2018)”, Ministry of Industry 
+and Commerce, www.mic.gov.py/mic/w/mic/pdf/BaseDatos_201811-Nov.xlsx (accessed July 2021).
+MOPC (2021a), “M.O.P.C. Nº 1366/2021”, Ministry of Public Works and Communication, Asunción. 
+MOPC (2021b), “M.O.P.C. Nº 1060/2021”, Ministry of Public Works and Communication, Asunción.MOPC (2019), “Mapa energético del Paraguay, Base cartográfica: disergemil, Elipsoide: sistema geodésico 
+WGS 84, Paraguay (Energy map of Paraguay, cartographic base: disergemil, Ellipsoid: geodetic system 
+WGS 84, Paraguay)”, Ministry of Public Works and Communication, Asunción. 
+OLADE (2020), Análisis de la sustitución de combustibles del sistema de transporte fluvial de la hidrovía 
+Paraguay-Paraná (Analysis of fuel substitution of the river transportation system of the Paraguay-Paraná 
+waterway) Waterway, Latin American Energy Organization, www.olade.org/publicaciones/analisis-desustitucion-de-combustibles-del-sistema-de-transporte-fluvial-de-la-hidrovia-paraguay-parana
+(accessed August 2021).
+PETROPAR (2019), “Planta Industrial Mauricio José Troche (Industrial Plant Mauricio José Troche)”, 
+www.petropar.gov.py/index.php/travel/planta-mauricio-j-troche (accessed July 2021).
+Republic of Paraguay (2021), “Leyes Paraguayas, presupuesto general de la nación para el ejercicio fiscal 
+2010, 2016, 2017, 2018 y 2019 (Paraguayan laws, general budget of the nation for fiscal year 2010, 2016, 
+2017, 2018 and 2019)”, www.bacn.gov.py/leyes-paraguayas (accessed July 2021).
+Republic of Paraguay (2017a), " Ley No. 5, 984, por el cual remite el estatuto de la Agencia Internacional 
+de Energías Renovables (Law No. 5, 984, which approves the statute of the International Renewable 
+Energy Agency)", http://silpy.congreso.gov.py/ley/138715 (accessed August 2021).
+Republic of Paraguay (2017b), "Ley No. 5,875, Nacional de Cambio Climático (Law No. 5,875, National 
+on Climate Change)", www.bacn.gov.py/leyes-paraguayas/8712/ley-n-5875-nacional-de-cambio-climatico
+(accessed August 2020). 
+Republic of Paraguay (2014), "Ley No. 5,169, crea la Autoridad Reguladora Radiológica y Nuclear (Law 
+No. 5,169, which creates the Radiological and Nuclear Regulatory Authority)", www.bacn.gov.py/leyesparaguayas/2945/ley-n-5169-crea-la-autoridad-reguladora-radiologica-y-nuclear (accessed August 2021).
+Republic of Paraguay (2007a), "Ley No. 3254 marco regulador del gas natural (Law. No. 3254, Natural 
+gas law)", www.bacn.gov.py/leyes-paraguayas/3301/ley-n-3254-marco-regulador-del-gas-natural 
+(accessed August 2021).
+Republic of Paraguay (2007b), "Ley No. 3239 de los recursos hídricos del Paraguay (Law No. 3239, Water 
+sources law)", www.bacn.gov.py/leyes-paraguayas/2724/de-los-recursos-hidricos-del-paraguay
+(accessed August 2021).
+Republic of Paraguay (2006), "Ley No. 3,009, de la producción y transporte independiente de energía 
+eléctrica (Law No. 3,009, on the independent production and transport of electric energy)", 
+www.bacn.gov.py/archivos/2092/20131031121528.pdf (accessed August 2020). 
+Republic of Paraguay (1995), "Ley No. 779, por la cual se establece el regimen legal para la prospección, 
+exploración y explotación de petróleo y otros hidrocarburos (Law No. 779, which establishes the 
+regime for exploration and exploitation of oil and other hydrocarbons)", www.bacn.gov.py/leyesparaguayas/2480/ley-n-779-modifica-la-ley-no-675-de-hidrocarburos-de-la-republica-del-paraguay-porla-cual-se-establece-el-regimen-legal-para-la-prospeccion-exploracion-y-explotacion-de-petroleo-y-otroshidrocarburos (accessed August 2021).
+Republic of Paraguay (1973), "Ley No. 422, Forestal ( Law No. 422, Forestry law)", 
+www.infona.gov.py/application/files/8414/2893/9388/Ley_N_422_Forestal.pdf (accessed August 2021).
+Republic of Paraguay (1964), "Ley No. 966, Que crea la Administración Nacional de Electricidad (ANDE) 
+como ente autárquico y establece su carta orgánica (Law No. 966, which creates the National Electricity 
+Administration (ANDE) as an autarkic entity and establishes its Organic Charter)", 
+www.ande.gov.py/documentos/carta_organica/LEY-966.pdf (accessed August 2020).SEAM (2016), Plan nacional de adaptación al cambio climático (National adaptation plan for climate 
+change), Department of Environment, Asunción, www4.unfccc.int/sites/NAPC/Documents/Parties/
+Plan%20Nacional%20de%20Adaptación%20al%20Cambio%20Climático_Paraguay_final.pdf 
+(accessed July 2021).
+SIEN (2019), "Balances energéticos (Energy balances)", National Energy Information System, 
+www.ssme.gov.py/vmme/nuevosien/index.html (accessed July 2021).
+SIL (2021), “Proyecto de ley: Que regula la producción de energía eléctrica a partir de fuentes de energías 
+renovables no convencionales (ERNC) no hidráulicas (Bill: to regulate the production of electricity from 
+non-conventional renewable energy source (NCRE) no hydraulic)”, Legislative Information System of 
+Paraguay, http://silpy.congreso.gov.py/expediente/123627 (accessed August 2021).
+SNPP (2020), “Aprendices del MoPaDual del SNPP realizan evaluaciones de práctica profesional en 
+la ANDE (SNPP MoPaDual apprentices had internships at ANDE)”, National Service for Professional 
+Promotion, www.snpp.edu.py/noticias-snpp/13285-aprendices-del-mopadual-del-snpp-realizan-evalucionesde-práctica-profesional-en-la-ande.html (accessed July 2021).
+STP (2019), “Presentaron proyecto regional de electromovilidad (Regional e-mobility project presented)”, 
+Technical Secretariat for Economic and Social Development Planning, www.stp.gov.py/v1/presentaronproyecto-regional-de-electro-movilidad (accessed July 2021).
+STP (2017), “Pobreza, Reforestación, Energía y Cambio Climático (PROEZA) (Poverty, Reforestation, 
+Energy and Climate Change (PROEZA))”, Technical Secretariat for Economic and Social Development 
+Planning, www.stp.gov.py/v1/marco-ambiental-y-social-del-proyecto-proeza (accessed July 2021).
+STP (2014a), Plan Nacional de Desarrollo Paraguay 2030 (National Development Plan Paraguay 2030), 
+Technical Secretariat for Economic and Social Development Planning, Asunción, 
+www.stp.gov.py/pnd/wp-content/uploads/2014/12/pnd2030.pdf (accessed July 2021).
+STP (2014b), "Residuos sólidos (solid waste)" , Technical Secretariat for Economic and Social 
+Development Planning, www.stp.gov.py/pnd/ejes-estrategicos/diagnosticos/residuos-solidos 
+(accessed July 2021). 
+UNFCCC (2021), Update of the NDC of the Republic of Paraguay, United Nations Framework Convention 
+on Climate Change, Bonn, www4.unfccc.int/sites/ndcstaging/PublishedDocuments/Paraguay%20First/
+ACTUALIZACIÓN%20DE%20LA%20NDC%20DEL%20PARAGUAY_Versión%20Final.pdf (accessed July 
+2021).
+UNFCCC (2018), Paraguay. Biennial update report (BUR). BUR 2, United Nations Framework Convention 
+on Climate Change, Bonn, https://unfccc.int/documents/192198 (accessed July 2021).
+UNFCCC (2016), “NDC Registry Paraguay”, United Nations Framework Convention on Climate Change, 
+www4.unfccc.int/sites/NDCStaging/Pages/Party.aspx?party=PRY (accessed July 2021).
+UNDP (2020), “Informe nacional sobre desarrollo humano Paraguay 2020: Desarrollo humano y energía 
+(The National Human Development Report. Paraguay 2020: Energy and Human Development)”, United 
+Nations Development Programme, www.py.undp.org/content/paraguay/es/home/library/informe-nacionalsobre-desarrollo-humano---paraguay-2020--desarr.html (accessed July 2021).
+UNDP (2018), “Presidente apoyó inicio de mejoras en planta de Mauricio José Troche con apoyo del 
+PNUD (President supported the renovation of the Mauricio José Troche Plant with the support of UNDP)”, 
+United Nations Development Programme, www.py.undp.org/content/paraguay/es/home/presscenter/
+pressreleases/2018/12/07/presidente-apoy-inicio-de-mejoras-en-planta-de-mauricio-jos-troche-con-apoyodel-pnud.html (accessed July 2021).VMME (2021), "Hacia la ruta del Hidrógeno Verde en Paraguay (Towards the Green Hydrogen Roadmap 
+in Paraguay)", Vice-Ministry of Mines and Energy, www.ssme.gov.py/vmme/index.php?option=com_
+content&view=article&id=2064&Itemid=552 (accessed August 2021).
+VMME (2020a), Balance energético nacional 2020 (National energy balance 2020), ViceMinistry of Mines and Energy, Asunción, www.ssme.gov.py/vmme/index.php?option=com_
+content&view=article&id=1805&Itemid=618 (accessed July 2021).
+VMME (2020b), Informe preliminar de energía eléctrica 2020 (Preliminary electricity report 2020), 
+Vice-Ministry of Mines and Energy, Asunción, www.ssme.gov.py/vmme/pdf/Balance2019/Informe%20
+Preliminar%20de%20Energia%20Electrica%202020.pdf (accessed July 2021). 
+VMME (2019a), Balance energético nacional 2018 (National energy balance 2018), Vice-Ministry of Mines 
+and Energy, Asunción, www.ssme.gov.py/vmme/pdf/Balance2018/BENpy2018-Estadistico.pdf 
+(accessed July 2021).
+VMME (2019b), “Organigrama Viceministerio de Minas y Energía 2019 (Organizational chart of the ViceMinistry of Mines and Energy 2019)”, Vice-Ministry of Mines and Energy, www.ssme.gov.py/vmme/images/
+organigrama/organigrama01-2019n.png (accessed July 2021).
+VMME (2017), Balance energético nacional 2016 (National energy balance 2016), Vice-Ministry of Mines 
+and Energy, Asunción, www.ssme.gov.py/vmme/pdf/balance2016/BEN%202016.pdf (accessed July 2021).
+VMME (2016), "Decreto No. 6,092, Política Energética de la República del Paraguay (Decree No. 6,092, 
+Energy Policy od the Republic of Paraguay)", Vice-Ministry of Mines and Energy, Asunción, www.ssme.
+gov.py/vmme/pdf/decretos/Anexo%20Decreto%206.092-2016(B).pdf (accessed August 2020). 
+VMME (2012), Balance energético nacional 2011 (National energy balance 2011), Vice-Ministry of Mines 
+and Energy, Asunción, www.ssme.gov.py/vmme/pdf/balance2011/BEN2011Paraguay-JULIO%202012.pdf
+(accessed July 2021).
+World Bank (2020a), “Population growth (annual %) – Latin America & Caribbean”, 
+https://data.worldbank.org/indicator/SP.POP.GROW?locations=ZJ (accessed July 2021).
+World Bank (2020b), “GDP growth (annual %) – Paraguay”, 
+https://data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG?locations=PY (accessed July 2021).
+World Bank (2020c), “Overview Paraguay”, www.worldbank.org/en/country/paraguay/overview
+(accessed July 2021).
+World Bank (2020d), “Global Economic Monitor”, 
+https://datacatalog.worldbank.org/dataset/global-economic-monitor (accessed July 2021).k (2020)Notes:

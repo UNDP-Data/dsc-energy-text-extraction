@@ -1,0 +1,1219 @@
+File Name: ZMB-NEP-2008-EN
+Year: 2008
+Country Name: Zambia
+Country Code: ZMB
+Category: NEP
+Document Title: nan
+Exists?: Y
+Publication Date: May 2008
+Start Year: 2006
+End Year: 2010
+Language: EN
+------------------------------------------------
+
+NATIONAL ENERGY POLICY
+Published by
+Ministry of Energy and Water Development
+2008FOREWORD.............................................................................................................................................. II
+ACKNOWLEDGEMENTS.......................................................................................................................III
+WORKING DEFINITIONS......................................................................................................................IV
+CONVERSION FACTORS.........................................................................................................................V
+ACRONYMS ............................................................................................................................................. VI
+INTRODUCTION ....................................................................................................................................... 1 
+SITUATION ANALYSIS ............................................................................................................................ 2
+2.1  ENERGY SITUATION IN ZAMBIA .................................................................................................... 2 
+2.1.1  BIOMASS ..................................................................................................................................... 2 
+2.1.3  ELECTRICITY ............................................................................................................................... 3 
+2.1.4  PETROLEUM................................................................................................................................. 5 
+2.1.5  COAL........................................................................................................................................... 5 
+2.1.6  RENEWABLE SOURCES OF ENERGY ............................................................................................... 6 
+2.1.7  ENERGY MANAGEMENT ............................................................................................................... 9 
+2.1.8  ENERGY PRICING ......................................................................................................................... 9 
+2.1.9  INSTITUTIONAL AND LEGAL FRAMEWORK..................................................................................... 9 
+2.1.10  HOUSEHOLD ENERGY ............................................................................................................ 10
+RATIONALE............................................................................................................................................. 11
+3.1  REVISION OF THE NATIONAL ENERGY POLICY 1994..................................................................... 11 
+3.2  MACRO­ECONOMIC POLICY ISSUES ............................................................................................. 11 
+3.3  MILLENNIUM DEVELOPMENT GOALS .......................................................................................... 12 
+3.4  VISION 2030 .............................................................................................................................. 12
+VISION AND GUIDING PRINCIPLES................................................................................................... 13
+4.1  VISION...................................................................................................................................... 13 
+4.2  GUIDING PRINCIPLES.................................................................................................................. 13
+POLICY MEASURES AND IMPLEMENTATION................................................................................. 14
+5.1  OVERALL ENERGY POLICY OBJECTIVES AND MEASURES ............................................................. 14 
+5.2  BIOMASS ................................................................................................................................... 14 
+5.3  ELECTRICITY ............................................................................................................................. 19 
+5.4  PETROLEUM............................................................................................................................... 21 
+5.5  COAL......................................................................................................................................... 23 
+5.6  URANIUM .................................................................................................................................. 23 
+5.7  RENEWABLE ENERGY SOURCES (RES)........................................................................................ 24 
+5.8  RURAL ENERGY PROVISION........................................................................................................ 25 
+5.9  ENERGY MANAGEMENT ............................................................................................................. 27 
+5.10  HOUSEHOLD ENERGY................................................................................................................. 28 
+5.11  ENERGY PRICING ....................................................................................................................... 29 
+5.12  CROSSCUTTING ISSUES............................................................................................................... 29 
+5.13  INSTITUTIONAL AND LEGAL ISSUES ............................................................................................ 32
+INSTITUTIONAL FRAMEWORK AND IMPLEMENTATION ........................................................... 33
+6.1  INSTITUTIONAL FRAMEWORK...................................................................................................... 33 
+6.2  LEGAL AND REGULATORY FRAMEWORK...................................................................................... 34 
+6.3  DATA INFORMATION AND REPORTING ......................................................................................... 34 
+6.4  FINANCING AND PRIVATE SECTOR PARTICIPATION ...................................................................... 35 
+6.5  COMMUNITY PARTICIPATION ...................................................................................................... 35 
+6.6  GENDER..................................................................................................................................... 35 
+6.7  HIV/AIDS................................................................................................................................. 36 
+6.8  RESEARCH AND DEVELOPMENT .................................................................................................. 36 
+69C36FOREWORD
+The  energy sector will continue  to play an  important part in the  development process of
+Zambia. It is, therefore, important that the policy framework is always responsive to the ever 
+increasing challenges not only in this sector but in the economy as a whole. 
+The 1994 National Energy Policy (NEP) sought to promote optimal supply and utilisation of
+energy, especially indigenous energy forms, for socio­economic development in a safe and 
+healthy environment. It is clear that the essence of the 1994 policy objectives still remain 
+valid though the social, political, environmental and economic situation has changed. The 
+changes have  prompted  a review of the  1994  NEP  and  formulation of a  new  policy that 
+takes into account the current situation in the economy and international environment.
+The  new policy sets out Government’s intentions in  the energy sector that are  aimed  at 
+ensuring  that the  sector’s potential to drive  economic  growth and  reduce  poverty  is
+harnessed. The  policy  is, therefore, a  guide  to policy makers, decision­makers and 
+development managers in  the  government, the  private  sector, Non­Governmental 
+Organisations, civil society, on Government’s intended actions in the energy sector.
+The review of the 1994 NEP was undertaken through an extensive consultative process and 
+this was key in  ensuring that the  views of all stakeholders in the  country were taken into 
+account.
+In order to ensure that the policy is implemented as desired, an action plan will be developed 
+which will be the implementation framework for this policy. It is my sincere hope that the 
+policy document will be read widely and used as a guide to Government’s intended actions
+in the energy sector.
+Kenneth Konga, MP
+Minister
+MINISTRY OF ENERGY & WATER DEVELOPMENT
+2008ACKNOWLEDGEMENTS 
+The review of the 1994 National Energy Policy and formulation of this new Energy Policy 
+for Zambia  was based  on a  consultative  process involving  all major stakeholders. 
+Accordingly, appreciation is extended  to all the stakeholders who  took  part  in the  policy 
+formulation process. These included representatives from the following institutions:
+· Traditional Leaders; · Energy Consumers; · Energy Utilities; · Research Institutions; · Cabinet Office; · Provincial Administrations; · All Government Ministries; · Non­Governmental Organisations; · Co­operating Partners; and
+· Institutions dealing with different aspects of energy 
+Special thanks go to the  Swedish  Government  for providing  financial support and  to the 
+various consultants for their invaluable  contributions regarding  finalisation  of the  new 
+policy document.
+Furthermore, the participation of all media institutions and individuals who contributed to 
+the development of this Policy is also acknowledged. 
+The successful implementation of this Policy will depend on the effective participation of
+those mentioned above and all the citizens of Zambia. 
+Peter Mumba
+Permanent Secretary
+MINISTRY OF ENERGY AND WATER DEVELOPMENT
+2008WORKING DEFINITIONS
+MEASUREMENTS
+Gigawatt­hour (Gwh) =  1,000,000 Kilowatt­hour
+Megawatt  (MW) =  1,000 Kilowatts
+* Tonne Oil Equivalent (TOE) describes the energy content of one metric tonne of crude oil, which is equivalent to 41.87 Giga joules or 11,630 Kilowatt hours (kWh).Product  Specific Gravity  Heat Content GJ/Tonne
+Arabian Light 0.858  42.62 
+Arabian Berri 0.86  42.62 
+Oman Blend  0.856  42.62 
+Iranian Heavy  0.87  42.62 
+Dubai Crude 0.856  42.62 
+Whole Naptha 0.697  43.96 
+Condensate (n.f.d.)  0.78  42.71 
+Crude (n.f.d)  0.78  42.71 
+L. P. G. 0.545  45.43 
+Regular Petrol 0.733  43.13 
+Premium Petrol 0.747  42.92 
+Kerosine 0.796  43.34 
+Jet Al 0.7965  43.34 
+L.S.G. 0.828  42.83 
+Diesel 0.8495  42.75 
+L.F.O. 0.9395  40.95 
+H.F.O. 0.949  40.82 
+Bitumen MC 30  0.93  42.71 
+Bitumen MC 80  1.022  42.71 
+Firewood  15.5 
+Charcoal 32.6 
+Coal (Zambian)  27.21CDM Clean Development Mechanism 
+CEEEZ Centre for Energy Environment and Engineering Zambia 
+CSO  Central Statistical Office
+DOE  Department of Energy 
+ECZ Environmental Council of Zambia 
+EIA  Environmental Impact Assessment 
+EPPCA  Environmental Protection and Pollution Control Act 
+ERB Energy Regulation Board 
+ESCO  Energy Service Companies
+GDP  Gross Domestic Product 
+GWh  Gigawatt hour
+HFO  Heavy Fuel Oil 
+HIV/AIDS  Human Immunodeficiency Virus/Acquired Immune Deficiency Syndrome 
+KWh  Kilowatt hour
+LFO  Light Fuel Oil 
+LPG  Liquefied Petroleum Gas
+LSG  Low Sulphur Gasoil 
+LSFO  Low Sulphur Fuel Oil 
+MDG  Millennium Development Goals
+MEWD  Ministry of Energy and Water Development 
+MFNP  Ministry of Finance and National Planning 
+MW  Megawatt 
+NDP  National Development Plan 
+NEAP  National Environmental Action Plan 
+NEP  National Energy Policy 
+NEPAD  New Economic Partnership for African Development 
+NGOs Non­Governmental Organisations
+OMCs Oil Marketing Companies
+OPPPI Office for Promotion of Private Power Investment 
+PRSP  Poverty Reduction Strategy Paper 
+PV  Photovoltaic 
+RE Renewable Energy 
+REA  Rural Electrification Authority 
+REFRural Electrification FundSADC Southern African Development Community 
+SAPP Southern African Power Pool 
+SPM Single Point Mooring 
+STI Sexually Transmitted Infections
+TB Tuberculosis
+TNDP  Transitional National Development Plan 
+TOE Tonne Oil Equivalent 
+VAT Value Added Tax 
+VCT Voluntary Counseling and Testing 
+ZCC Zambia Competition CommissionOne 
+1 INTRODUCTION
+The  first National Energy Policy (NEP) formulated  in  1994 sought to  promote  optimal 
+supply  and  utilisation  of  energy,  especially indigenous energy forms, for socio­economic
+development in  a safe  and  healthy  environment. While the essence of the  1994 Energy 
+Policy objectives remains valid, the social, political, environmental and economic situation 
+has undergone significant changes. Moreover, through implementation of the 2002 Poverty 
+Reduction  Strategy Paper  initiatives and  other related  programmes, there  is a  new 
+awareness of the integrated nature of energy in economic development. This prompted  a 
+review of NEP (1994) in order to take into account recent changes not only in the energy 
+sector and domestic economy but also the regional and international energy scenario. The 
+review of the1994  NEP  was conducted  through an extensive  consultative  process that 
+encompassed a wide cross­section of individuals and institutions in the country.
+The  new policy sets out the  Government’s intentions aimed  at ensuring  that the  energy 
+sector’s potential to drive economic growth and reduce poverty is harnessed. This policy 
+document is, therefore,  a  guide  to policy makers,  decision­makers and  development 
+managers in  the  government, private  sector, Non­Governmental  Organisations, civil 
+society, on Government’s intended actions in the energy sector.
+Some  of the  key issues that have  emerged  from the  policy review include  the  need  to 
+recognise  the  cross cutting  nature  of energy. Critical social  and  economic services like 
+health and  education, transport  and  commerce  cannot be  efficiently  and  effectively 
+provided in the absence of reliable and affordable energy services. The new energy policy 
+further  takes account of important issues such  as the  high incidence of poverty, the 
+HIV/AIDS pandemic, gender, environment and household energy, rural electrification and 
+the role of bio­fuels in Zambia’s future energy mix.
+This policy  document is divided  into six chapters. Chapter  1  is the  introduction, while 
+Chapter Two provides a critical review of the existing situation. The third Chapter outlines
+the rationale for reviewing the existing energy policy. Chapter 4 contains the vision and the 
+guiding principles for the management of the energy sector. Chapter 5 indicates the policy 
+measures required  to  achieve  the  set objectives, and  the  last Chapter  outlines the 
+mechanisms for effective policy implementation.Two 
+2 SITUATION ANALYSIS 
+2.1  Energy Situation in Zambia
+Zambia is endowed  with a wide  range of energy  resources, particularly woodlands and 
+forests, hydropower, coal and renewable sources of energy. Petroleum is the  only energy 
+source that is currently wholly imported.
+2.1.1  Biomass
+Biomass energy is the form of energy from organic matter such as wood fuel (firewood and 
+charcoal), agricultural wastes, forestry waste,  industrial/municipal organic  wastes, energy 
+crops & products and  animal waste.  Biomass energy, wood  fuel in  particular, currently 
+significantly contributes to  Zambia’s total energy consumption. Other  biomass energy 
+sources such as biofuels are being promoted to take up a larger part in the nation’s energy 
+mix.
+2.1.1.1 Woodfuel
+Woodlands and forests are  estimated to cover  about 50 million hectares or 66  percent of
+Zambia's total land area. The main sources of woodfuel are natural woodlands and forests. Given the low income levels of energy consumers and the abundance of wood resources, it 
+is foreseen that woodfuel (firewood  and  charcoal) will  continue  to dominate  Zambia’s
+energy consumption. In 2007, woodfuel  accounted for over  70% of total national energy 
+consumption. Households accounted for about 88% of woodfuel consumption. Cooking and 
+heating are the major household uses of woodfuel. According to the Ministry of Energy and 
+Water Development (MEWD) records, 60.9% of households use firewood for cooking and 
+24.3% use  charcoal while only 13.8% use electricity. In  rural areas, 87.7% of total 
+households use wood for cooking, and 9.5% use charcoal while only 1.5% uses electricity.
+Although there is no immediate woodfuel crisis in most parts of Zambia, woodfuel can no 
+longer  be  considered  as a  renewable  resource because  consumption rates are  exceeding 
+yield rates mainly as a result of inefficient production and use and the increasing population. This is particular so in areas supplying woodfuel to urban centres. Woodlands meet both 
+energy and non­energy needs. If current trends of woodland depletion continue an "energy 
+crisis" that will affect the majority of the people is likely to occur in the near future. This is
+in addition to desertification, which is already threatening some parts of the country.
+2.1.1.2 Bio fuels
+Biofuels are from energy crops like sugar cane, sweet sorghum, cassava which are used to 
+produce ethanol and  jatropha  and  other  vegetable  oil bearing  plants used  to  produce
+biodiesel. The utilisation of biofuels has now been recognised as a viable option of meeting 
+some of the country’s energy requirements considering the disruptions in petroleum supply 
+which  are  often experienced  on the  international  market. It is for this reason  that world 
+attention is now directed towards bio­fuels as an alternative to petroleum to ensure security Gel fuel is an energy source obtained from sugar molasses. The plan is to promote gel 
+fuel as an alternative to woodfuel use which has a negative impact on the environment.
+2.1.1.4 Briquettes
+Briquettes are small fuel bricks made from compressed material, often from agriculture 
+residues, saw dust, waste paper, etc. The briquettes made from cow dung, coal and other 
+agricultural residuals have the potential to meet domestic energy needs.
+2.1.1.5 Biogas
+Biogas is an inflammable  gas which is 50­70% methane. It  is obtained  when organic 
+matter  is digested  or fermented  anaerobically (in the  absence of oxygen) by micro­ organisms. Biogas can be produced from human wastecattle, goat, sheep, poultry and pig 
+manure, night soil, grass leaves, water weed and certain industrial wastes
+2.1.2  Electricity
+Electricity is the second most important energy source after woodfuel contributing 10% to 
+the  national energy supply. The  country’s hydropower  resource potential stands at an 
+estimated  6,000  Megawatts (MW), while  the  installed  capacity is only 1,760  MW as
+indicated in the table below.
+Table 1:  Current installed Electricity Generation Capacity
+No. Description Capacity (MW) Type
+1  Kafue Gorge  900  Hydro 
+2  Kariba North Bank  600  Hydro 
+3  Victoria Falls 108  Hydro 
+4  Lunsemfwa & Mulungushi  38  Hydro 
+5  Small Hydros 24  Hydro 
+6  Isolated Generation  10  Diesel 
+7  Gas Turbine (stand by) 80  Gas
+Total installed capacity  1,760
+Hydro  power plants represent 99  percent of electricity production in the  country with the 
+major sources being  Kafue Gorge, Kariba North Bank  and Victoria  Falls Power Stations. With a projected electricity demand growth estimated at 100 MW per  annum, the country 
+will  experience a  power deficit  in  2008  and  beyond. The  country’s electricity is
+predominately consumed  by the mines (Figure 1) whilst only 22% of the population have 
+access to electricity leaving the majority to depend on woodfuel and other traditional energy 
+sources for their household energy needs.Government & Service
+7%
+Industry
+4%
+Mining
+68%
+Agric 2%
+Households 19%
+Figure 1: Electricity consumption by sector
+Zambia’s national power system, grid layout and interconnections with other countries are 
+shown in Figure 2. The Zambian power system is a vital part of the Southern Africa Power 
+Pool (SAPP) through interconnections at high voltage to several countries in the region. This factor and  the  potential to increase  available  hydropower  places Zambia  in a  good 
+position to export power and provide transmission services to other countries. However, an 
+appropriate industry structure is required to facilitate private sector investment in electricity 
+sector.
+Figure 2:  Zambian Power System, National Grid, and Interconnections
+Source: ZESCO Limited, 2004Zambia imports all its petroleum requirements which contribute 9% to total national energy 
+demand. Petroleum is a key input in the mining  and transport sectors on which trade and 
+commerce depend. Established infrastructure for petroleum import and processing include 
+the  1,706­kilometre  pipeline  which runs from  Dar­Es ­Salaam in  Tanzania  to Ndola,  a 
+Petroleum Refinery with a design capacity of 1.1 million tonnes per annum and the Ndola 
+Fuel Storage Terminal.
+The  procurement of petroleum feedstock  for processing  at the  refinery is done  through 
+international competitive  bidding. The feedstock is transported through the pipeline to the 
+refinery. The  finished  products are  marketed  and  distributed  by privately owned  Oil 
+Marketing Companies (OMCs).
+In terms of petroleum consumption, the transport sector (53%) is the  biggest consumer of
+the petroleum products followed by the mining industry (27%) as shown in Figure 3 below.
+Government & Service
+4%
+Transport 
+53%
+Mining
+27%
+Commerce and
+Industry
+10% Households 6%
+Figure 3: Petroleum consumption by sector
+2.1.4  Coal
+Proven coal deposits are estimated to be over 30 million tonnes. Probable coal reserves at 
+Luangwa North, Luano, Lukusashi in the Luangwa Valley and Kahare, Chunga, Lubaba in 
+the Western trough system are believed to be in the region of several hundred million tonnes
+though more  exploration work  is required  to ascertain the  exact nature  and  extent of the 
+deposits.
+Currently Zambia has two collieries namely Maamba and Collum. Maamba Collieries has a 
+capacity of 1 million tonnes per year. However, despite the large reserves, the contribution 
+of coal to total energy has been declining over the years due to lack of capitalisation in the 
+industry which resulted in  production constraints and also the shift in demand  away from 
+coal in the mining industry.sectors (15%).
+2.1.5  Renewable Sources of Energy
+Renewable energy sources are increasingly being used but still remain insignificant in terms
+of contribution to the total national energy supply. For the purpose of this policy, renewable 
+energy sources include the following: solar (thermal and photovoltaic); minil/micro­hydro; 
+biomass (agricultural wastes, forestry waste,  industrial/municipal organic wastes, energy 
+crops & products and animal waste); geothermal, and wind.
+These  sources have  great potential for electricity production and  use  in  many  sectors. Despite this potential, in relative terms, Renewable Energy Technologies (RETs) and small­ scale  energy systems have  high investment capital costs, which  need  guarantees of longterm stable income streams to ensure financial viability. Fiscal incentives and some form of
+smart subsidies would enable the development of renewable energy projects and make them 
+financially attractive to private sector participation.
+Data on renewable energy resources data is not readily available.  While wood, petroleum 
+and hydropower will continue to be the major energy sources, for a long time, Zambia’s rich 
+potential in  these  sources of energy needs to  be exploited. Table  2  summarises the 
+availability and potential for the utilisation of renewable energy sources and technologies.
+The  potential energy output for solar  is 4.5  kWh/m2/day, which is a  modest potential 
+especially for limited irrigation. The potential off other Renewable energy sources require 
+further elaboration and quantification.
+Information on available renewable energy resources and technologies is elaborated in the 
+following sections.Renewable 
+Energy Source
+Opportunities/Use  Resource
+Availability 
+Potential Energy 
+Output
+Solar Thermal (water 
+heating), Electricity 
+(water pumping,
+lighting, refrigeration)
+6­8 sunshine 
+hours per day 
+5.5 kWh/m2/day 
+(modest potential 
+especially for limited 
+irrigation)
+Wind Electricity, Mechanical 
+(water pumping)
+Average 2.5m/s Good potential, especially for irrigation
+Micro­hydro Small grids for
+electricity supply 
+Reasonably 
+extensive 
+Requires elaboration 
+and quantification
+Biomass
+(combustion and 
+Gasification)
+Electricity generation  Agro wastes
+Forest wastes
+Sawmill wastes
+Requires elaboration 
+and quantification
+Biomass
+(biomethanation)
+Electricity generation 
+Heating and cooking 
+Animal waste 
+Municipal and 
+Industrial waste 
+Waste water
+Potential requires
+elaboration
+Biomass
+(extraction, processing for
+transport)
+Ethanol for blending 
+with gasoline to replace 
+lead as octane enhancer 
+Biodiesel as a blend or
+in stationary engines
+Sugarcane 
+Sweet sorghum 
+Jatropha 
+Requires elaboration 
+and quantification
+Biomass
+(for household 
+energy)
+Improved charcoal 
+production 
+Improved biomass stove 
+Sawmill wastes
+and indigenous
+trees from 
+sustainable 
+forest 
+management 
+Reasonably extensive
+Geothermal Electricity generation  Hot springs Requires elaboration 
+and quantification
+Source: Centre for Energy, Environment and Engineering (Z) Limited, 2004
+2.1.5.1 Mini/Micro Hydro
+Zambia has a  number  of potential sites on small rivers  suitable  for local small­scale 
+power generation. The  most promising  sites for such development are  in  the  North­ Western and Northern parts of the country, because of the topography of the terrain, the 
+geology of the ground, and high annual rainfall. Suitable  sites have  been identified  through studies on rivers with sufficient  perennial 
+flows. Based on these studies, the hydropower potential has been determined for some of
+the sites as indicated in Table 3 below.No. River Basin  Site  River Capacity, kW
+1  Zambezi  Zambezi falls Zambezi  to be determined 
+2  Zambezi  Chavuma falls Zambezi  10­20,000 
+3  Zambezi  Sachibondo  Luakela  600 
+4  Zambezi  Mwinilunga  West Lunga  2,500 
+5  Zambezi  Kapembe  Kabompo  To be determined 
+6  Zambezi  Chikata falls Kabompo  3,000 
+7  Kafue  Kasempa  Lufupa  230 
+8  Kafue  Mutanda  Lunga  400 
+9  Kafue  Kelongwa Lunga  To be determined 
+10  Chambeshi  Chandaweyaya  Chambeshi  To be determined 
+11  Chambeshi  Mbesuma ferry  Chambeshi  To be determined 
+12  Chambeshi  Shiwang'andu  Manshya  1,000kW
+2.1.5.2 Solar Energy
+Various institutions such as Non­Governmental Organisations, Churches, the private sector
+and  Government ministries such as Health and  Education have  been involved  in  the 
+dissemination of solar energy technologies. The Government through the Ministry of Energy 
+and Water Development (MEWD) has also incorporated the use of solar energy in the rural 
+electrification programme.  So far, 400  households have  been installed  with solar 
+photovoltaic (PV) systems under the Energy Service Companies (ESCOs) pilot project in 
+Nyimba, Chipata and Lundazi Districts of Eastern Province. In addition, at least 250 schools
+and Chief’s Palaces in various parts of the country have been electrified using solar energy.
+2.1.5.3 Wind Energy
+At an average speed of 2.5 metres per second, the wind regime in Zambia can be used for
+water pumping for household use and irrigation. However, in areas were the wind speed is
+above 5 meters per second, the wind regime can be used for electricity generation.
+Government has initiated pilot projects meant to promote the use of wind energy in water 
+pumping for irrigation purposes.
+2.1.5.4 Geothermal
+Zambia  has more than eighty (80) hot springs spread out in different parts of the country. Whilst the potential of most of the springs has not been examined in great detail, analysis of
+available data points to good prospects for exploiting geothermal reserves in most parts of
+the country.
+At present there  is no geothermal generation. However, following  an initiative  with the 
+Italian Government in the  mid  1980’s, Kapisya Hot Springs in Northern Province  was
+developed and 2 x 120kW turbines installed in 1987. Though the Kapisya installation is not 
+operational, there are plans to revive the plant.gyg
+Energy  Management refers to the  control and  use  of energy efficiently in  industry and 
+domestic applications aimed  at reducing  energy consumption without sacrificing 
+productivity or increasing  costs. Presently there  is very little  being  done  in  terms of
+energy management  and this calls for more attention to be directed to this important issue 
+during  policy implementation.
+2.1.7  Energy Pricing
+Energy pricing is a fundamental tool for ensuring fair and equitable supply of energy. The 
+prices of firewood, charcoal, coal and renewable energy technologies are currently market 
+driven. The pricing mechanisms for electricity and petroleum are as stated below: 
+a) Electricity: Bulk trade of electricity is determined by bilateral contracts. The parties
+to the  contracts negotiate  prices that are  subject to the  approval of the  Energy 
+Regulation Board  (ERB). Retail supply to households, commercial entities and 
+industry is governed by the Electricity Act. Currently retail prices include costs for
+generation, transmission, distribution and supply and  are  uniformly applied  across
+the  country. The  prices are  regulated  in accordance with the  Electricity Act and 
+Energy Regulation Act.
+b) Petroleum: Currently  the  pricing  formula  includes the  Refinery Gate  cost, government taxes, ERB fees, fuel levy, transport, Oil Marketing Companies (OMC)
+and  dealer  margins. The retail  pricing  of petroleum products is largely  liberalised 
+with the role  of the ERB being that of setting the wholesale  price  and monitoring 
+compliance.
+c) Other: Liquefied  Petroleum Gas (LPG) Heavy  Fuel Oil (HFO), Light Fuel Oil 
+(LFO), bitumen and  Low  Sulphur Fuel Oil (LSFO)  are  all  petroleum products, whose  pricing  is currently  set by the  feedstock  importer. The  significant price
+variances between bulk supply and retail LPG are of major concern.
+2.1.8  Institutional and Legal Framework
+Government’s liberalisation of various sectors of the economy at the beginning of the 1990s
+was the main driving force of the reforms and current institutional and legal framework in 
+the  energy sector that started  with  the  NEP  1994. New  laws were  enacted  to facilitate 
+liberalisation and ensure consistency of practices in the energy sector with other sectors. In 
+addition new institutions were also created through various laws and statutory instruments.
+This policy seeks to review and rationalise the mandates, roles, functions and relationships
+of energy sector institutions in order to address their short comings. This will result in a 
+clear separation of the functions of policy making and coordination of energy activities and 
+operations; efficient regulation of the activities of energy sector players; energy project and 
+programme implementation and financing energy projects and programmes.
+The  current legal and  institutional framework  in  the  various energy sub­sectors is as
+indicated in Table 4 below:Sub­Sector  Legal Instrument
+Biomass · Forestry Act · Environmental Protection and Pollution Control Act · Energy Regulation Act 
+Electricity · Electricity Act · Rural Electrification Act · Water Act · Environmental Protection and Pollution Control Act · Energy Regulation Act 
+Petroleum · Petroleum Act · Petroleum Production and Exploration Act · Energy Regulation Act · Environmental Protection and Pollution Control Act 
+Coal · Mines and Minerals Act · Energy Regulation Act · Environmental Protection and Pollution Control Act 
+Renewable Energy · Rural Electrification Act · Electricity Act · Energy Regulation Act
+2.1.9  Household Energy
+The Household sector is the largest consumer of energy, especially woodfuel. This energy 
+policy seeks to reduce high consumption of woodfuel and dependence through sustainable 
+provision of affordable, reliable modern energy to rural and urban households as a means of
+raising productivity and standards of living.Three
+3 RATIONALE
+3.1  Revision of the National Energy Policy 1994
+The 1994 NEP played an important role in guiding developments in the energy sector and 
+achieving several successes. One of its aims was ensuring that it was in line with the overall 
+macro–economic policy objectives and providing for increased private sector participation. For example  Government completely withdrew  from  marketing  and  distribution of
+petroleum products. However, the 1994 NEP policy did not address emerging cross­cutting 
+issues such  as the HIV/AIDS  pandemic  and its impact on the  sector. Even more 
+significantly there have been changes at sector level, domestic and international level which 
+require  addressing. Other  factors that have  necessitated  the  revision of the  1994  NEP 
+include:
+· The Government’s recognition that men and women have different energy needs and 
+requirements and respond  differently to development initiatives. Therefore,
+mainstreaming gender into the energy policy becomes a critical tool for promoting 
+efficient allocation of resources and also promoting equity.
+· HIV/AIDS devastating impact in all sectors including the energy sector, making it 
+necessary for this policy to address the issue of HIV/AIDS.
+· The need to promote sustainable development through adequate measures that will 
+ensure that environmental issues are taken into account.
+· The government’s desire to promote alternative energy sources such as biofuels and 
+LPG. The  diversification  of the  energy mix  will facilitate  increased provision  of
+modern energy services. In addition the  introduction of biofuels is expected  to 
+mitigate the high dependence on petroleum and its importation cost especially for the 
+transport sector. The promotion of these energy sources requires a comprehensive 
+legal framework.
+· The new policy aims to encourage more players to be involved in the development of
+the  electricity industry through an institutional  and  legal framework  that  will 
+promote  easier  entry into  the  electricity supply industry both at producer, supplier 
+and customer levels.
+3.2  Macro­economic Policy Issues
+Energy is an important input in any production process. . This policy, therefore, will ensure 
+that energy plays a critical role in poverty reduction and national development through its
+linkages to the other sectors of the economy. In  order to improve the country’s economic 
+performance,  Government has reverted  to  five­year national development planning.
+Currently the  Fifth  National Development Plan (2006  to 2010) is focusing  on  economic 
+stabilization and support for programmes aimed at wealth creation.Eight (8) United Nations Millennium Development Goals define the main areas of global 
+concern that affect development objectives and  related  activities. The  Revised  National 
+Energy Policy covers the socio­economic issues that impact on energy as provided under the 
+Millennium Development Goals.
+3.4  Vision 2030
+The  Vision  2030  which  articulates national sector goals and  targets calls for sustainable 
+implementation  of social  and  economic  development policies and  actions. It is based  on 
+policy research  of key national strategic issues and  consultations with the private sector, civil society and general citizenry on the long term goals and the future of Zambia. 
+The vision provides the basis for interface by all sectors and direction for short and medium 
+term plans. The vision will be made operational through the implementation of five national 
+development plans beginning with the Fifth National Development Plan (2006­2010). In this
+respect this National Energy Policy has taken account of the objectives of the Vision 2030.
+The formulation and implementation of this policy is expected to yield the following:
+· Increased  access to  modern  energy, particularly in  rural areas through various
+energy options forms; · Integrated  development that will promote  the  cross­sectoral linkages between the 
+energy sector and other key social and economic sectors such as agriculture, trade
+and  industry, transport, information and  communications technology, health and 
+education, etc ; · Security of supply of energy; · Efficient production and utilisation of energy; · Minimisation of the negative environmental and health effects of energy production,
+transportation and use; · Reduced dependence on imported petroleum and switch to locally available energy 
+supplies; · Development  of mutually beneficial co­operation in  the energy sector with other 
+countries and international organisations; · Cost  reflective pricing mechanisms; and, · Increased utilisation of renewable energy.Four 
+4 VISION AND GUIDING PRINCIPLES 
+4.1  Vision
+The National Vision 2030 for the energy sector is as follows:
+“To  provide  well developed, managed, reliable  and sustainable  energy services for the 
+improvement of the quality of life of all Zambians”
+4.2  Guiding Principles
+The energy sector guiding principles are as follows: 
+a)  Development of appropriate energy technologies and resources to enhance socioeconomic development; 
+b) Reflect  current and future energy supply needs of the country and  account for
+differing energy needs of various users; 
+c)  Develop the human resource for effective implementation of energy programmes; 
+d) Optimise  energy efficiency at the production, transformation and end­use levels; 
+e)  Provide incentives to enhance the performance of the energy sector; 
+f) Integrate  energy development into national  development interventions and 
+strategies; 
+g) Sector regulatory  autonomy  while  ensuring  efficiency  and  accountability  in 
+regulatory operations; 
+h) Resource mobilization for development of the energy sector; 
+i) Partnerships with the private sector, civil society and community groups; 
+j) Participation  of Zambian citizens in  all aspects of the  energy industry, including 
+ownership structures.Five
+5 POLICY MEASURES AND IMPLEMENTATION
+5.1  Overall Energy Policy Objectives and Measures
+The aim of this policy is to create conditions that will ensure the availability of adequate 
+supply of energy from various sources, which are  dependable, at the  lowest economic,
+financial, social and environmental cost consistent with national development goals.
+The policies in the various energy sub­sectors are highlighted in the sections that follow.
+5.2  Biomass
+Biomass energy, in  particular  firewood  and  charcoal, agricultural wastes, forestry waste 
+form the largest part of Zambia’s energy mix and is the dominant household energy source. To  improve  the standard  of living  there  is need  to switch from these  low  quality energy 
+sources to better quality energy resources such as electricity, petroleum products, biofuels
+and biogas which can be used as household fuels.
+5.2.1  Objective
+This policy seeks to ensure environmentally sustainable exploitation of the biomass resource
+by ensuring efficiency through better management and introduction of new sources such as
+bio fuels. The following are the policy measures for specific types of Biomass:
+5.2.2  Policy Measures and Strategies
+a) Providing  appropriate financial and fiscal instruments for stimulating the 
+production and use of biomass through:
+(i) Formulation of comprehensive  and  innovative  financing 
+mechanisms that will  include smart subsidies, low  interest loans, loan 
+guarantees; and 
+(ii) Provision of tax incentives and  waivers on  biomass energy capital 
+equipment;
+b) Raising public awareness on the benefits and opportunities of other modern 
+biomass energy  sources and develop  capacity  for their implementation 
+through:
+(i) Provision of information to stakeholders (financiers,  planners, 
+politicians and  general public)  on the  benefits and  opportunities of
+biomass energy; 
+(ii) Education and  creation of awareness about the  potential of biomass
+thh diitif iftidithi(iii) Supporting  training  institutions in the  area of systems design,
+installation and maintenance; 
+(iv) Development of biomass energy technologies, and providing agriculture 
+support to farmers wishing to grow energy crops (such as Jatropha, sugar 
+cane and sweet sorghum); 
+(v) Building capacity in new biomass technologies, e.g. gasification.
+c)  Develop the regulatory framework of Biomass through:
+(i) Building  the  capacity of stakeholders and  government authorities to 
+regulate biomass sub sector; 
+(ii) Establishing a  coordinating mechanism between institutions responsible 
+for energy, agriculture and forestry; 
+(iii) Reviewing and amending appropriate legislation to cater for new biomass
+energy sources like biofuels
+5.2.2.1 Woodfuel (Firewood and charcoal)
+a) Ensure better management of woodlands and forests as sustainable sources
+of woodfuel through:
+(i) Working  out management programmes for indigenous forest resources
+with stakeholders such as those in forestry agriculture; 
+(ii) Training  of technical staff and  extension workers from wildlife,
+agriculture and forestry sectors; among others.
+(iii) Encouraging the establishment of forest plantations/wood lots in current 
+or future wood deficit areas; 
+(iv) Tree planting programmes to be organised by relevant institutions in the 
+forestry and energy sectors; 
+(v) Continuous monitoring  of activities of the  woodfuel  industry such as
+price trends, volumes of production and consumption; 
+(vi) Encouraging  the  supply of modern energy to  small rural farmers  and 
+thereby increase  the  productivity of existing  cropland  and reducing  the 
+need  to engage in slash and  burn agriculture,  one  of the  sources of
+deforestation; and 
+(vii) Effective regulation of the woodfuel sector.
+b) Improve the technology of charcoal production and utilization through:
+(i) Training of charcoal producers in better organisation and management of
+charcoal production usingthetraditional kilnmethod;(iii) Development of stoves that are  efficient and  convenient to users  and 
+which produce minimal emissions; 
+(iv) Ensuring  that stove  testing  and  certification is undertaken on all new 
+designs coming on the market; 
+(v) Ensuring that information on emission levels and efficiency of stoves is
+disseminated to promote public awareness; 
+(vi) Facilitating  participation of various stakeholders such as gender  based 
+organisations, non­governmental organisations, industry, researchers and 
+other Government Departments in stove development and dissemination.
+c)  Promote  appropriate  alternatives to  woodfuel and reduce  its consumption 
+through:
+(i) Encouraging the use of alternative renewable sources of energy; and 
+(ii) Encouraging the use of kerosene, LPG and millennium gel as household 
+fuels and  agricultural fuel for activities such as flue­cured tobacco as a 
+means of reducing that industry’s consumption of woodfuel.
+d) Encourage utilisation of agro, forest and sawmill residues for combustion 
+and gasification through:
+(i) The growing of woodlots; and 
+(ii) Promoting biomass combustion and gasification technologies.
+e)  Improve revenue collection from the woodfuel industry through:
+(i) The  involvement of stakeholders such as traditional leaders, and 
+Government Departments in revenue collection and appropriation.
+f) Establish  community  based  woodfuel  resource management systems
+through:
+(i) Establishment of appropriate  mechanisms for utilising  money collected 
+by the  government through reforestation projects and  establishment of
+woodlots; and 
+(ii) Harmonisation of woodfuel resource management with other  existing 
+community based natural resource management schemes.The following are the policy measures for biofuels:
+a) Expand the role of biofuels in the national fuel mix through:
+(i) The use  of ethanol as a blend with petrol;  and 
+(ii) The  use  of bio­diesel as a  motor fuel  or blend with  diesel and other 
+productive uses like electricity generation.
+b) Ensure security of supply and stabilisation of prices of fuels by promoting 
+the utilisation of bio­fuels for transport as an alternative to petroleum by:
+(i) Supporting  the growing of energy crops; 
+(ii) Supporting investment in biofuels through appropriate incentives; 
+(iii) Supporting  the participation of Zambians in  the  biofuels industry as
+shareholders; and 
+(iv) Ensuring  that use  of biofuels for the  market is given priority  without 
+compromising food security and environmental sustainability.
+c)  Ensure  availability  of data  and information  on  market demand, resource 
+assessment and applicability of biofuels by:
+(i) undertaking studies on the economic feasibility of using biofuels; 
+(ii) undertaking  studies on needs/demand, resource and  technology 
+assessments of biofuels; and 
+(iii) building capacity to monitor and regulate biofuel production and use; 
+(iv) Building capacity in all institutions involved in the biofuels programme.
+d) Provide a legal and institutional framework for the biofuels sub­sector that:
+(i) Providing  a regulatory framework for the sub­sector; 
+(ii) Defining  the rules and guidelines for entry and exit into the sub­sector; 
+(iii) Protecting  local people involved in the sub­sector against exploitation; 
+(iv) Ensuring  security of investments in the sub­sector; 
+(v) Makingprovision for othernecessary actions intendedto createaaccordance with national priorities; 
+(vii) Providing a  cost line in the price of petroleum products, i.e. 0.5% to be 
+channelled towards the Biofuel Development Fund; 
+(viii) Facilitating  funding  to local investors and  farmers to  promote  equity 
+participation  in the biofuels programme; 
+(ix) Protecting  the environment against invasive species; 
+(x) Providing  for waste disposal; 
+(xi) Ensuring  that  Environmental Impact Assessments(EIAs) for all major
+biofuels projects; 
+(xii) Ensuring  that existing biofuels ventures undergo EIAs; 
+(xiii) Ensuring  that allocation of land  for biofuels is done  with regards to 
+possible  negative  impacts of energy crops and  alien species on the 
+environment; and 
+(xiv) Ensuring  production of Biofuels is done under correct environmental 
+management frameworks.
+e)  Support investment in the Biofuels industry through appropriate incentives, standards and research through:
+i. Provision of Biofuels incentives in  line with  existing national 
+frameworks; 
+ii. Introducing tailor­made incentives for the biofuel industry; 
+iii. Provision of standards for energy crops, biofuels quality and  blending 
+ratios; 
+iv. Ensuring  biofuel standards are  developed  in  line with the  provisions of
+existing legal frameworks; 
+v. Registering plant material for biofuels with responsible  regulatory 
+agencies; 
+vi. Supporting research and  development into all new/ alien species of
+energy crops and  their cultivation  cycles/process before  being  widely 
+promoted; 
+vii. Promoting  research to determine  which type/species of energy crops
+would give the best quality and yield of biofuels; 
+viii. Provision of funds and support to research and development of breeding,
+testing and agronomy of plants suitable for biofuels; and5.2.2.3 Other Forms of Biomass Energy Resources
+The following are the policy measures for other biomass energy resources
+a) Promote other forms of biomass energy as alternatives to woodfuel use by:
+(i) Investigating  the production and utilisation of briquettes to satisfy energy 
+needs; 
+(ii) Promoting  the use of gel fuels as a household energy; 
+(iii) Promoting  the use biogas as a source of energy for cooking, lighting and 
+other uses; and 
+(iv) Building capacity of project implementers in biomass gasifiers and other 
+technologies.
+5.3  Electricity
+Electricity peak demand has outstripped existing supply. Future mining developments will 
+put  further  pressure  on existing  generation capacity. The  hydropower resource potential 
+stands at 6,000 megawatts while installed capacity which is 99% hydro based is only 1,760 
+while the national access rate to electricity is a mere 22%.
+5.3.1  Objective
+The policy seeks to expand generation and transmission capacity and also increase access to 
+electricity.
+5.3.2  Policy measures and strategies
+Consequently the policy measures and strategies to achieve  the  above  objective are 
+highlighted below:
+a) Increase generation and transmission  capacity  for local and regional 
+markets by:
+(i) Encouraging  the  development of identified  potential hydro sites
+through transparent mechanisms, taking  cognisance of the  public 
+interest; 
+(ii) Promoting  new sources of power generation including  coal powered 
+plants, co­generation and gasification.
+(iii) Promoting local and foreign investment; 
+(i) Ptiittilt itidtii(vi) Promoting  the  need  for increased  interconnection with neighbouring 
+states in accordance with NEPAD  and  SADC objectives to achieve 
+regional optimisation; 
+(vii) Adopting an open­access transmission regime; 
+(viii) Developing a policy framework for transmission pricing  keeping in 
+mind the objectives of open access and increased  export and trade; 
+(ix) Adopting cost reflective tariffs; and 
+(x) Developing and implementing a licensing regime that is compatible with 
+an open access regime.
+b) Improve accessibility and service delivery to households, Small & Medium
+Scale Entrepreneurs (SMEs) through:
+(i) Enacting appropriate legislation for public and private sector investment 
+and participation in the power sector; 
+(ii) Application of smart subsidy mechanisms (transparent, targeted, practical 
+and benefit­based subsidies); and 
+(iii) Developing isolated grid systems with cost reflective tariffs
+c)  Improve  accessibility  and service delivery to  agriculture, tourism, manufacturing, mining and other commercial activities by:
+(i) Reinforcing and rehabilitating the distribution system in order to enhance
+quality of supply, increase efficiency and reduce cost; 
+(ii) Providing  electricity to farm blocks, new  mines and  other  industrial 
+consumers; 
+(iii) Promoting  the  use  of electricity for irrigation where  it is economically 
+feasible and in agro processing; and 
+(iv) Providing  electricity  access to social services like  schools and  health 
+centres.
+d) Improve Legislation and institutional framework through:
+(i) Reviewing/enacting  appropriate  legislation for investment in the  power
+sector; and 
+(ii) Strengthening the capacity of institutions in the energy sector and(i) Upgrading  the  testing, training  and  research infrastructure  in line  with 
+technological developments in the electricity sub­sector; 
+(ii) Building capacity of people involved in the energy sector; and 
+(iii) Promoting knowledge transfer of new technology and practices.
+5.4  Petroleum
+Petroleum is wholly imported and subject to ever increasing international prices and 
+uncertain supply. The high cost of petroleum imports affects the costs of production and 
+development programmes.
+5.4.1  Objective
+The policy seeks to ensure an adequate, reliable and affordable supply of petroleum products
+at competitive and fair prices and also the reduction in importation costs.
+5.4.2  Policy Measure and Strategies
+a) Enhance security and cost effectiveness of supply of petroleum by:
+(i) Attracting  investment in the  exploration and  development of
+hydrocarbon resources; 
+(ii) Facilitating  the  acquisition of geological and geophysical data  for
+assessing the petroleum potential of the country; 
+(iii) Building  capacity in  the relevant institutions to  monitor and  regulate 
+petroleum exploration and development; 
+(iv) Diversifying  the shareholding structure  in the petroleum refinery to 
+include other investors; 
+(v) Establishing  and  maintaining  strategic  stocks of feedstock  and  refined 
+products ; 
+(vi) Enhancing  regional cooperation in the  importation of petroleum 
+to improve security of supply; 
+(vii) Accessing  alternative international sources of petroleum supply as well 
+as alternative  procurement and  pricing mechanisms to reduce  cost and 
+supply vulnerability; 
+(viii) Facilitating  the  blending  of petroleum products with biofuels like 
+biodieseel and ethanol; 
+(ix) Effective  management of the  Single  Point Mooring  (SPM) through 
+Gttt tibtZbid(xi) Rehabilitating the existing petroleum infrastructure and running them on 
+commercial basis; and,
+(xii) Ensuring  that the  pipeline continues to be  governed,  and  operated  as
+agreed between the Zambian and Tanzania Governments.
+b) To  promote  the  participation  of Zambians in  the  Petroleum Industry 
+through:
+(i) Ensuring  that Zambians hold  shares in  OMCs and given priority to 
+participate  in all stages of supply, transportation, storage and 
+distribution.
+c)  Improve efficiency in the petroleum industry by:
+(i) Ensuring  full capacity utilisation of existing petroleum infrastructure; 
+and 
+(ii) Encouraging  investment in the  modernisation  of the  petroleum 
+infrastructure through appropriate incentives.
+d) Promote health and environmental safety in the petroleum sector through:
+(i) Transitioning from leaded to unleaded petrol in line with regional and 
+international commitments; 
+(ii) Promoting the use of bio­fuels as a fuel additives; 
+(iii) Ensuring  the  operations of the  Refinery and  Pipeline  are 
+environmentally friendly; 
+(iv) Formulating  policy and  standards on the quality of fuels including 
+reducing sulphur content in diesel; and 
+(v) Ensuring  retail outlets adhere  to  environmental, safety and  service
+standards.
+e)  Improve petroleum pricing by:
+(i) Constantly reviewing petroleum pricing to reflect existing arrangements
+in the market; 
+(ii) Engaging in long­term supply contracts; 
+(iii) Ensuring full price deregulation and competition at the pump; 
+(iv) Setting up  an incentive mechanism to mitigate high petroleum prices in 
+rural areas; and 
+(v) Encouraging low cost petroleum retailing in rural areas.(i) Putting in place early warning systems and mitigation measures; and 
+(ii) Regular reviewing of emergency systems.
+5.5  Coal
+Despite the vast proven reserves, coal continues to play a minor role in the energy mix. Its
+use as an industrial energy source has declined over the years and there is currently no 
+consumption of coal as a household fuel or for electricity generation.
+5.5.1  Objective
+To increase the contribution of coal as an energy resource to enhance social and economic 
+development, the following are the policy measures:
+5.5.2  Policy Measures and Strategies
+a) Stimulate the production and utilisation of coal by:
+(i) Attracting local and foreign investment; 
+(ii) Promoting the use of as a household energy; 
+(iii) Commercialise the production of coal briquettes; 
+(iv) Promoting the exploitation and use of coal bed methane; 
+(v) Supporting the use of coal for electricity generation; and 
+(vi) Developing separate legislation on production and exploitation of coal.
+b) Encourage further exploration of other coal deposits by:
+(i) Strengthening  the  capacity of appropriate  institutions in  hydrocarbon 
+exploration; and 
+(ii) Developing appropriate incentives for coal exploration activities.
+5.6  Uranium
+5.6.1  Objective
+The objective is to promote the exploitation of Uranium as an energy resource for social and 
+economic development.a) Stimulate the exploration and utilisation of Uranium by:
+(i) Supporting  investigations into the  use  of Uranium as an electricity 
+generating source; 
+(ii) Promoting  the  exploitation and  use  of Uranium for social and 
+developmental activities; 
+(iii) Developing separate  legislation  on the  exploration and  utilisation of
+Uranium; and 
+.
+(iv) Attracting local and foreign investment.
+5.7  Renewable Energy Sources (RES) 
+5.7.1  Objective
+The objective of this policy is to address barriers to wider dissemination of RES and also to 
+increase their deployment.
+5.7.2  Policy Measures and Strategies
+a) Ensure  availability  of data  and information  on  market  demand, resource 
+assessment and applicability of Renewable Energy Technologies (RETS) by:
+(i) Undertaking  studies on needs/demand, resource and  technology 
+assessments of RETs; and 
+(ii) Undertaking studies on the feasibility of producing and using  biofuels
+(e.g., ethanol and bio­diesel)
+b) Strengthen  the  Institutional Framework for Research  and Development, and promotion of RETS by:
+(i) Establishing a co­ordinating agency for RETs; 
+(ii) Developing  a mechanism for integration of RETs with institutions
+involved in developmental activities; 
+(iii) Integrating RETs policy in poverty reduction programs; and 
+(iv) Strengthening the capacity of institutions working on RETs.(i) Formulation of comprehensive and innovative financing mechanisms; 
+(ii) Provision of tax incentives and  waivers on renewable  energy capital 
+equipment; and 
+(iii) Ensuring  that  an equitable level of national  resources is invested  in 
+renewable energy technologies.
+d) Continue promotion, enhancement, development and deployment of RETs
+through:
+(i) Encouragement and support of local systems design, assembly and 
+manufacture of components of renewable energy technologies; and,
+(ii) Promotion of the  development and implementation of standards and 
+codes for appropriate use of renewable energy technologies.
+e)  Raise  public  awareness of the  benefits and opportunities of RETs and
+develop capacity for their implementation through:
+(i) Creation of awareness and education about the potential of renewable 
+energy through dissemination of information regarding  the  economic,
+environmental and social benefits of renewable energy technologies and 
+applications; 
+(ii) Supporting training institutions in the area of system design, installation 
+and maintenance; 
+(iii) Actively involve women in decision making and planning in renewable 
+energy programmes and activities; and 
+(iv) Inclusion of basic principles of RETs in school curriculum.
+f) Promote renewable energy technologies for electricity generation through:
+(i) Encouraging research in utilization of available technologies; and 
+(ii) Encouraging pilot projects.
+5.8  Rural Energy Provision 
+5.8.1  Objective
+The policy seeks to increase access to affordable energy in rural areas to reduce poverty and 
+promote economic growth.a) Increase supply of cost effective  energy for rural income generation 
+activities through:
+(i) Implementing measures outlined in the Rural Electrification Master 
+Plan; 
+(ii) Providing relevant subsidies for energy in rural areas;
+b) Promoting the development of energy enterprises in rural areas by:
+a.  Providing appropriate incentives to rural energy enterprises; 
+b. Providing  technical information and  support  to rural energy 
+entrepreneurs; 
+c.  Creating awareness among investors of Government programs to promote 
+rural energy supply; 
+d. Creating innovative micro­credit financial instruments; and 
+e.  Supporting applied research and development of modern energy services.
+c)  Integrate energy in development programmes by:
+(i) Linking provision of energy services to income generating projects and 
+programmes; 
+(ii) Supporting  training  institutions to create  awareness of the  role  of
+modern energy services in socio­economic development; 
+(iii) Holding  routine  meetings to ensure  that all government agencies
+coordinate their energy activities more effectively; and 
+(iv) Mainstreaming gender in rural energy provision programmes.
+d) Promote  the  dissemination  and utilisation  of modern  energy  services to 
+rural households through:
+(i) Specific  provision of energy to  home  based  economic  activities in 
+order to directly raise household incomes; and,
+(ii) Providing  training  and  technical assistance  to households to  enable 
+them to use modern energy for income generating activities.5.9.1  Objective
+The policy seeks to promote efficient use of energy resources, and substitution.
+5.9.2  Policy Measures and Strategies
+a) Promote efficient energy use practices in all sectors of the economy by:
+(i) Mounting publicity campaigns on energy conservation; 
+(ii) Encouraging energy suppliers to provide information to clients on the 
+efficient use of energy technologies that they market; 
+(iii) Encouraging  institutions to  develop  energy conservation policies and 
+programmes; 
+(iv) Influencing policy on building designs code and construction approval 
+in  favour of those  that require  less energy for heating, cooling  and 
+lighting; 
+(v) Encouraging the use of energy efficient equipment and other domestic 
+appliances through physical demonstrations; and 
+(vi) Encouraging research and development in energy efficient equipment.
+b) Substitute, wherever possible, local energy resources for imported ones by:
+(i) Increasing the contribution of renewable energy in the country’s energy 
+mix; 
+(ii) Promoting  the  blending  of petroleum  products with locally produced 
+biofuels; and 
+(iii) Encouraging  the  use  of renewable  sources of energy to meet some 
+industrial, commercial and household energy needs.
+c) Popularise energy management through:
+(i) Liaising  with training  providers to incorporate energy conservation 
+concepts and practical activities in education curricula; 
+(ii) Influencing policy on the development of appropriate infrastructure for
+less energy consuming transportation systems; and 
+(iii) Encouraging the use of bicycles, public transport and other less energy 
+consuming transport systems.
+d) Encourage the use of energy efficient equipment through:
+(i) Promulgation of equipment and appliance standards; e) Promote energy efficiency labelling and benchmarking by:
+(i) Encouraging establishment of guidelines on  performance standards of
+energy intensive equipment; 
+(ii) Encouraging regular energy audits in industry, commercial and 
+(iii) Strengthening consultancy services in the field of energy efficiency; 
+(iv) Formulating  and facilitating  implementation of pilot projects and 
+demonstration projects for promotion of efficient use of energy; and 
+(v) Preparing  educational curriculum on efficient use  of energy and  its
+conservation  for educational institutions, boards, universities or
+autonomous bodies.
+5.10  Household Energy 
+5.10.1  Objective
+This energy policy seeks to reduce  dependence  on woodfuel and  ensure  sustainable 
+provision of affordable, reliable modern energy services to rural and urban households as a 
+means of reducing poverty and raising standards of living.
+5.10.2  Policy Measures and Strategies
+a) Promote  substitution of woodfuel as a  household  fuel with  alternative 
+sources of energy by:
+(i) Encouraging  alternative fuels such as LPG and Gel fuel; and 
+(ii) Wherever possible encourage people to grow and use energy crops.
+b) Promote  energy  conservation  and substitution  at the  household  level 
+through:
+(i) Provision of incentives to encourage energy conservation  and 
+substitution; 
+(ii) Encouraging  efficient end­use  technologies and  household  energy 
+practices; and 
+(iii) Encouraging  the  use  of renewable  energy to  meet some  household 
+energy needs.
+c)  Promote the use of efficient cook stoves by:
+(i) Providing  innovative financing schemes designed to reduce the  initial 
+cost problem for low income households.(i) Setting up small and medium scale enterprises to develop  briquetting 
+technology; 
+(ii) Encouraging Research and Development in briquetting of biomass, for
+example, bagasse, maize and cotton stalks, and by­products of milling 
+and brewing processes; and 
+(iii) Encouraging  the  use  of briquetting  products through practical 
+demonstrations and pilot schemes.
+5.11  Energy Pricing 
+5.11.1  Objective
+To ensure that energy prices reflect costs of providing energy and also to take into account 
+principles of fairness and equity.
+5.11.2  Policy Measures and Strategies
+(i) Promote the use of market prices where  appropriate; 
+(ii) where  market pricing  is not feasible  or desirable, to ensure  that 
+mandated  or regulated  prices include allocation of costs among 
+consumers according to the burden they impose on the delivery system; 
+(iii) Promoting  a  reasonable  degree  of stability and  avoiding  large  price 
+fluctuations from period to period; 
+(iv) Providing a minimum level of service to consumers who are unable to 
+afford the full cost; ; and 
+(v) where  prices are  administered (regulation or promulgation), provide  a 
+reasonable return on investment. .
+5.12  Crosscutting Issues
+To mainstream cross cutting issues such as HIV/AIDS, gender and environment into the 
+planning and implementation of energy programmes, projects and activities.
+5.12.1  Gender 
+Objective ­ The overall objective is to promote gender balance in energy planning,
+management and utilization to ease the burden of poverty on all vulnerable groups
+especially women and children, at household, community and national level.) pg
+(i) Ensuring balanced representation of men and women at all levels and in 
+all spheres of energy development and management; 
+(ii) Undertaking  gender  analysis in  order  to develop  gender  sensitive 
+programmes; 
+(iii) Promoting  affirmative  action where  feasible  to enhance the 
+participation of women in the energy sector; 
+(iv) Introducing energy in school curriculum and encouraging  the girl child 
+to participate; 
+(v) Facilitating  accessibility to the  most appropriate sources of energy at 
+minimum cost for the benefit of both men and women; and 
+(vi) Promotion of research in gender and energy.
+b) Enhance women’s participation in decision­making processes by:
+(i) Meeting  the  target of 30% women representation according  to the 
+SADC protocol; 
+(ii) Ensuring gender perspectives are taken into consideration in the design 
+and implementation of energy projects and programmes; 
+(iii) Increasing  access of women to information, control, utilisation of
+resources, education, communication; and 
+(iv) Conservation of safer and affordable forms of energy among vulnerable 
+groups especially women.
+c)  Promote  links between  energy  activities and income  generating  ventures
+through:
+(i) The reduction of capital contribution charged to vulnerable groups; and 
+(ii) Provision of favourable payment terms for start up capital to vulnerable 
+groups.
+d) Harmonize  legislation on  energy  with  regional and international
+instruments on energy and gender by:
+(i) Ensuring  that the  existing  local related  policies and  legislation are  in 
+conformity with regional and  international instruments on gender  and 
+Energy; and 
+(ii) Sensitising women on local, regional and  international protocols on 
+energy andgenderObjective  – To maintain  and  strengthen existing  programmes to minimise  the  negative 
+impact of HIV/AIDS and reduce new infections in the energy sector.
+Specific policy measures are:
+a) Reduce new HIV/AIDS infections through:
+Encouraging the  introduction of preventive  and  support programmes of
+HIV/AIDS among members of staff at place of work and communities in which 
+energy projects are implemented; 
+(i) Intensifying  and  continuing HIV/AIDS  awareness among staff of
+various energy institutions; and 
+(ii) Increase access to modern energy services and reduce the vulnerability 
+of women to infection.
+b) Promote healthy and positive living by:
+(i) Extending support to people living with HIV/AIDS in the energy sector
+and in communities where energy projects are implemented; and 
+(ii) Ensuring information on STIs / HIV/AIDS is disseminated to men and 
+women  on transmission and prevention and availability of remedial 
+measures.
+c)  Put in place an  efficient and effective  monitoring, evaluation  and
+surveillance system by:
+(i) Strengthening  capacity of HIV/AIDS  focal persons at the  work  place 
+and in communities where energy projects are implemented; and 
+(ii) Establishing reporting and feedback systems at places of work.
+5.12.3  Environment
+Objective ­ To ensure that all energy sources are produced, transported, stored and utilised 
+in an environmentally friendly manner, the policy measures are aimed to address issues that 
+include: the reduced consumption of wood fuel, increasing utilisation of renewable energy 
+sources, reduction of Green House  Gas (GHG)  emissions from the  energy sector and 
+promotion of energy management as outlined above.5.13.1  Objective
+This policy seeks to review and strengthen existing institutions and legal framework.
+5.13.2  Policy Measures and Strategies
+a) Enhance  corporate  governance  and accountability  in  Energy  institutions 
+through:
+(i) Ensuring  that boards of public  energy  institutions are  composed  of
+professionally qualified and competent individuals; 
+(ii) Ensuring stakeholder representation and protection; 
+(iii) Ensuring  autonomy of board and management  and 
+(iv) Ensuring transparency in the conduct of public business.
+b) Create consumer and investor confidence by:
+(i) Regularly reviewing  the  performance of the energy sector and 
+introducing  appropriate  legal and  institutional reforms to improve 
+performance; 
+(ii) Making the operations of regulatory bodies more transparent; and 
+(iii) Publicising the regulations and operations of the regulatory bodies.
+c)  Enhance  economic  competitiveness and efficiency  in  energy  production, supply and delivery by:
+(i) Ensuring  autonomy of regulatory agencies in determining  and 
+interpretation of the provisions of regulatory obligations; 
+(ii) Discouraging uncompetitive practices; and 
+(iii) Ensuring  compliance with  provisions of the  energy legislation  and 
+supporting laws.
+d) Facilitate the building of capacity in energy institutions through:
+(i) Appropriate capacity building programmes; and 
+(ii) Performance review of staff and institutions in the energy sector ; and 
+(iii) Continuously improve the energy institutional and regal framework.Six
+6 INSTITUTIONAL FRAMEWORK AND IMPLEMENTATION 
+6.1  Institutional framework
+The  effective  implementation of the  National Energy Policy will be  greatly enhanced 
+through the participation of all key stakeholders. This Policy provides a way forward for the 
+creation of the  legal and  institutional framework under  which the  Government  intends to 
+fulfil its objective  of creating  wealth  and  improving  the  quality of life  of the  Zambian 
+people.
+The key stakeholders in the energy sector are: 
+ß Ministry of Energy and Water Development and all Government Ministries;  ß Rural Electrification Authority;  ß Energy utilities;  ß Energy Regulation Board;  ß Private institutions involved in development of energy resources;  ß Environmental Council of Zambia;  ß The Chambers of Mines;  ß The Zambia Chamber of Commerce and Industry;  ß Research institutions;  ß The Decentralization Secretariat;  ß Farmer’s Associations and Unions;  ß Professional Bodies
+The stakeholders should ensure that energy resources management and development policies
+stipulated under the specific sub­sectors in this policy are internalised and integrated in their
+sector plans.
+The Ministries and statutory bodies shall ensure that they execute policy provisions within 
+the context and confines of their legal mandates. The Ministry responsible for energy has the 
+following responsibilities under this policy: 
+(a) Formulating  national energy policies , in consultation with other stakeholders and 
+coordinating the activities and operations of energy sector agencies and ensuring the 
+proper management and development of the energy resources in accordance with the 
+guiding principles under this Policy; 
+(b) Implementation of the National Energy Policy; 
+(c) Coordination of all policy implementation functions; 
+(d) Develop, in collaboration with other stakeholders, a National Energy Strategy and 
+Plan; 
+(e) Monitor and evaluate the implementation of the strategies specified by the  various
+Ministries relating to energy; 6.2  Legal and regulatory framework
+The current legal framework for energy resource management and development is governed 
+by various Acts of Parliament such as the following: 
+ß The Constitution;  ß The Electricity Act;  ß The Energy Regulation Act;  ß Petroleum Act;  ß The Rural Electrification Act;  ß The Environmental Protection and Pollution Control Act;  ß The Zambezi River Authority Act;  ß The Local Government Act;  ß The Forestry Act;  ß The Land Act;  ß The Mines and Mineral Act.
+The  provisions of the  above  laws support  the  policy objectives for energy resources
+management and  development which will enhance  collaboration and  cooperation 
+between the key stakeholders.
+The  above  referred  to  Laws generally deal with effective  and  sustainable  energy 
+exploitation and utilisation. The effective management  of energy resources requires an 
+adequate legal and regulatory framework which promotes efficient, effective, sustainable 
+and participatory management of the national energy resources.
+For the effective implementation of objectives and strategies outlined in this Policy the 
+following measures shall be undertaken:
+· Develop and ensure an effective regulatory framework that provides guidance to all 
+actors;
+· Ensure harmonisation of all energy related legislation;
+· Develop  and  establish a  clear mechanism for the  enforcement of the  legal 
+framework; and
+· Build capacity for the enforcement of the legal and regulatory provisions.
+6.3  Data information and reporting
+The efficient management and development of energy resources will depend on accurate and 
+reliable information systems that facilitate optimal decision making. In order to achieve this,
+the following measures shall be undertaken: 
+(i) Establish and maintain an adequate data capturing system for all energy  resources; 
+(ii) Regularly undertake an assessment of energy resources; and 6.4  Financing and Private Sector Participation
+There is need to attract more investment for the development and improvement  of energy 
+infrastructure  and management of the resource in order to enhance economic  growth. In 
+order to achieve this, the following measures shall be implemented: 
+(i) Development of economically viable  and self financing  infrastructure  shall be 
+prioritised to ensure sustainability; and 
+(ii) Create an enabling environment that attracts funding and full private sector
+participation shall be created.
+6.5  Community participation
+It  is inevitable  that communities should  be  involved  at all stages of energy resource
+development and management. The views of stakeholders are valuable in reaching decisions
+and  providing  the  basis for support  in the  management of energy resources. In order to 
+achieve this, the following measures shall be implemented: 
+(i) Train communities in community energy project identification, formulation and 
+implementation so as to equip them with appropriate knowledge and skills; 
+(ii) Introduce participatory techniques in energy resource management programs,
+including the enhancement of the role of members of the  disadvantaged  groups, youth and other members of local communities; and 
+(iii) Create awareness and support from the general public and key decision 
+makers on the best practices for management and development of the  energy resources;
+6.6  Gender
+The management and development of energy resources at the grass­root level requires the 
+effective participation of both gender in the decision­ making process. Further, women play 
+a vital role in the provision and management energy resources in the rural areas need to take
+proactive  decisions on how  energy  resources are  managed  and  developed.  In order to 
+achieve this, the following measures shall be implemented: 
+(i) Accelerate  the representation of women at all levels and  in  all spheres of energy 
+development and management activities; 
+(ii) Ensure  gender  balance by defining  the  key roles played  by women, men and 
+children so that there  is no gender  discrimination in the  ownership  and 
+management of the various energy projects; 
+(iii) Based on the National Gender Policy principles, goals and objectives, gender  mainstreaming  in  energy  sector programmes will be  articulated  with 
+the  full involvement  of women in the  development and  implementation of the 
+energy policy and the related energy sector project activities; and 
+(i) Gdidtiithdt f hllbThe HIV/AIDS pandemic has impacted negatively on the energy sector and has contributed 
+to the low human resource capacity and productivity in the energy sector. There is need to 
+maintain and strengthen existing programmes to minimise the negative impact of HIV/AIDS 
+in the energy sector. In order to achieve this objective, the Government shall implement its
+HIV/AIDS policy.
+6.8  Research and Development
+The sustainable management of energy resources is largely dependant on maintaining and 
+developing  recognised  capabilities in the  field  of energy research. The  Government will 
+therefore  maintain  and develop  research capabilities in  the  energy sector and  shall 
+implement the following measures: 
+(i) Encourage interdisciplinary and  participatory research approaches that provide 
+linkages between technology and communities; and, 
+(ii) Support the standardisation of methods of data collection and processing  both  at 
+national and regional levels for use by the SADC countries.
+6.9  Capacity building
+There  is need  to build capacity in  the  energy sector in  order  to support the  legal and 
+institutional frame work as provided in this policy. To achieve this objective the following 
+measures shall be implemented: 
+(i) Recruit and train personnel in the relevant fields at all levels; 
+(ii) Create incentives aimed at retaining skilled manpower; and,
+(iii) Develop a system for evaluating personnel performance and productivity.
+6.10  Monitoring and evaluation
+In order to ensure that the  policy measures and strategies stipulated  in this document  are 
+implemented, an effective monitoring and evaluating system will be established. In addition,
+the Ministry responsible for energy shall develop  verifiable indicators for the  purpose  of
+ensuring achievement of the objectives of this Policy.

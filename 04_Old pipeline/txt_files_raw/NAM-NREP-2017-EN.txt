@@ -1,0 +1,1545 @@
+File Name: NAM-NREP-2017-EN
+Year: 2017
+Country Name: Namibia
+Country Code: NAM
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: July 2017
+Start Year: 2017
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+GOVERNMENT OF THE REPUBLIC OF NAMIBIA
+MINISTRY OF MINES AND ENERGY
+NATIONAL RENEWABLE ENERGY POLICY 
+JULY 2017Table of Contents
+Introduction....................................................................................................................................................................10
+Background and Problem Statement..........................................................................................................................10
+Rationale for a Renewable Energy Policy in Namibia.................................................................................................11
+Alignment with Existing Policies and Frameworks .....................................................................................................11
+Vision Statement ........................................................................................................................................................12
+Objectives...................................................................................................................................................................12
+Goals and Targets of the National Renewable Energy Policy .....................................................................................18
+Namibia’s Renewable Energy Sector - Background ........................................................................................................22
+Renewable Electricity in Namibia ...............................................................................................................................22
+Non-Electricity Renewables in Namibia......................................................................................................................23
+Renewable Energy Sector Strategy and Key Components..........................................................................................26
+Enabling Institutional and Regulatory Framework .....................................................................................................26
+Market Structure ........................................................................................................................................................28
+Subsidy Framework ....................................................................................................................................................29
+Power Sector Planning................................................................................................................................................30
+Third Party Grid Access & Wheeling ...........................................................................................................................31
+Net Metering ..............................................................................................................................................................32
+Energy Storage............................................................................................................................................................34
+Regional Integration ...................................................................................................................................................35
+Rural Energy and Mini Grids .......................................................................................................................................36
+Energy Efficiency and Demand Side Management.....................................................................................................40
+R&D, Innovation Support, and Standards ..................................................................................................................42
+Thermal Energy Supply ...............................................................................................................................................43
+Solar Thermal..............................................................................................................................................................43
+Geothermal.................................................................................................................................................................45
+Bioenergy....................................................................................................................................................................45
+Renewable Fuels.........................................................................................................................................................47
+Capacity Building and Skills Development..................................................................................................................49
+Land Procurement Best Practices...............................................................................................................................50
+Financing Barriers and Solutionsfor Renewable Energy in Namibia ..........................................................................50
+Potential Financial Incentives and Tax Breaks ............................................................................................................54
+Renewable Energy Development...............................................................................................................................54
+APPENDICES....................................................................................................................................................................56LIST OF FIGURES
+Figure 1: Namibia’s Installed Capacity as of January 2016 (~500MW) ......................................................................22
+Figure 2: Namibia’s total primary energy supply 2000-2011 (in TeraJoules – TJ)......................................................23
+Figure 3: Policy Evolution with Levelized Costs……………………………………………………………………………………………………….26
+Figure 4: The institutional and Regulatory backdrop of Namibia’s power sector ……………………………………………….27
+Figure 5: SADC Support Framework for Mini-Grids ….……….…………………………………………………………………………………..37
+Figure 6: Various Routes to Market for Sustainable Products …….…………………………………………………………………………39
+Figure 7: Summary of Solar Thermal Applications Relevant for Namibia ……………………………………………………………….44
+Figure 8: Impact of a Currency Hedge on the Cost of Foreign Debt ……………………………………………………………………….52
+Figure 9: Financed Systems from Solar Revolving Fund .………………………………………………………………………………………..58
+Figure 10: Average Prices for South Africa’s Renewable Energy Independent Power Producer Programme…………..61
+Figure 11: Comparison of Namibia’s REFiT with South Africa’s Small-Scale IPP Auction ….. ……………………………………62LIST OF TABLES
+Table 1: Summary of Namibia’s Power Import ..........................................................................................................22
+Table 2: Priority Areas for Energy Efficiency Policy ....................................................................................................40
+Table 3: Solar Thermal Technology Roadmap 2030 Targets by Sector......................................................................44
+Table 4: Current Off-grid and Rural Electrification Estimated Expenditure by MME................................................….57
+Table 5: Renewable Energy Incentives in the SADC ....................................................................................................60
+Table 6: Regional Feed-in-Tariff and Auction Programs for RE ...................................................................................61
+LIST OF ABBREVIATIONSAND ACRONYMS
+CSP Concentrated Solar Power
+DSM Demand Side Management
+ECB Electricity Control Board of Namibia
+FiT Feed-in-Tariff
+GCF Green Climate Fund
+GHG Greenhouse Gas
+HPP Harambee Prosperity Plan
+INDC Intended Nationally Determined Contributions
+KW Kilowatt
+kWh Kilowatt-hour
+MME Ministry of Mines and Energy
+MW Megawatt
+MWh Megawatt-Hour
+NIRP National Integrated Resource Plan
+PV Photovoltaic
+RE Renewable Energy
+REDevZ Renewable Energy Development Zones
+SADC Southern African Development Community
+TJ Terajoules
+TW Terawatt
+UNFCCC United Nations Framework Convention on Climate ChangeThe Ministry of Mines and Energy (MME) wishes to acknowledge the role of several key contributors to Namibias
+National Renewable Energy Policy.
+The Policy was prepared under the able guidance and management of the Electricity Control Board (ECB) of Namibia,
+which shepherded the Policy development process, balancing the need for a high quality, comprehensive guidance
+document with the imperative of expedited results which reflect the urgent need for this Policy.
+The Policy received input from an impressive diversity of stakeholders, too numerous to name all individually. 
+However, a special note is reserved for assistance from NamPower, the Namibia Energy Institute (NEI), the Ministry 
+of Environment and Tourism, the Ministry of Poverty Eradication and Social Welfare, the Ministry of Land Reform, 
+the Parliamentary Standing Committee on Natural Resources, and the SADC Centre for Renewable Energy and 
+Energy Efficiency.
+MME also expresses gratitude for the support and cooperation of stakeholders from the private sector, including 
+(but not limited to) Renewable Energy project developers, financial institutions, consulting firms, and industry 
+associations.
+Finally, MME acknowledges Pegasys Strategy and Development, Blue Horizon Energy Consulting Services, 3E, and 
+the Namibia Development Trust for their technical assistance to the ECB in terms of Policy formulation, stakeholder 
+engagement, and drafting support.The overarching mission of Namibias National Renewable Energy Policy is to enable access to modern, clean, 
+environmentally sustainable, and affordable energy services for all Namibians. This Policy aims to make Renewable 
+Energy a powerful tool for the Government of Namibia to meet its short-term and long-term national development
+goals, and to assist Namibians climb the development ladder, empowered by access to energy at levelsthat facilitate 
+engagement in productive activity. Additionally, the Policy’s vision is for Namibia to become a regional leader in the 
+development and deployment of Renewable Energy within southern Africa.
+The Policy espouses several objectives (each of which is expanded on in the Policy document that
+follows):
+I. Making Renewable Energy a Vehicle for Expanded Access to Affordable Electricity in Namibia
+II. Confirming the Commitment of Namibia’s Government to Renewable Energy
+III. Boosting Investor Confidence in the Growth of Renewable Energy in Namibia
+IV. Creating an Enabling Environment for Renewable Energy Development in Namibia
+V. Accelerating Renewable Energy Sector Growth and Enhancing Value Chains in the Sector
+VI. Enabling Greater Participation of Namibians in the Renewable Energy Sector
+Specific goals and targets enshrined within this Policy (further explained in detail in the following pages)
+are:
+I. Namibia to become Energy-Secure by Leveraging its Renewable Resources
+II. To optimize the Renewable Energy contribution in the country’s electricity mix
+III. To make Renewable Energy a vehicle of Income-generating Opportunities, and Poverty Alleviation 
+through Increased Access to Affordable Energy Services
+IV. To ensure Transparency of Regulatory Mechanisms and Governance Related to Renewable Energy
+V. To promote Grid-Connected and Off-Grid Renewable Energy Development
+VI. To prioritise Renewable Energy Development beyond the Electricity Sector
+VII. To pursue Climate-resilient Energy Sector Development through Renewable Energy
+VIII. To accelerate Development and Deployment of Energy Storage to Facilitate Renewable Energy
+Expansion; and
+IX. To ensure Renewable Energy Supports Accelerated Industrial Growth and Competitiveness
+The spirit of these objectives and goals is captured in the 25 Core Policy Statements articulated in this Policy, which
+cover a broad range of elements and characteristics that define the energy sector, including the power sector.
+Detailed discussions
+1. Government will ensure a Regulatory regime for large-and small-scale Renewable Energy
+generation projects for off-grid and on-grid systems in urban and rural areas as technology and 
+market develops.
+2. Government will strengthen the role of the Regulator to ensure the implementation and enforcement 
+of RE related regulations and penalize non-compliance. 
+3. Government recognises the adoption of a market structure in Namibia identified by the Government that 
+enables IPPs to generate and sell electricity to designated off-takers other than the Single Buyer only, and 
+enables distributed generation from various technologies and resources as per the adopted market model. The 
+market structure shall also enable off-grid solutions.framework shall further inform potential subsidies required for low income customers to achieve electrification 
+goals, in particular through Renewable Energy. 
+5. Government shall continue to use a long-term National Integrated Resource Plan (NIRP) approach, to serve
+as a guideline for power sector planners, IPPs, and electricity customers. The NIRP shall be revised periodically 
+to take account of Renewable Energy market and technology changes and include guidance on off-grid solutions.
+6. Government shall conduct Renewable Energy resource mapping which will be periodically updated as the 
+need arises and develops a publicly available information portal with RE technical baseline data and other 
+relevant industry documents for the country.
+7. Government shall commission a grid integration and stability study to assess grid capacity for Renewable Energy 
+absorption, and to identify ways that the grid can be upgraded to enable greater flexibility with the larger intake
+and distribution of Renewable Energy as well as storage capacity. Such a study shall be updated
+periodically as industry and technology develop.
+8. Government recognises the importance of electricity wheeling for the growth of Renewable Energy in 
+Namibia in its further development of the electricity market framework. The Regulator shall consider 
+the development of wheeling regulations that enable Renewable Energy projects (e.g. community 
+solar initiatives). These regulations shall be aligned with the electricity market structure and the 
+National Connection Charge Policy to address practical issues such as fair cost recovery for the system 
+provider (e.g. unbundled use- of-system charges, energy losses, levies, and eligibility).
+9. Government supports the requirement for distribution utilities to offer net metering as per the gazetted net
+metering rules and any such regulation that the Regulator shall develop for customers. Restrictions on the site
+capacity and caps on the distribution utility’s aggregate net metered capacity shall be determined by the
+Regulator based on technical and practical limits and updated periodically as the industry and technology
+develop.
+10. The Regulatorshall investigate and develop an alternate tariff compensation approach for embedded generation 
+specifically for Renewable Energy.
+11. Government through the Regulatorshall provide equal opportunity for energy storage solutions, by amending or
+developing relevant codes to account for energy storage. The Regulator shall also consider tariff signals that aim
+to fairly compensate the customer and incentivize storage solutions when and where it will be most useful on
+the existing network.
+12. Government shall work with the Southern African Development Community (SADC) to further enable
+Renewable Energy 
+13. Government will ensure access to modern energy services to all Namibians (at least one modern 
+ Energy service). Government supports Namibia’s modern energy access goals through the increased use of 
+economically viable and locally available Renewable Energy resources along with the expansion of the mini-grid 
+roll-out that aligns with the SADC’s mini-grid framework and Action Plan for Namibia.
+14. Government shall strengthen the management and planning of energy access programs in low -
+income and rural areas (both on and off-grid
+15. Government shall consider giving more support to the REDs, other distributors, NamPower, NPOs, and the
+private sector (e.g. through PPPs) for the design, installation, and maintenance of o ff-grid mini-grids.
+Potential solutions shall be further developed and tested along with an appropriate tariff regime and
+streamlines licensing process to support the financial viability of off-grid mini-grids.data and public education campaigns promoting the efficient use of energy.
+i. Government shall implement energy efficiency and Renewable Energy standards not only for its facilities
+but all levels nationally, including the mass housing scheme.
+17. Government shall consider expanding existing efforts (through appropriate frameworks and regulations) in
+R&D, demonstrations, and potential RE technology test sites by working with local Universities and other 
+stakeholders on projects that enable innovation in the Renewable Energy sector and encourage alternative
+business models to meet energy goals. In particular, solutions that address rural electrification goals and water
+desalination shall be prioritized.
+18. Government supports the development of standards (and the creation of Regulatory instruments to enforce)
+for the Renewable Energy and efficiency sector, with respect to technical specifications for equipment, 
+environment, health and safety, including standards for disposal at the end of any equipment’s life-cycle. This
+includes the application of best practice guidelines to ensure environmental sustainability and minimizing
+ecosystem impact.
+i. Government shall coordinate with the Namibian Standards Institution (NSI) or its successor and the
+ National Technical Committee on Renewable Energy (NTCRE) to update and enforce standards in the
+ RE and EE sectors
+19. The RE Policy supports further R&D, demonstrations, and test centres on thermal energy and RE supply
+options
+ For Namibia
+20. Government supports the Solar Thermal Technology Roadmap and its review for Namibia and its goal to
+achieve 
+ Widespread adoption of flat solar thermal collector capacity in Namibia
+21. Government shall require that solar thermal water heaters be installed in all government-financed and
+ subsidized buildings/homes and continue to work with various stakeholders to implement solar thermal
+ solutions for these projects.
+22. Government shall initiate bioenergy R&D programmes and invest in comprehensive studies of the costs and
+benefits of bioenergy, as well as the needs of a growing bioenergy industry. Based on insights learned from
+research and pilot projects, the government shall formulate and adopt a National Bioenergy Policy, with
+incentives and safeguards for renewable bioenergy, with a special focus on job-creation through the bioenergy
+development.
+23. Government shall invest in a comprehensive RE technology training programme focused on imparting technical 
+and vocational skills to Namibians, and also developing clean energy focused content at Universities.
+24. Government through the relevant Ministry shall develop standardized procedures for land acquisition on all
+ categories ofland,for RE activities,to facilitate the development of RE projects at appropriate sites. Standardized
+ models with clear and predictable requirements shall be developed in consultation with different land owner
+ categories and shall ensure adequate benefits-sharing, but shall also enable accelerated timelines for land
+access.
+25. Government shall liaise with the relevant Ministries and agencies to increase the diversity and scale of financing
+ options for public and private RE projects in NamibiaBackground and Problem Statement
+At the time of the development of this Policy, only a third of all Namibians had access to electricity.
+iii More than half
+the country continues to rely on traditional biomass for cooking, which perpetuates a disproportionate burden on
+women of fuelwood collection, preventing the inclusion of more women in productive economic activities or selfdevelopment. In addition, such reliance on solid biomass for cooking is associated with significant health problems
+and environmental degradation. Thus, there is a need for more widely accessible, cleaner energy.
+Rural areas in particular are heavily underserved, lacking essential energy services. Despite Namibia being regarded
+as an upper middle-income country, hundreds of thousands of its citizens are deprived of access to reliable and 
+affordable electricity. As Namibia moves towards its goal of providing near-universal electricity access by 2030, it
+needs to find and harness new sources of energy.
+A related reason that calls for adequate, viable, and affordable energy options in rural areas is the level of ruralurban migration, particularly to Windhoek. The City of Windhoek is an already water-stressed region, facing ever
+greater resource constraints due to the pressures of in-migration. Assuring sustainable energy in rural areas could 
+help create productive economic activities in a more dispersed manner, reducing the rapid rate of urbanization and
+the related water stress.
+Namibia is heavily susceptible to the vagaries of nature, suffering prolonged droughts, floods, heat waves, bush
+fires, and other extreme events. Climate change is expected to exacerbate natural climate variability, unleashing
+greater extremes and creating more unpredictability in Namibia’s already-fragile hydrological regime. With higher
+temperatures and higher rates of evaporation, future low-season flows in Namibia may take an already waterstressed nation into the realm of water scarcity. This has serious implications for the reliability of Namibia’s existing
+and planned hydropower generation facilities, and for the nation’s future energy security. Moreover, climate change
+is also likely to create additional demand for electricity, in the form of demand for cooling to cope with soaring
+temperatures in coming decades.
+Energy security challenges became detrimental for Namibia recently when the Southern African Power Pool (SAPP)
+faced the prospect of power shortages, arising from South Africa’s inability to meet its own domestic demand, and
+its diminished capacity to export power to the rest of the region. Currently, Namibia’s installed generation capacity
+isin the order of ~500 MW, while its demand is approximately 600 MW. The gap is made up by electricity imports. In
+orderto be energy-secure, Namibia needs to be energy-independent, given the risksin powersupply within the SADC 
+region. This requires Namibia’s bolstering its own energy generation capacity with the available domestic resources.
+Thus, Namibia must address the problem of inadequate access to electricity (especially in rural areas), the challenge
+of extending affordable energy services to underserved populations, the need for self-sufficiency and energy
+independence, while at the same time ensuring that energy sector development is climate-resilient and able to
+assure energy access even in a non-stationary natural environment.
+Renewable Energy can provide solutions for some of these challenges, if developed strategically and with foresight.
+This Policy responds to this problem statement, and will better equip Namibia to prevail over these difficulties.A National Renewable Energy Policy for Namibia is required to provide guidance to the government on how to 
+develop the Renewable Energy sector and scale-up the contribution of power from renewable sources in the 
+country’s electricity mix.
+Such a Policy acts as a compass for the government, to help direct its actions in a manner that serves the objectives, 
+goals, and targets articulated in the Policy. It is the foundation upon which formal, legally binding mandates can be 
+built, in the form of a National Renewable Energy Act for Namibia or other legislative enactments to support the 
+development of Renewable Energy.
+The Policy is also a touchstone for entities beyond the government that are interested in the growth of the 
+Renewable Energy sector, such as prospective investors trying to gauge market-readiness, donor governments 
+planning to invest in Renewable Energy abroad, multilateral development partners exploring opportunities to 
+support, Namibian citizens eager to utilize clean energy, civil society organizations and non-governmental 
+organizations (NGOs) wishing to harness Renewable Energy to extend energy access to communities, and for 
+international institutions working with nations to combat climate change and promote low-carbon development.
+While it is possible to develop the Renewable Energy sector in the absence of a Policy, the lack of formal directive 
+statements to guide the government and a clear roadmap hinders timeous and measurable progress. Development 
+takes place in less cohesive and in less strategic waysthat are not as closely tied to national developmental priorities.
+Moreover, in the absence of a recognized and publicly available Policy document,the government isless accountable
+for its actions to scale up Renewable Energy, or its failure to adequately do so.
+A Policy is necessary to both recognize major barriers that stand in the way or constrain the development of 
+Renewable Energy, and to create an enabling environment that reduces or eliminates such barriers, and fosters 
+accelerated development of Renewable Energy.
+In light of this, a formal, written Policy is called for that is adopted by Cabinet and officially implemented by the
+Government of Namibia.
+Alignment with Existing Policies and Frameworks
+The complexity of Namibia’s energy sector – and the central role of energy in supporting broader national 
+development – manifests in a multiplicity of Policy documents and frameworks that touch on themes relevant to the
+National Renewable Energy Policy. The government views alignment between the different instruments as critical.
+Thus, this Policy has been drafted after a review of numerous such policies, strategies, vision documents, and
+frameworks, and is (at present) consistent with what they articulate. These include, but are not limited to:
+ The Harambee Prosperity Plan, 2016
+ Namibia Vision 2030
+ Namibia’s Fourth National Development Plan (NDP-4), 2012/13 – 2016/17
+ The White Paper on Energy Policy 1998
+ National Integrated Resource Plan, 2016
+ The Electricity Act, 2007
+ Rural Electricity Distribution Master Plan, 2010
+ Off-Grid Energization Master Plan, 2007 Namibia’s Intended Nationally Determined Contribution to the UNFCCC, 2015
+In addition, the Policy has also been drafted after taking cognizance of policies and legal instruments that are 
+currently under development, such as:
+ Draft Electricity Bill
+ Draft Namibia Energy Regulatory Authority Bill
+ Draft Independent Power Producer (IPP) Market and Investment Framework, 2016
+Vision Statement
+The National Renewable Energy Policy aims to enable access to modern, clean, environmentally sustainable, and 
+affordable energy services for all Namibian inhabitants. Modern energy is defined as the level of energy and energy 
+services required to meet people’s needs. In some locations this means access energy from centralized sources, 
+while in other locations it means access to off-grid or distributed energy solutions that don’t compromise quality 
+or reliability required to meet people’s needs.
+The National Renewable Energy Policy aims to make Renewable Energy a powerful tool for the Government of 
+Namibia to meet its short-term and long-term national development goals, and to assist Namibians climb the 
+development ladder, empowered by access to energy at levels that facilitate engagement in productive activity.
+The National Renewable Energy Policy’s Vision is for Namibia to become a regional leader in the development and 
+deployment of Renewable Energy within the Southern African Development Community (SADC).
+Objectives
+The Government of Namibia recognizes the following objectives of this National Renewable Energy Policy:
+I. Making Renewable Energy a Vehicle for Expanded Access to Affordable Electricity in
+Namibia
+At present, only a third of all Namibians have access to modern electricity. There is even more troubling disparity 
+between rural and urban electrification rates, with an estimated 78% of urban residents having access to electricity 
+but only 34% with access in rural areas.
+iv According to the 2011 National Population and Housing Census, the use 
+of grid electricity for lighting in rural areas is even lower, at 16%. The Government of Namibia is responsible for 
+extending affordable, modern energy services to a greater percentage of Namibia’s population. One of the 
+objectives of the National Renewable Energy Policy is to make Renewable Energy a means of accelerating expanded 
+energy access providing assurance of adequate and affordable energy services to the vast majority of Namibians, 
+aiming for no lessthan 70% coverage by 2020 and near-universal coverage by 2030. Equally critical isthe affordability 
+of electricity in Namibia; the Policy aims contain increases in costs of electricity in Namibia, to help reduce costs of
+living and doing business in Namibia.The National Renewable Energy Policy is testament to the Namibian Governments commitment to growing the 
+Renewable Energy sector. Through this Policy, the Government is elevating Renewable Energy development as a 
+national priority. This support to renewables expansion should be taken cognizance of by those within and outside 
+Namibia who have an interest in Renewable Energy growth. This Policy shall also be viewed as a demonstration of 
+Namibia’s commitment to global, multilateral objectives such as combating climate change, in furtherance of its 
+obligations under the United Nations Framework Convention on Climate Change (UNFCCC).
+III. Boosting Investor Confidence in the Growth of Renewable Energy in Namibia
+The National Renewable Energy Policy is intended as a signal to national, regional, and global markets regarding 
+Renewable Energy sector growth in Namibia. The Government of Namibia is committed to making Namibia an 
+attractive investment destination for Renewable Energy, and to reducing or eliminating barriers to investment.
+IV. Creating an Enabling Environmentfor Renewable Energy Developmentin Namibia
+Beyond the removal or reduction of obstacles, i.e. the mitigation of negative factors that impede Renewable Energy 
+development, the Government of Namibia is also committed to undertaking positive, supportive approaches to 
+spur the growth of renewables, i.e. putting in place incentives or enabling mechanisms that catalyse Renewable 
+Energy development.
+V. Accelerating Renewable Energy Sector Growth and Enhancing Value Chains in the Sector
+The Renewable Energy sector in Namibia is already expanding. Several factors make Namibia an attractive location 
+for siting Renewable Energy projects (including high resource potential for solar and relatively good potential for 
+wind in many areas; low population density; and few competing land uses), and as a result this sector is poised for 
+robust growth. However, for investor interest to translate into significant new generation capacity, measures have 
+to be put in place to help accelerate Renewable Energy investment, procurement, project development, and project 
+completion. The National Renewable Energy Policy points the Government of Namibia in this direction.
+One of the most direct ways for the sector as a whole to expand is through the development, enhancement, and 
+value addition within the sector. The goal of this Renewable Energy Policy, therefore, is to support the value added 
+activities in Namibia’s Renewable Energy Sector.
+VI. Enabling Greater Participation of Namibiansin the Renewable Energy Sector
+Namibia’s significant Renewable Energy potential is an economic opportunity for Namibians. The Government of 
+Namibia is committed to ensuring that growth in this sector will be leveraged to benefit Namibians. The benefits 
+include job creation for Namibians in this sector, as well as investment opportunities for Namibian nationals. This 
+National Renewable Energy Policy directsthe government to manage the fine balance between creating and assuring
+preferential opportunities for Namibian participation in the industry and ensuring the sector is attractive for foreign
+investment. The Policy supports building on and extending the work already being done in this context, such as
+training, registration, and certification of solar installers, and the standards developed for technicians working on
+solar home systems, solar water heaters, and PV pumps. The government shall proactively extend project
+preparation and due diligence support, lending support(such as preferential lending rates ormanufacturing support),
+and devise potential tax support to Namibians participating in the development of RE project. Similarly, it shall
+prioritize the training and capacity building of Namibians in this sector, and seek out Namibian projects andcontent clauses in the RE sector have), and without stifling competitive opportunities for foreign investors.
+Goals and Targets of the National Renewable Energy Policy
+The National Renewable Energy Policy is intended to be a living document that will continue to guide Namibia’s 
+government for an indefinite period of time. Since the Policy will endure for several years, it shall be complemented 
+with an Implementation Plan, designed for a specific timeframe (such as three to five years), which would be revised 
+periodically. Prescriptive targets should be found in the Implementation Plan. However, the goals of the National 
+Renewable Energy Policy, below, are accompanied by targets where appropriate, to ensure that this Policy is clear 
+about the direction of growth in Renewable Energy, the pace of development, and the scale of expansion of the 
+Renewable Energy sector in Namibia.
+I. Become Energy-Secure by Leveraging its Renewable Resources
+The Government of Namibia aims to achieve energy security for Namibia through increased use of Renewable
+Energy. Currently, Namibia imports several billion Namibia dollars’ worth of electricity every year in foreign 
+exchange, which could have been avoided if Namibia could meet demand through its own generation. This money 
+has significant opportunity costs, and could be used instead to help Namibia meet its socio-economic development 
+goals, if it remained in the country.
+Thus, in the period up to 2030, Namibia shall seek to bridge the gap between domestic generation and total 
+consumption by expanding Renewable Energy generation to cover the deficit where it makes economic sense. 
+Renewable Energy development should help to first reduce and potentially eliminate the need for imports. 
+Progressively, Namibia shall consider increasing RE in the electricity mix, eventually producing enough to enter the 
+export market. When the government considers options to reduce imports and increase domestic generation, it 
+shall prioritize power generation from clean and renewable sources when cost competitive with other options (such 
+as conventional power generation from fossil fuels). Namibia’s energy security shall also be strengthened through 
+stronger international cooperation, which will enhance Namibia’s own energy stability.
+II. Optimize the Renewable Energy contribution in the country’s electricity mix 
+By the year 2030, Namibia shall strive to achieve 70% or more of electricity generated in the country to be from
+Renewable Energy sources. The above target relates to electricity (kWh) generated in the country. Renewable
+Energy currently represents about 27% of electricity generated in Namibia (2015). This target is consistent with the
+INDC target made by Namibia for COP21. The implementation to optimize the Renewable Energy contribution in the 
+country will mostly be driven by the financial resources provided in the Paris Agreement. The National Integrated 
+Resource Plan (NIRP) will guide the country to achieve this target.Access to Affordable Energy Services
+The Government of Namibia has made poverty eradication and alleviation a national priority. Renewable Energy
+can enable the government to meet its poverty reduction targets. The government shall use the development of 
+Renewable Energy to combat poverty. This can be achieved by increasing access to adequate energy services that 
+support more productive activity; creating new jobs across the Renewable Energy value chain; and improving socioeconomic welfare as a whole by enabling resource-poor householdsto invest more time in education and household
+health.
+IV. Ensure Transparency of Regulatory Mechanisms and Governance Related to Renewable 
+Energy
+The Government of Namibia shall demonstrate utmost transparency in the development of Renewable Energy, 
+particularly in terms of project procurement. The Renewable Energy Policy directsthe government to exhibit greater
+transparency through the following actions (this list should be treated as illustrative, not exhaustive):
+(1) Public announcements of opportunities in reasonable timeframes in advance of tendering;
+(2) Widespread dissemination of calls for proposals, including guaranteed availability of all tender materials on 
+relevant government websites and at relevant department offices;
+(3) Pre-tendering briefings, wherever applicable;
+(4) Creation of a streamlined dispute-redressal mechanism (such as an ombudsman or an arbitration facility) 
+related to Renewable Energy procurement, accessible by IPPs and all interested parties in the Renewable Energy
+sector, including concerned members of the public
+VI. Promote Grid-Connected and Off-Grid Renewable Energy Development
+The Government of Namibia shall accord importance to grid-based renewable electricity as well as off-grid 
+renewable electricity applications, and balance the development of both types with Renewable Energy while also 
+encouraging energy efficiency. While some regions of Namibia are most optimally served through grid-connected, 
+utility-scale renewables, other locations are well-suited to being powered by off-grid applications. Both approaches 
+are complementary in nature and neither grid extension (with renewables integration) nor off-grid systems by 
+themselves can provide a solution in isolation.
+The Government of Namibia shall undertake periodic evaluations of the suitability of its 121 constituencies within
+14 administrative regions for grid-extension and grid-based renewable projects, and similarly it shall regularly 
+identify locations where off-grid technologies are more cost-effective or reliable. It shall prepare these periodic 
+evaluations in an evidence-based and consultative manner, including through public participation of local 
+communities. Where needed, it shall provide additional support to small-scale, rural, off-grid solutions in case such 
+support is needed for such applications to be viable (in comparison to grid-based projects which would largely be 
+guided by the principle of cost-reflective tariff and competitiveness).VI. Prioritize Renewable Energy Development Beyond just the Electricity
+Sector
+The Government of Namibia shall also prioritize the use of non-electricity sector Renewable Energy and efficiency 
+where these options are financially competitive with alternatives. Thisincludesrenewablesforthermal energy and for
+domestic, industrial, and transportation fuels. In this context, the RE Policy supports the Solar Thermal Technology
+Roadmap for Namibia and its goal to achieve wide-scale adoption of solar water heating solutions. The Policy also
+recognizes that the achievement of near term goals of the Harambee Prosperity Plan as well as the Namibia Vision
+2030 and UN’s SE4ALL goal of universal access to modern energy services by 2030 requires the extension of clean
+energy services (such as cooking fuel) that range beyond electricity, and recommends that the government leverage
+renewables to achieve these objective.
+VII. Pursue Climate-Resilient Energy SectorDevelopment through Renewable Energy
+The impacts of climate change are being felt the world over, including Namibia. Existing climate variability is being 
+exacerbated by climate change. With climate change expected to bring greater variability in climatic patterns and 
+weather systems, and more extremes (including more natural hazards such as drought, heat waves, floods, bush 
+fires etc.), energy infrastructure around in Namibia is going to contend increasingly with a non-stationary 
+environment. The Government of Namibia must prepare for more climate disruptions of its current primary power 
+source – hydropower. Even if future hydropower projects are designed taking climate change projections into 
+account, this may be insufficient to assure uninterrupted, constant generation. To build resilience against climate 
+change variability, Namibia would be well served to adopt a more diverse, environmentally sustainable energy mix.
+The Government of Namibia shall strengthen the country’s climate resilience by diversifying the energy mix with 
+more non-hydro Renewable Energy. Renewable power offers abundant fuel sources (be it solar, wind, or invaderbush based bioenergy), a negligible carbon footprint, and is less prone to inter-annual or seasonal variability than 
+hydropower.
+The added benefit of Renewable Energy is that it contributes to greenhouse gas (GHG) mitigation, and thus actively 
+helps combat climate change. In light of this, as the Government of Namibia expands Renewable Energy, it shall 
+position the country as a strong candidate for international climate finance and grants that target GHG abatement 
+or mitigation. In its Intended Nationally Determined Contribution (INDC) submission to the UNFCCC, Namibia 
+committed to reducing its GHG emissions by 89% in 2030, relative to a Business-as-Usual projection for 2030. While 
+Namibia’s contribution to global GHGs is currently negligible, the emissions intensity of its economy could experience
+an upward shift as Namibia pursues its industrialization goals. The Government shall account for its climate actions
+every five years. As Namibia’s overall energy demand will likely increase, it is important to increase the share of
+renewables in Namibia’s electricity mix.
+VIII. Accelerate Development and Deployment of Energy Storage to Facilitate
+Renewable Energy Expansion
+The full scale of potential Renewable Energy development cannot be achieved without significant improvements in
+storage capacity. In recognition of the critical role of energy storage for growth of Renewable Energy, the pumped hydro, batteries, or thermal storage becomes indispensable.
+IX. Ensure Renewable Energy Supports Accelerated Industrial Growth and
+Competitiveness
+Namibia is aiming for economic transformation (as articulated in the Harambee Prosperity Plan), primarily in the 
+manufacturing and industrial sectors. Namibia also aims to increase its economic competitiveness, including its 
+aspiration to be rated the most competitive economy in Africa by 2020. The RE Policy affirmatively directs the 
+Government of Namibia to make Renewable Energy a critical component of such competitiveness, both by 
+ensuring competitiveness within the RE sector, and by enabling greater use of affordable and reliable renewable 
+power in Namibia’s growing industrial base.Renewable Electricity in Namibia
+Namibia has an abundance of Renewable Energy resources (e.g. solar, wind, and bioenergy) and a well-established 
+electricity supply industry. Renewable Energy (other than large hydro), however, only accounts for small amount 
+of the installed capacity in the country to date. Figure 1 provides a high-level summary of the installed capacity in 
+the country.
+Figure 1: Namibia’s Installed Capacity as of January 2016 (~500MW)
+Source: (ECB, 2016)
+In addition, imports account for over half of Namibia’s energy supply as depicted in Table 1. The weighted 
+tariffsforthese imports depend on the contractterms, but tend to be fairly expensive compared to the cost 
+of existing and new generation options.
+Table 1 Summary of Namibia’s Power Import
+Import Source
+Max Supply
+Capacity (MW)
+Capacity
+Factor (%)
+Net
+Supply
+South Africa (Eskom supplemental) 200 20% 40
+South Africa (Eskom off-peak) 300 50% 150
+Zimbabwe (ZPC) 80 50% 40
+Zambia (ZESCO) 50 100% 50
+Total 630 280
+Source: (ECB, 2016)
+ A number of new power projects are at various stages of development including several Renewable 
+Energy projects. Namibia’s NIRP will guide future procurement of electricity from Renewable Energy
+sources.
+This will create an opportunity for this RE Policy to provide more direction for the Renewable Energy sector and
+support an enabling environment to take advantage Namibia’s abundant Renewable Energy resources.Primary energy consumption in Namibia has been growing at a rate of 3.5% annually, on average. During the 2004-
+2014 period the rate for primary energy was grow significantly. The composition of Namibia’s Total Primary Energy
+Supply demonstrates the predominance of energy from oil. Overall, primary energy in Namibia is derived from liquid
+fossil fuels (petroleum, diesel, paraffin, and liquefied petroleum gas), biomass (charcoal, wood, and processed wood
+products), and coal.
+Figure 2: Namibia’s total primary energy supply 2004-2014 (in 
+Giga Watt hour – GWh)
+ Source: (VO Consulting, 2015)
+At present, renewables play a very small role in the non-electricity energy sector. However, there is potential for
+renewables to scale up in providing non-electricity energy (primarily thermal energy for heating and cooking, if
+Namibia’s ample bioenergy resource is utilized effectively, sustainably, and combusted in cleaner ways.
+Currently, over half of all Namibian households (approximately 54%) rely on wood or wood products for cooking. 
+This translates to around 86% of rural households and roughly 20% of urban households. An estimated 46% of the 
+population uses wood products for space heating, which is further disaggregated into about 75% of rural households
+and 17% of urban households.
+v
+Namibia is endowed with abundant biomass in the form of “encroacher bush.” Approximately 30% of Namibia is 
+covered by encroacher bush. The energy content of this resource has been estimated to be 1000 TWh.
+vi
+Forests in 
+Namibia also constitute a predominant source of biomass for energy.
+Bioenergy for fuel use can take many forms, including wood chips, briquettes, and pellets. A recent profitability 
+analysis indicates that the Windhoek region is most optimally served by wood chips, while more far flung areas are Some industrial and commercial applications are also well suited to the use of biomass as combustion fuel. A local
+Cement factory is already using encroacher bush. Thus there is potential to grow biomass use for combustion,
+pyrolysis, or even direct gasification. Existing applications of biomass in Namibia use only 600000 tw/a, which 
+amounts to only 3% of total potential.
+viii
+While several methodologically robust and credible studies have been conducted in Namibia regarding the economics
+and cost-effectiveness of encroacher bush use, the economics of de-bushing, and the economic plus environmental
+impacts of bush encroachment,
+ix a gap appears to exist in terms of research that studies the environmental impacts
+of an energy production business model that requires recurrent harvesting of encroacher bush and continued 
+coverage of land by such bush species. If bioenergy based on encroacher bush is turned into a viable industry with
+new value chains, it is plausible that farmers may find it profitable to allow encroacher bush to encroach on evenmore
+land. Instead of completely de-bushing, there could be an incentive to allow this fuel source to thrive. The potential 
+ecological impacts of this model shall be further explored, including through pilot studies that involve actual supply
+chains.A recent report by the International Energy Agency (IEA) on Transitioning to Policy Frameworksfor Cost- Competitive
+Renewables, highlights how policies for Renewable Energy technologies should evolve based on the level of each
+technology’s maturity and cost-competitiveness (IEA, 2016). For example, some technologies which aren’t yet
+competitive may require more support in the form of R&D, pilot demonstrations, and/or feed-in-tariffs. Conversely,
+others which are cost competitive require an enabling Institutional and Policy Framework to ensure they can at a
+minimum compete with alternatives on a level playing field.
+Figure 3: RE Policy Evolution with Levelized Costs
+Source: (IEA, 2016)
+The IEA report also prioritizes three Policy Framework elements to help drive the growth of renewables once 
+levelized cost with fossil fuels have been achieved:
+1. Establishing a long-term vision for a sustainable power system (e.g. RE targets, climate change goals)
+2. Enhancing the flexibility of the power system (e.g. RE grid integration and stability study, fair access for 
+distributed generation)
+3. Maintaining the bankability of Renewable Energy projects (e.g. enabling regulations for PPAs with IPPs, 
+streamlined licensing process, and other risk mitigation measures)
+The following sections aim to address the above priorities and cover other Renewable Energy Policy
+recommendations relevant to both the electricity and non-electricity sectors for RE technologies at various levels of 
+commercialisation.
+Enabling Institutional and Regulatory Framework
+The RE Policy factors in the context of the institutional and Regulatory backdrop of the energy sector. Additional 
+regulations and amendments will be required to ensure alignment with the RE Policy as well as other draft policies 
+and bills once these are finalized. Figure 4provides a visual representation of the institutional framework for 
+Namibia’s power sector and highlights several draft policies and bills that still need to be finalized and aligned with 
+this RE Policy.As per the existing Renewable Energy Procurement Mechanism, Namibia differentiates Renewable Energy 
+procurement based on system size as follows:
+ Net metering rules for installations <500 kW for all Renewable Energy technologies (not to exceed the 
+main electricity supply circuit breaker current rating)
+ A Renewable Energy feed-in tariff (REFiT) for projects >500kW and < 5 MW including biomass, 
+concentrating solar power, solar PV, and wind.
+ A competitive auction approach for projects >5MW
+This differentiation of regulations and procurement based on system size, helps to target different sectors and 
+encourage wider adoption of Renewable Energy. However, Namibia is still facing some challenges with its 
+approach to date including:
+ Limited participation by some distribution utilities in net metering to date
+ Challenge with accurately setting REFiT amounts that are competitive, bankable, reduce risk of exchange 
+rate fluctuations, and account for technology advancements
+ Lack of clear and efficient land procurement and access rules for projects
+ The need to stick to best practices when competitively procuring capacity
+Fortunately, these challenges provide lessons to learn from when improving on future Renewable Energy programs 
+and harmonizing efforts by Government. The IPP Policy will also provide more detail on future rules and 
+procurement guidelines for both Renewable Energy and other resource options.off-grid and on-grid systems in urban and rural areas as technology and market develops.
+Government shall harmonize efforts and build on experience from previous efforts such as the REFIT programme 
+and the competitive auctions. Existing laws in Namibia require the Regulator to obtain Ministry of Mines and Energy
+approval for its decisions on the energy sector. The 2006 World Bank’s Handbook for Evaluating Infrastructure
+Regulatory Systems, provides best practices for effective regulation and recommends an independent Regulator
+model based on organizational, financial, andmanagementindependence. This Regulatory independence is critical in
+order to depolitisize Regulatory decisions. The energy Regulator in Namibia shall be independent and m a k e
+decisions objectively in line with government Policy (The World Bank, 2006).
+Moreover, a fully independent Regulator would allow it to clarify rules on RE procurement including stakeholders 
+roles in the bidding process, work through the details of the modified single-buyer model, and develop regulations 
+for off-grid energy options.
+The draft Namibia Energy Regulatory Authority Bill aimsto expand the Regulator’s authority beyond the electricity
+sector and establish a single energy Regulator, the Namibian Energy Regulatory Authority, to cover:
+ Electricity
+ Downstream gas including gas pipelines and storage facilities
+ Downstream petroleum pipelines and storage facilities
+ Renewable Energy
+ Energy efficiency and conservation
+In addition to the above, the Regulator shall also work with government to ensure energy and electrification goals 
+for low income communities and off-grid customers are also reached.
+Policy Statement 2
+Government will strengthen the role of the Regulator to ensure the implementation and enforcement of RE related 
+regulations and penalize non-compliance.
+Market Structure
+Clear Policy guidance and an enabling environment for IPPs will encourage greater development of Namibia’s 
+renewable resources through an appropriate market structure that, for example, allows IPPs to sell power to offtakers other than NamPower. It is currently supported through the development of market rules in the draft 
+Electricity Bill (Bill of Parliament, 2016).Policy Statement 3
+Government recognises the adoption of a market structure in Namibia identified by the Government that enables 
+IPPs to generate and sell electricity to designated off-takers other than the Single Buyer only, and enables 
+distributed generation from various technologies and resources as per the adopted market model. The market 
+structure shall also enable off-grid solutions.
+Subsidy Framework
+Subsidies play an important role in developing economies like Namibia and can be an effective tool to encourage 
+growth when implemented in a transparent and targeted way.
+With the move towards cost reflective tariffs and an increase in the number of IPPs, embedded generators, and 
+electrification solutions for low income customers including rural areas, there is a need for transparent and 
+manageable subsidies. For example, crosssubsidies built-in to tariffs where one customer is charged more to recover
+the underpayment from another customer will distort the market and make it difficult to track the true cost of the
+subsidy. They can also discourage the efficient use of energy in some cases and undermine energy efficiency goals.
+A subsidy framework aims to address this by helping answer:
+ Who needs subsidy and at what amount?
+ What type of subsidy and who will pay?
+ What is the best method for disbursement and when will it be phased out?
+X
+Policy Statement 4
+Government will consider the development of a subsidy framework (where applicable) for the broader energy 
+sector that supports the targeted and transparent use of levies, surcharges, and subsidies. This subsidy framework 
+shall further inform potential subsidies required for low income customers to achieve electrification goals, in 
+particular through Renewable Energy.
+This subsidy framework shall further inform potential subsidies required to achieve energy access goals for low 
+income customers including rural areas, with a focus on the inclusion of Renewable Energy sources for achieving
+such access. A subsidy framework should be based on the following principles:
+• Targets specific objectives and customer groups;
+• Remains transparent on who benefits, the allocation process;
+• To be fair for those that fund the subsidy and those that benefit;
+• Introduces minimal economic distortions and can be phased-out over time;
+• Administered and monitored easily.Power Sector Planning
+Namibia developed a National Integrated Resource Plan (NIRP) to evaluate and prioritize power generation options 
+for the country. The NIRP’s aim is to assess the full range of power supply development options that could meet 
+future customer needs including Renewable Energy, and objectively compare these.
+When developing an NIRP, countries often define a least cost plan of electrification as a base case scenario and may 
+make strategic or Policy adjustments to account for other strategic planning objectives. These other strategic 
+planning objectives may include the need to:
+Develop domestic projects and use local resources to reduce dependency on imports (security of supply)
+Keep commitments to climate change targets with clean energy options
+Diversify energy mix to improve resiliency and system reliability
+Increase efficiency of end-users and across the energy supply chain
+Optimize government investment
+Create jobs for the local economy
+Provide access to electricity quickly and efficiently to unelectrified communities
+The NIRP planning process shall establish clear responsibilities and authority of ESI stakeholders, set the planning 
+horizon (e.g. 10-20 years), and the review period before the next update of the NIRP (e.g. 2-3 years
+xi
+). The NIRP 
+planning process needs to also account for efficiency initiatives, mini-grids, net metering, storage, embedded 
+generation, as well as other evolving features of the Namibian ESI.
+It is important to ensure that the NIRP planning remains the responsibility of the Namibian government (i.e.
+Ministry of Mines and Energy) as the Policy custodian of the energy sector, and encourage fair treatment of all 
+resources and potential power projects.
+Policy Statement 5
+Government shall continue to use a long term national integrated resource plan (NIRP) approach, to serve as a 
+guideline for power sector planners, IPPs and electricity customers. The NIRP shall be revised periodically to take 
+account of Renewable Energy market and technology changes and include guidance on off-grid solutions.
+The NIRP shall integrate quantitative consideration of economic impacts besides direct cost of generation options
+and emissions, such as employment, potential for local value addition, and potential for inclusion of communities
+in energy solutions.
+In addition, the Namibian government shall also conduct Renewable Energy resource mapping to assess the 
+availability and location of local resources, which will inform future revisions of the NIRP and other potential 
+government programmes such as Renewable Energy Development Zones (REDevZ). REDevZ are used in other 
+countries including South Africa, to identify geographical areas where grid expansion can be directed and Regulatory
+processes streamlined (e.g. pre-approved environmental assessment of location and fast-tracked land acquisition)
+in order to incentivize the cost effective development of Renewable Energy projects. Policy Statement 6
+Government shall conduct Renewable Energy resource mapping which will be updated as the need arises and 
+develop a publicly available information portal with Renewable Energy technical baseline data and other relevant 
+industry documents for the country.
+As a high priority, government shall conduct essential technical research regarding integration of Renewable Energy
+into the existing grid, investigating the impact of intermittent power on grid stability and the capacity of existing 
+infrastructure to absorb Renewable Energy. Ongoing studies shall examine how the grid can be strengthened or
+modified to enable greater integration of renewables. The studies shall also include the required reserve margins.
+Policy Statement 7
+Government shall commission a grid integration study to assess grid capacity for Renewable Energy absorption,
+and to identify ways that the grid can be upgraded to enable greater flexibility with the larger intake and
+distribution of Renewable Energy as well asstorage capacity. Such a study shall be updated periodically as industry
+and technology develop.
+Third Party Grid Access & Wheeling
+Namibia developed a Grid Code (ECB, 2005) to provide rules and guidelines for electricity market participants on 
+network access. Likewise, Namibia has in place a National Connection Charge Policy and a recent Amendment from 
+NamPower on Technical Guidelines for Transmission provides more specific guidance on the integration for 
+Renewable Energy facilities and other embedded generation (NamPower, 2016).
+Namibia’s Electricity Act of 2007 establishesthe rulesfor third party grid accessto the transmission and distribution
+system. It requires a license for the following activities related to electricity:
+ Generation & Supply
+ Trading
+ Transmission & Distribution
+ Import & Export
+The Electricity Act of 2007 also clarifies license exemptions if for example, the installed capacity is less than 500 kVA,
+electricity is for own use, or in areas without a supply network. The Electricity Act of 2007, however, may need to be
+updated to reflect proposed changes to the market structure, increase the kVA threshold to allow for larger 
+installations without a license (e.g. up to 1,000kVA), and allow for more bilateral transactions such as wheeling.
+Wheeling is currently used in other markets, such as South Africa, to allow for the sale of electricity across a public 
+power network in a way that allows the system operator to also recover its costs for the use of the system throughuse of system charges. Effective wheeling rules encourage wider adoption of Renewable Energy projects by allowing 
+for larger than own-use installations and potentially community solar initiatives. A community solar initiative, for 
+example, refers to a solar power farm that provides power and/or financial benefit to multiple community members 
+that choose to provide capital for the project and has been successful in a number of other markets.
+Namibia shall consider a trading market if viable for Renewable Energy to go along with this, however, the wheeling 
+rules and any potential trading market would need to be aligned to the market structure rules established by the
+national Energy Policy.
+Policy Statement 8
+Government recognises the importance of electricity wheeling for the growth of Renewable Energy in Namibia in
+its further development of the electricity market framework.
+The Regulatorshall consider the development of wheeling regulations that enable Renewable Energy projects (e.g.
+community solar initiatives). These regulations shall be aligned with the electricity market structure and the 
+National Connection Charge Policy to address practical issues such as fair cost recovery for the system provider
+(e.g. unbundled use- of-system charges, energy losses, levies, and eligibility)
+Net Metering
+Namibia recently developed net metering rules for distribution utilities to offer services for customer generation 
+such as rooftop solar PV installations (ECB, 2015). Objectives of the Net Metering Rules are summarized below:
+ Generate additional power for the national grid and reduce investment requirements of utilities and 
+conventional IPPs;
+ Allow customer-generators to off-set their grid electricity usage through generation for self-consumption;
+ Allow customer‐generators to export energy to distribution networks up to a limit of the customer’s
+imports from the distribution network;
+ Promote sustainable Renewable Energy sources, small scale investments, value addition and electricity 
+market development;
+ Contribute towards reducing unemployment (ECB, 2015).
+There has been mixed results in the success of the program to date as some distribution utilities view net metering 
+as a threat to their revenue, despite the fact that existing Regulatory rules help to reduce net metering risks for 
+distribution utilities by:
+i. Restricting max capacity per site (e.g. 500kVA)
+ii. Limiting customer net-exports
+iii. Capping the distribution utility’s aggregate net metered capacity (e.g. % of peak capacity)
+These limits shall ultimately be set by the Regulator who shall also be given more authority to ensure that 
+distribution utilities comply with rulePolicy Statement 9
+Governmentsupportsthe requirement for distribution utilitiesto offer net metering as per the gazetted net metering 
+rules and any such regulation that the Regulator shall develop for customers. Restrictions on the site capacity (e.g.
+500kVA) and caps on the distribution utility’s aggregate net metered capacity shall be determined by the Regulator
+based on technical and practical limits, and updated periodically as the industry and technology develop.
+In order to protect the financial viability of distribution utilities over the longer-term, alternative tariff options to 
+net metering shall be considered once net metering caps are reached. A number of other markets are adopting 
+tariffs which both compensate customers for energy fed into the grid and allow utilities to recover costs of servicing 
+the customer.
+Embedded generation is the term used to describe the process of generating electricity at a specific location and 
+then connecting that supply into the electricity network. In South Africa, for example, the national Regulator is in 
+the process of finalizing an embedded generation tariff for installations <1MW. These rules will take precedence 
+over existing municipality tariffs for embedded generation and require municipalities to compensate customers at 
+the avoided variable purchase cost of the distributor. In other words, municipalities will buy energy from customers 
+at roughly the same rate they pay Eskom for its power (wholesale rate). It also allows for both fixed and variable 
+charges to apply to small-scale embedded generator customers, so the municipalities can recover fixed costs of
+servicing the customer and other levies. (NERSA, 2015)
+Policy Statement 10
+The Regulator shall investigate and develop an alternative tariff compensation approach for embedded 
+generation specifically for Renewable Energy.
+As proposed in the net metering rules and subject to the approval by the Regulator, embedded generation
+customers shall also be exempted from generation licensing requirements. If a tariff compensation methodology 
+be developed it must be based on the following principles:
+• compensate customers fairly for energy fed into the grid;
+• Allow the distribution utility to recover costs of servicing the customer;
+• Incentivize embedded generation when and where it will be most useful to the system operator through 
+tariff signals;
+• Provide equal opportunity to Renewable Energy resources and storage technologies.Energy Storage
+Energy storage technologies and solutions have the potential to provide a number of benefits in Namibia’s ESIsuch
+as:
+ Integration of intermittent renewable resources
+ Increase in supply during peak periods with load following
+ Enhancements to electrical grid in both operations (e.g. ancillary support) and deferred infrastructure 
+investment
+ Potential reduction in emissions from reduced use of fossil fuel alternatives
+ End-user avoided costsxiiEffective and safe integration of energy storage technologies to the existing public electricity network requires Grid 
+Code rules on the parameters and technical specifications the storage technology needs to meet. Namibia already 
+has a Grid Code (ECB, 2005) providing rules and guidelines for electricity market participants on network access, 
+however, an amendment is needed to provide more guidance on the integration of energy storage solutions and 
+technologies.
+Grid Code rules and targeted tariff signals for energy storage solutions can enable the wider adoption of energy 
+storage and ensure it adds value for a number of stakeholders in Namibia’s ESI including both the customer and
+system operator.
+Policy Statement 11
+Government through the Regulator recognizes the importance of energy storage to the value of intermittent 
+Renewable Energy solutions, and shall take this into account when developing Regulatory frameworks for energy
+storage, In particular, the Regulator shall provide equal opportunity for energy storage solutions, by amending or
+developing relevant codes to account for energy storage. The Regulator shall also consider tariff signals that aim 
+to fairly compensate the customer and incentivize storage solutions when and where it will be most useful on the
+existing electricity network.
+Regional Integration
+Namibia’s domestic demand for electricity currently limits the size of new power projects it has the potential to 
+develop. Enabling power exports through regional integration and relevant licenses increases the country’s 
+Renewable Energy generation potential. For example, the ability to export and import electricity when needed 
+offers one solution to potential intermittency issues associated with large amount of Renewable Energy capacity.
+As a member of the Southern African Development Community (SADC), Namibia has already signed some regional 
+agreements that help create an enabling environment and initial framework for Renewable Energy generation and 
+cross-bordertrade. (SADC, 2016) International agreements with organizations of particular importance for Namibia’s 
+Renewable Energy and efficiency sectors include:
+ The Southern African Power Pool (SAPP)
+ Regional Electricity Association of Southern Africa (RERA)
+ Southern African Customs Union (SACU)
+Policy Statement 12
+Government shall work with Southern Africa Development Community (SADC) to further enable Renewable Energy
+exports and potentially imports for Namibia.
+In addition, enabling exports from power projects requires supporting rules and regulations for large-scale projects 
+to be built and transactions to take place. Guidelines on who may be eligible for an export license and potential 
+royalties or export levies shall be clarified by Government in the national Energy Policy and supportive legislation.RERA also provides guidelines on cross-border power trading in Southern Africa, which provide guidance for future 
+projects (RERA, 2010).
+Rural Energy and Mini Grids
+Namibia’s Vision 2030 (GRN, 2004) and the commitments in the UN Sustainable Energy for All (SE4ALL)
+xiii are aligned 
+in their longer-term energy goals to provide access to modern energy services to almost all of the population by
+2030. Likewise, the Harambee Prosperity Plan set near-term goals to:
+ Increase in local electricity generating capacity from 400 MW;
+ Provide electricity to all schools and health facilities by 2020; and
+ Increase the rural electrification rate from 34 percent in 2015 to 50 percent by 2020 (GRN, 2016)
+Achieving these goalsrequires effort on multiple fronts, including an expansion of grid infrastructure and centralized
+power generation as well as the development of off-grid energy and distributed energy solutions for communities.
+Two key business models have emerged in the region to date for off-grid electrification including:
+1. Mini-grids—small grid system electrifying a number of users typically without utility grid connection and 
+often requiring some form of battery storage with power supply (e.g. solar PV panels, wind turbine, 
+generator)
+2. Standalone Systems—energy solution for individual users/applications typically without utility grid 
+connection (e.g. solar lanterns, solar home systems, solar cooker) and often require financing (e.g. pay-asyou-go with mobile payments, leasing)
+Off-grid energy solutions such as the development of mini-grids can provide a number of benefits including reduced 
+investment required for grid expansion and use of local Renewable Energy resources which encourages local jobs. 
+The potential economic benefits from providing off-grid energy services are significant for both the energy end- user
+and the local economies as new value chains develop to support this market.
+Mini-grid potential in Namibia has been identified in both the 2005 Regional Electricity Distribution Master Plan 
+(REDMP) and 2007 Off-grid Energisation Master Plan (OGEMP), which provide valuable context for the RE Policy. 
+While the roll-out of mini-grids continues, a number of challenges have contributed to the slow speed of 
+implementation including:
+ Limited government funds and capacity to manage the program
+ High up-front capital costs
+ Challenge with balancing goals of cost reflectivity and affordability
+ Insufficient financing and customized investment support
+ Lack of effective institutional arrangements to ensure reliable O&M over timeThe SADC has also established guidelines in 2013 for the development of mini-grids. These guidelines are 
+summarized in Figure 5.
+Figure 5: SADC Support Framework for Mini-Grids
+Source: (RERA, 2014)
+Policy Statement 13
+Government will ensure access to modern energy services to all Namibians (at least one modern energy service).
+Governmentsupports Namibia’s modern energy access goals through the increased use of economically viable and
+locally available Renewable Energy resources along with the expansion of the mini-grid roll-out that aligns with 
+the SADC’s mini-grid framework and Action Plan for Namibia.
+Modern energy is defined in this Policy as the level of energy and energy services required to meet people’s needs. 
+In some locations this means access energy from centralized sources, while in other locations it means access to offgrid or distributed energy solutions that don’t compromise quality or reliability required to meet people’s needs. 
+Feedback from stakeholders and recommendations from a gap analysis of Namibia’s mini-grid program (RERA,
+2014) further highlight the need to establish a government agency dedicated to managing the program (See Annex 
+D for Mini-Grid Action Plan). This Rural Energy Agency shall oversee the further expansion of the mini-grid roll-out 
+in Namibia, coordinate existing efforts on all forms of rural energy (e.g. efficiency, thermal energy, electrification),and help address capacity shortfalls experienced to date. The Rural Energy Agency shall work closely with existing 
+organizations and research institutes to build on ongoing efforts in this sector.
+The government shall, through such an agency (amongst other things) identify market and Regulatory actions 
+necessary to allow for and encourage private investment in, ownership of, and operation of off-grid electrification. 
+It shall implement any required Regulatory changes to achieve these objectives.
+Funding for the Rural Energy Agency may need to come from a levy on electricity tariffs, but other funding options 
+shall also be explored.
+Policy Statement 14
+Government shall strengthen the management and planning of energy access programs in low-income and rural
+areas (both on and off-grid).
+Some delays and challenges have been experienced to date with existing initiatives for off-grid and rural 
+electrification, such as a lack of clarity on the responsibilities for mini-grid operations to date resulting in 
+maintenance challenges at a number of sites. The Regional Councils does not have the relevant capacity due to 
+resource constraints to handle the maintenance requirements, so alternative solutions need to be explored to build 
+and finance mini-grids such as potentially assigning more support to REDs or any other distributors to install and 
+maintain mini-grids. Another option is to structure scalable public-private partnerships (PPPs) to allow private sector 
+companies to develop and maintain mini grids.
+In addition, some positive achievements have also been made to date with the Solar Revolving Fund (SRF) and the 
+number of systems financed to date (See Annex C). The SRF focuses on solar waters heaters, solar homes systems, 
+and solar PV pumping, so an expansion of the program shall be considered to also cover energy efficiency, minigrids, and storage technologies.Policy Statement 15
+Governmentshall investigate the potential and value of off-grid mini grids and shall consider giving more support to
+REDs, other distributors, NamPower, NPOs, and the private sector (e.g. through PPPs) for the design, installation, 
+and maintenance of mini-grids. Potential solutions shall be further developed and tested with along with an 
+appropriate tariff regime and streamlined licensing process to support the financial viability of off-grid mini-grids.
+15.1 Government shall consider further expansion of the financing solutions for Renewable Energy (e.g. Solar 
+Revolving Fund) or creation of additional funds to include energy efficiency, mini-grid and storage technologies 
+to support low income communities (e.g. electricity levy used to support grants, credit lines, concessionary loans 
+for energy services in low income communities).
+Lastly, Government shall also build on experience from previous projects and learn from other initiatives piloted in 
+the region to address off-grid energy challenges through Standalone Systems. For example, a recent study from 25 
+pilot projects in East Africa using various business models (e.g. pay as you go financing, packaging sale of biomass 
+with cook stoves, and solar community centres), highlights that there is no one size fits all solution as different 
+regions and markets each have unique characteristics and needs (SESA, 2016). Figure 6. Depicts a few of the 
+approaches for promoting sustainable products in off-grid communities and demonstrates that each requires a 
+varying level of resources and has its own challenges.
+Figure 6: Various Routes to Market for Sustainable Products and Standalone Systems
+Source: (SESA, 2016) 
+While challenges off-grid solutions vary, a common requirement for enabling these solutions includes the
+availability of microloans often enabled through telecommunications infrastructure (e.g. unlocks pay-as-you-gomobile payment options). Therefore, addressing energy goals in rural areas in Namibia should go hand-in-hand with 
+other infrastructure expansion efforts such as telecommunications.
+Energy Efficiency and Demand Side Management
+Energy efficiency and Demand-Side Management (DSM)
+xiv measures are often some of the quickest and most cost 
+effective ways to address national energy goals by helping reduce overall customer demand for energy and its 
+associated emissions. Therefore, development of a Renewable Energy Policy also requires consideration of energy 
+efficiency options that help to achieve similar goals.
+Energy efficiency is a cross-cutting topic and applies to a number of sectors in Namibia’s economy as illustrated in
+Table 2.
+Table 2 Priority Areas for Energy Efficiency Policy
+Energy Efficiency Priority
+Areas
+Examples of international policies and measures
+Buildings and homes Building codes and performance ratings for existing and new buildings
+Appliances and equipment Minimum energy performance standards (MEPS) and labelling
+Lighting Efficient lighting requirements for retail sales and street light installations
+Transport Vehicle fuel-efficiency standards, support for electric vehicles, and transport
+system efficiency
+Industry & Mining Energy management protocols such as ISO 50001 and MEPs for energy
+intensive equipment (e.g. motors)
+Other sectors & cross-cutting
+Areas
+Utility efficiency requirements and targets, price signals, data collection,
+monitoring and verification, enforcement, public awareness and education
+Source: (IEA, 2011)
+It is recommended that a more detailed energy efficiency Policy be developed for Namibia that covers all sectors 
+of the economy, including setting specific efficiency goals for various sectors (including utilities), and undertakes a
+study of the potential of decoupling power sales from profits, with a view to incentivizing energy efficiency.
+Policy Statement 16
+Governmentshall develop a detailed Energy Efficiency and DSM Policy for allsectors of the economy that continues
+to build on existing energy efficiency efforts including research on energy end-use data and public education
+campaigns promoting the efficient use of energy.
+16.1 Government shall implement energy efficiency and Renewable Energy standards not only for its facilities but 
+at all levels nationally including the mass housing scheme (e.g. solar water heating requirements, compatible 
+designs for future RE and EE upgrades).A number of efficiency and DSM programs have already been implemented in Namibia such as:
+ Raising public awareness
+ Promoting efficient residential lighting
+ DSM campaigns from NamPower (1 million LEDs, 20,000 SWHs, virtual power station)
+ Incentives and financing for solar water heating
+ Implementing time-of-use price signals for utility tariffs
+ Direct load control
+ Promotion of commercial and industrial efficiency
+Despite these initiatives, more is needed to realize Namibia’s full energy efficiency potential and harmonize efforts 
+across all sectors. For example, a recent DSM study for Namibia (Emcon, 2015) identified the need for a national 
+DSM programme with the following objectives:
+i. reduce the evening peak, as it causes considerable resource constraints and higher electricity costs;
+ii. reduce the daytime load for at least as long as local and regional electricity supplies remain constrained;
+and
+iii. increase the night-time load as long as sufficient capacity remains available, to further flatten the load 
+profile and leverage lower cost electrical energy when it is available.
+The DSM study also suggests a number of new DSM initiatives to consider (e.g. promotion of consumer storage, 
+energy efficiency standards, increased customer generation), which shall also be considered as part of a broader 
+energy efficiency Policy for the country and implemented with the assistance of a national energy efficiency and 
+DSM committee. Demand response shall also be included within the scope of the committee and Energy Efficiency
+and DSM Policy.
+The Energy Efficiency and DSM Policy shall also examine the need for Regulatory reform to eliminate perverse 
+incentives that utilities have to promote consumption rather than conservation. The Policy would also set energy 
+efficiency goals for which utilities shall be held accountable.R&D, Innovation Support, and Standards
+A number of existing research efforts focused on energy including Renewable Energy, efficiency, and storage 
+solutions through local Universities and institutions. For example, the Namibia Energy Institute (NEI) partnered with 
+Namibia’s University of Science and Technology, SADC Centre for Renewable Energy and Energy Efficiency 
+(SACREEE), SOLTRAIN, and others have worked on a number of projects in the Renewable Energy sector that 
+address energy research, technology, Policy, and education needs.
+Likewise, NamPower and some REDS (e.g. Erongo RED’s Battery Energy Storage System Feasibility) are also pursuing 
+research efforts in this sector, which may benefit from government participation or support. Research and 
+demonstrations of innovative solutions customized for the Namibia environment help create awareness and 
+encourage wider adoption of these solutions.
+Innovative business models addressing rural energy needs are also becoming more popular in the sub-Saharan 
+Africa region including small-scale solar home energy solutions financed through affordable payment schemes. 
+Given the significant rural electrification needs in Namibia, government funds for research and enabling these 
+business models by working with the private sector to address gaps shall prioritize efforts that address rural energy 
+goals.
+In addition, Renewable Energy capacity that supports desalination of sea water applications have the potential to 
+help address water challenges faced by the country. The potential viability of this technology shall be explored in 
+more detail in government R&D and demonstrations to encourage further development of these solutions in the
+country.
+Policy Statement 17
+Government shall consider expanding existing efforts (through appropriate frameworks and regulations) in R&D,
+demonstrations, and potential RE technology test sites by working with local Universities and other stakeholders
+on projects that enable innovation in the Renewable Energy sector and encourage alternative business models to
+meet energy goals. In particular,solutions that addressrural electrification goals and water desalination, and water 
+purification shall be prioritized.
+In addition, there is a need to ensure that quality and reliability of Renewable Energy and efficiency technologies 
+and equipment used in Namibia, especially for government led projects and rural energy projects. In some cases, 
+adopting international standards for these technologies may suffice and will help to avoid the use sub-standard
+equipment which damages public perception of the technology. Government shall continue to coordinate with 
+Namibian Standards Institution (NSI) or its successor and the National Technical Committee on Renewable Energy 
+(NTCRE) to update and enforce standards in the Renewable Energy and efficiency sectors.
+Policy Statement 18
+Government supports the development of standards (and the creation of Regulatory instruments to enforce) for
+the Renewable Energy and efficiency sector with respect to technical specifications for equipment, environment,
+health and safety, including standardsfor disposal atthe end of equipment’slife-cycle. Thisincludesthe application
+of best practice guidelines to ensure environmental sustainability and minimizing ecosystem impact.Thermal Energy Supply
+Thermal energy generally refers to energy in the form of heat. A number of Renewable Energy sources can provide 
+thermal energy such assolar radiation, geothermal energy, ocean thermal gradients, and the combustion of biomass
+or biofuels. Thermal energy can also be used in a wide variety of applications including but not limited to process
+heat for industry, water heating for domestic hot water, and cooling/heating supply for commercial buildings. As
+these resources and their applications are at various stages of research and commercialization, the RE Policy focuses
+primarily on those that are more commercialized and relevant for Namibia in its current context. Electricity sector
+applications forthermal energy are dealt with in more detail in the electricity sectorsection of this RE Policy. 
+Government shall strive to work with local institutions and stakeholders to encourage education on Renewable 
+Energy and efficiency at Universities, vocational schools, and at the community level through awareness and training 
+programs (e.g. Centres of Competence).
+Policy Statement 19
+Government supports further R&D, demonstrations, and test centres on thermal energy and Renewable Energy
+supply options for Namibia.
+Solar Thermal
+Namibia’s abundance of solar resource and the increasing affordability solar technologies make solar thermal 
+technologies and applications a high priority the country. The Namibian Energy Institute in collaboration with NUST 
+and SOLTRAIN developed a Solar Thermal Technology Roadmap for Namibia, which highlights the potential for solar 
+thermal among various end-use segments as depicted in Figure 7. (NEI, 2015).Figure 7: Summary of Common Solar Thermal Applications
+Relevant for Namibia
+Source: (NEI, 2015)
+In addition solar thermal desalination, solar cooking, solar dryers, and others were also identified as relevant for
+Namibia. The Solar Thermal Technology Roadmap provides suggested sector specific solar thermal targets until
+2030 to meet a goal of 0.5 m² (approximately 0.35 kW thermal equivalent) of flat plate solar thermal collector 
+installed capacity per inhabitant.
+Table 3 Solar Thermal Technology Roadmap 2030 Targets by Sector
+Sector Thermal Energy Measure (Units) Collector Area (m2)
+Mass Housing Project SWHs for additional 185,000 domestic houses 400,000
+Private one-family housing SWHs to replace domestic electric water heaters 600,000
+Private multi-family housing ~20,000 SWH units 100,000
+Private commercial locations ~1,000 SWH units 20,000
+Hotels, hospitals, student homes 180 hotels, 343 hospitals and clinics units 60,000
+Solar air conditioning and cooling Office Buildings units 20,000
+Industry & mining applications Low temperature applications, <200
+oC 200,000
+Domestic and commercial Solar Cooking, 1m2/family 100,000
+Total 1,500,000
+Source: (NEI, 2015)
+Policy Statement 20
+Government supports the Solar Thermal Technology Roadmap and its review for Namibia and its goal to achieve 
+widespread adoption of flat plate solar thermal collector capacity in Namibia.The RE Policy also supports government efforts to continue to lead by example with solar thermal installations. For 
+example, the 2007 Cabinet Directive requires government buildingsto installsolar water heatersin all new buildings
+and for future replacements provided a practical incentive for the local industry. (Epp, 2013)
+Policy Statement 21
+Government shall require solar thermal water heaters be installed in all government-financed and subsidized 
+buildings/homes and continue to work with various stakeholders (e.g. National Housing Enterprise, local industry) 
+to implement solar thermal solutions for these projects.
+On a larger scale, Concentrating Solar Power (CSP) applications also have potential to address some of Namibia’s 
+energy sector needs such as providing process heat for industrial processes and power generation. Opportunity may
+exist to leverage international climate financing to help reduce the high upfront cost of capital for CSP projects. Since
+CSP is most commonly used for power generation with storage, the electricity sector section of this report provides 
+more context for thistechnology. In addition, more research and potential demonstrations on other CSP applications
+for Namibia would be beneficial, such as desalination applications which could help address water challenges faced
+by the country. Renewable Energy capacity that supports desalination of sea water has significant potential in a 
+country like Namibia, so this shall be explored by government in future R&D efforts.
+Geothermal
+Namibia has a number of hot springs across the country indicating availability of geothermal resources, which could 
+potentially be used for electricity generation, process heat, or other applications. There has been very little 
+development of these resources to date and limited data is available on country’s resource potential. While Namibia 
+has a high abundance of other renewable alternatives that are currently more commercially viable such as solar and
+wind, the RE Policy still supports the inclusion of geothermal energy in resource mapping and related research to
+inform future potential for the country.
+Bioenergy
+Namibia currently uses a significant amount of bioenergy for domestic cooking and heating needs (e.g. wood and 
+charcoal). The environmental impact and emission levels from burning of bioenergy varies depending on a number 
+of factors including what type of biomass is used, how its processed (if at all), and how the equipment used to burn 
+it. The RE Policy supports the use of efficient and clean household equipment (e.g. cook stoves) using bioenergy, 
+which shall be enabled as an alternative to less efficient methods.
+In addition, Namibia has a large amount of invasive plant species (aka encroacher bush) which covers ~30% of 
+Namibia’s land area (GIZ, 2016). The encroacher bush contributes to a number of negative environmental impacts 
+including:
+ Reduced biodiversity
+ Limited land available for livestock
+ Decreased groundwater available for other speciesThe large amount of encroacher bush creates an opportunity for thermal energy and power generation applications.
+The RE Policy supports the use of bioenergy for various applications that are economically viable relative to
+alternatives and help meet the goals in Namibia’s RE Policy.
+[NOTE: please also refer to the larger discussion of Renewable Energy Fuels in a subsequent section of this Policy.]Renewable Fuels
+The availability of abundant feedstocks allows Namibia to investigate and grow the use of renewable liquid fuels 
+such as ethanol and biodiesel. In terms of ligno-cellulosic biomass potential, Namibia may have as much as 25 
+terawatt/ hectare, while the potential for cellulosic biomass is 1.5 terawatt / hectare. Produced correctly, advanced,
+second and third-generation biofuels result in net-zero carbon emissions.
+Growing vehicle numbers in Namibia and growing passenger-miles (or kilometres) driven have led to Namibia 
+importing ever greater quantities of liquid transportation fuels (petroleum and diesel). Domestic production of 
+biodiesel for transportation would therefore provide the added benefit of reducing Namibia’s imports and reducing 
+foreign exchange outflows.
+Cultivated Bioenergy
+Amongst the various options Namibia has explored and could further develop are Jatropha biofuel (although 
+Jatropha has failed to live up to expectations and oil yields have been underwhelming), castor and soy based 
+biodiesel, and algae-based biofuel (which is presently cost-prohibitive but could be researched for cost-reductions 
+in the future).
+Non-cultivated Bioenergy
+Given the prevalence of invader bush in Namibia, dry biomass based biofuel may be the most promising option for 
+increased investment (with one source estimating yields of 190 liters of yield from one ton of dry biomass).
+xv
+Blackthorn has also been shown to be a viable bioenergy source in Namibia, providing thermal energy in the form 
+of wood chips for cement manufacturers (such as Ohorongo Cement).
+Biofuel production would bring co-benefits of job creation in rural areas, contributing to rural development, income 
+diversification, and skills-building in ruralsettings. However, the larger-scale more sustained, commercial production 
+of biofuels often comes with potential challenges, ranging from possible impacts on soil and water, trade-offs with
+food security, impacts on biodiversity, management costs etc. Thus this type of renewable fuel development is
+often suited to experimental, pilot projects before scale-up and commercialization. As such, bioenergy development
+would be a good candidate for R&D and field trialsin the proposed Renewable Energy Development Zones(REDevZ).
+The development of the bioenergy industry is often impossible without proactive government support (like tax 
+breaks or rebates) etc. Simultaneously, the government must create safeguards to ensure sustainable land use and 
+to curb potential negative impactsfrom bioenergy production. The complexity of managing and growing a renewable
+fuel industry calls, in fact, for a dedicated bioenergy Policy, based on an in-depth understanding of Namibia’s
+own experience with bioenergy.Policy Statement 22
+The Government shall initiate bioenergy R&D programs and invest in comprehensive studies of the costs and benefits
+of bioenergy, as well as the needs of a growing bioenergy industry. Based on insights learned from research and
+pilot projects, the government shall formulate and adopt a National Bioenergy Policy with incentives and safeguards
+for renewable bioenergy, and with special focus on job-creation through bioenergy development. Both the R&D
+supported by this Policy, and the future National Bioenergy Policy shall strengthen linkages between the agriculture
+and manufacturing sectors, to support the growth and scale-up of bioenergy.Capacity Building and Skills Development
+Growth of the Renewable Energy sector in Namibia is a valuable economic opportunity that should translate into 
+skills-development and job creation for Namibians. In particular, off-grid technologies offer significant scope for 
+training of personnel and capacity building. Significant new value-chains can be created in the RE sector, with 
+training and job opportunities in each level of such value chains. Namibia already has provisions for the creation of 
+Renewable Energy shops, which allow for certain small-scale energy equipment to be retailed in rural areas. 
+However, these shops largely serve the function of storing inventory produced elsewhere and making occasional 
+sales. There is potential to expand the role of Renewable Energy shops and to create Renewable Energy value chains 
+in rural areas, based on Renewable Energy technologies.
+One potential solution the government should consider involves training corps of young Namibians in all phases of 
+the RE value chain: the manufacturing, installation, operations and maintenance of renewable technologies, and 
+deploying these networksin rural areas so that these technicians can participate in the entire life cycle of Renewable 
+Energy. For instance, some can engage in small-scale manufacturing of components that can be locally produced 
+(including at Renewable Energy parks); some can be involved in a transportation and distribution network from the 
+manufacturing unit to Renewable Energy shops or farther from the shops to villages; some can be installation 
+technicians; others can work on repairs, upgrades, and maintenance.
+The government should provide the necessary training and certification, as well as continuing education and a 
+chance up update skills periodically with improvements in technology. This can be done both through degree 
+programs at universities, through vocational colleges, or other technical institutions across the country. In this 
+manner, not only will the government create capacity and generate jobs, it will also increase the operational 
+lifetimes of Renewable Energy applications, so that minor problems in the installation or the lack of a spare part for 
+prolonged periods does not lead to breakdowns or a lack of confidence in Renewable Energy technologies.
+Some of this work has already begun in Namibia. Thus the Policy supportsthe expansion ofsuch efforts,such training 
+and certification shall be designed to also create post-completion job opportunities and to develop skilled personnel 
+who can support off-grid Renewable Energy manufacture, sale, deployment, operation, and after-sale services both 
+in Namibia and the region.
+Policy Statement 23
+Government shall invest in a comprehensive Renewable Energy technology training programme focused on
+imparting technical vocational skills to Namibians, and also developing clean energy focused courses at
+universities.
+The Government shall also consider a green economy development strategy that creates forward and backward 
+linkages with the manufacturing sector by potentially supporting the manufacturing of technology related to the 
+production of Renewable Energy in Namibia (e.g. solar water heaters). If implemented, such support should be 
+practical for Namibia and account for the small size of the local market relative to other countries manufacturing 
+this equipment. Government shall also keep in mind that the best way to incentivize local industries is by enabling 
+local demand.Land Procurement Best Practices
+One of the major barriers faced by IPPs and Renewable Energy project developers is the challenge of acquiring or 
+leasing land for new projects. Under Namibian law, land rights are vested in three distinct categories of owners: 
+private land owners, the state (predominantly conservation areas), and communities. Within this land rights regime,
+those wishing to secure leases for Renewable Energy projects have to deal with a multiplicity of actors based on the
+location they prefer, and the process to obtain land can be laborious, unpredictable, and susceptible to change.
+There is no standardized approach for securing land for Renewable Energy projects. In particular, securing 
+community-owned land is exceptionally onerous and lengthy, often taking years. Acquiring rights to develop 
+Renewable Energy projects on agricultural land has also proven to be extremely cumbersome in many cases.
+A useful approach to ameliorate such barriers exists in Namibia’s tourism industry. In collaboration with non 
+governmental organizations and industry associations, the Government of Namibia has begun exploring the creation 
+of somewhat standardized models for land negotiations between tourism facility developers and traditional
+authorities that govern community lands. These models include negotiations based on adequate benefit- sharing
+between the private developer and the local community, job-creation for the local community, and a recognition
+that the establishment of the tourist facility typically adds value to the land.
+The Renewable Energy sector would benefit from similar approaches thatsimplify, standardize, expedite, and clarify 
+the process for acquiring leases on community lands. This shall be treated as a high priority by the Government of 
+Namibia.
+Another challenge related to land is the existing land use regime. Land use plans and regulations prescribing land 
+use provide very specific categories of land use in Namibia. When land is classified under or earmarked for one type 
+of land use, conversion to another land use is extremely challenging and faces many Regulatory hurdles. Given the 
+sheer potential of Renewable Energy in Namibia and the role that land can plan in enabling Namibia to become a 
+leader in Renewable Energy, it is advisable that Namibia revise its current land use regime to include clean energy 
+as a specific type of land use, allowing easier conversion and reducing constraints on Renewable Energy activities. 
+The Ministry of Land Reform shall play a key role in modifying the existing land use regulations and Policy
+frameworks.
+Policy Statement 24
+Government through the relevant Ministry shall develop standardized procedures for land acquisition on all 
+categories of land, for RE activities, to facilitate the development of RE projects at appropriate sites by project
+developers. Standardized models with clear and predictable requirements shall be developed in consultation with
+different land owner categories and shall ensure adequate benefit-sharing, but shall also enable accelerated 
+timelines for land access.
+Financing Barriers and Solutions for Renewable Energy in Namibia
+The most significant barrier standing in the way of robust development of the Renewable Energy sector in Namibia 
+is inadequate finance, in terms of both limited availability and the high cost of credit. While the sector is replete 
+with potential projects that are technically viable, the financial feasibility of many projects falters in the face of high due diligence and project preparation requirements demanded by the small number of commercial banking 
+institutionsthat lend to Renewable Energy projectsin Namibia. Because financial institutions adopt a project finance 
+approach to Renewable Energy projects, it is the cost ofsuch project development that often makes projects unviable
+for developers. Thus, new and innovative arrangements and support for project preparation are necessary, including
+the creation of new financial products and lending streams that can modify the due diligence requirements based 
+on prior experience or a firm’s credibility.
+Another equally important barrier for financing in Namibia is exchange rate fluctuations. Because the Namibian 
+Dollar is pegged to the South African Rand, the precipitous devaluation of the rand against the dollar, pound, and 
+euro (due to a slowing South African economy) has also brought down the value of the Namibian Dollar in recent 
+months. Since electricity tariffs are set in Namibian Dollars, while capital costs are often in foreign currency, the 
+change in the value of the Namibian Dollar has led to several projects becoming significantly more costly simply due
+to exchange rate variation. The challenge is amplified when credit for the project is derived from foreign sources,
+making repayment rates even more expensive. It is imperative, therefore, for the Government of Namibia to
+investigate and implement ways to protect or insulate the Renewable Energy industry in some manner from currency
+devaluation. One method of doing this is to negotiate adjustable tariffs contingent on inflation (e.g. consumer price
+index).
+The high cost of credit from domestic lenders is not a uniquely Namibian problem, but is nevertheless a challenge 
+for IPPs. In Renewable Energy markets the world over several measures have been adopted to reduce the risk to 
+financial institutions or lenders, such as risk guarantee funds, revolving funds and similar mechanisms. Namibia shall
+make it a priority to develop mechanisms that allow lenders to reduce interest rates due to lower risk levels.
+New and additional sources of finance shall be actively sought by the Namibian Government. For instance, it shall 
+draw on international climate finance, including from the Climate Investment Funds (CIF), the Energy Facility, and 
+Green Climate Fund (GCF), exploring waysto support the private sectorin Namibia benefit from such climate finance.
+This would include assisting private developers with the legal and Regulatory requirements of climate funding, 
+reducing their transaction and administrative costs.
+The Government shall also redouble efforts to secure multilateral funding and development assistance for publicly 
+funded Renewable Energy projects. New opportunities in Africa are likely to emerge through AfDB’s Clean Energy 
+Investment Framework for Africa, the African Renewable Energy Fund, the Sustainable Energy Fund for Africa, 
+SACREE and similar regional collectives.
+Across developing countries and emerging markets, new and innovative financial mechanisms are being used to 
+support the growth of Renewable Energy. Many of these do require public finance, which Namibia shall consider.Options include the setting up of a dedicated Renewable Energy financing institution, focused on better attracting 
+and structuring finance for clean energy (one of the stated objectives of the Indian Renewable Energy Development 
+Agency, for instance); crowd-sourced financing (such as the Solar Mosaic model in California); issuing Green Bonds 
+(exemplified in Costa Rica, and championed in particular through World Bank programs); the setting of preferential 
+interest rates for RE projects (as has been done by the Central Bank in Japan) or interest rates guided by 
+Environmental and Social Governance (ESG) criteria; and one-stop-shop financing and facilitation through entities 
+like the World Bank Group’s “Scaling Solar” initiative.
+There are also a range of options to reduce risks from currency fluctuation. Currency Exchange Funds (such as one 
+pioneered by the Dutch Ministry of Foreign Affairs, along with the African Development Bank and the European 
+Bank for Reconstruction and Development) allow investors putting money into developing markets to hedge local 
+currency risk with the help of swap products. PPAs themselves could be structured with built in currency exchange 
+protection on tariff payments (as is happening in Ghana). Yet another option is a government-sponsored foreign 
+exchange hedging facility. India is exploring this model, where a 10-year currency hedge, provided by the 
+Government through the facility, would cost 16% of the current capital cost of a solar plant. Under its model such a
+hedge would reduce the developer’s debt costs by 7%, the cost of Renewable Energy by 19%, and the cost of 
+government support by 54%.
+xvi
+Figure 8: Impact of a Currency Hedge on the Cost of Foreign Debt
+Source: (Climate Policy Initiative, 2015) 
+The role of public finance in the renewables sector is key for several reasons. It allows for the minimization of risks,
+and to maximize the leveraging of private finance (through vehicles such as Public Private Partnerships). Public 
+finance can also help create a level playing field for renewables, to make them competitive against fossil fuels –
+which have received various forms of government subsidies and support for multiple decades. If the perception of
+risk in renewables can be lowered to some degree by public finance, it also helps to accelerate private lending and 
+equity, including lower credit rates. Lower finance costs have been show to lead to more affordable energy.
+In addition, the Namibian Government shall explore methods to generate funding for Renewable Energy projects 
+through new revenue streams. Some options to be explored include a financial transactions tax to be channelled 
+into clean energy, or a carbon tax to be channelled into clean energy.Financing needs are different for grid-connected and off-grid technologies. In recognition of this, the Namibian 
+Government shall adopt a differentiated approach to improving finance for each of these sectors. It is likely that 
+grid-connected technologies can be scaled up through private investment and finance, therefore making off-grid 
+applications – particularly in rural areas -- a priority for public support and finance through dedicated credit lines 
+(including, potentially, collectively owned community RE assets). Thus, targeted public funding shall be used to fill 
+such finance gaps, especially for small-scale, rural Renewable Energy projects.
+Namibia is already taking steps towards affordable financing for renewables. The Environmental Investment Fund of
+Namibia has been set up to provide grants, green soft loans, green concessional loans and bursaries. It recently 
+received accreditation from the Green Climate Fund (GCF).
+xvii Other entities such as the Namibia Investment Centre
+and the SME Bank can also support the growth of RE in Namibia.
+Policy Statement 25
+The Government shall liaise with relevant line ministries and agencies to increase the diversity and scale of 
+financing options for public and private Renewable Energy projects in Namibia.Potential Financial Incentives and Tax Breaks
+In the electricity sector, translating Renewable Energy targets into specific Policy instruments can include a wide 
+range of different Policy mechanisms. The selection of particular policies and measures can help focus Regulatory 
+and monitoring resources more efficiently.
+To promote renewable energies, countries have over the years developed a range of different policies. The most 
+common implemented policies include:
+- Rebates: to promote the installation of Renewable Energy systems and energy efficiency measures.
+- Grants: to decrease the cost of eligible systems or equipment, research and development, and project 
+commercialization.
+- Production incentives: to reward performance. Cash payments are given based on the number of 
+kilowatt-hours (kWh) generated by a Renewable Energy system.
+- Industry support: Financial incentives to recruit or cultivate the manufacturing and development of
+Renewable Energy systems and equipment.
+- Corporate tax credit: credit for the purchase and installation of green energy technology.
+- Personal tax credit: tax credits on multiple years for the purchase of Renewable Energy systems for 
+personal use.
+- Sales tax: exemption from the state sales tax for the purchase of a Renewable Energy system.
+- Property tax: exemptions, exclusions and abatements for Renewable Energy equipment on property.
+Tariff-based support schemes such as Feed-in tariffs (FiT) and Feed-in premiums (FiP) have been widely used in the 
+past, and have proven to be effective in promoting and stimulating growth in renewable energies. Tariff-based 
+support mechanisms are price-driven Policy instruments, where the price is set (or partially set) by the responsible 
+Regulatory body, and the quantity of Renewable Energy electricity is determined by the market actors. The price is 
+usually guaranteed over a certain time period. The tariff rates are usually determined for each renewable 
+technology, enabling account to be taken of the technology-specific generation costs, and to ensure profitability. FiT
+have the advantage to guarantee access to the grid, favorable rates per unit and guarantee the tariff term.
+Over the recent years, however, auction/public tendering schemes (also tariff-based) have become increasingly 
+popular as a Policy tool to promote renewables, given their potential to achieve deployment of renewable energies 
+in a cost-efficient and regulated manner. The Regulatory body usually sets the quantities (and often other selection 
+criteria), and the tariff is defined by competitive bidding from the project developers. When well-designed, the 
+price competition inherent to the auction scheme increases cost efficiency and allows price discovery of Renewable 
+Energy-based electricity, avoiding potential windfall profits and underpayments that can occur in FiT or FiP schemes.
+The process of Renewable Energy auctions (also known as “demand auctions” or “procurement auctions”) is usually 
+as follows: the government issues a call for tenders to install a certain capacity of Renewable Energy-based 
+electricity, with defined requirements imposed for project developers to participate in the bid (e.g. proof of financial
+capability,secured land, licenses, etc.). Project developers who participate in the auction submit a bid with a price per
+unit of electricity at which they are able to realise the project. The government then evaluatesthe offers on the basis
+of the price and other criteria and signs a power purchasing agreement with the successful bidder. Thecontract provides the renewable generators with a fixed price for a certain number of years and a guaranteed 
+purchase for all generation, which can be used as a basis for financing the project.
+Different types of auctions exist: the sealed-bid auction, where project developers submit their bids with an 
+undisclosed offer of the price at which the electricity would be sold under a power purchase agreement; the multiround descending-clock auction, where the auctioneer offers a price, and the developer bids with an offer of the 
+quantity it would be willing to provide at that price; and hybrid auction, where a combination of the two above is 
+used in the different phases. Important for all of these is to limit the award decision in time to be operational. 
+Auctions have the following non-negligible advantage:
+- Limited risks for investors: project developers are assured a market for the electricity they produce over a 
+defined period of time
+- Cost efficiency: the competitive bidding situation puts downwards pressure on prices. With the FIT or FIP,
+overpayment is a concern.
+- Volume and budget control: capacity is capped, and with the use of ceiling prices, budget is controlled.
+- RE-electricity supply more predictable: deployment volumes are controlled and Policy makers can predict 
+future supply trends.
+While auctions have become very attractive, they only benefit successful bidders and tend to favour large –scale 
+established developers that are able to afford the associated administrative and transaction costs. There is a risk of 
+underbidding since bidders are incentivized to bid as low as possible to increase their chances ofsecuring a contract, 
+but might not be able to honor their contract afterwards. Moreover, the risk of a “stop-and-go pattern” of 
+deployment is real if auctions schemes are not linked to a fixed schedule.
+Auctions to be successful shall be designed with stringent bidding requirements (financial, environmental, grid 
+connection, etc.) and strong compliance rules (penalties, bid bonds, project completion guarantees, etc.) that reduce
+the risk of underbidding, project delays and project failure.
+Namibia currently differentiates Renewable Energy regulations based on system size as follows:
+ Net metering rules for installations <500 kW for all Renewable Energy technologies (not to exceed the 
+main electricity supply circuit breaker current rating)
+ A Renewable Energy feed-in tariff (REFiT) for projects >500kW and < 5 MW including biomass, 
+concentrating solar power, solar PV, and wind.
+ A competitive auction approach for projects >5MW
+This differentiation of regulations and procurement based on system size, helps to target different sectors and 
+encourage wider adoption of Renewable Energy. However, Namibia is still facing some challenges with its 
+approach to date including:
+ Limited participation by some distribution utilities in net metering to date
+ Challenge with accurately setting REFiT amounts that are competitive, bankable, reduce risk of exchange 
+rate fluctuations, and account for technology advancements
+ Lack of clear and efficient land procurement and access rules for projects The need to stick to best practices when competitively procuring capacity
+Fortunately, these challenges provide lessons to learn from when improving on future Renewable Energy programs 
+and harmonizing efforts by Government. The IPP Policy will also provide more detail on future rules and 
+procurement guidelines for both Renewable Energy and other resource options.
+It is recommended that Namibia follows South Africa and other countries’ shift towards an auction-based system 
+for renewable projects > 10 MW to support the development of Renewable Energy in the country. To begin with, it 
+is advised to implement a sealed-bid type of auction, which is easy to implement, simple, and fosters competition, 
+avoiding collusion. As advised by the IRENA study (2013)
+xviii and experienced in South Africa, ceiling prices should 
+not be disclosed to the bidders in order to ensure greater competition. The undisclosed ceiling price can be 
+determined based on previous policies of the country (e.g. FiT levels). Auction volumes should be limited, and 
+determined in relation to the capacity of the market to deliver. They can be technology-specific or technologyneutral. Technology-specific auctions enable the diversification of the energy mix and reduce technology risks. Sitespecific auctions moreover reduce the risk of non-compliance by freeing the investors from the liability of securing 
+land, obtaining environmental permits, etc. but it requires additional government resources. Determining the 
+optimal number of rounds and volumes is a challenge that requires learning by doing, but should be based on the 
+country’s energy plan and the size and maturity of its actual RE market. Streamlined administrative procedures, 
+with communication and transparency are essential and should be provided to all bidders. Similarly, strong 
+guarantees and penalties are essential to the success of auction schemes to prevent potential underbidding and 
+minimizing the risk of project delays and completion failure.
+For RE projects < 5MW, it is recommended to use the Renewable Energy feed-in tariff (REFiT) already in place. The 
+viability of the projects depends on enforceable off-taker agreements with NamPower who controls the distribution 
+channels.
+All RE systems less than 500 kW, will be regulated by the net metering rules.Renewable Energy Policy for Namibia FINAL 54
+Renewable Energy Development 
+Developing an ambitious sustainable electricity sector with large amounts of renewables and lower 
+imports requirements is possible by 2030.
+However, in order for this to happen, it is crucial that several important steps and decisions are taken
+today.
+The transition towards more renewables means a transition from a merely OPEX-based to a CAPEXbased electricity sector. Once the investments are done the operational costs are limited. This means it 
+reduces risks for the future, and can be regarded as a sort of insurance against future fuel price 
+evolutions. Investments in CAPEX-technologies like wind and solar energy mitigate the risks of such 
+events.
+To make the transition work, decisions have to be taken now and a stable investment framework needs 
+to be created with the right incentives. Policy makers shall choose to support innovative technologies 
+that have the potential to create economical added-value in Namibia, while keeping a good mix of 
+technologies. Demand flexibility can be part of the energy transition, reducing quickly the peak power 
+demand. Measures need to be created to incentivise this further.Renewable Energy Policy for Namibia FINAL 55
+In order to set realistic targets for the future, two essential elements are missing:
+- Grid study: necessary to ensure the grid stability and to foresee the upgrades required to be able 
+to bear with the additional installed capacities and more flexibility of the power system.
+- Resources assessments and mappings: essential to grasp the right Renewable Energy potential of 
+the country. The World Bank provides funding for such projects in Africa.
+Finally, smart policies shall be developed:
+- Increase investor confidence: One of the most important things when designing a support 
+framework is to make sure that it is stable and reliable. Sudden changes are detrimental to 
+investor confidence. This makes money more expensive and in turn significantly increases the 
+required subsidies.
+- Incentives for flexibility & peak reduction: measures to incentivise demand flexibility and peak 
+reduction include for e.g. increasing the costs for larger grid connections (thereby giving an 
+incentive to reduce the peak demand) or installing smart meters to value electricity 
+consumption according to the hourly wholesale market prices.
+- Maintain a mix of technologies: for risk management purposes, it is important to keep an 
+overall mix of sources of energy, without excluding the development of a potentially highly 
+successful technology.
+The exact composition of the energy mix enabling to reach a growing Renewable Energy is subject to
+change based on the NIRP and future updates to the NIRP. APPENDICES
+A. Case Studies on Socio-Economic Impact from Recent Solar PV Installations in
+Namibia
+The growth of Namibia’s Renewable Energy industry has already resulted in a number of successful projects, each
+of which could be a model for future projects. Examples include projects by Namibian companies, such as HopSol’s
+5 MW Otjiwarongo Solar Power Plant, and the 5 MW Otjozondjupa solar park in Grootfontein (a project that 
+emerged from Namibia’s REFiT programme), and several others. For the purpose of brevity, this section of the 
+Appendix briefly showcase two well-known projects, as follows:
+Tsumkwe Energy Project
+The Tsumkwe Energy Project is a 200 KW solar hybrid system developed and installed by Juwi (a German firm), in 
+partnership with the Desert Research Foundation of Namibia and in close collaboration with NamPower and the 
+Otjozondjupa Regional Council. The off-grid project is located in the Otjozondjupa r e g i o n of Namibia, a remote 
+area. The project consists of 918 polycrystalline panels and battery storage of one MW. For backup, the system has 
+three diesel generators integrated into it.xxiv
+Additional components of the project resulted in the installation of street lights, and the distribution of over 50 
+rechargeable electrical lanterns to select Tsumkwe residents who are not connected to the central mini-grid. A solar 
+kiosk has been installed to charge the electric lanterns and mobile phones of residents. Outdated electric meters 
+have been replaced with modern meters, which has allowed revenue collection by the Otjozondjupa Regional 
+Council to increase markedly. Pre-paid meters have also been installed in government buildings.
+xxv
+The project’s objective was to contribute to a reduction in poverty, through access to modern electricity services
+and infrastructure and by creating opportunities for social and economic development.
+Socio-economic impact
+The project, completed in 2012, supplies 100% clean electricity to the local hospital, police station, radio station, 
+watersupply, mobile network, and over 100 households in the town of Tsumkwe. Access to power has gone up from
+12-14 hours a day (and many a time just three hours a day) to 24 hours a day, due to the project.
+xxvi
+Electricity costs from the PV system are lower than costs from the pre-existing diesel generators, given rising fuel 
+costs of diesel in recent years.
+Several impacts of the project have been assessed and recorded. These include an improvement in public service 
+delivery, reduced plant operating costs for the local government, and a reduction of energy costs for some local 
+businesses. Notably, the project appears to have sparked an interest in business development; business 
+opportunities have been created through access to energy, and local officials have noted that there has been an 
+increase in the number of applications in the local town hall for registration of new businesses including shops (or 
+shebeens). One of the other impacts has been minor savings from energy efficiency, which have been diverted into 
+other activities by households
+xxviiOmburu Solar Power Plant
+The Omburu solar power plant is a grid-connected solar PV park with a generation capacity of 4.5 MW, generating
+13,500,000 Kwh a year. Developed by Innosun (a Franco-Namibian company), the solar park covers 16 acres, 
+contains more than 33,000 panels, 100 inverters, and 67 tracking mirrors.
+xxviii
+The PV panels are installed on a single axis horizontal tracking system, which allows the panels to follow the sun 
+from East to West. The panels produce direct current, converted into 400 volt alternating current, which is more 
+compatible with the national grid. This is then boosted up to 22,000 volts by four transformers within the solar park.
+The power is transported on a power line (1.2 km long) set up and paid for by the developer, and then injected into
+Omburu transmission substation – also constructed, operated, and maintained by the developer – and then sold to
+NamPower.
+Socio-economic impact
+The electricity generated from this facility is the equivalent of one percent of all of Namibia’s power generation,
+enough to meet the power consumption needs of 20,000 Namibians.
+During the construction phase of the project, which lasted four months, 60 Namibians had construction jobs on the 
+site. Post-completion, 10 Namibians have full-time, long-term jobs operating and maintaining the power plant over 
+an anticipated 25 year lifetime.
+One of the noteworthy features of the plant is that (chiefly due to its tracking design) it is currently operating much 
+like a baseload plant. It’s production peaks shortly after sunrise, and continues at a relatively constant rate – at peak
+levels – until shortly before sunset, without much variance or intermittency during the daytime. The implications of 
+this are that thissignificantly increases NamPower’s ability to draw on electricity generation from Omburu to provide
+power to grid-connected households, with more assured and reliable supply – which brings with it a host of socioeconomic opportunities.
+B. Existing Off-grid and Rural Electrification Initiatives from the Ministry of Mines 
+and Energy
+The Ministry of Mines and Energy has a few existing initiatives supporting Renewable Energy solutions for off-grid 
+and rural communities as listed in Table 4 with expected budget for each fiscal year. Currently just a small portion of
+the budget is used for off-grid electrification, so more budget would likely need to be sourced for an effective minigrid program.
+Table 4 Current Off-grid and Rural Electrification Estimated Expenditure by Ministry of Mines and Energy
+Initiative
+Estimated Expenditure (N$)
+2016/2017 2017/2018 2018/2019
+Off-Grid Electrification and Solar Revolving Fund 6,000,000 10,000,000 8,000,000
+Rural Electrification 67,000,000 70,000,000 70,000,000In addition the Ministry of Mines and Energy sponsored one of the biggest off-grid solar PV power plantsin the region
+in the remote settlement of Gam/Otjozondjupa with ~1600 inhabitants. The project has a battery capacity of
+2.5MWh and satisfies the maximum demand of 200kW for 24 hours, but it has faced challenges with meters and 
+ongoing O&M. This highlights the need to use reliable companies to manage not only the installation, but also the 
+ongoing O&M.
+Solar Revolving Fund
+Currently, the Ministry of Mines and Energy overseas the administration and allocation of the Solar Revolving Fund 
+(SRF). The SRF is a credit facility established to stimulate demand for the utilization of Renewable Energy
+technologies in both rural and urban areas, with a focus on off-grid areas. Loan amounts range from N$6,000-
+50,000 varying by technology. Qualifying technologies and historical installations are included in Figure 9. Solar
+Homes Systems includes solar PV equipment and solar cookers/stoves, which can be financed as part of a lump 
+sum. Currently, there is not much funding available from MME for mini-grids.
+Figure 9: Financed Systems from Solar Revolving Fund
+Source: (MME, 2016)C. Summary of the SADC Mini-Grid Gap Analysis and National Plan of Action for
+Namibia
+Type Identified Gap
+Stakeholder Responsible for
+addressing gap
+1. The selection criteria for off grid locations do not include current 
+and potential social and economic impacts including productive use. MME
+2. The Regional Electricity and Off- Grid Energisation Master Plans are
+not aligned with the SE4ALL objectives. MME
+3. There is no portal for accurate and updated Renewable Energy
+resource data and competitiveness for Namibia
+REEEI with support from
+NamPower & Soitec
+4. Inadequate technical capacity for operation 
+and maintenance of off-grid systems in the country. REEEI/SEIAN
+5. Norms, standards and codes of practice for performance, 
+manufacturing, installation and 
+maintenance of mini grids need more regular reviewing. NTCRE
+6. The regional electricity distributors are unwilling to take ownership 
+of mini grids citing lack of viability and Regulatory uncertainty MME/REDs
+7. The off grid systems on public institutions and remote villages are
+not financially sustainable REGULATOR
+8. Solar Revolving Fund is unsustainable and has a
+backlog of customers. MME
+9. Namibia does not have a Rural and Renewable Energy (RRE) Policy,
+Act and Agency MME
+10. There is ineffective coordination among players and the
+implementation of projects MME
+11. The off grid electrification projects and programmes are not 
+being systematically monitored and evaluated. MME/REEEI
+Source: (RERA, 2014)
+D. Regional Trends in Renewable Energy Policy
+A number of Renewable Energy supporting policies and incentives are being used in the SADC region. Regulatory 
+incentives are more common than financial incentives, as these typically require less funding support from 
+government.Table 5 Renewable Energy Incentives in the SADC
+Source: (REN 21, 2015) 
+Auctions and feed-in-tariffs are two of most common Regulatory incentives for procurement of utility-scale 
+Renewable Energy. Feed-in-tariffs are more commonly used for small to medium scale projects (e.g. <10MW), while 
+auctions are more appropriate for larger projects or for more competitive technologies such as solar PV.Table 6 Regional Feed-in-Tariff and Auction Programs for Renewable Energy
+Source: (Blue Horizon ECS, 2016)
+South Africa switched from a REFiT to competitive auction in 2011 to enable more competition in its procurement 
+of utility scale Renewable Energy. Through consistent commitment from government the auction successfully helped 
+reduce costs for new projects especially solar PV and wind.
+Figure 10: Average Prices for South Africa’s Renewable Energy Independent Power Producer Programme
+Note: CSP Round 3 adjusted for revised time-of-use contracting profile for 5 hours of peak/day at 270% of base rate
+South Africa also held an auction for small-scale Renewable Energy projects (~5MW) of a comparable size toapplicants. The prices for solar PV were 17% less expensive on average than Namibia’s REFiT, highlighting the
+benefits of an auction in helping to ensure competitive pricing.
+Figure 11: Comparison of Namibia’s REFiT with South Africa’s Small-Scale IPP AuctionBIBLIOGRAPHY
+Bill of Parliament. (2015). Draft Electricity Bill.
+Bill of Parliament. (2016). Draft Energy Regulator Act.
+Dr. Chiguvare, Z., & Ileka, H. (2015). Namibian Solar Thermal Technology Roadmap. SOLTRAIN, NEI, NUST,. 
+REGULATOR. (2005, May). The Namibian Grid Code.
+REGULATOR. (2015, March). Net Metering Rules.
+REGULATOR. (2016, February 19). NIRP Review and Update Project: Preliminary Draft of Partial Final Report. 
+Emcon. (2015, December). Review of the DSM Study for Namibia (Draft).
+Epp, B. (2013, May 2 8 ). Namibia: Cabinet Di r ec t iv e Pushes Solar Water Heater Market. Retrieved fro m
+http://www.solarthermalworld.org/content/namibia-cabinet-directive-pushes-solar-water-heater-market
+GIZ. (2016). Quantifying Harvestable Encroacher Bush.
+GRN. (2004). Namibia Vision 2030: Policy Framework for Long-Term National Development. Government of the
+Republic of Namibia; Office of the President.
+GRN. (2016). Harambee Prosperity Plan: Namibian Government's Action Plan towards Prosperity for All 2016/17 -
+2019/20. Draft for Discussion.
+IEA. (2011). 25 Energy Efficiency Policy Recommendations.
+MME. (2016, April 21). Budget Data from MME Interview with Nico Snyders.
+NamPower. (2016, April). Renewable Energy Facilities and other Embedded Generation: Amendmentto Connection
+Agreement "Technical Guidelines for Transmission integration". Version 9. 
+NERSA. (2015, February). Consultation Paper on Small-Scale Embedded Generation.
+Republic of Namibia. (2016). Harambee Prosperity Plan 2016/17 - 2019/20 : Namibian Government's Action Plan
+towards Prosperity for All (Draft for Discussion).
+RERA. (2014, January). Namibia Case Study: Gap analysis and National Action Plan. Supportive framework conditions 
+for mini-grids employing renewable and hybrid generation in the SADC Region.
+SADC. (2016, April 18). SADC Integration Milestones. Retrieved from Southern African Development Community:
+http://www.sadc.int/about-sadc/integration-milestones/
+The World Bank. (2006). Handbook For Evaluating Infrastructure Regulatory Systems. Retrieved from
+http://siteresources.worldbank.org/EXTENERGY/Resources/336805-
+1156971270190/HandbookForEvaluatingInfrastructureRegulation062706.pdfREFERENCES (ENDNOTES)
+i
+IRENA, Renewable Data in Namibia, date unknown. http://www.irena.org/EventDocs/Namibia.pdf
+ii Miika Rama et al., VTT Consulting, Development of Namibian Energy Sector (Research Report VTT-R-07599-13), 2013.
+http://www.vtt.fi/inf/julkaisut/muut/2013/vtt-r-07599-13.pdf
+iii REN21, Renewable Energy Global Status Report, 2015 http://www.ren21.net/wp-content/uploads/2015/07/REN12-
+GSR2015_Onlinebook_low1.pdf
+iv Miika Rama et al., VTT Consulting, Development of Namibian Energy Sector (Research Report VTT-R-07599-13), 2013.
+http://www.vtt.fi/inf/julkaisut/muut/2013/vtt-r-07599-13.pdf
+v Detlof von Oertzen, REEE Powering Namibia, 2015, VO Consulting.
+vi Detlof von Oertzen, REEE Powering Namibia, 2015, VO Consulting.
+vii
+Steag Energy Services, Study on Namibian Biomass Processing for Energy Production, 2013. http://www.theeis.com/data/literature/Study%20on%20Namibian%20biomass%20processing%20for%20energy%20production.pdf
+viii Steag Energy Services, Study on Namibian Biomass Processing for Energy Production, 2013. http://www.theeis.com/data/literature/Study%20on%20Namibian%20biomass%20processing%20for%20energy%20production.pdf
+ix Namibia Nature Foundation, An assessment of the economics of land degradation related to bush encroachment in Namibia,
+2016.
+x World Bank Group Energy Sector. Subsidiesin the Energy Sector: An Overview. Rep. 2010. Print. (aka “World Bank Subsidy
+Report, 2010”)
+xi
+Synapse Energy Economics. Best Practicesin Electric Utility Integrated Resource Planning, Regulatory Assistance Project
+(RAP), June 2013
+xii Energy Storage Association. Benefit Categories, 2016. http://energystorage.org/energy-storage/energy-storagebenefits/benefit-categories
+xiii United Nations. Sustainable Energy 4 All, 2016 http://www.se4all.org/our-vision_our-objectives_universal-energy
+xiv Demand Side Management is generally defined as a means of reducing peak electricity demand to cut utility costs as well
+as reducing overall demand through efficiency, UNIDO. Demand Side Management. Sustainable Energy Regulation and Policy
+Making for Africahttps://www.unido.org/fileadmin/media/documents/pdf/EEU_Training_Package/Module14.pdf
+xv Von Oertzen, Detlof. Namibia’s Biofuel Potentials, VO Consulting, June 2010.
+http://www.voconsulting.net/pdf/energy/Namibias%20Biofuel%20Potentials.pdf
+xvi Arsalan Ali Farooquee and Gireesh Shrimali, Climate Policy Initiative and Indian School of Business, Reaching India’s
+Renewable Energy Targets Cost-effectively: A Foreign Exchange Hedging Facility, 2015. http://climatePolicyinitiative.org/wpcontent/uploads/2015/06/Reaching-Indias-Renewable-Energy-Targets-Foreign-Exchange-Hedging-Facility_TechnicalPaper.pdf
+xvii Environmental Investment Fund of Namibia http://www.eifnamibia.com/
+xviii
+IRENA, 2013, “Renewable Energy Auctionsin Developing Countries”
+xix
+Febeliec, Elia & EnergyVille, Summary Results Demand Response Survey, 2013, Available online
+http://www.febeliec.be/data/1385111565Elia%20Febeliex%20EnergyVille%20Demand%20Response%20Survey%20results%2
+0-%20public%20version.pdf
+xx The capacity credit isthe amount of firm capacity that can be replaced by variable Renewable Energy sources. The idea is that
+no backup capacity is needed for this percentage of the Renewable Energy capacity when integrated in the grid. The capacity 
+credit decreases with the overall penetration of renewables in the grid. In this project, a low and conservative capacity credit 
+of 5% is taken into account.
+xxi Steunmechanismen voor de productie van groene stroom en WKK, analyse, aanpassingsvoorstellen en
+beleidsaanbevelingen, 3E for VEA, July 2011, http://www.energiesparen.be/evaluatie_steunmechanismen
+Report for the Walloon Government (SPW DG04), 2013, not published yet.
+Crucial energy choicesin Belgium – an investigation of the options, our energy future, 3E for Greenpeace, BBL and WWF, June
+2014, http://www.greenpeace.org/belgium/global/belgium/report/2014/our_energy_future.pdf
+xxii NIRP Review and Update Project, Preliminary Draft of Partial Final Report, HATCH for the Electricity Control Board, February
+19, 2016
+xxiii
+IEA and OECD/NEA, Projected Costs of Generating Electricity: 2010 Edition, 2010, Parisxxiv Go100% Renewable Energy, Tsumkwe, 
+http://www.go100percent.org/cms/index.php?id=70&tx_ttnews%5Btt_news%5D=93 
+xxv ACP-EU Energy Facility Projects Database, Tswumkwe Energy, 
+http://database.energyfacilitymonitoring.eu/acpeu/project/4327/
+xxvi Go100% Renewable Energy, Tsumkwe,
+http://www.go100percent.org/cms/index.php?id=70&tx_ttnews%5Btt_news%5D=93
+xxvii ACP-EU Energy Facility Projects Database, Tswumkwe Energy,
+http://database.energyfacilitymonitoring.eu/acpeu/project/4327/
+xxviii
+InnoSun, Presentation on Omburu Solar PV Power Plant, available on request.

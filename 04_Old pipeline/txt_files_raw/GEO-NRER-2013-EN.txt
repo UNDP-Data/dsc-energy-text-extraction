@@ -1,0 +1,698 @@
+File Name: GEO-NRER-2013-EN
+Year: 2013
+Country Name: Georgia
+Country Code: GEO
+Category: NRER
+Document Title: nan
+Exists?: Y
+Publication Date: 2013
+Start Year: 2013
+End Year: 2020
+Language: EN
+------------------------------------------------
+
+HydropowerInvestment
+PromotionProject (HIPP)
+RENEWABLE ENERGY ROAD
+MAP FOR GEORGIA
+DRAFT, August 2013RENEWABLE ENERGY ROAD
+MAP FOR GEORGIA
+AUGUST 5, 2013
+USAID HYDROPOWER INVESTMENT PROMOTION PROJECT
+(HIPP)
+CONTRACT NUMBER: EEM-I-00-07-00005-0
+DELOITTE CONSULTING LLP
+USAID/CAUCASUS OFFICE OF ENERGY AND ENVIRONMENTDan Potash Deloitte Consulting LLP dpotash@deloitte.com
+Jake Delphia Deloitte Consulting LLP jdelphia@deloitte.com
+Mari Ioseliani
+Deloitte Consulting
+Overseas Projects LLC
+mioseliani@dcop-hipp.ge
+Elene Ghubianuri
+Deloitte Consulting
+Overseas Projects LLC
+eghubianuri@dcop-hipp.ge
+This document was prepared by
+Authors Organization Contact Details
+Reviewer Organization Contact Details4.1 Gaps concerning Renewable Energy regulation.....................................11
+4.1.1 World Bank Table of Indicators for Investing in
+RE and HIPP View of Georgia................................................12
+4.2 Renewable Energy Legal Framework Needed in Georgia ......................13
+6.1 Five-Year Road Map .............................................................................16
+6.2 Next Year Road Map.............................................................................16
+TABLE OF CONTENTS
+1.0 BACKGROUND............................................................................................2
+2.0 RENEWABLE ENERGY POTENTIAL IN GEORGIA ...................................5
+3.0 WORLDWIDE BEST PRACTICES...............................................................8
+4.0 RE CURRENT LEGAL FRAMEWORK IN GEORGIA................................10
+5.0 EU REQUIREMENTS.................................................................................14
+6.0 ROAD MAP FOR RENEWABLE ENERGY IN GEORGIA .........................16ACER Agency for the Cooperation of Energy Regulators
+BSTP Black Sea Transmission Project
+EC Energy Community
+ENTSO-E European Network of Transmission System Operators for Electricity (formerly the UCTE)
+ESCO Electricity System Commercial Operator
+ESP Energy Service Providers
+EU European Union
+FiT Feed-in Tariff
+FCA Forward Capacity Auction
+GDP Gross Domestic Product
+GEL Georgian Lari (the currency)
+GEMM Georgian Electricity Market Model
+GNERC Georgian National Energy and Water Supply Regulation Commission
+GoG Government of Georgia
+GSE Georgian State Electrosystem
+IOU Investor Owned Utility
+ISO Independent System Operator
+KPI Key Performance Indicator
+kV Kilovolt
+kWh Kilowatt-hour
+LSE Load Serving Entity (same as a DSO, Distribution Syste erator)
+LTPP Utility Long Term Procurement Planning
+MoE Ministry of Energy
+MENRP Ministry of Environment and Natural Resources Protection
+MoESD Ministry of Economy and Sustainable Development
+MoF Ministry of Finance
+MOO Must Offer Obligation
+MV Medium Voltage
+MWh Megawatt-hour
+NRA National Regulatory Authority or Agency
+PU Public Utility
+RA Resource Adequacy
+RE Renewable Energy
+REAP Renewable Energy Action Plan (or NREAP, National Renewable Energy Action Plan)
+RES Renewable Energy Sources
+RMR Reliability Must Run
+ROI Return on Investment
+SEE South East Europe
+SHPP Small Hydro Power Project
+SO Service Obligation
+TEAIS Turkish Electricity Transmission Company.
+TSO Transmission System Operator
+USAID United State Agency for International Development
+Definition of AbbreviationsW Watt
+Wh Watt-hour
+This document was compiled by a USAID-funded advisory project, Hydropower
+Investment Promotion Project. The HIPP project supports the Government of
+Georgia to attract investment from the private sector in modern, efficient hydropower
+plants. Since March, 2010, HIPP has supported market-based initiatives to promote
+and secure international investments into Georgia’s small and medium-sized
+hydroelectric power market.
+This document concerns the issue of renewable energy planning and
+implementation, in the context of Georgia implementing a competitive power market
+model (“Georgian Electricity Market Model,” or GEMM). Renewable Energy (“RE”) in
+this discussion means generation of electricity from large and small hydroelectricity,
+wind, solar, biomass, and geothermal.The primary focus of this document concerns
+grid-connected renewable power projects.
+Georgia is introducing a competitive power market and therwise enhancing and
+reforming its electric power sector for four main reasons:
+To secure domestic power supply for Georgia’s population and industry
+To avail significant private investment for export-oriented hydropower plants
+located in Georgia
+To engage in beneficial electricity trade with Georgia’s immediate neighbors:
+Turkey, Azerbaijan, Armenia, and Russia.
+To harmonize and connect with the European Union for mutually beneficial
+electricity trade.
+In January of 2013, Georgia applied to become a member of the European Energy
+Community. Georgia has been an observer of the treaty since December 2007.The
+Energy Community consists of countries that have agreed on a common, stable
+regulatory and market framework in order to:
+Attract investment in power generation and networks in order to ensure stable
+and continuous energy supply that is essential for economic development and
+social stability;
+Create an integrated energy market allowing for cross-border energy trade
+and integration with the EU market;
+Enhance the security of supply;
+Improve the environmental situation in relation with energy supply in the
+region;
+Enhance competition at regional level and exploit economies of scale.
+Georgia’s application is subject to negotiation expected to begin in later part of 2013,
+and should end with an agreed upon set on legal and policy actions that Georgia
+must undertake in order to join the Energy Community.
+1.0 Background
+·
+·
+·
+·
+·
+·
+·
+·
+·The issue of renewable energy implementation figures into many, indeed, virtually all
+planning dimensions in the power sector worldwide and especially in the EU and
+Georgia. It affects many different issues such as:
+Creating major new transmission linkages, since major renewable resources
+are often located far from load centers;
+Managing the intermittent nature of major renewable resources, including
+arranging for backup replacement generation;
+Integrating and paying for the financial impact of renewable energy that is
+more expensive and has a high up-front cost; and,
+Capturing and monetizing the environmental benefit of carbon avoidance.
+The end product for this report is a proposed Road Map for Renewable Energy – a
+suite of targeted, practical actions – that can serve as a point of departure for
+stakeholders. The responsibility of completely implementing renewable energy falls
+across several Georgian agencies, which need to work cooperatively and need to
+respect the goals and constraints of eachother and each stakeholder. Especially as
+it relates to permitting there are important boundaries and interests with respect to
+environmental protection, labor, and consumers.
+In a deregulated environment, when bringing in new renewable generation capacity,
+it is critically important to gain the benefits of competitive pressures to lower costs,
+while adhering to policy goals for renewables. The impact of deregulation and crossborder interdependence has a potentially big effect, due to renewable resources in
+countries outside the EU, and that may count towards meeting EU Member States’
+goals for renewable energy production.
+This portends a good opportunity for countries blessed with high amounts of
+renewable energy resources, like Georgia, and that are hoping to serve the EU.
+Since 2003, the EU has been making rules to create a common electricity market
+including cross-border trading. This has required that each EU Member Country,
+and other bordering countries, meet strict technical, legal, regulatory and financial
+standards.
+One of the most significant requirements in the EU “Third Package” is the 20/20/20
+goal, shown in Figure 1.
+1 These goals are EU-wide and will shortly extend to Turkey.
+In 2011, Turkey joined the European Network of Transmission System Operators for
+Electricity and harmonized its legislation with EU directives to allow cross-border
+trading. Assuming that Georgia similarly legislates and conforms to the EU rules,
+there is an attractive economic opportunity for Georgia to be a significant regional
+energy exporter of renewable energy.
+1 See: http://ec.europa.eu/clima/policies/package/index_en.htm
+·
+·
+·
+·Georgia is strategically located to access neighboring and regional power markets.
+In Figure 2, “Electricity Markets,” Georgia is shown in bright green, north of
+Azerbaijan and Armenia, and northwest of Turkey. Georgia’s immediate neighbors
+could potentially find great value from Georgia’s hydroelectric resources. Turkey’s
+electricity is largely fueled by natural gas and coal. Azerbaijan’s power sector is
+largely run on oil and natural gas. Armenia is run primarily on nuclear and natural
+gas; Nuclear serves about 35% of the total system energy. Armenia recently put in to
+place two new gas-fired combined cycle units, which displaces old theremal power
+units.. From a utility planning viewpoint, Georgia’s regiona ibution offers
+valuable fuel diversity and cost reduction, especially as fossil fuel prices rise.
+Also, the priority of renewable energy development in Europe may confer on
+Georgia’s hydropower plants special higher value, because of the need caused by
+wind and solar intermittency, with some level of flexibility of delivery.
+The main problem with overall investment planning in the power sector, but
+especially with regard to renewable energy generation, has to do with the priority and
+sequence of decision: whether to secure transmission capacity before securing a site
+and a PPA to build generation, or whether to secure a ion and a PPA
+before securing transmission capacity. Policy makers around the world are wrestling
+with this issue, especially so as to induce the higher amount of renewable generation
+that is often located far from load centers.
+Figure 1: Renewable Energy Goals in Europe
+Figure 2: Electricity Markets
+20% reduction in EU greenhouse gas emissions from 1990 levels
+Raising the share of EU energy consumption produced from renewable resources to 20%;
+20% improvement in the EU's energy efficiencyIn order to create a Georgian competitive market for electricity, more reforms are
+needed, with concomitant investment in transmission resources, and which offer
+economic choices and flexibility for producers and consumers. These additional
+reforms will require changes concerning technical matters, new laws, and regulatory
+and financial improvements. Although the challenges are daunting, there are wellestablished formats and structures being developed worldwide, and specifically by
+the European Union. There now is a body of experience from countries that have
+made the requisite changes in their power sectors, and have joined the EU common
+market structure, such as in Bulgaria.
+Georgian policy-makers need to take near-term and medium-term actions to induce
+the investment in Renewable Energy sought. This document outlines more detail
+about renewable energy planning in the power sector. It provides the current status
+regarding each issue in Georgia, the relevant worldwide best practices and EU
+requirements, and a suggested Road Map for Renewable Energy delineating
+activities for Georgian policy-makers, regulators, and power systems operators.
+Relative to existing demand, there is significant potential form RE in Georgia from
+hydro. The analysis indicates that added new hydro will provide excess power that
+may be exported.
+The following chart shows that in 2013, current hydro and current thermal generation
+is about equal to Projected Demand at 10 billion kWh per year. Note that the effects
+of imports, exports, and transmission losses, total to net out at approximately no
+effect. Projected Demand is the demand of distribution companies and bulk
+customers. We assumed a 3.5% growth rate of demand.
+2.0 Renewable Energy Potential in GeorgiaHowever a problem with hydro, relative to serving domestic Georgian demand, is
+that hydro fluctuates seasonally, as shown in the following chart.
+As a result of the seasonality of natural hydro flows, Georgia has to import power in
+winter, and has excess capacity so as to export in the summer. This is shown in the
+graph below.
+Besides hydroelectric projects, there is also good potential for others types of
+renewable energy. The following chart shows the potential of other types of
+renewable energy in Georgia, indicating that resources are significant relative to
+existing demand. This is especially important because of the seasonality of hydro,
+demonstrated above.Clearly there is good potential for RE in Georgia, for domestic use and enough for
+export. Another consideration in the application of RE is of course price. While the
+cost of wind and solar may exceed average cost, Georgia has many hydro sites that
+offer compelling economics.
+The following chart illustrates that latest new hydro (deregulated HPPs) have a
+delivered energy prices about 20% lower than existing thermal projects running on
+subsidized natural gas. These results are possible because the plants have relatively
+low capital costs (due to they are run-of-the-river design not having a large dam )
+and have relatively high capacity factors.
+0
+2
+4
+6
+8
+10
+12
+14
+Annual Energy Production
+Billion of kWh
+Geothermal
+Biomass
+Solar
+Wind
+2013
+Actual
+Energy
+Demand in
+Georgia
+Source: Estimates of Georgian
+Energy Academy, Fall 2007
+Renewable Energy Potential of Georgia (excluding hydro)Policy-makers and power sector officials are continually devising innovative ways to
+encrouage, reward, or mandate more producton and use of renewable energy. There
+are essentially (only) two ways to create a greater amount of renewable energy as a
+portion of the supply portfolio, involving: 1) price, or 2) volume.
+The volume way is to mandate that a greater share of renewable energy be used,in
+terms of a percentage of total energy. The price way is to give as price preference so
+that renewable energy has relatively more value. There are advantages and
+disadvantages to each of the two overall approaches, and the approaches may be
+used in combination, along with other inducements.
+These approaches are discussed briefly below;
+a) RPS, Renewable Portfolio Standard, require an amount of renewable, allsource renewable or by technology, diversity of supply.
+An RPS may be done on a regional or national basis, and in the case of the
+EU it is done a continental basis. Usually there is a definition on renewable
+energy that includes wind and solar and small hydro, but usually excludes
+large hydro. Note that an RPS defines renewable energy production b
+the amount of energy produced, not based on the installed capacity. This is
+because solar and wind have relatively low capacity factors, in the range of
+20% and 30%, respectively, for wind and solar. The RPS approach is
+consistent with power sector best practices that seek to balance all resources
+•Feed in Tariff
+•Green Tags
+•Cap and Trade
+•Renewable Portfolio
+Standard
+•Must-take Power Purchase
+Obligation
+•Public Service Obligation
+3.0 Worldwide Best Practices
+Price
+Measures
+Volume
+Measures
+Ways to increase
+production of
+renewable energyand to avoid overdependence on certain technologies or too much on one or
+a few power plants.
+b) Must-take Power Purchase Obligation
+In a single buyer environment, the single buyer, or some centralized buyer
+(like ESCO) is obligated to take and pay for RE from eligible projects. This
+approach was more workable when the amount of renewable energy was
+essentially negligent as component of overall power supply. Now it is widely
+being abandoned as the percentage of renewable energy increases, and a
+blanket obligation is too inflexible and may be deleterious to ratepayers.
+c) Public Service Obligation
+In a bilateral contracts environment, when a distribution company is obligated
+to purchase a share of the energy from RE projects. This may be more
+beneficial than must-take power purchase obligation because the support
+obligation for RE could show up clearly on customers’ billing statement, as is
+done in the EU. And it is more consistent with a bi-lateral contracting market
+structure.
+d) FiT, Feed-in tariffs, floors, ceilings, RFP’s for capacity, capacity limitations,
+trade off cost versus diversity of supply
+A Feed-in-Tariff is a pre-set price for power, usually with the same definition as given
+above for RPS. FiT is simple in principle but can be devilish to implement. An
+instantly presenting difficulty is what price to set – each technology generally needs
+a different price and each location needs a different Some countries have
+made FiT’s based on different underlying financing. Ultimately a FiT can be so
+specific that it effectively becomes a type of cost-of-service regulation, and which
+defeats the purpose. Secondly an overall problem with the Feed-in-Tariff is that it is
+hard to preempt a windfall and excess development, as has happened in Germany,
+Italy, and Spain. Since ESCO buys power from new RE for ten years using a formula
+based on replacement of Gardabani electricity production costs, there is not too
+much risk of excessive payments to RE with locked-in contracts.
+e) Green tags, (relates to Guarantee of Origin) adding a premium payment.
+This is an approach that provides a tradable and verifiable mechanism to give
+a premium payment to renewable energy producers. It is ctive tool
+because it separates out, and gives flexibility for monetizing the value of
+renewable energy production. The “brown energy” can sold where it has the
+most value and the “green component” can be sold where it has the most
+value. Thus the green tag modality has the most compatibility with a market
+approach, and maximizing consumer economic value.f) Cap and trade, trading certificates, tax benefits
+The cap and trade approach refers to artificially creating a fixed amount of
+some allowance, such as allowance to emit greenhouse gases. Then such
+rights to emit can be sold or traded. This allows free approach to reducing
+emissions based on new technologies or selling to another party with a clever
+idea or market mechanism to absorb the allowance.
+Tax benefits refer some kind of offset against other taxes owed: corporate or
+income taxes. These offsets can arise from investment tax credits for making
+a certain kind of investment, accelerated depreciation benefits, or a tax credit
+based on production of energy from renewable facilities. In general, tax
+benefits are a useful investment motivation in a country with high tax rates
+and a culture of actually paying taxes. Therefore, in many countries tax
+benefits are not an effective policy tool.
+Some other worldwide best practices can relate to link wable energy facilities
+to job creation, and requiring manufacturing to be set up locally, buying local content,
+and customs duties relief.
+a) 2008 Georgia Energy Policy (latest most relevant)
+i) Government resolution “Renewable Energy 2008” – establishes a
+standard form and process for renewable energy project development.
+This Resolution sets aside winter season (time of peak demand) so that
+new hydroelectric plants can be used only for domestic Georgian use.
+ii) Sets forth a standard application process for developers to follow for
+proposing and implementing projects.
+iii) Provides for developers to gain exclusive rights to a project site, and
+requires them to post a bank guarantee to back up the commitment to
+install the power plant on a date-certain basis.
+iv) This policy did not draw investment as anticipated, because developers
+could not get comfortable with many different elements of the off-take
+risks.
+v) No licensing under 13 MW for SHPP (“Small Hydro Power Project”).
+b) Electricity Market Rules (Approved 2006, last amended April, 2013)
+i) Total deregulation for SHPP under 13 MW
+ii) Right to retail sales for SHPP
+iii) Preferential price scheme when selling to ESCO for SHPP
+4.0 RE Current Legal Framework in Georgiac) Law of Georgia on Electricity and Natural Gas
+i) One of the objectives of the Law is to encourage the priority use of
+indigenous hydro, other renewable, alternative and gas resources.
+ii) One of the Ministry of Energy’s main functions will be urage the
+priority use of indigenous hydro, renewable, alternative and gas resources,
+which is already a priority under the State Program Renewable Energy
+2008.
+d) Georgian National Energy and Water Supply Regulation Commission
+(GNERC) has important responsibilities including licensing, power sales
+contract compliance with Market Rules, and importantly, consumer protection
+from inappropriate or excess charges from any generation source and any
+investror including those in renewable energy. The main functions of the
+GNERC may be found in Article 4 of the Law on Electricity and Natural Gas.
+These functions are the following:
+i) The establishment of rules and conditions for granting generation,
+transmission, dispatch, distribution, as well as natural gas transportation
+and distribution licenses, also the granting, modification and revocation of
+licenses in compliance with the Law of Georgia on Licenses and Permits,
+this Law and licensing rules;
+ii) The setting and regulation of tariffs for electricity generation, transmission,
+dispatch, distribution, transit, import and consumption, a system
+commercial operator service and System Capacity Reserve to be
+purchased under the mandatory rule by the system commercial operator,
+also the setting and regulation of tariffs on natural gas transportation,
+distribution delivery and consumption, excluding tariffs on natural gas sold
+at gas filling stations, pursuant to this Law, main directions of the state
+policy in the energy sector, the administrative legal acts adopted based on
+them and the established methodology.
+iii) Within its competence, the settlement of disputes aris ween
+licensees, small hydropower stations, importers, exporters, suppliers and
+consumers, also the commercial system operator;
+iv) The establishment of control over the meeting of licen g conditions
+within the electricity and natural gas sectors of Georgia and application of
+relevant administrative sanctions for violation of the conditions in keeping
+with law;
+Gaps: There is no Law of Georgia on “Renewable Energy Sources” which has
+been adopted as of yet. An inadequate draft was circulated and it is our
+understanding that it is being wholly revamped.
+While hydro power investment has been forthcoming, that has been based on
+supportive legal framework and policy security indicated by GEMM 2015.
+e)
+4.1 Gaps concerning Renewable Energy regulationThe only document regulating renewable energy related issues (Renewable Energy)
+is Government Resolution of 2008. This Resolution is a secondary legislation of
+Georgia.
+Based on investor workshops and individual contacts carried out by HIPP project in
+2010-2012, some gaps were identified, based on the concerns voiced by investors,
+namely:
+Renewable Energy related issues are not covered by the primary legislation;
+Amount of requested bank gauarantee is too high;
+No state guarantees are provided;
+No support mechanisms in place to develop Renewable Energy;
+No action plan approved by the GoG;
+No preferential tariff exists for Renewable Energy;
+Lack of priority access to the interconnection line to Turkey
+In order to fill these gaps, it is important that the primary legislation be in place.The
+HIPP findings are consistent with the World Bank 2012 Report “Assessing the
+Investment Climate for Climate Investment,” which listed the following indicators as
+critically important in attracting renewable energy:
+1 Existence of RE Policy and Law
+No
+Weak
+2
+2 Existence of RE Target No
+3 RE Purchase/Off-take Obligation No
+4 Availability of Tradable Instruments for RE No
+5 Preferential Tariffs for Solar/Wind/Biomass/Small Hydro No
+6 Grants/Subsidies/Incentives related to Capital / Investment
+Tax Credits
+No
+7 Incentives Linked to Generation/Production Tax-credits No
+8 Income Tax Holidays/Exemptions No
+9 Trade-related Incentives No
+10 Customs Duty Exemptions No
+11 Absence of Local Content Requirements No
+12 Other Tax Exemptions (VAT, Excise etc.) Yes
+3
+Clearly, according to the World Bank Criteria, Georgia has significant work to do in
+regard to the legal and policy support for RE.
+2 A Government resolution was issued in 2008, establishing a development process specifically for certain hydropower
+investments, setting forth some limitations on sales during winter months, bank guarantees as a placeholder to hold the
+investment. It does not cover access to the grid, power purchase obligation, feed in tariff.
+3
+There are VAT exemptions for equipment that was financed under concessional terms, and for sales of electricity from newly
+created power plants.
+·
+·
+·
+·
+·
+·
+·
+4.1.1 World Bank Table of Indicators for Investing in RE and HIPP View of Georgia
+No.
+World Bank Indicators for Creating a Positiv e Inv estment
+Climate and Sector-Specific Indicators for Solar PV, Wind,
+Biomass and Small Hydro Status in Georgia as per
+HIPP Judgment
+RE Policy
+RE LawIt is anticpated the primary legislation will be a standalone law concerning renewable
+energy to be finalized in 2013, (“RE Law”).
+RE Law and related policy will be set forth according normative acts of Georgia.
+Normative Acts are divided into legislative normative acts of Georgia and sub
+legislative normative acts, which, together, form the legislation framework.
+Legislative normative acts are primary legislation while sub legislative normative acts
+represent secondary legislation.
+The types of primary legislation in Georgia are:
+a. The Constitution of Georgia; the Constitutional Law of Georgia;
+b. An Organic Law of Georgia;
+c. Laws of Georgia, Decrees of the President of Georgia, lations of the
+Parliament of Georgia.
+Sub legislative normative acts of Georgia are the Orders of the Ministers,
+Resolutions, Regulations, etc. For example, resolutions of GENRC are sub
+legislative normative acts. Legislative normative acts have prevailing legal force over
+sub legislative normative acts. A sub legislative normative act has to specify the
+legislative normative act that serves as the basis of which the sub legislative
+normative act was issued.
+The procedure for the adoption of the primary legislat is the following: once the
+Law is drafted it has to be circulated among several Ministries. The Ministries are
+given time to review the draft and comment on it. Then the final draft is sent to the
+Cabinet of Ministers. When the draft is ready at the Cabinet of Ministers, it is
+submitted to the Parliament of Georgia. Then the Parliament Committees start
+reviewing the draft Law. Once the internal reviews are finished the hearings take
+place. After the third reading of the Law, the Law is nt to the President of Georgia
+for its signature. The President has a right to veto the draft law or make changes and
+send it back to the Parliament within 7 days. Parliament may accept the changes
+and submit the Law back to the President for signature within 7 day term. When the
+Law is signed during 24 hours it is published in the Official Gazette –
+“Sakanonmdeblo Matsne”. The Law enters into force on the day of its publishing or
+another date specified.
+The Parliament sessions last for three months. Autumn sion starts in September
+and finishes by the end of third week of December and spring session starts in
+February and finishes by the end of third week of June. It is also possible to hold
+extraordinary sessions but the latter depends on the urgency and state interest in the
+Law which has to be adopted.
+For RE, below are presented the relevant issues, and recommended handling, which
+falls either into primary or secondary legislation.
+4.2 Renewable Energy Legal Framework Needed in GeorgiaTargets Amounts or
+percentage supply from RE
+Will be an obligation under
+the RE Law
+National Action Plan for
+developing for RE
+Will be an obligation
+under the RE Law
+Action Plan itself
+Municipal Action Plans for
+promotion of Renewable
+Energy
+Public Service
+Obligationsevel
+Public Service Obligations,
+that energy purchasers get a
+minimum amount of supply
+from RE
+Would be a GoG
+resoultion or from GNERC
+Supporting schemes, such as
+allocating state-owned land to
+projects, Feed-in Tariff
+Should be Action Plan
+Expression of Interest/MOU
+procedures
+GoG Resolution
+Guarantee of Origin Would be a GNERC
+resolution
+Responsible authorities /
+administrative procedures,
+i.e., roles of GoG ministries
+Action Plan, GoG
+resolution
+Priority access to grid Obligation under RE Law Covered in Market Rules,
+need sto be amended; a
+GNERC responsibility
+Reporting Obligation under RE Law May be done by Analytics
+Department in MoE
+Georgia requested to join the Energy Community in January 2013. Discussisons
+were held and now GoG is waiting for the Energy Community to provide more
+specific guidance in the form of an “Energy Road Map.” The Energy Road Map will
+concern all aspects of legal and regulatory energy framework (including RE), such as
+generation, tranmission, energy for transport, energy efficiency, and other topics.
+The following points are key elements of the Energy Community, with which Georgia
+will have to comply, as it relates to RE.
+a) Directive 2009/28/EC of the European Parliament and of the Council, 23 April
+2009, on the promotion of the use of energy from renewable sources.
+i) Requires the EU as a whole to achieve 20% usage of renewable energy
+by 2020. This is an RPS requirement as noted above. As Georgia will
+begin negotiations with Community, each country’s target depends on
+individual country case and data (GDP, natural resources, etc.). Therefore
+each country’s target is the subject of negotiation.
+RE Issue Primary Legislation Secondary Legislation
+5.0 EU Requirements
+?
+? ?
+?
+?
+?
+?
+?
+?
+?
+? ?
+?ii) Calls for each country to adopt a National Renewable Energy Action Plan.
+iii) Joint cooperation between EU states and states outside EU. Between EU
+states, there can be statistical transfers between Member States, for the
+purpose of calculating the share of energy from renewable sources.
+Notes that this statistical transfer may ultimately have an important benefit
+for Georgia due to its abundant hydro. Even without Georgia being a full
+member of the EU, the directive states that “One or more Member States
+may cooperate with one or more third countries on all types of joint
+projects regarding the production of electricity from renewable energy
+sources.”
+iv) Ensure that origin of electricity produced from renewable energy sources
+can be guaranteed.
+v) Ensure access to the grid and priority or guaranteed transmission for
+renewable energy generation to reach market
+vi) Priority dispatch of renewable energy
+vii) Transmission system provide cost and timing to proposed renewable
+projects
+viii)Biannual reporting on progress on renewable sources to be submitted until
+December 31, 2021.
+b) Directive 2009/29/EC of the European Parliament and of the Council, 23 April
+2009, to improve the and extend the greenhouse gas emissi llowance
+trading scheme
+i) The purpose of the directive is to “prevent dangerous anthropomorphic
+interference with the climate system.”
+ii) Affirms the 20% target of using renewable energy
+iii) Establishes the concept of tradable renewable energyneeding
+definitive“certificates of origin.”
+c) European Parliament legislative resolution of 17 December 2008 states that
+“Imported electricity, produced from renewable energy sources outside the
+Community, may count towards Member States' targets.”Renewable energy planning requires expertise in the spheres of legal, financial and
+economic matters. As it regards secondary legislation necessary to implement EU
+framework with respect to, the MoE and GNERC must each have specialized expert
+knowledge on EU legislation as each must complete diff gislation
+compliant with EU energy acquis. More information on this will be known upon
+completion of the final Energy Community roadmap agreed between the GoG and
+the EU.
+The Road Map presented below is meant to indicate general priorities. In practice,
+some tasks may proceed on a parallel execution.
+Some near term actions 2014-2015 for Renewable Energy are:
+a) MoE drafts primary legislation in consultation with key stakeholders. Most
+critical issues are:
+i) Need to define “renewable energy” by technology.
+ii) Government obligations, such as National Renewable Energy Action Plan
+iii) Guarantee of Origin that GNERC would administer
+iv) Priority dispatch, curtailment limitations, access to the export line to Turkey
+6.0 Road Map for Renewable Energy in Georgia
+6.1 Five-Year Road Map
+6.2 Next Year Road Map
+PSO Obligation.
+Examine Heating
+and Cooling;
+Transport Sector
+(biofuels)
+National
+Renewable
+Energy
+Action Plan
+RE Capacity
+Building and
+Educational
+Programs
+Long-term
+technology
+review and
+support
+Financing
+Sources &
+Methods; PPP /
+Microfinance
+Revise
+Electricity and
+Natural Gas Law
+& Regulation
+- Grid Access
+Prepare
+Renewable
+Energy Law
+Anticipating
+EC Roadmap
+Renewable
+Energy Law
+Near-term Measures Longer-term Measuresv) The categorization of large hydro and small hydro should be established
+(i.e., above 100 MW is large hydro and 100 MW and below is small hydro.
+b) GNERC sets up application process and registry for Guarantee of Origin
+c) MoE conduct long-range market study of economic opportunity to add modest
+hydro storage so as to develop flexible dispatchable hydro power
+d) GNERC explore end-user green energy option
+e) MoE explore public private partnerships so investors can join project at lower
+risk later; develop a planning database of projects in the pipeline
+f) MoE setting up a RPS, in totality for renewable and by technology
+g) MoE begin drafting Action Plan consistent with EU Directives
+h) GNERC review framework for licensing RE:
+i) Assurance that only power plants are built under market-based, armslength, freely-contracted PPA’s, or for overall system reliability under
+appropriate process , to protect Georgian ratepayer. This is to prevent
+“sweetheart” deals negotiated not transparently.
+ii) One regulatory permit, i.e. consider a “one-window” framework for
+permitting that establishes a unified organization for application, project
+selection, auctioning sites, and coordinating permitting.
+iii) A decision within a specific time frame.
+iv) Ensure that there is a full opportunity for open participation in workshops
+by general public and by special interest groups.
+i) GNERC and MoE should correlate the process for energy project permitting
+with other laws and amend laws regarding, for example, environment,
+construction, labor, and taxation, local content, in order to streamline project
+permitting and accelerate bringing projects online. Strengthen the
+requirements for performance if a developer is awarded rights to a site.
+j) MoE undertake optimization and management of energy production,
+accounting for the needs of other water users: agriculture and water supply.
+k) MoE assess linkages to university programs and/or other opportunity for
+specialized training in renewable energy technologies and hydroelectric plant
+operations, to retain and employ local Georgian skilled professionals, evaluate
+and possibly set up educational Centers of Excellence, akin to the Azerbaijan
+State Oil Academy.
+l) MEPNR carry forward the previously done analyses of carbon credits as a
+potential financing tool for HPP investments in Georgia and of the EU as a
+potential market for Georgian hydropower which indicates the following
+necessary and useful tasks.
+i) Develop a clear road map for developers to use in monetizing carbon
+credits. There is some evidence that a developers have not been able to
+navigate the steps needed in a timely manner with the appropriate parties.
+ii) Training on: transaction structuring, EU Emissions trading schemes,
+compliance markets, voluntary markets, working with the EnergyCommunity, accessing KfW Carbon Fund and other sources, and
+implications of bi-lateral and third-country trading.
+iii) Support projects with an information hub, and project tracking support,
+making a cell within the existing Climate Change Division of the MEPNR
+as a “one-stop shop.” This would include a contact information network for
+ensuring that all possible sources of carbon revenue are tapped.USAID Hydropower Investment Promotion Project (USAID-HIPP)
+Deloitte Consulting Overseas Projects - HIPP
+11 Apakidze StreetTiflis Business Center

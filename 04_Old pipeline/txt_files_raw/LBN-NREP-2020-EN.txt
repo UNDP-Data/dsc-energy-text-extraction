@@ -1,0 +1,4376 @@
+File Name: LBN-NREP-2020-EN
+Year: 2020
+Country Name: Lebanon
+Country Code: LBN
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2020
+Start Year: 2020
+End Year: 2030
+Language: EN
+------------------------------------------------
+
+RENEWABLE 
+ENERGY 
+OUTLOOK
+LEBANON
+020© IRENA 2020
+Unless otherwise stated, material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that 
+appropriate acknowledgement is given of IRENA as the source and copyright holder. Material in this publication that is attributed to third 
+parties may be subject to separate terms of use and restrictions, and appropriate permissions from these third parties may need to be 
+secured before any use of such material.
+ISBN 978-92-9260-165-2
+Citation: IRENA (2020), Renewable Energy Outlook: Lebanon
+International Renewable Energy Agency, Abu Dhabi.
+About IRENA 
+The International Renewable Energy Agency (IRENA) serves as the principal platform for international co-operation, 
+a centre of excellence, a repository of policy, technology, resource and financial knowledge, and a driver of action on 
+the ground to advance the transformation of the global energy system. An intergovernmental organisation established 
+in 2011, IRENA promotes the widespread adoption and sustainable use of all forms of renewable energy, including 
+bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable development, energy 
+access, energy security and low-carbon economic growth and prosperity.
+www.irena.org
+Acknowledgement
+This report was prepared by IRENA in close collaboration with the Government of Lebanon, as represented by the Ministry 
+of Energy and Water and the Lebanese Center for Energy Conservation (LCEC). 
+The report benefited from the input of various experts, notably from Nicolas Farhat (Bank Audi) Firas Merhi (EBRD), 
+Ramzi Dobeissy (EDL), Sorina Mortada and Pierre El Khoury (LCEC) and Hassan Harajli (UNDP). 
+IRENA colleagues who provided valuable review and support include: Prasoon Agrawal, Abdulmalik Oricha Ali, Diala 
+Hawila, Huiyi Chen, Rabia Ferroukhi, Dolf Gielen, Bilal Hussein, Sandra Lozo, Asami Miketa and Rafael De Sá Ferreira.
+Contributing authors: Zoheir Hamedi, Reem Korban, Gürbüz Gönül, Ricardo Gorini, Rodrigo Leme and Elisa Asmelash 
+(IRENA), Joseph El Assad (RRA consultant) and Rawad Nasr (LCEC secondee).
+Report available for download: www.irena.org/publications
+For further information or to provide feedback: publications@irena.org
+Disclaimer
+This publication and the material herein are provided “as is”. All reasonable precautions have been taken by IRENA to verify the reliability 
+of the material in this publication. However, neither IRENA nor any of its officials, agents, data or other third-party content providers 
+provides a warranty of any kind, either expressed or implied, and they accept no responsibility or liability for any consequence of use of 
+the publication or material herein. 
+The information contained herein does not necessarily represent the views of all Members of IRENA. The mention of specific companies 
+or certain projects or products does not imply that they are endorsed or recommended by IRENA in preference to others of a similar 
+nature that are not mentioned. The designations employed and the presentation of material herein do not imply the expression of any 
+opinion on the part of IRENA concerning the legal status of any region, country, territory, city or area or of its authorities, or concerning 
+the delimitation of frontiers or boundaries.FOREWORD
+from the Minister 
+of Energy and Water
+While Lebanon assesses its progress towards the target of 12% renewable 
+energy in 2020, the Ministry of Energy and Water has mobilised stakeholders 
+nationwide to set new objectives for the next decade. This Renewable 
+Energy Outlook report comes at the ideal moment to help set up a clear and 
+well-designed roadmap, specifically for Lebanon to reach new horizons in 
+renewable energy development by 2030.
+Thanks to the efforts of the International Renewable Energy Agency 
+(IRENA), and with the involvement of numerous national and international 
+stakeholders, this report presents the Renewables Readiness Assessment 
+(RRA) and Renewable Energy Roadmap (REmap) country analysis of 
+Lebanon. In doing so, the report pinpoints challenges and barriers, showcases 
+success stories and achievements, and most importantly proposes solutions 
+and measures to move forward to an ambitious REmap scenario whereby 
+30% of Lebanon’s electricity mix would be renewable energy by 2030. 
+Allow me to thank all the IRENA team members who contributed to the 
+realisation of this report. I am also grateful to all the representatives and 
+stakeholders involved. The work invested in developing this report will have 
+a positive impact on Lebanon’s sustainable energy transition for years to 
+come, thus contributing to the grand energy transition that IRENA is striving 
+to achieve in all parts of the world. On behalf of the Ministry of Energy and Water, I would like to confirm 
+Lebanon’s determination to use this outlook in shaping our future action 
+plans. Undoubtedly, we will use the contents of this report in developing 
+the next National Renewable Energy Action Plan for Lebanon, covering 
+the period 2021-2025. While the renewable energy market in Lebanon has 
+witnessed considerable advancements in the past ten years, we are now 
+more determined than ever to step up investment efforts for a better, more 
+sustainable, future.
+I am fully aware that to achieve all these promising targets, a strong 
+partnership between the public and private sectors is needed. We are also 
+eager to work with international friends and partners to make renewable 
+energy a main pillar of the Lebanese energy sector. Together, we will make 
+this happen.
+Raymond Ghajar
+Minister of Energy and Water
+Lebanese RepublicFOREWORD
+from the IRENA
+Director-General
+Along with the rest of the world, Lebanon has confronted an unexpected, and 
+in many ways unprecedented, combination of health and economic shocks 
+in 2020. While the COVID-19 pandemic has brought grief and hardship, the 
+need to respond quickly and effectively has underlined the value of close, 
+transparent co-ordination. Beyond short-term recovery measures, the 
+country and its people need to focus their efforts together on longer-term 
+improvements, including ensuring energy security and building a resilient 
+economy.
+As the country moves forward, renewable energy technologies offer the 
+prospect of stable, clean power and heat systems. Along with other Middle 
+Eastern net energy importers, Lebanon has faced a widening gap between the 
+supply and consumption of electricity in recent years. Economic development 
+and population growth have pushed its existing power infrastructure to the 
+limit. An increasingly renewable-based system, in contrast, would mean 
+reliable domestic power services, sufficient to match growing demand and 
+consistent with global climate goals.
+To prepare for future needs, Lebanon has set out to diversify its energy mix. 
+This started with national action plans to scale up renewables and improve 
+energy efficiency in 2016-2020, with an initial target for solar, wind, bioenergy 
+and hydropower to cover some 12% of primary energy consumption. With 
+small-scale renewable applications gaining ground, more recent plans have 
+raised the target to 30% renewable energy consumption, spanning both 
+electricity and heat demand, by 2030. Renewable Energy Outlook: Lebanon, prepared in collaboration with the 
+Ministry of Energy and Water (MEW) and the Lebanese Center for Energy 
+Conservation (LCEC), identifies key challenges as the country pursues 
+environmentally and economically sustainable power and heat. The report 
+highlights the policy, regulatory, financial and capacity-building actions 
+needed to meet or surpass current targets. It combines the results of countryled stakeholder consultations with a comprehensive roadmap to maximise 
+the deployment of renewables through 2030. 
+Through an updated, sustainability-focused energy policy, Lebanon could 
+achieve 30% renewable electricity consumption by 2030, saving nearly 
+USD 250 million per year in the power sector, mainly through avoided fossilfuel imports. Electricity services, which until now have added to the deficit, 
+could instead ease the government’s debt load. Recent tenders for renewable 
+power have attracted strong international interest, and Lebanon’s resolve to 
+take this vision forward remains firm.
+IRENA wishes to thank the MEW and LCEC teams for their key input and 
+engagement. We also appreciate the valuable contributions of numerous 
+other stakeholders and international partners. I sincerely hope the resulting 
+study helps to accelerate Lebanon’s shift to a sustainable energy future. 
+Francesco La Camera
+Director-General
+International Renewable Energy AgencyCONTENTS
+VIII
+IXX
+XII
+01
+01
+01
+03
+05
+05
+0810
+17 
+17
+18
+20
+FIGURES...................................................................................................................
+TABLES & BOXES..................................................................................................
+ABBREVIATIONS................................................................................................... 
+EXECUTIVE SUMMARY.........................................................................................
+I. INTRODUCTION........................................................................................ 
+• Geography........................................................................................................................................................ 
+• Demographics................................................................................................................................................. 
+• Economics........................................................................................................................................................ 
+II. ENERGY SECTOR STATUS AND PLANS...............................................
+1. Primary energy supply.................................................................................................................................
+2. Energy sector governance.........................................................................................................................
+• Institutional framework
+• Legal framework
+3. Ongoing power sector reform...................................................................................................................
+• Decreasing technical and non-technical losses and increasing EDL financial income 
+• Increasing generation capacity, improving efficiency and reducing costs by 
+ switching to natural gas
+• Increasing tariffs 
+III. RENEWABLE ENERGY STATUS, TARGETS AND POLICIES..............
+1. Overview...........................................................................................................................................................
+2. Renewable energy targets and policy framework..............................................................................
+• Targets
+• The national action plan on renewable energy
+3. Renewable energy potential, status and driving policy instruments............................................
+• Hydropower
+• Onshore wind
+• Solar power 
+ i. Grid-connected large-scale solar PV
+ ii. Distributed solar PV
+• Solar water heaters 33
+38
+42
+44
+51
+51
+54
+56
+59
+61
+62
+64
+IV. THE RENEWABLE ENERGY ROADMAP (REMAP).........................................................
+• Total final energy consumption (TFEC)..................................................................................................................................
+• Total primary energy supply (TPES).......................................................................................................................................
+• REmap costs and benefits......................................................................................................................................................... 
+V. CHALLENGES AND RECOMMENDATIONS.....................................................................
+• Institutional and regulatory framework..................................................................................................................................
+• Resources, technology and infrastructure.............................................................................................................................
+• Financing and the role of the private sector.........................................................................................................................
+ANNEX 1: AUCTION DESIGN AND KEY FACTORS 
+INFLUENCING PRICE RESULTS....................................................................................
+ANNEX 2: ASSUMPTIONS BEHIND THE LEVELISED COST 
+OF ELECTRICITY (LCOE)...............................................................................................
+ANNEX 3: VALUES CONSIDERED FOR EACH SECTOR............................................................
+REFERENCES..........................................................................................................................Figures
+Figure 1 Lebanon’s population, 2000–2017 01
+Figure 2 Lebanon’s current GDP (billion USD), 2000–2017 03
+Figure 3 Total primary energy supply by source (%) 05
+Figure 4 Lebanese primary energy mix in 2018 (toe, %) 06
+Figure 5 TFEC by source 06
+Figure 6 TFEC by sector 06
+Figure 7 Gas oil consumption streams in Lebanon 07
+Figure 8 Oil imports 2015–2018 07
+Figure 9 Legal timeline of the Lebanese energy sector 09
+Figure 10 Electricity generation mix in Lebanon, 2010 10
+Figure 11 Installed capacity versus peak demand 10
+Figure 12 Global weighted average total installed costs and project percentile ranges 
+for CSP, solar PV, onshore and offshore wind, 2010–2018 12
+Figure 13 EDL transmission network 13
+Figure 14 Renewable energy target resource mix in the NREAP 2016–2020 18
+Figure 15 Renewable energy targeted installed capacities in the NREAP 2016–2020 19
+Figure 16 Shares of total investment per technology in the NREAP 2016–2020 19
+Figure 17 Wind resource potential (wind speeds at 100 m height, m/s) 21
+Figure 18 Total capacity per region in response to the second EOI/round of wind auctions 22
+Figure 19 Factors affecting auction prices 23
+Figure 20 Solar resource potential (annual average global horizontal irradiation [GHI], 
+kW/m2
+) 24
+Figure 21 Total capacity per region in response to the EOI of the first round of PV 
+projects 25
+Figure 22 Percentage of offers per region in response to the EOI of the first round of PV 
+projects 26
+Figure 23 Offered capacities per region in response to the EOI of the first round of PV 
+projects with storage 26
+Figure 24 Installed capacity of distributed PV solar systems 27
+Figure 25 Number of green loans funded by NEEREA 28
+Figure 26 Average monthly European solar PV module prices by module technology 
+and manufacturer 29
+Figure 27 Yearly average solar PV turnkey price by project type in Lebanon
+(USD/kWp) 30
+Figure 28 Installed SWH collector areas: Actual versus projected 31
+Figure 29 Overview of the REmap approach 34
+Figure 30 Final energy consumption in buildings (PJ) 35
+Figure 31 Final energy consumption in transport (PJ) 36
+Figure 32 Final energy consumption in industry (PJ) 37
+Figure 33 Total final energy consumption by end-use sector (PJ) 38
+Figure 34 Breakdown of TFEC among different end-use sectors (PJ) 38
+Figure 35 Shares of TFEC in end-use sectors (%) 38
+Figure 36 Installed capacities of power plants by technology (MW) 40
+Figure 37 Electricity generation by source (GWh) 41
+Figure 38 Shares of electricity generation by source (%) 41
+Figure 39 Total primary energy supply by source (PJ) 42
+Figure 40 Percentage of electricity generation from renewable sources (%) 43
+Figure 41 Potential CO2
+ emissions reduction in MT from REmap options 45
+Figure 42 Materials required for a 1 MW solar PV plant and a 50 MW onshore wind plant 47
+Figure 43 Distribution of human resources and occupational requirements along 
+the value chain (50 MW PV project; 50 MW onshore wind)
+48
+FIGURESTABLES
+Table 1 Sector governance 08
+Table 2 Existing EDL power plant capacities and performance 11
+Table 3 List of existing hydroelectric power stations in Lebanon 17
+Table 4 Hydroelectric targets and potential 20
+Table 5 Wind power potential and targets; contracted and planned projects as of 2019 22
+Table 6 PV targets and potential 25
+Table 7 Distributed PV targets and potential 27
+Table 8 Public sector projects: Scale and status 28
+Table 9 SWH targets and potential 31
+Table 10 REmap scenario for transport 36
+Table 11 Evolution of the shares of renewable energy 43
+Table 12 Potential average savings in the power sector: Comparison between the 
+REmap case 2030 and the reference case 2030 45
+Table 13 Overall required investments for REmap options in the power sector 46
+Table 14 Additional required investments for REmap options compared to current 
+plans in the power sector 46
+Table 15 Summary of estimated LCOE for renewables in 2030 61
+Table 16 Summary of LCOE for conventional sources 61
+Table 17 Summary of savings in the power sector: Reference case and REmap case 61
+BOXES
+Box 1 Factors influencing the price resulting from auctions and key considerations 
+in auction design 23
+Box 2 P2P blockchain-based trading 49
+Box 3 Potential for electric mobility 49
+Box 4 Guidance on renewable energy target setting 52
+Box 5 Open solar contracts 57
+TABLES AND BOXESAMI advanced metering infrastructure
+AUB American University of Beirut
+bbl barrel (of oil)
+BDL Banque du Liban (Lebanon’s central bank)
+BRSS Beirut River Solar Snake 
+CAGR Compound annual growth rate
+CAPEX capital expenditure 
+CCGT combined-cycle gas turbine 
+CCPP combined-cycle power plant 
+CDR Council for Development and Reconstruction
+CoM Council of Ministers 
+COP coefficient of performance 
+CSP concentrated solar power
+DO diesel oil
+DREG decentralised renewable energy generation
+DSP distribution service provider
+EBRD European Bank for Reconstruction and Development 
+EPC engineering, procurement and construction 
+ESMAP Energy Sector Management Assistance Programme
+EDL Electricité du Liban (national power utility)
+EDZ Electricité de Zahle (city power utility)
+EOI expression of interest 
+ERA Electricity Regulatory Authority
+EV electric vehicle 
+GDP gross domestic product 
+GHI global horizontal irradiance 
+GT gas turbine
+HFO heavy fuel oil
+IFI International Financial Institutions
+INDC Intended nationally determined contributions
+IPP Independent power producer
+IRENA International Renewable Energy Agency
+ktoe Thousand tonnes of oil equivalent
+LCEC Lebanese Centre for Energy Conservation
+LCB Lebanese commercial banks
+LCRP Lebanon Crisis Response Plan
+LCOE Levelised cost of electricity
+LNG Liquefied natural gas
+LPG Liquefied petroleum gas
+LRA Litani River Authority
+MEW Ministry of Energy and Water w
+ABBREVIATIONMoF Ministry of Finance
+MSW Municipal solid waste
+MW megawatt
+MT million tonnes
+NEEAP National Energy Efficiency Action Plan
+NEEREA National Energy Efficiency and Renewable Energy Action program
+NREAP National Renewable Energy Action Plan
+OCGT open cycle gas turbine
+OECD Organisation for Economic Co-operation and Development
+OPEX operational expenditure
+O&M operation and maintenance
+P2P peer-to-peer
+pKm passenger kilometre
+PJ petajoules
+PPA power purchase agreement
+PPP public–private partnership
+PPMA Public Procurement Management Administration
+PV photovoltaic
+REmap IRENA roadmap for scaling-up renewables 
+RES renewable energy systems
+RFP request for proposal
+RRA Renewables Readiness Assessment (IRENA)
+SWH solar water heater
+TFEC total final energy consumption
+T&D transmission and distribution
+TPES total primary energy supply
+TSO transmission system operator
+UNDP United Nations Development Programme
+WACC weighted average cost of capital
+wEXECUTIVE SUMMARY
+Energy and electricity demand have weighed heavily on the Lebanese 
+economy in recent years. Imported fuel oil alone accounts for nearly a 
+quarter of the national budget deficit. Population growth has pushed 
+energy use up steadily, with the demand for power increasingly 
+exceeding existing generation capacity. 
+While private producers have helped to close the gap, such 
+arrangements are costly for both consumers and the national 
+utility, Electricité du Liban (EDL). Renewable energy technologies, 
+in contrast, promise stable, clean, fully domestic power and heat 
+systems. Amid the coronavirus (COVID-19) outbreak in early 2020, 
+renewables and energy efficiency have become a key part of the 
+country’s recovery plans.
+Lebanon currently relies on gasoline, fuel oil and gas oil, which are 
+100% imported. Energy security concerns, combined the need to 
+support economic growth, have driven an energy diversification 
+strategy. 
+This strategy was outlined in two updates to a key electricity reform 
+paper: the first in 2010, which further led to the National Energy 
+Efficiency Action Plan (NEEAP) in 2011 and the National Renewable 
+Energy Action Plan (NREAP) for 2016–2020; and the second 
+producing the NEEAP for 2016-2020.
+These action plans build on the high availability of renewable energy 
+sources and the potential for the deployment of renewable energy 
+and energy efficiency measures to satisfy 12% of primary energy 
+consumption for both electricity generation and heating purposes 
+by 2020. 
+Lebanon’s commitment to scaling-up the use of renewable energy 
+technologies is fortified by ongoing updates to its renewable energy 
+targets. A new target aiming to meet 30% of total primary energy 
+consumption (electricity and heating demand) from renewables by 
+2030 was introduced in 2018 and formed the basis of a first update 
+to the electricity reform paper in March 2019. To date, total installed 
+renewable energy power capacity amounts to 350 megawatts (MW), 
+including 286 MW from hydropower sources, 7 MW from landfill 
+and 56.37 MW from solar power. Therefore, additional measures 
+are required to scale-up renewables to the level of 30% by 2030 as 
+defined in this study’s REmap case.
+Lebanon has ample renewable energy resources that may be utilised 
+to achieve these targets, including both solar and wind potential. An 
+action plan to guide the development of these resources has been 
+produced by the Lebanese Centre for Energy Conservation (LCEC) – One outcome of the plan (under initiative 11) 
+is to create the National Energy Efficiency and 
+Renewable Energy Action (NEEREA) initiative. 
+Developed in collaboration with the central bank 
+of Lebanon (BDL), this facilitates the provision of 
+low interest rate loans for all renewable energy 
+applications and energy efficiency projects, with 
+a loan ceiling of USD10 million per project and 
+a maximum term of 14 years – including a grace 
+period of between six months and four years.
+Despite the challenges facing the energy sector in 
+terms of grid infrastructure, this national financing 
+scheme, designed to incentivise the market, has 
+achieved remarkable success. Having financed 
+more than 938 projects as of March 2019 it also 
+signals the commitment and interest of both the 
+public and private sectors to the deployment of 
+renewable energy projects. 
+In terms of large-scale projects, Lebanon 
+signed its first power purchase agreement 
+(PPA) for electricity consumption from 
+renewables in 2018, with a total capacity of 
+226 MW.
+However, the success of these schemes has been 
+overshadowed by several factors including the 
+current policy, legal and institutional framework 
+governing large-scale projects, and a lack of 
+awareness of support schemes provided at the 
+small-scale level, as highlighted in the Renewables 
+Readiness Assessment (RRA) study. 
+This study, which was done by the International 
+Renewable Energy Agency (IRENA) in collaboration 
+with Lebanon’s Ministry of Energy and Water 
+(MEW) and the LCEC, provides an in-depth 
+assessment of the policy, regulatory, financial and 
+capacity challenges that must be overcome to 
+achieve the targets set out for 2030. 
+In this context, the RRA methodology seeks to 
+facilitate country-led consultations with multiple 
+stakeholders, identify key challenges and highlight 
+solutions to boost renewable energy deployment. 
+It also provides an in-depth analysis based on the 
+Renewable Energy Roadmap (REmap) analysis 
+approach, identifying additional renewable 
+energy potential and quantifying other factors 
+such as costs, investment needs, and effects 
+on externalities related to air pollution and the 
+environment. 
+Based on IRENA’s REmap analysis, Lebanon 
+has the potential to supply 30% of its electricity 
+mix from renewables by 2030. This amounts to 
+doubling the share of renewable energy expected 
+from existing plans and policies (the reference 
+case scenario) and achieving a 10-fold increase 
+on the roughly 3% rise recorded in 2014 (the base 
+year of this analysis). This assessment utilises 
+the updated targets and most recent electricity 
+reform paper released in 2019. 
+With renewable power, heat and fuels all factored 
+in, renewable energy could provide around 10% 
+of Lebanon’s total final energy supply in 2030, up 
+from less than 1% overall in 2014. 
+The REmap analysis also finds that due to the 
+declining costs of renewable power technologies, 
+their increased deployment could result in 
+potential average savings in the power sector of 
+USD249 million per year under an average case 
+scenario when compared with the reference case. 
+This is true even before factoring in the reduction 
+in external costs from air pollution and CO2
+emissions. Investment in renewable energy 
+capacity in the power sector, in comparison to 
+the reference case (i.e. the additional amount 
+needed), is estimated at around USD2.2 billion. These costs do not include the infrastructure 
+upgrades required to implement the REmap 
+options. Yet the advantages are not limited to 
+the reduction of costs and emissions but also 
+offer broader socio-economic advantages and 
+global benefits such as the creation of new 
+jobs and markets, the injection of cash inflows, 
+and improved energy security through the 
+diversification of the energy mix.
+Therefore, the successful realisation of such 
+deployment would require major adjustments to 
+policy, regulatory, technology, infrastructure and 
+financing mechanisms. The current framework 
+in place does not fully account for the rapid 
+economic and technological changes taking place 
+at the national and regional levels. This assessment 
+finds that several key challenges would need to be 
+addressed to further overcome the present energy 
+crisis. Therefore, the following recommendations 
+will allow Lebanon to meet – and, in due course, 
+exceed – the existing targets in the NREAP.
+1. Implement more stable and integrated 
+regulations for renewable energy 
+deployment 
+Despite Lebanon’s ambitious renewable energy 
+strategy, the NREAP has not translated into reality 
+on the ground owing to the instability of the 
+regulatory framework governing the energy sector. 
+Law 462, adopted in 2002, paved the way for 
+renewable energy sector privatisation in Lebanon 
+and established the Electricity Regulatory 
+Authority (ERA) to grant licenses for utility-scale 
+applications. 
+Law 462 was side-lined by Law 288 of 2014, 
+which indicated that the Council of Ministers 
+(CoM) and upon the recommendations of the 
+MEW and Ministry of Finance (MoF) would 
+license Independent Power Producers (IPPs). The 
+existence of several laws of conflicting dispositions 
+is not conducive to private sector investment in 
+renewable energy projects. 
+• Establish the Electricity Regulatory 
+Authority
+As per the provisions of law 462/2002, 
+creating the Electricity Regulatory Authority 
+(ERA) may provide a clear and single access 
+point to the electricity sector for private 
+companies. With clearly defined licensing 
+procedures, the roles and scope of existing 
+entities will also become clearer, including 
+the LCEC, MEW, EDL, the Public Procurement 
+Management Administration (PPMA), the 
+Higher Council for Privatisation and the CoM. 
+In the long term, to better meet the REmap 
+target of supplying 30% of electricity 
+generation using renewables, and in line with 
+the latest announced targets, IRENA suggests 
+including all energy-related laws under an 
+overarching amended law. Thus, overruling 
+any discrepancies or overlaps that exist 
+between them. 
+2. Adopt new measures for small-scale 
+applications 
+Net metering was applied in Lebanon following a 
+decision of the Board of Directors of EDL. However, 
+this is bound by the limitations of the industrial 
+and commercial sectors. While at the municipality 
+level, there is a lack of streamlined procedures 
+and awareness among the local authorities and 
+the general public about project implementation. 
+Additionally, off-site installation or power 
+wheeling and peer-to-peer energy exchange limit 
+the possibilities for wider deployment of smallscale applications. • Integrate innovative market schemes
+PPAs that allow developers to sell electricity 
+directly to specific consumers could in turn 
+open the way for peer-to-peer contracts. 
+The REmap analysis finds that technological 
+advancements in the areas of peer-topeer trading and blockchain may promote 
+the implementation of community-scale 
+renewable energy systems which, in turn, can 
+boost the number of small-scale decentralised 
+solar PV systems in Lebanon. In fact, the 
+market for this type of application is already 
+opening up in the country with the recent 
+implementation of community-based net 
+metering pilot projects that rely on hybrid 
+solar PV systems.
+• Reinstate incentives for the installation 
+of solar water heaters and small-scale 
+applications
+Among renewable energy applications, 
+solar water heaters (SWHs) were the first 
+to be introduced to the Lebanese market 
+under the NREAP/NEEAP for 2011-2015. 
+Installed SWH collector areas amounted to 
+669 291 square metres (sqm) by the end of 
+2018, (LCEC, 2019c) with an immediate target 
+to deploy 1 054 000 sqm by the end of 2020. 
+The successful implementation of SWHs in 
+Lebanon has largely been due to favourable 
+NEEREA loans and cash-back applications, 
+which slowed in 2015. IRENA’s REmap analysis 
+finds that subsidising the price of heat 
+pumps to increase competitiveness through 
+financing with international grants will result 
+in additional cost reductions.
+3. Complement national targets with 
+technology-specific renewable energy 
+targets 
+In 2018, Lebanon updated its renewable energy 
+targets with the aim of raising the contribution 
+of renewables in the electricity consumption mix 
+to 30%. However, there is no clarity concerning 
+the contributions of different renewable energy 
+technologies or the split between sectors. 
+Therefore, the REmap analysis complements the 
+30% target by defining the individual target 
+capacities for each technology: 1 000 MW of wind; 
+601 MW of hydro; 2 500 MW of centralised solar 
+PV; 500 MW of decentralised solar PV; and 13 MW 
+of biogas. 
+IRENA’s analyses on target-setting recommends 
+setting sectoral objectives that combine energy 
+efficiency and renewable energy deployments. 
+This reinforces the government’s commitment to 
+the scale-up of renewable energy technologies 
+and ensures a private market supported by 
+concrete government action plans.
+4. Set enabling tools for the installation 
+of heating and cooling
+To date, national efforts to deploy renewables 
+have largely centred around power – rather than 
+heating and cooling applications that focus on 
+SWHs. 
+According to REmap analyses, setting subsidies 
+for heat pumps to increase competitiveness and 
+complement current SWH incentives may support 
+the introduction of the tools required to improve 
+the uptake of renewables in Lebanon’s heating 
+and cooling sector. Furthermore, establishing a 
+databank on application and current market status 
+with tailored support programs may incentivise 
+investments. 5. Reform the current market framework 
+to increase investments and project 
+bankability
+Electricity in Lebanon is highly subsidised. 
+Therefore, increasing tariffs and reducing 
+electricity subsidies may encourage public and 
+private investments in renewable energy projects 
+and allow for the proliferation of renewables 
+through small- and medium-scale deployment. 
+6. Reinforce the grid and conduct grid 
+impact assessments
+Despite ample renewable energy potential in 
+Lebanon, the grid is subject to major technical 
+and non-technical losses, amounting to 21% in 
+2018. Therefore, renewable energy projects – 
+particularly large-scale projects – face significant 
+difficulties. Several studies conducted by regional 
+and international organisations have identified 
+inconsistencies in the frequency readings of the 
+grid. IRENA’s REmap analysis finds that the 30% 
+target can be reached if the stability of the system 
+is preserved.
+• Reinforce the transmission grid
+The updated policy paper for the electricity 
+sector considers a compound annual growth 
+rate (CAGR) of 3% coupled with a drop of 
+8% in total energy demand assumed in 2020 
+after the expected tariff increase. The REmap 
+analysis finds that significant improvements 
+to the transmission and distribution network 
+may help meet electricity sector demand 
+through expansion in installed capacity of 
+grid-integrated renewables. Furthermore, 
+increasing interconnection capacity by signing 
+agreements to ease energy flow may facilitate 
+higher levels of penetration of renewables and 
+guarantee grid stability.
+• Conduct a complete grid impact 
+assessment
+As highlighted in the REmap analysis, 
+dynamic stability measures may assist in 
+mitigating grid challenges such as power and 
+frequency fluctuations. These may include the 
+introduction of electricity storage systems 
+close to renewable energy farms leading 
+to multiple benefits, including enhanced 
+grid stability and addressing curtailment 
+concerns. In addition, IRENA’s 2017 study, 
+Planning for the renewable future, suggests 
+conducting specialised system studies on the 
+renewable carrying capacity of the Lebanese 
+transmission and distribution grid in different 
+geographical zones, as well as a long-term 
+generation adequacy studies. These exercises 
+may help EDL to develop a realistic valuation 
+of the potential of renewables to meet national 
+power demand.7. Financing and the role 
+of the private sector
+Several incentives have been deployed in Lebanon 
+to provide renewable energy finance, including 
+the NEEREA, the Lebanon Energy Efficiency and 
+Renewable Energy Finance Facility (LEEREFF) 
+and the Green Economy Financing Facility (GEFF) 
+loans that have helped promote distributed PV 
+markets, coupled with financial incentives in the 
+SWH market. However, weak risk allocation due 
+to political instability; grid, resource and off-taker 
+risk; and burdensome administrative schemes 
+must all be addressed for both large-scale and 
+small-scale applications. 
+• Streamline administrative processes
+EDL bankability constitutes a major challenge 
+due to low tariffs and high subsidies, reflecting 
+strong off-taker risk. In the first PPAs for 
+the 226 MW Hawa Akkar wind project, the 
+MEW was the main signatory, while EDL was 
+provided access through a letter of credit 
+signed by the central bank of Lebanon. 
+Therefore, the adoption of a more permanent 
+structure to address the creditworthiness of 
+EDL may allow for better access to different 
+guarantees. In this context, IRENA’s open 
+solar contracts produced in collaboration with 
+the Terawatt Initiative can be used to develop 
+standardised country context templates. 
+• Develop risk mitigation schemes 
+specific to renewable energy projects 
+by IFIs
+Limited access to guarantees from the MoF 
+or private guarantors constrains developers’ 
+access to viable financing.
+Considerable areas of land in regions with 
+the highest solar and wind potential have 
+unclear ownership licenses, resulting in major 
+challenges for project developers that are 
+responsible for land acquisition, whilst also 
+increasing associated risks and costs. 
+Risk mitigation instruments are not always 
+easy to identify or obtain. IRENA’s online 
+matchmaking service – offered through the 
+Climate Investment Platform (CIP) – can 
+be used to identify developers, lenders and 
+investors. With suitable instruments, IFIs can 
+move from issuing concessionary loans to 
+providing blended finance (public–private cofinancing trades) and risk mitigation solutions 
+to mobilise the local private sector. 
+Areas with high solar 
+and wind potential face 
+licensing challengesI. INTRODUCTION
+Country Background
+Geography
+The Lebanese Republic is a sovereign state located in Western Asia adjoining 
+the eastern edge of the Mediterranean region from the south along a 79 km 
+border. It has a total territory of 10 452 km2, with a 225 km coast along the 
+Mediterranean Sea that features a narrow coastal plain that is 6.5 km at its 
+widest point and lies below the Lebanon Mountains, which rise to a maximum 
+elevation of 3088 meters. The Bekaa Valley separates the Lebanon and AntiLebanon Mountains, with the latter rising to 2 814 m.
+Demographics
+In 2017, the population of Lebanon was more than 6 million, according to the 
+statistics of the World Bank (World Bank, 2019a). The population has grown by 
+24% since 2012, owing to the influx of refugees from neighbouring countries. 
+Figure 1 illustrates the sharp increase in population since 2000. Population 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013
+2014
+2015
+2016
+2017
+0
+1 000 000
+2 000 000
+3 000 000
+4 000 000
+5 000 000
+6 000 000
+7 000 000
+8 000 000
+Figure 1. Lebanon’s population, 2000–2017
+Source: World Bank, 2019a
+The influx of refugees
+has swelled the 
+population and 
+added to power 
+demandFigure 2. Lebanon’s current GDP (billion USD), 2000–2017 GDP (current USD billion) 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+0
+10
+20
+30
+40
+50
+60
+Economics
+The Lebanese economy has traditionally relied heavily 
+on the service sector – focusing on banking, tourism, 
+construction and real estate – and activities are mainly 
+undertaken by private companies. Lebanon’s gross 
+domestic product (GDP) was estimated at USD 53.6 
+billion (current USD) in 2017 (World Bank, 2019b).
+Situated at the nexus of regional conflicts, Lebanon 
+suffers from uncertainty over regional conditions and 
+potential spill-overs. While achieving positive GDP 
+results in recent years, the country still falls short of its 
+economic potential.
+Challenges in the 
+power sector echo 
+throughout the 
+economy
+Power generation costs also weigh heavily on the 
+Lebanese economy. The national electricity company, 
+Electricité du Liban (EDL), accounts for reported 
+deficits of around USD 2 billion. The company faces 
+global oil price fluctuations, while also being subject 
+to government caps on oil purchases, with direct and 
+indirect implications throughout the economy.
+Source: World Bank, 2019b2. ENERGY SECTOR
+STATUS AND PLANS
+1. Primary energy supply
+Lebanon relies on imports to satisfy its energy demand. In terms of primary 
+energy, consumption is met using the following six major components:
+• liquid petroleum gas (LPG);
+• gasoline;
+• gas oil;
+• kerosene;
+• fuel oil; and
+• bitumen.
+The only sources of energy produced domestically include solar water 
+heaters (SWHs), hydro power plants and a minor solar PV contribution.
+In 2010, energy imports accounted for approximately 96.8% of primary 
+supply, and only 3.2% was locally produced from hydroelectric power plants 
+and SWHs. The share of primary energy imports did not change significantly 
+between 2010 and 2015, as political instability in the region prevented 
+uninterrupted imports of natural gas, thus forcing various plants to rely on 
+fuel oil.
+Primary energy production in Lebanon comes from mainly imported oil 
+products. In 2016, fuel imports accounted for around 95% of overall energy 
+production and imports. Some 96% of the country’s total primary energy 
+supply (TPES) in 2017 was sourced from primary and secondary oils, 
+followed by coal at 2% (IEA, 2019).
+Like other developing countries, Lebanon faces difficulties in compiling 
+energy data and therefore is yet to generate a complete energy balance. 
+The energy data employed by this study was largely based on two reports 
+published by the Lebanese Centre for Energy Conservation (LCEC), namely 
+the NREAP 2016–2020 (LCEC, 2016) and The First Energy Indicators Report 
+of the Republic of Lebanon (LCEC, 2018).
+Source: IEA2019
+Figure 3. Total primary energy supply by source (%) 
+Coal
+2%
+Oil products
+96%
+Solar and wind
+1%
+Biofuels and waste
+1%
+Hydro
+<1%Wind and solar
+Electricity
+Oil products
+69%
+<1%
+Coal
+28%
+3%
+Figure 4 presents the fuel import mix for Lebanon in 
+2018 – calculated based on interviews with the MEW 
+– with a total mix of 8 617 thousand tonnes of oil 
+equivalent (ktoe).
+This high dependence on imported oil products has 
+increased the vulnerability of the Lebanese economy 
+to oil price fluctuations. In addition, in recent years 
+Lebanon has experienced significant intermittency 
+of electricity imports owing to regional instability. As 
+well as threatening the country’s energy security, this 
+has aggravated the electricity supply shortage. In this 
+context, the country’s high dependency on imports is a 
+strong driver for the deployment of renewable energy 
+sources, which will improve Lebanon’s energy security.
+As shown in Figure 8, the three dominant resources are 
+gasoline, fuel oil and gas oil, which combined represent 
+approximately 93% of total oil imports. Most of the 
+gasoline is used in the transportation sector, while 
+the fuel oil is predominantly consumed by EDL for 
+electricity generation, with some consumed by large 
+industries for private electricity generation.
+Total final energy consumption (TFEC) in 2016 was 
+largely met by imported oil and electricity, with the 
+highest share being consumed in the transport sector 
+(42%), followed by the residential sector (38%) and 
+industry (15%).
+Figure 4. Lebanese primary energy mix in 2018 (toe, %) 
+Gasoil
+Fuel oil
+23%
+41%
+Asphalt
+1%
+Kerosene
+3%
+Gasoline
+25%
+LPG
+3%
+Petroleum coke
+4%
+Source: LCEC, 2019a *Fuel Import mix in toe
+Figure 5. TFEC by source Figure 6. TFEC by sector 
+Commercial
+Transport
+Residential
+19%
+5%
+Industry
+62%
+14%For gas oil (diesel), there are four main areas of 
+consumption: electricity generation by EDL, private 
+generation, heating in houses, and use in the 
+transportation sector – especially for large vehicles. 
+However, defining the share of each of these four 
+end-use categories represents a challenge, owing to 
+analytical limitations.
+Liquid gas represents a smaller share of the total mix, 
+as it is most often consumed in small heaters or for 
+cooking. Kerosene is more or less solely used in the 
+transport sector to fuel aircraft, whereas asphalt is used 
+in industries or road infrastructure. Figure 8 shows the 
+evolution of imports of these products.
+The evolution of imports is consistent with each of the 
+oil products keeping the same share of total imports. In 
+2019, total imports reached 8 618 ktoe, representing a 
+financial burden of around USD 6 248 million. Moreover, 
+in 2019, an additional 350 ktoe of petroleum coke was 
+imported, although this is not reflected in Figure 8 
+owing to incomplete information regarding its origin of 
+and use.
+Figure 7. Gas oil consumption streams in Lebanon
+Figure 8. Oil imports 2015–2018 
+Diesel imports
+Transport sector
+Private generators’
+electricity generation
+EDL electricity
+generation
+Heating
+Source: MEW, 2019c
+2015 2016 2017 2018
+toe
+0
+2 000 000
+4 000 000
+6 000 000
+8 000 000
+100 00 000
+Petroleum coke Asphalt Fuel oil Kerosene Gasoil Gasoline LPG2. Energy sector governance
+Institutional framework
+The Ministry of Energy and Water (MEW) is the main 
+stakeholder in the energy sector in Lebanon. It is 
+essentially responsible for the country’s electricity, 
+water and oil portfolios, particularly at the strategic and 
+planning levels in these areas. 
+The long-established Lebanese Centre for Energy 
+Conservation (LCEC) has evolved to become the 
+national energy agency. The LCEC is affiliated to the 
+Lebanese Ministry of Energy and Water (MEW) and 
+is the technical arm of the Ministry in all subjects 
+related to energy efficiency, renewable energy and 
+green buildings. The LCEC offers proven expertise and 
+supports the Lebanese government in developing and 
+implementing national strategies to save energy and 
+reduce greenhouse gas emissions.
+Electricite du Liban (EDL) is the vertically integrated 
+company that manages the entire electricity sector in 
+terms of generation, transmission and distribution. In 
+2010, the government introduced distribution service 
+providers (DSPs) to open the door for private–public 
+partnerships (PPP) in the distribution sector. 
+The scope of the DSPs covered network survey; asset 
+management; customer service; construction of new 
+feeders and substations; rehabilitation of existing 
+feeders and substations; operation and maintenance 
+of all assets in corresponding service zones; inspection 
+and violation removal; meter reading and bill collection 
+and advanced metering infrastructure (AMI). As of early 
+2019, there are three DSPs in operation.
+Table 1. Sector governance 
+Institution Function
+Ministry of Energy and Water (MEW)
+Directs the overall governance of the energy sector.
+Specific duties include, but are not limited to, proposing laws for the 
+electricity sector and making electrical interconnection agreements with 
+other countries.
+Electricité Du Liban (EDL) A public company that controls 90% of the electricity market.
+Has a monopoly on transmission and distribution for end-users.
+Electricité Du De Zahlé (EDZ)
+A private company previously owning the Zahle electricity concession – 
+a two-year operation contract to continue providing Bekaa city and its 
+surroundings with 24-hour electricity at a lower cost for consumers.
+Electricity Regulatory Authority (ERA)
+Sets conditions for the acquisition of licenses and permits for activities 
+related to the production, transportation and distribution of power.
+Currently not established, mainly for political reasons.
+Council of Ministers (CoM) Reviews most decisions made by the MEW.
+Exercises the responsibilities of ERA until it is established.
+Lebanese Centre for Energy Conservation (LCEC) A subsidiary of MEW that works with the Ministry to set action plans and 
+national strategies for energy efficiency and renewable energy deployment.
+Central bank of Lebanon (BDL) Initiated National Energy Efficiency and Renewable Energy Action 
+(NEEREA) – a financing mechanism for green energy projects.
+Litani River Authority Establishes and maintains Lebanon’s hydroelectric plant.Legal framework
+In 2002, Law 462 was presented with the objective 
+of reforming the structure of the Lebanese energy 
+sector. The law provided for the establishment of the 
+Electricity Regulatory Authority (ERA) and allocated it 
+the authority to grant electricity generation licenses to 
+IPPs in order to feed the national grid.
+Although Law 462 has been in force since 2002, it 
+has never been implemented. Therefore, there is no 
+regulatory body to issue licenses for new generation. 
+Following an initial emphasis on privatisation in the 
+period 1999–2002, the focus shifted towards public–
+private partnerships and corporatisation, leaving Law 
+462 somewhat outdated.
+New laws have since been implemented to better 
+reflect current conditions and stimulate the widespread 
+adoption of renewable resources.
+Law 288, adopted in 2014, further side-lined Law 462 
+by indicating that the Council of Ministers (CoM) – upon 
+joint recommendations from the MEW and the Ministry 
+of Finance (MoF) – could license IPPs. Law 288 was 
+applicable for a period of two years (i.e., from April 
+2014 to April 2016), but was then extended in 2016 for 
+another two years until 2018 under Law 54, despite the 
+CoM not having issued any licenses.
+In a recently published declaration, the Lebanese 
+government said it would extend Law 288 to maintain 
+current synergy, particularly within the renewable 
+energy sector. As such, this law provided the 
+opportunity to conclude a wind PPA contract, allowing 
+for private sector entry to the Lebanese electricity 
+generation market.
+In 2019, the updated electricity policy paper adopted 
+by the Lebanese government proposed to parliament 
+an amendment of Law 288/2014 (under Law 129) to 
+extend its application period for three additional years 
+to allow the establishment of an independent electricity 
+regulatory authority. This amendment is yet to be 
+addressed by the Lebanese parliament.
+Figure 9. summarises the legal evolution of the energy sector in Lebanon
+2002 2014 2016 2019
+Law 462 Law 228 Law 54 Law 1290
+500
+1 000
+1 500
+2 000
+2 500
+Eective capacity
+MW
+3 300
+3 458
+3 562
+1 994
+2 334 2 334
+3 000
+3 500
+4 000
+Peak demand
+3. Ongoing power sector reform 
+The Lebanese electricity sector has suffered since 
+the mid-1990s, primarily due to a lack of investment 
+that has led to the sharp deterioration of the sector’s 
+infrastructure. Hence, EDL has not been able to satisfy 
+national electricity demand alone – a situation that 
+has led to the development of smaller private diesel 
+generators who operate in an unofficial capacity in a 
+parallel electricity market.
+The reduction in generation capacity has been 
+amplified by poor maintenance and increased demand. 
+Indeed, the recent influx of refugees to Lebanon has 
+contributed to the increasing gap between electricity 
+generation and demand, which reached 7 375 GWh in 
+2017 (MEW, 2019c).
+The NREAP shows that for the year 2010, EDL thermal 
+power plants generated approximately 68% of the total 
+estimated electricity demand at around 15 934 GWh. 
+Hydropower plants provided around 6% and electricity 
+imports from Syria and Egypt provided 3%. The 
+remaining 23% was supplied by decentralised private 
+diesel generators distributed all over the country. The 
+total electricity generated was slightly above 15 000 
+GWh, leaving around 900 GWh of electricity demand 
+unserved.
+More recent data provided by the MEW highlights 
+that the addition of several power plants in 2016–2017 
+increased overall generation capacity by approximately 
+700 MW, helping to close the gap between peak 
+demand and installed capacity (MEW, 2019c).
+Figure 10. Electricity generation mix in Lebanon, 2010
+Figure 11. Installed capacity versus peak demand
+Hydropower
+Private generation
+EDL thermal
+68%
+6%
+Imports
+23%
+3%
+Source: LCEC, 2016Electricity demand was estimated in 2016 to be 
+around 22 000 GWh (Electricité du Liban (EDL), 2018), 
+marking an increase of 54.8% since 2010, when demand 
+was estimated at 15 934 GWh (LCEC, 2010). However, 
+annual electricity demand data adopted by the MEW 
+vary between 3.8% and 5%; the difference is essentially 
+caused by the demand calculation methodology 
+employed by EDL and the demand consequences of the 
+significant increase in population over a short period. 
+For consistency with MEW data, the updated policy 
+paper estimates a demand increase of 3% by 2020.
+Table 2 shows existing EDL power plants along with 
+their installed and effective capacities. The derating of 
+most of these power plants is essentially a result of their 
+age and maintenance needs.
+Source: MEW, 2019b
+Table 2. Existing EDL power plant capacities and performance 
+Facility Fuel type Installed capacity
+(MW)
+Effective capacity 2018
+(MW)
+Total generation cost 
+(c$/kWh; USD 71/bbl)
+Existing EDL 2018
+Zouk 1 Thermal Power Plant HFO 607 440 14.75
+Jieh 1 Thermal Power Plant HFO 343 180 19.39
+Zouk 2 ICE Power Plant HFO/NG-Z 198 157 10.83
+Jieh 2 ICE Power Plant HFO/NG-J 78 63 11.19
+Zahrani I CCPP DO/NG-ZAH 469 420 13.62
+Deir Ammar I CCPP DO/NG-DA 464 430 14.96
+Baalbek Open Cycle GT DO 64 57 20.26
+Tyr Open Cycle GT DO 72 56 21.44
+Richmaya-Safa Hydro - 13 3 3.66
+Naameh (Landfill Gas) - 7 7 1.00
+Existing barges
+Power Barge Zouk HFO/NG-Z 187 195 13.95
+Power Barge Jiyeh HFO/NG-J 187 195 14.03
+Existing IPPs
+Litani Hydro - 199 47 3.97
+Nahr Ibrahim Hydro - 32 17 2.65
+Bared Hydro - 17 6 2.65
+Kadisha Hydro - 21 15 2.65
+Hrayche Thermal Power Plant HFO 35 46 20.13
+Power imports
+Imports from Syria and Egypt 276 69 15.35
+COVID-19 pandemic recovery 
+Amid the coronavirus outbreak in early 2020, 
+renewables and energy efficiency have become a 
+key part of the country’s recovery plans.Source: IRENA, 2019a
+Figure 12: Global weighted average total installed costs and project percentile ranges for CSP, solar 
+ PV, onshore and offshore wind, 2010–2018
+In addition, Table 2 shows the corresponding generation 
+cost of each of these power plants. The new power 
+plant at Zouk have the lowest cost of 10.83 US cents 
+per kWh, whereas in the case of the Hrayche, Tyr and 
+Baalbek power plants, the cost is more than 20 US 
+cents per kWh. This highlights the additional benefits 
+of deploying renewable energy in Lebanon, along with 
+the cost-competitiveness of renewables compared to 
+fossil-fuel based sources.
+IRENA’s Renewable power generation costs in 2018 
+finds that the continued decline in costs for solar PV and 
+onshore wind – as well as CSP and offshore wind – will 
+lead to renewable power becoming more competitive 
+than even the cheapest new source of fossil fuel-fired 
+electricity by 2020. 
+Figure 12 shows that for IRENA’s auction data for 
+utility-scale solar PV, suggests that the average price 
+of electricity could fall to USD 0.048/kWh in 2020, a 
+reduction of 44% compared to the global weighted 
+average LCOE of projects commisioned in 2018. This 
+decline is further amplified by the decrease in the cost 
+of dispatchable CSP and battery storage technologies, 
+improvements in grid operation and an emerging suite 
+of electricification technologes in end-uses (from 
+electric vehicles to heat pumps).
+0
+0.1
+0.2
+0.3
+0.4
+201020122014201620182020201020122014201620182020
+Onshore wind Solar photovoltaic Offshore wind Concentrating solar power
+2018 USD/kWh
+20102012201420162018202020222010201220142016201820202022
+Fossil fuel cost range
+Auction database LCOE database
+0.085
+0.371
+0.045 0.048
+0.159
+0.108
+0.341
+0.073Source: Based on EDL, 2019
+Disclaimer: boundaries and names shown on this map do not imply any official 
+endorsement or acceptance by IRENA.
+Figure 13: EDL transmission network 
+As of 2010, the developing renewable energy sector has 
+been supported by a clearer national action plan, driven 
+by the electricity reform paper (Bassil, 2010) and the 
+first National Energy Efficiency Action Plan (NEEAP), 
+(LCEC, 2010), prepared by the MEW and the LCEC, 
+respectively, and adopted by the Lebanese government.
+On 8 April 8, 2019, the then Lebanese government 
+adopted the update to the electricity reform paper 
+prepared by the MEW in collaboration with the World 
+Bank. This plan relied on the 2010 action plan but 
+introduced changes to some of the approaches adopted 
+in previous versions.
+The plan began by addressing the causes of the 
+electricity problem in Lebanon that were summarised 
+as follows: 
+• Tariffs: tariffs have been fixed in Lebanon since 
+1994 at an average of USD 0.092 per kWh, 
+corresponding to an oil price of USD 20 per barrel, 
+while not taking into consideration fluctuating oil 
+prices, which rose to more than USD 140 per barrel 
+in 2008 and significantly increased EDL’s financial 
+deficit.
+• High operation costs: Power plants in Lebanon 
+rely mainly on heavy fuel oil and diesel oil, thus 
+increasing their generation cost in comparison to 
+natural gas. Moreover, the newest power plants in 
+Deir Ammar and Zahrani were originally meant to 
+be operated using natural gas, but are currently 
+using diesel, increasing their generation cost and 
+leading to negative environmental impacts.
+• Old power plants with low efficiency: These 
+require significant maintenance, decreasing their 
+operational availability.
+• High technical losses: Both transmission and 
+distribution grids face losses equivalent to 16.5% 
+despite recent efforts by the Ministry, EDL and the 
+distribution service providers (DSP) to rehabilitate 
+the underdeveloped grid, as shown in Figure 13.
+• High non-technical losses: These have reached 21%, 
+largely owing to violations and illegal connections 
+to the distribution grid that EDL is seemingly 
+incapable of addressing.
+• Uncollected bills: This are estimated at around 5%, 
+and sometimes as high as 30% due to strikes by EDL 
+and DSPs employees, in addition to uncollected 
+electricity revenues from public institutions and 
+refugee camps estimated at USD 1.820 billion and 
+USD 444 million, respectively.
+• Impacts of regional crises: The Lebanese Crisis 
+Response Plan (LCRP) 2017–2020 estimated that 
+the refugee crisis has cut electricity availability 
+by 500 MW – equivalent to approximately five 
+hours of electricity per day – obliging the state to 
+rely more on private generators, costing around 
+USD 150 million USD (UNDP, 2016).
+Beirut
+Baalbek
+Sidon
+Tyre
+Nabatieh
+Zahlé
+Tripoli
+JbailTo remedy these factors, in the updated electricity 
+reform paper the Ministry proposed the following 
+potential solutions:
+Decreasing technical and non-technical losses and 
+increasing EDL financial income
+To achieve a decrease in technical losses, the MEW 
+proposed a series of practical actions beginning with 
+the implementation of the transmission sector master 
+plan adopted by the Lebanese government in 2017. 
+It proposed that this be complemented by a series 
+of projects to alleviate transmission bottlenecks in 
+several locations. In the distribution sector, DSPs have 
+committed to reduce distribution technical losses 
+through grid rehabilitation. Combined, the proposed 
+actions will potentially reduce technical losses from 
+around 16.5% in 2018 to less than 8% in 2022. 
+A campaign was also launched by MEW to remove 
+illegal connections, thereby lowering non-technical 
+losses from 21% in 2018 to around 3% in 2021.
+In 2019, EDL began installing smart electricity meters 
+as part of its advanced metering infrastructure project 
+to add more than one million meters across Lebanon by 
+2022. These meters will allow EDL to introduce modern 
+electricity services while monitoring and lowering nontechnical losses.
+Combining both actions related to grid losses would 
+allow EDL to lower total losses from around 34% in 2018 
+to less than 11% in 2022, enabling a saving of around 
+USD 640 million during the period 2018–2021.
+Moreover, addressing the losses will increase EDL cash 
+flow by more than USD 2 billion over this period through 
+the following actions:
+• Collection of existing uncollected bills:
+ USD 182 million; 
+• Updating the collection process of EDL bills:
+ USD 370 million; 
+• Collection of electricity bills from refugee camps:
+ USD 296 million; 
+• Collection of outstanding bills from public 
+institutions: USD 1.213 billion; 
+Increasing generation capacity, improving efficiency 
+and reducing costs by switching to natural gas
+The plan proposed to increase the generation capacity 
+of EDL by combining both short term temporary 
+solutions with long term permanent solutions – 
+installing 1 450 MW of temporary generation combined 
+with around 3 100 MW of permanent generation.
+This increase in generation capacity will allow EDL to 
+close the gap between electricity supply and demand, 
+thereby reducing dependency on private generators 
+by 2020, reducing the electricity bill for consumers 
+and supporting the Lebanese economy by providing a 
+reliable, low-cost electricity supply.
+Decreasing EDL’s generation costs will alleviate its 
+financial deficit and generate national economic 
+benefits by adding new higher efficiency power plants 
+and removing old, expensive and inefficient ones with 
+high maintenance costs. 
+Moreover, to further lower generation costs and 
+environmental impacts, the MEW plans to introduce 
+natural gas starting in mid-2021 in most of its power 
+plants by installing floating storage and regasification 
+units. Meanwhile, the MEW will allow IPPs to procure 
+their own fuel during the transition phase, which may 
+introduce natural gas to the power generation sector 
+even earlier.
+Increasing tariffs
+In Lebanon, consumers are issued with two electricity 
+bills with separate tariffs: one for EDL and the other for 
+the private generators that complement EDL’s supply. 
+Private diesel generators issue bills in accordance with a 
+tariff issued by the MEW, which is updated on a monthly 
+basis. EDL generation costs were estimated in 2018 at 
+USD 0.14 per kWh, which is far higher than the average 
+cost estimated at 0.092 per kWh. The tariff from private 
+diesel generators is USD 0.264 per kWh. The MEW has 
+been working with the World Bank to propose a new 
+pricing structure that will include an increase in tariffs 
+based on the expected increase in consumption.Photograph: Shutterstock3. RENEWABLE ENERGY 
+STATUS, TARGETS 
+AND POLICIES
+1. Overview
+Renewable energy sources have largely been limited to biomass heating in 
+rural areas and hydroelectric power plants installed before the 1970s that 
+represented more than 75% of the electricity produced in Lebanon at that 
+time. 
+As per Table 3, total installed hydroelectric capacity is 286 MW; however, 
+several plants lack proper maintenance, which has led to reduced efficiency 
+and production losses of around 30–40%. Most of these power plants belong 
+to the water concessions in Lebanon, where the currently adopted tariff of 
+USD 0.1 per kWh, does not constitute sufficient motive for these institutions 
+to properly maintain the plants.
+Today, most of the newly added renewable energy installations are in the 
+power sector – mostly decentralised solar rooftop PV, which is estimated 
+to have increased from 330 kWp in 2010 to 56.37 MWp in 2018, generating 
+around 83.5 GWh in the same year (LCEC, 2019c). While all end-use sectors 
+are important to address, the focus is on the power sector due to the widening 
+electricity deficit, coupled with the need for greater energy security. 
+Table 3. Existing hydroelectric power stations in Lebanon 
+River Establishment Plant(s) Year of 
+installation
+No. of 
+units
+Installed 
+capacity 
+(MW)
+Litani/Awali rivers Litani Water 
+Authority
+Markaba, 
+Awali, Joun
+1961, 1964, 
+1967 7 199
+Nahr Ibrahim river
+Société 
+Phénicienne 
+des Forces de 
+Nahr Ibrahim 
+des Eaux et 
+Electricité
+Chouane, 
+Yahchouch, 
+Fitri
+1961, 1955, 
+1951 8 32
+Kadisha valley
+La Kadisha, 
+Société 
+Anonyme 
+d’Electricité du 
+Liban Nord
+Bechare, 
+Mar Licha, 
+Blaouza II, 
+Abu-Ali
+1924, 1957, 
+1961, 1932 11 25
+Nahr Al Bared Al Bared 
+Concession
+Al Bared 1, 
+Al Bared 2 1936 5 17
+Safa spring Electricité du 
+Liban
+Richmaya–
+Safa 1931 3 13
+Total installed capacity 286
+Source: MEW, 2018.2. Renewable energy targets 
+and policy framework
+Targets
+In 2018, the Prime Minister announced a renewable 
+target of 30% of electricity consumed by 2030, as 
+reflected in the latest electricity reform paper adopted 
+by the Lebanese government in 2019. 
+Prior to 2018, the government had set a renewable 
+energy target of 12% of total primary energy consumed 
+(electricity and heating) by 2020. In this regard, in 2015, 
+the MEW and LCEC decided to dedicate a separate 
+document to presenting the proposed goals and 
+actions to meet these ambitious targets – the National 
+Renewable Energy Action Plan (NREAP) (LCEC, 2016).
+Moreover, Lebanon ratified the Paris Agreement in 
+Parliament under law 115 in March 2019; so, despite these 
+circumstances, renewable energy commitments were 
+made as part of its Nationally Determined Contribution 
+(NDCs) to the Paris Agreement.
+Lebanon’s NDC includes both unconditional and 
+conditional renewable energy targets. Unconditional 
+targets include meeting 15% of power and heating 
+demand using renewable energy sources by 2030, while 
+conditional targets include satisfying an additional 5% 
+of power and heating requirements from renewable 
+energysources. Thus, the current NDC aims for a total 
+share of 20% by 2030.
+The national action plan on renewable energy
+The foundations of renewable energy planning were 
+introduced in the 2010 electricity reform paper (Bassil, 
+2010) and expanded in the first National Energy 
+Efficiency Action Plan (NEEAP) for Lebanon (LCEC, 
+2010) that combined both renewable energy and energy 
+efficiency initiatives. In 2015, separate action plans were 
+adopted for renewables and energy efficiency covering 
+the period 2016–2020.
+The first NEEAP for Lebanon introduced fourteen 
+initiatives in 2010 related to renewable energy and 
+energy efficiency, combined. The most successful was 
+initiative 11, which introduced the National Energy 
+Efficiency and Renewable Energy Action (NEEREA) 
+dedicated to distributed solar applications.
+The NEEAP 2010–2015 (and then 2016–2020) has been 
+in effect since 2011 and has acted as the governing 
+framework for the deployment of renewable energy 
+in Lebanon. The NREAP 2016–2020 placed emphasis 
+on certain renewable technologies over others. The 
+following sections highlight the current resource 
+availability and development potential for various 
+renewable energy sources in Lebanon, along with the 
+corresponding projects in the pipeline for 2030.
+The NREAP 2016–2020 was presented in November 
+2016 by the MEW through the LCEC. It outlines a 
+strategic plan for the renewable energy sector that aims 
+to achieve the set renewables target of 12% of consumed 
+primary energy for both electricity generation and 
+heating purposes by 2020.
+The NREAP relied on a 2010 baseline to estimate the 
+primary energy consumed for electricity generation 
+and heating at around 6 069 ktoe. Based on this 
+figure, consumption in 2020 was estimated at 6 389 
+ktoe, which meant that the target was to produce the 
+equivalent of 767 ktoe from renewable sources by 2020.
+To achieve this, the methodology adopted focused on 
+estimating the available potential of relatively mature 
+renewable energy sources by building three different 
+scenarios: optimistic, realistic and pessimistic. Based 
+on a partial substitution methodology, the renewable 
+energy mix was optimised to achieve the target mix 
+presented in Figure 14, leading to the targeted installed 
+capacities illustrated in Figure 15.
+Figure 14: Renewable energy target resource mix in the NREAP 2016–2020
+*CPVCtthtlti
+PV, CPV
+7%
+Distributed PV
+4%
+Wind
+17%
+21%
+Bioenergy 27%
+Hydropower
+5%
+CSP
+SWH
+19%The NREAP also targeted SWH installations of around 
+1 054 000 m2
+ and the equivalent of 166.6 ktoe generated 
+from biomass energy. The investment required for the 
+full implementation of the NREAP was estimated at 
+USD 1.737 billion, with the corresponding shares of 
+investment presented in Figure 16.
+Figure 15: Renewable energy targeted installed capacities in the NREAP 2016–2020
+Source: LCEC, 2016
+Figure 16: Shares of total investment per technology in the NREAP 2016–2020
+Source: LCEC, 2016
+0
+50
+100
+150
+200
+250
+300
+350
+Wind PV
+Targeted installed capacity (MW)
+DPV CSP Hydro Geothermal
+200
+150
+100
+331
+50
+1.3
+Hydro rehabilitated 
+CSP
+17%
+SWH
+11%
+13%
+New Hydro
+2%
+18%
+PV
+1%
+Micro hydro
+14%
+Distributed PV
+Wind
+24%
+The national action 
+plan for renewables 
+calls for investments
+of USD 1.7 billion3. Renewable energy potential, status 
+ and driving policy instruments
+Hydropower
+Hydropower was the first form of renewable energy 
+to be deployed in Lebanon and plays a major role in 
+supplying renewable electricity to the country. However, 
+low contracted prices and lack of maintenance and/
+or refurbishment of hydropower plants have led to 
+a continuous drop in the share of hydropower in the 
+energy mix.
+The main potential of hydropower in Lebanon is derived 
+from four main sources: rehabilitation of existing power 
+plants; construction of new power plants; microhydro run-of-river applications; and generation from 
+non-river sources. The NREAP 2016–2020 finds that 
+rehabilitation of existing power plants can help increase 
+their annual generation by more than 1 000 GWh. With 
+the construction of new power plants, the available 
+potential is estimated at around 368 MW in the peak 
+scheme and 263 MW in the run-of-river scheme 
+(Sogreah-Artelia, 2012). The last source of hydropower 
+potential derives from micro-hydro and non-river 
+sources estimated to be around 5 MW (CEDRO, 2013).
+The announced targets within the NREAP, as shown 
+in Table 4, are 331.5 and 473 MW in 2020 and 2030, 
+respectively, including existing power plants to be 
+rehabilitated.
+Table 4: Hydroelectric targets and potential
+2020 target 2030 target Contracted capacity Project in the 
+pipeline Potential
+Hydroelectricity 331.5 MW 473 MW N.A. 300 MW Additional 382–487 
+MWIn March 2018, the MEW launched an expression of 
+interest (EOI) for the installation of hydroelectric power 
+plants on various Lebanese rivers. The MEW received 
+25 EOIs from 59 companies from 15 different countries 
+to install more than 300 MW.
+The main challenge lies in the fact that most of the 
+existing concessions, except for the Litani River Authority 
+concessions, are used exclusively for agricultural and 
+irrigation purposes rather than hydropower generation. 
+To promote hydropower in these concessions, the 
+Lebanese government delegated the MEW to negotiate 
+concessions as per the newly adopted electricity plan 
+in 2019 to find an appropriate solution for the current 
+situation.
+Onshore wind
+The initial evaluation of wind potential in Lebanon 
+began in 2011 with the publication of the wind atlas 
+(Garrad Hassan, 2011) that estimated a mean wind 
+capacity potential of 6 100 MW. According to the LCEC, 
+while considering assumptions on installation density, 
+minimum wind speed requirement and maximum 
+slope constraints, this potential must be decreased to
+5 400 MW with a generation capacity of 12 139 GWh, 
+resulting in available potential of 1 500 MW. 
+IRENA’s assessment conducted exclusively for this 
+report in 2019 presents a slightly higher potential of 
+6 233 MW. The assessment is based on the Agency’s 
+suitability mapping approach, which scores each 1 
+km2 parcel of land on resource quality, proximity to 
+transmission lines, topography, population density, 
+protected areas and land cover. Results from this 
+assessment conducted at 100 m height indicate that 
+over 1 558 km2 of land in Lebanon is suitable for utility 
+scale wind farms. This translates to around 6 233 MW of 
+wind capacity.
+The NREAP has set wind targets at 200 MW and 450 MW 
+in 2020 and 2030, respectively, with approximate 
+investment needs of USD 490 million in 2020. Table 
+5 outlines the targets for 2020 and 2030, along with 
+contracted capacity and projects in the pipeline as of 
+2019. 
+Figure 17: Wind resource potential (wind speeds at 100 m height, m/s)
+Wind speed (metres per second) 
+at height of 100 metres
+OpenStreetMap
+3.3
+4.3
+5.3
+6.3
+7.3
+8.3
+9.3
+10.3
+0 25 50kmTable 5: Wind power potential and targets; contracted and planned projects as of 2019
+2020 target 2030 target* Contracted capacity Project in the 
+pipeline Potential
+Wind 200 MW 450 MW 200-220 MW 500 MW Additional 382–487 
+1 500 MW
+The main policy instrument driving wind deployment is 
+competitive procurement, or auctions. The first round 
+was launched in 2013 when developers were invited to 
+bid for the licenses to develop three wind farms in the 
+under-developed region of Akkar, totalling a capacity 
+of between 200 and 220 MW, depending on the wind 
+turbines employed.
+The contracted price, after several rounds of 
+negotiations, dropped from more than USD 0.14 per 
+kWh to USD 0.1045 per kWh for the first three years 
+and USD 0.096 per kWh for the remaining seventeen 
+years of the contract. This price included land leasing, 
+obtaining licenses, financing and insurance costs, and 
+the cost of the transformation stations,and the cost 
+of the transformation stations, with any required grid 
+reinforcement to be considered as client assets.1
+The second round of auctions was launched through 
+an expression of interest (EOI) in April 2018, receiving 
+42 offers from 74 companies representing 21 countries 
+with an estimated capacity around 4 000 MW, while 
+the required capacity was between 200 and 400 
+MW. The Request for Proposals (RfPs) for the project 
+were released to companies that submitted their 
+interest during the International Beirut Energy Forum 
+held in Beirut in September 2018. Figure 18 shows the 
+total capacity received in each region of Lebanon, 
+according to the Wind Atlas (GH, 2011), with the highest 
+concentration being in the Akkar region.
+Figure 18: Total capacity per region in response to the second EOI/round of wind auctions
+* N/A: No specific land attributed.
+Source: LCEC, 2019b.
+Based on IRENA’s work on auctions, a number of factors relevant to auction design have been identified – including country-specific conditions – that 
+influence the price resulting from auctions, as summarised in Box 2.
+*Before Remap 2030 Scenario
+0
+200
+400
+600
+800
+1 000
+1 200
+1 400
+1 600
+1 800
+Akkar Mount 
+Lebanon
+Mount 
+Lebanon
+(Bekaa)
+North
+Lebanon
+(Bekaa)
+Bekaa North N/A* South
+Total capacity (MW)
+1 637
+732
+489
+271
+400
+200
+100 100As noted in IRENA’s Renewable energy auctions: 
+Analysing 2016, many factors shape the prices that 
+emerge from auctions, but they may be grouped into 
+four categories (Figure 20):
+1) country-specific conditions such as resource 
+availability and the costs of finance, land and labour;
+2) the degree of investor confidence (availability of 
+clear targets, credible off-taker);
+3) other policies related to renewable energy (grid 
+policies, priority dispatch, local content rules); and
+4) the design of the auction itself, taking into 
+consideration the trade-offs between obtaining the 
+lowest price and achieving other objectives.
+Country-specific
+conditions
+· Potential of renewable
+ energy resources
+· Financing costs
+· Installation and
+ building costs
+ (land, labour,
+ energy, etc.)
+· Ease of access
+ to equipment
+· Foreign exchange
+ rates 
+· General fiscal
+ legislation
+· Credibility of the
+ o-taker and additional
+ guarantees
+· Presence of a stable and
+ enabling environment
+ that is conducive to
+ market growth 
+· Past experience with
+ auctions for both
+ auctioneer and
+ developers 
+· Renewable energy
+ targets and national
+ plans that provide a
+ trajectory for the sector
+· Fiscal and financial
+ incentives for RE
+ projects
+· Grid access rules
+· Risk mitigation
+ instruments 
+· Policies to promote 
+ broader development
+ objectives (incl. socio-
+ economic benefits and 
+ industrial development)
+Trade-o between lowest
+price and other objectives:
+· Auction demand
+ (auctioned volume,
+ o-taker, regularity
+ of auctions)
+· Qualification
+ requirements 
+· Winner selection
+ method and criteria
+· Sellers’ liabilities
+ (compliance rules
+ distribution of financial
+ and production risks)
+Investor confidence
+and learning curve
+Policies supporting
+renewables
+Auction
+design
+Price resulting from an auction 
+Figure 19: Factors affecting auction prices
+Source: IRENA (2017a), Renewable energy auctions: Analysing 2016. 
+For further information on auction design, see Annex 1. 
+Country-specific 
+conditions, investor 
+confidence, auction 
+design and policy
+factors all influence 
+final electricity prices
+Box 1 Factors influencing the price resulting from auctions and key considerations
+ in auction designSolar power
+Lebanon had a cumulative installed solar PV capacity of 
+just 56.37 MW at the end of 2018 (LCEC 2019d), including 
+large-scale projects and distributed installations. 
+IRENA’s Global Atlas for Renewable Energy (see Figure 
+20) indicates that annual average solar irradiation in 
+Lebanon ranges between 1 520 kWh/m2/year and 
+2 148 kWh/m2/year, with a significant majority of areas 
+being above 1 900 kWh/m2/year.
+Building on this solar irradiation data, IRENA estimates 
+that the potential for utility scale solar PV could reach 
+182 GW. The estimate is based on the Agency’s suitability 
+mapping approach, which scores each 1 km2 parcel of 
+land on resource quality, proximity to transmission lines, 
+topography, population density, protected areas and 
+land cover. The results of this assessment, conducted 
+specifically for this report, indicate that over 5 558 km2 
+of land in Lebanon is suitable for utility scale solar PV, 
+having scored above 65%. 
+Based on a PV land-use footprint of 33 MW/km2, this 
+translates to around 182 615 MW of solar PV capacity. 
+This estimate was found to be more than twice that of 
+prior assessments by NREAP, at 87 000 MW.
+Source: IRENA (nd)Global Atlas for Renewable Energy; World Bank; 1 km Global Horizontal Irradiation
+Figure 20: Solar resource potential: Annual average daily GHI (kWh/m2)
+Daily global horizontal irradiance 
+(GHI) in kilowatt-hours per square 
+metre
+OpenStreetMap
+4.1
+4.3
+4.5
+4.8
+5.1
+5.4
+5.7
+5.9
+6.0
+0 25 50kmTable 6: PV targets and potential
+2020 target 2030 target* Contracted capacity Project in the 
+pipeline Potential
+Large-scale PV 150 MWp 300 MWp 2 MWp 1 030 MWp 87 636 MWp
+i. Grid-connected large-scale solar PV
+The threshold for large scale solar PV adopted in the 
+NREAP is 1 MWp. Therefore, the targets in the following 
+sections relating to centralised installations have a 
+capacity equal to, or more than, this threshold.
+The significant solar PV resource potential shows that 
+the limitations to this technology largely comprise 
+economic, grid infrastructure and management, land, 
+social and environmental constraints. According to the 
+NREAP, the national solar PV targets are 150 MWp and 
+300 MWp in 2020 and 2030, respectively.
+The deployment of large-scale solar PV projects is 
+driven by competitive procurement either via the 
+engineering, procurement and construction (EPC) 
+model – whereby a private company installs the project 
+and hands it over to EDL for operation – or the power 
+purchase agreement (PPA) model, whereby private 
+developers are invited to bid for a 20-year contract to 
+sell power to EDL. 
+The first project installed in Lebanon was the Beirut 
+River Solar Snake (BRSS), initiated by the MEW in 2013 
+with the aim of installing a PV farm of more than 1 MWp 
+on the bed of the Beirut river. The demonstration 
+project of 1.08 MWp was highly significant, having 
+proved the feasibility of large-scale solar PV in Lebanon 
+and thereby contributed to de-risking the sector. 
+The BRSS project was developed following an EPC 
+model and transferred to EDL in 2016 through the 
+signature of an operation and maintenance services 
+contract for two successive years. EDL launched a bid 
+at the end of 2018 to install the second phase of the 
+BRSS project, with a capacity of more than 7 MWp. The 
+results of the bid are expected by December 2019, and 
+the project to be commissioned in the first half of 2020.
+Following the BRSS, the second project within the 
+1 MWp capacity formed part of the first phase of the 
+Zahrani Oil Installations, under the umbrella of a broader 
+3 MWp target that aims to satisfy the full energy needs 
+of the installations.
+In early 2017, Lebanon adopted the first auction for 
+solar PV. The MEW launched an expression of interest to 
+install 12 PV farms, each with a capacity of 10 to 15 MW, 
+in the four main regions of Lebanon. In response to 
+the bid, LCEC and the MEW received 265 expressions 
+of interest resulting in a total capacity of more than 
+3 500 MWp, while the bids aimed at capacities ranging 
+between 120 to 180 MW. Another request for proposals 
+was launched in May 2017; it elicited 42 offers by the 
+end of October of 2017, presented by 138 companies 
+from 26 different countries. The first evaluation phase 
+concluded in early 2019 qualified 28 companies to the 
+final phase before financial evaluation, with the lowest 
+bid price received at 5.7 US cents/Kwh (MEW, 2019a). 
+The highest concentration of projects and capacities 
+were in the Bekaa and Hermel regions due to their 
+higher irradiances (approximately 20% or more) and 
+lower land prices (see Figure 21).
+Figure 21: Total capacity per region in response to the EOI of the first round of PV projects
+Mount Lebanon
+South and Nabatieh Bekaa and Hermel
+1 209
+157
+Non specified
+545
+North and Akkar
+887
+702
+*Before Remap 2030 Scenario52%
+Bekaa and Hermel
+14%
+Mount Lebanon
+10%
+South and Nabatieh
+24%
+North and Akkar
+Figure 22: Percentage of offers per region in response to the EOI of the first round of PV projects
+Figure 23: Offered capacities per region in response to the EOI of the first round of PV projects with storage
+Source: LCEC, 2019b
+In 2018, the MEW and LCEC launched an EOI to install 
+three PV farms of 100 MWp capacity combined with a 
+minimum storage capacity of 70 MWh each. The project 
+is considered to be one of the largest of its kind and 
+constituted an important milestone for the renewable 
+energy sector in Lebanon. The EOI was initiated in March 
+2018, receiving 75 offers in July by 148 companies from 
+33 countries. The offered capacity reached 4 268 MWp, 
+while the required capacity was only 300 MWp. 
+Figure 23 shows the distribution of capacities per 
+region, where the highest potential for solar PV is in the 
+Bekaa region, for the reasons explained above.
+The MEW and LCEC are preparing for the launch of the 
+second round of PV auctions to install 24 farms with a 
+total capacity of 240–360 MWp before the end of 2020.
+Moreover, the European Bank for Reconstruction and 
+Development (EBRD) has launched a feasibility study 
+for a solar PV project with a capacity of 300–500 MW 
+in the Tufail region based on a study from the American 
+University in Beirut (AUB) that has identified 10–15 
+km2 of land with high solar radiation which would be 
+suitable for solar projects (AUB, 2019).2
+Source: LCEC, 2019b
+2 Building on the AUB study, the National Center for Scientific Research (CNRS) and the Lebanese Foundation for Renewable 
+Energy (LFRE), have developed a detailed mapping exercise. The analysis highlighted several sites with a combined potential 
+Mount Lebanon Akkar North South Bekaa
+0
+500
+1 000
+1 500
+2 000
+2 500
+3 000
+3 500
+70 70
+630
+3 241
+258Figure 24: Installed capacity of distributed PV solar systems 
+ii. Distributed solar PV
+Distributed solar PV, as defined by the NREAP, refers 
+to PV systems installed to satisfy the local demand of 
+a specific consumer or group of consumers. Distributed 
+solar potential is hard to estimate, given the complex 
+procedures for evaluating the capacity for rooftop 
+installations. A project funded by the National Council 
+for Scientific Research estimated the available rooftop 
+area to be between 30% and 80% of the total rooftop 
+area in Beirut – sufficient area to provide between 13% 
+and 34% of the electricity needs of the capital.
+Similar to large-scale PV, the potential for distributed 
+PV systems remains far above the set targets for this 
+technology in the NREAP of 100 MWp and 150 MWp in 
+in 2020 and 2030, respectively.
+As shown in Table 7, the project pipeline is unclear, 
+particularly for plants being developed by the private 
+sector, but given that these capacities have risen, an 
+increase of 55 MWp can reasonably be estimated by 
+2020.
+Driven by NEEREA Loans, the private sector has taken 
+the lead in promoting distributed PV systems; Figure 24 
+shows the evolution of distributed PV systems starting 
+at around 0.33 MWp in 2010 and rising to 56.37 MWp 
+in 2018.
+Table 7: Distributed PV targets and potential
+2020 target 2030 target* Contracted 
+capacity Projects in the pipeline Potential
+Distributed PV 100 MWp 150 MWp 56.37 MWp 1.2 MWp (public sector) 
+56 MWp (private sector) N/A
+Installed capacity (MWp)
+2010 2011 2012 2013 2014 2015 2016 2017 2018
+1 2
+0
+10
+20
+30
+40
+50
+60
+4
+11
+24
+35
+56
+Source: DREG, 2017; LCEC, 2019b
+*Before Remap 2030 ScenarioNEEREA was created in collaboration with the 
+central bank of Lebanon (BDL) to provide the private 
+sector with long-term loans at low interest rates for 
+distributed renewable energy applications or energy 
+efficiency projects. NEEREA is the only green financing 
+mechanism in the Arab region that has a loan ceiling of 
+USD 10 million per project and offers low interest rates 
+for periods up to 14 years – including a grace period 
+of between six months and four years. These loans are 
+provided directly through Lebanese commercial banks 
+to end users.
+The BDL has issued several circulars to ensure 
+the consistency of NEEREA among all Lebanese 
+commercial banks. As per Intermediate Circular 236, 
+Lebanese commercial banks can free some of their 
+required reserves at the central bank to finance NEEREA 
+projects. Following Circular 236, the sustainability of 
+the NEEREA financing mechanism was further secured 
+by circulars 313, 318, 346 and 515, among others.
+NEEREA has witnessed rapid growth and broad 
+acceptance among the public, despite the barriers 
+and instability in the energy sector. NEEREA loans 
+are becoming increasingly popular products in the 
+Lebanese banking sector, with more than 938 projects 
+worth more than USD 560 million financed as of March 
+2019 (see Figure 25).
+Out of the total number of projects funded by NEEREA, 
+most of them included solar PV rooftop installations, 
+reaching approximately 621 projects out of the 938 
+projects financed as of March 2019. 
+However, despite its successful implementation, the 
+NEEREA financing mechanism has several constraints, 
+particularly when applied to large-scale renewable 
+energy projects, as it is designed to only finance 
+renewable energy projects for own consumption and 
+not for IPP purposes.
+Following these private sector developments, the 
+public sector launched a project to install PV systems 
+in 10 public buildings. Table 8 presents the location of 
+each installation, its size and status. 
+Figure 25: Number of green loans funded by NEEREA
+Source: LCEC, 2019b
+Table 8: Public sector projects: Scale and status
+Location Size (kW) Status
+Rooftop of the MEW building 150 Commissioned in 2018
+Lebanese army buildings 310 Installed 
+Casino du Liban 300 Under evaluation 
+Wheat silos at Beirut Port 200 Under evaluation
+Ministry of National Defence 150 Under bid preparation
+Presidential palace 300 Under bid preparation
+Lebanese University Faculty of Sciences 
+campus and Ministry of Finance building 350 Under study
+2012 2013 2014 2015 2016 2017 2018 2019
+Number of green loans
+65
+100
+145
+265
+0
+50
+100
+150
+200
+250
+300
+37
+127
+184
+19The MEW also installed around 4 000 PV of public 
+street lighting systems with an installed total capacity 
+of around 1.2 MWp. In addition, the Ministry of 
+Education and Higher Education is also taking part in 
+the development of distributed PV systems by installing 
+113 PV stations that include battery storage.
+Another example of a private sector distributed PV 
+system is the project implemented by the Council for 
+Development and Reconstruction (CDR), where 800 
+PV street lighting poles were installed with a capacity 
+of around 24 kWp, combined with 11 stations for PV 
+pumping in the Baalbek region with a total capacity of 
+1.4 MWp.
+The driving force behind all these initiatives has been 
+the falling cost of technology. IRENA estimates that 
+the price of solar PV modules has fallen by around 90% 
+since the end of 2009 (IRENA, 2019b). 
+Figure 26 shows the average monthly European solar 
+PV module price by technology and manufacturer in 
+the period January 2010–July 2018 (top) and average 
+yearly module prices by market in 2013 and 2018 
+(bottom), while Figure 27 shows the evolution of prices 
+for distributed capacities within the Lebanese market 
+by application.
+Figure 26: Average monthly European solar PV module prices by module technology and manufacturer
+0.0
+Jan 10
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+2013
+2018
+Jul 10
+Jan 11
+Jul 11
+Jan 12
+Jul 12
+Jan 13
+Jul 13
+Jan 14
+Jul 14
+Jan 15
+Jul 15
+Jan 16
+Jul 16
+Jan 17
+Jul 17
+Jan 18
+Jul 18
+0.5
+1.0
+1.5
+2.0
+0.0
+0.5
+-60% -47%
+-20%
+-61% -64%
+-34%
+-57% -53%
+-44%
+-46%
+-62%
+-16%
+-35% -50%
+1.0
+AustraliaBrazilCanadaChinaFranceGermanyIndiaItalyJapanRepublicof KoreaSaudi ArabiaSouth AfricaUnitedKingdomUnitted States
+2.5
+3.0
+3.5
+2018 USD/W 2018 USD/W
+Crystalline Europe (Germany)
+Crystalline Japan
+Crystalline China
+Thin film a-Si
+Thin film CdS/CdTe
+All black
+Thin film a-Si/u-Si or Global Index 
+(from Q4 2013)
+High efficiency
+Mainstream
+Low cost
+Source: IRENA, 2019b
+Notes: Jan 2010–Jul 2018 (top) and average yearly module prices by market in 2013 and 2018 (bottom).Figure 27: Yearly average solar PV turnkey price by project type in Lebanon (USD/kWp)
+3 Net metering is a financial agreement in which utility customers generate some of their own electricity and use a single meter to 
+measure the net electricity bought from the utility. At various times, the customer will not use all the electricity generated. The excess 
+is fed back into the grid and makes the meter run backwards. When the meter is read, it will usually show a net purchase from the 
+utility. If, for some reason, the customer generated more electricity than was consumed that month and the meter shows a negative 
+value, it will be read as zero or credited to the next month’s bill. In effect, during a single billing period, the customer uses any excess 
+generation to offset electricity that they would have had to purchase at the retail tariff.
+4 The main objective of CEDRO 4 is the application of renewable energy and energy efficiency systems and measures across 
+Lebanon’s several economic sectors (commercial, industrial, utility-scale, a demonstration project on a village scale, and bioenergysourced heating) and beneficiaries. Ultimately, CEDRO 4 will continue to benefit from the on-going assistance provided by the UNDP 
+to the Government of Lebanon to develop and implement a national sustainable energy strategy to mitigate climate change, in line 
+Figure 27 shows that prices for most distributed 
+PV applications have fallen worldwide. For hybrid 
+applications – systems connected to the electricity 
+grid with backup battery storage – prices have 
+reached around USD 1 200 per kWp. Off-grid systems 
+experienced the largest decrease in price of almost 
+46%, from above USD 5 000 per kWp in 2013 to around 
+USD 3 000 in 2017. 
+For on-grid applications with batteries – systems 
+connected to the grid with backup battery storage 
+– prices in the market dropped from around USD 6 
+000 per kWp in 2013 to around USD 3 300 in 2017, 
+representing a 39% decrease. Both systems have 
+relatively higher prices than on-grid and solar pumping 
+systems owing to their use of battery storage.
+The price of on-grid with grid-tied systems fell from 
+USD 3 700 per kWp in 2013 to 1 400 in 2017, marking an 
+almost 57% decrease in price, while solar PV pumping 
+experienced an expansion, leading to a reduction in 
+prices of about 50% between 2014 and 2016, mainly due 
+to the number of installations and their size. Moreover, 
+all these prices were based on estimations made using 
+NEEREA data that represents costs higher than regular 
+market prices due to financing and study costs.
+Other instruments supporting the deployment of 
+distributed PV systems include public investments in 
+government owned property and the net-metering 
+scheme. 
+In 2011, net-metering3
+ was introduced in Lebanon 
+through a decision from the EDL board that was 
+approved by the MEW, with the involvement of MEW 
+advisors, the LCEC team, and the CEDRO project of the 
+United Nations Development Programme (UNDP). 4
+Net-metering offered the first opportunity to connect 
+renewable energy projects to the national grid. 
+Although more than 50 projects are already connected 
+to the network, several limitations exist due to the lack 
+of meters at EDL and the manual methods used to 
+calculate net excess amounts of monthly rollover for 
+one year before returning the meter to zero.
+0
+1 000
+2 000
+3 000
+4 000
+5 000
+6 000
+7 000
+USD/kWp
+2012
+On-grid with batteries On-grid with grid-tied
+O-grid Hybrid
+Solar PV pumping
+2013 2014 2015 2016 2017
+Source: DREG, 2017Figure 28: Installed SWH collector areas: Actual versus projected
+Currently, the LCEC in collaboration with MEW and with 
+the support of the EBRD, are preparing a law allowing 
+for the introduction of collective net metering and 
+power wheeling which may help the development of 
+renewables in Lebanon.
+In addition to the efforts of local authorities and 
+the private sector, the World Bank’s Energy Sector 
+Management Assistance Programme (ESMAP) has 
+launched a global project to analyse rooftop solar 
+potential based on stereo-satellite imagery in 14 cities 
+across Africa, Asia, Latin America and the Middle East.
+The goal of this data collection exercise is to create 
+a methodology that could be replicated in any 
+jurisdiction worldwide at low cost through machine 
+learning efficiencies. The World Bank expressed an 
+interest in leveraging IRENA’s considerable experience 
+gained from creating the rooftop solar city simulator 
+(SolarCityEngine) for Kasese, Uganda and Zhangjiakou, 
+China to collaborate on the 14-city project. Among 
+these cities, the World Bank has identified Beirut as 
+being key to implementation efforts. 
+Solar water heaters
+Solar water heaters (SWHs) were the first renewable 
+energy application to be introduced in the last decade 
+within the framework of energy efficiency under the 
+first NREAP 2011–2015. Surveyed installations in the 
+period 2005–2015 are shown in Figure 28.
+As shown in Table 9, the targets in the NREAP 2016–2020 
+were 1 053 988 m2
+ in 2020 and 1 716 835 m2 in 2030. The 
+evolution shown in Figure 28 reflects a declining growth 
+trend, which will need to be taken into consideration in 
+the coming years to reactivate the market and to regain 
+the growth momentum of previous years. In this regard, 
+Figure 28 shows a decrease in the financing of SWHs 
+in the years 2012–2015, accompanied by a reduction in 
+SWHs installed.
+NEEREA loans and the incentives offered by the MEW 
+– with USD 200 cashback on SWHs – have played 
+an important role in the development of this market. 
+Therefore, stakeholders will need to maintain incentives 
+to keep boosting SWH proliferation, given its key role in 
+achieving national energy targets.
+Sqm (thousands)
+Actual installed area Projected area
+0
+200
+2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020
+400
+600
+800
+1 000
+1 200
+Source: LCEC, 2016
+Table 9: SWH targets and potential
+2020 target 2030 target Contracted capacity Project in the 
+pipeline Potential
+SWH 1 053 988 m2 1 716 835 m2 413 988 m2
+ (2015) N/A N/A4. THE RENEWABLE
+ ENERGY ROADMAP
+ (REMAP) 
+The previous sections have outlined the energy context in Lebanon and provided 
+a view of how the country’s energy landscape is likely to evolve over the coming 
+years based on government plans and targets and the country’s energy strategy, 
+including the NREAP (both 2016–2020 and 2016–2020 editions). IRENA’s 
+REmap analysis, which is the focus of this section, provides an outlook for the 
+potential of renewable energy in the country to 2030. It also highlights areas or 
+sectors where the use of renewables could be scaled up.
+This section first briefly presents developments that are likely to occur in what is 
+termed the ‘reference case 2030’, which is based on current pipelined projects, 
+market trends and forecasts. Next, it explores the accelerated potential of 
+renewable energy beyond what is expected to occur in the reference case. These 
+are called the ‘REmap options’, addressing the end-use sectors of industry, 
+buildings and transport, and power generation. The resulting high-share-ofrenewables case is called the ‘REmap case’. 
+The REmap analysis for Lebanon extends to the year 2030, chosen as a standard 
+medium-term assessment timeframe and a year featured in a variety of global 
+targets, such as the United Nations-endorsed Sustainable Development Goals 
+(SDGs). Figure 29 provides an overview of the key cases discussed in this 
+chapter and the years that are highlighted.
+The country analysis aligns 
+with global sustainable 
+development goalsFigure 29: Overview of the REmap approach
+The steps involved in the REmap analysis for Lebanon 
+presented in this chapter include:
+• The definition of a base year selected to be the year 
+2014 due to data availability.
+• The definition of a reference case 2030.
+• The definition of a REmap case 2030.
+A reference case 2030 is developed to present a view 
+of a baseline scenario. This case represents possible 
+developments in the energy system given the existing 
+measures to support renewable energy deployment in 
+Lebanon. The reconciled energy balance for the baseyear 2014 is projected to develop the reference case for 
+2030. The projections are essentially based on the most 
+recent national plans and commitments of the Lebanese 
+government, including the NREAP (2016–2020), the 
+second NEEAP (2016–2020) and pipelined renewable 
+energy projects. Following a sectorial bottom-up 
+approach, the reference case is built by projecting 
+each energy carrier under each sector presented in the 
+base year, in line with corresponding planned national 
+projects and policies. 
+Based on the reference case, additional renewable 
+energy deployment options are assessed. These are 
+called REmap options and are based in part on country 
+consultation, including analysis by energy experts from 
+LCEC and consultations via workshops with Lebanese 
+experts. The result of this option analysis is the REmap 
+case, which details the potential of renewables and what 
+this implies in terms of technological developments, 
+including costs and benefits. Notably, the REmap case 
+also provides a view of where the additional potential 
+of renewable energy outside the power sector lies; 
+i.e. in the end-use sectors of buildings, industry and 
+transportand for energy services related to heatfuels 
+The REmap case is built from the reference case to reach 
+a 30% renewable energy share in the total consumption 
+of electricity in 2030 by mapping the projected demand 
+for electricity in the end-use sectors. This REmap 
+analysis focuses primarily on the power sector due 
+to the relatively large potential of renewables. It also 
+proposes a synergy between renewable technologies 
+in both the transport and building sectors from one 
+side, and energy efficiency measures in the buildings 
+and industry sectors on the other. The detailed analysis 
+and findings for both the reference case and the REmap 
+case will be discussed below. 
+End-use sectors
+The starting point of the analysis is to estimate the 
+energy demand in three main end-use sectors, namely, 
+buildings, transport and industry. Demand projections 
+are estimated starting from the energy balance of the 
+base-year 2014 and use compound annual growth rates 
+(CAGRs) for the different energy carriers in each enduse sector. The agricultural sector was not explicitly 
+considered in the analysis as most of the energy demand 
+in this sector is captured under fuels for transport, and 
+due to the lack of more detailed information of other 
+energy uses.
+Renewable energy laws 
+require an appropriate 
+institutional framework 
+and administrative 
+capacity, including an 
+independent regulator 
+REmap case
+(accelerated uptake of renewables based on 
+developments in Reference case plus REmap options)
+Reference case
+(developments given current or planned policies)
+REmap options
+(accelerated potential or renewables 
+in addition to the Reference case)
+All energy sectors
+Power
+Buildings
+Industry
+TransportFigure 30: Final energy consumption in buildings (PJ)
+Buildings
+In the buildings sector, final energy consumption 
+grows from 72 petajoules (PJ) in the base year to 128 
+PJ in the reference case, mainly driven by electricity 
+consumption which grows from 55 PJ in the base year 
+to 95 PJ in the reference case. Oil and oil products come 
+in second place and grow from 16 PJ in the base year to 
+26 PJ in the reference case.
+In the reference case, the existing plans and policies 
+include energy efficiency measures and an increase in 
+solar water heater implementation. The deployment 
+of solar thermal technologies grows from 0.99 PJ in 
+the base year to 4.16 PJ in the reference case. Another 
+significant difference between the reference case and 
+the base year is an increase in biomass consumption 
+for space heating which rises from nearly zero in the 
+base year to 2.53 PJ in the reference case. The direct 
+renewable energy share5
+ in final energy consumption 
+in buildings grows from 1.4% in the base year to 5.4% in 
+the reference case. 
+In addition to the measures already included in the 
+existing plans and policies, the REmap case proposes a 
+reduction in the final energy consumption of oil and oil 
+products from 26 PJ in the reference case to 23 PJ in the 
+REmap case by the promotion of electric cooking and 
+heat pumps for water and space heating.
+Despite adding electricity demand through the 
+use of heat pumps and electric cooking, electricity 
+consumption remains roughly the same at 95 PJ in 
+both the reference case and in the REmap case due to 
+the estimated energy efficiency improvements in new 
+buildings, the additional promotion of SWHs, and high 
+energy efficient heat pumps replacing electric boilers 
+and heaters. Therefore, the share of renewables in 
+the final energy consumption of the buildings sector 
+increases from 5.4% in the Reference case to 6% in the 
+REmap case.
+Base 2014 REF 2030 REmap 2030
+Oil products Electricity
+0
+30
+60
+90
+120
+150
+TFEC of building sector (PJ)
+Solid biomass Solar thermal Geothermal
+5 Renewable energy share in this context is defined as the ratio of the renewable energy used to the total energy used, including only Transport
+In the reference case, the demand for transport services 
+experiences a significant increase, mainly driven by 
+population growth. The final energy consumption of oil 
+and oil products in transport grows from 97 PJ in the 
+base year to 130 PJ in the reference case. Due to the 
+lack of clear plans for public transport and alternative 
+fuels in the reference case, the demand increase is 
+assumed to be met by oil and oil products.
+In the REmap case, 2 PJ of biofuels and 0.46 PJ of 
+electric vehicles are introduced. This translates into a 
+modest but promising renewable share of 1.7% of final 
+energy consumption in the transport sector and reduces 
+the consumption of oil and oil products from 130 PJ to 
+128 PJ. The use of biofuels corresponds to a 5% volumebased mix of bioethanol – mainly imported – in gasoline 
+used by passenger cars, which could potentially also 
+bring cost savings from the replacement of fossil-based 
+octane enhancers.
+The deployment of electric vehicles corresponds 
+to shifting 3% of the passenger kilometre (pKm) of 
+passenger cars to electric vehicles. The introduction 
+of electric vehicles leads to a reduction in the final 
+energy consumption in transport, despite the growth 
+in demand for transport services. This is mainly due to 
+the energy efficiency improvements that result from 
+electric vehicles compared to internal combustion 
+engined vehicles.
+Figure 31: Final energy consumption in transport (PJ)
+Table 10: REmap scenario for transport
+Transport Base 2014 REF 2030 REMAP 2030
+Oil products (PJ) 97.2 129.7 125.4
+Bioethanol (PJ) 0.0 0.0 2.2
+Electricity (PJ) 0.0 0.0 0.5
+Introducing electric 
+vehicles would
+ increase efficiency 
+and reduce overall 
+energy consumption 
+for transport
+Base 2014 REF 2030 REmap 2030
+Oil products Bioethanol Electricity
+0
+30
+60
+90
+120
+150
+TFEC in transport sector (PJ)Industry
+The Lebanese industrial sector in general has not 
+experienced significant growth in recent years. Based 
+on available data, the annual growth rate for thermal 
+and electrical consumption is considered to be 0.1% 
+for all industries except for the cement industry, where 
+an annual growth of around 2.4% in cement deliveries
+was detected.6 Accordingly, the growth of final energy 
+consumption in industry is mainly driven by cement 
+production. The consumption of oil and oil products for 
+thermal purposes grows from 32 PJ in the base year to 
+around 40 PJ both in the reference and REmap cases, 
+while electricity consumption grows from 15 PJ in the 
+base year to 16 PJ in both the reference and REmap 
+cases. 
+Figure 32: Final energy consumption in industry (PJ)
+Base 2014 REF 2030 REmap 2030
+Oil products Electricity
+0
+10
+20
+30
+40
+50
+60
+TFEC of industrial sector (PJ)TOTAL FINAL ENERGY CONSUMPTION (TFEC)
+The sum of final energy consumption in the buildings, 
+transport and industry sectors results in the total final 
+energy consumption (TFEC). Figure 33 shows the 
+evolution of the total final energy consumption in the 
+end-use sectors for the base year 2014, the reference 
+case and the REmap Case. The final energy consumption 
+per usage is detailed for the three cases in Figure 34.
+In the base year, the industrial sector, led by the cement 
+industry, has a share of 21.5% in TFEC. This is followed by 
+the buildings sector at 33.5%, and the transport sector 
+at 45%. In the reference case, the transport sector leads 
+with the highest share of 41.3% in TFEC, followed by 
+the building sector at 40.7%, and the industrial sector 
+at 18%. Figure 35 shows that the shares remain roughly 
+the same in the REmap case.
+Figure 33: Total final energy consumption by end-use sector (PJ)
+Figure 34: Details of TFEC in end-use sectors (PJ) Figure 35: Shares of TFEC 
+in end-use sectors (%)
+Industry
+Transport
+18
+18
+21.5
+Buildings
+40.7
+40.7
+33.5
+45
+41.3
+41.3
+Base 2014 REF 2030 REmap 2030
+Industry Transport Buildings
+0
+50
+100
+150
+200
+250
+300
+350
+TFEC in End Use Sectors (PJ)
+Base 2014 REF 2030 REmap 2030
+Cement 
+industries
+Other 
+industries Road (passenger 
+vehices)
+Road (HDV, LDV, 
+buses, motorcycles)
+Space 
+cooling
+Space 
+heating Water 
+heating
+Lighting Appliances
+Cooking
+0
+50
+100
+150
+200
+250
+300
+350
+Detailed TFEC in end use sectors (PJ)The power sector
+Given the base case and the projections for electricity 
+demand in industry, transport and buildings discussed 
+above, the demand for electricity grows accordingly 
+from 70 PJ in the base year to 111 PJ in the reference 
+case. In the REmap case, the consumption of electricity 
+is also around 111 PJ, almost the same as in the reference 
+case. The energy mix in the REmap case proposed in 
+the following sections will meet this demand of 111 PJ.
+The updated policy paper for the electricity sector 
+considers a CAGR of 3% coupled with a drop of 8% in 
+the total energy demand assumed in 2020 after the 
+expected tariff increase. To meet that demand, the 
+projection of the installed capacity of grid integrated 
+renewables is given a priority due to the large potential 
+in question. 
+Transmission and distribution losses are assumed to 
+improve significantly both in the reference case and 
+in the REmap case, moving from 16.5% in losses in the 
+base year to 8% in the reference case and the REmap 
+case. These improvements would be the result of the 
+much-needed investments in the transmission and 
+distribution network that are deemed to take place in 
+the reference case.
+Wind
+Following the signature of the first wind energy PPA 
+in the country, the first wind farm of 226 MW paved 
+the way for another wind farm project of 200–400 MW 
+under the same PPP scheme. Accordingly, the pipeline 
+of projects for wind energy suggest that the total 
+installed capacity of wind farms would reach around 
+626 MW in the reference case. To keep a diversified 
+mix of renewables and considering the feasibility of the 
+proposed targets, the total installed capacity of wind 
+farms was determined to be 1 000 MW in the REmap 
+case, which is less than the 1 500 MW cap for the total 
+national feasible potential for that resource. Again, in 
+terms of electricity, the generation provided by wind 
+farms in the country experiences a tremendous growth 
+from almost nothing in the base year to 1 817 GWh in 
+the reference case and 2 655 GWh in the REmap case.
+Hydropower
+With the launch of hydro EOIs, the Ministry of Energy 
+and Water has also reserved an important share for 
+hydro resources. In fact, 25 economically viable sites 
+have been identified with a potential of 233 MW in a 
+run-of-river scheme or 315 MW in a peak scheme. Hence, 
+by topping up the capacities of some of the 25 new 
+sites through the corresponding EOI to the existing 286 
+MW, the total installed capacity of hydro power plants 
+is expected to reach around 601 MW in the reference 
+case and in the REmap case – assuming that all the 
+implemented new hydro will be under the peak scheme. 
+Revamping of old hydro plants is proposed to raise 
+their energy production by 25% in the reference and 
+REmap cases. Therefore, the electricity generated by 
+hydro resources in the country experiences a noticeable 
+growth from 425 GWh in the base year to 1 749 GWh in 
+both the reference and REmap cases.
+Biomass
+Despite having a great potential detailed in the national 
+bioenergy strategy for Lebanon, the reference case 
+remains conservative in this area due to multiple 
+complexities and local constraints. Nevertheless, the 
+reference case dedicates a total installed capacity of 
+8 MW for bioenergy, specifically biogas generation 
+from landfill municipal solid waste (MSW) used solely 
+for electricity generation. The REmap case suggests 
+another modest 5 MW on top of that from municipal 
+wastewater treatment, leading to a total installed 
+capacity of 13 MW from biogas power plants and a 
+total electricity generation of around 100 GWh in the 
+REmap case. Notably, the local biogas generated is 
+used exclusively for generating electricitySolar
+In the reference case, targeted solar PV capacity is 
+expected to reach 1 030 MW, which corresponds to 
+the major pipelined projects, all primarily based on 
+public–private partnership (PPP) models. On top of 
+that, the estimated installed capacity of decentralised 
+solar PV projects, mainly driven by national financing 
+mechanisms such as NEEREA, is expected to reach 150 
+MW. Another major solar related technology, CSP with 
+storage, is expected to reach a total installed capacity 
+of 100 MW on the same timeline. Accordingly, the total 
+installed capacity of solar PV in terms of grid integrated 
+farms, including PV with storage, decentralised projects 
+and CSP is expected to reach 1 280 MW in the proposed 
+reference case. 
+In the REmap case, the total proposed capacity for 
+solar PV was determined to meet the 30% renewable 
+share in electricity consumption after the capacities for 
+hydro, biogas and wind were determined as explained 
+above. Government targets for hydro have already been 
+set to develop all the economically viable locations 
+in the country as detailed above. Wind energy was 
+considered earlier to keep a diversified renewable mix 
+and to promote additional investments in that field. 
+However, the energy needed to reach the 30% target 
+is covered by solar resources due to its large resource 
+potential, lower cost of energy and relatively easier grid 
+integration process. Accordingly, the total proposed 
+capacity in the REmap case for solar is set at 3 100 MW, 
+divided between 2 500 MW of solar PV farms, 500 MW 
+of decentralised solar PV and 100 MW of CSP, assuming 
+the market can achieve the decentralised solar PV 
+target. 
+In terms of electricity, the generation provided by solar 
+PV resources in the country is expected to experience 
+tremendous growth from only 6 GWh in the base year 
+to 2 049 GWh in the reference case, and 5 210 GWh 
+in the REmap case. For CSP, the amount of electricity 
+expected to be generated from the corresponding 
+projects is the same in both the reference and REmap 
+cases and is estimated to be around 395 GWh, assuming 
+it is coupled with energy storage facilities.
+Installed capacity and electricity generation
+Accordingly, the reference case results in a total 
+installed capacity of 2 515 MW from renewables 
+compared with a total installed capacity of 4 909 MW 
+from conventional centralised generation. The REmap 
+case goes beyond this and proposes a total installed 
+capacity of around 4 700 MW from renewables, led by 
+solar PV. The corresponding details are shown in Figure 
+36, noting that the reference and REmap cases consider 
+shifting all conventional power plants to natural gas, as 
+per the updated policy paper. Notably, the REmap case 
+identified a potential reduction in installed conventional 
+capacity. 
+If renewables are given a priority in generation, 
+conventional units will have to ramp down and satisfy 
+the remaining demand for electricity. Accordingly, 
+the amount of conventional installed capacity can be 
+potentially reduced – all else being equal; however, this 
+is subject to a detailed dynamic stability analysis to 
+ensure that the system will remain stable in the worst 
+possible case.
+Figure 36: Installed capacities of power plants by technology (MW)
+Base 2014 REF 2030 REmap 2030
+0
+2 000
+4 000
+6 000
+8 000
+10 000
+Installed capacity (MW)The electricity generation resulting from a capacity 
+factor-based analysis, combined with several national 
+studies, is shown in Figure 37. The electricity output 
+from renewables in the reference case results in around 
+6 000 GWh or 18.11% of a total of 33 500 GWh. In 
+the REmap case, the total electricity generated by 
+renewables is around 10 100 GWh or 30.17% of a total of 
+33 500 GWh, as detailed in the following charts.
+Figure 37: Electricity generation by source (GWh)
+Figure 38: Shares of electricity generation by source (%)
+Renewable power 
+generation could take 
+priority, with conventional 
+units gradually ramping 
+down
+Base 2014 REF 2030 REmap 2030
+Oil products Natural gas Biogas Hydro Wind
+0
+5 000
+10 000
+15 000
+20 000
+25 000
+30 000
+35 000
+Electricity generation (GWh)
+Solar PV CSP
+Natural gas
+81.9%
+CSP
+1.2%
+1.2%
+69.8%
+Oil products
+97.2%
+Solar PV
+7.9%
+0.05%
+5.4%
+Wind
+6.1%
+15.6%
+Hydro
+2.75%
+5.2%
+5.2%TOTAL PRIMARY ENERGY SUPPLY (TPES)
+The results of the demand projections in the enduse sectors described above and the primary energy 
+demand in the power sector indicate that TPES in 
+Lebanon is expected to increase in the reference case, 
+as shown in Figure 39. The increase in energy demand 
+results in a CAGR of around 2.7% for the total primary 
+energy supply from 2014 to 2030. In the reference case, 
+the TPES rises from around 311 PJ in 2014 to 477 PJ in 
+2030. The total demand for fossil fuels grows from 308 
+PJ in 2014 to around 449 PJ in 2030, reflecting a growth 
+rate of 2.4% per year.
+For the REmap case, the CAGR for the TPES drops 
+to 2.3%, where TPES is reduced from 477 PJ in the 
+reference case to 450 PJ in the REmap Case, mainly due 
+to synergies between renewable energy, electrification7 
+and energy efficiency. The total demand for fossil fuels 
+is reduced from 448 PJ to around 404 PJ, reflecting a 
+growth rate of 1.7% per year from the base year. Figure 
+39 summarises and compares the TPES between the 
+base year, the reference case and the REmap case. 
+The REmap case also reduces the growth in the TPES 
+and increases both the quantities and the share of 
+renewables in the target year. The share of renewables 
+in TPES increases from 6.1% in the reference case to 
+10.4% in the REmap case.
+Figure 39: Total primary energy supply by source (PJ)
+7 Electrification in this context means the replacement of fuels by electricity in final energy consumption
+Base 2014 REF 2030 REmap 2030
+0
+100 000
+200 000
+300 000
+400 000
+500 000
+Total primary energy supply (PJ)
+Oil products Natural gas Biogas Hydro
+Wind Solar PV CSP
+Bioethanol
+Solar 
+thermal
+Geothermal
+Solid biomassRenewable energy shares
+The shares of renewable energy that result from the 
+analysis are presented in Table 11 and Figure 40. The 
+renewable energy policy target of Lebanon is based on 
+the share of renewable energy in electricity consumed. 
+The REmap case is consistent with the target of 30% 
+of renewables in electricity consumed in 2030. The 
+share of renewables, including the renewable share of 
+electricity, in TFEC increases from the base year in the 
+reference case and the REmap case. 
+The increase in the share of renewables in TFEC is a result 
+of the electrification of end-use sectors using renewable 
+electricity, as opposed to direct use of renewables. This 
+approach not only simplifies the challenge of increasing 
+renewables penetration (since it is based on a single 
+carrier – electricity – which is very flexible and can be 
+used in diverse end-use applications) but also provides 
+significant improvements in energy efficiency on the 
+end-use side.
+Figure 40: Percentage of electricity generation from renewable sources (%)
+Table 11: Evolution of the shares of renewable energy
+Base year (2014) Reference case (2030) REmap case (2030)
+Policy target
+Share of RE in electricity consumed 8 2.79% 18.11% 30.17%
+Other shares
+Share of RE in TPES9 0.82% 6.10% 10.39%
+Share of RE in TFEC10 1.37% 8.60% 13.97%
+8 Expressed in GWh.
+9 TPES and TFEC expressed in PJ
+Inner circle: base year 2014; middle circle: reference case 2030; outer circle: REmap case 2030.
+Hydropower
+17
+28
+Biogas
+1.5
+1
+98.5
+Wind
+28
+98.5
+Solar PV
+1
+34
+52
+CSP
+4
+7REMAP COSTS AND BENEFITS
+This section focuses on the assessment of the costs 
+and benefits of the different identified REmap options 
+that were proposed previously in this report, with a 
+special focus on the power sector. The methodology 
+consists of evaluating different indicators in that 
+context, which include costs savings, CO2
+ emissions 
+avoided, and associated externalities such as the 
+social cost of emissions. Infrastructure upgrades are 
+undoubtedly needed to safely implement the REmap 
+option. These were not included in the analysis for the 
+sake of simplicity, since the aim of this section is only to 
+highlight the potential benefits rather than propose a 
+detailed financial analysis.
+Potential savings in the power sector
+The cost of the total energy generated by the power 
+sector in the reference case is compared to the total cost 
+of energy generated in the REmap case – a necessary 
+step to compute the true savings based on the same 
+amount of produced energy. In other words, the same 
+amount of energy would be generated by a different 
+mix in the power sector in the REmap case following 
+the substitution concept, and the associated benefits 
+would be based on the difference in energy generated 
+under each technology and its corresponding LCOE.
+Since the costs and savings – largely related to fuel 
+savings – correspond to the year 2030, the analysis 
+proposes a set of scenarios linked to the potential 
+savings between the suggested worst case and 
+best-case scenarios. The considered variables in the 
+sensitivity analysis are mainly: the discount rate affected 
+by the economic situation and political stability; fuel 
+cost; and the projected capital cost of renewable 
+technologies in 2030. Several scenarios are discussed 
+based on possible combinations of these variables. 
+However, only those that reflect real local conditions 
+are retained. Accordingly, worst-case, average-case and 
+best-case scenarios were proposed. 
+The worst-case scenario would correspond to a low 
+fuel price, high discount rate and high capital cost for 
+renewables, which results in a low LCOE for conventional 
+energy and high LCOE for renewable energy. On the 
+other hand, the best-case scenario would correspond 
+to a high fuel price, low discount rate and low capital 
+cost for renewables, which results in a low LCOE for 
+renewable energy and a high LCOE for conventional 
+energy. The average-case scenario is proposed based 
+on mid-values of the corresponding variables. 
+Therefore, the total cost of energy for both cases – 
+reference 2030 and REmap 2030 – is estimated under 
+each scenario by multiplying the amount of energy from 
+each generation technology by the corresponding LCOE, 
+with the same discount rate used for both conventional 
+and renewable energy. The difference in each case 
+would reflect the potential savings from the REmap 
+case. The results suggest that the implementation of 
+the REmap options in the power sector would save on 
+average USD 249 million per year under the averagecase scenario compared with the reference case, as 
+shown in Table 12 below. The corresponding detailed 
+LCOE under each scenario can be found in Annex 2. 
+Table 12 presents the potential savings in the REmap 
+case in 2030 compared with the reference case in 
+2030. These savings consider only renewable energy 
+technologies in the power sector that have different 
+amounts of installed capacity in both cases. Hence, CSP 
+and hydro are not accounted for in this context, since 
+their installed capacity is the same in the reference and 
+REmap cases. Power generation from decentralised 
+solar PV is assumed to be supplied at zero cost, since it 
+mainly comes from private investments on the end-user 
+side. The results displayed in Table 12 are rounded to 
+the nearest integer.
+Ideally, the additional energy provided by renewables 
+should replace the energy produced by the most 
+expensive units based on their order of merit. Due to the 
+variable nature of some renewable resources, however, 
+renewable-based generation can have a relatively high 
+degree of unpredictability and uncertainty. Renewables, 
+therefore, cannot simply be assumed to replace existing 
+units.
+Renewable-based generation was given priority, 
+regardless of time of day, considering that the stability 
+of the system would be preserved and the difference 
+between the total produced energy in the two cases 
+would be considered instead of a technology-specific 
+shift. A more in-depth study is, however, required to 
+optimise the replacement of energy via unit commitment 
+and economic load dispatch analysis coupled with 
+specific local constraints and initial conditions.
+In addition to cost savings in the power sector, initial 
+savings from energy efficiency measures proposed in 
+the REmap case are also identified. As expected, the 
+buildings sector is the main source of these savings on 
+the end-user side and has an aggregate total potential 
+of around 377.42 GWh of electricity avoided – estimated 
+to be equivalent to around USD 46.13 million of savings 
+per year. These savings are already reflected in the 
+power sector as shown in Table 12.Emissions reduction and externalities
+The REmap case provides important benefits related to 
+air pollution and social costs. In fact, the substitution 
+of fossil fuel based energy by renewable energy would 
+result in an emissions reduction, inherently improve air 
+quality and reduce associated social costs. The results 
+suggest that an estimated total of around 2.85 MT of 
+Table 12: Potential average savings in the power sector: Comparison between the REmap case 2030 and 
+the reference case 2030
+REF 2030 Capacity (MW) Average LCOE 
+(USD ¢/KWh) Generation (GWh) Cost (USD m) 
+Natural Gas 4 909 10.76 27 432 2 951
+Wind 626 8.27 1 817 150
+Hydropower 601 5.33 1 749 93
+Solar PV11 1 030 4.47 1 789 80
+Biogas 8 4.55 59 3
+Total energy cost (USD million) 3 277
+REmap 2030 Capacity (MW) Average LCOE 
+(USD ¢/KWh) Generation (GWh) Cost (USD m)
+Natural Gas 4 909 10.76 23 393 2 517
+Wind 1 000 8.27 2 655 219
+Hydropower 601 5.33 1 749 93
+Solar PV12 2 500 4.47 4 342 194
+Biogas 13 4.55 99 5
+Total energy cost (USD million) 3 028
+11 Includes centralised solar PV only.
+12 Includes centralised solar PV only.
+Figure 41: Potential CO2 emissions reduction in MT from REmap options
+CO2 emissions and their associated monetary and social 
+costs may be avoided by implementing the suggested 
+REmap options as detailed in Figure 41. No important 
+savings were proposed in the REmap case for the 
+industrial sector, despite its importance, due to the lack 
+of data.
+Buildings
+Power
+2.31
+0.24
+Transport
+0.3Associated costs and investments
+The investments needed for the REmap case are 
+identified with a focus on the power sector, which is 
+the main ‘game-changer’. The cost of each incremental 
+MW of installed renewable capacity in the REmap case 
+beyond the reference case was determined based on 
+a high, medium and low CAPEX for each technology. 
+The total investment needed to implement the REmap 
+options in the power sector in comparison to the base 
+year amounts to USD 6.67 billion for the medium case, 
+as shown in Table 13.
+The investment needed to implement the REmap 
+options in comparison to the reference case – in other 
+words the investment needed only for the additional 
+amount of renewables – is estimated at around 
+USD 2.2 billion, as shown in Table 13. This investment 
+would be mainly financed through the private sector and 
+international financing institutions through an IPP/PPP 
+model. Again, these costs do not include the upgrades 
+to infrastructure required to successfully implement the 
+REmap options, which would demand a more in-depth 
+analysis of capacity expansion with higher shares of 
+renewables and grid stability. The results in Table 13 and 
+Table 14 below are rounded to the nearest integer.
+Additional costs were identified for the REmap options 
+proposed for the end-use sectors. These expenses would 
+mainly include subsidising the price of heat pumps to 
+make them price competitive in the Lebanese market; 
+providing additional incentives for the deployment 
+of solar water heaters; and potentially reducing the 
+import and/or registration taxes on electric vehicles, 
+ideally financed through international grants for 
+subsidised loans. Accordingly, the government would 
+not incur any major investment costs to implement the 
+Remap options in end-use sectors and would benefit 
+simultaneously from the monetary equivalent of the 
+potential energy substitution.
+Table 13: Overall required investments for REmap options in the power sector
+Table 14: Additional required investments for REmap options compared to current plans in the power sector
+Technology Capacity (MW) Cost high (USD bn) Cost medium (USD bn) Cost low (USD bn)
+Wind 1 000 2.075 1.787 1.499
+Hydropower 601 2.614 1.942 1.269
+Solar PV13 2 500 3.750 2.578 1.406
+Biogas 13 0.053 0.050 0.047
+CSP 100 0.400 0.309 0.218
+Total (USD billion) 8.89 6.67 4.43
+Technology Extra capacity (MW) Cost high (USD bn) Cost medium (USD bn) Cost low (USD bn)
+Wind 374 0.776 0.668 0.560
+Solar PV14 1 470 2.205 1.516 0.827
+Biogas 6 0.021 0.020 0.019
+Total (USD billion) 3.00 2.20 1.41 
+13 I
+ldtlid lPV l
+Investments in the
+power sector could 
+be a game-changer 
+in Lebanon’s shift
+to renewablesAdditional renewable energy benefits and drivers 
+The advantages of the Remap options are not only 
+limited to the reduction of costs and emissions but also 
+offer broader socio-economic and global benefits, such 
+as the creation of new jobs and markets, the injection 
+of cash inflows to the country, improved energy 
+security through energy mix diversification, mitigation 
+of oil bills, the promotion of domestic industries, and 
+improved air quality.
+However, to design effective policies in support of 
+value creation, policy makers require a thorough 
+understanding of materials and labour requirements. 
+IRENA’s “Leveraging local capacity” report series 
+examines these requirements in the solar PV and 
+onshore wind industries (IRENA, 2017d; 2017b).
+Figure 42 shows the main materials required by solar 
+PV and onshore wind plants, and therefore indicates the 
+kinds of industries most relevant to satisfy the inputs 
+for renewable energy deployment. Maximising value 
+creation from the development of a domestic solar PV 
+industry, for example, requires leveraging capacities 
+in industries such as glass, aluminium, silicon and 
+semiconductors. Leveraging this capacity can provide 
+expertise, raw materials and intermediary products for 
+manufacturing PV components such as PV cells and 
+modules, inverters, trackers, mounting structures and 
+electrical equipment.
+For a typical 50 megawatt (MW) onshore wind facility, 
+almost 23 000 tonnes of concrete is needed for the 
+foundations, and nearly 6 000 tonnes of steel and iron 
+for the turbines and their foundations. For offshore 
+wind the requirements are similar. Manufacturing 
+the main components of a wind turbine requires 
+specialised equipment as well as welding, lifting and 
+painting machines that are used in other industries, 
+such as construction. The foundations also require the 
+use of specialised equipment including rolling, drilling 
+and welding machinery. Special vessels and cranes 
+are used to move these structures. Examining these 
+requirements provides insights on industrial capabilities 
+to be leveraged.
+Glass
+Glass
+70
+tonnes
+Steel
+56
+tonnes
+Concrete
+47
+tonnes
+Aluminium
+19
+tonnes
+Silicon
+7
+tonnes
+Copper
+7
+tonnes
+Plastic
+6
+tonnes
+Concrete
+22,836tonnes
+Steel and Iron
+5,860
+tonnes
+Polymer materials
+681
+tonnes
+Fiberglass
+370
+tonnes
+Aluminium and alloys
+168
+tonnes
+Copper and
+alloys
+87
+tonnes
+Electronics and 
+electrics
+46
+tonnes
+Oil and coolant
+37
+tonnes
+1 MW solar 
+PV plant
+1 MW solar 
+PV plant
+Figure 42: Materials required for a 1 MW solar PV plant and a 50 MW onshore wind plant 
+Power system 
+investments could 
+be financed through 
+public-private 
+partnershipsThe “Leveraging local capacity” report series also 
+generates valuable information for policy makers on the 
+occupational and skill structure along the value chain. 
+Figure 43 shows the labour requirement for solar PV 
+plants and onshore wind farms. 
+For the development of a typical 50 MW solar PV project, 
+a total of around 230 000 person-days is required from 
+project planning to manufacturing, installing, operation 
+and maintenance (O&M) as well as decommissioning. 
+The highest labour requirements are in O&M (56%), 
+followed by procurement and manufacturing (22%) and 
+construction and installation (17%). In the procurement 
+and manufacturing segment, factory workers and 
+technicians represent 64% of the labour, followed by 
+engineers (12%). In the O&M segment, construction 
+workers account for 48% of the labour requirements, 
+followed by safety experts (19%) and engineers (15%).
+Similarly, for the development of a 50 MW onshore 
+wind project, a total of 144 000 person-days is needed. 
+The labour requirements are highest in O&M (43% of 
+the total), followed by construction and installation 
+(30%) and manufacturing (17%).
+The additional benefits of renewables are summarised 
+in Boxes 2 and 3.
+Figure 43: Distribution of human resources and occupational requirements along the value chain
+ (50 MW PV project; 50 MW onshore wind)
+Project Planning 2%
+Project Planning 1 %
+229 055 person-days
+50 MW solar PV:
+144 420 person-days
+50 MW onshore wind:
+2.1 million person-days
+500 MW oshore wind:
+Project Planning 1% 22% 17%
+56%
+2%
+7%
+5%
+Procurement Manufacturing Transport Installation Grid
+Connection Operation andMaintenance Decommissioning
+17 % 30%
+59% 11 %
+2%
+1 %
+1 %
+43%
+24%
+Based on IRENA analysisThe technological advancements in the areas of P2P 
+trading and blockchain promote the implementation 
+of community-scale renewable energy systems 
+which, in turn, can boost the number of small-scale 
+decentralised solar PV systems in Lebanon. In fact, the 
+market for this type of application is already opening 
+up in Lebanon with the recent implementation of 
+community-based net metering pilot projects which 
+rely on hybrid solar PV systems.
+P2P energy trading managed by the utility offers an 
+important potential for demand side management 
+and control, specifically when these PV systems are 
+coupled with battery storage where the energy flows 
+can be potentially directed as needed. If replicated 
+on a large-scale, potential grid support functions can 
+be also explored.
+These technologies also offer the potential to analyse 
+the recorded consumption patterns of the prosumers, 
+and hence optimise the energy forecasts for both 
+renewable energy generation and load duration 
+curves. The utility or TSO could ideally operate the 
+blockchain and hence track all the transactions made 
+in all the connected devices and households, which 
+would facilitate grid monitoring and operation. 
+In fact, many European TSOs are currently exploring 
+the use of blockchain technology for energy demand 
+response, measurement and verification, as well as for 
+financial settlement. TSOs are also using blockchain 
+in a pilot project to procure balancing services from 
+behind-the-meter batteries. Locally, additional 
+efforts are still needed to set the regulations and the 
+business model for these promising technologies, 
+which can play an enormous role in promoting smallscale decentralised renewable energy systems.
+Road transport for passengers in Lebanon has been a 
+major daily issue for the past five years. The growing 
+population and the influx of refugees, often having 
+a personal car, has worsened both the congestion 
+and the emissions problem in the country due to the 
+lack of developed and organised public transport. 
+Consequently, passenger cars are expected to 
+remain one of the main means of everyday transport 
+in Lebanon in the medium term. 
+Accordingly, and since the daily travelled distances 
+are relatively short, the REmap analysis identified a 
+potential role for electric mobility in Lebanon which 
+could not only mitigate the emissions problem 
+but also offer support to the grid. Admittedly, the 
+introduction of electric mobility would eventually 
+increase the demand for electricity, which is already 
+a challenge in the local context. However, MEW plans 
+for smart grids and smart charging technology, timeof-use pricing, fast technological advancements 
+in the field and a solid regulatory framework could 
+turn this challenge into a benefit and allow a 
+higher potential for the introduction of additional 
+renewables to the grid and the provision of both grid 
+services and flexibility. 
+Potential grid service provisions via decentralised 
+battery storage
+Dynamic charging and time-of-use tariffs would 
+allow advanced forms of multidirectional smart 
+charging, including vehicle-to-grid and vehicle-tobuilding that would, in turn, provide more flexibility 
+to the grid. This multidirectional advanced charging 
+feature would permit a reshaping of the load duration 
+curve through either filling and/or peak shifting or 
+shaving. This feature would help the grid operator 
+to manage congestion and reduce the reliance on 
+expensive peak units. Several similar pilot projects 
+have already been successfully tested by renowned 
+grid integration experts around the world. Advanced 
+smart charging could also mitigate the peak created 
+by EVs under uncontrolled charging by adopting 
+an over-night slow charging pattern. Many types of 
+smart charging have been developed; however, more 
+in-depth analysis would be needed to determine the 
+most suitable option for the Lebanese context. 
+A major issue that should be considered would be 
+the possible long waiting time for charging at the 
+end-user level, which can be potentially mitigated 
+via rooftop solar PV with adapted storage systems. 
+This would create significant potential to integrate 
+rooftop solar PV on existing filling stations and 
+buildings in general, which can be retrofitted with 
+a packaged solution to provide a charging service 
+for EVs. 
+The deployment of EVs can also reduce the 
+curtailment risk of variable renewable generation 
+in the short-term by using the battery as a storage 
+facility to compensate for the intermittency of 
+renewables.
+Therefore, adapting the charging cycle for EVs to 
+the prevalent conditions of the power system and 
+to the needs of the vehicle user would facilitate 
+their integration, allow additional integration of 
+renewables and reduce emissions.
+Box 3 Potential for electric mobility 
+Box 2 P2P blockchain-based trading5. CHALLENGES AND 
+ RECOMMENDATIONS 
+The main challenges facing the deployment of renewable energy in 
+Lebanon are related to the country’s institutional and regulatory framework, 
+the availability of financing, and the state of resources, technology and 
+infrastructure. This chapter discusses those challenges and proposes 
+recommendations identified through the RRA process and REmap analysis.
+INSTITUTIONAL AND REGULATORY FRAMEWORK
+This report identifies the lack of a stable regulatory framework for renewable 
+energy deployment and incomplete implementation of Law 462. Addressing 
+this barrier would enhance the deployment of renewable energy resources 
+for both large- and small-scale applications. Moreover, it would also help to 
+attract more investments into the sector and create socio-economic benefits, 
+including job creation.
+Challenge A: Lack of a stable regulatory framework 
+for renewable energy deployment and incomplete 
+implementation of Law 462
+Despite Lebanon’s Copenhagen obligations, the Lebanese government 
+has not provided any incentives for renewable energy on the legal level or 
+distinguished between renewable and conventional energy sources, whereby 
+they remain constrained by law 462/2002 and its amendments. The legal 
+framework does not clearly lay out the role of renewables in the energy mix; 
+the institutional set up does not define the roles and responsibilities of the 
+different institutions (government, city and municipal); and the regulations 
+do not explicitly stipulate the involvement of the private sector. Moreover, 
+the sector faces potential conflicts with laws and regulations from other main 
+sectors (e.g., real estate, agriculture and tourism). Since 2002, the renewable 
+energy sector has been developing based on temporary amendments and 
+loopholes in existing laws and regulations.
+Recommendations:
+• Consider a new electricity law clarifying the role of renewable energy
+To address the existence of several laws governing renewable energy 
+deployment, a more integrated and stable solution would be to establish 
+a holistic electricity law encompassing renewable energy applications, thus 
+ensuring a consistent legal framework for the renewable energy sector.
+• Establish an independent electricity regulatory authority
+As provided by law 462/2002, the Electricity Regulatory Authority (ERA) 
+may allow for a clear and single access point for the private sector towards 
+the electricity sector. 
+The existence of the ERA would pave the way for setting streamlined procedures 
+for the licensing of new renewable energy projects. The government, formed 
+in January 2019, pledged to solve this problem by establishing the ERA and by 
+prolonging law 288/2014 for the intermediate period to allow for the continued 
+development of the sector. In addition, establishing the ERA and defining the 
+different licensing procedures may help define the roles and scope of the Challenge B: Lack of sectoral and 
+technology-specific renewable energy 
+targets
+In 2009, Lebanon set ambitious targets to meet 12% 
+of its national primary energy mix with renewables by 
+2020 through defined targets of different renewable 
+energy installations. In 2018, these targets were revised 
+to 30% of renewables in the energy consumption mix. 
+However, there is no clarity on the long-term vision 
+of the energy transition, including the role of energy 
+efficiency and conservation and the synergies with 
+renewable energy. In this context, the targets are not 
+clearly distributed among end-uses, consuming sectors 
+or technologies.
+Recommendations:
+• Ensure sectoral renewable energy targets are 
+included in the energy mix
+The new target of 30% needs to be complemented with 
+specific targets for different renewable technologies 
+and different consumption sectors for 2030. Thus, 
+reinforcing the government’s commitment to the scaleup of renewable energy technologies and proposing 
+a targeted action plan. In this regard, the energy mix 
+proposed in REmap 2030 (Chapter 4) could be used to 
+set a long-term vision towards the future energy mix, 
+along with the sectoral objectives that combine energy 
+efficiency and renewable energy deployments.
+Box 4 outlines some of the guidelines provided in 
+IRENA’s report, Renewable energy target setting.
+Making targets mandatory; establishing targets in law 
+is an important step in increasing their credibility and 
+longevity.
+Renewable energy targets exist at the intersection of 
+multiple policy drivers and priorities including energy 
+security, environmental sustainability and socioeconomic benefits.
+While renewable electricity targets are most 
+widespread, heating/cooling and transport sector 
+targets are crucial for the energy transition.
+Targets send an important signal to stakeholders and 
+investors.
+Stakeholder engagement strengthens ownership and 
+target feasibility.
+Technology-specific targets can be used to support 
+the diversification of the energy mix to increase energy 
+security along with sustaining the development of the 
+local value chain of selected technologies. 
+Targets established in absolute terms (a specific 
+quantity of energy to be supplied) may be easier 
+to set and monitor but targets that are relative to a 
+moving baseline (i.e., in percentage terms) could be 
+more effective.
+Those responsible for meeting targets, as well as the 
+means they employ to this end, require consideration.
+Striking the right balance between ambition and 
+realism is vital to the success of targets.
+Effective renewable energy targets should be backed 
+by clear strategies and specific policies. 
+Source: IRENA, 2015.
+Box 4 Guidance on renewable energy 
+ target setting Challenge C: High subsidies and low tariffs
+Electricity in Lebanon is highly subsidised. Therefore, 
+the potential for future investments within the sector 
+remains limited, resulting in high technical and nontechnical losses (34%, combined) and an old fleet of 
+power plants. With that said, low electricity tariffs 
+discourage investment in small-scale renewable energy 
+applications, especially within net-metering schemes.
+Recommendation:
+• Reform subsides and tariffs
+While renewable energy is gaining momentum on a global 
+scale, to further build public and private investments on 
+the national level, increasing tariffs may encourage both 
+public and private investments in renewable energy 
+projects, thus substituting expensive and aged thermal 
+generation. Furthermore, higher tariffs would allow for the 
+proliferation of renewables through small- and mediumscale deployment.
+Challenge D: Limitations of enabling 
+schemes for small-scale RE applications
+The current net metering scheme was applied following 
+a decision of the board of directors of EDL. It allowed 
+for consumers to reinject excess renewable energy into 
+the national electricity grid. However, the customers 
+cannot reinject more than the equivalent of their 
+total annual consumption, which limits the extent of 
+application of renewable energy to other sectors such 
+as the commercial and industrial sectors.
+Moreover, complex administrative procedures coupled 
+with a lack of awareness between the local authorities 
+and the security services are causing bottlenecks in 
+project implementation at the local level. 
+Finally, the existing net-metering scheme does not allow 
+for off-site installation or power wheeling and peer-topeer energy exchange, which limits the possibility of 
+the wider deployment of small-scale applications.
+Recommendations:
+• Adopt legislation to promote distributed 
+renewable electricity:
+The deployment of virtual net-metering may be 
+considered, by allowing consumers to buy shares in 
+renewable energy projects and having the income 
+deducted from their electricity bills.
+Specific schemes could be developed paving the way 
+for peer-to-peer contracts through direct PPA, allowing 
+the developer to sell electricity directly to specific 
+Challenge E: Coupling heating and cooling 
+technologies in a national scheme
+To date, efforts to deploy renewables in the heating and 
+cooling sector have been represented by the application 
+of solar water heaters. Although the adopted incentive 
+schemes have been successful, SWH installations have 
+slowed in recent years due to the removal of incentive 
+mechanisms previously adopted in Lebanon.
+Recently, the adoption of heat pumps has increased, 
+given their high level of energy efficiency and their 
+ability to serve the dual purpose of heating water while 
+cooling space. However, there is a lack of data and 
+support programs to deploy the full potential of this 
+technology. 
+Recommendation:
+• Reinstate incentives for the installation 
+of heating and cooling
+The benefits of renewable energy are not solely in 
+the power sector but also in the heating and cooling 
+sector, therefore increasing the level of solar ordinance 
+while inducing the mandatory use of SWHs (with the 
+possibility of installing heat pumps in parallel) on all 
+rooftops of new buildings could be considered.
+As elaborated in the REmap section, subsidising heat 
+pumps to increase competitiveness and reducing 
+the import and/or registration taxes on electric 
+boilers through financing with international grants 
+will complement SWH incentives, resulting in cost 
+reductions. Incentives for the deployment of superefficient heat pumps may be considered, keeping 
+in mind the synergies with the power sector and the 
+dependence of heat pumps on the availability of power.
+The country is advised, therefore, to establish a data 
+bank for heat pump market potential and create 
+support programs to incentivise investments.RESOURCES, TECHNOLOGY AND INFRASTRUCTURE
+Despite ample renewable energy resources – 
+particularly solar and wind – several challenges to the 
+deployment of renewables exist in the grid system, at 
+both the transmission and distribution levels. IRENA has 
+found that addressing grid service concerns is possible 
+by conducting grid impact assessments, reinforcing 
+transmission infrastructure and introducing certification 
+schemes. 
+Challenge A: Concerns over grid stability 
+and capacity constraints
+In 2017, the UNDP CEDRO project developed a wind 
+grid interconnection guide for Lebanon (CEDRO, 
+2017), in which frequency readings of the Lebanese 
+grid were published. These readings showed very high 
+instabilities not only on the lower end where it reached 
+48 Hz but also on the higher end of the spectrum where 
+it reached close to 52 Hz.
+When dealing with large-scale projects, instability 
+becomes a problem, particularly on the technical side 
+where it causes major issues for renewable energy 
+plants when attempting to synchronise with the national 
+grid. The frequency variations are the key parameters 
+to shed loads based on a pre-assigned priority grid 
+where the dispatching centre begins to shed loads from 
+the lowest priority and up until the frequency stabilises. 
+As Figure 13 shows, the transmission network shows 
+weak zones where it is not sufficiently developed 
+to handle power and frequency fluctuations from 
+renewable energy generation, especially in the southeast or heavily congested areas like Mount Lebanon. 
+This situation constrains the connection of large-scale 
+renewable energy projects. 
+Moreover, regional instability has deprived the Lebanese 
+grid of interconnection to the regional network, thus 
+forcing additional measures to maintain stability. 
+Based on the wind atlas for Lebanon (GH, 2011) or 
+solar irradiation measurements, the highest potential 
+for wind generation is concentrated in the Akkar and 
+Bekaa-Hermel regions, which are endowed with a 
+significantly high solar irradiation estimated at 20% 
+above other regions. These regions suffer from an 
+underdeveloped transmission grid, especially on the 
+medium voltage level where most of the substations 
+are saturated or the network is not developed. This is 
+essentially due to lower population density and weak 
+economic development. However, a new overhead 
+transmission line of 66kV is under construction with an 
+expected service date in 2020, pertaining to a capacity 
+of 145 MW. 
+Transmission investment needs were addressed in the 
+2013 master plan that was completely executed, and 
+updated with amendments in 2017 and approved by the 
+then government, where the major project focus was 
+on developing both the north and south loops of Beirut, 
+coupled with several investments in the transmission 
+infrastructure of other regions in the country. 
+The size of PV farms allows for the advantage of direct 
+connection to the distribution sector without going 
+through the transmission network, hence saving on 
+transmission losses and acting as a back-up load 
+replacing bulky generators. That said, the extension 
+of the low-voltage network to include future mediumscale PV farms being evaluated currently within 
+the scope of the 180 MW of PV farms may lead to a 
+reduction in losses.
+Recommendations:
+• Conduct a complete grid impact assessment
+Global best practices find that grid impact assessments 
+on the national level may assist in overcoming the 
+technical limitations to the integration of renewable 
+energy in the grid and reinforce long-term planning to 
+match the expected high levels of renewable energy 
+penetration in 2030, including grid reinforcement. 
+Moreover, dynamic stability studies are needed to 
+overcome grid challenges as highlighted in the REmap 
+section, in addition to the outcomes of IRENA’s 2017 
+report, Planning for the renewable future: Long-term 
+modelling and tools to expand variable renewable 
+power in emerging economies. 
+Specialised system studies may be conducted
+(IRENA, 2017c), including:
+• An assessment of the renewable energy carrying 
+capacity of the Lebanese transmission and distribution 
+grid under different geographical zones of interest. 
+Such a study would also present the current picture 
+of the grid’s inertial strength and flexibility limits, and 
+identify areas of reinforcement in terms of advancing 
+grid code, ancillary service regime and grid expansion 
+priorities.
+• A long-term generation adequacy study, appropriately 
+modelling committed renewable energy resources (an 
+important aspect often ignored in status quo planning 
+processes). The analysis could be performed for 2025 
+and 2030. Such an analysis would also inform policy 
+making to better incentivise future energy sector 
+investments. The aforementioned assessment would help EDL in 
+the realistic review of the ability of renewables to meet 
+the country’s power demand. This would also augment 
+the planning processes at EDL whereby, in addition 
+to transmission and generation planning, EDL can 
+specifically plan for the flexibility and stability aspects 
+of the grid.
+Moreover, power and frequency fluctuations can be 
+addressed by adding renewable energy plus storage 
+systems, as well as pumped hydro systems, which will 
+help harmonise the power output (Roy, 2019). This 
+was one of the main reasons behind the expression of 
+interest for PV with storage that was launched by the 
+MEW and the LCEC. IRENA finds that the introduction 
+of battery storage technologies can lead to multiple 
+benefits, including enhancing grid stability, addressing 
+curtailment concerns, along with the factors described 
+in Box 2 of the REmap section.
+As for hydropower concessions, the country could 
+re-evaluate existing agreements with the Litani River 
+Authority and new IPPs to include reserve capacity for 
+frequency control and ancillary services. 
+• Reinforce the transmission grid
+As highlighted in the REmap section, implementation 
+of the existing master plan is highly recommended 
+to ensure the full deployment and expansion of the 
+electricity grid in the various parts of Lebanon.
+It may result in an increase in interconnection capacity 
+with neighbouring countries to include easy energy flow, 
+successful synchronisation, and increased capacity that 
+will allow higher levels of penetration of renewables 
+and guarantee grid stability.
+• Deploy smart meters
+As a first step for the full deployment of smart grids, 
+smart meters could be deployed at the distribution 
+level to ease the connections of distributed RE projects. 
+Advanced smart charging, as described in Box 2 in 
+the REmap section, would allow for a more successful 
+integration of EVs by mitigating the peak created by 
+EVs under uncontrolled charging.
+• Strengthening human resources through 
+capacity building
+The socio-economic dimension of renewable energy 
+is critically important for emerging economies looking 
+to maximise the benefits from the transition in terms 
+of job creation and local value creation. Since the first 
+of renewable energy projects in Lebanon, EDL has 
+assigned a dedicated taskforce to oversee renewable 
+energy power generation
+Available human resources must be fully utilised and 
+current industrial policies leveraged for development 
+and training, aiming to continue building up the 
+necessary skills sets.
+Challenge B: Quality standards for off-grid 
+applications
+A lack of certification and standardisation of distributed 
+and off-grid solar systems in the local Lebanese market. 
+Recommendation:
+• Complete the set of standards
+IRENA finds that minimum-quality-specific technical 
+requirements for different applications (household 
+PV/industries/solar pumping/solar street lighting/
+community-led solar systems/micro grid systems) lead 
+to ample benefits. Lebanon could integrate capacity 
+building and skills training for different technologies, 
+including solar and wind, and ideally adopt a national 
+certification scheme for the design and installation of 
+renewable energies.FINANCING AND THE ROLE OF THE PRIVATE SECTOR
+Several financing incentives have been deployed to 
+encourage renewable energy investments. Despite the 
+strong presence of international finance institutions 
+and favourable loan schemes such as the NEEREA, 
+the Lebanon Energy Efficiency and Renewable 
+Energy Finance Facility (LEEREFF) and the Green 
+Economy Financing Facility (GEFF) burdensome 
+administrative procedures exist that need to be 
+addressed for both large-scale and small-scale 
+applications in order to achieve a successful allocation 
+of risks.
+Challenge A: Limited access to risk 
+coverage instruments
+EDL’s creditworthiness constitutes a major challenge 
+due to low electricity tariffs and high subsidies reflecting 
+strong off-taker risk. To help in addressing this risk, the 
+first PPAs positioned the MEW as the main signatory, 
+while EDL was the accessor through a letter of credit 
+signed by the central bank of Lebanon. 
+Limited access to guarantees by the MoF or private 
+guarantors restricts developers’ access to viable 
+financing. Considerable land area in the regions of 
+Akkar, Hermel and Bekaa – with the highest solar and 
+wind potential – do not have clear ownership licenses, 
+creating a major challenge to the development of largescale projects in these regions, as project developers 
+are responsible for land acquisition. 
+Recommendation:
+• Consider measures to facilitate development 
+and access to financing and risk mitigation 
+schemes
+The government may consider options to improve 
+the creditworthiness of EDL by considering specific 
+measures at existing electricity tariff and subsidy levels. 
+The replication of lessons learned by adopting 
+standardised PPA solutions may allow for easier access 
+to different guarantee schemes. In this context, IRENA’s 
+recently launched Open Solar Contracts – which provide 
+the necessary contractual templates required for the 
+bidding process, including the PPAs for solar projects 
+– offer a useful source of information for developing 
+standardised contractual templates or improving 
+existing ones (IRENA, 2018); see Box 5.
+The government could also consider the introduction 
+of guarantees to back up the PPAs. One option 
+would be the establishment of a fund to guarantee 
+renewable energy projects, possibly with the support 
+of international financing institutions (IFIs). This can 
+help mitigate risks beyond those to the off-taker, such 
+as those related to obtaining licenses.
+Given that risk mitigation instruments are not easy 
+to identify or obtain. IRENA has launched an online 
+service for developers, lenders and investors to 
+identify providers of risk mitigation instruments 
+(RMIs), including guarantees that developers can 
+access through an online matchmaking service 
+– Climate Investment Platform (CIP). Moreover, 
+IFIs can gradually move away from providing
+(concessionary) loans toward blended finance 
+(public–private co-financing trades) and risk mitigation 
+solutions to mobilise the local private sector rather than 
+replace it. 
+Renewables cut costs, 
+reduce emissions and 
+bring socio-economic 
+benefitsChallenge B: Limited interest from local 
+banks to fund small-scale distributed 
+projects
+Despite the increasing size of renewable energy projects 
+in Lebanon, Lebanese commercial banks (LCBs) are 
+losing interest in financing relatively small projects due 
+to high transaction costs, limiting the widespread use 
+of decentralised applications in the residential sector. 
+Recommendations:
+• Bundle renewable energy projects
+LCBs could also consider bundling of smaller-size 
+renewable energy projects to achieve the required 
+scale, thus reducing transaction costs while bolstering 
+financial institutions confidence in projects and 
+decreasing risks. However, standardisation is needed as 
+a pre-condition for the bundling of renewable energy 
+projects. 
+• Once projects are standardised and aggregated (e.g. 
+in a green bond), they could potentially be attractive 
+to non-bank investors as well, such as institutional 
+investors (insurance companies, pension plans, 
+sovereign wealth funds, etc.) which prefer large scale 
+investments through investment vehicles such as funds 
+and bonds. IFIs active in this region can also help create 
+(and provide first capital) for such investment vehicles, 
+to attract more financiers to the renewables sector.
+The energy sector today has a legacy of 
+predominantly large and technically complex 
+power generation projects. Due to their highly 
+intricate transaction structures, these projects 
+required customised and complex legal and 
+financial solutions, which have been inherited by 
+renewables. This has resulted in high transaction 
+costs and prolonged project development 
+timelines, hindering further capacity growth, 
+particularly in small to medium-scale renewable 
+energy projects. Therefore, redesigning prevailing 
+market practices in project development and 
+finance emerges as a pressing need and reforming 
+the overly complicated contractual framework 
+needs to be a priority.
+In response, IRENA and TWI have jointly launched 
+an initiative to simplify and streamline the 
+contractual framework for solar power to unlock 
+greater investments globally. This initiative (Open 
+Solar Contracts), which is supported by multiple 
+top-tier law firms, provides a standardised 
+contractual documentation solution that is 
+freely and publicly available and designed to be 
+universally applicable.
+The initiative presents templates for six core 
+contracts:
+The work on the contracts was supported by the 
+review of specific model clauses in order to deal 
+with cross-cutting matters in a consistent way and 
+to reduce complexity. These include:
+The resulting package of contract templates offers 
+a consistent legal documentation solution. The 
+templates are intended to be used in conjunction 
+with one another to ensure that the scope of work 
+and risks are appropriately allocated.
+The initiative aims to decrease transaction costs, 
+shorten project development timelines and 
+establish a balanced risk allocation between the 
+public and private parties. The initiative also aims 
+to facilitate due diligence processes by financiers 
+and lay the groundwork for project aggregation 
+and securitisation. These would eventually support 
+the rapid and widespread scale-up of solar power 
+at the level required.
+The contracts are available for review at:
+1. Governing law 4. Corruption and sanction
+2. Dispute resolution 5. Force majeure
+3. Grid connection principles
+1. Implementation agreement 4. Installation agreement
+2. PPA 5. O&M agreement
+3. Supply agreement 6. Finance term sheet
+Box 5 Open solar contractsChallenge C: Land acquisition limitations 
+and complex administrative processes
+Currently, all bids being launched by the MEW and the 
+LCEC allocate responsibility for securing the land to 
+project developers, inducing additional risks pertaining 
+to grid interconnection and resource availability.
+The documentation requirements for bids and EOIs are 
+complex and time-consuming, and the list of required 
+documentation is not clear. This does not help to 
+attract domestic and foreign investors into the sector. 
+Moreover, bidders do not have access to a template 
+of the resulting PPA contract, thereby increasing the 
+variables and perceived risk.
+Recommendations:
+• Consider conducting land-specific auctions
+So far, developers have had to take over the responsibility 
+for securing the land, introducing additional risks related 
+to grid interconnection and resource assessment. Some 
+studies have been conducted to identify suitable sites 
+in terms of land ownership (mostly publicly owned), 
+resource availability and proximity to the grid (such as 
+A. Berjawi et al., 2017 and AUB, 2019 as highlighted in 
+S.3.c ). Such plots could be considered in future rounds, 
+as the allocation of costs and the risks associated with 
+land to the government has the potential to significantly 
+reduce the prices resulting from auctions.
+Across the different auction design elements, policy 
+makers may consider the inherent trade-offs between 
+potentially the most cost-effective outcome and other 
+objectives including: ensuring projects are delivered on 
+time, integrating higher shares of variable renewable 
+energy, and supporting a just and inclusive energy 
+transition (IRENA, 2019b). For further information on 
+auction design, please see Annex 1.
+• Standardise requirements in the bidding 
+process
+IRENA suggests including standardised documentation 
+requirements and a transparent portal outlining the 
+details of auctions to encourage bidders.
+Standardised environmental practices for all the 
+different renewable energy technologies could be 
+adopted by working with international development 
+organisations to create a ‘bird migration protocol’ that 
+would meet all requirements for obtaining loans by IFIs.
+Challenge D: Inadequate governing 
+framework for hydropower concessions
+Since the concessions for large-scale hydropower 
+installations were formed prior to the establishment 
+of EDL, there are two main challenges: first, the 
+administrative framework needs to be revisited; second, 
+the tariffs are not attractive enough to incentivise 
+efficient production – apart from the Litani River 
+Authority, which was changed from USD 0.03 to 0.04 
+per kWh in 2017 and remains relatively low. 
+Recommendations:
+• Develop a new administrative framework 
+and re-evaluate the tariffs
+The existing framework governing water concessions 
+has been in place since the 1900s and ends in the 
+period 2020–2025, therefore a new framework adapted 
+to the current context, coupled with a re-evaluation of 
+the agreements of existing hydropower concessions 
+to include higher tariffs may motivate the concessions 
+to invest in maintaining and upgrading existing 
+hydropower stations. 
+• Consider the broader benefits of sustainable 
+hydro development
+The construction of dams based on sustainable practices 
+can provide value to Lebanon not only for electricity 
+generation but also other uses such as contributions to 
+irrigation as well as flood and draught control. During 
+planning efforts, proper quantification of the value of 
+hydro dams that account for these multiple uses of 
+water contribute to the enabling of the development 
+of hydropower with dams in Lebanon – as long as 
+one ensures that all hydro projects are planned and 
+developed according to the best social–environmental 
+practices.IRENA’s 2015 report Renewable energy auctions: A 
+guide to design presented a framework for analysing 
+auctions. The framework classified design elements into 
+four main categories: auction demand; qualification 
+requirements; winner selection; and sellers’ liabilities 
+(IRENA, 2015). The framework was updated in IRENA’s 
+latest report, Renewable energy auctions: Status and 
+trends beyond price, reflecting developments and 
+lessons learned in the dynamic renewable energy sector 
+in the intervening years. This is presented in Figure 44.
+Decisions made in the ‘auction demand’ category 
+determine what is to be procured, and under what 
+conditions. Crucial demand-side considerations include: 
+1) the product to be auctioned (energy, capacity, green 
+certificates, transmission lines, financial transmission 
+rights, ancillary services or a mix); 2) whether and 
+how the total demand is to be split among different 
+products (technologies, zones or other breakdowns); 
+3) the volume of the product to be auctioned and the 
+lower and upper limits on the project size; 4) whether 
+a pre-set auction schedule will be adopted and, if so, 
+the schedule of committed future auctions; and 5) 
+responsibility for demand-side commitments, which 
+includes evaluating the factors that assure project 
+developers of the off-taker’s creditworthiness.
+In defining the auction’s demand, the ambition for 
+a greater role of renewables in the energy mix must 
+be weighed against cost-effectiveness. When the 
+objective is to develop a particular technology, a 
+technology-specific auction can be selected. If the 
+goal is minimising costs, a technology-neutral auction 
+can be introduced, allowing competition between 
+technologies (e.g. in Brazil). When the objective is to 
+meet urgent capacity needs while retaining flexibility in 
+holding auctions, the total volume can be auctioned at 
+once, through a standalone auction. If the objective is 
+to further enhance investors’ confidence in a more costeffective outcome, the total volume auctioned can be 
+divided into different rounds in a systematic auctioning 
+scheme.
+The category of ‘qualification requirements and 
+documentation’ determines which suppliers will be 
+eligible to participate in an auction and includes 
+both the conditions participants must meet and the 
+documentation they must provide prior to the bidding 
+stage. Such requirements commonly relate to: 1) 
+documentation to confirm that the firm has the capacity 
+to develop the project; 2) site-specific documentation; 
+3) technical requirements for the project; and 4) 
+instruments to promote socio-economic development.
+Annex 1: Auction design and key factors influencing 
+price results
+Choice of the auctioned volume, 
+the way it is divided among 
+di
+erent technologies and 
+project sizes and the auction 
+category
+Minimun requierement for 
+participants in the auction 
+and necessary documentation
+Types of risk among 
+stakeholders and specific 
+rules to ensure high rate of 
+timely implementation of
+ awarded projects
+How information is collected, 
+winners are selected, and 
+contracts awarded
+AUCTION 
+DEMAND 
+WINNER 
+SELECTION AND 
+CONTRACT AWARD 
+PROCESS
+RISK ALLOCATION 
+AND 
+REMUNERATION 
+OF SELLERS
+QUALIFICATION 
+REQUIREMENTS 
+AND
+ DOCUMENTATION
+Figure 44: IRENA’s updated auction design framework
+Source: IRENA, 2019bQualification requirements are key determinants of 
+the competition in the auction and the prices offered 
+by developers. If requirements in terms of permitting 
+and documentation processes are too demanding, 
+the transaction costs incurred by developers can be 
+reflected in higher prices. Transaction costs can be 
+reduced through site- or project-specific auctions 
+where the government (or another entity) takes 
+on the responsibility of site selection, resource and 
+impact assessments, grid connection and obtaining 
+necessary permits (e.g. in Denmark, Germany and the 
+Netherlands). Moreover, while the requirement for an 
+extensive track record in the field can help ensure timely 
+project completion, it may also limit the participation 
+to traditional, large players in the sector, which in turn 
+affects the overall development of the sector.
+Qualification requirements can also be designed to 
+meet broader development goals related to domestic 
+industry development and job creation (e.g. in South 
+Africa and China).
+In the ‘winner selection and contract award’ process, 
+bidding and clearing rules are applied and contracts are 
+awarded to the winner(s). The subcategories include: 
+1) the formal bidding procedures, which set forth 
+how supply-side information is collected; 2) minimum 
+competition requirements, including provisions to 
+ensure participation by multiple, competing bidders; 
+3) winner selection criteria, dictating how bids will 
+be ranked and winners selected; 4) the clearing 
+mechanism, which defines rules for allocating contracts 
+based on accepted bids; and 5) payment to the winner.
+The winner selection process is at the heart of the 
+auction. The criteria for selection, ceiling prices and limits 
+on project size can significantly impact price outcomes, 
+with the possibility of facing the following trade-offs. 
+While a simple winner selection process based solely 
+on the price can improve cost competitiveness, other 
+objectives can be achieved by incorporating nonmonetary criteria, such as socio-economic benefits 
+and project location (e.g. in Mexico). In addition, when 
+the main objective is to ensure cost effectiveness, a 
+low ceiling price can be set, above which bids are not 
+considered; however, there is a risk that a sub-optimal 
+amount of renewable energy will be contracted as a 
+result, as such a low ceiling price lead to the rejection of 
+some reasonable bids. 
+A limit on the project size or on the volume that can be 
+won by one bidder also impacts the price. Such measures 
+were put in place in Zambia to diversify the portfolio 
+of generators and reduce risks in case projects do not 
+materialise. Auctions that have no limit on project size 
+can benefit from economies of scale, as in the case of 
+Dubai and Abu Dhabi in the United Arab Emirates, where 
+800 and 1 170 MW of solar was contracted, respectively, 
+at record-breaking prices in 2014 and 2016 respectively.
+Procedures in the category of ‘risk allocation and 
+remuneration of sellers’ define how risks (financial, 
+production and others) are allocated among stakeholders 
+(bidders, auctioneers, off-takers, financial institutions, 
+consumers, etc.). These risks, responsibilities and 
+obligations should be spelled out in auction documents. 
+This critical design element involves: 1) commitment 
+bonds (typically a bid bond and a construction bond) and 
+a schedule for contract signature and commencement 
+of commercial operations; 2) production and financial 
+risks (associated with inflation, currency fluctuations, 
+market prices and production hazards); 3) quantitybased liabilities, including settlement rules and penalties 
+for underperformance; and 4) penalties for delays and 
+underbuilding.
+In determining the sellers’ liabilities in the power 
+purchase agreement, there are various ways to allocate 
+financial, operational and production risks between the 
+project developer, the auctioneer and the off-taker. 
+Auction design features can limit the developers’ risks 
+resulting in lower prices, but these risks would then 
+be passed on to the off-taker. Currency, inflation and 
+production risks can be reduced through auction design 
+(e.g. in Chile). In addition, liabilities can be reduced to 
+encourage participation and increase competition, but 
+at the risk of facing project delays or underproduction. 
+Investor liabilities involve commitment to contract 
+signing and project completion as well as compliance 
+rules and penalties. 
+These are important measures to ensure that projects are 
+developed on schedule to meet the capacity needs of the 
+power sector. However, if these measures are too strict, 
+competition in the auction will be reduced, leading to 
+higher prices. There are innovative ways to address these 
+trade-offs, as in the case of Germany, where bidders 
+with building permits saw their bid bond and completion 
+bond requirements reduced by almost half.The LCOE for renewables is mainly driven by the capital 
+expenditure (CAPEX) that is initially taken based on 
+current average local market prices. The CAPEX for 
+renewables is then projected to 2030 by multiplying its 
+current values for each technology by the respective 
+percentage CAPEX variation between 2016 and 
+2030, as per IRENA estimates. CAPEX for hydro is an 
+exception and is taken as per the prices estimated in 
+the corresponding MEW EOI. The OPEX is taken as 
+a percentage of the CAPEX as per IRENA estimates 
+for each technology. LCOEs are then computed for 
+different discount rates: 7% to reflect good conditions, 
+10% to reflect fair conditions, and 13% to reflect poor 
+conditions.
+The worst case is assumed to correspond to the most 
+expensive LCOE for renewables – assumed to be the 
+one expected today in the Lebanese market. The best 
+case is assumed to correspond to the multiplication 
+of the current expected LCOE in Lebanon by the 
+percentage variation between the current LCOE, as per 
+IRENA values, and the cheapest LCOE for renewables 
+obtained using the 7% discount rate. The average case 
+is the mid-value between the two extremes, while the 
+overall results are summarised in Table 15.
+The LCOE for natural gas is mainly driven by the OPEX. 
+The first variable considered for computing the LCOE for 
+conventional generation is the discount rate, taken as 
+the same as for renewables, assuming market discount 
+rates are similar for conventional and renewable energy 
+projects. The second variable is the price of natural 
+gas, taken as per IRENA estimates for 2030: USD 5.2/
+MMBTU, USD 6.9/MMBTU, and USD 8.5/MMBTU to 
+reflect cheap, moderate and expensive gas prices. The 
+overall results are shown in Table 16; Table 17 shows 
+the overall savings under worst-case (LCOE1, cost1), 
+mid-case (LCOE2, cost2) and best-case (LCOE3, cost3) 
+scenarios obtained for the different combinations of the 
+LCOEs for renewable and conventional technologies.
+The worst-case scenario corresponds to the cheapest 
+LCOE for conventional and most expensive LCOE for 
+renewables. The best-case scenario corresponds to the 
+cheapest LCOE for renewables and most expensive LCOE 
+for conventional, while the average case corresponds to 
+the mid-values for LCOEs. The total savings correspond 
+in each case to the difference between the overall cost 
+of energy in the reference case and the overall cost of 
+energy in the REmap case.
+Annex 2: Assumptions behind the levelised cost 
+of electricity (LCOE)
+Table 15: Summary of estimated LCOE for 
+renewables in 2030
+Table 16: Summary of LCOE for conventional 
+sources
+Table 17: Summary of savings in the power sector: Reference case and REmap case15
+RES – 
+technology
+LCOE summary (USD ¢/KWh)
+Lower bound Mid-range Upper bound
+Solar PV – utility 2.44 4.47 6.50
+Wind – onshore 6.93 8.27 9.60
+Hydro 2.65 5.33 8.00
+Biogas 1.00 4.55 8.10
+LCOE summary (USD ¢/KWh) – conventional plants 
+(natural gas)
+Lower bound Mid-range Upper bound
+9.28 10.75 12.22
+REF 2030 Capacity 
+(MW)
+LCOE1
+(USD ¢/KWh)
+LCOE2
+(USD ¢/KWh)
+LCOE3
+(USD ¢/KWh)
+Generation 
+(GWh)
+Cost1 
+(USD m)
+Cost2 
+(USD m)
+Cost3 
+(USD m)
+Natural gas 4 909 9.29 10.76 12.23 27 432 2 548 2 951 3 355
+Wind 626 9.60 8.27 6.93 1 817 174 150 126
+Hydro 601 8.00 5.33 2.65 1 749 140 93 46
+Solar PV16 1 030 6.50 4.47 2.44 1 789 116 80 44
+Biogas 8 8.10 4.55 1.00 59 5 3 1
+Estimated total energy cost (USD million) 2 984 3 277 3 571
+REmap 2030 Capacity 
+(MW)
+LCOE1 (USD 
+¢/KWh)
+LCOE2 
+(USD ¢/KWh) 
+LCOE3 (USD 
+¢/KWh)
+Generation 
+(GWh)
+Cost1 
+(USD m)
+Cost2 
+(USD m)
+Cost3 
+(USD m)
+Natural Gas 4 909 9.29 10.76 12.23 23 393 2 173 2 517 2 861
+Wind 1 000 9.60 8.27 6.93 2 655 255 219 184
+Hydro 601 8.00 5.33 2.65 1 749 140 93 46
+Solar PV17 2 500 6.50 4.47 2.44 4 342 282 194 106
+Biogas 13 8.10 4.55 1.00 99 8 5 1
+Estimated total energy cost (USD million) 2 858 3 028 3 198
+Estimated total energy cost savings (USD million) 126 249 373
+15 Results are rounded to the nearest integer.Annex 3: Values considered for each sector
+Sectors* Base year (2014) Reference case (2030) REmap Case (2030)
+Buildings sector
+Space cooling N/A •	 Yearly growth for electricity 
+consumed: 3.46% N/A
+Space heating N/A
+•	 Yearly growth for oil and 
+gas consumed: 3%
+•	 Yearly growth for electricity 
+consumed: 3.46%
+•	 25% of the energy consumed from an 
+oil-based source for space heating is 
+replaced by heat pumps.
+•	 Assuming a boiler efficiency of 90% 
+and heat pump COP 3.5.
+•	 10% of the electrical energy used for 
+space heating from electric heaters 
+in existing buildings and 75% of the 
+electrical energy consumed for space 
+heating from electric heaters in new 
+buildings replaced by heat pumps.
+•	 Assuming that the electrical energy 
+consumed in buildings for space 
+heating is from electric heaters.
+Water heating N/A
+•	 Yearly growth for oil 
+consumed: 3%
+•	 Yearly growth for electricity 
+consumed: 3.46%
+•	 Yearly growth for solar 
+thermal energy consumed: 
+9.4%
+•	 Yearly growth for 
+geothermal energy 
+consumed: 19% 
+•	 10% of the electricity consumed for 
+water heating in existing buildings 
+and 75% of the electricity consumed 
+for water heating in new buildings 
+replaced by heat pumps.
+•	 Assuming that the electrical energy 
+consumed in buildings for water 
+heating is from electric boilers.
+•	 25% of the energy consumed from an 
+oil-based source for water heating, 
+assuming all of it is via conventional 
+boilers, is replaced by solar water 
+heaters in 2030. Assuming 90% boiler 
+efficiency.
+Cooking N/A •	 Yearly growth for gas 
+consumed: 3%
+•	 10% of the energy consumed from LPG 
+for cooking in existing buildings and 
+5% of the energy consumed from LPG 
+for cooking in new buildings replaced 
+by electric cooking.
+•	 Percentages are arbitrary and chosen 
+in a way so as not to increase the 
+overall demand for electricity beyond 
+its overall value in the reference case.
+•	 Assuming 35% efficiency for LPG 
+cooking.
+•	 Assuming 60% efficiency for electric 
+cooking.
+Lighting N/A •	 Yearly growth for electricity 
+consumed: 3.46% N/A
+Appliances N/A •	 Yearly growth for electricity 
+consumed: 3.46% N/A
+Industrial sector
+All except cement 
+industries N/A •	 Yearly growth for oil and 
+electricity consumed: 0.1% N/A
+Cement industries
+•	 Cement delivered 
+is locally 
+manufactured.
+•	 300 MJ/ton of 
+cement as electricity 
+needed.
+•	 3 325 MJ/ton of 
+cement as thermal 
+energy needed, 
+td dil 
+•	 Yearly growth for cement 
+delivered: 2.42%
+•	 The tons of delivered 
+cement in 2014 is the 
+average of the values 
+delivered in 2013 and 2015.
+•	 Assuming cement delivered is locally 
+manufactured.
+•	 Assuming 300 MJ/ton of cement as 
+electricity needed.
+•	 Assuming 3 325 MJ/ton of cement 
+as thermal energy needed, reported 
+under oil products.Sectors* Base year (2014) Reference case (2030) REmap Case (2030)
+Transport sector
+Road passenger 
+vehicles N/A N/A
+•	 3% of the projected passenger kilometre 
+in the reference case 2030 supplied from 
+electric vehicles.
+•	 Assuming occupancy rate 1.82 passengers 
+per car.
+•	 Assuming fuel economy 11.16 L/100 km.
+•	 5% of the projected volume of oil 
+consumed in the Reference case 2030 
+remaining after the introduction of EVs 
+supplied from bioethanol.
+•	 Percentages are arbitrary and chosen in 
+a way so as not to increase the overall 
+demand for electricity beyond its overall 
+value in the reference case. 
+Road (others)** N/A N/A N/A
+Power sector***
+Utility N/A
+•	 Electricity demand for 2030 
+estimated starting from 2017 
+value.
+•	 3% growth in demand until 
+2020, 8% drop in 2020, and 
+3% growth from 2020 to 
+2030.
+•	 Energy generated by the 
+utility in 2030 = 33 500 GWh, 
+assuming 24/7 electricity 
+supply from the utility and 
+8% T&D losses.
+•	 Assuming full shift towards 
+natural gas.
+•	 Assuming that the 
+renewables are given a 
+priority for generation. 
+•	 Assuming overall weighted 
+efficiency of 39.18% for CCGT 
+and OCGT plants assuming 
+they are running on natural 
+gas.
+•	 Assuming 61% of installed 
+conventional capacity is 
+CCGT running on natural gas 
+at an efficiency of 45%.
+•	 Assuming 39% of installed 
+conventional capacity is 
+OCGT running on natural gas 
+at an efficiency of 31%.
+•	 The Installed capacities for CSP and hydro 
+assumed to remain as proposed by the 
+corresponding studies in the reference 
+case 2030. Only wind and solar PV were 
+promoted to reach the 30% target of the 
+electricity consumed in 2030.
+•	 Assuming LCOE for solar PV farms is 
+cheaper than the LCOE for wind farms.
+•	 Around 375 MW of additional wind farm is 
+arbitrarily proposed to keep a diversified 
+mix. The rest of the capacity needed to 
+generate the renewable energy required 
+to reach the 30% target is promoted from 
+solar PV assuming a cheaper LCOE and a 
+relatively easier integration process.
+•	 Assuming the electricity generated in the 
+power sector is equal to the electricity 
+demand + 8% T&D losses. Therefore, 30% 
+of the electricity generated in the power 
+sector would be equivalent to 30% of the 
+energy consumed.
+•	 Assuming that the renewables are given 
+a priority for generation, the rest of the 
+electricity that needs to be generated to 
+meet the demand is supplied from OCGT 
+and CCGT plants running on natural gas.
+•	 The remaining assumptions are taken as 
+per the reference case 2030. 
+Autoproducers
+•	 Assuming 
+autoproducers 
+are mainly diesel 
+generators.
+•	 Assuming 
+autoproducer 
+consumption rate 
+is 3.8 L/KWh. 
+•	 Assuming 38.29 
+MJ/L energy 
+content of diesel. 
+•	 Diesel autoproducers 
+assumed to be phased out 
+in 2030.
+•	 RES autoproducers assumed 
+to be rooftop decentralised 
+solar PV: 150 MW. 
+•	 Diesel autoproducers assumed to be 
+phased out in 2030.
+•	 RES autoproducers assumed to be 
+rooftop decentralised solar PV: 500 MW, 
+assuming the market is able to take it. 
+Zero cost assumed when considering 
+investments and savings in the REmap 
+case.
+*N/A: No assumptions taken, data reported and used as per corresponding source.
+**Heavy duty vehicles, light duty vehicles, buses and motorcycles.
+***RES Autoproducers assumed to be decentralised rooftop solar PV.REFERENCES
+A. Berjawi, S.N., et al. (2017) “Assessing solar PV’s potential 
+in Lebanon”, Beirut.
+American University of Beirut (AUB) (2019). Bankability of 
+a large-scale solar plant in Tfail Lebanon, Beirut, Lebanon, 
+www.aub.edu.lb/ifi/Documents/publications/policy_
+briefs/2018-2019/20190502_bankability_large_scale_solar_
+power_plant_tfail_lebanon.pdf
+Bassil, G. (2010), “Policy paper for the electricity sector”, 
+Ministry of Energy and Water, Beirut. 
+CEDRO (2017), “Wind energy grid interconnection code for 
+Lebanon”,Country Energy Efficiency and Renewable Energy 
+Demonstration Project for the Recovery of Lebanon, UNDP, 
+Beirut. 
+CEDRO (2013), “Hydro-power from non-river sources”, Country 
+Energy Efficiency and Renewable Energy Demonstration 
+Project for the Recovery of Lebanon, UNDP, Beirut. 
+DREG (Small Decentralized Renewable Energy Power 
+Generation Project) (2017), “2017 Solar PV status report for 
+Lebanon”, UNDP, Beirut. 
+Electricité du Liban (EDL) (2018), Annual report on the 
+electricity sector bottle necks and factors of success for 2017, 
+Beirut, www.edl.gov.lb/decisions.php?did=3 
+EDL (2019), Interview provided to LCEC.
+Garrad Hassan (2011), “The national wind atlas for Lebanon”, 
+UNDP-CEDRO, Beirut.
+IEA (2019), “Data and statistics”, www.iea.org/statistics 
+(viewed in November 2019).
+IRENA (n.d.), Global Atlas for Renewable Energy, DTU Global 
+Wind Dataset 1 km onshore wind speed at 200 metres height”, 
+International Renewable Energy Agency, Abu Dhabi.
+IRENA (n.d.), Global Atlas for Renewable Energy, “World Bank 
+1km Global Horizontal Irradiation”,International Renewable 
+Energy Agency, Abu Dhabi. 
+IRENA (2019a), “Renewable power generation costs in 
+2018”, International Renewable Energy Agency, International 
+Renewable Energy Agency, Abu Dhabi. 
+IRENA (2019b), “Renewable energy auctions: Status and 
+trends beyond price”.
+IRENA (2018), Open Solar Contacts, https://opensolarcontracts.
+org/#contracts. 
+IRENA (2017a), “Renewable energy auctions: Analysing 2016”, 
+International Renewable Energy Agency, Abu Dhabi. 
+IRENA (2017b), “Renewable energy benefits: Leveraging local 
+capacity for onshore wind”, International Renewable Energy 
+Agency, Abu Dhabi. 
+IRENA (2017c), “Planning for the renewable future: Longterm modelling and tools to expand variable renewable power 
+in emerging economies”, International Renewable Energy 
+Agency, Abu Dhabi.
+IRENA (2017d), “Renewable energy benefits: Leveraging 
+local capacity for solar PV”, International Renewable Energy 
+Agency, Abu Dhabi.
+IRENA (2015), “Renewable Energy Target Setting”, 
+International Renewable Energy Agency, Abu Dhabi.
+LCEC (Lebanese Centre for Energy Conservation) (2019a),
+Directorate General of Oil provided by LCEC, Interview. 
+LCEC (2019b), Data provided by LCEC; unpublished.
+LCEC (2019c), “The Evolution of the Solar Water Heaters 
+Market in Lebanon, 2012-2017 and Beyond”, LCEC. 
+LCEC (2019d), “2018 Solar PV Status Report”, LCEC.
+LCEC (2018), “The first energy indicators report of the 
+Republic of Lebanon”, Beirut: MEW. 
+LCEC (2016), “National renewable action plan for Lebanon, 
+2016–2020”, LCEC.
+LCEC (2010), “National energy efficiency action plan, 2011–
+2015”, Beirut: LCEC.
+MEW (2019a), Announcement by the Lebanese Ministry of 
+Energy and Water (MEW) at the International Beirut Energy 
+Forum 2019, 25-27 September 2019.
+MEW (2019b), Power plant capacity and performance data 
+(provided by Ministry of Energy and Water, Lebanon), 2019.
+MEW (2019c), “Update of the electricity reform paper”, MEW, 
+Beirut. 
+Roy, P.K.S. (2019), “Investigations into best cost batterysupercapacitor hybrid energy storage system for a utility scale 
+PV array”, Journal of energy storage, Volume 22, 50–59.
+Sogreah-Artelia (2012), “Schema Directeur Hydro-Electrique 
+du Liban”, MEW, Beirut. 
+UNDP (United Nations Development Programme) (2016), 
+LCRP 2017–2020, UNDP, Beirut. 
+World Bank (2019a), “World Bank Data, Population”, February 
+12, https://data.worldbank.org/indicator/SP.POP.TOTL?end=20
+17&locations=LB&start=2000 (viewed in November 2019).
+World Bank (2019b), “World Bank GDP”, February 12, https://
+data.worldbank.org/indicator/NY.GDP.MKTP.CD?end=2017&loc
+ations=LB&start=2000 (viewed in November 2019).y 2020
+P.O. Box 236
+Abu Dhabi, United Arab Emirates
+Tel: +971 2 417 9000

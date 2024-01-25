@@ -1,0 +1,3002 @@
+File Name: FJI-NREP-2015-EN
+Year: 2015
+Country Name: Fiji
+Country Code: FJI
+Category: NREP
+Document Title: nan
+Exists?: Y
+Publication Date: 2015
+Start Year: 2015
+End Year: 2035
+Language: EN
+------------------------------------------------
+
+FIJI
+RENEWABLES READINESS 
+ASSESSMENTCopyright © IRENA 2015
+Unless otherwise stated, this publication and material featured herein are the property of the International 
+Renewable Energy Agency (IRENA) and are subject to copyright by IRENA. 
+Material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that 
+all such material is clearly attributed to IRENA and bears a notation that it is subject to copyright (© IRENA 2015).
+Material contained in this publication attributed to third parties may be subject to third-party copyright and 
+separate terms of use and restrictions, including restrictions in relation to any commercial use.
+About IRENA 
+The International Renewable Energy Agency (IRENA) is an intergovernmental organisation that supports 
+countries in their transition to a sustainable energy future, and serves as the principal platform for international 
+cooperation, a centre of excellence, and a repository of policy, technology, resource and financial knowledge 
+on renewable energy. IRENA promotes the widespread adoption and sustainable use of all forms of renewable 
+energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable 
+development, energy access, energy security and low-carbon economic growth and prosperity.
+Acknowledgements
+This is a joint publication of the Fiji Department of Energy (DoE), Ministry of Infrastructure & Transport and the 
+International Renewable Energy Agency (IRENA). It was prepared by IRENA with the assistance of a principal 
+consultant, Gerhard Zieroth, in coordination with the ministry and the DoE. The report incorporates views 
+submitted by national stakeholders in Fiji via an open, transparent and participatory consultation process, in 
+which all were given the opportunity to make their contributions.
+The following agencies in Fiji also provided valuable comments on the draft:
+• Clay Engineering
+• Fiji Electricity Authority (FEA)
+• Fiji Sugar Corporation (FSC)
+• Department of Forests
+• Ministry of Industry and Trade
+The Government of Fiji acknowledges the support provided by IRENA, including funding and technical 
+assistance for this important work, which involves identifying pathways towards further utilisation of renewable 
+energy resources in Fiji.
+Authors: Yong Chen (IRENA), Gürbüz Gönül (IRENA), Gerhard Zieroth (consultant)
+Disclaimer
+This publication and the material featured herein are provided “as is”, for informational purposes. 
+All reasonable precautions have been taken by IRENA to verify the reliability of the material featured in this publication. 
+Neither IRENA nor any of its officials, agents, data or other third-party content providers or licensors provides any warranty, 
+including as to the accuracy, completeness, or fitness for a particular purpose or use of such material, or regarding the noninfringement of third-party rights, and they accept no responsibility or liability with regard to the use of this publication and 
+the material featured therein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA, nor is it an endorsement 
+of any project, product or service provider. The designations employed and the presentation of material herein do not imply 
+the expression of any opinion on the part of IRENA concerning the legal status of any region, country, territory, city or area 
+or of its authorities, or concerning the delimitation of frontiers or boundariesFIJI 
+RENEWABLES READINESS
+ASSESSMENTFOREWORD
+from the Minister 
+for Infrastructure 
+and Transport 
+The Fijian Government remains committed to providing all Fijians with access to modern energy services which 
+are also clean, affordable and reliable. Fiji has fully embraced the Sustainable Energy for All (SE4All) initiative 
+and is pursuing a ‘Green Growth’ development pathway for the nation. As such the Renewable Energy Readiness 
+Assessment (RRA) is indeed timely and complements our collective efforts towards greater utilization of our local 
+and renewable energy resources. 
+The RRA process in Fiji has been an open and participatory process which undoubtedly has not only catalysed 
+much more interests in the energy sector but subsequently identified renewable energy investment opportunities 
+as well. The active involvement of all stakeholders has enabled the RRA report to be a detailed assessment of Fiji’s 
+domestic conditions for the development and deployment of renewable energy and identified some key issues 
+that need to be addressed for further development of renewable energy resources. Moreover, the identification of 
+specific areas of actions and implementable renewable energy projects that can help address the issues identified 
+is commendable. 
+Furthermore, the RRA report offers a renewed platform for action to all stakeholders in the form of five serviceresource pairs:
+• Grid electricity supply- geothermal energy
+• Grid supply- solar PV electric generation
+• Grid supply – biomass-fuelled electricity generation
+• Off-grid Rural Energy Supply - Solar
+• National and Regional Maritime Transport – more efficient vessels.
+As such, continued partnerships and concerted efforts for advancing actions on developing each service-resource 
+pair is critical to achieving Fiji’s SE4All goals; 80 % share of renewable energy in the electricity generation mix by 
+2020 and 25 % share of renewable energy in the overall energy mix by 2030. 
+Finally, the completion of the RRA report is yet another indication of Fiji’s readiness to work closely with all 
+stakeholders including development partners in further greening the energy sector in Fiji. In particular, I extend 
+my sincerest appreciation to the International Renewable Energy Agency (IRENA) secretariat for its continued 
+support and also for funding and providing technical assistance towards the successful completion of this report. 
+I commend every effort towards securing a sustainable energy future for Fiji. 
+Honourable Pio Tikoduadua 
+Minister for Infrastructure and Transport FOREWORD
+from the IRENA
+Director-General
+Across the Pacific, small island states face daunting costs for fuel imports and recurrent risk from global oil price 
+volatility. Fiji has resolved to improve its energy security and contribute to combatting climate change based on a 
+balanced portfolio of indigenous renewable energy resources. 
+The country’s Renewables Readiness Assessment (RRA), undertaken in co-operation with the International 
+Renewable Energy Agency (IRENA), has produced a holistic evaluation of current conditions in the sector and 
+identified key actions that can be taken to overcome barriers to increased renewable energy deployment. This is 
+a country-led process, with IRENA primarily providing technical support and expertise to facilitate consultations 
+among different national stakeholders. 
+Since 2011, more than 20 countries in Africa, the Middle East, Latin America and the Caribbean, and the Asia-Pacific 
+region have undertaken the RRA process, which generates knowledge of best practices and supports international 
+co-operation around the accelerated deployment of renewable energy technologies. Fiji, a strong and consistent 
+supporter of IRENA’s mission, is one of those countries. 
+As the costs of renewable energy technologies continue to decline, Fiji is increasingly able to make use of its full 
+range of renewable energy resources. These include large and small hydropower resources, as well as biomass, 
+geothermal, solar and wind energy. All of these can help to ensure a reliable, affordable energy supply. This, in turn, 
+will support economic growth, particularly in rural communities.
+The National Energy Plan tabled in 2014 offers a promising path that would lower the risks, both real and perceived, 
+for renewable energy investments. Reducing investment uncertainty is crucial for Fiji to create an enabling 
+environment in which renewable energy flourishes. The co-ordination of different government ministries, as well 
+as international donors, will be essential in order to meet the targets set out in the 2014 action plan for rural 
+electrification. 
+IRENA wishes to thank Minister Pio Tikoduadua and his team at the Ministry of Infrastructure and Transport for 
+their generosity in hosting this study, along with their valuable perspective on the energy challenge for small island 
+developing states. The Fiji Department of Energy provided solid support, while other governmental agencies also 
+participated actively. Their insights are much appreciated as we facilitate further RRAs in the Pacific region and 
+beyond.
+I sincerely hope that the outcomes of the consultations will strengthen Fiji’s pursuit of accelerated renewable 
+energy deployment. IRENA stands ready to provide continuing support in implementing the actions identified, as 
+the country strives to show the way forward to a sustainable energy future.
+Adnan Z. AminTABLE OF CONTENTS
+LIST OF FIGURES VIII
+LIST OF TABLES VIII
+ABBREVIATIONS IX
+EXECUTIVE SUMMARY XI
+I INTRODUCTION 1
+1.1 Country Background: Economy and Energy 1
+1.2 Renewables Readiness Assessment (RRA)
+Process in Fiji 4
+II ENERGY SECTOR AND RENEWABLE ENERGY 5
+2.1 Fiji’s Key Energy Challenges 5
+2.2 Final Energy Consumption 6
+2.3 Energy Demand Outlook 7
+2.4 Energy Supply 8
+2.5 Supply of Electric Power 9
+2.6 Renewable Electricity 11
+III ENABLING ENVIRONMENT FOR RENEWABLE
+ENERGY DEVELOPMENT 19
+3.1 Fiji’s Renewable Energy Targets 20
+3.2 Power Sector Development Plan 21
+3.3 Enablers for Investments in Renewable Energy 21
+3.4 Financing and Investment 26
+IV OPPORTUNITIES FOR DEPLOYMENT
+OF RENEWABLE ENERGY 27
+V RECOMMENDATIONS 33
+VI REFERENCES 37
+ANNEX 39LIST OF FIGURES
+Figure 1 Population Density by Province 1
+Figure 2 Fiji’s GDP Annual Growth Rates (1988-2013) 2
+Figure 3 Comparison of Annual Growth Rates 3
+Figure 4 Ratio of Fuel Imports to Total Merchandise Imports (2004-2012) 5
+Figure 5 Fiji’s Final Energy Consumption by Sector (1990-2010) 6
+Figure 6 FEA’s Projection for Supply-Demand Balance (new solar unit excluded) 7
+Figure 7 Electricity Tariff Rates, 2010 8
+Figure 8 Fiji’s Total Energy Consumption (1990-2010) 9
+Figure 9 FEA Service Supply Areas in Fiji 10
+Figure 10 Global Living Biomass Carbon Density Map, 2000 13
+Figure 11 Solar Energy Resource in Fiji 14
+Figure 12 Hot Springs Locations in Fiji 16
+Figure 13 Schematic Illustration of the Correlation of Policy Objectives 19
+Figure 14 Institutional Structure for Energy Sector Management in Fiji 25
+Figure 15 Investment Cost for Geothermal Power 41
+LIST OF TABLES
+Table 1 FEA’s Installed Electricity Generation Capacity 11
+Table 2 Fiji’s Geothermal Energy Potential 16
+Table 3 Current Status in Geothermal Licensing 17
+Table 4 Energy Policy Targets 20 
+Table 5 Maximum Retail Prices for Fuels April 2013 25ADB Asian Development Bank
+APEC Asia Pacific Economic Cooperation
+DoE Department of Energy
+FEA Fiji Electricity Authority
+FJD Fiji Dollar
+FSC Fiji Sugar Corporation
+GDP Gross domestic product
+GoF Government of Fiji
+GWh Gigawatt-hour
+IPP Independent Power Producer 
+IRENA International Renewable Energy Agency
+JBIC Japan Bank for International Cooperation
+ktoe Thousand tonne of oil equivalent 
+kVA Kilovolt-amp
+kWh Kilowatt-hour
+LPG Liquefied Petroleum Gas 
+MJ Megajoule
+MWe Megawatt electricity
+NEP National Energy Policy
+O&M Operations and Maintenance
+PV Photovoltaic
+RBF Reserve Bank of Fiji
+RRA Renewables Readiness Assessment
+SE4ALL Sustainable Energy for ALL 
+SOPAC South Pacific Applied Geoscience Commission
+SPC Secretariat of the Pacific Community
+ULP Unleaded Petroleum
+UNDP United Nations Development Programme
+USD United States Dollar
+USP University of the South Pacific
+TWh Terawatt-hour
+TJ Terajoule
+WBG World Bank Group
+ABBREVIATIONSLike other Pacific Island Countries, Fiji depends 
+heavily on imported petroleum-based fuels. The 
+fluctuation of global oil supply affects not only 
+energy security, but also energy prices. Over 
+2004-2008, international oil prices rose, drastically 
+increasing Fiji’s energy expenditure. In 2008, the 
+country spent as much as 17% of its gross domestic 
+product (GDP) on energy, up from 7% in 2003 (Fiji 
+Islands Bureau of Statistics, various years; Reserve 
+Bank of Fiji, various years). With a comparatively 
+large economy, Fiji spends even more on oil imports 
+than other Pacific Island countries do. 
+Interestingly, spending on imported fuels remained 
+as high as FJD 550 million (around USD 310 million) 
+or more annually in 2008-2011, even as international 
+oil prices declined by about a third. The extent to 
+which the country can benefit from further oil price 
+decreases remains to be seen. 
+Furthermore Fiji’s emerging industries, including 
+manufacturing, mining and construction, are energyintensive. At the same time, 4% of urban residents 
+and nearly 20% of rural dwellers still lack electricity 
+access, with remote locations and prohibitive costs 
+for grid extension posing a challenge.
+Total installed power generation capacity is 
+269 megawatts (MW), of which the Fiji Electricity 
+Authority (FEA) operates 94%, delivering 
+857 gigawatt-hour (GWh) in 2013. Most of this was 
+FEA grid-connected capacity, which accounted for 
+254 MW by 2013, some 30% higher than projected 
+in the 2010 FEA Power Development Plan for Fiji 
+(for 2011-2020). FEA’s current generation fleet 
+comprises about 55% hydro, 40% diesel and 
+heavy fuel oil and 1% wind, with the remaining 
+4% provided by two co-generators, Tropik Woods 
+Limited and Fiji Sugar Corporation (FSC). To 
+reduce environmental impact, FEA aims to replace 
+retired diesel gensets with renewable energy and 
+is looking for independent power producers (IPPs) 
+to provide additional hydro, geothermal, wind, 
+biomass or solar.
+Hydropower accounts for the largest share of 
+electricity supply. This makes the power system 
+more vulnerable to seasonable variation, extreme 
+weather events or severe drought. In the Pacific 
+environment, hydropower often faces a challenge 
+in providing reliable power supply (South Pacific 
+Applied Geoscience Commission (SOPAC), n.d.).
+EXECUTIVE SUMMARY
+Scaling up non-hydro renewables, such as solar, 
+wind and geothermal energy, would diversify the 
+energy mix and improve Fiji’s energy security. 
+Taking into account high import costs for fossil 
+fuels and the continued reduction of renewable 
+electricity generation costs, this ought to be an 
+economically attractive option (IRENA, 2013).
+A higher share of renewables in the power system 
+is achievable from a technical perspective. Supplydemand modelling during the drafting of the 
+National Energy Policy (NEP) 2014 indicated the 
+feasibility of obtaining more than 80% of electricity 
+from renewable sources by 2020 and 100% by 
+2030. Achieving these targets would require:
+1) a strong enabling environment, including for 
+the private sectors; and 2) risk-sharing/mitigation 
+mechanisms for geothermal energy, which entails 
+high costs and risks during exploratory drilling.
+Fiji is well endowed with a broad mix of renewable 
+energy resources, including hydropower, solar, 
+biomass, wind and geothermal energy. However, 
+the full potential remains to be fully assessed and 
+made public. 
+Scaling up both hydropower and non-hydro 
+renewables would contribute significantly to the 
+development of sustainable, reliable and affordable 
+energy that would support economic growth and 
+enhance energy security, particularly in rural areas. 
+Fiji’s Renewables Readiness Assessment (RRA) 
+took place against this backdrop, building on the 
+discussions around renewables-related issues, 
+as highlighted in Fiji’s energy policy review. This 
+RRA identifies key actions to mobilise resources 
+and offers guidance for fine-tuning Fiji’s future 
+renewable energy policy.
+The government’s vision for Fiji’s energy future in 
+Fiji became clearer in the draft NEP 2014, which 
+emphasises sustainable “resource efficient”, “cost 
+effective” and “environmentally sustainable” energy 
+development. The draft NEP 2014 set out policy 
+objectives in two tiers: first, affordability for all 
+Fijians; and second, sustainable energy supply with 
+less expenditure on imported fuels. 
+Replacing imported fossil fuels with indigenous 
+renewables has been identified as one of the key 
+instruments to achieve these policy objectives. Doing so cost-effectively depends on establishing 
+the enabling environment for renewable energy 
+development. For Fiji to attract private investments 
+in the power sector, all stakeholders must be 
+actively engaged. 
+The RRA team examined the general enabling 
+environment, as well as energy resources and 
+conversion technologies, described in this report 
+as service-resource pairs. Renewable-based 
+options are largely undeveloped or have yet to 
+be promoted or in Fiji. In some cases, renewable 
+energy options could complement “conventional” 
+service-resource pairs.
+The following service-resource pairs have been 
+identified as consistent with the draft NEP 2014 
+under consideration by Government of Fiji.
+1. Grid-based power/geothermal energy: 
+Geothermal energy could reduce electricity 
+supply costs on FEA’s grids. The World Bank 
+has agreed to provide technical assistance to 
+identify 2-3 major sites for geothermal-based 
+power generation in Fiji. 
+ 
+Given Fiji’s great potential for geothermal energy 
+development, the private sector has expressed 
+strong interest. However, barriers to investment 
+need to be effectively addressed. 
+ 
+Firstly, the independent power producers (IPP )
+framework is insufficient. Uncertainties about to 
+tariffs and other conditions of power purchase 
+agreements weigh heavily given significant 
+exploration risks. Geothermal power’s high 
+investment costs and associated exploration 
+risks pose a persistent challenge from the 
+perspective of both developers and financers. 
+In many markets, drilling costs are offset with 
+public resources, either through government or 
+multilateral development banks. 
+ 
+Uncertainty also remains with regard to 
+licensing. Four special prospector licences from 
+the Department of Mineral Resources were 
+pending while two others had lapsed. Licensing 
+has been under discussion in the review of the 
+Mining Act initiated in 2014. Stricter background 
+checks of companies that apply for prospector 
+licences may help to ensure that licensees 
+actually carry out the work after a licence is 
+issued. 
+ 
+Lastly, technical capacity is insufficient in 
+both the private and public sectors in Fiji; 
+the Department of Energy (DoE), FEA and 
+the Department of Mineral Resources all 
+lack personnel with specific knowledge and 
+experience in geothermal power development. 
+Capacity building is needed for the public 
+sector to oversee geothermal development.
+2. Grid-based power/solar photovoltaic (PV):
+On-grid PV installations are slowly gaining 
+popularity in Fiji, given distributed solar PV’s 
+positive impact through reducing transmission 
+and distribution losses, lowering the need for 
+fossil fuel in power generation, enhancing energy 
+security and leveraging significant investment 
+from the private sector. Distributed solar PV 
+systems work well with pumped storage.
+ 
+Grid-connected solar power has considerable 
+potential. Mobilising this, however, require 
+enabling conditions. For instance, a net 
+metering arrangement or viable feed-in tariffs 
+could unleash a boom in privately financed 
+solar generation, with private households to 
+participating in roof- mounted PV generation.
+ 
+The favourable generation cost of solar PV 
+has allowed commercial investors, mainly in 
+the tourism industry, to install roof-mounted 
+solar to partially generate their own electricity. 
+Without a net metering framework or a viable 
+feed-in tariff, only those FEA clients with a 
+high and stable daytime load can achieve 
+commercial viability with such investments. 
+3. Grid-based power/biomass-fuelled generation: 
+Fiji has a wide range of feedstock, including 
+bagasse from the sugar industry and forestry 
+residues such as sawdust and wood chips, 
+which have been already been used for 
+generating power and heat. 
+Fiji is also looking into other biomass resources, 
+including waste-to-energy in particular. A study 
+for waste-to-energy by the United Nations 
+Development Programme (UNDP) in 2014, 
+conducted assessed the amount and type of 
+resources available, covering municipal solid waste, 
+wastewater, livestock waste, non-hazardous 
+industrial organic waste, and agricultural residues. 
+Scaling up such applications would also help 
+to address the environmental challenges of 
+population growth, rapid urbanisation and 
+changing consumption patterns.
+4. Off-grid rural power supply / solar energy: 
+Off-grid solar PV systems have been installed in Fiji since the 1980s. Given the significant 
+decline of system costs and the continued 
+advancement of the technology, solar PV has 
+become the DoE’s preferred rural electrification 
+option for areas without grid access. The Fiji DoE 
+has supported the installation of approximately 
+600 mini-grids powered by diesel engines in 
+the power range of 5-35 kilovolt-amps (kVA). 
+Most of the existing mini-grid diesel generation 
+capacity is non-operational or underperforming, 
+partly because of poor maintenance. 
+ 
+Hybridisation could relieve villagers from the 
+burden of high operation and maintenance 
+(O&M) and volatile fuel costs. Existing mini-grids 
+could be made more environmentally and 
+economically sustainable through hybridisation 
+with solar PV systems with battery storage. 
+ 
+Solar hybridisation of diesel grids should be 
+undertaken in the framework of the rural 
+electrification master plan, with analysis to 
+determine the optimal ratios of diesel to solar 
+PV generation in various settings. 
+5. More efficient vessels/renewable power 
+for maritime transport: Maritime transport, 
+accounting for about 22% of fossil-fuel use in 
+Fiji, has attracted attention as a sector where 
+significant quantities of fuels could be conserved 
+through new technologies and processes. 
+Regional organisations such as the Secretariat 
+of the Pacific Community (SPC) and research 
+institutes such as University of the South Pacific 
+(USP) are looking into different options for 
+fuelling maritime transport with renewables. 
+However, USP and SPC hold different views 
+with regard to renewable-assisted maritime 
+transport. A common strategy is needed for 
+investments in renewables in the maritime 
+sector.
+Recommendations
+Based on the service-resource pairs identified, the 
+following are recommended as priority actions: 
+• The Government of Fiji is urged to endorse 
+and implement the draft NEP 2014 as quickly 
+as possible. Endorsement would reduce 
+uncertainty and risk in the eyes of prospective 
+energy sector investors and lenders.
+• Efforts should be focused on creating an 
+enabling environment to attract private sector 
+investment to the renewable energy sector. This 
+should start with the removal of uncertainty for 
+prospective investors and their lenders.
+• Key legislation should be reviewed and 
+harmonised in order to improve the legal 
+framework for renewable energy development. 
+Changes could include removing conflicts of 
+interest in regulation. 
+• As suggested by prospective investors, a 
+Renewable Energy Investors Association should 
+be formed, as private sector participation in 
+renewable energy development requires a 
+stronger voice.
+• Coordination among Fijian government 
+ministries on rural electrification should be 
+facilitated through the establishment of a 
+National Energy Coordination Committee and 
+the restructuring of roles and responsibilities, 
+as suggested by the draft NEP, 2014. Effective 
+inter-ministerial coordination is crucial to 
+meet targets set out in the draft NEP 2014 and 
+associated Strategic Action Plan. Additionally, 
+there is a need for inter-donor coordination. 
+Donors interested in active engagement could 
+formulate a consortium to support the Fijian 
+DoE in developing the rural electrification 
+master plan.
+• The potential for renewable-powered maritime 
+transport requires further study. Knowledgesharing with like-minded islands, such as 
+Tonga, should be encouraged. About 20% 
+of Fiji’s imported fuel is used for maritime 
+transportation. Widespread biofuel adoption 
+would depend upon feedstock availability, 
+management and production in comparison 
+with the cost of imported fuels. 
+• Geothermal energy development, deserves 
+its own regulatory framework. This could 
+include more detailed and specific regulations 
+highlighting benefits as well as risks for such 
+investments.
+• Drilling risks for geothermal energy projects 
+need to be minimised. Some risk mitigation 
+mechanisms are available. A geothermal 
+development risk mitigation fund ought to 
+be developed with support from multilateral 
+development banks, such as the World Bank 
+and ADB. A local fund management unit/office 
+should be established to ensure that the fund is 
+properly managed.Source: www.spc.int/prism/fiji/index.php/1996-pop-gis-maps/47-census-and-surveys/population-census 
+I. INTRODUCTION
+1.1 COUNTRY BACKGROUND: ECONOMY AND ENERGY
+Fiji is a large tropical island country in the South Pacific Ocean, with a population 
+of 881,000 and a land area of more than 18,000 square kilometres (UNdata, n.d.). 
+Amongst 332 islands, nearly one-third are inhabitable, but the two largest islands 
+– Viti Levu and Vanua Levu – accommodate about 70% of Fiji’s total population 
+and account for 87% of the total area (Secretariat of the Pacific Community (SPC), 
+2008), as shown in Figure 1. 
+Fiji is classified as an upper middle income country1 by the World Bank (n.d.) and 
+represents one of the most developed economies in the Pacific Island region. As 
+shown in Figure 2, Fiji has recorded an average annual gross domestic product (GDP) 
+growth rate of about 2% over the past 25 years, despite volatile economic performance. 
+Although Fiji’s GDP growth rates over the period 2006 - 2012 have been well below 
+the government’s target of 5% (Asian Development Bank (ADB), 2013), the trend since 
+2010 has been upward, thanks to the effective reform measures taken between 2006 
+and 2014, which included introducing competition to the telecommunications market 
+and customary land-leasing business. These reforms, along with substantial tax cuts 
+and other fiscal stimuli, offered a much-needed driving force to economic growth 
+(The Economist Intelligence Unit, 2012). In addition, ongoing structural changes in the 
+economy indicate a shift of economic drivers from the conventional sectors, such as 
+agriculture, forestry and fisheries, towards manufacturing, mining,2
+ construction and 
+tourism, thereby driving up investments in these sectors. For example, new lending 
+for investments doubled in 2013 to meet the demand for capital in the developing 
+construction and real estate sectors, and the government invested 30% more than the 
+previous year in upgrading the road systems.
+Figure 1: Population Density by Province
+1 Per capita GDP in 2013 was USD 4,572, while the GDP amounted to just above USD 4 billion for the same year. 
+The boundaries and names shown on this map do not imply any official endorsement or acceptance 
+by IRENA.The Government of Fiji raised its projection for 
+GDP growth rate in 2014 to 3.8%, an increase of 
+nearly 1% from previous estimates, and set 2.4% as 
+a target growth rate for 2015 (Reserve Bank of Fiji 
+(RBF), 2014). Asian Development Bank (ADB) and 
+World Bank projections remain unchanged, at 2.8% 
+and 3% for 2014 and 2015 (ADB) and 2.4% for both 
+2014 and 2015 (ADB, 2014; World Bank, n.d.).
+On the other hand, the emerging industrial sectors 
+mentioned above, such as manufacturing, mining 
+and construction, are energy-intensive. Should the 
+pipeline projects in those sectors be developed 
+and come to operation, it would have significant 
+implication for Fiji’s energy sector. However, Fiji has 
+underperformed in attracting private investments,3
+particularly in the energy sector, where private 
+sector investment could not be easily mobilised. 
+Although private investment overall started to 
+pick up in 2013, private investment in utility-scale 
+projects remained minimal. There was no private 
+investment in large-scale power projects feeding 
+into the national electricity grid. Private investors 
+were involved in projects to create: grid-connected 
+solar photovoltaic (PV) systems up to 200 kW; 
+the Fiji Sugar Corporation’s (FSC) 10 MW biomass 
+plant; and another 10 MW biomass plan. However, 
+the investment framework for private participation 
+in renewable energy projects clearly needs 
+improvement. 
+As described above, the economic growth has been 
+fuelled largely by public investment in industrial 
+sectors and the growing levels of economic activity 
+from, for example, the growing number of tourists 
+in Fiji. Therefore, the employment opportunities are 
+concentrated in the public sector or subsistence 
+activities, mostly in urban areas. 
+However, over the past 15 years, urbanisation has 
+been slow, showing only 8% increase over that time 
+span, from 47% living in urban areas in 1998 to 53% 
+in 2013 (FAOSTAT, n.d.; UNdata, n.d.). From 1998 
+to 2008, Fiji’s population has grown at an average 
+annual rate of 0.5%, while from 2008 to 2013 the 
+rate was close to 1%. The labour force experienced 
+a much higher growth rate, comparatively, as 
+shown in Figure 3. According to the latest findings 
+from the International Monetary Fund (IMF) and 
+the data from the World Bank, the unemployment 
+rate has remained steady at around 8-9% (Trading 
+Economics, 2015).4 ADB reckoned that the 
+economic growth has to be strong enough to 
+absorb about 20,000 new entrants annually into 
+the labour market (ADB, 2014). Given this reality, 
+job creation remains an important task on the 
+governmental agenda.
+Poverty is still considered a serious development 
+issue in Fiji; 31% of the population was under the 
+poverty line in 2011 (World Bank, 2011), compared 
+with 35% in 2003. Reductions in poverty took 
+place mostly in urban areas (declining from 28% 
+to 19%), while rural areas showed an increase in 
+poverty, from 40% to 43%, during the same period 
+(Fiji Bureau of Statistics, 2012a). The imbalance 
+Source: based on World Bank data; http://data.worldbank.org/indicator/NY.GDP.PCAP.KD.ZG?page=5
+Figure 2: Fijis GDP Annual Growth Rates (1988-2013)
+3 Total investment as a percentage of GDP was 15
+6% over the period 2006 - 201210% lower than the government target of 25% (ADB2013)between urban and rural areas is attributed 
+to a decline in agricultural activities and to 
+underdeveloped infrastructure (Government of 
+Fiji, 2014). It is also reflected in marked differences 
+in access to electricity and modern fuels. The 
+electrification rate has continued to improve over 
+the years, however, due to the Rural Electrification 
+Programme of the Government of Fiji. Currently, 
+the electrification rate is around 96% in urban and 
+82% in rural areas, according to the 2007 Census 
+(Fiji Bureau of Statistics, 2012b).
+In this context, there is clearly an urgent need for 
+creating more opportunities for private sector 
+engagements and for the rural population, in order 
+to help the country continue its economic growth, 
+reduce poverty and promote more inclusive 
+growth. Towards this end, developing a sustainable, 
+reliable and affordable energy sector will allow for 
+economic growth and enhanced energy security, 
+particularly within rural regions of the country. 
+Over the years since the first National Energy Policy 
+(NEP) was established in 2006, Fiji’s energy sector 
+has developed significantly but also encountered 
+new challenges, including rising expenditures 
+on fuel imports when global oil prices surged, as 
+well as the continued risk of volatility, entailing 
+a policy challenge even as oil prices receded in 
+2014‑2015 The dependency on imported fuel has 
+been identified as one of the key challenges that 
+Fiji has to address to ensure continued social 
+development and economic growth. In 2013, the 
+government commissioned the draft of an updated 
+energy policy (NEP, 2014), along with its associated 
+Strategic Action PlanIn comparison to the NEP 
+policy objectives, but also set specific targets 
+for 2015, 2020 and 2030, respectively, which are 
+closely aligned with the Sustainable Energy for 
+All (SE4ALL) initiative of the United Nations. In 
+tandem with development of the draft NEP 2014, 
+a Strategic Action Plan was drafted, in which five 
+strategic policy interventions for renewable energy 
+development were identified. 
+Achieving these energy targets requires not only 
+identifying strategic areas but, more importantly, 
+a list of articulated key actions and a portfolio of 
+renewable energy projects that can be successfully 
+implemented. To make these goals attainable, a 
+comprehensive assessment of the current status of 
+renewable energy development and the key issues 
+that need to be addressed is essential. 
+Against this backdrop, the Renewables Readiness 
+Assessment (RRA) was launched and implemented 
+by the Fiji Department of Energy (DoE) and the 
+International Renewable Energy Agency (IRENA). As 
+part of the RRA study, consultancy work was carried 
+out by an independent consultant and facilitated by the 
+DoE to collect data and conduct interviews. This was 
+followed by an RRA multi-stakeholder consultation 
+workshop, at which the pre-identified issues were 
+discussed and the key findings were verified. 
+The remainder of this report describes the RRA 
+process, presents the current development status of 
+the renewable energy sector, highlights the key issues 
+to be addressed in order for the country to scale up 
+the deployment of renewable energy in the future 
+and provides a list of recommended actions that 
+could be undertaken in close collaboration with other 
+Figure 3: Comparison of Annual Growth Rates1.2 RENEWABLES READINESS 
+ASSESSMENT (RRA) PROCESS IN FIJI
+The RRA for Fiji furthers the discussion around the 
+renewables-related issues highlighted in Fiji’s energy 
+policy review, and thereby contributes to fine-tuning 
+Fiji’s future renewable energy policy and identifies 
+key actions to mobilise necessary resources.
+More specifically, the RRA aims to:
+• Improve the understanding on the current status of 
+renewable energy development in Fiji by conducting 
+a comprehensive review of the sub-sector;
+• Identify and analyse the critical and emerging 
+issues associated with and arising from the 
+development of Fiji’s energy sector in general 
+and the utilisation of renewable energy 
+resources in particular;
+• Present the various opportunities for scaling 
+up renewable energy development and 
+deployment in Fiji while at the same time 
+discussing the main barriers to developing an 
+enabling environment to allow implementation 
+of draft NEP 2014, in order for those 
+opportunities to be realised; 
+• Put forth a portfolio of articulated actionable 
+initiatives – developed jointly by participating 
+stakeholders – that can capitalise on the 
+renewable energy development opportunities 
+revealed through examination of Fiji’s renewable 
+energy sub-sector and extensive discussions 
+with multiple stakeholders;
+• Outline the follow-up steps to ensure the 
+actions identified can be carried out within the 
+near- and mid-term timeframe.
+In Fiji, the RRA process was led by the Fiji DoE, in close 
+collaboration with the IRENA RRA team. Building 
+on key findings of the Fiji energy policy review, a 
+background paper was developed and circulated 
+amongst the most relevant stakeholders for an 
+effective multi-stakeholder consultation process.
+Interviews were conducted before and during 
+the RRA workshop to gain different perspectives 
+on the pre-identified issues and seek the advice 
+and thoughts of stakeholders on how to tackle 
+those issues. This is an important complementary 
+function in the methodology, to gain in-depth 
+insight, particularly from those at the frontlines who 
+were unable to participate in the RRA workshop. 
+An RRA consultation workshop was organised 
+in March 2014 in Suva, Fiji. It was based on 
+a broad, inclusive consultation process that 
+involved all key stakeholders – public institutions 
+(including key ministries and national energy 
+authorities and agencies), the private sector, 
+non-governmental organisations, multilateral and 
+bilateral funding agencies, development partners, 
+civil society representatives and members of 
+academia, as well as senior representatives of 
+IRENA. This not only ensured synergies, but, more 
+significantly, facilitated harmonisation among the 
+stakeholders involved in order to help deliver Fiji’s 
+goals.
+The RRA outcome presented here draws on the 
+development process for the draft NEP 2014 and 
+the associated analytical work for the SE4ALL and 
+Legislative Gap Analysis reports. Although the 
+RRA ensures that its analysis is consistent with 
+these documents, it aims to provide guidance 
+to the Government of Fiji for concrete actions in 
+selected priority areas.2.1 FIJI’S KEY ENERGY CHALLENGES
+Like other Pacific Island countries, Fiji is substantially dependent upon imported 
+petroleum-based fuels. The fluctuation of the global oil supply affects not only 
+the country’s energy security but also energy prices. Fiji was historically hit twice 
+by the shortage of oil supply caused by two energy crises in the 1970s – the 
+Organisation for Economic Cooperation and Development (OECD) embargo and 
+the Iranian revolution, which accounted for an average 8% increase in the price of 
+energy – and the Iraq war in 2003, which caused an average 6.6% increase over 
+2001-2005 prices (Kumar, 2011).
+Global oil prices have been volatile and rose substantially in 2004-2008, 
+resulting in a drastic increase of Fiji’s energy expenditures. Fiji spent as much as 
+FJD 744 million on fuel importation in 2008,5 accounting for 34% of total 
+merchandise imports (Asian and Pacific Centre for Transfer of Technology — United 
+Nations Economic and Social Commission for Asia and Pacific (APCTT-UNESCAP), 
+2010; World Bank data — fuel imports, especially the percentage of merchandise 
+imports) or 17% of its GDP, compared with 7% in 2003 (Fiji Islands Bureau of 
+Statistics, various years; RBF, various years). Fiji’s total US dollar expenditures on 
+imported fuels has been far above that of other Pacific Island countries, given the 
+scale of its economy and, consequently, greater reliance on imported oils. 
+Interestingly, spending on imported fuels did not decline significantly, but 
+remained as high as FJD 550 million or more annually in 2008-2011, despite the 
+drop in oil price by about one-third from the record high (Saula, 2012). The ratio of 
+fuel imports to total merchandise imports since 2006 has remained close to 30%,6
+except for a slight dip in 2009, as illustrated in Figure 4. 
+II. ENERGY SECTOR AND 
+ RENEWABLE ENERGY 
+Figure 4: Ratio of Fuel Imports to Total Merchandise Imports (2004-2012) 
+Source: World Bank Data, accessible at http://data.worldbank.org/indicator/TM.VAL.FUEL.ZS.UN
+5 Equivalent to FJD 1.2 billion at the currency exchange rate of USD 0.62/1 FJD (2008). 6 
+The challenges arising from volatile and comparatively high oil prices will remain 
+huge if business continues as usual. The country’s specific challenges would become 
+even more pronounced if economic growth accelerates faster than expected.2.2 FINAL ENERGY CONSUMPTION
+In Fiji, the transport and industrial sectors have 
+dominated the country’s energy usage. The 
+transport sector7 had been the largest energy 
+consumer, accounting for more than half of the 
+total consumption, until 1999, when final energy 
+consumption by the industrial sector grew 
+by more than 50%, mainly due to the strong 
+growth in such major industries as agriculture, 
+tourism, manufacturing, construction, and mining 
+and quarrying. However, the transport sector 
+consumes 64% (land 16%, air 26% and marine 22% 
+respectively) of the total of imported petroleum, 
+thus remaining the top consumer of petroleum 
+products, according to Fiji Bureau of Statistics. 
+The energy consumption by the residential sector 
+has been growing slowly over the 30 years from 
+As economic activity has picked up considerably 
+over the last two years and is likely to continue 
+the upward trend, energy demand is likely to 
+increase for both petroleum-based fossil fuels 
+and electricity. Furthermore, it has been widely 
+acknowledged that the mining industry could be a 
+key driver for Fiji’s future energy demand, although 
+recent energy consumption from the mining 
+industry has remained largely unchanged. 
+However, it should be noted that the current 
+understanding of final energy consumption 
+was based on data that might not be accurate 
+and verifiable. Acquiring reliable disaggregated 
+energy consumption data has been a challenge, 
+as described in the report entitled SE4ALL 
+Rapid Assessment and Gap Analysis, which was 
+published in 2014 by the Government of Fiji. 
+1990-2010. This sector is starting to become a 
+key driver for energy demand due to growing 
+electricity consumption by households. 
+Figure 5 illustrates the strong growth in energy 
+consumption from 2001 to 2005, which showed 
+a 3% annual growth rate, tripling the average 
+rate over the period 1991-2000. This means these 
+five years have been, on average, the highest in 
+energy elasticity8
+ since 1970. The same period 
+also experienced the second highest annual 
+increase in energy prices, at 6.6%, owing partly 
+to the oil supply disruption caused by the Iraq 
+war in 2003. Consequently given the increase in 
+oil prices starting in 2004, keeping GDP growing 
+with the same level of energy elasticity was not 
+only difficult but irrational. This could partially 
+explain why energy consumption turned 
+downwards in 2005. 
+Submission of transparent and systematic energy 
+consumption data has yet to be established. 
+The SPC, in collaboration with other likeminded partners, such as the Fiji DoE, has been 
+endeavouring to develop a Pacific Regional 
+Data Repository aimed at “supporting Pacific 
+governments and their development partners 
+working in the energy sector by facilitating access 
+to up-to-date, reliable energy data and project 
+information.”9
+ Before that Data Repository is 
+fully established and functional, estimation is 
+one common approach applied in most Pacific 
+countries when actual statistical data cannot be 
+made available, as is the case in Fiji. 
+When it comes to rural off-grid electricity, 
+consumption has been low, mainly due to 
+constraints presented by the combined lack of 
+7 The coverage includes road, marine and aviation users. 
+Based on: United Nations Statistics Division (UNSD), 2011.
+Figure 5: Fiji’s Final Energy Consumption by Sector (1990-2010)10 The cost of generating electricity is approximately USD 1.13/kWh. 11 With an average total daily demand of 450 kWh per day, a total island population of 2,400 and average household size of 5, average
+household demand on this island — which is served by 20 isolated mini- grids for a total installed capacity of 472.5 kilovolt-amps 
+(kVA) — has been found to be 0.95 kWh per day (SOPAC, 2007) 12 The outlooks of Fiji’s future energy demand presented in this section were charted by APEC and ADB, and FEA, respectively, in 
+independent studies. 13 Although the IEA mentioned in its World Energy Outlook, 2013 that the relationship between these two variables was observed to
+be weakening in many countries and regions (IEA, 2013), many studies in the literature revealed the causality was dependent upon
+such factors as the methodologies and approaches used for analysisthe level of income of the studied nationand the time horizon –
+availability of technologies, demand and affordability. 
+In rural Vanua Levu and Ovalau, average annual per 
+capita electricity consumption has been as low as 
+290 kilowatt-hours (kWh) and 260 kWh, respectively. 
+The solar home systems that were installed under 
+DoE’s rural electrification scheme were in the range 
+of 100,135 watts (W) until 2010, while more recent 
+ones had capacity of 270 W, enough to satisfy an 
+average demand of approximately 1 kWh per day. 
+Electricity consumption in the areas that are 
+covered by diesel-powered mini-grids has also 
+been constrained, primarily by limited supply hours. 
+Such schemes typically operate for only about 4-6 
+hours a day due to the high fuel costs,10 and are used 
+mostly to provide lighting in the evening hours. 
+These restrictions severely constrain productive 
+use of electricity, as commercial demand (e.g. 
+workshops, retail) typically occurs during the 
+daytime. For most of the more than 600 mini-grids 
+in Fiji, there is very little operational data available. 
+The study on the rural diesel mini-grid schemes 
+on Rotuma Island undertaken by South Pacific 
+Applied Geoscience Commission (SOPAC), part 
+of the Secretariat of Pacific Community in 2007 
+revealed that the average electricity consumption 
+in rural mini-grids is below 1 kWh per day per 
+household.11
+2.3 ENERGY DEMAND OUTLOOK12
+The extent to which future energy demand 
+is correlated to GDP growth has significant 
+implications for forecasting energy demand.13 
+Based on the analysis of relevant data from 1970 
+to 2005, Kumar (2011) concluded that for Fiji “….in 
+the short-run, there is causality running from 
+GDP to energy consumption….” suggesting that 
+GDP growth causes the increase of future energy 
+demand. This result is in line with findings of Huang, 
+Hwang and Yang (2008),14 showing that economic 
+growth leads to greater energy consumption for 
+lower and upper middle income countries.15
+As predicted by ADB, the World Bank and 
+RBF, the short-term economic growth 
+looks positive. Future demand for electricity 
+in the main Fiji Electricity Authority
+(FEA) grids was predicted to grow, according to 
+FEA’s Power Development Plan of 2011, for both peak 
+demand and energy. For the period between 2011 and 
+2014, an annual growth rate of 7% was forecast, based 
+on 100% electrification in 2015. Growth by 3% annually 
+was estimated between 2015 and 2020, based on 
+annual population growth of 0.8% and accelerated 
+economic growth (FEA, 2011). Accordingly, total 
+electricity and peak load demand are expected 
+to reach 1,352 gigawatt-hour (GWh) and 256 MW, 
+respectively, in 2020. 
+FEA has recently revised these forecasts in light of 
+the flat demands observed in the past years. In the 
+revised forecast, demand remains flat, reaching just 
+850 GWh in 2015, shown in Figure 6, which is 26% 
+lower than projected in the Power Development 
+Plan of 2011. The significant discrepancy between 
+the two forecasts underlines the great uncertainties 
+Source: SE4ALL Rapid Assessment and Gap Analysis Report, 2014
+Figure 6: FEA’s Projection for Supply-Demand Balance (new solar units excluded) in energy demand projections for Fiji. The lack of 
+accurate energy-related data that are required for 
+developing an energy demand outlook is one critical 
+contributor to the problem. On the other hand, the 
+Continued efforts in demand-side management, 
+along with consumer reactions to tariff increases, 
+may also exert significant impact on energy 
+demand trends. The electricity tariff in Fiji is 
+relatively low compared to the other Pacific Island 
+countries, including Australia and New Zealand, as 
+shown in Figure 7. According to Kumar (2011), the 
+energy price elasticity in Fiji over 1990-2005 was 
+around -0.3%, implying 0.3% decrease in energy 
+consumption for each 1% increase in energy 
+prices. In addition to the low electricity tariff, the 
+Government of Fiji has also announced an increase 
+in the level of subsidised household annual 
+electricity consumption from 75 kWh to 85 kWh as 
+part of the President’s address at the recent new 
+Parliament Sitting.
+Fiji’s longer-term (to 2035) energy demand outlook 
+was presented in the Energy Outlook for Asia and 
+the Pacific published by Asia Pacific Economic 
+Cooperation (APEC) and ADB in 2013. The Outlook 
+stressed the challenge of meeting the growing 
+energy demand while at the same time reducing the 
+reliance on imported fuels. Effectiveness of measures 
+taken to address these challenges depends upon 
+the scale of development of indigenous energy 
+resources — i.e. renewable energies — and also upon 
+the measures taken to improve energy savings. 
+Two cases were developed, using the same set of 
+basic assumptions for the growth of population 
+and GDP through 2035, from the reference year 
+of 2010. Annual GDP growth rate was assumed to 
+small scale of the energy system operated by FEA can 
+easily be affected by a single event such as a cyclone 
+or a large- scale industrial investment and this can lead 
+to overestimating or underestimating future demand.
+be 1.4%, about half of the 3% estimated by FEA, 
+and population growth rate to be 0.5%, also much 
+slower than FEA’s estimates. 
+In the Business-as-Usual case, the primary energy 
+demand of Fiji was projected to increase from 
+600 ktoe16 in 2010 to 900 ktoe in 2035, growing at 
+an annual rate of 1.3%. In the alternative case, Fiji’s 
+primary energy demand was estimated to increase 
+at an annual rate of 1.2% through 2035. According 
+to this growth projection, Fiji’s primary energy 
+demand would reach 870 ktoe in 2035, 3.3% lower 
+than in the Business-as-Usual case. Details can be 
+found in the above-mentioned report. 
+The eventual trajectory of the energy demand 
+will depend on many factors, including the GDP 
+growth rates and the policy choices made by the 
+Government of Fiji over the coming years. 
+2.4 ENERGY SUPPLY
+In Fiji, there was a small amount of coal in the energy 
+mix until 2005. Today, the primary energy supply 
+in Fiji is dominated by petroleum, biomass and 
+hydrological energy resources. Petroleum-based 
+fuels are imported, while biomass and hydrological 
+energy are indigenous. There are two categories 
+of imported petroleum-based fuels — re-exported 
+fuel and fuel used by international bunkers — that 
+fall beyond the coverage of total primary energy 
+supply and are therefore not shown in Figure 8. 
+Source: Final Determination on Electricity Tariff Rates, FEA, 2012.
+Figure 7: Electricity Tariff Rates (2010)In 2010, Fiji imported a total of approximately 
+860 million litres of petroleum-based fuels; about 
+40% of this was consumed by international bunkers 
+and re-exported to smaller Pacific Island states. 
+Figure 8 illustrates a trend that, over the time span of 
+20 years, biomass has been giving way to petroleum 
+Petroleum-based fuels in Fiji cover motor spirits 
+(gasoline), aviation diesel and industrial diesel oil17 
+for electricity generation. However, breakdown 
+data are difficult to obtain and verification of data 
+accuracy is challenging. 
+2.5 SUPPLY OF ELECTRIC POWER
+Electricity is provided through two means – the 
+electric power grids (including local community-run 
+micro-grids in rural areas and micro-grids installed at 
+the governmental facilities) and stand-alone power 
+generation systems, such as diesel gensets and solar 
+home systems providing basic electrification. Four 
+independent grid systems on three islands, depicted 
+in Figure 9, are operated by FEA, while Fiji DoE is 
+responsible for rural electrification. 
+The total installed power generation capacity is 
+269 MW, 94% of which was run by FEA, delivering 
+857 GWh in 201318 (FEA, 2014).
+in Fiji’s total primary energy mix. This indicates that 
+cooking fuels were being modernised, given that 
+the majority of biomass was used as firewood for 
+cooking in rural areas. However, some 70% of rural 
+households were still relying on firewood as the 
+main cooking fuel, according to the 2007 Census 
+conducted by Fiji’s Bureau of Statistics (2012b).
+FEA’s grids accommodated a total installed 
+generation capacity of 254 MW by 2013, which is 
+30% higher than had been projected in the 2010 
+FEA Power Development Plan for Fiji (2011-2020). 
+FEA’s current generation fleet is composed of 
+about 55% hydro, 40% diesel and heavy fuel oil, 
+and 1% wind, with the remaining 4% supplied by the 
+co-generators, Tropik Woods and FSC. To further 
+reduce the environmental impact of its energy 
+generation portfolio, FEA would like to replace 
+retired diesel gensets with renewable energy 
+options, if available; for this reason, FEA is looking 
+for potential independent power producers (IPPs) 
+that can provide alternative options including 
+hydro, geothermal, wind, biomass and solar farm. 
+On the main island of Viti Levu, as presented 
+in the breakdown in Table 1 and Figure 9, FEA’s 
+power infrastructure is essentially characterised 
+by the larger hydropower plants, whose generated 
+electricity is transmitted via two major 132-kV 
+lines, connecting Wailoa with Vuda in the Western 
+Source: UNSD (2011); IRENA based on UNSD
+Figure 8: Fiji’s Total Energy Consumption (1990-2010)Source: FEA
+Figure 9: FEA Service Supply Areas in Fiji
+region and Wailoa with Cunningham Road in the 
+Central region, feeding 33-kV and 11-kV distribution 
+networks. The 33-kV lines are still feeder lines into 
+the individual supply areas in the Western and 
+Central regions and do not yet form a circular 
+system around the coast of the main island. 
+The smaller systems in Vanua Levu are 33-kV 
+transmission systems that cover only the most 
+densely populated areas around the towns of 
+Labasa and Savusavu, which are planned to be 
+interconnected in the near future to provide more 
+flexibility and reliability of supply. The power development 
+plan even considers an interconnection between the 
+two major islands via a 132-kV undersea cable, which 
+would only be justified if a major geothermal capacity 
+(on the order of 50-100 MW) is developed in 
+Vanua Levu. The small system of Ovalau uses 
+11-kV as distribution voltage. Interconnecting 
+Ovalau with the main system on Viti Levu has 
+also been considered, although no concrete plans 
+exist yet.
+The boundaries and names shown on this map do not imply any official endorsement or acceptance by IRENA.Table 1: FEA
+s Installed Electricity Generation Capacity
+Location/site Installed Capacity 
+(MW)
+Energy
+Source
+Nameplate
+Output
+Year of 
+Commission 
+Viti Levu Island
+Monasavu Wailoa 83
+Hydro
+60% of the 
+electricity in 
+Viti Levu
+1983
+Nadarivatu 42 101 GWh19 2012
+Wainikasou 6.6 18 GWh 2004
+Nagado/Vaturu 2.3 10 GWh 2006
+Buton 10 Wind - 2007 
+Multi-locations 72 (total) Industrial Diesel Oil -
+Kinoya 20.6 Heavy Fuel Oil - 2007
+Vanua Levu Island
+Labasa 13.5
+Industrial Diesel Oil - -
+Savusavu 5.2 - -
+Wainiqeu 0.8 Micro-hydro - -
+Ovalau Island
+Levuka 2.9 Industrial Diesel Oil
+Distribution 
+network 11 kV
+and below 
+-
+Total Installed Generation Capacity 
+258.9 MW
+Source: FEA Power Development Plan, FEA Presentation Energy Forum 2013
+Hydropower accounts for the biggest share of Fiji’s 
+electricity supply mix. On one hand, this enhances 
+the security of energy supply. On the other hand, it 
+exposes the power system to seasonable variation 
+of annual hydrological cycles and extreme weather 
+events, such as El Niño, El Niño Southern Oscillation 
+or severe drought, and thus hydropower faces 
+a challenge to provide reliable power.20 More 
+specifically, Fiji has distinct wet and dry seasons, 
+and eight months of the year (May to December) 
+are often deficient in precipitation, particularly in 
+the dry zone on the north western sides of the 
+main islands. For instance, the poor rainfall in the 
+Monasavu catchment in 2013 and 2014 resulted in 
+critically low water levels at the Monasavu dam. 
+To this end, if non-hydro renewable energy sources, 
+such as solar, wind and geothermal energy can be 
+scaled up, it would effectively expand the portfolio 
+of Fiji’s electricity generation capacity and thus 
+enhance its energy security. Given the high costs of 
+fossil fuel and continued reduction in the costs of 
+renewable electricity generation, this ought to be 
+an economically attractive option (IRENA, 2013).
+From a technical perspective, having more 
+renewable sources in the power system can 
+be achieved. The results of supply-demand 
+modelling that was run for the development of 
+the draft NEP 2014, have shown that it is feasible 
+to have more than 80% of electricity supplied 
+through renewable energy sources by 2020 and 
+100% by 2030. Achieving these targets would 
+require: 1) a strong enabling environment for the 
+key stakeholders, including private sectors, to be 
+actively engaged; and 2) risk-sharing/mitigation 
+mechanisms for geothermal energy, due to the 
+high costs and risks associated with geothermal 
+exploratory drilling. 
+2.6 RENEWABLE ELECTRICITY
+Fiji is well endowed with a broad mix of renewable 
+energy resources, including hydro, solar, 
+biomass, wind and geothermal energy. However, 
+the exact potential of renewable energy has 
+yet to be fully assessed and made publicly 
+available. Grid-connected renewable electricity development 
+is generally under the jurisdiction of FEA, while the 
+Fiji DoE is responsible for off-grid systems, although 
+the DoE has also piloted 60 grid-connected solar 
+PV systems of 1.2 kW and 2.4 kW capacity in 
+government quarters around the country. FEA has 
+embraced the strategy of developing renewables 
+to replace diesel in its generation capacity portfolio. 
+After FEA failed to achieve its original target — 
+90% of the electricity generated from renewable 
+energy sources by 2011 (FEA, 2007) — it endorsed 
+the target of 81% by 2020 that was recently set in 
+SE4ALL and proposed in the draft NEP 2014. While 
+traditionally hydro resources have been the focus 
+for power generation, other non-hydro resources 
+for renewable electricity need to be capitalised. 
+Grid-connected hydropower
+During the wet season from November to April, 
+which also happens to coincide with the tropical 
+cyclone season, the level of precipitation is usually 
+high, especially over the larger islands in Fiji, 
+where the level of rainfall can reach as high as 
+6,000 millimetres (mm), accounting for up to 80% 
+of the annual total rainfall (Global Environmental 
+Facility (GEF), 2009). This provides Fiji with an 
+estimated technical hydropower potential of 
+1 terawatt-hour per year (TWh/year), of which only 
+a bit more than one-third (36%) has been developed 
+(International Journal on Hydropower and Dams, 
+2011; United Nations Industrial Development 
+Organization (UNIDO) and International Centre on 
+Small Hydro Power (ICSHP), 2013). 
+The exploitable hydropower potential in Fiji’s main 
+islands is estimated at around 220 MW,21 out of which 
+62% has been materialised by four hydropower 
+schemes identified by FEA in the long-term strategy 
+developed in the early 1970s, including the recently 
+commissioned 40 MW Nadarivatu hydropower 
+scheme — the 2nd largest in Fiji — which was 
+operating in full swing in 2013, delivering 98% of its 
+designed electricity production output (FEA, 2014). 
+The rest of hydropower’s exploitable potential is 
+on track for being developed, along with projects 
+already in the pipeline that are being implemented. 
+Around 80 MW of exploitable hydropower potential 
+is located in Viti Levu Island. This is where the 
+largest portion of the population resides and where 
+institutional/government and most commercial 
+and industrial businesses are located – suggesting 
+a potential growth of load demand. Amongst the 
+supply areas, Central Viti Levu was ranked at the 
+top in terms of per capita electricity consumption, 
+at the level of 1,170 kWh/year, followed by Western 
+Viti Levu, with 800 kWh/year. 
+Given that the generation cost of electricity from 
+hydropower is in most cases cheaper than dieselgenerated electricity, FEA is motivated to look into 
+other potential areas, including lower Ba, lower Wailoa 
+and Navua, to find suitable sites for hydropower 
+generation. IPPs are encouraged to submit business 
+proposals for investing and developing large 
+hydropower schemes under certain arrangements. 
+Small hydro22
+Although Fiji’s first small hydropower plant was 
+built as early as the 1920s (UNIDO and ICSHP, 
+2013), there is no comprehensive survey of smallscale hydropower (<1,000 kW) in Fiji. Seven small 
+hydro systems have been installed in the 1980s 
+and 1990s to supply village mini-grids with a total 
+generation capacity of 957 kW. The Wainiqeu 
+(Vanua Levu) and Bukuya (Viti Levu) took the vast 
+share with 800 kW and 100 kW, respectively. More 
+recent rural installations include a 25 kW hydro 
+power facility at Buca Village, Cakaudrove.
+The experience of hydropower plant operations 
+presented a mixed picture. The DoE reports 
+that the operations are encumbered with 
+technical problems (equipment break downs, 
+sedimentation), which are exacerbated by difficult 
+site access and lack of technical expertise amongst 
+the villagers who are in charge of plant operation. 
+The challenges also include poor management and 
+inadequate community leadership. 
+Currently, the DoE monitors the hydrology of 
+several sites as part of the hydro survey that is being 
+conducted across the country. Of the sites, Kadavu, 
+Taveuni, Serua and Vanua Levu could support 
+village electrification schemes totalling about 
+300 kW, accounting for 60% of the combined 
+500 kW potential estimated by Fiji DoE. There are 
+several sites already surveyed, which are awaiting 
+detailed design, and others currently undergoing 
+monitoring. 
+21 Calculation based on the Pilot Study for Comprehensive Renewable Energy Power Development, Tokyo Electric Power Company
+for Japan Bank for International Cooperation (JBIC), 2010; and FEA Power Development Plan. This range would be likely expanded as
+investigation progresses on new sites. 22 There is no specific definition of “small hydro,” although an installed capacity of 10 MW and above is usually considered large-scale23 Traditional earth oven cooking. 24 Fiji has a large forest coverage, accounting for more than 50% of the total land area. 25 At http://cdiac.ornl.gov/epubs/ndp/global_carbon/carbon_documentation.html 26 Bagasse and wood residues. 27 The share was low due to the fact that the 9.3 MW wood-fired co-generation plant of Tropik Woods produced only 13% of its contracted
+Biomass energy
+Similar to energy from a hydropower plant with a 
+reservoir, biomass, as stored energy resource, can 
+be used for meeting base load electricity demand. 
+As with many developing countries, biomass in Fiji 
+is used mostly in a traditional way – i.e. as firewood 
+for cooking – and data on the potential and 
+traditional uses of biomass are either unavailable 
+or unreliable. It seems to be the case that the vast 
+majority of biomass is used in rural areas, although 
+urban households occasionally use wood to 
+prepare traditional (lovo23) meals. The best available 
+estimates have shown that more than 70% of rural 
+households use wood for cooking purposes. 
+The Forestry Department of Fiji24 is currently 
+piloting a programme to assess biomass potential in 
+order to improve the quality of resource data, which 
+would help develop a strategy for modernised use 
+of biomass-based energy resources in Fiji. From the 
+global biomass carbon map, shown in Figure 10, it 
+can be seen that Fiji is very rich in biomass resources. 
+This is largely because of the more than 50% forest 
+coverage rate and the fact that about 15% of the 
+total land area is used for agricultural purposes 
+(FAOSTAT, n.d.; UNdata, n.d.).
+Apart from the traditional use for energy purposes, 
+biomass has also been utilised in a modern way in 
+Fiji, including direct combustion for steam and power 
+generation, as well as production of biogas and biofuels. 
+Combustion for steam and power generation. 
+Agricultural and forestry waste have been used for 
+steam and power generation for quite some time 
+in Fiji. Both FSC (which is majority state-owned) 
+and Tropik Woods26 (a state-owned enterprise) 
+operate conventional steam boilers to generate 
+and process steam and electricity for their own 
+consumption. Excess power is sold to FEA at the 
+recently increased rate of FJD 0.3308 kWh, more 
+than double the previous rate of 0.15/kWh. In 2012, 
+4% of FEA’s electricity was provided by these two 
+generators.27
+Since 2006, the amount of bagasse has decreased, 
+following the decline of sugar cane production 
+in Fiji from 3.2 million tonnes to an estimated 
+2 million tonnes in 2014 (ADB, 2013). Thanks to the 
+recent efforts by the Government of Fiji to revitalise 
+the sugar industry, which are expected to lead to 
+significantly higher raw sugar production, bagassebased power generation may be more promising 
+now than it was over the past years. For instance, 
+development of another 40 MW facility at Rarawai 
+sugar mill in Ba is underway, alongside an ethanol 
+production facility with a capacity of 60,000 litres 
+per day.28
+Biogas development29
+As early as the mid-1970s, Fijians began to apply 
+biogas technologies; initially, these technologies 
+were dominated by a fixed dome biogas digester, 
+designed as a means to manage animal manure in 
+remote rural areas (APCTT-UNESCAP, 2010; Tukana, 
+2005). However, in terms of biogas production, the 
+results from these early biogas technologies were 
+mixed. Their failures were caused mainly by poor 
+design and construction and by lack of knowledge 
+on operation and maintenance, as pointed out by 
+Source: Carbon Dioxide Information Analysis Center25
+Figure 10: Global Living Biomass Carbon Density Map, 2000Tukana (2005). In early 2000s, Fiji’s Department 
+of Agriculture and DoE have installed a few biodigesters with the Carmatec design made by Mr. 
+Raedler for dairy and pig farmers in the Central, 
+Northern and Western divisions. As with earlier 
+attempts, these yielded mixed results. The positive 
+element was that the design seemed robust, 
+although knowledge on how to build, operate and 
+manage the facilities was clearly lacking, which 
+contributed to the failure of some units.
+In fact, these challenges are experienced typically 
+in countries that are just beginning to apply biogas 
+technologies. This is because the technologies and 
+designs must not only be adapted to local contexts 
+and conditions, but also well understood by the 
+users, particularly when households and semicommercial livestock farms are the end-users, 
+and thus play a critical role in making the installed 
+biogas facility a success or a failure.
+This suggests that Fiji needs to find ways to make 
+biogas technologies work within Fiji’s particular 
+context, and not necessarily by reinventing the 
+wheel, nor with off-the-shelf solutions that can be 
+used immediately. The assessment of the market 
+potential to strengthen the Fiji biogas programme 
+was first reported by a DoE consultant in 2006
+and needs to be updated comprehensively. The 
+Fiji Renewable Energy Power Project is advertising 
+a consultancy to further study the potential 
+development of appropriate waste-to-energy 
+technologies. The focus will also be on biogas 
+technologies at the household and commercial 
+scales. Toward this end, Fiji Department of 
+Environment and FEA plan to undertake a feasibility 
+study for methane extract from the landfill in 
+Naboro, which has already been connected to the 
+FEA grid. It is estimated that the supply of landfill 
+gas could be sufficient for a generation capacity of 
+5 MW.
+Biofuels
+The DoE supports several biofuel projects as 
+part of its electrification programme for remote 
+island communities, which include encouraging 
+production and blending of coconut oil with diesel. 
+In addition, potential use of local molasses to 
+produce ethanol for transport is being investigated 
+by FSC. DoE’s policy in the biofuel sector 
+emphasises that further development of biofuels 
+in Fiji should be based on technical and economic 
+feasibility, with proper assessment of the associated 
+risks and a special focus on the trade-offs between 
+production of crops suitable for conversion to 
+biofuels and production of food and cash crops. 
+Although the government has granted significant 
+tax incentives to private biofuel producers, the only 
+private company producing biodiesel in Suva has 
+given up such production to focus on higher-value 
+coconut oil-based cosmetics.
+Solar energy
+Fiji’s solar potential varies considerably with 
+location. While outer islands and coastal areas 
+in the western parts of the larger islands show 
+good solar potential, as illustrated in Figure 11, 
+irradiation levels are seriously reduced by long 
+periods of cloud cover in the mountain regions of 
+the larger islands. Measurements at Nadi airport 
+on Viti Levu’s west coast show a long-term annual 
+average solar potential of 5.1 kWh/m2/day, peaking 
+between November and February. In contrast, 
+long-term records in the Monasavu catchment in 
+Source: Final Determination on Electricity Tariff Rates, FEA, 2012.
+Figure 11: Solar Energy Resource in FijiViti Levu’s interior suggest average solar potential 
+of 3.7 kWh/m2/day. These values require oversizing 
+solar installations to meet a given demand (in the 
+mountainous interior, PV solutions tend to be more 
+costly per kWh output than at coastal areas and on 
+outer islands).
+At present, there are only a few small grid-connected 
+solar PV installations. But off-grid solar PV systems 
+have been used in rural areas to provide basic energy 
+services, such as lighting, mobile phone charging, use 
+of electric appliances such as refrigerators, and water 
+pumps for irrigation. In some cases, solar/pico-hydro 
+formed a hybrid system that can deliver relatively 
+more reliable energy services.
+Wind energy
+To date, detailed and comprehensive assessment of 
+Fiji’s wind resources is largely unavailable. In 2013, 
+the DoE commissioned a mesoscale wind mapping 
+for the two main islands. The assessment was based 
+on the Mesoscale Compressible Community model 
+developed by Environment Canada, with sets of 
+recorded data from four sites used to calibrate 
+modelling. Wind data at these sites were standard 
+meteorological data recorded at 10 metres (m), 
+significantly lower than the typical 80 m hub height 
+for a wind generator. The model generated a wind 
+map for the two main islands. While the data 
+recorded for 10 m provide a first indication, the 
+derived hub-height data are certainly not investment 
+grade quality and further on-site measurements at 
+50 m or higher will be required.
+Another source indicating wind potential in Fiji 
+is NASA’s Solar System Exploration. The data, 
+presenting monthly distribution of wind speeds (at 
+50 m above the earth’s surface) over 1993-2005 
+in seven locations,30 have shown that the annual 
+average wind speed was at 6.5 metres/ second 
+(m/s). More importantly, the high-end range of 
+wind speeds (6.5‑7.2 m/s) for almost all the sites 
+was during the dry season, from May to October. 
+(Kumar and Prasad, 2010) This suggests an 
+opportunity to develop a hybrid system in which 
+wind and hydropower can complement each other 
+for enhanced energy security. 
+Fiji’s only significant wind project is located in 
+Sigatoka on the southeast coast of Viti Levu. The 
+10 MW project, known as Butoni and commissioned 
+in 2007 by FEA, has shown rather disappointing 
+results. A private sector partner (Pacific Hydro), 
+who initially developed the project together with 
+FEA, pulled out in 2003 over its concerns about the 
+commercial viability of the project. The wind farm 
+was then built by FEA alone. It consists of 37 Vergnet 
+275 kW turbines that can be tilted down to avoid 
+damage from cyclones. Still, in 2012, Cyclone Evan 
+caused damage to the blades of some of the wind 
+turbines, even though the wind turbines had been 
+lowered to the ground in anticipation of the cyclone. 
+Average output of the wind farm since commissioning, 
+has only been some 6 GWh per annum, approximately 
+half of the output predicted by FEA and the supplier 
+of the turbines during the design phase, resulting in 
+a much lower than average level of capacity factor. 
+Key reason for the failure of the Butoni project was 
+believed to be the lack of a solid wind resource 
+assessment in the project preparation phase.31
+Against the background of the Butoni experience, 
+it would be advisable to perform a full-scale 
+evaluation of the factors that caused its poor 
+performance (e.g. resource assessment, design, 
+technology selected, procurement, total life 
+cycle cost and operational performance) 
+before additional investment in wind projects is 
+considered.
+Geothermal energy
+Unlike most of the renewable energy sources, 
+whose energy is essentially from the sun, the heat 
+embedded in geothermal energy comes from the 
+earth. This suggests that geothermal resources 
+can provide energy in a more reliable, and 
+probably cheaper, way compared with solar-based 
+renewable energy sources. 
+Fiji is part of the “Ring of Fire”32 – a fertile ground 
+for geothermal energy production. A Geothermal 
+Energy Association report identified Fiji as one of 
+the total 39 countries in the world whose electricity 
+demand can be supplied solely by geothermal 
+energy (Holm, et al., 2010).
+Fiji’s geothermal resources were first studied 
+in the 1960s, followed by further investigations 
+triggered by the global energy crisis of the 1980s. 
+The report (Asmundsson, 2008) entitled South 
+Pacific Islands Geothermal Energy for Electricity 
+Production, issued by the Icelandic International 
+Development Agency (IIDA), highlighted that no 
+volcanic activity is found on Fiji but there are 40 
+thermal springs, which originated from extinct 
+volcanoes and are up to five million years old (from 
+the Plio-Pleistocene epoch), as shown in Figure 12.
+30Suva, Labasa, Monsasavu, Savusavu, Udu, Nabouwalu, Rakiraki and Lautoka 31 www.fijitimes.com/story.aspx?id=127996 32 The horseshoe-shaped volcanic belt that stretches from the southern tip of South America, along the coast of North America, acrossMuch of the geothermal resource is located in two 
+sites, Savusavu (at approx. 170°C) and Labasa 
+(at approx. 120°C) on Vanua Levu Island, where 
+hydropower is marginal and projected energy 
+demand is increasing, partly due to the growing 
+energy demand from the local sugar cane industry 
+(specifically FSC).
+The most recent report from the Japan Bank for 
+International Cooperation (JBIC, 2009) revealed 
+the existence of exploitable geothermal resources 
+in Viti Levu in addition to what is found in Vanua 
+Levu, and also presented two potential cases for 
+development in terms of generation capacities and 
+outputs, as presented in Table 2. The big discrepancy 
+between the high case and the low case indicates 
+that further investigation (exploratory drilling) is 
+required to confirm the size and performance of 
+However, even with available geothermal resources, 
+upfront costs and investment risks remain very high in 
+most cases. Investment costs for a geothermal project 
+fall into four different categories: 1) exploration to 
+confirm availability of geothermal resources, including 
+exploratory drilling; 2) drilling of wells for production 
+and injection; 3) auxiliary facilities and infrastructure 
+(access roads, buildings); and 4) the actual power 
+plant (Goldstein, et al., 2011). Drilling costs vary 
+according to type of borehole, characteristics of the 
+respective geological formation, and mobilisation 
+cost for drilling rigs. As there are no suitable rigs 
+available in Fiji, the cost associated with first drilling 
+would be relatively high due to the mobilisation cost. 
+Relevant literature quotes typical drilling cost at 
+USD 1,200/m. Given a drilling depth of 500-1,000 m,
+an exploration well would typically cost around 
+USD 1 millionOverallgeothermal investment costs 
+Source: Government of Fiji, 2014
+Government of Fiji, 2014. SE4All: Rapid Assessment and Gap Analysis, February, 2014.
+Figure 12: Hot Springs Locations in Fiji
+Table 2: Fiji’s Geothermal Energy Potential 
+Location/ 
+Capacity & Output
+High Case Low Case
+Generation 
+Capacity (MW)
+Elec. Prod. Output 
+(GWh)
+Generation 
+Capacity (MW)
+Elec. Prod. 
+Output (GWh)
+Viti Levu 28 196 15 105 
+Vanua Levu 42 294 23 161
+Total 70 491 38 266
+Source: JBIC, 2009Beyond previous studies and endeavour, there 
+is a need for conducting a more comprehensive 
+resource assessments which can used to assist 
+with developing policy proposals. Other needs may 
+include enhancing capacities for geothermal plant 
+design, configuration, operation and maintenance 
+in Fiji. Cooperation with regard to an exchange of 
+resources, technology, and knowledge amongst 
+the key players in the space of geothermal energy 
+could culminate in technology transfer, capacity 
+building, and eventually investment in geothermal 
+power generation.
+Table 3: Current Status in Geothermal Licensing
+Location Remarks
+Labasa Active Licence 
+Savusavu Active Licence
+Sabeto Lapsed Licence
+Tavua Lapsed Licence
+Ba, Tavua and Rakiraki Pending Application
+Ba, Nawaka and Vuda Pending Application
+Namosi and Waimaro Pending Application
+Wailevu and Vaturova Pending Application
+Source: Department of Mineral Affairs
+USD 6,000/kW for the smaller plants that are likely 
+to be relevant for Fiji. These costs have been a major 
+barrier for the development of geothermal resources 
+in Fiji. 
+At present, there are two active “Special Prospective 
+Licences” issued under the Mining Act (1978), in 
+which geothermal resources are classified as mineral. 
+These licences are held by a small local company, 
+which planned to do exploratory drilling. Two other 
+licences have lapsed and four other applications are 
+on hold due to pending legal matters (Table 3).Government vision regarding the energy future in Fiji became clearer in the draft 
+NEP 2014 in comparison with the NEP 2006. The current vision addresses the 
+sustainability of energy sector development, with the goals of being “resource 
+efficient”, “cost effective” and “environmentally sustainable”. Following this 
+guiding vision, policy objectives in draft NEP 2014 were defined in two tiers: the 
+primary objective, aimed at achieving affordability for all Fijians; and the secondary 
+objectives, focused on sustainable energy production and reducing energy 
+expenditure on imported fuels. As illustrated in Figure 13, it is crucial to find ways 
+to reduce the costs of imported fuels and at the same time enhance sustainable 
+energy supply in a cost-effective manner.
+In this context, replacing imported fossil fuels with indigenous renewables has been 
+identified as one of the key instruments to use in achieving the policy objectives. 
+However, the extent to which this strategy can be employed cost-effectively depends 
+upon how well the enabling environment is established. By removing the key barriers, 
+favourable conditions for renewable energy development could be provided; thus all the 
+key players, particularly in the private sector, can be actively engaged and consequently 
+bring in the private investments that Fiji requires for its power sector development.
+Without clear and achievable renewable energy targets, it would be less effective 
+to define the necessary components that need to be put in place and elaborate on 
+the relationship between them. By the same token, a comprehensive power sector 
+development plan needs to be developed to present an overall picture of how the 
+Fijian power sector ought to evolve, where investment opportunities would present 
+themselves and what risks and uncertainties prospective investments could be 
+exposed to. Renewable energy targets and a power sector development plan are two 
+prerequisites for devising and implementing an enabling environment for renewable 
+energy development.
+III. ENABLING ENVIRONMENT FOR RENEWABLE ENERGY DEVELOPMENT
+Figure 13: Schematic Illustration of the Correlation of Policy Objectives3.1 FIJI’S RENEWABLE ENERGY 
+TARGETS
+The draft NEP 2014 proposed the renewable 
+energy targets, along with targets for electricity 
+access and energy efficiency, as presented in 
+Table 4. The same targets were proposed in Fiji’s
+It is worth mentioning that the target for biofuel as 
+substitute for petroleum has also been proposed. The 
+draft NEP 2014 aimed at biofuel providing 2.37% of the 
+total liquid fuel supply by 2030. The linkage between 
+the biofuel target and the above-mentioned energy 
+targets is the estimated 25,000 thousand litres 
+of biofuel production by 2030. The assumption is 
+that the sugar industry would be able to provide 
+100,000 tonnes of molasses as feedstock for biofuel 
+production in order to achieve this target. Given that 
+the policy goal is to improve the affordability of energy 
+services partly through reduced energy import costs, 
+it is important to reduce the consumption of fossil 
+fuels in other sectors than just the power sector. 
+SE4ALL report, which was officially approved 
+and endorsed by the Government of Fiji. Hence, it 
+would be expected that the targets in draft NEP 
+2014 will likely be adopted by the Cabinet. 
+Interestingly, in the National Energy Forum33 
+that was conducted in July 2013 by Economic 
+Consulting Associates and SMEC (New Zealand),
+to evaluate policy proposals regarding petroleum 
+and substitute fuels, “mandating oil companies 
+to blend biofuels” did not appear to be a 
+priority. On the other hand, “subsidising biofuel 
+production at village level” was identified as 
+one of the areas that should be prioritised. 
+This disparity in priority seems to suggest 
+preference for use of biofuels at a rural level over 
+large-scale usage.
+Table 4: Energy Policy Targets 2014 
+Indicator Baseline
+Targets
+2015 2020 2030
+Access to modern energy services
+Percentage of population with 
+electricity access 89%a
+ (2007) 90% 100% 100%
+Percentage of population with primary 
+reliance on wood fuels for cooking 20%b
+ (2004) 18% 12% <1%
+Improving energy efficiencyc
+Energy intensity (consumption of 
+imported fuel per unit of GDP in 
+megajoules (MJ)/FJD)
+28.9d (2011) 2.89 (-0%) 2.86 (-1%) 2.73 (-5.5%)
+Energy intensity (power consumption 
+per unit of GDP in kWh/FJD) 0.23d
+ (2011) 0.219 (-4.7%) 0.215 (-6.5%) 0.209 (-9.1%) 
+Share of renewable energy
+Renewable energy share in electricity 
+generation 56%e
+ (2011) 67% 81% 99%
+Renewable energy share in total 
+energy consumption 13%f
+ (2011) 15% 18% 25%g
+Source: SE4ALL Rapid Assessment and Gap Analysis Report, 2014
+a Preliminary data from 2007 Census, Fiji Islands Bureau of Statistics 2012b b 2002-2003 Household Income and Expenditure Survey, Fiji Islands Bureau of Statistics,(2004). Reliance on wood fuels alone for
+cooking. c Based on 15% fuel substitution to local fuels and a 3% annual efficiency improvement. d Fiji Islands Bureau of Statistics based on average 36 MJ per litre of fuel. e Annual report 2011, FEA f Based on total energy consumption of 16,500 terajoules (TJ) (Fiji Islands Bureau of Statistics, 2011) and 55% power generation from
+renewables (FEA). g Based on 99% renewable power and 25,000 kL of biofuel.In terms of investment needed to achieve the 
+proposed targets, it was estimated in the proposed 
+draft NEP (2014) that annual investment of 
+FJD 50 million34 in electrification and renewables 
+would be required over the period 2014-2030. This 
+would aggregate, over that time span, to one-third 
+of the total estimate that has been suggested in 
+the Strategic Action Plan, i.e. FJD 1.5 billion.35 Thus 
+an articulated investment plan might assist in 
+coordinating development of generation capacity 
+(100% renewable-based by 2030) with grid 
+development (expansion and enhancement). 
+3.2 POWER SECTOR 
+DEVELOPMENT PLAN
+To meet the targets proposed, the physical power 
+system should be developed and enhanced. A 
+power sector development plan is useful not 
+only for investors who could identify investment 
+opportunities but also for energy planners who are 
+striving to find the least-cost options to achieve 
+the targets set by policy-makers. 
+Given the site-constrained nature of many 
+renewables, in cases where the renewable energy 
+resources are not close to the load centre or to users, 
+it is necessary to extend transmission or distribution 
+lines, or use interconnections to expand the grid 
+networks to reach the sites, provided that tapping 
+into these renewables at such sites is considered 
+to be economically viable. In other cases, where 
+renewable energy sources are close to the locations 
+of demand, decentralised power systems such as 
+stand-alone or mini-grid systems can be set up 
+relatively more easily; the grid issues are less of a 
+concern in these cases. Nevertheless, developing 
+a rural master plan, as suggested in the draft NEP 
+2014 and SE4ALL report, would be advisable. 
+In addition, in such a power development plan, it 
+would be easier to lay out the areas of priority – 
+such as geothermal and solar energy – as evidenced 
+by detailed studies of renewable energy sources 
+availability and associated economic considerations. 
+3.3 ENABLERS FOR INVESTMENTS 
+IN RENEWABLE ENERGY
+To achieve the renewable energy targets, 
+investments and financing schemes are 
+instrumental, as spelled out in the draft NEP 2014: 
+“ …if the implementation of the policy encourages 
+even larger increase in investment then the dates for 
+achieving targets can be advanced over the life of 
+the policy.”36 To attract much-needed investments 
+from private sectors, the enabling environment must 
+be established, including the overall investment 
+climate, sound regulatory frameworks (for both 
+technical and economic regulations), policy 
+frameworks with associated supportive schemes, 
+financing instruments, risk mitigation mechanisms, 
+and sufficient levels of human and institutional 
+capacities that are required for implementation of 
+various measures and actions. 
+As for all investments elsewhere, it is necessary to 
+provide an overall healthy investment climate, which 
+encompasses wider framework conditions such as 
+political stability, infrastructure development and 
+educational level, among others. 
+New national energy policy
+Priorities in the draft NEP 2014 are identified in 
+seven individual areas, namely: grid-based power 
+supply; rural electrification; renewable energy; 
+energy efficiency; transport; petroleum products 
+and biofuels; and implementation arrangements. 
+In addition to a dedicated section on renewables, 
+renewable energy appears in different sections 
+of the Policy, including grid-based power, rural 
+electrification, transport and biofuels, and is 
+therefore one of the leading themes of the draft NEP 
+2014.37 The draft NEP 2014 recommendations in six 
+priority areas for renewable energy development 
+are summarised below:
+Grid-based power
+• Increase private sector investment in largescale electricity generation by establishing a 
+transparent process for procurement of new 
+large-scale capacity from IPPs. 
+• Increase private sector investment in smallscale, grid-connected renewable generation 
+by establishing economically justified feedin tariffs or similar mechanisms to provide 
+incentives and reduce the risks for electricity 
+production from small-scale renewable sources 
+that are connected to the grid. 
+• Strengthen transparency and effectiveness of 
+the regulation of the electricity industry, including 
+establishing a formal regulatory contract 
+with FEA and making all forms of electricity 
+subsidy transparent. Regulatory functions, 
+34 Seen on page 17 in the draft NEP 2014 35 Seen on page 3 in the Strategic Action Plan 36 Quoted from page 17 in the draft NEP 2014. including licensing and defining frameworks for 
+encouraging IPPs, should be carried out by the 
+DoE and the Fiji Commerce Commission. 
+Rural electrification
+• Develop a national electrification master plan 
+based on least-cost solutions, which could 
+include grid extension, diesel and hybrid minigrids and stand-alone PV systems. 
+Renewable energy
+• Establish a comprehensive assessment of 
+Fiji’s renewable energy resources, including 
+geothermal resources. Assessment will include 
+an inventory of suitable sites and technologies 
+together with an evaluation of their technical 
+and economic viability, and their associated 
+social and environmental impacts. 
+• Establish a data repository on renewable energy 
+resources that is accessible to the public and 
+prospective investors in order to remove the 
+information barrier to private sector and other 
+relevant project developers. Resource data 
+could also be shared globally on platforms such 
+as the global renewable energy atlas managed 
+by IRENA or the Pacific Regional Energy Data 
+Repository hosted by SPC.
+• Conduct investigations into geothermal 
+energy with public sector funding, possibly 
+in cooperation with development partners 
+supporting geothermal development. 
+Transport
+• Further investigate the potential and costeffectiveness of sustainable solutions for 
+maritime transport, including renewable energy 
+solutions as well as efficient motors, better 
+vessel design and improved maintenance. 
+Biofuels
+• Continue research to explore the potential for 
+increased production and use of vegetable oil 
+and ethanol-based biofuels while remaining 
+mindful of the risks, in particular the tradeoffs between production of crops suitable for 
+conversion to biofuels and production of food 
+and cash crops.
+Implementation arrangements
+• Develop an IPP framework (responsibility of the 
+DoE) that will include procurement processes 
+and power purchase agreement principles for 
+large-scale capacity, and feed-in tariffs and netmetering arrangements for grid-connected, 
+small-scale renewables. 
+In policy discussions on renewable energy, lack of 
+renewable energy resource assessment has been 
+identified as one of the strong impediments to 
+private project development. Therefore an overall 
+renewable energy resource assessment should 
+be performed and the data should be made 
+publically available. However, from an operational 
+perspective, it may be necessary to define the 
+range of quality of resource data, as each individual 
+project requires different quality and sets of data. 
+It may be possible to make a project development 
+level of data available on a commercial basis, while 
+the public data providers could limit themselves to 
+provision of data considered sufficient for investors 
+to identify the zones that are worth further 
+investigation.
+Legislative and regulatory frameworks
+Legislative and regulatory environments affect 
+businesses through the costs of compliance, 
+including the costs and risks associated with 
+transparency in enforcement. It is important 
+to establish sound legislative and regulatory 
+frameworks under which business operation can 
+be ensured. 
+The 2013 policy review performed by the DoE 
+included a legislative gap analysis with the aim to 
+identify areas where changes in legislation might 
+improve energy sector coordination, trigger more 
+effective management of the energy sector and 
+assist effective implementation of the NEP and its 
+associated Strategic Action Plan. 
+Under the Electricity Act (currently under a detailed 
+review), FEA was established as a corporate entity 
+in charge of electricity supply in Fiji. FEA provides 
+advisory services to a the Energy Minister on 
+all issues around the generation, transmission, 
+distribution and use of electricity.
+The Public Enterprise Act
+FEA is a Government Statutory Authority, 
+governed by the Public Enterprise Act enacted in 
+1996 and revised in 2002. A core provision of the 
+Act is the establishment of a Public Enterprises 
+Reform Program, aimed at improving the overall 
+efficiency of the public enterprises. This entails the 
+restructuring of commercial sections of Government 
+Statutory Authorities and Government Commercial 
+Companies. Government entities, including the 
+FEA, are committed to operate in a competitive and 
+fair trading environment, as successful businesses 
+with clear objectives, management autonomy and 
+strict accountability. Under the Act, FEA is required 
+to pay at least 50% of net earnings (after tax) to 
+the government as dividends.Land Transport Act 
+established a Land Transport Authority, which is 
+responsible for regulating the registration and use 
+of vehicles, issuing drivers licences and enforcing 
+traffic laws. The Act empowers the Minister 
+responsible for transport to establish emission 
+and fuel consumption standards and allows the 
+Land Transport Authority to collect information 
+on registered vehicles, such as fuel type, year of 
+manufacture and other information that can be 
+used to determine and improve vehicle energy 
+efficiency. 
+Environmental Management Act
+was enacted to protect natural resources and to 
+promote waste management and general pollution 
+control. It established the National Environment 
+Council, which approves the National Environment 
+Report and the National Environmental Strategy, 
+monitors implementation of the Strategy, advises 
+the government on international and regional 
+environmental commitments and treaties, and 
+facilitates discussion of environmental matters. 
+The Department of Environment, among others, 
+coordinates and implements environmental impact 
+assessment procedures for all energy projects as 
+well as waste management and pollution control, 
+including emissions from power plants. 
+Commerce Commission Decree
+provides comprehensive guidelines concerning 
+regulated industries and consumer protection, 
+and establishes a Commerce Commission. The 
+Commission advises the Minister for Industry and 
+Trade regarding proposed access agreements 
+(including access to the FEA grid), facilitates 
+negotiations about access to infrastructure or 
+services under access regimes and arbitrates 
+disputes over access-related matters. The 
+Commission regulates the prices for electricity 
+and related services, including price control for 
+the electricity supply. This also empowers the 
+Commission to set the minimum tariff level that 
+FEA may offer to IPPs. The Commission also 
+determines the maximum prices for the sale of all 
+petroleum products.
+Mineral (Exploration and Exploitation) Bill
+states that all mineral resources, including 
+geothermal resources, in or under any land in 
+Fiji are the property of the State, and no persons 
+are allowed to carry out any activities involving 
+the prospecting, exploration and development 
+of minerals without a relevant licence. There are 
+different types of licences prescribed by the Bill: 
+• Prospector’s rights to prospect for minerals and 
+mark out areas for a proposed mining lease; 
+• Exploration licence to explore the specified 
+area and mark out and apply for a development 
+licence or mining lease; 
+• Development licence to develop the specified 
+area and apply for a mining lease or to retain 
+the mineral resources within the specified area; 
+• Mining lease to perform mining activities within 
+the area specified in the lease. 
+For each type of licence, the Mineral Bill outlines 
+the application process, criteria for granting the 
+licence, and the terms, conditions and statutory 
+requirements attached to the licence. The Bill also 
+includes provisions for compensations paid for 
+land, cultural and external disruptions, and royalty 
+payments to the government from development 
+licence holders and mining leaseholders, as well 
+as health and safety requirements for any mining 
+activities.
+Key Energy Stakeholders 
+Fiji’s energy sector management suggests a 
+complex institutional and policy framework 
+with responsibilities allocated among various 
+institutions, including the Ministry of Works, 
+Transport and Public Utilities, the Ministry of 
+Tourism and Public Enterprises, the Ministry of 
+Finance and National Planning, the Ministry of 
+Foreign Affairs and International Cooperation, the 
+Fiji Commerce Commission, the FEA, and the Land 
+Transport Authority (see Figure 14). 
+The current institutional and policy framework 
+for the energy sector involves overlapping 
+responsibilities and gaps in the areas of 
+coordination, regulation and oversight, as well 
+as the lack of a single institution with overall 
+responsibility for planning and policy development. 
+One case in point concerns the roles of FEA.
+The functions and duties of FEA are as follows: 
+• Generate, transmit and distribute electricity at 
+reasonable cost, and operate and manage the 
+related assets;
+• Supply electricity to retail consumers based on sale 
+contracts concluded with individuals or companies; 
+• Issue and grant licences for the supply and 
+operation of an electrical installation. FEA is 
+empowered to determine the amount of the 
+licence fee, the licence conditions, and licence 
+term, to cancel licences if any of the conditions 
+are breached, to make regulations on the 
+conditions to be met by licence applicants and the conditions for suspension, extension and 
+revocation of licences, and to grant certificates of 
+registration to all new electrical installations; and 
+• Develop technical standards and specifications, 
+determine duties of inspectors and procedures 
+for inspections, develop and determine public 
+enquiries and notice procedures, and develop and 
+determine payments and collection methods. 
+The current institutional set-up has placed FEA in a 
+situation where the potential conflict of interest is 
+almost inevitable. On one hand, as a state-owned 
+power utility, FEA has the duty to provide electricity 
+to users and keep itself commercially viable, while 
+on the other hand, it has to take a regulatory role 
+in developing the framework guiding private sector 
+participation in the power sector.
+Although the NEP 2006 foresaw significant 
+restructuring of the responsibilities for planning 
+and regulation, this did not materialise and 
+instead of becoming a planning and regulatory 
+unit, the DoE remained largely confined to project 
+implementation in specific areas such as energy 
+efficiency and rural electrification. Given the 
+challenges regarding the structure of organisations 
+that play a role in the energy sector of the 
+country, the recent draft NEP 2014 has suggested 
+establishing a new National Energy Coordination 
+Committee to be responsible for coordinating and 
+overseeing implementation of energy policies. 
+The draft NEP 2014 also identified serious 
+constraints in knowledge management – in 
+particular, the poor quality or complete lack of 
+national and regional energy sector data – as 
+a major obstacle for policy, planning, rational 
+decision-making, private investment and future 
+performance improvement.
+With respect to creating an enabling environment 
+for renewables, a number of institutions in Fiji 
+have mandates to adjust the legal and regulatory 
+frameworks toward being attractive to potential 
+investors. These include the following: 
+•	 The Ministry of Works, Transport and Public 
+Utilities is empowered to give policy directives 
+to FEA and set targets that FEA is required to 
+meet in performing its functions and duties. 
+• The Fiji Commerce Commission is empowered 
+to determine price adjustments for regulated 
+goods and services, including electricity and 
+fossil fuels. 
+• The Ministry of Public Enterprise and Tourism
+is empowered to scrutinise institutional 
+efficiency and commercial viability of FEA. 
+• The Fiji Electricity Authority is responsible 
+for conducting load forecasting, developing 
+expansion options through simulations and 
+power system planning, developing investment 
+plans, setting the rules for IPP’s and licensing 
+other enterprises that operate in the electricity 
+sector. 
+Significant changes are proposed under the 
+proposed draft NEP 2014 to remove regulatory 
+functions from FEA and strengthen the regulatory 
+mandate and capacity of DoE. In the meantime, 
+the ADB has allocated significant technical 
+assistance to strengthen the capacities of DoE, a 
+project that is expected to start in the first half of 
+2015.
+The Fiji Commerce Commission also regulates 
+retail prices for petroleum products based on 
+submissions made by the private sector suppliers 
+through regular adjustments of maximum 
+retail prices in response to market developments.38
+Unlike power tariffs, which are uniform throughout 
+the country, the price regulation for fossil fuels takes 
+supply cost at a given location into consideration. 
+For example, in remote rural areas these fuels 
+are more expensive, as the long supply chain 
+increases transport cost to these locations. The 
+issue of reducing the cost of fuel imports by 
+changing the current procurement model to 
+competitive tendering has been repeatedly raised 
+in Fiji. 
+As seen in Table 5 below, Liquefied Petroleum 
+Gas (LPG) is the most expensive fuel, considering 
+energy content. While the price regulation based 
+on location sends the right signal to the markets 
+(higher supply costs leads to higher prices) it 
+disadvantages more remote locations, which 
+are typically poorer than the urban areas on the 
+main islands. Table 5: Maximum Retail Prices for Fuels, April 2013
+Product FJD/litre FJD/tonne FJD/MJ MJ/litre
+LPG 2.14 3,820 0.084 25.5
+Unleaded Petroleum 2.58 3,510 0.076 34
+Diesel 2.29 2,726 0.059 38.6
+Kerosene 2.54 3,215 0.069 36.6
+Premix 1.86 2,548 0.055 34
+Source: Fiji Commerce Commission
+Figure 14: Institutional Structure for Energy Sector Management in Fiji3.4 FINANCING AND INVESTMENT
+Given the high costs of imported fuel, it would 
+be economically sensible to develop renewable 
+energy projects in Fiji. In order to boost renewable 
+energy investment, the RBF has introduced a loan 
+guarantee scheme and established mandatory 
+lending ratios that are applicable to renewable 
+energy. RBF is calling for commercial banks to lend 
+2% of their combined loan portfolio to renewable 
+energy projects. 
+In addition, the World Bank supports the Sustainable 
+Energy Financing Project, an initiative designed 
+to provide an incentive package for local banks to 
+increase lending for renewable energy and energy 
+efficiency projects. The project does not subsidise 
+investments but facilitates financing of sustainable 
+energy through partial risk guarantees, which allows 
+participating financing institutions to cover up to 
+50% of their renewable energy lending through the 
+World Bank’s risk-mitigation facility and provides 
+communication and technical assistance to financial 
+institutions. The technical assistance component of 
+the project includes training for loan officers and solar 
+installers in renewable energy and energy efficiency 
+workshops. By 2014, a total of 44 loans had been 
+approved (30 businesses and 14 individuals), which 
+were mainly invested in energy efficiency, solar PV, 
+solar water heating, and biofuel production projects. 
+As of September 2014, the total value of the loan 
+portfolio under the Sustainable Energy Financing 
+Project came to FJD 15 million from ANZ Bank and 
+FJD 5.3 million from the Fiji Development Bank. Up 
+to now, more than 15,000 installations have been 
+financed under the ESFP. 
+By comparison, the investment from private sector 
+lags behind, even though the Government of Fiji 
+has contemplated mobilising private capital for 
+electricity-sector investments since 1995.39 The lack of 
+private investment in the energy sector is attributable 
+to many causes. Two key factors include the overall 
+unfavourable climate of investment for private 
+investors and the inadequacy of the IPP tariffs offered 
+by FEA, according to the Strategic Action Plan.40 The 
+Fiji Government has taken steps to address these 
+two barriers that have hampered private investments 
+in renewables. In May 2014, a major step was taken 
+to improve the general business environment for 
+private sector participation by increasing the IPP 
+rates initiated by the Fiji Commerce Commission for 
+encouraging third party electricity generation and 
+addressing the issue of the lack of public information 
+about renewable energy.41
+In response to the emphasis on renewable energy 
+development through IPP in the draft NEP 2014, 
+the Fiji Commerce Commission made a groundbreaking ruling on minimum tariff rates that FEA 
+must offer to IPPs. The Commerce Commission 
+argued that by not attracting IPPs, FEA was 
+foregoing cost savings in terms of fossil fuelbased generation, with avoidable cost calculated 
+at 0.46 FJD/kWh. Based on this figure, the Fuji 
+Commerce Commission increased minimum 
+IPP tariffs by 17%, from 0.2565 FJD/kWh to 
+0.3308 FJD/ kWh.42
+In the past, FEA has successfully argued that the 
+avoided cost (of thermal generation) cannot be 
+used as a benchmark for determining IPP or feedin tariffs. FEA sees the need to cap IPP tariffs 
+at their average retail tariff minus a “network” 
+charge, which also includes a profit for FEA. This 
+neglects the simple commercial reality that any 
+kWh not supplied from thermal generation means 
+an improvement of FEA’s bottom line as average 
+tariffs are significantly lower than electricity 
+production cost from thermal generation. 
+39 In 1995, the Forum Secretariat (Pacific Energy Program) supported the Fiji DoE in a call for expressions of interest of IPP investors. 40 Seen on pages 32 and 35. 41 Fiji was ranked 60th in the 2013 Doing Business report by the World Bank. Fiji is well below the regional average in some categories, 
+including starting a business. Similar conclusions are drawn in the ADB’s 2013 Private Sector Assessment, which states “The general
+business climate in Fiji is not conducive to attract sufficient private capital and investment levels have never been lower sinceThe National RRA Consultation Workshop attracted representatives from 
+a considerable variety of public, private and civil society organisations. Key 
+government agencies were represented together with senior officials from 
+state-owned enterprises such as FEA and FSC. Representatives of development 
+partners also participated, demonstrating the importance these development 
+partners give to energy policy and energy sector development in Fiji. Considering 
+this broad participation the workshop was a key event in Fiji’s energy policy 
+development process. In total, 83 individuals attended the workshop, including 
+high-level representatives of both public and private sector entities. In addition, 
+representatives of regional and international organisations with interests in Fiji’s 
+energy sector development also attended the workshop, such as the International 
+Union for Conservation of Nature (IUCN), and United Nations Development 
+Programme (UNDP). 
+Four break-out working groups then worked on details of the four service-resource 
+pairs and reported back to the plenary after of intense discussion. Although varying 
+in detail, the results of the work group sessions provide an excellent guideline for 
+the status of the service–resource pairs under consideration. The summary actions 
+provided in the main body of the text take into account not only the workshop 
+results but also further discussions with DoE and other stakeholders. 
+Service-Resource Pairs
+Fiji needs a diversified portfolio of energy sources for enhanced security of supply. 
+The process of identifying priority areas in “service-resources” is focused on 
+options that have not yet been promoted or developed in Fiji but would potentially 
+lead to innovation and new applications due to their cost advantage and their 
+possible role in enhancing energy security, sustainability and diversified supply. 
+They would not prevent the development of “conventional” service-resource pairs 
+but instead provide a perspective for complementary new actions. The following 
+four service-resource pairs have been identified that are consistent with the draft 
+NEP 2014 under consideration by the Government of Fiji. 
+Grid electricity supply – Geothermal energy 
+Geothermal energy has the potential to reduce electricity supply cost in FEA’s 
+grids. More importantly, it could provide base load electricity and protect the 
+utility against price fluctuations for fossil fuels as well as against fluctuations 
+in the hydrological cycle and droughts. It is expected that levelised generation 
+cost for medium-size geothermal power (5-10 MW) would be competitive with 
+all other sources and technologies. Even at the higher end of generation cost 
+reported from international experience (0.12-0.15 USD/kWh), geothermal would 
+be competitive with wind and new hydro while providing firm power without 
+fluctuations. Providing firm capacity for meeting the base load demand is not only 
+technically important for the utility due to less variation in outputs but is culturally 
+very familiar to the utility’s managers and engineers/operators and thus, as with 
+hydropower, more easily accepted in contrast to variable renewables such as solar 
+PV or wind. 
+As of 2011there was no geothermal-based electricity generation in FijiHowever
+IV. OPPORTUNITIES 
+FOR DEPLOYMENT OF 
+RENEWABLE ENERGYSavusavu, Labasa, Sabeto and Vatukoula. A 
+preliminary study by the Japanese Ministry of 
+Economy, Trade and Industry in March 2009 found 
+that there is a “potential for 23 MW of geothermalbased electricity generation in Vanua Levu, at 
+least 20 MW of which is near to the urban centres 
+of Savusavu and Labasa (10 MW is near to each 
+grid)”. Two companies have applied for licences to 
+commence geothermal projects in Fiji; there are 
+no pending licences as of 2015. These companies 
+include Geothermal Electric Ltd and Australian 
+KUTh Energy (now taken over by GeoDynamics 
+Ltd). Geothermal Electric Ltd. is interested in 
+Savusavu and has a target capacity of 200 MWe 
+or more; however, the total energy output could 
+be as low as 3 MWe due to the uncertainty about 
+the temperature and volume of hot water within 
+geothermal reserves in the region.
+Financing for geothermal development from the 
+World Bank Group (WBG) has increased from 
+USD 73 million in 2007 to USD 336 million in 2012, 
+which represents around 10% of its total renewable 
+energy lending. One of the main barriers to 
+accelerating the deployment of geothermal 
+energy projects is the high risk associated with 
+exploratory activities due to their high level of 
+uncertainty. In an effort to further enhance the 
+financing for global geothermal activities, WBG 
+has initiated a USD 500 million project, called the 
+Global Geothermal Development Plan, which was 
+launched in Reykjavik, Iceland, in 2013. The project 
+serves to “better manage and reduce the risks of 
+exploratory drilling to bring geothermal energy 
+into mainstream.” A study on surface exploration 
+among other technical support has been carried 
+out under a Geothermal Compact formed by the 
+World bank in cooperation with Iceland. In addition 
+to these initiatives, there are also some existing 
+instruments within the World Bank, which could be 
+used for risk reduction: 
+• Portfolio guarantees cover a proportion of the 
+losses on the package of loans (or projects) as 
+a whole. This type of instrument was used in 
+Thailand as part of the Clean Technology Fund, 
+Sustainable Energy Finance Programme. To 
+counter the major barrier of lack of long-term 
+financing, as well as financiers’ perceptions 
+of high risk, the Clean Technology Fund 
+offered a guarantee, with a total amount of 
+USD 70 million, to cover part of the potential 
+losses for an energy-efficient or renewable 
+energy portfolio. 
+• Loss reserves operate in a similar manner, except 
+in this case the actual sums required to cover 
+the guarantees are set aside rather than simply 
+• Contingent resource insurance is of particular 
+relevance to geothermal projects, given that 
+they require drilling of costly exploration wells 
+to assess the existence of adequate resources. 
+This instrument pays part of the costs of 
+geothermal wells that prove to be unsuccessful. 
+An example case study for Fiji geothermal 
+exploratory activities could be taken from the 
+Hungary Case GeoFund in 2012. This project 
+comprised three components: a direct investment 
+funding mechanism aimed at reducing capital 
+costs for project developers; risk mitigation to 
+reduce the exploration and operation risks by 
+providing an partial insurance to project investors 
+and developers; technical assistance to provide 
+information and knowledge needed for geothermal 
+project development. With a total final pay-out of 
+USD 3.3 million by WBG, the GeoFund project in 
+Hungary offered a guarantee to pay 85% of the 
+costs of unsuccessful geothermal exploration wells. 
+To further support geothermal energy development 
+in Fiji, the World Bank has decided to provide 
+technical assistance to identify 2-3 major sites for 
+geothermal-based power generation. The study 
+will begin soon.
+Beyond previous studies and endeavour, there is 
+a need for conducting a comprehensive resource 
+assessments which can be used to assist with 
+developing policy proposals support geothermal 
+energy among other efforts including building 
+capacity to design, build, operate and maintain 
+geothermal plants in Fiji, along the lines that other 
+countries, such as New Zealand, Kenya or Indonesia, 
+have developed for using this technology. SouthSouth cooperation with regard to sharing of 
+resources, technology and knowledge should lead 
+to effective technology transfer, in addition to 
+enhancing capacity and technical skills.
+Given the great potential for geothermal energy 
+development in Fiji, the private sector has 
+expressed strong interest in developing this 
+resource. However, to facilitate the investment 
+process, a number of barriers have been identified 
+that currently seem to stifle progress and therefore 
+need to be effectively addressed.
+Firstly, there is the general uncertainty with regards 
+to the IPP framework. The uncertainties relating to 
+tariff as well as other conditions of power purchase 
+agreements weigh heavily on a technology that 
+involves significant exploration risks. The high 
+costs coupled with the failure risk associated 
+with exploration pose a persistent challenge to 
+geothermal development from the perspective of common practice to reduce the drilling costs by 
+using public resources either through government 
+or multilateral development banks. 
+Secondly, there is uncertainty with regard to 
+licensing. The issuance of four special prospector 
+licences is pending and two licences that had been 
+issued by the Department of Mineral Resources 
+have already lapsed. Licensing has been under 
+discussion in the ongoing review of the Mining Act 
+that was undertaken in 2014. Stricter background 
+checks of companies that apply for prospector 
+licences may help to ensure that licensees actually 
+carry out the work after the licence is issued.
+Lastly, there is a significant lack of technical 
+capacity in both the private and public sectors in 
+Fiji; neither DoE, nor FEA nor the Department of 
+Mineral Resources have personnel with specific 
+knowledge and experience in geothermal power 
+development. This suggests that capacity building 
+is needed for the public sector in charge of the 
+development of the geothermal energy. More 
+about geothermal can be found in Annex 1. 
+Grid supply – Solar PV electric generation
+On-grid PV installations are slowly gaining 
+popularity in Fiji, given distributed solar PV’s 
+positive impact through reducing transmission and 
+distribution losses, lowering the need for fossil fuel 
+in power generation, enhancing energy security 
+and leveraging significant investment from the 
+private sector. Distributed solar PV systems work 
+very well in the presence of storage hydro and thus 
+would be an effective addition to the supply mix 
+in Fiji.
+Development of the on-grid PV sector in Fiji is 
+led by the private sector, with investments in 
+small projects in the 10-200 kW range. A new 
+business model promoted by two local companies 
+(Sunergise – a subsidiary of Sunergise International 
+– and Clay Engineering) entails the company’s 
+ownership of such systems operated under a lease 
+contract with the client; i.e. the systems can be 
+easily redeployed if clients terminate contracts. 
+At the end of the contract, customers have three 
+options: extending the arrangement; purchasing 
+the panels; or terminating the arrangement and 
+having Sunergise (or the company in charge) 
+remove the panels. Currently, there are several 
+grid-connected commercial PV installations using 
+the lease model, totalling around 600 kilowattpeak (kWp) in Western Viti Levu. Of these, the 
+largest grid-connected installation is a 250 kWp 
+system at a poultry farm near Ba. Sunergise is the 
+leading solar company in Fiji and has installed a 
+total capacity of 1 MW with an estimated output 
+in Western Viti Levu, where solar irradiation is 
+high. Sunergise suggests that capacity factors 
+around 17% are achievable in this part of Fiji. 
+Apart from the private sector installations, there 
+is also a donor-funded, on-grid project: the Korea 
+International Cooperation Agency has funded a 
+54 kWp installation at the University of the South 
+Pacific in Suva.
+Grid-connected solar has a considerable potential 
+in Fiji when benchmarked against avoided cost 
+of diesel generation of 0.46 FJD/kWh. However, 
+mobilising this potential would require substantial 
+changes in the enabling environment. Currently, 
+privately financed on-grid solar PV projects are 
+only viable for those investors whose daily load 
+curve allows direct consumption of the generated 
+electricity on the premises. Roof- mounted PV 
+installations cost approximately FJD 3,000/kWp in 
+2014, which translated into a levelised production 
+cost of FJD 0.25/kWh. This is significantly lower than 
+FEA’s current commercial tariff (FJD 0.399/ kWh) 
+and is thus an attractive investment as long as no 
+excess power has to be exported into the grid. 
+However, FEA only offers FJD 0.15/kWh as tariff for 
+intermittent power, which is too low to generate 
+any interest from developers in developing solar 
+energy projects. To enable private households 
+to participate in roof-mounted PV generation, 
+a net metering arrangement or viable feed-in 
+tariffs could unleash a boom in privately financed 
+solar generation, although the current domestic 
+FEA tariff (FJD 0.3308/kWh) is lower than the 
+commercial tariff. 
+The Fiji Commerce Commission has ruled in May 
+2014 that FEA must offer FJD 0.3308/kWh to all 
+IPPs. However, FEA argues that these tariffs only 
+apply to firm power and not to intermittent power 
+such as roof-mounted solar PV. 
+At current prices, roof-mounted solar PV shows 
+levelised cost on the order of USD 0.14/kWh, which 
+is lower than FEA’s retail tariffs. Levelised cost 
+of solar would be less than 50% of what can be 
+expected from FEA’s latest investment in 35 MW
+of heavy fuel oil generation, which has a capital 
+cost on the order of USD 1,100 per installed kW and 
+a levelised cost of roughly USD 0.25/kWh at heavy 
+fuel oil supply cost of USD 800/tonne. 
+The favourable generation cost of solar PV has 
+already allowed commercial investors, mainly in 
+the tourism industry, to install roof-mounted solar 
+to partially generate their own power. However, in 
+the absence of either a net metering framework or 
+a viable feed-in tariff, only those FEA clients who 
+have a high and stable daytime load can achieve nature of the load curves for private households 
+and for most commercial electricity consumers 
+excludes them from participating in this market. 
+Grid supply – Biomass-fuelled electricity 
+generation
+Biomass, as stored energy resource, can be used 
+to generate base load electricity if the feedstock 
+supply can be managed effectively. As discussed 
+in the previous chapters, Fiji has a wide range 
+of feedstock, including bagasse from the sugar 
+industry and forestry residues such as sawdust 
+and wood chips from the forestry industry, which 
+have already been used for generating power 
+and heat. The scale-up of these applications is 
+under development and has been supported by 
+Government of Fiji. 
+It was estimated that during 2014 FSC would 
+produce about 450,000 tonnes of bagasse. Wood 
+chips or other biomass are used to supplement 
+bagasse in some of the mills when there is a 
+shortage of bagasse. Forestry residues from 
+the logging and wood-processing industry can 
+also provide a significant amount of feedstock. 
+This industry is estimated to produce nearly 
+200,000 cubic meters (m3
+) of biomass residues 
+per year. 
+Although sugar cane production in Fiji has been 
+declining since 2006, the Government of Fiji is 
+also keen on revitalising the industry. FSC plans to 
+double its bagasse-fired power generation capacity 
+by adding a total of 5–10 MW at Labasa by 2014 and 
+40 MW at Rarawai by 2016, respectively. 
+In addition, Fiji is also looking into other biomass 
+resources, waste-to-energy in particular. The 
+recent study, conducted jointly by UNDP and Fiji 
+DoE in 2014, on resource assessment for wasteto-energy has detailed the amount and type of 
+resources available, covering municipal solid waste, 
+wastewater, livestock waste from the husbandry 
+industry, non-hazardous organic industrial waste 
+and agricultural residues. This will not only address 
+the energy issues but, more importantly, address 
+the environmental challenge posed by the growing 
+population, rapid urbanisation, and changed 
+consumption patterns. 
+Off-grid renewables – Rural energy 
+supply 
+Solar energy has been used for meeting the 
+demand in rural areas. Over the past decades, Fiji 
+has had considerable experience with both standalone PV and solar thermal technology. Solar water 
+heaters are popular in high-cost housing and the 
+tourism sector. Off-grid PV solar systems have 
+been installed in Fiji since the 1980s, beginning 
+with small-scale projects in the islands of Kadavu 
+and Koro. Solar electrification continued over the 
+years with mixed successes, mostly under donor 
+sponsorship.43 In 2008, the European Union 
+funded a programme of solar electrification for 
+schools in rural areas, which included 1 kW systems 
+for schools and 200-watt systems for teachers’ 
+quarters. 
+With the significant decline in system cost and 
+the continued advancement of technology, solar 
+PV has now become the DoE’s preferred rural 
+electrification option for areas without grid access. 
+In total, the DoE had already installed 4,600 
+solar systems between 1990 and 2013 and as of 
+31 December 2014, 5,500 solar home systems 
+were installed. All newly installed systems receive 
+technical support under the DoE programme in 
+order to ensure sustainability of supply.
+For the villages that can be powered by minigrids, over the years the Fiji DoE has supported the 
+installation of approximately 600 mini-grids powered 
+by diesel engines in the power range of 5-35 kVA. Most 
+of the existing mini-grid diesel generation capacity 
+has become non-operational or underperforming 
+largely due to the following reasons: 
+• Rapidly increasing fuel prices in addition to the 
+difficulties encountered in getting fuel from 
+urban centres to the villages and settlements, 
+especially in the outer islands; 
+• Lack of financing for fuels and spare parts;
+• Lack of skilled operators; and 
+• Lack of proper maintenance – most of the 
+existing diesel power generation systems 
+require a complete overhaul, which could cost 
+as much as FJD 3.6 million according to DoE’s 
+estimate. 
+Hybridisation would be an effective way to 
+relieve villagers from the burden of high costs 
+for operation and maintenance (O&M) and fuel. 
+There is an opportunity to convert a significant 
+portion of the 600 diesel-powered rural mini-grids 
+that suffer from high fuel and generation cost 
+(approx. USD 0.56/ kWh or 1 FJD/kWh) and face 
+problems in the fuel supply chain and the O&M of 
+the diesel units. The existing mini-grids represent 
+a substantial asset funded by the government, which could be made more environmentally and 
+economically sustainable by significantly reducing 
+diesel operation time (thus, diesel consumption) 
+through hybridisation with solar PV systems with 
+battery storage. The diesel gensets would be 
+retained and the systems would be optimised in 
+hybrid configurations keeping battery capacity at 
+a minimum.
+Hybrid projects of this nature have started to 
+emerge in Fiji and are financed mainly by private 
+operators in the tourism industry in areas not 
+covered by FEA’s supply. There is also one rural 
+electrification project that has used the technology, 
+which consists of a 10 kWp solar array producing 
+40 kWh per day. Instead of designing the battery 
+bank for 4-5 days of supply (which is necessary 
+when there is no diesel generator), the project 
+could cut total investment cost to approximately 
+USD 50,000 by reducing battery capacity to 
+two days of supply or 80 kWh. Further refinement 
+of the technology could achieve even lower battery 
+capacity but would require a good understanding 
+of the solar regime at a given site. Converting 
+some 500 diesel-powered rural mini-grids into 
+solar-diesel hybrids would cost approximately 
+USD 20 million, including rehabilitation of those 
+diesel generators that have fallen into disrepair.
+Only those mini-grids that are in reasonable 
+condition warrant upgrading to hybrid systems. 
+In locations where mini-grids are dilapidated, the 
+DoE prefers to supply solar home systems as an 
+alternative. Such a retrofit to hybrid would not 
+only safeguard a very substantial investment that 
+the government and participating communities 
+have made but also significantly reduce the 
+burden that pure diesel generation has placed on 
+rural communities in Fiji. Following analysis on 
+the hybridization of a diesel grid, the solar option 
+should be undertaken in the framework of the rural 
+electrification master plan. One of the foci for the 
+analysis is to look into the optimal ratio of diesel 
+to solar PV generation capacity in various settings. 
+National and regional maritime transport 
+– More efficient vessels
+The maritime transport sector, which accounts for 
+22% of fossil fuel use in Fiji, has recently attracted 
+attention as a potential sector where significant 
+quantities of fossil fuels could be conserved through 
+a variety of new technologies and processes. The 
+sector is critical to all aspects of socio-economic 
+development in the region, including migration, 
+transport of goods and services, agriculture and 
+education, as well as evacuation and disaster relief. 
+The regional organisation mandated to support 
+the maritime transport sector in the Pacific region 
+is the SPC’s Economic Development Division, 
+based in Suva. In response to calls from Pacific 
+Forum leaders, SPC has developed a framework 
+for action on transport services. The framework 
+addresses both maritime and civil aviation and has 
+been developed with the broad participation of 
+regional governments and other key stakeholders 
+in the region. The framework has integrated seven 
+themes: governance, capacity development, safety 
+and security, improved access, energy, information 
+and sustainability. The framework acknowledges 
+the potential for fuel savings through both 
+technology and operational improvements and 
+logistics (SPC, 2011). 
+Applied research at the University of the South Pacific 
+(USP) in Fiji and elsewhere in the world suggests that 
+solar- and sail-assisted maritime transport has the 
+potential to reduce fuel consumed by vessels and 
+ships. A research group at USP believes that mediumsized cargo ships and ferries operating in Fiji and 
+across the Pacific are suitable for such retrofits. The 
+USP group has approached a number of potential 
+sponsors to obtain financing for a pilot project in 
+renewable energy-assisted maritime transport. 
+In 2014, SPC completed a study specifically 
+addressing the question of whether alternative 
+energy has a role in sustainable maritime transport 
+within the Pacific Islands region.44 The study 
+concludes that there is clearly a market for sailing 
+and hybrid ships today; the question is not whether 
+they work but whether they are the type of vessel 
+appropriate for the Pacific Islands feeder shipping 
+services for cargo and passengers. In comparing 
+studies completed by ADB and others, and 
+considering the costs of wind power options today, 
+the study further concludes that sail assistance 
+on ships involved in regular relatively large-scale, 
+scheduled inter-island services for freight and 
+passengers is at present not a good investment 
+financially or operationally. Hybrid sail-assisted 
+vessels for the Pacific islands are not considered a 
+realistic commercial option and the study expresses 
+the view that scarce resources such as aid funding 
+should not be spent on these options but focus 
+instead on energy efficiency improvements (hull 
+forms, propellers, paints, etc.). The development of 
+sail or hybrid systems should be conducted on a 
+user-paid or cultural basis. Requirements of service 
+reliability and predictability make the management 
+and governance issues of greater significance than 
+the ship propulsion method, and efforts currently 
+need to be placed in that direction.While it is acknowledged that sail and hybrid 
+propulsion systems have a place for roles in tourism 
+sectors and other niche operations, it is argued that in 
+local and regional shipping services, the emphasis on 
+energy conservation should be carefully studied, along 
+with the efficiency improvements mentioned above. 
+With regard to renewable-assisted maritime 
+transport, it appears that two of the leading 
+regional organisations, USP and SPC, have views 
+that are quite different. There seems to be a need 
+to develop a common strategy for the maritime 
+sector before embarking on investments.In the following section, key recommendations are listed together with the 
+priority actions related to the service-resource pairs identified. These have either 
+been developed at the national RRA workshop or in direct discussions with 
+representatives of key stakeholder institutions. 
+The RRA adopts a coordinated approach and facilitates the setting of priorities 
+that can enhance discussions with bilateral and multilateral cooperation agencies, 
+financial institutions and the private sector with regard to the implementation of 
+actions and initiatives that are identified throughout the RRA process.
+Endorsement of the new National Energy Policy
+As an overarching recommendation, the Government of Fiji is urged to endorse 
+and implement the draft NEP 2014 as soon as possible. Development partners 
+have already committed to support initiatives identified in the draft NEP 2014, such 
+as the development of a rural electrification master plan and the strengthening of 
+the regulatory capacity of DoE. An early endorsement of the draft NEP 2014 would 
+reduce uncertainty and risk in the eyes of prospective energy sector investors and 
+their lenders. 
+Creation of an effective enabling environment for renewable energy
+Efforts should be focused on creating an enabling environment that would allow the 
+government’s objective of attracting private sector investment to the renewable 
+energy sector to materialise. There are three groups of private sector investors 
+that could play a pivotal role in accelerating renewable energy deployment in Fiji: 
+• Small-scale investors (private households and businesses), who could invest in 
+distributed generation (solar, wind) at their respective premises; 
+• Specialised private IPP developers, who could finance a considerable share of 
+Fiji’s new generation requirements; and 
+• Concession developers, who could provide power supply (generation, 
+distribution, retail) in unserved areas, such as Taveuni. 
+The creation of an enabling environment should start with the removal of 
+uncertainty for both prospective investors and their lenders. 
+Firstly, there is an uncertainty with regard to future ownership of FEA. The 2013 
+government budget supplement mentioned the energy sector reform, including the 
+separating FEA’s regulatory and commercial roles, which is close to completion.45
+The Electricity Act review and the proposal of re-defining FEA as a commercial 
+body with both public and private ownership is being further investigated. However, 
+details on these changes still have to be developed. Investors and lenders will be 
+reluctant to move until there is clarity; the earlier this can be established, the more 
+likely private sector investors will be to move forward. The adoption of the draft NEP 
+2014, as explained above, would also add more certainty and clarity.
+Secondly, there is a regulatory risk with regard to IPP investment. The Fiji Commerce 
+Commission determines minimum IPP tariffs (for firm power) when it comes to 
+FEA’s retail tariffs. This is an unusual procedure, as the minimum tariff is prone 
+to shift either upwards or downwards. If an investor expects an upward move in 
+V. RECOMMENDATIONS
+45 It is still an ongoing activity. ADB is working together with the DoE to restructure the departmentthe minimum tariff, he will hold back until a higher 
+minimum tariff has been regulated. If tariffs are 
+regulated downward, it is unclear how existing power 
+purchase agreement contracts would be affected. In 
+this context, it would be worth studying carefully the 
+policy instruments used in Fiji as well as the innovative 
+policy tools developed in other countries. Based 
+on the results, an effective policy scheme could be 
+designed accordingly. 
+It is also advisable to review and harmonise key 
+legislation in order to improve the legal framework for 
+renewable energy development. Such changes could 
+include removal of conflicts of interest in regulation. 
+The new functions of DoE should include the issuance 
+of licences to operate electrical installation, which is 
+currently the responsibility of FEA. While the Fiji 
+Commerce Commission should remain responsible 
+for economic regulation, in line with the draft NEP 2014 
+suggestion, it could be given a stronger mandate to 
+implement these responsibilities through a multi-year 
+regulatory contract or similar instrument. New legal 
+provisions (such as amendment to the Electricity Act 
+or new Energy Act) could be introduced to address 
+the reallocation of planning responsibilities in the 
+energy sector. DoE could be given the responsibility 
+for rural electrification planning, including grid 
+extension and national electrification master plans. 
+Power development and asset management plans 
+prepared by FEA would be expected to comply with 
+these plans. Amended legislation should also allow 
+DoE to enact secondary legislation (regulations) to 
+cover specific topics in relation to the implementation 
+of the draft NEP 2014. 
+While some changes could be achieved in the 
+short term by amending the existing legislation, 
+development of a comprehensive Energy Act could 
+be undertaken as an overarching primary legislation to 
+govern the entire energy sector. It would consolidate 
+various aspects of legislation related to the energy 
+sector by providing a primary legislative background 
+to energy sector coordination.
+Creation of a Renewable Energy 
+Investors Association
+As suggested by private sector stakeholders and 
+prospective investors, a Renewable Energy Investors 
+Association should be formed, as private sector 
+participation in renewable energy development 
+requires a stronger voice in advocating their cause.
+Development of a Coordinated Rural 
+Electrification Master Plan
+Developing a rural electrification master plan was 
+an important element of the draft NEP 2014. It is 
+even more important to ensure that such a master 
+plan be developed in a coordinated fashion, both 
+thematically and institutionally. Rural electricity 
+supply should be provided in connection with 
+rural development and sustainable operation of 
+a power system in rural or remote areas. When 
+developing the plan, it would make both economic 
+and technical sense to look into the low-hanging 
+fruit options, such as hybridisation of the existing 
+diesel-fuelled systems. To take advantage of 
+such options, changes in the existing rural 
+electrification policy might be necessary.
+Coordination amongst the ministries within the 
+Fijian system should be facilitated through the 
+establishment of a National Energy Coordination 
+Committee and the restructuring of roles and 
+responsibilities as suggested by the most 
+recent draft NEP 2014. Effective inter-ministerial 
+coordination is crucial for effective implementation 
+of the draft NEP 2014 targets and associated 
+Strategic Action Plan. 
+Lastly, there is a need for inter-donor coordination 
+on this initiative. Donors interested in active 
+engagement could formulate a consortium 
+to support Fiji’s DoE in developing the rural 
+electrification master plan. 
+Consideration of alternative fuels for 
+maritime transportation
+About 20% of imported fuel is used for maritime 
+transportation in Fiji. One consideration with 
+respect to powering boats with renewable energy 
+sources is whether technological options are 
+mature enough for implementation. The USP has 
+conducted a study on this subject. The practice 
+of using biofuels in boat engines (dual tank) does 
+exist in the Pacific, albeit mostly in outer islands 
+for shorter distance transportation. Whether or 
+not such a practice can be rolled out on a larger 
+scale depends largely upon feedstock availability, 
+management and production, in comparison with 
+the cost of imported fuels. Further study on this 
+concept is required and knowledge-sharing with 
+like-minded islands, such as Tonga, should be 
+encouraged. Exploration and exploitation of 
+geothermal energy
+The Legislative Gap Analysis report proposed 
+development of a geothermal Decree and 
+Regulations. This would mean that geothermal 
+energy would eventually be separated from the 
+Mining Act, which is currently regulating geothermal 
+energy-related activities in Fiji. Geothermal energy 
+attracts increasing attention from investors and 
+thus deserves its own regulatory framework, which 
+could make more detailed and specific regulations 
+and thus help investors understand the benefits 
+and risks associated with investment in geothermal 
+energy development. 
+One example in this case is licensing. The current 
+mechanism is under review with the aim of 
+addressing the lack of committed investment 
+once licensing is granted. One practical approach 
+would be to make the validation of licensing timebounded. If the investor/developer who has been 
+granted a licence lags behind the committed 
+investment, the licensing could be revoked entirely 
+or partially, with some possibility to resume it 
+within an agreed grace period. 
+However, as far as geothermal energy projects 
+are concerned, the biggest risk lies in exploratory 
+drilling. How to minimise the risks of drilling is a 
+priority issue that needs to be solved. There are 
+some mechanisms available to mitigate the risks. 
+However, it is advisable to develop a geothermal 
+development risk mitigation fund supported by the 
+key multilateral development banks, such as the 
+World Bank and ADB. A local fund management 
+unit/office should be established to ensure that the 
+fund is properly managed.ADB (Asian Development Bank) (2013), Re-invigorating private sector investment: A private sector 
+assessment for Fiji, ADB, Mandaluyong City. 
+ADB (2014), “ADB Pacific Economic Monitor 2014”, ADB, July, www.adb.org/publications/pacific-economicmonitor-july-2014.
+APCTT-UNESCAP (Asian and Pacific Centre for Transfer of Technology — United Nations Economic and 
+Social Commission for Asia and Pacific) (2010), Fiji: Renewable Energy Report, APCTT-UNESCAP, Suva. 
+Asmundsson, R.K. (2008), South Pacific Islands Geothermal energy for Electricity Production, IIDA (Icelandic
+International Development Agency), Reykjavík.
+Campo, J.A. and V. Sarmiento (2013). “The Relationship between Energy Consumption and GDP: Evidence 
+from a Panel of 10 Latin American Countries”, Latin American Journal of Economics, Vol. 50, No. 2, 233-255.
+FAOSTAT (n.d.), “Fiji”, http://faostat.fao.org/CountryProfiles/Country_Profile/Direct.aspx?lang=en&area=66,
+accessed November 2014.
+FEA (Fiji Electricity Authority) (2007), FEA Annual Report, FEA, Suva. 
+FEA (2011), FEA Power Sector Development Plan, Vol. 1-3, 24/11/2011, FEA, Suava.
+FEA (2012), “Annual Report 2012”, Suava, FEA, www.fea.com.fj/UserFiles/files/FEA%20ANNUAL%20
+REPORT%202012.pdf. 
+FEA (2014), Terms of Reference for Valuation of FEA Using Discounted Cash Flow, Suava, FEA, January. 
+Fiji Bureau of Statistics (2012a), “Poverty in Fiji: Changes 2002-03 to 2008-09 and Policy Implications”, 
+https://narseyonfiji.files.wordpress.com/2012/04/final-poverty-report-15-februrary-2012-contents-prefaceand-acknowledgement.pdf.
+Fiji Bureau of Statistics (2012b), “Population”, Key Statistics: June 2012, www.statsfiji.gov.fj/.
+Fiji Islands Bureau of Statistics (various years). Overseas Merchandise Trade, Suva. 
+GEF (Global Environmental Facility) (2009) “Mid-Term Report of the Fiji GEF Pacific IWRM (Integrated 
+Water Resource Management) Demonstration Project: Environmental and Socio-Economic Protection in Fiji: 
+Integrated Flood Risk Management in the Nadi River Basin”, www.pacific-iwrm.org/mid-term-reports/GEFPacific-IWRM-Fiji-Draft-Mid-Term-Report.pdf.
+GoF (Government of Fiji) (2014), Sustainable Energy for All: Rapid Assessment and Gap Analysis, GoF, 
+February. 
+Goldstein, B., et al. (2011), “Geothermal Energy”, In IPCC (Inter-governmental Panel on Climate Change)
+Special Report on Renewable Energy Sources and Climate Change Mitigation, (Eds. O. Edenhofer, et al.), 
+Cambridge University Press, Cambridge and New York. 
+Gonelevu, A. (2002), “Mini and Micro Hydropower Development in the Republic of the Fiji Islands”, www. 
+hrcshp.org/en/world/db/Fiji.pdf.
+Holm, A., et al. (2010), Geothermal Energy: International Market Update, Geothermal Energy Association, 
+Washington, D.C.
+Huang, B.N., M.J. Hwang and C.W. Yang (2008), “Causal relationship between energy consumption and 
+GDP growth revisited: A dynamic panel data approach”, Ecological Economics, Vol. 67, No. 1, pp. 41-54. 
+IEA (International Energy Agency) (2013), World Energy Outlook 2013, OECD (Organisation for Economic 
+Co-operation and Development)/IEAParis
+VI. REFERENCESInternational Journal on Hydropower and Dams (2011), World Atlas and Industry Guide 2011, Aquamedia 
+International, Surrey.
+IRENA (International Renewable Energy Agency) (2013), Renewable Power Generation Costs in 2012: An 
+Overview, IRENA, Abu Dhabi. 
+Kumar, A., and S. Prasad (2010), “Examining Wind Quality and Wind Power Prospects on Fiji Islands”, 
+Renewable Energy, Vol. 35, pp. 536-540.
+Kumar, S., (2011), “Co-integration and the Demand for Energy in Fiji”, Global Energy Issues, Vol. 35, No. 1, 
+pp. 85-97. 
+NEP (2014), National Energy Policy, Fiji Department of Energy, Suva, Final Draft, October 2013.
+RBF (Reserve Bank of Fiji) (2014), Economic Growth Projections Revised Upward, Press Release No. 12/2014, RBF. 
+RBF (various years), Quarterly Review, Reserve Bank of Fiji, Suva.
+Saula, I., (2012), “Country Presentation Energy Policy (A) Course: Japan 2012”, IEEJ (International Energy 
+Economics Institute), http://eneken.ieej.or.jp/data/4447.pdf.
+SOPAC (South Pacific Applied Geoscience Commission) (2007), “Biofuel from Coconut Resources in 
+Rotuma: A Feasibility Study on the Establishment of an Electrification Scheme using local Energy Resources”, 
+SPC Applied Geoscience and Technology Division, www.rotuma.net/os/Publications/Biofuel_Rotuma.pdf.
+SOPAC (n.d.), “Catalogue of Pacific Rivers: Fiji”, www.pacificwater.org/_resources/article/.
+SPC (Secretariat of the Pacific Community) (2008), “Fiji Islands Country Profile, prepared for SPC Strategic 
+Engagement, Policy and Planning Facility”, SPC, www.pacificwater.org/_resources/article/files/fiji.pdf.
+SPC (2011), Framework for Action on Transport Services 2011 2020: Improving the Efficiency, Effectiveness 
+and Sustainability of Pacific Transport Services, SPC, Noumea. 
+The Economist (2012), “The Government’s 2012 Budget Includes Radical Tax Reform”, Intelligence Unit, 
+Fiji, 9th January, http://country.eiu.com/article.aspx?articleid=588723243&Country=Fiji&topic=Economy
+&subtopic=Current+policy&subsubtopic=Economic+policy:+The+government’s+2012+budget+includes+
+radical+tax+reform#.
+Trading Economics (2015), “Fiji Unemployment Rate 1982-2015”, www.tradingeconomics.com/fiji/
+unemployment-rate.
+Tukana, A., (2005), A Study of Biogas Digesters as an Animal Waste Management Tool on Livestock Farming 
+Systems in Fiji, Master’s Degree Thesis, The University of Western Sydney, Sydney. 
+UNdata (n.d.), “Fiji”, http://data.un.org/CountryProfile.aspx?crName=fiji, accessed November 2014.
+UNIDO (United Nations Industrial Development Organization) and ICSHP (International Centre on Small 
+Hydro Power) (2013), “World Small Hydropower Development Report 2013: Fiji”, UNIDO and ICSHP, www.
+smallhydropower.org.
+UNSD (United Nations Statistics Division) (2011), 2008 Energy Balances and Electricity Profiles, UNSD, 
+New York.
+World Bank (1978), “Monasavu-Wailoa Hydropower Project (Power 1): Staff Appraisal Report”, World 
+Bank, Washington, D.C., 22 May, www-wds.worldbank.org/ECC9554A-ECB1-4557-B5BA-29707DAF01B7/
+FinalDownload/DownloadId-D81FA78F8F468BACDCA39D5DAC2A596C/ECC9554A-ECB1-4557-B5BA29707DAF01B7/external/default/WDSContentServer/WDSP/IB/2000/08/02/000178830_98101912374259/
+Rendered/PDF/multi_page.pdf.
+World Bank (2011), Republic of Fiji: Poverty Trends, Profiles and Small Area Estimation (Poverty Maps) in 
+Republic of Fiji (2003-2009), World Bank, Washington, D.C.Geothermal Energy
+Geothermal energy is not available in all countries or locations, but where it is 
+found, it is a clean, renewable energy source that produces electricity and heat 
+at very competitive cost. Geothermal energy is ultimately derived from the heat 
+contained in the core of the earth and from radioactive decay within the earth’s 
+mantle. At high temperatures and pressures within the mantle, melting of mantle 
+rock forms magma, which rises towards the surface carrying the heat from below. 
+In some regions where the earth’s crust is thin or fractured, or where magma bodies 
+are close to the surface, there are high temperature gradients. Deep faults, rock 
+fractures and pores allow groundwater to percolate towards the heat source and 
+become heated to high temperatures. Some of this hot geothermal fluid travels 
+back to the surface through buoyancy effects to appear as hot springs, mud pools 
+and geysers. Such hot springs can be observed in many locations in Fiji as shown 
+in figure 12. 
+If the ascending hot water meets an extensively fractured or permeable rock zone, 
+the heated water will fill pores and fractures and form a geothermal reservoir. These 
+reservoirs are much hotter than surface hot springs, reaching temperatures of more 
+than 350°C, and are potentially an accessible source of energy. Reservoirs can also 
+be created artificially (as hot dry rock systems) by injecting water into geothermal 
+rock causing hydraulic fracturing. The natural replenishment of heat from earth 
+processes and modern reservoir management techniques enable the sustainable 
+use of geothermal energy as a low-emission, renewable resource. With appropriate 
+resource management, the heat from an active reservoir is continuously restored 
+by natural heat production, conduction and convection from surrounding hotter 
+regions, and the extracted geothermal fluids are replenished by natural recharge 
+and/or by injection of the depleted (cooled) fluids. 
+Worldwide, geothermal resources have been used commercially for more than a 
+century. Geothermal energy is currently used for base load electric generation in 
+24 countries, with an estimated 67.2 TWh/year of electricity supply provided in 
+2008, at a global average capacity factor of 74.5%. Newer geothermal installations 
+often achieve capacity factors above 90%. Geothermal energy serves more than 
+10% of the electricity demand in six countries and is used directly for heating and 
+cooling in 78 countries, generating 121.7 TWh/year of thermal energy in 2008 
+(Goldstein, et al., 2011). 
+Outside of the United States of America, about 29% of the global installed 
+geothermal capacity in 2009 was located in the Philippines and Indonesia. Iceland, 
+Italy, Japan, Mexico and New Zealand together account for one-third of the global 
+installed geothermal capacity. 
+Fiji’s neighbour, New Zealand, operates 12 geothermal power plants with a total 
+capacity of 975 MW and an annual production of 7,300 GWh or 10 times the total 
+current electricity generation in Fiji. The average capacity factor of New Zealand’s 
+geothermal power plants is 85%; the largest plant, Te Mihi, has an installed capacity 
+of 159 MW and a capacity factor of 86%. This latest plant has an investment cost of 
+about USD 3,000 per kW or USD 0.4 million per annual GWh. This is 85% less than 
+in FEA’s latest hydropower scheme.
+ANNEX:
+GEOTHERMAL ENERGYGeothermal Technology
+Geothermal power generation has a low footprint 
+and is environmentally sustainable. The basic 
+types of geothermal power plants in use today are 
+steam-condensing turbines, backpressure turbines 
+(for small-size plants only) and binary cycle 
+units. Steam- condensing turbines can be used in 
+flash or dry-steam plants operating at sites with 
+intermediate- and high-temperature resources 
+(>150°C). The power plant generally consists of 
+pipelines, water-steam separators, vaporisers, 
+demisters, heat exchangers, turbine generators, 
+cooling systems, and a step-up transformer for 
+transmission into the electrical grid. Power unit size 
+usually ranges from 2 MW to 110 MW, and the unit 
+may utilise a multiple flash system, flashing the fluid 
+in a series of vessels at successively lower pressures, 
+to maximise the extraction of energy from the 
+geothermal fluid. The only difference between a 
+flash plant and a dry-steam plant is that the latter 
+does not require brine separation, resulting in a 
+simpler and cheaper design (Goldstein, et al., 2011).
+Binary cycle plants, typically organic Rankine cycle 
+(ORC) units, are commonly installed to extract 
+heat from low- and intermediate-temperature 
+geothermal fluids (generally from 70°C to 170°C) 
+from hydrothermal and enhanced type reservoirs. 
+Binary plants are more complex than condensing 
+ones since the geothermal fluid (water, steam or 
+both) passes through a heat exchanger heating 
+another working fluid. This working fluid, such as 
+isopentane or isobutene with a low boiling point, 
+vaporises, drives a turbine, and then is air-cooled 
+or condensed with water. Binary plants are often 
+constructed as small modular units of limited MW 
+capacity and could be the technology choice to 
+exploit Fiji’s resources. More recently, geothermal 
+combined cycle plants have been installed that 
+utilise a steam turbine with binary plant heat 
+exchangers acting as the condensers, and additional 
+binary plants operating on the separated brine. A 
+potential variation on the binary cycle concept is the 
+Kalina cycle, which uses an ammonia-water mixture 
+rather than an organic fluid, such as isopentane, as 
+the working fluid. Whichever plant type is selected, 
+the relatively low steam temperatures and pressures 
+mean that the efficiency of conversion of heat to 
+electricity is around 15%, which is lower compared 
+with fossil fuel-fired plants.
+Like all other renewable energy technologies, 
+geothermal power projects typically have high 
+upfront investment costs due to the need to 
+drill wells and construct complex power plants. 
+Operational costs are relatively low and vary 
+depending on plant capacity, injection well 
+requirements, and the chemical composition of the 
+geothermal fluids. Operating costs for geothermal 
+plants are predictable in comparison with 
+combustion-based power plants that are subject 
+to market fluctuations in fuel prices. 
+Investment costs for a geothermal electric project 
+are composed of the following components: (a) 
+exploration and resource confirmation; (b) drilling 
+of production and injection wells; (c) surface 
+facilities and infrastructure; and (d) the power 
+plant. Component costs and factors influencing 
+them are usually independent from each other, 
+and each component is described in the text that 
+follows, including its impact on total investment 
+costs. The first component (a) includes lease 
+acquisition, permitting, prospecting (geology and 
+geophysics) and drilling of exploration and test 
+wells. Drilling of exploration wells in green-field 
+areas is reported to have a success rate of typically 
+about 50% to 60%. Confirmation costs are affected 
+by well parameters (mainly depth and diameter), 
+rock properties, well productivity, rig availability, 
+time delays in permitting or leasing land, and 
+interest rates. This first component represents 
+between 10% and 15% of the total investment cost 
+but for expansion projects may be as low as 1% to 
+3% (Goldstein, et al., 2011). Drilling of production 
+and injection wells (component b) has a success 
+rate of 60% to 90%. Drilling costs vary with type 
+of hole, geology, and mobilisation cost for drilling 
+rigs. Relevant literature quotes typical drilling 
+cost at USD 1 200/m;46 with a drilling depth of 
+500 - 1000 metres, an exploration well would cost 
+around USD 1 million.
+Factors influencing generation cost include well 
+productivity (permeability and temperature), 
+well depths, rig availability, vertical or directional 
+design, special circulation fluids, special drilling 
+bits, number of wells and financial conditions in 
+a drilling contract. This component represents 
+20% to 35% of the total investment. The surface 
+facilities and infrastructure component (c) includes 
+facilities for gathering steam and processing brine: 
+separators, pumps, pipelines and roads. Vapourdominated fields have lower facility costs since 
+brine handling is not required. 
+Factors affecting this component are reservoir 
+fluid chemistry, commodity prices (steel, cement), 
+topography, accessibility, slope stability, average 
+well productivity and distribution (pipeline 
+diameter and length), and fluid parameters 
+(pressure, temperature, chemistry). Source: Goldstein, et al., 2011
+Figure 15: Investment Cost for Geothermal Power
+Surface facilities and infrastructure costs 
+represent 10% to 20% of the investment, although 
+in some cases these costs could be less than 
+10%, depending upon plant size and location. 
+Figure 15 displays typical investment cost for 
+geothermal power generation depending on type 
+of technology. Investment costs are typically below 
+USD 4,000/ kW but may reach USD 6,000/kW for 
+smaller-size plants that are likely to be relevant
+for Fiji.
+Each geothermal power plant has specific O&M 
+costs that depend on the quality and design of 
+the plant, the characteristics of the resource, 
+environmental regulations and the efficiency 
+of the operator. The major factor affecting 
+these costs is the extent of work-over and 
+make-up well requirements, which can vary 
+widely from field to field and typically increase with 
+time. For the United States of America, O&M costs, 
+including make-up wells, have been calculated 
+to be around USD 0.025/kWh. New Zealand 
+reports O&M costs in a range from USD 0.01/kWh 
+to USD 0.014/kWh for plants in the 20-50 MW 
+capacity range, meaning that short-run marginal 
+cost for geothermal generation is in the same 
+range as hydropower or wind.
+Investment and O&M costs lead to levelised 
+generation cost in the order of USD 0.06/kWh. 
+These costs are dependent on technology, 
+capacity factor achieved and discount rates. 
+For smaller plants, lower than 10 MW, levelised 
+costs may reach USD 0.10-0.12/kWh. Even at the 
+high end of the levelised cost figures, geothermal 
+power would be significantly cheaper than any 
+other generation option available in Fiji. Apart 
+from potentially becoming the least-cost option 
+for power generation in Fiji, the development 
+of Fiji’s geothermal resources would significantly 
+enhance energy security and enable the utility to 
+reduce tariffs. 
+At present, power supply is highly vulnerable and 
+exposed to hydrological risks and to market risks 
+for fossil fuel. There are also fuel supply risks for 
+biomass wastes associated with fluctuations in 
+sugar production. 
