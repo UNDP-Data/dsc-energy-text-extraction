@@ -1,0 +1,3713 @@
+E
+N
+I
+P
+S
+GHANA
+RENEWABLES READINESS 
+ASSESSMENT
+R
+e
+n
+e
+w
+a
+b
+l
+e
+s
+ 
+R
+e
+a
+d
+i
+n
+e
+s
+s
+ 
+A
+s
+s
+e
+s
+s
+m
+e
+n
+t
+:
+ 
+G
+H
+A
+N
+A
+November 2015
+Please adjust the spine base on the 
+E
+N
+thickness of the inside pages.
+I
+P
+S
+Copyright © IRENA 2015
+Unless  otherwise  stated,  this  publication  and  material  featured  herein  are  the  property  of  the  International 
+Renewable Energy Agency (IRENA) and are subject to copyright by IRENA. 
+Material in this publication may be freely used, shared, copied, reproduced, printed and/or stored, provided that 
+all such material is clearly attributed to IRENA and bears a notation that it is subject to copyright (© IRENA, 2015).
+Material contained in this publication attributed to third parties may be subject to third party copyright and 
+separate terms of use and restrictions, including restrictions in relation to any commercial use.
+About IRENA 
+The  International  Renewable  Energy  Agency  (IRENA)  is  an  intergovernmental  organisation  that  supports 
+countries in their transition to a sustainable energy future, and serves as the principal platform for international 
+cooperation, a centre of excellence, and a repository of policy, technology, resource and financial knowledge 
+on renewable energy. IRENA promotes the widespread adoption and sustainable use of all forms of renewable 
+energy, including bioenergy, geothermal, hydropower, ocean, solar and wind energy, in the pursuit of sustainable 
+development, energy access, energy security and low-carbon economic growth and prosperity.
+Acknowledgements
+IRENA prepared this report in close collaboration with Lawrence Agbemabiese (University of Delaware, USA) 
+Edward Awafo and Abeeku Brew Hammond (KNUST, Ghana), and Ishmael Edjekumhene (KITE, Ghana). The 
+report benefited from review and consultations with the Ministry of Power as well as the Energy Commission 
+of  Ghana.  IRENA  wishes  to  thank  the  following  experts  for  their  insights  and  constructive  guidance  during 
+the peer review process: David Ato Quansah (KNUST, Ghana), Joseph Essandoh (Energy Commission, Ghana), 
+Monica Maduekwe (ECREEE), Seth Mafo (Ministry of Power, Ghana), Yacob Mulugetta (University of London, 
+UK), Kwabena Otu-Danquah (Energy Commission, Ghana), Bah Saho (ECREEE) and Wisdom Togobo-Ahiataku 
+(Ministry of Power, Ghana).
+Authors: Gauri Singh (IRENA), Safiatou Alzouma Nouhou (IRENA) and Mohamed Youba Sokona (IRENA)
+Disclaimer
+This publication and the material featured herein are provided “as is”, for informational purposes. 
+All reasonable precautions have been taken by IRENA to verify the reliability of the material featured in this 
+publication. Neither IRENA nor any of its officials, agents, data or other, third-party content providers or licensors 
+provides any warranty, including as to the accuracy, completeness, or fitness for a particular purpose or use of 
+such  material,  or  regarding  the  non-infringement  of  third-party  rights,  and  they  accept  no  responsibility  or 
+liability with regard to the use of this publication and the material featured therein. 
+The information contained herein does not necessarily represent the views of the Members of IRENA, nor is it 
+an endorsement of any project, product or service provider. The designations employed and the presentation of 
+material herein do not imply the expression of any opinion on the part of IRENA concerning the legal status of any 
+region, country, territory, city or area or of its authorities, or concerning the delimitation of frontiers or boundaries. 
+GHANA
+RENEWABLES READINESS
+ASSESSMENT
+II
+FOREWORD
+from the Minister        
+of Power
+Ghana is endowed with renewable energy resources that can be utilised to contribute to sustainable economic 
+growth of the country. It has been recognised that these resources can contribute to achieving the Sustainable 
+Energy for All agenda by ensuring access to modern energy services for the majority of rural communities. It 
+has been established that small-scale renewable energy systems can provide affordable and cleaner energy 
+for cooking and heating and for empowering enterprises for increased production, create employment and 
+increase rural income and thereby reduce poverty.
+In  an  effort  to  increase  sustainable  energy  access  to  her  population,  particularly  in  the  rural  areas,  the 
+Government  of  the  Ghana  developed  the  Sustainable  Energy  for  All  Action  Plan,  which  is  anchored  on 
+the  Renewable  Energy  Act  passed  by  the  Parliament  of  Ghana  in  2011,  whose  objective  is  to  provide  for 
+the  development,  management,  utilisation,  sustainability  and  adequate  supply  of  renewable  energy  for 
+generation of heat and power and for related matter. 
+In  implementing  the  SE4ALL  Action  Plan  and  the  Renewable  Energy  Act,  Ghana  received  the  support  of 
+the International Renewable Energy Agency (IRENA) and the ECOWAS Centre for Renewable Energy and 
+Energy Efficiency (ECREEE) to increase the uptake of renewables through the Renewables Energy Readiness 
+Assessment (RRA). The RRA is a process that assesses the potentials and opportunities for renewable energy 
+development  and  identifies  barriers  and  constraints  that  hinders  its  development  and  therefore  identifies 
+possible  solutions  and  concrete  actions  over  a  short-term  to  increase  the  uptake  of  renewable  energy  to 
+contribute to sustainable energy access. The RRA process therefore identifies components in the renewable 
+energy  sector  agenda  that  impedes  its  development  and  identify  potential  opportunities  in  the  form  of 
+investment potentials in the sector. Realising our national development plans will depend on the continuation 
+of  this  support  and  the  identification  of  increased  resources  for  investment,  Ghana  is  actively  looking  at 
+opportunities in the renewable energy sector and ways of maximising investment.
+Ghana is therefore grateful to the International Renewable Energy Agency (IRENA) and the ECREEE for being 
+selected  as  a  participating  country  for  the  Renewable  Readiness  Assessment  (RRA)  Process.  The  actions 
+identified  in  the  RRA  process  will  help  strengthen  our  investment  framework,  create  a  renewable  energy 
+friendly institutional and regulatory framework, support techno-economic assessments of renewable energy 
+systems, and develop a biofuel framework, all of which will go a long way in assisting in the implementation 
+of the Draft Renewable Energy Strategy for Ghana.
+As a founding member, Ghana fully supports the mandate of IRENA to promote the deployment of renewable 
+energy worldwide. We also fully endorse the RRA process, which creates a solid foundation for enhancing the 
+contribution of renewable energy to social and economic development in Ghana and Africa.
+It  is  my  ardent  hope  that  the  RRA  Report  for  Ghana  will  receive  a  wider  international  reception  and 
+consequently provide a medium for increasing investment in renewable energy development in the country 
+with the support of all our development partners.
+Hon. Dr. Kwabena Donkor
+Minister of Power
+III
+IV
+FOREWORD
+from the IRENA
+Director-General
+The Africa High-level Consultative Forum held by the International Renewable Energy Agency (IRENA) in 
+July  2011  highlighted  the  opportunity  presented  to  African  Countries  by  renewable  energy  and  the  need 
+for technical support to countries and regions to identify their readiness to scale up. IRENA’s Renewables 
+Readiness Assessment (RRA) process, initiated as part of the forum’s outcome, involves a holistic evaluation 
+of  a  country’s  social,  economic  and  environmental  conditions,  in  order  to  identify  the  actions  needed  to 
+overcome barriers to deployment of renewables. This is a country-led process, with IRENA primarily providing 
+technical support and expertise to facilitate consultations among different national stakeholders. 
+Since  2011,  more  than  20  countries  in  Africa,  the  Middle  East,  Latin  America  and  the  Caribbean,  Asia  and 
+the Pacific have undertaken the RRA process, which generates knowledge of best practices and supports 
+international co-operation around the accelerated deployment of renewable energy technologies. Ghana, a 
+strong and consistent supporter of IRENA’s mission, is one of those countries. 
+The country has one of West Africa’s highest rates of access to electricity, estimated at around 72% — with 
+over 87% in urban areas and a little under 50% in rural areas — and also exports power to neighbours. However, 
+local demand is growing at about 10% annually, necessitating further growth in energy generation. 
+Ghana is well endowed with renewable energy resource potential, particularly biomass, solar and wind, and 
+to a lesser extent small and mini-hydropower. In combination with energy efficiency measures, renewable 
+energy development would greatly bolster Ghana’s energy security as well as filling the remaining gaps in 
+electricity access.
+The Renewable Energy Law adopted in 2011 provides for the establishment of two crucial policy instruments: 
+the feed-in-tariff (FiT), which creates pricing incentives for renewable power generation; and the Renewable 
+Energy Purchase Obligation (RPO), incumbent on every electrical distribution utility or bulk customer. The 
+law prompted the establishment of a national renewable energy development fund, while the government 
+has channelled levies on energy consumption to finance power sector upgrades. To attract private investment 
+in Ghana’s energy transition, renewable energy technologies have been made exempt from import duty. 
+IRENA wishes to thank Minister Kwabena Donkor and his team at the Ministry of Power for their commitment 
+to this study. We are grateful for their positive engagement and valuable input, which has given us additional 
+insights for further RRAs in Africa and beyond. 
+I sincerely hope that the findings and recommendations from the RRA consultations will enhance Ghana’s 
+pursuit of accelerated renewable energy deployment. IRENA stands ready to provide continuing support for 
+the country to implement the actions identified and further the pursuit of a cleaner and more prosperous 
+energy future.
+Adnan Z. Amin 
+Director-General, IRENA
+V
+VI
+TABLE OF CONTENTS
+LIST OF FIGURES 
+LIST OF TABLES 
+ABBREVIATIONS 
+EXECUTIVE SUMMARY 
+ 
+ 
+VIII
+ 
+ 
+IX
+ 
+ 
+X
+ 
+ 
+XI
+I. 
+INTRODUCTION 
+1
+ 
+ 
+1.1  Country Overview 
+1.2  Energy and Development Nexus in Ghana 
+1.3  The Renewables Readiness Assessment Process in Ghana 
+1
+2
+3
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+II.  ENERGY CONTEXT 
+5
+ 
+ 
+2.1  Regional Context 
+2.2  Energy Supply and Demand in Ghana 
+2.3  Electricity System 
+2.4  Renewable Energy Resource and Potential 
+5
+8
+9
+13
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+III.  ENABLING ENVIRONMENT FOR RENEWABLE ENERGY 
+19
+ 
+ 
+3.1  Key Energy Stakeholders and Institutions 
+3.2  Policy and Regulatory Framework 
+3.3  Financing and Investment 
+19
+21
+22
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+IV EMERGING ISSUES IN THE DEPLOYMENT OF RENEWABLE ENERGY 
+25
+4.1  On-grid Electricity 
+4.2  Decentralised Renewable Energy Applications 
+4.3  Modern Cooking/Heating with Biomass 
+4.4  Opportunities and Constraints Affecting Renewable 
+25
+28
+32
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Energy Expansion 
+35
+ 
+ 
+ 
+ 
+V   REFERENCES 
+37
+ 
+ 
+ANNEX   
+38
+ 
+ 
+VII
+LIST OF FIGURES
+Figure 1 Sector Growth Rates in Ghana, 2009 - 2013 
+1
+   
+Figure 2 Access to fuels in 2010 
+2
+   
+Figure 3 Schematic of WAGP Pipelines 
+7
+   
+Figure 4 Total Primary Energy Supply 
+8
+   
+Figure 5 Trends in Petroleum Imports (between 2000 and 2011) 
+9
+   
+Figure 6 Ghana Electricity Sector Institutional Structure 
+10
+   
+Figure 7 National Interconnected Transmission System of Ghana 
+12
+   
+Figure 8 Global Solar Irradiation in Ghana 
+16
+   
+Figure 9 Annual Mean Wind Profile for Mankoadze and Anloga 
+18
+   
+Figure 10 2013 Electricity Tariffs Compared with Long Run Marginal Cost of Solar PV   
+26
+Figure 11 Procedures for Entry into the Electricity Market with Renewables 
+28
+   
+Figure 12 Map of Recommended Off-grid Communities Showing Solar Radiation Levels 
+29
+Figure 13 ARB APEX BANK GHANA Project Financing Plan 
+30
+   
+Figure 14 Locations of DTI Solar Dryer Tests in 2002. 
+31
+   
+Figure 15 Average Time Saved per Day per Stove-Associated Activity 
+33
+   
+Figure 16 Alternative Activities for Participants Using Improved Cookstoves 
+33
+   
+VIII
+LIST OF TABLES
+Table 1 GDP Growth Rates in Ghana 
+1
+   
+Table 2 Ghana RRA Service Resource Pairs 
+3
+   
+Table 3 ECOWAS Renewable Energy Policy Targets 
+7
+   
+Table 4 Electricity Generation by Plant 
+11
+   
+Table 5 Renewable Energy Priority Projects 
+13
+   
+Table 6 Modern Energy from Biomass Resources 
+14
+   
+Table 7 Identified Mini Hydropower Sites in Ghana 
+15
+   
+Table 8 Potential Small and Medium Hydro Sites 
+15
+   
+Table 9 Gross Wind Resource Potential of Ghana 
+18
+   
+Table 10 Key Institutions in Ghana’s Energy Sector 
+20
+   
+Table 11 Ghana Feed-in Tariffs 
+22
+   
+Table 12 Small-scale Solar PV Systems in Ghana 
+28
+   
+Table 13 Charcoal Savings for Four Toyola Stove Sizes 
+32
+   
+IX
+ABBREVIATIONS
+ECG  
+Electricity Company of Ghana
+ 
+ 
+ECOWAS  
+Economic Community of West African States
+   
+ECREEE 
+ECOWAS Centre for Renewable Energy and Energy Efficiency
+ 
+EREP 
+ECOWAS Renewable Energy Policy
+  
+ 
+FiT 
+Feed-in Tariff
+   
+ 
+GDP 
+gross domestic product
+  
+ 
+GEDAP   
+Ghana Energy Access and Development Project
+   
+GHS 
+Ghana cedi
+ 
+   
+GRIDCo 
+Ghana Grid Company
+    
+GW 
+gigawatt
+    
+    
+GWh 
+gigawatt-hours
+   
+  
+ha 
+hectares
+ 
+   
+IPP 
+independent power producer
+ 
+  
+IRENA     
+International Renewable Energy Agency
+ 
+km 
+kilometre
+ 
+ 
+KNUST  
+Kwame Nkrumah University of Science and Technology
+ 
+kV 
+kilovolt
+ 
+ 
+kWh 
+kilowatt-hour
+ 
+ 
+kWp 
+kilowatt-peak
+ 
+ 
+LPG 
+Liquefied Petroleum Gas
+ 
+ 
+m/s 
+metres per second
+ 
+ 
+m3 
+cubic metres
+ 
+ 
+MoEP 
+Ministry of Energy and Petroleum
+ 
+ 
+Ministry of Power
+ 
+MoP  
+ 
+MW 
+megawatts
+ 
+ 
+NEDCo  
+Northern Electricity Distribution Company
+ 
+NGOs 
+Non-governmental organisations
+ 
+ 
+PPA 
+power purchase agreement
+ 
+ 
+PURC 
+Public Utilities Regulatory Commission
+ 
+ 
+PV 
+photovoltaic
+ 
+ 
+RPO 
+Renewable Energy Purchase Obligation
+ 
+ 
+RRA 
+Renewables Readiness Assessment
+ 
+ 
+SNEP 
+Strategic National Energy Plan
+ 
+ 
+USD 
+United States Dollar
+ 
+ 
+VRA 
+Volta River Authority
+ 
+ 
+WAGP   
+West Africa Gas Pipeline
+ 
+W 
+Watt
+ 
+ 
+X
+EXECUTIVE SUMMARY
+Formerly known as the Gold Coast, Ghana is on the West Coast of Africa. In 2014, 
+the population stood at 27 million, with a relatively high rate growth rate of 2.4% 
+per annum. Its gross domestic product (GDP) has been increasing by about 5.5% 
+per year on average, peaking at 15% in 2011 due to the start of crude oil production. 
+Biomass, consisting mainly of wood fuel like firewood and charcoal and to a lesser 
+extent crop residues, accounts for half the Total Primary Energy Supply. Oil is the 
+second most widely used source of energy in Ghana, accounting for 40% of primary 
+energy supply, followed by hydropower and natural gas accounting for 7% and 3% 
+respectively. Large hydropower and oil-fired plants provide most of the electricity 
+(64% and 36% respectively).
+The Ghanaian power industry is unbundled and consists of state-owned utilities. The 
+generation utilities are the Volta River Authority (VRA) and Bui Power Authority. 
+The  Ghana  Grid  Company  (GRIDCo),  the  Electricity  Company  of  Ghana  (ECG) 
+and  the  Northern  Electricity  Distribution  Company  (NEDCo)  are  responsible  for 
+transmission and distribution along with independent power producers (IPPs) like 
+Sunon Asogli and CENIT Energy. Access to electricity is around 72% with over 87% 
+for urban areas and just under 50% for rural areas. In 2012, total generated electricity 
+in Ghana stood at 12,870 gigawatt-hours (GWh) with demand at 9,000 GWh. This 
+means the country is a net power exporter to neighbouring countries Togo, Benin 
+and Burkina Faso. However, domestic demand is growing annually by about 10% 
+and is expected to reach around 24,000 GWh by 2020. This will require an increase 
+in  generation  capacity  to  more  than  3.5  gigawatts  (GW)  by  2020.  Furthermore, 
+recent constraints in the supply of natural gas caused by damage to the West Africa 
+Gas Pipeline (WAGP) have severely curtailed the capacity of thermal power plants 
+to  meet  peak  demand.  This  amounts  to  around  1,745  megawatts  (MW).  This  has 
+forced the utilities to practise periodic load shedding since August 2012. 
+Ghana enjoys excellent renewable energy resources, particularly biomass, solar, wind 
+and, to a limited extent, small (1 MW - 30 MW, according to Economic Community of 
+West African States — ECOWAS) and mini (100 kilowatt (kW) - 1 MW) hydropower. 
+When combined with aggressive measures to promote energy efficiency, renewable 
+energy development can contribute substantially to expanding energy access while 
+reducing the latent energy crises stalking the country.
+Although, Ghana abounds in renewable energy resources, the bulk of this potential 
+largely remained untapped. In 2011, a Renewable Energy Law (Act 882) was adopted 
+to provide fiscal incentives and regulatory framework to encourage private sector 
+investment. The provisions of the Renewable Energy Law includes: Feed-in Tariffs 
+(FiT),  Renewable  Energy  Purchase  Obligations  (RPO),  Net  Metering  (distributed 
+generation), Off-grid Electrification for Isolated Communities, Promotion of Clean 
+Cookstoves, Research and Development, Renewable Energy Fund (RE Fund), and 
+the establishment of a Renewable Energy Authority (REA).
+This report presents the output of the Renewables Readiness Assessment (RRA) 
+process in Ghana. It highlights a number of bottlenecks impeding the widespread 
+deployment of renewable energy systems in Ghana, and identifies a range of critical 
+actions in key areas, which when implemented, could have a significant impact on 
+the scaling up of renewable energy in the short- to medium-term. The report also 
+identifies stakeholders who are required or expected to play various roles towards 
+the  implementation  of  the  recommended  action  and  the  period  of  time  within 
+which, the actions are realistically expected to be implemented.
+XI
+The  keys  findings  from  the  RRA  process  are  as 
+presented as follows:
+distribution  operators  to  connect  a  renewable 
+energy  generator  within  their  area.  However  the 
+proportion  of  renewable  energy  in  the  electricity 
+mix of bulk consumers has yet to be defined. It is 
+important that this be developed in the context of 
+the target for the entire renewable energy sector.
+Target setting
+The  National  Energy  Policy  objective  of  using 
+10%  of  total  energy 
+renewable  energy 
+production  by  2020  was  translated 
+into  the 
+generation  master  plan  as  10%  of  the  electricity 
+mix.  This  focused  exclusively  on  grid-connected 
+applications,  essentially  6%  dispatchable  and 
+4% variable  renewable  energy  power. 
+Investor 
+interest  in  developing  variable  renewable  energy 
+power  has  increased  at  a  time  when  thermal 
+power  generation 
+is  expensive  and  backup 
+capacity  almost  nil.  The  time  has  therefore  come 
+for the government to assess the grid conditions to 
+accommodate variable renewable energy. This will 
+further  help  establish  technology-specific  targets 
+and  related  definite  capacity  additions,  thereby 
+increasing  market  confidence  and  competition. 
+This should drive down costs.  
+for 
+The  Renewable  Energy  Law  also  provides  for  the 
+establishment of a renewable energy fund to offer 
+financial  incentives,  capital  subsidies,  production 
+subsidies  and  equity  participation  for  renewable 
+energy  power  generation.  However,  the  provision 
+of  payment  guaranteed  to  IPPs,  which  will  affect 
+the  commercial  viability  of  renewable  energy 
+projects,  remains  a  concern  due  to  the  fact  that 
+the  distribution  companies  ECG  and  NEDCo  are 
+saddled  with  debt  and  are  unable  to  meet  their 
+payment  obligations  to  present  suppliers,  and 
+cannot  credibly  form  an  offtake  agreement  for 
+renewable  energy 
+is 
+important  that  appropriate  structures  are  put 
+in  place  to  resolve  such  challenges,  focusing  on 
+capacity  building  for  relevant  public,  private  and 
+civil society organisations.
+investment.  Therefore, 
+it 
+Grid integration of variable renewable energy 
+Ghana has developed a comprehensive grid code, 
+revised  most  recently  in  2009.  This  establishes 
+requirements,  procedures,  practices  and 
+the 
+standards  governing  the  development,  operation, 
+maintenance  and  use  of  the  high  voltage 
+transmission system in Ghana. In its present form, 
+this  grid  code  lacks  two  prerequisites  that  would 
+further  enable  the 
+integration  of  utility-scale 
+variable  renewable  energy  in  the  grid.  These  are 
+generation  forecasting  and  priority  dispatch.  The 
+grid code needs to be revised and include specific 
+conditions  accommodating  renewable  energy 
+generators to provide accurate data. This also has 
+some implications for the system operator, which 
+would have to adapt by developing the necessary 
+capacities  and  procedures  in  its  daily  operation. 
+The grid code should, in addition, provide priority 
+dispatch for renewable power. 
+The local currency (Ghana cedi, GHS) fall could have 
+implications  for  the  development  of  renewable 
+energy projects, as investments are most likely to 
+be denominated in foreign currency, while revenues 
+are expected in cedi. Designing effective currency 
+risk  mitigation  instruments,  would  help  increase 
+investor confidence in financing renewable energy 
+projects.
+Streamlining the renewable energy IPPs procedure 
+for entering the electricity market
+To enter the electricity market, a renewable energy 
+IPP  has  to  interact  with  a  number  of  regulatory 
+agencies  in  the  power  sector,  once  detailed 
+feasibility  studies  have  been  completed.  These 
+include the Energy Commission and Public Utilities 
+Regulatory Commission (PURC), the Environmental 
+Protection  Agency,  Ministry  of  Power  (MoP),  the 
+Ministry  of  Finance  and  the  Ghana  Investment 
+Promotion Agency. These provide various licences, 
+approvals, clearances and incentives linked to the 
+development of the renewable energy project (see 
+figure 11). This complex and lengthy procedure can 
+lead  to  significant  administrative  and  transaction 
+costs, and may discourage potential investors and 
+project developers from entering the market. Thus 
+there is a need to set up a one-stop shop, to reduce 
+complexity  and  assist  IPPs  working  through  the 
+bureaucracy.
+Given the fact that the RPO imposed on distribution 
+utilities  in  the  Renewable  Energy  Law  opens  the 
+door  for  consumers  to  sell  renewable  electricity 
+to  the  grid,  net  metering  solar  photovoltaic  (PV) 
+electricity is an option that can be further explored. 
+However,  the  government  needs  to  engage  in 
+developing standards and codes for grid-connected 
+rooftop  solar  PV  as  well  as  supporting  capacity 
+building efforts for local financial institutions.
+Financial support mechanisms and payment 
+guarantees to IPPs 
+The Renewable Energy Law provides the basis for 
+developing grid-connected renewable energy. This 
+is  because  it  establishes  supportive  instruments 
+like  FiTs  and  RPOs  for  distribution  utilities  and 
+bulk  consumers,  and  requires  all  transmission  or 
+Designing clear policy for off-grid mini-grids
+The  country’s  objective  of  increasing  rural  access 
+to electricity would be facilitated by creating a level 
+playing  field  for  local  private  sector  involvement. 
+XII
+The  support  announced  through  the  renewable 
+energy  fund  (REF)  should  be  clearly  defined, 
+with  reliable  operating  schemes  designed  for  the 
+small-scale  decentralised  renewable  energy  mini-
+grids.  Competencies  and  responsibilities,  as  well 
+as  political  direction  and  relationships  between 
+different  stakeholders,  should  be  clearly  defined 
+on  the  basis  of  local  political  frameworks  and 
+infrastructure.  This  would  provide  a  sustainable, 
+functional  socio-economic  background  for  mini-
+grids in Ghana.  
+range of generation technologies and more complex 
+management systems. Utilities may also perceive the 
+management  of  mini-grids  as  expensive,  so  these 
+may  be  better  run  by  small-  and  medium-sized 
+enterprises and energy savings companies.
+Facilitating end users access to technologies and 
+improving cookstove awareness and acceptability 
+Reviewing  electricity  tariffs  for  off-grid  systems 
+would  help  to  attract  local  private  operators. 
+This  could  be  accompanied  by  end-user  access 
+facilitation  options. 
+include  targeted 
+subsidies  and  deferred  payment  schemes  that 
+could  be  pre-financed  directly  by  the  service 
+providers  or  through  a  microfinance  institution. 
+A  sound  business  model  should  be  developed 
+for both stand-alone systems and mini-grids, and 
+needs to increase the viability and sustainability of 
+decentralised renewable energy projects, as well as 
+access to electricity services in rural Ghana. 
+It  could 
+Increasing political support for promoting 
+sustainable use of biomass energy
+The  government  should  continue  to  create  and 
+support  policy  initiatives  aimed  at  accelerating  the 
+development and promotion of sustainable biomass 
+energy  for  households.  This  is  needed  alongside 
+present  policies  and  goals  focused  on  tackling 
+deforestation  effects  caused  partly  by  traditional 
+cookstove use.
+Getting  the  REF  up  and  running  would  help,  as 
+would  other  finance  support  mechanisms.  These 
+include group lending approaches and sustainable 
+credit  programmes  for 
+low-income  operators 
+and  farmers.  Additionally  researchers  should  be 
+supported in designing, e.g. solar dryers that could 
+be manufactured locally. 
+High interest rates on loans have prevented supply-
+side investors from expanding their businesses and 
+increasing  production.  There  is  a  need  to  further 
+encourage those entrepreneurs who are prepared 
+to  invest,  by  supporting  them  through  building 
+capacity,  grants  programmes  and  providing 
+access  to  working  capital.  Matching  government 
+programmes are required to cultivate fast-growing 
+energy  wood  plots,  improve  charcoal  production 
+technologies  and  skills,  and  improve  cookstove 
+production.
+ 
+in  Ghana  shows 
+that 
+Previous  experience 
+communities  often  prefer  grid  connectivity  as  it 
+has  the  potential  for  higher-wattage  appliances. 
+They may consider solar power to be inferior and 
+even  discontinue  off-grid  systems  to  put  political 
+pressure on governments. This is particularly true 
+where the grid has been extended to neighbouring 
+communities. Most farmers in Ghana have limited 
+knowledge of labour-saving technologies or post-
+harvest  management,  especially  for  perishable 
+produce. There is a need to run awareness-raising 
+campaigns and create communications strategies 
+to  educate  operators  and  farmers  about  the  new 
+business  opportunities  and  off-grid  renewable 
+energy benefits. 
+ 
+Supporting private sector involvement 
+The  relatively  small  size  of  the  off-grid  market 
+means it is not very attractive to foreign investors. 
+Consequently the sector would probably be left to 
+local private operators with the support of donors 
+and development partners. Local private operators 
+often face technical and financial constraints. These 
+include  lack  of  technical  expertise  to  develop 
+insufficient  working 
+bankable  proposals  and 
+capital due to difficulties in accessing loans. Other 
+constraints  include  high  interest  rates,  attributable 
+to the perception of high risk and a lack of financial 
+institution expertise in evaluating off-grid renewable 
+energy  proposals.  There  is  a  need  to  build  the 
+capacity  of  local  private  operators  and  financial 
+institutions  to  develop  and  appraise  bankable 
+decentralised renewable energy project proposals.
+Existing  cookstove  technologies  also  needs  to 
+be  improved,  with  new  and  proven  technologies 
+introduced  through  innovations  that  not  only 
+increase efficiency, but also reduce emissions. This 
+will  decrease  exposure  to  household  air  pollution 
+and  very  likely  to  have  an  impact  on  health  of 
+such households, while continuing to support the 
+local  production  of  cookstoves.  If  consumers  are 
+to  adopt  improved  cookstoves  in  the  long  term, 
+the  government  should  embark  on  critical  mass 
+education to increase product market penetration 
+and acceptability.
+The development and operation of certain renewable 
+energy technologies in mini-grids requires expertise 
+to  assess  the  local  conditions,  and  when  installing 
+and  maintaining  systems.  This  is  particularly  the 
+case for hybrid systems, because they use a greater 
+XIII
+Bui hydropower plant
+Photo: Ministry of Power
+XIV
+I. INTRODUCTION
+1.1 Country Overview
+Previously known as the Gold Coast, Ghana is located on the West coast of Africa. 
+It covers a total land area of 239,000 square kilometres (km2) and is divided into 
+ten  administrative  regions.  Ghana’s  population  in  2014  was  27 million  (Ghana 
+Statistical Service, n.d.), increasing each year at the relatively high rate of 2.4%. This 
+compares to 1.6% for other lower-middle income countries, but is in line with the 
+2.5% average for sub-Saharan Africa (United Nations Development  Programme, 
+2011). The country is endowed with diverse and rich natural resources, including 
+gold, timber, cocoa, diamonds, bauxite and manganese.
+In  2001-2009,  Ghana’s  gross  domestic  product  (GDP)  growth  averaged  around 
+5.5%. This has risen to 8% since crude oil production began in 2010. It peaked in 
+2011 to 15%, as summarised in table 1.
+Table 1: GDP Growth Rates in Ghana
+Economic aggregate
+2009
+2010
+2011
+2012
+2013
+GDP current (million USD)
+25,773
+32,816
+39,517
+40,436
+44,154
+Per capita GDP (USD) 
+1,100
+1,328
+1,606
+1,563
+1,688
+Growth Rates
+%
+GDP at current market prices
+21.3
+25.8
+29.9
+22.2
+16.0
+GDP at constant 2006 prices
+4.0
+8.0
+15.0
+7.9
+7.4
+Source: Ghana Statistical Service, 2013
+The service sector is the backbone of the economy, accounting for about 51% of 
+the country’s GDP in 2013, followed by industry with 28% and agriculture with 21%. 
+The evolution of GDP share for each economic sector in 2009–2013 is presented 
+in figure 1.
+Figure 1: Sector Growth Rates in Ghana, 2009 - 2013
+Source: Government of Ghana, 2013
+1
+1.2 Energy and Development Nexus
+in Ghana
+Authorities  in  Ghana  use  two  different  definitions 
+when it comes to energy access. The Ghana Statistical 
+Service measures access to electricity in terms of the 
+total  number  of  people  living  in  homes  connected 
+to  the  distribution  grid.1  Using  the  Ghana  Statistical 
+Service  definition,  electricity  accounted  for  64.2%  of 
+household  lighting  fuels  in  2010.  Access  to  modern 
+fuels  has  not  kept  up  with  electricity  access.  As 
+illustrated  in  figure  2,  household  access  to  Liquefied 
+Petroleum Gas (LPG) stood at 18.2% in 2010, while the 
+rest of households relied mostly on firewood, charcoal 
+and agricultural residues. The situation is far worse in 
+rural communities where close to 90% of households 
+depend on either firewood or charcoal for cooking. 
+Energy  use  is  linked  directly  to  economic  growth 
+and  living  standard  and  consequently  energy  is 
+essential for development. Equally, energy supply 
+can  have  an  impact  both  environmentally  and 
+financially, with unrestrained energy consumption 
+having an adverse effect. Although the benefits of 
+increased energy to national development are not 
+in doubt, Ghana and many of its neighbours in sub-
+Saharan Africa continue to lag behind in terms of 
+energy access.
+Figure 2: Access to Fuels in 2010
+Data from Ghana Statistical Service (2012)
+administration,  trade  and  hospitality  were  other 
+dominant  sub-sectors.  Energy  demand  in  the 
+service  sector  is  in  the  form  of  electricity  and 
+petroleum fuels. Electricity consumed by the service 
+sector increased by about 11%. This correlates with 
+the sector’s electricity consumption.  
+Per  capita  consumption  of  electricity  was 
+357 kilowatt-hour  (kWh)  in  2012.  This  is  on  the 
+high side compared to about 180 kWh per capita 
+in  sub-Saharan  Africa,  excluding  South  Africa 
+(Bazilian,  et  al.,  2012).  However,  it  is  far  less  than 
+the world average of 2,500 kWh. In 2012, electricity 
+and petroleum product consumption grew by 7.2% 
+and  around  17.2%  respectively.  GDP  growth  was 
+at 7.9%. This suggests GDP growth was somehow 
+correlated  with  electricity,  but  still  lagged  behind 
+petroleum product consumption growth. 
+As  shown  in  figure 1,  industry  overtook  the 
+agricultural sector in 2011 due to oil exploitation 
+and  grew  by  9.1%  in  2012.  The  mining  and 
+industrial  growth, 
+led  the 
+quarrying  sector 
+with  manufacturing  remaining 
+low  at  2.5%. 
+Industrial  electricity  consumption  outpaced 
+industrial  GDP  growth.  It  rose  by  over  15% 
+The  service  sector  recorded  a  growth  of  10.2% 
+in  2012  led  by  transportation  and  storage.  Public 
+1  By contrast, the Ministry of Energy calculates access to electricity in terms of the total population of communities connected to the grid, 
+  regardless of whether homes in that community are connected or not. Going by this method, 72% of Ghana’s population in 2010 were 
+  living in communities that had access to electricity. This report utilises the Ghana Statistical Service definition of energy access as this takes 
+   affordability into account, thereby providing a more accurate assessment of access than is possible using the Ministry of Energy’s definition.
+2
+from  3,900 gigawatt-hours  (GWh)  in  2011  to 
+4,513 GWh in 2012.
+Table 2: Ghana RRA Service-Resource Pairs
+Mini-grid Electricity — Hybrid Sources 
+(Solar Photovoltaic (PV) + Wind or Fossil)
+1.
+Agriculture in Ghana is labour-intensive. Over 90% of 
+agricultural output comes from subsistence farmers 
+cultivating less than two hectares (ha) of land. Diesel 
+for  ploughing  is  the  main  form  of  energy  used  in 
+agriculture, although, there are no records of exactly 
+how much fuel is used. 
+On-grid Electricity — Proven Renewable 
+Energy Sources (Wind or Small Hydro or 
+Solar PV)
+2.
+Crop-drying/Agro Process Heat — Solar 
+Thermal
+3.
+In  dry  periods,  water  flow  to  hydroelectric  dams 
+is  reduced.  Combined  with  the  low  electricity 
+generation 
+reserve  capacity  and  difficulties 
+acquiring  fuel  for  thermal  generation,  this  often 
+leads to power cuts or load shedding. Low rainfall 
+in  2003  and  2007  and  long-term  maintenance 
+on  the  West  Africa  Gas  Pipeline  (WAGP)  in  2013 
+caused  disruption  to  the  power  supply.  This  not 
+only  affected  households,  but  commerce  and 
+industrial  activity.  The  Volta  Aluminium  Company 
+is the best known case in point. Once a flourishing 
+bauxite  processing  company,  it  has  had  to  shut 
+down  some  of  its  production  due  to  inadequate 
+electricity supply and rising power costs. This has 
+meant  job  and  income  losses  for  many  families 
+whose livelihood depends on the company and on 
+related downstream industries. This illustrates the 
+strong correlation between economic development 
+and energy supply in Ghana, especially electricity. 
+The  country’s  GDP  growth  rate  of  8%  will  only 
+be sustained over the coming years if the energy 
+supply is maintained. This warrants an examination 
+of  all  forms  of  available  and  indigenous  energy 
+resources that could play a crucial role in meeting 
+the country’s energy needs. 
+4.
+Cooking/Heating — Modern Biomass
+5. Off-grid Electricity — Solar PV
+sector  and  civil  society  to  be  part  of  the  Ghana 
+RRA team. They were briefed on the RRA process. 
+Several  workshops  were  conducted  throughout 
+the  RRA,  involving  identifying  renewable  energy 
+service-resource  pairs,  selecting  prioritisation 
+criteria  and  filling  in  a  set  of  templates  for  each 
+service-resource  pair.  A  final  RRA  workshop  on 
+9 August  2013  completed  the  service-resource 
+pairs and identified specific action needed to get 
+the  renewable  energy  sub-sectors  going.  The 
+service-resource pairs are listed in table 2. 
+This  report  is  divided  into  four  sections.  The  first 
+section contains the introduction covering country 
+background  and  the  RRA  process  in  Ghana.  The 
+second  is  an  overview  of  the  regional  energy 
+setting.  It  puts  Ghana’s  national  energy  sector 
+in  context,  as  well  as  describing  the  challenges 
+it  faces,  and  provides  an  overview  of  renewable 
+energy  potential  and  use.  It  also  provides  a 
+detailed  discussion  of  the  electricity  sector.  The 
+third section identifies institutions playing a role in 
+Ghana’s  energy  sector.  It  also  defines  key  energy 
+policies  and  regulatory  frameworks  as  well  as 
+finance  and  investment  conditions  in  Ghana.  The 
+fourth  section  discusses  the  RRA  findings  on 
+emerging  concerns  and  enabling  conditions  for 
+scaling  up  the  service-resource  pairs,  presenting 
+the  recommended  actions  and  details  of  the 
+opportunities and constraints. The Annex contains 
+the  detailed  recommended  actions  necessary  to 
+scale up renewable energy in Ghana.
+1.3 The Renewables Readiness 
+Assessment Process in Ghana
+The  Ministry  of  Energy  and  Petroleum  (MoEP) 
+and  the  Energy  Commission  led  the  Renewables 
+Readiness Assessment (RRA) process in Ghana in 
+partnership with the Economic Community of West 
+African  States  (ECOWAS)  Centre  for  Renewable 
+Energy  and  Energy  Efficiency  (ECREEE)  and  the 
+International Renewable Energy Agency (IRENA). 
+The MoEP and Energy Commission invited experts 
+from  key  governmental  institutions,  the  private 
+3
+Solar PV for a school in island community
+Photo: Ministry of Power
+4
+II. ENERGY CONTEXT
+2.1 Regional Context
+Energy  in  Ghana  mirrors  its  broader  regional  setting,  defined  here  in  terms  of 
+ECOWAS. As described in later sections of this report, regional trends in energy 
+markets,  as  well  as  policy  and  regulatory  developments,  significantly  affect 
+prospects for renewable energy development in Ghana.
+The  ECOWAS  region  has  very  low  energy  consumption.  This  is  explained  by 
+insufficient access to modernised forms of energy, including electricity and modern 
+cooking fuels. These are key to building economic activity and reducing poverty. 
+Electricity access in 2010 exceeded 20% in only 10 out of the 15 ECOWAS countries, 
+namely  Benin,  Burkina  Faso,  Cabo  Verde,  Ivory  Coast,  the  Gambia,  Ghana,  Mali, 
+Nigeria, Senegal and Togo. Ghana’s high electricity access rate was probably due 
+to the successful implementation of its National Electricity Scheme. The average 
+electricity access rate in the region was around 40% in 2011, but for many countries 
+stood at less than 20% (ECOWAS, 2012).
+The  lack  of  electricity  access  is  most  apparent  in  rural  areas,  where  it  fails  to 
+reach  over  95%  of  the  population.  Lower  rural  energy  access  in  most  ECOWAS 
+countries is partly due to low incomes and the underdeveloped electricity supply 
+infrastructure.
+The  majority  of  the  ECOWAS  member  countries  predominantly  use  biomass 
+energy,  which  contributes  more  than  80%  of  the  final  energy  consumption,  as  
+access  to  modern  fuels,  such  as  LPG  and  kerosene,  is  limited  (ECOWAS,  2012). 
+Most  of  the  population  is  in  rural  and  peri-urban  areas,  and  are  dependent  on 
+traditional biomass for cooking and heating, with its related health concerns and 
+environmental consequences.
+If sub-Saharan African countries, especially those in the ECOWAS region, are to 
+reach the Millennium Development Goals by 2015, at least half the rural and peri-
+urban  population  must  gain  access  to  modernised  energy  services.  This  access 
+plays a key role in economic and social development. To support such development, 
+ECOWAS member countries have made some investments in the energy sector to 
+improve their population’s access to modernised energy services. However, these 
+countries still face common problems and concerns such as: (i) a low rate of access 
+to  modern  energy  services;  (ii)  a  difference  between  urban  and  rural  access  to 
+modern energy services; (iii) an inadequate institutional and regulatory framework 
+offering incentives for new energy service providers and investor protection; (iv)  a 
+substantial  dependence  on  oil  products  for  power  generation  and  rural  lighting 
+(v)   barriers  to  the  development  of  local  and  renewable  energy  sources;  (vi)  a 
+lack of strong political support and will to improve energy efficiency and a lack of 
+national access targets for energy services.
+ECOWAS  has  taken  the  initiative  in  promoting  sustainable  energy  technologies 
+and harmonising national energy legislation to increase energy supply autonomy 
+and massively improve access to modern energy services. This is a policy response 
+to rising energy security concerns, continued lack of energy access and the need to 
+mitigate climate change. In order to achieve these goals, various policy initiatives 
+and programmes have been developed in the ECOWAS region. They are outlined 
+as follows:
+In  2006  ECOWAS  published  a  white  paper  concerning  the  regional  policy  on 
+access to energy services for populations in rural and peri-urban areas. It expects 
+an  increased  access  to  energy  services  and  at  least  20%  of  new  investments  in 
+5
+locally 
+electricity  generation  originating  from 
+available  renewable  resources.  The  white  paper 
+calls for 100% access to electricity by 2015, to meet 
+the  basic  needs  in  urban  and  peri-urban  areas 
+and 36% basic needs access for rural households. 
+ECOWAS  also  hopes  to  achieve  100%  access  to 
+modern  fuel  by  2015,  with  50%-70%  provided 
+through LPG and the rest through improved wood 
+fuel cookstoves. 
+Gas  Company’s  Itoki  natural  gas  export  terminal 
+in  Nigeria.  It  then  continues  offshore  to  Takoradi 
+in  Ghana  via  a  beachhead  in  Lagos.  Gas  delivery 
+laterals from the main Lagos — Takoradi line provide 
+connections to Cotonou in Benin, Lome in Togo and 
+Tema  in  Ghana.  The  WAGP  was  commissioned  in 
+2008 and has a maximum capacity of 474 million 
+standard  cubic  feet  (MMscf)  per  day.  The  WAGP 
+Company  owns  and  operates  the  WAGP.  This 
+multinational  is  owned  by  Chevron  West  African 
+Gas Pipeline (36.7%), Nigerian National Petroleum 
+Corporation  (25%),  Shell  Overseas  Holdings 
+(18%),  Takoradi  Power  Company  (16.3%),  Société 
+Togolaise  de  Gaz  (2%)  and  Société  BenGaz  (2%). 
+Nigeria, whose natural gas reserves are estimated 
+at  180.5 trillion  cubic  feet,  supplies  gas  to  the 
+WAGP (West African Gas Pipeline Authority 2011).
+The West African Power Pool has issued a revised 
+master plan aiming to create a regional electricity 
+market  by  2020-2025.  ECOWAS  countries  have 
+been classified in the plan as follows:
+i.  potential self-sufficiency due to large coal-fired 
+thermal  power  plants,  after  2020  —  Senegal, 
+Ivory  Coast,  Ghana,  Nigeria,  Togo/Benin  and 
+Niger; 
+The  ECOWAS  Regional  Electricity  Regulatory 
+Authority  was  created  in  2008.  Its  aim  is  to 
+ensure  the  regulation  of  cross-border  exchanges 
+in  electricity  and  provide  substantial  support  for 
+member state national electricity regulators.
+ii.  expected  to  remain  dependent  on  power 
+imports from neighbouring countries up until at 
+least 2020 — the Gambia, Guinea-Bissau, Mali, 
+Burkina Faso and Niger; and
+In  2008,  the  ECOWAS  Regional  Centre  for 
+Renewable Energy and Energy Efficiency (ECREEE) 
+was established by the ECOWAS energy ministers. 
+They  were  supported  by  the  Governments  of 
+Austria  and  Spain  and  had  technical  assistance 
+from  the  United  Nations  Industrial  Development 
+Organisation.  ECREEE  was  founded  in  2010  in 
+Praia,  Cape  Verde,  and  is  expected  to  further 
+galvanise  efforts  previously  initiated  in  several 
+ECOWAS  member  states.  These  were  aiming  to 
+mainstream  renewable  energy  into  their  national 
+energy  policies.  The  creation  of  ECREEE  greatly 
+facilitated  the  subsequent  development  of  an 
+ECOWAS  Renewable  Energy  Policy  (EREP).  This 
+was  adopted  by  member  countries  in  November 
+2012  with  several  objectives.  These 
+include 
+improving energy supply safety and sustainability 
+and  reducing  imported  fossil  fuel  dependency 
+and  exposure  to  volatile  hydrocarbons.  Its  other 
+objectives  include  promoting  rural  and  urban 
+energy access, creating a favourable environment 
+for private sector investment and using renewable 
+energy to drive the industrial, social and economic 
+development  (EREP,  2012).  Table  3  displays  the 
+EREP targets. 
+iii.  potential power exporters after 2018 usually by 
+developing hydropower — Ivory Coast, Guinea, 
+Sierra Leone and Liberia.
+The bulk of electricity supply capacity additions are 
+expected to come from large hydropower and natural 
+gas.  The  master  plan  envisages  adding  16,000 km 
+of  transmission  lines  and  10,000 megawatts  (MW) 
+of  installed  capacity.  Of  this,  7,000 MW  will  be 
+derived from hydropower sources by 2025. The plan 
+also  adds  10%  renewable  energy  (excluding  large 
+hydropower)  into  the  regional  electricity  fuel  mix. 
+A  330 kilovolt  (kV)  Ghana-Togo  interconnection 
+project is expected to be commissioned in December 
+2014 (ECOWAS, 2013).
+After  ECOWAS  proposed  a  natural  gas  pipeline 
+across  West  Africa  in  1982,  Benin,  Ghana,  Nigeria 
+and Togo heads of state signed the WAGP treaty 
+in 2003. The pipeline was to transport natural gas 
+for  power  plants  and  industries  using  heat,  from 
+Nigeria  to  Benin,  Togo  and  Ghana.  As  illustrated 
+in figure 3, the 678 km pipeline connects with the 
+existing  Escravos-Lagos  pipeline  at  the  Nigeria 
+6
+Figure 3: Schematic of WAGP pipelines
+BENIN
+NIGERIA
+TOGO
+Onshore Pipeline
+56km x 30’
+GHANA
+Cotonou
+R+M Stn
+Lome
+R+M Stn
+Lagos
+Beach
+Comp
+Station
+Existing ELP
+Pipeline
+Tema
+R+M Stn
+Takoradi
+R+M Stn
+Main line
+569km x 20’
+Source: WAGPCo, 2014
+Table 3: ECOWAS Renewable Energy Policy Targets
+2010
+2020
+2030
+EREP renewable energy options (MW)
+0
+2,425
+7,606
+Total renewable energy penetration (incl. medium and large hydro)
+32%
+35%
+48%
+EREP renewable Energy options (GWh)
+0
+8,350
+29,229
+Total renewable energy production (incl. medium hydro)
+26%
+23%
+31%
+Off-grid (mini-grids and stand-alone) share of rural population served 
+form renewable energy (%)
+22%
+25%
+Biofuels (%)
+5%
+15%
+Improved cookstoves (percentage of population)
+60%
+100%
+Efficient charcoal production
+60%
+100%
+Solar water heating and industrial water preheating technologies
+•  Residential sector & district health centres, maternities, school 
+25%
+50%
+kitchen and boarding schools
+•  Agro-food industries 
+•  Hotels for hot sanitary water 
+10%
+10%
+25%
+25%
+Source: ECREEE, 2012
+In co-operation with ECREEE and the International 
+Atomic  Energy  Agency,  IRENA  has  created  a 
+modelling tool for West African countries called the 
+ECOWAS Renewable Energy Planning Model. This is 
+for power sector planning that meets various system 
+requirements including reliability. It also accounts for 
+the  optimal  economic  configurations  —  including 
+both  investment  and  operation  costs  —  of  the 
+system to meet daily and/or seasonally fluctuating 
+demand.  Using  this  tool, 
+IRENA  developed  a 
+transition scenario for the renewable power sector 
+in ECOWAS countries. This shows that the share of 
+renewable technologies in the region could increase 
+from 22% of electricity generation at present to as 
+much as 52% in 2030 (IRENA, 2013). This is in line 
+with the EREP targets outlined above. 
+is  positioning 
+itself  as  a  major  player 
+Ghana 
+in 
+regional  electricity  market 
+by  strengthening  and  extending  transmission 
+interconnections  to  neighbouring  countries.  Apart 
+from the existing supplies to Togo and Benin, it plans 
+the  ECOWAS 
+7
+haulage,  road  and  water  passenger  transport,  and 
+rail, but also in electricity generation, farming, fishing 
+and  industry.  According  to  the  2010  Population  and 
+Housing Census, 17.8% of Ghanaians use kerosene as 
+their main source of lighting. LPG is used as a cooking 
+fuel  in  more  than  18%  of  households.  Other  fuels 
+(electricity, kerosene, etc.) are used for cooking by less 
+than 1% of households in Ghana (Energy Commission, 
+2014).
+to export power to Burkina Faso and Mali in 2014 and 
+2016 respectively (GRIDCo, 2011). To this end, a new 
+330 kV interconnection between the Volta region in 
+Ghana and Lome in Togo was planned for 2013. A 
+new 225 kV interconnection with Burkina Faso from 
+Bolgatanga is expected to be commissioned in 2014 
+(ibid). It is expected that by 2015, the transmission 
+systems upgrade would enable transmissible power 
+capacity  of  about  191 MW  to  Burkina  Faso.  The 
+Ghana  Grid  Company  (GRIDCo)  is  also  planning 
+a  new  225 kV  interconnection  from  Bolgatanga 
+to  Mali  via  Burkina  Faso  in  2016.  By  2020,  a  new 
+225 kV interconnection with the grid in Ivory Coast 
+will be established through Prestea in the Western 
+Region  of  Ghana.  A  generation  master  plan  has 
+been prepared in keeping with Ghana’s long- term 
+strategy of meeting domestic needs while increasing 
+energy  exports.  This  would  increase  generation 
+capacity  from  2,680 MW  in  2012  to  5,500 MW  by 
+2026.  The  first  phase  of  capacity  additions  means 
+converting single cycle into combined cycle plants 
+and therefore increasing their capacities by about a 
+third. 
+Natural  forests  supply  the  bulk  of  wood  fuel 
+consumed  in  Ghana  -  up  to  90%.  The  remainder 
+comes from wood waste, like sawmill residue and 
+plantations  (Government  of  Ghana,  2012)  and 
+accounted for 38% of total final energy consumed 
+in  2012.  Charcoal  has  been  steadily  growing  in 
+importance  compared  to  firewood.  Since  2009, 
+Charcoal’s  share  of  total  biomass  supply  has 
+increased  by  26%  while  firewood  production 
+has  increased  by  an  almost  negligible  amount  of 
+1%.  Trends  in  biomass  consumption  mirror  this 
+pattern. Charcoal consumption increased by 18% in 
+2009-2013  compared  to  a  1%  growth  in  firewood 
+consumption  over  the  same  period  (Energy 
+Commission,  2014).  Total  national  petroleum 
+product consumption has doubled over the 12-year 
+period. Hydropower and natural gas accounted for 
+7% and 3% primary energy supply respectively.
+2.2 Energy Supply and Demand in Ghana
+Biomass consisting mainly of wood fuel, like firewood, 
+charcoal and to a lesser extent crop residues, accounts 
+for  half  the  Total  Primary  Energy  Supply.  Oil  is  the 
+second  most  widely  used  form  of  energy  in  Ghana, 
+accounting  for  40%  of  primary  energy  supply, 
+while  hydro  and  natural  gas  account  for  7%  and 
+3%  respectively  (see  figure  4).  The  main  petroleum 
+products are gas oil (diesel), petrol, kerosene and LPG, 
+with gas oil being the most widely consumed. The main 
+use of gas oil is transport, namely dry and wet cargo 
+The  Tema  Oil  Refinery  is  unable  to  meet  daily 
+national  demand  for  petroleum  products  of 
+60,000  barrels  per  day.  Imports  compensate  for 
+the  supply  shortfall,  as  shown  in  figure  5.  Rising 
+oil  product  imports  had  a  direct  impact  on  the 
+country’s  petroleum  import  bill.  This  has  been 
+growing consistently from USD 0.56 billion in 2003 
+to USD 3.44 billion in 2012. Petroleum import costs 
+Figure 4: Total Primary Energy Supply
+250
+200
+150
+PJ
+PJ
+100
+50
+0
+2000
+2002
+2004
+2006
+2008
+2010
+2012
+Oil          Bioenergy          Hydro          Natural gas
+2000
+2005
+2010
+2012
+Based on: IRENA data from the International Energy Agency and the Energy Commission of Ghana 
+8
+Figure 5: Trends in Petroleum Imports (between 2000 and 2011)
+Source: National Petroleum Authority, 2012.
+are susceptible to the international crude oil price 
+and the high demand for petroleum products in all 
+sectors  of  the  Ghanaian  economy.  Although  this 
+represented  about  8.5%  of  Ghana’s  GDP  in  2012, 
+it  put  a  great  deal  of  strain  on  Ghana’s  foreign 
+exchange reserves, as it accounted for around 19% 
+of  total  merchandise  imports  of  USD 17.7 billion 
+and 63% of gross international reserves in 2012.
+growing at about 10% per annum. According to the 
+Ghanaian  Strategic  National  Energy  Plan  (SNEP), 
+electricity  demand  is  due  to  grow  from  less  than 
+9,000 GWh in 2012 to about 24,000 GWh by 2020. 
+This will require generation capacity to rise to over 
+3.5 gigawatts (GW) by 2020.  
+The institutional arrangement of Ghana’s electricity 
+sector  is  displayed  in  figure  6.  MoP  is  responsible 
+for  policy  formulation  and  some  aspects  of  its 
+implementation.  The  Public  Utilities  Regulatory 
+Commission  (PURC)  and  the  Energy  Commission 
+are  the  economic  and  technical  regulators  of  the 
+energy sector respectively. As the Ghanaian power 
+industry is unbundled and consists of state-owned 
+utilities. The generation Utilities are the Volta River 
+Authority (VRA) and Bui Power Authority. GRIDCo, 
+the  Electricity  Company  of  Ghana  (ECG)  and 
+Northern Electricity Distribution Company (NEDCo) 
+are  responsible  for  transmission  and  distribution 
+along with IPPs — Sunon Asogli and CENIT Energy.
+2.3 Electricity System 
+Electricity accounted for about 13% of total energy 
+consumed in Ghana in 2013 (Energy Commission, 
+2014).  However,  access  to  electricity  is  skewed 
+towards  urban  households,  with  over  87%  having 
+access  to  grid  electricity.  This  compares  with  just 
+under half of rural households using electricity as 
+their main lighting source (Ghana Statistical Service, 
+2012). Overall, electricity demand is estimated to be 
+9
+Figure 6: Ghana Electricity Sector Institutional Structure
+Ministry
+of Power
+Generation 
+Total  installed  electricity  generation  capacity  at 
+December 2013 is 2,847 MW (Energy Commission, 
+2014).  Hydropower  capacity  constitutes  64%  of 
+total  generation  capacity  and  thermal  capacity 
+36%. Hydropower generation capacity includes the 
+Akosombo, Kpong and Bui hydropower generation 
+facilities.  Thermal  capacity  sources  include  the 
+Takoradi  Power  Company,  Takoradi  International 
+Company,  Sunon-Asogli  Power,  Tema  Thermal 
+Plant 1, Tema Thermal Plant 2, Mines Reserve Plant 
+and  CENIT  Energy.  The  country’s  total  electricity 
+generated  through  the  grid  was  12,870 GWh  (see 
+table  4).  Recent  constraints  in  natural  gas  supply 
+caused  by  damage  to  the  WAGP  have  severely 
+curtailed the capacity of thermal power plants to 
+meet  peak  demands  of  about  1,745 MW.  Sunon-
+Asogli Power, which runs exclusively on natural gas, 
+was  particularly  affected.  Increasingly  frequent 
+shortfalls in generation have forced the utilities to 
+apply  periodic  load  shedding  since  August  2012. 
+Load shedding is expected to be reduced when the 
+recently commissioned Bui Hydro project reaches 
+full generation capacity of 400 MW, and gas supply 
+from the WAGP is fully restored.
+To guide public and the private sector investment 
+in generation, the country’s 2011-2026 generation 
+master plan was commissioned by GRIDCo in close 
+collaboration  with  all  stakeholders  in  the  energy 
+sector.  This  long-term  plan  was  developed  with 
+a  least-cost  assumption.  It  reflected  technical 
+and  economic  constraints  such  as  geographical 
+distribution, power demand evolution, operational 
+constraints  and 
+fuel  availability.  The  plan 
+considered  a  total  installed  renewable  energy 
+capacity share of 10% by 2020 in order to comply 
+with  the  national  renewable  energy  target.  The 
+total  required  dependable  capacity  for  the  base 
+case scenario amounts to 4,200 MW in 2020 and 
+5,550 MW  in  2026.  The  corresponding  installed 
+renewable energy capacity would thus amount to 
+420 MW and 550 MW respectively.
+10
+Table 4: Electricity Generation by Plant
+Total generation (GWh)
+Installed 
+Capacity 
+(MW)
+Plant Type
+2009
+2010
+2011
+2012
+2013
+Hydro Generation
+Akosombo
+Kpong
+Bui*
+1,020
+160
+266
+5,842
+1,035
+—
+5,961
+1,035
+—
+6,495
+1,066
+—
+6,950
+1,121
+—
+6,727
+1,144
+362
+Sub-Total
+1,446
+6,877
+6,996
+7,561
+8,071
+8,233
+Thermal Generation
+Takoradi Power Company (TAPCO)
+Takoradi International Company (TICO)
+Tema Thermal 1 Power Plant (TT1PP)
+Tema Thermal 2 Power Plant (TT2PP)
+Mines Reserve Plant (MRP)
+Sunon-Asogli Power Ltd. (SAPP)
+CENIT Energy Ltd (CEL)
+Takoradi T3 
+330
+220
+110
+49.5
+80
+200
+110
+132
+453
+1,040
+570
+—
+18
+—
+—
+—
+1,234
+1,160
+591
+28
+20
+138
+—
+—
+1,137
+657
+559
+50
+12
+1,224
+—
+—
+1,061
+1,168
+622
+141
+20
+848
+94
+—
+1,783
+1,032
+475
+94
+—
+694
+454
+102
+Solar Generation 
+VRA Solar Plant*
+2
+—
+—
+—
+—
+3
+Sub-total
+1,234
+2,081
+3,171
+3,639
+3,954
+4,634
+Grand Total
+2,682
+8,958
+10,167
+11,200
+12,025
+12,870
+*Bui and Navrogo were commissioned in 2013
+Source: Ghana Energy Commission, 2014 
+Transmission and Distribution 
+distribution  losses  are  estimated  at  23.6%  and 
+21.3% respectively for each company. 
+The power generated in Ghana is carried through 
+4,000 km of transmission lines across the country 
+to  51  operational  transformer  substations.  The 
+lines operate at various voltages including 330 kV, 
+225 kV  and  161 kV  as  depicted  in  figure  7.  The 
+transmission  company  GRIDCo  has  the  mandate 
+to  provide  all  participants  in  the  power  market 
+with  open  access  to  the  transmission  grid.  One 
+aim  is  efficient  power  delivery,  and  transmission 
+losses  average  4.8%.  For  distribution  purposes, 
+power is ramped down to lower voltages including 
+34.5 kV  and  11 kV  for  major  bulk  customers  such 
+as  ECG  and  NEDCo.  Technical  and  commercial 
+The  drive  for  national  electrification  has  led  to 
+an  expansion  in  the  national  transmission  and 
+distribution  grid  since  the  late  1980s.  Several 
+programmes  and  projects  have  extended  the 
+electric grid to the Brong Ahafo, Northern, Upper 
+East  and  Upper  West  regions  of  Ghana  and  also 
+supported  the  national  electrification  efforts. 
+These  are  the  National  Electrification  Scheme, 
+Northern Electrification Programme, the Northern 
+Electrification  and  System  Reinforcement  Project, 
+the Rural Electrification Programme, and the Self-
+Help Electrification Project.
+11
+Figure 7: National Interconnected Transmission System of Ghana
+Source: Ghana Grid Company Limited (GRIDCo)
+12
+Production Costs and Tariffs
+The  cost  of  power  generation  in  Ghana  varies 
+from  plant  to  plant  depending  on  a  number 
+of  factors.  These 
+include  cost  of  construction, 
+fuel  type  and  non-variable  costs.  Hydropower 
+constituted  about  60%  of  the  electricity  supply, 
+with  generation  cost  at  0.033-0.09 USD/kWh. 
+Thermal  generation  accounted  for  about  40% 
+with  costs  at  0.09 USD/ kWh  for  natural  gas  and 
+0.21-0.32 USD/ kWh for light crude oil and diesel. 
+to  low  rainfall,  the  electricity  mix  has  increasingly 
+shifted  to  costlier  thermal  generation.  This  has 
+had  a  negative  impact  on  the  financial  position  of 
+utility  service  providers  and  justifies  tariff  reform. 
+The  utility  service  providers  therefore  requested 
+a  166%  upward  adjustment  in  electricity  tariffs 
+to  cover 
+their  operational  and  maintenance 
+costs.  In  2013,  PURC  approved  a  tariff  increase  of 
+78.9%  for  all  customer  categories  except  for  the 
+lifeline  tariff,2  which  was  granted  a  65%  increase. 
+The increases were part of efforts to acquire full cost 
+recovery  of  electricity  generation  and  distribution 
+costs. The aim is to introduce this over a scheduled 
+period using an automatic adjustment formula.  
+The average end-user tariff in Ghana is broken down 
+into  bulk  generation  charge,  transmission  service 
+charge and distribution service charge. In 2012 these 
+were estimated at 0.053 USD/kWh, 0.013 USD/ kWh 
+and  0.05 USD/kWh  respectively,  resulting  in  an 
+average  end-user  tariff  of  0.012 USD/kWh  (PURC, 
+2011).  Electricity  consumers  are  grouped  into  three 
+main  categories  -  residential,  non-residential  (or 
+commercial) and special load tariff. These are further 
+subdivided  into  low,  medium  and  high  voltage 
+customers  based  on  their  maximum  demand. 
+Residential and non-residential customers are further 
+segregated into separate tariff categories. 
+2.4 Renewable Energy Resource and 
+Potential
+Ghana  is  well  endowed  with  renewable  energy 
+resources, particularly biomass, solar, wind energy, 
+and  to  a  limited  extent,  small-  and  mini-hydro 
+energy as shown in table 5. When combined with 
+aggressive measures to promote energy efficiency, 
+renewable  energy  development  can  contribute 
+substantially  to  expanding  energy  access,  while 
+reducing  the  latent  crises  of  energy  insecurity 
+stalking the country.
+Ghana’s  electricity  mix  was  historically  dominated 
+by  hydropower,  so  residential  tariffs  were  low 
+and  did  not  reflect  costs.  However,  with  growing 
+electricity demand and hydropower variability due 
+Table 5: Renewable Energy Priority Projects
+Expected 
+Installed 
+Capacity 
+(MW)
+Investment 
+Requirement 
+(US$)
+Potential 
+Renewable Energy 
+Projects
+Accelerated 
+Timeline
+Status
+2 MW constructed; construction of a 
+20 MW plant on-going
+On-grid solar PV 
+plants
+50
+100 – 150
+2012 – 2014
+Medium – small 
+Hydro
+150 – 300
+200 – 650
+2018 – 2020 230 MW feasibility study ongoing
+Grid-tied Rooftop 
+Solar (net metered)
+19 existing installations with total 
+capacity of approximately 1 MW
+50
+100 – 150
+2012 – 2014
+Wind resource assessment underway 
+at 16 sites sponsored by VRA and the 
+Energy Commission
+Wind parks
+150 – 300
+200 – 600
+2018 – 2020
+Source: MoEP, 2014; VRA, 2014
+Biomass Potential
+Ghana’s  total  stock  of  direct  wood  fuel  is  around 
+832 million tonnes.  Unless 
+there  are  dramatic 
+improvements  in  energy  efficiency,  demand  for 
+wood fuel, the dominant energy source, is expected 
+to rise. The increase from 14 million tonnes in 2000 
+is  projected  to  reach  38-46 million  tonnes  by  2015 
+and 54-66 million tonnes by 2020. If this trend were 
+to continue as projected, it would put pressure on 
+the  nation’s  dwindling  forests,  leading  to  major 
+deforestation, with all the associated consequences 
+for climate change, agriculture and water resources. 
+However,  wood  fuel  consumption  seems  to  have 
+stabilised  over  the  last  decade  or  so,  with  a  14.6% 
+reduction in demand between 2000-2014. 
+Timber 
+logging  uses  2.0-2.7 million cubic metres 
+(m3)  biomass  annually,  producing  1.0-1.4 million  m3 
+of logging residues each year. These include edgings, 
+offcuts,  peeler  cores,  slabs,  sawdust  and  residues 
+13
+from  plywood  manufacturing.  The  Kumasi  area  in 
+particular  has    a  concentration  of  residues  due  to 
+the number of sawmills and plywood manufacturers 
+located there, whereas Accra has large-scale furniture 
+mills  in  its  vicinity.  Several  smaller-scale  furniture 
+producers  are  distributed  throughout  the  country. 
+Potential wood residue may  also be obtained from 
+road construction, forest skidding trails for harvested 
+timber  haulage,  forest  clearings  for  agriculture  and 
+surface mining sites. 
+food  crops  in  Ghana.  Maize  is  grown  across  the 
+whole  country.  In  2008,  about  1.5 million tonnes 
+of  maize  were  harvested  from  an  area  of  about 
+850,000 ha, increasing to about 1.9 million tonnes 
+produced  in  2010.  There  has  been  significant 
+rise 
+In  2010,  about 
+13.5 million tonnes of cassava was harvested from 
+an area of about 875,000 ha according to the Food 
+and  Agriculture  Organisation  Statistics  Division 
+in  2013.    High-yielding  new  varieties  of  cassava 
+as  part  of  the  President’s  Special  Initiative  on 
+cassava production, have been in part responsible 
+for the increase in production since 2000. In 2013, 
+the  Food  and  Agriculture  Organisation  Statistics 
+Division estimated Ghana sugar cane production at 
+145,000  tonnes in  2010.  In  Ghana,  sorghum  is 
+cultivated 
+in  the  savannah  zones.  Food  and 
+Agriculture  Organisation  crop  statistics  reported 
+Ghana  sorghum  2010  production  of  about 
+324,000 tonnes from an area of about 253,000 ha. 
+Ghana  jatropha  plantations  currently  cover  about 
+1,534 ha and oil palm plantations about 320,000 ha.
+in  cassava  production. 
+Estimates  by  Duku,  Gu  and  Hagan  (2011)  and 
+Mohammed, et al.  (2013), place bioenergy potential 
+from  crop  residue  at  75-100 terajoules  with  about 
+47.6 terajoules  from  animal  manure.  Approximately 
+976,000 m3  of  forestry  residues  were  generated  in 
+2008,  a  potential  source  of  bioenergy  production 
+(Duku, Gu and Hagan, 2011). There are several other 
+biomass  potential  reserves,  for  example,  trees 
+unsuitable  for  commercial  sale  that  are  removed 
+from  plantations  and  residues  from  lumber  grade 
+tree harvesting, which could also count as potential 
+sources of energy.
+Small- and medium-scale hydropower 
+potential
+Several  oil  palm  and  timber  processing  firms  have 
+taken advantage of their residue streams to generate 
+electricity  for  internal  use  and  also  for  export  into 
+the grid. Table 6 lists some of the companies already 
+generating electricity from their waste resources. Much 
+more can be extracted out of the biomass sector. 
+The  prospect  of  harnessing  the  hydropower 
+potential  of  small  rivers  in  Ghana  has  been 
+investigated for many years, and many potential 
+mini-hydropower  sites  have  been 
+identified. 
+ECREEE  defines  small  hydropower  as  plants 
+with  production  capacity  less  than  30 MW,  but 
+hydropower schemes of up to 100 MW qualify for 
+renewable  electricity  Feed-in  Tariff  (FiTs)  under 
+Ghana’s  Renewable  Energy  Act.  Table  7  shows 
+potential hydropower sites in the different regions 
+with  individual  capacities  of  4  kilowatt  (kW)  to 
+2,000 kW. Table 8 also shows small- and medium-
+scale  hydropower  sites  with  a  total  capacity  of 
+837 MW  also  qualifying  for  the  FiT.  According 
+to  its  national  energy  policy,  the  Government  of 
+Ghana  intends  to  support  the  development  of 
+these additional hydropower capacities. Detailed 
+technical  and  financial  feasibility  studies  are 
+under way at five selected sites. VRA is carrying 
+them out at Juale, Pwalugu, Kulpawn and Daboya 
+while the MoP is conducting the Hemang study.
+Urban  areas  generate  large  quantities  of  organic 
+municipal  waste,  with  Kumasi  and  its  suburbs 
+1,600 tonnes  daily,  while 
+generating  up 
+Accra  and  its    surrounding  areas  produce  up  to 
+2,500 tonnes  daily.  Municipal  waste  generation 
+in 
+from  
+600-800 tonnes  per  day.  As  it  is  convertible  to 
+energy, this is a potential source of bioenergy.
+to 
+the  metropolitan  centres 
+ranges 
+ 
+Besides  wood  residues  and  municipal  waste, 
+energy crops could be used for biofuel production 
+jatropha,  oil  palm, 
+in  Ghana.  They 
+sunflower, soybean and coconut for biodiesel and 
+cassava, maize, sugar cane and sweet sorghum for 
+ethanol  (Ahiataku-Togobo  and  Ofosu-Ahenkorah, 
+2009).  Maize  and  cassava  are  important  staple 
+include 
+Table 6: Modern Energy from Biomass Resources
+Plant location
+Installed capacity (kW)
+Average annual energy (GWh)
+Kwae Oil Mills
+2,500
+6.8
+Benso Oil Mills
+500
+1.9
+Twifo Mills
+610
+2.1
+Juaben Oil Mills
+424
+1.5
+Source: Government of Ghana (2012)
+14
+Table 7: Identified Mini Hydropower Sites in Ghana*
+Potential minimum
+power (kW)
+Potential maximum 
+power (kW)
+Region
+Number of sites
+Upper East and Upper West
+8
+499
+2,100
+Northern
+16
+913
+4,420
+Brong Ahafo
+364
+1,900
+Western and Central
+9
+332
+2,150
+Ashanti
+4
+140
+720
+Eastern
+9
+569
+1,150
+Volta
+17
+4,919
+12,065
+* Individual site potential ranges from 4 kW to 2,000 kW. 
+Table 8: Potential Small- and Medium- Hydropower Sites
+River basin
+Potential (MW)
+Average annual energy (GWh)
+Black Volta
+Koulbi
+68
+392
+Ntereso
+64
+257
+Lanka
+95
+319
+Jambito
+55
+180
+Total:
+282
+1,148
+White Volta
+Pwalugu
+48
+184
+Kulpawn
+36
+166
+Daboya
+43
+ 194
+Total:      
+127
+544
+River Oti
+Juale
+90
+405
+Total:
+90
+405
+River Tano
+Asuaso
+25
+129
+Sedukrom
+17
+67
+Jomoro
+20
+85
+Tanoso
+56
+256
+Total:          
+118
+537
+Pra River
+Awiasam
+50
+205
+Hemang
+90
+336
+Abatumesu
+50
+233
+Kojokrom
+30
+136
+Total:       
+220
+910
+Source: Energy Commission (2010)
+15
+Solar Energy Resource
+The  Ghana  Meteorological  Services  Agency 
+Data  has  been  collecting  for  over  50  years,  data 
+on  the  solar  radiation  and  sunshine  hours.  The 
+probable  error  for  the  daily  irradiation  data  is 
+15%.  The  Mechanical  Engineering  Department  at 
+Kumasi’s  Kwame  Nkrumah  University  of  Science 
+and Technology (KNUST) measures hourly global 
+and  diffuse  irradiance,  where  the  probable  error 
+is  5%.  The  monthly  average  solar  irradiation  in 
+Ghana  ranges  between  4.4-5.6 kWh/m2/day,  this 
+includes 5.3 hours at Kumasi in the cloudy semi-
+deciduous forest region to 7.7 hours at Wa in the 
+dry savannah region. 
+Northern  Ghana,  including  northern  parts  of 
+Brong-Ahafo  and  the  Volta,  have  a  monthly 
+average of 4-6.5 kWh/ m2/ day, which is very high. 
+This  area  also  experiences  a  major  rainy  season 
+between July and September, and the Harmattan, 
+a  hot,  dry  wind,  between  November  and 
+February. Ashanti, parts of Brong-Ahafo, Eastern, 
+Western  and  parts  of  Central  and  Volta  regions 
+have  monthly  average  radiation  level  range  of 
+3.1-5.8 kWh/ m2/ day  (Energy  Commission,  2012). 
+Greater  Accra  and  the  Central  and  Volta  coastal 
+regions  have  monthly  average  radiation  levels 
+between  4.0-6.0 kWh/ m2/day 
+(see  figure 8; 
+Energy Commission, 2012).
+Figure 8: Global Solar Irradiation in Ghana
+N
+5.6
+5.5
+5.3
+5.4
+5.3
+5.2
+5.1
+5
+4.9
+4.8
+4.9
+4.7
+5
+4.6
+4.5
+4.9
+4.6
+5
+Global (Total) Radiation (kWh/m2/day)
+Very Low Diffuse Radiation (32%)
+Very High Diffuse Radiation (48%-53%)
+Moderate Diffuse Radiation (41%-45%)
+300
+60
+120
+180
+240
+Low Diffuse Radiation (36%-40%)
+Kilometers
+High Diffuse Radiation (45%-47%)
+Source : Ministry of Power 
+16
+About  15,000  solar  systems  have  been  deployed 
+in rural areas with an estimated installed capacity 
+of  about  3.2 MW.  This  was  achieved  through  the 
+Ghana  Energy  Access  and  Development  Project 
+(GEDAP)  funded  by  multiple  donors.  It  is  being 
+implemented by MoEP. 
+next six years in increments of 20-25 MW annually. 
+This would ensure the 10% renewables target (wind 
+and  solar)  in  the  energy  portfolio  is  reached  by 
+2020.
+Small-scale grid-connected solar PV systems have 
+been  tested  in  Ghana,  and  there  are  19  existing 
+installations  with  a  combined  capacity  of  around 
+1 MW.  One  of  these  is  the  KNUST  grid-connected 
+solar  PV  system  on  the  roof  of  its  College  of 
+Engineering.  The 
+is 
+24 kW  and  has  monitoring  equipment  that  takes 
+readings at hourly intervals. The system serves as a 
+tool for research and teaching and has been used 
+to assess grid-connected solar PV grid-connected 
+systems.
+VRA commissioned a 2.5 MW grid-connected solar 
+plant in Navrongo in 2013 as part of its Renewable 
+Energy  Development  Programme.  This  aims  to 
+install a total capacity of 10 MW in its first phase. 
+The Navrongo plant is the first “large-scale” solar 
+plant  to  be  integrated  into  the  national  grid.  It 
+comprises six PV arrays covering 3.9 ha. The China 
+Wind  Power  Company  completed  the  installation 
+for USD 8 million funded by VRA, which is receiving 
+a grant of EUR 22.8 m from KfW2 to add another 
+12 MW  at  Kaleo  and  Lawra  in  the  Upper  West 
+Region.  The  state  generator  is  also  negotiating 
+another  57 ha  of  land  for  grid-connected  solar 
+electricity generation at Bongo in the Upper East 
+Region. It hopes to add another 100 MW over the 
+installed  capacity 
+total 
+ 
+A number of international and national developers 
+have shown a growing interest in developing utility- 
+scale solar PV plants. Blue Energy has announced 
+it  plans  to  build  a  155 MW  solar  PV  plant  in  the 
+Western Region of Ghana.
+A section of the solar PV panels of KNUST’s 24 kWp system
+Photo: Ministry of Power
+	  
+2  Formerly  the  Kreditanstalt  für  Wiederaufbau  Bankengruppe  (KfW  banking  group),  meaning  Reconstruction  Credit  Institute  —  a  
+  German government-owned development bank, based in Frankfurt.  
+.
+ 
+17
+Wind Energy Resource
+Ghana’s  technical  wind  power  potential  has  been 
+estimated at more than 5,000 MW. Average wind 
+speeds  are  6.4-7.5  metres  per  second  (m/s), 
+corresponding  to  wind  class  categories  3  and  4 
+shown in table 9. Overall, the most promising areas 
+for  deployment  of  wind  power  plants  are  along 
+the  mountains  in  the  south-eastern  part  of  the 
+country and along the eastern coastal areas of the 
+country. It has been estimated that 200-400 MW 
+of onshore wind power could be established there 
+with  wind  speeds  in  excess  of  8  m/s  (Essandoh, 
+Osei and Adam, 2014).
+150-200  MW.  It  has  also  signed  contracts  for 
+additional  wind  speed  measurement  at  six  sites 
+to  determine  which  are  best  for  wind  power 
+development:  Anloga,  Lekpoguno,  Akplabanya, 
+Mankoadze, Amoma South and Gambaga. 
+To  encourage  grid-connected  wind  energy 
+systems,  a  technical  and  financial  assessment 
+was  conducted  at  KNUST  Energy  Center.  It  was 
+conducted using wind data collected at Mankoadze 
+and Anloga. Wind speeds at Mankoadze averaged 
+6.1  m/s  and  were  taken  at  12  m  heights  between 
+January 2001 and July 2002. Anloga wind speeds 
+were lower, at an average of 5.4 m/s taken at 20 m 
+heights  between  May  2006  and  December  2007. 
+Figure 9 shows that the annual mean wind speed 
+for Mankoadze increases from 6.1 m/s at 12 m above 
+ground level, reaching 9.7 m/s at 100 m.  
+The  VRA  has  entered  into  agreements  with  two 
+wind  infrastructure  manufacturers  and  project 
+developers  -  Vestas  Mediterranean  and  Elsewedy 
+- to develop two wind parks, capable of producing 
+Table 9: Gross Wind Resource Potential of Ghana
+Wind 
+Power at 
+50 m
+Wind 
+Speed at 
+50 m
+Percent 
+Windy 
+Land
+Total 
+Technical 
+Capacity 
+Total Area
+Wind Resource Utility 
+Scale
+Wind 
+Class
+W/m2
+km2
+m/s
+%
+MW
+Moderate
+3
+300 - 400
+6.4 – 7.0
+715
+0.3
+3,575
+Good
+4
+400 – 500
+7.0 – 7.5
+268
+0.1
+1,340
+Very Good
+5
+500 – 600
+7.5 – 8.0
+82
+<0.1
+410
+Excellent
+6
+600 – 800
+8.0 – 8.8
+63
+<0.1
+315
+Total
+1,128
+0.5
+5,640
+Where: W is Watt
+Source: Ministry of Energy, 2013
+Figure 9: Annual Mean Wind Profile for Mankoadze and Anloga
+Source: KNUST
+18
+III.  ENABLING
+  ENVIRONMENT FOR
+  RENEWABLE ENERGY 
+Historically, the institutional framework of the energy sector and associated human 
+capacities was designed to support large-scale, centralised energy infrastructure. 
+For  the  most  part,  however,  renewable  energy  development  requires  more 
+decentralised  governance  approaches,  including  the  creation  of  new  policies, 
+regulations and plans that catalyse the active participation of new players in the 
+public  and  private  domain.  In  addition,  renewable  energy  development  often 
+requires fundamental changes in the roles and responsibilities of key actors making 
+up the energy sector institutional framework. This section reviews the key energy 
+stakeholders  and  the  policy,  regulatory,  financing  and  investment  framework  of 
+the country’s energy sector. 
+3.1 Key Energy Stakeholders and Institutions 
+The  Ghana  energy  system  is  managed  by  the  public  sector.  MoP  is  responsible 
+for formulating, implementing, monitoring and evaluating power sector policies. 
+VRA and Bui Power Authority are state-owned utilities that generate the bulk of 
+the  country’s  electricity  supply.  GRIDCo  manages  the  national  transmission  and 
+system operation and supplies electricity to industrial and mining units as well as 
+to the two VRA electricity distribution companies ECG and NEDCo. 
+A  number  of  regulatory  agencies  have  been  established  by  acts  of  parliament. 
+This is to ensure all players in the energy sector function properly, and to create 
+a  conducive  environment  for  protecting  and  enhancing  private  investment  in 
+the  sector.  These  agencies  are  the  Energy  Commission,  PURC  and  the  National 
+Petroleum  Authority.  The  Energy  Commission  advises  government  on  energy 
+policy and strategy. It is also involved in indicative planning of energy and electricity 
+system  expansion  and  licensing  energy  sector  operators  (Energy  Commission, 
+2006). Established in 1997, PURC is the prime body for setting tariffs and framing 
+customer service regulations. The National Petroleum Authority is an independent 
+regulator which reviews world market price developments, the prices of imported 
+finished products and the operations of Ghana’s oil refinery.
+The  sector  also  has  several  active  non-governmental  organisations  (NGOs), 
+research  institutes  and  universities  as  well  as  industry  associations  involved  in 
+a  range  of  activities.  These  include  renewable  energy  promotion,  research  and 
+deployment. Table 10 lists the institutions whose actions can most influence the 
+renewable energy trajectory in Ghana and briefly describes their functions.
+19
+Table 10: Key Institutions in Ghana’s Energy Sector
+Institutions
+Functions
+Policy and Regulation
+Ministry of Power (MoP)
+Formulates, implements, monitors and evaluates power sector policies
+Ministry of Energy and Petroleum
+Formulates, implements, monitors and evaluates energy sector policies
+Licenses, regulates and monitors energy service providers, develops 
+indicative national energy plans and advises the minister on energy 
+policy 
+Energy Commission (EC)
+Public Utilities Regulatory Commission 
+(PURC)
+Regulates tariffs and enforcement of customer service obligations of 
+all public utilities and IPPs
+Regulates, oversees and monitors activities in the downstream 
+petroleum industry
+National Petroleum Authority (NPA)
+Regulates and manages the utilisation of petroleum resources, and co-
+ordinates policies on petroleum resources
+Petroleum Commission (PC)
+Environmental Protection Agency 
+(EPA)
+Distributes, monitors and enforces environmental policies, including 
+the energy sector
+Encourages and promotes investments in Ghana, providing for the 
+creation of an attractive incentive framework and a transparent, 
+predictable and facilitating environment for investment  
+Ghana Investment Promotion Centre 
+(GIPC)
+Implementation
+Volta River Authority (VRA)
+Generation and transmission of electricity
+GRIDCo
+Electricity transmission services
+Electricity Company of Ghana (ECG)
+Distribution of electricity in southern Ghana
+Northern Electricity Department (NED) Distribution of electricity in northern Ghana
+Crude oil and petroleum product import, crude oil refining and bulk 
+sale of petroleum products to OMCs and bulk consumers
+Tema Oil Refinery (TOR)
+Ghana National Petroleum Corporation 
+(GNPC)
+Oil and gas exploration 
+Bulk Oil Storage and Transportation 
+Company (BOST)
+Planning for laying and managing strategic petroleum product stocks 
+Oil Marketing Companies (OMCs)
+Distribution and marketing of petroleum products
+Education and Research
+Carries out research, development, demonstration and educational 
+activities in energy technology, policy and management
+The Energy Center, KNUST
+University of Energy and Natural 
+Resources (UENR)
+Provides training in science, technology and management of energy 
+and natural resources
+Council for Scientific and Industrial 
+Research (CSIR)
+Pursues the implementation of government policies on scientific 
+research and development  
+Non-governmental Organisations
+Energy policy studies and analysis/clean energy enterprise 
+development
+KITE
+Association of Ghana Solar Industries 
+(GSI)
+Promotes and raises the profile of the solar industry, improves quality, 
+develops standards and arranges renewable energy training
+Promotes energy efficiency/conservation measures and renewable 
+energy technologies.
+Energy Foundation
+New Energy
+Develops and implements clean energy initiatives
+Dedicated to technologies that offer engineering solutions to climate 
+change, energy poverty and environmental degradation 
+CEESD
+20
+3.2 Policy and Regulatory Framework 
+energy  services  for  all  sectors  of  the  Ghanaian 
+economy. At the same time, the country would be 
+transformed into a major exporter of oil and power 
+by 2012 and 2015 respectively (Ministry of Energy, 
+2010a). The specific goal of the policy on renewable 
+energy is to increase its proportion in the national 
+energy mix and ensure its efficient production and 
+use. This objective is to be reached via a number 
+of  routes.  One  is  to  promote  the  efficient  use  of 
+biomass and improve production while increasing 
+regeneration.  Another  is  to  convert  most  waste 
+generated  in  municipal  activities,  industrial  and 
+agricultural  operations  to  energy.  Another  is  to 
+create fiscal and pricing incentives to enhance the 
+development and use of renewable energy. Finally, 
+Ghanaian engineers and scientists are to collaborate 
+with international experts to bring down the cost 
+of solar and wind energy technologies (ibid). 
+During  the  second  half  of  the 
+1990s,  the 
+Government  of  Ghana  initiated  a  broader  energy 
+sector  reform.  This  allowed  the  creation  in  late 
+1997 of PURC and the Energy Commission through 
+two acts of parliament, Act 538: the Public Utilities 
+Regulatory  Commission  Act  and  Act 541:  the 
+Energy Commission Act. The Energy  Commission 
+was  tasked  with  the  technical  regulation  of  the 
+energy  sector,  while  PURC  was  mandated  to 
+handle  the  economic  regulation  of  the  energy 
+and water sectors. In that same year, the vertically 
+integrated VRA was to be unbundled into separate 
+transmission  and  system  operation  companies. 
+It  retained  the  task  of  electricity  generation  and 
+distribution  in  the  North  through  its  Northern 
+Electricity  Department.  This  later  became  NEDCo 
+while ECG was tasked with electricity distribution 
+in southern Ghana. IPPs were allowed to enter the 
+market, and the first one was created in 2000.  
+The Energy Sector Strategy and Development plan
+was  also  completed  by  the  Ministry  of  Energy  in 
+2010,  building  on  SNEP,  developed  in  2006  by 
+the  Energy  Commission.  Three  main  objectives 
+concerning  the  renewable  energy  sub-sector  are 
+to  be  implemented  under  this  strategy.  The  first 
+is to increase the renewable energy supply in the 
+national  energy  mix  to  10%  by  2020.  The  second 
+is  to  create  legislation  to  encourage  renewable 
+energy technology development and utilisation by 
+adopting  a  renewable  energy  law.  The  third  is  to 
+manage municipal industrial and agricultural waste 
+for energy production (Ministry of Energy, 2010b).  
+The Strategic National Energy Plan (SNEP)
+completed  by  the  Energy  Commission  in  2006 
+comprehensively  examines  the  energy  resources 
+available  to  Ghana.  It  considers  how  and  when 
+to tap them economically to ensure a secure and 
+adequate energy supply for sustainable economic 
+growth to 2020 (Energy Commission, 2006). The 
+SNEP goal is to enable the development of a sound 
+energy market that would provide sufficient, viable 
+and efficient energy services for Ghana’s economic 
+development. It will be achieved by articulating a 
+comprehensive  plan  identifying  the  optimal  path 
+for  developing,  utilising  and  efficiently  managing 
+the energy resources available to the country. The 
+plan  identified  renewables  (including  wind,  solar 
+and  biomass)  as  key  energy  sources  for  long-
+term  development  and  sustainable  electricity 
+supply. Unfortunately the huge potential of SNEP 
+to  create  a  market  for  renewable  energy  was  not 
+fully  realised.  This  is  because  it  was  not  formally 
+adopted by the government. One of the challenges 
+facing  renewables  development  today  is  finding 
+a  way  to  redress  this  situation  and  make  SNEP  a 
+binding policy document. 
+The Renewable Energy Law 
+was adopted by Act 832 in 2011. It provided for the 
+development, management, utilisation, sustainability 
+and adequate supply of renewable energy for heat 
+and  power  generation  and  related  matters.  This 
+law  provides  for  the  establishment  of  two  policy 
+instruments. The first is the FiT, a pricing incentive. 
+The  second  is  the  Renewable  Energy  Purchase 
+Obligation (RPO). They are available to all electricity 
+distribution  utility  or  bulk  customers,  and  aim  to 
+boost renewable energy technology deployment in 
+Ghana  in  a  sustainable  way.  The  law  also  provides 
+rules for connecting a renewable energy generator 
+to the transmission and distribution systems and the 
+establishing a renewable energy fund, the REF. The 
+FiT rate was developed by PURC and published on 
+1 September 2013 (see table 11). It is guaranteed for 
+a  period  of  ten  years  and  subsequently  subject  to 
+review every two years.
+The National Energy Policy
+was completed by the Ministry of Energy in 2010. 
+It  envisages  the  development  of  an  “Energy 
+Economy”  that  will  allow  a  secure  and  reliable 
+supply of high quality, environmentally sustainable 
+21
+Table 11: . Ghana Feed-in Tariffs (Gazetted in 2013)
+FIT effective 
+1st September 2013 
+(GHS/kWh)
+FIT effective 
+1st September 2013 
+(US cent/kWh)a
+Renewable Energy Technology
+Wind 
+32.1085
+15.15
+Solar
+40.210
+18.97
+Hydro < 10 MW
+26.5574
+12.53
+Hydro (10 MW > < 100 MW)
+22.7436
+10.73
+Landfill Gas
+31.4696
+14.84
+Sewage Gas
+31.4696
+14.84
+Biomass
+31.4696
+14.84
+Source: PURC
+a At 2013 exchange rate of 1 USD = 2.12 GHS
+3.3 Financing and Investment
+Project  is  a  hybrid  credit  facility  comprising  of 
+a  concessional  loan  and  a  buyer’s  credit  facility 
+between the Government of Ghana and Exim Bank 
+of China.
+There would have been no progress in renewable 
+energy  development  in  Ghana,  however  modest, 
+without  substantial  inflows  of  foreign  investment. 
+These  are  buttressed  by  donor 
+funding  to 
+support  “soft”  activities  such  as  pilot  testing 
+of  technologies,  business  model  development 
+and  institutional  capacity  building.  Most  energy 
+projects 
+in  Ghana  are  carried  out  with  the 
+assistance of development partners. These include, 
+for instance, the World Bank, ARB Apex bank, the 
+United  Nations  Development  Programme,  Danish 
+International Development Agency and the Global 
+Environment Facility. Similarly, the United Nations 
+Environment  Programme  runs  the  African  Rural 
+Energy  Enterprise  Development  Programme. 
+For 
+is  a  USD 227.5 million 
+multi-donor  project  involving  the  World  Bank’s 
+International  Development  Association,  Global 
+Environment  Facility,  African  Development  Bank, 
+Global  Partnership  on  Output  Based  Aid,  Africa 
+Catalytic  Growth  Fund  and  the  Swiss  Agency  for 
+Development and Co-operation. 
+The  government  has  made  some  efforts  to  set 
+up  national  funds  into  which  levies  on  energy 
+to  finance  specific 
+consumption  are  paid 
+development activities in the power sector. These 
+include: (i) the Rural Electrification Levy paid into 
+the  National  Electrification  Fund,  (ii)  the  Street 
+Lighting Levy (iii) the Power Factor Surcharge Levy 
+paid  into  the  Electricity  Demand  Management 
+Fund.  This  funding  mechanism  is  slowly  being 
+applied  for  raising  internal  funds  for  renewable 
+energy from conventional fuels. For example, a levy 
+of 0.26 USD/litre3 on gasoline, kerosene and diesel 
+fuel products supports research, development and 
+promotion of Ghana’s natural energy resources —
+particularly renewable energy. The levy goes into a 
+fund called the Energy Fund and yields an average 
+USD 500,000 per annum. 
+instance,  GEDAP 
+The  recent  establishment  of  a  renewable  energy 
+fund under the Renewable Energy Act is possibly 
+the  most  important  event  affecting  renewable 
+energy  development.  The  point  of  the  fund  is  to 
+mobilise  financial  resources  for  the  promotion, 
+sustainable  management  and 
+development, 
+utilisation  of  renewable  energy  resources.  Monies 
+from  the  fund  are  to  be  used  to  promote  the 
+following:
+is 
+The  GEDAP  development  objective 
+to 
+improve  the  operational  efficiency  of  the  power 
+distribution  system  and  increase  the  population’s 
+access  to  electricity.  This  helps  move  Ghana  to 
+a  low-carbon  economy  through  the  reduction 
+of  greenhouse  gas  emissions.  Electricity  access 
+expansion and renewable energy development are 
+subcomponents of GEDAP with a total project cost 
+of  USD 101.5 million.  It  is  a  multifaceted  approach 
+aimed both at grid extension and isolated grids. 
+Innovative approaches, including new business 
+models for developing and utilising renewable 
+energy sources
+• 
+The  country  also  borrows  from  the  international 
+financial  markets  to  fund  energy  projects.  For 
+instance,  the  funding  for  the  Bui  Hydroelectric 
+•  Scientific, technological and innovative research 
+into renewable energy
+3 Equivalent to 0.78 GHS/kWh using exchange rate of 1 USD = 3.00049 Ghana cedi (GHS) on 6 January 2014
+22
+Source:  KNUST
+•  Designing  and  implementing  standards  for 
+exemptions  on  renewable  energy  technologies 
+given that most of this technology and equipment 
+is imported.4 For investors importing generators to 
+invest in the renewable energy sector, the following 
+specific incentives are available:
+utilising renewable energy
+•  Manufacturing  equipment  for  developing  and 
+utilising renewable energy
+•  Programmes 
+practices
+to  adopt 
+international  best 
+•  Total exemption from import duty on renewable 
+energy  generators,  including  solar  generators, 
+wind turbines and technologies for generating 
+energy from municipal waste;
+•  Development  of  infrastructure  for  renewable 
+energy
+•  VAT exemption on imports of renewable energy 
+products if the components are brought in as a 
+single  piece  (i.e.  not  taken  apart  beforehand);  
+and
+•  Capacity  building 
+development
+for 
+renewable  energy 
+As  part  of  efforts  to  further  stimulate  private 
+investment 
+in  the  renewable  energy  sector, 
+Investment  Promotion  Centre  Act 
+the  Ghana 
+was  passed  in  1994.  It  provides  for  import  duty 
+•  Customs 
+import  duty  exemption  on  plant, 
+machinery, equipment and accessories imported 
+specifically and exclusively to set up an enterprise
+Good Practice Demonstration: Creating a Favourable Climate for Private
+Renewable Energy Investors
+Due largely to the policy measures taken by the government to promote investments, Ghana has 
+witnessed growing inflows of financing into the renewable energy sector, the bulk of it targeting 
+the proven renewable energy resources for on-grid electrification. DEG, a German development 
+financier  with  focus  on  the  private  sector  in  developing  countries  is  keen  on  increasing  its 
+investments in IPPs with renewable energy sources in the West African sub-region, Ghana being 
+a  key  prospective  market  for  its  mission.  The  private  sector  financing  institution  is  currently 
+finalising arrangements with some independent power producers (IPP) to build a biomass power 
+plant and a couple of other plants to generate power from renewable sources. Out of the EUR 1 bn 
+portfolio DEG has in Africa, a third is in West Africa, amounting to about EUR 300 million. With 
+a  standing  portfolio  of  about  USD 270 million  in  Ghana,  DEG  has  made  investments  of  about 
+USD 40 million in 2012, and were expected to repeat that feat in 2013 (Ghana Daily Graphic,  2012; 
+13  November Issue).
+4  Solar systems are exempted from VAT if the components are brought in as a unit. However, if batteries and inverters are brought in 
+ separately, they are subject to VAT.
+ 
+23
+Solar PV street lighting in island community
+Photo: Ministry of Power
+24
+IV. EMERGING ISSUES IN   
+  THE DEPLOYMENT OF   
+  RENEWABLE ENERGY 
+There are opportunities in Ghana to deploy renewable energy systems capable of 
+meeting a large variety of service needs. However, resources have to be allocated 
+only to priority needs, the satisfaction of which can generate high impacts at low 
+costs. This section focuses only on those service-resource pairs prioritised during 
+the  RRA.  In  each  case,  we  take  a  more  in-depth  look  at  the  key  concerns  and 
+barriers  as  renewable  energy  technologies  are  scaled  up.  It  concludes  with  key 
+action recommended by the RRA.
+4.1 On-grid Electricity
+As  discussed  in  section  2.4,  Ghana  enjoys  an  abundance  of  renewable  energy 
+resources  in  the  form  of  solar,  wind,  mini-hydropower  and  biomass.  These 
+resources  are  together  theoretically  capable  of  generating  far  more  than  the 
+targeted 550 MW electricity from renewables by 2020 prescribed in the generation 
+master plan. This consists of 300 MW from hydropower and 250 MW from variable 
+renewable  energy.  However  planned  and  announced  renewable  energy  projects 
+amount  to  about  2,000 MW  of  installed  capacity  at  the  moment.  This  includes 
+900 MW  for  solar  PV,  800 MW  for  wind  and  300 MW  for  hydropower.  This  is 
+around four times more than expected in the generation master plan. This is partly 
+due  to  the  approval  of  the  FiTs,  which  has  attracted  investor  interest.  However, 
+several problems still need to be solved if Ghana is to raise its share of renewable 
+energy  in  the  national  electricity  mix  to  help  close  the  gap  between  electricity 
+supply and demand.  
+Target Setting 
+The National Energy Policy objective of using renewable energy for 10% of total 
+energy production by 2020 was translated into the generation master plan as 10% 
+of  the  electricity  mix.  This  focused  exclusively  on  grid-connected  applications, 
+which means 6% dispatchable and 4% variable renewable energy power. Investor 
+interest in developing variable renewable energy power has increased at a time 
+when  thermal  power  generation  is  expensive  and  backup  capacity  almost  nil. 
+The  time  has  therefore  come  for  the  government  to  assess  the  grid  conditions 
+for  accommodating  variable  renewable  energy.  This  will  further  help  establish 
+technology-specific  targets  and  related  definite  capacity  additions,  thereby 
+increasing market confidence and competition. This should drive costs down. 
+Grid Integration of Variable renewable energy 
+Ghana  has  developed  a  comprehensive  grid  code  revised  most  recently  in 
+2009. This establishes the requirements, procedures, practices and standards 
+governing the development, operation, maintenance and use of the high voltage 
+transmission  system  in  Ghana.  In  its  present  form,  this  grid  code  lacks  two 
+prerequisites that would further enable the integration of utility-scale variable 
+renewable  energy  in  the  grid.  These  are  generation  forecasting  and  priority 
+dispatch. At the moment, the Ghana grid code requires generators to submit 
+their production capability and availability one day ahead so that the system 
+operator can prepare the next day’s generation schedule. However, operators 
+of variable renewable energy plants can best provide accurate information on 
+electricity output on an hourly or sub-hourly basis. The grid code thus needs 
+25
+to  be  revised  and  include  specific  conditions 
+accommodating  renewable  energy  generators 
+to  provide  accurate  data.  This  also  has  some 
+implications  for  the  system  operator,  which 
+would have to adapt by developing the necessary 
+capacities and procedures in its daily operation. 
+The grid code should in addition provide for the 
+priority dispatch of renewable power. 
+the  grid.  Net  metering  solar  PV  electricity  is 
+therefore  an  option  to  be  further  explored. 
+Key  net  metering  drivers 
+include 
+high  solar 
+increasing  electricity 
+retail  tariffs,  the  declining  cost  of  solar  PV  and 
+import tax exemptions on solar PV panels. Indeed, 
+the  2013  tariff  reform,  which  increased  the  retail 
+price by 78%, offers a real opportunity to reduce 
+electricity  expenses.  This  is  especially  true  for 
+households  consuming  over  300 kWh  and  for 
+all  non-residential  customers,  allowing  them  to 
+become PV “prosumers” (figure 10).5 
+in  Ghana, 
+irradiation, 
+The  RPO  imposed  on  distribution  utilities  in 
+the  Renewable  Energy  Law  opens  the  door 
+for  consumers  to  sell  renewable  electricity  to 
+Figure 10: The 2013 Electricity Tariffs Compared with Long Run Marginal Cost of Solar PV
+Source: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ), 2013
+Financial Support Mechanisms and 
+Payment Guarantees to IPPs
+As  mentioned  above,  the  Renewable  Energy  Law 
+provides  the  basis  for  developing  grid-connected 
+renewable  energy.  This  is  because  it  establishes 
+supportive  instruments  like  FiTs  and  the  RPO 
+for  distribution  utilities  and  bulk  consumers  and 
+requires all transmission or distribution operators to 
+connect a renewable energy generator within their 
+area. However the proportion of renewable energy 
+in the electricity mix of bulk consumers has yet to 
+be defined. It should therefore be developed in the 
+context of the target for the entire renewable energy 
+sector.  The  Renewable  Energy  Law  also  provides 
+for the establishment of a renewable energy fund6 
+In addition, both distribution utilities (NEDCo and 
+ECG) are taking various initiatives to increase their 
+readiness  to  adopt  smart  grid  technologies.  This 
+will help scale up grid-connected rooftop solar PV 
+systems as these distribution utilities will be better 
+able to manage and integrate them into the grid. 
+There  is  therefore  a  need  to  raise  awareness  of 
+these savings opportunities for these potential PV 
+prosumers. This business opportunity needs to be 
+marketed  to  local  financial  institutions  to  design 
+tailored-made  financial  products  for  this  sector. 
+The  government  therefore  needs  to  engage  in 
+developing standards and codes for grid-connected 
+rooftop  solar  PV  as  well  as  supporting  capacity 
+building efforts for local financial institutions.
+5  The term prosumer is used in the electricity industry to refer to energy consumers who also produce their own power from a range of  
+  different on-site generators (e.g. diesel generators, combined heat and power systems, wind turbines and solar PV systems).
+26
+incentives,  capital  subsidies, 
+to  offer  financial 
+production  subsidies  and  equity  participation  for 
+renewable energy power generation. 
+diminishing  as  the  country  struggles  to  reduce  its 
+budget  deficit.  This  could  have  major  implications 
+for the development of renewable energy projects, 
+as  investments  are  most  likely  to  be  denominated 
+in foreign currency while revenues are expected in 
+cedi.  Ghana  needs  to  consider  designing  effective 
+currency  risk  mitigation  instruments  that  will  help 
+increase investor confidence in financing renewable 
+energy projects. 
+This  RRA  finds  that  the  establishment  of  a  new 
+FiT  regime,  though  necessary,  is  not  sufficient 
+to  unleash  the  maximum  flow  of  investment 
+into  on-grid  electrification  projects.  A  remaining 
+concern is the provision of payment guarantees to 
+IPPs,  which  will  affect  the  commercial  viability  of 
+renewable energy projects. This is due to the fact 
+that  distribution  companies  ECG  and  NEDCo  are 
+saddled  with  debt.  The  two  utilities  are  unable 
+to  meet  their  payment  obligations  to  present 
+suppliers  and  thus  cannot  credibly  offtake  any 
+renewable  energy  investment.  ECG  has  already 
+signed  power  purchase  agreements  (PPAs),  but 
+none of these projects has yet been implemented. 
+Given  the  minimal  experience  of  FiTs  in  Ghana, 
+setbacks  are  likely  at  the  earliest  stage  of  the 
+scheme. It is important that appropriate structures 
+are put in place to resolve such challenges, focusing 
+on capacity building for relevant public, private and 
+civil society organisations.
+Streamlining IPP Market Entry for 
+Renewables
+To  enter  the  electricity  market,  a  renewable 
+energy  IPP  has  to  interact  with  a  number  of 
+regulatory  agencies  in  the  power  sector  once 
+detailed feasibility studies have been completed. 
+These include the Energy Commission and PURC, 
+the  Environmental  Protection  Agency,  MoP,  the 
+Ministry  of  Finance  and  the  Ghana  Investment 
+Promotion Agency. These provide various licences, 
+approvals, clearances and incentives linked to the 
+development of the renewable energy project (see 
+figure 11). This complex and lengthy procedure can 
+lead to significant administrative and transaction 
+costs,  and  may  discourage  potential  investors 
+and project developers from entering the market. 
+Thus  there  is  a  need  to  set  up  a  one-stop  shop, 
+which may help reduce complexity and assist IPPs 
+working through the bureaucracy.   
+The average FiT rate was equivalent to 0.14 USD/ kWh 
+in 2013 when it was adopted. Since then the Ghana 
+cedi has fallen over 21% to a rate of GHS 3/USD within 
+a year. This is because foreign exchange reserves are 
+6  The  Renewable  Energy  fund  is  expected  to  be  sourced  by  moneys  approved  from  the  parliament,  premiums  payable  by  bulk 
+  consumers who fail to meet RPOs, donations, grants and gifts received for renewable energy activities, moneys approved by the 
+  board of the Energy Fund, and money generated by the Energy Commission from the provision of services for renewable energy 
+  activities
+27
+Figure 11: Procedures for Entry into the Electricity Market with Renewables
+IPP undertakes pre-feasibility study
+IPP identifies a buyer or an off-taker (e.g. ECG or another bulk customers)
+Detailed feasibility studies to ascertain technical feasibility and financial viability of the project
+IPP interacts with relevant regulatory agencies, such as the Energy Commission (EC)
+(licensing and technical regulations) and PURC (pricing regulations)
+IPP obtains site clearance by Environmental Protection Agency (EPA) and EC.
+IPP obtains environmental permit from EPA
+Concluding a memorandum of understanding between IPP and off-taker
+after securing PURC’s no-objection in principle
+Obtaining license from the Energy Commission
+IPP obtains relevant approvals of identified relief’s from governmental agencies, such as (GIPC), 
+Ministry of Power (renewable Energy Law) and Ministry of Finance & Economic Planning, etc.
+IPP concludes PPA with off-taker
+4.2 Decentralised Renewable Energy 
+Applications
+Off-grid Electricity with Solar PV
+The  MoEP  has  promoted  off-grid  solar  PV  for 
+more  than  two  decades.  It  has  focused  primarily 
+on lighting and other rural community household 
+needs. The main systems promoted on the Ghanaian 
+electricity market are solar home systems and solar 
+lanterns.  These  are  being  promoted  across  the 
+whole of Ghana, and over 6,000 solar systems have 
+been installed in about 89 communities throughout 
+the country. They satisfy a range of uses including 
+basic  household  lighting,  radio  and  television 
+use,  vaccine  refrigeration,  hospital  and  classroom 
+lighting.  Other  applications  are  distance  learning 
+using television, street lighting, water pumping for 
+irrigation and rural mobile phone charging systems. 
+The total small-scale solar capacity throughout the 
+country is outlined in table 12. The recommended 
+off-grid communities are shown in figure 12.  
+Table 12: Small-scale Solar PV Systems in Ghana
+Installed Capacity 
+(kW)
+Average Annual Production 
+(GWh)
+Solar PV Systems
+Rural home system
+450
+0.70-0.90
+Urban home system
+20
+0.05-0.06
+School system
+15
+0.01-0.02
+Health centre lighting
+6
+0.01-0.10
+Vaccine refrigeration
+42
+0.08-0.09
+Water pumping
+120
+0.24-0.25
+Telecommunications
+100
+0.10-0.20
+Battery charging system
+10
+0.01-0.02
+Solar street lights
+10
+0.04-0.06
+Total
+793
+1.34-1.82
+Source: Energy Commission 2011
+28
+Figure 12: Map of Recommended Off-grid Communities Showing Solar Radiation Levels
+Off-grid communities
+Small Hydro Sites
+4.5 - 4.8 (kWh/sq. m/day)
+4.9 - 5.2 (kWh/sq. m/day)
+5.3 - 5.6 (kWh/sq. m/day)
+Volta Lake
+Source: Ministry of Energy (2012)
+One  of  the  most  successful  examples  of  solar 
+PV  finance  for  off-grid  rural  populations  is  the 
+ARB  Apex  bank  Ghana  model.  This  comes  under 
+Electricity  Access  and  Renewable  Energy,  part 
+of  GEDAP.  This  helped  install  15,000  systems  for 
+90,000  rural  people  unlikely  to  be  connected  to 
+the  grid  in  the  next  five  or  ten  years.7  The  model 
+rested on three main pillars. The first was capacity 
+building  using  Global  Environment  Facility  funds 
+to involve rural and community banks and market 
+to  target  populations.  The  second,  funded  by  the 
+International  Development  Association,  was  to 
+remove  finance  barriers  by  providing  credit  lines 
+to  rural  off-grid  households  to  purchase  solar  PV 
+systems. The third, funded by the Global Partnership 
+on Output Based Aid, was the provision of partial 
+grants  for  obtaining  the  relevant  incentives  for 
+solar PV systems and making loans affordable.
+Through this model, systems are paid using a 10% 
+cash  contribution  from  the  beneficiary,  a  rural 
+bank  loan  from  the  International  Development 
+Association fund and grant support from the Global 
+Partnership  on  Output  Based  Aid.  Installation, 
+operation and maintenance is carried out by locally 
+recognised companies (see figure 13).  
+7  Rural electrification in Ghana aims to extend the grid to all communities apart from islanders/lakeside inhabitants who cannot be  
+  reached due to their geographical position.
+29
+Figure 13: ARB APEX BANK GHANA Project Financing Plan
+Grant (subsidy)
+between 30% - 50%
+B
+Installation and
+3 year maintenance
+cost (A)
+Customer contribution of 10%
+of amount less grant
+10% (A-B)
+Loan component of 90%         
+of amount less grant
+90% (A-B)
+Source: ARB Apex Bank, Ghana, 2011
+The project has overcome many barriers. Although, 
+not  enough  well-trained  solar 
+installers  were 
+available and solar systems were perceived as weak 
+compared  to  grid-connected  electricity  due  to 
+usage  limitations  and  previous  installation  failures. 
+Financial institutions had a poor knowledge of solar 
+products, financing costs were high and politicians 
+interfered. 
+of  125.7 kWh  per  year  amounting  to  2.4 kWh 
+per  week.  If  the  budget  spent  on  lighting  were 
+replaced by electricity payments, each household 
+could  afford  to  pay  1.3 USD/kWh.  This  is  much 
+higher  than  the  on-grid  electricity  tariff  in  Ghana 
+at the moment. 
+The  total  installed  cost  for  solar  PV  mini-grids 
+per  kilowatt-peak  (kWp), 
+island 
+community  taxes,  is  around  USD 9,830.  The  total 
+delivery  cost  for  a  50 kWp  mini-grid  system  will 
+be  USD 491,500  for  a  maximal  annual  output  of 
+70,000 kWh.8
+including  all 
+The  experience  revealed  that  quality  after-sales 
+service,  well-designed  products  and  repayment 
+plans  alongside  participating  private  sector 
+company  financial  engagement  are  key  to  the 
+success of such projects. 
+ 
+To establish the technical and economic feasibility 
+of solar PV mini-grids, an analysis was conducted 
+for Alorpkem, a typical island community of around 
+1,000  inhabitants.  It  included  a  50 kWp  planned 
+solar  PV  plant  with  distributed  energy.  Based  on 
+similar  rural  electrification  projects  in  Ghana,  the 
+initial  consumption  in  Alorpkem9  was  estimated 
+at  44,929 kWh/year.  For  electricity  tariffs  of 
+1.3 USD/kWh for households and 1.4 USD/kWh for 
+commercial and municipal users, the total revenue 
+from  electricity  sales  is  60,928 USD/year.  These 
+mini-grids  produce  an  internal  rate  of  return  of 
+10.9% and a break-even point in year 15 where 100% 
+finance  is  provided.  The  underlying  assumptions 
+are  a  cost  of  capital  of  7.5%,  inflation  rate  at  3%, 
+annual  amortisation  rate  at  7.5%,  operations  and 
+maintenance at 5% and annual PV degradation of 
+0.6%.  The  break-even  point  is  in  year  12  for  50% 
+debt finance and year 10 for 0% debt finance.  
+Mini-grid Electricity with Hybrid Systems 
+(Solar PV + Wind or Fossil)
+Mini-grids based on renewable energy have been 
+relatively  unusual  in  Ghana.  The  Government  of 
+Ghana  has  been  implementing  the  Northern 
+Electrification  Programme  to  ensure  electricity 
+access  becomes  a  reality.  Its  target  is  universal 
+access  by  2020  via  grid  extension.  However, 
+certain  remote  communities,  such  as  those  in 
+Ghana’s 200-plus islands and Volta river lakesides, 
+cannot  be  connected  to  the  national  grid  due  to 
+their  geographical  location.  The  main  activities 
+of  these  communities  are  fishing  (accounting  for 
+over 75% of household incomes), crop farming and 
+trading.  These  households  spend  about  USD 54.5 
+on energy per month, of which USD 11.5 is kerosene 
+lighting and batteries for portable lights. Charcoal 
+and  fuel  for  gensets  account  for  the  bulk  of  the 
+expenditure.  The  present 
+lighting  requirement 
+of  these 
+island  communities  suggests  each 
+household has an average electricity consumption 
+However, the uniform tariff policy of 0.07 USD/kWh 
+applies to mini-grids in Ghana, which means they 
+8   Breakdown of 2 x 25 W lights on for 4 h/day 7 days a week is (1.4 kWh), 3 x 5 W mobile phones charged for 8 h/week is (0.84 kWh) and  
+1 x 10 W portable lamp charging for 2 h/day for 7 days a week (0.14 kWh). Total is 2.38 kWh/week. 
+ 
+9  Residential use 19,740 kWh per year on the basis of 125.73 kWh per household and commercial/municipal use 25,190 kWh per year.
+30
+Figure 14: Locations of DTI Solar Dryer Tests in 2002
+are not feasible from a private sector perspective. 
+This  is  despite  the  huge  motivation  shown  by 
+around  97%  of  households  and  commercial 
+businesses  to  pay  for  electricity  if  their  whole 
+community gets connected. This was revealed by 
+a  2011  survey  for  the  Government  conducted  on 
+islands  and  at  lakesides.  The  government  should 
+either set up special tariffs for mini-grids or provide 
+subsequent support to private operators willing to 
+invest in mini-grids. The small size of these systems 
+means they are not attractive to foreign investors, 
+so the sector will probably be left to local operators 
+who face financial and technical constraints.
+Electricity  access  and  renewable  energy,  part  of 
+GEDAP, intends to remove the capacity and finance 
+barriers  to  accelerate mini-grid renewable energy 
+such as small hydropower, wind, and biomass below 
+10 MW. This will be achieved by providing business 
+support  to  local  renewable  energy  developers, 
+energy  saving  companies  and  commercial  banks. 
+However,  the  Government  of  Ghana  should 
+think  of  a  more  long-term  sustainable  support 
+mechanism as GEDAP is funded by donors. When 
+commissioned, the REF can help lower this barrier, 
+as it aims to provide financial incentives for mini-
+grid  renewable  power  systems  for  remote  areas 
+and islands. 
+Solar fish dryer
+at Tema
+Solar crop dryer
+at Pokuase
+Solar kiln at
+Mankoadze
+Source: Jensen, 2002
+to these challenges. A 2002 report by the Danish 
+Technological  Institute  (DTI)  captures  interesting 
+results  from  a  DANIDA-funded  solar  crop  drying 
+project  involving  the  design,  construction  and 
+testing  of  three  pilot  solar  dryers  at  the  premises 
+of three commercial operators in the Greater Accra 
+and Central Regions (See Figure 14). 
+Many electrification projects fail due to the lack of a 
+clear definition of competencies and responsibilities 
+as well as political power and relationships between 
+different  stakeholders.  There  is  a  need  to  design 
+reliable  operating  schemes  on  the  basis  of  local 
+political frameworks and infrastructure to realise a 
+sustainable, functional socio-economic system for 
+mini-grids in Ghana.
+The solar dryer at Silwood Farms (on which the rest of 
+this section will concentrate) the total cost (without 
+VAT)  per  unit  was  USD 2,525,  and  the  full  cost  of 
+the  installation  including  civil  works  amounted  to 
+nearly USD 14,000. Though the report did not cover 
+the  economic  benefits  gained  by  Silwood  Farms 
+from the solar crop dryers, the DTI report concluded 
+that  in  general,  the  dryer  realised  achieved  sound 
+technical  performance — consistently 
+reducing 
+moisture  content  in  up  to  600 kg  of  maize  from 
+approximately 20% to 10% within 6 days at 35°C – 
+38°C.  The  tests  also  demonstrated  that  solar  crop 
+dryers  of  this  particular  design  can  achieve  similar 
+results  with  other  locally  grown  crops  such  as 
+cassava, pepper, okra and pineapple (Jensen, 2002).
+There is currently very little expertise in mini-grid 
+management in Ghana. For the government, it has 
+become  a  concern  lately  due  to  the  challenges 
+associated  with  the  electrification  of 
+island 
+communities in Lake Volta. For NGOs and research 
+institutions,  mini-grids  are  becoming  interesting 
+concepts,  because  they  could  rely  on  freely 
+available renewable energy resources to generate 
+electricity for remote rural communities. However, 
+much  more  needs  to  be  done  to  scale  up  the 
+deployment of these technologies.
+favourable 
+performance 
+These 
+results 
+notwithstanding,  the  high  capital  cost  of  solar 
+crop  dryers  is  an  obvious  limiting  factor  to  their 
+accelerated  uptake  amongst  low  income  farmers 
+who  make  up  the  bulk  of  the  potential  market.  
+Additionally, there are critical issues concerning the 
+maintenance of the systems to keep them operating 
+at  peak  performance.  The  seasonality  of  crop 
+production in the country, also means that the cost 
+per tonne per year of using solar dryers may be too 
+Solar drying/Agro Process Heat with 
+Solar Thermal
+In  Ghana,  crops  are  traditionally  dried  using  the 
+sun. The disadvantage of this method is that crops 
+and grain may be damaged by birds, rodents, wind 
+and rain or contaminated by dust and dirt.
+Recent studies addressing solar dryer performance, 
+demonstrates  the  potential  of  practical  solutions 
+31
+high, given that the dryers may only be needed for 
+less  than  2 months  in  a  year  in  some  cases.  These 
+high upfront capital and operating costs often make 
+traditional sun drying, even in the face of postharvest 
+losses,  a  cheaper  option  for  farmers.  Commercial 
+farmers who use irrigation facilities and are able to 
+cultivate a variety of crops throughout the year may 
+consider the use of solar dryers, but again this will 
+only succeed if there is adequate policy support in 
+place for acquiring these technologies, including the 
+promotion of credit schemes.
+economic  and  food  security.  This  will  help  the 
+country to achieve the objectives set in the Food 
+and  Agriculture  development  Policy  (FASDEP II) 
+in  2007.  Although  the  existing  tax 
+adopted 
+renewable  energy 
+exemption  on 
+technology is an asset, additional incentives should 
+be put in place for easing the acquisition of solar 
+dryers  as  well  as  for  the  development  of  solar 
+drying  markets.  The  REF  aims,  amongst  others, 
+to  apply  for  provision  on  financial  incentives, 
+capital  subsidies  and  production  based  subsidies 
+for  renewable  energy  projects  for  non-electricity 
+purposes, however the fund is still not operational.
+imported 
+The  cost  barriers  to  deployment  of  solar  drying 
+technology will eventually require that government 
+allocates  sufficient  amounts  of  public  funding  in 
+support of the aforementioned solutions and other 
+measures. However, it is also reasonable to expect 
+that  these  macro-level  costs  may  be  offset  by 
+several developmental benefits that are attributable 
+to solar crop dryers, including:
+4.3 Modern Cooking/Heating with 
+Biomass
+More  than  70%  of  households  in  Ghana  continue 
+to  rely  on  firewood  and  charcoal  as  their  main 
+source  of  cooking  fuel.  Campaigns  to  reduce 
+wood fuel consumption within the biomass sector 
+are  targeting  the  introduction  of  biodigesters  to 
+produce methane for cooking. Improved cookstoves 
+are being promoted to increase efficient traditional 
+biomass  source  use.  Popular  improved  cookstove 
+brands include Ahibenso, Gyapa and Toyola. Efforts 
+to promote improved cookstoves were stimulated 
+with the recent formation of the Ghana Alliance for 
+Clean  Cookstoves  This  is  the  local  chapter  of  the 
+Global Alliance for Clean Cookstoves.
+•  Job  creation,  especially  where  all  or  some  of 
+the  components  are  eventually  manufactured 
+locally  or  sourced  at  competitive  prices  from 
+least-cost suppliers
+•  Wealth  creation  resulting  from  the  reduction 
+in  post-harvest 
+losses,  as  well  as  general 
+improvements  in  quality  of  produce,  leading 
+to increased revenues from sales in high value 
+domestic and export markets
+Improved  cookstoves  have  been  the  subject  of 
+several  studies  evaluating  their  fuel  savings  and 
+implications for forest degradation and greenhouse 
+gas  emissions.  These  have  provided  valuable 
+feedback to guide continuous improvement in their 
+design. The latest biannual survey was conducted 
+in  2012  by  Berkeley  Air  Monitoring  group,  a 
+Californian  monitoring  and  Evaluation  Company, 
+using  a  team  from  KNUST  Energy  Center.  It 
+determined  fuel  savings  and  other  parameters  in 
+households that switched from ordinary coal pots 
+to  improved  cookstoves  in  four  regions:  Greater 
+•  Local capacity building — closely related to job 
+creation, while contributing to reduction in the 
+involvement  of  costly  foreign  technicians  in 
+the  design,  implementation,  testing  and  mass 
+production of crop-dryers.
+ 
+With  new  market  opportunities  opening  up  (new 
+foreign direct investment in industrial production), 
+Ghana  should  consider  promoting  solar  drying 
+as  a  way  to  improve  agricultural  productivity, 
+while  stimulating  local  agro-industrial  growth  for 
+Table 13: Charcoal Savings (kg/household/day) for Four Toyola Stove Sizes
+Improved Stove Size
+Charcoal Savings
+Large commercial
+0.50
+Small commercial
+0.43
+Medium household
+0.36
+Small household
+0.18
+Source: Ministry of Power
+32
+Figure 15: Average Amount of Time Saved per Day per Stove-Associated Activity
+Accra, Brong Ahafo, Eastern and Northern regions. 
+Table 13  shows  the  results  for  charcoal  savings 
+using  Toyola  household  stoves  as  well  as  larger 
+Toyola commercial stoves.
+3.5 hours. Over a quarter of the women (26%) said 
+they used their saved time to work more for pay, 
+40% reported that they spent it with their families 
+and  34%  reported  that  they  used  it  for  other 
+activities such as household chores (figure 16).
+The  main  benefit  of  improved  cookstoves  were 
+judged  to  be  time  savings.  Average  time  savings 
+accrued  by  users  of  the  improved  cookstove  are 
+estimated  at  30  minutes  per  day  during  cooking. 
+However, very modest amounts of saved time were 
+reported from fuel gathering, stove tending – the 
+feeding  of  fuel  and  maintenance  of  combustion 
+during  cooking  activities  –  and  other  related 
+activities such as purchasing charcoal (Figure 15).
+However,  end-users  in  Ghana  reported  similar 
+smoke  emissions  from  ordinary  charcoal  “coal 
+pots”  and  improved  charcoal  cookstoves.  Most 
+households  were  of  the  opinion  that  smoke 
+emissions  depend  more  on  the  quality  of 
+the  charcoal  than  the  stove.  Moreover,  rural 
+households  will  not  become  enthusiastic  enough 
+about 
+the 
+government  runs  a  thorough  and  sustainable 
+their 
+awareness-raising  campaign 
+acceptability.  
+improved  cookstoves  unless 
+the 
+The average time saved per week, assuming that 
+the majority of women cook every day, is nearly
+improving 
+Figure 16: Alternative Activities for Participants Using Improved Cookstoves
+33
+Access  to  finance  is  another  important  barrier 
+to  the  promotion  of  improved  cookstoves.  High 
+interest rates on loans have prevented supply-side 
+investors from expanding their businesses to reach 
+greater  production  numbers.  Lack  of  support 
+policy  initiatives  obstructs  upstream  supply-side 
+organisations from expanding their businesses and 
+reducing costs to end-users. These initiatives need 
+to create the enabling environment for accelerated 
+development  and  sustainable  biomass  energy 
+promotion for household energy needs. 
+technical  and  financial  constraints.  These  include 
+lack  of  technical  expertise  to  develop  bankable 
+proposals  and  insufficient  working  capital  due  to 
+difficult loan access. Other constraints include high 
+interest  rates  due  to  perception  of  high  risk  and 
+lack of financial institution expertise in evaluating 
+off-grid  renewable  energy  proposals.  There  is 
+thus  a  need  to  build  the  capacity  of  local  private 
+operators and financial institutions to develop and 
+appraise bankable decentralised renewable energy 
+project proposals.
+ 
+Recommendations
+Detailed descriptions of the recommendations for 
+each resource-pair can be found in the Annex.
+The  development  and  operation  of  certain 
+renewable  energy  technologies 
+in  mini-grids 
+requires  expertise  in  assessing  local  conditions, 
+installing  and  maintaining  systems.  This 
+is 
+particularly  the  case  for  hybrid  systems  because 
+they use a greater range of generation technologies 
+and more complex management systems. Utilities 
+may  also  perceive  the  management  of  mini-grids 
+as expensive, so these may be better managed by 
+small-  and  medium-sized  enterprises  and  Energy 
+Saving Companies.
+Designing clear policy for off-grid mini-grids
+The  country’s  objective  of  increasing  rural  access 
+to electricity would be facilitated by creating a level 
+playing  field  for  local  private  sector  involvement. 
+The  support  announced  through  the  REF  should 
+be clearly defined, and reliable operating schemes 
+designed 
+small-scale  decentralised 
+renewable  energy  mini-grids.  Competencies  and 
+responsibilities,  as  well  as  political  direction  and 
+relationships  between  different  stakeholders, 
+should  be  clearly  defined  on  the  basis  of  local 
+political frameworks and infrastructure. This would 
+provide  a  sustainable,  functional  socio-economic 
+background for mini-grids in Ghana.
+the 
+for 
+Facilitating end-user access and improving 
+cookstove awareness and acceptance
+Electricity  tariffs  for  off-grid  systems  should  be 
+reviewed  to  attract  more  local  private  operators. 
+This  could  be  accompanied  by  end-user  access 
+include  targeted 
+facilitation  options. 
+subsidies  and  deferred  payment  schemes  that 
+could  be  pre-financed  directly  by  the  service 
+providers  or  through  a  microfinance  institution. 
+A  sound  business  model  should  be  developed 
+for  both  stand-alone  systems  and  mini-grids.  It 
+needs  to  increase  the  viability  and  sustainability 
+of  decentralised  renewable  energy  projects  and 
+access to electricity services in rural Ghana.  
+It  could 
+Increasing political support for promoting 
+sustainable use of biomass energy
+The  government  should  continue  to  create  and 
+support policy initiatives towards an environment 
+accelerating  the  development  and  promotion  of 
+sustainable  biomass  energy  for  households.  This 
+is  needed  alongside  present  policies  and  goals 
+focused  on  remedies  to  deforestation  effects 
+caused partly by traditional cookstove use.  
+This  should  be  done  by  getting  the  REF  up 
+and  running  as  well  as  other  finance  support 
+mechanisms.  These 
+lending 
+approaches and sustainable credit programmes for 
+low-income  operators  and  farmers.  Researchers 
+should  be  supported  in  designing  prototypes  for 
+solar dryers that could be manufactured locally.  
+High interest rates on loans have prevented supply-
+side  investors  from  expanding  their  businesses 
+and raising production. There is a need to further 
+encourage  entrepreneurs  prepared  to  invest  and 
+support them by building capacity, through grants 
+programmes  and  by  providing  access  to  working 
+capital.  Matching  government  programmes  are 
+required  to  cultivate  fast-growing  energy  wood 
+plots,  improve  charcoal  production  technologies 
+and skills, and improve cookstoves production.
+include  group 
+in  Ghana  shows 
+Previous  experience 
+that 
+communities  often  prefer  grid  connectivity  due 
+to its potential use for higher-wattage appliances. 
+They  may  consider  solar  power  to  be  inferior 
+and  may  even  discontinue  off-grid  systems  to 
+put  political  pressure  on  governments.  This  is 
+particularly true where the grid has been extended 
+to  neighbouring  communities.  Most  farmers  in 
+Ghana  have  limited  knowledge  of  labour-saving 
+technologies  or  post-harvest  management, 
+especially for perishable produce. There is a need 
+Supporting private sector involvement 
+The  relatively  small  size  of  the  off-grid  market 
+means it is not very attractive to foreign investors. 
+This is why the sector would probably be left to local 
+private operators with the support of donors and 
+development partners. Local private operators face 
+34
+to  run  awareness-raising  campaigns  and  create 
+communications  strategies  to  educate  operators 
+and farmers about the new business opportunities 
+and benefits of off-grid renewable energy. 
+one  of  the  greatest  constraints  to  renewables-
+based electricity production in the country. There 
+are, however, a number of outstanding issues that 
+need to be addressed, such as the ability of utilities 
+to absorb the higher costs of FiTs. 
+Existing  cookstove  technologies  need  to  be 
+improved  and  new  and  proven  technologies 
+introduced  through  innovations  that  not  only 
+increase efficiency, but also reduce emissions. This 
+will decrease exposure to household air pollution. 
+It  is  likely  to  have  an  impact  on  the  user  health 
+while  continuing  to  support  the  local  production 
+of cookstoves. If consumers are to adopt improved 
+cookstoves in the long term, the government should 
+embark  on  critical  mass  education  to  increase 
+product market penetration and acceptability.
+Even  though  Ghana  is  aiming  for  10%  renewable 
+energy  electricity, 
+could  also  explore 
+opportunities in the West African Power Pool with 
+the possibilities of investors generating power for 
+the  West  African  Power  Pool  using  resources  in 
+Ghana. This would have socio-economic benefit for 
+Ghanaians, creating jobs and adding income to the 
+economy. Such power would not be subsidised in 
+anyway by the Ghanaian government. 
+it 
+High start-up costs
+Start-up  costs  are  one  of  the  barriers  preventing 
+a  technology  from  being  scaled  up.  For  most 
+renewable  energy  technologies,  start-up  costs 
+are  high.  Even  when 
+investment  costs  are 
+not  paid  by  households,  as  with  mini-grid  or 
+grid-connected  systems,  experience  across  the 
+world  shows  that  tariffs  are  higher  at  present 
+than those of large hydropower and most thermal 
+plants. Investment costs are relatively high for the 
+low-income  rural  households  needing  renewable 
+energy  technologies  such  as  solar  PV  and  biogas 
+systems.      
+4.4 Opportunities and Constraints 
+Affecting Renewable Energy Expansion
+Abundant resources
+The  RRA  has  clearly  shown 
+in  section  2.4 
+that  Ghana  is  endowed  with  an  abundance  of 
+renewable  energy  resources  in  the  form  of  solar, 
+wind,  mini-hydropower  and  biomass.  Together, 
+these  resources  are  capable  of  generating  far 
+more  than  the  2020-2025  target  for  500 MW 
+renewable electricity. The state generator VRA has 
+taken a leadership position in renewable electricity 
+generation,  cementing  its  earlier  status  as  pace-
+setter  in  the  power  generation  sector.  Now  that 
+the  2 MW  solar  PV  grid-connected  system  and 
+expected expansion has been commissioned, VRA 
+is  actively  exploring  additional  opportunities  for 
+solar  PV,  wind,  mini-hydropower  and  biomass. 
+industry 
+Admittedly, 
+previously  suffered  from  a  lack  of  approved  FiTs. 
+These  are  necessary  for  the  private  sector  to  get 
+engaged in the industry. With the recent publication 
+of  the  FiTs,  this  obstacle  has  been  cleared  and 
+should stimulate private sector participation.
+Where  these  technologies  are 
+installed  and 
+marketed  as  part  of  social  aid  projects,  tariffs 
+are  nonetheless  higher  than  those 
+in  urban 
+households that are often subsidised by the state. 
+Coupled  with  the  high  investment  cost,  is  the 
+lack of low interest finance for renewable energy 
+technologies. After several years of discussions, no 
+clear solution has been found to these problems. 
+Going  forward,  there  is  a  need  for  government 
+support  similar  to  the  subsidies  enjoyed  by  grid 
+electricity  and  urban  LPG  consumers.  These 
+must  be  appropriately  targeted  to  ensure  that 
+remote rural communities benefit from access to 
+electricity and modern fuels.  
+renewable  energy 
+the 
+As  far  as  scalability  is  concerned,  renewable 
+energy  projects  have  an  additional  advantage  in 
+that barriers to entry are lower for local investors. 
+This contrasts with large hydropower and thermal 
+plants.  It  levels  the  playing  field,  enabling  smaller 
+IPPs to compete favourably with the big players for 
+grid  connection.  Apart  from  grid-connected  and 
+off-grid renewable energy systems, there are also 
+opportunities to explore mini-grids in remote rural 
+areas  where  renewable  energy  could  be  targeted 
+to create agro-industries to improve incomes. 
+Expanding off-grid technologies across 
+the country
+After  several  years  of  promoting  renewable 
+energy technologies, efforts are still concentrated 
+in the very large cities like Accra and Kumasi. The 
+majority of solar PV system retailers are either in 
+Accra or Kumasi and are not very visible to smaller 
+communities. Not many business models market 
+solar  PV  systems  on  a  tariff  basis,  most  require 
+households and businesses to purchase and own 
+the system, which raises the financing challenges 
+discussed above. To create broader awareness of 
+these technologies, renewable energy businesses 
+must be expanded to other parts of the country.  
+Renewable Energy Act and FiTs
+The passage of the Renewable Energy Act in 2013 
+and subsequent release of FiTs effectively removed 
+35
+Regulatory transparency
+With the state generator entering the renewables 
+sector,  there  is  always  the  temptation  to  bully  its 
+way through with the utilities in obtaining PPAs. It 
+could use its existing power plants to influence the 
+negotiating  process,  which  could  create  conflict 
+with the private sector. It is important that everyone 
+who  meets  requirements  set  by  the  regulator  is 
+given a fair chance of negotiating. When necessary, 
+bids must be used to prioritise projects. Least cost 
+and quality of service should be the prime criteria. 
+It  is  important  that  the  regulator,  in  this  case  the 
+Energy Commission, is not perceived as biased by 
+the investor community.   
+Social and environmental compliance
+While promoting renewable energy investments, it 
+is important that investors fully comply with strict 
+environmental  and  social  impact  reduction.  The 
+ambition  for  liquid  biofuel  has  already  sparked 
+major  disputes  in  Ghana,  and  there  are  plenty  of 
+stories of land grab. Other technologies requiring 
+large areas of land, such as solar and hydropower, 
+could  create  conflict  with  the  original 
+land 
+users.  This  is  especially  the  case  if  the  process 
+for  obtaining  land  is  not  transparent  enough. 
+Hydropower  projects  with  the  potential 
+for 
+flooding  must  be  particularly  well  monitored  and 
+appropriate  compensations  paid  before  project 
+construction is allowed to begin. 
+36
+V. REFERENCES
+Ahiataku-Togobo,  W.,  and  A.  Ofosu-Ahenkorah  (2009),  “Bioenergy  Policy  Implementation  in  Ghana”, 
+COMPETE International Conference, Lusaka.
+Bazilian,  M.,  et  al.  (2012), “Energy  Access  Scenarios  to  2030  for  the  Power  Sector  in  sub-Saharan  Africa”, 
+Utilities Policy, Vol. 20, pp. 1-16.
+13  November  2012,  www.ghanaweb.com/
+Ghana  Daily  Graphic  (2012),  “GhanaWeb”,  published 
+GhanaHomePage/NewsArchive/artikel.php?ID=256346, 15 November 2013.
+Duku, M.H., S. Gu and E.B. Hagan (2011), “Biochar Production Potential in Ghana: A review”, Renewable and 
+Sustainable Energy Reviews, Vol. 15, pp. 3539-3551.
+ECOWAS (Economic Community Of West African States) (2012), Ecowas Renewable Energy Policy, ECOWAS 
+Center for Renewable Energy and Energy Efficiency, Praia.
+ECOWAS (2013), “West African Power Pool”, www.ecowapp.org/?page_id=168, accessed 19 June 2014.
+Energy Commission (2006), Strategic National Energy Plan 2006 - 2010, Energy Commission, Accra. 
+Energy  Commission  (2010),  “Data  for  the  Development  of  GIS  Maps”,  Alternative  Business  Development 
+Scenarios and Toolkit for Renewable Energy Planning and Policy, Energy Commission, Accra.
+Energy  Commission  (2012), “Ghana: Sustainable Action for All, Action Plan”,  http://energycom.gov.gh/files/
+SE4ALL-GHANA%20ACTION%20PLAN.pdf?
+Energy Commission (2014), “National Energy Statistics 2000 - 2013”, Energy Commission, Accra.
+ECREEE  (ECOWAS  Centre  for  Renewable  Energy  and  Energy  Efficiency)    (2012),  ECOWAS  Renewable 
+Energy Policy (EREP), ECREEE, Praia, pp. 92.
+Essandoh, E.O., E.Y. Osei and F.W. Adam (2014), “Prospects of Wind Power Generation in Ghana”, International 
+Journal of Mechanical Engineering and Technology, Vol. 5, No. 10, pp. 156-179.
+Ghana Ministry of Energy (2013), “Ministry of Energy and Petroleum”, www.energymin.gov.gh/?page_id=205, 
+accessed 19 June 2014.
+Ghana  Statistical  Service  (2012),  2010  Population  and  Housing  Census:  Summary  Report  of  Final  Results, 
+Ghana Statistical Service, Accra.
+Ghana Statistical Service (2013), Provisional Gross Domestic Product 2013, Ghana Statistical Service, Accra.
+Ghana Statistical Service (n.d.), www.statsghana.gov.gh/,  accessed 19 June 2014.
+GIZ (Deutsche Gesellschaft für Internationale Zusammenarbeit GmbH) (2013), “Opportunities for RE Market 
+Development in Ghana”, www.giz.de/fachexpertise/downloads/giz2013-en-pep-informationsveranstaltung-pv-
+ghana-behrle.pdf. 
+Government of Ghana (2012), “Ghana Sustainable Energy for All Action Plan” http://energycom.gov.gh/files/
+SE4ALL-GHANA%20ACTION%20PLAN.pdf, accessed 19 June 2014.
+Government of Ghana (2013), Highlights of the 2014 Budget, KPMG, Accra.
+GRIDCo (2011), Ghana Transmissions and Distribution Master Plan, Ghana Grid Company, Accra.
+IRENA (International Renewable Energy Agency) (2013), West African Power Pool: Planning and Prospects 
+for Renewable Energy, IRENA, Abu Dhabi.
+Jensen, S. (2002), Test of solar dryers in Ghana, Danish Technological Institute, Risoe. 
+Ministry of Energy (2010a), National Energy Policy, Ministry of Energy, Accra.
+Ministry of Energy (2010b), Energy Sector Strategy and Development Plan, Ministry of Energy, Accra. 
+Mohammed, Y.S., et al. (2013), “An Overview of Agricultural Biomass Based Potential for Decentralised Rural 
+Energy in Ghana”, Renewable and Sustainable Energy Reviews, Vol. 20, pp. 15-25.
+Public Utility Regulatory Commission (2011), “Publication of Electricity and Water Tariffs in the Gazette”, www.
+purc.com.gh/purc/sites/default/files/decemberbillingcycle2011_0.pdf.
+United Nations Development Programme (2011), Human Development Report 2011, Palgrave Macmillan, New York.
+Volta River Authority (2014), “Power Generation: Facts & Figures”, www.vraghana.com/resources/facts.php,  
+accessed 19 June 2014.
+WAGPA (West African Gas Pipeline Authority) (2011), “WAGPA”, http://wagpa.org/wagpa.html, accessed 19 June 2014.
+37
+ANNEX
+Detailed description of recommended action 
+ON-GRID
+Action
+Target setting
+All renewable energy resources
+Service-resource pair(s)
+The Northern Electrification Program objective of meeting 10% of the 
+total  energy  mix  through  renewable  energy  by  2020  was  translated 
+into the generation master plan as 10% of the electricity mix. 
+The ministry in charge of energy is responsible for co-ordinating a study 
+assessing  the  grid  condition  for  accommodating  variable  renewable 
+energy.  This  will  further  help  to  establish  technology-specific  targets 
+and  related  definite  capacity  additions,  thereby  increasing  market 
+confidence and competition. This should drive costs down.
+Description 
+Ministry of Power, Energy Commission, GRIDCo, all relevant stakeholders 
+and potential investors.
+Actors 
+End 2015
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+Action
+Grid integration of variable renewable energy
+All renewable energy resources
+Service-resource pair(s)
+Ghana has developed a comprehensive grid code most recently revised 
+in  2009  It  establishes  the  requirement,  procedures,  practices  and 
+standards that govern the development, operation, maintenance and 
+use of the high voltage transmission system. However, the grid code in 
+its current form lacks two prerequisites that would further enable the 
+integration of utility-scale variable renewable energy in the grid. These 
+are generation forecasting and priority dispatch.
+The ministry in charge of energy and the Energy Commission should 
+carry  out  consultations  with  all  relevant  stakeholders  for  the  revision 
+of  the  grid  code.  This  is  in  order  to  include  specific  conditions 
+accommodating  renewable  energy  generators  to  provide  accurate 
+data as well as for giving priority dispatch for renewable power.
+Description 
+ 
+The Ministry of Power and the Energy Commission is also to engage in 
+developing standards and codes for grid-connected rooftop solar PV 
+as well as supporting capacity building for local financial institution.
+Ministry of Power, Energy Commission, all relevant stakeholders.
+Actors 
+Mid-2016
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+38
+Action
+IPP financial support mechanisms and payment guarantees 
+All renewable energy resources
+Service-resource pair(s)
+The Renewable Energy Law provides for the establishment of a renewable 
+energy fund known as the Ghana Renewable Energy Fund or REF. This 
+is to offer financial incentives, capital subsidies, production subsidies and 
+equity  participation  for  renewable  energy  power  generation.  It  is  also 
+expected that the REF fills the gap between the FiTs and retail prices in 
+order to reduce the burden on end-users. 
+The  Energy  Commission  is  to  get  the  REF  up  and  running  given  the 
+renewed interest of project developers since FiTs were adopted.   
+ 
+The Government of Ghana should make provision for payment guarantees 
+to  IPPs  which  will  affect  the  commercial  viability  of  renewable  energy 
+projects. This is due to the fact that distribution companies ECG and NEDCo 
+are saddled with debt. The two utilities are not able to meet their payment 
+obligations to their present suppliers and this cannot credibly offtake any 
+renewable energy investment. The ECG has already signed PPAs, but none 
+of those projects has yet been implemented. Moreover, the instability of 
+the Ghana cedi has some significant implications for the development of 
+renewable  energy  projects.  This  is  because  investment  is  most  likely  to 
+be  denominated  in  a  foreign  currency,  while  the  revenues  are  expected 
+in cedi. It is therefore important that Ghana considers designing effective 
+currency risk mitigation instruments to help increase investor confidence 
+in financing renewable energy projects.
+Description 
+Ministry  of  Power,  Ministry  of  Finance,  Energy  Commission,  PURC, 
+development partners, all relevant stakeholders.
+Actors 
+End 2016
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+Streamlining renewable energy IPP procedure
+for entering the electricity market
+Action
+All renewable energy resources
+Service-resource pair(s)
+The  current  process  for  a  renewable  energy  IPP  to  enter  the  Ghana 
+electricity  market  requires  it  to  interact  with  regulatory  agencies  in  the 
+power sector once detailed feasibility studies have been completed. These 
+are  the  Energy  Commission  and  PURC,  the  Environmental  Protection 
+Agency, Ministry of Power, the Ministry of Finance and Economic Planning 
+and  the  Ghana  Investment  Promotion  Agency.  These  provide  various 
+licences, approvals, clearances and incentives linked to the development 
+of the renewable energy project (see figure 11). This complex and lengthy 
+procedure  can  lead  to  significant  administrative  and  transaction  costs 
+which  may  discourage  potential  investors  and  project  developers  from 
+entering the market. 
+Description 
+Ghana needs to set up a one-stop shop which may help reduce complexity 
+and assist IPPs working through this bureaucracy. The Ministry of Power is 
+to take the lead in this activity jointly with all key stakeholders in Ghana.
+Ministry of Power, Ministry of Finance, Energy Commission, regulatory 
+agencies, all relevant stakeholders.
+Actors 
+End 2016
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+39
+OFF-GRID
+Action
+Designing clear policy for off-grid mini-grids
+Off-grid solar
+Service-resource pair(s)
+The  Government  of  Ghana  has  been  implementing  the  Northern 
+Electrification Programme with the target of achieving universal access 
+by 2020 via grid extension. However, it is not possible to connect the 
+200-plus island/lakeside communities in the Volta river to the national 
+grid due to their geographical location. Moreover, many electrification 
+projects  fail  due  to  a  lack  of  clear  definition  of  competencies  and 
+responsibilities  as  well  as  political  power  and  relationships  between 
+different  stakeholders.  There  is  very  little  expertise  in  mini-grid 
+management in Ghana. This has become a concern lately  due to the 
+challenges associated with the electrification of island communities in 
+Lake Volta. Mini-grids are becoming interesting to NGOs and research 
+institutions  because  they  could  rely  on  freely  available  renewable 
+energy resources to generate electricity to remote rural communities. 
+However, much more needs to be done to scale up the deployment of 
+these technologies.
+The  country’s  objective  to  increase  rural  electricity  access  would 
+be  facilitated  by  creating  a  level  playing  field  for  local  private  sector 
+involvement.  The  support  announced  through  the  REF  should  be 
+clearly  defined,  and  reliable  operating  schemes  designed  for  small-
+scale  decentralised  renewable  energy  mini-grids.  Competencies  and 
+responsibilities,  as  well  as  political  power  and  relationships  between 
+different stakeholders, should also be clearly defined. 
+Description 
+The  Ministry  of  Power,  alongside  the  Energy  Commission  and  PURC, 
+need  either  to  set  up  special  tariffs  for  mini-grids  or  provide  follow-
+up  support  to  private  operators  willing  to  invest  in  them  and  facing 
+financial and technical constraints. They are not considered attractive 
+to  foreign  investors.  Once  operating,  the  REF  could  be  an  option  as 
+it  aims  to  provide  financial  incentives  for  mini-grid  renewable  power 
+systems for remote areas and islands.
+There is also a need to design reliable operating schemes based on the 
+local political and infrastructural framework to realise a sustainable and 
+functional socio-economic system for mini-grids in Ghana.  
+Ministry  of  Power,  Ministry  of  Finance,  Energy  Commission,  PURC, 
+Development Partners, all relevant stakeholders.
+Actors 
+End 2016
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+40
+Enhancing political support for promoting
+sustainable use of biomass energy
+Action
+Biomass for heating
+Service-resource pair(s)
+More than 70% of households in Ghana continue to rely on firewood 
+and  charcoal  as  their  main  source  of  cooking  fuel.  Campaigns  to 
+reduce  wood  fuel  consumption  within  the  biomass  sector  aim  to 
+introduce  biodigesters  that  produce  methane  for  cooking.  They  also 
+aim to promote improved cookstoves to increase the efficient use of 
+traditional biomass sources. However, high interest rates on loans have 
+prevented supply-side investors from expanding their businesses and 
+raising production.
+The government is to continue to create and support policy initiatives 
+enabling an environment that provides accelerated development and 
+promotion  of  sustainable  household  biomass  energy.  This  is  needed 
+in  addition  to  the  current  policies  and  goals  focused  on  remedies  to 
+deforestation caused partly by traditional cookstove use.
+Description 
+  
+There  is  also  a  need  to  encourage  more  entrepreneurs  prepared  to 
+invest,  and  to  support  them  by  capacity  building,  through  a  grants 
+programme  and  by  providing  access  to  working  capital.  Matching 
+government programmes are needed to develop fast-growing energy 
+wood plots, improve charcoal production technologies and skills, and 
+improve cookstoves production.
+Ministry of Power, Ministry of Finance, Ministry of Environment, Energy 
+Commission, PURC, Private Sector, Development Partners, all relevant 
+stakeholders.
+Actors 
+End 2015
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+Action
+Supporting private sector involvement 
+All decentralised renewable energy applications
+Service-resource pair(s)
+The  relatively  small  size  of  the  off-grid  market  does  not  make  it 
+very  attractive  to  foreign  investors,  which  is  why  the  sector  would 
+probably be left to local private operators with the support of donors 
+and  development  partners.  Local  private  operators  face  technical 
+and  financial  constraints.  These  include  a  lack  of  technical  expertise 
+to  develop  bankable  proposals  and  insufficient  working  capital  due 
+to  difficulty accessing loans. Other constraints are  high interest rates 
+due  to  a  perception  of  high  risk  and  lack  of  local  financial  institution 
+expertise in assessing off-grid renewable energy proposals. 
+Description 
+The  Ministry  of  Power  is  to  lead  a  capacity  building  programme 
+for  local  private  operators  and  financial  institutions  to  develop  and 
+evaluate bankable decentralised renewable energy project proposals. 
+This includes, for instance, training on how to assess local conditions 
+and systems, installation and maintenance.  
+Ministry  of  Power,  Energy  Commission,  Private  sector,  Financial 
+Institutions,  Training 
+institutions,  Research  Centers,  all  relevant 
+stakeholders.
+Actors 
+End 2016
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+41
+Facilitating end-user access to technologies and improving 
+awareness and acceptability of cookstoves
+Action
+All decentralised renewable energy applications
+Service-resource pair(s)
+As in most of African countries, the upfront cost of renewable energy 
+technologies in Ghana, including those for alternative cooking fuels, are 
+too high for end-users. These are mainly in rural population. 
+To  facilitate  the  spread  of  renewable  energy  technologies  and  their 
+acceptance  by  the  local  populace,  the  Government  of  Ghana  is  to 
+establish  a  set  of  end-user  access  facilitation  options.  These  could 
+include targeted subsidies and deferred payment schemes that could 
+be pre-financed directly by service providers or through a microfinance 
+institution. It also needs to establish sound business models for both 
+stand-alone  systems  and  mini-grids  to  increase  the  viability  and 
+sustainability of decentralised renewable energy projects and access to 
+electricity services in rural Ghana. 
+Description 
+This should be achieved by getting the REF up and running alongside 
+other  financing  support  mechanisms  like  group  lending  approaches 
+and  sustainable  credit  programmes  for  low-income  operators  and 
+farmers. Researchers should be supported in designing prototypes for 
+solar dryers that could be manufactured locally.  
+The  government  is  also  to  lead  awareness-raising  campaigns  and 
+communications strategies improving end-user knowledge of the new 
+opportunities and benefits of off-grid renewable energy systems. 
+If consumers are to adopt improved cookstoves in the long term, the 
+government  should  embark  on  critical  mass  education  to  increase 
+product market penetration and acceptability.
+Ministry of Power, Ministry of Environment, Ministry of Education, Civil 
+Society, NGOs, Development partners and all relevant stakeholders.
+Actors 
+End 2017
+Timing
+Broad consultation and engagement of all relevant stakeholders
+Keys to success
+42

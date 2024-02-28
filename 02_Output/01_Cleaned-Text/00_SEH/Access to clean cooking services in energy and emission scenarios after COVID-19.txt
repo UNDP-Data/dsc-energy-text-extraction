@@ -1,0 +1,767 @@
+Access to clean cooking services in energy and emission scenarios after COVID-19
+| Nature Energy Skip to main content Thank you for visiting nature.com. You are
+using a browser version with limited support for CSS. To obtain             the
+best experience, we recommend you use a more up to date browser (or turn off
+compatibility mode in             Internet Explorer). In the meantime, to ensure
+continued support, we are displaying the site without styles             and
+JavaScript. Advertisement View all journals Search Log in Explore  content About
+the journal Publish  with us Sign up for alerts RSS feed nature nature energy
+analyses article                         Access to clean cooking services in
+energy and emission scenarios after COVID-19                      Download PDF
+Download PDF Analysis Published:  28 October 2021 Access to clean cooking
+services in energy and emission scenarios after COVID-19 Shonali Pachauri 
+ORCID:  orcid.org/0000-0001-8138-3178 1 ,  Miguel Poblete-Cazenave 
+ORCID:  orcid.org/0000-0001-8280-910X 1 ,  Arda Aktas 2  &  … Matthew J. Gidden
+              ORCID:  orcid.org/0000-0003-0687-414X 1 , 3   Show authors Nature
+Energy volume  6 ,  pages  1067–1076 ( 2021 ) Cite this article 6377  Accesses
+24  Citations 72  Altmetric Metrics  details Subjects Energy access Energy and
+behaviour Energy economics Socioeconomic scenarios Abstract Slow progress in
+expanding clean cooking access is hindering progress on health, gender, equity,
+climate and air quality goals globally. Despite a rising population share with
+clean cooking access, the number of cooking poor remains stagnant. In this study
+we explored clean cooking access until 2050 under three reference scenarios, a
+COVID-19 recovery scenario and ambitious climate mitigation policy scenarios.
+Our analysis shows that universal access may not be achieved even in 2050. A
+protracted recession after the pandemic could leave an additional 470 million
+people unable to afford clean cooking services in 2030 relative to a reference
+scenario, with populations in sub-Saharan Africa and Asia the worst affected.
+Ambitious climate mitigation needs to be twinned with robust energy access
+policies to prevent an additional 200 million people being unable to transition
+to clean cooking in 2030. Our findings underline the need for immediate
+acceleration in efforts to make clean cooking accessible and affordable to all.
+Similar content being viewed by others Global scenarios of household access to
+modern energy services under climate mitigation policy Article 05 August 2021
+Miguel Poblete-Cazenave, Shonali Pachauri, … Bas van Ruijven A geospatial
+approach to understanding clean cooking challenges in sub-Saharan Africa Article
+Open access 12 January 2023 Babak Khavari, Camilo Ramirez, … Francesco Fuso
+Nerini Factors associated with the use of liquefied petroleum gas in Ghana vary
+at different stages of transition Article Open access 22 February 2024 Abhishek
+Kar, Theresa Tawiah, … Kwaku P. Asante Main Energy for cooking is a most
+fundamental need. Yet today, over three billion people still cook by burning
+wood on open fires and in smoky stoves. The enormous social, public health and
+environmental benefits of transitioning to cleaner cooking underpin the
+inclusion of a universal access target for this under the United Nations
+Sustainable Development Goal 7 (SDG 7) 1 , 2 , 3 . Even before the COVID-19
+pandemic, data showed that efforts to provide clean fuels and stoves have been
+lagging far behind those aimed at extending electricity access 4 . A recent
+report claims that this sluggish progress in providing clean cooking access is
+costing the world more than US$2 trillion each year as a result of health
+impacts, productivity losses and environmental degradation 5 . Mounting evidence
+of the impacts of air pollution exposure on COVID-19 mortality makes universal
+access to clean cooking services more urgent 6 , 7 . Despite this, emerging
+evidence suggests that the economic fallout of the pandemic might pose a further
+setback to efforts to reach this goal, as many are forced to climb down the
+energy ladder 8 , 9 , 10 . Previous literature analysing scenarios for achieving
+universal access to modern energy services have focused predominantly on
+electricity supply to assess the cost-effectiveness of alternative options to
+provide connections 11 , 12 , 13 , 14 . There is a paucity of studies analysing
+clean cooking scenarios, particularly at a global scale 15 , 16 . Existing
+studies that focus on cooking access scenarios are limited in their
+representation of multiple cooking fuel use (fuel stacking), population
+heterogeneity and affordability constraints, which are critical to understanding
+whether people will regularly use new fuels or stoves after they acquire them 17
+, 18 , 19 . The limited existing evidence, preceding the pandemic, suggests that
+the world is far off the mark of the SDG 7 goal, with nations in sub-Saharan
+Africa projected to not achieve this target even in 2050 5 , 20 . In this study
+we explored clean cooking access until 2050 under reference scenarios of
+socioeconomic and demographic change, ambitious climate mitigation policy
+scenarios and a slow economic recovery from the COVID-19 pandemic scenario (see
+Methods  for scenario details). We applied existing microdata-based cooking
+choice and demand models that explicitly consider fuel stacking and represent
+affordability constraints for urban and rural populations, capturing
+heterogeneity in household preferences across the entire income distribution 21
+, 22 . We find that a slow recovery from the pandemic and fuel price changes
+because of ambitious climate mitigation policy could substantially retard
+progress in achieving universal clean cooking access if additional policies
+related to energy access and poverty alleviation are not simultaneously pursued.
+Those most at risk of not being able to afford to transition to clean cooking
+are low-income households in sub-Saharan Africa (AFR), developing Asia, and
+Latin America and the Caribbean (LAM). A faster transition to clean cooking
+fuels can attenuate future growth in cooking energy demand, especially in
+regions that currently depend largely on biomass and other solid fuels.
+Populations without access to clean cooking In what follows, we define clean
+cooking as cooking with modern fuels such as liquid petroleum gas (LPG),
+electricity and piped gas, which when used in modern stoves result in little to
+no household pollution. Newer options, for example, bioethanol or solar
+electric, might become viable in the future, but were not included in our
+analysis as we detected no use of these in the empirical datasets that we
+employed. All other fuels, including solid biomass-based firewood or charcoal
+and coal, are categorized as polluting, because prevailing stove technologies
+that use these result in pollution levels that exceed World Health Organization
+indoor air quality guidelines for household fuel combustion 23 . We categorize a
+household as cooking poor if it depends on polluting cooking fuels, that is, on
+fuels other than those we define as clean, for half or more of its cooking
+energy consumption. In our analysis we compared an especially constructed
+COVID-19 recovery scenario (COVID) with three reference scenarios, namely
+sustainability (SSP1), middle-of-the-road (SSP2) and regional rivalry (SSP3),
+from the Shared Socioeconomic Pathways (SSP) framework 24 . We further compared
+our recovery and reference scenarios with a set of scenarios that impose an
+ambitious climate mitigation policy that limits warming to 2 °C by the end of
+the century (CP2C) using a previous formulation that assumes a regionally
+differentiated carbon price trajectory that rises gradually over time 25  (see
+Methods ). Our findings show that the share of the population with access to
+clean cooking rises under all scenarios until 2050, but no scenario meets the
+rate of improvement required to achieve the SDG 7 2030 target (Fig.  1  and
+Supplementary Fig.  1 ). Even under our most optimistic reference growth
+scenario SSP1, we found that close to 38% of the global population could
+continue to remain cooking poor in 2030. Slower growth and urbanization under
+the SSP2 and SSP3 reference scenarios could leave an additional 1.2–3.9% of the
+population unable to afford clean cooking in 2030. We found universal access may
+not be achieved even in 2050. Fig. 1: Cooking poor populations. a , Percentage
+of cooking poor population in 2030 by MESSAGEix regions under the SSP2 reference
+scenario.  b , Percentage of cooking poor population until 2050 by scenario in
+selected MESSAGEix regions. The bars depict shares in reference scenarios and
+the crosses above the bars depict shares under the climate mitigation policy
+scenarios. Full size image Under our COVID recovery scenario, an additional 470
+million people may remain cooking poor in 2030 as compared with under SSP3, our
+most pessimistic reference growth scenario. The COVID scenario has a persistent
+impact, as, even though average income levels are assumed to revert to the
+reference SSP3 trend in 2040, income inequality remains higher until the middle
+of the century, leaving more families dependent on biomass even in 2050.
+Ambitious climate mitigation policy in the absence of additional targeted
+support policies could also make transitioning to clean cooking more difficult
+for about 200 million people, specifically those in Centrally Planned Asia (CPA)
+and South Asia (SAS), where fossil fuel demand for cooking is currently high and
+most households are unable to afford electric cooking. In AFR, we observed only
+very moderate improvements in access to clean cooking services over time as
+population growth in this region outpaces the rate of transition to better
+stoves and fuels in all scenarios. In contrast, in CPA, SAS and Other Pacific
+Asia (PAS), clean cooking access becomes increasingly affordable, especially
+under an optimistic SSP1 reference scenario. Overall, differences on account of
+income growth, distribution and urbanization in our reference scenarios impact
+clean cooking access more than shifts in fuel prices as a result of ambitious
+climate mitigation policy. However, in regions of developing and emerging Asia,
+climate mitigation policy could increase the cost of clean cooking services.
+Implementing additional support policies to make clean cooking affordable will
+be essential to achieve both climate goals and SDG 7 simultaneously in these
+regions. Final cooking energy demand In many developing regions, cooking is
+still the most energy-intensive activity in homes. Figure  2  shows future total
+cooking energy demand by scenario. We see a decline in biomass use over time in
+all reference scenarios with a faster phase out under SSP1 compared with the
+other reference scenarios (Fig.  2a ). Under the COVID scenario, we observe a
+much larger share of solid fuels, and higher total cooking energy demand because
+of the inefficiency of these fuels. This large COVID effect could result in an
+increase in biomass use until 2030, with a light rebound in 2040, when income
+levels are assumed to go back to the reference SSP3 trend. Climate mitigation
+policies could attenuate the transition away from polluting stoves by making oil
+and gas-based fuels more expensive. The higher prices could also result in lower
+average per capita final cooking energy demand under the climate mitigation
+policy scenarios as compared with the reference scenarios and a much smaller
+proportion of gas in the cooking energy mix. Fig. 2: Total and average cooking
+energy demand. a , Total cooking energy demand until 2050 under different
+scenarios.  b , Average cooking energy demand per capita in the reference year
+2010, and in 2030 for biomass-dependent regions (AFR, LAM, PAS and SAS).  c ,
+Average cooking energy demand per capita in the reference year 2010, and in 2030
+in other regions (CPA, MEA and the rest of the world). Full size image We find
+that the rate of change in cooking energy demand across regions varies. In
+developed regions, there is little change in the reference scenarios as there is
+little transition in fuels over time, and population and urbanization remain
+quite stable. In emerging and developing regions, for example, CPA, income
+growth and urbanization result in shifts from less efficient to more efficient
+fuels, but population shifts could mean relatively little change in total
+cooking energy demand. On the other hand, in AFR, total cooking energy demand
+could increase over time on account of rapid population growth and a slow
+transition away from polluting stoves. We also find demand may rise initially in
+the region, as populations move out of extreme poverty. Cooking energy demand
+can rise if households increase cooking frequency, shift diets to eating
+different foods or simply cook more food. Differences in the average per capita
+cooking energy demand in the year 2030 by scenario are depicted in Fig.  2b,c .
+We distinguished regions that are more dependent on biomass (that is, AFR, LAM,
+PAS and SAS) from other regions of the world that are not. The differences in
+average cooking energy demand between the two are stark. Furthermore, the
+differences between scenarios are more pronounced for the non-biomass-dependent
+regions (Fig.  2c ). Under the climate mitigation policy scenarios, we find
+cooking energy demand could be lower than in the reference scenarios, as the
+consumption of gas may decrease substantially, more so in regions that are non-
+biomass-dependent to begin with, and there could be an increase in electricity
+consumption instead. In the COVID scenario, we find cooking demand could be
+lower than in the reference scenarios in the biomass-dependent regions, because
+of lower income levels (Fig.  2b ). In the non-biomass-dependent regions too,
+biomass demand could be slightly higher in the COVID scenario. More biomass use
+is also likely in the SSP3 reference scenario as compared with the SSP1
+reference scenario. Cooking energy transitions In line with the literature, we
+found that rising incomes and urbanization drive a transition to cleaner fuels
+and stoves 17 , 26 , 27 . However, within and across regions, the nature and
+pace of this transition vary vastly depending on several factors beyond income.
+In Figs.  3  and  4  we present the total cooking energy mix in 2030 for the
+full income distribution by region and scenario, separately for rural and urban
+populations, respectively. Income is presented in the logarithmic scale to
+better visualize the transitions at lower levels of income. Fig. 3: Total
+cooking energy mix in 2030 for rural populations. a – f , Distribution of
+cooking fuels by income and scenario in 2030 for rural households in different
+regions, overlaid with the population income distribution: AFR ( a ), CPA ( b ),
+LAM ( c ), MEA ( d ), PAS ( e ) and SAS ( f ). Full size image Fig. 4: Total
+cooking energy mix in 2030 for urban populations. a – f , Distribution of
+cooking fuels by income and scenario in 2030 for urban households in different
+regions, overlaid with the population income distribution: AFR ( a ), CPA ( b ),
+LAM ( c ), MEA ( d ), PAS ( e ) and SAS ( f ). Full size image Clear differences
+in the pace and nature of the transition in cooking fuels across regions are
+evident. In rural CPA in the COVID scenario (top left panel of Fig.  3b ), we
+see most households with very low incomes per capita (approximately less than
+US$5 per capita per day). We see a transition from high firewood dependence at
+lower income levels to almost equal shares of firewood, gas and electricity at
+the highest income levels. Households with middle-income levels could still rely
+mostly on biomass fuels. By contrast, among urban households (top left panel of
+Fig.  4b ), income per capita levels are higher (up to approximately US$17 per
+capita per day). These households are likely to depend mostly on gas and
+electricity. The pattern varies greatly across other regions, even at comparable
+income levels. Nevertheless, overall, we see a strong income effect on the
+choice of cooking fuels, with households with higher levels of income
+transitioning to either gas or electricity in all regions, except in the Middle
+East and North Africa (MEA), a region rich in fossil fuels and poor in biomass.
+In MEA, higher-income households could continue to use cheap kerosene, in line
+with what we observed in the empirical data (see  Methods  section). For lower-
+income rural households, especially in AFR, SAS and, to a lesser extent, LAM, we
+find a large share of total cooking energy demand could still be biomass-based
+even in 2050, particularly in the COVID scenario. In the climate mitigation
+policy scenarios too, an increase in fossil fuel prices could increase the
+dependence on biomass, with the price effect dominating the income effect in
+determining the choice of fuels. Considering regional heterogeneity, in AFR and
+SAS, regions that are most acutely dependent on biomass today, we find price
+sensitivity could be higher under the climate mitigation policy scenarios. In
+addition to income, our analysis shows a clear urban–rural divide in fuel
+choice, with even richer households in rural areas likely to continue relying on
+solid fuels because of their easy access and the poor accessibility to cleaner
+alternatives. Indeed, as we can see from the example of CPA, there are stark
+differences in the choice of cooking fuels between urban and rural households
+even at the same income levels. We observed this in other regions of the world
+as well (Supplementary Fig.  3 ). Finally, we find energy prices also affect
+cooking fuel transitions. For instance, in SAS, we find that in the climate
+mitigation policy scenarios, rising fossil fuel prices could push LPG out of
+reach of many. However, future transitions in this region remain the most
+uncertain, as there are currently strong policies to expand LPG access to even
+rural households in India. The effect of these policies are only becoming
+evident now and are not reflected in the data that we used to estimate the
+parameters for this region (see  Methods  section). Populations most at risk of
+being cooking poor Our findings on the transition in cooking fuels discussed
+above suggest that access to clean cooking is clearly a poverty issue. This is
+further illustrated in Fig.  5 . In Fig.  5a  we show the relationship between
+cooking poor and income poor populations (defined as those earning less than
+US$5 per capita per day). We see that in AFR, and to a lesser extent in LAM and
+PAS, income poverty strongly correlates with cooking poverty. In other regions,
+this is less so, as the number of poor individuals is much lower than those
+dependent on solid fuels. This can be explained by the existence of natural
+resources that result in lower prices of liquid fuels in some regions (for
+example, MEA), or sustained public policies aimed at poverty alleviation and
+increasing access to clean cooking in others (for example, in CPA and SAS). Fig.
+5: Relationship between income poor and cooking poor populations by region and
+scenario. a , Cooking poor populations plotted against income poor in 2030. The
+diagonal line represents equal numbers of cooking poor and income poor
+populations.  b , Relative changes in cooking poor populations between 2010 and
+2030 by scenario and region. Full size image In AFR, we find that future income
+growth may not compensate for the effect of population growth, so that the
+number of cooking poor could increase in all scenarios. What is also evident
+from Fig.  5b  is that AFR could remain largely rural in 2030, and between 94%
+(in SSP1) and 98% (in COVID) of rural households could earn less than US$5 per
+capita per day and remain cooking poor in 2030. In SAS too, 78% (in SSP1) to 90%
+(in COVID) of the rural population could earn less than US$5 per capita per day
+and remain cooking poor in 2030. In other regions of the Global South, we found
+that about 15% more people could remain income poor in the COVID scenario
+compared with in the SSP3 scenario. In other regions of Asia, specifically in
+CPA, but also in PAS, the number of cooking poor is likely to decline between
+2010 and 2030. In these regions, not only do we find that many move out of
+poverty, but also rising urbanization makes clean fuels more accessible and
+affordable. For example, in CPA, in the COVID scenario, we observe that a little
+less than half of the rural population could earn less than US$5 per capita per
+day and depend on solid fuels, but the percentage of urban households in this
+category is likely to be negligible. We find outcomes differ by scenario in MEA,
+LAM and SAS. In these regions, in the SSP1 and SSP2 scenarios we observe there
+could be a reduction in cooking poor, but in the SSP3 and COVID scenarios we
+find that the extent of both poverty and cooking poverty could rise. In MEA and
+SAS this is largely explained by differences in urbanization between the SSP1
+and SSP2 scenarios as compared with the SSP3 and COVID scenarios. In LAM,
+however, we find even urban households could remain cooking poor, as income
+inequality is higher in this region, even in countries that have a gross
+domestic product (GDP) per capita comparable to that in most developed regions.
+Therefore, we find many people could remain income poor even in 2030. Especially
+in the SSP3 and COVID scenarios, we find that 60% of rural and about 50% of
+urban populations could earn less than US$5 per capita per day and depend on
+solid fuels for cooking. In general, our findings show that clean cooking access
+in the COVID scenario is likely to be lower than under the climate mitigation
+policy scenarios. In SAS, however, the urban poor could be particularly affected
+by rising gas prices under the climate mitigation policy scenarios, with the
+dependency on solid fuels for this group almost doubling. However, even in this
+region, solid fuel dependency is much higher at 7% in the COVID scenario in 2030
+as compared with under the climate mitigation policy scenarios (2% in
+SSP3-CP2C). Discussion and conclusions Our analysis provides new insights into
+how access to clean cooking services may change under alternative reference
+scenarios, a slow pandemic recovery scenario and climate mitigation policy
+scenarios. Our findings show that the SDG 7 target of universal clean cooking
+access by 2030 could be out of reach under all the scenarios we explored. In
+regions that currently have the highest access gaps, specifically AFR, SAS, PAS
+and LAM, universal access may not be achieved even in 2050. A protracted
+recession following the pandemic could further retard progress towards achieving
+this goal. Our findings resonate with recent analysis that suggests that the
+aftermath of the pandemic could push half a billion people back into extreme
+poverty 28 . Climate mitigation policies may also hamper a transition to fossil-
+based cleaner burning cooking fuels by making these more expensive and putting
+them out of reach of many if not twinned with appropriate additional policies
+specifically targeting the cooking poor in AFR, parts of developing Asia and
+LAM. The location and supply of fuels and their affordability are critical
+drivers of the trends that we observed. In MEA, where biomass supply is limited,
+we found dependence on cheap kerosene could remain high. In AFR and LAM, where
+many households are remotely located, have easy access to biomass resources and
+limited access to modern cooking services, we found biomass dependency is likely
+to persist. For these populations, the inconveniences and health impacts of
+cooking with polluting stoves need to be factored into the household choice
+decision. This requires committed and sustained policies to provide easy access
+to modern fuels and stoves at affordable prices, and information and behaviour
+change messaging. If anything, studies in regions that are enforcing such
+policies now (for example, India) show that these behaviours can be persistent,
+and providing households access to new stoves and cleaner burning fuels alone
+may not be enough to promote their regular use 29 , 30 . Our analysis has some
+limitations that point to important avenues for future research. Our model can
+capture a wide variety of heterogeneity in circumstances and population
+characteristics, but our results are only as good as the input data used. As our
+methods are based on empirical data, we could only include cooking options that
+exist in the datasets that we employed. Although newer alternatives that might
+become viable in the future were not explicitly modelled, our analysis can
+inform policy of the price points and income levels at which populations in
+different regions will be able to afford new fuels and technologies. Because
+cooking behaviours appear to be quite persistent, future research should
+consider using panel or pseudo-panel datasets that can better capture
+longitudinal shifts. Our analysis could also be further expanded to better
+assess how societal changes, such as better education and women’s empowerment
+and labour force participation, relate to cooking energy choices. We did not
+include institutional capacity and governance constraints that might limit the
+expansion of supply of certain cooking options or the effectiveness of policies
+in specific contexts. In addition, our analysis did not assume any climate
+feedback on biomass availability. Both unsustainable harvesting and future
+climate change could reduce the availability of abundant biomass resources in
+certain regions. Alternatively, more sustainable land and biomass management
+could make supplies more abundant and encourage new biomass-based clean cooking
+options 31 , 32 . Insights from our analysis emphasize the increased urgency to
+address this issue, which has been left on the back burner for far too long. A
+recent report has highlighted the chronic underinvestment in the sector,
+particularly in regions where this is needed most 33 . Recent estimates suggest
+that achieving universal access to clean cooking services by 2030 will require
+US$4.5–9.8 billion annually 5 , 33 . We estimate an average expenditure gap of
+US$10.5 billion annually between 2020 and 2030, comparing the reference SSP3 and
+COVID scenarios. This includes the cost of stoves and expenditure on fuels, and
+is in line with previous estimates. These estimates are an order of magnitude
+lower than the US$2 trillion of estimated losses incurred each year from a lack
+of access 5 . Recent commitments pledged to COVID-19 recovery funds are in the
+range US$9–15 trillion 34 , 35 . Directing even a fraction of 1% of these funds
+to eradicating cooking poverty could help bridge the financing gap to meet the
+SDG 7 target. Countries like Brazil, India and Indonesia have expanded access to
+clean cooking services considerably in recent years 36 . This has been achieved
+through strong government commitment and extensive subsidies. But sustaining
+these subsidies can become a fiscal burden. Better targeting of subsidies,
+through efforts like India’s Give It Up campaign, and better market segmentation
+could help 37 . In addition, directing green and climate funds and revenues from
+carbon pricing to the clean cooking sector can be another way to increase
+financing to this sector 38 . Despite the challenges in extending clean cooking
+access, recent advances in technologies 39  and new payment and financing models
+40  can help clean cooking services reach even low-income households. In urban
+centres, providing piped gas to dense settlements and introducing smaller LPG
+cylinder sizes, pay-for-service financing models, smart metering for gas with
+electronic payment options as well as more reliable and affordable electricity
+can be instrumental in encouraging a more rapid transition to clean cooking. For
+rural regions, awareness-raising and behaviour change campaigns are also
+important to ensure that those who gain access use new stoves regularly 41 . Our
+results suggest a need for much greater prioritization and coordinated policies
+to provide access to clean cooking globally, with efforts targeted at the most
+disadvantaged, specifically the poorest regions and populations. This will
+require considerable upscaling of investment, capacity and commitment, but can
+result in big benefits for planetary and population health and wellbeing.
+Methods Data sources We used microdata from a large set of nationally
+representative household surveys of different countries to estimate energy and
+cooking technology choices for regions of the world. We aggregated nations in
+line with the 11 regions of the MESSAGEix-GLOBIOM model 42 . The datasets used
+to represent each of these regions are presented in Supplementary Table  1 ,
+with a focus on regions of the world where access to clean cooking is lacking.
+Regions where access is not an issue (that is, North America (NAM), Western
+Europe (WEU) and Pacific OECD (PAO)) were included in our analysis and modelled
+independently, but are presented clubbed together in a single other or rest of
+the world region in some results. None of these surveys report energy
+consumption for cooking purposes separately, but instead include data on total
+consumption or expenditure by fuel. This was not an issue for the modelling
+approach we followed for the Global North countries (as described further in the
+following subsection), but was relevant for regions of the Global South.
+Therefore, we used two different approaches to separate energy for cooking from
+energy for other end uses. Both approaches required us to create profiles of
+consumers who use the fuel for cooking and those who do not. Depending on the
+particulars of the specific national dataset, we then either used a simple
+regression approach to back out representative non-cooking consumption of
+households depending on a set of characteristics, or we calculated simple
+averages differentiated by income categories for urban and rural households
+separately. Importantly, the simulation-based estimation approach we followed
+largely minimizes the potential biases of such estimation, as we first obtained
+a guesstimate of cooking consumption using unbiased simulators derived from the
+first- and second-order moments of the empirical distributions, and next matched
+the non-biased first moments from the simulated data with the empirical data
+while minimizing errors in the second moments. Models and estimation We used two
+different models for different regions of the world. For the Global South, where
+energy stacking is more prevalent, we used a previously developed model of
+household cooking fuel choices that allows for multiple fuel use 21 . For the
+Global North, where households generally use only one type of fuel, we used a
+different more general model of household energy and appliance choices 22 . Both
+models follow a simulation-based structural econometric approach, wherein a
+large set of simulated households are constructed to mimic the characteristics
+found in the empirical data. Households choose between cooking alternatives to
+maximize utility given budget constraints and the prices they face in the
+market. All the simulated households have different characteristics (for
+example, income, household size and location, among others), and therefore the
+models capture heterogeneity with respect to these characteristics. The models,
+although different, work by backing out household preferences for different
+cooking fuels and technologies from the choices observed in the empirical data
+sources using different simulation-based estimation techniques. Therefore, the
+models only include options that appear in the different sources of household
+data (Supplementary Table  1 ), namely, firewood, charcoal and coal (usually
+lumped together), kerosene, LPG and natural gas (also usually lumped together),
+and electricity. Unfortunately, this implies that preferences for fuels that are
+lumped together cannot be distinguished from each other, and therefore are
+modelled as a single option. Also, other potential viable alternatives (for
+example, biogas and ethanol) cannot be included in the model. However, given
+that preferences are estimated independently for different regions of the world,
+the methods we employed allow for capturing local behaviours and preferences,
+which add more relevant layers of heterogeneity to our results. Model of cooking
+fuel choices For the Global South, we applied a simulation-based structural
+econometrics model of household cooking fuel choice (details of the model are
+available elsewhere 21 ). In brief, the approach assumes households maximize
+their utility  U  by choosing between the consumption of cooking fuels (allowing
+for fuel stacking, if households prefer to do so) and other items: $$\mathop
+{{{\mathrm{max}}}}\limits_{C,F} U\left( {C,F} \right) = \left[ {C^ \alpha \left(
+{\mathop {\sum }\limits_{f = 1}^{N_f} e_fF_f} \right)^{1 - \alpha }}
+\right]^\gamma \left[ {\chi \left( {F_1...F_{N_f}} \right)} \right]^{1 - \gamma
+}$$ subject to: $$p_cC + \mathop {\sum }\limits_{f = 1}^{N_f} \left( {p_fF_f +
+{\Bbb A}_f} \right) = I$$ $$C,F_f \ge 0$$ where  C  is the consumption of items
+other than cooking fuels,  p c  is the price of other consumption goods,  p f
+is the price of cooking fuel  f ,  F f  is the consumption of cooking fuel  f ,
+\({\Bbb A}_f\)  is an annualized representation of the cost of a cooking stove
+of fuel  f ,  I  is the household expenditure and  \(\chi \left( {F_1...F_{N_f}}
+\right)\)  is a function that represents preference shifts for reasons other
+than the consumption of the fuel, such as time savings or health impacts. The
+unobserved preference parameters of the model ( α ,  γ ,  \({\Bbb K}\) ,  δ 1 f
+and  δ 2 f ) are backed-out from empirical data using the method of simulated
+moments 43 , a simulation-based estimation procedure that seeks to identify
+numerical parameter values that match a set of selected moments from the
+empirical data with the same set of moments computed from the simulated dataset
+of individuals with similar characteristics to their empirical counterparts in
+the data, whose fuel choices are then determined using the model described
+above. The parameters were estimated independently for each region. To be
+representative, several sources of data were used for regions with very
+heterogeneous realities (for example, urbanization rates, natural environments,
+and supply of and accessibility to different cooking fuels and technologies).
+The fit of the model can be seen graphically in Supplementary Fig.  2 .
+Naturally, regions that present non-smooth distributions of cooking fuels over
+income were harder to match (that is, CPA, LAM and PAS). Overall, the observed
+trends over income were appropriately captured by the model. The full set of
+matched moments are presented in the  Supplementary Data  file. Model of energy
+consumption and appliance choices Cooking choices and demand in the Global North
+were estimated using a different simulation-based structural econometrics model
+that reflects the multiple choices of households in terms of fuels and
+appliances for different end uses 22 . In this model, households, based on their
+characteristics, make a discrete choice between available cooking technologies
+in each region, which is finally reflected in their total energy consumption for
+the respective fuel. Specifically, if households choose an electric stove, their
+electricity consumption is calculated as: $$x_1 = \phi _0 + \mathop {\sum
+}\limits_{j = 1}^m \delta _j\phi _j + \left[ {\lambda _1p_1 + \lambda _2p_2 +
+\lambda _3\chi + \lambda _4\left( {y - \rho \mathop {\sum }\limits_{j = 1}^m
+K_j\delta _j} \right)} \right],$$ whereas if they choose a gas or biomass stove,
+their total alternative fuel consumption is calculated as: $$\begin{array}{l}x_2
+= \frac{{\lambda _2}}{{\lambda _4}}\left( {\alpha - 1} \right) + \frac{\alpha
+}{{\lambda _4}}\left( {\phi _0 + \frac{{\lambda _1}}{{\lambda _4}} + \lambda
+_3\chi } \right)\frac{1}{{p_2}} + \frac{{\alpha \lambda _1}}{{\lambda
+_4}}\frac{{p_1}}{{p_2}}\\ + \frac{\alpha }{{p_2}}\left[ {y - \rho \mathop {\sum
+}\limits_{j = 1}^m K_j\delta _j + \mathop {\sum }\limits_{j = 1}^m \frac{{\phi
+_j}}{{\lambda _4}}\delta _j} \right],\end{array}$$ where consumption  x i  is
+modelled as the sum of the base consumption of electricity  ϕ 0  and consumption
+due to ownership of appliances  δ j ϕ j , where  δ j  represents the ownership
+of appliance  j   ∈   m  and  ϕ j  is the average electricity consumption of the
+appliance. In addition, each household’s consumption is affected by the price of
+electricity  p 1 , the price of alternative fuels  p 2 , a vector of household
+characteristics  χ  and the household’s disposable income (that is, total income
+y  minus the annualized investment cost of electric appliances  \(\rho \mathop
+{\sum }\limits_{j = 1}^m K_j\delta _j\) ). Finally, the actual cooking energy
+consumption is calculated as: $${{{\mathcal{E}}}}_{{\mathrm{cook}}} =
+\frac{{\delta _{{\mathrm{cook}}}\phi _{{\mathrm{cook}}}}}{{\phi _0 + \mathop
+{\sum }\nolimits_{j = 1}^m \delta _j\phi _j}}x_i,$$ where ‘cook’ refers to the
+particular cooking appliance used by the household and  i  takes the value 1 if
+households use an electric stove and 2 if they use another fuel. The unknown
+preference parameters ( α  and the  ϕ s and  λ s) are estimated following a
+similar procedure to the one described above, albeit using a different
+estimation technique, namely indirect inference 44 , which is a generalized
+version of the method of simulated moments. The empirical fit of the model can
+be found in the  Supplementary Data  file. Scenario design and future
+simulations We considered three different future reference scenarios following
+the narratives of the Shared Socioeconomic Pathways, specifically sustainability
+(SSP1), middle-of-the-road (SSP2) and regional rivalry (SSP3). Although the
+population 45  and urbanization 46  projections by country for the SSP scenarios
+that we used are as described in the references cited here, a special algorithm
+was applied to obtain separate income distributions for urban and rural
+households. Specifically, a machine learning algorithm 47  was applied to a
+large longitudinal dataset including average household income and Gini
+coefficient estimates for urban and rural households of all regions of the world
+to obtain associations between these indicators and other SSP drivers. The
+algorithm was trained on data from 1988 to 2010, and data from 2011 to 2015 were
+used for validation. These associations were posteriorly applied to the
+corresponding scenarios 25 , 45 , 46 , 48  to obtain the future income
+distributions for urban and rural households separately in all countries and
+regions. The COVID scenario deserves special attention. For its elaboration, the
+original GDP trend for the reference SSP3 scenario from 2010 to 2019 was
+retained (as this is closer to the actual GDP trends in the past few years). For
+the years 2020 and 2021, we then used the most recent national GDP growth
+estimates from the World Bank 49 . We assumed convergence in GDP growth trends
+in the year 2040, considering a 20-year protracted recovery period from the
+pandemic worldwide. The revised GDP estimates were used to adjust the level of
+average household income in each region and period. The standard deviation,
+which is used to estimate inequality, was also adjusted in line with its
+association with GDP, urbanization and year. The  Supplementary Data  file
+contains values of all scenario drivers for the period of analysis. We also
+considered ambitious climate mitigation policy scenarios that limit global
+warming to below 2 °C by the end of the century. The climate mitigation policy
+simulated in this analysis considers regionally differentiated carbon price
+trajectories as estimated by McCollum et al. 25 . Details of all key scenario
+drivers and assumptions are presented in the  Supplementary Data  file. The
+microdata-based structural estimation models described above are soft-linked to
+the MESSAGEix-GLOBIOM integrated assessment model 42 , which allows
+macroeconomic feedbacks via energy prices to be captured. These reflect changes
+in the energy supply mix and land use to meet estimated demands at least cost.
+Data availability Links to the micro datasets that were used in the analysis are
+included in the  Supplementary Information , when available. Given that some of
+these datasets are not publicly available, the data used for the estimation
+module is only available from the corresponding author upon reasonable request.
+The simulated datasets generated during the current study are also available
+from the corresponding author upon reasonable request. All estimated moments,
+scenario assumptions and the datasets underlying the plots are available in the
+Supplementary Data  file. Code availability The codes used during the current
+study are available from the corresponding author upon reasonable request.
+References Rosenthal, J., Quinn, A., Grieshop, A. P., Pillarisetti, A. & Glass,
+R. I. Clean cooking and the SDGs: integrated analytical approaches to guide
+energy interventions for health and environment goals.  Energy Sustain. Dev.
+42 , 152–159 (2018). Article                            Google Scholar 
+Maji, P. & Kandlikar, M. Quantifying the air quality, climate and equity
+implications of India’s household energy transition.  Energy Sustain. Dev.   55
+, 37–47 (2020). Article                            Google Scholar 
+Watts, N. et al. The 2020 report of The Lancet Countdown on health and climate
+change: responding to converging crises.  Lancet   397 , 129–170 (2021). Article
+                           Google Scholar                    IEA, IRENA, UNSD,
+WB & WHO  Tracking SDG 7: The Energy Progress Report 2020  (World Bank, 2020);
+https://openknowledge.worldbank.org/handle/10986/33822 Energy Sector Management
+Assistance Program  The State of Access to Modern Energy Cooking Services
+(World Bank, 2020);
+http://documents.worldbank.org/curated/en/937141600195758792/The-State-of-
+Access-to-Modern-Energy-Cooking-Services Fattorini, D. & Regoli, F. Role of the
+chronic air pollution levels in the Covid-19 outbreak risk in Italy.  Environ.
+Pollut.   264 , 114732 (2020). Article                            Google Scholar
+                   Pozzer, A. et al. Regional and global contributions of air
+pollution to risk of death from COVID-19.  Cardiovasc. Res.   116 , 2247–2253
+(2020). Article                            Google Scholar                    The
+Covid-19 Crisis is Reversing Progress on Energy Access in Africa  (IEA, 2020);
+https://www.iea.org/articles/the-covid-19-crisis-is-reversing-progress-on-
+energy-access-in-africa Boza-Kiss, B., Pachauri, S. & Zimm, C. Deprivations and
+inequities in cities viewed through a pandemic lens.  Front. Sustain. Cities   3
+, 15 (2021). Article                            Google Scholar 
+Shupler, M. et al. COVID-19 impacts on household energy & food security in a
+Kenyan informal settlement: the need for integrated approaches to the SDGs.
+Renew. Sustain. Energy Rev.   144 , 111018 (2021). Article 
+Google Scholar                    Dagnachew, A. G. et al. The role of
+decentralized systems in providing universal electricity access in sub-Saharan
+Africa – a model-based approach.  Energy   139 , 184–195 (2017). Article 
+Google Scholar                    Dagnachew, A. G., Lucas, P. L., Hof, A. F. &
+van Vuuren, D. P. Trade-offs and synergies between universal electricity access
+and climate change mitigation in sub-Saharan Africa.  Energy Policy   114 ,
+355–366 (2018). Article                            Google Scholar 
+Panos, E., Densing, M. & Volkart, K. Access to electricity in the World Energy
+Council’s global energy scenarios: an outlook for developing regions until 2030.
+Energy Strategy Rev.   9 , 28–49 (2016). Article  
+Google Scholar                    Moksnes, N., Korkovelos, A., Mentis, D. &
+Howells, M. Electrification pathways for Kenya–linking spatial electrification
+analysis and medium to long term energy planning.  Environ. Res. Lett.   12 ,
+95008 (2017). Article                            Google Scholar 
+Dagnachew, A. G., Hof, A. F., Lucas, P. L. & van Vuuren, D. P. Scenario analysis
+for promoting clean cooking in sub-Saharan Africa: costs and benefits.  Energy
+192 , 116641 (2020). Article                            Google Scholar 
+Pachauri, S., Rao, N. D. & Cameron, C. Outlook for modern cooking energy access
+in Central America.  PLoS ONE 13 , e0197974 (2018). Article 
+Google Scholar                    Shankar, A. V. et al. Everybody stacks:
+lessons from household energy case studies to inform design principles for clean
+energy transitions.  Energy Policy   141 , 111468 (2020). Article 
+Google Scholar                    Gould, C. F., Hou, X., Richmond, J., Sharma,
+A. & Urpelainen, J. Jointly modeling the adoption and use of clean cooking fuels
+in rural India.  Environ. Res. Commun.   2 , 85004 (2020). Article 
+Google Scholar                    Jeuland, M., Soo, J.-S. T. & Shindell, D. The
+need for policies to reduce the costs of cleaner cooking in low income settings:
+implications from systematic analysis of costs and benefits.  Energy Policy
+121 , 275–285 (2018). Article                            Google Scholar 
+Dagnachew, A. G. et al. Integrating energy access, efficiency and renewable
+energy policies in sub-Saharan Africa: a model-based analysis.  Environ. Res.
+Lett.   15 , 125010 (2020). Article                            Google Scholar 
+Poblete-Cazenave, M. & Pachauri, S. A structural model of cooking fuel choices
+in developing countries.  Energy Econ.   75 , 449–463 (2018). Article 
+Google Scholar                    Poblete-Cazenave, M. & Pachauri, S. A model of
+energy poverty and access: estimating household electricity demand and appliance
+ownership.  Energy Econ.   98 , 105266 (2021). Article 
+Google Scholar                    WHO Guidelines for Indoor Air Quality:
+Household Fuel Combustion  (World Health Organization, 2014);
+https://www.who.int/airpollution/guidelines/household-fuel-
+combustion/IAQ_HHFC_guidelines.pdf O’Neill, B. C. et al. A new scenario
+framework for climate change research: the concept of shared socioeconomic
+pathways.  Clim. Change   122 , 387–400 (2014). Article 
+Google Scholar                    McCollum, D. L. et al. Energy investment needs
+for fulfilling the Paris Agreement and achieving the Sustainable Development
+Goals.  Nat. Energy   3 , 589–599 (2018). Article  
+Google Scholar                    Foell, W., Pachauri, S., Spreng, D. &
+Zerriffi, H. Household cooking fuels and technologies in developing economies.
+Energy Policy   39 , 7487–7496 (2011). Article                            Google
+Scholar                    Coelho, S. T., Sanches-Pereira, A., Tudeschini, L. G.
+& Goldemberg, J. The energy transition history of fuelwood replacement for
+liquefied petroleum gas in Brazilian households from 1920 to 2016.  Energy
+Policy   123 , 41–52 (2018). Article                            Google Scholar 
+Sumner, A., Hoy, C. & Ortiz-Juarez, E.  Estimates of the Impact of COVID-19 on
+Global Poverty  WIDER Working Paper 2020/43 (UNU-WIDER, 2020);
+https://doi.org/10.35188/UNU-WIDER/2020/800-9 Kar, A., Pachauri, S., Bailis, R.
+& Zerriffi, H. Using sales data to assess cooking gas adoption and the impact of
+India’s Ujjwala programme in rural Karnataka.  Nat. Energy   4 , 806–814 (2019).
+Article                            Google Scholar                    Mani, S.,
+Jain, A., Tripathi, S. & Gould, C. F. Sustained LPG use requires progress on
+broader development outcomes.  Nat. Energy   5 , 430–431 (2020). Article 
+Google Scholar                    Van de Ven, D.-J. et al. Integrated policy
+assessment and optimisation over multiple sustainable development goals in
+Eastern Africa.  Environ. Res. Lett.   14 , 94001 (2019). Article 
+Google Scholar                    Hosier, R., Kappen, J., Hyseni, B., Tao, N. &
+Usui, K.  Scalable Business Models for Alternative Biomass Cooking Fuels and
+Their Potential in Sub-Saharan Africa  (World Bank, 2017);
+https://openknowledge.worldbank.org/handle/10986/28595 Energizing Finance:
+Understanding the Landscape  (Sustainable Energy for All, 2020);
+https://www.seforall.org/system/files/2020-11/EF-2020-UL-SEforALL_0.pdf
+Andrijevic, M., Schleussner, C.-F., Gidden, M. J., McCollum, D. L. & Rogelj, J.
+COVID-19 recovery funds dwarf clean energy investment needs.  Science   370 ,
+298–300 (2020). Article                            Google Scholar 
+Sovacool, B. K., Furszyfer Del Rio, D. & Griffiths, S. Contextualizing the
+Covid-19 pandemic for a carbon-constrained world: insights for sustainability
+transitions, energy justice, and research methodology.  Energy Res. Soc. Sci.
+68 , 101701 (2020). Article                            Google Scholar 
+Goldemberg, J., Martinez-Gomez, J., Sagar, A. & Smith, K. R. Household air
+pollution, health, and climate change: cleaning the air.  Environ. Res. Lett.
+13 , 30201 (2018). Article                            Google Scholar 
+Tripathi, A. & Sagar, A.  Ujjwala, V2.0: What Should Be Done Next?
+(Collaborative Clean Air Policy Centre, 2019);
+https://ccapc.org.in/s/Ujjwala-V20-Jun-19b.pdf Cameron, C. et al. Policy trade-
+offs between climate mitigation and clean cook-stove access in South Asia.  Nat.
+Energy   1 , 15010 (2016). Article                            Google Scholar 
+Batchelor, S. et al. Solar e-cooking: a proposition for solar home system
+integrated clean cooking.  Energies   11 , 2933 (2018). Article 
+Google Scholar                    Shupler, M. et al. Pay-as-you-go liquefied
+petroleum gas supports sustainable clean cooking in Kenyan informal urban
+settlement during COVID-19 lockdown.  Appl. Energy   292 , 116769 (2021).
+Article                            Google Scholar                    Barnes, B.
+et al. Behavior change communication: a key ingredient for advancing clean
+cooking.  J. Health Commun.   20 , 3–5 (2015). Article 
+Google Scholar                    Krey, V. et al.  {MESSAGEix-GLOBIOM}
+Documentation - 2020 release . (IIASA, 2020);
+https://doi.org/10.22022/IACC/03-2021.17115 McFadden, D. A method of simulated
+moments for estimation of discrete response models without numerical
+integration.  Econometrica   57 , 995–1026 (1989). Article        MathSciNet 
+Google Scholar                    Gourieroux, C., Monfort, A. & Renault, E.
+Indirect inference.  J. Appl. Econom.   8 , S85–S118 (1993). Article 
+Google Scholar                    K.C., S. & Lutz, W. The human core of the
+shared socioeconomic pathways: population scenarios by age, sex and level of
+education for all countries to 2100.  Glob. Environ. Change   42 , 181–192
+(2017). Article                            Google Scholar  
+Jiang, L. & O’Neill, B. C. Global urbanization projections for the Shared
+Socioeconomic Pathways.  Glob. Environ. Change   42 , 193–199 (2017). Article 
+Google Scholar                    Friedman, J. H. Stochastic gradient boosting.
+Comput. Stat. Data Anal.   38 , 367–378 (2002). Article        MathSciNet 
+Google Scholar                    Rao, N. D., Sauer, P., Gidden, M. & Riahi, K.
+Income inequality projections for the Shared Socioeconomic Pathways (SSPs).
+Futures   105 , 27–39 (2019). Article                            Google Scholar
+                  Global outlook: pandemic, recession: the global economy in
+crisis .  In  Global Economic Prospects  1–66 (World Bank, 2020);
+https://doi.org/10.1596/978-1-4648-1553-9_ch1 Download references
+Acknowledgements M.P.-C. received funding from the European Union’s Horizon 2020
+research and innovation programme under grant agreement no. 821124 (NAVIGATE).
+This work was partially funded by the contributions of the National Member
+Organizations of the International Institute of Applied Systems Analysis. Author
+information Authors and Affiliations Energy, Climate, and Environment Program,
+International Institute of Applied Systems Analysis, Laxenburg, Austria Shonali
+Pachauri, Miguel Poblete-Cazenave & Matthew J. Gidden Population and Just
+Societies Program, International Institute of Applied Systems Analysis,
+Laxenburg, Austria Arda Aktas Climate Analytics, Berlin, Germany Matthew J.
+Gidden Authors Shonali Pachauri View author publications You can also search for
+this author in                          PubMed   Google Scholar Miguel Poblete-
+Cazenave View author publications You can also search for this author in
+PubMed   Google Scholar Arda Aktas View author publications You can also search
+for this author in                          PubMed   Google Scholar Matthew J.
+Gidden View author publications You can also search for this author in
+PubMed   Google Scholar Contributions S.P. and M.P.-C. conceived the initial
+framework. S.P. and M.P.-C. designed the research. M.P.-C., A.A. and M.J.G.
+prepared the data. M.P.-C. and A.A. performed the modelling, wrote the codes and
+carried out the analysis. S.P. and M.P.-C. led the writing of the paper with all
+other authors contributing to the writing, revisions and editing. Corresponding
+author Correspondence to                  Shonali Pachauri . Ethics declarations
+Competing interests The authors declare no competing interests. Additional
+information Peer review information   Nature Energy  thanks Joshua Rosenthal,
+Francis Johnson and the other, anonymous, reviewer(s) for their contribution to
+the peer review of this work. Publisher’s note  Springer Nature remains neutral
+with regard to jurisdictional claims in published maps and institutional
+affiliations. Supplementary information Supplementary Information Supplementary
+Figs. 1–3 and Table 1. Supplementary Data Supplementary data including scenario
+drivers, estimation results and data behind the figures. Rights and permissions
+Reprints and permissions About this article Cite this article Pachauri, S.,
+Poblete-Cazenave, M., Aktas, A.  et al.  Access to clean cooking services in
+energy and emission scenarios after COVID-19.                      Nat Energy
+6 , 1067–1076 (2021). https://doi.org/10.1038/s41560-021-00911-9 Download
+citation Received :  14 December 2020 Accepted :  31 August 2021 Published :  28
+October 2021 Issue Date :  November 2021 DOI :
+https://doi.org/10.1038/s41560-021-00911-9 Share this article Anyone you share
+the following link with will be able to read this content: Get shareable link
+Sorry, a shareable link is not currently available for this article. Copy to
+clipboard                             Provided by the Springer Nature SharedIt
+content-sharing initiative                          This article is cited by
+Justice considerations in climate research
+Caroline Zimm Kian Mintz-Woo Thomas Schinko Nature Climate Change  (2024)
+Costs and health benefits of the rural energy transition to carbon neutrality in
+China                                      Teng Ma Silu Zhang Yang Xie Nature
+Communications  (2023)                                         A geospatial
+approach to understanding clean cooking challenges in sub-Saharan Africa
+Babak Khavari Camilo Ramirez Francesco Fuso Nerini Nature Sustainability  (2023)
+Data are key to proving green-energy benefits
+Gemma Conroy Nature  (2022) Download PDF Associated content Clean cooking access
+may stall under slow post-pandemic recovery and ambitious climate mitigation
+without explicit focus Shonali Pachauri Miguel Poblete-Cazenave Matthew J.
+Gidden Nature Energy Policy Brief 15 Nov 2021 Advertisement Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections                                  Follow us on Twitter
+Sign up for alerts RSS feed About the journal
+Aims & Scope
+Journal Information
+Journal Metrics
+About the Editors
+Our publishing models
+Editorial Values Statement
+Editorial Policies
+Content Types
+Contact
+Research Cross-Journal Editorial Team
+Reviews Cross-Journal Editorial Team                                  Publish
+with us                                     Submission Guidelines
+For Reviewers
+Language editing services                                  Submit manuscript
+Search Search articles by subject, keyword or author Show results from All
+journals This journal Search                 Advanced search              Quick
+links Explore articles by subject Find a job Guide to authors Editorial policies
+Nature Energy ( Nat Energy )                  ISSN   2058-7546  (online)
+nature.com sitemap About Nature Portfolio About us Press releases Press office
+Contact us Discover content Journals A-Z Articles by subject Protocol Exchange
+Nature Index Publishing policies Nature portfolio policies Open access Author &
+Researcher services Reprints & permissions Research data Language editing
+Scientific editing Nature Masterclasses Research Solutions Libraries &
+institutions Librarian service & tools Librarian portal Open research Recommend
+to library Advertising & partnerships Advertising Partnerships & Services Media
+kits Branded                         content Professional development Nature
+Careers Nature                           Conferences Regional websites Nature
+Africa Nature China Nature India Nature Italy Nature Japan Nature Korea Nature
+Middle East Privacy                 Policy Use                 of cookies Your
+privacy choices/Manage cookies                  Legal                 notice
+Accessibility                 statement Terms & Conditions Your US state privacy
+rights © 2024 Springer Nature Limited Close banner Close Sign up for the  Nature
+Briefing  newsletter — what matters in science, free to your inbox daily. Email
+address Sign up I agree my information will be processed in accordance with the
+Nature  and Springer Nature Limited  Privacy Policy . Close banner Close Get the
+most important science stories of the day, free in your inbox. Sign up for
+Nature Briefing

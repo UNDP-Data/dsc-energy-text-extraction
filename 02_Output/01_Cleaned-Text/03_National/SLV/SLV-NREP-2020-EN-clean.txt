@@ -1,0 +1,2317 @@
+RENEWABLE READINESS ASSESSMENT EL SALVADOR December 2020 © IRENA 2020 Unless
+otherwise stated, material in this publication may be freely used, shared,
+copied, reproduced, printed and/or stored, provided that appropriate
+acknowledgement is given of IRENA as the source and copyright holder Material in
+this publication that is attributed to third parties may be subject to separate
+terms of use and restrictions, and appropriate permissions from these third
+parties may need to be secured before any use of such material Citation: IRENA
+(2020), IRENA Renewable Readiness Assessment: El Salvador, International
+Renewable Energy Agency, Abu Dhabi ISBN: -- About IRENA The International
+Renewable Energy Agency (IRENA) is an intergovernmental organisation that
+supports countries in their transition to  sustainable energy future, and serves
+as the principal platform for international co-operation,  centre of excellence,
+and  repository of policy, technology, resource and financial knowledge on
+renewable energy IRENA promotes the widespread adoption and sustainable use of
+all forms of renewable energy, including bioenergy, geothermal, hydropower,
+ocean, solar and wind energy, in the pursuit of sustainable development, energy
+access, energy security and low-carbon economic growth and prosperity
+Acknowledgements This report was prepared by IRENA in close collaboration with
+the Government of the Republic of El Salvador, as represented by the Executive
+Hydroelectric Commission of the Lempa River (CEL) and the National Energy
+Council (CNE) Special thanks are also due to numerous officials, especially
+those from Cucumacayán Electricity Company (CECSA), Transmission Company of El
+Salvador (ETESAL), Salvadorean Geothermal (LaGeo), Ministry of Economy and
+General Electricity and Telecommunications Superintendence (SIGET) This report
+benefited from the inputs of various experts, most notably Victor Hugo Ventura
+(ECLAC), Isabel Griesheim, Tatiana Orellana and Rigoberto Salazar (GIZ), Lorena
+Di Chiara (IDB), Medardo Cadena (OLADE) IRENA colleagues including Arjun Guha,
+Carlos Fernandez, Imen Gherboudj, Jack Kiruja, Paul Komor, Rafael Ferreira
+(Formerly IRENA), Ricardo Gorini, Rodrigo Leme, Vanessa Interiano (Formerly
+IRENA) and Salvador Rivas (Consultant) also provided valuable guidance and input
+Contributing authors: José Torón (IRENA), Fabian Barrera (IRENA), Gürbü Gönü
+(IRENA), Binu Parthan (IRENA), Chris Marshall (formerly IRENA), and Juan Estrada
+(IRENA) Report available for download:  For further information or to provide
+feedback: publications@irenaorg Disclaimer This publication and the material
+herein are provided “as is” All reasonable precautions have been taken by IRENA
+to verify the reliability of the material in this publication However, neither
+IRENA nor any of its officials, agents, data or other third-party content
+providers provides  warranty of any kind, either expressed or implied, and they
+accept no responsibility or liability for any consequence of use of the
+publication or material herein The information contained herein does not
+necessarily represent the views of all Members of IRENA The mention of specific
+companies or certain projects or products does not imply that they are endorsed
+or recommended by IRENA in preference to others of  similar nature that are not
+mentioned The designations employed and the presentation of material herein do
+not imply the expression of any opinion on the part of IRENA concerning the
+legal status of any region, country, territory, city or area or of its
+authorities, or concerning the delimitation of frontiers or boundaries  Renewab
+les  eadi ness  ssessm ent EL SALVADOR Foreword from the President of the
+Executive Hydroelectric Commission of the Lempa River For 75 years, the
+Executive Hydroelectric Commission of the Lempa River (CEL) has positioned
+itself as  benchmark in power generation in El Salvador, creating important
+hydropower and geothermal energy projects that for several years have
+contributed to the economy of the country as well as to improve the quality of
+life of millions of Salvadorans Since its creation, CEL has directed its efforts
+in the country’ development through the energy output of four hydropower plants,
+with coverage across  broad area of national territory Historically, these power
+plants enabled the electrification of the country, giving rise to national
+industrialisation and, in turn, the steady growth we see today Over time, CEL
+has created programmes that contribute to environmental conservation, improving
+landscapes, caring for ecosystems, and developing social initiatives to enhance
+the capacities of the most vulnerable, reflecting principles that must always be
+considered when exploring and developing new sustainable energy projects CEL has
+diversified its business to include renewables, including geothermal projects
+undertaken through its subsidiary company LaGeo, which has set international
+standards, training professionals from Latin American countries who seek to
+explore and promote this so-called “white gold” Under the government of
+President Nayib Bukele, CEL and its companies have taken on another key role,
+initiating projects to reduce the price of electricity for the Salvadoran people
+and boost the economy, even in the midst of the COVID-19 pandemic This is why
+CEL is working to explore, create and promote renewable power generation through
+geothermal, solar photovoltaic, wind and hydropower projects One ongoing
+flagship project focuses on constructing the new ‘ de febrero’ hydropower plant
+This efficient, transparently managed dam project, when completed, will further
+boost the Salvadoran energy mix while also bringing other benefits, such as job
+creation and enhanced tourism development The efforts of CEL and others in
+initiating the energy transition have also benefited from the support of the
+International Renewable Energy Agency (IRENA), with which we have been working
+for some years in  co-ordinated and synergistic way This co-operation will allow
+us to continue strengthening our endeavours to scale up renewable energy The
+Renewables Readiness Assessment (RRA) for El Salvador provides  key milestone
+that aims to promote new initiatives and instruments, particularly to improve
+the efficiency of public policies and regulations on energy Even in the midst of
+pandemic, this assessment can help to create suitable conditions for the
+widespread, sustainable deployment of renewables in El Salvador Consequently,
+the recommendations are in line with the government’ energy policy, which
+proposes increasing public investment in projects to develop and use new
+renewable energy sources, as well as reviewing and reconfiguring the country’
+energy mix On behalf of our President and the Government of El Salvador,  wish
+to express the greatest appreciation for IRENA’ valuable and constant support,
+as well as for the honour conferred on the Republic of El Salvador in holding
+the Vice Presidency of the IRENA Assembly in Daniel Alejandro Álvarez Campos
+President, CEL Republic of El Salvador  FOREWORD Foreword from the Executive
+Secretary of the National Energy Council The main renewable resources used in El
+Salvador for electricity generation are geothermal and hydropower While variable
+renewable power is growing considerably, there is much more potential for these
+resources, either for electricity or direct uses This report, prepared with the
+support of the International Renewable Energy Agency (IRENA) identifies the
+conditions to expand the use of renewables nationally Input from multiple
+stakeholders in the Salvadorian energy sector has been key in identifying
+priorities for action in key sectors like agriculture, industry, tourism and
+health, aimed at utilising solar, geothermal and biomass resources, driving
+decentralised economic development, and ensuring environmental and social
+benefits in the short, medium and long term El Salvador adheres to environmental
+commitments under international agreements Its national policy aims to further
+deepen the energy transition, with  view to ensuring  sustainable energy supply,
+strengthen our economy, bring widespread benefits to the Salvadoran population
+while increasing our resilience to climate change The National Energy Council
+continues to work on updating institutional and regulatory frameworks to promote
+optimal resource use and the efficient implementation of appropriate
+technologies We reiterate our gratitude to IRENA, as well as to all the
+stakeholders involved in the development of this assessment We reaffirm our
+commitment to develop enabling initiatives for renewables in all sectors and
+position El Salvador as  reference case in the use of renewable energy José
+Salvador Handal Candray Executive Secretary, National Energy Council Republic of
+El Salvador  Foreword from the IRENA Director-General The Republic of El
+Salvador, like other countries in Central America, the Latin American region and
+around the world, faces unprecedented health and socio-economic challenges amid
+the COVID-19 pandemic Beyond short-term recovery measures, the national response
+has started to focus on longer-term measures, such as ensuring energy security,
+aligning new investments with climate commitments and building  resilient
+economy The decarbonisation of El Salvador’ energy sector can pave the way for
+broad-based, sustainable socio-economic development in years to come For now,
+the growing demand for energy continues to be met mainly through oil imports
+However, indigenously sourced renewables are assuming  larger role The new
+National Energy Policy  aims to diversify El Salvador’ energy mix and take
+advantage of the country’ significant renewable energy resource potential At the
+same time, the policy highlights the need to reduce dependence on fossil fuels
+and mitigate the impact of climate change This means adopting energy storage,
+efficiency measures, digitalisation and other innovative technologies, as well
+as promoting renewables beyond the power sector This Renewables Readiness
+Assessment (RRA), prepared through  broad-based consultative process in close
+co- operation with the Executive Hydroelectric Commission of the Lempa River
+(CEL) and the National Energy Council (CNE), examines El Salvador’ energy sector
+holistically The report identifies key actions to expand renewable energy
+development in the short and medium term Discussions with stakeholder have also
+heightened knowledge exchange and fostered international co-operation to promote
+clean, indigenous renewable energy technologies The report examines planning and
+operations, the existing regulatory framework and the financing mechanisms that
+could come into play to achieve the country’ long-term renewable energy
+ambitions The assessment underlines the role of the Central American power
+market and ongoing regional energy integration, in line with IRENA’ Clean Energy
+Corridor of Central America (CECCA) initiative Since 2011, nearly 40 countries,
+spanning the Latin America and the Caribbean, Africa, the Middle East, Asia and
+the Pacific have undertaken RRAs, exchanging knowledge and fostering
+international co-operation to accelerate the deployment of renewables Each
+process has been country-led, with IRENA providing technical expertise and
+highlighting regional and global insights, along with facilitating national
+stakeholder consultations IRENA wishes to thank CEL, CNE and all Salvadorian
+energy institutions for their vital input and engagement We also appreciate the
+valuable contributions of numerous other government agencies and national
+stakeholders We look forward to working with all of them, as well as with
+regional institutions and development partners, to turn these recommendations
+into practical on-the-ground initiatives that promote renewables as  key element
+in sustainable, equitable socio-economic development  sincerely hope this report
+and its recommendations will strengthen El Salvador’ pursuit of renewables and
+enhanced climate action IRENA stands ready to assist in the country’ transition
+to  sustainable energy future Francesco La Camera Director-General, IRENA
+Contents Figures  Tables  Boxes  Abbreviations and acronyms 10 Executive summary
+12  Introducton 15 Country background 15 Renewables Readiness Assessment (RRA)
+in El Salvador 18  Energy context 19 Energy sector overview 19 Power sector 21
+Energy sector institutions and governance 26 Energy policies and regulatory
+framework 28 International power trade 29  Renewable energy developments 33
+Drivers of renewable energy deployment 33 Renewable energy resources 35
+Renewable energy master plan 38 Renewable energy support mechanisms in the power
+sector 40 Renewable energy project procedures and permits 44 Renewable energy
+project pipeline 46 Renewable energy financing 48  Recommendations for
+addressing the main barriers hindering the deployment of renewable energy  50
+Enhance long-term planning and policy for the renewable energy sector 50 Create
+enabling conditions for geothermal energy development 52 Establish clear
+institutional frameworks and co-ordination 54 Assess the implementation of
+distributed power generation 55 Foster project development and financing for
+renewables 56  References 58  Appendices 62 Appendix  Overview of entities in
+the energy sector 62 Appendix  Installed and available capacity of power plants,
+2018 64 Appendix  Location of on-grid power generators, 2018 65 Appendix
+Certified electricity generation projects using renewable resources, 2017 66
+Appendix  Small projects that obtained  concession to generate hydroelectricity,
+2017 66  Figures Tables Figure  Annual population growth (%) (FY 2000 and 2019)
+Economic indicators Table  16 15 Additional installed capacity per source by
+2026 Table  Figure  GDP per capita, PPP (current international USD) (FY 2000 and
+FY 2019) 39 Support instruments to promote renewable energy Table  16 41 Figure
+Proportion of population with access to electricity Summary of results among
+conducted wholesale market renewable energy auctions in El Salvador Table  17
+Figure  Total energy supply by source 19 43 Figure  Total energy supply, 2019
+[%] 20 Summary of results among conducted renewable distributed generation
+auctions in El Salvador Table  Figure  Final energy consumption by sector, 2019
+20 43 Figure  Electricity consumption by economic sector, 2019 (%) Table
+Candidate power plant projects 46 20 Figure  Electricity consumption per capita
+21 Figure  Total installed power capacity by source, 2019 Figure 10 Development
+of electricity demand (minimum and maximum demand by year) Boxes 21 22 The Clean
+Energy Corridor of Central America Box  Figure 11 Gross electricity generation
+by type of resource 32 23 Electricity tariffs Box  34 Figure 12 Net electricity
+supply by resource, The Geothermal Centre of Excellence in El Salvador Box  2018
+(%) 23 36 Figure 13 Generation and transmission IRENA Global Atlas Geospatial
+and Site assessment services Box  system, 2018 24 38 Figure 14 Wholesale
+electricity market IRENA Regional REmap & FlexTool Box  structure 39 25 Figure
+15 Institutional structure of energy Climate Investment Platform (CIP) Box  49
+sector 27 Figure 16 Regional electricity system (SIEPAC line) Figure 17 Imports
+and exports in the 30 regional market, per country 31 Figure 18 Residential
+electricity rates of some of the main distribution companies in SICA, for
+consumption of 50, 100, 200, and 400 kWh - December 2018 34 Figure 19 El
+Salvador: Global horizontal irradiation, kWh/m2, 1km 1994-2015 Figure 20 El
+Salvador: Average wind speed at 100  hub height 37 37 Figure 21 Permitting
+stages 44  Abbreviations AEP ETESAL Annual Energy Production (AEP) Transmission
+Company of El Salvador (Empresa Transmisora de El Salvador) ANDA National
+Administration of Aqueducts and Sewers (Administración Nacional de Acueductos
+Alcantarillados) EU European Union FISDL Social Investment Fund for Local
+Development (Fondo de Inversión Social para el Desarrollo Local) BANDESAL El
+Salvador Development Bank (Banco de Desarrollo de El Salvador) CABEI FINET
+Central American Bank for Economic Integration National Investment Fund for
+Electricity and Telephony (Fondo de Inversión en Electricidad  Telefonía) CD-MER
+Council of the Regional Electricity Market (Consejo Director del MER) FMO
+Development Finance Company (Netherlands) CDM Clean Development Mechanism GCF
+Green Climate Fund CECCA Clean Energy Corridor of Central America GDF Geothermal
+Development Facility for Latin America CECSA Cucumacayán Electricity Company
+(Compañía Eléctrica Cucumacayán) GDP Gross Domestic Product CEL Executive
+Hydroelectric Commission of the Lempa River (Comisión Ejecutiva Hidroeléctrica
+del Río Lempa) GJ Gigajoule GW Gigawatt GWh Gigawatt hour CER Certified Emission
+Reductions IDB Inter-American Development Bank CIP Climate Investment Platform
+INE Energy Investments (Inversiones Energéticas) CLP Long-Term Contract
+(Contratos de Largo Plazo) IRENA International Renewable Energy Agency CNE
+National Energy Council (Consejo Nacional de Energía) JICA Japan International
+Cooperation Agency CPI Consumer Price Index KfW German Development Bank CRIE
+Regional Commission for Electrical Interconnection (Comisión Regional de
+Interconexión Eléctrica) KWh/kWp/ yr Kilowatt hours per kilowatt peak per year
+DC Consumer Advocacy (Defensoría del Consumidor) KWh Kilowatt hour kV Kilovolt
+DRHM Regulatory Directorate of Hydrocarbons and Mines (Dirección Reguladora de
+Hidrocarburos  Minas) LAIF Latin America Investment Facility LCOE Levelised cost
+of electricity LNG Liquefied natural gas EDP Pacific Energy (Energía del
+Pacifico) LPG Liquefied petroleum gas EOR Regional Operating Entity (Ente
+Operador Regional) LaGeo Salvadorean Geothermal (Geotérmica Salvadoreña) EPR
+Enterprise Owner of the Central American Electrical Interconnection System
+(Empresa Propietaria de la Red) MARN Ministry of the Environment and Natural
+Resources (Ministerio de Medio Ambiente  Recursos Naturales) 10 RRA MER
+Renewables Readiness Assessment Regional Electricity Market (Mercado Eléctrico
+Regional) RTL Regional transmission line MH Ministry of Finance (Ministerio de
+Hacienda) SC The Superintendence of Competition (Superintendencia de
+Competencia) MICULTURA Ministry of Culture (Ministerio de SDGs Sustainable
+Development Goals Cultura) SE4All Sustainable Energy for All MINEC Ministry of
+Economy (Ministerio de Economía) SIEPAC Central American Electrical
+Interconnection System (Sistema de Interconexión Eléctrica de los Países de
+América Central) MINSAL Ministry of Health (Ministerio de Salud) MJ Megajoule
+SIGET General Electricity and Telecommunications Superintendence
+(Superintendencia General de Electricidad  Telecomunicaciones) MOP Ministry of
+Public Works and Transport (Ministerio de Obras Públicas  de Transporte) MRS The
+spot market (Mercado Regulador del Sistema) SME Small and médium sized
+enterprises / metres per second tC/ha/yr Tonnes of carbon per hectare per year
+MW Megawatt TJ Terajoules MWh Megawatt hour UNDP United Nations Development
+Programme MWp Megawatt peak UT Transactions Unit (Unidad de Transacciones) NDC
+Nationally determined contribution & Operation and maintenance VAT Value added
+tax OLADE Latin American Energy Organisation (Organización Latinoamericana de
+Energía) VMDU Department of Housing and Urban Development (Viceministerio de
+Vivienda  Desarrollo Urbano) PPA Power purchase agreement VRE Variable renewable
+energy PPP Purchasing Power Parity /m2 Watts per square metre PV Photovoltaic 11
+Executive summary El Salvador depends heavily on fossil fuels to meet its energy
+needs for industry, transport and, to  certain extent, power generation
+Increasingly, the country also imports electricity from neighbouring countries
+to meet domestic demand Renewable energy use – already seen in hydropower and
+geothermal projects – could therefore be scaled up further and faster in the
+Central American country The General Electricity Law of 1996, which liberalised
+the power sector, also allowed for more private sector participation in
+renewable energy development, alongside the government’ more active promotion of
+renewable energy sources The National Energy Policy  then became  key tool for
+the implementation of renewable energy, especially in the power sector Indeed,
+no new fossil- fuel based power generators have been added since By 2019,
+renewables, including hydropower, biomass, solar photovoltaic (PV) and
+geothermal power, had reached % of the country’ total installed capacity of
+gigawatts (GW) Since 2015, solar PV capacity alone has grown nearly tenfold,
+reaching 273 megawatts (MW) in Encouragingly, the past decade has seen national
+energy policy recognise the benefits of developing solar, wind and bioenergy, as
+wide range of renewable energy technologies can help to diversify the energy
+mix, expand electricity access and strengthen regional energy integration El
+Salvador’ economy, based mainly on services, industry and agriculture, grew by
+an estimated % in 2019, within  moderate average annual growth rate of its gross
+domestic product (GDP) per capita of % over the last 20 years Regardless of
+persistent challenges, El Salvador has made substantial social and economic
+progress over the last two decades, with national policies increasingly
+mirroring with the United Nations 2030 Agenda for Sustainable Development
+Additionally, El Salvador is connected to the Central American Electrical
+Interconnection System (SIEPAC – Sistema de Interconexión Eléctrica de los
+Países de América Central), making the country an active participant in the
+Regional Electricity Market (MER – Mercado Eléctrico Regional) Electricity
+imports, mainly from Guatemala, accounted for around 21% of the country’
+electricity supply in With no domestic oil, gas or coal supply, the country
+depends entirely on imported fossil fuels, which accounted for 69% of its total
+energy supply in Yet the energy sector continues to be recognised as  strong
+contributor to economic and social development The country has prioritised the
+development of renewables to mitigate import improve energy security dependency
+and thus Renewables are also expected to stimulate local commerce and industry,
+help reduce electricity tariffs and improve people’ welfare The National Energy
+Council (CNE – Consejo Nacional de Energía) is currently developing its long
+term National Energy Policy 2020-This aims to reduce the electricity tariff
+through added renewable power generation, facilitating the removal of
+electricity subsidies towards the end of the policy period This new strategy
+goes beyond the power sector, too, stipulating targets for clean energy
+technologies in end-use sectors and energy efficiency, as well as promoting
+pilot projects for direct use of renewables in the industrial and agri-food
+sectors 12 The country’ Renewables Readiness Assessment (RRA) process has
+highlighted key actions for the short and medium-term that could create more
+conducive conditions for renewable energy deployment The country-led assessment,
+facilitated by the International Renewable Energy Agency (IRENA), aims to help
+unlock El Salvador’ renewable energy potential The identified actions are
+grouped in five areas, where the main challenges have been identified for direct
+uses  more in-depth review of the regulatory framework could also help to
+overcome challenges with the existing remuneration scheme, as well as the
+licensing procedure currently in place for geothermal projects Likewise,
+geothermal project developers struggle to access financing options, underlining
+the need to further enhance the capabilities of local financial institutions and
+project owners to help create  better understanding of funding geothermal
+projects and its associated risks Challenges and key recommendations  Enhance
+long-term planning and policy for the renewable energy sector  Establish clear
+institutional frameworks and co-ordination Competitive tendering processes and
+various fiscal incentives for renewable electricity have helped to create good
+business conditions for renewables in El Salvador, resulting in significant
+uptake of renewable energy technologies Currently, responsibilities among
+institutions in the country’ energy sector remain decentralised, which is
+affecting the performance of the sector and is clearly reflected in the absence
+of longer term co-ordination of different participants’ action plans El Salvador
+may consider several options to improve this condition, including the creation
+of an entity that centralises sector development and directives rapid Yet
+renewable energy development has highlighted insufficient co-ordination in terms
+of long-term energy plans El Salvador could devise  more comprehensive national
+energy plan, encompassing all energy technologies, suppliers and consumers
+through an integrated analysis of current market conditions The plan should also
+consider the integration of renewable energy technologies for end uses in
+buildings, heat and transport, while establishing clear targets that contribute
+to the ongoing scale-up of renewables Additionally, the national the development
+of transmission system and of new generation facilities are undertaken
+separately Potential new renewable- based power generation, therefore, is not
+consistently included in transmission expansion plans Such plans, moreover, tend
+to overlook the short construction times needed for solar and wind (variable
+renewable energy) facilities El Salvador benefited greatly from regional energy
+integration and plays an active role in the MER The country should therefore
+incorporate the Regional Energy Strategy 2030 in its national long-term planning
+efforts This is in line with the country’ overall development strategy and
+assures the participation of both public and private sectors Measures are needed
+to ensure closer collaboration between the entities responsible for developing
+such plans For instance, the identification of renewable energy zones in the
+most suitable areas for project development could serve to inform both
+transmission and generation planners, facilitating  co-ordinated planning effort
+Create enabling conditions for  Assess the implementation of distributed power
+generation geothermal energy development Despite having  long tradition of
+geothermal energy use, El Salvador’ geothermal development has stagnated in
+recent years, with  limited number of new projects for geothermal power
+generation, or heating applications The implementation of the net metering
+scheme in 2017 has resulted in  successful promotion of rooftop solar PV
+generation Yet, there is still no clear understanding of the effects that the
+growing self- generation practice has on the reliability of the power system and
+the overall energy market El Salvador’ geothermal potential could be also
+utilised for direct-use applications, but the existing regulatory framework only
+covers power applications Classifications need to be established for geothermal
+resources by temperature, including varying potential To improve this, all
+existing use of self-generation must first be registered This should consider
+both self-use and the potential injection of energy into the grid from existing
+projects This exercise could provide  better 13 assessment of the existing
+regulatory framework, while considering the stability of the grid and the
+existing distribution market, as well as empowering end users for relatively
+flexible energy management El Salvador’ long-term uptake of renewable energy
+technologies will also hinge on assessing the availability, along with the
+potential for improvement and expansion, of existing financing instruments
+Existing mechanisms and conditions for financing and risk mitigation by private
+institutions, similarly, must be clear to ensure that project developers can
+make use of these instruments Additionally, local private institutions will need
+to be familiarised with the renewable energy market to attract more interest
+from them in project finance  Foster project development and financing for
+renewables There have been significant achievements and progress in regulation
+for the development of renewable energy in El Salvador Renewable project
+developers still face challenges, however, with administrative procedures and
+permits These are not centralised and cause delays in project development
+Regulation in this area must ensure transparent processes and well-defined
+timetables for obtaining permits  unified national office (or “single-window
+agency”) should be established to handle all applicable licenses and permits for
+renewable energy projects, reducing project delays and development costs
+implementation of in close The these steps, collaboration with all national and
+regional stakeholders from the private and public sector, should help El
+Salvador attract investments that contribute towards  climate resilient, low-
+emission development pathway Sonsonate Solar Plant, Acajutla, El Salvador Image
+credit: Shutterstock 14  Introduction Country background 2010, however, the
+growth rate has been slowly rising (see Figure ) With  land area covering only
+21 040 square kilometres (km2), El Salvador is Central America’ smallest country
+Bordering Guatemala to the west, Honduras to the east, and the Pacific Ocean to
+the south, in 2018, El Salvador had an estimated population of just over
+million This gave it  high population density, at inhabitants per km2 (UN, 2018)
+In fiscal year (FY) 2019, El Salvador’ gross domestic product (GDP) per capita
+at purchasing power parity (PPP) was around USD  As shown in Figure , this
+number has been rising in recent years, with an average annual growth rate of %
+from FY 2001 to FY This was, however, one of the lowest rates of growth in
+Central America (World Bank, 2020b) Higher private consumption and  peak in
+gross investment boosted annual average growth to % in FY 2006, while GDP shrank
+% in FY 2009, following the global financial crisis Overall, annual population
+growth in the country was low between 2000 and 2019, when compared to the
+regional average in Latin America and the Caribbean, with the rate falling
+between 2000 and Since Figure  Annual population growth (%) (FY 2000 and 2019)
+) %        (                       20   20 05 20 04 20 03 20 01 20 08 20 06 20
+07 20 02 2011 20 09 2013 2010 2014 2012 2015 2016 2019 2017 2018 Year El
+Salvador LAC Based on: World Bank (2020a) 15 Figure  GDP per capita, PPP
+(current international USD) (FY 2000 and FY 2019)  500  000  500  000  500  000
+500  000  500  000  500  000 20   20 05 20 04 20 03 20 01 20 08 20 06 20 07 20
+02 2011 20 09 2013 2010 2014 2012 2015 2016 2019 2017 2018 Year Based on: World
+Bank (2020c) Table  Economic indicators 2015 2014 2016 2017 2018 2019 GDP growth
+(annual %) 40 71 51 31 54 40 Agriculture, forestry, and fishing, value added (%
+of GDP) 53 87 63 04 88 10 Industry (including construction), value added (% of
+GDP) 01 29 80 16 35 60 Manufacturing, value added (% of GDP) 08 39 23 27 18 80
+Services, value added (% of GDP) 42 01 46 67 34 50 Source: World Bank (2020d) In
+FY 2018 and FY 2019, the Salvadoran economy saw annual GDP growth of % and %
+respectively The largest contribution to the country’ GDP traditionally comes
+from the services sector, followed by industry, manufacture and agriculture An
+overview of the key economic indicators from 2014 to 2019 can be found in Table
+loans (UN ECLAC, 2017) This was reflected in the national poverty rate, which
+declined from % in 2000 to % in 2017 (DIGESTYC, 2018) The still relatively high
+poverty rate is the result of both the country’ low overall economic growth and
+trends in migration to urban areas The national deficit stood at approximately %
+of GDP in 2017, down from % in 2015 (UN ECLAC, 2017) This decrease follows
+reduced national oil bill, given that El Salvador imports all its oil products
+and is thus highly dependent on international oil prices The economy has also
+benefited from an improvement in real wages, stronger flows of worker
+remittances and an increase in private consumption, including personal 16 The
+Central Reserve Bank of El Salvador does not have complete monetary autonomy
+This is due to the adoption of the United States dollar as the formal unit of
+currency,  policy in force since 2001, as well as the free mobility of capital
+As  result, the supply and demand for US dollars between locally-based financial
+intermediaries is the main determinant of interest rates, in the short term
+These intermediaries reported stable liquidity conditions in (UN ECLAC, 2017) El
+Salvador is pursuing the UN 2030 Agenda for Sustainable Development by including
+it as part of its national development strategy The co-ordination of actions
+related to the Sustainable Development Goals (SDGs) is led by the Presidency,
+with the support of the Ministry of Foreign Affairs (SDGs Knowledge Platform –
+UN, ) Regarding SDG7 – ensuring access to affordable, reliable, sustainable and
+modern energy for all – El Salvador has made impressive progress Figure
+presents the country’ access to electricity rates, with these reaching around
+97% in 2018, compared to % in Over the last two decades, El Salvador has made
+substantial progress its social and political development The country has
+expanded access to its public services, which has directly contributed to
+improved living conditions, including enhanced energy services Despite this
+progress, however, the country’ long-term sustainable development continues to
+face challenges, including threats from adverse natural events, environmental
+degradation and climate change (World Bank, 2020b) in Other SDG7 indicators
+reflect the country’ effort to achieve sustainable development across the energy
+sector By 2016, 88% of the population had access to clean cooking, while the
+same year, energy efficiency had improved to  megajoules (MJ) per USD of GDP
+(UNStats, ) Figure  Proportion of population with access to electricity 100 95
+90 85    80 75 70 65 20 05 2015 20 07 20   20 04 2014 20 06 1995 2016 20 08 2013
+2010 20 09 2017 2011 2012 2018 20 03 Year Based on: UN ECLAC (2020) 17
+Renewables Readiness Assessment (RRA) in El Salvador operators, financial
+institutions, development partners, regional organisations, civil society and
+academia, among others The International Renewable Energy Agency (IRENA) has
+developed its Renewables Readiness Assessment (RRA) as  tool for carrying out
+comprehensive evaluation of the conditions for renewable energy deployment in
+given country The consultative process was launched during  meeting of experts
+held in the country’ capital, San Salvador, in December This was based on
+background paper, which described the challenges and opportunities for
+renewables development The outcomes of these discussions facilitated the
+identification of various challenges hindering the deployment of renewable
+energy in the country, as well as possible solutions to these impediments The
+RRA is  country-led, consultative process, providing  venue for multi-
+stakeholder dialogue in renewable energy deployment The assessment then tries to
+come up with solutions to existing barriers identifying challenges in The
+challenges identified were grouped and assessed in  series of short and medium-
+term draft recommendations These were then presented at  follow-up validation
+workshop held in October 2019 and jointly organised by CEL and IRENA, with CNE’
+support The main outcome of the discussion at this meeting was the validation of
+the challenges identified, along with the proposed recommendations, with these
+to be compiled in the final RRA report This process also benefitted from
+bilateral interviews with key stakeholders short and medium-term The RRA
+presents recommendations to governments to help guide the formation of new
+policies and regulations, or to reform existing ones The aim is to create  more
+enabling environment for the deployment of renewable energy The RRA also
+consolidates existing efforts and mobilises resources for priority action For
+the Republic of El Salvador, the RRA process has been led by the Executive
+Hydroelectric Commission of the Lempa River (CEL – Comisión Ejecutiva
+Hidroeléctrica del Río Lempa), in co-ordination with the National Energy Council
+(CNE – Consejo Nacional de Energía) and with technical support from IRENA The
+process involved extensive consultations with  large group of public and private
+energy stakeholders, including the ministries, the regulator, generation
+companies, transmission and distribution utilities, project developers, energy
+market The co-ordinated approach employed in producing this RRA, which saw
+consultation with governmental institutions, bilateral and multilateral co-
+operation agencies, financial institutions, the private sector, regional
+organisations, civil society and academia, helps set priorities for implementing
+the actions recommended Renewables and COVID-19 recovery The COVID-19 outbreak
+has led the countries around the world to an unprecedented economic, health and
+social crisis The International Monetary Fund (IMF) estimates  resultant
+contraction of the economies in Central America of around  percent average
+during These new regional conditions are undermining the economic growth of El
+Salvador, however the new National Energy Policy  and the ongoing efforts
+towards the revision of the NDCs by the country, are creating an opportunity to
+centrally position the Salvadorian energy sector at the core of the post-COVID
+recovery, focusing its efforts to achieve  green recovery Renewable energy
+serves as an opportunity to increase energy security, attract investment to the
+country and developing into  long-term source of jobs for its inhabitants
+Additionally, investing in domestic renewable energy infrastructure offers the
+potential to boost health capacity and build climate resilience It can also
+greatly strengthen El Salvador’ post-COVID recovery efforts 18  Energy context
+Energy sector overview Diesel has  high level of consumption, mainly in the
+transport and industrial sectors Gasoline is used exclusively for the transport
+sector, while fuel oil or bunker fuel is used for the generation of electricity
+Natural gas does not have  relevant role in the country’ energy mix, yet In
+2021, however,  liquefied natural gas (LNG) power plant is expected to be
+commissioned, giving this resource  more prominent role in the energy sector
+(see Section ) The bulk of El Salvador’ primary energy comes from fossil fuels
+As shown in Figure , the total energy supply sources since 2010 have mainly been
+oil derivatives, such as gasoline, diesel, liquid petroleum gas (LPG), kerosene
+and bunker fuel (CNE, 2020) The total fossil supply accounted for  total 108 721
+terajoules (TJ) in 2019, or 69% of the total energy supply Figure  Total energy
+supply by source 180 000 160 000 140 000 )   (             120 000 100 000 80
+000 60 000 40 000 20 000  2019 2018 2011 2012 2010 2013 2014 2015 2017 2016 Year
+Oil derivatives Hydropower Geothermal Bioenergy Solar Based on: CNE (2020) 19
+Figure  Total energy supply, 2019 [%] In 2019, total energy supply in El
+Salvador reached around 156 600 TJ (see Figure ) That year, the renewable energy
+source with the largest share as part of the primary energy supply was bioenergy
+(%), followed by hydropower (%), geothermal energy (%), and solar energy (%)
+(CNE, 2020) % % % % On the energy consumption side, the transport sector
+accounts for the largest share, followed by the industrial and residential
+sectors (Figure ) Final energy consumption in the transport sector increased
+from 43 126 TJ in 2010 to 60 710 TJ in 2019, with the sector’ overall share
+growing from 42% to 45% over the same period Between 2010 and 2019, the
+residential and commercial sectors’ shares fell, reaching 21% and %
+respectively, in 2019 (CNE, 2020) % % TPES (TJ) 156 663 Oil derivatives
+Bioenergy Hydropower Solar Geothermal Imported electricity Based on: CNE (2020)
+In terms of electricity consumption, in 2019, the total was 22 833 TJ As shown
+in Figure , the industrial sector is the largest consumer (35%), followed by the
+commercial, service and public sectors (34%) and the residential sector (31%)
+Figure  Final energy consumption by sector, 2019 % % 21% 45% 27% TFEC (TJ)
+133960 Transport Commercial and services Industry Residential Construction Based
+on: CNE (2020) Figure  Electricity consumption by economic sector, 2019 (%) 34%
+35% 31% Total (TJ) 22 833 Industry Residential Commercial and services City Hall
+of Santa Ana Santa Ana, El Salvador Image credit: Shutterstock Based on: CNE
+(2020) 20 Power sector In 2019, conventional thermal capacity stood at %,
+followed by hydropower (%), biomass (%), solar photovoltaic (PV) (%) and
+geothermal (%) Since 2015, solar PV capacity has grown nearly tenfold, reaching
+273 MW in 2019 (including off-grid generation) Moreover, solar PV and wind
+energy capacity is expected to grow in the coming years, as multiple projects
+are in the pipeline Electricity supply and demand With 2018 seeing the
+achievement of an electricity access rate of 97%, El Salvador is close to
+universal access across the country (UN ECLAC, 2020) The remaining population
+without access to electricity is located in rural areas that are widely
+scattered Figure  Electricity consumption per capita From 2000 to 2014,
+electricity consumption per capita grew from about 615 to 937 kilowatt hours
+(kWh), following the same trend as the per capita GDP (Figure )  000 )
+(                         900 800 As shown in Figure , in 2019, total installed
+capacity in El Salvador reached  gigawatts (GW) (including off-grid generation)
+In the last five years, the average annual growth rate of total installed
+capacity has been around % Since 2013, however, there have been no new additions
+of conventional thermal capacity (which in El Salvador has traditionally
+corresponded to fuel oil and bunker fuel) Yet, this type of power generation
+still has the largest share among all energy sources 700 600 500 400 20   20 01
+20 02 20 03 20   20 05 20   20 07 20   20   2010 2011 2012 2013 2014 Year Based
+on: World Bank (2020e) Figure  Total installed power capacity by source, 2019
+500  000 )   (                   500  000 500  2010 2011 2012 2013 2014 2015
+2016 2017 2018 2019 Year Hydropower Solar Bioenergy Geothermal Non-renewable
+Based on: IRENA (2020a) 21 Figure Development of electricity demand (minimum and
+maximum demand by year) 1200 1000 800   600 400 200  1997 1998 1999 2000 2001
+2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015 2016 2017
+2018 Min demand 191 228 207 227 219 260 273 250 265 327 341 320 329 351 345 344
+362 368 371 400 372 397 Max demand 666 694 718 758 734 752 785 809 829 881 906
+924 906 948 962 975 1004 1035 1089 1081 1081 1072 Source: SIGET (2019) in Figure
+and peak demand in Figure 10, is given by the nominal installed capacity and the
+reliability of generation Thermal power plants are at present used as  back-up
+for variable renewable energy (VRE) generation Thermal electricity production in
+El Salvador is, however, sometimes costlier than importing electricity within
+the regional market, as will be presented in the section below As of 2018, El
+Salvador’ power system consisted of 25 power plants located around the country
+(Appendix ) These are interconnected with the electricity transmission system
+and operate in the wholesale market This generating fleet is composed of four
+hydropower plants operated by CEL (MW); two geothermal plants operated by LaGeo
+(MW), ten thermal power plants (MW), where one is state owned and operated by
+Energy Investments (INE – Inversiones Energéticas); five biomass power plants
+(MW) and one solar PV plant (60 MW) In total, % of the total power generation
+capacity in El Salvador is state owned  more detailed description can be found
+in Appendix  The evolution of electricity generation in El Salvador between 2000
+and 2018 is shown in Figure Since the 1990s, the Salvadoran electricity sector
+has relied most heavily on thermal power generation, followed by hydropower and
+geothermal energy Geothermal generation reached over  500 gigawatt hours (GWh)
+in 2008 and has since stagnated Solar PV generation reached 309 GWh in 2018,
+while bioenergy generation exceeded 700 GWh That same year, the share of non-
+renewable energy generation reached one of its lowest values in the last decade,
+at  200 GWh (IRENA, 2020a) Figure 10 shows the evolution of final electricity
+demand from 1997 to In order to cover the average annual growth rate in demand,
+which is between % and %, installed power capacity has increased The difference
+between the installed capacity shown  The five biomass power plants are not
+available all year long (SIGET, 2019) They are mostly available during the May
+to October harvesting period 22 Figure Gross electricity generation by type of
+resource  000  000  000 )    (                       000  000  000  000  20 05
+20 04 20 06 20 02 20 01 20 03 20   20 07 2013 20 08 2015 2010 20 09 2014 2016
+2012 2011 2017 2018 Year Hydropower Solar Bioenergy Geothermal Non-renewable
+Source: IRENA (2020a) Figure Net electricity supply by resource, In recent
+years, there has been  decrease in domestic electricity generation, mainly due
+to growing electricity imports, most of which come from Guatemala Figure 11
+reflects  clear reduction in domestic generation since 2014, with total net
+electricity generation standing at  426 GWh in 2018 (%) % % % Figure 12 shows
+net electricity supply (including imports) by generation resource in 2019, with
+this accounting for  total of  GWh Fossil fuels held the greatest share, at %,
+followed by net imports, at %, hydropower, at %, geothermal at %, and other
+renewable energy sources (biomass, solar PV, etc) at % % % There is  high degree
+of interaction between the Regional Electricity Market (MER – Mercado Eléctrico
+Regional) and the national electricity market, as shown by the considerable
+share taken by net imports In addition, at %, geothermal energy’ share in net
+electricity supply is one of the highest in the world Total net electricity
+supply (GWh)  Geothermal Thermal Biomass, Solar PV Hydro Net imports Source: UT
+(2019) 23 Figure Generation and transmission system, 2018 Guajoyo Interconexión
+con Guatemala Cerrón Grande Santa Ana  de Noviembre Linea SIEPAC Opico Nejapa
+Ahuachapán San Rafael Cedros Sonsonate San Antonio Abad Ateos Soyapango San
+Martin 15 de Septiembre San Bartolo Nuevo Talnique Acajutla Cuscatlán Tomás
+Santo San Miguel Berlín Tecoluca Pedregal Ozatlán Transmission line 115 KV La
+Unión SIEPAC transmission line 230 KV Pre-existing transmission line 230 KV
+Fossil-based thermal power Geothermal power Hydroelectric power Source: SIGET
+(2019) (SIGET – Superintendencia General de Electricidad  Telecomunicaciones) is
+responsible for regulating the power sector Transmission system The Salvadoran
+electricity transmission system relies on 230 kilovolt (kV) central lines that
+also serve the interconnection with Guatemala and Honduras, as part of the
+Central American Electrical Interconnection System (SIEPAC – Sistema de
+Interconexión Eléctrica de los Países de América Central) This system’ regional
+transmission line (RTL) has  transfer capacity at all borders in the region of
+300 MW in one circuit The Salvadorian power market also includes generation and
+distribution companies;  transmission system owner – the Transmission Company of
+El Salvador (ETESAL – Empresa Transmisora de El Salvador);  market and system
+operator in charge of power exchanges (the UT); electricity suppliers and
+traders All these actors are subject to electricity regulation at the national
+and MER levels The central lines are complemented by  372 km long transmission
+lines, consisting of 40 lines at 115 kV ( 072 km) and four interconnection lines
+at 230 kV (299 km) The UT manages the country’ electricity market and is
+responsible for the operation of the transmission system (SIGET, 2019) in the
+MER are: the Regional The key actors Commission for Electrical Interconnection
+(CRIE – Comisión Regional de Interconexión Eléctrica), which is the regional
+regulator; the Regional Operating Entity (EOR – Ente Operador Regional), which
+is the system operator and market administrator; the Enterprise Owner of the
+Regional Electric Grid (EPR – Empresa Propietaria de la Red); the Council of the
+Regional Electricity Market (CD-MER – Consejo Director del MER), which is the
+body in charge of regional policies; the regional generating companies; and
+other market participants Wholesale power market The electricity market in El
+Salvador comprises actors both (Figure 14) In addition to the CNE, which is in
+charge of developing the national energy policy, the General Electricity and
+Telecommunications Superintendence public private sector and 24 Figure Wholesale
+electricity market (MRS – Mercado Regulador del Sistema) The CLP was established
+in 2011 and is where long-term contracts are subscribed to by the distribution
+companies, via  competitive bidding process This takes place under the
+supervision of the regulatory entity, SIGET The MRS, meanwhile, operates on
+production-cost basis and allows commercialisation of energy at variable prices,
+with these depending on the sector specifics Factors here may include national
+demand, unavailability rates, and maximum powers for each plant, among others
+(CNE-PROESA, 2016) structure National electricity market CNE SIGET UT
+Transmitter Electricity suppliers and marketers Generators Electricity
+generation costs and tariffs Every three months, SIGET reviews the energy charge
+within the electricity tariff and may revise rates for each distribution company
+(SIGET, 2017a) Electricity prices in power purchase agreements (PPA) that have
+already been established through the competitive procurement process form the
+basis for any revision, as they reflect the current wholesale market power
+generation costs CRIE CDMER EOR Regional electricity market Regional generators
+EPR The end-user tariff considers the trading, transmission, distribution and
+energy charge, which are reviewed every five years, with the last revision in
+Within reviews, these tariffs can be adjusted annually according to changes in
+the Consumer Price Index (CPI) for the month of September Source: CNE-PROESA
+(2016) Disclaimer: Boundaries and names shown on this map do not imply any
+endorsement or acceptance by IRENA The Transmission System and Wholesale
+Electricity Market Operation based on Production Cost Regulation (ROBCP –
+Reglamento de Operación del Sistema de Transmisión  del Mercado Mayorista basado
+en Costos de Producción) is the regulatory regime for the El Salvador market
+Establishing clear rules, ROBCP aims to provide investors with guaranteed
+profits and end-users with affordable rates, while also rewarding efficiency
+Variable production costs are the basis for each generator’ generation dispatch,
+meaning that the market operator also has responsibility for conducting
+mandatory cost audit for each generator, in order to verify their costs (CNE-
+PROESA, 2016) The three electricity tariff categories are segmented according to
+maximum demand First, there are small- scale users – those with demand under 10
+kW – while second, there are medium-scale users, which have demand ranging from
+10 kW to 50 kW Finally, large- scale users are considered to be those with
+demand exceeding 50 kW For small-scale residential users that have consumed
+between  kWh and 105 kWh in the six months prior to the calculation period,
+continuous subsidy is provided by the government and paid through the National
+Investment Fund for Electricity and Telephony (FINET – Fondo de Inversión en
+Electricidad  Telefonía) (Legislative Assembly Executive Decree No 38, 2018 –
+Asamblea Legislativa de la República de El Salvador, Decree Executivo No 38,
+2018) The electricity market comprises of two main business areas: the Long-Term
+Contract market (CLP – Contratos de Largo Plazo), and the spot market 25 Energy
+sector institutions and governance developing and implementing subsidies for the
+energy system and monitoring the good use of the energy resources, as well as
+energy access across the Salvadorian population (IDB, 2013) El Salvador’
+institutional landscape in the energy sector is evolving, after going through
+series of restructuring processes, focusing mainly on the power sector
+Additionally, the CNE has  consultative council, which includes: representatives
+of private sector trade associations (industrial and commercial);
+representatives of professional associations linked to energy; representatives
+of academic and research institutions; representatives of organisations linked
+to consumer protection; representatives of organisations linked to protection of
+the environment; and representatives of electrical industry unions Key
+institutions The CNE was created by  2007 legislative decree and established as
+the energy sector’ governing authority It is responsible for developing national
+energy strategy and policy in order to further promote the development of
+renewable energy, the rational use of energy, the integration of regional energy
+markets, and the creation of enabling regulatory frameworks As previously
+mentioned, the regulatory authority in the hydrocarbon sector is MINEC,
+operating through the Regulatory Directorate of Hydrocarbons and Mines
+Infrastructure and handling of transportation of hydrocarbons are also overseen
+by MINEC The participation of private companies in the marketing and importing
+of oil by-products is allowed The regulator fixes liquified petroleum gas (LPG)
+prices and establishes  reference price for all petroleum derivative products
+The Superintendence of Competition (SC) oversees monitoring of the markets in
+order to promote and protect competition, increase economic efficiency and
+consumer welfare Before the creation of the CNE, the Ministry of Economy (MINEC
+– Ministerio de Economía) was in charge of the sector and operated through two
+directorates for its management and co-ordination These were: the directorate
+for electricity and the regulatory directorate for hydrocarbons and mines The
+latter still exists as part of MINEC, but as the regulatory entity for the oil
+and gas sector only (MINEC, ) The main functions of the CNE highlighted in the
+legislative decree are (IDB, 2013): • planning and design of the national energy
+policy • promotion of regulatory frameworks for the creation of investment and
+competitive conditions in the energy sector Recently, the government of El
+Salvador created several executive bodies, or cabinets, for institutional co-
+ordination and strategic planning in key policy areas (Legislative Assembly
+Executive Decree No 14, 2019 – Asamblea Legislativa de la República de El
+Salvador, Decreto Ejecutivo No 14, 2019) • promotion of an adequate use of
+energy • promotion of the development and deployment of renewable energy
+resources • promotion of the integration of regional energy Amongst these, the
+Energy Cabinet was created to undertake the strategic planning of investments in
+the generation, transmission and distribution of electricity, as well as to
+conduct  review of the country’ energy mix This is to be done in order to
+achieve affordable, cheaper energy from renewable resources for the population
+The Energy Cabinet is composed by the Presidential Commissioner for Operations
+and Government Cabinet, MINEC, CNE, CEL, SIGET and the DC markets The CNE has
+board of directors made up of representatives from its five member institutions:
+MINEC, which acts as president of the board; the Minister of Finance (MH –
+Ministerio de Hacienda); the Minister of the Environment and Natural Resources
+(MARN – Ministerio de Medio Ambiente  Recursos Naturales); the Minister of
+Public Works and Transport (MOP – Ministerio de Obras Públicas  de Transporte);
+the Deputy Minister of Transportation; and the President of Consumer Advocacy
+(DC – Defensoría del Consumidor) Structure of the power sector Until the 1990s,
+El Salvador maintained  vertically integrated structure in its power sector,
+with CEL as the country’ only state-owned generator With Legislative Decree No
+137, dated October 18, 1948, CEL was established as an independent, public
+electric utility in charge of developing, conserving, managing and using the
+energy resources of the country (SIGET, 2017a) The board of directors has
+responsibility for: monitoring the implementation of policy and strategies
+contained in national energy plans; promoting the approval of laws and
+regulations of the energy sector at  national level; preparing the national
+energy balance; 26 Before the approval of the General Electricity Law and in
+preparation for reform, Legislative Decree No 808, dated September 1996,
+established SIGET as the regulatory institution for the electricity and
+telecommunications sector As the regulator, SIGET has the task of applying and
+enforcing the country’ legal framework concerning both the electricity and
+telecommunications sectors SIGET also guarantees both user and operator rights,
+while acting to develop  competitive market and more investment by establishing
+robust legal framework Final consumer tariffs are regulated by SIGET, while
+FINET is in charge of administration and the allocation of subsidies to low-
+income users, as well as the expansion of electricity coverage and rural
+electrification sector participation, and by 2018, there were 25 private sector
+electricity generation plants operating in the wholesale market (UN ECLAC, 2020)
+The law also maintained CEL’ presence in the generation sector and, over time,
+CEL subsidiary generation companies were created These include LaGeo in the
+geothermal sector, the Cucumacayán Electricity Company (CECSA – Compañía
+Eléctrica Cucumacayán) in the hydropower sector and Energy Investments (INE –
+Inversiones Energéticas) in the thermal sector Ownership and maintenance of the
+transmission system was turned over to the company ETESAL, while UT,  private
+corporation, was assigned to operate the transmission system and national
+electricity market Following the enactment of the General Electricity Law and
+Legislative Decree 843, dated 10 October,1996, El Salvador began liberalising
+its electricity market and unbundling the vertically integrated CEL The law
+opened up both generation and distribution to private  simplified scheme of the
+institution framework of the energy sector in El Salvador can be found in Figure
+15, while  more detailed overview of the energy sector’ institutions can be
+found in Appendix  Figure Institutional structure of energy sector Board of
+directors CNE MARN MOP DC MINEC MH Society academy, etc CNE CC Policies,
+strategies and coordination FINET SIGET SC DRHM Supervision Supervision
+Regulation Supervision and control Implementation Electricity market Fuels
+market Demand Demand Based on: CNE (2012) 27 Energy policies and regulatory
+framework For geothermal and hydropower projects under  MW, there is  more
+streamlined concession process involving directly awarded tenders that are
+regulated by SIGET El Salvador’ National Energy Policy  was still being
+developed by CNE at the time of this report’ release, with  publishing date of
+later in At time of writing, the existing national energy policy was thus still
+the one published by the Council in 2010 (CNE, 2010) This had the purpose of
+serving as  strategic guide for the development of the national energy sector
+during the  period SIGET issues an agreement for an approved project, which can
+be granted in concessions of geothermal and hydro resources for power generation
+purposes The project developers must also present the agreement for processing
+by the Legislative Assembly, which has to grant concessions for the use of the
+corresponding natural resources The  policy includes: • renewable energy
+resource promotion and energy mix diversification Rules for electricity trading
+activities • protection of final users with  strengthening of The retail
+electricity market is governed by  regulatory framework that promotes the
+commercialisation of electricity The regulations allow for  wide diversity of
+electricity suppliers This allows for more competitive options at the retail
+level, so that end-users are able to choose their electric power supplier This
+regulation stipulates that an electricity market participant, or marketer, can:
+the sector’ institutional frameworks the deployment of technologies that save
+energy and development of  culture of energy efficiency increasing access to
+power across the nation and the use of preferential rates the development of
+innovation and technology further energy regional level • • • • integration of
+El Salvador at • sign contracts for the supply of electric power, The primary
+entity for implementing this energy policy is the CEL and its subsidiary
+companies These assume  strategic role in energy research, project execution and
+renewable energy generation, as well as maintaining  high degree of co-
+ordination with the CNE in the development of El Salvador’ energy sector
+transmission, and distribution • purchase and sell electric power in low voltage
+networks • purchase and sell electric power in the wholesale market Regarding
+the first of these points, the prices and conditions of the supply contracts may
+be the same, or they may differ from those contained in the tariffs approved by
+SIGET for distributors that operate as marketers in the areas where their
+networks are located (SIGET, 2017b) The government has also developed various
+actions for the development of renewable energy in the country and for the
+fostering of private sector participation These include the development of
+fiscal incentives for renewable energy project development proposed by MINEC and
+approved by the Salvadoran Legislative Assembly (Legislative Assembly Executive
+Decree No 462, 2007 – Asamblea Legislativa de la República de El Salvador,
+Decreto Ejecutivo No 462, 2007) The CNE has been developing standards for
+renewable energy PPAs (CNE-PROESA, 2016), net-metering, and priority dispatch in
+the wholesale market for non- conventional renewable energy generators (wind,
+solar and biomass plants), among others This regulation also allows for the
+connection of small power plants directly to the distribution system, enabling
+transactions between generators and distributors, distributors and marketers,
+and distributors and end users Legal Stability Law for Investment In order to
+attract and promote investment, El Salvador enacted the Legal Stability Law for
+Investments in This provides  framework for guaranteeing legal assurance to the
+investor, through the implementation of legal stability contracts (Legislative
+Assembly Executive Decree No 905, 2015 – Asamblea Legislativa de la República de
+El Salvador, Decreto Ejecutivo No 905, 2015) This law can be applied to national
+or foreign investors that are developing new projects, or expanding existing
+projects, within strategic sectors of El Salvador, including the energy sector
+The General Electricity Law In addition to serving as the basis for the
+liberalisation of El Salvador’ energy sector, the General Electricity Law
+establishes that auctions are the preferred mechanism for procuring new power
+capacity and allocating concessions for projects using geothermal and hydropower
+28 Investors covered under this law are ensured stability of taxation and
+capital repatriation conditions, among other benefits Under the law, developers
+must commit to undertake development work in the territory of the municipality
+where their project is located This work must be worth at least % of the total
+contracted investment There is also  time limit of two years from the start of
+the project’ operation for disbursing the development work funds Distributed
+generation regulation In 2013, with Agreement No 120--2013, SIGET approved  new
+norm, known as Open Procurement Processes for Long-term Contracts Supported by
+Renewable Distributed Generation This enables the development of renewable
+distributed generation auctions of up to 20 MW Under this, the procurement
+process is led by  distribution company, willing to purchase power from  self-
+generator for the distribution grid Despite the benefits of the law, however,
+several developers have experienced delays in project implementation due to its
+execution Nonetheless, in 2019, MINEC signed the first legal stability contract
+for the government of El Salvador and the company Ventus  de , which is
+developing the Ventus Wind Farm in Metapán, in the province of Santa Ana In
+2017, through Agreement No 367--2017, SIGET approved the Norm for End User
+Producers of Electrical Energy with Renewable Energy Sources This established
+the procedures, requirements and responsibilities applicable to the connection,
+operation, control and commercialisation of surplus energy from distributed
+renewable generation units In addition, this regulation also governs relations
+between the generator of electricity for self-consumption and the distribution
+company that is to receive the injections of surplus power investments, between
+Fiscal Incentives Act to promote renewable energy This Act for the promotion of
+renewable energy describes the benefits intended for investment in the
+construction or expansion of renewable energy power plants The technologies
+covered by the Act include biomass, geothermal energy, hydropower, solar PV and
+wind This procedure for selling electricity to the grid is usually referred to
+as “net metering” With this scheme, end users (generally residential and
+commercial customers) which generate their own electricity can feed excess
+generation back into the grid This end user producer is then compensated in
+terms of energy (, credit in kWh), and the credit can be applied to offset
+consumption of electricity within the current billing period (, one month)
+According to the law, investments in new projects shall enjoy the following
+benefits and tax incentives (Legislative Assembly Executive Decree No 462, 2007
+– Asamblea Legislativa de la República de El Salvador, Decreto Ejecutivo No 462,
+2007): International power trade • For the first ten years of the project’
+lifetime, imported power generation equipment is duty free Today’ regional
+transmission line – known as SIEPAC (Figure 16) – links six different countries
+and evolved from  series of bilateral arrangements between regional countries In
+those early stages, energy transfers were limited to amounts varying between  MW
+and 50 MW and took place according to specific arrangements • For the first five
+years of the project’ life time, if the project is larger than 10 MW, and for
+ten years, if it is less than 10 MW, the project is exempt from income tax • Any
+sales made under Certified Emission the Clean (CERs, made under Reductions
+Development Mechanism), or via similar carbon offsetting markets, gain  complete
+exemption from tax Such transfers enjoyed considerable political support amongst
+Central American countries, which led to the 1996 Marco Treaty of the
+Electricity Market of Central America, which came into force in This was the
+foundation stone for MER, which uses the infrastructure established by SIEPAC At
+time of writing, in addition to El Salvador, MER’ members are Costa Rica,
+Guatemala, Honduras, Nicaragua and Panama • Value Added Tax (VAT) is waived if
+it is otherwise liable as part of efforts made for investment or pre-investment
+in power plant construction 29 Figure Regional electricity system (SIEPAC line)
+LEC AGC SLU THP PRD NNC LBR GNO PAN LN1 SND MOY TC1 LV2 AMY CAS CHA AHU NEJ CAH
+PAL DOM 155 LIB PAR 230 kW - SIEPAC 230 kW RCL PRO 400 kW Source: EOR (2017)
+Disclaimer: Boundaries and names shown on this map do not imply any endorsement
+or acceptance by IRENA transactions record, setting out all the transactions
+undertaken in summary form For agencies which have debts, the monthly record
+also gives  timeline for them to make credit transfers to the regional
+liquidating bank As  condition to participate in the MER, agents must supply
+payment guarantee to this financial institution In order to make sure that there
+is always enough daily collateral to support the transactions made,  deduction
+equal to the amount of credit is made by the EOR from the value of this payment
+guarantee The Marco Treaty The SIEPAC interconnection established by the Marco
+Treaty of the Electricity Market of Central America is owned by the EPR, which
+the Treaty also established, along with the regional regulator, the CRIE, and
+regional market operator, the EOR (Reinstein et al, 2011) CRIE is based in
+Guatemala and began work in 2000, led by its board of commissioners and
+executive secretary The board contains  representative from each member-state,
+with this representative usually also  member of their country’ national
+regulatory board Given the increasing volume of electricity imports from the
+region, El Salvador’ national electricity market has become highly dynamic As of
+2017, the country had 47 authorised agents for transactions in MER: eight
+generators, seven distributors, 31 marketers and one large user (CRIE, 2018) The
+majority of from El Salvador’ Guatemala, which accounted for over 67% of
+electricity injections into the SIEPAC in Regional electricity transactions MER
+member-state agencies conduct transactions with each other in three ways: spot
+transactions, firm, or non-firm contracts (Reinstein et al, 2011) The EOR then
+produces  monthly regional economic transactions come import  Transmission
+rights (DTs – Derechos de transmission), is  system of trading the rights to
+using transmission lines  The transmission entity (EOR in this case) will issue
+rights to use the regional line (SIEPAC) and make it available to buyers and
+sellers of electricity in the region The regional energy buyer/seller will then
+buy these transmission rights in order to use the line to transmit/transport the
+energy across the region for their needs  The regional transmission line is
+often constrained, and transmission entities are required to plan ahead of time
+to manage the system The transmission rights system allows them to plan and
+offer  transparent pricing system for the users 30 Figure Imports and exports in
+the regional market, per country  000  500             000 500 ) + ( 00 )    (
+-500 - 000        ) - ( - 500 - 000 2013 2014 2015 2016 2017 2018 Guatemala El
+Salvador Honduras Nicaragua Costa Rica Panama Source: CRIE (2019) El Salvador
+complies with regional interconnection requirements transmission expansion
+planning at the national level This is thanks to the growing number of
+transactions within both the regional market and the integrated national
+electricity system within SIEPAC electricity that is expected to be generated by
+new power plants (including renewable energy generating facilities), which would
+be strategically located for interconnection with the transmission grid and
+provisions in In November 2018, CRIE published RESOLUTION- CRIE-, which
+establishes the minimum technical requirements for connecting and operating
+solar PV and wind plants in the regional power system Since El Salvador has the
+opportunity to use the SIEPAC infrastructure to meet national electricity
+demand, opportunities exist that can create  more robust national transmission
+system One such opportunity is the construction of additional 230 kV lines
+between the Port of Acajutla, El Pedregal and the 15 de Septiembre substations,
+which, when complemented by the 230 kV line to be built by Pacific Energy (EDP –
+Energía del Pacifico) between Acajutla and Ahuachapán (see Figure 13), would
+form  ring loop and therefore create  more robust network (CRIE, 2018) This
+resolution will be applicable to new requests for integrating these renewable
+technologies into the regional grid (CRIE, 2018) The resolution and the minimum
+technical requirements have been transferred by the Executive Secretary of the
+CRIE to national regulatory bodies in the region, to evaluate the possibility of
+including them in their national regulations, in the short term Consultation and
+training activities are therefore also envisaged by the national regulators of
+the participating member states, as well as solar PV and wind project developers
+On the other hand, the construction of  transmission line between Acajutla and
+Ahuachapán is also tied to the construction of  natural gas power plant in the
+Sonsonate region The resolution further stipulates that system operators and
+market operators adopt the necessary measures to co ordinate the operation of
+the distributed generation of wind and solar PV power plants connected at low or
+medium voltage levels, or storage of energy at the distribution level (CRIE,
+2018) Such considerations are in ETESAL’ transmission network expansion plan
+This type of network would also facilitate the dispatch of included 31 Box  The
+Clean Energy Corridor of Central America IRENA launched the Clean Energy
+Corridor of Central America (CECCA) initiative in This was in order to support
+the accelerated deployment of renewables at the regional level It was also
+undertaken within the context of the SIEPAC line that interconnects Costa Rica,
+El Salvador, Guatemala, Honduras, Nicaragua and Panama, and to promote cross-
+border trade of renewable energy power in the region CECCA is built around the
+key pillars of implementation: power system operations and regulatory frameworks
+for increasing VRE shares; country and regional power system planning with
+renewables; zoning and renewable resource assessment; and capacity building and
+information dissemination The implementation of CECCA started within its pilot
+country, Panama, in There, an assessment was made of PPAs for solar and wind
+energy, as part of the regulatory component of the initiative Likewise, IRENA
+has conducted  series of capacity building activities for Central American
+national and regional grid operators, targeting the integration of VRE into
+their electricity systems, in line with CECCA’ technical component Additionally,
+IRENA has recently started the regional Renewable Roadmap (REmap) and
+flexibility assessment of the power systems of all the CECCA countries – an
+effort that forms part of the country and regional power system planning pillar
+of the initiative It is envisaged that this pillar will be expanded by
+implementing  series of workshops These will be on long-term energy planning,
+the promotion and identification of best planning practices, and experience
+sharing among the countries of Central America when planning with renewable
+energy sources Regional partners have supported CECCA in its development, with
+the initiative becoming  milestone and reference point for the Central American
+region It has also now been included as part of other regional efforts, as it
+forms the basis for the Central American Economic Commission for Latin America
+and the Caribbean (ECLAC)-Central American Integration System (SICA) energy
+strategy 32  Renewable energy developments Drivers of renewable energy
+deployment Addressing these challenges has become the main driver for the
+promotion of renewable energy in El Salvador With the introduction of the
+National Energy Policy , the country prioritised the diversification of the
+energy mix, as  starting point for improving the energy supply This was also
+seen as  tool for increasing access to electricity across the population The
+Republic of El Salvador is making  concerted effort to boost economic growth and
+the welfare of its inhabitants In this regard, the government considers the
+energy sector  strong contributor to economic and social development (CNE, 2010)
+Recent IRENA work, for example, estimates that more than  million jobs have been
+created by the renewable energy sector in Latin America and the Caribbean by
+Potentially, this could reach more than  million jobs by 2030, given  scenario
+in which the rise in global temperatures is kept to well below ° and closer to
+°, during this century (IRENA, 2020b) With the adoption of the Paris agreement,
+El Salvador has also prioritised the mitigation of greenhouse gas emissions from
+the energy sector This is to be achieved by increasing the penetration of clean
+energy sources, together with improving energy efficiency along the whole energy
+chain On  global level, renewable energy has experienced  rapid decline in cost
+in recent years Between 2010 and 2019, the global weighted average levelised
+cost of electricity (LCOE) from solar PV fell 82%, to USD 40 per megawatt hour
+(MWh), while the cost of electricity from onshore wind declined 45%, to USD /MWh
+(IRENA, 2020b) El Salvador’ power generation costs, however, have been strongly
+influenced by the price volatility of oil and gas, due to fossil fuel dependency
+in the country’ energy sector The cost of this energy has put pressure on the
+state budget and has  negative impact on its final users (see Box ) With good
+progress made on energy access rates and renewable energy penetration in the
+power sector, the new, National Energy Policy  is now under development This
+draws up  long-term energy strategy for the country, highlighting the importance
+of mitigating the dependency on fossil-fuels and climate change effects, with
+the promotion and use of renewable energy beyond the power sector The new energy
+policy supports the development of direct use applications from renewable energy
+sources, such as geothermal and solar thermal, facilitating the penetration of
+clean technologies in the industrial and agricultural sector This is the result
+of the successful implementation in recent years of renewable energy pilot
+projects, involving local and vulnerable communities These have provided clear
+benefits by boosting local economies, promoting the development of the agri-food
+sector, and by the inclusion of women in commercial activities In addition, El
+Salvador is vulnerable to climate change, with temperatures forecast to rise
+between ° and ° by During this period, sea levels may rise by some 18
+centimetres (cm), while ‘extreme weather events’, such as tropical storms,
+floods and droughts, are also expected to increase in frequency and intensity
+(USAID, 2017) All these conditions will affect different aspects of the country,
+including energy infrastructure and power generation Hydropower generation along
+the Lempa River Basin, for example, could decline by between 33% and 53% by the
+end of the century (USAID, 2017) Additionally, El Salvador envisages the use of
+innovative technologies such as electric vehicles, blockchain and digitalisation
+This is with the aim of creating  modern energy sector, as  priority on the path
+to achieving the country’ sustainable development objectives and attracting
+foreign investment to boost the economy 33 Box  Electricity tariffs During the
+1990s, the country’ power generation portfolio witnessed an influx of
+conventional thermal units, which led to  higher fossil-fuel dependency This was
+despite the traditionally significant role of hydro and geothermal power
+generation in the energy system During the following decades, global oil market
+price volatility provoked an increase in electricity tariffs, giving El Salvador
+one of the highest residential rates in Central America (see Figure 18) Between
+1998 and 2015, the average electricity tariff in El Salvador increased by %, due
+to the rise in international oil prices Generation costs (including fuel and
+transmission costs) corresponds to an estimated 80% of the final electricity
+price, while the remaining 20% is mostly distribution and commercialisation
+charges The latter decreased dramatically in 2015, however, due to the entrance
+of new actors in the country’ distribution market (Superintendence of
+Competition of El Salvador, 2017) The government of El Salvador believes that
+renewable energy sources are the key to mitigating dependency on fossil-fuels in
+power generation, with their use also contributing to  reduction in electricity
+tariffs (CNE, 2010) Additionally, the current high costs of electricity require
+the use of subsidies to provide services to all the inhabitants, resulting in
+high expenditure for the country Therefore, among the main objectives of the new
+National Energy Policy  is  reduction of the electricity tariff through the
+promotion of renewable energy generation, facilitating the removal of
+electricity subsidies towards the end of the policy period Figure Residential
+electricity rates of some of the main distribution companies in SICA, for
+consumption of 50, 100, 200, and 400 kWh - December 2018 30 25 20    / $   15 10
+Belize (BEL) Costa Rica (ICE) Dominican Republic (EDE) El Salvador (CAESS) El
+Salvador (CLESA) El Salvador (DEL SUR) Guatemala (DEOCSA) Guatemala (DEORSA)
+Guatemala (EEGSA) Honduras (ENEE) Nicaragua (INE) Panama (ENSA) 50 kWh 100 kWh
+200 kWh 400 kWh Based on: (UN ECLAC, 2019) 34 Renewable energy resources
+Geothermal energy The exploitation of geothermal resources in El Salvador
+started back in the 1960s with the identification of 18 potential geothermal
+sites in the country The first geothermal power plant was commissioned in 1975
+in Ahuachapán The range of renewable energy resources available in the Latin
+American and Caribbean regions is  wide one – although much of this potential
+has yet to be realised While more than  quarter of the total primary energy
+supply in the region came from renewables in 2017 – twice the global average –
+the regions’ total renewable generation represents just % of its overall
+renewable power potential This relatively long history in the sector has given
+El Salvador  leading role within the regional geothermal sector There are now
+significant numbers of experienced scientists and technicians available in the
+country, with these often sharing their expertise via the Geothermal Centre of
+Excellence in El Salvador (Box ) This provides young professionals from the
+country and around Latin America and the Caribbean with training courses and
+workshops in many aspects of geothermal energy  renewable energy installed
+capacity of 50 GW of bioenergy, 186 GW of hydro, 108 GW of solar PV and 93 GW of
+wind is achievable by 2030, and in line with the Paris Agreement (IRENA, 2020b)
+These estimations do not consider the geothermal or ocean energy resource
+potential, which will also play an important future role in the region’ energy
+supply Nowadays, utility company LaGeo operates roughly 200 MW of geothermal
+power capacity across two geothermal fields Following  public tender in 2001,
+Enel Green Power purchased  % share of LaGeo, gradually increasing this to 36%,
+with the government of El Salvador holding the remaining shares In 2008, the
+government obtained full ownership of LaGeo, after Enel Green Power sold its
+ownership share (Sanyal et al, 2016) El Salvador is not an exception to these
+regional characteristics Given its geographical position, the country’ renewable
+energy potential is abundant and diverse, and includes bioenergy, geothermal,
+hydropower, ocean, solar and wind While the country has recently made
+significant advances in diversifying its energy supply, much of its renewable
+resource potential remains untapped Bioenergy Regarding direct use of geothermal
+energy, an installed capacity of 36 MWt is estimated for 2015, including
+variety of applications for swimming and bathing, as well as pilot projects in
+the agri-food sector, such as greenhouse heating, fish farming and food drying
+(Lund and Boyd, 2015) In terms of installed power capacity, by 2019, El
+Salvador’ solid biomass had reached 298 MW while biogas totalled nearly  MW
+(IRENA, 2020a) The estimated net primary production of bioenergy in El Salvador
+is around tonnes of carbon per hectare per year (tC/ha/yr), which is well above
+the global average of between  tC/ha/yr and  tC/ha/yr (IRENA, 2019) In 2018,
+bioenergy (sugarcane bagasse and firewood) stood at over 18% of primary energy
+supply  range of factors govern the quantity of residues available to the
+bioeneregy sector, including the overall level of activity in the economy This
+is also largely the case for solid waste from urban areas and sawmill residues,
+which are beyond the scope of this report 35 Box  The Geothermal Centre of
+Excellence in El Salvador Blessed with extensive geothermal resources, El
+Salvador is fortunate in having  history of geothermal energy development that
+now dates back to the 1950s This has given it an unprecedented level of
+expertise in the field within the region –  factor now capitalised upon by the
+Geothermal Centre of Excellence in El Salvador  joint project between LaGeo and
+the GRÓ GTP Geothermal Training Programme from Iceland (previously known as the
+United Nations University-Geothermal Training Programme), the Centre has
+established the country as  leading location for training in the geothermal
+industry Young professionals from El Salvador, other Latin American countries
+and the Caribbean have been able to share the extensive technical, scientific
+and managerial experience and knowledge accumulated by the Centre via  range of
+workshops and courses The five-month Geothermal Diploma Course for Latin America
+is  flagship amongst these, helping El Salvador set the standard for geothermal
+training in the region The Diploma brings together experts from El Salvador and
+Iceland – another key country in the global geothermal industry – thanks to  co-
+operation agreement between LaGeo and GRÓ GTP The Centre has so far provided the
+Diploma course – and other, shorter training programmes –to over 700
+professionals In addition to those from El Salvador who have enrolled on these
+courses, students have included professionals from Montserrat, Saint Kitts &
+Nevis, St Vincent and the Grenadines in the Caribbean, and Argentina, Bolivia,
+Chile, Colombia, Costa Rica, Dominica, Ecuador, Guatemala, Honduras, Mexico,
+Nicaragua, Panama, and Peru from elsewhere in Latin America Source: GGA ()
+Hydropower Solar energy Figure 19 presents an overview of the solar irradiation
+for El Salvador, according to the IRENA Global Atlas The solar irradiation in
+the country is uniformly consistent across the territory, being in average
+larger than  000 kWh/m2 Likewise, more than 80% of the Salvadorian territory
+shows estimated annual generation per unit of installed PV capacity in the range
+of  600 kilowatt hours per kilowatt peak per year (kWh/kWp/yr) and  800
+kWh/kWp/yr (IRENA, 2019) Hydropower continues to have the largest share of
+renewables in El Salvador’ electricity mix In recent years, CEL has carried out
+an 80 MW expansion project at the  de Noviembre hydroelectric plant, with
+January 2017 seeing the plant’ two new, 40 MW generating units begin commercial
+operation This allows them to harness the surplus water that accompanies the
+rainy season Meanwhile, the El Chaparral hydroelectric plant is under
+construction and will have an installed generation capacity of MW on completion
+It is expected to start operations in Several solar PV projects have become
+operational in recent years, totalling over 166 megawatt peak (MWp) of installed
+power capacity, by Solar irradiation in El Salvador is high, which provides
+excellent yields and favourable cost-benefit conditions for the development of
+solar PV plants Ocean energy Preliminary research on Mizata beach (La Libertad
+Department) has been carried out to determine the energy potential of marine
+waves (LaGeo, ) LaGeo’ renewable energy unit, the entity conducting the study,
+collected the necessary data using  sensor that measured: () height, speed,
+temperature, direction and flow of the energy contained in one metre of wave
+front; and (ii) the height variation of the tides 36 Figure El Salvador: Global
+horizontal irradiation, kWh/m2, 1km 1994-2015 Global horizontal irradiation
+kWh/m2 < = 1800 1800 - 1900 1800 - 1900 1800 - 1900 1800 - 1900 1800 - 1900
+Source: IRENA: Global Atlas, Map data: ESMAP, 2019, [2019] OpenStreetMap
+contributors Figure El Salvador: Average wind speed at 100m hub height Wind
+speed at 100m annual average / < =   -   -   -   -   -  >  Source: IRENA: Global
+Atlas, Map data: DTU, 2019, [2019] OpenStreetMap contributors 37 Wind energy Box
+IRENA Global Atlas Geospatial and Site assessment services Despite the country’
+interest in promoting wind power plants, the prices achieved in El Salvador’
+first auction in 2014 were over the ceiling prices, so no wind projects were
+awarded During the country’ second auction, one project was awarded, but as of
+2019, it has not come online Resource mapping is the first phase in planning
+cost-effective renewable energy project for subsequent development IRENA’
+geospatial assessment services aim to identify areas and zones (and attributes)
+in  country that are appropriate for deploying utility-scale wind and solar PV
+power projects The methodology combines resource maps and ancillary data, such
+as transmission lines and road networks, protected areas, land cover,
+topography, and population growth These factors are assessed in order to
+identify areas and zones that have good resource availability, are within
+reasonable proximity to the necessary infrastructure, and have low environmental
+and social impact, based on local conditions Furthermore, the assessment
+calculates the maximum installable capacity, identifies the energy generation
+potential and suggests possible storage opportunities for each zone Such
+information supports adequate generation and transmission expansion planning,
+reduces the risk of investing in unsuitable areas, supports countries in making
+strategic decisions on energy security, and increases the share of sustainable
+sources of electricity generation looking at measurements from Several studies
+stations have detected wind meteorological speeds of between  metres per second
+(/) and  / (MARN and UCA, 2005) Figure 20 presents an overview of the average
+wind speed at 100  hub height, showing that this averages between  / and  /
+Likewise, around 70% of Salvadorian territory has  potential wind power density
+(at 100  high) of below 260 watts per square metre (/m2) (IRENA, 2019) Few areas
+have shown high and relatively constant wind speeds One site that has proved to
+have high wind speeds is the 54 MW project developed by Ventus in Metapán, which
+has an average speed of  / at 50 metres high Renewable energy master plan In
+2012, in collaboration with the Japan International Cooperation Agency (JICA),
+CNE developed the Master Plan for the Renewable Energy Development of El
+Salvador This plan identifies the renewable energy sources that have potential
+in the country, and highlights an indicative roadmap for the development of
+those resources out to The estimated potential capacity additions by then, as
+per each energy source, are provided in Table  IRENA’ site assessment service
+aims to evaluate the technical and financial viability of sites for solar PV and
+wind project development The methodology uses high resolution site-specific time
+series resource data, site characteristics and technological parameters to
+calculate the annual energy production (AEP) at different exceedance
+probabilities for each site It further simulates the levelised costs and tariffs
+at which the sites would become viable for further investment in in-situ
+measurements and subsequent development This information is of critical value to
+local authorities, which can screen these sites by comparing the pro-forma
+tariffs or levelised costs to  benchmark, ensuring resources are invested only
+in worthy locations This master plan aims to promote the diversification of the
+energy mix, by adopting clean energy sources The development of this plan also
+encouraged the implementation of other supporting mechanisms for renewable
+energy, such as auctions, long term contracts, and others 38 Table  Additional
+installed capacity per source by 2026 Small hydro (<20 MW) Solar thermal* Energy
+source Wind Solar PV Geothermal Biomass Biogas Installed capacity (MW) in 2012
+35 -  -  Additional installed capacity to 2026 (MW) 60 90 200  45 35 Source: CNE
+and JICA (2012) * Power generation capacity estimation Box  IRENA Regional REmap
+& FlexTool IRENA is currently developing  regional REmap (Renewable Energy
+Roadmap) study for Central America This will include the countries of Belize,
+Costa Rica, El Salvador, Honduras, Guatemala, Nicaragua and Panama and be
+complemented by  power system flexibility assessment using IRENA’ FlexTool This
+is  publicly and freely available tool that analyses power system flexibility in
+detail The regional REmap study explores technology options that enable an
+energy transition at the regional level, through the accelerated development of
+renewable energy in the energy mix The study covers electricity generation, the
+end-use sectors (transport, industry and buildings) and energy efficiency
+Additionally, using the FlexTool, the energy scenarios resulting from the REmap
+analysis are analysed in terms of power system flexibility, in order to check
+their technical feasibility and provide feedback to the REmap team The project
+began in May 2019, with its first step  major effort to engage country
+counterparts and institutions and scope the vision for the analysis This
+involved several conference calls, including with member countries and regional
+institutions, with the aim of securing their interest and participation in the
+project As  culmination of this first step, IRENA organised the First Regional
+Workshop:  renewable energy roadmap and flexibility assessment for Central
+America, which was hosted by the National Energy Secretariat of Panama and took
+place in Panama City between - September During the workshop, the countries
+involved in the study, partner institutions and IRENA assessed policy objectives
+and priorities at the national and regional levels, along with the status of the
+energy system in each country The workshop also served to evaluate the current
+status of renewable energy development, existing planning models and the vision
+of regional integration Regional institutions that joined the workshop included
+the Latin American Energy Organisation (OLADE – Organización Latinoamericana de
+Energía), ECLAC, World Bank, the Inter American Development Bank (IDB), UNFCCC,
+SICA, EPR and EOR As  follow-up to the first workshop, individual data requests
+were sent to each country and conference calls were organised to discuss the
+data input for the study Having collected most of the data needed for the
+analysis, the project is currently at the phase of developing the energy system
+reference and REmap scenarios that will then serve as an input for the
+flexibility assessment  2nd workshop was scheduled for the last week of March
+2020 to help in the development of the reference scenario The workshop was
+confirmed with the participation of all countries and regional institutions, but
+had to be cancelled due to the coronavirus pandemic The workshop will be
+replaced by bilateral calls with countries The calls should take place during
+the second half of 2020, with the overall final results of the project expected
+to be concluded and presented by the end of that year 39 Renewable energy
+support mechanisms in the power sector • Priority dispatch: Article 67-, which
+is included among the reforms made to the General Electricity Law, establishes
+that renewable generation plants (from solar, wind and biomass) have dispatch
+priority, and therefore their marginal cost is considered to be zero
+(Legislative Assembly Executive Decree No 80, 2012 – Asamblea Legislativa de la
+República de El Salvador, Decreto Ejecutivo No 80, 2012) El Salvador utilises
+range of support mechanisms to incentivise renewable energy development in the
+power sector The main instruments, as shown in Table , can be segmented into the
+following categories: to electricity ) Fiscal transmission grid; instruments; )
+financial instruments; and ) others (IRENA, 2016) incentives; ) access )
+regulatory Regulatory instruments Fiscal incentives • Renewable energy auctions:
+Technology-specific auctions are implemented to procure renewable energy
+capacity resulting in long-term power purchase agreements (PPA) • Value added
+tax (VAT, 13%): Provisions for VAT exemption related to pre-investment work and
+investments in the construction of renewable energy projects (Legislative
+Assembly Executive Decree No 462, 2007 – Asamblea Legislativa de la República de
+El Salvador, Decreto Ejecutivo No 462, 2007) • Distributed generation: Net
+metering regulations enable eligible self-producers of renewable energy to
+inject surplus production into the local distribution grid (SIGET, 2017a)
+Likewise, there are rules set for renewable distributed generation auctions in
+the Agreement No 120--Income tax: For projects larger than 10 MW in size, there
+is  five year income tax exemption For those smaller, the exemption is for ten
+years • Financial instruments Import tax (%): Tax benefits for the import of
+equipment, services or products intended for renewable energy projects • •
+Dedicated fund:  public fund (FINET) finances projects related to energy
+generation or the improvement of energy infrastructure in rural areas •
+Certificates of Reduced Emissions (CERs): Under the framework of the Kyoto
+Protocol’ Clean Development Mechanism – and other, similar carbon markets –
+income derived from the sale of CERs is completely tax exempt • Eligibility
+fund:  public fund of the El Salvador Development Bank (BANDESAL – Banco de
+Desarrollo de El Salvador), provides financing for renewable projects Access to
+electricity transmission grids Others • Grid access: Generators are guaranteed
+grid access, including renewable energy generators • Social support
+requirements: Renewable energy projects are required to allocate  percentage of
+their revenue to either directly support local community projects, or to support
+the overall financing of community development (REN21, 2017) 40 Table  Support
+instruments to promote renewable energy Existing supporting instrument -
+Supporting instrument Yes VAT exemption Yes Income tax exemption Yes Import
+fiscal benefit Fiscal incentives Yes Tax exemption from the sell of CERs No
+National exemption of local taxes No Accelerated Depreciation Yes Grid access
+Grid Yes Preferential dispatch of energy Yes Auctions of PPAs No Feed-in tariff
+Regulator Yes Net metering Yes Dedicated fund Yes Eligible fund Finance Yes Pre-
+investment support Yes Social requirements Other Yes Renewable energy in rural
+access programs Based on: BNEF (2012) • The auctions aim to be transparent and
+are therefore publicly announced, with  publicly disclosed process available to
+view on the website of the distribution company leading the auction process
+Renewable energy auctions The reform of the General Electricity Law in 2007
+established the procedures and regulations for the use of bidding processes to
+procure power capacity Under these, the winning bidders enter into long-term
+PPAs with the off-taker,  distribution company • Based on the result of the
+power planning process, CNE and SIGET agree on scheduling the tender process
+There is not, however, an established schedule for the implementation of
+auctions in the long term There are two types of renewable energy auctions in El
+Salvador, for generators connected to the grid and for distributed generation
+projects Some of the most relevant aspects of the auction methodology in El
+Salvador are the following (USAID, 2018): • The auctions are technology
+specific, with defined quotas and  reallocation mechanism If the target for one
+technology has not been met, additional amounts of other technologies can be
+contracted to fill the gap • The contracted amounts per auction are allocated
+proportionally among all of the distribution companies, based on their shares in
+the wholesale market • There is  pay-as-bid pricing mechanism (prices as bid)
+Auction winners are paid  price equal to the bids of the offeror 41 • Ceiling
+prices are disclosed after the submitted bids are opened SIGET is responsible
+for setting the ceiling prices for each technology and approving the bidding
+documents El Salvador’ second renewable energy auction began in 2016, when
+DELSUR opened  bidding process to procure  total capacity of up to 170 MW of
+non- conventional renewables (70 MW of wind, 100 MW of solar PV) The PPA
+contracts were set to 20-year lengths, with the auction rules stipulating that
+solar PV projects had to be online and operational by April 2019, while wind
+projects had to come online by April Additionally, solar PV and wind projects
+had capacity requirements of between  MW and 50 MW • There is no specified for
+project development, and bidders can propose project sites location • The
+winners of the bidding process are obliged to deliver the total amount of
+electricity generation awarded to them under  PPA that runs for  20 year period
+The PPA guarantees that the distribution companies will buy all the energy
+produced by the generator at an established rate, as  take or pay commitment For
+distributed generation, the bidding process offers PPAs for  period of five to
+20 years, but most of the PPAs awarded so far have been for 15 years DELSUR
+again represented  group of the same seven distribution companies participating
+in the first and second auction processes, with 62 companies registered to
+participate in this tender DELSUR received 29 bids from 19 companies, resulting
+in four solar PV projects and one wind project winning PPAs, for  total awarded
+capacity of MW (see Table ) The price reduction over the course of the two
+rounds of grid-connected generation reflects  learning curve in local project
+development Several obstacles were identified during the first auction round and
+later improved These improvements included:  greater ability for small projects
+to negotiate more competitive equipment prices; increased experience in
+Salvadoran commercial banks with renewable energy project finance; and stronger
+interest from multilateral investment banks and development banks in funding
+small projects in El Salvador • The PPA establishes  determined tariff for the
+energy in US dollars, including yearly indexation The payment for the energy is
+made on  monthly basis • The PPA includes commitments the generators related to
+the construction period and commissioning of the power plant Commissioning
+delays may lead to the execution of  completion bond for Wholesale market
+auctions Distributed generation auctions The first energy auction process,
+implemented in December 2012, saw 355 MW of LNG generation procured in August
+2013 (for more information, see Section ) Following this, in September 2013,
+electricity distributor DELSUR opened El Salvador’ first renewable energy
+auction This tendering process aimed to purchase  total capacity of 100 MW from
+non-conventional renewables projects, stipulating that these must be at least
+MW in capacity In this auction, the PPA contracts were set with 20- year terms
+Ceiling prices for bids, revealed post- bidding, were USD 41/MWh for wind
+projects and USD 53/MWh for solar PV projects El Salvador’ distribution
+companies, together with the CNE and SIGET, then opened the country’ first
+distributed renewable energy auction, to contract  total capacity of up to 15 MW
+Of this,  MW was to come from small hydropower,  MW from solar PV,  MW from
+biogas, and  MW from residential customers with renewable energy self-generation
+systems up to  kW In this first auction, SIGET received bids for 58 small- scale
+renewable energy projects, mainly from national project developers, from which
+SIGET selected  total of 35 projects for the off takers, comprised of seven
+distribution companies In this first auction, the PPAs carried  15 year contract
+term, fixed in US dollars, with prices indexed to the CPI for all urban
+consumers in the USA The project developer had to present  guarantee for
+maintenance of the offer and  guarantee for fulfilment of the contract In this
+auction, many bidders were unable to reach financial closure on their projects
+As  result, most of these developers sold their PPA to  private equity firm
+based in the USA This first auction contracted 94 MW of solar PV capacity under
+20-year PPAs, while no wind projects were allocated, as offers exceeded the
+ceiling price The winning companies were also required to direct % of project
+profits to social development programmes in the cities where the projects were
+based 42 In 2018, CNE launched  new tender process for distributed renewable
+energy sources This technology specific tender process focused on the following
+technologies with the respective auctioned capacity: rooftop solar PV (10 MW),
+biogas ( MW) and on- ground solar PV (10 MW) (CNE, ) The results of this auction
+were published in March 2019 and can be found in Table  Table  Summary of
+results among conducted wholesale market renewable energy auctions in El
+Salvador Auction date Target capacity Capacity awarded Average prices • 100 MW
+from non- conventional renewable energy • 94 MW solar PV ( projects) • USD
+68/MWh 2014 • 100 MW solar PV • MW solar PV ( projects) • USD 44/MWh 2016 • 70
+MW wind • 50 MW wind ( project) Based on: USAID (2018); CNE () Table  Summary of
+results among conducted renewable distributed generation auctions in El Salvador
+Auction date Target capacity Capacity awarded Average prices • 36 MW solar PV
+(31 projects) • 15 MW • 500 kW small hydro • USD 47/MWh 2013 ( projects) • 450
+kW biogas ( projects) • 10 MW rooftop solar PV •  MW biogas ( Projects) •  MW
+biogas • USD 17/MWh 2019 • 48 MW on-ground solar PV • 10 MW on-ground solar PV
+Based on: USAID (2018); CNE () Ventus wind project in Metapan, El Salvador Image
+credit: CEL 43 Renewable energy project procedures and permits of the project
+development lifecycle These procedures are carried out and permits obtained
+sequentially, beginning with the project profile formulation and the pre-
+feasibility study In the pre-investment stage, the feasibility, electrical and
+the environmental impact studies are carried out until the final design of the
+project is concluded The development of renewable energy projects in El Salvador
+requires that  number of procedures be followed and various permits acquired
+range of government offices deal with these, at different stages Figure
+Permitting stages Pre-feasibility study Feasibility study Final design Project
+proﬁle Electrical studies Innvestment stage (construction) Operation’ dosing
+stage Institution Pre-investment stage Operation stage Disconnection procedure -
+End of the contract Interconnection contract Access feasibility Distributor
+Interconnection request Construction permit Project registration Construction
+feasibility City council Vice Ministry of Housing and Urban Development (VMVDU)
+Construction permit Project registration Construction feasibility Inst and Func
+Autorisation Ministry of Health (MINSAL) Ministry of Culture (MICULTURA)
+Technical inspection request National Administration of Aqueducts and Sewers
+(ANDA) Feasibility AN and AP Likewise, delivering letter of no affection
+Ministry of the Environment and Natural resources (MARN) Annual operating report
+and environmental audit Release of the environmental compliance bond Abandonment
+plan Environmental permit for the project’ construction Certiﬁcation for tax
+incentive SIGET Withdraw generator registration Renew enrollment Enrollment in
+the registry Ministry of Finance (MH) Tax incentive authorisation Credit
+disbursement and supervision Credit monitoring Request ﬁnancing Finance system
+Environmental impact assessments Construction Tax incentives Interconnection
+with the electrical system Source: CNE (2013) 44 Once the project is
+operational, the generator should make  payment to SIGET for the registration
+update, which considers the amount of electricity generated (MWh) and injected
+into the grid during the previous year Additionally, it is essential to submit
+annual operation and environmental audit reports to the MARN At the end of
+project’ operations, the disconnection procedures, the abandonment plan and the
+withdrawal of the generator register in the SIGET are carried out The procedures
+indicated in Figure 21 are carried out by different agencies within the power
+sector, including: • distribution companies – responsible for network
+interconnection application, access feasibility, interconnection agreement •
+ETESAL – responsible for network access feasibility, interconnection
+application, interconnection contract The General Electricity Law states that
+geothermal and hydropower projects require different concession procedures Once
+project developer has developed the feasibility studies for the exploitation of
+the in  determined area, the concession resource should go through an open
+tender process, where it is awarded to the lowest price bidder, unless the
+following happens after the auction: • System Operator and Market – responsible
+for application to sign interconnection contract • SIGET – responsible for the
+application for studies, registration, concession request for hydro and
+geothermal projects, tax incentive certification The procedures listed above are
+performed by the following government institutions: • The hydropower developer
+that carried the costs of the feasibility study offers  bid of at least 90% of
+the winning bid • the major’ office, for building permits • The geothermal
+developer that carried the costs of the feasibility study offers  bid of at
+least 85% of the winning bid • the Department of Housing and Urban Development
+(VMDU – Viceministerio de Vivienda  Desarrollo Urbano) for construction
+feasibility, and building permits Additionally, the General Electricity Law
+streamlines licensing procedures for hydro and geothermal power projects below
+MW of installed capacity, which are specified under the Regulatory Law for the
+Concession of Small-Scale Power Generation Projects • the Ministry of Health
+(MINSAL – Ministerio de Salud) for authorisation of the project permit • the
+Ministry of Culture (MICULTURA – Ministerio de Cultura) for technical inspection
+requests According to private sector officials and several project developers,
+the project procedures and permitting processes currently in place have created
+unfavourable cost implications, delays and uncertainty for renewable energy
+projects Despite  certain degree of learning and improvement in the
+documentation of procedures, it has been suggested there remains insufficient
+technical knowledge in several public offices to enable them to effectively
+carry out the permitting procedures The necessary paperwork is also dispersed
+across various institutions, with  lack of clarity on responsibilities • the
+National Administration of Aqueducts and Sewers (ANDA – Administración Nacional
+de Acueductos  Alcantarillados) for feasibility studies • the MARN for
+environmental building permits • the MH for tax incentive approvals During the
+investment stage for project construction, the procedures for property
+inscription at the mayor’ office, work reception by the VMVDU and for release of
+the environmental compliance bond are performed 45 Renewable energy project
+pipeline LaGeo has advanced research in two geothermal reservoirs with
+generation potential, at project sites known as Berlin and Chinameca The
+development of the  MW binary cycle Project II at Berlin has been completed and
+is expected to be operational by In addition to being the state company that has
+historically been in charge of developing renewable energy and fossil energy
+resources in El Salvador, CEL also formulated the National Plan for Integrated
+Energy Development (1988 2000) After this, several feasibility studies and
+investment plans were created to outline future development of generation from
+renewable energy resources, including hydropower, geothermal, solar PV, wind,
+and biogas, as well as the introduction of ocean energy (tidal energy) As part
+of its duties, the CNE is tasked with preparing the Indicative Plan for
+Generation Expansion 2018 2028, which identifies potential candidate projects
+for development This plan assesses the status of the current Salvadoran
+electricity system to evaluate capacity expansion options that can promote
+renewable energy resources, support the reliability of the power system and help
+ensure electricity supply at competitive prices As mentioned above, in recent
+years, CEL has carried out an expansion of the MW hydropower plant  de
+Noviembre, with the addition of two new generating units of 40 MW each These
+came online in 2017 and will allow the plant to harness surplus water that
+occurs during the rainy season CEL’ MW El Chaparral hydropower plant is also
+under construction, and is expected to begin operations in Projects included in
+the generation plan, shown in Table , have undergone studies and consultations
+between the CNE and project owners The list of projects does not include those
+that are already under construction, nor those that have long-term PPAs, as
+these are considered firm projects that could be part of the generation system
+Table  Candidate power plant projects Tentative Date of Operation Power (MW)
+Investment (USD/kW) & % of Investment Name Resource Geothermal //2021   500 % -
+% Berlín U5 Wind //2022 40  631 % - % Wind CEL Geothermal 12//2023   500 % - %
+Ahuachapán U4 Geothermal //2023   500 % - % Chinameca Bunker //2023 100  631 % -
+% Motor  Bunker //2023 100  631 % Motor  LNG //2023 150  338 % - % Motor LNG PV
+//2023 50 700 % - % Solar  PV //2023 15 700 % - % Solar  PV //2023 60 700 % - %
+Solar  PV //2023 20 700 % - % Solar  PV //2023 80 700 % - % Solar  PV //2023 25
+700 % - % Solar  Geothermal //2024   500 % - % San Vicente Geothermal //2026 28
+500 % - % Berlín U6 Geothermal //2026 34  500 % - % Expansion Chinameca
+Geothermal //2026 14  500 % - % Expansion San Vicente Source: CNE (2019) 46 The
+list of projects in the generation plan includes four geothermal generation
+units, totalling 30 MW of installed capacity, which are already in the
+development phase It also includes  total of 76 MW of installed capacity
+expansion at three existing geothermal power stations In addition, the plan
+includes six solar PV plants, totalling over 250 MW of installed capacity and
+one 40 MW wind project Several potential fossil fuel generation facilities are
+also included in the plan, including two bunker-oil generation plants, totalling
+200 MW of installed capacity, and an LNG plant with 150 MW of installed capacity
+first energy bidding process in El Salvador back in It will also cover  large
+part of the distribution companies’ demand Following the plant coming online,
+the allocation of new PPAs for renewables will likely depend on the growth of
+electricity demand and future energy policy The price of the electricity
+generated by EDP (according to the project’ financial contract) depends on the
+international price of natural gas In the case of the gas supply contract, this
+price is indexed in turn to Brent oil Therefore, the prices of electricity
+generated by EDP will depend on the development of oil prices It is expected
+that  gas power plant shows  lower variable generation cost than other thermal
+plants Thus, following the order of merit, EDP electricity would be dispatched
+first and those thermal plants based on Bunker  fuel oil, with higher prices,
+would be dispatched later Furthermore, in 2017, SIGET evaluated and certified
+set of nine renewable energy projects, representing  potential of over 150 MW of
+installed solar PV and biomass capacity (see Appendix ) This certification was
+necessary step for compliance with the renewable energy fiscal incentives law,
+and thus exemption of the relevant taxes for project owners There is some
+uncertainty, however, whether these projects will be completed The Indicative
+Plan for the Expansion of Electricity Generation of El Salvador  also shows the
+EDP plant displacing thermal plants based on Bunker  fuel oil in dispatch This
+Indicative Plan shows that the marginal cost of operation (equivalent to the
+wholesale price of electricity for  cost-based system) would be lower during the
+EDP plant’ first years of operation In later years (between 2023 to 2035), the
+marginal cost then tends to stabilise, between USD 64/MWh and USD 117/ MWh In
+2017, too, SIGET issued agreements for three hydropower projects (see Appendix
+), which will be presented before the Legislative Assembly in order to be
+granted concessions for the use of water resources The CNE has also developed an
+online portal5 listing renewable energy projects in El Salvador In addition to
+those projects that have obtained PPAs in auctions, the portal presents  set of
+renewable energy projects that includes distributed generation in the retail
+market, small hydropower projects, and bioenergy power plants The other
+component in the tariff price is the cost of the contract price This is composed
+of the variable costs of generation associated with the cost of fuel and
+machinery efficiency, operation and maintenance (&) costs, and the premium
+component, which covers the investment costs, fixed costs and the expected
+profit by the project’ investors (SIGET, 2012) El Salvador also has considerable
+experience in the installation of solar PV systems in the off grid sector
+register of solar PV systems carried out by CNE reports  182 solar PV systems of
+75  each installed in 167 rural communities, serving an estimated  000 families
+The electricity sale price in the contract should be similar to the costs of
+thermal plants based on Bunker  For this reason, the EDP project is not expected
+to contribute to  decrease in electricity prices Based on these assumptions,
+market prices in the future can be expected to allow renewable energy power
+plants to be economically viable, displacing thermal Bunker  and other fuel oil-
+based thermal plants along the way An additional project, which will have
+important implications for the future of the power sector, given its capacity
+size, is the 380 MW EDP LNG project, expected to be commissioned in This project
+already holds  PPA, which was awarded during the   47 Renewable energy financing
+Together with the Netherlands Development Finance Company (FMO) and the French
+development bank, Proparco (Société de Promotion et de Participation pour la
+Coopération Economique ), IDB provided  financial package for the construction
+of El Salvador’ Capella solar PV project Capella is the second largest solar
+power generation project in the country, with 140 MW of installed capacity The
+financial package for the project has  tenor of up to 18 years and is comprised
+of three loans of USD 28 million each (IDB Invest, 2018) In the 1990s, El
+Salvador’ energy reform process provided  starting point for future renewable
+energy investment flows in the country Regulatory stability and enabling
+policies are critical to renewable energy finance, as they help ensure the
+transparency essential for market-based financing schemes (IRENA, 2016) In this
+context, El Salvador’ liberalised approach to the energy sector provides the
+basis for the enabling framework needed to scale-up future private financing
+within the sector, with the initial support of public financing Thus far,
+renewable energy investments in the country have largely been the result of
+public financing In addition, IDB seeks new opportunities for promoting national
+and regional energy integration It aims to minimise fluctuations in energy
+prices, reduce waste and losses in transmission, and thus increase energy
+security in the Americas and the Caribbean The Bank is aware that by
+diversifying the energy mix of each country, it will help reduce the effects of
+climate change and the costs of system operation (IDBa, 2018) The Central
+American Bank for Economic Integration (CABEI) provides key for renewable energy
+projects CABEI’ objective is to finance projects that have an impact on economic
+and social development and help fulfil the bank’ broader mission of economic
+integration in the region As part of its past financing efforts, the bank has
+provided funding for the SIEPAC project, renewable energy generation initiatives
+at local and regional level, energy diversification programmes, and transmission
+and distribution system projects In 2017, CABEI approved loans for the energy
+sector that amounted to USD million, representing % of its approved loans for
+the year (CABEI, 2018) investment support In recent years, there have been
+efforts made to support small and medium sized enterprises (SMEs), for energy
+efficiency and renewable energy investments IDB has, for example, provided  USD
+20 million loan to El Salvador for the creation of  financing line aiming to
+promote SMEs investment in energy efficiency This programme is supplemented by
+non-reimbursable technical co operation component, which will develop energy
+savings measurements, and  financial risk transfer instrument, which favours
+energy efficiency investments (IDBb, 2018) CABEI, together with the German
+Development Bank (KfW), administer  funding programme in the region under the
+Latin America Investment Facility (LAIF) from the European Union (EU) that
+comprises renewable energy projects One such project to receive financing
+support was the expansion of the  de Noviembre hydroelectric plant, mentioned
+above Recently, CABEI also launched the Green SME initiative This creates credit
+lines to finance investments of up to USD  million in projects that aim to
+reduce SME energy consumption by 15%, and/or renewable energy projects with
+maximum installed capacity of  MW This credit line is supported by KfW and the
+EU (CABEI, 2020) BANDESAL, as the national development bank, provides financing
+to support feasibility studies and other pre-investment activities for renewable
+energy projects The bank can fund renewable projects either directly or through
+first-tier commercial banking Beyond BANDESAL, at the national level, the Banco
+Hipotecario state bank and several commercial banks in El Salvador also offer
+financing lines with their own resources for the construction of renewable
+energy projects Meanwhile, private investment in existing infrastructure in El
+Salvador is still limited The country has, however, facilitated the financing of
+renewable energy projects awarded in the framework of the tendering process, as
+in the case of private equity funds supported by institutional investors
+Additionally, export credit agencies have also provided financing in the form of
+long-term credits El Salvador has functioning capital markets, with private
+pension in corporate bonds securitised by future cash flows from public
+infrastructure This has become an important source of financing for renewable
+energy project developers in the country (USAID, 2018) Based on its objectives,
+the IDB supports El Salvador in financing projects for the development of
+renewable energy, for research projects and the development of pilot programmes
+to verify the viability of renewable energy alternatives funds investing 48 Box
+Climate Investment Platform (CIP) The CIP is  global initiative supported by
+IRENA, the United Nations Development Programme (UNDP) and Sustainable Energy
+for All (SE4All), in co-operation with the Green Climate Fund (GCF) The CIP’
+objective is to step up climate action and translate ambitious national climate
+targets into concrete investments on the ground (IRENA,  ) Whilst initially
+focused on energy transition, the ultimate goal of the initiative is to
+accelerate investments in renewable energy and enable the success of the
+Nationally Determined Contributions (NDCs) The platform offers an avenue to
+strengthen existing collaboration and presents an opportunity to consider new
+ways for more effectively bringing together stakeholders to catalyse action, all
+within existing institutional structures and in line with the respective
+mandates of the partner organisations In this context, investment forums,  key
+element of IRENA’ strategy to facilitate investments in renewable energy, offer
+an effective organising framework for the implementation of the CIP through
+sub-regional approach The sub-regional forums have two main aims: to strengthen
+the ability of decision-makers to build  strong enabling environment for
+renewable energy investments; and to support developers in preparing bankable
+projects and accessing finance Post-forum project support is also provided In
+operationalising the CIP, IRENA intends to work closely with multilateral,
+bilateral and local financial institutions, development partners and other
+institutions that are prepared to provide financial and/or technical resources,
+and/or support the realisation of projects, as well as private companies and
+private investors In Latin America and the Caribbean, IRENA aims to implement
+two sub-regional investment forums: one for Central America and the Caribbean
+and  second one for South America Both events aim to scale up renewable energy
+investments in the region, support project development and implementation, and
+contribute to the creation of policy and regulatory frameworks conducive to
+renewable energy investments Key forum activities will include matchmaking
+between project developers, potential financiers and investors Renewable energy
+projects, along with renewable-based electricity grid and energy efficiency
+projects, may be considered for support (IRENA,  ) 49  Recommendations for
+addressing the main barriers hindering the deployment of renewable energy
+targets and long-term plans Positive implementation can lead to  strengthened
+investment environment for renewables and improve the country’ policy stability
+This section presents the main challenges to the deployment of renewable energy
+in El Salvador identified during the RRA process This included  review of the
+literature, insights from respondent interviews, outcomes from focus groups and
+multi- stakeholder roundtable discussions held during consultative workshops,
+along with subsequent exchanges with selected stakeholders Indeed,  long term
+national energy plan should take  holistic approach to cover the diverse aspects
+of the energy sector This approach should include: the use of clean technologies
+for the heating sector; expansion of the generation fleet and transmission
+infrastructure; and integration with the regional electricity market, which is
+very relevant for El Salvador, due to its regional interconnection via SIEPAC
+Each of these challenges is presented below, together with  set of corresponding
+short- to medium term recommendations aimed at addressing them, including, where
+relevant, actions being taken by the government Action : Establish  long-term
+plan for the energy sector Enhance long-term planning and policy for the
+renewable energy sector During the RRA process, stakeholder consultation
+revealed the need for  more comprehensive national energy plan This plan should
+encompass all energy technologies, suppliers and consumers through an integrated
+analysis of the current market conditions, and include an evaluation of energy
+demand, power and heat availability, grid expansion, off-grid strategies, and
+other subjects By undertaking this long-term plan,  more co-ordinated approach
+can be sought for the expansion of the generation and transmission system The
+National Energy Policy  provided the momentum needed to promote the development
+of renewables and diversify the country’ energy supply, after years of fossil
+fuel based generation and  slow- paced development of renewable energy In recent
+years, the introduction of competitive tendering processes and various fiscal
+incentives for renewable electricity has contributed to  positive business
+environment for renewables in El Salvador The CNE prepares the Indicative Plan
+for Generation Expansion, which analyses the expected evolution of electricity
+demand over  period of approximately 10 years and proposes different
+technologies for its supply This study assesses scenarios for the growth of
+energy demand in different sectors of the economy During the RRA consultation
+process, however, numerous stakeholders highlighted the negative impact on
+renewable energy development from  lack of institutional co-ordination on long-
+term energy plans Therefore, an inclusive approach between all parties is vital
+when developing renewable energy 50 (industrial, services, transport, etc),
+analysing the national capacity for supply Likewise, ETESAL is responsible for
+carrying out the long-term expansion plan of the national transmission network
+Both reports are an important input in the development of  national energy plan,
+but require better co- ordination between both institutions to achieve an
+efficient development of power sector infrastructure Additionally, it is
+recommendable to have  closer involvement of SIGET in the whole process, to
+ensure the appropriate approval of the plan an through extensive Currently,
+stakeholder consultative process, CNE is developing its long term National
+Energy Policy for the period 2020-This includes targets for the share of clean
+energy technologies in end-use sectors, such as industry and transport Moreover,
+the new National Energy Policy aims to promote the development of pilot projects
+in the direct use of renewable energy resources in the industrial and agri-food
+sectors Action : Align with the regional, ECLAC-SICA Energy Strategy 2030
+Furthermore, power system expansion plans need to address the issue of
+operational flexibility in the power system The deployment of VRE generation has
+to be accompanied by actions that give the system the operational flexibility it
+needs to cope with short term variability and to allow the system to operate
+reliably Planning efforts should explore all possible options, including
+investments in transmission and storage, as well as other base-load technologies
+such as geothermal and hydropower, which can enhance flexibility These efforts
+should also look at the specification of the technological mix of renewable
+generation capacity additions that results in the lowest overall costs for the
+system, together with additions without short term variability, such as
+geothermal or biomass Regional integration in Central America has played an
+important role in the Salvadorian power system SIEPAC acts as  backbone for the
+electricity network, with the country playing an active role in the MER as one
+of the largest importers of power El Salvador can continue benefiting from
+regional integration by aligning its efforts with regional strategies for
+electricity development SICA and ECLAC are currently developing the 2030 energy
+strategy for SICA countries, which provides  comprehensive approach regional
+energy development, and identifies priorities for countries in pursuit of
+sustainable energy development El Salvador should incorporate this strategy in
+its national long-term planning efforts, in order to maximise renewable energy
+resources from outside the country This strategy must also remain in line with
+the country’ overall development strategy, assuring the participation of both
+public and private sectors for Action : Promote renewables for end uses in
+buildings, heat and transport El Salvador has focused its efforts on renewable
+energy penetration of the power sector This has led to an increasing share of
+renewables in the electricity mix and  reduction in the sector’ reliance for
+fossil fuels When analysing the national energy mix, however, the consumption of
+electricity in end use sectors represents about 20%, with approximately 79% of
+final energy consumption supplied by fossil fuels Thus, the share taken by
+renewable energy remains low in these sectors Some progress has already been
+achieved in this, by including regional energy integration as one of the
+strategic components of the new, El Salvador National Energy Policy 2020-This
+should also be reflected as part of  more comprehensive national energy plan,
+however Action : Incorporate distributed power generation into comprehensive
+long-term electricity planning El Salvador does not currently have targets for
+renewables in end-use sectors, either Establishing targets for renewable energy
+in transport, heating and cooling, agriculture and industry could contribute to
+further scale-up of renewables in the country, and help achieve emissions
+reduction targets while creating new business opportunities Furthermore,
+renewable energy in end-use sectors can help facilitate the integration of
+ancillary services, such as storage applications As is the case in many
+countries, net-metering can be an effective instrument to spur the development
+of distributed renewable power generation Careful implementation is critical,
+however, to avoid risking efficient cost-recovery in the system and to prevent
+cross subsidisation between those customers who self consume and those who do
+not (IRENA, IEA, REN21, 2018) 51 SIGET regulation self-generation The offers an
+opportunity to exploit widely available and geographically scattered solar
+energy Given the importance of grid stability and the financial viability of the
+distribution companies,  comprehensive national distributed power generation
+strategy should be pursued purchase contracts Likewise, geothermal project
+developers struggle to access financing instruments at  local level This is
+because financing institutions do not have the capacity for geothermal project
+financing, or for overcoming high upfront investment costs to achieve bankable
+projects Most of the current existing financing mechanisms are provided by
+multilateral development banks and international organisations in Central
+America, such as the Geothermal Development Facility for Latin America (GDF)
+This strategy would need to be based on integration with El Salvador’ indicative
+generation plan It should also include  rigorous analysis of distributed power
+generation potential and its impact on the economics of the power market This is
+important to encourage self consumption, which can drive producers to more
+system friendly behaviour, while ensuring the fair distribution of anticipated
+dividends, so that net- metering may be seen as mutually beneficial to both
+buyer and seller In addition, the existing regulatory framework for geothermal
+energy in El Salvador focuses mainly on power generation and does not address
+direct use applications of the resource The absence of  regulatory framework for
+direct use applications for geothermal energy hampers the scaling-up of existing
+pilot projects and the provision of  proper investment environment for the
+attraction of private finance to the sector This strategy should also
+incorporate studies on current levels of distributed renewable energy generation
+and future maximum penetration levels Obtaining statistics would help provide
+distribution companies with the necessary analyses needed to accurately forecast
+demand, as well as indicate the growth potential of the distributed generation
+market to project development companies The strategy could also consider the
+implementation of new technologies as distributed storage, which could promote
+wider use of distributed renewables development, without the constraint of
+having maximum penetration levels Action : Improve geothermal energy policy and
+regulatory frameworks El Salvador only has  regulatory framework covering power
+applications This streamlined concession procedures for small-scale hydro and
+geothermal projects below  MW To improve this situation, it is recommended to
+establish  classification of the geothermal resources by temperature, including
+adequate procedures for the different potential uses of the geothermal resource
+includes Moreover, this strategy should be fully integrated with long term
+electricity planning efforts The evolution of distributed generation must be
+understood in the wider context of the evolution of the power system as  whole
+The strategy must also reflect the extent to which distributed generation offers
+meaningful alternative, from both the technical and the economic point of view,
+in meeting the country’ electricity needs The definition and classification of
+resources as low, medium and high temperature could enable the formulation and
+implementation of streamlined regulatory the direct use of geothermal heat,
+while also boosting opportunities for the exploitation of geothermal resources
+frameworks for Currently, the use of geothermal heat for other purposes, such as
+air conditioning, agriculture industry, tourism and medicine, only requires
+complying with environmental procedures and obtaining construction permits from
+the respective municipality  process therefore needs to be initiated to devise
+special regulatory framework for this type of application, providing an
+opportunity for scaling-up such projects to an industrial level  clear
+regulatory framework for direct use applications will serve to attract investors
+and leverage private finance for geothermal direct use projects Create enabling
+conditions for geothermal energy development Despite having  long tradition of
+geothermal energy use, mainly for power generation, El Salvador’ geothermal
+development has stagnated in recent years, with  limited number of new projects
+for geothermal power generation, or heating applications Geothermal power
+projects face challenges with the existing remuneration scheme, being sometimes
+at  disadvantage compared to other renewable energy sources – especially in
+accessing long-term energy An increased deployment of direct use applications
+would also bring  range of benefits to El Salvador 52 Such uses of geothermal
+heat can create  more sustainable energy future for the country, increase food
+security and decrease dependency on fossil fuels This diversification into
+direct use can also increase the benefits received by communities located close
+to geothermal resources Indeed, some direct use pilot projects already
+implemented in the country provide strong evidence of such benefits to the
+community for local financial institutions and project owners could contribute
+to an increased understanding of geothermal project financing and risks In
+addition, the capacity of project developers in project financing aspects, such
+as pricing mechanisms, inflation, and other key project parameters, needs to be
+strengthened in order to improve the preparatory stage of geothermal projects
+Likewise, the possibility could be considered of creating  governmental entity
+that provides technical and administrative support to investors and developers,
+both for the implementation of geothermal direct-use projects and for small-
+scale projects from any renewable resource While El Salvador has established
+tendering process for PPAs in renewable energy, this has only been granted to
+solar, wind, bioenergy and small-scale hydropower projects These long-term
+contracts provide  secure remuneration mechanism through  guaranteed, stable
+price, helping to attract investment in projects and allow investment recovery
+Utilising  similar contract structure tailored for geothermal projects could
+improve the investment environment by guaranteeing financial stability for those
+projects commissioned Furthermore, available risk mitigation instruments are
+specifically designed for electricity generation projects The need therefore
+remains to identify – or possibly create – similar financial instruments that
+support the development of geothermal direct use projects for applications
+beyond the power sector Some opportunities can be found within existing
+platforms, such as the GDF, or funds for industrial development El Salvador has
+also undertaken four rounds of renewable energy auctions for generation as part
+of the wholesale market and distributed generation, in which geothermal did not
+participate As the economics of geothermal projects generally require higher
+upfront investment for the initial development phase, compared to solar and wind
+projects, they can struggle to compete in renewable energy tenders based purely
+on  cost bid basis (US dollars per kWh) It is recommendable to initiate an
+assessment to determine the best mechanism to allow geothermal projects to
+compete equally with other renewable technologies in future tender processes
+This could be done by eventually adjusting the parameters of El Salvador’
+renewable energy auction scheme, while also accounting for advantages associated
+with dispatchable power generation, such as providing balancing support and
+enhancing system flexibility Furthermore, the adoption of the United Nations
+Framework Classification the standardised methodology estimates of geothermal
+potential could contribute to unlocking financing for geothermal projects This
+methodology provides transparency in assessing the favourability of the social
+and economic conditions in the country necessary to support the establishment of
+geothermal projects It also assesses the maturity of relevant project studies
+and commitments in the implementation of the project, as well as looking at the
+level of confidence in the potentially recoverable resource Therefore, through
+the application of this methodology, investors are able to compare different
+geothermal projects across different countries – and against other energy
+resources – before making investment decisions as (UNFC-2009) for reporting
+Additionally, the current regulation for the concession of geothermal and
+hydropower projects should be assessed to generate an environment of trust for
+project developers, attracting investments in the early stage of development of
+geothermal projects, including feasibility studies and environmental permits
+Action : Promote in geothermal technology through academic partnerships and
+international co-operation innovation The partnership between industry and
+academia has contributed to the promotion of research and development in El
+Salvador Students have prepared geothermal projects their graduation year,
+addressing current challenges for the industry Action : Build capacity in
+geothermal project development in There is limited capacity and awareness at the
+national level of geothermal project financing and how to overcome high upfront
+investment costs to achieve bankable projects As such,  geothermal project
+development capacity building programme Yet, while this co-operation has had
+good results in the past, it has not been established as  regular activity The
+research undertaken by universities has 53 Establish clear institutional
+frameworks and co-ordination important potential in developing local technology,
+especially in the area of geothermal direct use Chile and Mexico provide good
+examples from elsewhere in the region There, universities have an important part
+in innovation, developing new equipment for the geothermal industry that can
+also, potentially, be scaled up for use in meeting  wide variety of challenges
+Partnerships should be promoted between the geothermal industry and
+universities, guaranteeing  continuous collaboration between both actors
+Currently, responsibilities among institutions in the energy sector remain
+decentralised Although the planning and co-ordination roles were assigned to the
+CNE in 2009, the current performance of the energy sector suggests that the
+government may consider different options to improve co-ordination and
+distribution of responsibilities in the Salvadorian include energy sector Such
+considerations may the creation of an entity that centralises sector development
+and directives For that purpose,  review is needed of the legal and regulatory
+framework in response to the needs of the energy sector To promote the direct
+utilisation of geothermal resources, El Salvador could also learn from more
+experienced countries This co-operation can be financial or technical, or
+include technology transfer for many geothermal direct use applications Co-
+operation can take place using existing platforms, thanks to the presence in the
+region of multilateral organisations that promote exchanges between educational
+in geothermal energy research These include El Salvador’ Geothermal Centre of
+Excellence (see Box ), as well as co- operation projects created under South-
+South/ triangular co-operation modalities The strategic development of that
+sector is also hindered by the absence of longer term co-ordination of different
+participant’ action plans Improving these institutional frameworks is critical
+in creating  clear path towards  sustainable energy future, which goes beyond
+the power sector by including renewables in transport, heating, cooling and
+direct use institutions Action : Improve co-ordination of expansion planning for
+transmission and generation Action : Increase public awareness of geothermal
+energy potential the development of the national Currently, transmission system
+and of new generation facilities are tasks undertaken separately In addition,
+the transmission planning structure does not consider the short construction
+periods of VRE sources, such as solar PV, that often require only around two
+years to be commissioned As  result, generation and transmission planners in El
+Salvador must frequently revise and update plans, while new potential renewable
+generation is not included in transmission expansion plans The government of El
+Salvador, along with the geothermal industry, should guarantee the continuity of
+public awareness campaigns, in order to actively communicate the various socio-
+economic advantages of geothermal energy to the public, especially at the local
+level In doing so, the potential for scaling-up direct-uses of geothermal energy
+could be promoted, while the need to involve local communities in the
+development of these resources could be addressed –  particularly important
+factor when issuing or renewing licences for geothermal development ETESAL and
+CNE should therefore co-ordinate more closely on those expansion plans, to
+ensure that renewable energy projects are not forgone arbitrarily due to
+expansion timelines One such measure to overcome this challenge is to embark on
+the identification of renewable energy zones for the most suitable areas for
+project development These zones would then inform both transmission and
+generation planners, facilitating  co-ordinated planning effort Currently,
+campaigns are in place in El Salvador that aim to raise public awareness of
+geothermal energy’ potential These campaigns are important, not only in showing
+how geothermal energy can help address key macroeconomic challenges related to
+energy security and climate change, but also in offering local economic
+opportunities and benefits Furthermore, as  baseload generation resource,
+geothermal energy can contribute to the efficient integration of an increasing
+level of VRE in the power system, by acting as  balancing resource Inter-
+institutional co-ordination will be crucial in carrying out effective planning
+In addition, the involvement of SIGET throughout the planning process will
+accelerate the approval process and enhance the dissemination of the planning
+exercise 54 systems creates  problem of distortion in the global statistics on
+demand growth In turn, this can distort macroeconomic data, while also
+negatively impacting planned generation expansion and development programmes for
+the transmission and distribution networks The significance of this becomes
+apparent, too, when considering that self-generators receive credit in kWh which
+can then be used to reduce their cost electricity consumption during their
+particular billing period Action 10: Enhance power system flexibility Besides
+ensuring that planning efforts address the topic of flexibility, in order to
+accommodate increasing shares of VRE generation technologies, regulation and
+market design must be adjusted to unlock all possible sources of flexibility in
+the power system The country has created  strong policy and regulatory framework
+to promote renewable energy penetration in the power sector Nevertheless,
+additional measures can include: adapting dispatch and pricing procedures to
+ensure that controllable generators deliver all the operational flexibility they
+can; adjusting the grid code technical performance requirements of inverter-
+connected variable generators to ensure that they do not unnecessarily increase
+the systemic demand for flexibility; eliciting demand response; promoting
+market for auxiliary services (through systems that provide flexibility); and
+others The implementation of this net-metering scheme has seen mixed results
+While rooftop solar PV generation has increased since the introduction of the
+regulation, studies have yet to be undertaken to establish current levels of
+distributed generation in the grid, or the maximum penetration levels of VRE in
+the distribution grid As such, several distribution companies have expressed
+concerns about the impact of growing distributed generation on the reliability
+of the power system Moreover, although growing self-generation would increase
+overall renewable generation capacity in El Salvador, excessive distributed
+generation capacity installation is likely to alter the demand profile for
+distribution companies, as well as challenge their financial liquidity The pace
+at which such measures will be implemented depends on the rate of increase of
+the share of VRE generation in the system In this sense, the planning effort
+must serve to inform regulators and policy makers, allowing them to implement
+such measures in  timely fashion, adapting the regulatory framework to new
+requirements Considering the possibility of addressing flexibility needs via
+improvements to the regulation and market design can complement strategies based
+on new investments – and thus represent savings to electricity users
+Simultaneously, several project developers expressed concerns that an uneven
+playing field currently exists in developing distributed generation projects,
+given that subsidiaries of distribution companies also compete in the market
+These companies may already have  commercial relationship with the customers,
+and thus have access to customer information not available to other project
+developers Furthermore, project developers may face obstacles and delays in
+realising rooftop solar PV projects, as distribution companies do not want to
+lose electricity demand from  customer (and thus revenue) Some first steps have
+been taken within regulatory adjustments to encourage the penetration of VRE in
+the national electricity system These adjustments have included various
+amendments in the regulations for the operation of the transmission system and
+the wholesale market, based on production costs for dispatching They also
+include conducting studies of the spinning reserve with  view to the further
+integration of VRE Action 11: Assess the generation systems impact of
+distributed Assess the implementation of distributed power generation With the
+implementation of the Norm for End User Producers of Electrical Energy with
+Renewable Energy Sources, the use of solar rooftop systems has been growing in
+El Salvador, especially in the commercial sector Despite the effectiveness of
+the net metering scheme implemented in 2017, periodic reports are also needed on
+the energy generated by end-users, who are generally residential and commercial
+customers They can generate their own renewable electricity and feed the excess
+generation back into the grid lack of centralised measurement for these The
+Measuring the impact of this on the energy market accurately requires some
+important steps These include registering all the existing self-generation
+Agreement No 367--2017 Norm for End User Producers of Electrical Energy with
+Renewable Energy Sources 55 solar panels in use, with this registration
+including details of the potential amount of electricity they can inject into
+the grid and how much of the power generated is for self-use This first step can
+provide important information to assess the impact that the implementation of
+distributed generation can have on the different energy stakeholders, such as
+grid operators, distribution companies, final users, and others This first
+assessment of distributed generation should not just focus on rooftop solar
+technologies It should also include other power generation systems existing in
+the country, such as biogas and small hydro and tax incentive approvals are
+under the remit of municipal offices, VMVDU, MINSAL, MICULTURA, ANDA, MARN, and
+the MH While these procedures and permits are carried out in  sequential order,
+there is often repetition among permitting offices,  limited technical capacity
+in issuing agencies, and  lack of legal clarity concerning feedback issued to
+project developers At the same time, municipal tax structures for projects are
+unstable and often subject to change at the request of  mayor’ office, once
+approved by the Legislative Assembly Furthermore, according to the private
+sector, compliance with the Law of Legal Stability and the Money Laundering Law
+has led to instances of excessive document requests and irrelevant project
+information being required the the Better understanding of impact of
+implementation of distributed generation in El Salvador among the different, key
+energy sector actors can contribute to the assessment of the existing regulatory
+framework for the use of self-generation Indeed, private sector representatives
+have indicated that this lack of co-ordination in the current process of
+obtaining permits and permissions has negative cost implications, creating delay
+and uncertainty surrounding renewable energy project development The regulatory
+aspects for distributed generation must consider the stability of the grid and
+the existing distribution market They must also empower the end user with the
+flexibility of energy management This can be reflected in the commercialisation
+of the distributed generation market, the conditions given by long term
+contracts and the application of innovative technologies, such as digitalisation
+and blockchain, that facilitate transactions among the distribution actors El
+Salvador could use the experience of other countries in the application of such
+technologies, and evaluate  more adequate strategy for implementation, based on
+market growth When it comes to financing such projects, it is public financial
+institutions, including national and international development organisations,
+that are the main players in the renewable energy debt market On the other hand,
+via the implementation of guarantees and other risk mitigation tools, private
+financial institutions play  key role in renewable energy project finance Yet,
+the availability of such private financing is still limited  full assessment of
+the sufficiency of the current sources of public and private instruments in
+financing the transition towards  sustainable energy future needs to be carried
+out in the country, with alternatives that would expand the participation of
+private financing identified and deployed Foster project development and
+financing for renewables There have been significant achievements and progress
+in the adjustment of the regulation for the development of renewable energy in
+El Salvador Reforms of the General Electricity Law must be deepened, however, to
+guarantee that the benefits of introducing renewable energy reach all final
+consumers Action 12: Streamline administrative procedures and facilitate their
+enforcement Streamlining these administrative procedures is an important step in
+removing  key barrier to renewable energy project development in El Salvador
+Regulation in this area should ensure procedures are transparent and timetables
+for various permitting processes have been defined clearly Moreover, co-
+ordination should be enhanced among the various government offices involved in
+issuing permits, in order to reduce project delays and reduce development costs
+Additionally, in El Salvador, administrative procedures and permits for the
+development of renewable energy projects are still an important barrier These
+are not centralised, with registration applications, feasibility and
+interconnection studies and agreements, as well as concession requests all
+carried out by different power sector agencies These include distribution
+companies, ETESAL, the UT, and the regulator Moreover, building permits,
+construction feasibility studies, technical inspections, environmental permits
+One such mechanism used in many countries to consolidate the responsibilities of
+administrative procedures and project permitting is to develop  56 single office
+( “single-window agency”) to handle and resolve most of the applicable licenses
+and permits for renewable energy projects This entity can be created as an
+independent legal body, or under an existing government office, and can be an
+important mechanism renewable energy investments and expediting project
+development timelines in partially re-directing public financing to de-risking
+instruments that enable the participation of private lenders An assessment of
+other types of financial instrument that might be used to finance renewable
+energy projects in the country – such as Green Bonds – should also be undertaken
+in encouraging In addition, several project developers expressed the need to
+develop  single compliance certificate for the Money Laundering Law, valid for
+all institutions Utilising this certification approach could help cut down
+project delays and provide clarity for project owners At present, national or
+international development agencies, such as the World Bank, IDB, KfW, CABEI and
+BANDESAL, account for the bulk of the financial instruments deployed the capital
+structures of El Salvador’ renewable energy projects Financial instruments
+provided by private institutions have, however, also been important in providing
+funding for the energy transition in the country, especially instruments related
+to loans and risk mitigation mechanisms provided by guarantees in financing
+Action 13: Assess sufficiency of prevalent financial instruments The sufficiency
+of the prevailing alternatives for financing renewable energy in El Salvador
+must be assessed in light of the plans to deploy renewable energy in the country
+While the low costs of finance from public institutions can certainly have
+positive impact on the capital mix of renewable projects, limitations on the
+availability of such instruments must also take account of the volumes needed to
+realise El Salvador’ long-term deployment ambitions for renewables  realistic
+assessment for the long term is necessary, due to the time usually needed for
+those measures that are eventually implemented to expand the range of financial
+sources Action 14: Create capacity for financing of renewable energy projects
+local private An additional uncertainty for financial agencies when it comes to
+renewable energy projects in El Salvador is the relative lack of experience such
+agencies have in financing projects of this type This limits the involvement of
+even those private financial institutions that do undertake risk mitigation in
+the renewable energy arena The capacities of local private financiers must
+therefore also be built up, in order to remove the knowledge barrier to
+renewable energy market entry On the other hand, existing mechanisms and
+conditions for finance and risk mitigation provided by private institutions must
+also be clear, to ensure that project developers can make use of these
+instruments for renewable energy projects Existing financial instruments in El
+Salvador must be evaluated in order to improve and maximise them This would
+include an evaluation of improvements that could be made in the regulatory and
+contractual conditions that impact the remuneration of renewable energy
+projects, as well as Making local private institutions more familiar with this
+market can generate more interest from them in financing sector projects At the
+same time, familiarity can improve the capability of existing mechanisms in
+facilitating access to project developers Additionally, the enhancement of local
+finance capacity can also promote the creation of new and potentially innovative
+mechanisms, making El Salvador’ renewable energy market more attractive to
+investors 15 de Septiembre hydropower plant in San Vicente, El Salvador Image
+credit: CEL 57 References BANDESAL (El Salvador’ Development Bank) (2019),
+Programa renovable (Renewable programme),  (accessed March 2020) BNEF (Bloomberg
+New Energy Finance) and MIF (Multilateral Investment Fund) (2012), Climatescope
+2012: Assessing the climate for climate investing in Latin America and the
+Caribbean CABEI (Central American Bank for Economic Integration) (2020), Green
+SMEs initiative,  iniciativa-mipymes-verdes (accessed August 2020) CABEI (2018),
+Memoria Anual de Labores 2017 (Annual report 2017),  (accessed June 2020) CNE
+(National Energy Council) (2020), Balances energéticos (Energy Balances),
+(accessed September 2020) CNE (2019), Plan Indicativo de la Expansión de la
+Generación Eléctrica de El Salvador  (Indicative plan of the electric generation
+expansion of El Salvador ),  expansi%C3%B3n-2019-pdf (accessed February 2020)
+CNE (2013), Portal para proyectos con Energías Renovables: Proyecto Fotovoltaico
+(Portal for Renewable Energy Projects: Solar PV Project),  (accessed July 2020)
+CNE (2012), Training and Dialogue Program Energy Policy – Country Report of El
+Salvador,  (accessed July 2020) CNE (2010), Política Energética Nacional
+(National Energy Policy),  (accessed February 2020) CNE (), Autoridades de El
+Salvador  Distribuidoras de Energía eléctrica dan  conocer (Authorities in El
+Salvador and electricity distributors disclosed),  -distribuidoras-de-energia-
+electrica-dan--conocer-proceso-de-licitacion-para-28-mw-de-energia-renovable
+(accessed March 2020) CNE/JICA (Japan International Cooperation Agency) (2012),
+Proyecto del Plan Maestro para el Desarrollo de Energías Renovables – Informe
+final (The project for master plan for the development of renewable energy in
+the Republic of El Salvador final report),  (accessed February 2020) CNE-PROESA
+(Export and Investment Promotion Agency of El Salvador) (2016), Sector Eléctrico
+de El Salvador (Electricity sector of El Salvador),  (accessed December 2019)
+CRIE (Electrical-Interconnection Regional Commission) (2019), Supervisión
+Análisis del Mercado Eléctrico Regional Año 2018 (Supervision and analysis of
+the regional electricity market, 2018),  (accessed June 2020) CRIE (2018),
+Resolucion-CRIE- - Modificación al RMER del Procedimiento para el Trámite de
+Solicitudes de Conexión  la Red de Transmisión Regional (RTR)  del SIEPAC
+(Resolution-CRIE- - Modification to the RMER of the procedure for the processing
+of applications for connection to the Regional Transmission Network (RTR) and
+SIEPAC),  (accessed February 2020) 58 DIGESTYC (Department of Statistics and
+Censuses) (2018),  noticias-dia-internacional-de-erradicacion-de-la-pobrezahtml
+(accessed February 2019) EOR (Regional Operating Entity) (2017), Operational
+Link Nodes,  (accessed July 2020) GGA (Global Geothermal Alliance) (), Regional
+and International Training Centres,  (accessed June 2020) IDB (Inter-American
+Development Bank) (2018a), Energy Sector Framework Document - Energy Division,
+(accessed June 2020) IDB (2018b), El Salvador to offer greater investment in
+energy efficiency with IDB support,  (accessed August 2020) IDB (2013), Dossier
+Energético – 04 (Energy dossier 04) El Salvador,  (accessed May 2020) IDB Invest
+(2018), IDB Invest finances 140MW Capella solar project in El Salvador,
+(accessed March 2020) IRENA (International Renewable Energy Agency) (2020a),
+Data & Statistics,  (accessed December 2019) IRENA (2020b), Global renewables
+outlook: Energy transformation 2050, IRENA, Abu Dhabi,  (accessed May 2020)
+IRENA (2019), Statistics Country Profile: El Salvador,  Central%20America%20and%
+20the%20Caribbean/El%20Salvador_Central%20America%20and%20the%20
+Caribbean_RE_SPpdf (accessed July 2020) IRENA (2016), Renewable energy market
+analysis: Latin America, IRENA, Abu Dhabi,
+Files/IRENA/Agency/Publication/IRENA_Market_Analysis_Latin_America_2016pdf
+(accessed February 2020) IRENA (2015), Renewable energy in Latin America 2015:
+An overview of policies, IRENA, Abu Dhabi,  Latin_America_Policies_2015pdf
+(accessed February 2020) IRENA ( ), IRENA for CIP,  (accessed May 2020) IRENA (
+), Investment forums in Central America,  (accessed May 2020) IRENA, IEA and
+REN21 (2018), Renewable energy policies in  time of transition, IRENA, OECD/ IEA
+and REN21,  (accessed March 2020) LaGeo (Geotérmica Salvadoreña,  de ) (),
+Investigación  Desarrollo (Investigation and development),  (accessed April
+2020) Lund,  and Boyd,  (2015), “Direct utilization of geothermal energy 2015
+worldwide review”, Proceedings World Geothermal Congress 2015, Melbourne,
+Australia,  April 59 MARN (Ministry of Environment and Natural Resources –
+Ministerio de Medio Ambiente  Recursos Naturales) and UCA (Jose Simeon Canas
+Central American University – Universidad Centroamericana “José Simeón Cañas”)
+(2005), Determinación del Potencial Solar  Eólico en El Salvador (Solar and Wind
+Energy Resource Assessment of El Salvador),  Salvador (accessed February 2020)
+MINEC (Ministry of Economy – Ministerio de Economía) (), Ministry website,
+(accessed May 2020) Reinstein,  et al (2011), Regional power integration –
+Structural and regulatory challenges, Central America regional programmatic
+study for the energy sector, Energy Sector Management Assistance Program
+(ESMAP), World Bank Group, Washington, DC,
+pdf/589340ESW0P1100toryModule00English0pdf (accessed March 2020) REN21 (2017),
+Renewable Energy Tenders and Community [Em]power[ment]: Latin America and the
+Caribbean (Paris: REN21 Secretariat),  (accessed July 2020) Sanyal,  et al
+(2016), Comparative analysis of approaches to geothermal resource risk
+mitigation:  global survey, ESMAP knowledge series 024, World Bank Group,
+Washington, DC,  curated/en/Comparative-analysis-of-approaches-to-geothermal-
+resource-risk-mitigation-- global-surve (accessed February 2020) SDGs Knowledge
+Platform - UN (), El Salvador Voluntary National Review 2017  (accessed March
+2020) SIGET (General Electricity and Telecommunications Superintendence) (2019),
+Boletín Estadístico de Electricidad No 20 – año 2018 (Statistical Newsletter of
+Electricity No 20 – 2018),  (accessed February 2020) SIGET (2017a), Boletín
+Estadístico de Electricidad No 19 - año 2017 (Statistical Newsletter of
+Electricity No 19 – 2017),  (accessed February 2020) SIGET (2017b), Anexo  del
+Acuerdo No 367--2017 – Norma para usuarios finales productores de energía
+eléctrica con recursos renovables (Annex , Agreement No 367--2017 – Policy for
+end users that produce electrical energy from renewable sources),  (accessed
+February 2020) SIGET (2012), Licitación pública internacional No DELSUR-CLP-, 12
+diciembre (International public tender No DELSUR-CLP-, 12 December),  pblica-
+internacional-delsur-clp-001-pdf (accessed March 2020) SIGET (2006), Acuerdo No
+257--2006, “Normas aplicables al procedimiento de licitacion para el
+otorgamiento de concesiones de recursos geotermicos  hidraulicos con fines de
+generacion electrica”, Diario Oficial de La República de El Salvador No 200, 26
+de octubre (Agreement No 257--2006, “Rules applicable to the tender procedure
+for the granting of geothermal and hydraulic resource concessions for
+electricity generation purposes”, Official Gazette of the Republic of El
+Salvador No 200, 26 October),  (accessed February 2020) sieLAC - OLADE
+(Latinoamerican Energy Organisation) (2019) Sistema de Información Energética de
+Latinoamérica  el Caribe (Latin American and Caribbean Energy Information
+System),  (accessed December 2019) 60 Superintendence of Competition of El
+Salvador (2017), Evolución del precio del servicio de energí  eléctrica en El
+Salvador 1998 2015 (Evolution of the electricity Price in El Salvador 1998
+2015),  uploads/Monitoreos_IE/Monitoreo - Evolución de precios energía eléctrica
+en El Salvadorpdf (accessed June 2020) UN ECLAC (Economic Commission for Latin
+America and the Caribbean) (2020), Statistics of the electrical subsector of the
+countries of the Central American Integration System (SICA), 2018, LC / MEX /
+TS2020 / , Mexico City, UN ECLAC (2019), Estadísticas de producción de
+electricidad de los países del Sistema de la Integración Centroamericana (SICA)
+Datos preliminares  2018 (Statistics of electricity production of the countries
+of the Central American Integration System (SICA) Preliminary data to 2018)
+(LC/MEX/TS2019/), Ciudad de México, UN ECLAC (2017), Estudio Económico de
+América Latina  el Caribe 2017: El Salvador; Santiago, Chile (Economic Study of
+Latin America and the Caribbean 2017: El Salvador; Santiago, Chile),
+cepalorg/bitstream/handle/S1700700_espdf (accessed February 2020) UNStats (),
+SDG Country Profile: El Salvador,  (accessed March 2020) USAID (United States
+Agency for International Development) (2018), Analysis of renewable energy
+auctions in El Salvador, Mexico, and Peru,  Mikell-%E2%80%99Mealy-Analysis-of-
+Renewable-Energy-Auctions-in-El-Salvador-Mexico-and-Perupdf (accessed March
+2020) USAID (2017), Climate change risk profile – El Salvador,
+document/2017_USAID%20ATLAS_Climate%20Change%20Risk%20Profile_El%20Salvadorpdf
+(accessed May 2020) UT (Unidad de Transacciones – Transactions Unit ) (2019),
+Statistical information – Reports,  utcomsv/reportes?p_auth=3oYU8gON&p_p_id=Menu
+ReportesEstadisticos_WAR_CompletePublicReports&p_p_
+lifecycle=&p_p_state=normal&p_p_mode=view&p_p_col_id=column-&p_p_col_count=& Men
+uReportesEstadisticos_WAR_CompletePublicReports_reportName=11utinyeccionesporrec
+urso (accessed July 2020) World Bank (2020a), World Development Indicators:
+Population growth (annual $) – El Salvador and Latin America and the Caribbean,
+GROW?end=2018&locations=ZJ&start=2000 (accessed July 2020) World Bank (2020b),
+The World Bank in El Salvador,  (accessed July 2020) World Bank (2020c), World
+Development Indicators: GDP per capita, PPP (current international $) – El
+Salvador,  (accessed June 2020) World Bank (2020d), World Development Indicators
+– El Salvador,  development-indicators# (accessed April 2020) World Bank
+(2020e), World Development Indicators: Electric power consumption (kWh per
+capita) - El Salvador,  (accessed June 2020) 61 Appendices Appendix  Overview of
+entities in the energy sector National institutions The governing authority for
+the sector, the CNE has responsibility for policy and national energy strategy
+development, with the goal of fuel and electricity sector expansion National
+Energy Council (CNE – Consejo Nacional de Energía) Before CNE was created, MINEC
+was in charge of the management and co- ordination of the energy sector through
+its two directorates, the directorate for electricity and the regulatory
+directorate for hydrocarbons and mines; this last one still exists as part of
+MINEC Ministry of Economy (MINEC – Ministerio de Economía) Ministry of the
+Environment and Natural Resources (MARN – Ministerio de Medio Ambiente  Recursos
+Naturales) The governmental institution charged with the oversight of all
+environment and natural resource issues in El Salvador The MARN also sends
+representative to the board of CNE As the regulator for the electricity and
+telecommunications sector, SIGET has responsibility for application and
+enforcement of the legal frameworks in these areas Also within its portfolio is
+the task of establishing  legal framework to encourage investment in these
+sectors, along with the establishment of competition Other duties include
+regulating final consumer tariffs and guaranteeing user and operator rights
+General Electricity and Telecommunications Superintendence (SIGET –
+Superintendencia General de Electricidad  Telecomunicaciones) The
+Superintendence of Competition (SC – Superintendencia de Competencia) The SC is
+in charge of monitoring the markets to promote and protect competition, and
+increase economic efficiency and consumer welfare FINET is part of the Social
+Investment Fund for Local Development (FISDL – Fondo de Inversión Social para el
+Desarrollo Local), and is in charge of managing and allocating subsidies to low-
+income users, as well as the expansion of rural electrification National
+Investment Fund for Electricity and Telephony (FINET – Fondo de Inversión en
+Electricidad  Telefonía) DRHM is the institution in charge of regulating the
+hydrocarbons sector It oversees imports, transport, distribution and marketing,
+inspection, and control, while also supervising compliance with the current
+legislation for hydrocarbon trading This entity also establishes the weekly
+reference price for gasoline and diesel, as well as the parity price of imported
+LPG for domestic consumption Regulatory Directorate of Hydrocarbons and Mines
+(DRHM – Dirección Reguladora de Hidrocarburos  Minas) Executive Hydroelectric
+Commission of the Lempa River (CEL – Comisión Ejecutiva Hidroeléctrica del Río
+Lempa) CEL is an independent, public electric utility in charge of developing,
+conserving, managing, and using the energy resources of El Salvador Clean energy
+is generated in four hydropower plants located at different points in the Lempa
+River basin 62 ETESAL is El Salvador’ transmission system owner The institution
+was created to ensure the safe, non stop supply of electricity It makes possible
+transactions between market participants within the country, as well as with
+other regional countries through the Electrical Interconnection System for
+Central America Transmission Company of El Salvador (ETESAL – Empresa
+Transmisora de El Salvador) LaGeo,  CEL subsidiary, is  company dedicated to the
+production of electricity using geothermal resources in  rational and
+sustainable way The institution currently has  total installed capacity of MW
+and  net production equivalent to % of the electrical energy produced in El
+Salvador Salvadorean Geothermal (LaGeo –Geotérmica Salvadoreña) Cucumacayán
+Electricity Company (CECSA – Compañía Eléctrica Cucumacayán) CECSA,  CEL
+subsidiary, is  company dedicated to the generation of electrical energy through
+small hydropower plants INE,  CEL subsidiary, is  company in charge of
+commercialising the energy generated by the El Talnique thermal power plant It
+was the first thermal generation project developed by the government after
+electric sector reforms Energy Investments (INE – Inversiones Energéticas) UT is
+private institution in charge of El Salvador’ wholesale electricity market
+operations Its functions are operating the electricity transmission system and
+ensuring the safety and quality of this service Transactions Unit (UT – Unidad
+de Transacciones) Regional institutions CRIE started operations in 2000 as the
+regulatory authority of the regional market with its legitimacy recognised by
+all parties to the Marco Treaty of the Electricity Market of Central America,
+signed in It has an Executive Secretary and  Board of Commissioners, consisting
+of one representative from each country, who is often  member of the national
+regulatory board Regional Commission for Electrical Interconnection (CRIE –
+Comisión Regional de Interconexión Eléctrica) EOR is the regional system
+operator and market administrator This entity was also created as part of the
+Marco Treaty of the Electricity Market of Central America, signed in Regional
+Operating Entity (EOR – Ente Operador Regional) EPR is the entity that owns the
+SIEPAC line The regional transmission line (RTL) of SIEPAC has  transfer
+capacity at all borders in the region of 300 MW in one circuit This regional
+entity was also created as part of the Marco Treaty of the Electricity Market of
+Central America, signed in Enterprise owner of the Regional Electric Grid (EPR –
+Empresa Propietaria de la Red) Council of the Regional Electricity Market (CDMER
+– Consejo Director del MER) CDMER is the body in charge of revising regional
+integration policies in Central America 63 Appendix  Installed and available
+capacity of power plants, 2018 Installed capacity Available capacity No Name
+Type Unit number (MW) (%) (MW) (%) 30% 74 32% Hydro Guajoyo Hydro (1x19) % %
+Cerrón Grande Hydro (2x86) % 10%  (3x20)+(1x18)+(1x2140)+ (2x4007) (1x055)  de
+Noviembre Hydro 09 10% %  15 de Septiembre Hydro (2x90) 180 10% 180 11%  11% 175
+10% Geothermal Ahuachapán Geothermal (2x3000)+(1x3500) 95 % %  Berlín Geothermal
+(2x 10)+(1x44)+(1x9) % %  175 11% 10% Fossil Orazul Acajutla - - 17% 18%
+Acajutla ) Vapor (1x30)+(1x33) 63 % %   Acajutla ) Gas (1x82) 64 % %   Acajutla
+) Motors (6x16)+(3x17) 150 % %   Acajutla ) FIAT - (1x27) 27 27 % %   Orazul Soy
+ap ango Motors (3x5) % %  Nejapa Power Motors (27x5) % %  Holcim Motors
+(3x640)+(1x670) % % 10 Inversiones Energéticas Motors (3x16) + (6x845) % % 11
+Textufil / Motors (2x3)+(2x6)+(1x7)+(2x7) % % 12 GECSA Motors (3x38704) % % 13
+Energía Borealis Motors (8x1) % % 14 HILCASA Energy Motors (4x1)   % % 15 Termop
+uerto Limitada Motors (1x1)+(1x2)+(1x7)+(1x10) % % 16 16% 11% Biomass CASSA - -
+% 61 % 17 Central Izalco Turbogenerators (1x25)+(1x20) 45 % 26 % Ingenio
+Chaparrastique Turbogenerators (1x1)+(1x2)+(1x2)+(1x10)+(1X62) % 35 % Ingenio El
+Angel / Turbogenerators (1x10)+(1x12)+(1x25)+(1x3) % % 18 Ingenio La Cabaña /
+Turbogenerators (1x1)+(1x2)+(1x10)+(1x20) % 30 30 % 19 Ingenio Jiboa
+Turbogenerators (1x1)+(1x2)+(1x7)+(1x10) % % 20 % 60 60 % Photovoltaic % 60 60 %
+Providencia Solar Solar PV 239,358 Paneles FV 21 TOTAL 81 100% 100% - Source:
+SIGET (2019) 64 Appendix  Location of on-grid power generators, 2018 HOLCIM MW
+Nejapa MW  Guajoyo MW   de Noviembre MW Ahuachapan 95 MW  Hilcasa  MW BOREALIS
+MW   Cerron Grande MW Izalco MW   15 de Septiembre MW   Jiboa  MW
+Chaparrastique 4MW GECSA MW     Acajutla MW Termopuerto MW Berlin MW  El Angel
+MW Soyapango MW La Cabaña MW Talnique MW Textuﬁl MW  ANTARES 60 MW Installed
+capacity Share  = Hydro MW 59%  = Fossil fuel MW 54%  = Geothermal MW 94% -
+Bioenergy MW 72% MW 21% -Solar TOTAL ,81 MW 00% Source: SIGET (2019) 65 Appendix
+Certified electricity generation projects using renewable resources, 2017 SIGET
+Agree- ment No Capacity (MW) Project developer Project name Resource
+Photovoltaic Solar Installation on Roof up to  MWp INDUFOAM  INDUFOAM ENERGY
+SUPPLY,  DE  604 PV 79--2017 Biomass – Sugar cane bagasse Sugar Cane Processing
+Plant Cogeneration Phase IV INGENIO EL ÁNGEL,  de  80 84--2017 POTENZA,  de
+Plant Photovoltaic La Independencia 00 PV 124--2017 Biomass – Sugar cane bagasse
+Generation Plant Sugar Cane Processing Plant Jiboa  INJIBOA,  DE  90 221--2017
+VASES INGENIEROS,  de  Photovoltaic Generating Plant Tangolona 475 PV 244--2017
+ACAJUTLA ENERGÍA SOLAR , LTDA de  Solar plant Los Remedios 00 PV 260--2017 PFV
+PASAQUINA 00 PV 384--2017 BOSFORO, LTDA DE  PFV EL CARMEN 00 PV 421--2017 PFV
+CONCHAGUA 00 PV 422--2017 Source: SIGET (2017a) Appendix  Small projects that
+obtained  concession to generate hydroelectricity, 2017 Agreement No Project
+name Capacity (kW) Legislative decree PCH San Simón  230 kW 125--2017 693 PCH
+San Simón II 400 kW 126--2017 694 PCH Velesa Energy 120 kW 127--2017 695 Source:
+SIGET (2017a) 66

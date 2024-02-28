@@ -1,0 +1,1318 @@
+URBAN ENERGY TRANSITION FOR SECTOR COUPLING THE GREATER METROPOLITAN AREA OF IN
+FACILITATING INTEGRATION THE CENTRAL VALLEY OF COSTA RICA OF VARIABLE RENEWABLE
+ENERGY IN CITIES Supported by © IRENA 2022 Unless otherwise stated, material in
+this publication may be freely used, shared, copied, reproduced, printed and/or
+stored, provided that appropriate acknowledgement is given of IRENA as the
+source and copyright holder Material in this publication that is attributed to
+third parties may be subject to separate terms of use and restrictions, and
+appropriate permissions from these third parties may need to be secured before
+any use of such material ISBN: -- IRENA (2022), Urban energy transition for the
+Greater Metropolitan Area of the Central Valley of Costa Rica, International
+Renewable Energy Agency, Abu Dhabi About IRENA The International Renewable
+Energy Agency (IRENA) serves as the principal platform for international co-
+operation,  centre of excellence,  repository of policy, technology, resource
+and financial knowledge, and  driver of action on the ground to advance the
+transformation of the global energy system An intergovernmental organisation
+established in 2011, IRENA promotes the widespread adoption and sustainable use
+of all forms of renewable energy, including bioenergy, geothermal, hydropower,
+ocean, solar and wind energy, in the pursuit of sustainable development, energy
+access, energy security and low-carbon economic growth and prosperity
+Acknowledgements IRENA would like to express sincere appreciation to the experts
+who reviewed the report and provided invaluable inputs, insightful comments and
+constructive suggestions Special thanks to Silvia Valentinuzzi Nuñez (Ministry
+of Housing and Human Settlements of Costa Rica – MIVAH), Guido Godínez Zamora
+(Compañía Nacional de Fuerza  Luz – CNFL), Victor Bazan and Laura Lizano
+(Secretariat of Planning of the Energy Subsector – SEPSE), Direccion Cambio
+Climatico (Ministry of Environment and Energy – MINAE), Jairo Quirós Tortós
+(University of Costa Rica – UCR) and Mónica Rodríguez (Central Bank of Costa
+Rica – BCCR) Thanks also to IRENA colleagues Elizabeth Press, Fabian Barrera,
+Sebastian Hendrik Sterl, Rodrigo Leme and Maria Vicente Garcia for their
+contributions, advice and feedback through reviewing and discussions Special
+thanks go to Paul Komor who provided helpful feedback and suggestions IRENA is
+grateful for the support of Germany’ IKI project in producing this publication
+IKI support This report forms part of the Energy Solutions for Cities of the
+Future project, which is supported by the International Climate Initiative (IKI)
+The German Federal Ministry for the Environment, Nature Conservation and Nuclear
+Safety (BMU) supports this initiative on the basis of  decision adopted by the
+German Bundestag Contributing authors This report was prepared, under the
+guidance of Dolf Gielen, by the sustainable urban energy team at IRENA’
+Innovation and Technology Centre (IITC) It was co-authored by Julien Marquant
+(former IRENA colleague), Jessica Roccard, and Fabia Miorelli (former IRENA
+colleague), with additional support from Yong Chen (IRENA), and Juan Ignacio
+Alfaro Corrales Disclaimer This publication and the material herein are provided
+“as is” All reasonable precautions have been taken by IRENA to verify the
+reliability of the material in this publication However, neither IRENA nor any
+of its officials, agents, data or other third-party content providers provides
+warranty of any kind, either expressed or implied, and they accept no
+responsibility or liability for any consequence of use of the publication or
+material herein The information contained herein does not necessarily represent
+the views of all Members of IRENA The mention of specific companies or certain
+projects or products does not imply that they are endorsed or recommended by
+IRENA in preference to others of  similar nature that are not mentioned The
+designations employed, and the presentation of material herein, do not imply the
+expression of any opinion on the part of IRENA concerning the legal status of
+any region, country, territory, city or area or of its authorities, or
+concerning the delimitation of frontiers or boundaries  TABLE OF CONTENTS
+ABBREVIATIONS EXECUTIVE SUMMARY    INTRODUCTION  National context    National
+Decarbonisation Plan and the role of cities 12  Methodology and approach 13  THE
+URBAN ENERGY CONTEXT AND REPRESENTATIVE DISTRICTS OF THE GREATER METROPOLITAN
+AREA  Characterisation of districts in the Greater Metropolitan Area 16 17
+Local renewable energy options 18  Energy demand 21  Estimation of roof areas in
+buildings 23  Creation of representative districts 23  DECARBONISING THE ENERGY
+SECTORS AT THE MUNICIPAL LEVEL 26 27  Medium- and long-term perspectives
+Evaluation of municipal-level roadmaps 31  Alternative scenarios 38
+Implications for the national grid infrastructure 40  Extrapolation to the CNFL
+area 41  Key challenges and proposed actions 44  CONCLUSIONS 46 REFERENCES 48
+Figures FIGURE : Map of Costa Rica by province, municipality and district FIGURE
+: Costa Rica’ GDP by sector, 2012 to 2021 FIGURE :  10 () Electricity generation
+by source (2019), () Energy consumption by source (2018), () Oil consumption by
+sector (2018) 10 FIGURE : Number of vehicles and fossil fuel consumption by
+transport mode, 2007 to 2016 FIGURE : Structure of the power sector in Costa
+Rica in 2019 FIGURE : Lines of action in Costa Rica’ National Decarbonisation
+Plan, with implications for cities FIGURE : Overview of the methodology
+developed for the assessment of urban renewable energy 11 11 12 integration 14
+FIGURE : FIGURE : Map of CNFL coverage (in light blue) showing districts of
+Costa Rica (left) and IRENA Planning Platform for Urban Renewable Energy
+features at  glance 15 the zoomed-in coverage area provided by MIVAH for the
+study (right) 17 FIGURE 10: Average monthly renewable energy potential per
+square metre by district in 2018 for () solar energy and () wind energy at 10
+metres above surface level 18 FIGURE 11: Technologies included in the scope of
+this study FIGURE 12: Methodology to produce time-series load profiles of
+buildings FIGURE 13: Electricity consumption by end-use sector and electricity
+demand for each representative 19 21 district in 2018 23 FIGURE 14: Energy mix
+for transport sector over  at the national scale FIGURE 15: Energy mix for
+industry sector over  at the national scale FIGURE 16: Share of renewable energy
+in total final energy consumption, by district, for the BAU 29 30 scenario and
+the low-carbon NDP and NZC scenarios 32 FIGURE 17: Comparison of the BAU
+scenario (left) and the low-carbon NDP and NZC scenarios (right), showing
+optimisation results for the medium term (2035), with the trade-off between
+CO2-equivalent emissions and costs 33 FIGURE 18: Cost breakdown in 2035 for the
+two extreme districts FIGURE 19: NDP scenario showing the capacity needed in
+2035 for () heating systems in buildings and 34 () electricity generation in
+buildings, for the two extreme districts 35 FIGURE 20: NDP scenario showing the
+capacity needed in 2035 for () cooling systems in buildings and () energy
+storage systems, for the two extreme districts 35 FIGURE 21: CO2-equivalent
+emissions and costs in 2050 for the five districts under the () BAU scenario and
+() low-carbon NDC and NZC scenarios 36 FIGURE 22: NDP scenario showing the
+capacity needed in 2050 for () heating systems in buildings and () electricity
+generation in buildings, for the two extreme districts 37 FIGURE 23: NDP
+scenario showing the capacity needed in 2050 for () cooling systems in buildings
+and () energy storage systems, for the two extreme districts 37 FIGURE 24:
+Comparison of urban energy planning strategies for the district of Desamparados
+in 2035 and 2050 38 FIGURE 25: Alternative scenarios considering vehicle-to-grid
+and hydrogen optimal strategies FIGURE 26: Grid electricity consumption in 2035
+and 2050 FIGURE 27: Carbon emissions by sector, , for the CNFL concession area
+39 40 43 Tables TABLE : Overview of key technologies facilitating the
+integration of renewable energy included in the scenarios 20 TABLE : Details on
+the amounts of available monitored profiles TABLE : Defined customer categories
+by monthly average electricity consumption TABLE : Customer information and
+electricity consumption of the five representative districts in 2018 TABLE :
+TABLE : 21 22 22 Selected socio-economic and energy-related variables considered
+for the analysis Total per capita CO2 emissions of the energy systems in the
+five district clusters for 2035 and 2050 25 42 TABLE : TABLE : Total costs of
+the energy system in the five district clusters for 2035 and 2050 42 Total CO2
+emissions of the energy system (MtCO2e) in the five district clusters for 2035
+and 2050 42  ABBREVIATIONS ARESEP Public Services Regulatory Authority BAU
+Business-as-usual BCCR Central Bank of Costa Rica CHP Combined heat and power
+CNFL National Company of Light and Power Carbon dioxide CO2 CO2e Carbon dioxide
+equivalent GDP Gross domestic product GIS Geographic information system GW
+Gigawatt GWh Gigawatt hour ICE Costa Rican Electricity Institute INEC National
+Institute of Statistics and Census IRENA International Renewable Energy Agency
+km2 Square kilometre kW Kilowatt kWh Kilowatt hour LPG Liquefied petroleum gas
+MINAE Ministry of Environment and Energy MIVAH Ministry of Housing and Human
+Settlements MSW Municipal solid waste Mt Megatonne MW Megawatt NDC Nationally
+Determined Contribution NDP National Decarbonisation Plan NZC Net zero carbon PV
+Photovoltaic SEPSE Planning Secretariat of the Energy Subsector USD United
+States dollar  EXECUTIVE SUMMARY As with other countries in Latin America and
+the Caribbean, Costa Rica is highly vulnerable to the effects of climate change,
+even though it contributed less than 05% of global greenhouse gas emissions in
+The country has developed national vision of transforming its economy to net
+zero emissions by 2050 and an ambitious decarbonisation plan with sectoral
+break- downs including for the transport and buildings sectors To meet Costa
+Rica’ decarbonisation target, there is  need for the national government as well
+as local municipalities to step up their actions This is because that scaling up
+the use of clean energy and improving energy efficiency at both the national and
+local levels are key in realising the shared decarbonisation objective This
+would particularly require support from local governments in implementation when
+it involves urban planning interplaying with energy use at the local levels Over
+the past years, municipalities have been undertaking efforts to improve the
+sustainability of their jurisdictions, to which decarbonisation actions are well
+in aligned with this endeavor Despite that Costa Rica’ central government is in
+charge of developing national energy and transport policies and regulations,
+there is large technical potential for decarbonisation in cities, given that 75%
+of the country’ population lives in urban areas This report explores plausible
+technological options in the Greater Metropolitan Area of the Central Valley of
+Costa Rica to contribute towards achieving the national decarbonisation goal
+IRENA’ urban planning tool was implemented to assess technological pathways that
+enable the decarbonisation of cities The analysis focused on cities within the
+Greater Metropolitan Area of Costa Rica, analysing in detail five representative
+districts Two technological pathways – considering the existing policy measures
+in the country – were evaluated for each district, and the respective results
+were compared against  business-as-usual (BAU) scenario in which no climate or
+energy-related policies are in place The first pathway, the National
+Decarbonisation Plan (NDP) scenario, scales the targets set in the country’
+National Decarbonisation Plan down to the city level, achieving  significant
+reduction in emissions while increasing the penetration of renewable energy
+sources and the electrification of economic activities in the transport,
+industry, residential and commercial sectors The second pathway, the net zero
+carbon (NZC) scenario, reaches the maximum level of decarbonisation by
+electrifying all activities to reach  full reduction of carbon emissions in the
+energy and transport sectors by mid-century – an ambitious target that is useful
+for exploring benefits and costs  The analysis shows that reducing emissions in
+cities by around 90% by 2050 compared to BAU is technically possible in the NDP
+scenario Crucially, the results demonstrate that it is still possible to reach
+100% emission reduction in this same period in the NZC scenario In other words,
+there are no technological barriers to meeting high-ambition targets by
+Decarbonising cities not only brings reductions in emissions but also results in
+savings of energy costs to cities and their inhabitants These savings are
+related primarily to lower operational costs linked to renewable energy
+technologies and energy efficiency improvements To meet the NZC scenario,  mix
+of technologies needs to be deployed, including: solar photovoltaic (PV)
+systems, energy storage systems, air-source heat pumps, and electro-mobility for
+private, public and freight fleets The results suggest that this scenario
+requires higher total costs, including for integrating these technologies, along
+with grid infrastructure upgrades necessitated by increased electricity demand
+from electric vehicles Results extrapolated to the concession area of the state
+power utility CNFL highlight that the overall costs for cities in all scenarios
+are similar While the decarbonisation of most cities will bring energy cost
+savings of up to 18% compared to the BAU scenario by 2050, cities with low
+population density, large geographic area and low solar PV production may
+experience relatively higher costs More importantly, the analysis shows that
+investments in the NDP and NZC scenarios are mainly in zero-emission
+technologies, thereby reducing emissions and leading to co-benefits associated
+with health The adoption of public transport promoted in these two
+decarbonisation scenarios also brings co-benefits from reduced congestion and
+accidents This study recommends key actions needed in cities to enable the
+transformational change towards decarbonisation City energy-related goals should
+focus on reducing carbon emissions (particularly from transport), improving
+energy efficiency across sectors, increasing renewable energy integration, and
+increasing cycling and walking as alternative mobility options To enable this
+transformation, however, decision makers will have to consider in their urban
+planning the need to overcome key challenges, including institutional barriers,
+technical aspects, fiscal concerns, tariffs, employment and uncertainty Among
+other measures, cities in Costa Rica can adopt good practices, enforcement of
+standards, long-term vision, the use of advanced planning tools, involvement in
+national planning, and circular economy activities to maximise the benefits of
+decarbonising their energy and transport sectors                 /             ©
+INTRODUCTION To address the global climate challenge, Costa Rica has committed
+to fully decarbonising its economy by 2050 and has developed  corresponding plan
+to achieve this target (UNFCCC, 2019; UNFCCC, 2018) As in many countries,
+implementing such  comprehensive plan would require efforts at all levels
+Although Costa Rica’ central government is in charge of developing national
+energy and transport policies and regulations (Presidencia de La República,
+2019), there is large potential for decarbonisation in cities, given that 75% of
+the country’ population lives in urban areas This report explores plausible
+technological options in the Greater Metropolitan Area of the Central Valley of
+Costa Rica to contribute towards achieving the national decarbonisation goal
+National context Costa Rica has  population of around  million inhabitants
+within  total area of 51 060 square kilometres (km2), making it the third
+densest country in the Central America region (following El Salvador and
+Guatemala) with 98 inhabitants per km2 The territory is structured in
+provinces, 82 cantons (municipalities) and 482 districts (Figure ) The rapidly
+growing Greater Metropolitan Area, which includes the capital, San José, and the
+provinces of Alajuela, Heredia and Cartago, is home to  million inhabitants,
+nearly half of the population, distributed within an area of  044 km2 ALAJUELA
+HEREDIA LIMÓN CARTAGO GUANACASTE SAN JOSÉ PUNTARENAS 10 100% 70 77 55 35 48 16
+60 78 80% 58 75 50 47 ) $     60% 40     % % % % % % % % % %  (    30 40% 20 % %
+% % % % 20% % % % % 10 % % % % % % % % % % % % % % % % % % % % %  2012 2013 2014
+2015 2016 2019 2020 2018 2017 2021 Services (%) Industry (%) Agriculture (%)
+Others (%) Total (Billion US$) Economic growth in Costa Rica has depended
+heavily on the services and industry sectors (Figure ), which have largely
+driven the more than 30% increase in the country’ gross domestic product (GDP)
+between 2012 and 2019 (Central Bank of Costa Rica, 2020a; IMF, 2020) The economy
+has been fuelled primarily by clean electricity generated from renewable energy
+sources such as hydropower, geothermal and wind energy, and by petroleum-based
+fuels used mainly for transport and industry (Figures ) As shown in Figure (),
+the transport sector is the largest consumer of oil, at 83% in 2018, followed
+distantly by the industry (12%) and residential (%) sectors Consumption of
+petroleum-based transport fuels has increased over the last 13 years alongside
+the growth in internal combustion engine vehicles, assuming similar driving
+behaviours and fuel economy since 2007 (Figure ) (SEPSE and MINAE, 2018)
+Electricity % Biofuels % Oil % Others % Oil % Wind % Transport % Energy
+consumption by source (2018) Biomass % Industry % Geothermal % Residential % Oil
+consumption by sector (2018) Electricity generation by source (2019) Solar %
+Others % Hydro % 11 90  80  70 19%  19%   17% 60       16% )   (  16% 16% 15%
+16% 50 16% 17% 15% 15% 17%        15%     18% 40 13% 17% 17% 17%  17% 30     62%
+62% 63% 64% 20 64% 64% 64% 64% 64% 66%  10   2007 2008 2009 2010 2011 2012 2013
+2014 2015 2016 Light duty vehicles Heavy Freight Motorcycles Taxis Buses Special
+transport Petroleum fuel consumption (PJ) Among the nine power suppliers, the
+state-run ICE (Instituto Costarricense de Electricidad, or Costa Rican Institute
+of Electricity) accounts for the bulk of the electricity supply It provides % of
+the total installed generation capacity of  500 megawatts (MW) and also
+monopolises the national transmission market (Figure ) Two municipally owned
+energy utilities, ESPH and JASEC, operate only % of the national total
+generation capacity, while co-operatives account for around % Meanwhile,
+privately owned energy companies account for 24% of the capacity, with
+breakdown of 10% (Law No  200 Cap ) and BOT (Build-Operate-Transfer) 96% (Law No
+200 Cap ), which is below the 15% cap capacity stipulated by law Generation
+companies cannot engage in the direct sale of electricity However, private co-
+operatives can sell the electricity that they generate to one another (Law No
+345, art ) and to the transmission grid operator (ICE), which is one of four
+concessionary energy providers at the distribution level Generation Transmission
+Distribution Coopelesca % Coopesantos % ESPH % Co-operatives Coopeguanacaste %
+Conelectricas % ICE 64% CNFL BOT 13% National electricity market Gross energy
+production 11 312 GWh CNFL % Regional electricity market ICE Private 11%
+Municipal companies () JASEH % 12  National Decarbonisation Plan and the role of
+cities Even though Costa Rica contributed less than 05% of global greenhouse gas
+emissions in 2019, like other countries in Latin America and the Caribbean it is
+highly vulnerable to the effects of climate change Consequently, different
+policy actions have been implemented over the past decade to reinforce the
+country’ engagement with global targets These actions and intentions are
+manifested in Costa Rica’ Nationally Determined Contribution (NDC) towards
+reducing emissions under the Paris Agreement, which calls for  44% reduction in
+the country’ greenhouse gas emissions by 2030 and represents one of the most
+ambitious targets in the region (CEPAL, 2018) Cities in Costa Rica are directly
+involved in climate change mitigation through the Cantonal Country Programme,
+driving change and assuming multiple roles including decision making, planning,
+managing assets and operating local energy suppliers, among others In this
+context, municipalities are also key actors in the transition towards 2050, in
+which new energy technologies in the transport, industry and residential sectors
+will be deployed under the guidance of the national government In 2019, Costa
+Rica launched  National Decarbonisation Plan (NDP) as an action to combat
+climate change (Government of Costa Rica and MINAE, 2019a; UNFCCC et al, 2020)
+The NDP presents  decarbonisation pathway towards net zero emissions by It
+includes seven lines of action focused specifically on the contribution from
+cities, as summarised below and illustrated in Figure  Implementing the NDP
+therefore requires collective efforts involving all relevant stakeholders
+Citizen and business culture oriented towards less waste generation and
+successful waste management, under  circular economy approach Strategy and Plan
+for Better Options Technology to reduce methane from organic waste 100% of the
+territory adopt solutions for collection, separation, reuse and disposal of
+waste  Strategy for integral design of industries and businesses: "cradle-to-
+grave“ in  circular economy fashion Industrial sector have changed energy
+sources to decouple activity’ growth and emissions  100% of new commercial,
+residential and institutional buildings are low emission standards Increase of
+10% in the use of wood, bamboo and other local materials in buildings 100% of
+all commercial, residential and institutional buildings are low emission
+standards  Electrical energy as primary energy source for transportation,
+residential and commercial, industrial sectors (in 2019 less than 30% is
+electrical) Electricity matrix manages to operate 100% with renewables  • 60% of
+the ﬂeet of light vehicles zero emissions • Zero-emission vehicles for 100% of
+new light vehicle sales • Public data on carbon emissions of the cargo truck
+ﬂeet • Pilots projects for higher efficiency of the trucks: smart logistics
+approach  • 25% of the ﬂeet will be electric • New business models for light
+vehicle ( autonomous car sharing) • at least  of freight transport highly
+efficient, emissions ↘ 20% compared to • Integrated public transport system
+Extensive electric recharging network, complementary zero-emission technologies’
+infrastructure (: hydrogen stations)  • 100% of the buses and taxis zero
+emissions • Increase of at least 10% of non-motorised mode trips • 70% of the
+buses and taxis: zero emissions • 100% electrically operated passenger train
+2020 2022 2025 2030 2035 2050 13 • Line of action : developing  mobility system
+based on safe, efficient, and sustainable public transport and active mobility
+schemes • Line of action : transforming the light-duty vehicle fleet to zero
+emissions, boosted by renewable energy • Line of action : promoting  freight
+transport sector that adopts modalities, technologies and energy sources towards
+achieving zero emissions or the lowest emissions possible • Line of action :
+updating the electricity system – covering capacity, flexibility and
+intelligence – and scaling up the renewable energy supply at  competitive cost
+that may be supported by cost-effective investment programmes to ensure
+affordability for final energy consumers • Line of action : developing buildings
+of different uses (commercial, residential, institutional) based on high
+efficiency standards and low-emission processes • Line of action : transforming
+the industry sector through processes and technologies that use renewable energy
+sources and are sustainable and efficient, with low or zero emissions • Line of
+action : embracing the principle of  circular economy, designed to promote the
+development of an integrated system with maximum efficiency, low greenhouse gas
+emissions and waste management  Methodology and approach This report aims to
+improve understanding of the decarbonisation pathways for municipalities in
+Costa Rica, with  focus on five representative districts located within the
+concession area of the state-owned power utility CNFL (Compañía Nacional de
+Fuerza  Luz, or National Company of Power and Light) The collected data were
+embedded in  geographic information system (GIS) database that details the
+features needed to characterise the districts from an energy planning
+perspective In-depth analyses were then executed for these districts, and the
+respective results were extrapolated to the utility scale, with the aim of
+supporting decision makers at the local and national levels For data that were
+not accessible, advanced data mining techniques were employed to identify
+typical districts based on demographic, socio-economic and energy- related data
+collected at the national, municipal, district and household levels (see the
+next section) The overall methodology for the analysis is shown in Figure  The
+approach comprises  combination of data mining and optimisation techniques to
+generate data-driven knowledge to better estimate the potential for integrating
+renewable energy in the urban context of Costa Rica These techniques include: •
+Data collection: An exhaustive data collection process at the district or
+municipal scale was executed to implement an advanced classification process
+facilitating quantification of the potential for renewable energy integration by
+district, based on the main drivers and characteristics of districts 14 Database
+Measured Data (Power utility database) Clustering Extrapolation BAU & Policy
+scenarios Municipality/district level Municipality - San José level Climate Data
+Building level Building Proﬁles Weather Files District level Building
+information layer Demand Municipality/district level Demand result Building
+level RE potential Energy systems and infrastruccture Building type Industry,
+services and transportation at district level Building geometry GIS RE-
+integration Municipality/district level GIS-Layer integration Transport &
+industry layer Macro-economic Characteristics Processing optimal policy / RE
+integration District level Mobility shares Industry shares GDP, Population •
+GIS-embedded database: Based on the data collected,  GIS-embedded database was
+produced to support districts/municipalities in deploying detailed urban energy
+planning based on local geospatial constraints and renewable energy integration
+potential • Clustering and identification of representative districts:
+clustering technique was then applied to identify five representative districts
+that are used to study the decarbonisation process of cities District-level
+results were extrapolated to the power utility’ concession area to provide
+insights for planning the electricity infrastructure • District-level database:
+The database produced was adjusted to each of the five representative districts
+Each district was characterised by its GDP, population growth and energy
+consumption by type of customer (residential, industrial, commercial, transport,
+etc) Energy consumption was disaggregated into end uses to study the different
+technologies available for decarbonisation of the district Information related
+to renewable energy technologies ( rooftop solar PV, horizontal wind turbines)
+and energy storage systems ( batteries, hydrogen) was identified to produce
+database of low-carbon technologies that can contribute to decarbonising the
+energy sectors of these districts • Urban planning scenarios: Three scenarios
+were produced, and the benefits and costs of each scenario were compared to
+understand the potential of renewable energy in each district: – BAU scenario:
+This is the business-as-usual (BAU) scenario that exists in the absence of
+decarbonisation strategies It assumes that industries consume energy in  similar
+15 manner as currently and that the transport sector continues to use fossil
+fuels in  similar distribution – NDP scenario: This scenario scales the actions
+of the National Decarbonisation Plan (NDP) down to cities by promoting
+efficiency,  switch to renewable energy technologies and the electrification of
+energy end uses – NZC scenario: This scenario aims at net zero carbon emissions
+by 2050 by enforcing the actions mentioned for the NDP scenario Costa Rica’
+current Nationally Determined Contribution (NDC) is already compatible with this
+scenario • Optimisations and simulations using IRENA’ Planning Platform for
+Urban Renewable Energy: The planning tool developed by the International
+Renewable Energy Agency (IRENA) was applied within each representative district,
+considering the database and locally available technologies to estimate the
+costs and environmental impacts of each scenario The tool aims to support the
+decision-making process for long-term urban energy planning in cities by
+analysing and optimising the technical and financial viability of integrating
+renewable energy technologies Considering the renewable energy resource
+potential and combining spatial analysis and energy systems modelling across
+different sectors, the tool compares different solutions with the objective of
+minimising carbon dioxide (CO2) emissions from the energy sector and buildings,
+as well as the total energy system costs The main features of the tool are
+illustrated in Figure  The IRENA Planning Platform for Urban Renewable Energy
+aims at offering  wide range of applications for urban renewable energy
+integration and optimisation, network design, mapping and visualisation
+Renewable Energy Potential Optimisation Demand & Supply Modelling DHC & Grid
+Infrastructure Emission Calculation Spatial and Temporal Visualisation Long-Term
+Planning Sector-Coupling Options Building Energy Efficiency Push-Pull Mechanism
+Database 16                 /             ©  17 THE URBAN ENERGY CONTEXT AND
+REPRESENTATIVE DISTRICTS OF THE GREATER METROPOLITAN AREA  Characterisation of
+districts in the Greater Metropolitan Area The state-owned power company CNFL
+supplies electricity in most districts of the Greater Metropolitan Area, as
+shown in light blue in Figure  To characterise these districts in the analysis,
+multiple sources of information were collected, combined and represented in GIS
+The map (right) was provided by MIVAH (Ministry of Housing and Human
+Settlements) in the report review process 18 format The resulting database
+comprises key features including the surface area, population density, economic
+growth, energy consumption, and number and type of customer (residential,
+commercial or industrial), among others For example, high-resolution data were
+gathered on monthly energy consumption for each building within the districts
+and were used to produce time-series demand profiles In addition, the end uses
+for each technological carrier at  building level were identified based on
+energy surveys  Local renewable energy options Costa Rica is known for its vast
+natural resources, which greatly increase the country’ potential for deploying
+renewable energy technologies This study specifically explores the potential of
+solar and wind energy resources in districts, with the greatest values found in
+the northwest (Figure 10) In terms of technology applications in the built
+environment, solar PV systems have increasingly gained attention due largely to
+two attributes: ) the installations can be modular, while the system efficiency
+is not impacted significantly by the scale of installed capacity; and ) the
+levelised cost of electricity at the utility scale has declined substantially in
+the past decade and is expected to continue to drop in the coming years, making
+solar PV generation cost-competitive with fossil fuel-based power generation in
+growing number of regions and contexts including urban settings (IRENA, 2021b;
+IRENA, 2020a) Wind turbines, unlike solar PV, are currently less applicable
+within urban areas and are increasingly seen in the surrounding areas of cities
+as part of distributed energy generation located close to the load Although
+urban wind turbine technologies have been progressing, they are still relatively
+rare despite pilot projects 19 Biomass resources such as sugar cane, coffee,
+pineapple and oil palm, as well as biomass from animal farms and municipal
+waste, also offer an opportunity for local renewables, provided that the radius
+of collection is cost-effective economically On most occasions, biomass-based
+energy applications bring multiple benefits including social, economic and
+environmental benefits for local residents The analysis considers  suite of
+technologies that can contribute to the decarbonisation of districts (Figure 11)
+To assess the role of storage technologies within Costa Rica’ urban context,
+flow redox batteries and hydrogen were included in the technology database,
+along with lithium-ion batteries Fuel cell and electrolyser technologies have
+significant potential as the government has supported their further exploration,
+in addition to the ongoing effort to produce hydrogen using the country’
+existing renewable sources Table  provides an overview of key technologies
+facilitating the integration of renewable energy included in the scenarios The
+energy network plays  critical role in accommodating local renewables At
+present, utility companies supply electricity to the concession areas through
+radial distribution network However, from  technical perspective, cities could
+also inject electricity from distributed energy generation into the power grid,
+making the transition from passive to active distribution networks (meshed
+distribution networks) To enable this, network reinforcements might be required
+to cope with the integration of renewable energy technologies Energy carrier
+considered (time series) End-use sector demand Technological scope Domestic hot
+water, Space heating & heat for industry Solar PV ASHP ST Heater Wind turbine
+Battery Wind Space cooling for buildings Boiler AC Biomass CHP Electricity for
+buildings, industry and mobility Micro-CHP LPG Elec_import H2 storage
+Electrolyser FC H2 network Heat network Grid import/ export and grid upgrade
+The study has also recognised the regulatory challenges in the country, which
+are beyond the scope of this study 20 TABLE : Overview of key technologies
+facilitating the integration of renewable energy included in the scenarios
+LIFETIME (YEARS) TECHNOLOGY CARRIERS DEMAND EFFICIENCY Network electricity
+import electricity 99 50 Grid electricity import electricity 99 50 Grid upgrade
+Energy converter 86 electricity cooling  Air conditioner (grid)  electricity
+heat  Heat (grid) Air-source heat pump – heating mode  electricity heat 20 Air-
+source heat pump – cooling mode  electricity cooling 20 14 solar electricity 30
+Rooftop solar PV Solar thermal – evacuated tube solar collectors 46 solar heat
+15 Horizontal-axis wind turbine – onshore wind electricity – 20 Micro combined
+heat and power – heating mode LPG electricity; heat ; 519 12 electricity;
+cooling Micro combined heat and power – cooling mode LPG ; 615 12 electricity
+cooling  20 Heat pump chiller MSW electricity 34 15 Waste boiler Electrolyser
+(hydrogen generator) electricity hydrogen  20 hydrogen electricity  20 Fuel cell
+Energy storage electricity electricity  -15 Lead-acid battery electricity
+electricity 75-  Lithium-ion battery electricity electricity   Flow redox
+battery hydrogen hydrogen   Hydrogen storage To account for these upgrades, the
+analysis considered the costs of upgrading the current network and increasing
+its capacity to host more renewable energy technologies in the shift towards the
+decarbonisation of cities Further analysis can be performed to assess factors
+such as contingency, voltage drop, and short-circuit fault or line outages, by
+exporting the results to network simulation tools for in-depth evaluation of the
+technical challenges and benefits of implementing distributed solutions 21
+Energy demand Time-series load profiles per customer within each district were
+computed to estimate their energy demand at an hourly basis for one year, as
+shown in Figure Because Costa Rica is located in  tropical climate zone with an
+average year-round temperature of 25 degrees Celsius (°), domestic space heating
+or cooling systems are not commonly found However, districts located near the
+coast may require assessing cooling demand in the future In the Greater
+Metropolitan Area, the use of cooling technologies is limited to commercial,
+industry and public buildings The energy required for domestic hot water (or
+eventually cooling) is produced mostly using electricity-based systems These end
+uses are represented in the electricity profiles This power utility database
+includes all the geo-referenced customers of the electricity company, classified
+by sector (residential, commercial or industrial) with the average monthly
+energy consumption in kilowatt-hours (kWh) Demand Proﬁles Database Grouping and
+Aggregation of Demand Proﬁles Power Utility Database Generation of Daily Demand
+Proﬁles Annualisation of Demand Proﬁles  (<) Annual Proﬁles (8760 samples)
+Customers  Daily Proﬁles (24 samples)  Annual Proﬁles (8760 samples) Demand
+profiles database This database considers high-resolution measured data on the
+load profile (10 minutes) from  351 customers These data have been cleaned of
+potential measurement errors or outages and then classified into weekday and
+weekend The final classification of the load profiles is detailed in Table ,
+based on the sectoral categories defined in Table  TABLE : Details on the
+amounts of available monitored profiles SECTOR NUMBER OF PROFILES WEEKDAY
+WEEKEND 137 99 38 Commercial  145 831 314 Residential 69 Industrial 22 TABLE :
+Defined customer categories by monthly average electricity consumption
+RESIDENTIAL COMMERCIAL INDUSTRIAL  – 100  – 300 100 – 200 200 – 300  – 10 000
+300 – 500 500 – 700 300 –  000 700+ 10 000 – 100 000  000+ 100 000+ Generation
+of daily demand profiles Daily load profiles for each geo-referenced customer
+not included in the demand profiles database were generated using the procedure
+suggested in Leiva et al (2017) In this procedure, the average monthly
+electricity consumption of each customer from the power utility database is
+classified according to its sector in Table , then daily profiles are generated
+with  Gaussian distribution fitted to the demand profiles database of the
+reference sector The distribution of customers and electricity consumption is
+presented in Table  TABLE : Customer information and electricity consumption of
+the five representative districts in 2018 SAN VICENTE SAN PEDRO SAN ISIDRO SAN
+RAFAEL DISTRICT DESAMPARADOS 11 746 12 556 13 258  261  296 Total customers 10
+378 11 063 10 590  536  996 Residential customers  323  455  613 691 175
+Commercial customers 45 38 55 34 125 Industrial customers Total yearly
+electricity consumption (GWh) 21 24 80 19 95 Yearly residential electricity
+consumption (GWh) 71 08 46 18 41 Yearly commercial electricity consumption (GWh)
+63 42 49 07 48 Yearly industrial electricity consumption (GWh) 90 29 24 70 31
+Note: GWh = gigawatt-hours Source: Data processed in the context of the analysis
+from the utility-level database 23  Estimation of roof areas in buildings To
+better quantify the potential area of rooftop available to install solar PV
+systems, the building area was included in the analysis Although GIS databases
+were available for some municipalities, the data were insufficient to
+approximate the rooftop area of each building Therefore, surveys at the national
+level undertaken by the National Institute of Statistics and Censuses (INEC)
+were retrieved According to the National Household Survey of 2019 (INEC, 2019),
+the floor area was reported for  portion of houses in every region of the
+country With this information and data from the Central Region of the country
+(around 970 000 buildings), the average area of the residences was determined
+Information published by INEC on the construction sector between 2015 and 2017
+made it possible to estimate the area of buildings in the commercial and
+industrial sectors (INEC, 2018)  Creation of representative districts By
+applying data-mining techniques and considering demographic and geographic
+characteristics along with energy use, customer type, and renewable energy
+potential, five districts were identified to represent the 109 districts of the
+CNFL concession area The five districts are described briefly below, and Figure
+13 characterises them according to their electricity needs • District  –
+Desamparados de Desamparados: This is the densest district in the country with
+more than 35 000 inhabitants, and also has  low Cantonal Human Development Index
+in Costa Rica While the district’ energy consumption is not the highest in the
+Greater Metropolitan Area, it is expected to double by 2050 driven by economic
+growth, even if population growth has slowed Of the nearly 12 000 electricity
+customers in this district, 88% are residential, 11% are commercial, and only %
+are industrial The potential for deploying solar PV systems in the district at
+building level has been investigated in previous works (Valverde et al, 2015),
+finding low penetration due mainly to the technology cost However, 120 300
+)    ( 100 250 )  80 200                /    ( 60 150 40 100        20 50   San
+Desamparados San Vicente San Pedro San Isidro San Rafael Yearly RES elec
+(GWh/km2) Yearly COM elec (GWh/km2) Yearly IND elec (GWh/km2) Yearly Electricity
+(GWh) 24 the cost is constantly decreasing because of economies of scale, and
+incentives for solar PV deployment in the medium and long terms will likely be
+available to enhance adoption Due to the district’ density and number of
+customers, it will likely face infrastructure planning challenges for
+technologies that require  large area for deployment • District  – San Vicente
+de Moravia: This district of 30 000 inhabitants has experienced rising energy
+needs in recent years, driven primarily by economic growth Of the more than 12
+500 electricity customers in the district, 88% are residential, % are
+commercial, and only % are industrial The districts within the cluster
+represented by San Vicente have seen an increase in the Cantonal Human
+Development Index, positioning them at the top of the ranking This suggests that
+economic conditions may not be  barrier for the adoption of new technologies, as
+is the case in Desamparados This also explains why even if the district’
+population growth has slowed, electricity consumption in San Vicente is expected
+to double by Due to rising urbanisation rates, the district is likely to face
+planning challenges on space availability for deploying some technologies
+However, the installation of rooftop solar PV along with energy storage systems
+can be an attractive alternative • District  – San Pedro de Montes de Oca: With
+the same number of inhabitants as San Vicente, San Pedro has experienced growth
+in its energy needs driven mainly by commercial activities around the academic
+sector, as the district hosts many universities This district is relatively
+dense, and its buildings are typically old San Pedro has the highest electricity
+consumption among the five representative districts, with more than 13 000
+electricity customers, of which 80% are residential, % are commercial, and only
+% are industrial Similar to San Vicente, population growth has slowed but
+electricity consumption is expected to double by 2050, in this case due to
+energy-intensive activities in the commercial sector As the district’ Cantonal
+Human Development Index approaches the top of the ranking in the expectation of
+growing economic development, the adoption and deployment of new technologies
+seem feasible and worth exploring • District  – San Isidro de Coronado: While
+other districts in Costa Rica face urban planning challenges related to their
+high population density and lack of available land space, San Isidro is notable
+for having around 18 000 inhabitants distributed over  relatively large area Its
+energy needs have not changed significantly over the years; however, the need to
+electrify activities will likely lead to higher needs in the future Of the  000
+electricity customers in this district, % are residential, 11% are commercial,
+and only % are industrial Although the district’ Cantonal Human Development
+Index has increased, it is not yet at the top of the ranking Growing economic
+development, however, indicates that transformations can occur if well-designed
+policies are in place The main challenge in this district is not so much land
+space for placing technologies, but the relatively low potential for solar PV
+production – the irradiance values are not as high as in other districts within
+the Greater Metropolitan Area, which may necessitate exploring other
+technologies • District  – San Rafael de Coronado: This district has the lowest
+number of inhabitants among the five representative districts, with only around
+000, as well as the lowest electricity consumption The district is dominated by
+farmers, and while the Cantonal Human Development Index remains low, it has
+increased over the years Unlike in the other studied districts, the population
+is expected to grow by 2050, and along with economic development this is
+expected to increase energy consumption in the future Of the  000 electricity
+customers in this district, 87% are residential, % are commercial, and % are
+industrial, with the latter dedicated mainly to milk and cattle production As in
+San Isidro, 25 the land area is vast, allowing the deployment of technologies
+that may not be suitable for high-density districts (for example, wind turbines)
+According to existing studies (Valverde et al, 2015), solar PV generation may be
+unsuitable due primarily to cloud effects The use of waste is another technology
+with great potential given the presence of many cattle factories in this
+district TABLE : Selected socio-economic and energy-related variables considered
+for the analysis SAN VICENTE SAN PEDRO SAN ISIDRO SAN RAFAEL DISTRICT
+DESAMPARADOS 37 079 32 146 29 126 18 398  266 Population (2018) 337284 292412
+264941 167355 075191 GDP (USD billon) 034957 031414 029875 035458 043777 GDP
+growth to 2035 032349 028841 027232 03306 041184 GDP growth to 2050 11 93  01
+02  38 67 Population density (2018) 24 79 18 95 21 Electricity demand (GWh) 11
+746 12 556 13 258  261  296 Customers 10 378 11 063 10 590  536  996 Residential
+customers 691  323  455  613 175 Commercial customers 34 45 38 55 125 Industrial
+customers 24 19 95 21 Yearly electricity (GWh) Yearly residential electricity
+use (GWh) 71 08 46 18 41 Yearly commercial electricity use (GWh) 63 42 49 07 48
+Yearly industrial electricity use (GWh)  29 24  31 Source: Data processed in the
+context of the analysis, 26                 /            ©     27 DECARBONISING
+THE ENERGY SECTORS AT THE MUNICIPAL LEVEL Given the high urbanisation rate in
+Costa Rica and that nearly half of the population resides within the boundaries
+of the Greater Metropolitan Area, it is necessary that municipalities be part of
+the country’ decarbonisation strategy – the strategy that has been orchestrated
+and designed at the national level while being implemented with the support and
+engagement from local authorities and stakeholders For example, authorities at
+the local level can put forward initiatives such as planning  “15-minute” city
+(as proposed by Paris, France) to shift mobility to non-motorised transport Such
+initiatives would lead to reduced consumption of fossil fuels, which currently
+dominate the transport fuel mix in Costa Rica Other opportunities exist as well
+Even though Costa Rica’ electricity demand is well covered under the current
+Electricity Generation Expansion Plan, strategically it is worth considering
+diversifying the mix to enhance energy security and hedge against the seasonable
+variation and climate-induced risks facing hydropower generation From  technical
+perspective, local renewable energy sources, particularly solar PV and wind
+energy, can be tapped into to diversify the power mix, thus enhancing the
+security of energy supply (IRENA, 2021a) Renewables can bring numerous benefits
+to local governments, including improving the quality of life of citizens,
+contributing to climate mitigation, boosting the local economy and creating
+jobs, and improving the quality and reliability of the power supply However,
+realising these benefits would require  thorough scenario-based evaluation of
+urban energy development options This could provide an overall framework for
+different national authorities to better co-ordinate among themselves, as well
+as for local governments to utilise, particularly since urban planning needs to
+be involved  Medium- and long-term perspectives Costa Rica’ existing national
+climate policies provided guidance to construct three scenarios, which are
+applicable to the five representative districts The first scenario, business-as-
+usual (BAU), considers no decarbonisation targets and assumes that fossil fuels
+will continue to be the main source of energy in the transport and industry
+sectors The second scenario, 28 urban-level NDP, adopts the targets stated in
+the National Decarbonisation Plan, scaling them down to the district level using
+the population and GDP, with the objective of analysing the potential for
+decarbonisation following the NDP targets with the support of municipalities
+involved in urban energy planning The third scenario, net zero carbon (NZC),
+considers the country’ vision to become carbon-neutral by 2050 in line with the
+NDP, which includes the highest penetration of renewable energy resources in the
+transport and energy sectors Business-as-usual (BAU) scenario The BAU scenario
+does not consider energy policies towards decarbonisation Fossil fuels continue
+to be the main source of energy in the country, particularly in the transport
+and industry sectors, and their consumption follows the existing trend This
+scenario presents  path dependency future with low penetration of distributed
+generation and practically no deployment of electric vehicles Key projections
+are presented below: • Energy sector: The renewable energy share increases from
+27% in 2020 to only 30% in 2050 considering  low penetration of renewables in
+the energy system Low electrification in industry by 2050 to replace fossil
+fuels results in this very limited increase in the share of renewable energy •
+Residential sector: If new energy policies are not applied in the residential
+sector, there will be  small decrease in the renewable energy share due to
+slight increase in the use of liquefied petroleum gas (LPG) for cooking
+Currently, this sector has an 82% renewable share (electricity), which could
+decrease % by 2050 due to increased use of LPG for cooking • Commercial and
+public buildings: The use of LPG for cooking increases here as well, and the
+sector’ current renewable energy share of 93% could drop to 91% • Industrial
+sector: Current electrification of the industry sector is 43%, and there would
+be  substitution of fossil fuels of up to 50% by • Transport sector: The
+transport sector remains as it is today, with the vehicle fleet almost 100%
+based on fossil fuels • Emission reduction: Emissions in 2018 were 73 megatonnes
+(Mt) of CO2-equivalent, and without decarbonisation they will grow an estimated
+35% by Urban-level National Decarbonisation Plan (NDP) scenario The urban-level
+NDP scenario considers  full deployment of the policy actions presented in the
+NDP, scaled down to the district level It represents  high climate ambition for
+the country This scenario shows the pathway towards electrification of the
+transport sector (public, private and freight) and  highly renewable electricity
+mix with  high penetration of distributed energy resources It considers  gradual
+increase until 2050 of targets, as follows: • Total renewable energy share
+increases to reach 95% of total final energy consumption by 29 • Renewable
+energy share in the residential sector increases to reach 100% of total final
+energy consumption in the sector by • Renewable energy share in commercial and
+public buildings increases to reach 100% of total final energy consumption in
+the sector by • Renewable energy share in industry increases to reach 80% of
+total final energy consumption in the sector by • Renewable energy share in
+transport increases to reach 90% of total final energy consumption in the sector
+by • CO2-equivalent emissions drop 85% by 2050 compared to The use of
+electricity for transport is expected to grow significantly by 2050 in the
+urban-level NDP scenario, as evidenced by the fuel shares of energy demand at
+the national level in the transport sector (Figure 14) This scenario also
+considers the gradual replacement of diesel and petrol with electricity and
+hydrogen, and  limited penetration of LPG The scenario also expects  reduction
+in energy demand due to the greater efficiency of the technologies that use
+these new fuels in the transport sector Decarbonisation of the transport sector
+is likely to contribute the greatest level of emission reductions and will
+potentially drive other socio-economic benefits in cities such as lower
+congestion, fewer accidents and more jobs (IDB and DDP-LAC, 2019; Saget, Vogt-
+Schilb and Luu, 2020) However, to enable the benefits of an electric transport
+sector, the electricity system must also evolve It must ensure high
+participation of renewable energy sources with deployment of distributed
+generation in the overall energy system BAU NDP 30 000 30 000 25 000 25 000 20
+000 20 000 )    ( 15 000 15 000       10 000 10 000  000  000  2018  2018 2022
+2026 2030 2034 2038 2042 2046 2050 2022 2026 2030 2034 2038 2042 2046 2050
+Diesel Elec Gasoline Hydrogen LPG 30 Electrification of the industry sector must
+also evolve, and enabling conditions should be designed Figure 15 indicates
+growing share of electricity for this sector, which will help reduce overall
+energy consumption through increased energy efficiency Petroleum coke, LPG, fuel
+oil and diesel used in the BAU scenario (without decarbonisation) are gradually
+decarbonised with low- or zero-emission technologies However, to maximise the
+benefits of electrifying the industry sector, challenges remain Electrification
+of this sector may lead to higher energy expenditure for the end users as
+result of the lost subsidies granted to the substituted petroleum-derived energy
+commodities Therefore, restructuring electricity tariffs to support this
+technological transition may be required In Costa Rican industry, the main fuels
+that emit greenhouse gases are oil, petroleum coke, diesel and LPG According to
+the characterisation of industrial energy consumption provided in MINAE (2019b),
+the industries that mostly consume these four fuels are the food, metal products
+and mineral (cement and glass) industries Large industrial groups require these
+fuels to operate equipment such as ovens, boilers, emergency power generators,
+forklifts and internal transport, among others Decarbonisation options for the
+industrial sector have become an important topic in recent years in Costa Rica,
+and alternatives such as electricity-based heat generation technologies,
+electricity storage and hydrogen use are currently under discussion Competitive
+incentives for electricity and the removal of subsidies for fossil fuels are
+necessary for this transition Finally, in the transport sector, the electric
+fast passenger train project for the Greater Metropolitan Area is under
+discussion, and electrification of the current private/public and
+passenger/cargo vehicle fleet is  subject of national focus Electrification of
+the transport sector would not only create additional electricity demand, but
+potentially provide the flexibility that the future energy system would require,
+provided that the charging infrastructure for the electric vehicles could be
+managed smartly to avoid the peak demand surge BAU NDP 14 000 14 000 12 000 12
+000 10 000 10 000 )    (  000  000  000  000        000  000  000  000  2018
+2018 2022 2026 2030 2034 2038 2042 2046 2050 2022 2026 2030 2034 2038 2042 2046
+2050 Biomass Diesel Fuel Oil Firewood Elec LPG Petroleum coke 31 Urban-level net
+zero carbon (NZC) scenario The NZC scenario aims to promote net zero districts
+It follows the pathway of the NDP scenario, in terms of electrification of the
+transport sector (public, private and freight) and residential cooking, while at
+the same time diversifying the power supply mix by integrating non-hydropower
+renewable energy sources in the power grids With energy efficiency improvement
+measures in the end-use sectors and the decarbonisation of industrial sectors
+thorough electrification and hydrogen, the scenario presents  more aggressive
+pathway, illustrated by the following indicators: • Electrification of 100% of
+the energy demand for cooking for the residential sector by • Electrification of
+100% of the remaining fuel-based transport by 2050 compared to the NDP scenario
+It includes the same level of penetration of hydrogen technology as stated in
+the NDP scenario • Significant reduction of fossil fuel-based industry, by using
+electricity for two-thirds of the industrial sector and hydrogen for the
+remainder (for example, for glass and cement industries) The efficiency measures
+follow the high-ambition scenario presented by United for Efficiency, which
+covers high-consumption appliances, specifically efficiency measures for
+refrigerators and lighting (United for Efficiency, 2019) In 2018, these
+appliances represented 41% of residential end-use demand, or more than half of
+the residential sector energy demand when cooking is included In the NZC
+scenario, the transport and industry sectors switch to renewable energy,
+including green hydrogen and end-use sector coupling technologies This scenario
+includes variations aimed at quantifying the impact of sector coupling
+strategies deployed in the districts It considers the potential of vehicle-to-
+grid with the utilisation of 10% of the battery capacity of parked electric
+vehicles to provide grid services, and the possibility to optimise importation
+in relation to local production of hydrogen and on-site storage  Evaluation of
+municipal-level roadmaps IRENA’ Planning Platform for Urban Renewable Energy was
+employed to evaluate the three scenarios for two key planning horizons (2035 and
+2050) The tool provided five different optimal operating points based on
+multiple objectives for the same target scenario within each district The five
+points represent different solutions that are optimal according to multiple
+objective functions considered (for example, minimisation of the annual costs of
+the energy system and minimisation of the carbon emissions during operation)
+Each Pareto optimal point represents an optimal energy system design and
+dispatch solution ranging from point  to point  Point  represents the design
+solution with the least carbon emissions for the minimum costs of the system
+(operating expenditures and capital expenditures), while point  presents the
+least-cost solution for the minimum carbon emissions Each solution provides, for
+each district,  system design and operating strategy for an optimised portfolio
+of integrated energy systems to supply the energy demand of the district Each
+operating point considers different requirements for the deployment of
+technologies; thus, they present different costs and efficiencies 32
+% BAU % % NDP % % NZC % % BAU           % % NDP % % NZC % % BAU         % % NDP
+% % NZC % % BAU          % % NDP % % NZC % % % BAU          % NDP % % NZC % 2035
+(%) RE - 2050 (%) Figure 16 presents the share of renewable energy in total
+final energy consumption for each of the five districts for the optimised carbon
+emission reduction (reflecting point : least cost for minimum emissions) It
+illustrates the importance of policies and measures taken at the city level and
+their impact on achieving the targets The fluctuation in the renewable energy
+share from one district to another is greater in the BAU scenario compared to
+the NDP and NZC scenarios, reflecting the impact of optimising the supply side
+at the district level with multi-energy carrier integrated systems While it is
+possible to reach near net zero carbon in 2050 in all districts, only adequate
+urban energy planning combining different efficiency and system integration
+measures for the demand and supply sides would allow complete decarbonisation of
+the districts Medium-term planning (2035) It is technically possible to reduce
+emissions in the medium term (Figure 17) The higher the reduction in emissions,
+the higher the total cost per capita per year, as more zero-emission
+technologies are needed Most operating points in the no-policy (BAU) scenario
+lead to emissions that are higher than the values projected for 2035 in Costa
+Rica’ Nationally Determined Contribution (NDC) (about  tonnes of CO2 per capita
+assuming  linear extrapolation) In the BAU scenario, the optimised solutions
+provided on the supply side within the technological scope of the study cannot,
+in most of the cases, match the NDC’ targets, except for the district of San
+Rafael, which can provide  high share of renewable energy for  contained demand
+33 Conversely, all the optimised supply-side solutions deployed at the urban
+level in the NDP scenario lead to lower emissions than the NDC goal by The NZC
+scenario makes it possible to further decarbonise the districts by an average of
+% compared to the NDC scenario This is notable, as Costa Rica has committed to
+reducing its emissions by mid-century Deploying low-carbon technologies to
+reduce emissions in operating point  requires higher investments, as the cost of
+these technologies is currently high (although their cost-effectiveness is
+increasing rapidly due to economies of scale) Decarbonising San Pedro (and most
+likely the districts within the same cluster) leads to higher total costs per
+capita per year compared to the other districts This is likely due to the high
+urbanisation level of the district, which leads to challenges in deploying
+certain technologies Conversely, San Rafael (and other districts with low
+population density such as those within cluster ) has the lowest total costs
+Districts with lower density require less investments to reach  low-emission
+target, while having higher decarbonisation potential through the deployment of
+high renewable energy generation capacity While the results for all districts
+are discussed in the sections that follow, illustrations will focus on the two
+extreme districts: San Pedro and San Rafael Although decarbonising requires
+investments in renewable energy and sector-coupled technologies, the operational
+and maintenance costs are typically lower The benefits could be even greater if
+the analysis also considered the health savings from lower emissions, as well as
+the increased productivity of cities due to reduced traffic congestion and
+accidents and to greater development and use of public transport (IDB and DDP-
+LAC, 2019) Figure 18 presents the energy carrier costs (imported electricity,
+oil derivatives, LPG, etc), infrastructure costs, and operational and
+maintenance costs associated with energy use for space heating and cooling,
+electricity for electro-mobility, and electricity for all other uses in
+residential, commercial and industrial buildings, all normalised with respect to
+the district’ GDP  000 )   /    /    ( )   /    /    (  800  800  600  600  400
+400  200  200            000  000 800 800           600 600   Carbon emissions
+(tCO2/cap/yr)          Carbon emissions (tCO2/cap/yr) NDC Desamparados San
+Vicente San Pedro NDC Desamparados NDP San Vicente NDP San Isidro San Rafael San
+Pedro NDP San Isidro NDP San Rafael NDP Desamparados NZC San Vicente NZC San
+Pedro NZC San Isidro NZC San Rafael NZC 34 SAN RAFAEL SAN PEDRO Point  Point
+24% 69% 23% 71% Point  Point  81% 73% 18% Point  Point  79% 71% 18% Point  Point
+77% 11% 70% 18% Point  Point  75% 13% 69% 18% 000 006 008 00 01 02 03 04 05 002
+004 % of national GDP % of national GDP Costs of energy carriers Investment
+costs Operating costs Maintenance costs The equivalent annual costs are higher
+in operating point  for all decarbonisation scenarios due primarily to the
+electrification of the transport and industrial sectors required to lower the
+respective emissions This implies that reaching the least emissions possible
+requires higher investments in electro-mobility and electrification of heating
+and cooling in buildings and industry However, these costs are lower in all the
+other operating points despite reaching high electrification of these sectors
+Investment costs in operating point  for all districts except San Pedro are at
+least double the costs in all other operating points (Figure 18) This is due to
+the deployment of technologies that are currently expensive in Costa Rica (for
+example, air-source heat pumps and energy storage systems) However, the results
+indicate that these technologies have the potential to help meet the
+decarbonisation goal within the districts by combining high-efficiency
+technology and the use of local renewable energy potential To meet the
+electricity needs of buildings, Figure 19 provides an overview of the capacity
+required for each operating point and per district Rooftop solar PV systems were
+found to be the most cost-effective technology to enable the transition towards
+decentralised electricity generation in the representative districts This is in
+line with recent global trends, as the cost-effectiveness of this technology has
+increased greatly in the last decade and will likely continue to increase
+(García de Fonseca, Parikh and Manghani, 2019) In operating point , the
+combination of wind turbines together with solar PV systems reduces the impact
+of seasonality associated with hydropower-dominated grid electricity,
+maintaining the lowest emissions of the electricity generation The penetration
+of wind turbines is greater in San Rafael, and most likely also in other less-
+dense districts that have larger areas for turbine deployment Micro combined
+heat and power (CHP) appears in operating point , similarly to points ,  and ,
+demonstrating the effectiveness of co-generation at the building or community
+level, increasing the efficiency of traditional electricity-driven heaters or
+air conditioning systems Replacing electric heaters and air conditioners with
+air-source heat pumps achieves  reduction in carbon emissions 35 SAN PEDRO SAN
+PEDRO Point  Point  53% 100% 41% Point  Point  30% 68% 40% 51% 60        10 30
+Capacity for electricity demand (MW) 40 50 20 Capacity for heat demand (MW) SAN
+RAFAEL SAN RAFAEL Point  Point  39% 99% 12% 46% 36% 60% 27% 64% Point  Point
+10 15      Capacity for heat demand (MW) Capacity for electricity demand (MW)
+ASHP heat mode Heat (Grid) Micro CHP heat mode Grid Grid upgrade Wind turbine
+Micro CHP cool mode Micro CHP heat mode PV rooftop The combined results
+highlight the potential of solar PV systems to support the transition towards
+decarbonisation in cities They also illustrate that other technologies are
+emerging that will enable the change needed to meet net zero emissions in 2050
+while bringing socio- economic benefits to city residents (IRENA 2020b; IRENA
+2014) The penetration of new technologies to meet the growing electricity demand
+in buildings (considering also heating and cooling requirements) in the
+operation point with the least emissions (point ) is complemented with the
+deployment of energy storage systems to reduce the intermittency of these
+technologies and to enable more resilient operation of the electricity grid As
+highlighted in Figure 20, the penetration of energy storage systems is highly
+correlated with the penetration of high volumes of energy from solar PV systems
+(operating point ) SAN PEDRO SAN PEDRO Point  Point  34% 34% 30% 96% Point
+Point  26% 71%        10 15  Capacity for cooling demand (MW) Electricity
+storage (MW) SAN RAFAEL SAN RAFAEL Point  Point  100% 18% 57% 23% 88% Point
+Point     Capacity for cooling demand (MW)      Electricity storage (MW)   AC
+(Grid) ASHP cool mode Micro CHP cool mode Li Vanadium ZincBromine Lead-acid 36
+In addition, the results show that lithium-ion batteries are the most cost-
+effective due to their efficiency and cost While vanadium batteries are also
+found to bring benefits in Desamparados and San Vicente districts, their
+deployment typically leads to higher total costs Long-term planning (2050)
+Figure 21 provides an overview of the results for the 2050 horizon While the NZC
+scenario brings higher emission-saving potential at higher costs compared to the
+NDP scenario, both high-ambition scenarios provide carbon emission savings as
+well as cost benefits compare to the BAU scenario Following the trend for 2035,
+San Pedro will require the highest total investment, due to the higher
+population density and the scarcity of area for installing the most cost-
+effective technologies Less-dense cities, such as San Rafael, will have lower
+total costs in the long term, taking advantage of the highest renewable energy
+potential for deploying combined wind and solar technologies The figure
+highlights that, despite the combination of technologies, the NDP scenario leads
+to lower total costs than the BAU scenario This suggests that decarbonising will
+result in lower costs and higher benefits associated with  low- or zero-
+emissions city The electricity generation capacity needed to meet the districts’
+demand in 2050 is expected to increase compared to the 2035 level, partly
+because the growing adoption of air-source heat pumps for providing heating and
+cooling services thanks to higher energy efficiencies and the resulting the
+lower carbon emissions (Figure 22) In addition, highly dense cities such as San
+Pedro will have the highest electricity demands in both scenarios Rooftop solar
+PV has  higher capacity in the BAU scenario for all districts (except for less-
+dense cities such as San Rafael) These systems, combined with wind turbines,
+contribute substantially to reaching the decarbonised pathway Adopting waste-to-
+energy incinerators (waste boilers) for energy  000 )   /    /    ( )   /    /
+(  000  500  500  000  000  500            500  000  000           500 500
+Carbon emissions (tCO2/cap/yr)  Carbon emissions (tCO2/cap/yr) NDC Desamparados
+San Vicente San Pedro NDC Desamparados NDP San Vicente NDP San Isidro San Rafael
+San Pedro NDP San Isidro NDP San Rafael NDP Desamparados NZC San Vicente NZC San
+Pedro NZC San Isidro NZC San Rafael NZC 37 SAN PEDRO SAN PEDRO Point  Point  47%
+100% 44% Point  Point  29% 68% 34% 49%      60 Capacity for electricity demand
+(MW) 40 20 Capacity for heat demand (MW) SAN RAFAEL SAN RAFAEL Point  Point  99%
+12% 12% 40% 34% 11% 88% 20% 57% 17% Point  Point   20        10 Capacity for
+electricity demand (MW) 15 Capacity for heat demand (MW) ASHP heat mode Heat
+(Grid) Micro CHP heat mode Grid Grid upgrade Wind turbine Micro CHP cool mode
+Micro CHP heat mode PV rooftop Waste boiler production also presents  solution,
+particularly as these promote the use of waste and  circular economy along with
+other benefits It can also be observed that operating point  shows  smaller
+installed capacity as far as heating is concerned due to the high efficiency of
+the air- source heat pump technology adopted in this operation strategy Energy
+storage systems will be part of the technology mix to enable the energy
+transformation of cities (Figure 23) The penetration of storage varies by city
+and depends not only on the share of variable renewables in the power mix, but
+also on the availability of space Since San Pedro is  highly dense city with
+high participation and support from the grid, the adoption of energy storage
+there was found to be lower in 2050 compared to 2035, due mainly to high
+electricity SAN PEDRO SAN PEDRO Point  Point  100% 97% Point  Point  25% 72%
+Electricity storage (MW)    Capacity for cooling demand (MW) SAN RAFAEL SAN
+RAFAEL Point  Point  99% 100% 96% Point  Point              Capacity for cooling
+demand (MW) Electricity storage (MW) AC (Grid) ASHP cool mode Micro CHP cool
+mode Li 38 demand that calls for importation to the district rather than storage
+capacity Alternative scenarios, presented in the following section, include
+sector coupling enablers (such as an optimised hydrogen strategy, relevant to
+the NZC scenario) as well as vehicle-to-grid potential through the use of
+battery capacity made available from electric vehicles  Alternative scenarios To
+cope with the electrification of the transport sector and with industry
+decarbonisation strategies, cities will require  mix of technologies that must
+be integrated into multi-source energy systems This might raise challenges for
+highly dense cities that face growing energy consumption as well as spatial
+constraints for installations Desamparados is  dense district in Costa Rica,
+making it an interesting case study for the three evaluated scenarios and
+proposed alternatives Figure 24 provides an overview of the operating points of
+all scenarios for Desamparados for the years 2035 and The contributions to costs
+and emissions of the transport and industry sectors are shown in the dotted
+lines (the emissions and costs related to electricity- driven solutions for
+transport and industry are excluded from the dotted lines) The expected yearly
+emissions per capita are represented in the black line, labelled NDC This was
+obtained by linearly interpolating the values included in MINAE (2015) for the
+years 2030 to 000  000 -61%  800  800 -89%  600  600 )   /    /    ( )   /    /
+(  400  400 -96%  200  200 -94% -57%  000  000           800 800           600
+600 400 400 200 200          Carbon emissions (tCO2/cap/yr)    Carbon emissions
+(tCO2/cap/yr) Mobility: BAU Mobility: BAU BAU Desamparados 2035 BAU Desamparados
+2050 NDP Desamparados 2035 Mobility: NDP NDP Desamparados 2050 Mobility: NDP NZC
+Desamparados 2035 Mobility+Industry: BAU NZC Desamparados 2050
+Mobility+Industry: BAU NDC Mobility+Industry: NDP NDC Mobility+Industry: NDP 39
+The figure presents  number of possibilities for fulfilling the NDC targets In
+addition, the benefit represented by going from the BAU scenario to the NDP
+scenario in percentage terms is included with arrows The NZC scenario was also
+included, and it is noted that, for 2035, the point of minimum carbon could be
+reduced by up to an additional 15% with respect to the NDP scenario This point
+of operation of the energy system would lead Costa Rica to carbon neutrality in
+the medium term but would require greater deployment of renewable energy in the
+remaining years of the 2050 horizon, mainly to cope with electrification of the
+transport sector Similar to the other districts and within the technological
+scope of this study, the district of Desamparados would unlikely meet the NDC
+target by 2035 by solely deploying supply-side measures, as in the path of the
+BAU scenario Furthermore, the BAU scenario appears to be  more costly pathway
+when considering the inclusion of distributed energy systems within the district
+The carbon emissions related to supplying energy for buildings, industry and
+mobility can be lowered by  factor of  to  when respectively considering the NDP
+or the more aggressive NZC scenario Most of the optimal points of the NDP and
+NZC scenarios can meet the NDC carbon emission target by Alternative
+technological scopes for the NZC scenario were considered, in which sector
+coupling technologies and strategies are taken into account and their impact is
+quantified The alternative options for the NZC scenario analysed in the
+following section include flexibility potential for the districts through sector
+coupling technologies, as follows: • 10% of the battery capacity of parked
+electric vehicles can be used by the optimisation problem as storage capacity in
+vehicle-to-grid configuration • Hydrogen technologies are adopted to provide
+flexibility The model optimised local production (versus importation) of
+hydrogen, along with storage capacity and dispatch, considering the requirements
+for hydrogen applications in the end use sectors Combinations of those
+alternative scenarios are presented in Figure 25, highlighting the capabilities
+to reduce costs (by around 15%) and emissions through increased local storage
+capacities, the vehicle-to-grid strategy, and the possibility of on-site
+production of hydrogen  500 99%  400 NDP Desamparados 2050 99% 73% )   /    /
+( NZC Desamparados 2050  300 89% NZC Desamparados 2050 V2G 66% 99%  200 99% NZC
+Desamparados 2050 V2G H2 75% 88%  100 99% 76% NDP San Rafael 2050 66%       000
+NZC San Rafael 2050 99% 99%           76%     900 NZC San Rafael V2G 2050 77%
+NZC San Rafael 2050 - H2 800 NZC San Rafael 2050 V2G H2 700       Carbon
+emissions (tCO2/cap/yr) 40 Another finding of the study highlights the cost
+effectiveness of storage solutions for less-dense districts such as San Rafael,
+where increasing the storage capabilities decreases the overall costs of the
+energy supply For denser districts, the benefit of  storage strategy versus grid
+upgrade is lower, given  lower renewable energy potential in relation to higher
+electricity demand  community-scale analysis can be developed to further assess
+the role of storage in this context  Implications for the national grid
+infrastructure The electricity imported from the grid is higher in the NDP
+scenario, given increased electricity demand as  consequence of electrification
+of the mobility sector At the utility scale, the insights from the study provide
+quantification of the requirement from the national grid in terms of electricity
+imported to the districts, for the different solutions (Figure 26) These results
+account for the potential of  renewable-based distributed energy system deployed
+in the districts of Costa Rica and provide insights for the local generation,
+transmission and distribution utilities to consider when developing grid
+expansion planning at the regional or national scale CNFL     -          -
+-          -          -          -        000  000  000  000  000  000  000  000
+000 10 000 Electricity Consumption (GWh) Min-costs Min-carbon 41 In the short
+term, grid imports to the districts oscillate around today’ value for the cost-
+minimal solution, despite the increase in electrification For carbon
+minimisation, electricity import to the districts increases by up to 25%
+compared to today’ electricity demand In the long term, electricity demand will
+grow in the net zero carbon districts scenario, increasing the need for
+renewable electricity import to the districts Local renewable energy sources
+through distributed energy systems can meet part of the increased electricity
+demand that would come largely from electrification of the transport and
+industry sectors Further analysis can be performed on the potential to optimise
+energy demand and supply by considering inter-district energy exchange, the role
+of storage at the community scale and demand-side management measures
+Extrapolation to the CNFL area With the application of the clustering analysis,
+the district-level results were extrapolated to the CNFL area This provides an
+estimate of the potential for renewable energy deployment within the area For
+the optimal decarbonisation pathway, considering the minimum carbon emissions
+solutions leads to  potential installed renewable energy capacity of  gigawatts
+(GW) to  GW of solar PV and 100 MW to 200 MW of wind power, combined with the
+deployment of options providing system flexibility in 2050, including 26 MW to
+80 MW of electrolyser capacity (13 MW fuel cell) and up to  GWh of electricity-
+based storage capacity This provides an estimate of the renewable energy
+potential that can be harvested in and around the city as well as in the region
+Total costs per capita in cities within cluster  (for example, San Rafael of
+Escazú, Guadalupe of Goicoechea, San Pedro of Montes de Oca, Curridabat and Tres
+Rios) will tend to be higher than in the other clusters Cities in cluster  will
+have the second highest total cost per capita, followed by cities in cluster
+and cluster  Cities in cluster  will tend to have the lowest total cost per
+capita There is  close correlation between the total costs per capita and the
+population density – the higher the density, the higher the total costs Despite
+the planning horizon, the results also highlight that the scenario with
+decarbonisation typically leads to lower total costs The deployment of rooftop
+solar PV systems along with network upgrades to enable their integration was
+found to be key across all cities While wind turbines could also help in the
+decarbonisation of cities, this technology was found to be suitable primarily
+for cities within cluster  Air-source heat pumps are  technology with great
+potential to reduce emissions, and lithium-ion batteries will enable greater
+integration of renewable energy sources Table  provides the total emissions per
+capita in each of the five districts As expected, the scenario with
+decarbonisation targets leads to operations with much lower emissions than the
+BAU scenario The population of cities can be used to reflect the total costs and
+emissions for each district, as well as for the total CNFL concession area Table
+highlights that decarbonising the CNFL concession area by 2050 will require
+total costs equal to % of the country’ GDP Notably, the BAU scenario leads to
+higher total cost ranges Moreover, there are extra benefits associated with the
+deployment of renewables that have not been quantified in this analysis Table
+indicates that the deployment of renewable energy sources combined with an
+electrification strategy enables  reduction of up to around  Mt of CO2 compared
+to the BAU scenario This reduction is achieved primarily thanks to the
+deployment of renewables and the electrification of the transport sector 42
+TABLE : Total per capita CO2 emissions of the energy systems in the five
+district clusters for 2035 and 2050 CARBON EMISSIONS (TONNES OF CO2-EQUIVALENT
+PER CAPITA) CLUSTER BAU 2035 NDP 2035 NZC 2035 BAU 2050 NDP 2050 NZC 2050 60 -
+75 82 - 97 70 - 86 87 - 17 19 - 91 03 - 09  64 - 92 83 - 10 70 - 99 94 - 69 21 -
+91 04 - 48  74 - 16 85 - 44 72 - 33 10 - 48 26 - 37 07 - 58  60 - 72 82 - 98 70
+- 85 87 - 10 20 - 58 03 - 69  57 - 66 81 - 92 69 - 79 82 - 06 18 - 82 02 - 72
+Note: The table presents the variation between emissions to cost-optimal
+solutions TABLE : Total costs of the energy system in the five district clusters
+for 2035 and 2050 TOTAL COSTS (% OF NATIONAL GDP) CLUSTER BAU 2035 NDP 2035 NZC
+2035 BAU 2050 NDP 2050 NZC 2050 14 - 38 89 - 09 04 - 11  - 23  - 83 88 -   77 -
+99 64 - 81 72 - 75 79 - 91 62 - 67 67 - 68  53 - 54 47 - 52 52 - 52  - 51 44 -
+46 47 - 48  58 - 63 46 - 47 51 - 52 57 - 58 43 - 44 46 - 47  07 - 09 06 - 08 06
+- 08 07 - 08 05 - 06 05 - 06  09 - 63 52 - 97 85 - 98 03 - 31 34 - 46 53 - 59
+Total Note: The table presents the variation between emissions to cost-optimal
+solutions TABLE : Total CO2 emissions of the energy system (MtCO2e) in the five
+district clusters for 2035 and 2050 CARBON EMISSIONS (MtCO2e) CLUSTER BAU 2035
+NDP 2035 NZC 2035 BAU 2050 NDP 2050 NZC 2050 35 - 48 69 - 82 59 - 73 63 - 90 17
+- 67 03 - 83  78 - 91 39 - 52 33 - 47 96 - 34 10 - 95 02 - 23  40 - 49 19 - 33
+16 - 30 45 - 17 06 - 72 01 - 98  68 - 73 35 - 42 30 - 36 84 - 94 09 - 71 01 - 76
+09 - 10 05 - 05 04 - 05 12 - 14 01 - 12 00 - 11  30 - 71 67 - 14 42 - 91 00 - 49
+43 - 17 07 - 91 Total Note: The table presents the variation between emissions
+to cost-optimal solutions 43 The population for each city within the CNFL
+concession area and the emissions for each district were used to estimate the
+carbon emissions reductions for the NZC scenario in 2050 compared to the no-
+policy (BAU) scenario Since all cities deploy zero-emission technologies along
+with energy efficiency measures in the NZC scenario, the reduction of emissions
+is significant (particularly for highly dense cities) and is attributed mainly
+to the transport sector Cities such as San Rafael have the least reduction of
+emissions mainly because of the smaller population size and lower number of
+vehicles The carbon emissions are quantified for the medium-term and long-term
+scenarios, stacked by sector and scenario in Figure 27, starting with the
+mobility, industry and buildings sectors, which also include the generation of
+local energy, such as electricity and hydrogen, based on the scenario The shaded
+areas in the figure represent the emissions for the different objective
+functions, with the lower end representing carbon minimisation The maximum
+emission reduction achieved per scenario is highlighted on the figure, with the
+name of the scenario juxtaposed to the final carbon emissions reached in The NDP
+scenario provides  potential reduction in carbon emissions of 50% compared to
+the BAU scenario Between 83% and 87% of the emissions savings, for 2035 and 2050
+respectively, are achieved through the electrification of transport combined
+with the development of public transport The NZC scenario provides  further 15%
+reduction in carbon emissions in 2035 through efficiency measures for appliances
+and by switching LPG use in cooking to electricity- driven systems for buildings
+000  000 )      (           000        000  000  2020 2025 2030 2035 2040 2045
+2050 Mobility Industry Cooking Building & energy scenario BAU NDP NZC 44  Key
+challenges and proposed actions To implement the district- or city-level
+decarbonisation solutions as  contribution to the national plan in Costa Rica,
+number of key challenges would need to be addressed Strengthen institutional co-
+ordination Urban energy planning requires the co-ordination of  multitude of
+fields, stakeholders and information in order to reach  diversity of
+sustainability objectives and trade-offs While architects and planners must
+rethink buildings and spaces, local and regional authorities need to adapt
+organisational procedures; lawyers and politicians need to adjust legal texts
+and policy; and utilities must develop profitable business models In addition,
+at the national level the co-ordination among different relevant ministries
+needs to be strengthened to address the issues around urban development and the
+associated growth in energy demand in  co-ordinated fashion and to deliver
+optimal solutions to both issues at the city level Urban energy demand is
+substantially affected by urban planning and forms, while urban planning offers
+opportunities to integrate local renewable-based generation into cities To
+achieve this, the institutional barriers that limit the penetration of renewable
+energy generation facilities in distribution networks should be removed Co-
+ordinate charging of fleets to avoid stress on the power grid The charging of
+electric vehicles during periods of maximum electricity demand may pose
+challenges to the operation of distribution networks, if smart charging schemes
+are not put in place Distribution network operators must study the interactions
+between these technologies Thus, detailed technical studies must be executed to
+understand the network’ ability to host the new technologies Importantly,
+charging schemes to mitigate potential technical problems must be developed to
+allow high penetration levels of electro-mobility The technical challenges and
+the cost effectiveness of these schemes must be assessed Develop  tariff
+structure for the electrification of the industrial sector There have been
+discussions in the country on the tariff for the industrial sector The
+electrification of industry activities will require reviewing the tariff to
+ensure the cost-effectiveness of applications For example, electrical chillers
+will increase electricity demand, and this will likely lead to  higher tariff
+unless new tariff schemes are deployed to offset the fuel switch from subsidised
+fossil fuels to renewable electricity Interestingly, the taxation on fossil
+fuels used for the transport sector has represented around 11% of government
+revenue –  typical case of cross-subsidisation Electrification of the transport
+sector will reduce fossil fuel consumption, and consequentially this revenue
+However, on-site renewable electricity generation facilities can usually bring
+more local job opportunities and economic activities, thus generating economic
+gains Therefore, it would be advisable to review the economics of shifting away
+from fossil fuel to renewable electricity in  holistic approach Local
+governments manage or oversee all city activities and developments; thus, they
+should play  central role in determining the energy and carbon emission
+scenarios of their cities They also have direct access to their citizens and are
+best positioned to know their needs and to influence their behaviour
+Municipalities can also undertake significant energy savings in their own
+operations, thereby saving money, setting  good example and even testing new
+technologies (ICLEI, 2009) Based on this study, the following actions were put
+forth for local authorities in general in the country 45 Create  greenhouse gas
+inventory to enable prioritisation of actions based on mitigation targets Only
+12 municipalities in Costa Rica have  greenhouse gas inventory (DCC, 2018),
+while another 11 are starting this process The remaining municipalities should
+also be part of this initiative, as it provides  clear indication of the type of
+energy-related measures that will bring the greatest emission reduction benefits
+Design an integral long-term strategy with intermediate goals and short-term
+policy instruments The design of  long-term strategy is essential for better
+planning the transition towards energy efficiency, electrified transport and
+higher shares of renewable energy sources This strategy must include mid-term
+goals to measure progress in the interim In addition, quantitative analysis that
+roadmaps the technological transformation along with its costs and benefits will
+enable  better decision-making process The long-term strategy must also account
+for multiple development objectives By incorporating different societal points
+of view, it is more likely to be accepted by the community, although this brings
+an extra layer of complexity Co-ordination with local residents and industry
+within the city has to be considered in this long- term energy strategy Use
+advanced planning tools to inform transformational plans GIS-based tools enable
+capturing the particularities of cities for planning the energy transition, as
+they can be used to better understand the relation between energy generation and
+demand needs (Valverde et al, 2017) They also allow  better allocation of
+renewable energy sources accounting for space limitations The planning of other
+key infrastructure such as the building design and waste management activities
+in cities can also benefit from GIS tools Temporal granularities and spatial
+boundaries must be accounted for when applying these tools, given the unique
+geographic and production patterns of renewables such as wind and solar Involve
+local governments in the provision of services to bring benefits to city
+inhabitants Local governments in the country have little or no participation in
+the provision of basic services including water, integrated waste management,
+electricity and transport However, they manage or oversee all city activities
+and developments It is therefore recommended that they be involved in the
+planning and design of these services as well as in transport planning across
+and within the city Local governments should prioritise those energy-related
+cross-sector projects that could create synergies, improve the overall
+efficiency of resource management, and show significant cost savings, while
+building  more sustainable urban system 46                 /
+© 47 CONCLUSIONS This report explored the plausible decarbonisation pathways for
+the Greater Metropolitan Area of the Central Valley in Costa Rica This
+represents  potential action that sub-national governments can take to assist
+the national government in implementing the National Decarbonisation Plan, given
+that the country’ carbon emissions come mostly from the transport, industry and
+buildings sectors Additionally, locally available renewable energy potential,
+particularly solar PV and wind energy, can in the long run be tapped into to
+diversify the power mix, thus enhancing the security of energy supply from
+technical perspective The study also found that sector coupling technologies and
+strategies will play  critical role in keeping the energy system operation
+reliable and stable while diversifying the energy supply by scaling up variable
+renewable energy sources In this regard, through applying the Planning Platform
+for Urban Renewable Energy –  tool that IRENA has developed – different coupling
+options for the five districts located within the concession area of the state-
+owned power utility CNFL were evaluated as part of the overall analytical
+results, based on which the different scenarios were constructed The granular
+temporal and geospatial analyses for those representative districts were
+conducted and the ensuing extrapolation to the Greater Metropolitan Area was
+taken to understand the potential impact on the entire area The results show
+that the resultant emission reduction would be reached by around 90% by 2050
+compared to BAU is technically possible in the NDP scenario Crucially, the
+results demonstrate that it is possible to reach  100% reduction in this same
+period in the NZC scenario In other words, there are no technological barriers
+to meeting high- ambition targets by Notably, decarbonisation of the transport
+sector is likely to contribute the greatest level of emission reductions and
+will potentially drive other socio-economic benefits in cities such as lower
+congestion, fewer accidents, improved air quality and more jobs Overall, this
+study has created  link between the National Decarbonisation Plan and the
+actions that local governments can take to contribute to the national carbon
+neutrality goal by However, materialising the net zero scenarios described in
+the study would require the removal of institutional and regulatory barriers to
+allow sub-national governments to devise specific plans and actions based on
+their localities At the national level, the study results would enable better
+co-ordination between urban planning and energy planning With the support of the
+planning platform to facilitate the decision-making process for long-term urban
+energy planning in cities – by analysing and optimising the technical and
+financial viability of integrating renewable energy technologies – sub-national
+governments could undertake informed planning to maximise the use of renewable
+energy potential with the support of sector coupling options to meet their
+energy demand This will not only assist them in contributing to the national
+climate objectives, but also enhance their climate resilience capacity as well
+as benefit the local economy and people 48 REFERENCES Central Bank of Costa Rica
+(2020), Commentary on national economy No -2020, San José,
+economia_nacional_07_2020pdf CCP (2012), District projections of Costa Rica
+population , Central American Population Center, San José,  (accessed 20 May
+2020) CEPAL (2018), Economics of climate change in Latin America and the
+Caribbean:  graphic view, Economic Commission for Latin America and the
+Caribbean, Santiago,  repositoriocepalorg/bitstream/handle//S1800475_enpdf DCC
+(2018), Carbon neutrality country program – cantonal category, Climate Change
+Directorate,  García de Fonseca, ,  Parikh and  Manghani (2019), Future
+evolution of renewable energy and storage costs in Latin America, Inter-American
+Development Bank, Washington, ,  of Costa Rica and MINAE (2019a), National
+Decarbonisation Plan Costa Rica, Ministry of Environment and Energy, San José,
+of Costa Rica and MINAE (2019b), II Biennial Update Report to the United Nations
+Framework Convention on Climate Change, Ministry of Environment and Energy, San
+José,  CostaRica-BUR2--IBA-pdf Guias Costa Rica (), “Costa Rica cantonal atlas,
+(Atlas cantonal Costa Rica)”  guiascostaricacom/atlas-cantonal-costa-rica/ ICLEI
+– Local Governments for Sustainability (2009), Sustainable urban energy
+planning:  handbook for cities and towns in developing countries, Bonn,
+downloads/Sustainable%20Urban%20Energy%20Planningpdf ICE (2019), Generation and
+demand: Annual report, Instituto Costarricense de Electricidad, San José,
+jsf?init=true&categoria=&codigoTipoArchivo=ICE (2018), Plan de expansion de la
+generación electrica , Instituto Costarricense de Electricidad, San José,  834f-
+6f5890eebb64/PLAN+DE+EXPANSION+DE+LA+GENERACION+2018-pdf?MOD=AJPERES&CVID=mIeNZK
+V IDB and DDP-LAC (2019), Getting to net-zero emissions: Lessons from Latin
+America and the Caribbean, Inter-American Development Bank, Washington, ,  org
+IMF (2020), World economic outlook database, International Monetary Fund,
+Washington,  (accessed 20 January 2021) INEC (2019), National household survey,
+National Institute of Statistics and Censuses, San José,  INEC (2018),
+Construction statistics 2017, National Institute of Statistics and Censuses, San
+José INEC (2017), Statistical yearbook : Compendium of data of the country,
+National Institute of Statistics and Censuses, San José,  biblioteca-
+virtual/reanuario2014-pdf INEC (2016), Manual of geographical classification
+with statistical purposes of Costa Rica, National Institute of Statistics and
+Censuses, San José IRENA (2021a), Renewable energy policies for cities,
+International Renewable Energy Agency, Abu Dhabi,  IRENA (2021b), Renewable
+power costs in 2020, International Renewable Energy Agency, Abu Dhabi,  (2020a),
+Rise of renewables in cities, International Renewable Energy Agency, Abu Dhabi,
+IRENA (2020b), Measuring the socio-economics of transition: Focus on jobs,
+International Renewable Energy Agency, Abu Dhabi,
+Publication/Feb/IRENA_Transition_jobs_2020pdf IRENA (2014), The socio-economic
+benefits of solar and wind energy, International Renewable Energy Agency, Abu
+Dhabi,  Socioeconomic_benefits_solar_windpdf Leiva, , et al (2017), “Statistical
+representation of demand for GIS-based load profile allocation in distribution
+networks”, 2017 IEEE Manchester PowerTech, IEEE,  ieeeorg/document/MINAE
+(2019b), Study for the characterization of energy consumption in the industrial
+sector – final report, Ministry of Environment and Energy, San José MINAE
+(2015), Costa Rica' Intended Nationally Determined Contribution, Ministry of
+Environment and Energy, San José Nasraoui,  and - Ben ’Cir (2019), Clustering
+Methods for Big Data Analytics: Techniques, Toolboxes and Applications,
+Springer, Berlin, doi: 1007---2_4 Presidencia de La República (2019) Synthesis:
+National decarbonization plan 2018- 2050, (Síntesis: Plan nacional de
+descarbonización 2018 2050)”, San Jose, Costa Rica  descarbonizacion-/ 50
+Quirós, ,  Rojas,  Arrieta and  Parajeles (2018), Estudio sobre viabilidad de
+opciones para almacenamiento de energía, University of Costa Rica, San José
+Quiros-Tortos, ,  Arguello and  Valverde (2017), “Statistical analysis of
+residential demand behavior in Costa Rica: Creation of load profiles in 2016”,
+IEEE 36th Central American and Panama Convention, Concapan 2016, IEEE,
+doi:1109/CONCAPANRenewablesninja (),  (accessed 29 July 2020) Rigoni,  et al
+(2016), “Representative residential LV feeders:  case study for the north west
+of England”, IEEE Transactions on Power Systems, Vol 31/, IEEE, pp , doi:1109/
+TPWRSSaget, ,  Vogt-Schilb and  Luu (2020), Jobs in  net-zero emissions future
+in Latin America and the Caribbean, Inter-American Development Bank, Washington,
+,  dxdoiorg/SEPSE (), Costa Rica: datos relevantes de la flota vehicular San
+Jos´, Costa Rica 2020- , from  (accessed on 20 May, 2020) SEPSE and MINAE
+(2018), “Costa Rica: datos relevantes de la flota vehicular”,
+tableaucom/profile/sepse#!/vizhome/Flotavehicular/Dashboard1 (accessed 17 July
+2020) UNFCCC (2019), “Costa Rica commits to fully decarbonize by 2050”, United
+Nations Framework Convention on Climate Change,  fully-decarbonize-by-UNFCCC
+(2018), National Decarbonisation Plan , Government of Costa Rica and United
+Nations Framework Convention on Climate Change, Bonn,
+default/files/resource/NationalDecarbonizationPlanpdf UNFCCC et al (2020),
+Survey on NDCs Latin America 2020, United Nations Framework Convention on
+Climate Change, Bonn,  Survey%20on%20NDC%2013%20October2020pdf Unidas,  (2009),
+Clasificaci´on industrial internacional uniforme de todas las actividades
+econ´omicas (ciiu) (No ) Nueva York: Naciones Unidas United for Efficiency
+(2019), “Costa Rica: Country saving assessment: Lighting:,
+united4efficiencyorg/country-assessments/costa-rica Valverde et al (2015),
+An´alisis ´ecnico- financiero de la generaci´on distribuida en la cnfl, Vol ;
+Tech Rep No , San Jos´, Costa Rica Valverde, , et al (2017), “Integration of
+open source tools for studying large-scale distribution networks”, IET
+Generation, Transmission & Distribution, Vol 11, The Institution of Engineering
+and Technology, London, doi: 1049/iet-gtdWorld Bank (2020), World Bank
+Indicators, “GDP (current US$) – Costa Rica”,
+worldbankorg/indicator/NYGDPMKTPCD?locations=CR World Bank (accessed 21 June
+2020) 51  © IRENA 2022

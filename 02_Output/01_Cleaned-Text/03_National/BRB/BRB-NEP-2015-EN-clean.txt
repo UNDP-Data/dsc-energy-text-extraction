@@ -1,0 +1,1714 @@
+Table of Contents ACKNOWLEDGEMENTS  EXECUTIVE SUMMARY  INTRODUCTION 10
+METHODOLOGY AND APPROACH 13 OVERARCHING IMPLEMENTATION STRATEGY 16 ENERGY
+TARGETS 19 IMPLEMENTATION TOOLKIT: 25 • List of Policy Measures • • Results
+Framework • Monitoring and Evaluation Framework • Risk Analysis • Management
+Arrangements 26 32 39 42 46 52 Implementation Activities by Year and Thematic
+Area DEVELOPING COMMUNITIES THROUGH RENEWABLE ENERGY – COMMUNITY INVOLVEMNT IN
+54 KEY ASSUMPTIONS AND LIMITATIONS OF IMPLEMENTATION PLAN 56 APPENDIX  -
+ALLOCATION OF ACTIVITIES BY RESPONSIBLE PARTY 58 APPENDIX  – ALLOCATION OF
+ACTIVITIES & RESPONSIBLE PARTIES 74 APPENDIX  – RISK REGISTER GUIDELINES 88
+APPENDIX  – RISK REGISTER THREAT RATING DESCRIPTION 93 IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY |  LIST OF TABLES Table 1A Energy Mix Scenario
+2030 22 Table 2A Schedule of Installation of Renewable Energy Over the Next
+years 22 Table 3A Schedule of Electricity of Electricity Production (GWh) from
+Renewable Energy Over the Next  years 23 Table 4A Schedule of Investment in
+Renewable Energy Over the Next  years ($) 24 Table 5A Spatial Requirements for
+Electricity Generation Facilities (Acres) 24 LIST OF Figures Figure  Main
+Working Groups of Implementation Plan 15 Figure  2015 Electricity Consumption by
+Sector 20 Figure  2015 Energy Demand 21 Figure  2015 Energy Production 21 53
+Figure : Project Implementation Management Structure  | IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY ACRONYMS & ABBREVIATIONS AG BAPE Office of the
+Auditor General Barbados Association of Professional Engineers Barbados
+Community College Barbados Chamber of Commerce & Industry Barbados Cane Industry
+Corporation Barbados Defense Force Bio Economy Group Barbados Economic Recovery
+and Transformation Programme Barbados Light & Power Company Ltd Barbados
+National Energy Policy Barbados National Oil Company Ltd Barbados Renewable
+Energy Association Barbados Statistical Service Corporate Affairs and
+Intellectual Property Office Caribbean Center for Renewable Energy & Energy
+Efficiency Chief Parliamentary Counsel Enabling Activity Environmental
+Protection Department in the Ministry of Environment and National Beautification
+Energy Equivalency Licenses Energy Service Companies Electrical Vehicle Fossil
+Fuel Free Feed-In-Tariff Fair Trading Commission Government Electrical &
+Engineering Department Gigawatt hours Inter-American Development Bank
+Implementation Plan Independent Power Producers Integrated Resource Planning
+Ministry of Agriculture & Food Security Ministry of Environment & National
+Beautification Ministry of Education, Technology and Vocational Training
+Ministry of Energy & Water Resources MFAFT Ministry of Foreign Affairs & Foreign
+Trade Ministry of Finance, Economic Affairs & Investment Ministry of Health and
+Wellness Ministry of Labor and Social Partnership Relations MOFEI BCC BCCI MOH
+MOL BCIC BDF BEG BERT MOU MSBEC Ministry of Small Business, Entrepreneurship and
+Commerce Ministry of Transport, Works and Maintenance Megawatt hours National
+Climate Change Committee Non-Governmental Organisation National Petroleum
+Corporation Pan American Health Organisation Public Implementation Unit in the
+Ministry of Finance, Economic Affairs & Investment Policy Measures Project
+Monitoring and Coordination Team Private Sector Project Steering Committee
+Public Sector Smart Energy Public Service Vehicles Association Project Task
+Force Resource Coordination Team Renewable Energy Renewable Energy Licensing
+Regime Samuel Jackman Prescod Institute of Technology Specific, Measurable,
+Achievable, Relevant, Time Bound Sanitation Service Authority in the Ministry of
+Environment & National Beautification to be determined Town & Country Planning
+Department Terms of Reference Technical Vocational Educational Training Council
+University of the West Indies MTWM BL& BNEP BNOCL BREA BSS CAIPO MWh NCCC NGO
+NPC PAHO PIU CCREEE CPC EA EPD PM PMCT PS PSC PSSEP PSVA PTF RCT RE RELR SJPI
+EEL ESCOs EV FFF FIT FTC GEED GWh IADB IP IPP IRP MAFS MENB SMART SSA TBD TCPD
+TOR TVET METVT MEWR UWI IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+|  ACKNOWLEDGEMENTS Substantial contributions are acknowledged from the wide
+cross-section of stakeholders, including non- governmental organisations, public
+and private sector representative from the various thematic areas outlined in
+the Barbados National Energy Policy (BNEP) This document reflects feedback from
+number of partners who will collectively play  vital role in implementing and
+validating the various milestones outlined in this plan The inputs provided by
+the following organisations are appreciated: • Alliance of Public Transport
+Operators • Barbados Cane Industry Corporation • Barbados Chamber of Commerce
+and Industry • Barbados Defense Force • Barbados Light & Power Co Ltd • Barbados
+National Oil Company Ltd • Barbados National Terminal Company Ltd • Barbados
+Renewable Energy Association • Barbados Sugar Industries Ltd • Coastal Zone
+Management Unit • Delegation of the European Union • • McEnearney Quality Inc •
+Megapower Ltd • Ministry of Energy and Water Resources • Ministry of Environment
+and National Beautification • Ministry of Transport, Works and Maintenance •
+Nassco Ltd • National Petroleum Corporation • Pavana Energy Inc • Petroleum
+Dealers Association • RUBIS Caribbean • Sanitation Service Authority • Simpson
+Motors Ltd • Simpson Oil Ltd • The Fair Trading Commission • Transport Board •
+United Nations Development Programme for Barbados and the OECS Innogen
+Technologies Inc • Williams Solar In addition,  wish to recognise the
+contributions of the associate consultants, Miss Kristin Qui and Mr Ryan Als, in
+helping to structure the approach and finalise various aspects of this document
+| IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY EXECUTIVE SUMMARY To
+assist the Government of Barbados with achieving its 2030 vision of becoming
+100% fossil fuel free (FFF) by 2030, the Government of Barbados, with the
+Ministry of Energy and Water Resources (MEWR), commissioned the development of
+this implementation plan (IP) to supplement the Barbados National Energy Policy
+(BNEP)  Oil and Gas Supply;  Transport; and  Renewable Energy Supply and Storage
+Working group seminars were held from November 2018 to December During the
+Renewable Energy Stakeholders meeting,  survey was administered to identify
+critical factors relating to opportunities and threats to the implementation of
+the 100% FFF vision 35 interviews with persons from various organisations helped
+to flesh out specific activities for implementation to be carried out by those
+organisations This IP identifies output-level measures that will accelerate full
+integration of renewable energy (RE) into Barbados’ energy mix The first section
+of the document explains the methodology and approach undertaken to develop the
+IP Following the methodology section, is  projection of Barbados’ target
+renewable energy mix in 2030, including calculations for target numbers, details
+on costs and benefits and spatial requirements for the renewable energy
+technologies necessary to achieve the 2030 vision The IP also includes  detailed
+implementation toolkit, which includes an implementation strategy by year and
+thematic area listing the required activities to achieve the 100% FFF target by
+2030,  results framework,  monitoring and evaluation framework, and potential
+management arrangements Key limitations and assumptions of this IP are included
+toward the end of the document, followed by three appendices Appendix  lists the
+activities to be implemented by various entities and stakeholders, Appendix  and
+describe the risk register guidelines and threat rating The working groups
+identified some concerns to be addressed in order to achieve the 100% FFF vision
+and proposed solutions to these concerns Specifically, these concerns include
+resource identification and mobilisation, capacity building, communication and
+change management For resource identification and mobilisation, the
+establishment of  Resource Coordination Team (RCT) will serve to identify
+sources of technical and financial resources and will be responsible for project
+concept and proposal writing and review and other related activities This team
+will be cross-sectoral and comprise of experts from various Government
+Ministries  detailed capacity assessment was listed as necessary during the
+initial stages of implementation in order to identify gaps in the various
+entities/organisations required to create an enabling environment for achieving
+the 2030 vision The capacity assessment will focus on staffing, technology and
+training For communication, the working groups identified the need for
+communication channels that facilitate constant dialogue across the working
+groups as necessary This will include an online dialogue platform, quarterly
+stakeholders meetings with members of all working groups, allowing for updates
+on progress and inviting comments for consideration Finally,  framework will be
+established to assist individuals and organisations in making the change to 100%
+FFF The The IP approach reflected  multi-sectoral stakeholder process The
+methodology consisted of  working groups separated by thematic area:  Natural
+Environment and Climate Change;  Electricity Supply, Energy Efficiency and
+Conservation; IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY |
+framework will focus on the principles of awareness, desire, knowledge, ability
+and reinforcement (ADKAR) Monitoring and evaluation of the IP will include
+project inception workshop to determine roles, ownership, responsibilities,
+reporting, communication, decision- making structures, staffing and other key
+factors and requirements for successful start of the project Several reports and
+logs, along with an annual project review and annual review report, will assist
+in monitoring of implementation  mid-term review and final evaluation will focus
+on delivery of project results The IP includes energy targets for 2030 based on
+various estimates and assumptions Over the next  years, 2019 to 2023, 295 MW of
+renewable energy is one possible scenario could be potentially be commissioned,
+consisting of  minimum of 160 MW of solar photovoltaics and  minimum of 120 MW
+of wind This scenario also identifies 80 MW of energy storage The scheduled
+implementation of technologies will result in 688 GWh of electricity from
+renewable energy sources in the first  years of implementation The estimated
+cost of achieving 100% renewable energy by 2030 is about $ billion, while the
+estimated economic benefit from the sector on an annual basis is projected to
+average around $ billion per year over the ten year implementation period, which
+can be attributed to  release of resources used to import fossil fuels It was
+found that greater local investment might result in greater local benefits,
+whereas greater foreign investment means less benefits being retained locally
+detailed risk register included in the IP reflects the concerns expressed in the
+working group sessions, as well as from the individual interviews with key
+stakeholders These threats to implementation will guide the Project
+Implementation Team accordingly along with relevant remedial actions aimed at
+minimising and/or avoiding the occurrence of identified threats In terms of
+management of implementation,  Project Management Team (PMCT) and Project Task
+Force (PTF) will be established The PMCT will support the delivery of the
+outputs The responsibilities of the PMCT include day-to-day management and
+coordination of the project and its respective activities,  Monitoring and
+Evaluation, Procurement, Administrative Support, Technical Support and Finance
+and Awareness and Communication within the IP Spatial requirements for each of
+the renewable energy technologies vary by technology The IP finds that solar
+photovoltaic facilities will need  minimum of 317 acres while wind technology
+will need 50 acres The estimated total spatial requirement for renewable energy
+generation facilities is 758 acres Land requirements for biomass are based on
+requirements for feedstock The IP estimates between 25 000 to 28 000 acres
+necessary for biomass feedstock (sugar cane and king grass) and food The PTF, or
+Project Board will consist of representatives from various Government
+Ministries, including MEWR, Ministry of Finance, Economic Affairs and
+Investment, the National Climate Change Committee (NCCC), the Barbados Chamber
+of Commerce and  representative from  relevant Non-Governmental Organisation
+Page 48 of the IP includes  visual of the reporting structure for the various
+teams The implementation toolkit in this IP consists of: )  list of Policy
+Measures; ) ) Results Frameworks; ) Monitoring and Evaluation Framework; ) Risk
+Analysis; and ) Project Management Arrangements Implementation activities by
+year and thematic area; It is important to note key assumptions and
+considerations related to the development of the IP The first assumption is that
+supervision of this implementation plan will be done by the PMCT Second, it is
+assumed that the thematic working groups outlined in the IP will continue to
+meet  | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY and provide
+oversight to the activities and that other stakeholders will be integrated into
+the IP as necessary It is also expected that stakeholders will formally take
+ownership of various activities and can therefore be considered responsible for
+particular activities The fourth assumption is that public communication of
+developments regarding progress and milestone achievements will occur and fifth,
+resource mobilisation team will be established to identify financial and
+technical resources for the activities outlined in this IP Recognising these
+limitations, the IP is designed as  ‘working document’ with sufficient
+flexibility and adaptability to rapidly incorporate inputs at any given time,
+without compromising the overall quality of the outputs identified In terms of
+considerations/limitations, the first is that the narrow timeline for
+consultation in development of this IP resulted in the prioritisation of
+thematic areas based on input from  range of relevant documents For this reason,
+some thematic areas are disproportionately represented However, the IP will
+advance working group engagements to incorporate other critical sectors
+throughout the project cycle Second, although the working group sessions were
+well attended and representative of the core drivers of the IP, input from other
+critical stakeholders will be needed to fully align activities to the existing
+operations of relevant institutions IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY |  INTRODUCTION 10 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY INTRODUCTION The purpose of the IP is to identify the necessary
+activities that will accelerate the paradigm shift across various sectors,
+towards the realisation of full integration of renewable energy (RE) into the
+energy mix of Barbados The IP therefore promotes functional cooperation
+primarily amongst government agencies, private sector entities and non-
+governmental organisations (NGOs) in an effort to ensure the most relevant
+participatory framework throughout the identification process and submission of
+key activities in the 100% FFF initiative safeguards Awareness, Communication
+and Knowledge Management are also vital areas in which NGOs can assist The
+overarching focus of NGOs will be on the alignment of the outputs and outcomes
+of the IP, relative to generally accepted standards and targets such as the
+United Nations Sustainable Development Goals In the area of developing renewable
+energy sources, Barbados must achieve ambitious targets that will contribute to
+an increase in the reliability of the energy supply, reduce negative impacts on
+the environment, economic growth and the development of jobs and employment As
+result, the Government of Barbados has embarked on an agenda of becoming 100%
+Fossil Fuel Free (FFF) by 2030, while taking into consideration  number of
+exogenous constraints beyond the parameters of its regulatory and developmental
+jurisdiction Worth noting within these constraints are considerations for the
+availability and costs of various renewable energy (RE) technologies, both of
+which are driven by external aggregate factors of demand, supply and rate of
+technological advancement In line with the 2030 vision, the Government of
+Barbados, through the Ministry of Energy and Water Resources, has commissioned
+the development of this Implementation Plan (IP) to supplement the Barbados
+National Energy Policy (BNEP) To that extent, the IP recognises the importance
+of the government institutions in facilitating regulatory, legislative and other
+policy-related measures to streamline existing processes and effectively adapt
+to the changing local and international realities in the renewable energy sector
+In order to address long-term sustainability throughout the transition, the
+private sector has to be afforded opportunities to maximise on the economic
+benefits aligned to various technologies and aspects of renewable energy (
+generation, distribution and storage) The role of the private sector therefore
+develops within  model of economic sustainability, that further enables the
+transfers of capital and technology necessary to ensure that Barbados is in
+touch with developments in the international RE sector The activities in this IP
+have evolved from key provisions in the BNEP, such as the overarching vision,
+associated goals, objectives and policy measures The IP advances the BNEP
+framework by identifying activities, risks and measurable results These features
+collectively define the enabling environment in the short-term (first  years)
+that would allow for the long-term realisation of becoming 100% FFF in Barbados,
+within the given resource and time constraints NGOs have  key role to play in
+the rollout and overall success of the IP The NGOs will ensure that the
+activities are executed in  manner that encompasses various developmental
+considerations such as gender mainstreaming and environmental and engineering
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 11 • Environmental and
+health benefits – The transition to RE will allow decreases in the overall
+levels of CO₂ and other greenhouse gas emissions in Barbados This development
+will add value to the sustainability and/or restoration of many aspects of the
+natural environment and may reduce the incidence of some health related matters
+During the development of the IP, support from key stakeholders in the public,
+provided the necessary platform for initial targeted inputs These stakeholders,
+throughout the consultation process, highlighted many determining factors that
+were crucial for success in the 100% FFF initiative Key among these were: •
+Government commitment to transitioning to RE – International Agenda – This
+endeavour of 100% FFF will signal that Barbados is establishing  serious and
+leading agenda not only regionally but also across the world, for other
+countries to observe and follow • The Government of Barbados has established the
+transition to RE as an item high on its priority list and “Mission Critical”
+agenda This therefore allows for minimal or no disruption in seeking cooperation
+with relevant government agencies • Tourism – The international agenda will
+result in Barbados being able to exploit and capitalise on another niche markets
+in the international tourism sector ( Eco-Tourism) This in turn may positively
+affect foreign exchange revenue generation • Exposure to external market
+volatility - Unpredictability of developments in external energy markets and
+subsequent impacts on fossil fuel prices • Prevailing economic conditions
+(foreign exchange) –  significant portion (approximately %) of Barbados revenue
+is utilised for importing fossil fuels This consumption presents an inverse
+relationship to the overall levels of foreign exchange reserves To assist in the
+overall management of critical activities, the IP has developed and incorporated
+an Implementation Toolkit, which is intended to add value to the pace of
+implementation and the quality of intended outputs • Geographical location – At
+1939° , 5432° , Barbados can take advantage of ‘prime’ levels (exposure and
+duration) of RE such as solar There are also some geographical advantages with
+respect to other types of RE;  wind and wave energy 12 | IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY METHODOLOGY & APPROACH IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY | 13 METHODOLOGY & APPROACH The IP reflects
+multi-sectoral engagement process, consistent with the approach used to create
+the Barbados National Energy Policy () The IP recognised the need for critical
+input from  wide variety of key stakeholders, as well as the various tools
+utilised in the collection, analysis and incorporation of information that
+validated the activities and timelines proposed These tools were:Working Groups
+- Stakeholders categorised into five () main working groups, along with three ()
+crosscutting thematic areas as depicted in Figure  Working Group seminars were
+held as follows: indicated  suitable time and date to conduct follow-up
+interviews Survey –  survey was conducted during the Renewable Energy
+Stakeholders meeting, hosted by the Ministry of Energy and Water Resources on
+Wednesday, November 28 at the Sir Lloyd Erskine Sandiford Center On the survey,
+respondents identified critical factors relating to opportunities and threats to
+the implementation of the 100% FFF vision 12 respondents at the meeting also
+Interviews – 35 individual interviews were conducted with various organisations,
+identified as responsible parties, over the period November 21, 2018 - December
+, 2018 for discussions on specific activities 14 | IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY Streetlighting signing ceremony Figure  - Main
+Working Groups of Implementation Plan IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY | 15 OVERARCHING IMPLEMENTATION STRATEGY 16 | IMPLEMENTATION PLAN
+FOR BARBADOS NATIONAL ENERGY POLICY OVERARCHING IMPLEMENTATION STRATEGY In order
+to achieve the intended results, outcomes and goal of the IP, it is essential to
+take preparatory steps that immediately address some concerns identified by
+stakeholders These concerns are: The RCT will comprise  cross section of
+relevant entities that regularly interact with funding agencies in the area of
+Energy, Environment, Climate Change and Disaster Risk Reduction These may
+include, but not be limited to: Resource Identification and Mobilisation
+Resourcing the many activities within the IP will be  decisive factor in its
+overall success, as preliminary estimates suggest that BBD $ billion will be
+required to achieve the 2030 vision It is therefore important to develop
+structured and adaptable framework to map all possible sources of technical and
+financial resources available to the executing agencies involved This exercise
+will be undertaken by  Resource Coordination Team that will assist in: • The
+Ministry of Energy and Water Resources • The Ministry of Foreign Affairs and
+Foreign Trade • The Ministry of Environment and National Beautification • The
+Ministry of Finance, Economic Affairs and Investment •  representation of local
+entities participating in  RE Project Concept and Proposal Writing and the
+financial sector and international development space Review (Technical and
+Administrative) as needed  Providing implementation support where applicable The
+RCT will meet at least every quarter IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY | 17 Capacity Building Implementation efforts will initially focus
+on identifying capacity gaps in key organisations that have essential roles in
+creating an enabling environment for the IP to progress at  reasonable rate
+These institutions include Town and Country Planning Department, Fair Trading
+Commission, Barbados Renewable Energy Association, Environmental Protection
+Department, Barbados National Oil Company Ltd, Barbados National Standards
+Institute, Government Electrical Engineering Department, Department of Energy,
+Sanitation Services Authority and the Ministry of Finance, Economic Affairs and
+Investment  detailed capacity assessment will focus on addressing the following
+questions: Communication The creation and maintenance of forums for constant
+dialogue is essential for success of the IP Communication channels, which
+utilise the guidance and technical expertise of the established working groups,
+will allow for timely adaptation to any relevant developments in both the
+external and internal stakeholder environment  quarterly stakeholder’
+consultation, consisting of all members of established working groups, will
+communicate project progress and invite comments for further consideration
+Communication on implementation progress, aided by the creation of  reliable
+online digital platform, will highlight the status of implementation of various
+activities, targets (outputs) and justifications for any shortfalls This
+platform, although dedicated primarily to communicating progress, adds to the
+overall of accountability of responsible parties • Staffing – Do these
+organisations possess the quantity and quality skillset needed to facilitate
+their roles in delivering results outlined in the IP? Change Management As the
+evolution to 100% FFF implicates  rapid transition in  relatively short period,
+it is important to adopt an approach that supports individuals, teams and
+organisations in making the change Therefore,  series of change management
+engagements to promote an ADKAR framework, where ADKAR reflects the principles
+of awareness, desire, knowledge, ability and reinforcement is needed to
+capitalise on sustainable support from all stakeholders These are all critical
+areas to change management • Technology – Do these organisations possess the
+requisite hardware and software apparatus, which will allow for uninterrupted
+service provision to various activities outlined in the IP? • Training – What
+are key capacity building engagements that will allow these organisations reach
+or surpass an acceptable standard of delivery and continuously be aware of
+modern developments in their field of operations, in alignment to the activities
+outlined in the IP? To advance this effort, ongoing initiatives such as the
+Public Sector Smart Energy Programme (PSSEP) will be utilised PSSEP will be
+undertaking  cross-sectorial capacity assessment, which will help to identify
+critical gaps in the readiness and adaptability of public and private sector
+institutions to the paradigm shift In addition, PSSEP will action the findings
+and address some of the capacity gaps directly, through the provision of
+training, equipment and other related and relevant resources It is important to
+adopt an approach that supports individuals, teams and organisations in making
+the change 18 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY ENERGY
+TARGETS IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 19 ENERGY
+TARGETS The Government of Barbados stated its commitment to transition the
+island to 100% renewable energy by In order to achieve this target by the stated
+period, there needs to be  clear energy mix that can be implemented at feasible
+investment and operation costs The planned energy mix will also include
+technologies that can operate under the following constraints over the planning
+period of 2030: • The target demand for energy • The spatial requirements for
+generation • Emission of CO2 for energy produced and consumed • Capital and
+operation expenditure to • commission and operate IP Electricity is heavily
+consumed by all the major economic sectors The consumption of these sectors is
+depicted and listed as follows for the base year 2015: 20 | IMPLEMENTATION PLAN
+FOR BARBADOS NATIONAL ENERGY POLICY The demand for energy during the base year
+is depicted and listed as follows: In 2018 electricity production from solar
+stood at % IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 21 Energy
+Source Installed Capacity (MW) 205 Solar (centralised) 105 Solar (distributed)
+150 Wind onshore 150 Wind offshore 15 Biomass & Waste-To-Energy 132 Energy
+storage (centralised) 68 Energy storage (distributed) 625 Total (Excluding
+Storage) Table 1A – Energy Mix 2030 Scenario The current demand for electricity
+is recorded to be 944 Gwh per for the period Given the above, the estimated
+demand used to determine the above mix was 1400 Gwh (See Table 1A) allow for the
+complete removal of fossil fuel, but may allow the reduction of the carbon
+emissions via fuel switching to natural gas Additionally, it is foreseeable that
+the airline industry will also most likely continue to use aviation fuel over
+the planning horizon ( 10 years) It is important to note that the energy mix
+will also be constrained by technology Hence, the fishing industry and the
+cruise industry will be impacted, as many of these vessels utilise diesel and
+heavy fuel oil The challenge here is that over the planning horizon and the
+initial implementation period the technology may most likely not With regards to
+energy savings, it has been acknowledged that emphasis must be placed on
+strategic investment in renewable infrastructure, in order to capitalise on
+annual energy savings of $400 – $800 million1      Total 32 32 32 32 32 PV 160
+120 Wind 120 15 Bio-Energy 15 Total forecasted renewable energy requirement (MW)
+295 20 20 20 20 Energy Storage (MW) 80 Table 2A - Schedule of Installation of
+Renewable Energy Over the Next  Years (MW)  Barbados Light and Power Company Ltd
+(2019) Delivering 100% Renewable Energy by 2030 [Draft White Paper] 22 |
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY During the first five
+years of the implementation period of 2019 to 2023, 295 MW of renewable energy
+and 80 MW of energy storage is forecasted to be commissioned Solar photovoltaics
+will require  minimum of 160 MW to be installed while  minimum of 120 MW of wind
+will need to be installed to achieve the target of 100% renewable energy by mix
+is impacted by the technical limits of the electrical grid, the environment
+impact assessment, construction and installation time needed Additionally, the
+regulatory and permitting processes will have to be accelerated by  significant
+margin It must be noted that Waste-to-Energy is not scheduled within the first
+years of implementation, as the planning and construction time required would
+place this technology in year  of the schedule The 295 MW in the first  years
+will represent 46% of the total capacity energy mix The baseload technologies
+which accounts for 15 MW of the total capacity, given their nature, will require
+more planning and construction time and consequently are scheduled to be
+commissioned in year  of the implementation period The scheduling of the energy
+The successful implementation of the technologies identified in Table 2A will
+result in 688 GWh of electricity being produced from renewable energy sources as
+is observed in Table 3A      Total 48 48 48 48 48 PV Wind 65 Bio-Energy 65 48 48
+48 08 13 Total 65 Table 3A - Schedule Electricity Production (Gwh) From
+Renewable Energy Over the Next  Years The investment required by the renewable
+energy sector to advance the agenda of 100% renewable energy by the year 2030 is
+estimated to be about $ billion The majority of the resources expected to be
+expended are $875 million and $270 million, in years  and  respectively as the
+larger projects are scheduled to be completed in these two periods (See Table
+4A) Of course, the rate of investment will be impacted by the enabling
+environment that is required to be established within the renewable sector For
+instance,  clear and stable price is the foundation on which the sector will
+rest energy, as Barbados will no longer be incurring an economic loss of 70
+cents on every dollar to consume fossil fuel Additionally, the support to the
+renewable energy sector in terms of financial services, installation,
+construction, plant operation, and professional services are other sources of
+economic activity anticipated to emerge However, this is dependent on the level
+of local investment that will become involved in the sector There will also be
+an opportunity for Barbadians to become exporters of energy once the cost of
+batteries become economically feasible, as energy will becomes more portable
+Hence, with greater local investment will come greater benefits being retained
+in Barbados, while  heavy infiltration of foreign investment will result in an
+inverse outcome; less benefit being retained locally The economic benefit that
+is anticipated to accrue from the sector on an annual basis is projected to
+average around $ billion per year over the ten (10) year implementation period
+This benefit is expected to be derived from the release of resources that would
+have been used on imported IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY
+POLICY | 23      Total $00 $00 $00 $00 $00 PV $00 $- $- $- $48 $- Wind $48 $- $-
+$- $- $25 Biomas $25 Sub-Total $,73 $60 $60 $60 $60 Energy Storage (MW) $40 $00
+$60 $60 $,08 $85 Total $,13 Table 4A - Schedule of Investment In Renewable Over
+the Next  Years ($) The spatial requirements for electricity generation vary
+between the different technologies For example, the spatial footprint for ground
+mounted solar photovoltaics can range between  to  acres per megawatt depending
+on the configuration of the system In the case of roof mounted system, the
+availability of space will be impacted by how much of the roof is south facing,
+shaded and size of the roof Solar photovoltaic has  large spatial footprint and
+consequently there are not too many complimentary economic activities that can
+operate once  solar farm is installed Wind technology has  lower spatial
+footprint for electricity generation relative to solar photovoltaics and can co-
+exist with other economic activities such as agriculture of space (See Table 5A)
+It is estimated that the sector will require approximately  minimum of 367 acres
+of space during the first five () years of implementation The total spatial
+requirement for renewable energy is estimated to be 758 acres of space by
+Baseload technologies’ spatial requirements for generation can be considered
+low, relative to the requirement for wind and solar technologies The bulk of the
+land requirement for biomass (sugar cane and king grass) relates to the
+feedstock The amount of land that will be used to produce the feedstock is
+estimated to be between 25 000 to 28 000 acres In the case of bio- methane, farm
+waste, manure, food waste, and gasses are expected to be the principle
+feedstocks The production of feedstock for energy can be rotated with food crops
+in very much the cycle as that of sugar cane Hence, biomass offers significant
+synergies with agriculture and can be seen as an opportunity for income
+stabilisation During the first five years of implementation, solar photovoltaic
+generation facilities will need  minimum of 317 acres of space while wind
+technology will need 50 acres      Total 36 36 36 36 36 PV 80    33  Wind 33
+92 Bio-Energy 92 36 36 36 36 28 Total 72 NB: It is assumed that wind
+developments are set back by the international distance rules  impact distance
+from the base of the Turbine Table 5A - Spatial Requirements for Electricity
+Generation (Acres) 24 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+IMPLEMENTATION TOOLKIT IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY |
+25 IMPLEMENTATION TOOLKIT The implementation toolkit provides essential and
+results- oriented support to the project management team (PMCT) in its regular
+oversight of the IP, by highlighting specialized areas from which it can
+ascertain progress and make timely decisions The toolkit consists of: List of
+Policy Measures All aspects of the IP, its thematic work plans and responsible
+parties, are guided by the overarching policy measures outlined in the BNEP
+These are:  List of Policy Measures - provides  comprehensive list of all Tier
+derivatives (Policy Measures) from which the PMCT and/or Quality Assurance can
+reference completed, ongoing or forthcoming activities Oil and Gas Supply
+Implementation activities by year and thematic area - provides an annualized
+schedule of activities across thematic areas using Gantt charts   Establish
+regularly held investor conferences to inform potential developers about the
+rules and requirements needed to undertake activities in the Oil and Gas sector
+Results Frameworks - identifies the intended results, outputs annual
+deliverables in the form of SMART indicators Increase the cultivation of data
+relating to the geological and geophysical conditions in the offshore Oil and
+Gas sector to aid the government in setting license fees and determining levels
+of royalties   Monitoring and Evaluation Framework - outlines the key components
+and tools for providing periodic inspections of progress  Develop  licensing
+system with clear criteria on the ranking of various factors critical to the
+decision on bids This system should be made available widely to potential
+bidders as well as the public  Risk Analysis - identifies risks to
+implementation and appropriate response Components of the risk register include
+risk number, category of risk (financial, political, reputational etc), Risk
+name, Risk description, probability of occurrence, consequences, Severity
+(probability times consequence) and response category (transfer, mitigate,
+share, accept)  Formulate clear legislation governing environmental management
+in offshore Oil and Gas activities, with provisions for removal of licenses if
+stipulations are not met  Project Management Arrangements - defines the
+relationship between key project proponents and identifies reporting lines and
+scope of oversight accordingly  Develop  capacity-building programme locally to
+prepare the workforce for employment in the emerging Oil and Gas offshore sector
+26 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY  Create an enabling
+environment that will empower local businesses to participate effectively in the
+supply of goods and services to the offshore Oil and Gas sector Remove MTBE from
+gasoline and diesel, and replace it with ethanol and bio-diesel Promote linkages
+with the agriculture sector to encourage the production of agro-energy crops
+where financially and economically viable  Offer fiscal incentives for
+developers, which are tied to factors such as the expected internal rate of
+return Encourage energy efficiency in the transportation sector  Establish
+wealth management programme to Provide tax incentives to vehicle dealerships
+that train their mechanics to maintain and repair EVs ensure that revenues from
+the offshore Oil and Gas sector are used effectively  Develop an unambiguous
+system for determining Establish  programme for identifying appropriate whether
+future gas find should be used for export or included as part of the domestic
+market international sources of funding to facilitate and assist the government
+in transitioning from fossil fuels to EVs Produce legislation that identifies
+limits on the amount of Oil and Gas resources that can be exploited in the short
+term Remove duties and VAT from EVs and encourage  scheduled approach to
+increasing their use in the national transportation fleet, while at the same
+time, not harming government’ revenue stream Build  defence and security
+framework to protect the Exclusive Economic Zone Develop  road network that
+promotes energy efficiency Transportation Sector Establish the use of management
+technology in public transit,  using smartphone apps to verify arrival times of
+buses Create  system that includes mobile charging stations for vehicles Create
+biofuel standards for wholesale and retail supply of vehicles Introduce ethanol
+rather than MTBE as an anti- knock agent Establish  transportation information
+system to provide data for transportation and energy policies, strategic
+planning, tracking of CO2 emissions, and environmental impacts Implement more
+stringent regulations on vehicles’ exhausts and emissions Integrate charging
+stations with traditional gas Introduce more renewable energy and clean energy
+stations into the public transportation system Construct more charging stations
+for EVs Provide appropriate incentives to promote “green pumps” within service
+stations and on commercial properties IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY | 27 Control and maintain CO2 emissions at levels Produce
+standards and specifications for generation, consistent with local and global
+climate change targets supply, dispatch, transmission, distribution, storage and
+consumption that allow the electricity sector to operate in  financially,
+economically, environmentally, and technically viable manner Establish  system
+that facilitates the change from traditional vehicles to those powered by
+renewable energy, taking transition costs into consideration Institute targets
+for limits on CO2 emissions in the electricity sector Implement standards for
+streetlight efficiency Promote the use of renewable and other clean sources of
+energy to produce electricity Provide cost incentives that encourage investment
+in required infrastructure with charging stations etc Develop clear rules for
+determining roles and Acquire more details on the number of vehicles timelines
+for updating the Integrated Resource Plan using each fuel type Use SMART meters
+as part of an advanced Establish standards in charging and other renewable
+communication infrastructure for distribution management, to facilitate the use
+of more intermittent technologies and aid in demand-side management energy
+infrastructure related to fuelling Develop  regulatory framework for the
+implementation of vehicle to grid storage and supply technology Energy
+Efficiency and Conservation Electricity Supply Establish efficiency standards
+governing electricity Establish electric market structures that reduce the
+effects of monopolistic operations where financially and economically feasible
+production for utility and distribution-scale operations Develop  maximum useful
+life and cost/ Create  pricing mechanism for electricity from performance ratio
+of operations for generation equipment renewable energy suppliers Devise
+protocols for interconnectivity between IPPs Create legislation and regulations
+to govern and the utility to supply electricity movement towards greater energy
+efficiency in businesses and residences in Barbados Expand electricity
+regulation to include the wide-ranging aspects of the market, generation,
+distribution, supply, dispatch, transmission, and electricity use within the
+electricity sector Create an energy efficiency plan as  policy guideline
+document 28 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Develop an
+energy conservation education and Energy and the Environment and Climate Change
+awareness programme that will promote lifestyle changes among Barbadians with
+regard to energy consumption Promote energy efficiency in the productive and
+trading sectors Standards and protocols for the safe and effective Develop
+sectoral energy efficiency and consumption standards for buildings, and encode
+them in the Town and Country Planning Act disposal of equipment and devices in
+the energy sector sustainable environmental management Establish or adopt
+business standards for the design framework for the upstream offshore petroleum
+sector of energy efficient homes and offices Create energy efficiency standards
+for appliances decommissioning fund for the energy sector to and equipment used
+for residential, commercial and industrial purposes facilitate the
+decommissioning and abandonment of energy operations and facilities Provide
+equity for households that are unable to pay Standards and protocols for energy
+production in the petroleum and renewable energy subsectors that promote and
+encourage the goal of zero harm to the people and the environment for energy
+efficiency retrofits and products Develop  set of regulations in tandem with all
+government ministries involved in the energy sector, which identifies  clear and
+defined process for new applicants in energy efficiency projects Information
+systems and infrastructure that promote the flow of information requiring
+environmental standards, best practices and legislation Produce  system of
+duties, taxes and economic incentives to promote greater use of high-efficiency
+energy technologies Studies within the sector that assess the correlation
+between carbon dioxide emissions and health risks ( cancer and asthma) Implement
+standards for insulation in buildings Use Life Cycle Analysis to determine the
+best Create  mechanism to cap and trade CO2 emissions materials to be used for
+buildings and other construction projects within the Barbados energy sector
+Provide  trade facility that allows holders of CO2 emissions permits to trade
+with other emitters of CO2 Provide equity for households that are unable to pay
+for energy efficiency retrofits and products Develop strong rules for capping
+CO2 emissions Establish  clear international agenda for the acquisition of
+climate change funding IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY |
+29 Renewable Energy Supply and Storage Provide regular and clear communication
+to the public on developments within the renewable energy industry Institute
+efficiency standards for manufacturing local renewable energy products such as
+solar water heaters Establish appropriate fiscal incentives for emerging
+Diversify and optimize the renewable energy mix renewable energy and storage
+technologies that results in the maximisation of socio-economic and financial
+benefits to Barbados Promote an enabling environment that encourages local
+involvement in renewable energy projects Establish  capacity-building programme
+locally to prepare the workforce for employment in the renewable energy sector
+Create  system to ensure the protection of intellectual property and patents for
+renewable energy technologies Develop  central database containing details on
+the extent of renewable energy resource available at various locations in
+Barbados (solar, wind and bioenergy potential) Define land areas for bio-energy
+and wind production in Barbados’ Physical Development Plan Establish and support
+infrastructure for the Establish legislation and regulations that provide for
+transparent process in acquiring licences for supplying electricity from
+renewable energy sources collection, handling, and processing of organic
+material to produce energy Provide fiscal and financial support for research
+Provide an enabling environment that encourages collaborative approaches to
+producing renewable energy that is technically sound, and is financially,
+economically and environmentally viable and development in bio-energy
+technologies and methods Develop standards of production for bio-methane from
+biogas Establish  programme of international financing and ‘in kind’ assistance
+that effectively supports the supply of renewable energy, and promotes Barbados’
+economic growth and competitiveness Create standards for electricity generation
+efficiency in the bio-energy, wind energy and other renewable energy subsectors
+Increase staffing (secretariat) and human capacity to support local NGOs such as
+BREA Develop  clear protocol for clients to follow for investigating and
+trouble-shooting in new renewable energy systems with  method of recourse for
+clients in case of unsatisfactory company performance Promote an enabling
+environment that encourages local involvement in renewable energy projects 30 |
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Produce  legislative and
+regulatory framework for bio-energy production, distribution, storage, and plant
+decommissioning Create clear guidelines for integration of battery technology in
+PV systems Implement proven storage technologies and Devise  strategy for
+expanding Barbados’ systems that promote renewable energy and are economically,
+environmentally and financially viable renewable energy markets into the
+Caribbean Establish  transparent decision protocol for choosing between energy
+storage measures Establish  system for recycling and disposing of batteries at
+end of use (cradle to cradle) Site tour GAIA IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY | 31       )           (
+, )   (
+,
+32 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 33
+ffi        ,                 ’                34 | IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 35  ’
+36 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 37  ’
+38 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Results Framework
+Outputs Thematic Area Year   Report on current data management systems for
+geological and geophysical data collection completed • Oil and Gas •  Oil and
+Gas Committee Meetings held • Report on recommendations to enhance Auditor
+General’ role in Wealth Management Fund submitted  Post-Discover Framework for
+Offshore Oil and Gas sector completed  Comprehensive Security Response Strategy
+for Offshore Oil and Gas sector developed • • • Operational Standards for
+Offshore Oil and Gas sector developed • Environmental Guidelines for licensing
+consideration for offshore Oil and Gas sector developed  Communication Strategy
+Offshore Oil and Gas sector developed  Investors/Developers Conference for
+offshore Oil and Gas sector held  General Framework for Wealth Management Fund
+developed • • • •  Review Reports on adjusting duties on EVs completed • • •
+Transportation  Framework to address emission levels of vehicles developed
+Vehicle Fuel Consumption Study completed  Review Report on integrating charging
+stations in all new major developments completed  Awareness and Communication
+Strategy for Energy Efficiency in the Transportation Sector developed  National
+Transportation Network Strategy developed  Regulatory Framework for Vehicle to
+Grid Storage developed • • • • Biofuel Standards for wholesale and retail supply
+of vehicles developed •  Pilot Project to test data collection methods for
+vehicle exhaust and emissions completed  Framework for Emissions Data Collection
+in private and public sector developed  Pilot Project for EV usage on major
+routes completed • • • Standard Framework for Asset Management Plan for IPPs
+developed • Standards for the design of energy efficient homes and offices
+developed • Standards for appliances and equipment used for residential,
+commercial and Electricity Supply, Energy Efficiency and Conservation industrial
+purposes developed • List of targeted technologies from each RE subsector
+identified • Standards for the insulation of buildings IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY | 39 • Standards for equipment and devices used
+in disposal of equipment and devices Natural Environment and Climate Change in
+the energy sector developed • Protocols for disposal of equipment and devices
+established •  Framework for standardised measurement of CO2 equivalent
+emissions across the energy sector developed  Revised Energy Mix completed
+Capacity Assessment to identify critical skillset gaps in the RE Sector
+completed  Capacity Building Programme commenced  Database for analysing
+specific and aggregated RE resources across Barbados developed • • • • Renewable
+Energy Supply and Storage • Legislation governing the acquisition of licences
+for supplying electricity from RE sources developed •  RE subsector working
+groups established •  meetings of Multi-stakeholder Group on communication held
+•  public engagements of Multi-stakeholder Group on Communication held •
+Standards for manufacturing local renewable energy products developed  Framework
+for protection of IP patents for RE technologies developed • • Lands for bio-
+energy and wind production identified • Standards for production of bio-methane
+from biogas developed • Standards for electricity generation efficiency in bio-
+energy, wind and other RE subsectors developed • Legislation and regulatory
+framework for bio-energy production, distribution storage and plant
+decommissioning completed  Regional RE Expansion Strategy for Barbados developed
+• • Decision protocols for selecting from amongst energy storage measures
+developed • Guidelines for integration of batter technology in PV systems
+developed •  Battery disposal strategy and guidelines developed Outputs Thematic
+Area Year   Data management system for geological and geophysical analysis
+developed  skill and capacity assessment for offshore Oil and Gas sector
+conducted  training programme with key overseas and local institutions
+established  Resource Mobilisation Unit Established • • • • • Awareness and
+communication programme communicating opportunities for enterprises ( laundry
+service, food supply, waste management) developed  Report on review of Corporate
+Tax Rate completed  Mechanism for external/independent performance review of
+Wealth Management Fund identified Oil and Gas • • 40 | IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY  Pilot for digitised Air Emissions Monitoring
+System Completed • •  Data Sharing Agreements between relevant entities
+completed • Legislation and regulations to govern movement towards greater
+energy Electricity Supply, Energy Efficiency and Conservation efficiency in
+businesses and residences in Barbados created  Targeted school engagement
+programme developed  Toolkit for basic, DIY household energy audits developed
+Terms of reference for requirement of private sector to designate energy
+efficiency officers developed Incentives for ESCOs whose activities are aligned
+to that of suggestions of relevant energy audits identified  Digital
+platform/extension for easy referencing of standards for various equipment and
+appliances developed  Digital Platform to facilitate simultaneous input from key
+multiple agencies in project approval process identified  Project review
+committee in (TCPD) to expedite review of projects over  certain size formed • •
+• • • • •  Framework to support private waste reuse/recycling developed • •
+Legislation to govern effective waste disposal developed • Natural Environment
+and Climate Change  Training programme in environmental management for offshore
+upstream Oil and Gas provided • Legislation for decommissioning and abandonment
+of energy operations developed • Joint information system that promotes the flow
+of information requiring environmental standards, best practices and legislation
+established • Study to assess correlation between CO2 emissions and health risks
+conducted Infrastructure for the collection, handling, and processing of organic
+material to produce energy provided • Renewable Energy Supply and Storage •
+Fiscal and financial support for research and development in bio-energy
+technologies and methods provided • Legislative and regulatory framework for
+bio-energy production, distribution, storage, and plant decommissioning provided
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 41 Monitoring and
+Evaluation Framework • Based on the initial risk analysis submitted (see Risk
+Analysis),  risk log shall be developed and regularly updated by reviewing the
+external environment that may affect implementation In accordance with the
+accepted project management standards, policies and procedures within the
+Executing Agency (MEWR), implementation will be monitored through the following:
+• Based on the above information, to be recorded in Inception Workshop The
+project will be officially launched no later than three months after the project
+start with  Project Inception Workshop for those with assigned roles and
+responsibilities in the project' organisational structure, and where
+appropriate/feasible, technical policy advisors as well as other stakeholders
+location suitable to the PTF,  Project Progress Reports (PPR) shall be submitted
+by the Project Coordinator to the Programme Steering Committee through Project
+Assurance (MEWR), using  standard report format agreed to by the PTF •  project
+Lesson-learned log shall be activated and regularly updated to ensure on-going
+learning and adaptation within the MEWR, and to facilitate the preparation of
+the Lessons-learned Report at the end of the project The Inception Workshop will
+address  number of key issues including: () Assist all key stakeholders to fully
+understand and take ownership of the project () Detail the roles, support
+services and complementary responsibilities of MEWR staff vis  vis the project
+team () Discuss the roles, functions, and responsibilities within the project’
+decision-making structures, including reporting and communication lines, and
+conflict resolution mechanisms () The Terms of Reference (TOR) for project staff
+is reviewed as needed () Provide  detailed overview of reporting, & requirements
+The & work plan and budget should be agreed and scheduled () Discuss financial
+reporting procedures and obligations, and arrangements for annual audit () Plan
+and schedule Project Task Force (PTF) meetings Roles and responsibilities of all
+project organisation structures should be clarified and meetings planned The
+first PTF meeting should be held within the first  months following the
+inception workshop •  Monitoring Schedule Plan shall be developed to track key
+management actions/events Annually • Annual Review Report An Annual Review
+Report shall be prepared by the Project Coordinator and shared with the Project
+Board • Annual Project Review Based on the above report, an annual project
+review shall be conducted during the fourth quarter of the year or soon after,
+to assess the performance of the project and appraise the Annual Work Plan (AWP)
+for the following year In the last year, this review will be  final assessment
+This review, commissioned by the Project Board, may involve other stakeholders
+as required It shall focus on the extent to which progress is made towards
+outputs, and that these remain aligned to appropriate outcomes Within the annual
+implementation cycle • On  quarterly basis,  quality assessment shall record
+progress towards the completion of key milestones, based on the criteria and
+methods captured in an approved Quality Assurance Assessment Form Project
+Evaluation Due to the complexity of this project and the myriad of inter-related
+components being implemented by multiple responsible parties, mid-term and final
+evaluations are proposed These are to occur during the fourth quarter of 2024
+and 2029 respectively • An Issue Log shall be created and updated by the Project
+Coordinator to facilitate tracking and resolution of potential problems and/or
+requests for changes 42 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY
+POLICY The Mid-Term Review will determine progress being made toward the
+achievement of outcomes and will identify course correction if needed It will
+focus on the effectiveness, efficiency and timeliness of project implementation;
+will highlight issues requiring decisions and actions; and will present initial
+lessons learned about project design, implementation and management Findings of
+this review will be incorporated as recommendations for enhanced implementation
+during the final half of the project’ term The organisation and terms of
+reference of the mid-term review will be decided after consultation between the
+parties to the IP The Terms of Reference (TOR) for this Mid-term review will be
+prepared by the MEWR based on guidance from the Public Implementation Unit (PIU)
+in the Ministry of Finance, Economic Affairs and Investment This independent
+expert will be recruited at least six months prior to the planned commencement
+of the mid-term review The management response and the review will be uploaded
+to  location as designated by the MEWR and accessible to the PSC The final
+evaluation will focus on the delivery of the project’ results as initially
+planned (and as corrected after the mid-term review, if any such correction took
+place) The final evaluation will look at impact and sustainability of results,
+including the contribution to capacity development and the achievement of global
+environmental benefits/ goals The TOR for this evaluation will be prepared by
+the MEWR based on guidance from the PIU The Final Evaluation should provide
+recommendations for follow-up activities and requires management responses
+Monitoring and Evaluation Work Plan Type of & activity Responsible Parties
+Budget US$ Excluding project team staff time Time frame Inception Workshop and
+Report • Project Coordinator • MEWR ,000 Within first two months of project
+start up Quality Assessment • UNDP/CONANP/PCU • Oversight by Project None
+Quarterly Coordinator • PMCT PPR • PMCT None Annually Periodic status/ progress
+reports • PMCT None Quarterly Project Steering Committee Meetings • Project
+Coordinator • MEWR None Following Project "Inception Workshop" and subsequently
+at least Quarterly IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 43
+Mid-term Review • PMCT • MEWR • PIU • External Consultants ( review team) 30,000
+At the mid- point of project implementation 30,000 At least three months before
+the end of project implementation Final Evaluation • PMCT • MEWR • PIU •
+External Consultants ( evaluation team) Audit • MEWR • PMCT 20,000 (indicative
+cost per year: ,000) Annually Visits to field sites • MEWR • PMCT As needed
+TOTAL INDICATIVE COST Excluding project team staff time and staff and travel
+expenses 84,000 44 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+Cruise Terminal IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 45
+Risk Analysis The risks reflect the concerns expressed in the working group
+sessions, as well as the individual interviews with key stakeholders These
+threats to implementation will guide the Project Implementation Team
+accordingly, along with relevant remedial actions aimed at minimising and/or
+avoiding the occurrence of identified threats 46 | IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY
+POLICY | 47 48 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 49 50 | IMPLEMENTATION
+PLAN FOR BARBADOS NATIONAL ENERGY POLICY IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY | 51 Management Arrangements • Other Project Board Member
+The MEWR will establish  Project Team, referred to as the Project Management
+Team (PMCT), which will be entrusted to support the MEWR to deliver on the
+outputs outlined in this IP The PMCT will assist with the coordination of multi-
+stakeholder deliverables and monitor the progression of the various established
+enabling activities The MEWR will provide financial oversight and fiduciary and
+safeguard handling capacity The Project Steering Committee will liaise with the
+Barbados Cabinet Sub-Committee on Energy for its members to participate actively
+during meetings and to propose agenda items to be discussed The PTF will provide
+guidance, in accordance with overarching policy direction, to the PMCT on
+specific components project as outlined in this IP document and in alignment
+with the policy measures of the BNEP The PTF is responsible for making, on
+consensus basis, management decisions for the project, in particular when
+guidance is required by the PMCT, including recommendation for approval of IP
+revisions IP reviews by this group are made at designated decision points
+(including at least annually) during the running of the IP, or as necessary when
+raised by the PMCT Project Management Team The PMCT will be responsible for the
+day-to-day management and coordination of the project and its respective
+activities It will be responsible for the general management actions, such as
+the preparation of consolidated annual work plans and technical and financial
+reports to be presented to the Project Task Force The PMCT will provide services
+of Project Management, Monitoring and Evaluation, Procurement, Administrative
+Support, Technical Support and Finance and Awareness and Communication within
+the IP The organisation of the PMCT will reflect  focus on these services, as
+well as coordination of activities across responsible parties and thematic areas
+identified The PMCT of the MEWR- overseen project will report to the Project
+Steering Committee The PMCT will be recruited by the MEWR and will be given the
+authority to manage the implementation components on  daily basis as per the
+boundaries established by this IP The responsibilities of the PTF shall include,
+but not be limited to:  Review, approve and amend this IP, including the
+Monitoring and Evaluation (&) framework  Monitor compliance with the IP’
+objectives  Discuss progress and identify solutions to problems facing any of
+the IP' partners  Review and approve the Annual Work Plan (AWP) Project Task
+Force The Project Task Force (PTF) – is constituted of MEWR, Ministry of
+Finance, Economic Affairs and Investment,  representative of the National
+Climate Change Committee (NCCC),  representative from the Barbados Chamber of
+Commerce and  representative from  relevant Non- Governmental Organisation The
+roles of the following specific members of the PSC are as follows: and the
+consolidated financial and progress reports  During the life of the IP, review
+proposals for major budget re-allocation such as major savings or cost
+increases, or for use of funds for significantly different activities  Review
+evaluation findings related to impact, effectiveness and the sustainability of
+the IP • Executive representing the Project ownership to chair the group (MEWR)
+Monitor both the budget and the prompt delivery of financial, human and
+technical inputs to comply with the work plan • Senior Beneficiary representing
+the interests of those who will ultimately benefit from the project to ensure
+the realisation of benefits from the perspective of national beneficiaries
+(NCCC) 52 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY  Ensure the
+participation and ownership of accordance to standards that shall ensure
+management for development results, best value money, fairness, integrity,
+transparency and effective international competition On occasion when there is
+no consensus on any particular matter within the PSC, the final decision shall
+rest with the MEWR stakeholders in achieving the objectives of the IP  Ensure
+communication of the project and its objectives to stakeholders and the public
+Approve the project communication strategy and public information plans prepared
+by the PTF Management Committee The Management Committee (MC) will meet at least
+once  month, led by the Project Coordinator of the PMCT The MC will be comprised
+of MEWR and other stakeholders invited on an as-needed basis ( other ministries)
+The MC will discuss and agree work plans, provide for information exchange and
+synergies between IP components and agree on TORs, recruitment of experts and
+other related managerial activities Facilitate linkages with high-level
+decision-making Convene ordinary meetings to consider the proposals and
+recommendations, as well as the progress made by the IP Convene, if necessary,
+extraordinary meetings The project team, for decisions, consults the PTF when
+their tolerances ( constraints normally in terms of time and budget) are
+exceeded The project team acts as the secretary to the PTF and is responsible
+for organising meetings, preparing meeting documents and follow up on PTF
+recommendations The PTF will convene four times  year and can meet
+extraordinarily whenever circumstances require Project Assurance The Project
+Assurance role is the responsibility of MEWR Reporting Structure The PMCT
+provides quarterly reports to the PTF on progress and other relevant associated
+developments of the project The PTF reports to the Cabinet Sub- Committee on
+Energy, which provides oversight to the IP and filters comments and directives
+through the PTF to the PMU In order to ensure MEWR ultimate accountability for
+the project results, PTF decisions will be made in Figure : Project
+Implementation Management Structure IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY | 53 DEVELOPING COMMUNITIES THROUGH RENEWABLE ENERGY COMMUNITY
+INVOLVEMENT IN ESTABLISHING RE SYSTEMS IN HOUSEHOLDS 54 | IMPLEMENTATION PLAN
+FOR BARBADOS NATIONAL ENERGY POLICY Management Arrangements The EEL can
+therefore create many avenues for small, medium and large-scale economic
+activity across Barbados, thereby favourably affecting employment and foreign
+exchange generation Tailoring the instrument to accommodate an approach of ‘one
+licence per property’ also adds value to the prospects of entrepreneurship and
+the ability to generate new small businesses in the RE sector, with the creation
+of  new and broader base of clients The feasibility of collateralising the
+instrument will be  focus of the study, with  view to exploring opportunities
+where economically disenfranchised and vulnerable persons with property holding
+rights can utilise their EELs to offset  variety of financial burdens such as
+the inability to service some forms of debt ( taxes owed and loans) One critical
+measure of success in the IP will be how well it promotes the involvement,
+development and empowerment of residents at the community level Traditionally,
+measuring this indicator implicated  heavy reliance on outputs of awareness and
+communication However, this IP embarks on an ambitious proposition to create
+more formal, robust and sustainable engagement with all communities across
+Barbados, by establishing  Renewable Energy Licensing Regime (RELR), which when
+launched, would automatically monetize all property interests in Barbados, with
+respect to the prospects of renewable energy generation at their respective
+locations The study identified in Activity 93, under Renewable Energy Supply and
+Storage will serve as  major catalyst for this engagement The study aims to
+validate and define the framework for establishing an RE market of tradable
+instruments ( licences) for all residential, commercial and agricultural
+properties The establishment of the RELR will enable small (8000sq ft or less),
+medium (8001 sq ft – 43559 sq ft) and large ( acre and above) property owners
+across Barbados, including government, to trade energy equivalency licenses
+(EEL) at their discretion, subject to any accompanying relevant trade
+regulations and national development plans The study will also explore and make
+recommendations addressing situations in which individuals reside in  structure
+that they own, while not being the actual owners of the land on which the
+structure is stationed This consideration centres on the IP’ commitment to
+creating the largest possible base of local involvement in the transition to
+100% FFF With this approach, every property owner in Barbados will have
+calculated stake in the paradigm shift to becoming 100% FFF The EEL can
+therefore create many avenues for small, medium and large-scale economic
+activity across Barbados, thereby favourably affecting employment and foreign
+exchange generation IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 55
+KEY ASSUMPTIONS AND LIMITATIONS OF IMPLEMENTATION PLAN 56 | IMPLEMENTATION PLAN
+FOR BARBADOS NATIONAL ENERGY POLICY Management Arrangements engagements to
+incorporate other critical sectors throughout the project cycle This IP will
+operate effectively under specific conditions that are assumed to be in
+operational alignment with the approach of the Ministry of Energy and Water
+Resources, as party responsible for overall quality assurance These assumptions
+are:  Broad Stakeholder Participation – Although the working group sessions were
+well attended and representative of the core drivers of the IP, input from other
+critical stakeholders will be needed to fully align activities to the existing
+operations of relevant institutions While this omission would normally implicate
+less-than favourable progression towards reaching the outlined objectives, the
+IP is designed as  ‘working document’ with sufficient flexibility and
+adaptability to rapidly incorporate inputs at any given time, without
+compromising the overall quality of the outputs identified To address this
+possible dilemma, the IP may receive additional inputs in the period between the
+establishment of the Project Steering Committee and the Inception Workshop This
+will allow sufficient time to include considerations from other key agencies in
+advance of the PSC, outlining the scope of the IP during its kick-off workshop
+These agencies include:  Management Arrangements – Implementation will be
+supervised by  team of officers, collectively  project management team, who will
+be tasked with delivering on the results outlined in the IP  Working Groups –
+Thematic Working Groups will continue to meet and provide additional oversight
+to activities  Working Groups – Additional stakeholders from under and/or non-
+represented thematic areas will be integrated into the IP  Responsible Parties -
+Stakeholders (MOU etc) will formally commit to being champions of the various
+activities to which they are identified as Responsible Parties • The Ministry of
+Finance, Economic Affairs  Public Communication - Developments regarding
+progress and milestone achievements will be communicated to the general public
+and Investment • Ministry of Education, Technological and Vocational Training •
+Ministry of Foreign Affairs and Foreign Trade • Ministry of Housing, Lands and
+Rural Development • Ministry of Tourism and International Transportation •
+Ministry of Maritime Affairs and the Blue Economy • Ministry of the Public
+Service • Ministry of Youth and Community Empowerment  Resource Coordination
+Team (RCT) - An RCT, dedicated to identifying financing opportunities for the
+activities in the IP, will be established Throughout the development of the IP,
+there were  number of factors taken into consideration, to which timely
+adjustments were made with  view to preserving the integrity and quality of the
+IP These considerations include: With regards to the energy targets, at this
+stage the IP presents preliminary forecasts of requirements for key variables
+These values are to be likely revised following the completion of the Integrated
+Resource Plan by the Barbados Light and Power Company Ltd Therefore, the IP
+acknowledges in advance that possible amendments may impact the predictions for:
+Consultation Time frame - The IP, which involved the assessment of 92 policy
+measures via  workshops and 35 individual interviews, resulted in the
+identification of 145 enabling activities over the period November 19, 2018
+through December 14, This narrow timeline resulted in the prioritisation of
+thematic areas based on input from  wide range of relevant documents ( Barbados
+Second National Communication, 2015) Therefore, within this IP some thematic
+areas appear disproportionately represented However, in light of this fact, the
+IP will advance working group • Schedule of Installation of Renewable Energy
+Over the Next  Years (MWh) • Schedule Electricity Production (GWh) from
+Renewable Energy Over the Next  Years • Schedule of Investment in Renewable
+Energy Over the Next  Years • Spatial Requirements for Electricity Generation
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 57 APPENDIX  58 |
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY APPENDIX  ALLOCATION OF
+ACTIVITIES BY RESPONSIBLE PARTY For ease of reference in the below table, please
+note that some policy measures relative to others • Numbers under column heading
+‘PM’ relate to Policy • Enabling activities with more than one associated
+Measures identified on pages 16 to responsible party are in Red text while
+activities with one responsible party are in Black text • The following
+Responsible Parties are listed in • Letters under column heading ‘EA’ relate to
+the sequence of Enabling Activities In some instances, you may find that
+enabling activities are the same as the policy measure This reflects the
+detailed level of alphabetical order Barbados Association of Professional
+Engineers Sector PM# EA# Enabling Activity Review building codes to include best
+materials to be used for building and construction projects  58 Create, adapt
+and adopt standards for electricity generation efficiency in the bio-energy,
+wind energy and other renewable energy subsectors  86 Barbados Community College
+PM# EA# Enabling Activity  Establish capacity-building programme based on
+capacity assessment 70 Barbados Chamber of Commerce and Industry PM# EA#
+Enabling Activity Create standardised framework (processes, contractual
+arrangements, &, maintenance standards) governing RE installations  76
+Establish multi-stakeholder group on communication 77  Establish schedule of
+public engagements forums ( town hall meetings, press releases etc) 77  Devise
+strategy for expanding Barbados’ renewable energy markets into the Caribbean 88
+Barbados Cane Industry Corporation PM# EA# Enabling Activity Provide fiscal and
+financial support for research and development in bio-energy technologies and
+methods  84 IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 59
+Barbados Defence Force PM# EA# Enabling Activity  Build marine security and
+response capacity   Conduct Risk Assessment 11  Conduct GAP analysis 11 Bio-
+Economy Group PM# EA# Enabling Activity Identify and/or develop  sustainable
+financial framework to enable organisations to actively participate in RE
+activities  75 Revise incentive categories to Intermittent, Firm and Storage to
+allow for measurement consistency and comparability across RE technologies, then
+apply relevant incentives  80  Define land areas for bio-energy and wind
+production in Barbados’ Physical Development Plan 82  Develop standards of
+production for bio-methane from biogas 85 Barbados Light and Power Company Ltd
+PM# EA# Enabling Activity  Develop an Integrated Resource Planning tool to
+determine energy mix 36  Undertake Pilot for digitised Air Emissions Monitoring
+System 41  Develop framework for more frequent collection of data and CO2
+emissions and targets 41  Establish Data Sharing Agreements between relevant
+entities 44  Develop Asset Management plan 46  Develop media campaign (social
+media, television, radio, GIS) 49  Allow for adjustments to mix via
+comprehensive IRP 69 create standardised framework (processes, contractual
+arrangements, &, Maintenance standards) governing RE installations  76
+Establish  transparent decision protocol for choosing between energy storage
+measures 89  Create clear guidelines for integration of battery technology in PV
+systems 90 Implement proven storage technologies and systems that promote
+renewable energy and are economically, environmentally and financially viable
+91 60 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Barbados
+National Oil Company Ltd PM# EA# Enabling Activity  Review existing framework
+Establish  Petroleum Authority   Conduct  review of current data management
+systems   Develop  data management system   Develop  post-discovery framework
+Conduct evaluation on methodology and approach to determining
+appropriate/optimum extraction rates  10  Provide training in environmental
+management for offshore upstream Oil and Gas 60 Barbados National Standards
+Institute PM# EA# Enabling Activity  Develop standards for companies to operate
+in the Oil and Gas sector   Create biofuel standards for wholesale and retail
+supply of vehicles 12 Review building codes to integrate charging stations into
+new developments (residential, commercial and open public spaces)  27 Review
+building codes to integrate charging stations into new developments
+(residential, commercial and open public spaces)  34  BL& already covered in
+Standards of Services Agreement 45  Develop energy efficiency standards for IPPs
+45 Create energy efficiency standards for appliances and equipment used for
+residential, commercial and industrial purposes  53  Implement standards for
+insulation in buildings 57  Identify standards for equipment and devices 59
+Develop standards and protocols for energy production in the petroleum and
+renewable energy subsectors  62 Create standardised framework (processes,
+contractual arrangements, &, Maintenance standards) governing RE installations
+76 Institute efficiency standards for manufacturing local renewable energy
+products such as solar water heaters  78 IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY | 61  Develop standards of production for bio-methane
+from biogas 85 Create, adapt and adopt standards for electricity generation
+efficiency in the bio-energy, wind energy and other renewable energy subsectors
+86 26 Create clear guidelines for integration of battery technology in PV
+systems 90 Barbados Renewable Energy Association PM# EA# Enabling Activity 42
+Develop Awareness and Communication Programme 49  Develop media campaign (Social
+media, television, radio, GIS) 63 14 Establish joint information system
+Establish sector and subsector working group forums to facilitate dialogue and
+collaboration on  regular basis 73  Identify and/or develop  sustainable
+financial framework to enable organisations to actively participate in RE
+activities 75  Create  standardised framework (processes, contractual
+arrangements, &, maintenance standards) governing RE installation’ 76  77
+Establish multi-stakeholder group on communication 77  Establish schedule of
+public engagements forums ( town hall meetings, press releases etc) Revise
+incentive categories to Intermittent, Firm and Storage to allow for measurement
+consistency and comparability across RE technologies, then apply relevant
+incentives 80  Implement proven storage technologies and systems that promote
+renewable energy and are economically, environmentally and financially viable 91
+Barbados Statistical Service PM# EA# Enabling Activity  Establish
+transportation information and management system 13 Barbados Water Authority PM#
+EA# Enabling Activity  Establish Data Sharing Agreements between relevant
+entities 44 62 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+Corporate Affairs and Intellectual Property Office PM# EA# Enabling Activity
+Create  system to ensure the protection of intellectual property and patents for
+renewable energy technologies  81 Caribbean Centre for Renewable Energy and
+Energy Efficiency PM# EA# Enabling Activity  Devise  strategy for expanding
+Barbados’ renewable energy markets into the Caribbean 88 Chief Parliamentary
+Counsel PM# EA# Enabling Activity Formulate clear legislation governing
+environmental management in offshore Oil and Gas activities, with provisions for
+removal of licenses if stipulations are not met    Review and enhance relevant
+policies and guidelines related to Auditor General   Develop appropriate
+legislation 10  Review and/or establish appropriate legislation, policies and
+response mechanisms 12 Create legislation and regulations to govern movement
+towards greater energy efficiency in businesses and residences in Barbados  47
+Develop legislation to govern effective waste disposal 59 Establish legislation
+and regulations that provide for  transparent process in acquiring licenses for
+supplying electricity from renewable energy sources  72 Establish Sector and
+subsector working group forums to facilitate dialogue and collaboration on
+regular basis  73 Produce  legislative and regulatory framework for bio-energy
+production, distribution, storage, and plant decommissioning  87 Environmental
+Protection Department PM# EA# Enabling Activity  Formulate environmental and
+other guidelines  Formulate clear legislation governing environmental management
+in offshore Oil and Gas activities, with provisions for removal of licenses if
+stipulations are not met    Develop Awareness and Communication Strategy
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 63  Review and/or
+establish appropriate legislation, policies and response mechanisms 11
+Establish  transportation information and management system 13 Develop framework
+based on quantitative variables to incentivise and penalise below average and
+excessive emission levels respectively  26  Conduct pilot project to test
+framework 26  Develop framework for more robust emission data collection in
+private and public sector 29  Develop Air Emission/Transport Management Systems
+29  Undertake Pilot for digitised Air Emissions Monitoring System 41  Develop
+framework for more frequent collection of data and CO2 emissions and targets 41
+Establish Data Sharing Agreements between relevant entities 44  Review building
+codes to ensure energy efficiency (RE) is incorporated 51  Establish or adopt
+business standards for the design of energy efficient homes and offices 52
+Develop platform with application template to facilitate simultaneous input and
+tracking on applications from multiple relevant entities  55 Review building
+codes to include best materials to be used for building and construction
+projects  58  Identify waste streams and characterise lifespans 59  Identify
+standards for equipment and devices 59  Develop protocols for disposal of
+equipment and devices 59  Develop framework to support private waste reuse /
+recycling 59  Examine existing Environmental Act and Marine Pollution Control
+Act and inform legislation 60 Examine options for waste treatment and identify
+best practices for dealing with industrial waste  60  Provide training in
+environmental management for offshore upstream Oil and Gas 60 Develop standards
+and protocols for energy production in the petroleum and renewable energy
+subsectors  62 14 Establish joint information system 63 15 Develop public
+awareness programme 63  Conduct study to assess correlation between carbon
+dioxide emissions and health risks 64 64 | IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY Determine and mandate standardised methodology to measure
+CO2 equivalent emissions across the energy sector  65  Identify volumes of
+emissions and markets for trading 65  Establish  system for recycling and
+disposing of batteries at end of use (cradle to cradle) 92 Fair Trading
+Commission PM# EA# Enabling Activity Develop  regulatory framework for the
+implementation of vehicle to grid storage and supply technology  35  Create
+pricing mechanism for electricity from renewable energy suppliers 37 Expand
+electricity regulation to include the wide-ranging aspects of the market,
+generation, distribution, supply, dispatch, transmission, and electricity use
+within the electricity sector  39 Establish sector and subsector working group
+forums to facilitate dialogue and collaboration on  regular basis  73  Establish
+multi-stakeholder group on communication 77  Establish schedule of public
+engagements forums ( town hall meetings, press releases etc) 77 Develop
+framework for ongoing review of VAT, NSRL, Import Duties etc on RE and
+associated apparatus ( storage)  79 Provide stability and confidence amongst RE
+investors by making  determination on price and mechanism for RE ( FIT)  80
+Revise incentive categories to Intermittent, Firm and Storage to allow for
+measurement consistency and comparability across RE technologies, then apply
+relevant incentives  80 26 Create clear guidelines for integration of battery
+technology in PV systems 90 Implement proven storage technologies and systems
+that promote renewable energy and are economically, environmentally and
+financially viable  91 Government Electrical and Engineering Department PM# EA#
+Enabling Activity  Review building codes to ensure energy efficiency (RE) is
+incorporated 51  Establish or adopt business standards for the design of energy
+efficient homes and offices 52 Review building codes to include best materials
+to be used for building and construction projects  58 IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY | 65 Create standardised framework (processes,
+contractual arrangements, &, maintenance standards) governing RE installations
+76 Create, adapt and adopt standards for electricity generation efficiency in
+the bio-energy, wind energy and other renewable energy subsectors  86 26 Create
+clear guidelines for integration of battery technology in PV systems 90
+Implement proven storage technologies and systems that promote renewable energy
+and are economically, environmentally and financially viable  91 Ministry of
+Agriculture and Food Security PM# EA# Enabling Activity Develop platform with
+application template to facilitate simultaneous input and tracking on
+applications from multiple relevant entities  55 Produce  legislative and
+regulatory framework for bio-energy production, distribution, storage, and plant
+decommissioning  87 Ministry of Environment and National Beautification PM# EA#
+Enabling Activity  Develop policy recommendation for cabinet decision 65
+Establish and support infrastructure for the collection, handling, and
+processing of organic material to produce energy  83 Ministry of Education,
+Technology and Vocational Training PM# EA# Enabling Activity  Establish training
+programmemes with key overseas institutions  Ministry of Energy and Water
+Resources PM# EA# Enabling Activity  Establish Oil and Gas stakeholder committee
+Establish  Petroleum Authority   Host conferences and inform potential
+developers   Conduct  review of current data management systems   Review
+existing framework  66 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+Develop awareness and communication strategy   Formulate environmental and other
+guidelines  Formulate clear legislation governing environmental management in
+offshore Oil and Gas activities, with provisions for removal of licenses if
+stipulations are not met    Build marine security and response capacity
+Establish  Resource Mobilisation Unit   Develop  berthing facility for offshore
+Oil and Gas   Establish Wealth Management Fund   Develop mechanism for
+external/independent performance reviews of strategic plans   Develop  post-
+discovery framework  Conduct evaluation on methodology and approach to
+determining appropriate/ optimum extraction rates  10  Establish  transportation
+information and management system 13  Incentivise projects focused on generating
+Biodiesel for public transport vehicles 14  Government will cover the cost of
+training for first  mechanics 19  Develop Awareness and communication Strategy
+30 This activity is  continuation of an ongoing Energy Smart Fund Programme in
+the Division of Energy, in collaboration with the Enterprise Growth Fund,
+Caribbean LED Lighting Inc and the Barbados Light and Power Company Ltd  31
+Conduct study to establish benchmark and facilitate future comparisons 33
+Develop Integrated Resource Planning tool to determine energy mix 36 Expand
+electricity regulation to include the wide-ranging aspects of the market,
+generation, distribution, supply, dispatch, transmission, and electricity use
+within the electricity sector  39  Develop Awareness and Communication Programme
+42 Develop clear rules for determining roles and timelines for updating the
+Integrated Resource Plan  43  Establish Data Sharing Agreements between relevant
+entities 44  Develop an energy efficiency plan as  policy guideline document 48
+Develop  public sector energy conservation programme 48  Develop toolkit for
+basic, DIY household energy audits 49  Develop media campaign (social media,
+television, radio, GIS) 49 IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY
+POLICY | 67 Develop terms of reference for requirement of private sector to
+designate energy efficiency officers  50 Provide incentives for ESCOs whose
+activities are aligned to that of suggestions of relevant energy audits  50
+Conduct Pilots and case studies showing the costs benefits 50 Provide equity for
+households that are unable to pay for energy efficiency retrofits and products
+54 Develop platform with application template to facilitate simultaneous input
+and tracking on applications from multiple relevant entities  55  Identify key
+technologies to be targeted 56 Develop framework and criteria for incentives to
+promote greater use of energy efficiency technologies  56  Implement pilot
+project to assess impact of incentive 56  Provide training in environmental
+management for offshore upstream Oil and Gas 60  Develop legislation for
+decommissioning and abandonment of energy operations 61  Establish
+decommissioning fund 61 Develop standards and protocols for energy production in
+the petroleum and renewable energy subsectors  62  establish joint information
+system 63  Establish  clear international agenda for the acquisition of climate
+change funding 68  Establish preliminary/baseline mix 69  Allow for adjustments
+to mix via comprehensive IRP 69  Conduct capacity assessment to identify
+critical skillsets in the RE sector 70 Develop  central database containing
+details on the extent of renewable energy resource available at various
+locations in Barbados (solar, wind and bioenergy potential)  71 Establish Sector
+and subsector working group forums to facilitate dialogue and collaboration on
+regular basis  73 Replicate and expand on existing approaches such as GCF to
+facilitate future financing engagements  74 Identify and/or develop  sustainable
+financial framework to enable organisations to actively participate in RE
+activities  75  Establish multi-stakeholder group on communication 77  Establish
+schedule of public engagements forums ( town hall meetings, press releases etc)
+77 68 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Provide fiscal
+and financial support for research and development in bio-energy technologies
+and methods  84 Produce  legislative and regulatory framework for bio-energy
+production, distribution, storage, and plant decommissioning  87  Devise
+strategy for expanding Barbados’ renewable energy markets into the Caribbean 88
+Conduct feasibility study into the creation of RELR 93 Ministry of Foreign
+Affairs and Foreign Trade PM# EA# Enabling Activity  Establish training
+programmemes with key overseas institutions   Establish  Resource Mobilisation
+Unit   Establish  clear international agenda for the acquisition of climate
+change funding 68 Create  system to ensure the protection of intellectual
+property and patents for renewable energy technologies  81 Ministry of Finance,
+Economic Affairs and Investment PM# EA# Enabling Activity  Establish  Resource
+Mobilisation Unit   Provide tax incentives to businesses that directly engage
+the offshore sector   Establish Wealth Management Fund   Develop mechanism for
+external/independent performance reviews of strategic plans   Review duties on
+EVs 14  Review duties on EVs 19  Establish Resource Mobilisation Unit 20
+Quarterly simultaneous review of Duties, VAT, Excise Tax in line with BERT
+programme 21  Provide incentives to buffer costs (import, sales and operations)
+30 Provide cost incentives that encourage investment in required infrastructure
+with charging stations etc  32  Conduct study to establish benchmark and
+facilitate future comparisons 33 IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY | 69 Develop terms of reference for requirement of private sector
+to designate energy efficiency officers  50  Develop assessment tool to
+determine household income levels 54 Develop framework and criteria for
+incentives to promote greater use of energy efficiency technologies  56
+Implement pilot project to assess impact of incentives 56  Establish  Resource
+Mobilisation Unit 66 Replicate and expand on existing approaches such as GCF to
+facilitate future financing engagements  74 Develop framework for ongoing review
+of VAT, NSRL, Import Duties etc on RE and associated apparatus ( storage)  79
+Create  system to ensure the protection of intellectual property and patents for
+renewable energy technologies  81 Provide fiscal and financial support for
+research and development in bio-energy technologies and methods  84  Review
+Corporate Tax Rate  Ministry of Health and Wellness PM# EA# Enabling Activity
+Develop platform with application template to facilitate simultaneous input and
+tracking on applications from multiple relevant entities  55  Conduct study to
+assess correlation between carbon dioxide emissions and health risks 64 Ministry
+of Labor and Social Partnership Relations PM# EA# Enabling Activity  Advanced
+and/or develop relevant courses at local institutions  70 | IMPLEMENTATION PLAN
+FOR BARBADOS NATIONAL ENERGY POLICY Ministry of Small Business, Entrepreneurship
+and Commerce PM# EA# Enabling Activity Develop awareness and communication
+strategy Communicate opportunities for enterprise  laundry service, food supply,
+waste management   Ministry of Transport, Works and Maintenance PM# EA# Enabling
+Activity  Establish  transportation information and management system 13
+Undertake pilot projects for electric vehicle usage along major routes to
+determine efficiency 14  Stricken penalties pertaining to offloading/onboarding
+points 18  Develop awareness and communication strategy 18  Develop National
+Transportation Network Strategy 22  Develop transportation information and
+management system 23 Develop framework based on quantitative variables to
+incentivise and penalise below average and excessive emission levels
+respectively  26  Conduct pilot project to test framework 26  Develop Air
+Emission/Transport Management Systems 29  Conduct study to establish benchmark
+and facilitate future comparisons 33  Establish Data Sharing Agreements between
+relevant entities 44 National Petroleum Corporation PM# EA# Enabling Activity
+Develop  post-discovery framework  Conduct evaluation on methodology and
+approach to determining appropriate/optimum extraction rates  10  Establish Data
+Sharing Agreements between relevant entities 44 IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY | 71 Private Sector Road Transportation Sector PM# EA#
+Enabling Activity  Explore retrofitting options for existing fleet 14  Create
+system to incorporate mobile maintenance and support for EVs 24  Construct more
+charging stations for EVs 28 Samuel Jackman Prescod Institute of Technology PM#
+EA# Enabling Activity  Establish capacity-building programme based on capacity
+assessment 70 Sanitation Service Authority PM# EA# Enabling Activity  Identify
+waste streams and characterise lifespans 60  Identify standards for equipment
+and devices 59  Develop protocols for disposal of equipment and devices 60
+Develop framework to support private waste reuse/recycling 59  Develop
+legislation to govern effective waste disposal 59  Develop education and
+awareness programme for public dissemination 59  Identify and adopt
+international best practice and international framework 60  Identify and adopt
+international best practice and international framework 60  Examine existing
+Environmental Act and Marine Pollution Control Act and inform legislation 60
+Examine options for waste treatment and identify best practices for dealing with
+industrial waste  60  Establish  system for recycling and disposing of batteries
+at end of use (cradle to grave) 92 72 | IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY Town and Country Planning Department PM# EA# Enabling
+Activity Review building codes to integrate charging stations into new
+developments (residential, commercial and open public spaces)  27 Review
+building codes to integrate charging stations into new developments
+(residential, commercial and open public spaces)  34 Create legislation and
+regulations to govern movement towards greater energy efficiency in businesses
+and residences in Barbados  47  Review building codes to ensure energy
+efficiency (RE) is incorporated 51  Establish or adopt business standards for
+the design of energy efficient homes and offices 52 Develop platform with
+application template to facilitate simultaneous input and tracking on
+applications from multiple relevant entities  55  Form project review committee
+to expedite review of projects over  certain size 55  Implement standards for
+insulation in buildings 57 Review Building codes to include best materials to be
+used for building and construction projects  58  Define land areas for bio-
+energy and wind production in Barbados’ Physical Development Plan 82 University
+of the West Indies PM# EA# Enabling Activity  Establish training programmers
+with key overseas institutions   Establish capacity-building programme based on
+capacity assessment 70 IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY |
+73 APPENDIX  74 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+APPENDIX  ALLOCATION OF ACTIVITIES & RESPONSIBLE PARTIES Responsible Party PM#
+Policy Measure EA# Enabling Activity Establish Oil and Gas stakeholder committee
+BNOCL - MEWR  Establish regularly held investor conferences to inform potential
+developers about the rules and requirements needed to undertake activities in
+the Oil and Gas sector Host conferences and inform potential developers  MEWR
+Develop standards for companies to operate in the Oil and Gas sector  BNSI
+Conduct  review of current data management systems BNOCL - MEWR  Increase the
+cultivation of data relating to the geological and geophysical conditions in the
+offshore Oil and Gas sector to aid the government in setting license fees and
+determining levels of royalties Develop  data management system  BNOCL   Review
+existing framework BNOCL  Review existing framework MEWR Develop  licensing
+system with clear criteria on the ranking of various factors critical to the
+decision on bids This system should be made available widely to potential
+bidders as well as the public Develop awareness and communication strategy  MEWR
+Formulate enviornmental and other guidelines  EPD - MEWR Formulate clear
+legislation governing environmental management in offshore Oil and Gas
+activities, with provisions for removal of licenses if stipulations are not met
+Formulate clear legislation governing environmental management in offshore Oil
+and Gas activities, with provisions for removal of licenses if stipulations are
+not met CPC - EPD - MEWR   Develop Awareness and Communication Strategy  EPD
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 75 Establish training
+programmemes with key overseas institutions METVC - MFAFT - UWI  Advancde and/or
+develop relevant courses at local institutions  METVT - MOL Develop  capacity-
+building programme locally to prepare the workforce for employment in the
+emerging Oil and Gas offshore sector  Build marine security and response
+capacity  BDF - MEWR MEWR - MFAFT - MOFEI Establish  Resource Mobilisation Unit
+Develop awareness and communication Strategy Communicate oppurtunities for
+enterprise- laundry service, food supply, waste management  MSBEC Create an
+enabling environment that will empower local businesses to participate
+effectively in the supply of goods and services to the offshore Oil and Gas
+sector  Provide tax incentives to businesses that directly engage the offshore
+sector  MOFEI Develop  berthing faciity for offshore Oil and Gas sector  MEWR
+Offer fiscal incentives for developers, which are tied to factors such as the
+expected internal rate of return   Review Corporate Tax Rate MOFEI Establish
+Wealth Management Fund MEWR - MOFEI  Review and enhance relevant policies and
+guidelines related to Auditor General Establish  wealth management programme to
+ensure that revenues from the offshore Oil and Gas sector are used effectively
+CPC  Develop mechanism for external/ independent performance reviews of
+strategic plans MEWR - MOFEI  Develop an unambiguous system for determining
+whether  future gas find should be used for export or included as part of the
+domestic market Develop  post-discovery framework BNOCL - MEWR - NPC   76 |
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Conduct evaluation on
+methdology and approach to determining appropriate/ optimum extraction rates
+Produce legislation that identifies limits on the amount of Oil and Gas
+resources that can be exploited in the short term BNOCL - MEWR - NPC  10 Develop
+appropriate legislation  CPC Conduct Risk Assessment  BDF Conduct GAP analysis
+Build  defence and security framework to protect the Exclusive Economic Zone BDF
+11 Review and/or establish appropriate legislation, policies and response
+mechanisms  EPD Create biofuel standards for wholesale and retail supply of
+vehicles Create biofuel standards for wholesale and retail supply of vehicles 12
+BNSI Establish  transportation information system to provide data for
+transportation and energy policies, strategic planning, tracking of CO2
+emissions, and environmental impacts Establish  transportation information and
+management system BSS - EPD - MEWR - MTWM 13  Incentivise projects focused on
+generating Biodiesel for public transport vehicles  MEWR Undertake pilot
+projects for EV usage along major routes to determine efficiency Introduce more
+renewable energy and clean energy into the public transportation system  MTWM 14
+Review duties on EVs  MOFEI Explore retrofitting options for existing fleet  PS
+Stricken penalties pertainimg to offloading/onboarding points  MTWM Encourage
+energy efficiency in the transportation sector 18 Develop awareness and
+communication strategy  MTWM - PSVA IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY | 77  Review duties on EVs MOFEI Provide tax incentives to vehicle
+dealerships that train their mechanics to maintain and repair EVs 19 Government
+will cover the cost of training for first  mechanics  MEWR Establish  programme
+for identifying appropriate international sources of funding to facilitate and
+assist the government in transitioning from fossil fuels to EVs Establish
+Resource Mobilisation Unit 20  MOFEI Remove duties and VAT from EVs and
+encourage  scheduled approach to increasing their use in the national
+transportation fleet, while at the same time, not harming government’ revenue
+stream Quarterly simultaneous review of Duties, VAT, Excise Tax in line with
+BERT programme 21  MOFEI Develop National Transportation Network Strategy
+Develop  road network that promotes energy efficiency 22  MTWM Establish the use
+of management technology in public transit,  using smartphone apps to verify
+arrival times of buses Develop transportation information and management system
+23  MTWM Create system to incorporate mobile maintenance and support for EVs
+Create  system that includes mobile charging stations for vehicles 24  PS
+Introduce ethanol rather than MTBE as an anti-knock agent 25  / Develop
+framework based on quantitative variables to incentivise and penalise below-
+average and excessive emission levels respectively  EPD - MTWM Implement more
+stringent regulations on vehicles’ exhausts and emissions 26 Conduct pilot
+project to test framework  EPD - MTWM 78 | IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY Review building codes to integrate charging stations into
+new developments (residential, commercial and open public spaces)  BNSI
+Integrate charging stations with traditional gas stations 27 Review building
+codes to integrate charging stations into new developments (residential,
+commercial and open public spaces)  TCPD Construct more charging stations for
+EVs Construct more charging stations for EVs 28  PS Develop framework for more
+robust emission data collection in private and public sector  EPD Control and
+maintain CO2 emissions at levels consistent with local and global climate change
+targets 29 Develop Air Emission/Transport Management Systems  EPD - MTWM Develop
+Awareness and communication Strategy Establish  system that facilitates the
+change from traditional vehicles to those powered by renewable energy, taking
+transition costs into consideration  MEWR 30 Provide incentives to buffer costs
+(import, sales and operations)  MOFEI Implement standards for streetlight
+efficiency 31  Already in progress MEWR Provide cost incentives that encourage
+investment in required infrastructure with charging stations etc Provide cost
+incentives that encourage investment in required infrastructure with charging
+stations etc 32  MOFEI Conduct study to establish benchmark and facilitate
+future comparisons MEWR - MOFEI - MTWM Acquire more details on the number of
+vehicles using each fuel type 33  Review building codes to integrate charging
+stations into new developments (residential, commercial and open public spaces)
+Establish standards in charging and other renewable energy infrastructure
+related to fuelling 34  BNSI - TCPD Develop  regulatory framework for the
+implementation of vehicle to grid storage and supply technology Develop
+regulatory framework for the implementation of vehicle to grid storage and
+supply technology 35  FTC IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY
+POLICY | 79 Establish electric market structures that reduce the effects of
+monopolistic operations where financially and economically feasible Develop
+Integrated Resouce Planning tool to determine energy mix 36  BL& - MEWR Create
+pricing mechanism for electricity from renewable energy suppliers Create
+pricing mechanism for electricity from renewable energy suppliers 37  FTC Devise
+protocols for interconnectivity between IPPs and the utility to supply
+electricity / - Already addressed in the Grid Code 38  Expand electricity
+regulation to include the wide ranging aspects of the market, generation,
+distribution, supply, dispatch, transmission, and electricity use within the
+electricity sector Expand electricity regulation to include the wide ranging
+aspects of the market, generation, distribution, supply, dispatch, transmission,
+and electricity use within the electricity sector FTC - GEED - MEWR - CPC 39
+Produce standards and specifications for generation, supply, dispatch,
+transmission, distribution, storage and consumption that allow the electricity
+sector to operate in  financially, economically, environmentally, and
+technically viable manner Produce standards and specifications for generation,
+supply, dispatch, transmission, distribution, storage and consumption that allow
+the electricity sector to operate in  financially, economically,
+environmentally, and technically viable manner 40  BNSI Undertake Pilot for
+digitised Air Emissions Moniotoring System BL& - IPPs - EPD  Institute targets
+for limits on CO2 emissions in the electricity sector 41 Develop framework for
+more frequent cllection of data and CO2 emissions and targets BL& - IPPs - EPD
+Promote the use of renewable and other clean sources of energy to produce
+electricity Develop Awareness and Communication Programme 42  BREA - MEWR
+Develop clear rules for determining roles and timelines for updating the
+Integrated Resource Plan Develop clear rules for determining roles and timelines
+for updating the Integrated Resource Plan 43  MEWR 80 | IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY Use SMART meters as part of an advanced
+communication infrastructure for distribution management, to facilitate the use
+of more intermittent technologies and aid in demand-side management Establish
+Data Sharing Agreements between relevant entities BL& - BWA - EPD - MEWR - MTWM
+- NPC 44  Establish efficiency standards governing electricity production for
+utility and distribution-scale operations Develop energy efficiency standards
+for IPPs 45  BNSI Develop  maximum useful life and cost/performance ratio of
+operations for generation equipment 46  Develop Asset Management Plan BL& - IPPs
+Create legislation and regulations to govern movement towards greater energy
+efficiency in businesses and residences in Barbados Create legislation and
+regulations to govern movement towards greater energy efficiency in businesses
+and residences in Barbados 47  CPC - TCPD Develop an energy efficiency plan as
+policy guideline document Craft an energy efficiency plan as  policy guideline
+document 48  MEWR Develop toolkit for basic, DIY household energy audits Develop
+an energy conservation education and awareness programme that will promote
+lifestyle changes among Barbadians with regard to energy consumption  BREA -
+MEWR 49 Develop media campaign (Social media, television, radio, GIS) BL& - BREA
+- IPPs - MEWR  Develop terms of reference for requirement of private sector to
+designate energy efficiency officers MEWR - MOFEI  Promote energy efficiency in
+the productive and trading sectors Provide incentives for ESCOs whose activities
+are aligned to that of suggestions of relevant energy audits 50  MEWR Conduct
+pilots and case studies showing the costs benefits  MEWR Develop sectoral energy
+efficiency and consumption standards for buildings, and encode them in the Town
+and Country Planning Act Review building codes to ensure energy efficiency (RE)
+is incorporated EPD - GEED - TCPD 51  IMPLEMENTATION PLAN FOR BARBADOS NATIONAL
+ENERGY POLICY | 81 Establish or adopt business standards for the design of
+energy efficient homes and offices Establish or adopt business standards for the
+design of energy efficient homes and offices EPD - GEED - TCPD 52  Create energy
+efficiency standards for appliances and equipment used for residential,
+commercial and industrial purposes Create energy efficiency standards for
+appliances and equipment used for residential, commercial and industrial
+purposes 53  BNSI Develop assessment tool to determine household income levels
+MOFEI Provide equity for households that are unable to pay for energy efficiency
+retrofits and products 54 Provide equity for households that are unable to pay
+for energy efficiency retrofits and products  MEWR Develop platform with
+aplication template to facilitate simultaneous input and tracking on
+applications from multiple relevant entities EPD - MAFS MEWR - MOH - TCPD
+Develop  set of regulations in tandem with all government ministries involved in
+the energy sector, which identifies  clear and defined process for new
+applicants in energy efficiency projects  55 Form project review committee to
+expedite review of projects over  certain size  TCPD Identify key technologies
+to be targeted  MEWR Develop framework and criteria for incentives to promote
+greater use of energy efficiency technologies Produce  system of duties, taxes
+and economic incentives to promote greater use of high-efficiency energy
+technologies MEWR - MOFEI 56  Implement pilot project to assess impact of
+incentived MEWR - MOFEI  Implement standards for insulation in buildings
+Implement standards for insulation in buildings 57  BNSI - TCPD Review Building
+codes to include best materials to be used for building and construction
+projects Use life cycle analysis to determine the best materials to be used for
+building and other construction projects BAPE - EPD - GEED - TCPD - EPD 58  82 |
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Identify standards for
+equipment and devices BNSI - EPD - SSA  Develop protocols for disposal of
+equipment and devices  EPD Standards and protocols for the safe and effective
+disposal of equipment and devices in the energy sector Develop framework to
+support private waste reuse/recycling  EPD -SSA 59 Develop legislation to govern
+effective waste disposal  CPC - SSA Develop education and awareness programme
+for public dissemination  SSA Provide training in environmental management for
+offshore upstream Oil and Gas BNOCL - EPD - MEWR  Identify waste streams and
+characterise lifespans  SSA Identify and adopt international best practice and
+international frameword  sustainable environmental management framework for the
+upstream offshore petroleum sector  SSA 60 Examine existing environmental act
+and Marine Pollution Control Act and inform legislation  EPD - SSA Examine
+options for waste treatment and identify best practices for dealing with
+industrial waste  EPD - SSA Develop legislation for decommissioning and
+abandonment of energy operations  decommissioning fund for the energy sector to
+facilitate the decommissioning and abandonment of energy operations and
+facilities  MEWR 61  Establish decomissioning fund MEWR IMPLEMENTATION PLAN FOR
+BARBADOS NATIONAL ENERGY POLICY | 83 Standards and protocols for energy
+production in the petroleum and renewable energy subsectors that promote and
+encourage the goal of zero harm to the people and the environment Develop
+Standards and protocols for energy production in the petroleum and renewable
+energy subsectors BNSI - EPD - MEWR  62 Standards and protocols for the safe and
+effective disposal of equipment and devices in the energy sector Develop
+protocols for disposal of equipment and devices  SSA BREA - EPD - MEWR
+Information systems and infrastructure that promote the flow of information
+requiring environmental standards, best practices and legislation Establish
+joint information system  63 Develop public awareness programme  EPD Studies
+within the sector that assess the correlation between carbon dioxide emissions
+and health risks ( cancer and asthma) Conduct study to assess correlatin between
+carbon dioxide emissions and health risks EPD - MOH - PAHO 64  Determine and
+mandate standardised methodology to measure CO2 equivalent emissions across the
+energy sector  EPD Create  mechanism to cap and trade CO2 emissions within the
+Barbados energy sector 65 Identify volumes of emissions and markets for trading
+EPD Develop policy recommendation for cabinet decision  MENB Establish  clear
+international agenda for the acquisition of climate change funding Establish
+Resource Mobilisation Unit  66 MOFEI Establish  clear international agenda for
+the acquisition of climate change funding Establish  clear international agenda
+for the acquisition of climate change funding MFAFT - MEWR  68 Establish
+preliminary/ baseline mix Diversify and optimize the renewable energy mix that
+results in the maximisation of socio-economic and financial benefits to Barbados
+MEWR 69 Allow for adjustments to mix via comprehensive IRP  BL& - MEWR 84 |
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Conduct capacity
+assessment to identify critical skillsets in the RE sector  MEWR Establish
+capacity-building programme locally to prepare the workforce for employment in
+the renewable energy sector 70 Establish Capacity-building programme based on
+capacity assessment BCC - SJPIT - TEVT - UWI  Develop  central database
+containing details on the extent of renewable energy resource available at
+various locations in Barbados (solar, wind and bioenergy potential) Develop
+central database containing details on the extent of renewable energy resource
+available at various locations in Barbados (solar, wind and bioenergy potential)
+71  MEWR Establish legislation and regulations that provide for  transparent
+process in acquiring licences for supplying electricity from renewable energy
+sources Establish legislation and regulations that provide for  transparent
+process in acquiring licences for supplying electricity from renewable energy
+sources 72  CPC Provide an enabling environment that encourages collaborative
+approaches to producing renewable energy that is technically sound, and is
+financially, economically and environmentally viable Establish Sector and
+subsector working group forums to facilitate dialogue and collaboration on
+regular basis BREA - CPC - FTC - MEWR 73  Establish  programme of international
+financing and ‘in kind’ assistance that effectively supports the supply of
+renewable energy, and promotes Barbados’ economic growth and competitiveness
+Replicate and expand on existing approaches such as GCF to facilitate future
+financing engagements MEWR - MOFEI 74  Identify and/or develop  sustainable
+financial framework to enable organisations to actively participate in RE
+activities Increase staffing (secretariat) and human capacity to support local
+NGOs such as BREA BEG - BREA - MEWR 75  Develop  clear protocol for clients to
+follow for investigating and trouble- shooting in new renewable energy systems
+with  method of recourse for clients in case of unsatisfactory company
+performance Create standardised framework (processes, contractual arrangements,
+&, maintenance standards) governing RE installations 76  BCCI - BL&
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 85 Develop  clear
+protocol for clients to follow for investigating and trouble- shooting in new
+renewable energy systems with  method of recourse for clients in case of
+unsatisfactory company performance Create standardised framework (processes,
+contractual arrangements, &, maintenance standards) governing RE installations
+BNSI - BREA - FTC - GEED 76  Establish multi-stakeholder group on communication
+BCCI - BREA - FTC - MEWR  Provide regular and clear communication to the public
+on developments within the renewable energy industry Establish schedule of
+public engagements forums ( townhall meetings, press releases etc) 77 BCCI -
+BREA - FTC - MEWR  Institute efficiency standards for manufacturing local
+renewable energy products such as solar water heaters Institute efficiency
+standards for manufacturing local renewable energy products such as solar water
+heaters 78  BNSI Develop framework for ongoing review of VAT, NSRL, Import
+Duties etc on RE and associated apparatus ( storage) Establish appropriate
+fiscal incentives for emerging renewable energy and storage technologies 79  FTC
+- MOFEI Provide stability and confidence amogst RE investors by making
+determination on price and mechanism for RE ( FIT)  FTC Promote an enabling
+environment that encourages local involvement in renewable energy projects
+Revise incentive categories to intermittent, firm and storage to allow for
+measurement consistency and comparability across RE technologies, then apply
+relevant incentives 80 BEG - BREA - FTC  Create  system to ensure the protection
+of intellectual property and patents for renewable energy technologies Create
+system to ensure the protection of intellectual property and patents for
+renewable energy technologies CAIPO - MFAFT - MOFEI 81  Define land areas for
+bio-energy and wind production in Barbados’ Physical Development Plan Define
+land areas for bio-energy and wind production in Barbados’ Physical Development
+Plan 82  BEG - TCPD 86 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+Establish and support infrastructure for the collection, handling, and
+processing of organic material to produce energy Establish and support
+infrastructure for the collection, handling, and processing of organic material
+to produce energy 83  MENB Provide fiscal and financial support for research and
+development in bio-energy technologies and methods Provide fiscal and financial
+support for research and development in bio- energy technologies and methods
+BCIC - MEWR - MOFEI 84  Develop standards of production for bio-methane from
+biogas Develop standards of production for bio-methane from biogas 85  BEG -
+BNSI Create standards for electricity generation efficiency in the bio- energy,
+wind energy and other renewable energy subsectors Create standards for
+electricity generation efficiency in the bio-energy, wind energy and other
+renewable energy subsectors BAPE - BNSI - GEED 86  Produce  legislative and
+regulatory framework for bio-energy production, distribution, storage, and plant
+decommissioning Produce  legislative and regulatory framework for bio-energy
+production, distribution, storage, and plant decommissioning CPC - MAFS - MEWR
+87  Devise  strategy for expanding Barbados’ renewable energy markets into the
+Caribbean Devise  strategy for expanding Barbados’ renewable energy markets into
+the Caribbean BCCI - CCREEE - MEWR 88  Establish  transparent decision protocol
+for choosing between energy storage measures Establish  transparent decision
+protocol for choosing between energy storage measures 89  BL& Create clear
+guidelines for integration of battery technology in PV systems Create clear
+guidelines for integration of battery technology in PV systems BL& - BNSI - FTC
+- GEED 90  Implement proven storage technologies and systems that promote
+renewable energy and are economically, environmentally and financially viable
+Implement proven storage technologies and systems that promote renewable energy
+and are economically, environmentally and financially viable BL& - BREA - FTC -
+GEED 91  Establish  system for recycling and disposing of batteries at end of
+use (cradle to grave) Establish  system for recycling and disposing of batteries
+at end of use (cradle to grave) 92  EPD - SSA IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY | 87 APPENDIX  88 | IMPLEMENTATION PLAN FOR BARBADOS
+NATIONAL ENERGY POLICY APPENDIX  RISK REGISTER GUIDELINES Description of Risk
+Register Column Helpful Hints for Risk Assessment Once risks are identified,
+they should be given  unique identification number, beginning with
+Identification number of each risk No: The name used should be consistent for
+each focal area The name of the project Project: Generally, the risk breakdown
+structure is  way of categorising or grouping risks by the potential cause of
+the risk The primary category or functional area that the risk pertains to
+Category: Opportunity/Threat: Risk identified as an opportunity in the
+assessment section of the risk register Opportunity Risk identified as  threat
+in the assessment section of the risk register Threat Risk identified as an
+opportunity and  threat in the assessment section of the risk register
+Opportunity/Threat: In the identification process, think about risks relevant to
+the project scope, schedule, or cost Additionally think of risks that may affect
+the agency' reputation Brief, generally unique, description of the risk specific
+to the Project Summary Description: The goal is to ensure that other users of
+the register can interpret the risk identified Try to be specific and not overly
+vague Sample risk statement templates are "If <uncertain event> -> then <effect
+on objectives>" or "Due to <definite cause>, <uncertain event> may occur,
+resulting in <effect on objectives> Detailed description of the risk, generally
+including  "cause", possible "risk event", and "effects" Detailed Description:
+IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 89 The estimated
+likelihood in percent (%) of the risk occurring based on current state of the
+risk For subsequent risk assessments as response plans are implemented, the
+value should reflect the estimated probability at the time of assessment
+Probability: The estimated most likely cost impact of the risk if it were to
+occur (in millions of dollars) For subsequent risk assessments as response plans
+are implemented, the value should reflect the estimated impact at the time of
+assessment Most Likely (Cost): Response Category: Threat Response - Pick One
+Indicates that the project team has decided not to change the project plan to
+deal with  risk, or is unable to identify any other suitable response strategy
+It should be noted, that mitigation or transference is not necessary for all
+risk threats, particularly those with  small severity rating Judgment must be
+used as to whether  more rigorous (and potentially costly) response should be
+implemented If "accept" is chosen as the response, generally the pre-and post-
+response assessment ratings remain the same Accept Allocates  portion of
+ownership of  risk threat to another party who is best able to minimise the
+impact and/ or probability of the risks Allocates all or  portion of ownership
+of  risk opportunity to another party who is best able to maximise its
+probability of occurrence and increase the potential benefits if it does occur
+Share 90 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY If "mitigate"
+is chosen as the response, generally the pos-response assessment is lower than
+the pre-response assessment Seeks to reduce the probability and/ or impact of
+risk threat to below an acceptable threshold Mitigate If "transfer" is chosen as
+the response, generally the post response assessment is lower than the pre-
+response assessment If the risk were fully transferred with no residual risk,
+the post-response assessment would equal zero Allocates all ownership of  risk
+threat to another party who is best able to minimise the impact and/or
+probability of the risk Transfer Involves changing the project plan to eliminate
+the risk threat or to protect the project objectives from its impact If "avoid"
+is chosen as the response, generally the risk is totally eliminated in the post
+response assessment Avoid Response plans should be specific enough to implement
+It is okay to include steps to implementation For example, further study may be
+needed (prior to implementing  response plan) to determine whether it would be
+effective; or options may need to be evaluated and decided upon by the project
+team prior to implementation Owners assigned are those who are best able to
+monitor the risk and implement the response More than one owner can be assigned,
+but it should be clear what each owner is responsible for Primary plan to
+address the risk Response: If multiple people are assigned as owners, it should
+be clear what each of their roles are and what they are individually responsible
+for Person or people assigned to implement the response plan and monitor the
+risk Risk Owner: IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 91
+Status: Risk is being actively monitored and controlled, but the response plan
+has not been initiated Active (Not Started) Risk is being actively monitored and
+controlled, and the response plan is currently being implemented Active
+(Ongoing) The risk is still being actively monitored and controlled; however all
+work on the response plan is complete Active (Complete) Risk is not currently
+high priority, but may become active in the future This status is not often used
+Dormant (Not Started) Risks that are no longer applicable should be listed as
+"retired" and not deleted from the register Risk is no longer  threat to project
+objectives Retired (Complete) Utilise the comments section to provide updates on
+actions or owners, or to note changes associated with the response plans Include
+any comments associated with the risk and the update to the risk in this box
+Tracking Comments: 92 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY
+APPENDIX  IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY | 93 APPENDIX
+RISK REGISTER THREAT RATING DESCRIPTION Impact Rating Context Project Impacts
+Low Medium-Low Medium Medium-High High “Does not meet acceptable standards and
+Design Exception not likely “Does not meet acceptable standards and requires
+Design Exception “Requires Design waiver “Requires Design Variance “Negligible
+impacts to design quality Unacceptable impacts to long-term maintenance Major
+impacts to long-term maintenance Significant impacts to long-term maintenance
+Minor impacts to long-term maintenance Negligible impacts to long-term
+maintenance Quality Project does not meet need and purpose” Changes unacceptable
+to TxDOT or stakeholders” Major scope reduction” Minor scope reduction” Barely
+noticeable” “ Cost (% of project cost) “ cost increase = % cost increase = %
+cost increase = % cost increase = % cost increase > % “Schedule (% of project
+schedule, subject to schedule analysis)” delay = % delay = % delay = % delay = %
+delay > % Probability Rating      Low Medium-Low Medium Medium-High High
+Probability of occurrence -15% % % % % Note: probability scale for threats and
+opportunities are color coded the same to ensure conditional formatting of cells
+is consistent and severity rankings are calculated correctly      Needed to
+reach 100 Low Medium-Low Medium Medium-High High Total 15 15 35 15 20 100  Scale
+modifier 94 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY Risk
+Register: Severity Matrix IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY
+POLICY | 95 96 | IMPLEMENTATION PLAN FOR BARBADOS NATIONAL ENERGY POLICY

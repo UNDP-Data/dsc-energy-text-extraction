@@ -1,0 +1,10 @@
+/01_Input/01_PDFs/03_National/
+/02_Output/03_Pdf-Jsons
+02_Output/04_Doc_Jsons_Merge/documents_publications.json
+02_Output/04_Doc_Jsons_Merge/documents_all.json
+02_Output/04_Doc_Jsons_Merge/*
+/02_Output/04_Doc_Jsons_Merge
+02_Output/04_Doc_Jsons_Merge/documents_publications.json
+02_Output/04_Doc_Jsons_Merge/documents_all.json 
+data/documents_all.json
+/02_Output/04_Doc_Jsons_Merge/documents_all.json

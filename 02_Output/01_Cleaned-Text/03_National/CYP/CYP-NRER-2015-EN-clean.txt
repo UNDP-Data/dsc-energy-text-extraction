@@ -1,0 +1,420 @@
+RENEWABLE ENERGY ROADMAP FOR THE REPUBLIC OF CYPRUS SUMMARY FOR POLICY MAKERS
+January 2015 Copyright © IRENA 2014 Unless otherwise indicated, material in this
+publication may be used freely, shared or reprinted, so long as IRENA is
+acknowledged as the source Cover photo: An old wind pump next to Faneromeni
+Church, Nicosia, Cyprus (Emanuele Taibi / IRENA) About IRENA The International
+Renewable Energy Agency (IRENA) is an intergovernmental organisation that
+supports countries in their transition to  sustainable energy future, and serves
+as the principal platform for interna- tional cooperation,  centre of
+excellence, and  repository of policy, technology, resource and financial knowl-
+edge on renewable energy IRENA promotes the widespread adoption and sustainable
+use of all forms of renewable energy, including bioenergy, geothermal,
+hydropower, ocean, solar and wind energy in the pursuit of sustainable
+development, energy access, energy security and low-carbon economic growth and
+prosperity Acknowledgements Key components of the analysis have been developed
+by the Swedish Royal Institute of Technology (KTH) and the Cyprus University of
+Technology (CUT), respectively for electricity supply and energy demand
+scenarios The report benefited from comments and guidance from Dolf Gielen,
+Director of IRENA Innovation and Tech- nology Centre, along with the
+contributions of all members of the roadmap working team, as listed below This
+report has been made possible by  Voluntary Contribution from the Government of
+the Federal Republic of Germany This roadmap was developed by IRENA, in
+cooperation with the Ministry of Energy, Commerce, Industry and Tourism (MECIT)
+of the Republic of Cyprus For further information or to provide feedback, please
+contact IRENA (secretariat@irenaorg) or Emanuele Taibi, IRENA Innovation and
+Technology Centre (ETaibi@irenaorg) This report is available for free download
+from  Roadmap working team IRENA: Emanuele Taibi and Peter Journeay-Kaler KTH:
+Constantinos Taliotis, Mark Howells and Manuel Welsch CUT: Theodoros Zachariadis
+MECIT: Energy Service & Hydrocarbon Service: George Partasides, Iosif Spyrides
+Cyprus Transmission System Operator: Constantinos Varnava and Irene Zavrou
+Cyprus Distribution System Operator: Savvas Papadouris Electricity Authority of
+Cyprus: Constantinos Rouvas Other contributions Environmental Department of
+Cyprus Department of Labour & Works Cyprus Statistical Service Disclaimer While
+this publication promotes the adoption and use of renewable energy, IRENA does
+not endorse any particular project, product or service provider The designations
+employed and the presentation of materials herein do not imply the expression of
+any opinion whatsoever on the part of the IRENA concerning the legal status of
+any region, country, territory city or area or of its authorities, or concerning
+their authorities or the delimitation of their frontiers or boundaries FOREWORD:
+REPUBLIC OF CYPRUS Cyprus has one of the highest electricity prices in Europe,
+due to high reliance on liquid fuel for power generation However,  major
+transition is imminent for electricity supply On one hand, indigenous natural
+gas discoveries are to be developed in the coming years On the other hand, the
+costs of renewable power supply options have fallen dramatically Meanwhile,
+concerns about greenhouse gases and local pollutants have increased, reflecting
+stringent European Union regulations Renewable energy offers  way for Cyprus to
+reduce both the cost and the environmental impact of generating electricity In
+the wake of the recent economic recession, turning to re- newables can help to
+reduce fuel imports, strengthen the trade balance and create local jobs The
+success of solar water heaters, for example, can be replicated for solar
+photovoltaics (PV) Cyprus has set out to attain  higher share of renewables, and
+this roadmap helps to assess op- timal investment strategies in the power sector
+Solar PV and wind power will play  major role in the roadmap to Roadmap findings
+will play an important role to revise existing energy policies and develop new
+ones As part of the same engagement, the energy planning model used to quantify
+the possible pace and benefits of renewable energy deployment given different
+conditions has been handed over to the Government of Cyprus The model will
+remain an important tool for assessing future energy policies and examining
+different energy pathways, and will assist in determining the op- timal
+penetration of RES for electricity supply, identifying the technical and
+economic potential for further increasing electricity production by RES We would
+like to thank IRENA for this support and look forward to  continued close
+coopera- tion in the future  Yiorgos Lakkotrypis Minister of Energy, Commerce,
+Industry and Tourism Republic of Cyprus  FOREWORD: IRENA and, versatility,
+increasingly, the diversity the The cost-competitiveness of renewable energy
+makes such sources essential for energy security and access around the world For
+islands, in particular, clean, indigenous renewable energy is inherently more
+attractive than costly fossil-fuel imports Countries such as Cyprus, which
+depend heavily on imported petroleum products, are investing in clean energy
+sources to provide affordable energy, green jobs and modern supply chains, while
+contributing to reducing greenhouse-gas emissions in the post-2015 world As an
+active participant in global efforts to ensure  sustainable energy future, the
+Republic of Cyprus has engaged with IRENA to develop  renewable energy roadmap
+for the country The Ministry of Energy, Commerce, Industry and Tourism, along
+with  range of stakeholders, has worked closely with IRENA to examine least-cost
+pathways for the evolution of the power generation mix, the increasing role that
+renewable energy will play within it, and the impact of key decisions on energy
+policy that Cyprus is confronted with making today  trust this roadmap will
+prove useful in the country’ pursuit of accelerated renewable energy deployment
+As our world strives for  future based on clean, secure and affordable energy
+for all, Cyprus can be the lighthouse that helps illuminate the course for
+others Adnan  Amin Director-General International Renewable Energy Agency
+EXECUTIVE SUMMARY FOREWORD: IRENA Roadmap structure The national energy balance,
+along with two of the demand forecast scenarios developed, were used as key
+inputs to the second section of the roadmap and the electricity supply model on
+which that section is based The Renewable Energy Roadmap for the Re- public of
+Cyprus is based on three comple- mentary sections The details of what is co-
+vered by each section and how each of them relates to the others are described
+below ) Electricity supply model In order to examine options for economically
+optimal deployment of renewable energy in Cyprus under different scenarios, and
+to un- derstand the potential impact of key policy decisions on the power
+generation mix,  long-term energy planning model of the cur- rent power system
+in Cyprus was deve loped The Electricity Supply Model for Cyprus (ESMC) has been
+developed using the long- term energy modelling platform called the Model for
+Energy Supply Strategy Alterna- tives and their General Environmental Impact
+(MESSAGE) (IIASA 2012) This is  dynamic, bottom-up, multi-year energy system
+model allowing the use of linear and mixed-integer optimisation techniques )
+Cyprus energy balance and demand forecasts As  first step to analysing the
+potential for renewable energy deployment in Cyprus and answering key questions
+related to the impacts of key policy decisions for the energy sec- tor, it was
+necessary to develop an extensive understanding of the current energy use in
+Cyprus, as well as demand forecasts, based on more detailed examination of
+current energy use and its possible future evolution in each demand sector This
+analysis was developed together with the Cyprus University of Tech- nology (CUT)
+and is detailed in “Cyprus Energy Balance and Demand Forecasts”, one section of
+the full roadmap report, which provides: This model was used to analyse the
+optimal evolution of the Cyprus electricity generation mix to meet electricity
+demand under dif- ferent sets of assumptions, which led to the definition of six
+main scenarios (see Figure ), which are explained below ●  detailed national
+energy balance based on official 2012 data and provisional 2013 data, with
+detailed analysis of residential energy demand by end-use and  break- down of
+final and useful energy demand in hotels; and ● Energy Efficiency Demand
+Scenario without Interim Gas Solution Scenario (SC1): Demand factors for this
+scenario are taken from an energy efficiency scenario developed in  separate
+study examining energy demand projections (Zachariadis et al 2014) None of the ●
+forecasts of final energy demand up to the year 2040 for  number of scenarios
+reflecting different sets of assumptions on Cyprus’ economic and energy system
+development  major projects under consideration are implemented, except the
+production of domestic natural gas for the internal market in 2022;  transition
+period is assumed where indigenous gas for power generation becomes available in
+Specifically, the Interim Gas Solution, the EuroAsia Interconnector and the LNG
+export terminal are excluded from this scenario ● LNG Export Terminal Scenario
+(SC4): In this scenario, assumptions are the same as in the previous scenario
+(SC3), but investment in  liquefaction facility for ex- port purposes is allowed
+Since the inter- connector is not deployed in this scenario, storage is again
+deemed necessary be- yond certain predefined limits (discussed later in section
+) ● EuroAsia Interconnector Scenario (SC5): This scenario assumes that the
+EuroAsia Interconnector will be imple- mented as planned, but no liquefaction
+facility will be developed Unless  sepa- rate grid analysis indicates otherwise,
+the assumption here is that storage is not  prerequisite in the case of high
+renewable energy penetration The Interim Gas Solu- tion is assumed to be
+successful as in SC3 Final electricity demands are the same as in SC1 and SC3
+The aim of this scenario is to identify the price at which impor- ted
+electricity becomes cost-competitive enough to be part of the Cyprus power
+generation mix Since investment cost for development of the cable connection has
+not been considered in the analysis, the economic and other benefits from the
+deployment of the interconnector should outweigh the cost of the associated in-
+frastructure for the interconnector to add value to the electrical system In the
+pre- sence of an interconnector, the impact on renewable energy deployment would
+be twofold: no storage would be required and more variable renewable energy can
+enter the power generation mix without the need for storage, which would reduce
+its competitiveness ● Extra Efficiency Demand Scenario with Interim Gas Solution
+Scenario (SC2): This scenario follows the same logic as SC1, with the exception
+of different final electricity demand assumptions and the success of the Interim
+Gas Solution nego- tiations Demands are taken from the Ex- tra Efficiency
+Scenario (Zachariadis et al 2014), which also assumes  decoupling between
+economic growth and electricity demand Thus, demand in this scenario is lower
+than in SC1 Also, the interim gas solution is allowed to make gas avail- able
+for the power sector, which means that  limit is imposed on the maximum
+contribution of renewables in the genera- tion mix, so as to ensure consumption
+of  minimum volume of gas based on the likely minimum quantity requirements to
+be purchased for the Interim Gas Solution to happen ● Energy Efficiency Scenario
+Demand with Interim Gas Solution Scenario (SC3): This scenario follows the same
+assumptions and final electricity demand as SC1 However, the Interim Gas
+Solution negotiations are assumed to be success- ful, as in the case of SC2 By
+comparing SC1 with SC3, outputs from this scenario can provide insights
+regarding the effects of the interim solution ● LNG Export Terminal and EuroAsia
+In- terconnector Scenario (SC6):  combi-  nation of Scenarios SC4 and SC5 has
+been conducted, with both the liquefaction fa- cility and the interconnector
+considered Assumptions regarding the Interim Gas Solution are the same as in
+SC4, while the assumptions regarding the necessity of storage are the same as in
+SC5 deployment of variable renewable energy (VRE) generation, while maintaining
+stable operation of the electricity grid, the roadmap includes the results of
+two studies examin- ing how VRE integration could be supported through:  VRE
+production forecasting  State-of-the-art of technologies for the provision of
+grid support services from variable renewable energy systems Additionally,
+several sensitivity analyses were undertaken The demand scenarios consid- ered
+in the MESSAGE model were based on the demand forecast developed by CUT In
+particular, one demand scenario was used for five out of six supply scenarios,
+with the scenario with the lowest electricity demand used only for evaluating
+the possible benefits in one of the six scenarios (SC2) These studies were
+developed by IRENA, as defined in the scope of work of the Cyprus roadmap, and
+are included at the end of this report They provide key insights into the state
+of the art of some key tools and measures that can be used to facilitate the
+integration of large shares of VRE into Cyprus’ electricity system The modelling
+work using MESSAGE was developed together with the Swedish Royal Institute of
+Technology (KTH) and is detailed in the full roadmap report, in the section
+“Electricity Supply Scenarios for the Republic of Cyprus” This section considers
+six specific scenarios examining the optimal deployment of renewable energy and
+thermal generation for the period 2013-The scenarios were designed by IRENA and
+KTH in consulta- tion with the Ministry of Energy, Commerce, Industry and
+Tourism (MECIT), to provide insights into key energy related decisions that
+Cyprus is facing This part of the report forms the core of the roadmap and
+provides key insights into how different policy decisions affect the optimal
+evolution of the electricity system in Cyprus Key roadmap findings The following
+conclusions have emerged from the roadmap analysis: ● To better position Cyprus
+for the revision of its energy policy and associated plans, this report provides
+quantitative insights on the impacts of major upcoming policy decisions; ●
+Several renewable energy technologies (RETs), including photovoltaics (PV) and
+wind, can already produce electricity at  lower cost than Cyprus’ current oil-
+fired power plants; ) Technical studies investigating ● Based on this analysis,
+renewable en- ergy could provide 25% to 40% of Cy- prus’ total electricity
+supply in In these scenarios solar PV will be the VRE integration In order to
+provide insights and state-of- the-art information on how to accelerate the
+dominant source with about 500 – ,000 megawatts (MW) of capa city providing 15%
+to 27% of the electricity supply while wind will be the second most important
+renewable energy source with about 175 – 375 MW of capacity providing % to % of
+the electricity supply ty that is fed into the grid is sold either at market
+price or at  feed-in tariff below marginal generation cost; and ● Maintain the
+feed-in tariff regime until  well-functioning market, which al- lows full
+participation of renewable energy (including provision of ancil- lary services),
+is in place ● The deployment of renewable energy in Cyprus has the potential to
+create be- tween 11,000 and 22,000 jobs in Cyprus by 2030, based on IRENA’
+estimates of the job-creation potential of different RETs; ● Certain features of
+the electricity market currently being designed would affect the competitiveness
+of renewables and should be reconsidered: ● Production forecast closes at :00
+of the day before, with no re-de- nomination allowed on the same day; ● The
+accelerated deployment of renewa- ble energy along with the shift of thermal
+generation to natural gas is estimated to lower generation cost to EUR  per
+megawatt-hour (MWh) by Costs in 2013 were around EUR 130/MWh, based primarily on
+heavy fuel oil and diesel generation ● Limited size of the day-ahead market due
+to thermal generation must-run and operating reserves constraints, with no
+incentives to invest in flexibil- ity or dispatchability; ● RETs are not allowed
+to provide ancil- lary services through the market, with compulsory requirements
+applied to all RETs through grid codes; and ● The following recommendations
+would help to minimise electricity generation costs in Cyprus: ● Uncapped and
+non-compensated RET curtailment justified by system secu- rity concerns creates
+substantial risk for renewable energy investors ● Create market incentives for
+invest- ment in increasing the flexibility of thermal generation, to reduce
+must- run requirements and increase the space for integration of renewable
+energy into the market; ● To improve the quality and reliability of national
+energy balance it is recommen- ded to: ● Minimise the requirements for provi-
+sion of ancillary services from dis- tributed renewable energy in the grid codes
+and allow renewable energy to participate in the market for ancillary services;
+● Publish the annual energy balance of Cyprus and extend its coverage to
+accommodate all available statistical information, , for industrial sub-
+sectors; and ● Move from  net-metering scheme to net-billing, where renewable
+electrici- ● Conduct energy surveys at regular in- tervals (every few years),
+particularly  for sectors with diverse energy use such as households and tourism
+tor (DSO) while also reducing financial risk and increasing revenues of IPPs and
+utilities operating VRE assets There is substantial potential for ener- gy
+efficiency improvements and further pene tration of renewables in the tourism
+sector, provided that appropriate policies are implemented ● ● There is  strong
+correlation between the value of forecasting and electricity market design In
+particular short-term markets and full market access (, inclu- ding
+participation in the ancillary services market) for VRE producers increases the
+effectiveness of forecasting in reducing VRE integration costs and increasing
+the share of VRE generation ● The Ministry of Energy, Commerce, Indus- try and
+Tourism should consider making  long-term commitment to energy model- ling work
+for both final energy demand and electricity supply as this would great- ly
+expand in-house capacity to assess the potential impacts of energy policy deci-
+sions and changes in the energy market conditions ● Current and near term
+advances in power electronics allow VRE assets to provide grid support services
+(GSS) In combi- nation with limited amounts of energy storage, VRE can provide
+the full range of GSS already today These capabilities should be factored into
+Cyprus’ proposed market design and future energy plan- ning efforts ● Accurate
+forecasts support high levels of VRE generation by reducing integration costs
+for the transmission system opera- tors (TSO) and distribution system opera-
+(Peter Journeay-Kaler / IRENA)  INSIGHTS FOR POLICY MAKERS This section provides
+review of the main findings and specific policy recommenda- tions that have
+emerged from the roadmap analysis It is intended to assist policy makers in
+identifying the main insights that will affect important upcoming policy
+decisions ● the imminent end of derogations given to the electricity sector of
+Cyprus with respect to the application of EU emission limits, particularly
+according to the Large Combustion Plants Directive (Directive 2001/EC setting
+emission limits for SO2, NOx and dust) and the free alloca- tion of CO2
+certificates; new techno-economic developments, particularly with respect to
+RETs, power electronics, smart and energy efficient technologies; and the
+current economic situation of Cyprus, which is seeing increasing need for re-
+duced energy costs in businesses and households Cyprus is at  major crossroad
+for the deve- lopment of its energy system The key driving elements for the
+evolution of Cyprus’ energy system are: ● ● the potential availability of
+natural gas, either imported or indigenous, within this decade; the plan to open
+up the monopolistic electricity market to competition, with  view to reduce cost
+and give choice to consumers; ● ● This is reflected in the analysis through the
+six key scenarios developed These scenarios 2014 2016 2017 2022 2023 2030
+Indigenous gas becomes available to Cyprus power plants No imported natural gas
+becomes available to Cyprus power plants No LNG export terminal for indigenous
+gas Cyprus remains an isolated electrical grid SC1 Indigenous gas becomes
+available to Cyprus power plants No LNG export terminal for indigenous gas
+SC2-SC3 Current Cyprus power system Cyprus remains an isolated electrical grid
+Indigenous gas becomes available to Cyprus power plants Indigenous gas begins
+being exported via an LNG liquefaction terminal SC4 Imported natural gas becomes
+available to Cyprus power plants Indigenous gas becomes available to Cyprus
+power plants No LNG export terminal for indigenous gas SC5 Electrical
+interconnection with Israel becomes available Indigenous gas becomes available
+to Cyprus power plants Indigenous gas begins being exported via an LNG
+liquefaction terminal SC6 Figure : Policy Decision Tree and Resulting Scenarios
+200 )   (                000 800 600 400 200
+SC1 SC2 SC3 SC4 SC5 SC6 Figure : Development of solar PV capacity under
+different scenarios are based on possible combinations of ma- jor developments
+for the energy system of Cyprus, particularly: availability of imported gas,
+availability of an international electrical interconnection, availability of
+indigenous gas and related infrastructure Wind is the second most important RET,
+con- tributing between % and % The scenari- os on the low-end of the renewable
+energy share are limited in penetration of vari able RET based on the
+constraints obtained by the Ministry of Energy, Commerce, Industry and Tourism
+The ministry’ constraints are based on provisional results from  study on grid
+stability commissioned by CERA, which will be revised by  subsequent study under
+development by the Joint Research Centre (JRC) of the European Commission None-
+theless, mandatory renewable energy targets for 2020 are exceeded in all
+scenarios In the absence of constraints related to must-run, operating reserve
+and stability-related con- cerns, solar PV will reach higher shares at  steady
+pace In the absence of imported gas becoming available for power generation in
+2016, solar PV deployment will be strongly accelerated (see SC1 and Figure ) It
+is re- commended to explore scenarios without the availability of natural gas
+and imposed tech- nical constraints on variable renewables (cur- rently based on
+non-finalised study) Figure  illustrates  decision tree defining the six key
+scenarios based on the combinations of the above energy sector developments The
+analysis of these scenarios shows that several RETs can already produce
+electricity at  lower cost than power plants fueled by oil products RETs have
+the potential to provide  sub- stantial contribution to the electricity mix of
+Cyprus Based on this analysis, between 25% and 40% of Cyprus’ electricity supply
+can come from renewables in 2030, in the economically optimal mix Solar PV is
+the predominant renewable energy technology in all scenarios, supplying between
+15% and 27% of the electricity consumed in Cyprus in Based on an IRENA analysis
+titled Renewable Energy and Jobs (IRENA, 2013c), solar PV can provide  new jobs
+per additional megawatt-peak (MWp) installed, while wind in  similar context
+like Cyprus (, Greece) can provide  jobs per MWp (see table , page 42 of IRENA
+2013c) The deployment of  gigawatt-peak (GWp) of PV over the period  can lead to
+about 20,000 new jobs (see Table ), with about additional jobs still exceeding
+10,000 in the scenario with the lowest renewable energy deployment (SC2) In the
+case of Cyprus, synergies can be lev- eraged between the existing solar thermal
+industry, which is already well-established, and the rapidly growing solar PV
+market Therefore  dedicated analysis on the job im- pact for Cyprus would be
+valuable extension of this work This analysis provides insights for the key
+policy decisions that will determine the evolu- tion of the energy sector in
+Cyprus Instead of suggesting one pathway as the optimal to fol- low, different
+scenarios provide quantitative insights on the impacts of different policy
+decisions, to better position Cyprus for the revision of its energy policy and
+associated plans (, the National Renewable Energy Action Plan) Given the game-
+changing na- ture of some of the policy decisions to be taken for the energy
+sector of Cyprus, this analysis outlines an optimal roadmap for each of the
+possible scenarios, without as- sociating  probability to each of them The
+difference among different scenarios in terms of cost of generation, investment
+needs, com- pliance with policy targets and optimal power generation mix can
+guide the government in taking policy decisions that will lead to the most
+desirable scenario and associated opti- mal roadmap ● Policy recommendations In
+combination, renewables and natural gas are expected to lower the genera- tion
+cost to EUR /MWh by 2030 (Table ) This is compared to 2013 levels estimated at
+about EUR 130 /MWh, where power is generated mostly by burning heavy fuel oil
+and diesel In order to minimise the electricity genera- tion cost for the Cyprus
+system, the following recommendations can be made ● Create market incentives for
+investment in flexibility for thermal power plants, to reduce the must-run
+requirements and Table : Renewable energy shares, generation cost and system
+investment per scenario SC1 SC6 % % % % % % Renewable energy share in 2030 % % %
+% % % SC4 SC5 SC2 SC3 Renewable energy share in 2020 of which: solar PV % % % %
+% % % % % % % % wind Cumulative generation system in- vestments * (billion EUR)
+Average generation cost in 2013- 2030 (EUR/MWh) 10 70 06 46 45 55 * The cost of
+some investments such as grid investments, electrical interconnector cost, and
+energy efficiency measures are not included   Table : Estimated additional jobs
+generated by wind and solar PV deployment in Cyprus Installed capacity in 2030
+(MW) Estimated additional jobs Wind 251 175 251 275 372 352 PV 559 468 559 688
+968 998 Wind ,209 ,540 ,209 ,420 ,274 ,098 PV 10,621 ,892 10,621 13,072 18,392
+18,962 SC1 SC2 SC3 SC4 SC5 SC6 customers equally Moving to  net-billing scheme
+can promote smarter consump- tion patterns, lead to the deployment of small-
+scale storage systems and intel- ligent appliances, and generally leverage all
+the potential benefits from distributed PV The same policy can replace the ex-
+isting self-generation support scheme, which has not been very successful up to
+now, especially in agricultural and other commercial consumers, who are unable
+to derive benefits from it increase the space for integration of RET into the
+market (see the case of Denmark, , from Blum and Christensen 2013) ● Minimise
+the requirements for provision of ancillary services from distributed RET (,
+small-scale residential PV) in the grid codes, and allow RET to partici- pate in
+the market for ancillary services In this way, the participation of only
+minimal part of the RET generators would be sufficient to compensate for the
+rest of the variable RET, minimising the cost of providing the needed ancillary
+services (see Van Hulle et al 2014) ● According to this analysis, acceleration
+of the deployment of RET can reduce gene- ration cost substantially, especially
+under the current conditions where oil products are used to generate most of the
+electri- city However, the slow permitting process slows down the necessary
+deployment, and current policy and future market un- certainty increase the risk
+for investors As PV, concentrated solar power (CSP) and wind are capital-
+intensive (but have no fuel cost), they are much more sensi- tive to cost of
+capital compared to ther- mal power plants Increasing the risk for investors in
+RET would reduce their competitiveness much more than would be the case for
+investors in fossil fuel- powered plants, with  double impact on electricity
+generation cost for Cyprus ● Consider moving from  net-metering scheme towards
+asymmetric net-bill- ing, where electricity fed into the grid is purchased
+either at market price or at  feed-in tariff below marginal genera- tion cost
+This would allow both  reduc- tion of windfall profits for net metering custo
+mers – due to the large difference between generation cost from PV and the
+current tariff – as well as the reduction of grid integration costs, as  net-
+billing scheme would provide strong incentives for maximising self-consumption
+of elec- tricity produced from PV Currently all net metering customers pay
+fixed fee for grid use,  measure that does not pro- mote self-consumption and
+penalises all 11 This means that less RET deployment will take place, with
+higher generation cost For each 12 MWp of utility-scale PV that gets delayed
+compared to the sug- gested roadmap, this analysis estimates that total
+generation cost will increase by EUR  million per year One suggestion could be
+to maintain the feed-in tariff regime until  well-functioning market that allows
+for full participation of RET, including provision of ancillary services, is in
+place One possible way to achieve this is to provide  feed-in tariff set at
+marginal generation cost minus grid integration cost for as many years as the
+estimated break-even time This should be revised yearly for new installations,
+to account for reductions in the cost of RET and changes in grid integration
+costs; however, it should not be revised retro- actively for existing
+installations Once their feed-in period expires, RET genera- tors will be
+allowed to sell electricity (and services) on the market, which by then should
+be fully operational In particular, certain features of the future market
+currently being designed would affect the competitiveness of renewables and
+likely slow down investments Key concerns related to current design of the
+electricity market, related to deployment of renewables, are: ● production
+closes at forecast :00  of the day before, with no re-denomination allowed on
+the same day; ● limited size of the day-ahead market due to conservative
+constraints on must-run for thermal power plants and operating reserves, with no
+incen- tives to invest in flexibility for reducing the must-run requirements; ●
+RET will not be allowed to provide ancillary services through the market, with
+requirements being enforced to all RET through grid codes; ● RET can be
+curtailed without com- pensation if TSO requests to do so because of system
+security concerns, and no cap is set on max curtailment, which creates
+substantial risk for RET investors ● Based on the decision tree in Figure , no
+fuel switch will happen before 2016, in any of the scenarios Therefore, for 2015
+the best policy option is to create the enabling conditions for accelerated
+deployment of utility-scale solar PV, which is the cheapest available generation
+option PV generation cost for 2015 in Cyprus is estimated to be below EUR
+80/MWh, displacing diesel and less efficient heavy fuel oil (HFO) units, for
+which the variable generation cost (short-run marginal cost, or SRMC) ranges
+between EUR /MWh However, due to the current uncertainty on permitting,
+licensing and future market design, the environment in 2015 is not conducive to
+deployment of RET ● One of the major achievements in the development of this
+analysis has been the creation of  platform for productive dis- cussions among
+key stakeholders in the energy sector of Cyprus The added value of having
+modelling platform to support discussions on quantitative results should justify
+support for creating in-house ca- pacity on energy planning modelling In this
+way future policy development will benefit from quantitative-based discus- sions
+supported by  commonly agreed modelling platform, which can provide in- sights
+on impacts from different policies being considered, and assess sensitivity of
+results to specific assumptions used   IREN  Head quar ters  Box 236, Abu Dhabi
+Unit ed Arab Emirates IREN  Innovati on and Technol ogy Centr  Rob er -Schuma -
+Platz  5317   onn Germ any  rg  Copyright©IRENA 2014

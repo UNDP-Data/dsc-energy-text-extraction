@@ -1,0 +1,1450 @@
+Machine learning for a sustainable energy future | Nature Reviews Materials Skip
+to main content Thank you for visiting nature.com. You are using a browser
+version with limited support for CSS. To obtain             the best experience,
+we recommend you use a more up to date browser (or turn off compatibility mode
+in             Internet Explorer). In the meantime, to ensure continued support,
+we are displaying the site without styles             and JavaScript.
+Advertisement View all journals Search Log in Explore  content About  the
+journal Publish  with us Sign up for alerts RSS feed nature nature reviews
+materials perspectives article                         Machine learning for a
+sustainable energy future                      Download PDF Download PDF
+Perspective Published:  18 October 2022 Machine learning for a sustainable
+energy future Zhenpeng Yao                ORCID:  orcid.org/0000-0001-8286-8257
+1 , 2 , 3 , 4   na1 ,  Yanwei Lum                ORCID:
+orcid.org/0000-0001-7261-2098 5 , 6   na1 ,  Andrew Johnston 6   na1 ,  Luis
+Martin Mejia-Mendoza 2 ,  Xin Zhou 7 ,  Yonggang Wen 7 ,  Alán Aspuru-Guzik 
+ORCID:  orcid.org/0000-0002-8277-4434 2 , 8 ,  Edward H. Sargent  
+ORCID:  orcid.org/0000-0003-0396-6495 6  &  … Zhi Wei Seh                ORCID:
+orcid.org/0000-0003-0953-567X 5   Show authors Nature Reviews Materials volume
+ 8 ,  pages  202–215 ( 2023 ) Cite this article 25k  Accesses 66  Citations 25
+Altmetric Metrics  details Subjects Batteries Computer science Electrocatalysis
+Energy grids and networks Solar cells Abstract Transitioning from fossil fuels
+to renewable energy sources is a critical global challenge; it demands advances
+— at the materials, devices and systems levels — for the efficient harvesting,
+storage, conversion and management of renewable energy. Energy researchers have
+begun to incorporate machine learning (ML) techniques to accelerate these
+advances. In this Perspective, we highlight recent advances in ML-driven energy
+research, outline current and future challenges, and describe what is required
+to make the best use of ML techniques. We introduce a set of key performance
+indicators with which to compare the benefits of different ML-accelerated
+workflows for energy research. We discuss and evaluate the latest advances in
+applying ML to the development of energy harvesting (photovoltaics), storage
+(batteries), conversion (electrocatalysis) and management (smart grids).
+Finally, we offer an overview of potential research areas in the energy field
+that stand to benefit further from the application of ML. Similar content being
+viewed by others A review of the recent progress in battery informatics Article
+Open access 18 February 2022 Chen Ling Predicting the state of charge and health
+of batteries using data-driven machine learning Article 02 March 2020 Man-Fai
+Ng, Jin Zhao, … Zhi Wei Seh Fundamental theory on multiple energy resources and
+related case studies Article Open access 06 July 2023 A. J. Jin Introduction The
+combustion of fossil fuels, used to fulfill approximately 80% of the world’s
+energy needs, is the largest single source of rising greenhouse gas emissions
+and global temperature 1 . The increased use of renewable sources of energy,
+notably solar and wind power, is an economically viable path towards meeting the
+climate goals of the Paris Agreement 2 . However, the rate at which renewable
+energy has grown has been outpaced by ever-growing energy demand, and as a
+result the fraction of total energy produced by renewable sources has remained
+constant since 2000 (ref. 3 ). It is thus essential to accelerate the transition
+towards sustainable sources of energy 4 . Achieving this transition requires
+energy technologies, infrastructure and policies that enable and promote the
+harvest, storage, conversion and management of renewable energy. In sustainable
+energy research, suitable material candidates (such as photovoltaic materials)
+must first be chosen from the combinatorial space of possible materials, then
+synthesized at a high enough yield and quality for use in devices (such as solar
+panels). The time frame of a representative materials discovery process is
+15–20 years 5 , 6 , leaving considerable room for improvement. Furthermore, the
+devices have to be optimized for robustness and reproducibility to be
+incorporated into energy systems (such as in solar farms) 7 , where management
+of energy usage and generation patterns is needed to further guarantee
+commercial success. Here we explore the extent to which  machine learning  (ML)
+techniques can help to address many of these challenges 8 , 9 , 10 . ML models
+can be used to predict specific properties of new materials without the need for
+costly characterization; they can generate new material structures with desired
+properties; they can understand patterns in renewable energy usage and
+generation; and they can help to inform energy policy by optimizing energy
+management at both device and grid levels. In this Perspective, we introduce
+Acc(X)eleration Performance Indicators (XPIs), which can be used to measure the
+effectiveness of platforms developed for accelerated energy materials discovery.
+Next, we discuss  closed-loop  ML frameworks and evaluate the latest advances in
+applying ML to the development of energy harvesting, storage and conversion
+technologies, as well as the integration of ML into a smart power grid. Finally,
+we offer an overview of energy research areas that stand to benefit further from
+ML. Performance indicators Because many reports discuss ML-accelerated
+approaches for materials discovery and energy systems management, we posit that
+there should be a consistent baseline from which these reports can be compared.
+For energy systems management, performance indicators at the device, plant and
+grid levels have been reported 11 , 12 , yet there are no equivalent
+counterparts for accelerated materials discovery. The primary goal in materials
+discovery is to develop efficient materials that are ready for
+commercialization. The commercialization of a new material requires intensive
+research efforts that can span up to two decades: the goal of every accelerated
+approach should be to accomplish commercialization an order-of-magnitude faster.
+The materials science field can benefit from studying the case of vaccine
+development. Historically, new vaccines take 10 years from conception to market
+13 . However, after the start of the COVID-19 pandemic, several companies were
+able to develop and begin releasing vaccines in less than a year. This
+achievement was in part due to an unprecedented global research intensity, but
+also to a shift in the technology: after a technological breakthrough in 2008,
+the cost of sequencing DNA began decreasing exponentially 14 , 15 , enabling
+researchers to screen orders-of-magnitude more vaccines than was previously
+possible. ML for energy technologies has much in common with ML for other fields
+like biomedicine, sharing the same methodology and principles. However, in
+practice, ML models for different technologies are exposed to additional unique
+requirements. For example, ML models for medical applications usually have
+complex structures that take into account regulatory oversight and ensure the
+safe development, use and monitoring of systems, which usually does not happen
+in the energy field 16 . Moreover, data availability varies substantially from
+field to field; biomedical researchers can work with a relatively large amount
+of data that energy researchers usually lack. This limited data accessibility
+can constrain the usage of sophisticated ML models (such as  deep learning
+models) in the energy field. However, adaptation has been quick in all energy
+subfields, with a rapidly increased number of groups recognizing the importance
+of statistical methods and starting to use them for various problems. We posit
+that the use of high-throughput experimentation and ML in materials discovery
+workflows can result in breakthroughs in accelerating development, but the field
+first needs a set of metrics with which ML models can be evaluated and compared.
+Accelerated materials discovery methods should be judged based on the time it
+takes for a new material to be commercialized. We recognize that this is not a
+useful metric for new platforms, nor is it one that can be used to decide
+quickly which platform is best suited for a particular scenario. We therefore
+propose here XPIs that new materials discovery platforms should report.
+Acceleration factor of new materials, XPI-1 This XPI is evaluated by dividing
+the number of new materials that are synthesized and characterized per unit time
+with the accelerated platform by the number of materials that are synthesized
+and characterized with traditional methods. For example, an acceleration factor
+of ten means that for a given time period, the accelerated platform can evaluate
+ten times more materials than a traditional platform. For materials with
+multiple target properties, researchers should report the rate-limiting
+acceleration factor. Number of new materials with threshold performance, XPI-2
+This XPI tracks the number of new materials discovered with an accelerated
+platform that have a performance greater than the baseline value. The selection
+of this baseline value is critical: it should be something that fairly captures
+the standard to which new materials need to be compared. As an example, an
+accelerated platform that seeks to discover new perovskite solar cell materials
+should track the number of devices made with new materials that have a better
+performance than the best existing solar cell 17 . Performance of best material
+over time, XPI-3 This XPI tracks the absolute performance — whether it is
+Faradaic efficiency, power conversion efficiency or other — of the best material
+as a function of time. For the accelerated framework, the evolution of the
+performance should increase faster than the performance obtained by traditional
+methods 18 . Repeatability and reproducibility of new materials, XPI-4 This XPI
+seeks to ensure that the new materials discovered are consistent and repeatable:
+this is a key consideration to screen out materials that would fail at the
+commercialization stage. The performance of a new material should not vary by
+more than  x % of its mean value (where  x  is the standard error): if it does,
+this material should not be included in either XPI-2 (number of new materials
+with threshold performance) or XPI-3 (performance of best material over time).
+Human cost of the accelerated platform, XPI-5 This XPI reports the total costs
+of the accelerated platform. This should include the total number of researcher
+hours needed to design and order the components for the accelerated system,
+develop the programming and robotic infrastructure, develop and maintain
+databases used in the system and maintain and run the accelerated platform. This
+metric would provide researchers with a realistic estimate of the resources
+required to adapt an accelerated platform for their own research. Use of the
+XPIs Each of these XPIs can be measured for computational, experimental or
+integrated accelerated systems. Consistently reporting each of these XPIs as new
+accelerated platforms are developed will allow researchers to evaluate the
+growth of these platforms and will provide a consistent metric by which
+different platforms can be compared. As a demonstration, we applied the XPIs to
+evaluate the acceleration performance of several typical platforms: Edisonian-
+like trial-test, robotic photocatalysis development 19  and design of a DNA-
+encoded-library-based kinase inhibitor 20  (Table  1 ). To obtain a
+comprehensive performance estimate, we define one overall acceleration score  S
+adhering to the following rules. The dependent acceleration factors (XPI-1 and
+XPI-2), which function in a synergetic way, are added together to reflect their
+contribution as a whole. The independent acceleration factors (XPI-3, XPI-4 and
+XPI-5), which may function in a reduplicated way, are multiplied together to
+value their contributions respectively. As a result, the overall acceleration
+score can be calculated as  S  = (XPI-1 + XPI-2) × XPI-3 × XPI-4 ÷ XPI-5. As the
+reference, the Edisonian-like approach has a calculated overall XPIs score of
+around 1, whereas the most advanced method, the DNA-encoded-library-based drug
+design, exhibits an overall XPIs score of 10 7 . For the sustainability field,
+the robotic photocatalysis platform has an overall XPIs score of 10 5 . Table 1
+Demonstration of the use of the XPIs in evaluating the acceleration performance
+of typical materials development platforms Full size table For energy systems,
+the most frequently reported XPI is the acceleration factor, in part because it
+is deterministic, but also because it is easy to calculate at the end of the
+development of a workflow. In most cases, we expect that authors report the
+acceleration factor only after completing the development of the platform.
+Reporting the other suggested XPIs will provide researchers with a better sense
+of both the time and human resources required to develop the platform until it
+is ready for publication. Moving forward, we hope that other researchers adopt
+the XPIs — or other similar metrics — to allow for fair and consistent
+comparison between the different methods and algorithms that are used to
+accelerate materials discovery. Closed-loop ML for materials discovery The
+traditional approach to materials discovery is often Edisonian-like, relying on
+trial and error to develop materials with specific properties. First, a target
+application is identified, and a starting pool of possible candidates is
+selected (Fig.  1a ). The materials are then synthesized and incorporated into a
+device or system to measure their properties. These results are then used to
+establish empirical structure–property relationships, which guide the next round
+of synthesis and testing. This slow process goes through as many iterations as
+required and each cycle can take several years to complete. Fig. 1: Traditional
+and accelerated approaches to materials discovery. a  | Traditional Edisonian-
+like approach, which involves experimental trial and error.  b  | High-
+throughput screening approach involving a combination of theory and experiment.
+c  | Machine learning (ML)-driven approach whereby theoretical and experimental
+results are used to train a ML model for predicting structure–property
+relationships.  d  | ML-driven approach for property-directed and automatic
+exploration of the chemical space using optimization ML (such as genetic
+algorithms or generative models) that solve the ‘inverse’ design problem. Full
+size image A computation-driven, high-throughput  screening strategy  (Fig.  1b
+) offers a faster turnaround. To explore the overall vast chemical space (~10 60
+possibilities), human intuition and expertise can be used to create a library
+with a substantial number of materials of interest (~10 4 ). Theoretical
+calculations are carried out on these candidates and the top performers (~10 2
+candidates) are then experimentally verified. With luck, the material with the
+desired functionality is ‘discovered’. Otherwise, this process is repeated in
+another region of the chemical space. This approach can still be very time-
+consuming and computationally expensive and can only sample a small region of
+the chemical space. ML can substantially increase the chemical space sampled,
+without costing extra time and effort. ML is data-driven, screening datasets to
+detect patterns, which are the physical laws that govern the system. In this
+case, these laws correspond to materials structure–property relationships. This
+workflow involves high-throughput virtual screening (Fig.  1c ) and begins by
+selecting a larger region (~10 6 ) of the chemical space of possibilities using
+human intuition and expertise. Theoretical calculations are carried out on a
+representative subset (~10 4  candidates) and the results are used for training
+a discriminative ML model. The model can then be used to make predictions on the
+other candidates in the overall selected chemical space 9 . The top ~10 2
+candidates are experimentally verified, and the results are used to improve the
+predictive capabilities of the model in an iterative loop. If the desired
+material is not ‘discovered’, the process is repeated on another region of the
+chemical space. An improvement on the previous approaches is a framework that
+requires limited human intuition or expertise to direct the chemical space
+search: the automated virtual screening approach (Fig.  1d ). To begin with, a
+region of the chemical space is picked at random to initiate the process.
+Thereafter, this process is similar to the previous approach, except that the
+computational and experimental data is also used to train a  generative learning
+model. This generative model solves the ‘inverse’ problem: given a required
+property, the goal is to predict an ideal structure and composition in the
+chemical space. This enables a directed, automated search of the chemical space,
+towards the goal of ‘discovering’ the ideal material 8 . ML for energy ML has so
+far been used to accelerate the development of materials and devices for energy
+harvesting (photovoltaics), storage (batteries) and conversion
+(electrocatalysis), as well as to optimize power grids. Besides all the examples
+discussed here, we summarize the essential concepts in ML (Box  1 ), the grand
+challenges in sustainable materials research (Box  2 ) and the details of key
+studies (Table  2 ). Table 2 Summary of advances in applying ML to energy
+harvesting, storage and conversion Full size table Box 1 Essential concepts in
+ML With the availability of large datasets 122 , 125  and increased computing
+power, various machine learning (ML) algorithms have been developed to solve
+diverse problems in energy. Below, we provide a brief overview of the types of
+problem that ML can solve in energy technology, and we then summarize the status
+of ML-driven energy research. More detailed information about the nuts and bolts
+of ML techniques can be found in previous reviews 173 , 174 , 175 . Property
+prediction Supervised learning models are predictive (or discriminative) models
+that are given a datapoint  x , and seek to predict a property  y  (for example,
+the bandgap 27 ) after being trained on a labelled dataset. The property  y  can
+be either continuous or discrete. These models have been used to aid or even
+replace physical simulations or measurements under certain circumstances 176 ,
+177 . Generative materials design Unsupervised learning  models are generative
+models that can generate or output new examples  x ′ (such as new molecules 104
+) after being trained on an unlabelled dataset. This generation of new examples
+can be further enhanced with additional information (physical properties) to
+condition or bias the generative process, allowing the models to generate
+examples with improved properties and leading to the property-to-structure
+approach called inverse design 52 , 178 . Self-driving laboratories Self-driving
+or autonomous laboratories 19  use ML models to plan and perform experiments,
+including the automation of  retrosynthesis  analysis (such as in reinforcement-
+learning-aided synthesis planning 124 , 179 ), prediction of reaction products
+(such as in convolutional neural networks (CNNs) for reaction prediction 137 ,
+138 ) and reaction condition optimization (such as in  robotic workflows
+optimized by  active learning 19 , 160 , 180 , 181 , 182 , 183 ). Self-driving
+laboratories, which use active learning for iterating through rounds of
+synthesis and measurements, are a key component in the closed-loop inverse
+design 52 . Aiding characterization ML models have been used to aid the
+quantitative or qualitative analysis of experimental observations and
+measurements, including assisting in the determination of crystal structure from
+transmission electron microscopy images 184 , identifying coordination
+environment 81  and structural transition 83  from X-ray absorption spectroscopy
+and inferring crystal symmetry from electron diffraction 176 . Accelerating
+theoretical computations ML models can enable otherwise intractable simulations
+by reducing the computational cost (processor core amount and time) for systems
+with increased length and timescales 69 , 70  and providing potentials and
+functionals for complex interactions 68 . Optimizing system management ML models
+can aid the management of energy systems at the device or grid power level by
+predicting lifetimes (such as battery life 43 , 44 ), adapting to new loads
+(such as in long short-term memory for building load prediction 95 ) and
+optimizing performance (such as in reinforcement learning for smart grid control
+94 ). Box 2 Grand challenges in energy materials research Photovoltaics
+Materials Discover non-toxic (Pd- and Cd-free) materials with good
+optoelectronic properties Identify and minimize materials defects in light-
+absorbing materials Design effective recombination-layer materials for tandem
+solar cells Develop materials design strategies for long-term operational
+stability 125 Develop (hole/electron) transport materials with high carrier
+mobility 125 Devices Optimize cell structure for maximum light absorption and
+minimum use of active materials Tune materials bandgaps for optimal solar-
+harvesting performance under complex operation conditions 21 , 22 Batteries
+Materials Develop Earth-abundant cathode materials (Co-free) with high
+reversibility and charge capacity 4 Design electrolytes with wider
+electrochemical windows and high conductivity 4 Identify electrolyte systems to
+boost battery performance and lifetime 4 Discover new molecules for redox flow
+batteries with suitable voltage 4 Devices Understand correlation between defect
+growth in battery materials and overall degradation process of battery
+components Tune operando (dis)charging protocol for minimized capacity loss,
+(dis)charging rate and optimal battery life under diversified conditions 7 , 53
+Electrocatalysis Materials Design materials with optimal adsorption energy for
+maximized catalytic activity 60 , 61 Identify and study active sites on
+catalytic materials 58 Engineer catalytic materials for extended durability 58 ,
+60 , 61 Identify a fuller set of materials descriptors that relate to catalytic
+activity 60 , 61 Engineer multiple catalytic functionalities into the same
+material 60 , 61 Devices Design multiscale electrode structures for optimized
+catalytic activity Correlate atomistic contamination and growth of catalyst
+particles with electrode degradation process Tune operando (dis)charging
+protocol for minimized capacity loss and optimal cell life Photovoltaics ML is
+accelerating the discovery of new optoelectronic materials and devices for
+photovoltaics, but major challenges are still associated with each step.
+Photovoltaics materials discovery One materials class for which ML has proved
+particularly effective is perovskites, because these materials have a vast
+chemical space from which the constituents may be chosen. Early  representations
+of perovskite materials for ML were atomic-feature representations, in which
+each structure is encoded as a fixed-length vector comprised of an average of
+certain atomic properties of the atoms in the crystal structure 21 , 22 . A
+similar technique was used to predict new lead-free perovskite materials with
+the proper bandgap for solar cells 23  (Fig.  2a ). These representations
+allowed for high accuracy but did not account for any spatial relation between
+atoms 24 , 25 . Materials systems can also be represented as images 26  or as
+graphs 27 , enabling the treatment of systems with diverse number of atoms. The
+latter representation is particularly compelling, as perovskites, particularly
+organic–inorganic perovskites, have crystal structures that incorporate a
+varying number of atoms, and the organic molecules can vary in size. Fig. 2:
+Examples illustrating the use of ML techniques for a sustainable energy future.
+a  | Energy harvesting 23 .  b  | Energy storage 38 .  c  | Energy conversion 76
+.  d  | Energy management 93 . ICSD, Inorganic Crystal Structure Database; ML,
+machine learning. Full size image Although bandgap prediction is an important
+first step, this parameter alone is not sufficient to indicate a useful
+optoelectronic material; other parameters, including electronic defect density
+and stability, are equally important. Defect energies are addressable with
+computational methods, but the calculation of defects in structures is extremely
+computationally expensive, which inhibits the generation of a dataset of defect
+energies from which an ML model can be trained. To expedite the high-throughput
+calculation of defect energies, a Python toolkit has been developed 28  that
+will be pivotal in building a database of defect energies in semiconductors.
+Researchers can then use ML to predict both the formation energy of defects and
+the energy levels of these defects. This knowledge will ensure that the
+materials selected from high-throughput screening will not only have the correct
+bandgap but will also either be defect-tolerant or defect-resistant, finding use
+in commercial optoelectronic devices. Even without access to a large dataset of
+experimental results, ML can accelerate the discovery of optoelectronic
+materials. Using a self-driving laboratory approach, the number of experiments
+required to optimize an organic solar cell can be reduced from 500 to just 60
+(ref. 29 ). This robotic synthesis method accelerates the learning rate of the
+ML models and drastically reduces the cost of the chemicals needed to run the
+optimization. Solar device structure and fabrication Photovoltaic devices
+require optimization of layers other than the active layer to maximize
+performance. One component is the top transparent conductive layer, which needs
+to have both high optical transparency and high electronic conductivity 30 , 31
+. A genetic algorithm that optimized the topology of a light-trapping structure
+enabled a broadband absorption efficiency of 48.1%, which represents a more than
+threefold increase over the Yablonovitch limit, the 4 n 2  factor (where  n  is
+the refractive index of the material) theoretical limit for light trapping in
+photovoltaics 32 . A universal standard irradiance spectrum is usually used by
+researchers to determine optimal bandgaps for solar cell operation 33 . However,
+actual solar irradiance fluctuates based on factors such as the position of the
+Sun, atmospheric phenomena and the season. ML can reduce yearly spectral sets
+into a few characteristic spectra 33 , allowing for the calculation of optimal
+bandgaps for real-world conditions. To optimize device fabrication, a CNN was
+used to predict the current–voltage characteristics of as-cut Si wafers based on
+their photoluminescence images 34 . Additionally, an artificial neural network
+was used to predict the contact resistance of metallic front contacts for Si
+solar cells, which is critical for the manufacturing process 35 . Although
+successful, these studies appear to be limited to optimizing structures and
+processes that are already well established. We suggest that, in future work, ML
+could be used to augment simulations, such as the  multiphysics models  for
+solar cells. Design of device architecture could begin from such simulation
+models, coupled with ML in an iterative process to quickly optimize design and
+reduce computational time and cost. In addition, optimal conditions for the
+scaling-up of device area and fabrication processes are likely to be very
+different from those for laboratory-scale demonstrations. However, determining
+these optimal conditions could be expensive in terms of materials cost and time,
+owing to the need to construct much larger devices. In this regard, ML, together
+with the strategic design of experiments, could greatly accelerate the
+optimization of process conditions (such as the annealing temperatures and
+solvent choice). Electrochemical energy storage Electrochemical energy storage
+is an essential component in applications such as electric vehicles, consumer
+electronics and stationary power stations. State-of-the-art electrochemical
+energy storage solutions have varying efficacy in different applications: for
+example, lithium-ion batteries exhibit excellent energy density and are widely
+used in electronics and electric vehicles, whereas redox flow batteries have
+drawn substantial attention for use in stationary power storage. ML approaches
+have been widely employed in the field of batteries, including for the
+discovery of new materials such as solid-state ion conductors 36 , 37 , 38
+(Fig.  2b ) and redox active electrolytes for redox flow batteries 39 . ML has
+also aided battery management, for example, through state-of-charge
+determination 40 , state-of-health evaluation 41 , 42  and remaining-life
+prediction 43 , 44 . Electrode and electrolyte materials design Layered oxide
+materials, such as LiCoO 2  or LiNi x Mn y Co 1- x - y O 2 , have been used
+extensively as cathode materials for alkali metal-ion (Li/Na/K) batteries.
+However, developing new Li-ion battery materials with higher operating voltages,
+enhanced energy densities and longer lifetimes is of paramount interest. So far,
+universal design principles for new battery materials remain undefined, and
+hence different approaches have been explored. Data from the  Materials Project
+have been used to model the electrode voltage profile diagrams for different
+materials in alkali metal-ion batteries (Na and K) 45 , leading to the
+proposition of 5,000 different electrode materials with appropriate moderate
+voltages. ML was also employed to screen 12,000 candidates for solid Li-ion
+batteries, resulting in the discovery of ten new Li-ion conducting materials 46
+, 47 . Flow batteries consist of active materials dissolved in electrolytes that
+flow into a cell with electrodes that facilitate redox reactions. Organic flow
+batteries are of particular interest. In flow batteries, the solubility of the
+active material in the electrolyte and the charge/discharge stability dictate
+performance. ML methods have explored the chemical space to find suitable
+electrolytes for organic redox flow batteries 48 , 49 . Furthermore, a  multi-
+kernel-ridge regression  method accelerated the discovery of active organic
+molecules using multiple feature training 48 . This method also helped in
+predicting the solubility dependence of anthraquinone molecules with different
+numbers and combinations of sulfonic and hydroxyl groups on pH. Future
+opportunities lie in the exploration of large combinatorial spaces for the
+inverse design  of high-entropy electrodes 50  and high-voltage electrolytes 51
+. To this end, deep generative models can assist the discovery of new materials
+based on the simplified molecular input line entry system (SMILES)
+representation of molecules 52 . Battery device and stack management A
+combination of mechanistic and semi-empirical models is currently used to
+estimate capacity and power loss in lithium-ion batteries. However, the models
+are applicable only to specific failure mechanisms or situations and cannot
+predict the lifetimes of batteries at the early stages of usage. By contrast,
+mechanism-agnostic models based on ML can accurately predict battery cycle life,
+even at an early stage of a battery’s life 43 . A combined early-prediction and
+Bayesian optimization model has been used to rapidly identify the optimal
+charging protocol with the longest cycle life 44 . ML can be used to accelerate
+the optimization of lithium-ion batteries for longer lifetimes 53 , but it
+remains to be seen whether these models can be generalized to different battery
+chemistries 54 . ML methods can also predict important properties of battery
+storage facilities. A neural network was used to predict the charge/discharge
+profiles in two types of stationary battery systems, lithium iron phosphate and
+vanadium redox flow batteries 55 . Battery power management techniques must also
+consider the uncertainty and variability that arise from both the environment
+and the application. An iterative  Q -learning ( reinforcement learning ) method
+was also designed for battery management and control in smart residential
+environments 56 . Given the residential load and the real-time electricity rate,
+the method is effective at optimizing battery charging/discharging/idle cycles.
+Discriminative neural network-based models can also optimize battery usage in
+electric vehicles 57 . Although ML is able to predict the lifetime of batteries,
+the underlying degradation mechanisms are difficult to identify and correlate to
+the state of health and lifetime. To this end, incorporation of domain knowledge
+into a hybrid physics-based ML model can provide insight and reduce overfitting
+53 . However, incorporating the physics of battery degradation processes into a
+hybrid model remains challenging; representation of electrode materials that
+encode both compositional and structural information is far from trivial.
+Validation of these models also requires the development of operando
+characterization techniques, such as liquid-phase transmission electron
+microscopy and ambient-pressure X-ray absorption spectroscopy (XAS), that
+reflect true operating conditions as closely as possible 54 . Ideally, these
+characterization techniques should be carried out in a high-throughput manner,
+using automated sample changers, for example, in order to generate large
+datasets for ML. Electrocatalysts Electrocatalysis enables the conversion of
+simple feedstocks (such as water, carbon dioxide and nitrogen) into valuable
+chemicals and/or fuels (such as hydrogen, hydrocarbons and ammonia), using
+renewable energy as an input 58 . The reverse reactions are also possible in a
+fuel cell, and hydrogen can be consumed to produce electricity 59 . Active and
+selective electrocatalysts must be developed to improve the efficiency of these
+reactions 60 , 61 . ML has been used to accelerate electrocatalyst development
+and device optimization. Electrocatalyst materials discovery The most common
+descriptor of catalytic activity is the adsorption energy of intermediates on a
+catalyst 61 , 62 . Although these adsorption energies can be calculated using
+density functional theory (DFT), catalysts possess multiple surface binding
+sites, each with different adsorption energies 63 . The number of possible sites
+increases dramatically if alloys are considered, and thus becomes intractable
+with conventional means 64 . DFT calculations are critical for the search of
+electrocatalytic materials 65  and efforts have been made to accelerate the
+calculations and to reduce their computational cost by using surrogate ML models
+66 , 67 , 68 , 69 . Complex reaction mechanisms involving hundreds of possible
+species and intermediates can also be simplified using ML, with a surrogate
+model predicting the most important reaction steps and deducing the most likely
+reaction pathways 70 . ML can also be used to screen for active sites across a
+random, disordered nanoparticle surface 71 , 72 . DFT calculations are performed
+on only a few representative sites, which are then used to train a neural
+network to predict the adsorption energies of all active sites. Catalyst
+development can benefit from high-throughput systems for catalyst synthesis and
+performance evaluation 73 , 74 . An automatic ML-driven framework was developed
+to screen a large intermetallic chemical space for CO 2  reduction and H 2
+evolution 75 . The model predicted the adsorption energy of new intermetallic
+systems and DFT was automatically performed on the most promising candidates to
+verify the predictions. This process went on iteratively in a closed feedback
+loop. 131 intermetallic surfaces across 54 alloys were ultimately identified as
+promising candidates for CO 2  reduction. Experimental validation 76  with Cu–Al
+catalysts yielded an unprecedented Faradaic efficiency of 80% towards ethylene
+at a high current density of 400 mA cm – 2  (Fig.  2c ). Because of the large
+number of properties that electrocatalysts may possess (such as shape, size and
+composition), it is difficult to do data mining on the literature 77 .
+Electrocatalyst structures are complex and difficult to characterize completely;
+as a result, many properties may not be fully characterized by research groups
+in their publications. To avoid situations in which potentially promising
+compositions perform poorly as a result of non-ideal synthesis or testing
+conditions, other factors (such as current density, particle size and pH value)
+that affect the electrocatalyst performance must be kept consistent. New
+approaches such as carbothermal shock synthesis 78 , 79  may be a promising
+avenue, owing to its propensity to generate uniformly sized and shaped alloy
+nanoparticles, regardless of composition. XAS is a powerful technique,
+especially for in situ measurements, and has been widely employed to gain
+crucial insight into the nature of active sites and changes in the
+electrocatalyst over time 80 . Because the data analysis relies heavily on human
+experience and expertise, there has been interest in developing ML tools for
+interpreting XAS data 81 . Improved random forest models can predict the Bader
+charge (a good approximation of the total electronic charge of an atom) and
+nearest-neighbour distances, crucial factors that influence the catalytic
+properties of the material 82 . The extended X-ray absorption fine structure
+(EXAFS) region of XAS spectra is known to contain information on bonding
+environments and coordination numbers.  Neural networks  can be used to
+automatically interpret EXAFS data 83 , permitting the identification of the
+structure of bimetallic nanoparticles using experimental XAS data, for example
+84 . Raman and infrared spectroscopy are also important tools for the
+mechanistic understanding of electrocatalysis. Together with explainable
+artificial intelligence  (AI), which can relate the results to underlying
+physics, these analyses could be used to discover descriptors hidden in spectra
+that could lead to new breakthroughs in electrocatalyst discovery and
+optimization. Fuel cell and electrolyser device management A fuel cell is an
+electrochemical device that can be used to convert the chemical energy of a fuel
+(such as hydrogen) into electrical energy. An electrolyser transforms electrical
+energy into chemical energy (such as in water splitting to generate hydrogen).
+ML has been used to optimize and manage their performance, predict degradation
+and device lifetime as well as detect and diagnose faults. Using a hybrid method
+consisting of an extreme learning machine, genetic algorithms and wavelet
+analysis, the degradation in proton-exchange membrane fuel cells has been
+predicted 85 , 86 . Electrochemical impedance measurements used as input for an
+artificial neural network have enabled fault detection and isolation in a high-
+temperature stack of proton-exchange membrane fuel cells 87 , 88 . ML approaches
+can also be employed to diagnose faults, such as fuel and air leakage issues, in
+solid oxide fuel cell stacks. Artificial neural networks can predict the
+performance of solid oxide fuel cells under different operating conditions 89 .
+In addition, ML has been applied to optimize the performance of solid oxide
+electrolysers, for CO 2 /H 2 O reduction 90 , and chloralkali electrolysers 91 .
+In the future, the use of ML for fuel cells could be combined with  multiscale
+modelling  to improve their design, for example to minimize Ohmic losses and
+optimize catalyst loading. For practical applications, fuel cells may be subject
+to fluctuations in energy output requirements (for example, when used in
+vehicles). ML models could be used to determine the effects of such fluctuations
+on the long-term durability and performance of fuel cells, similar to what has
+been done for predicting the state of health and lifetime for batteries.
+Furthermore, it remains to be seen whether the ML techniques for fuel cells can
+be easily generalized to electrolysers and vice versa, using  transfer learning
+for example, given that they are essentially reactions in reverse. Smart power
+grids A power grid is responsible for delivering electrical energy from
+producers (such as power plants and solar farms) to consumers (such as homes and
+offices). However, energy fluctuations from intermittent renewable energy
+generators can render the grid vulnerable 92 . ML algorithms can be used to
+optimize the  automatic generation control  of power grids, which controls the
+power output of multiple generators in an energy system. For example, when a
+relaxed deep learning model was used as a unified timescale controller for the
+automatic generation control unit, the total operational cost was reduced by up
+to 80% compared with traditional heuristic control strategies 93  (Fig.  2d ). A
+smart generation control strategy based on  multi-agent  reinforcement learning
+was found to improve the control performance by around 10% compared with other
+ML algorithms 94 . Accurate demand and load prediction can support decision-
+making operations in energy systems for proper load scheduling and power
+allocation. Multiple ML methods have been proposed to precisely predict the
+demand load: for example,  long short-term memory  was used to successfully and
+accurately predict hourly building load 95 . Short-term load forecasting of
+diverse customers (such as retail businesses) using a deep neural network and
+cross-building energy demand forecasting using a  deep belief network  have also
+been demonstrated effectively 96 , 97 . Demand-side management consists of a set
+of mechanisms that shape consumer electricity consumption by dynamically
+adjusting the price of electricity. These include reducing (peak shaving),
+increasing (load growth) and rescheduling (load shifting) the energy demand,
+which allows for flexible balancing of renewable electricity generation and load
+98 . A reinforcement-learning-based algorithm resulted in substantial cost
+reduction for both the service provider and customer 99 . A decentralized
+learning-based residential demand scheduling technique successfully shifted up
+to 35% of the energy demand to periods of high wind availability, substantially
+saving power costs compared with the unscheduled energy demand scenario 100 .
+Load forecasting using a multi-agent approach integrates load prediction with
+reinforcement learning algorithms to shift energy usage (for example, to
+different electrical devices in a household) for its optimization 101 . This
+approach reduced peak usage by more than 30% and increased off-peak usage by
+50%, reducing the cost and energy losses associated with energy storage.
+Opportunities for ML in renewable energy ML provides the opportunity to enable
+substantial further advances in different areas of the energy materials field,
+which share similar materials-related challenges (Fig.  3 ). There are also
+grand challenges for ML application in smart grid and policy optimization. Fig.
+3: Areas of opportunity for ML and renewable energy. a  | Energy materials
+present additional modelling challenges. Machine learning (ML) could help in the
+representation of structurally complex structures, which can include
+disordering, dislocations and amorphous phases.  b  | Flexible models that scale
+efficiently with varied dataset sizes are in demand, and ML could help to
+develop robust predictive models. The yellow dots stand for the addition of
+unreliable datasets that could harm the prediction accuracy of the ML model.  c
+| Synthesis route prediction remains to be solved for the design of a novel
+material. In the ternary phase diagram, the dots stand for the stable compounds
+in that corresponding phase space and the red dot for the targeted compound. Two
+possible synthesis pathways are compared for a single compound. The score
+obtained would reflect the complexity, cost and so on of one synthesis pathway.
+d  | ML-aided phase degradation prediction could boost the development of
+materials with enhanced cyclability. The shaded region represents the rocksalt
+phase, which grows inside the layered phase. The arrow marks the growth
+direction.  e  | The use of ML models could help in optimizing energy generation
+and energy consumption. Automating the decision-making processes associated with
+dynamic power supplies using ML will make the power distribution more efficient.
+f  | Energy policy is the manner in which an entity (for example, a government)
+addresses its energy issues, including conversion, distribution and utilization,
+where ML could be used to optimize the corresponding economy. Full size image
+Materials with novel geometries A ML representation is effective when it
+captures the inherent properties of the system (such as its physical symmetries)
+and can be utilized in downstream ancillary tasks, such as transfer learning to
+new predictive tasks, building new knowledge using visualization or attribution
+and generating similar data distributions with generative models 102 . For
+materials, the inputs are molecules or crystal structures whose physical
+properties are modelled by the Schrödinger equation. Designing a general
+representation of materials that reflects these properties is an ongoing
+research problem. For molecular systems, several representations have been used
+successfully, including fingerprints 103 , SMILES 104 , self-referencing
+embedded strings (SELFIES) 105  and graphs 106 , 107 , 108 . Representing
+crystalline materials has the added complexity of needing to incorporate
+periodicity in the representation. Methods like the smooth overlap of atomic
+positions 109 , Voronoi tessellation 110 , 111 , diffraction images 112 , multi-
+perspective fingerprints 113  and graph-based algorithms 27 , 114  have been
+suggested, but typically lack the capability for structure reconstruction.
+Complex structural systems found in energy materials present additional
+modelling challenges (Fig.  3a ): a large number of atoms (such as in reticular
+frameworks or polymers), specific symmetries (such as in molecules with a
+particular space group and for reticular frameworks belonging to a certain
+topology), atomic disordering, partial occupancy, or amorphous phases (leading
+to an enormous combinatorial space), defects and dislocations (such as
+interfaces and grain boundaries) and low-dimensionality materials (as in
+nanoparticles). Reduction approximations alleviate the first issue (using, for
+example, RFcode for reticular framework representation) 8 , but the remaining
+several problems warrant intensive future research efforts. Self- supervised
+learning , which seeks to lever large amounts of synthetic labels and tasks to
+continue learning without experimental labels 115 , multi-task learning 116 , in
+which multiple material properties can be modelled jointly to exploit
+correlation structure between properties, and meta-learning 117 , which looks at
+strategies that allow models to perform better in new datasets or in out-of-
+distribution data, all offer avenues to build better representations. On the
+modelling front, new advances in attention mechanisms 118 , 119 , graph neural
+networks 120  and equivariant neural networks 121  expand our range of tools
+with which to model interactions and expected symmetries. Robust predictive
+models Predictive models are the first step when building a pipeline that seeks
+materials with desired properties. A key component for building these models is
+training data; more data will often translate into better-performing models,
+which in turn will translate into better accuracy in the prediction of new
+materials. Deep learning models tend to scale more favourably with dataset size
+than traditional ML approaches (such as random forests). Dataset quality is also
+essential. However, experiments are usually conducted under diverse conditions
+with large variation in untracked variables (Fig.  3b ). Additionally, public
+datasets are more likely to suffer from publication bias, because negative
+results are less likely to be published even though they are just as important
+as positive results when training statistical models 122 . Addressing these
+issues require transparency and standardization of the experimental data
+reported in the literature. Text and natural language processing strategies
+could then be employed to extract data from the literature 77 . Data should be
+reported with the belief that it will eventually be consolidated in a database,
+such as the  MatD3 database 123 . Autonomous laboratory techniques will help to
+address this issue 19 , 124 . Structured property databases such as the
+Materials Project 122  and the Harvard Clean Energy Project 125  can also
+provide a large amount of data. Additionally, different energy fields — energy
+storage, harvesting and conversion — should converge upon a standard and uniform
+way to report data. This standard should be continuously updated; as researchers
+continue to learn about the systems they are studying, conditions that were
+previously thought to be unimportant will become relevant. New modelling
+approaches that work in low-data regimes, such as data-efficient models,
+dataset-building strategies (active sampling) 126  and  data-augmentation
+techniques, are also important 127 .  Uncertainty quantification , data
+efficiency,  interpretability  and  regularization  are important considerations
+that improve the robustness of ML models. These considerations relate to the
+notion of generalizability: predictions should generalize to a new class of
+materials that is out of the distribution of the original dataset. Researchers
+can attempt to model how far away new data points are from the training set 128
+or the variability in predicted labels with uncertainty quantification 129 .
+Neural networks are a flexible model class, and often models can be
+underspecified 130 . Incorporating regularization, inductive biases or priors
+can boost the credibility of a model. Another way to create trustable models
+could be to enhance the interpretability of ML algorithms by deriving feature
+relevance and scoring their importance 131 . This strategy could help to
+identify potential chemically meaningful features and form a starting point for
+understanding latent factors that dominate material properties. These techniques
+can also identify the presence of model bias and overfitting, as well as
+improving  generalization  and performance 132 , 133 , 134 . Stable and
+synthesizable new materials The formation energy of a compound is used to
+estimate its stability and synthesizability 135 , 136 . Although negative values
+usually correspond to stable or synthesizable compounds, slightly positive
+formation energies below a limit lead to metastable phases with unclear
+synthesizability 137 , 138 . This is more apparent when investigating unexplored
+chemical spaces with undetermined equilibrium ground states; yet often the
+metastable phases exhibit superior properties, as seen in photovoltaics 136 ,
+139  and ion conductors 140 , for example. It is thus of interest to develop a
+method to evaluate the synthesizability of metastable phases (Fig.  3c ).
+Instead of estimating the probability that a particular phase can be
+synthesized, one can instead evaluate its synthetic complexity using ML. In
+organic chemistry, synthesis complexity is evaluated according to the
+accessibility of the phases’ synthesis route 141  or precedent reaction
+knowledge 142 . Similar methodologies can be applied to the inorganic field with
+the ongoing design of automated synthesis-planning algorithms for inorganic
+materials 143 , 144 . Synthesis and evaluation of a new material alone does not
+ensure that material will make it to market; material stability is a crucial
+property that takes a long time to evaluate. Degradation is a generally complex
+process that occurs through the loss of active matter or growth of inactive
+phases (such as the rocksalt phases formed in layered Li-ion battery electrodes
+145  (Fig.  3d ) or the Pt particle agglomeration in fuel cells 146 ) and/or
+propagation of defects (such as cracks in cycled battery electrode 147 ).
+Microscopies such as electron microscopy 148  and simulations such as continuum
+mechanics modelling 149  are often used to investigate growth and propagation
+dynamics (that is, phase boundary and defect surface movements versus time).
+However, these techniques are usually expensive and do not allow rapid
+degradation prediction. Deep learning techniques such as convolutional neural
+networks and  recurrent neural networks  may be able to predict the phase
+boundary and/or defect pattern evolution under certain conditions after proper
+training 150 . Similar models can then be built to understand multiple
+degradation phenomena and aid the design of materials with improved cycle life.
+Optimized smart power grids A promising prospect of ML in smart grids is
+automating the decision-making processes that are associated with dynamic power
+supplies to distribute power most efficiently (Fig.  3e ). Practical deployment
+of ML technologies into physical systems remains difficult because of data
+scarcity and the risk-averse mindset of policymakers. The collection of and
+access to large amounts of diverse data is challenging owing to high cost, long
+delays and concerns over compliance and security 151 . For instance, to capture
+the variation of renewable resources owing to peak or off-peak and seasonal
+attributes, long-term data collections are implemented for periods of 24 hours
+to several years 152 . Furthermore, although ML algorithms are ideally supposed
+to account for all uncertainties and unpredictable situations in energy systems,
+the risk-adverse mindset in the energy management industry means that
+implementation still relies on human decision-making 153 . An ML-based framework
+that involves a digital twin of the physical system can address these problems
+154 , 155 . The digital twin represents the digitalized cyber models of the
+physical system and can be constructed from physical laws and/or ML models
+trained using data sampled from the physical system. This approach aims to
+accurately simulate the dynamics of the physical system, enabling relatively
+fast generation of large amounts of high-quality synthetic data at low cost.
+Notably, because ML model training and validation is performed on the digital
+twin, there is no risk to the actual physical system. Based on the prediction
+results, suitable actions can be suggested and then implemented in the physical
+system to ensure stability and/or improve system operation. Policy optimization
+Finally, research is generally focused on one narrow aspect of a larger problem;
+we argue that energy research needs a more integrated approach 156  (Fig.  3f ).
+Energy policy is the manner in which an entity, such as the government,
+addresses its energy issues, including conversion, distribution and utilization.
+ML has been used in the fields of energy economics finance for performance
+diagnostics (such as for oil wells), energy generation (such as wind power) and
+consumption (such as power load) forecasts and system lifespan (such as battery
+cell life) and failure (such as grid outage) prediction 157 . They have also
+been used for energy policy analysis and evaluation (for example, for estimating
+energy savings). A natural extension of ML models is to use them for policy
+optimization 158 , 159 , a concept that has not yet seen widespread use. We
+posit that the best energy policies — including the deployment of the newly
+discovered materials — can be improved and augmented with ML and should be
+discussed in research reporting accelerated energy technology platforms.
+Conclusions To summarize, ML has the potential to enable breakthroughs in the
+development and deployment of sustainable energy techniques. There have been
+remarkable achievements in many areas of energy technology, from materials
+design and device management to system deployment. ML is particularly well
+suited to discovering new materials, and researchers in the field are expecting
+ML to bring up new materials that may revolutionize the energy industry. The
+field is still nascent, but there is conclusive evidence that ML is at least
+able to expose the same trends that human researchers have noticed over decades
+of research. The ML field itself is still seeing rapid development, with new
+methodologies being reported daily. It will take time to develop and adopt these
+methodologies to solve specific problems in materials science. We believe that
+for ML to truly accelerate the deployment of sustainable energy, it should be
+deployed as a tool, similar to a synthesis procedure, characterization equipment
+or control apparatus. Researchers using ML to accelerate energy technology
+discovery should judge the success of the method primarily on the advances it
+enables. To this end, we have proposed the XPIs and some areas in which we hope
+to see ML deployed. References Davidson, D. J. Exnovating for a renewable energy
+transition.  Nat. Energy   4 , 254–256 (2019). Article 
+Google Scholar                    Horowitz, C. A. Paris agreement.  Int. Leg.
+Mater.   55 , 740–755 (2016). Article                            Google Scholar
+                  International Energy Agency  2018 World Energy Outlook:
+Executive Summary   https://www.iea.org/reports/world-energy-outlook-2018
+(OECD/IEA, 2018). Chu, S., Cui, Y. & Liu, N. The path towards sustainable
+energy.  Nat. Mater.   16 , 16–22 (2017). Article  
+Google Scholar                    Maine, E. & Garnsey, E. Commercializing
+generic technology: the case of advanced materials ventures.  Res. Policy   35 ,
+375–393 (2006). Article                            Google Scholar 
+De Luna, P., Wei, J., Bengio, Y., Aspuru-Guzik, A. & Sargent, E. Use machine
+learning to find energy materials.  Nature   552 , 23–27 (2017). Article 
+Google Scholar                    Wang, H., Lei, Z., Zhang, X., Zhou, B. & Peng,
+J. A review of deep learning for renewable energy forecasting.  Energy Convers.
+Manag.   198 , 111799–111814 (2019). Article                            Google
+Scholar                    Yao, Z. et al. Inverse design of nanoporous
+crystalline reticular materials with deep generative models.  Nat. Mach. Intell.
+3 , 76–86 (2021). Article                            Google Scholar 
+Rosen, A. S. et al. Machine learning the quantum-chemical properties of
+metal–organic frameworks for accelerated materials discovery.  Matter   4 ,
+1578–1597 (2021). Article        CAS                            Google Scholar 
+Jordan, M. I. & Mitchell, T. M. Machine learning: trends, perspectives, and
+prospects.  Science   349 , 255–260 (2015). Article        CAS 
+Google Scholar                    Personal, E., Guerrero, J. I., Garcia, A.,
+Peña, M. & Leon, C. Key performance indicators: a useful tool to assess Smart
+Grid goals.  Energy   76 , 976–988 (2014). Article  
+Google Scholar                    Helmus, J. & den Hoed, R. Key performance
+indicators of charging infrastructure.  World Electr. Veh. J.   8 , 733–741
+(2016). Article                            Google Scholar  
+Struck, M.-M. Vaccine R&D success rates and development times.  Nat. Biotechnol.
+14 , 591–593 (1996). Article        CAS                            Google
+Scholar                    Moore, G. E. Cramming more components onto integrated
+circuits.  Electronics   38 , 114–116 (1965).                     Google Scholar
+                   Wetterstrand, K. A. DNA sequencing costs: data.  NHGRI Genome
+Sequencing Program (GSP)   www.genome.gov/sequencingcostsdata  (2020). Rajkomar,
+A., Dean, J. & Kohane, I. Machine learning in medicine.  N. Engl. J. Med.   380
+, 1347–1358 (2019). Article                            Google Scholar 
+Jeong, J. et al. Pseudo-halide anion engineering for α-FAPbI3 perovskite solar
+cells.  Nature   592 , 381–385 (2021). Article        CAS 
+Google Scholar                    NREL. Best research-cell efficiency chart.
+NREL   https://www.nrel.gov/pv/cell-efficiency.html  (2021). Burger, B. et al. A
+mobile robotic chemist.  Nature   583 , 237–241 (2020). Article        CAS 
+Google Scholar                    Clark, M. A. et al. Design, synthesis and
+selection of DNA-encoded small-molecule libraries.  Nat. Chem. Biol.   5 ,
+647–654 (2009). Article        CAS                            Google Scholar 
+Pilania, G., Gubernatis, J. E. & Lookman, T. Multi-fidelity machine learning
+models for accurate bandgap predictions of solids.  Comput. Mater. Sci.   129 ,
+156–163 (2017). Article        CAS                            Google Scholar 
+Pilania, G. et al. Machine learning bandgaps of double perovskites.  Sci. Rep.
+6 , 19375 (2016). Article        CAS                            Google Scholar 
+Lu, S. et al. Accelerated discovery of stable lead-free hybrid organic-inorganic
+perovskites via machine learning.  Nat. Commun.   9 , 3405 (2018). Article 
+Google Scholar                    Askerka, M. et al. Learning-in-templates
+enables accelerated discovery and synthesis of new stable double perovskites.
+J. Am. Chem. Soc.   141 , 3682–3690 (2019). Article        CAS 
+Google Scholar                    Jain, A. & Bligaard, T. Atomic-position
+independent descriptor for machine learning of material properties.  Phys. Rev.
+B   98 , 214112 (2018). Article                            Google Scholar 
+Choubisa, H. et al. Crystal site feature embedding enables exploration of large
+chemical spaces.  Matter   3 , 433–448 (2020). Article 
+Google Scholar                    Xie, T. & Grossman, J. C. Crystal graph
+convolutional neural networks for an accurate and interpretable prediction of
+material properties.  Phys. Rev. Lett.   120 , 145301–145306 (2018). Article 
+CAS                            Google Scholar                    Broberg, D. et
+al. PyCDT: a Python toolkit for modeling point defects in semiconductors and
+insulators.  Comput. Phys. Commun.   226 , 165–179 (2018). Article        CAS 
+Google Scholar                    Roch, L. M. et al. ChemOS: an orchestration
+software to democratize autonomous discovery.  PLoS ONE   15 , 1–18 (2020).
+Article                            Google Scholar                    Wei, L.,
+Xu, X., Gurudayal, Bullock, J. & Ager, J. W. Machine learning optimization of
+p-type transparent conducting films.  Chem. Mater.   31 , 7340–7350 (2019).
+Article        CAS                            Google Scholar  
+Schubert, M. F. et al. Design of multilayer antireflection coatings made from
+co-sputtered and low-refractive-index materials by genetic algorithm.  Opt.
+Express   16 , 5290–5298 (2008). Article        CAS  
+Google Scholar                    Wang, C., Yu, S., Chen, W. & Sun, C. Highly
+efficient light-trapping structure design inspired by natural evolution.  Sci.
+Rep.   3 , 1025 (2013). Article                            Google Scholar 
+Ripalda, J. M., Buencuerpo, J. & García, I. Solar cell designs by maximizing
+energy production based on machine learning clustering of spectral variations.
+Nat. Commun.   9 , 5126 (2018). Article        CAS  
+Google Scholar                    Demant, M., Virtue, P., Kovvali, A., Yu, S. X.
+& Rein, S. Learning quality rating of As-Cut mc-Si wafers via convolutional
+regression networks.  IEEE J. Photovolt.   9 , 1064–1072 (2019). Article 
+Google Scholar                    Musztyfaga-Staszuk, M. & Honysz, R.
+Application of artificial neural networks in modeling of manufactured front
+metallization contact resistance for silicon solar cells.  Arch. Metall. Mater.
+60 , 1673–1678 (2015). Article        CAS                            Google
+Scholar                    Sendek, A. D. et al. Holistic computational structure
+screening of more than 12000 candidates for solid lithium-ion conductor
+materials.  Energy Environ. Sci.   10 , 306–320 (2017). Article        CAS 
+Google Scholar                    Ahmad, Z., Xie, T., Maheshwari, C., Grossman,
+J. C. & Viswanathan, V. Machine learning enabled computational screening of
+inorganic solid electrolytes for suppression of dendrite formation in lithium
+metal anodes.  ACS Cent. Sci.   4 , 996–1006 (2018). Article        CAS 
+Google Scholar                    Zhang, Y. et al. Unsupervised discovery of
+solid-state lithium ion conductors.  Nat. Commun.   10 , 5260 (2019). Article 
+Google Scholar                    Doan, H. A. et al. Quantum chemistry-informed
+active learning to accelerate the design and discovery of sustainable energy
+storage materials.  Chem. Mater.   32 , 6338–6346 (2020). Article        CAS 
+Google Scholar                    Chemali, E., Kollmeyer, P. J., Preindl, M. &
+Emadi, A. State-of-charge estimation of Li-ion batteries using deep neural
+networks: a machine learning approach.  J. Power Sources   400 , 242–255 (2018).
+Article        CAS                            Google Scholar  
+Richardson, R. R., Osborne, M. A. & Howey, D. A. Gaussian process regression for
+forecasting battery state of health.  J. Power Sources   357 , 209–219 (2017).
+Article        CAS                            Google Scholar  
+Berecibar, M. et al. Online state of health estimation on NMC cells based on
+predictive analytics.  J. Power Sources   320 , 239–250 (2016). Article  
+CAS                            Google Scholar                    Severson, K. A.
+et al. Data-driven prediction of battery cycle life before capacity degradation.
+Nat. Energy   4 , 383–391 (2019). Article                            Google
+Scholar                    Attia, P. M. et al. Closed-loop optimization of fast-
+charging protocols for batteries with machine learning.  Nature   578 , 397–402
+(2020). Article        CAS                            Google Scholar 
+Joshi, R. P. et al. Machine learning the voltage of electrode materials in
+metal-ion batteries.  ACS Appl. Mater. Interf.   11 , 18494–18503 (2019).
+Article        CAS                            Google Scholar  
+Cubuk, E. D., Sendek, A. D. & Reed, E. J. Screening billions of candidates for
+solid lithium-ion conductors: a transfer learning approach for small data.  J.
+Chem. Phys.   150 , 214701 (2019). Article                            Google
+Scholar                    Sendek, A. D. et al. Machine learning-assisted
+discovery of solid Li-ion conducting materials.  Chem. Mater.   31 , 342–352
+(2019). Article        CAS                            Google Scholar 
+Kim, S., Jinich, A. & Aspuru-Guzik, A. MultiDK: a multiple descriptor multiple
+kernel approach for molecular discovery and its application to organic flow
+battery electrolytes.  J. Chem. Inf. Model.   57 , 657–668 (2017). Article 
+CAS                            Google Scholar                    Jinich, A.,
+Sanchez-Lengeling, B., Ren, H., Harman, R. & Aspuru-Guzik, A. A mixed quantum
+chemistry/machine learning approach for the fast and accurate prediction of
+biochemical redox potentials and its large-scale application to 315000 redox
+reactions.  ACS Cent. Sci.   5 , 1199–1210 (2019). Article        CAS 
+Google Scholar                    Sarkar, A. et al. High entropy oxides for
+reversible energy storage.  Nat. Commun.   9 , 3400 (2018). Article 
+Google Scholar                    Choudhury, S. et al. Stabilizing polymer
+electrolytes in high-voltage lithium batteries.  Nat. Commun.   10 , 3091
+(2019). Article                            Google Scholar  
+Sanchez-Lengeling, B. & Aspuru-Guzik, A. Inverse molecular design using machine
+learning: generative models for matter engineering.  Science   361 , 360–365
+(2018). Article        CAS                            Google Scholar 
+Ng, M.-F., Zhao, J., Yan, Q., Conduit, G. J. & Seh, Z. W. Predicting the state
+of charge and health of batteries using data-driven machine learning.  Nat.
+Mach. Intell.   2 , 161–170 (2020). Article                            Google
+Scholar                    Steinmann, S. N. & Seh, Z. W. Understanding
+electrified interfaces.  Nat. Rev. Mater.   6 , 289–291 (2021). Article  
+CAS                            Google Scholar                    Kandasamy, N.,
+Badrinarayanan, R., Kanamarlapudi, V., Tseng, K. & Soong, B.-H. Performance
+analysis of machine-learning approaches for modeling the charging/discharging
+profiles of stationary battery systems with non-uniform cell aging.  Batteries
+3 , 18 (2017). Article                            Google Scholar 
+Wei, Q., Liu, D. & Shi, G. A novel dual iterative Q-learning method for optimal
+battery management in smart residential environments.  IEEE Trans. Ind.
+Electron.   62 , 2509–2518 (2015). Article                            Google
+Scholar                    Murphey, Y. L. et al. Intelligent hybrid vehicle
+power control — Part II: online intelligent energy management.  IEEE Trans.
+Vehicular Technol.   62 , 69–79 (2013). Article  
+Google Scholar                    Seh, Z. W. et al. Combining theory and
+experiment in electrocatalysis: insights into materials design.  Science   355 ,
+eaad4998 (2017). Article                            Google Scholar 
+Staffell, I. et al. The role of hydrogen and fuel cells in the global energy
+system.  Energy Environ. Sci.   12 , 463–491 (2019). Article        CAS 
+Google Scholar                    Montoya, J. H. H. et al. Materials for solar
+fuels and chemicals.  Nat. Mater.   16 , 70–81 (2017). Article 
+Google Scholar                    Pérez-Ramírez, J. & López, N. Strategies to
+break linear scaling relationships.  Nat. Catal.   2 , 971–976 (2019). Article 
+Google Scholar                    Shi, C., Hansen, H. A., Lausche, A. C. &
+Norskov, J. K. Trends in electrochemical CO 2  reduction activity for open and
+close-packed metal surfaces.  Phys. Chem. Chem. Phys.   16 , 4720–4727 (2014).
+Article        CAS                            Google Scholar  
+Calle-Vallejo, F., Loffreda, D., Koper, M. T. M. & Sautet, P. Introducing
+structural sensitivity into adsorption-energy scaling relations by means of
+coordination numbers.  Nat. Chem.   7 , 403–410 (2015). Article        CAS 
+Google Scholar                    Ulissi, Z. W. et al. Machine-learning methods
+enable exhaustive searches for active bimetallic facets and reveal active site
+motifs for CO 2  reduction.  ACS Catal.   7 , 6600–6608 (2017). Article  
+CAS                            Google Scholar                    Nørskov, J. K.,
+Studt, F., Abild-Pedersen, F. & Bligaard, T. Activity and selectivity maps. In
+Fundamental Concepts in Heterogeneous Catalysis  97–113 (John Wiley, 2014).
+Garijo del Río, E., Mortensen, J. J. & Jacobsen, K. W. Local Bayesian optimizer
+for atomic structures.  Phys. Rev. B   100 , 104103 (2019). Article 
+Google Scholar                    Jørgensen, M. S., Larsen, U. F., Jacobsen, K.
+W. & Hammer, B. Exploration versus exploitation in global atomistic structure
+optimization.  J. Phys. Chem. A   122 , 1504–1509 (2018). Article 
+Google Scholar                    Jacobsen, T. L., Jørgensen, M. S. & Hammer, B.
+On-the-fly machine learning of atomic potential in density functional theory
+structure optimization.  Phys. Rev. Lett.   120 , 026102 (2018). Article  
+CAS                            Google Scholar                    Peterson, A. A.
+Acceleration of saddle-point searches with machine learning.  J. Chem. Phys.
+145 , 074106 (2016). Article                            Google Scholar 
+Ulissi, Z. W., Medford, A. J., Bligaard, T. & Nørskov, J. K. To address surface
+reaction network complexity using scaling relations machine learning and DFT
+calculations.  Nat. Commun.   8 , 14621 (2017). Article 
+Google Scholar                    Huang, Y., Chen, Y., Cheng, T., Wang, L.-W. &
+Goddard, W. A. Identification of the selective sites for electrochemical
+reduction of CO to C 2+  products on copper nanoparticles by combining reactive
+force fields, density functional theory, and machine learning.  ACS Energy Lett.
+3 , 2983–2988 (2018). Article        CAS                            Google
+Scholar                    Chen, Y., Huang, Y., Cheng, T. & Goddard, W. A.
+Identifying active sites for CO 2  reduction on dealloyed gold surfaces by
+combining machine learning with multiscale simulations.  J. Am. Chem. Soc.   141
+, 11651–11657 (2019). Article        CAS                            Google
+Scholar                    Lai, Y., Jones, R. J. R., Wang, Y., Zhou, L. &
+Gregoire, J. M. Scanning electrochemical flow cell with online mass spectroscopy
+for accelerated screening of carbon dioxide reduction electrocatalysts.  ACS
+Comb. Sci.   21 , 692–704 (2019). Article        CAS  
+Google Scholar                    Lai, Y. et al. The sensitivity of Cu for
+electrochemical carbon dioxide reduction to hydrocarbons as revealed by high
+throughput experiments.  J. Mater. Chem. A   7 , 26785–26790 (2019). Article 
+CAS                            Google Scholar                    Tran, K. &
+Ulissi, Z. W. Active learning across intermetallics to guide discovery of
+electrocatalysts for CO 2  reduction and H 2  evolution.  Nat. Catal.   1 ,
+696–703 (2018). Article        CAS                            Google Scholar 
+Zhong, M. et al. Accelerated discovery of CO 2  electrocatalysts using active
+machine learning.  Nature   581 , 178–183 (2020). Article        CAS 
+Google Scholar                    Tshitoyan, V. et al. Unsupervised word
+embeddings capture latent knowledge from materials science literature.  Nature
+571 , 95–98 (2019). Article        CAS                            Google Scholar
+                   Yao, Y. et al. Carbothermal shock synthesis of high-entropy-
+alloy nanoparticles.  Science   359 , 1489–1494 (2018). Article        CAS 
+Google Scholar                    Yao, Y. et al. High-throughput, combinatorial
+synthesis of multimetallic nanoclusters.  Proc. Natl Acad. Sci. USA   117 ,
+6316–6322 (2020). Article        CAS                            Google Scholar 
+Timoshenko, J. & Roldan Cuenya, B. In situ/operando electrocatalyst
+characterization by X-ray absorption spectroscopy.  Chem. Rev.   121 , 882–961
+(2021). Article        CAS                            Google Scholar 
+Zheng, C., Chen, C., Chen, Y. & Ong, S. P. Random forest models for accurate
+identification of coordination environments from X-ray absorption near-edge
+structure.  Patterns   1 , 100013–100023 (2020). Article 
+Google Scholar                    Torrisi, S. B. et al. Random forest machine
+learning models for interpretable X-ray absorption near-edge structure spectrum-
+property relationships.  npj Comput. Mater.   6 , 109 (2020). Article 
+Google Scholar                    Timoshenko, J. et al. Neural network approach
+for characterizing structural transformations by X-ray absorption fine structure
+spectroscopy.  Phys. Rev. Lett.   120 , 225502 (2018). Article        CAS 
+Google Scholar                    Marcella, N. et al. Neural network assisted
+analysis of bimetallic nanocatalysts using X-ray absorption near edge structure
+spectroscopy.  Phys. Chem. Chem. Phys.   22 , 18902–18910 (2020). Article 
+CAS                            Google Scholar                    Chen, K.,
+Laghrouche, S. & Djerdir, A. Degradation model of proton exchange membrane fuel
+cell based on a novel hybrid method.  Appl. Energy   252 , 113439–113447 (2019).
+Article        CAS                            Google Scholar  
+Ma, R. et al. Data-driven proton exchange membrane fuel cell degradation
+predication through deep learning method.  Appl. Energy   231 , 102–115 (2018).
+Article        CAS                            Google Scholar  
+Jeppesen, C. et al. Fault detection and isolation of high temperature proton
+exchange membrane fuel cell stack under the influence of degradation.  J. Power
+Sources   359 , 37–47 (2017). Article        CAS  
+Google Scholar                    Liu, J. et al. Sequence fault diagnosis for
+PEMFC water management subsystem using deep learning with t-SNE.  IEEE Access.
+7 , 92009–92019 (2019). Article                            Google Scholar 
+Ansari, M. A., Rizvi, S. M. A. & Khan, S. Optimization of electrochemical
+performance of a solid oxide fuel cell using artificial neural network. in  2016
+International Conference on Electrical, Electronics, and Optimization Techniques
+(ICEEOT)  4230–4234 (IEEE, 2016). Zhang, C. et al. Modelling of solid oxide
+electrolyser cell using extreme learning machine.  Electrochim. Acta   251 ,
+137–144 (2017). Article        CAS                            Google Scholar 
+Esche, E., Weigert, J., Budiarto, T., Hoffmann, C. & Repke, J.-U. Optimization
+under uncertainty based on a data-driven model for a chloralkali electrolyzer
+cell.  Computer-aided Chem. Eng.   46 , 577–582 (2019). Article        CAS 
+Google Scholar                    Siddaiah, R. & Saini, R. P. A review on
+planning, configurations, modeling and optimization techniques of hybrid
+renewable energy systems for off grid applications.  Renew. Sustain. Energy Rev.
+58 , 376–396 (2016). Article                            Google Scholar 
+Yin, L., Yu, T., Zhang, X. & Yang, B. Relaxed deep learning for real-time
+economic generation dispatch and control with unified time scale.  Energy   149
+, 11–23 (2018). Article                            Google Scholar 
+Yu, T., Wang, H. Z., Zhou, B., Chan, K. W. & Tang, J. Multi-agent correlated
+equilibrium  Q ( λ ) learning for coordinated smart generation control of
+interconnected power grids.  IEEE Trans. Power Syst.   30 , 1669–1679 (2015).
+Article                            Google Scholar                    Marino, D.
+L., Amarasinghe, K. & Manic, M. Building energy load forecasting using deep
+neural networks. in  IECON Proceedings (Industrial Electronics Conference)
+7046–7051 (IECON, 2016). Ryu, S., Noh, J. & Kim, H. Deep neural network based
+demand side short term load forecasting. in  2016 IEEE International Conference
+on Smart Grid Communications (SmartGridComm 2016)  308–313 (IEEE, 2016). Mocanu,
+E., Nguyen, P. H., Kling, W. L. & Gibescu, M. Unsupervised energy prediction in
+a Smart Grid context using reinforcement cross-building transfer learning.
+Energy Build.   116 , 646–655 (2016). Article                            Google
+Scholar                    Lund, P. D., Lindgren, J., Mikkola, J. & Salpakari,
+J. Review of energy system flexibility measures to enable high levels of
+variable renewable electricity.  Renew. Sustain. Energy Rev.   45 , 785–807
+(2015). Article                            Google Scholar  
+Kim, B. G., Zhang, Y., Van Der Schaar, M. & Lee, J. W. Dynamic pricing and
+energy consumption scheduling with reinforcement learning.  IEEE Trans. Smart
+Grid   7 , 2187–2198 (2016). Article                            Google Scholar 
+Dusparic, I., Taylor, A., Marinescu, A., Cahill, V. & Clarke, S. Maximizing
+renewable energy use with decentralized residential demand response. in  2015
+IEEE 1st International Smart Cities Conference (ISC2 2015 ) 1–6 (IEEE, 2015).
+Dusparic, I., Harris, C., Marinescu, A., Cahill, V. & Clarke, S. Multi-agent
+residential demand response based on load forecasting. in  2013 1st IEEE
+Conference on Technologies for Sustainability (SusTech 2013)  90–96 (IEEE,
+2013). Bengio, Y., Courville, A. & Vincent, P. Representation learning: a review
+and new perspectives.  IEEE Transactions on Pattern Analysis and Machine
+Intelligence   35 , 1798–1828 (2013). Article                            Google
+Scholar                    Duvenaud, D. et al. Convolutional networks on graphs
+for learning molecular fingerprints. in  Advances In Neural Information
+Processing Systems  2224–2232 (NIPS, 2015). Gómez-Bombarelli, R. et al.
+Automatic chemical design using a data-driven continuous representation of
+molecules.  ACS Cent. Sci.   4 , 268–276 (2018). Article 
+Google Scholar                    Krenn, M., Hase, F., Nigam, A., Friederich, P.
+& Aspuru-Guzik, A. Self-referencing embedded strings (SELFIES): a 100% robust
+molecular string representation.  Mach. Learn. Sci. Technol.   1 , 045024–045031
+(2020). Article                            Google Scholar  
+Jin, W., Barzilay, R. & Jaakkola, T. Junction tree variational autoencoder for
+molecular graph generation.  Mach. Learn.   5 , 3632–3648 (2018).
+Google Scholar                    You, J., Liu, B., Ying, R., Pande, V. &
+Leskovec, J. Graph convolutional policy network for goal-directed molecular
+graph generation.  Adv. Neural Inf. Process. Syst.   31 , 6412–6422 (2018).
+Google Scholar                    Liu, Q., Allamanis, M., Brockschmidt, M. &
+Gaunt, A. L. Constrained graph variational autoencoders for molecule design. in
+Proceedings of the 32nd International Conference on Neural Information
+Processing Systems (NIPS’18)  7806–7815 (Curran Associates Inc., 2018). Bartók,
+A. P., Kondor, R. & Csányi, G. On representing chemical environments.  Phys.
+Rev. B   87 , 184115 (2013). Article                            Google Scholar 
+Ward, L. et al. Including crystal structure attributes in machine learning
+models of formation energies via Voronoi tessellations.  Phys. Rev. B   96 ,
+024104 (2017). Article                            Google Scholar 
+Isayev, O. et al. Universal fragment descriptors for predicting properties of
+inorganic crystals.  Nat. Commun.   8 , 15679 (2017). Article        CAS 
+Google Scholar                    Ziletti, A., Kumar, D., Scheffler, M. &
+Ghiringhelli, L. M. Insightful classification of crystal structures using deep
+learning.  Nat. Commun.   9 , 2775 (2018). Article  
+Google Scholar                    Ryan, K., Lengyel, J. & Shatruk, M. Crystal
+structure prediction via deep learning.  J. Am. Chem. Soc.   140 , 10158–10168
+(2018). Article                            Google Scholar  
+Park, C. W. & Wolverton, C. Developing an improved crystal graph convolutional
+neural network framework for accelerated materials discovery.  Phys. Rev. Mater.
+4 , 063801 (2020). Article        CAS                            Google Scholar
+                  Liu, X. et al.  Self-Supervised Learning: Generative or
+Contrastive  (IEEE, 2020). Ruder, S. An overview of multi-task learning in deep
+neural networks. Preprint at  https://doi.org/10.48550/arXiv.1706.05098  (2017).
+Hospedales, T., Antoniou, A., Micaelli, P. & Storkey, A. Meta-learning in neural
+networks: a survey.  IEEE Transactions on Pattern Analysis & Machine
+Intelligence   44 , 5149–5169 (2020).                     Google Scholar 
+Vaswani, A. et al. Attention is all you need. in  Proceedings of the 31st
+International Conference on Neural Information Processing Systems (NIPS’17)
+6000–6010 (Curran Associates Inc., 2017). Veličković, P. et al. Graph attention
+networks. Preprint at  https://doi.org/10.48550/arXiv.1710.10903  (2017).
+Battaglia, P. W. et al. Relational inductive biases, deep learning, and graph
+networks. Preprint at  https://doi.org/10.48550/arXiv.1806.01261  (2018).
+Satorras, V. G., Hoogeboom, E. & Welling, M. E(n) equivariant graph neural
+networks. Preprint at  https://doi.org/10.48550/arXiv.2102.09844  (2021). Jain,
+A. et al. Commentary: The Materials Project: a materials genome approach to
+accelerating materials innovation.  Apl. Mater.   1 , 011002–011012 (2013).
+Article                            Google Scholar                    Laasner, R.
+et al. MatD3: a database and online presentation package for research data
+supporting materials discovery, design, and dissemination.  J. Open Source
+Softw.   5 , 1945–1947 (2020). Article                            Google Scholar
+                   Coley, C. W. et al. A robotic platform for flow synthesis of
+organic compounds informed by AI planning.  Science   365 , 557 (2019). Article
+                          Google Scholar                    Hachmann, J. et al.
+The harvard clean energy project: large-scale computational screening and design
+of organic photovoltaics on the world community grid.  J. Phys. Chem. Lett.   2
+, 2241–2251 (2011). Article        CAS                            Google Scholar
+                   Bıyık, E., Wang, K., Anari, N. & Sadigh, D. Batch active
+learning using determinantal point processes. Preprint at
+https://doi.org/10.48550/arXiv.1906.07975  (2019). Hoffmann, J. et al. Machine
+learning in a data-limited regime: augmenting experiments with synthetic data
+uncovers order in crumpled sheets.  Sci. Adv.   5 , eaau6792 (2019). Article 
+Google Scholar                    Liu, J. Z. et al. Simple and principled
+uncertainty estimation with deterministic deep learning via distance awareness.
+Adv. Neural Inf. Process Syst.   33 , 7498–7512 (2020).
+Google Scholar                    Lakshminarayanan, B., Pritzel, A. & Blundell,
+C. Simple and scalable predictive uncertainty estimation using deep ensembles.
+In  Proceedings of the 31st International Conference on Neural Information
+Processing Systems (NIPS’17)  6405–6416 (Curran Associates Inc., 2017). D’Amour,
+A. et al. Underspecification presents challenges for credibility in modern
+machine learning. Preprint at  https://doi.org/10.48550/arXiv.2011.03395
+(2020). Barredo Arrieta, A. et al. Explainable artificial intelligence (XAI):
+concepts, taxonomies, opportunities and challenges toward responsible AI.  Inf.
+Fusion.   58 , 82–115 (2020). Article                            Google Scholar
+                  Ribeiro, M. T., Singh, S. & Guestrin, C. “Why should I trust
+you?” Explaining the predictions of any classifier. in  Proceedings of the ACM
+SIGKDD International Conference on Knowledge Discovery and Data Mining
+1135–1144 (2016). Lundberg, S. & Lee, S.-I. An unexpected unity among methods
+for interpreting model predictions. Preprint at
+https://arxiv.org/abs/1611.07478  (2016). Bach, S. et al. On pixel-wise
+explanations for non-linear classifier decisions by layer-wise relevance
+propagation.  PLoS ONE   10 , e0130140 (2015). Article 
+Google Scholar                    Sun, W. et al. The thermodynamic scale of
+inorganic crystalline metastability.  Sci. Adv.   2 , e1600225 (2016). Article 
+Google Scholar                    Aykol, M., Dwaraknath, S. S., Sun, W. &
+Persson, K. A. Thermodynamic limit for synthesis of metastable inorganic
+materials.  Sci. Adv.   4 , eaaq0148 (2018). Article  
+Google Scholar                    Wei, J. N., Duvenaud, D. & Aspuru-Guzik, A.
+Neural networks for the prediction of organic chemistry reactions.  ACS Cent.
+Sci.   2 , 725–732 (2016). Article        CAS                            Google
+Scholar                    Coley, C. W. et al. A graph-convolutional neural
+network model for the prediction of chemical reactivity.  Chem. Sci.   10 ,
+370–377 (2019). Article        CAS                            Google Scholar 
+Nagabhushana, G. P., Shivaramaiah, R. & Navrotsky, A. Direct calorimetric
+verification of thermodynamic instability of lead halide hybrid perovskites.
+Proc. Natl Acad. Sci. USA   113 , 7717–7721 (2016). Article        CAS 
+Google Scholar                    Sanna, S. et al. Enhancement of the chemical
+stability in confined δ-Bi 2 O 3 .  Nat. Mater.   14 , 500–504 (2015). Article 
+CAS                            Google Scholar                    Podolyan, Y.,
+Walters, M. A. & Karypis, G. Assessing synthetic accessibility of chemical
+compounds using machine learning methods.  J. Chem. Inf. Model.   50 , 979–991
+(2010). Article        CAS                            Google Scholar 
+Coley, C. W., Rogers, L., Green, W. H. & Jensen, K. F. SCScore: synthetic
+complexity learned from a reaction corpus.  J. Chem. Inf. Model.   58 , 252–261
+(2018). Article        CAS                            Google Scholar 
+Kim, E. et al. Inorganic materials synthesis planning with literature-trained
+neural networks.  J. Chem. Inf. Model.   60 , 1194–1201 (2020). Article  
+CAS                            Google Scholar                    Huo, H. et al.
+Semi-supervised machine-learning classification of materials synthesis
+procedures.  npj Comput. Mater.   5 , 62 (2019). Article 
+Google Scholar                    Tian, C., Lin, F. & Doeff, M. M.
+Electrochemical characteristics of layered transition metal oxide cathode
+materials for lithium ion batteries: surface, bulk behavior, and thermal
+properties.  Acc. Chem. Res.   51 , 89–96 (2018). Article        CAS 
+Google Scholar                    Guilminot, E., Corcella, A., Charlot, F.,
+Maillard, F. & Chatenet, M. Detection of Pt z +  ions and Pt nanoparticles
+inside the membrane of a used PEMFC.  J. Electrochem. Soc.   154 , B96 (2007).
+Article        CAS                            Google Scholar  
+Pender, J. P. et al. Electrode degradation in lithium-ion batteries.  ACS Nano
+14 , 1243–1295 (2020). Article        CAS                            Google
+Scholar                    Li, Y. et al. Atomic structure of sensitive battery
+materials and interfaces revealed by cryo-electron microscopy.  Science   358 ,
+506–510 (2017). Article        CAS                            Google Scholar 
+Wang, H. Numerical modeling of non-planar hydraulic fracture propagation in
+brittle and ductile rocks using XFEM with cohesive zone method.  J. Pet. Sci.
+Eng.   135 , 127–140 (2015). Article        CAS  
+Google Scholar                    Hsu, Y.-C., Yu, C.-H. & Buehler, M. J. Using
+deep learning to predict fracture patterns in crystalline solids.  Matter   3 ,
+197–211 (2020). Article                            Google Scholar 
+Wuest, T., Weimer, D., Irgens, C. & Thoben, K. D. Machine learning in
+manufacturing: advantages, challenges, and applications.  Prod. Manuf. Res.   4
+, 23–45 (2016).                     Google Scholar                    De Jong,
+P., Sánchez, A. S., Esquerre, K., Kalid, R. A. & Torres, E. A. Solar and wind
+energy production in relation to the electricity load curve and hydroelectricity
+in the northeast region of Brazil.  Renew. Sustain. Energy Rev.   23 , 526–535
+(2013). Article                            Google Scholar  
+Zolfani, S. H. & Saparauskas, J. New application of SWARA method in prioritizing
+sustainability assessment indicators of energy system.  Eng. Econ.   24 ,
+408–414 (2013).                     Google Scholar                    Tao, F.,
+Zhang, M., Liu, Y. & Nee, A. Y. C. Digital twin driven prognostics and health
+management for complex equipment.  CIRP Ann.   67 , 169–172 (2018). Article 
+Google Scholar                    Yun, S., Park, J. H. & Kim, W. T. Data-centric
+middleware based digital twin platform for dependable cyber-physical systems. in
+International Conference on Ubiquitous and Future Networks (ICUFN)  922–926
+(2017). Boretti, A. Integration of solar thermal and photovoltaic, wind, and
+battery energy storage through AI in NEOM city.  Energy AI   3 , 100038–100045
+(2021). Article                            Google Scholar  
+Ghoddusi, H., Creamer, G. G. & Rafizadeh, N. Machine learning in energy
+economics and finance: a review.  Energy Econ.   81 , 709–727 (2019). Article 
+Google Scholar                    Asensio, O. I., Mi, X. & Dharur, S. Using
+machine learning techniques to aid environmental policy analysis: a teaching
+case regarding big data and electric vehicle charging infrastructure.  Case
+Stud. Environ.   4 , 961302 (2020). Article                            Google
+Scholar                    Zheng, S., Trott, A., Srinivasa, S., Parkes, D. C. &
+Socher, R. The AI economist: taxation policy design via two-level deep
+multiagent reinforcement learning.  Sci. Adv.   8 , eabk2607 (2022). Article 
+Google Scholar                    Sun, S. et al. A data fusion approach to
+optimize compositional stability of halide perovskites.  Matter   4 , 1305–1322
+(2021). Article        CAS                            Google Scholar 
+Sun, W. et al. Machine learning — assisted molecular design and efficiency
+prediction for high-performance organic photovoltaic materials.  Sci. Adv.   5 ,
+eaay4275 (2019). Article        CAS                            Google Scholar 
+Sun, S. et al. Accelerated development of perovskite-inspired materials via
+high-throughput synthesis and machine-learning diagnosis.  Joule   3 , 1437–1451
+(2019). Article        CAS                            Google Scholar 
+Kirman, J. et al. Machine-learning-accelerated perovskite crystallization.
+Matter   2 , 938–947 (2020). Article                            Google Scholar 
+Langner, S. et al. Beyond ternary OPV: high-throughput experimentation and self-
+driving laboratories optimize multicomponent systems.  Adv. Mater.   32 ,
+1907801 (2020). Article        CAS                            Google Scholar 
+Hartono, N. T. P. et al. How machine learning can help select capping layers to
+suppress perovskite degradation.  Nat. Commun.   11 , 4172 (2020). Article 
+CAS                            Google Scholar                    Odabaşı, Ç. &
+Yıldırım, R. Performance analysis of perovskite solar cells in 2013–2018 using
+machine-learning tools.  Nano Energy   56 , 770–791 (2019). Article 
+Google Scholar                    Fenning, D. P. et al. Darwin at high
+temperature: advancing solar cell material design using defect kinetics
+simulations and evolutionary optimization.  Adv. Energy Mater.   4 , 1400459
+(2014). Article                            Google Scholar  
+Allam, O., Cho, B. W., Kim, K. C. & Jang, S. S. Application of DFT-based machine
+learning for developing molecular electrode materials in Li-ion batteries.  RSC
+Adv.   8 , 39414–39420 (2018). Article        CAS  
+Google Scholar                    Okamoto, Y. & Kubo, Y. Ab initio calculations
+of the redox potentials of additives for lithium-ion batteries and their
+prediction through machine learning.  ACS Omega   3 , 7868–7874 (2018). Article
+      CAS                            Google Scholar  
+Takagishi, Y., Yamanaka, T. & Yamaue, T. Machine learning approaches for
+designing mesoscale structure of Li-ion battery electrodes.  Batteries   5 , 54
+(2019). Article        CAS                            Google Scholar 
+Tan, Y., Liu, W. & Qiu, Q. Adaptive power management using reinforcement
+learning. in  IEEE/ACM International Conference on Computer-Aided Design, Digest
+of Technical Papers (ICCAD ) 461–467 (IEEE, 2009). Ermon, S., Xue, Y., Gomes, C.
+& Selman, B. Learning policies for battery usage optimization in electric
+vehicles.  Mach. Learn.   92 , 177–194 (2013). Article 
+Google Scholar                    Schmidt, J., Marques, M. R. G., Botti, S. &
+Marques, M. A. L. Recent advances and applications of machine learning in solid-
+state materials science.  npj Comput. Mater.   5 , 83 (2019). Article 
+Google Scholar                    Pilania, G. Machine learning in materials
+science: from explainable predictions to autonomous design.  Comput. Mater. Sci.
+193 , 110360 (2021). Article        CAS                            Google
+Scholar                    Butler, K. T., Davies, D. W., Cartwright, H., Isayev,
+O. & Walsh, A. Machine learning for molecular and materials science.  Nature
+559 , 547–555 (2018). Article        CAS                            Google
+Scholar                    Kaufmann, K. et al. Crystal symmetry determination in
+electron diffraction using machine learning.  Science   367 , 564–568 (2020).
+Article        CAS                            Google Scholar  
+Chen, C., Zuo, Y., Ye, W., Li, X. & Ong, S. P. Learning properties of ordered
+and disordered materials from multi-fidelity data.  Nat. Comput. Sci.   1 ,
+46–53 (2021). Article                            Google Scholar 
+Liu, M., Yan, K., Oztekin, B. & Ji, S. GraphEBM: molecular graph generation with
+energy-based models. Preprint at  https://doi.org/10.48550/arXiv.2102.00546
+(2021). Segler, M. H. S., Preuss, M. & Waller, M. P. Planning chemical syntheses
+with deep neural networks and symbolic AI.  Nature   555 , 604–610 (2018).
+Article        CAS                            Google Scholar  
+Granda, J. M., Donina, L., Dragone, V., Long, D.-L. & Cronin, L. Controlling an
+organic synthesis robot with machine learning to search for new reactivity.
+Nature   559 , 377–381 (2018). Article        CAS  
+Google Scholar                    Epps, R. W. et al. Artificial chemist: an
+autonomous quantum dot synthesis bot.  Adv. Mater.   32 , 2001626 (2020).
+Article        CAS                            Google Scholar  
+MacLeod, B. P. et al. Self-driving laboratory for accelerated discovery of thin-
+film materials.  Sci. Adv.   6 , eaaz8867 (2020). Article        CAS 
+Google Scholar                    Li, Z. et al. Robot-accelerated perovskite
+investigation and discovery.  Chem. Mater.   32 , 5650–5663 (2020). Article 
+CAS                            Google Scholar                    Aguiar, J. A.,
+Gong, M. L., Unocic, R. R., Tasdizen, T. & Miller, B. D. Decoding
+crystallography from high-resolution electron imaging and diffraction datasets
+with deep learning.  Sci. Adv.   5 , eaaw1949 (2019). Article        CAS 
+Google Scholar                    Download references Acknowledgements Z.Y. and
+A.A.-G. were supported as part of the Nanoporous Materials Genome Center by the
+US Department of Energy, Office of Science, Office of Basic Energy Sciences
+under award number DE-FG02-17ER16362 and the US Department of Energy, Office of
+Science — Chicago under award number DE-SC0019300. A.J. was financially
+supported by Huawei Technologies Canada and the Natural Sciences and Engineering
+Research Council (NSERC). L.M.M.-M. thanks the support of the Defense Advanced
+Research Projects Agency under the Accelerated Molecular Discovery Program under
+cooperative agreement number HR00111920027 dated 1 August 2019. Y.W.
+acknowledges funding support from the Singapore National Research Foundation
+under its Green Buildings Innovation Cluster (GBIC award number NRF2015ENC-
+GBICRD001-012) administered by the Building and Construction Authority, its
+Green Data Centre Research (GDCR award number NRF2015ENC-GDCR01001-003)
+administered by the Info-communications Media Development Authority, and its
+Energy Programme (EP award number NRF2017EWT-EP003-023) administered by the
+Energy Market Authority of Singapore. A.A.-G. is a Canadian Institute for
+Advanced Research (CIFAR) Lebovic Fellow. E.H.S. acknowledges funding by the
+Ontario Ministry of Colleges and Universities (grant ORF-RE08-034), the Natural
+Sciences and Engineering Research Council (NSERC) of Canada (grant
+RGPIN-2017-06477), the Canadian Institute for Advanced Research (CIFAR) (grant
+FS20-154 APPT.2378) and the University of Toronto Connaught Fund (grant GC
+2012-13). Z.W.S. acknowledges funding by the Singapore National Research
+Foundation (NRF-NRFF2017-04). Author information Author notes These authors
+contributed equally: Zhenpeng Yao, Yanwei Lum, Andrew Johnston. Authors and
+Affiliations Shanghai Key Laboratory of Hydrogen Science & Center of Hydrogen
+Science, School of Materials Science and Engineering, Shanghai Jiao Tong
+University, Shanghai, China Zhenpeng Yao Chemical Physics Theory Group,
+Department of Chemistry and Department of Computer Science, University of
+Toronto, Toronto, Ontario, Canada Zhenpeng Yao, Luis Martin Mejia-Mendoza & Alán
+Aspuru-Guzik Innovation Center for Future Materials, Zhangjiang Institute for
+Advanced Study, Shanghai Jiao Tong University, Shanghai, China Zhenpeng Yao
+State Key Laboratory of Metal Matrix Composites, School of Materials Science and
+Engineering, Shanghai Jiao Tong University, Shanghai, China Zhenpeng Yao
+Institute of Materials Research and Engineering, Agency for Science, Technology
+and Research (A*STAR), Innovis, Singapore, Singapore Yanwei Lum & Zhi Wei Seh
+Department of Electrical and Computer Engineering, University of Toronto,
+Toronto, Ontario, Canada Yanwei Lum, Andrew Johnston & Edward H. Sargent School
+of Computer Science and Engineering, Nanyang Technological University,
+Singapore, Singapore Xin Zhou & Yonggang Wen Vector Institute for Artificial
+Intelligence, Toronto, Ontario, Canada Alán Aspuru-Guzik Authors Zhenpeng Yao
+View author publications You can also search for this author in
+PubMed   Google Scholar Yanwei Lum View author publications You can also search
+for this author in                          PubMed   Google Scholar Andrew
+Johnston View author publications You can also search for this author in
+PubMed   Google Scholar Luis Martin Mejia-Mendoza View author publications You
+can also search for this author in                          PubMed   Google
+Scholar Xin Zhou View author publications You can also search for this author in
+PubMed   Google Scholar Yonggang Wen View author publications You can also
+search for this author in                          PubMed   Google Scholar Alán
+Aspuru-Guzik View author publications You can also search for this author in
+PubMed   Google Scholar Edward H. Sargent View author publications You can also
+search for this author in                          PubMed   Google Scholar Zhi
+Wei Seh View author publications You can also search for this author in
+PubMed   Google Scholar Contributions Z.Y., Y.L. and A.J. contributed equally to
+this work. All authors contributed to the writing and editing of the manuscript.
+Corresponding authors Correspondence to                  Alán Aspuru-Guzik ,
+Edward H. Sargent  or  Zhi Wei Seh . Ethics declarations Competing interests The
+authors declare no competing interests. Peer review Peer review information
+Nature Reviews Materials  thanks Shijing Sun and the other, anonymous,
+reviewer(s) for their contribution to the peer review of this work. Additional
+information Publisher’s note Springer Nature remains neutral with regard to
+jurisdictional claims in published maps and institutional affiliations. Related
+links MatD3 database:   https://github.com/HybriD3-database/MatD3 Materials
+Project:   https://materialsproject.org/ Glossary Active learning Machine
+learning techniques that can query a user interactively to modify its current
+strategy (that is, label an input). Artificial intelligence (AI). Theory and
+development of computer systems that exhibit intelligence. Automatic generation
+control A system for adjusting the power output of multiple generators at
+different power plants, in response to changes in the load. Closed-loop approach
+A technology development pipeline that incorporates automation to go from idea
+to realization of technology. ‘Closed’ refers to the concept that the system
+improves with experience and iterations. Data augmentation Process of increasing
+the amount of data through adding slightly modified copies or newly created
+synthetic data from existing data. Deep belief network A generative graphical
+model, or alternatively a class of deep neural network, composed of multiple
+layers of latent variables, with connections between the layers but not between
+units within each layer. Deep learning (DL). Machine learning subfield that is
+based on neural networks with representation learning. Generalization The
+ability to adapt to new, unseen data, drawn from the same distribution as the
+one used to create the model. Generative learning Machine learning techniques
+that learn to model the data distribution of a dataset and sample new data
+points. Interpretability Degree to which a human can understand a model’s
+decision. Interpretability can be used to build trust and credibility. Inverse
+design A design method where new materials and compounds are ‘reverse-
+engineered’ simply by inputting a set of desired properties and characteristics
+and then using an optimization algorithm to generate a predicted solution. Long
+short-term memory A special kind of recurrent neural networks that are capable
+of selectively remembering patterns for a long duration of time. Machine
+learning (ML). Field within artificial intelligence that deals with learning
+algorithms, which improve automatically through experience (data). Multi-agent
+system A computerized system composed of multiple interacting intelligent
+agents. Multi-kernel-ridge regression The combination of ridge regression (a
+method of estimating the coefficients of multiple-regression models in scenarios
+where the independent variables are highly correlated) with multiple kernel
+techniques. Multiphysics models Models that involve the analysis of multiple,
+simultaneous physical phenomena, which can include heat transfer, fluid flow,
+deformation, electromagnetics, acoustics and mass transport. Multiscale
+modelling The field of solving problems that have important features at multiple
+scales of time and/or space. Neural networks A neural network is composed of
+parameterized and optimizable transformations. Recurrent neural networks A class
+of artificial neural networks where connections between nodes form a directed or
+undirected graph along a temporal sequence. Regularization Process of
+incorporating additional information into the model to constrain its solution
+space. Reinforcement learning Machine learning techniques that make a sequence
+of decisions to maximize a reward. Representations Features used in a
+representation learning model, which transforms inputs into new features for a
+task. Retrosynthesis Technique for solving problems in the planning of chemical
+synthesis. Robotic workflows A robotic equipment automated chemical synthesis
+plan. Screening strategy Design process composed of several stages where
+materials are iteratively filtered and ranked to arrive to a few top candidates.
+Supervised learning Machine learning techniques that involve the usage of
+labelled data. Transfer learning Machine learning techniques that adapt a
+learned representation or strategy from one dataset to another. Uncertainty
+quantification Process of evaluating the statistical confidence of model.
+Unsupervised learning Machine learning techniques that learn patterns from
+unlabelled data. Rights and permissions Springer Nature or its licensor holds
+exclusive rights to this article under a publishing agreement with the author(s)
+or other rightsholder(s); author self-archiving of the accepted manuscript
+version of this article is solely governed by the terms of such publishing
+agreement and applicable law. Reprints and permissions About this article Cite
+this article Yao, Z., Lum, Y., Johnston, A.  et al.  Machine learning for a
+sustainable energy future.                      Nat Rev Mater   8 , 202–215
+(2023). https://doi.org/10.1038/s41578-022-00490-5 Download citation Accepted :
+14 September 2022 Published :  18 October 2022 Issue Date :  March 2023 DOI :
+https://doi.org/10.1038/s41578-022-00490-5 Share this article Anyone you share
+the following link with will be able to read this content: Get shareable link
+Sorry, a shareable link is not currently available for this article. Copy to
+clipboard                             Provided by the Springer Nature SharedIt
+content-sharing initiative                          This article is cited by
+Artificial intelligence-based methods for renewable power system operation
+Yuanzheng Li Yizhou Ding Zhigang Zeng Nature Reviews Electrical Engineering
+(2024)                                         Bringing digital synthesis to
+Mars                                      Mark D. Symes Leroy Cronin Nature
+Synthesis  (2024)                                         Sustainable moisture
+energy                                      Jiaxing Xu Pengfei Wang Tingxian Li
+Nature Reviews Materials  (2024)                                         Anion
+optimization for bifunctional surface passivation in perovskite solar cells
+Jian Xu Hao Chen Edward H. Sargent Nature Materials  (2023)
+The landscape of computational approaches for artificial photosynthesis
+Ke R. Yang Gregory W. Kyro Victor S. Batista Nature Computational Science
+(2023) Download PDF Advertisement Explore content
+Research articles
+Reviews & Analysis
+News & Comment
+Current issue
+Collections                                  Follow us on Facebook
+Follow us on Twitter                              Sign up for alerts RSS feed
+About the journal                                     Aims & Scope
+Journal Information
+About the Editors
+Editorial input and checks
+Editorial Values Statement
+Journal Metrics
+Publishing model
+Editorial policies
+Contact
+Guidelines for Authors
+Journal Credits
+Reviews Cross-Journal Editorial Team                                  Publish
+with us                                     For Authors
+For Referees                                  Submit manuscript Search Search
+articles by subject, keyword or author Show results from All journals This
+journal Search                 Advanced search              Quick links Explore
+articles by subject Find a job Guide to authors Editorial policies
+Nature Reviews Materials ( Nat Rev Mater )                  ISSN   2058-8437
+(online)      nature.com sitemap About Nature Portfolio About us Press releases
+Press office Contact us Discover content Journals A-Z Articles by subject
+Protocol Exchange Nature Index Publishing policies Nature portfolio policies
+Open access Author & Researcher services Reprints & permissions Research data
+Language editing Scientific editing Nature Masterclasses Research Solutions
+Libraries & institutions Librarian service & tools Librarian portal Open
+research Recommend to library Advertising & partnerships Advertising
+Partnerships & Services Media kits Branded                         content
+Professional development Nature Careers Nature
+Conferences Regional websites Nature Africa Nature China Nature India Nature
+Italy Nature Japan Nature Korea Nature Middle East Privacy
+Policy Use                 of cookies Your privacy choices/Manage cookies
+Legal                 notice Accessibility                 statement Terms &
+Conditions Your US state privacy rights © 2024 Springer Nature Limited Close
+banner Close Sign up for the  Nature Briefing  newsletter — what matters in
+science, free to your inbox daily. Email address Sign up I agree my information
+will be processed in accordance with the  Nature  and Springer Nature Limited
+Privacy Policy . Close banner Close Get the most important science stories of
+the day, free in your inbox. Sign up for Nature Briefing

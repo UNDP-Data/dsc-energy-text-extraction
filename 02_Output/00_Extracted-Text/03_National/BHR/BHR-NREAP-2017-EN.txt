@@ -1,0 +1,3064 @@
+1
+Disclaimer:  The  SEU  team  has  made  efforts  to  use  the  latest  data  available  and  to  ensure  the  accuracy  of  the  content. 
+Nevertheless, the Government of Bahrain, the UNDP, and SEU accept no liability nor give any guarantee for the validity, accuracy, 
+and completeness of the information provided. They assume no legal liabilities for damages, material or immaterial in kind, caused 
+by the use or non-use of provided information or the use of erroneous or incomplete information. This Plan is a living document that 
+looks out to long-term needs and will be modified to reflect new information and changing conditions. 
+2
+ACKNOWLEDGEMENTS 
+The Minister of Electricity and Water Affairs would like to thank the First 
+Deputy Prime Minister’s Office, the Electricity and Water Authority, the 
+National Oil and Gas Authority, the Ministry of Housing, the Ministry 
+of Works, Urban Planning and Municipalities, the Ministry of Industry 
+Commerce and Tourism, the Ministry of Transport and Telecommunications, 
+the Bahrain Defense Force, the Economic Development Board, the Supreme 
+Council for Environment, large industry groups, academia, and all others 
+who provided support in the preparation of this Plan with their valuable 
+inputs, time, guidance, and expertise. 
+3
+“Bahraini nationals and residents enjoy a 
+sustainable and attractive living environment
+Protecting our natural environment will include directing 
+investments to technologies that reduce carbon 
+emissions, minimize pollution and promote the sourcing 
+of more sustainable energy” 
+- Bahrain Economic Vision 2030
+4
+His Royal Highness 
+Prince Salman Bin Hamad Al Khalifa 
+The Crown Prince and Deputy Supreme 
+Commander and First Deputy Prime Minister
+His Royal Highness 
+Prince Khalifa Bin Salman Al Khalifa
+The Prime Minister
+His Majesty
+ King Hamad Bin Isa Al Khalifa 
+The King of Bahrain
+5
+6
+Foreword
+The Minister of Electricity and Water Affairs: 
+His Excellency, Dr. Abdul Hussain bin Ali Mirza
+The government of the Kingdom of Bahrain is committed to the sustainability of the 
+country’s  natural  resources  for  future  generations,  as  well  as  the  protection  of  the 
+environment.  There  is  considerable  potential  for  undertaking  energy  efficiency  and 
+renewable energy initiatives in Bahrain, which will extend the lifetime of oil and gas 
+reserves,  and  enable  long-term  sustainable  development.  Bahrain’s  Economic  Vision 
+2030  puts  special  emphasis  on  providing  incentives  for  reducing  and  managing 
+electricity  demand,  and  investing  in  clean  energy  technologies;  promoting  energy 
+efficiency  standards  to  ensure  sustainability;  and  ensuring  better  energy  and  water 
+demand management. 
+Progress has already been achieved, indeed Bahrain has been a pioneer on the way to 
+a more sustainable future. The Kingdom was one of the first countries to install utility-
+scale wind turbines on a new commercial development, the iconic World Trade Center 
+in 2008; and Bahrain was the first country in the GCC to have a district cooling system. 
+There are already several private sector renewable energy systems in operation; and a 
+number of initiatives are underway to facilitate more efficient energy use.
+In order to unify and consolidate efforts on energy efficiency and renewable energy, 
+the Sustainable Energy Unit was established in November 2014. The Sustainable Energy 
+Unit  is  mandated  to  develop  strategies  and  policies  for  the  integrated  planning  of 
+energy sources in the Kingdom, as well as the rationalization of energy use, and to raise 
+efficiency  in  all  sectors  through  coordination  with  all  concerned  parties.  To  this  end, 
+the Sustainable Energy Unit, in consultation with key stakeholders, has formulated the 
+National Renewable Energy Action Plan and the National Energy Efficiency Action Plan, 
+which were endorsed by the Cabinet (resolution no. 2384-08). 
+These  plans  are  an  important  milestone  in  setting  out  Bahrain’s  national  targets  for 
+renewable  energy  deployment  and  the  adoption  of  energy  efficiency  initiatives.  As 
+such, they represent the Kingdom’s efforts to deliver the sustainable energy transition 
+envisioned in the Economic Vision 2030 and the Government Action Plan 2015-2018. 
+The plans also represent the implementation of the Kingdom’s regional and international 
+commitments under the Paris Agreement, the United Nations Sustainable Development 
+Goals, and the League of Arab States Renewable Energy Framework and Guidelines on 
+Energy Efficiency. 
+The initiatives within the plans, with the support of leadership across all ministries, and 
+from key stakeholders and members of society, will enable the Kingdom’s sustainable 
+future.  By  working  together,  Bahrain  can  achieve  its  sustainable  energy  objectives, 
+which will benefit the Kingdom economically and environmentally.
+7
+8
+Foreword
+United Nations Resident Coordinator and 
+United Nations Development Programme 
+Resident Representative: 
+Mr. Amin Al Sharkawi
+In  recognition  of  both  the  need  and  potential  to  diversify  Bahrain’s  energy  sector  to 
+include renewable sources, and to develop innovative ways to ensure the most efficient 
+use of energy, the UNDP has been working with the Government of Bahrain for a number 
+of years to respond to the important issue of sustainable energy. The UNDP is delighted 
+to support the Office of the Minister of Electricity and Water Affairs in establishing the 
+Sustainable  Energy  Unit,  for  the  benefit  of  the  people  of  Bahrain,  and  to  further  the 
+sustainable development of the country. 
+The publication of the National Renewable Energy Action Plan and the National Energy 
+Efficiency  Plan  is  an  important  milestone  in  Bahrain’s  national  development.  The 
+leadership of the Kingdom of Bahrain is to be applauded for taking active steps towards 
+a sustainable future. 
+The plans align closely with the framework of the UN Secretary General’s Sustainable 
+Energy for All (SE4All) Initiative that supports universal access to modern energy services, 
+acceleration  in  energy  efficiency  improvements,  and  the  increased  use  of  renewable 
+energy in the energy mix.
+It  also  supports  the  2030  Agenda  for  Sustainable  Development  which  includes  the 
+United Nation’s 17 Sustainable Development Goals for social progress, economic growth 
+and environmental protection. By focusing on renewable energy and energy efficiency, 
+the Kingdom of Bahrain is supporting the realization of the United Nations Sustainable 
+Development Goal No. 7: Ensuring acess to affordable, reliable, sustainable and modern 
+energy for all. 
+The Bahraini National Renewable Energy Action Plan and the National Energy Efficiency 
+Action Plan are on par with similar initiatives in other Arab countries, and will help to 
+promote the exchange of successful international experiences for the benefit of Bahrain’s 
+ambitious development agenda. 
+To achieve these objectives, the UNDP will facilitate access to expertise from within the 
+UN  system  and  the  international  energy  community.  Most  importantly,  the  plans  will 
+become  a  building  block  to  achieve  Bahrain’s  Economic  Vision  2030  and  has  energy 
+efficiency  and  renewable  energy  as  top  priorities.    This  vision  marks  a  new  era  of 
+development and modernization for the Kingdom of Bahrain and the UNDP will continue 
+to  support  Bahrain’s  leadership  in  implementing  these  important  sustainable  energy 
+initiatives.
+9
+Table of Contents
+Acknowledgements............................................................................................................ 7
+Acronyms.and.Abbreviations.............................................................................................12
+Executive.Summary............................................................................................................ 13
+Bahrain’s.Sustainable.Energy.Agenda...................................................................... 19
+1..
+1.1.
+.
+International.Commitments............................................................................. 19
+1.2. National.Commitments....................................................................................21
+.
+1.3. The.Sustainable.Energy.Unit............................................................................ 22
+.
+Bahrain’s.Energy.Outlook..........................................................................................23
+2..
+2.1. Oil.and.Gas........................................................................................................23
+.
+2.2. Electricity.and.Water........................................................................................25
+.
+2.3. Projected.Energy.Demand............................................................................... 32
+.
+Renewable.Energy.Opportunities.............................................................................34
+3..
+3.1. Solar.. ................................................................................................................34
+.
+3.2. Wind.. ................................................................................................................40
+.
+3.3. Waste.to.Energy................................................................................................44
+.
+3.4. Other.Renewable.Sources................................................................................ 47
+.
+3.5. Summary.of.Renewable.Energy.Opportunities............................................... 48
+.
+Renewable.Energy.Action.Plan................................................................................. 51
+4..
+4.1. Targets...............................................................................................................51
+.
+4.2. Deployment.Strategy.......................................................................................52
+.
+4.3. Benefits.and.Impact......................................................................................... 53
+.
+4.4. Facilitating.Renewable.Energy.Deployment...................................................54
+.
+4.5. Policies.to.Attract.Private.Investment............................................................. 56
+.
+Projects.to.Achieve.2025.Targets.............................................................................. 60
+5..
+5.1. Solar.Systems.for.Government.Buildings........................................................ 60
+.
+5.2. Solar.Systems.for.Public.Works........................................................................60
+.
+5.3. Solar.Systems.for.New.Housing.Units.............................................................61
+.
+5.4. Renewable.Energy.Systems.in.Urban.Developments..................................... 62
+.
+5.5. Large-scale.Solar.Farm.on.Available.Land......................................................63
+.
+5.6. Sludge.to.Energy..............................................................................................64
+.
+5.7. Renewable.Energy.Plants.by.Large.Industry.Groups......................................64
+.
+5.8. Near.Shore.and.Offshore.Wind.Farms............................................................. 65
+.
+.
+5.9. EWA.Renewable.Energy.Initiative.................................................................... 65
+6.. Going.Forward............................................................................................................ 66
+6.1. Governance.......................................................................................................66
+.
+6.2.
+.
+Integrating.Renewables.in.Ministries’.Action.Plans....................................... 68
+6.3. Tools.Enabling.Renewable.Energy................................................................... 68
+.
+6.4. Funding.............................................................................................................69
+.
+6.5. Setting.Plan.into.Motion..................................................................................70
+.
+. ................................................................................................................72
+References.
+10
+List of Figures
+Figure.1:.Bahrain’s.National.and.International.Commitments.......................................... 19
+Figure.2:.Energy.Supply.and.Demand.Trends.................................................................... 24
+Figure.3:.Bahrain.Power.Supply,.2014............................................................................... 25
+Figure.4:.Electricity.Monthly.Consumption,.2014.............................................................. 26
+Figure.5:.Electricity.Monthly.Consumption.by.Sector,.2014.............................................. 27
+Figure.6:.Summer.Day.Electricity.Demand........................................................................ 28
+Figure.7:.Winter.Day.Electricity.Demand........................................................................... 28
+Figure.8:.Estimated.Future.Electricity.Cost......................................................................... 29
+Figure.9:.Electricity.and.Water.Tariff.Increases.................................................................. 30
+Figure.10:.Projected.Electricity.Consumption.Demand..................................................... 32
+Figure.11:.Gas.Consumption.Forecast.for.Electricity.Production....................................... 33
+Figure.12:.Solar.Radiation.in.Bahrain................................................................................. 34
+Figure.13:.Estimated.LCOE.for.Solar.PV.above.1.MW......................................................... 37
+Figure.14:.Estimated.LCOE.for.Solar.PV.less.than.1.MW.................................................... 37
+Figure.15:.Wind.Atlas.Developed.by.the.University.of.Bahrain........................................ 40
+Figure.16:.Wind.Speed.Measurements.Acquired.from.Tall.Mast.at.50.m.Height............ 41
+Figure.17:.Cost.Breakdown.of.a.Typical.Wind.Farm.in.European.Waters,.2015............... 43
+List of Tables: 
+Table.1:.Electricity.Peak.demand........................................................................................ 27
+Table.2:.Baseline.Definition.for.2010.and.2014................................................................ 31
+Table.3:.Renewable.Energy.Installed.Capacities.in.Selected.Arab.Countries,.2014........ 31
+Table.4:.LCOE.Onshore.Wind.by.Region,.2014-2015.......................................................... 42
+Table.5:.Biogas.Production.Potential.................................................................................. 45
+Table.6:.Pros.and.Cons.of.Selected.Renewable.Energy.Technologies.............................. 48
+Table.7:.Renewable.Energy.Targets.................................................................................... 51
+Table.8:.Bahrain.Net.Metering.Scheme............................................................................. 56
+Table.9:.Bahrain.Feed-in.Tariff.Scheme.............................................................................. 58
+Table.10:.Bahrain.Renewable.Energy.Mandate.Scheme................................................... 59
+11
+ACRONYMS AND ABBREVIATIONS
+Alba. .
+BAPCO.
+.
+BD.
+BIPV. .
+.
+CIO.
+CO2.
+.
+.
+CSP.
+DEWA..
+.
+EDB.
+.
+EU.
+EWA. .
+GCC.
+.
+GCCIA..
+GWh. .
+INDC. .
+IPP.
+.
+IWPP. .
+kW.
+.
+kWh. .
+kWh/m2.
+kWp. .
+MMbtu.
+Mmcf..
+Mtoe. .
+MW.
+.
+NOGA..
+NREAP.
+PV.
+.
+SDGs. .
+.
+SEU..
+UNDP..
+Wp.
+.
+WPCC..
+Aluminum.Bahrain
+Bahrain.Petroleum.Company
+Bahraini.dinar
+building-integrated.photovoltaic
+Central.Information.Organization
+carbon.dioxide
+concentrating.solar.power
+Dubai.Electricity.and.Water.Authority.
+Economic.Development.Board
+European.Union
+Electricity.and.Water.Authority
+Gulf.Cooperation.Council
+GCC.Interconnection.Authority
+gigawatt.hours
+Intended.Nationally.Determined.Contribution
+independent.power.producer
+independent.power.and.water.producer
+kilowatt
+kilowatt.hours
+kilowatt.hours.per.square.meter
+kilowatt.peak
+million.British.thermal.units
+million.cubic.feet
+million.tonnes.of.oil.equivalent
+megawatts
+National.Oil.and.Gas.Authority
+National.Renewable.Energy.Action.Plan
+photovoltaic
+Sustainable.Development.Goals
+Sustainable.Energy.Unit
+United.Nations.Development.Programme
+peak.Watt
+Water.Pollution.Control.Center
+12
+EXECUTIVE SUMMARY
+BACKGROUND
+The Kingdom of Bahrain, despite being a small island country, possesses abundant renewable 
+energy  resources,  including  solar  and  wind  that  have  been  largely  untapped.  Renewable 
+energy  is  a  clean,  non-exhaustible,  and  local  source  of  energy,  an  important  component 
+for building a reliable, resilient, and sustainable energy system. Today the Kingdom’s power 
+generation  system  relies  exclusively  on  natural  gas,  which  is  a  scarce  and  diminishing 
+resource. Current projections on the availability of gas reserves suggest that Bahrain will no 
+longer be able to meet its domestic consumption, and will have to rely on imported gas as 
+early as 2018. By introducing renewable energy into the energy mix and adopting energy 
+efficiency policies, Bahrain can reduce its reliance on imported energy, prolong the lifetime of 
+the indigenous gas resource, and optimize its economic value.
+In clear recognition of the benefits of renewable energy, the Kingdom of Bahrain is committed 
+to the development of renewable energy initiatives by harnessing the country’s renewable 
+energy  resources.  The  National  Renewable  Energy  Action  Plan  (NREAP)  represents  the 
+Kingdom’s  efforts  to  deliver  the  sustainable  energy  transition  envisioned  in  the  Economic 
+Vision  2030  and  the  Government  Action  Plan  2015-2018.  This  Plan  also  represents  the 
+implementation  of  the  Kingdom’s  regional  and  international  commitments  under  the  Paris 
+Agreement,  the  United  Nations  Sustainable  Development  Goals,  and  the  League  of  Arab 
+States Renewable Energy Framework.
+The Plan identifies feasible renewable energy options for Bahrain, sets the targets, and proposes 
+policies and actions to harness the identified renewable energy opportunities. The NREAP has 
+been  prepared  by  the  Sustainable  Energy  Unit  (SEU)  through  broad  consultations  with  key 
+stakeholder  groups,  including  the  Electricity  and  Water  Authority,  the  National  Oil  and  Gas 
+Authority, the Ministry of Housing, the Ministry of Works, Urban Planning and Municipalities, 
+the Ministry of Industry, Commerce and Tourism, the Supreme Council for Environment, the 
+Economic Development Board, the Bahrain Defense Force, large industry groups, academia, 
+and others.
+13
+TARGETS 
+Based  on  a  broad  survey  of  Bahrain’s  resource  potential,  economic  viability  of  various 
+renewable  energy  technologies,  the  current  energy  situation,  and  the  country’s  unique 
+geographical conditions, the Plan sets a national renewable energy target of: 
+- 5% by 2025 
+- 10% by 2035 
+The targets are based on the projected peak load electricity capacities, excluding industry’s 
+own generation, and equate to 255 MW of installed capacity by 2025, and to 710 MW by 
+2035. The targets will be met by a proposed renewable energy mix consisting of solar, wind, 
+and waste to energy technologies.
+BENEFITS AND IMPACT
+Integrating  renewable  energy  in  the  energy  mix  can  help  Bahrain  optimize  the  use  of 
+indigenous  gas  resources,  reduce  greenhouse  gas  emissions,  make  the  economy  more 
+competitive, decrease electricity peak demand, and improve energy security in the long-
+term. Achieving the 5% renewable energy target will result in:
+- 
+Clean energy generation of approximately 480 GWh per year
+- 
+Annual savings of 5,700,000 MMbtu of natural gas
+- 
+Annual financial savings of BD 1.6 million 
+- 
+Reduction in greenhouse gas emissions by 392,000 tonnes of CO2 per year
+- 
+Attraction of more than BD 140 million of investment.
+14
+POLICIES TO ACHIEVE TARGETS
+To  achieve  the  stated  targets  and  attract  private  sector  investment  in  renewable  energy 
+technologies, the following complementary policies are proposed:
+Policy 1
+Policy 2
+Policy 3
+Renewable Energy 
+Mandate for New 
+Buildings
+Tender-based
+Feed-in Tariffs
+Net Metering
+Attract private 
+investors to develop 
+renewable energy 
+projects through 
+a competitive 
+procurement process
+Require new 
+buildings and real 
+estate developers to 
+integrate renewable 
+energy technologies in 
+the building design
+Enable consumers to 
+generate on-site, grid-
+connected, renewable 
+energy power 
+Objective
+Residential, 
+commercial and 
+industrial electricity 
+customers
+Renewable energy 
+developers and large 
+electricity customers
+New building and real 
+estate developers
+Target group
+Reduced electricity bill 
+through on-site power 
+generation and the 
+ability to credit the 
+excess electricity fed 
+back to the grid
+Reducing energy 
+demand of the 
+building from the grid 
+(reduced electricity 
+bill)
+Long-term power 
+purchase agreement
+Incentive for 
+target group
+The details of each policy will be outlined in relevant documents and regulations.
+15
+RENEWABLE ENERGY DEPLOYMENT STRATEGY AND PROJECTS
+In Bahrain, land is a scarce resource, as such the deployment strategy of renewable energy 
+focuses  on decentralized urban generation, large-scale generation on available land, and 
+offshore generation.
+I. DECENTRALIZED URBAN GENERATION (100-150 MW)
+Decentralized  renewable  energy  applications,  such  as  rooftop  solar  photovoltaic  (PV), 
+building  integrated  PV,  solar  lighting,  biogas  plants,  and  micro  wind  turbines,  can  be 
+successfully  integrated  in  the  urban  environment.  This  allows  not  only  transitioning  to  a 
+more  sustainable  energy  system,  but  also  engages  all  members  of  the  society,  including 
+households, businesses, academia, and governmental authorities in building smart, modern, 
+and resilient cities and communities. Viable opportunities for decentralized urban generation 
+include:
+- 
+Solar systems for new housing units
+- 
+Solar systems for government buildings
+-  Decentralized solar in urban developments (solar lighting, solar parking)
+-  Decentralized rooftop solar on existing residential and commercial buildings
+-  Other decentralized renewable energy systems (biogas, micro wind).
+II. LARGE-SCALE GENERATION ON AVAILABLE LAND (50-100 MW)
+Economies of scale favor the development of large-scale renewable energy power plants. 
+Therefore, it is prudent to consider the deployment of large-scale renewable energy where 
+land is available. Viable opportunities for large-scale generation on land include:
+- 
+Solar farm on Askar landfill site
+- 
+EWA renewable energy initiative (5 MW hybrid solar and wind project)
+-  Utility-scale renewable energy plants by large industry groups
+- 
+Solar farms in new town developments
+-  Waste to energy plant at the Tubli wastewater treatment plant
+- 
+Renewable energy plants on other available land. 
+16
+III. OFFSHORE GENERATION (50 MW)
+Offshore  renewable  energy  development  presents  an  opportunity  to  pursue  large-scale 
+generation and achieve higher renewable energy targets. Bahrain has a good wind regime 
+and shallow waters, therefore pursuing offshore wind power could be a cost-competitive 
+option. Other offshore renewable energy options include integrating renewable energy in 
+offshore large infrastructure projects connecting Bahrain and its GCC neighbors. This will not 
+only generate clean energy, but also strengthen the regional partnerships in building a more 
+sustainable future. Identified offshore generation opportunities include:
+-  Near shore or offshore wind farms
+- 
+Integrating renewable energy technologies in large infrastructure projects (causeways 
+and railway systems).
+GOVERNANCE
+I. SUSTAINABLE ENERGY UNIT
+The Sustainable Energy Unit (SEU) was established in November 2014 and is the designated 
+agency for promoting sustainable energy policies and practices in the Kingdom of Bahrain. 
+As  such,  the  SEU  will  lead  the  coordination  efforts  in  implementing  the  NREAP,  and  will 
+provide  technical  assistance  in  the  deployment  of  renewable  energy  projects.  The  SEU’s 
+responsibilities are to:
+-  Coordinate  implementation  activities  among  all  stakeholders  through  developing 
+partnerships and organizing regular coordination meetings;
+-  Inform stakeholders on the progress of implementation of the NREAP;
+-  Draft renewable energy policy regulations and support the establishment of standard 
+operating procedures for their implementation;
+-  Carry  out  feasibility  studies,  resource  potential  assessment,  cost-benefit  analysis  of 
+various technology options and business models, as well as oversee the implementation 
+of pilot projects;
+-  Provide technical assistance in developing tendering documents, drafting requests for 
+proposals, evaluating bids, and assessing outcomes of pilot projects;
+-  Carry  out  information  dissemination  and  awareness  raising  campaigns  through 
+launching  a  dedicated  website,  organizing  press  conferences,  promoting  renewable 
+energy at various public events;
+-  Organize and support capacity building and training activities for government and non-
+government stakeholders.
+17
+II. NREAP IMPLEMENTATION FOLLOW-UP COMMITTEE
+The Committee will be composed of high-level representatives of key government and non-
+government  institutions  who  would  play  the  role  of  change  agents  to  provide  guidance, 
+support  and  oversight  of  the  implementation  process  of  NREAP.  The  Committee  will  be 
+chaired  by  the  Minister  of  Electricity  and  Water  Affairs,  and  may  include  representatives 
+from the Electricity and Water Authority, the Ministry of Finance, the Office of the First Deputy 
+Prime Minister, the Ministry of Industry and Commerce, the Ministry of Housing, the Ministry 
+of Works, Urban Planning and Municipalities, the Ministry of Oil, and the Supreme Council for 
+Environment. The Committee will meet on a quarterly basis. The Committee’s responsibilities 
+are to:
+-  Oversee the implementation of the NREAP and facilitate its execution;
+-  Identify action items to overcome implementation issues and challenges;
+-  Put recommendations and suggest actions to relevant ministries;
+-  Decide on making changes in the NREAP if required;
+-  Discuss the progress in the implementation process.
+18
+1. BAHRAIN’S SUSTAINABLE ENERGY 
+AGENDA
+The Kingdom of Bahrain is committed to the development of sustainable energy envisioned 
+in  the  Economic  Vision  2030,  the  Government  Action  Plan  2015-2018,  and  as  a  party  to 
+regional and international agreements
+Figure 1: Bahrain’s National and International Commitments 
+International 
+League of Arab States, Arab Ministerial 
+Council for Electricity
+Paris Agreement
+Sustainable Development Goals 
+(SDGs)
+Bahrain committed to reduce 
+greenhouse gas emissions 
+through submission of its 
+Intended Nationally Determined 
+Contribution (INDC)
+“Each Arab State shall adopt a national 
+renewable energy action plan (NREAP). 
+ Each of the member states shall develop a 
+National Energy Efﬁciency
+Action Plan (NEEAP)”
+Goal No 7: 
+“Ensure access to affordable, 
+reliable, sustainable and 
+modern energy for all.” 
+Government Action Plan 
+(2015-2018)
+National Renewable Energy 
+Action Plan (2017)
+Economic Vision 2030
+“Protecting our natural environment 
+will include directing investments to 
+technologies that reduce carbon 
+emissions, minimize pollution and 
+promote the sourcing of more 
+sustainable energy” 
+“Improve the efﬁciency of 
+electricity and water consumption 
+and reduce waste.”
+“Find new sources of renewable 
+energy to meet the growing 
+demand in Bahrain” 
+Renewable Energy Targets: 5% by 
+2025 and 10 by 2035
+National
+1.1 INTERNATIONAL COMMITMENTS
+THE PARIS AGREEMENT
+In  December  2015,  the  21st  Conference  of  the  Parties  of  the  United  Nations  Framework 
+Convention on Climate Change took place in Paris. As a result, 195 nations adopted the Paris 
+Agreement on taking action toward holding the increase of global average temperature to 
+well below 2°C above pre-industrial levels. The Paris Agreement is a historic international 
+treaty  to  combat  climate  change,  and  accelerate  actions  and  investments  needed  for  a 
+sustainable low carbon future. On 22 April 2016 Bahrain signed the Paris Agreement, and 
+expressed its support through publication of its Intended Nationally Determined Contribution 
+(INDC) in November 2015 [1].
+The INDC is an official pledge by the Kingdom to support the global efforts in combating 
+climate  change,  by  taking  specific  actions  to  reduce  its  own  greenhouse  gas  emissions. 
+Renewable energy and energy efficiency represent key initiatives in Bahrain’s INDC, as both 
+hold great potential to reducing greenhouse gas emissions as well as promoting sustainable 
+national development. 
+19
+THE UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS
+In September 2015, at the United Nations Sustainable Development Summit, world leaders 
+officially  adopted  a  new  agenda  entitled  “Transforming  Our  World:  The  2030  Agenda  for 
+Sustainable Development.” The new global agenda includes 17 Sustainable Development 
+Goals (SDGs) and 169 targets. The SDGs represent a consensus of the 193 member states of 
+the United Nations to end poverty, protect the planet, and ensure the prosperity for all. SDG 
+7 calls the countries to “Ensure access to affordable, reliable, sustainable and modern energy 
+for all.” [2] This goal is supported by five targets to be achieved by 2030: 
+
+Ensure universal access to affordable, reliable and modern energy services
+
+Increase substantially the share of renewable energy in the global energy mix
+
+Double the global rate of improvement in energy efficiency
+
+Enhance  international  cooperation  to  facilitate  access  to  clean  energy  research 
+and technology, including renewable energy, energy efficiency and advanced and 
+cleaner fossil-fuel technology, and promote investment in energy infrastructure and 
+clean energy technology
+
+Expand infrastructure and upgrade technology for supplying modern and sustainable 
+energy  services  for  all  in  developing  countries,  in  particular  least  developed 
+countries, small island developing States, and land-locked developing countries, in 
+accordance with their respective programmes of support
+The  government  of  the  Kingdom  of  Bahrain  embraced  the  challenge  of  meeting  the 
+Millennium  Development  Goals  (MDGs)  by  2015,  and  expressed  its  commitment  to  the 
+Post-2015  development  agenda  process  at  the  press  conference  in  the  UN  Sustainable 
+Development Summit, held on 20 September 2015.
+LEAGUE OF ARAB STATES – ARAB RENEWABLE ENERGY FRAMEWORK
+In April 2013, the Arab Ministerial Council for Electricity of the League of Arab States adopted 
+the  “Arab  Renewable  Energy  Framework,”  which  seeks  to  promote  renewable  energy 
+development in the Arab region (Arab Guidelines). Article 2 of these Guidelines states that 
+“Each Arab State shall adopt a national renewable energy action plan (NREAP), setting out 
+Arab States’ national targets for the share of energy from renewable sources consumed in 
+electricity generation,...” [3] The NREAP is drafted in accordance with the template suggested 
+by the Arab Guidelines.
+20
+1.2   NATIONAL COMMITMENTS
+Pursuing renewable energy is not only an international commitment of Bahrain, but also of 
+national interest. Today the Kingdom’s power generation system exclusively relies on natural 
+gas, which is a scarce and diminishing resource. Current projections on the availability of 
+gas reserves suggest that Bahrain will no longer be able to meet its domestic consumption, 
+and will have to rely on imported gas as early as 2018. An increased reliance on imported 
+energy is highly likely to increase energy prices for consumers. Renewable energy is a clean, 
+non-exhaustible, and local source of energy, an important component for building a reliable, 
+resilient, and sustainable energy system. Integrating renewable energy in the energy mix 
+can  help  Bahrain  optimize  its  use  of  indigenous  gas  resources,  make  the  economy  more 
+competitive, and improve energy security in the long-term.
+The development of sustainable energy is in line with the Kingdom’s Economic Vision 2030. 
+The Economic Vision 2030 recognizes economic, social and environmental sustainability as 
+one of its key principles. It indicates explicitly that the economic growth must never come at 
+the expense of the environment and the long-term well-being of the people. Furthermore, 
+it encourages investment in technologies that reduce carbon emissions, minimize pollution, 
+and promote sustainable energy [4].
+In clear recognition of the benefits of renewable energy, the Kingdom of Bahrain is committed 
+to the development of low-carbon energy initiatives by harnessing the country’s renewable 
+energy resource base. In 2015, the Government adopted the Government Action Plan 2015-
+2018 to deliver sustainable change in line with the Economic Vision 2030. The Government 
+Action Plan reflects the Government of Bahrain’s strategic priorities over the next four years, 
+and seeks to capitalize on the Kingdom’s resources and capabilities to meet the needs of 
+all  Bahrainis.  Under  the  “Environment  and  Urban  Development”  pillar,  the  Government 
+made commitments to finding suitable sources of renewable energy to meet the growing 
+energy demand in Bahrain. To achieve this, the Government will seek to explore the optimal 
+renewable energy options such as wind and solar energy, and will take necessary steps to 
+implement pilot projects to pave the way for larger-scale deployment [5].
+21
+1.3 THE SUSTAINABLE ENERGY UNIT
+In  November  2014,  under  Cabinet  Resolution  4/2238,  the  government  established  the 
+Sustainable Energy Unit (SEU) to lead and promote sustainable energy policies and practices 
+in  the  Kingdom  of  Bahrain.  SEU  was  established  under  the  office  of  Minister  of  Energy, 
+with the support of the United Nations Development Programme (UNDP) [6]. Due to the 
+broad central government restructuring in summer 2016, SEU became one of the initiatives 
+governed by the Office of the Minister of Electricity and Water Affairs. 
+The key objectives of SEU are to develop a cohesive sustainable energy policy framework to 
+promote renewable energy, energy efficiency, and conservation in the country. SEU will also 
+work towards bridging the legal, institutional, and capacity gaps in order for Bahrain’s energy 
+sector to meet future challenges.
+The mandate of SEU includes: 
+- 
+Synergizing  and  consolidating  existing  efforts  of  public,  private  and  international 
+institutions in achieving goals as stated in the Bahrain Economic Vision 2030; 
+- 
+Supporting the creation of an enabling environment for energy efficiency and renewable 
+energy technology transfer, and private sector investments;
+- 
+Supporting  the  development  of  necessary  policies,  regulations  and  standards  across 
+various sectors;
+- 
+Promoting replication and up-scaling of successful pilot project and initiatives across the 
+Kingdom;
+- 
+Strengthening  national  capacity  on  deployment  of  renewable  energy  and  energy 
+efficiency technologies;
+- 
+Coordinating  the  implementation  of  national,  regional  and  international  obligations 
+related to energy efficiency and renewable energy; and 
+- 
+Raising public awareness on the benefits of energy efficiency and renewable energy. 
+The NREAP represents one of the key components of the Kingdom’s efforts to implement 
+its  national,  regional  and  international  commitments  in  the  field  of  sustainable  energy 
+development  and  climate  change.  It  identifies  the  viable  renewable  energy  options,  sets 
+the targets, and proposes policies and actions to harness the identified renewable energy 
+opportunities. SEU under the guidance of the Minister of Electricity and Water Affairs will lead 
+the coordination of the implementation of the Plan.
+22
+2. BAHRAIN ENERGY OUTOUTLOOK
+2.1 OIL AND GAS
+In  2014,  Bahrain’s  total  energy  consumption  came  from  two  sources:  oil  (17%)  and 
+natural gas (83%). To meet its domestic energy demand Bahrain relies on its indigenous 
+hydrocarbon resources. Bahrain was the first country in the GCC region to discover oil reserves 
+in 1932. Crude oil production reached its peak in 1970, and since then it has been gradually 
+declining. In 2014, crude oil production amounted to  202,000 barrels a day. Bahrain’s crude 
+oil production came from two fields: the Bahrain field with a production of around 49,000 
+barrels a day and the Abu Saafa joint offshore field with Saudi Arabia, with a production 
+of around 154,000 barrels a day [7]. At current production levels, the oil reserves have a 
+projected lifetime of about 11 years.
+Natural  gas  is  the  backbone  of  the  energy  system  and  economy  of  Bahrain.  Today 
+Bahrain  entirely  relies  on  natural  gas  for  its  power  and  water  generation.  Natural  gas  is 
+also economically critical for operation of the Kingdom’s industrial sector. In 2014, Bahrain 
+produced 728 billion cubic feet of natural gas [7]. All natural gas has been used for domestic 
+consumption in the following sectors: 41% by the manufacturing sector; 33% for power and 
+water  generation;  and  25%  was  re-injected  for  enhanced  oil  recovery  [8].  The  projected 
+lifetime of natural gas reserves is about 15 years.
+In  2014,  the  manufacturing  sector  was  the  third  most  important  sector  in  the  economy, 
+accounting  for  15%  of  the  Kingdom’s  GDP,  after  oil  and  gas  (23%)  and  financial  services 
+(15.5%) [9]. It also provided for 18% of all private sector employment [8]. The Economic 
+Development Board reinforces the fact that it is economically more advantageous to save 
+the natural gas for consumption by the more productive sectors of the economy, such as 
+manufacturing, and find alternative cost-competitive energy sources for power and water 
+generation [8]. 
+Figure 2 depicts historical energy supply and demand trends in Bahrain. It shows that the 
+overall levels of energy production and consumption have increased year on year. As the 
+population continues to grow, and the limited amount of fossil fuels begins to diminish, it 
+may  not  be  possible  for  Bahrain  to  meet  its  growing  energy  demand  without  relying  on 
+imported energy. Bahrain is already planning to import natural gas as early as 2018, and the 
+steps are underway to complete the construction of an LNG import facility by 2018.
+23
+ Figure 2: Energy Supply and Demand Trends
+2.2 ELECTRICITY AND WATER
+2.2.1 
+ELECTRICITY SUPPLY AND DEMAND
+(Mtoe)
+(millions)
+With  the  adoption  of  the  Electricity  Law  in  1996,  the  private  sector  has  been  allowed 
+16
+14
+12
+10
+8
+6
+4
+2
+0
+-2
+1.8
+1.6
+1.4
+1.2
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+to  participate  in  the  power  generation  market  [10].  Today  Bahrain  has  one  of  the  most 
+privatized  power  generation  markets  in  the  region.  Independent  power  producers  (IPPs) 
+generate 80% of grid-supplied electricity.
+In 2014, the Kingdom had 6,204 MW of installed capacity. Of this 2,274 MW were captive 
+power plants, owned and operated by large industry groups such as Alba, BAPCO and GPIC. 
+Independent power and water producers (IWPPs) own and operat
+e 3,100 MW, and 825 MW are owned and operated by Electricity and Water Authority (EWA). 
+In  addition,  Bahrain  can  import  and  export  electricity  through  its  600  MW  capacity  GCC 
+Energy Production
+Energy Consumption
+Export
+Population
+interconnection  with  the  GCCIA  (the  GCC  Interconnection  Authority).  Power  produced  by 
+captive power plants is consumed on site by large industry groups. Power produced by IWPPs 
+and EWA is distributed and sold to customers by EWA. EWA is the sole body responsible for 
+An increased reliance on imported energy is highly likely to result in an increase of energy 
+electricity transmission, distribution, and grid operation. 
+prices for consumers. In anticipation of the diminishing gas supply, the government adopted 
+a new gas pricing policy in 2015. Under this policy, the price of natural gas sold to domestic 
+companies will increase by USD 0.25 per MMbtu1 each year on 1 April. The pricing policy will 
+be reviewed when the price reaches USD 4 per MMbtu2 by 1 April 2021 [8]. The first price 
+increase took place on 1 April 2015, from USD 2.25 to 2.50 per MMbtu. 
+Figure 3: Bahrain Power Supply, 2014
+Introducing renewable energy into the energy mix and adopting energy efficiency policies, 
+can help Bahrain reduce its reliance on imported energy, prolong the lifetime of the indigenous 
+natural gas resource, and optimize its economic value. This approach will improve energy 
+security in the long-term and will have an overall positive impact on competitiveness of the 
+IPP, 80%
+Power Supplied by
+Industrial Own 
+manufacturing industry and environmental performance of the energy sector.
+EWA to Other
+Generation, 34%
+Customers 66%
+EWA, 20%
+1  Equivalent to BD 0.0942 per MMbtu 
+2  Equivalent to BD 1.508per MMbtu
+24
+2.2 ELECTRICITY AND WATER
+2.2.1 
+ELECTRICITY SUPPLY AND DEMAND
+With  the  adoption  of  the  Electricity  Law  in  1996,  the  private  sector  has  been  allowed 
+to  participate  in  the  power  generation  market  [10].  Today  Bahrain  has  one  of  the  most 
+privatized  power  generation  markets  in  the  region.  Independent  power  producers  (IPPs) 
+generate 80% of grid-supplied electricity.
+In 2014, the Kingdom had 6,204 MW of installed capacity. Of this 2,274 MW were captive 
+power plants, owned and operated by large industry groups such as Alba, BAPCO and GPIC. 
+Independent power and water producers (IWPPs) own and operat
+e 3,100 MW, and 825 MW are owned and operated by Electricity and Water Authority (EWA). 
+In  addition,  Bahrain  can  import  and  export  electricity  through  its  600  MW  capacity  GCC 
+interconnection  with  the  GCCIA  (the  GCC  Interconnection  Authority).  Power  produced  by 
+captive power plants is consumed on site by large industry groups. Power produced by IWPPs 
+and EWA is distributed and sold to customers by EWA. EWA is the sole body responsible for 
+electricity transmission, distribution, and grid operation. 
+Figure 3: Bahrain Power Supply, 2014
+IPP, 80%
+Power Supplied by
+EWA to Other
+Customers 66%
+Industrial Own 
+Generation, 34%
+EWA, 20%
+25
+In 2014, the Kingdom consumed 24,705 GWh. Grid electricity supplied by EWA accounted 
+for 15,186 GWh, or 66% of total electricity consumption. The remaining 34% was generated 
+and consumed by large industrial users. All the electricity was produced from natural gas. 
+The residential sector used most of the grid electricity, at 46% of total grid consumption. 
+Grid electricity consumption grew from 5,516 GWh in 2000 to 15,186 GWh in 2014, with an 
+annual average growth rate of 7.5%. The commercial sector was the second-largest user, 
+accounting for 36.4%, followed by the industrial sector, at 17.3%. The agricultural sector was 
+a marginal user at 0.3% [11]. 
+Similar  to  other  GCC  countries,  Bahrain  has  a  large  seasonal  variation  in  electricity 
+consumption.  Due  to  very  hot  summers,  electricity  consumption  during  the  months  from 
+May to October increases significantly. This is mainly due to the heavy use of air-conditioning 
+units,  which  account  for  60%-65%  of  electricity  usage  in  buildings.  In  2014,  the  highest 
+peak  electricity  consumption  occurred  in  August  (1,720  GWh)  and  the  lowest  electricity 
+consumption occurred in January (701 GWh). Total electricity consumption in August was two 
+and a half times higher than electricity consumption in January. 
+Figure 4: Electricity Monthly Consumption, 2014
+1900
+1700
+1500
+h
+W
+G
+1300
+1100
+900
+700
+500
+Total
+26
+ Figure 5: Electricity Monthly Consumption by Sector, 2014
+1000
+900
+800
+700
+600
+h
+W
+G
+500
+400
+300
+200
+100
+0
+Residential 
+Commercial 
+Industry 
+Agriculture
+Aside  from  seasonal  peaks,  Bahrain  also  has  daily  electricity  consumption  peaks.  Bahrain 
+has  two  daily  peaks:  the  first  peak  occurring  between  11:00  and  16:00,  and  the  second 
+occurring between 18:00 and 19:00. Table 1 shows peak consumption on a typical summer 
+day (31 August 2015), compared with electricity consumption during a typical winter day 
+(31 January 2015).
+Table 1: Electricity Peak demand
+Day Peak
+Night Peak
+Time
+MW
+Time
+MW
+13:39
+3,441
+18:36
+3,189
+31 August 2015
+12:03
+1,137
+18:09
+1,208
+31 January 2015
+Source:.EWA
+To meet peak demand the government needs to have extra generation capacity units, which 
+is costly. According to the World Bank analysis of the demand curve recorded in 2014, the 
+network  required  an  additional  500  MW,  which  operates  for  less  than  50  hours  a  year. 
+The estimated cost for the government to maintain 500 MW over a 20-year period is over 
+USD 600 million3. This amount excludes the fuel costs of producing electricity, and variable 
+operation and maintenance costs [11]. The inclusion of solar PV power in the energy supply 
+mix  can  provide  a  valuable  benefit  by  reducing  the  daytime  peak,  as  the  solar  radiation 
+hours correlate with day peaking hours.
+3  Equivalent to BD 226 million
+27
+Figure 6: Summer Day Electricity Demand 
+          
+Source:.EWA
+Figure 7: Winter Day Electricity Demand 
+    
+Source:.EWA
+28
+2.2.2 
+COST OF POWER GENERATION
+As the power in Bahrain is entirely produced from natural gas, the cost of power generation 
+largely  depends  on  the  fuel  price.  The  current  cost  of  power  generation  is  22  fils/kWh. 
+The electricity transmission cost is 3.3 fils/kWh, and the distribution cost is 3.7 fils/kWh. In 
+total, it costs 29 fils/kWh for EWA to supply power to end customers. This cost is based on 
+a natural gas price of USD 2.5 per MMbtu. As the cost of natural gas will increase by USD 
+0.254 per year, the cost of electricity supply will also increase. According to unofficial expert 
+estimations, the cost of electricity supply (including transmission and distribution costs) from 
+natural gas could increase to 36 fils/kWh by 2020, based on the planned gas price increases 
+(see Figure 8). 
+Figure 8: Estimated Future Electricity Cost
+39
+37
+35
+h
+W
+k
+/
+s
+l
+i
+F
+33
+31
+29
+27
+25
+Historically natural gas has been the most cost effective way to provide the country with 
+electricity. However, from an economic and financial perspective, planned gas price increases 
+make renewable energy, such as solar and wind power, a cost-competitive alternative source 
+of energy, in the electricity generation mix. 
+Up until recently electricity and water tariffs were subsidized. Effective from 1 March 2016, 
+new electricity and water tariffs have been applied to electricity and water consumers in 
+accordance with the new tariff schedule announced by the Electricity and Water Authority. 
+The electricity tariffs will be gradually increased to meet the cost of power generation of 29 
+fils/kWh by 2019. The new tariffs are applicable to all residential, commercial, and industrial 
+consumers. Bahraini citizens holding a single EWA account are exempt from tariff increases 
+[12].
+4  Equivalent to BD 0.0942 per MMbtu 
+29
+Figure 9: Electricity and Water Tariff Increases
+Electricity Tariffs (Fils/ kWh)
+Domestic Residential Tariff 
+N o w
+(kWh/month)
+3
+9
+16
+Water Tariffs (Fils/ m3)
+Domestic Residential Tariff 
+(m3/month)
+N o w
+2016
+2019
+2018
+80 200 450 750
+25
+80 200 300 500 750
+200 300 400 600 750
+2016
+6
+13
+19
+2017
+13
+18
+22
+2018
+21
+23
+25
+2019
+29
+29
+29
+2017
+From 1 - 3000
+From 3001 - 5000
+More than 5000
+From 1 - 60
+From 61 - 100
+More than 100
+Non- Domestic Tariff 
+(kWh/month)
+Non- Domestic Tariff  
+(m3/month)
+From 1 - 5000
+From 5001 -250000
+From 250001 -500000
+More than 500000
+16
+16
+16
+16
+16
+19
+21
+29
+16
+22
+23
+29
+16
+25
+26
+29
+16
+29
+29
+29
+From 1 - 450
+More than 450
+300 400 550 650 750
+400 500 600 700 750
+* Electricity and water tariff increases do not apply to Bahraini nationals holding a single EWA account
+2.2.3 
+SHARE OF RENEWABLE ENERGY
+According to the League of Arab States Arab Renewable Energy Framework, countries need 
+to present a unified energy baseline based on 2010 in terms of energy generation from all 
+sources, both renewable and non-renewable. The energy baseline for 2010 and 2014 are 
+presented in Table 2 below. 
+Currently the share of renewable energy in the electricity generation mix is negligible. In 
+2014,  two  pilot  renewable  energy  projects  were  in  place:  a  0.5  MW  building-integrated 
+wind project at the Bahrain World Trade Center; and a 5 MW solar PV system installed by 
+BAPCO. The BAPCO 5 MW PV plant is a distributed smart solar PV system deployed in three 
+locations: (1) 501 kW at the campus of Bahrain University; (2) 2.7 MW on the BAPCO refinery 
+car parking lot; and (3) 1.8 MW at Awali town. The BAPCO PV plant was installed as a pilot 
+project to test and demonstrate the technical viability of the project [13]. 
+30
+Table 2: Baseline Definition for 2010 and 2014
+2010
+2014
+Installed 
+Capcity
+Generated 
+Electricity
+Installed 
+Capcity
+Generated 
+Electricity
+MW
+GWh
+MW
+GWh
+3,157
+3,157
+0
+2,274
+2,274
+0
+5,431
+12,142
+12,142
+0
+14,000
+14,000
+0
+26,142
+3,925
+3,925
+0
+2,279
+2,274
+5
+6,204
+15,186
+15,186
+0
+14,008
+14,000
+8
+29,194
+EWA supplied electricity
+Natural gas
+Renewable sources
+Industry's own generation
+Natural gas
+Renewable sources
+TOTAL
+Source: EWA Electricity Statistics (2014)
+The utilization of renewable energy in the rest of the Arab world is comparatively higher. 
+Table  3  presents  an  overview  of  non-hydro  renewable  energy  installed  capacities,  and 
+renewable energy projects under construction in other Arab countries in 2014. In the past 
+two years, these countries have progressed and more renewable energy projects have been 
+installed.  The  deployment  of  wind  power  was  leading  in  earlier  years  in  countries  with 
+favorable wind regimes. However, the trend is moving towards more solar PV installations 
+as the prices have decreased, as evidenced by the number of projects under construction in 
+each country [14].
+Table 3: Renewable Energy Installed Capacities in Selected Arab Countries, 2014
+Solar (MW)
+Wind (MW)
+Under 
+Construction
+Under 
+Construction
+Installed
+Installed
+TOTAL
+TOTAL
+32
+343
+375
+10
+0
+10
+Algeria
+35
+38
+73
+610
+600
+1210
+Egypt
+13.6
+249
+263
+1.45
+183
+184
+Jordan
+1.8
+60
+62
+0
+10
+10
+Kuwait
+35
+160
+195
+750
+370
+1120
+Morocco
+19
+65
+84
+0
+0
+Saudi Arabia
+0
+20
+10
+30
+245
+0
+245
+Tunisia
+133
+200
+333
+0
+0
+0
+UAE
+Source: Arab Future Energy Index, 2015
+31
+2.3 PROJECTED ENERGY DEMAND 
+Currently  Bahrain  has  1.3  million  people,  of  which  48%  are  Bahraini  nationals  [15]. 
+According  to  projections  from  the  Central  Information  Organization,  the  population  of 
+Bahrain  is  expected  to  reach  1,850,000  by  2020  and  2,130,000  by  2030.  In  addition  to 
+population  growth,  Bahrain’s  industrial  sector  is  projected  to  expand.  One  of  the  largest 
+industrial expansion projects includes ‘Line 6 Expansion Project’ of Alba, one of the world’s 
+largest aluminum smelting companies. With the construction of the Line 6 Expansion Project, 
+Alba’s gas consumption is projected to increase. Other major industrial expansion projects 
+include  BAPCO’s  Modernization  Program,  the  Bahrain  Gas  Plant  Project,  and  others.  The 
+development of mega infrastructure projects such as the regional GCC high-speed rail link 
+and  a  new  causeway  between  Bahrain  and  Saudi  Arabia,  will  have  a  significant  impact 
+on  improving  transportation  logistics.  These  projects  are  expected  to  further  increase  the 
+operations of industrial sector. 
+With the current projections of population growth, economic development, and expansion 
+of industries, the demand for energy will increase. EWA has projected electricity demand for 
+2020 and 2030 under three growth scenarios starting from 2013: low, medium, and high, 
+depicted in Figure 10. According to these projections under the low growth scenario power 
+demand  in  2030  of  grid-supplied  electricity  will  reach  21,700  GWh,  under  the  medium 
+growth scenario power demand in 2030 will nearly double reaching 28,180 GWh, and under 
+the high scenario power demand will reach 34,550 GWh.
+Figure 10: Projected Electricity Consumption Demand 
+40000
+35000
+h
+W
+G
+n
+30000
+	
+i
+s
+e
+a
+S
+y
+t
+i
+c
+i
+r
+t
+c
+e
+l
+E
+	
+25000
+l
+20000
+	
+15000
+10000
+5000
+0
+High
+Medium	(Base)
+Low
+Source: EWA
+32
+Figure 11 provides a forecast of natural gas consumption for the power generation process. 
+Gas demand for power generation is expected to increase from a daily consumption of 654 
+million cubic feet (Mmcf) of natural gas in 2014, to 800 Mmcf in 2025 and to 909 Mmcf in 
+2030. 
+Figure 11: Gas Consumption Forecast for Electricity Production
+950
+F
+C
+M
+M
+y
+l
+i
+900
+850
+	
+800
+a
+D
+e
+g
+a
+r
+e
+v
+A
+750
+	
+700
+650
+	
+l
+a
+u
+n
+n
+A
+600
+550
+500
+Medium	(Base)
+Source: EWA
+33
+3. RENEWABLE ENERGY OPPORTUNITIES 
+In the last two decades a variety of clean energy technologies have been deployed. Solar and 
+wind technologies have witnessed major advancements, becoming financially competitive 
+alternatives  to  energy  generated  from  fossil  fuel.  As  Bahrain  is  blessed  with  renewable 
+energy resources, an overview of opportunities has been conducted in consultations with 
+key stakeholders. The overview focused on resource potential, high-level economic viability5, 
+and technology specific benefits and challenges. The main technologies considered include 
+solar, wind, and waste to energy.
+3.1 SOLAR 
+3.1.1 
+RESOURCE POTENTIAL
+Similar to its GCC neighbors, Bahrain enjoys relatively strong solar resource potential. Global 
+horizontal irradiance is around 2,120 kWh/m2 and the estimated annual PV generation is 
+around  1,600-1,700  kWh/kWp/year,  as  shown  in  Figure  12.  According  to  measurements 
+taken at the PV plant installed at the Bahrain University campus, the average solar radiation 
+was around 5.18 kWh/m2/day, with an average sunshine duration of 9.2 hours [13].
+Figure 12: Solar Radiation in Bahrain
+GHI	=	2120	KWh/m2	
+PV=	1745	KWh/Kw	
+KWh/m2	
+Source: PVOUT map © 2017 Solargis
+5 The levelized cost of electricity (LCOE) is used in establishing the economic viability of renewable energy tech-
+nology options. LCOE takes into account all costs during the lifetime of the project including upfront capital costs, 
+operation and maintenance and other costs. 
+34
+3.1.2 
+SOLAR TECHNOLOGIES
+There  are  three  primary  technologies  that  convert  solar  energy  into  useful  energy: 
+photovoltaic  (PV),  which  directly  converts  solar  light  into  electricity;  concentrating  solar 
+power (CSP) which uses concentrated sunlight and converts it to heat to drive conventional 
+power generation turbines; and solar heating and cooling systems which collect solar thermal 
+energy to provide hot water and air conditioning. This section presents an overview of these 
+technologies, including specific advantages and disadvantages. 
+SOLAR PHOTOVOLTAIC (PV)
+Photovoltaic (PV) cells convert sunlight directly into electricity. A solar panel is comprised of 
+many PV cells. A wide range of PV cell technologies are available on the market today. The 
+most commonly used PV cells in the market are crystalline silicon (c-Si) and thin films PV 
+cells. According to the Fraunhofer Institute for Solar Energy global PV production in 2015 was 
+dominated by multi-crystalline silicon (69%), followed by mono-crystalline silicon (24%), 
+and thin film (6%) [16]. There is a lot of literature describing differences, advantages and 
+disadvantages of each PV technology. In general, crystalline silicon cells are more efficient 
+(13-19%), more space efficient, but more expensive to produce. They are also rigid and must 
+be mounted in a rigid frame to protect them. Thin films are less efficient (7-13%), have lower 
+space-efficiency, and are less expensive to manufacture. They can be made flexible, which 
+allows them to be used in multiple applications [17, 18, 19].
+A  solar  PV  system  comprises  of  different  components  including  solar  panels,  inverters, 
+metering system, and interface protection. There are two main types of PV systems: grid-
+connected and stand-alone off-grid systems. A grid-connected PV system can be used to 
+feed on-site consumption and the surplus can be delivered to the electricity grid. Off-grid PV 
+systems require batteries and are thus more expensive. Off-grid solutions are usually better 
+for remote areas, or loads, which are not connected to the electricity network.
+Solar PV presents two advantages that are important in the context of Bahrain. First, the 
+modular nature of solar PV makes it well suited for small-scale decentralized applications. 
+Decentralized renewable energy generation refers to power production close to the point 
+of consumption, such as rooftop PV. Unlike any other electricity technology, solar PV can be 
+deployed economically at virtually any scale. A residential solar PV system depending on 
+the efficiency of the panels on average requires 5-10 m2/kWp, which can be deployed on 
+roofs, parking lots and other spaces. Having limited land resources to accommodate large-
+scale renewable energy projects, distributed solar PV generation at the level of households, 
+commercial and government buildings can play an important role in Bahrain’s energy mix. 
+35
+Second, solar PV has experienced the most rapid technology advances and cost reductions 
+of any renewable technology in use today. Solar PV prices have declined by 75-80% since 
+2006,  making  solar  PV  an  attractive  and  cost-competitive  source  of  power  generation.  In 
+Germany, the cost of power from utility-scale PV plants fell from over 40 EUR cent/kWh6 
+in 2005, to 9 EUR cent/kWh7 in 2014 [20]. In early 2015, the Dubai Electricity and Water 
+Authority (DEWA) awarded a 200 MW utility-scale PV plant contract at the price of 5.84 US 
+cents/kWh8. One year later, DEWA received an even lower bid of 2.99 US cents/kWh9 for 
+the development of 800 MW PV project, which made major news headlines as the world’s 
+cheapest solar PV price [21].
+ Solar PV has an average lifespan of 20-25 years and its efficiency degrades at the rate of 
+0.5 to 1% per year. Recent data indicates that the upfront capital investment requirement is 
+around USD 1,100/kWp10 for PV projects above 1 MW and about USD 1,400/kWp11 for small-
+scale  PV.12  Impressive  progress  has  also  been  achieved  in  lowering  the  cost  of  inverters. 
+Prices for inverters declined from 1 EUR/Wp13 in 1990, to almost 0.10 EUR/Wp14 in 2014, 
+while efficiency and power density have increased significantly.
+The  following  chart  illustrates  current  and  future  projected  levelized  cost  of  electricity  for 
+utility-scale PV projects (larger than 1 MW) in Bahrain with three different discount rates. 
+The estimations were calculated using the model prepared by the leading German think tank 
+institution Agora Energiewende [22]. In 2015, the LCOE for utility-scale PV ranged from 6.7 
+to 7.9 USD cents/kWh15 (based on a discount rate of 7.5%). This is comparable to PV prices 
+tendered in neighboring Arab countries.16 The LCOE is expected to continue to decrease due 
+to the decline in the cost of PV panels, inverters, installation, and financing.  
+6  Equivalent to 171 fils/kWh 
+7  Equivalent to 39 fils/kWh 
+8  Equivalent to 22 fils/kWh 
+9  Equivalent to 11 fils/kWh 
+10  Equivalent to BD 415/kW
+11  Equivalent to BD 528/kW 
+12  Based on information received from solar PV installers in Jordan and Bahrain
+13  Equivalent to 429 fils/Wp 
+14  Equivalent to 43 fils/Wp 
+15  Equivalent to 25 – 30 fils/kWh 
+16  In 2015, the four lowest prices received for the 50 MW scale solar PV projects during the second round of the 
+direct proposal submission process in Jordan were 6.1, 6.5, 6.9 and 7.7 US cents/kWh. In 2015, DEWA concluded 
+a power purchase agreement with a private developer for a 200 MW solar PV plant at a price of 5.85 US cents/
+kWh.
+36
+Figure 13: Estimated LCOE for Solar PV above 1 MW
+12
+Full	load	hours:	1600	 - 1700	 kWh/kWp/	year
+Cost	of	Capital	(WACC):	between	5%	and	10%
+10
+h
+W
+k
+/
+s
+t
+n
+e
+C
+D
+S
+U
+8
+	
+6
+	
+4
+2
+2035
+2015
+2025
+0
+2015
+7.5%
+2025
+7.5%
+2035
+7.5%
+Year
+WACC
+5%
+10%
+5%
+10%
+5%
+10%
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+5.6
+6.5
+6.7
+7.9
+7.9
+9.4
+4.1
+5.2
+4.9
+6.3
+5.8
+7.5
+3.0
+4.5
+3.6
+5.5
+4.2
+6.5
+The trend of declining PV prices has also been experienced for small-scale residential PV 
+systems.  In  Germany,  the  end  customer  price  paid  for  10-100  kWp  PV  systems  fell  from 
+5,000 EUR/kWp17 in 2006, to 1,300 EUR/kWp18 in 2015 [20]. The following chart presents 
+LCOE calculations for small-scale PV projects in Bahrain. 
+Figure 14: Estimated LCOE for Solar PV less than 1 MW
+12
+Full load hours: 1600  - 1700  kWh/kWp/ year
+Cost of Capital (WACC): between 5% and 10%
+10
+h
+W
+k
+/
+s
+t
+n
+e
+C
+D
+S
+U
+8
+ 
+6
+ 
+4
+2
+2035
+2015
+2025
+0
+2015
+7.5%
+2025
+7.5%
+2035
+7.5%
+Year
+WACC
+5%
+10%
+5%
+10%
+5%
+10%
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+Min
+Max
+7.0
+7.9
+8.5
+9.7 10.1 11.5 4.1
+5.2
+4.9
+6.3
+5.8
+7.5
+3.0
+4.5
+3.6
+5.5
+4.2
+6.5
+17  Equivalent to 2,140 BD/kWp 
+18  Equivalent to 557 BD/kWp 
+37
+Utility-scale  PV  plants  can  be  25%  more  cost-competitive  compared  to  decentralized 
+small-scale  PV  plants.  However,  utility-scale  PV  plants  require  large  land  areas,19  which 
+is  a  challenging  requirement  in  the  Bahraini  context,  as  the  country  is  limited  in  its  land 
+availability. 
+Taking into account the above factors, Bahrain will focus on promoting decentralized small-
+scale PV applications, unless available land is identified for the deployment of utility-scale 
+PV plants.
+BUILDING INTEGRATED PHOTOVOLTAIC
+Building integrated photovoltaic (BIPV) can be a particularly interesting option for Bahrain 
+as  it  requires  little  or  no  land  space.  BIPV  refers  to  the  solar  photovoltaic  materials  that 
+become part of the building elements such as roofs, skylights, windows, shading systems or 
+façade. In other words, BIPV serves both as a building element and as a means of electricity 
+production. In addition, BIPV can add to the architectural appeal of a building. By substituting 
+BIPV for standard materials during the initial construction, building developers can reduce the 
+incremental costs of PV systems and eliminate costs and design issues for separate mounted 
+systems. 
+A recent survey of BIPV projects in Europe, by the University of Applied Sciences and Arts of 
+Southern Switzerland, found key essential facts about BIPV [23]: 
+- 
+The  European  market  is  supported  by  approximately  200  commercially  available 
+BIPV products
+-  When integrating PV in the roof of the building the cost of the roof increased on 
+average by EUR20 200/m2 
+-  When integrating PV in the façade of the building, the cost was very similar to the 
+costs of the conventional façade material (stone or glass). 
+- 
+The  BIPV  market  is  expected  to  experience  significant  growth  in  the  near  future 
+due  to  the  adoption  of  European  Directive  2010/31/EU,  which  requires  all  new 
+buildings from 2020 and onwards to be made ‘nearly zero-energy’ buildings. Zero-
+energy building refers to the building with zero net energy consumption. In other 
+words, the total annual energy consumption of the building should be roughly equal 
+to the energy produced on-site usually from renewable sources. BIPV products will 
+play an essential role in meeting this requirement. 
+19  Depending on the efficiency of PV panels, land requirements for a 1 MW crystalline ground mounted PV plant 
+are around 16,000 m2. 
+20  Equivalent to BD 86 m2 
+38
+Based on these findings, it is more economic to promote BIPV in new buildings and new real 
+estate development projects in Bahrain, as PV can be integrated into the overall building 
+design, minimizing the impact on the overall cost of construction. 
+CONCENTRATING SOLAR POWER 
+Concentrating solar power (CSP) systems generate electricity by using mirrors or lenses to 
+concentrate  a  large  area  of  sunlight  onto  a  small  area.  Electricity  is  generated  when  the 
+concentrated light is converted to heat, which drives a heat engine (usually a steam turbine) 
+connected to an electrical power generator. One advantage of CSP over solar PV, is that CSP 
+plants can integrate low-cost thermal energy storage, which allows them to meet power 
+needs  several  hours  after  sunset.  However,  CSP  plants  have  three  major  disadvantages, 
+which makes this technology a less suitable option for Bahrain: 
+- 
+CSP  plants  have  high  upfront  capital  requirements  compared  to  solar  PV.  Unlike 
+PV, CSP has not experienced a sharp decline in technology costs. Investment costs 
+for  CSP  plants  (without  storage)  range  between  USD  4,600  and  8,000/kW21  in 
+OECD countries, and in non-OECD countries range between USD 3,500 and 7,300/
+kW22 [24].  These  prices  are  reported  for  parabolic  trough  collectors,  which  is  the 
+dominant technology used in CSP plants today (85% of all CSP projects installed 
+globally are parabolic trough collectors). The operation and maintenance costs are 
+estimated to be in the range of USD 0.02 to USD 0.04/kWh23 [24].
+- 
+Similar  to  utility-scale  PV  plants,  CSP  plants  require  large  land  areas.  According 
+to the US Solar Energy Industries Association, a typical CSP plant requires 2 to 4 
+hectares of land per MW of installed capacity. Although CSP plants can be built in 
+smaller sizes, a CSP plant operates most efficiently, and most cost-effectively, when 
+built in capacities of 100 MW and higher [25].
+- 
+CSP plants require water for cooling. CSP plants are often designed to use cooling 
+water at the back-end of the thermal cycle. A typical 50 MW parabolic trough plant 
+uses 0.4-0.5 million m3 of water per year for cooling [26]. Water is also used for 
+cleaning the mirrors to maintain their high reflectivity. Meeting these requirements 
+for water might be challenging in Bahrain, given that most of the fresh water in 
+Bahrain comes through an energy intensive process of desalination.  
+Taking into account the above factors, Bahrain is unlikely to consider pursuing the deployment 
+of CSP technologies at this stage.
+21  Equivalent to BD 1,735 – 3,018/kW 
+22  Equivalent to BD 1,320 – 2,753/kW 
+23  Equivalent to 7.5 – 15 fils/kWh 
+39
+3.2 WIND
+3.2.1 
+RESOURCE POTENTIAL
+A possible option for deployment of large-scale renewable energy plants in Bahrain is to 
+pursue onshore and offshore wind power generation. Wind turbines harness the energy of 
+moving air to generate electricity. Preliminary assessment of existing wind data suggests 
+that there is good wind power potential in Bahrain. 
+Analysis  conducted  by  the  University  of  Bahrain  of  the  10-year  wind  data  set  from  the 
+meteorological weather station24 shows that Bahrain enjoys an annual mean wind speed of 
+6.9 m/s at 60 meters height (extrapolated), resulting in an average annual power density 
+of 440 W/m2. The strongest wind regime was found in the central and southern parts of the 
+main island of Bahrain [27]. According to the one-year measurements of wind speed from 
+tall mast at 50 meters height, the most prevailing wind speed occurred at around 6 m/s. 
+The highest wind speed reached almost 7 m/s. 
+Figure 15z: Wind Atlas Developed by the University of Bahrain
+24  The data was analyzed using industry-standard software package for siting the wind turbines and wind farms 
+– WAsP. 
+40
+Preliminary  assessment  of  these  findings  suggests  that  Bahrain  enjoys  a  wind  resource 
+suitable for power generation. However, a more detailed and conclusive analysis of wind 
+speeds is required to establish the economic viability of wind power.
+Figure 16: Wind Speed Measurements Acquired from Tall Mast at 50 m Height
+7.5
+7.0
+6.5
+s
+/
+m
+d
+e
+e
+p
+S
+d
+n
+W
+6.0
+ 
+5.5
+ 
+i
+5.0
+4.5
+4.0
+3.5
+Ground Level Measurements
+NASA
+3.2.2  WIND TECHNOLOGIES
+ONSHORE WIND
+The  current  economics  of  wind  power  favors  onshore  wind.  The  capital  requirements  for 
+onshore wind power plant is about USD 1,700/kW25. Wind turbines have an average lifetime 
+of about 25 years. The main cost component in a wind project, is the cost of a wind turbine, 
+which accounts for about 70% of the total cost [28]. A typical horizontal-axis wind turbine 
+comprises of several components, including the blades, the hub, the nacelle, the gearbox, 
+the tower, and associated electrical equipment.
+Other costs in such projects include civil works, grid connection costs, project planning and 
+development costs. A survey of over 5,000 turbines installed in Denmark since 2006, shows 
+that operation and maintenance costs of onshore wind declined from 3% to less than 2% 
+per year of invested capital. Other sources indicate that operation and maintenance costs of 
+onshore wind range between 20%-25% of LCOE [28]. 
+25  Equivalent to BD 640/kW 
+41
+The LCOE largely depends on the wind resource – how fast it blows, how often, and when.  
+In very windy regions, the LCOE can be as low as 0.03-0.04 USD/kWh26, per the recent bids 
+in  Morocco  and  Egypt  [29].  The  following  table  illustrates  the  weighted  average  LCOE  in 
+different parts of the world. 
+Table 4: LCOE Onshore Wind by Region, 2014-2015
+Weighted average LCOE 
+(USD/kWh)
+Weighted average LCOE 
+(fils/kWh)1
+Country
+China
+0.053
+20
+Other Asia 
+0.12
+45
+North America
+0.06
+23
+Europe
+0.07
+26
+India 
+0.08
+30
+Central and South America
+0.08 - 0.10
+30 - 38
+Oceania and Africa
+0.08 – 0.10
+30 - 38
+Source: IRENA (2016), Power to Change, p. 59 
+Similar  to  solar  PV  technology,  wind  technology  has  experienced  improvements  and  cost 
+reductions. Since 2009, wind turbine prices decreased by 30% to 40% and are expected to 
+decline further [28]. According to projections made by IRENA, the future global weighted 
+average  installed  costs  of  onshore  wind  could  fall  by  12%  by  2025,  resulting  in  a  34% 
+reduction of total LCOE [28].
+A wind turbine takes up little ground space, as almost all the components are up to 60-80 
+meters  in  the  air.  However,  a  wind  farm  (several  wind  turbines)  requires  available  land 
+without structures that might impede wind speeds, which is a limiting factor in Bahrain.
+OFFSHORE WIND
+Offshore wind power is where turbines are sited in water areas, such as coastal shallow water. 
+Whilst  offshore  wind  farms  typically  enjoy  higher  wind  speeds,  the  marine  environment 
+exposes the units to high humidity, salt water, and salt-water spray making installation and 
+operation and maintenance more challenging.
+Most of the offshore wind is currently concentrated in Europe. The capital cost for offshore 
+wind ranges from USD 2,500 to 5,600 per kW27. The capital cost largely depends on water 
+depth, distance from shore, turbine size and other factors. According to IRENA’s projections, 
+the future installed costs for a reference wind farm could be reduced by 15% from 2015 
+costs, given technological innovations, economy of scales, and learning by doing. 
+26  Equivalent to 11 – 15 fils/kWh 
+27  Equivalent to BD 943 – 2,112 /kW 
+42
+Offshore wind farms are characterized by a larger size of the wind turbines. The typical size 
+of offshore wind turbine is in the range of 3 to 5 MW. The average size of an offshore wind 
+farm in 2015 was around 300 MW. Figure 19 represents an example of a cost breakdown of 
+a typical offshore wind farm in European waters in 2015.
+ Figure 17: Cost Breakdown of a Typical Wind Farm in European Waters, 2015
+Transmission
+System 13%
+Construction
+and Installation
+19%
+Development 3%
+Electrical
+Array 3%
+Turbine Rotor 
+and Nacelle 
+38%
+Support Structure
+Foundation 18%
+Turbine 
+Tower 6%
+Source: IRENA (2016), Power to Change, p. 74
+Whilst  onshore  wind  has  favorable  economics,  as  an  island  country,  Bahrain  clearly  has 
+technical potential for offshore wind power.  In general, sea winds are stronger and steadier 
+than  on  land.  While  the  landscape,  trees  and  buildings  distort  the  flow  of  onshore  wind, 
+offshore wind flow can blow without obstacles with higher wind speeds and a more even 
+flow close to the surface which allows lower tower heights [30]. The fact that the depth 
+of water in Bahrain in general is shallow (less than 10 meters) at the coastal areas would 
+in  principal  favor  the  deployment  of  cost-effective  offshore  wind.  However,  a  number  of 
+parameters (e.g. nature of seabed, offshore wind conditions, grid connection, etc.) are not 
+well  known  yet,  and  therefore  the  technical  and  economic  feasibility  for  offshore  wind 
+power in Bahrain’s coastal waters requires further analysis.
+43
+3.3 WASTE TO ENERGY
+Many  technologies  have  been  developed  and  deployed  to  use  waste  as  a  fuel  input  for 
+energy. This section presents an overview of some of the key waste to energy technologies 
+that can be potentially deployed in Bahrain. 
+3.3.1 
+BIOGAS
+According  to  data  from  the  Ministry  of  Works,  Urban  Planning  and  Municipalities  Bahrain 
+produces  more  than  1.7  million  tons  of  solid  waste  per  year,  which  instead  of  being 
+landfilled can be used to produce electricity and reduce greenhouse gas emissions. Organic 
+material, which is mostly food waste, makes up 60% of total municipal solid waste. Today 
+all municipal solid waste in Bahrain is landfilled. According to unofficial expert estimations 
+from the Ministry of Works, Urban Planning and Municipalities, Bahrain has only four to five 
+years of landfill capacity left. 
+Organic waste presents an excellent opportunity to turn waste into useful energy by extracting 
+biogas through anaerobic digestion process. Anaerobic digestion is a bacterial decomposition 
+process that stabilizes organic wastes and produces biogas, which is a mixture of methane 
+and  carbon  dioxide.  Agricultural  and  marine  byproducts,  crops,  sewage  sludge,  municipal 
+solid waste or any other biodegradable feedstock, under anaerobic conditions, can produce 
+biogas.  Biogas  can  be  used  for  a  number  of  applications  including  electricity  generation, 
+injection into the national gas grid, and as a vehicle fuel. It is estimated that Bahrain has a 
+potential to generate 190 million m3 of biogas per year from its organic waste. 
+In the European Union, anaerobic digestion is recognized as an essential step in a sustainable 
+waste management process and as an efficient waste recycling method [31]. Today there 
+are more than 13,800 biogas plants in operation in Europe. In Sweden, out of 230 biogas 
+plants, 135 plants are at wastewater treatment facilities [32]. Adding an anaerobic digestion 
+step to the wastewater treatment plant brings a number of benefits, including reducing the 
+volume of sludge, reducing the greenhouse gas emissions from landfilling the sludge and 
+generating renewable energy in the form of biogas. 
+The investment requirements of a biogas plant depend on a number of factors including the 
+type of technology, the type of waste, the size of the plant, and the automation involved.  
+The average cost of a biogas-fueled power plant of 1 MW capacity, or larger, ranges between 
+EUR 3,000 – 4,500 per kW28.  Table 5 provides information on biogas production potential 
+from different substrates. 
+28  Equivalent to BD 1,286 – 1,930/kW 
+44
+Table 5: Biogas Production Potential
+Methane 
+Concentra-
+tion
+Total Solids 
+(TS)
+Biogas Production
+Substrate
+m3/ton wet 
+weight
+m3/ton TS
+%
+%
+Sewage sludge
+5
+300
+15
+65
+Fish waste
+42
+1,279
+537
+71
+Sorted food waste
+33
+618
+204
+63
+ 
+An  important  precondition  for  implementing  a  biogas  project  is  to  have  food  and  other 
+organic waste to be separated out and collected from the rest of the
+  municipal  solid  waste.  This  requires  implementing  a  waste  management  strategy,  an 
+important  component  of  which  is  education  and  raising  awareness  of  households  and 
+businesses  about  separating  out  the  waste.  Unlike  other  organic  waste  streams,  sewage 
+sludge is already collected and concentrated in one place, which presents an opportunity for 
+Bahrain to immediately pursue the energy recovery process from sewage sludge. 
+3.3.2 
+LANDFILL GAS RECOVERY
+Another  waste  to  energy  opportunity  for  potential  consideration  in  Bahrain  is  landfill  gas 
+recovery. Landfill gas recovery has strong environmental benefits, as it is a means to collect 
+the already available methane gas in the landfill, and prevent it from being released into 
+the atmosphere. Landfill gas is a natural byproduct of a decomposition of organic material 
+in the solid municipal waste and it is typically composed of 50% methane. Methane has a 
+global warming potential 21 times greater than carbon dioxide, which makes it important 
+to capture for both environmental and energy reasons. The recovered landfill gas can be 
+used  to  produce  medium-Btu  gas  (sometimes  called  ‘direct  use’),  or  pipeline  quality  gas 
+(sometimes  called  ‘high-Btu  gas’),  thereby  reducing  consumption  of  the  indigenous  gas 
+resource [33].
+45
+Electricity  can  be  produced  from  either  medium  or  high-Btu  gas  through  reciprocating 
+engines, combustion turbines, steam cycle power plants, and co-firing landfill gas with fossil 
+fuels  in  conventional  power  plants.  When  landfill  gas  is  used  as  a  medium-Btu  gas,  it  is 
+directly used as a substitute for fossil fuel with little treatment. The typical application of 
+medium-Btu gas is co-firing in existing conventional power plants. High-Btu gas production 
+involves  an  extensive  cleanup  of  the  landfill  gas  to  a  level  of  quality  so  that  it  can  be 
+introduced into existing pipelines as a direct substitute for natural gas. 
+3.3.3  OTHER WASTE TO ENERGY OPPORTUNITIES 
+There are other waste to energy options available, including waste incineration, pyrolysis, 
+biodiesel, and others. However, these options should be pursued after establishing a waste 
+management strategy. The waste management strategy will lay down the rules and conditions 
+for identifying, sorting and collecting waste streams that could be re-used or recycled such 
+as plastic, paper or construction material. Depending on the composition of non-recyclable 
+waste, the appropriate waste to energy options can be further considered. The international 
+best practice on waste management suggests the following waste management hierarchy: 
+1.  Reduction
+2.  Re-use 
+3.  Recycling (e.g. using aluminum cans as raw material in aluminum production)
+4.  Resource recovery (e.g. recovering biogas from food waste)
+5.  Disposal (e.g. landfilling, waste incineration without energy recovery)
+Waste disposal is the management option used for the remaining fraction of waste when 
+all forms of diversion, reuse, and resource recovery are exhausted. Waste to energy options 
+such as waste incineration or pyrolysis should be considered after reducing, re-using, and 
+recycling of waste. 
+46
+3.4 OTHER RENEWABLE SOURCES
+Biomass,  geothermal  and  hydropower  have  been  cost-competitive  sources  of  power 
+generation for many years in regions with high resource supply potential. Hydropower and 
+biomass were excluded from the evaluation in this Plan since Bahrain has no or very limited 
+resource supply potential. 
+Geothermal energy uses the heat from beneath the earth’s surface to generate electricity. 
+High  temperature  geothermal  resources  (90-150  oC)  can  be  used  to  generate  electricity. 
+Lower temperature geothermal resources can be used for direct heating applications. The 
+constant  temperature  that  exists  at  shallow  depths  can  be  used  as  an  energy-efficient 
+method  of  heating  and  cooling  using  heat  pumps.  Geothermal  power  is  a  mature,  cost-
+competitive,  commercially  available  renewable  energy  technology  that  can  be  used  to 
+provide  base  load  capacity  in  areas  with  excellent  high-temperatures  resources  that  are 
+close to the surface [24]. 
+Geothermal  co-production  can  potentially  be  an  attractive  option  for  Bahrain,  where 
+geothermal  power  is  generated  from  the  hot  wastewater  coming  from  the  oil  and  gas 
+extraction  process.  According  to  the  US  Department  of  Energy,  co-produced  geothermal 
+energy can deliver near-term energy savings, extend the economic life of oil and gas fields, 
+and profitably utilize abandoned oil and gas field infrastructure. There are already several 
+pilot projects in the US testing the production of geothermal power at oil and gas fields [34].
+An assessment of geothermal resource potential for Bahrain is yet to be undertaken. To draw 
+conclusions  on  economic  viability  of  geothermal  power  for  Bahrain,  further  research  and 
+investigation is required.
+47
+3.5 SUMMARY OF RENEWABLE ENERGY OPPORTUNITIES
+Different  factors  affect  the  selection  of  renewable  energy  technologies,  some  of  these 
+relate to the technology itself while others relate to geography and valued socio-economic 
+components.  Resource  potential,  capital  investments,  knowhow,  land  requirements,  grid 
+stability,  weather  and  climate  conditions  are  amongst  the  most  influential  factors.  The 
+following table presents a summary of advantages and disadvantages of selected renewable 
+energy technologies.
+Table 6: Pros and Cons of Selected Renewable Energy Technologies
+Advantages
+Disadvantages
+-  Generates power only during the 
+- 
+Strong resource potential
+day hours
+- 
+Cost-competitive technology
+-  Overcoming dust challenge might 
+- 
+Can be deployed on various surfaces
+entail additional costs
+-  Does not require much land space
+-  Difficult to achieve a high share of 
+e
+l
+a
+c
+s
+-
+l
+l
+a
+m
+renewables
+- 
+Can partially shave the day peak
+-  On-site consumption can avoid 
+power losses during transmission 
+and distribution
+s
+V
+P
+ 
+-  Raise public awareness about 
+renewable energy
+-  Requires large land areas
+- 
+Strong resource potential
+e
+l
+a
+c
+s
+-
+e
+g
+r
+a
+l
+-  Overcoming dust challenge might 
+- 
+Cost-competitive technology
+entail additional costs
+- 
+Can shave the day peak 
+-  Generates power only during the 
+- 
+Can be deployed in modules
+day hours
+ 
+V
+P
+-  Requires large land areas
+- 
+Strong resource potential
+-  Requires water for cooling and for 
+-  Ability to store heat that can be used 
+cleaning mirrors
+to generate power after sunset
+P
+S
+C
+- 
+Significant upfront investment 
+costs
+48
+Advantages
+Disadvantages
+-  Power generation is less 
+- 
+Estimated good resource potential
+predictable
+d
+n
+w
+e
+r
+o
+h
+s
+n
+O
+- 
+Cost-competitive technology
+i
+-  Requires unobstructed land parcels
+ 
+-  Resource potential is not clearly 
+identified, need to compile a 
+detailed wind atlas
+-  Power generation is less 
+- 
+Estimated good resource potential
+predictable
+d
+n
+w
+e
+r
+o
+h
+s
+f
+f
+O
+- 
+Can be deployed in large-scale with 
+minimum land requirements
+i
+-  Resource potential is not clearly 
+identified, need to compile a 
+detailed wind atlas
+ 
+- 
+In shallow waters might be a cost 
+competitive option
+- 
+Seabed and other conditions are 
+not well known, need to launch a 
+feasibility study
+- 
+Energy recovery is limited to 
+the quantity of organic waste 
+produced
+-  Avoid greenhouse gas emissions from 
+landfilling the waste
+-  Reduce the volume of waste to be 
+landfilled, saving landfill capacity
+- 
+Food and other organic waste 
+need to be collected and sorted 
+out first
+- 
+Stabilization,  sanitation  and  odor 
+reduction
+ 
+s
+a
+g
+o
+B
+-  Generate  useful  energy  that  can  be 
+i
+used for multiple applications
+-  Biogas can be used to generate 
+electricity that is able to be 
+dispatched, predictable and available 
+at night.
+- 
+Energy recovery is limited to the 
+quantity of landfill gas available
+-  Reduction in greenhouse gas 
+emissions from landfill
+-  Risk of methane leakage.
+-  Reduction in odor emissions
+-  Reduction in emissions of hazardous 
+s
+a
+g
+organic air pollutants to the 
+atmosphere
+ 
+l
+l
+fi
+d
+n
+a
+L
+-  Recovery of a low-cost, useful 
+energy that can be used to generate 
+electricity that is able to be 
+dispatched, predictable and available 
+at night.
+49
+50
+ 4.  RENEWABLE ENERGY ACTION PLAN
+4.1 TARGETS
+The goal of the Plan is to create a renewable energy market in order to increase the share of 
+renewable energy in the energy mix of Bahrain. This includes creating a business environment 
+favorable  to  renewable  energy  investments,  building  expertise  within  industries  and 
+government agencies in developing renewable energy projects, strengthening institutional 
+capacity  to  support  the  deployment  of  renewables,  integrating  renewable  energy  in  the 
+government strategies, policies and plans and raising overall awareness about the benefits 
+and  importance  of  sustainable  energy  development.  To  achieve  this  it  is  necessary  to 
+formulate  ambitious,  yet  realistic  renewable  energy  targets  supported  by  an  enabling 
+policy framework, streamlined administrative procedures, and a general commitment by all 
+government authorities to pursue renewable energy.
+The renewable energy deployment strategy is based on a broad assessment of Bahrain’s 
+resource  potential,  economic  viability  of  various  renewable  energy  technologies,  current 
+energy situation, and its unique geographical and socio-economic conditions.
+Based on the findings, and through consultations with key stakeholders, a renewable energy 
+target of 5% is proposed for 2025, and 10% for 2035. The targets are calculated as a share 
+of the future projected peak load demand, excluding industry’s own generation. Values for 
+electricity  generation  in  GWh  are  derived  based  on  these  targets  and  the  local  resource 
+potential as set out in Table 7. 
+Table 7: Renewable Energy Targets 
+2025
+2035
+Peak Load Ca-
+pacity
+Generated 
+Electricity
+Peak Load 
+Capacity
+Generated 
+Electricity
+Projected Energy 
+Demand
+MW
+GWh
+MW
+GWh
+5,085
+23,640
+6,867
+31,786
+2025
+2035
+Renewable Energy 
+Targets
+MW
+GWh
+MW
+GWh
+Wind
+50
+125
+300
+750
+Solar
+200
+340
+400
+680
+Biogas
+5
+13
+10
+26
+TOTAL:
+255
+478
+710
+1,456
+Peak Load 
+Capacity
+Generated 
+Electricity
+Peak Load 
+Capacity
+Generated 
+Electricity
+TARGET
+ as a share of 
+projected
+5.0%
+2.0%
+10.3%
+4.6%
+Note: Electricity figures include only grid-supplied electricity by EWA. They do not include industry’s own generation.
+51
+4.2 DEPLOYMENT STRATEGY 
+The deployment strategy is driven by a number of factors including scarcity of land, resource 
+potential, cost-effectiveness of renewable energy systems, socio-economic and geo-political 
+considerations:
+I. DECENTRALIZED URBAN GENERATION (100-150 MW)
+Decentralized renewable energy applications such as rooftop PV, BIPV, solar lighting, biogas 
+plants, and micro wind turbines can be successfully integrated in the urban environment and 
+can help in creating a more sustainable future. With continuous technological improvements, 
+the  opportunities  for  integrating  renewable  energy  in  the  urban  design  are  tremendous. 
+Decentralized urban generation is also an excellent way to engage all members of society 
+including households, businesses, academia, and government authorities in building smart, 
+modern  and  more  resilient  cities  and  communities.  Viable  opportunities  for  decentralized 
+urban generation include:
+-  
+Solar systems for new housing units
+-  
+Solar systems for government buildings
+-   Decentralized solar in urban developments (solar lighting, solar parking)
+-   Decentralized rooftop solar on existing residential and commercial buildings
+-   Other decentralized renewable energy systems (biogas, micro wind).
+II. LARGE-SCALE GENERATION ON AVAILABLE LAND (50-100 MW)
+Economies of scale favor the development of large-scale renewable energy power plants. 
+Therefore, it is prudent to consider deployment of large-scale renewable energy where land 
+is available. A good example is the deployment of a solar farm on a land that is otherwise 
+not  useful,  such  as  a  closed  landfill  site.  Another  option  to  pursue  large-scale  renewable 
+energy development is through joint GCC efforts (using land in neighboring countries and 
+bringing electricity through existing interconnection network). Viable opportunities for large-
+scale generation on land include:
+-  
+Solar farm on Askar landfill site
+-  
+EWA renewable energy initiative (5 MW hybrid solar and wind project)
+-   Utility-scale renewable energy plants by large industry groups
+-  
+Solar farms in new town developments
+-   Waste to energy plant at the Tubli wastewater treatment plant
+-  
+Renewable energy plants on other available land.
+52
+III. OFFSHORE GENERATION (50 MW)
+Offshore  renewable  energy  development  presents  an  opportunity  to  pursue  large-scale 
+renewable  energy  generation  and  achieve  higher  renewable  energy  targets.  As  Bahrain 
+has  a  good  wind  regime  and  shallow  waters,  pursuing  offshore  wind  power  could  be  a 
+cost-competitive option. Other offshore renewable energy options can include integrating 
+renewable  energy  in  offshore  large  infrastructure  projects  such  as  causeways  connecting 
+Bahrain and its GCC neighbors. This will not only generate clean energy, but also strengthen 
+partnerships in building a more sustainable future in the region. Identified offshore generation 
+opportunities include:
+-   Near shore or offshore wind farms
+-  
+Integrating  renewable  energy  technologies  in  large  infrastructure  projects 
+(causeways and railway systems).
+4.3 BENEFITS AND IMPACT
+Integrating  renewable  energy  in  the  energy  mix  can  help  Bahrain  optimize  the  use  of 
+indigenous  gas  resources,  reduce  greenhouse  gas  emissions,  make  the  economy  more 
+competitive, and improve energy security in the long-term. Other benefits include improving 
+local air quality, shaving day peak through solar PV, creating a new industry, and meeting 
+international obligations. 
+Achieving 5% targets by 2025 will result in: 
+-  
+Clean energy generation of approximately 480 GWh per year
+-   Annual savings of 5,700,000 MMbtu of natural gas
+-  
+Reduction of greenhouse gas emissions by 392,000 tonnes of CO2 per year
+-   Attracting more than BD 140 million of investment.
+53
+4.4 FACILITATING RENEWABLE ENERGY DEPLOYMENT
+An  important  aspect  of  creating  a  renewable  energy  market  is  removing  structural  and 
+non-structural barriers. According to the IEA 2015 Renewable Energy Market Analysis report, 
+high levels of incentives are no longer necessary for solar PV and onshore wind, but their 
+economic  attractiveness  still  strongly  depends  on  the  regulatory  framework  and  market 
+design. To facilitate renewable energy deployment in Bahrain, policies will be implemented 
+to enable power to be produced from renewable energy sources, to stimulate investment 
+and the take up of renewable energy technologies. These policies will aim to address the 
+following regulatory and power market structure related barriers: 
+4.4.1 
+ADDRESSING REGULATORY BARRIERS
+The  power  sector  by  default  is  a  heavily  regulated  sector.  Typically,  private  production  of 
+electricity requires authorization from government authorities, either through legislation or 
+concessions. In Bahrain, the current Electricity Law (1996) allows for the private generation 
+of power. However, each IPP scheme requires a written authorization from the Minister and 
+an approval from the Cabinet. This scheme is not suitable to stimulate private investments in 
+renewable energy as it is geared towards large-scale conventional power plants, where fuel 
+input is an important consideration. It was drafted in times when renewable energy was not 
+considered a viable alternative source of energy. Today the situation is different. Renewable 
+energy technologies have substantively matured, the costs have declined, and the options 
+have improved. 
+To stimulate investment in renewable energy, the current legislation needs to allow private 
+deployment of renewable energy plants, without an extensive prior authorization process 
+from  the  government.  However,  renewable  energy  systems  would  still  be  subject  to  all 
+necessary building code requirements, grid connection rules, and other administrative safety 
+regulations. 
+4.4.2 
+ADDRESSING MARKET STRUCTURE RELATED BARRIERS
+The  Electricity  Law  allows  on-site  electricity  generation  for  self-consumption  purposes 
+(captive  generation),  and  has  mainly  been  used  to  allow  large  industry  groups  to  install 
+their own power generation capacities. However the Law does not authorize exporting on-
+site  generated  energy  to  the  main  grid.  To  stimulate  investments  in  renewable  energy, 
+especially by households and commercial users, it is important to allow renewable energy 
+plants to export the excess power to the grid. Thus, it is critical to develop a grid code for 
+renewable energy systems together with other safety regulations to ensure safe connection 
+to the grid.
+54
+Under the current legal framework and market structure, EWA is the sole buyer and distributor 
+of electricity in the Kingdom. To motivate private developers to invest in renewable energy, 
+there needs to be a mechanism whereby private investors are able to sell the power produced 
+from renewable sources and generate income. The key components of such mechanism are 
+price and guarantee of purchase of electricity from renewable sources. Thus, it is important 
+to set a policy that will define a purchase price for electricity from renewable sources and 
+guarantee the purchase of such electricity. Such policies can be either feed-in tariff policy, or 
+auctions or public competitive tenders.  
+4.4.3  DRIVING INVESTMENT IN RENEWABLE ENERGY
+In  2015,  the  government  announced  a  scheme  to  gradually  increase  electricity  tariffs  to 
+meet the cost of power generation of 29 fils/kWh. The new tariffs became effective starting 
+March 2016 for residential, commercial, and industrial consumers. Bahraini nationals holding 
+an EWA single account are exempt from the tariff increases and continue to pay electricity 
+tariffs  of  3  fils/kWh.  Bahraini  nationals  make  up  50%  of  the  population  and  account  for 
+around  20%  of  electricity  consumption,  and  are  likely  to  have  roof  space  for  small-scale 
+PV  systems.  To  motivate  this  segment  of  customers  to  install  renewable  energy  systems 
+on their roofs, a special incentive scheme needs to be proposed, combined with targeted 
+information dissemination and awareness raising campaign. 
+Bahrain has a fast growing real-estate industry. There are many real estate development 
+projects  underway  under  private  and  public  domains.  New  buildings  and  real  estate 
+development  projects  present  an  excellent  opportunity  for  integrating  cost-effective 
+renewable energy solutions. Integrating renewables in the building design is more efficient 
+and cost-effective than retrofitting renewable energy sources at a later stage. In addition, 
+buildings are the biggest consumers of electricity in Bahrain. More than 80% of grid electricity 
+is consumed by buildings. Currently there is no scheme in place to encourage building and 
+town developers to integrate renewable energy in the building and urban design, such as a 
+renewable energy mandate. 
+55
+4.5 POLICIES TO ATTRACT PRIVATE INVESTMENT 
+To  achieve  the  stated  targets  and  attract  private  sector  investment  in  renewable  energy 
+technologies, three complementary policies are proposed: (1) a net metering scheme; (2) 
+tender-based feed-in tariffs; and (3) a renewable energy mandate for new buildings. The 
+following subsections present brief information on each policy. The details of each policy will 
+be outlined in relevant documents and regulations.
+4.5.1  NET METERING SCHEME
+To support the deployment of decentralized small-scale solar systems, the Government of 
+Bahrain will adopt a Net Metering scheme. Net Metering will enable residential, commercial, 
+and industrial customers to generate and consume electricity on-site by installing renewable 
+energy systems on their premises, and exporting the excess electricity to the EWA network. 
+Customers will be billed only for the ‘net’ energy used, according to the latest electricity 
+retail tariffs approved by the Government. The excess electricity produced will be credited 
+in the next billing period. The smart meter roll-out programme has commenced and will 
+facilitate the net metering scheme.
+Net metering is a strong incentive mechanism when electricity retail prices are sufficiently 
+high. With the recent increases of electricity tariffs, the net metering scheme will likely be 
+most attractive to the unsubsidized large energy consumers, such as malls, hotels, and other 
+commercial and industrial customers. 
+Table 8: Bahrain Net Metering Scheme
+Net Metering Scheme
+Enable consumers to generate on-site, grid-connected 
+electricity from renewable energy sources 
+Objective:
+Residential, commercial, and industrial electricity 
+customers
+Target Group:
+Reduced electricity bill through on-site power generation
+- 
+Incentive for 
+Target Group:
+Ability to credit the excess electricity fed back to the grid 
+against future consumption
+- 
+56
+Implementation Timeline 
+2017
+2018
+2019
+2020
+Responsible
+ Entity
+Net Metering Scheme
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+Develop net metering regulations to be 
+presented for government approval
+SEU
+Minister of 
+Electricity & 
+Water
+Obtain government approval of net 
+metering regulations
+Develop and approve a grid code for 
+small-scale solar PV systems
+EWA
+Develop necessary standard operating 
+procedures to implement net metering scheme 
+EWA with 
+technical 
+assistance 
+from SEU
+Develop all necessary technical 
+documents to ensure safe installation of solar systems 
+Establish a quality assurance scheme for 
+solar PV equipment and system installers 
+Develop information and awareness 
+raising plan to promote net metering scheme  
+SEU & EWA
+Apply net metering scheme
+EWA
+Implement information and awareness 
+raising plan
+SEU & EWA
+Implement quality assurance scheme for 
+solar PV equipment and system installers
+EWA
+4.5.2 
+TENDER BASED FEED-IN TARIFF
+To  encourage  the  deployment  of  renewable  energy  projects  by  private  developers,  the 
+Government of Bahrain will adopt a tender-based feed-in tariff scheme. The feed-in tariff 
+scheme will provide a long-term purchase guarantee of electricity from renewable sources 
+at  a  pre-determined  price.  The  appropriate  feed-in  tariff  will  be  set  based  on  the  bids 
+received  from  private  developers.  A  feed-in  tariff  is  important  in  attracting  professional 
+renewable  energy  developers  who  have  expertise,  know-how,  and  access  to  finance,  in 
+developing renewable energy projects. Because land is a major limiting factor in Bahrain, 
+the government will aid the private sector by identifying and/or designating sites for the 
+development of renewable energy projects. Such sites may include government buildings 
+such as schools, hospitals, and other public facilities. This, however, will not limit the private 
+sector to find their own sites for the development of renewable energy projects, under the 
+tender-based feed-in tariffs scheme. Tenders will be announced on a regular basis. 
+57
+The tender-based feed-in tariff scheme will enable the government to take advantage of 
+the best available market prices for the development of renewable energy projects. This is 
+particularly important with regards to renewable energy systems that are experiencing fast-
+paced technological improvements and cost reductions, such as solar PV. The scheme will 
+also allow the government to control the quantity of renewable energy procured. 
+Table 9: Bahrain Feed-in Tariff Scheme
+Tender based Feed-in Tariff Scheme
+Attract private investors to develop renewable energy projects 
+through a competitive procurement process
+Objective:
+Renewable energy developers and large electricity customers
+Target Group:
+Long-term power purchase agreement at a pre-defined price
+Incentive:
+Implementation Timeline 
+2017
+2018
+2019
+2020
+Responsible
+ Entity
+Tender-based Feed-in Tariff Scheme
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+Designate 50-100 (1st batch) government buildings 
+for private development 
+Ministry of Works
+Estimate the size of available space for solar PV 
+and divide into several lots
+SEU
+Prepare tendering documents for solar PV systems
+EWA & SEU
+Invite private developers to submit their offers for 
+the development of the ﬁrst 50 MW solar PV 
+projects
+Selection of the successful bidders and concluding 
+power purchase agreement
+EWA with technical 
+assistance from SEU
+Construction, conection to the grid and 
+commissioning of solar PV plants
+Private Developer/EWA
+Extend the best price offers received for gov 
+buildings as a FiT to private buildings
+SEU & EWA
+Conclude power purchase agreements for 
+development of solar PV on private buildings
+EWA
+Develop tools and guidelines to assist the private 
+sector in deployment of RE projects
+SEU
+Designate 2nd batch of gov buldings for private 
+development
+Ministry of Works
+58
+4.5.3 
+RENEWABLE ENERGY MANDATE
+To  take  advantage  of  cost-effective  renewable  energy  solutions  and  reduce  the  energy 
+demand from buildings, the Government of Bahrain will adopt a Renewable Energy Mandate 
+for  new  buildings.  The  Renewable  Energy  Mandate  will  require  all  new  buildings  and 
+new  real  estate  developments,  to  source  a  minimum  certain  percentage  of  energy  from 
+renewable sources such as roof-top PV, building integrated PV, solar water heaters, and urban 
+wind systems. The generated renewable energy will be consumed on-site; and the excess 
+electricity will be fed to the grid according to the Net Metering regulations. 
+To  recognize  the  outstanding  performance  of  buildings  and  real  estate  developers  in 
+integrating renewable energy, where the minimum percentage has been exceeded, SEU will 
+issue a certificate of award.
+Table 10: Bahrain Renewable Energy Mandate Scheme
+Renewable Energy Mandate
+Require  new  buildings  and  real  estate  developers  to  inte-
+grate renewable energy technologies in the building design
+Objective:
+New building and real estate developments
+Target Group:
+Reducing energy demand of the building from the grid
+(reduced electricity bill)
+Incentive:
+Implementation Timeline 
+2017
+2018
+2019
+2020
+Responsible
+ Entity
+Renewable Energy Mandate
+ 
+ 
+ 
+ 
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+1
+2
+3
+4
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+R
+Q
+Develop RE Mandate regulations to be presented 
+for government approval
+SEU
+Obtain government approval of RE Mandate 
+regulations
+Minister of 
+Electricity & Water
+Develop necessary standard operating procedures 
+to implement RE Mandate scheme
+SEU in 
+coordination with 
+EWA, Min of 
+Works
+Develop all necessary technical documents to 
+ensure safe installation of solar systems
+Develop information and awareness raising plan to 
+promote net metering scheme
+SEU
+Conduct trainings to the relevant stakeholders on 
+the implementation of RE Mandate
+SEU
+EWA & Min of 
+Works
+Implement/enforce RE Mandate scheme
+SEU, EWA & Min 
+of Works
+Implement information and awareness raising plan
+Issue certiﬁcate of award to recognize the most 
+outstanding performance
+SEU
+Propose incentive scheme to encourage buildings 
+to go beoynd the min requirement
+SEU
+59
+5. PROJECTS TO ACHIEVE 2025 TARGETS 
+This section presents key renewable energy projects identified through a broad consultative 
+process with different stakeholders to achieve the 2025 targets. The list is not exhaustive 
+and may be updated as time progresses and more opportunities are identified. 
+5.1 SOLAR SYSTEMS FOR GOVERNMENT BUILDINGS 
+The  Assistant  Undersecretary  of  Construction  Projects  and  Maintenance  at  the  Ministry 
+of  Works,  Urban  Planning  and  Municipalities  is  responsible  for  the  construction  of  new 
+government  buildings  and  for  refurbishment  of  existing  government  buildings  for  the 
+Kingdom of Bahrain. 
+This Ministry is one of the champions in the government sector in promoting green building 
+and  sustainable  energy  practices.  In  2011  the  Assistant  Undersecretary  of  Construction 
+Projects  and  Maintenance  developed  a  strategy  to  implement  green  building  practices 
+in  new  and  existing  government  projects.  To  implement  the  Strategy  particular  building 
+specifications have been developed containing 14 green building practices. Since 2013 the 
+Ministry  has  been  actively  implementing  these  practices,  achieving  great  energy  savings 
+and  exceeding  the  requirements  of  the  Bahrain  thermal  insulation  regulations.  Although 
+the focus has been primarily on improving building energy efficiency, the Ministry has also 
+started  implementing  experimental  solar  projects  such  as  solar  water  heater  systems  on 
+school buildings and solar PV panels on car parking lots.
+To make government buildings more efficient and sustainable and to continue to demonstrate 
+leadership in sustainability actions, the Ministry of Works, Urban Planning and Municipalities 
+is  committed  to  incorporate  further  renewable  energy  solutions  in  government  projects 
+(roof-top PV, building integrated PV, solar parking lots).
+5.2  SOLAR SYSTEMS FOR PUBLIC WORKS
+In addition to the construction and maintenance of government buildings, the Ministry of 
+Works, Urban Planning and Municipalities is responsible for public works, infrastructure and 
+engineering covering: 
+-  
+Roads:  Planning,  design,  supervision  of  construction  and  maintenance  of  roads, 
+bridges, and traffic facilities.
+60
+-  
+Sanitary and Drainage: Planning, design, supervision of construction and operations 
+and  maintenance  of  networks,  treatment  plants,  pumping  stations  and  treated 
+sewage effluent systems.
+Energy consumption makes up a large share of the Ministry’s expenditures, especially for the 
+operation of water pumping stations. To make public works more efficient and sustainable, 
+and to reduce the energy bill, the Ministry of Works, Urban Planning and Municipalities is 
+committed to incorporate renewable energy sources in the design and engineering of public 
+works and infrastructure. Preliminary identified initiatives include: 
+-  
+Implementing solar PV systems for water pumping stations; and
+-  
+Installation of solar powered street lighting systems. 
+5.3 SOLAR SYSTEMS FOR NEW HOUSING UNITS
+The Ministry of Housing is responsible for building affordable social housing units for the low-
+income Bahraini households. The Ministry of Housing plans to develop 40,000 housing units 
+in Bahrain’s four Governorates. The projects are planned to be funded under the government 
+budget and GCC development program. The first 25,000 housing units will be built in the 
+next four years.
+The  Ministry  of  Housing  is  committed  to  delivering  cost-effective,  efficient  and  quality 
+housing. It is already implementing energy efficiency measures in housing units to comply 
+with  Bahrain  building  thermal  insulation  regulations.  It  has  also  started  implementing 
+experimental solar projects (solar water heaters).
+To  make  houses  more  efficient  and  sustainable,  the  Ministry  of  Housing  is  committed  to 
+incorporate  further  renewable  energy  sources  in  the  housing  units  (roof-top  PV,  building 
+integrated PV, solar parking lots). This will help minimize the impact on the environment, 
+improve  air  quality,  reduce  reliance  on  fossil  fuel,  and  shave  the  energy  peak  demand 
+during hot summer seasons, when the bulk of electricity demand is used for air-conditioning 
+purposes.
+The  work  will  start  with  the  initiation  of  demonstration  projects  in  one  of  the  new  town 
+developments.  Upon  delivery  of  the  demonstration  projects,  capacity-building  workshops 
+will be organized for housing developers, architects, contractors, and installers, on lessons 
+learned and on successful integration of renewables in the building design. This will be an 
+opportunity to: 
+-  
+Increase confidence of building owners and the general public about solar PV as a 
+viable energy technology;
+61
+-  
+Improve knowledge and the skills of PV installation and construction companies, as 
+well as architects through learning-by doing;
+-  
+For Electricity and Water Authority, to test the integration of intermittent renewable 
+resources into the electricity grid.
+These  lessons  will  be  vital  for  the  continued  deployment  of  PV  (and  other  renewable 
+resources) in Bahrain.
+5.4 RENEWABLE ENERGY SYSTEMS IN URBAN DEVELOPMENTS
+Many  of  the  new  social  housing  units  will  be  built  in  new  town  developments  such  as 
+Northern City, Bahir, and Southern New Town. This presents an opportunity for the Ministry 
+of Housing to incorporate renewable energy sources not only in the housing units, but also 
+in the urban design. The Ministry of Housing has already started the process of integrating 
+principles  of  sustainability  in  new  town  developments.  One  of  such  examples  includes 
+Southern New Town development in collaboration with the Prince Charles Foundation.
+The  Southern  New  Town  development  will  have  around  4,000  homes  and  will  be  built 
+around  principles  of  environmental  and  social  sustainability.  This  includes  minimizing  the 
+environmental impact of the urban environment; creating healthier living spaces for people; 
+and promoting social dialogues through integrating creative solutions in the urban design 
+and management. 
+The sustainability strategy of the town plans seeks to incorporate renewable energy sources 
+in the town development as a means to reduce reliance on fossil fuel, and minimize the 
+impact on the environment. Two types of renewable energy initiatives are proposed: (1) 
+community scale PV array to provide clean power to the future residents of the town; and 
+(2) various decentralized renewable energy solutions integrated in the urban environment 
+(solar roof tops, building integrated PV, solar street lighting, solar parking lots).To create more 
+sustainable urban spaces, the Ministry of Housing in coordination with other Ministries, is 
+committed to incorporating renewable energy initiatives in other new town developments.
+62
+5.5 LARGE-SCALE SOLAR FARM ON AVAILABLE LAND
+Economies of scale favor the development of large-scale renewable energy plants; therefore, 
+it is prudent to consider deployment of such projects where land is available. A good example 
+is the deployment of a solar farm on land that is otherwise not productive such as a closed 
+landfill site. Askar landfill is the largest landfill site in Bahrain. Spread over an area of more 
+than 300 hectares, the landfill is expected to reach its capacity in the next few years. The 
+Askar landfill site mostly caters to solid municipal waste, agricultural waste, and industrial 
+non-hazardous waste. Currently around 80-100 hectares of Askar landfill is full and closed. 
+This parcel of land in general is not suitable for construction, or development of residential 
+or commercial projects due to the risks associated with landfill sites (high concentration of 
+toxic and hazardous materials posing serious health threats to people and pollutions risks to 
+environment). 
+One of the more successful ways of rehabilitating closed landfill sites is to turn them into solar 
+fields to generate clean power for the residents of nearby towns and villages. Generation of 
+solar power can be coupled with a landfill gas recovery project to enhance the utilization of 
+the land and provide for more safety. This will not only minimize the environmental impact 
+of the overall power generation system (by reducing greenhouse gas emissions), but also 
+will make more economic use of the otherwise unproductive land parcel, and promote more 
+sustainable development. Today there are many examples worldwide where landfill sites 
+have been successfully turned into solar fields.29 
+The Ministry of Works, Municipality and Urban Planning is committed to promoting sustainable 
+development in Bahrain, and strongly supports the rehabilitation of the closed landfill site 
+in Askar, into a solar field to provide clean power to the residents of nearby towns, reduce 
+reliance  on  fossil  fuels  for  power  generation,  and  contribute  to  shaving  the  energy  peak 
+demand during hot summer seasons.
+29  For some examples of solar landfill sites please see the report of the National Renewable Energy Laboratory 
+(NREL) “Best Practices on Sitting Solar Photovoltaic on Municipal Solid Waste Landfills” (2012), Appendix A.
+63
+5.6 SLUDGE TO ENERGY
+The  Tubli  Water  Pollution  Control  Center  (WPCC)  is  the  largest  municipal  wastewater 
+treatment plant in Bahrain serving most of the residential communities in the country. With 
+the recently completed upgrade to the Tubli WPCC the plant treats approximately 304,000 m3 
+of wastewater per day compared to the previous figure of 200,000 m3 per day. The treated 
+effluent is partially used for irrigation and the surplus is discharged into the nearby Tubli bay, 
+which is a protected natural reserve under both national and international legislation. 
+On average more than 50 ton of dry solids (sludge) is produced at Tubli WPCC on a daily 
+basis. Currently, there is no further process to treat the generated activated sludge from the 
+Tubli WPCC; most sludge is sent to the landfill site for sanitary disposal. This amount of sludge 
+presents an excellent opportunity to extract useful energy either through anaerobic digestion 
+process (biogas) or other waste to energy solution such as pyrolysis. The extracted energy 
+can be used to generate electricity to power the Tubli WPCC, thereby reducing electricity bill 
+of the Tubli plant.
+Recovering energy from sludge at the wastewater treatment plants will have a number of 
+environmental benefits: 
+-   Avoid  emission  of  greenhouse  gas  emissions  by  89,000  tonnes  of  CO2  per  year 
+from landfilling the sludge
+-  
+Reduce volume of sludge to be landfilled, saving the landfill capacity
+-  
+Stabilization, sanitation and odor reduction 
+-   Generating renewable energy that can be used to power the Tubli WPCC.
+5.7 RENEWABLE ENERGY PLANTS BY LARGE INDUSTRY GROUPS
+Large industry groups are taking a lead in launching renewable energy projects to show their 
+commitment in preserving the Kingdom’s natural resources and protecting the environment. 
+One  prominent  example  includes  the  recently  commissioned  Tatweer  Petroleum’s  1  MW 
+solar PV project. The new solar plant was commissioned in February 2016 with a total capital 
+cost of USD 1.8 million30. It is connected to Tatweer’s own grid and delivers enough power 
+to provide autonomy to its headquarters. After successful implementation of the first solar 
+project Tatweer is looking into further deployment of solar PV plants with a more optimized 
+cost structure. It is planning to install an additional 3-4 MW of solar PV capacity.
+30   Equivalent to BD 680,000
+64
+The  energy  intensive  aluminum  smelting  company,  Alba  is  also  looking  to  develop  solar 
+projects to take advantage of its available large industrial roof areas. It has already approached 
+the Sustainable Energy Unit for technical advice and assistance. Gulf Petrochemical Industries 
+Company  (GPIC)  has  been  a  pioneer  of  sustainability  actions  in  Bahrain.  As  part  of  its 
+sustainability  program  GPIC  plans  to  expand  the  use  of  renewable  energy  projects  at  its 
+premises in four phases, starting in 2014 and completing by 2019. It has already built a 10 
+kWp solar water heating system, and is in the process of installing a 0.5 MW solar PV project. 
+5.8 NEAR SHORE AND OFFSHORE WIND FARMS
+The  assessment  of  preliminary  wind  data  suggests  the  viability  of  taking  formal  steps  to 
+build  a  medium  scale  wind  farm.  The  first  wind  farm  can  be  used  to  demonstrate  the 
+technical and financial viability of such projects. In order to maintain a relatively reasonable 
+LCOE and attract private developers, the government is considering a prefeasibility study for 
+a wind farm with a capacity of around 50 MW (around 16 to 20 turbines). This process will 
+be initiated after the publication of the comprehensive wind resource assessment map for 
+the Kingdom of Bahrain. 
+5.9 EWA RENEWABLE ENERGY INITIATIVE
+To demonstrate commitment in renewable energy, EWA is developing Bahrain’s first 5 MW 
+hybrid renewable energy system in Al Dur district. The project consists of a 3 MW solar PV 
+system  and  a  2  MW  wind  turbine.  EWA  has  already  completed  detailed  technical  studies 
+and selected the successful contractor to perform engineering, design and installation of the 
+power plant.  The construction of the project is expected to start in 2017. 
+65
+6. GOING FORWARD
+A number of factors must come together to ensure that the National Renewable Energy 
+Action Plan effectively transitions from a desk document, to actions that capitalize on the 
+potential benefits described: 
+-   A governance structure that provides guidance and executive sponsorship; 
+-  
+Incorporation of renewable energy initiatives in ministries’ action plans and work 
+programs; 
+-   Developing tools enabling deployment of renewable energy initiatives; 
+-  
+Identifying funding opportunities for projects and activities.  
+An effective energy governance structure is critical to implementation of the National 
+Renewable Energy Plan. Current roles within government structures can be utilized and 
+built upon to support good governance.
+ 
+6.1 GOVERNANCE 
+An effective energy governance structure is critical to implementation of the National 
+Renewable Energy Plan. Current roles within government structures can be utilized and 
+built upon to support good governance.
+SUSTAINABLE ENERGY UNIT 
+SEU  is  the  designated  agency  for  promoting  sustainable  energy  policies  and  practices  in 
+the  Kingdom  of  Bahrain.  As  such  SEU  will  lead  the  coordination  efforts  in  implementing 
+the  NREAP,  and  will  provide  technical  assistance  in  the  deployment  of  renewable  energy 
+projects.
+Responsibilities:
+-  
+Coordinate  implementation  activities  among  all  stakeholders  through  developing 
+partnerships and organizing regular coordination meetings.
+-  
+Inform stakeholders on the progress of implementation of the NREAP.
+-   Draft  renewable  energy  policy  regulations  and  support  the  establishment  of 
+standard operating procedures for their implementation.
+-  
+Carry  out  feasibility  studies,  resource  potential  assessment,  cost-benefit  analysis 
+of  various  technology  options  and  business  models,  as  well  as  overseeing  the 
+implementation of pilot projects.
+66
+-  
+Provide technical assistance in developing tendering documents, drafting requests 
+for proposals, evaluating bids, and assessing outcomes of pilot projects.
+-  
+Carry  out  information  dissemination  and  awareness  raising  campaigns  through 
+launching a dedicated website, organizing press conferences, promoting renewable 
+energy at various public events.
+-   Organize and support capacity building and training activities for government and 
+non-government stakeholders.
+NREAP IMPLEMENTATION FOLLOW-UP COMMITTEE
+The Committee will be composed of high-level representatives of key government and non-
+government  institutions  who  would  play  the  role  of  change  agents  to  provide  guidance, 
+support  and  oversight  of  the  implementation  process  of  NREAP.  The  Committee  will  be 
+chaired by the Minister of Electricity and Water Affairs and may include representatives from 
+the Electricity and Water Authority, the Ministry of Finance, the Office of the First Deputy 
+Prime Minister, the Ministry of Industry and Commerce, the Ministry of Housing, the Ministry 
+of Works, Urban Planning and Municipalities, the Ministry of Oil, and the Supreme Council for 
+Environment. The Committee will meet on a quarterly basis.
+Responsibilities:
+-   Oversee implementation of the NREAP and facilitate its execution;
+-  
+Identify action items to overcome implementation issues and challenges;
+-  
+Put recommendations and suggest actions to relevant ministries;
+-   Decide on making changes in the NREAP if required;
+-   Discuss the progress in the implementation process. 
+SEU will assist in preparing the agenda of the meeting, the minutes, including the action list; 
+the progress report on the status of the implementation process since the last meeting; and 
+any other documents to be discussed or considered during the meeting.
+67
+6.2 INTEGRATING RENEWABLES IN MINISTRIES’ ACTION PLANS
+To demonstrate leadership and ensure successful development of renewable energy 
+it  is  important  that  individual  Ministries  and  government  institutions  incorporate 
+renewable energy initiatives in their action plans and work programs. 
+This will reinforce the role of the government as the leader in sustainability actions 
+and make renewable energy technologies more visible to people and businesses. 
+It will also allow government staff to build expertise and training with technologies 
+(purchasing,  installation,  suppliers,  options,  operation,  maintenance,  economics), 
+and aid in further development and improvement of renewable energy policies.
+6.3 TOOLS ENABLING RENEWABLE ENERGY
+To further aid the successful development of renewable energy systems, SEU in collaboration 
+with other research and think-tank institutions will provide and develop on continuous basis, 
+information, evidence based research, and tools to support the deployment of renewable 
+energies. Such activities include:  
+-   Developing proof of concept tasks to demonstrate feasibility and economic viability 
+of  various  renewable  energy  initiatives  through  cost-benefit  analysis  and  pilot 
+projects;
+-  
+Providing  guidance  on  various  technologies  and  building  a  stronger  case  for 
+adoption of renewables;
+-  
+Conducting resource potential assessment of new renewable energy sources and 
+identifying potential technical, economic, regulatory and institutional barriers;
+-  
+Streamlining regulatory and administrative procedures;
+-  
+Providing benchmarking, reporting, education, and capacity building activities.
+68
+6.4 FUNDING
+A key factor in advancing renewable energy systems is the capability to fund renewable 
+energy initiatives. There are two types of activities that require funding: 
+(1)  Funding for deployment of renewable energy systems; and 
+(2)  Funding  to  carry  out  other  activities  enabling  deployment  of  renewable  energy 
+systems.
+Deployment  of  renewable  energy  systems  requires  significant  capital  funding.  These  can 
+come from private sector and public sector. The current Plan proposes three policies that are 
+aimed at attracting private investment in renewable energy projects: (1) Net Metering; (2) 
+Tender-based Feed-in Tariff; and (3) Renewable Energy Mandate for New Buildings. 
+Funding requirements for activities enabling the deployment of renewable energy projects 
+such as capacity building, resource potential assessment, or feasibility studies are less capital 
+intensive, but more difficult to source from private sector. Many countries have established 
+clean  energy  funds  to  support  research,  development  and  demonstration  of  renewable 
+energy technologies. These funds are often financed either through direct allocation of funds 
+from government budget, private and public donations, or tax proceeds. 
+SEU will investigate best practices on setting up such fund and will develop a proposal for the 
+establishment of the Bahrain clean energy fund, to support the research, development, and 
+demonstration of renewable energy and energy efficiency initiatives. In additional, funding 
+from global clean energy financing mechanisms and global financial institutions will also be 
+explored.
+69
+6.5 SETTING PLAN INTO MOTION
+This  section  presents  the  top  ten  actions  to  set  the  Plan  into  motion.  Some  of  these  are 
+fundamental  activities  that  should  be  implemented  quickly  to  enable  further  progress, 
+others have already begun and are in the process of implementation. A few actions are large 
+impact, multi-stakeholder projects that require attention, or additional research in order to 
+deliver longer term results. The top ten actions are set out below:
+-   Develop and approve net metering regulations; 
+-   Develop and approve the grid code, and necessary technical guidelines for small-
+scale solar PV systems; 
+-   Designate 50-100 government buildings with large roof/parking lot areas for the 
+private development of solar PV systems through the tender-based feed-in tariff 
+scheme;
+-  
+Based on available wind speed data compile a detailed wind atlas for Bahrain;
+-  
+Launch  a  feasibility  study  on  integrating  renewable  energy  sources  in  large 
+infrastructure projects such as causeways; 
+-   Designate  a  batch  of  new  housing  units  to  implement  solar  PV  systems  as 
+demonstration projects;
+-   Designate Askar landfill site for the development of the large-scale solar PV farm;
+-  
+Explore the possibility of extracting energy from sludge at the wastewater treatment 
+plants;
+-  
+Launch a prefeasibility study for offshore wind power generation; 
+-  
+Launch a pilot waste to energy project.
+70
+71
+REFERENCES
+[1] Bahrain Intended Nationally Determined Contribution (INDC), November 2015
+[2] The United Nations General Assembly Resolution A/RES/70/1 Transforming our world: 
+the 2030 Agenda for Sustainable Development, September 2015
+[3] Arab Renewable Energy Framework, Arab Ministerial Council for Electricity, League of 
+Arab States, 2013
+[4] Bahrain Economic Vision 2030
+[5] Government Action Plan 2015-2018
+[6] Cabinet Resolution No 4/2238 on the Establishment of the Sustainable Energy Unit 
+[7] Bahrain Oil and Gas Statistics (Jan – Dec 2014), NOGA
+[8] Bahrain Economic Development Board (2015), Maximizing the Economic Value of 
+Bahrain’s Natural Gas Resources
+[9] Information & e-Government Authority 2015 Annual Report
+[10] Bahrain Electricity Law (1996)
+[11] World Bank (2016), Kingdom of Bahrain Energy Efficiency Program (KEEP)
+[12] EWA Electricity and Water Tariffs, 2016
+[13] Waheeb E.  Alnaser, Naser W. Alnaser ,Issa Batarseh, Bahrain’s BAPCO 5MWp PV Grid–
+Connected Solar Project, International Journal of Power and Renewable Energy Systems 
+Volume 1, 2014
+[14] RCREEE (2015), Arab Renewable Energy Index (AFEX) Renewable Energy, Regional 
+Center for Renewable Energy and Energy Efficiency
+[15] Bahrain Central Information Organization, Mid-Year Population Projections for the 
+Kingdom of Bahrain (2012-2032)
+[16] Fraunhofer ISE (June 2016), Photovoltaics Report
+[17] Solar-Facts, http://www.solar-facts.com
+[18] Energy Informative, http://energyinformative.org
+[19] CivicSolar, https://www.civicsolar.com/ 
+[20] Fraunhofer ISE (2015), Recent facts about Photovoltaics in Germany.
+[21] Dubai Electricity and Water Authority, https://www.dewa.gov.ae/en/about-dewa/
+news-and-media/press-and-news/latest-news/2015/03/dewa-signs-power-purchase-
+agreement-and-shareholder-agreement-for-second-phase-200mw-pv-plant-at-moh
+[22] Fraunhofer ISE (2015): Current and Future Cost  of Photovoltaics. Long-term Scenarios 
+for Market Development, System Prices and LCOE of Utility-Scale PV Systems. Study on 
+behalf of Agora Energiewende.
+[23] Francesco Frontini, Pierluigi Bonomo, Anatoli Chatzipanagi, BIPV Product Overview for 
+Solar Facades and Roofs, BIPV Status Report 2015.
+[24] IRENA (2015), Renewable Power Generation Costs in 2014.
+[25] Solar Energy Industry Association (2014), Concentrating Solar Power.
+[26] Fabrizi (2012), CSP Technologies.
+72
+[27] Hanan Al Buflasa, Murray Thomson, David Infield, Simon Watson, Feasibility Study of 
+Wind Power in the Kingdom of Bahrain, Centre for Renewable Energy Systems Technology 
+(CREST), Loughborough University 2007.
+[28] IRENA (2016), The Power to Change: Solar and Wind Cost Reduction Potential to 2025.
+[29] RenewablesNow, https://renewablesnow.com/news/moroccos-wind-power-price-
+goes-as-low-as-usd-30-mwh-509642/
+[30] EON (2012), Offshore Wind Energy Fact book
+[31] Position paper of the European Biogas Association on the revision of the Waste 
+Framework Directive from 5 April 2016
+[32] SGC (2012), Basic Data on Biogas 
+[33] California Energy Commission (2012), Economic and Financial Aspects of Landfill Gas 
+to Energy Project Development.
+[34] National Renewable Energy Laboratory of the US Department of Energy (2010), 
+Geothermal Energy Production with Co-produced and Geopressured Resources.
+73
+74
+75
+inquiry@seu.gov.bh
++973 17319429
+P.O. Box 26814
+Kingdom of Bahrain
+76

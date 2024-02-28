@@ -1,0 +1,1777 @@
+ Disclaimer: The SEU team has made efforts to use the latest data available and
+to ensure the accuracy of the content Nevertheless, the Government of Bahrain,
+the UNDP, and the SEU accept no liability nor give any guarantee for the
+validity, accuracy, and completeness of the information provided They assume no
+legal liabilities for damages, material or immaterial in kind, caused by the use
+or non-use of provided information or the use of erroneous or incomplete
+information This Plan is  living document that looks out to long-term needs and
+will be modified to reflect new information and changing conditions
+ACKNOWLEDGEMENTS The Minister of Electricity and Water Affairs would like to
+thank the First Deputy Prime Minister’ Office, the Electricity and Water
+Authority, the National Oil and Gas Authority, the Ministry of Housing, the
+Ministry of Works, Urban Planning and Municipalities, the Ministry of Industry
+Commerce and Tourism, the Ministry of Transport and Telecommunications, the
+Bahrain Defense Force, the Economic Development Board, the Supreme Council for
+Environment, large industry groups, academia, and all others who provided
+support in the preparation of this Plan with their valuable inputs, time,
+guidance, and expertise  “Bahraini nationals and residents enjoy  sustainable
+and attractive living environment Protecting our natural environment will
+include implementing energy-efficiency regulations (, for buildings and
+electrical appliances); and directing investments to technologies that reduce
+carbon emissions, minimize pollution and promote the sourcing of more
+sustainable energy” - Bahrain Economic Vision 2030  His Royal Highness Prince
+Salman Bin Hamad Al Khalifa The Crown Prince and Deputy Supreme Commander and
+First Deputy Prime Minister His Royal Highness Prince Khalifa Bin Salman Al
+Khalifa The Prime Minister His Majesty King Hamad Bin Isa Al Khalifa The King of
+Bahrain   Foreword The Minister of Electricity and Water Affairs: His
+Excellency, Dr Abdul Hussain bin Ali Mirza The government of the Kingdom of
+Bahrain is committed to the sustainability of the country’ natural resources for
+future generations, as well as the protection of the environment There is
+considerable potential for undertaking energy efficiency and renewable energy
+initiatives in Bahrain, which will extend the lifetime of oil and gas reserves,
+and enable long-term sustainable development Bahrain’ Economic Vision 2030 puts
+special emphasis on providing incentives for reducing and managing electricity
+demand, and investing in clean energy technologies; promoting energy efficiency
+standards to ensure sustainability; and ensuring better energy and water demand
+management Progress has already been achieved, indeed Bahrain has been  pioneer
+on the way to  more sustainable future The Kingdom was one of the first
+countries to install utility-scale wind turbines on  new commercial development,
+the iconic World Trade Center in 2008; and Bahrain was the first country in the
+GCC to have  district cooling system There are already several private sector
+renewable energy systems in operation; and  number of initiatives are underway
+to facilitate more efficient energy use In order to unify and consolidate
+efforts on energy efficiency and renewable energy, the Sustainable Energy Unit
+was established in November The Sustainable Energy Unit is mandated to develop
+strategies and policies for the integrated planning of energy sources in the
+Kingdom, as well as the rationalization of energy use, and to raise efficiency
+in all sectors through coordination with all concerned parties To this end, the
+Sustainable Energy Unit, in consultation with key stakeholders, has formulated
+the National Renewable Energy Action Plan and the National Energy Efficiency
+Action Plan, which were endorsed by the Cabinet (resolution no ) These plans are
+an important milestone in setting out Bahrain’ national targets for renewable
+energy deployment and the adoption of energy efficiency initiatives As such,
+they represent the Kingdom’ efforts to deliver the sustainable energy transition
+envisioned in the Economic Vision 2030 and the Government Action Plan 2015-The
+plans also represent the implementation of the Kingdom’ regional and
+international commitments under the Paris Agreement, the United Nations
+Sustainable Development Goals, and the League of Arab States Renewable Energy
+Framework and Guidelines on Energy Efficiency The initiatives within the plans,
+with the support of leadership across all ministries, and from key stakeholders
+and members of society, will enable the Kingdom’ sustainable future By working
+together, Bahrain can achieve its sustainable energy objectives, which will
+benefit the Kingdom economically and environmentally   Foreword United Nations
+Resident Coordinator and United Nations Development Programme Resident Rep-
+resentative: Mr Amin Al Sharkawi In recognition of both the need and potential
+to diversify Bahrain’ energy sector to include renewable sources, and to develop
+innovative ways to ensure the most efficient use of energy, the UNDP has been
+working with the Government of Bahrain for  number of years to respond to the
+important issue of sustainable energy The UNDP is delighted to support the
+Office of the Minister of Electricity and Water Affairs in establishing the
+Sustainable Energy Unit, for the benefit of the people of Bahrain, and to
+further the sustainable development of the country The publication of the
+National Renewable Energy Action Plan and the National Energy Efficiency Plan is
+an important milestone in Bahrain’ national development The leadership of the
+Kingdom of Bahrain is to be applauded for taking active steps towards
+sustainable future The plans align closely with the framework of the UN
+Secretary General’ Sustainable Energy for All (SE4All) Initiative that supports
+universal access to modern energy services, acceleration in energy efficiency
+improvements, and the increased use of renewable energy in the energy mix It
+also supports the 2030 Agenda for Sustainable Development which includes the
+United Nation’ 17 Sustainable Development Goals for social progress, economic
+growth and environmental protection By focusing on renewable energy and energy
+efficiency, the Kingdom of Bahrain is supporting the realization of the United
+Nations Sustainable Development Goal No : Ensuring acess to affordable,
+reliable, sustainable and modern energy for all The Bahraini National Renewable
+Energy Action Plan and the National Energy Efficiency Action Plan are on par
+with similar initiatives in other Arab countries, and will help to promote the
+exchange of successful international experiences for the benefit of Bahrain’
+ambitious development agenda To achieve these objectives, the UNDP will
+facilitate access to expertise from within the UN system and the international
+energy community Most importantly, the plans will become  building block to
+achieve Bahrain’ Economic Vision 2030 and has energy efficiency and renewable
+energy as top priorities This vision marks  new era of development and
+modernization for the Kingdom of Bahrain and the UNDP will continue to support
+Bahrain’ leadership in implementing these important sustainable energy
+initiatives  Table of Contents:  Energy Sector Overview 18: Page:   Bahrain’
+Sustainable Energy Agenda 25: Page:   Energy Efficiency Action Plan 31: Page:
+Energy Efficiency Initiatives 37: Page:   Going Forward 77: Page:  LIST OF
+TABLES AND FIGURES List of Tables Table : Bahrain’ Expected Energy Savings from
+the NEEAP 15 Table : Baseline Energy Indicators 34 Table : Sector-specific
+Energy Savings from the NEEAP 36 Table : Energy Efficiency Initiatives for the
+Residential and Commercial Sectors 39 Table : Energy Efficiency Initiatives for
+the Government Sector 50 Table : Energy Efficiency Initiatives for the
+Industrial Sector 57 Table : Energy Efficiency Initiatives for the Electricity
+Supply Sector 59 Table : Energy Efficiency Initiatives for the Transport Sector
+67 Table : Cross Sectoral Energy Efficiency Initiatives 70 List of Figures
+Figure : Overview of NEEAP Initiatives 15 Figure : Bahrain’ GDP composition 19
+Figure : CO2 Emissions Per capita Comparison 19 Figure : Energy Intensity
+Comparison in 2014 20 Figure : Grid Electricity Consumption by Sector, 2014 21
+Figure : Monthly Electricity Consumption by Sector, 2014 21 Figure : Per Capita
+Electricity Consumption: Top  Countries Last Decade 22 Figure : Projected
+Electricity Consumption Demand22 Figure : Electricity and Water Tariff Increases
+24 Figure 10: Bahrain’ National and International Commitments 25 Figure 11:
+Disaggregating Total Primary Energy Supply into Total Final Consumption 34
+Figure 12: Grid Electricity Consumption by Sector over the Baseline Period 35
+Figure 13: Disaggregating the National Target across the Sectors 36 Figure 14:
+Overview of Energy Efficiency Initiatives per Sector37 11 ACRONYMS AND
+ABBREVIATIONS AC air conditioning BHD Bahraini dinar CCGT combined cycle gas
+turbine CO2 carbon dioxide EWA Electricity and Water Authority GCC Gulf
+Cooperation Council GDP gross domestic product GWh gigawatt hours HVAC heating,
+ventilation, and air conditioning INDC intended nationally determined
+contribution IWPPs independent power and water producers ktoe thousand tonnes of
+oil equivalent kW kilowatt kWh kilowatt hours LED light-emitting diode MEPS
+minimum energy performance standard MMbtu million British thermal units MW
+megawatts NEEAP National Energy Efficiency Action Plan NOGA National Oil and Gas
+Authority PEE primary energy equivalent PV photovoltaic RT refrigeration tons
+SDGs sustainable development goals SEU Sustainable Energy Unit SME small and
+medium-sized enterprises TFC total final consumption UNDP United Nations
+Development Programme 12 EXECUTIVE SUMMARY BACKGROUND The Kingdom of Bahrain has
+witnessed significant growth over the past two decades, GDP has grown by almost
+% per year, driven by an increasingly diversified economy and an educated
+population, as well as substantial investment in infrastructure Bahrain is
+classified as  high-income country, with per capita wealth in 2015 double the
+world average The Kingdom’ economic growth has been underpinned by  secure
+energy system, which has seen  corresponding growth in energy demand Over the
+past twenty years, Bahrain’ total primary energy supply grew by %, total final
+energy consumption grew by %, and non-industrial electricity consumption grew by
+% per year This growth has placed increasing strain on the energy system Today
+the Kingdom’ power generation system relies exclusively on natural gas, which is
+scarce and diminishing resource Current projections on the availability of gas
+reserves suggest that Bahrain will no longer be able to meet its domestic
+consumption, and will have to rely on imported gas as early as An increased
+reliance on imported energy is highly likely to mean an increase in energy
+prices for consumers Ensuring the availability of oil and gas for future
+generations, and reducing the growth in Bahrain’ CO2 emissions, requires
+resources to be consumed as efficiently as possible Bahrain has high potential
+to realize multiple benefits from  national energy efficiency programme Pursuing
+energy efficiency can help the Kingdom to stimulate more efficient use of
+electricity and optimize the use of indigenous gas resources, decrease peak
+electricity demand, and promote investment, employment and innovation in energy
+efficient products and services The government of Bahrain has taken  number of
+critical steps to shift the country towards more efficient consumption of energy
+It has implemented electricity and transport subsidy reforms, and introduced
+important regulations, such as minimum energy performance standards for air
+conditioners and lighting products The National Energy Efficiency Action Plan
+(NEEAP) builds on existing achievements, and includes  comprehensive set of
+initiatives to unlock further energy efficiency potential in the Kingdom The
+Plan identifies specific programs and new initiatives across various sectors,
+and encompasses energy efficiency plans developed by individual institutions The
+Plan sets  national target for energy savings, identifies implementing
+mechanisms, and provides estimates of energy and monetary savings The Plan is in
+line with the Economic Vision 2030 and the Government Action Plan , which call
+for conservation of natural resources through implementing energy efficiency
+programs It also represents the implementation of the Kingdom’ regional and
+international 13 commitments under the Paris Agreement, the United Nations
+Sustainable Development Goals, and the League of Arab States Guidelines on
+Energy Efficiency The NEEAP has been prepared by the Sustainable Energy Unit
+(SEU) which reports directly to HE Minister of Electricty and Water affairs
+through broad consultation with key stakeholder groups, including the
+Electricity and Water Authority; the National Oil and Gas Authority; the
+Ministry of Housing; the Ministry of Works, Urban Planning and Municipalities;
+the Ministry of Industry, Commerce and Tourism; the Supreme Council for the
+Environment; the Bahrain Defense Force; large industry groups; and academia
+TARGET  comprehensive process of consultation and engagement was undertaken to
+determine  feasible national energy efficiency target for Bahrain Based on
+balance between technical and economic potential, and taking into account
+institutional capacity to deliver energy savings,  national target of % has been
+adopted The target is set as  reduction of energy consumption in the year 2025,
+expressed as  percentage of the average final energy consumption during the
+baseline period ()consumption during the baseline period () BENEFITS AND IMPACT
+Pursuing energy efficiency can help Bahrain to stimulate more efficient use of
+electricity and optimize the use of indigenous gas resources, decrease peak
+electricity demand, and promote investment, employment and innovation in energy
+efficient products and services The expected outcomes from the NEEAP will reduce
+greenhouse gas emissions, make the economy more competitive, and improve energy
+security in the long-term Achieving the % national energy efficiency target will
+result in: - Energy savings of ,800 GWh on  primary energy equivalent basis in
+year 2025 - Cumulative government monetary savings of BHD 82 million - Avoided
+investments in electricity generation of BHD 172 million - Anticipated financial
+impact of BHD 230 million, after deducting the cost of implementation -
+Cumulative reduction in greenhouse gas emissions of  million tonnes of CO2 The
+target and savings in GWh are calculated on  Primary Energy Equivalent (PEE)
+basis, and includes transport, industry, and electricity supply as sectors
+covered under the Plan 14 THE INITIATIVES To achieve the national target, and
+realize energy and monetary savings,  total of 22 initiatives are included
+within the Plan The initiatives cover all sectors of the economy, and target
+efficiency improvements in both energy supply and demand, as shown in Figure
+Figure : Overview of NEEAP Initiatives The NEEAP initiatives are expected to
+generate energy savings in all sectors, as shown in Table  Table : Bahrain’
+Expected Energy Savings from the NEEAP 15 Achieving the national energy
+efficiency target will involve concerted action on the part of all stakeholders,
+including multiple ministries The following entities will be directly engaged in
+the implementation of the initiatives: - Electricity and Water Authority; -
+Ministry of Finance; - Ministry of Industry, Commerce and Tourism; - Ministry of
+Housing; - Ministry of Transportation and Telecommunication; - Ministry of
+Works, Municipalities and Urban Planning; - National Oil and Gas Authority; -
+Supreme Council for the Environment; - Large industrial companies such as Alba,
+BAPCO, Tatweer, GPIC, and Foulath Holding; and - Sustainable Energy Unit
+GOVERNANCE  SUSTAINABLE ENERGY UNIT The Sustainable Energy Unit (SEU) was
+established in November 2014 and is the designated agency for promoting
+sustainable energy policies and practices in the Kingdom of Bahrain As such, SEU
+will lead the coordination efforts in implementing the NEEAP, and will provide
+technical assistance in the design and implementation of specific initiatives
+SEU’ responsibilities are to: - Coordinate implementation activities among all
+stakeholders through developing partnerships and organizing regular coordination
+meetings; - Inform stakeholders on the progress of implementing the NEEAP; -
+Draft energy efficiency policies and regulations, and support the establishment
+of standard operating procedures for their implementation; - Carry out
+feasibility studies, cost-benefit analysis of various technology options and
+business models, as well as oversee the implementation of pilot projects; 16 -
+Conduct monitoring and evaluation of initiatives, and calculate energy and
+monetary savings; - Provide technical assistance in developing tendering
+documents, drafting requests for proposals, and assessing outcomes of pilot
+projects; - Carry out information dissemination and awareness raising campaigns
+through launching  dedicated website, organizing press conferences, and
+promoting energy efficiency at various public events; - Organize and support
+capacity building and training activities for government and non-government
+stakeholders II NEEAP IMPLEMENTATION FOLLOW-UP COMMITTEE The Committee will be
+composed of high-level representatives of key government and non- government
+institutions who would play the role of change agents to provide guidance,
+support and oversight of the implementation process of NEEAP The Committee will
+be chaired by the Minister of Electricity and Water Affairs and may include
+representatives from the Electricity and Water Authority, the Ministry of
+Finance, the Office of the First Deputy Prime Minister, the Ministry of Industry
+and Commerce, the Ministry of Housing, the Ministry of Works, Urban Planning and
+Municipalities, the Ministry of Oil, and the Supreme Council for Environment The
+Committee will meet on  quarterly basis The Committee’ responsibilities are to:
+- Oversee the implementation of the NEEAP and facilitate its execution; -
+Identify action items to overcome implementation issues and challenges; - Put
+recommendations and suggest actions to relevant ministries; - Decide on making
+changes to the NEEAP if required; - Discuss the progress on the implementation
+process SEU under the guidance of the Minister of Electricity and Water Affairs
+will lead the coordination of the implementation of the Plan SEU will also act
+as the ‘national mandated entity’ for the purposes of reporting under the Arab
+Guidelines on Energy Efficiency 17  ENERGY SECTOR OVERVIEW  OIL AND GAS The
+Kingdom of Bahrain has witnessed significant growth over the past two decades,
+GDP has grown by almost % per year, driven by an increasingly diversified
+economy and an educated population, as well as substantial investment in
+infrastructure Bahrain is classified as  high-income country, with per capita
+wealth double the world average in The Kingdom’ economic growth has been
+underpinned by  secure energy system, which has seen  corresponding growth in
+energy demand Over the past twenty years, Bahrain’ total primary energy supply
+grew by %, total final energy consumption grew by %, and electricity consumption
+excluding industry grew by % per year [] This growth has placed increasing
+strain on the energy system To meet domestic energy demand, Bahrain relies
+entirely on its indigenous hydrocarbon resources In 2014, Bahrain’ total energy
+consumption came from two sources: oil (17%) and natural gas (83%) Bahrain was
+the first country in the GCC region to discover oil reserves in 1932, crude oil
+production reached its peak in 1970, and since then it has been gradually
+declining In 2014, crude oil production amounted to 202,000 barrels  day [], and
+at current production levels, the oil reserves have  projected lifetime of
+around 11 years Natural gas is the backbone of the energy system and economy of
+Bahrain It is the sole energy source for Bahrain’ power and water generation
+Natural gas is also economically critical for the operation of the Kingdom’
+industries Today all natural gas is used for domestic consumption: 41% by the
+manufacturing sector; 33% for power and water generation; and 25% is re-injected
+for enhanced oil recovery [] The projected lifetime of natural gas reserves is
+around 15 years Current projections on the availability of gas reserves suggest
+that Bahrain will no longer be able to meet its domestic consumption, and will
+have to rely on imported gas as early as 2018, at an expected price higher than
+that currently paid by Bahrain’ gas users Ensuring the availability of oil and
+gas for future generations, and reducing the growth in Bahrain’ CO2 emissions,
+requires resources to be consumed as efficiently as possible To realize Bahrain’
+Economic Vision 2030, the government has adopted  policy of diversifying the
+economy Figure  shows how the Kingdom’ economy has transitioned from  dominant
+hydrocarbon sector to  more diversified economy, over the period to However, the
+relatively limited hydrocarbon exports continue to be one of the main sources of
+national income In 2014, oil & gas extraction was the largest contributor to GDP
+(around 24%), followed by financial services (16%) and manufacturing (around
+15%) [] Currently, Bahrain has developed the most diversified economy in the GCC
+region The three fastest growing sectors over the past decade were social and
+personal services; construction; and transportation and communication 18 Figure
+: Bahrain’ GDP composition 50 45 40 35 30 25 20 15 10   Oil & Gas Extraction
+Manufacturing Transport & Communication Social & Personal Services Trade Other
+2000 2014 Data Source: Information & eGovernment Authority  ENERGY INTENSITY AND
+GREENHOUSE GAS EMISSIONS The energy sector in Bahrain remains the largest source
+of greenhouse gas emissions in the Kingdom, contributing 77% to total emissions
+[] Figure  shows Bahrain’ CO2 emissions per capita over the last fifty years []
+Although Bahrain makes relatively minor contributions to global greenhouse gas
+emissions, Bahrain’ per capita emissions are amongst the highest in the world
+and continue to trend upwards In 2013, Bahrain’ per capita CO2 emissions were
+twice the average of the high-income country, and almost five times higher than
+the world average Relatively high per capita emissions are attributed to
+Bahrain’ small land size, population density, harsh climate conditions, scarcity
+of water resources, and heavy reliance on energy intensive desalination plants
+[] Implementing energy efficiency and renewable energy policies has high
+potential to reduce the Kingdom’ greenhouse gas emissions Figure : CO2 Emissions
+Per Capita Comparison 35 30 )       25    20     15       10 (
+1967 1970 1975 1980 1985 1990 1995 2000 2005 2010 2013 Bahrain World High income
+Data Source: World Bank, World Development Indicators, 2016 19 Energy intensity
+is the ratio of energy consumption to GDP, and is  standard measure for how
+efficiently energy is used in  country Bahrain’ energy intensity is 54% higher
+than the GCC average, and 88% higher than the world average [], as depicted in
+Figure  Figure : Energy Intensity Comparison in 2014 Bahrain 239           /
+, 155 GCC World 127 000 050 100 150 200 250 300  POWER SECTOR In 2014, the
+Kingdom had ,204 MW of installed electricity generation capacity Of this, ,274
+MW are captive power plants, owned and operated by large industry groups such as
+Alba, BAPCO and GPIC Independent power and water producers (IWPPs) own and
+operate ,100 MW, and EWA owns and operates 825 MW [] In addition, Bahrain can
+import and export electricity through its 600 MW capacity interconnection with
+the GCC Interconnection Authority Power produced by captive power plants is
+consumed on site by large industry groups Power produced by the IWPPs and EWA is
+distributed and sold to customers by EWA EWA is the sole body responsible for
+electricity transmission, distribution, and grid operation In 2014, the Kingdom
+consumed 24,705 GWh Grid electricity supplied by EWA accounted for 15,186 GWh,
+or 66% of total electricity consumption The remaining 34% was generated and
+consumed by large industry The residential sector uses most of the grid
+electricity, at 46% of total grid consumption, as shown in Figure  The
+commercial sector is the second-largest user accounting for %, followed by
+industry at % 20 Figure : Grid Electricity Consumption by Sector, 2014 Industry,
+17% Residential, 46% Commercial, 36% Figure  shows the monthly electricity
+consumption by sector in The electricity consumed by industry can be considered
+baseload, given the consumption profile The residential and commercial sectors
+demonstrate much higher demand during the summer months, when the weather
+necessitates increased use of air conditioners for cooling Figure : Monthly
+Electricity Consumption by Sector, 2014 1000 900 800 700 600    500 400 300 200
+100  Residential Commercial Industry Agriculture Despite the global trend for
+consumption per capita to decrease, with per capita electricity consumption of
+19,592 kWh in 2014, Bahrain remains in the top five countries with the highest
+per capita electricity consumption in the world [], as shown in Figure  21
+Figure : Per Capita Electricity Consumption: Top  Countries Last Decade 60,000
+50,000       40,000 30,000       20,000 10,000  Iceland Norway Bahrain Canada
+Qatar 2004 2014 Bahrain’ high consumption figures are  result of the energy
+system being characterized by the large presence of energy intensive industries
+such as aluminum smelting, oil refining, petrochemicals, and steel Many of these
+industries have their own captive power plants Industry accounts for (41%) of
+final energy consumption, followed by the transport sector (31%), the
+residential sector (18%), and the government sector (11%) [] Grid electricity
+consumption grew from ,516 GWh in 2000, to 15,186 GWh in 2014 (an annual average
+growth rate of %) [] With the current projections of population growth, economic
+development, and expansion of industries, the demand for energy will increase
+EWA has projected electricity demand for 2020 and 2030 under three growth
+scenarios starting from 2013: low, medium, and high, depicted in Figure
+According to these projections under the low growth scenario the demand for
+grid-supplied electricity will reach 21,700 GWh in 2030, under the medium growth
+scenario demand will nearly double reaching 28,180 GWh, and under the high
+scenario demand will reach 34,550 GWh in Figure : Projected Electricity
+Consumption Demand 40000 35000     30000                 25000  20000 15000
+10000 5000  High Medium (Base) Low Source: EWA 22  HIGH SEASONAL PEAK DEMAND
+Similar to other GCC countries, Bahrain has  large seasonal variation in
+electricity consumption Due to very hot summers, electricity consumption during
+the months from May to October increases significantly This is mainly due to the
+heavy use of AC units, which account for 60%-65% of electricity usage in
+buildings In 2014, the highest peak electricity consumption occurred in August
+(,720 GWh) and the lowest electricity consumption occurred in January (701 GWh)
+[] Total electricity consumption in August was two and  half times higher
+electricity consumption in January Aside from seasonal peaks, Bahrain also has
+daily electricity consumption peaks Bahrain has two daily peaks: the first peak
+occurs between 11:00 and 16:00, and the second occurs between 18:00 and 19:On
+typical summer day (30 August 2015), the first peak consumption occurred at
+13:39 reaching ,441 MW, and the second peak occurred at 18:36 reaching ,189 MW
+These numbers are compared with electricity consumption during  typical winter
+day (30 January 2015), when the first peak occurred at 12:06 reaching ,137 MW,
+and the second peak occurred at 18:09 reaching ,208 MW [] To meet peak demand,
+the government needs to maintain extra generation capacity, which is  costly
+activity According to the World Bank analysis of the 2014 demand curve, the
+network required an additional 500 MW which operates for less than 50 hours
+year The estimated cost to the government to maintain 500 MW over  20-year
+period is over USD 600 million This amount excludes fuel costs of producing
+electricity, and variable operation and maintenance costs [] Energy efficiency
+initiatives can contribute to significantly reducing peak load demand  COST OF
+ENERGY As the population continues to grow, and the limited amount of fossil
+fuels begins to diminish, it may not be possible for Bahrain to meet its growing
+energy demand without relying on imported energy Bahrain is already planning to
+import natural gas as early as 2018, and steps are underway to complete the
+construction of an LNG import facility An increased reliance on imported energy
+is highly likely to mean an increase in energy prices for consumers In
+anticipation of the diminishing gas supply, the government adopted  new gas
+pricing policy in Under this policy, the price of natural gas sold to domestic
+companies will increase by USD 25 per MMbtu each year on  April The pricing
+policy will be reviewed when the price reaches USD  per MMbtu by  April 2021 []
+The first price increase took place on  April 2015, from USD 25 to 50 per MMbtu
+Adopting energy efficiency policies will help Bahrain reduce its reliance on
+imported energy, prolong the lifetime of the indigenous natural gas resource,
+and optimize its economic value This approach will improve energy security in
+the long-term and will have  positive impact on Bahrain’ economic
+competitiveness, and the environmental performance of the energy sector overall
+23 Electricity in Bahrain is entirely produced from natural gas; therefore, the
+cost of power generation largely depends on the gas price The current cost of
+power generation is 22 fils/kWh Electricity transmission costs  fils/kWh, and
+distribution costs  fils/kWh Therefore, it costs 29 fils/kWh for EWA to supply
+power to end customers This cost is based on  natural gas price of USD  per
+MMbtu As the cost of natural gas will increase by USD 25 per year, the cost of
+electricity supply will also increase According to estimations, the cost of
+electricity supply (including transmission and distribution costs) from natural
+gas could increase to 36 fils/kWh by 2020, based on the planned gas price
+increases Up until recently electricity and water tariffs were subsidized
+Effective from  March 2016, new electricity and water tariffs have been applied
+to electricity and water consumers, in accordance with the new tariff schedule
+announced by EWA The electricity tariffs will be gradually increased to meet the
+cost of power generation of 29 fils/kWh by The new tariffs are applicable to all
+residential, commercial and industrial consumers Bahraini citizens holding
+single EWA account are exempt from tariff increases [10] Figure : Electricity
+and Water Tariff Increases Electricity Tariffs (Fils/ kWh) Domestic Residential
+Tariff    (kWh/month)   16 Water Tariffs (Fils/ m3) Domestic Residential Tariff
+(m3/month)    2016 2019 2018 80 200 450 750 25 80 200 300 500 750 200 300 400
+600 750 2016  13 19 2017 13 18 22 2018 21 23 25 2019 29 29 29 2017 From  - 3000
+From 3001 - 5000 More than 5000 From  - 60 From 61 - 100 More than 100 Non-
+Domestic Tariff (kWh/month) Non- Domestic Tariff (m3/month) From  - 5000 From
+5001 -250000 From 250001 -500000 More than 500000 16 16 16 16 16 19 21 29 16 22
+23 29 16 25 26 29 16 29 29 29 From  - 450 More than 450 300 400 550 650 750 400
+500 600 700 750 * Electricity and water tariff increases do not apply to
+Bahraini nationals holding  single EWA account 24  BAHRAIN’ SUSTAINABLE ENERGY
+AGENDA The Kingdom of Bahrain is committed to the development of sustainable
+energy envisioned in the Economic Vision 2030, the Government Action Plan , and
+as  party to regional and international agreements Figure 10: Bahrain’ National
+and International Commitments  INTERNATIONAL COMMITMENTS THE PARIS AGREEMENT In
+December 2015, the 21st Conference of the Parties of the United Nations
+Framework Convention on Climate Change took place in Paris (COP21) As  result,
+195 nations adopted the Paris Agreement to take action toward holding the
+increase of global average temperature to well below ° above pre-industrial
+levels The Paris Agreement is  historic agreement to combat climate change, and
+accelerate actions and investments needed for  sustainable 25 low carbon future
+On 22 April 2016 Bahrain signed the Paris Agreement, and expressed its support
+through publication of its Intended Nationally Determined Contribution (INDC) in
+November 2015 [11] The INDC is an official pledge by the Kingdom to support the
+global efforts in combating climate change by taking specific actions to reduce
+the country’ greenhouse gas emissions Energy efficiency and renewable energy
+represent key initiatives in Bahrain’ INDC, as both hold great potential to
+reduce greenhouse gas emissions, as well as to promote sustainable development
+THE UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS In September 2015, at the
+United Nations Sustainable Development Summit, world leaders officially adopted
+new agenda entitled “Transforming Our World: The 2030 Agenda for Sustainable
+Development” The new global agenda includes 17 Sustainable Development Goals
+(SDGs) and 169 targets The SDGs represent  consensus of the 193 member states of
+the United Nations to end poverty, protect the planet, and ensure the prosperity
+for all SDG  calls on countries to “Ensure access to affordable, reliable,
+sustainable and modern energy for all” [12] This goal is supported by five
+targets to be achieved by 2030: - Ensure universal access to affordable,
+reliable and modern energy services - Increase substantially the share of
+renewable energy in the global energy mix - Double the global rate of
+improvement in energy efficiency - Enhance international cooperation to
+facilitate access to clean energy research and technology, including renewable
+energy, energy efficiency and advanced and cleaner fossil-fuel technology, and
+promote investment in energy infrastructure and clean energy technology - Expand
+infrastructure and upgrade technology for supplying modern and sustainable
+energy services for all in developing countries, in particular least developed
+countries, small island developing States, and land-locked developing countries,
+in accordance with their respective programs of support The government of the
+Kingdom of Bahrain embraced the challenge of meeting the Millennium Development
+Goals by 2015, and expressed its commitment to the post-2015 development agenda
+process at the press conference in the UN Sustainable Development Summit held on
+20 September 26 LEAGUE OF ARAB STATES – ENERGY EFFICIENCY GUIDELINES In November
+2010, the Arab Ministerial Council for Electricity of the League of Arab States
+adopted “The Arab Guideline for Improving Electricity Efficiency and
+Rationalizing its Consumption at The End User” [13] The main purpose of the
+Guidelines is to promote the cost- effective improvement of end use electricity
+in Arab countries (efficiency and conservation) through guidance, methodologies
+and templates for setting an energy efficiency target and developing energy
+efficiency measures The Guidelines mandate the member states to develop National
+Energy Efficiency Action Plans (NEEAPs) to achieve comprehensive energy savings
+by The Guidelines prescribe Arab country member states to: - Disclose key
+indicators and set an energy efficiency indicative target calculated in
+accordance with the methodology in Annex “” (Article III) - Identify suitable
+energy efficiency measures to achieve the target (Article III:) - Assign
+responsibility to an entity for overall control of the NEEAP (Article III:) -
+Ensure an exemplary role of public sector (Chapter III) - Ensure that energy
+distributors, distribution system operators and retail energy companies
+contribute to energy efficiency through various measures (Article ) - Ensure
+that information about energy efficiency measures and mechanism reaches the
+relevant stakeholders (Article VI) - Revise national legislation impeding or
+restricting the use of financial instruments (Article VIII) - Consider
+restructuring electricity tariffs to encourage energy efficiency (Article IX) -
+Provide necessary financial resources to support energy efficiency measures
+(Article ) - Ensure availability of effective programs for energy audit services
+by independent bodies such as energy service companies or electric power
+distribution companies (XI) This Plan is drafted in accordance with the
+requirements of the Arab Guidelines The target is calculated in accordance with
+the suggested methodology The Plan ensures the exemplary role of the government
+sector and designates the SEU as the national mandated agency responsible for
+the preparation of the NEEAP 27  NATIONAL COMMITMENTS Pursuing energy efficiency
+is not only an international commitment of Bahrain, but also of national
+importance and is in line with the Kingdom’ Economic Vision Economic Vision 2030
+recognizes economic, social, and environmental sustainability as its key
+principles It indicates explicitly that economic growth must never come at the
+expense of the environment and the long-term well-being of the people
+Furthermore, it calls for implementing energy efficiency regulations and
+investment in technologies that reduce carbon emissions, minimize pollution and
+promote sustainable energy [14] In clear recognition of the benefits of energy
+efficiency, Bahrain is committed to foster the development of low-carbon energy
+initiatives by unlocking the Kingdom’ energy efficiency potential In 2015, the
+government adopted the Government Action Plan  to deliver sustainable change in
+line with the Economic Vision The Government Action Plan reflects Bahrain’
+strategic priorities over the next four years and seeks to capitalize on the
+Kingdom’ resources and capabilities to meet the needs of all Bahrainis Under the
+“Environment and Urban Development” pillar, the government made commitments to
+improve the efficiency of electricity and water consumption [15] To achieve
+this, the government will seek to - Increase education and awareness to reduce
+the waste of electricity and water; - Adjust the cost of services and encourage
+the take up of technologies geared towards rationalization; - Work on the
+adoption of smart distribution mechanisms, where possible and appropriate, in
+order to improve the management of energy and water resources; - Develop
+building regulations to contribute to the rationalization of electricity
+consumption in all new buildings  SUSTAINABLE ENERGY UNIT In November 2014,
+under Cabinet Resolution /2238, the government established the Sustainable
+Energy Unit (SEU) to lead and promote sustainable energy policies and practices
+in the Kingdom of Bahrain SEU was established under the office of the Minister
+of Energy with the support of the United Nations Development Programme (UNDP)
+[16] Due to the broad central government restructuring in summer 2016, SEU
+became one of the initiatives governed by the Office of the Minister of
+Electricity and Water Affairs The key objectives of SEU are to develop  cohesive
+sustainable energy policy framework to promote renewable energy, energy
+efficiency, and conservation in the country SEU will also work towards bridging
+the legal, institutional, and capacity gaps in order for Bahrain’ energy sector
+to meet future challenges 28 The mandate of SEU includes: - Synergizing and
+consolidating existing efforts of public, private and international institutions
+in achieving goals as stated in the Bahrain Economic Vision 2030; - Supporting
+the creation of an enabling environment for energy efficiency and renewable
+energy technology transfer, and private sector investments; - Supporting the
+development of necessary policies, regulations, and standards across various
+sectors; - Promoting replication and up-scaling of successful pilot projects and
+initiatives across the Kingdom; - Strengthening national capacity on the
+deployment of renewable energy and energy efficiency technologies; -
+Coordinating the implementation of national, regional, and international
+obligations relating to energy efficiency and renewable energy; and - Raising
+public awareness on the benefits of energy efficiency and renewable energy The
+NEEAP represents one of the key components of the Kingdom’ efforts to implement
+its national, regional, and international commitments in the field of energy
+efficiency and climate change mitigation It identifies feasible energy
+efficiency initiatives, sets the national target, and proposes policies and
+actions to unlock Bahrain’ energy efficiency potential SEU under the guidance of
+the Minister of Electricity and Water Affairs will lead the coordination of the
+implementation of the Plan SEU will also act as the ‘national mandated entity’
+under the Arab Guidelines on Energy Efficiency 29 30  ENERGY EFFICIENCY ACTION
+PLAN  INTRODUCTION Energy efficiency means using less energy for the same output
+or service, and in some cases the service can be improved (for example, the
+replacement of incandescent lamps with LEDs reduces energy consumption and
+produces fewer emissions, and also provides higher quality lighting) Energy
+efficiency is considered to be the first fuel by the International Energy Agency
+[17],  preferred source of energy that should be utilized ahead of other more
+costly sources, such as investing in new capacity It has  key role in ensuring
+the competitiveness of businesses, in terms of financial and environmental
+considerations, by way of productivity gains throughout the economy, as  result
+of more efficient resource use and lower greenhouse gas emissions The practical
+aspect of energy efficiency is to reduce energy consumption, without degrading
+the quality of the final services or products, and it very often results in
+tangible monetary savings that can be used for other purposes In the case of
+industry, energy efficiency initiatives improve productivity and
+competitiveness, and can reduce exposure to energy price volatility For
+households, energy efficiency frees money for spend on other goods and services,
+or for savings and investments Bahrain has high potential to realize multiple
+benefits from  national energy efficiency programme Pursuing energy efficiency
+can help the Kingdom to stimulate more efficient use of electricity and optimize
+the use of indigenous gas resources, decrease peak electricity demand, and
+promote investment, employment and innovation in energy efficient products and
+services The National Energy Efficiency Action Plan represents one of the key
+components of the Kingdom’ efforts to implement its national, regional, and
+international commitments in the field of sustainable energy development and
+climate change It takes  multi-pronged approach and builds on existing
+achievements, and presents  comprehensive set of initiatives to further unlock
+Bahrain’ energy efficiency potential across its economy The Plan identifies
+specific programs and new initiatives for all sectors, and encompasses energy
+efficiency plans developed by individual institutions The Plan sets  national
+target for energy savings, identifies implementing mechanisms, and provides
+estimates of energy and monetary savings It encourages government to act as an
+exemplar, and in doing so, it provides the necessary guidance and leadership for
+all related parties The initiatives encompass primary energy savings and end-use
+measures  variety of policy mechanisms will be utilized as appropriate to
+deliver the national energy efficiency target, such as minimum energy
+performance standards and labeling, an energy efficiency building code, energy
+management in buildings, electricity and fuel price reforms, sectoral targets,
+as well as awareness raising and training 31 The NEEAP has been prepared by SEU
+through broad consultation with key stakeholder groups including the Electricity
+and Water Authority; the National Oil and Gas Authority; the Ministry of
+Housing; the Ministry of Works, Urban Planning and Municipalities; the Ministry
+of Industry and Commerce; the Supreme Council for the Environment, the Bahrain
+Defense Force; large industry groups; and academia  CONSOLIDATING EXISTING
+EFFORTS The NEEAP draws together initiatives identified in ”The EWA Energy
+Efficiency Action Plan for the Kingdom of Bahrain  (EWA-EEAP)”, and the “Kingdom
+of Bahrain Energy Efficiency Program (KEEP)” prepared by the World Bank in 2016,
+on behalf of the Ministry of Finance Energy efficiency initiatives in Bahrain’
+Intended Nationally Determined Contribution submission to the United Nations
+Framework Convention on Climate Change [11] have also been incorporated into
+this Plan In order to ensure coordination and that all relevant sectors are
+addressed, the NEEAP also includes initiatives to improve energy efficiency in
+other sectors as well, such as setting minimum vehicle emission standards for
+the transport sector, and the NEEAP also encompasses improving efficiency in
+electricity supply EWA ENERGY EFFICIENCY ACTION PLAN In 2016, the Electricity
+and Water Authority (EWA) published the EWA-EEAP [18], the key measures of which
+have been directly incorporated into this Plan As noted in the foreword to the
+EWA plan, “…this Plan includes  independent but correlated measures in the field
+of energy efficiency with respect to the various sectors of energy consumption
+EWA-EEAP aims to achieve an indicative target for energy efficiency of 19% of
+the total expected electricity consumption in the year 2020, taking into
+consideration the present total electricity consumption and  consumption growth
+rate of %” Achievement of the savings set out in the EWA-EEAP will make
+significant contribution to achieving Bahrain’ national energy efficiency target
+The 19% reduction equates to ,394 GWh of savings (measured on  final energy
+basis) In addition to taking responsibility for the delivery of  number of the
+important initiatives captured under the NEEAP, EWA has  critical role in the
+collection of data, to enable the calculation of savings delivered under this
+Plan THE KINGDOM OF BAHRAIN ENERGY EFFICIENCY PROGRAM KEEP [] was developed by
+World Bank team in close coordination with key stakeholders, and under the
+leadership of the Ministry of Finance It sets out several initiatives to reduce
+electricity consumption, in the residential, commercial, government, and SME
+sectors 32 KEEP focuses on demand-side energy efficiency among grid-connected
+consumers; as such it excludes production and transmission It sets  20% national
+target for energy efficiency improvements by the year 2030, as well as  pathway
+for the design, implementation, and evaluation of 15 energy efficiency
+initiatives KEEP provides the overall strategy and high- level design of the
+draft initiatives for the electricity sector Those initiatives commencing prior
+to 2020 have been incorporated into the NEEAP BAHRAIN’ INTENDED NATIONALLY
+DETERMINED CONTRIBUTION Bahrain is  party to the Paris Agreement, and expressed
+its support through publication of its Intended Nationally Determined
+Contribution (INDC) in November 2015 [11] Several energy efficiency initiatives
+from the EWA-EEAP are included in the INDC, as well as key transport initiatives
+and those from large industry These initiatives have been incorporated into the
+NEEAP  ENERGY BASELINE AND KEY INDICATORS According to the Arab Guidelines [13],
+the energy efficiency target should be expressed both as  percentage of the
+baseline consumption and specific GWh to be saved Calculation of the baseline
+energy consumption should be the average amount of energy consumed during the
+last five years prior to adopting the NEEAP To better characterize the baseline
+energy situation in Bahrain, the energy balance statistics compiled by
+International Energy Agency (IEA) have been used as  source [] The NEEAP takes
+the average of the last five years of published IEA energy balance data () for
+the Kingdom of Bahrain as the baseline period The target and savings in GWh are
+calculated on  Primary Energy Equivalent (PEE) basis, and includes transport,
+industry, and electricity supply as sectors covered under the Plan PEE takes
+into account conversion losses in electricity generation and makes units of
+different energy streams (kWh of electricity, cubic feet of gas, and liters of
+gasoline) more comparable  key principle underpinning the Plan is that all
+sectors of the economy should, if possible, contribute to the NEEAP According to
+IEA data [], Bahrain uses almost three-quarters of its primary energy for
+electricity production, energy industry own use (includes gas reinjection) and
+non-energy use (such as to produce chemicals) as shown in Figure 11, resulting
+in total final consumption1  In the IEA energy balance, conversion of natural
+gas into chemicals is included in total final energy consumption Bahrain
+converts  large percentage of its natural gas into chemicals, therefore there is
+large difference between ‘Total Final Consumption’ and ‘Total Final Consumption
+Excluding Non-Energy Use’ For clarity, the term ‘Total Final Consumption’ (TFC)
+refers to the TFC excluding non-energy use 33 equal to 27% of total primary
+energy supply This is due to the current relatively inefficient electricity
+production system, and the reinjection of  relatively large quantity of gas to
+support enhanced oil recovery Figure 11: Disaggregating Total Primary Energy
+Supply into Total Final Consumption Ktoe 14000 12000 10000 8000 6000 4000 2000
+Total Primary Energy Supply Others Electricity Production Energy Industry Own
+Use Non-energy Use Total Final Consumption The Arab Guidelines on Energy
+Efficiency require reporting on key energy indicators (see Table ) These
+indicators are computed based on statistics from EWA, the IEA, and the Arab
+Union of Electricity [19] Table : Baseline Energy Indicators Indicator Unit 2009
+- 2013 Electricity intensity Gross annual electricity generation (including
+IWPPs) Imported electric power Exported electric power Electricity demand growth
+rate Primary energy consumption at the national level Electricity share of
+primary energy consumption Share of grid electricity consumption by sector :
+Residential Commercial Industry Other Marginal Cost of Producing One kWh
+Electriﬁcation Rate GWh/GDP (USD) GWh GWh GWh % Mtoe % 801 24,283 138 92 % 73 %%
+% % % USD/kWh % %%%% 08 10 Aside from the agriculture sector (included in Other
+in Figure 12), the residential, commercial and industry sectors have experienced
+progressive growth in grid electricity consumption throughout the baseline
+period 34 Figure 12: Grid Electricity Consumption by Sector over the Baseline
+Period 16,000 14,000 )    ( 12,000 20% 17% 14% 18%            10,000 12% 48% 45%
+46% 44% ,000 34% ,000     ,000 58% 63% 59% 62% 53% ,000  2009 2010 2011 2012
+2013 Residential Commercial Industry Other  THE NATIONAL ENERGY EFFICIENCY
+TARGET  comprehensive process of consultation and engagement was undertaken to
+determine  feasible national energy efficiency target for Bahrain Based on
+balance between technical and economic potential, and taking into account
+institutional capacity to deliver energy savings,  national target of % has been
+adopted The target is set as  reduction of energy consumption in the year 2025,
+expressed as  percentage of the average final energy consumption during the
+baseline period ()  PROJECTED ENERGY SAVINGS To achieve the national energy
+efficiency target, and realize energy savings,  total of 22 initiatives are set
+out in the Plan The initiatives cover all sectors of the economy, and target
+efficiency improvements in energy supply and demand As shown in Table , the
+initiatives are expected to collectively produce energy savings of ,800 GWh on
+primary energy equivalent basis in the year 2025, which is considered prudent
+given realized outcomes in other jurisdictions (including rebound effects) 35
+Table : Sector-specific Energy Savings from the NEEAP Table  GWh (Primary Energy
+Equivalent Basis) Sector Baseline  35,372 Savings 2025 ,010 975 308 786 253 460
+Cumulative 2016 - 2025 ,559 ,208 962 ,966 643 ,332 Residential & Commercial
+Electricity Government Industry Transport Cross Sectoral Total % National Target
+,259 46,642 12,253 96,527 ,792 16,669 Initiatives grouped under the residential
+and commercial sectors are expected to make the largest contribution to the
+national target, as shown in Figure Significant savings are also expected to be
+realized from the ongoing electricity and industry energy efficiency initiatives
+Figure 13: Disaggregating the National Target across the Sectors GWh 6000 5000
+4000 3000 2000 1000  Total Savings Transport Government Cross Sectoral Industry
+Electricity Residential & Commercial It should be noted that the projected
+savings are best estimates, based on current data and assumptions These
+estimations will be refined in the future as part of the detailed initiative
+design process and upon receipt of updated data from the key stakeholders
+Developments among League of Arab States’ members to harmonize calculation
+methodologies will also inform this process SEU, in conjunction with the
+relevant stakeholders, will report back to the government of Bahrain on progress
+towards achieving the national energy efficiency target 36  ENERGY EFFICIENCY
+INITIATIVES To achieve the national target, and realize energy and monetary
+savings, the initiatives cover all sectors of the economy and target efficiency
+improvements in energy supply and demand, as summarized in Figure This chapter
+presents  description of the initiatives and the accompanying implementation
+plan for each initiative, grouped by sector Figure 14: Overview of Energy
+Efficiency Initiatives per Sector  RESIDENTIAL AND COMMERCIAL OVERVIEW Buildings
+consume nearly 40% of energy demand and account for around one third of
+greenhouse gas emissions globally Energy efficiency initiatives deployed in
+buildings have long lasting implications because buildings last for  years or
+more As such, if known energy efficiency best practices are implemented, global
+building energy demand could be reduced by one-third by 2050 [20] Residential
+properties represent around 76% of Bahrain’ housing stock, with commercial
+buildings accounting for around 17% Total housing demand (Bahraini and non-
+Bahraini) is expected to increase to 263,536 housing units in 2020, and to
+346,718 in 2030, from  current stock of 145,181 in 2013 [21] The residential and
+commercial sectors therefore have high potential for significant energy
+efficiency improvements 37 There are two major energy efficiency opportunities
+for the residential and commercial sectors in Bahrain; first to significantly
+reduce the electricity used in buildings, and second, to improve the thermal
+efficiency of buildings The two are inextricably linked Inefficient appliances
+and lighting generate heat, and inadequate thermal insulation allows heat from
+outside to enter the building These three sources of heat place an extra load on
+the air conditioning system, which requires significant electricity during the
+summer months New build, or renovation, creates the opportunity to improve
+efficiency by building to  higher standard, and by introducing more efficient
+equipment Alternative modes of cooling can also be considered, where technically
+and economically feasible, such as converting to district cooling instead of
+using standalone air conditioning The residential sector used most of the grid
+electricity, at % of total grid consumption, during the baseline period The
+commercial sector was the second-largest user, accounting for % during the same
+period [] In recognition of the sectors’ large consumption share, Thermal
+Insulation regulations were introduced in 1999 (Ministerial Order No /1999),
+which mandated all buildings over four stories to be insulated, and stipulated
+minimum requirements for the efficiency of the envelope of residential and
+commercial buildings In 2012, the regulations were extended to cover all
+buildings (Ministerial Order No 63) Around 60% of the residential sector’ annual
+electricity use is related to air conditioning, which is similar for the
+commercial sector, at 55% annual electricity use [] To improve the efficiency of
+AC units available for retail, the government enacted  Minimum Energy
+Performance Standard (MEPS) and energy efficiency labeling of small AC units
+(Ministerial Order No 70) In regard to lighting, two regulations are in force
+which effectively ban the use of incandescent lamps in Bahrain: Cabinet Order No
+-14 was enacted and implemented in 2014 on the minimum efficiency of household
+lamps; and  regulation for nondirectional household lamps was enacted
+(Ministerial Order No /2015) to facilitate the phase out of incandescent lamps
+38 PROPOSED SECTOR INITIATIVES Seven initiatives to improve energy efficiency in
+the residential and commercial sectors are summarized in Table  Some of these
+initiatives, such as minimum energy performance standards for lighting and small
+AC, have been already adopted and are in the process of implementation Other
+initiatives are either in the early stages of development, or will be developed
+Table : Energy Efficiency Initiatives for the Residential and Commercial Sectors
+Table  Potential Savings Year 2025 (GWh) PEE Cumulative Savings 2016- 2025 (GWh)
+PEE Energy Efficiency Initiatives (Residential and Commercial) Implementation
+Period Green Building Initiatives: ,814 ,909 Building Energy Efficiency Code
+2017 - 2025 ,763 ,790 Building Energy Labeling Program  2017 - 2025 26 70 Green
+Building Certification Program  2019 - 2025 25 48 MEPS & Labeling: ,129 ,547
+Lighting  2015 - 2025 658 ,416 Air Conditioning  2016 - 2025 430 ,066 Appliances
+2018 - 2025 41 64 District Cooling  2017 - 2025 66 103 Expected Contribution to
+% National Target ,010 The Green Building Initiatives aim to reduce the energy
+demand of buildings Many countries have revised their building codes to require
+more efficiency to help to lock in energy savings in new buildings and
+renovations of existing buildings Bahrain’ Building Energy Efficiency Code
+initiative is an evolution of the existing thermal insulation regulations and
+will include additional requirements for various types of building systems It
+will apply to new buildings and the renovation of existing buildings For
+residential buildings, the Code might require increased efficiency of AC
+systems, lower shading coefficients for windows, reflective roofs and more
+efficient lighting systems For commercial buildings, the Code might require
+improved building envelopes (including insulation, reflective roofs, window to
+wall limitations) and increased efficiency in HVAC, lighting, and water heating
+systems [] The Code will also need to align with the pending GCC building code
+The Code will be complemented by the Renewable Energy Mandate for New Buildings,
+which is being implemented under the National Renewable Energy Action Plan The
+Mandate will require renewable energy technologies to be integrated into the
+design of new buildings Under the Building Energy Labeling initiative an energy
+performance label for buildings will be developed It will enable prospective
+tenants and buyers to take energy performance into consideration in their rental
+or purchase decision International experience demonstrates that energy efficient
+buildings are commanding  premium when being rented or sold, and it therefore
+encourages building owners to implement energy efficiency measures to improve
+their rating The key components of the initiative will include the development
+of energy audit procedures and tools, professional capacity building to conduct
+audits, and  national database 39 The Green Building Certification initiative
+promotes the construction of more resource- efficient buildings through the
+adoption of  formal certification scheme The Ministry of Works, Urban Planning
+and Municipalities has already implemented  set of green building criteria for
+new build and renovations of public buildings (CPD Green Building Design
+Guidelines, see Figure 15)  voluntary certification scheme based on the award of
+danats ( point system based meeting  set criteria) is being considered In the
+meantime, real estate developers can apply, if they so wish, to international
+certification bodies such as LEED (Leadership in Energy & Environmental Design
+from the US), BREEAM (Building Research Establishment Environmental Assessment
+Methodology from Europe), or EDGE (Excellence in Design for Greater Efficiencies
+developed by the IFC) for independent certification of their projects Figure 15:
+CPD Green Building Design Guidelines Minimum Energy Performance Standards (MEPS)
+can be  cost-effective option for  country to transition toward more energy
+efficient products, because MEPS encourage manufacturers to improve the
+efficiency of their products and introduce more efficient replacements [22]
+Labeling initiatives aim to encourage consumers to make  preference towards more
+efficient products, by providing energy consumption information In Bahrain, the
+MEPS and Labeling for Lighting, Air Conditioning, and Appliances initiatives
+extends the scope of the regulations which have already been implemented, and
+aims to reduce the electric consumption of these products by establishing higher
+energy efficiency specifications The scope will be extended to household and
+commercial lamps (including directional lamps, fluorescent tubes, LED tubes and
+ballasts); large AC units; and refrigerators Freezers and washing machines will
+be included in 2020 40 District cooling is  localized cooling system where water
+is chilled in  central plant and supplied to multiple buildings through  network
+of underground pipes This form of cooling is more energy (and water) efficient
+than other forms of cooling (central air or water-cooled chillers) and therefore
+removes the need for additional substations, and frees up roof to areas for
+other uses Bahrain was the first country in the GCC to adopt district cooling,
+in Awali in The Kingdom currently has several district cooling networks in
+various locations totaling around 150,000 RT (refrigeration tons), another key
+differentiator for Bahrain However, several technical and financial barriers
+exist which means the current infrastructure is underutilized, such as market
+distortions in regard to subsidies, and allocation of costs between developers
+and consumers The District Cooling initiative seeks to address the barriers and
+introduce  regulatory framework to revitalize and expand the existing capacity
+Until district cooling regulations are in place, real estate developers must
+conduct  cost benefit analysis demonstrating why they cannot connect to the
+existing district cooling infrastructure  “District cooling typically consumes
+40 to 50 percent less energy for every refrigeration ton hour than conven-
+tional in-building technologies…  district cooling system tends to serve diverse
+loads — such as residences, offic- es, and commercial establishments — that do
+not require simultaneous cooling District cooling is more efficient because it
+aggregates peak demand from these diverse loads” [23] 41  Building Energy
+Efficiency Code Objective This initiative aims to reduce energy demand in
+buildings by putting in place comprehensive mandatory energy efficiency
+specifications for the construction of new buildings and renovation of existing
+buildings Expected Energy Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023
+2024- 2025 Cumulative UNIT Identified Savings (Final Energy)   862 1191 1195
+3248 GWh Identified Savings (PEE)   3016 4168 4183 11367 GWh Target Savings
+(PEE)   1271 1757 1763 4790 GWh Contribution to % National Target 30% 29% %
+Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings   30 42 44 116 BHD mn Government Savings   14
+17 18 48 BHD mn Consumer Savings   16 26 26 67 BHD mn Target Sectors & Key
+Stakeholders Target Group Real-estate Developers and Construction Industry Lead
+Ministry/Agency Ministry of Works, Municipalities and Urban Planning Status &
+Implementation Timeline Planned Timeline Initiative 2017 2018 2019 2020 Building
+Energy Efficiency Code                                                 Design
+and Initiation Prepare draft of Building Energy Efficiency Code (BEEC) Review
+draft BEEC with stakeholders Obtain government approval of BEEC Prepare
+implementation and enforcement scheme Prepare training materials and develop
+communication plan Identify compliance verification scheme (building
+certification program) Implementation Deliver training to market players and
+government authorities Execute communication and awareness raising activities
+Implementation and enforcement scheme Execute compliance verification scheme
+(measure EE level in buildings) Monitoring and Evaluation Develop monitoring and
+evaluation scheme (methodology, timeline) Data collection and analysis of
+effectiveness of BEEC Prepare recommendations for further update of BEEC The
+implementation timeline has been projected till year 2020 only It will be
+constantly reviewed with concerned stakeholders and is subject to change 42
+Building Energy Labeling Objective This initiative aims to reduce energy
+consumption in buildings through making energy performance of buildings explicit
+through the use of building energy labels Expected Energy Savings 2016- 2017
+2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings
+(Final Energy)   12 17 18 47 GWh Identified Savings (PEE)   43 60 62 166 GWh
+Target Savings (PEE)   18 25 26 70 GWh Contribution to % National Target % % %
+Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings       BHD mn Government Savings       BHD mn
+Consumer Savings       BHD mn Target Sectors & Key Stakeholders Target Group
+Owners & tenants of buildings Lead Ministry/Agency Ministry of Works,
+Municipalities & Urban Planning Status & Implementation Timeline Planned
+Timeline 2017 2018 2019 2020 Initiative Building Energy Labeling
+Design and Initiation Draft label design and identify energy efficiency rating
+categories Review proposed labelling scheme with stakeholders Design final
+building energy efficiency label Draft regulation requiring labels Obtain
+government approval of the regulation and labeling scheme Prepare implementation
+and enforcement plan Prepare tools for certified energy-rating auditors Prepare
+training material for market players & government authorities Develop
+communication and awareness raising plan Develop  database of the labelled
+buildings Implementation Deliver training to market players and government
+authorities Execute communication and awareness raising activities Monitor
+implementation and enforcement scheme Continous update of the database of the
+labelled buildings Monitoring and Evaluation Develop monitoring and evaluation
+scheme Data collection and analysis of effectiveness of the leabelling scheme
+Prepare recommendations for improvement of the labelling scheme The
+implementation timeline has been projected till year 2020 only It will be
+constantly reviewed with concerned stakeholders and is subject to change 43
+Green Building Certification Objective This initiative aims to promote the
+construction of more resource-efficient buildings by establishing  green
+building certification program Expected Energy Savings 2016- 2017 2018- 2019
+2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final
+Energy)    16 17 33 GWh Identified Savings (PEE)    55 59 115 GWh Target Savings
+(PEE)    23 25 48 GWh Contribution to % National Target % % % Expected Monetary
+Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT
+Financial Savings       BHD mn Government Savings       BHD mn Consumer Savings
+BHD mn Target Sectors & Key Stakeholders Target Group Real-estate Developers and
+Construction Industry Lead Ministry/Agency Ministry of Works, Municipalities and
+Urban Planning Status & Implementation Timeline Not started Timeline 2017 2018
+2019 2020 Initiative Green Building Certification
+Design and Initiation Determine merit for green building certification scheme If
+taken forward, review proposed green building certification schemes Prepare
+final green building rating & certification scheme Prepare training materials
+for construction industry Prepare voluntary compliance scheme Identify
+compliance verification scheme (building certification process) Develop  plan
+for communication and marketing campaign Develop  database of certified green
+buildings Implementation Deliver training to construction industry Implement
+voluntary compliance scheme Execute communication and marketing campaign
+Continous update of the database of certified green buildings Monitoring and
+Evaluation Develop monitoring and evaluation scheme Data collection and analysis
+of effectiveness of the scheme Prepare recommendations for improvement of the
+scheme The implementation timeline has been projected till year 2020 only It
+will be constantly reviewed with concerned stakeholders and is subject to change
+44  MEPS & Labeling: Lighting Objective This initiative aims to improve energy
+efficiency in buildings through () implementing minimum energy performance
+standards for household lamps; and () setting minimun energy performance
+standards for commercial lamps Expected Energy Savings 2016- 2017 2018- 2019
+2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final
+Energy) 167 374 397 421 446 1638 GWh Identified Savings (PEE) 586 1310 1389 1474
+1562 5734 GWh Target Savings (PEE) 247 552 585 621 658 2416 GWh Contribution to
+% National Target 11% 14% % Expected Monetary Savings 2016- 2017 2018- 2019
+2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Financial Savings  12 14 15 16
+57 BHD mn Government Savings    10 11 39 BHD mn Consumer Savings      18 BHD mn
+Target Sectors & Key Stakeholders Target Group Product Suppliers, Contractors
+and Building Owners Lead Ministry/Agency Ministry of Industry, Commerce &
+Tourism Status & Implementation Timeline Under Implementation Timeline 2017 2018
+2019 2020 Initiative MEPS & Labeling: Lighting
+Design and Initiation Determine MEPS level for commercial lighting products
+Prepare draft of regulations containing MEPS Obtain governmnet approval of MEPS
+Prepare implementation and enforcement scheme Identify compliance verification
+scheme (product testing) Prepare training material for market players and
+enforcement officers Develop communication and awareness raising plan
+Implementation Technical training for programme officers Deliver training to
+market players and enforcement officers Execute communication and awareness
+raising activities Enforce MEPS Execute compliance verification scheme (product
+sampling and testing) Monitoring and Evaluation Develop monitoring and
+evaluation scheme (methodology, timeline) Data collection and analysis of
+effectiveness of MEPS Prepare recommendations for further update of MEPS The
+implementation timeline has been projected till year 2020 only It will be
+constantly reviewed with concerned stakeholders and is subject to change 45
+MEPS & Labeling: Air Conditioning Objective This initiative aims to improve
+energy efficiency in buildings through () implementing minimum energy
+performance standards for small AC units; and () setting minimum energy
+performance standards and labeling requirements for large AC units Expected
+Energy Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative
+UNIT Identified Savings (Final Energy)  49 159 223 292 723 GWh Identified
+Savings (PEE)  173 557 781 1021 2531 GWh Target Savings (PEE)  73 235 329 430
+1066 GWh Contribution to % National Target % % % Expected Monetary Savings 2016-
+2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Financial
+Savings     11 26 BHD mn Government Savings      16 BHD mn Consumer Savings
+10 BHD mn Target Sectors & Key Stakeholders Target Group Product Manufacturers,
+Suppliers, Building Developers Lead Ministry/Agency Ministry of Industry,
+Commerce & Tourism Status & Implementation Timeline Under Implementation
+Timeline 2017 2018 2019 2020 Initiative MEPS & Labeling: Air Conditioning
+Design and Initiation Determine MEPS level for large AC units, EE categories and
+label Prepare draft regulations containing MEPS for large AC units Obtain
+government approval of MEPS for large AC units Update MEPS level for small AC
+units Obtain government approval of updated MEPS for small AC units Prepare
+implementation and enforcement scheme for MEPS Prepare training material for
+market players and enforcement officers Develop communication and awareness
+raising plan Identify compliance verification scheme (product testing) Prepare
+database of products compliant with MEPS Implementation Technical training for
+market players & programme officers Execute communication and awareness raising
+activities Enforce MEPS & labelling Execute compliance verification scheme
+(product sampling and testing) Continous update of database of products
+compliant with MEPS Monitoring and Evaluation Develop monitoring and evaluation
+scheme (methodology, timeline) Data collection and analysis of effectiveness of
+MEPS Prepare recommendations for further update of MEPS The implementation
+timeline has been projected till year 2020 only It will be constantly reviewed
+with concerned stakeholders and is subject to change 46  MEPS & Labeling:
+Appliances Objective This initiative aims to improve energy efficiency in
+buildings through () setting minimum energy performance standards for
+appliances; and () making the energy performance of the product an explicit part
+of the purchase decision through the use of energy labeling Expected Energy
+Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT
+Identified Savings (Final Energy)    11 28 43 GWh Identified Savings (PEE)   18
+37 97 152 GWh Target Savings (PEE)    16 41 64 GWh Contribution to % National
+Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022-
+2023 2024- 2025 Cumulative UNIT Financial Savings       BHD mn Government
+Savings       BHD mn Consumer Savings       BHD mn Target Sectors & Key
+Stakeholders Target Group Product manufacturers, suppliers, vendors and
+retailers Lead Ministry/Agency Ministry of Industry, Commerce & Tourism Status &
+Implementation Timeline Planned Timeline 2017 2018 2019 2020 Initiative MEPS &
+Labeling: Appliances/ Refrigerators
+Design and Initiation Conduct market research to identify baselines of stock and
+efficiency Determine MEPS level for refrigerators Determine EE categories and
+Label design Prepare draft regulations containing MEPS & labeling requirements
+Obtain government approval of MEPS & labeling requirements Prepare
+implementation and enforcement scheme Prepare training material for market
+players and enforcement officers Prepare implementation and enforcement scheme
+for labeling Develop communication and awareness raising plan Identify
+compliance verification scheme (product testing) Prepare database of products
+compliant with MEPS Implementation Technical training for market players &
+programme officers Execute communication and awareness raising activities
+Enforce MEPS and labelling Execute compliance verification scheme (product
+sampling and testing) Continuous update of products compliant with MEPS
+Monitoring and Evaluation Develop monitoring and evaluation scheme (methodology,
+timeline) Data collection and analysis of effectiveness of MEPS Prepare
+recommendations for further update of MEPS The implementation timeline has been
+projected till year 2020 only It will be constantly reviewed with concerned
+stakeholders and is subject to change 47  MEPS & Labeling: Appliances Objective
+This initiative aims to improve energy efficiency in buildings through ()
+setting minimum energy performance standards for appliances; and () making the
+energy performance of the product an explicit part of the purchase decision
+through the use of energy labeling Expected Energy Savings 2016- 2017 2018- 2019
+2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final
+Energy)    11 28 43 GWh Identified Savings (PEE)   18 37 97 152 GWh Target
+Savings (PEE)    16 41 64 GWh Contribution to % National Target % % % Expected
+Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings       BHD mn Government Savings       BHD mn
+Consumer Savings       BHD mn Target Sectors & Key Stakeholders Target Group
+Product manufacturers, suppliers, vendors and retailers Lead Ministry/Agency
+Ministry of Industry, Commerce & Tourism Status & Implementation Timeline
+Planned Timeline 2017 2018 2019 2020 Initiative MEPS & Labeling: Appliances/
+Freezers & Washing Machines
+Design and Initiation Conduct market research to identify baselines of stock and
+efficiency Determine MEPS level for freezers and washing machines Prepare draft
+regulations containing MEPS and requiring labeling Obtain government approval of
+MEPS and labeling Prepare implementation and enforcement scheme Prepare training
+material for market players and enforcement officers Determine EE categories and
+Label design Prepare implementation and enforcement scheme for labeling Develop
+communication and awareness raising plan Identify compliance verification scheme
+(product testing) Prepare database of products compliant with MEPS
+Implementation Technical training for programme officers Deliver training to
+market players Execute communication and awareness raising activities Enforce
+MEPS and labeling Execute compliance verification scheme (product sampling and
+testing) Continuous update of products compliant with MEPS Monitoring and
+Evaluation Develop monitoring and evaluation scheme (methodology, timeline) Data
+collection and analysis of effectiveness of MEPS Prepare recommendations for
+further update of MEPS The implementation timeline has been projected till year
+2020 only It will be constantly reviewed with concerned stakeholders and is
+subject to change 48  District Cooling Objective This initiative aims to
+revitalise and expand the existing capacity of district cooling in Bahrain, by
+establishing  regulatory framework Expected Energy Savings 2016- 2017 2018- 2019
+2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final
+Energy)    25 45 70 GWh Identified Savings (PEE)    88 158 245 GWh Target
+Savings (PEE)    37 66 103 GWh Contribution to % National Target % % % Expected
+Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings       BHD mn Government Savings       BHD mn
+Consumer Savings       BHD mn Target Sectors & Key Stakeholders Target Group
+Real-estate Developers & District Cooling Service Providers Lead Ministry/Agency
+Ministry of Works, Municipalities and Urban Planning Status & Implementation
+Timeline In the design process Timeline 2017 2018 2019 2020 Initiative District
+Cooling                                                 Design and Initiation
+Prepare draft of district cooling (DC) regulations Conduct stakeholder
+consultation to review the draft regulations Implement first pilot scheme
+according to district cooling regulations Prepare final draft DC regulations for
+government approval Obtain government approval of district cooling regulations
+Establish institutional set up to issue permits to DC service providers Develop
+marketing plan to brand DC as  sustainable energy initiative Prepare training
+material for government authorities Prepare training material for building
+developers Implementation Deliver trainings to building developers and
+government authorities Implementation and enforcement scheme Execute
+communication and marketing campaign Monitoring and Evaluation Develop
+monitoring and evaluation scheme Data collection and analysis of effectiveness
+of DC regulations Prepare recommendations for improvement of DC regulations The
+implementation timeline has been projected till year 2020 only It will be
+constantly reviewed with concerned stakeholders and is subject to change 49
+GOVERNMENT OVERVIEW Bahrain is committed to implementing energy efficiency
+programs in line with the Economic Vision 2030 and the Government Action Plan
+2015-The government has already taken  number of critical steps to shift Bahrain
+towards more efficient consumption of energy, and can also provide leadership by
+strongly addressing energy efficiency within the government sector, notably in
+regard to its building stock The purchasing power of government can drive energy
+efficiency by requiring suppliers to provide goods and services with the highest
+energy efficiency standards For example,  requirement could be included that
+goods and services are sourced from suppliers with an energy management system
+(EMS), who report energy data and have implemented energy efficiency plans,
+alternatively the supplier should hold an internationally recognized EMS
+certification (such as ISO 50001) The government can also act as  pioneer by
+piloting new technologies to demonstrate their feasibility to the private sector
+PROPOSED SECTOR INITIATIVES For the purposes of the national target, the
+government sector is considered to encompass the government, non-commercial
+state bodies, the defense force, the police, hospitals and other health
+facilities, local municipalities, schools and universities, as well as housing
+for which the Ministry of Housing is responsible Four initiatives are set out
+for the government sector as summarized in Table  Table : Energy Efficiency
+Initiatives for the Government Sector Table  Potential Savings Year 2025 (GWh)
+PEE Cumulative Savings 2016- 2025 (GWh) PEE Energy Efficiency Initiatives
+(Government) Implementation Period   10 11 Government Buildings Energy
+Management Government Buildings Lighting Replacement Street Lighting
+Refurbishment Green Public Procurement 2017 - 2025 2015 - 2025 2017 - 2025 2017
+- 2025 41 58 104 104 308 77 292 341 252 Expected Contribution to % National
+Target An Energy Management System (EMS) is  methodology and systematic process
+for continually improving energy performance, and maximizing energy savings and
+productivity by achieving the full cost-effective potential offered by energy
+efficiency Implementation experiences in many European countries, have shown
+that  fully implemented EMS can achieve average annual energy performance
+improvements of -% [24] The Government Buildings Energy Management initiative
+will help the various public sector actors to measure and understand their
+energy use, commit to savings, design and implement projects to drive  reduction
+in their energy use (such as retrofitting), and measure and verify the savings
+50 The Government Buildings Lighting Replacement initiative is in the
+implementation phase In August 2013, Ministerial Order No -14 mandated the
+replacement of all incandescent and halogen lamps in government buildings with
+energy efficient lamps The Order was circulated by the Cabinet to all government
+ministries and agencies The use of energy efficient lamps became mandatory
+effective 13 February In Bahrain, almost 135,000 High Pressure Sodium (HPS)
+luminaires are used in street lighting, ranging from 70W to ,000W Street lights
+consume around % of grid electricity and the annual cost of street lighting
+(electricity and maintenance) is around BHD  million [25] Bahrain has the
+opportunity to significantly improve the efficiency and the annual cost of
+street lighting through the Street Lighting Refurbishment initiative Options
+include revising Bahrain’ lighting standards; installation of proven, more
+efficient, and cost- effective products, such as LEDs with smart management; and
+strategy for the timing and scale of lamp replacement The government sector is
+major purchaser of goods, works and services in Bahrain, with the annual value
+of public procurement contracts amounting to approximately BHD  billion [26] Due
+to its size, the government sector has the opportunity to influence the supply
+by directing the demand The Green Public Procurement initiative aims to improve
+energy efficiency in the government sector through procurement of products and
+equipment with higher energy efficiency performance Acquiring higher efficiency
+products and services demonstrates the government’ commitment to environmental
+stewardship and sustainability, by becoming  model consumer of green products
+and services In turn, this can drive higher energy standards in the private
+sector by following government’ leadership when purchasing goods and services 51
+Government Buildings Energy Management Program Objective This initiative aims to
+pursue energy efficiency on  continuous basis in government buildings by
+establishing an energy management system for government buildings Expected
+Energy Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative
+UNIT Identified Savings (Final Energy)    18 28 52 GWh Identified Savings (PEE)
+21 63 98 182 GWh Target Savings (PEE)    27 41 77 GWh Contribution to % National
+Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022-
+2023 2024- 2025 Cumulative UNIT Financial Savings       BHD mn Government
+Savings       BHD mn Consumer Savings       BHD mn Target Sectors & Key
+Stakeholders Target Group All government departments and agencies Lead
+Ministry/Agency Ministry of Works, Municipalities and Urban Planning Status &
+Implementation Timeline Planned Timeline 2017 2018 2019 2020 Initiative
+Government Buildings Energy Management Program
+Design and Initiation Prepare detailed concept note on energy management program
+Identify government buildings to conduct energy audits Conduct energy audits in
+selected buildings to identify baseline Identify and formalise the establishment
+of energy management entity Prepare energy management protocol for government
+buildings Prepare training material for energy managers Develop communication
+and awareness raising plan Implementation Deliver trainings to energy managers
+Deliver trainings to government authorities Execute energy management program
+for government buildings Execute communication and awareness raising activities
+Monitoring and Evaluation Develop monitoring and evaluation scheme Data
+collection and analysis of effectiveness of the program Prepare recommendations
+for improvement of the program The implementation timeline has been projected
+till year 2020 only It will be constantly reviewed with concerned stakeholders
+and is subject to change 52  Government Buildings Lighting Replacement Program
+Objective This initiative aims to improve the energy efficiency of lighting in
+all government premises Expected Energy Savings 2016- 2017 2018- 2019 2020- 2021
+2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final Energy) 40 40 40
+40 40 198 GWh Identified Savings (PEE) 139 139 139 139 139 693 GWh Target
+Savings (PEE) 58 58 58 58 58 292 GWh Contribution to % National Target % % %
+Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings       BHD mn Government Savings       BHD mn
+Consumer Savings       BHD mn Target Sectors & Key Stakeholders Target Group All
+government departments and agencies Lead Ministry/Agency Ministry of Works,
+Municipalities and Urban Planning Status & Implementation Timeline Planned
+Timeline 2017 2018 2019 2020 Initiative Government Buildings Lighting
+Replacement Program                                                 Design and
+Initiation No prep phase - Ministerial Order is in place Implementation Min
+Order -14 on replacement of inefficient lamps Monitoring and Evaluation Develop
+monitoring and evaluation scheme Data collection and estimation of energy
+savings The implementation timeline has been projected till year 2020 only It
+will be constantly reviewed with concerned stakeholders and is subject to change
+53 10 Street Lighting Refurbishment Objective This initiative aims to improve
+energy efficiency in street lighting through replacement of high pressure sodium
+lamps with LED lamps Expected Energy Savings 2016- 2017 2018- 2019 2020- 2021
+2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final Energy)  24 68
+69 70 231 GWh Identified Savings (PEE)  84 236 242 247 809 GWh Target Savings
+(PEE)  35 100 102 104 341 GWh Contribution to % National Target % % % Expected
+Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings       BHD mn Government Savings       BHD mn
+Consumer Savings       BHD mn Target Sectors & Key Stakeholders Target Group
+EWA, street lighting manufacturers and suppliers Lead Ministry/Agency
+Electricity & Water Authority Status & Implementation Timeline In the design
+process Timeline 2017 2018 2019 2020 Initiative Street Lighting Refurbishment
+Design and Initiation Prepare technical specifications for street lighting
+Prepare plan for street lighting replacement Obtain government approval of the
+plan Implementation Prepare tendering documents Execute tendering process
+Installation and commissioning of efficient street lighting Monitoring and
+Evaluation Develop monitoring and evaluation scheme Data collection and
+estimating of energy savings The implementation timeline has been projected till
+year 2020 only It will be constantly reviewed with concerned stakeholders and is
+subject to change 54 11 Green Public Procurement Objective This initiative aims
+to improve energy efficiency in government operations through requiring all
+public institutions to give preference to energy efficient and sustainable
+products when purchasing products, equipment and services Expected Energy
+Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT
+Identified Savings (Final Energy)   37 64 70 171 GWh Identified Savings (PEE)
+129 222 247 598 GWh Target Savings (PEE)   54 94 104 252 GWh Contribution to %
+National Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021
+2022- 2023 2024- 2025 Cumulative UNIT Financial Savings       BHD mn Government
+Savings       BHD mn Consumer Savings       BHD mn Target Sectors & Key
+Stakeholders Target Group All government ministries and agencies Lead
+Ministry/Agency Ministry of Finance Status & Implementation Timeline Planned
+Timeline 2017 2018 2019 2020 Initiative Green Public Procurement
+Design and Initiation Review current procurement rules and processes Prepare
+draft of green procurement manual Test green procurement manual in  pilot
+ministry Prepare final draft of green procurement manual Make an inventory of
+goods subject to green public procurement rules Obtain government approval of
+the green public procurement policy Prepare training for government procurement
+officers Develop communication and awareness raising plan Develop  database of
+equipment compliant with green procurement Implementation Deliver trainings to
+procurement officers Execute green public procurement policy Execute
+communication and awareness raising activities Continuous update of the database
+Monitoring and Evaluation Develop indicators and methodology to evaluate impact
+Data collection and analysis of effectiveness of the program Prepare
+recommendations for improvement of the program The implementation timeline has
+been projected till year 2020 only It will be constantly reviewed with concerned
+stakeholders and is subject to change 55  INDUSTRY OVERVIEW Adopting energy
+efficiency as  core business element has multiple benefits for the industry
+sector, it improves productivity and profitability; increases competitiveness;
+and helps to reduce the impact of industrial activities on the environment to
+meet national, regional and international obligations Energy costs have
+increased for the sector in Bahrain following the gas and transport fuel price
+increases that were recently implemented, and the revised EWA tariffs In
+addition, export-oriented, energy intensive companies with products that are
+subject to international pricing, have experienced major declines (around 40%
+since 2010) in the price of commodities [27] Given this combination of factors,
+companies have been pursuing energy efficiency initiatives to reduce energy
+consumption, and as  result maintain and in many cases, decrease operating costs
+The industry sector contributes over 40% to GDP, and in 2014 employed over 16%
+of the workforce [28] Given the presence of energy intensive industries, sector
+is the largest consumer of energy in Bahrain During the baseline period () the
+industry sector consumed on average 16,156 GWh of final energy per annum,
+accounting for 21% of natural gas consumption, and 41% of total final energy use
+[] Even though many industries have captive power plants, the sector’ share of
+grid electricity was % for the baseline period [] Five major energy users
+dominate the sector, namely: ALBA (aluminum smelting) GPIC (chemicals), BAPCO
+(refining), Tatweer (oil and gas), and Bahrain Steel The two major sectoral
+challenges are addressing rising energy prices, and continuing to drive
+incremental reductions in energy intensity PROPOSED SECTOR INITIATIVES The
+Industry Program initiative has  three-fold purpose: to coordinate the energy
+efficiency activities of the major industry players and large energy consumers;
+to share best practice between the companies through workshops and other
+knowledge-sharing activities; and to facilitate the collection of energy saving
+data between the companies and SEU, in order to demonstrate that each party is
+making progress towards meeting its target The initiative has two parts Major
+industry companies and large energy consumers will sign  compact with the
+Minister of Electricity and Water Affairs, whereby they commit to meeting energy
+savings of % every two years to reach an overall target of % of baseline
+consumption in 2025 (as shown in Table ); and  network will be introduced to
+help coordinate and share best practice between the members 56 Table : Energy
+Efficiency Initiatives for the Industrial Sector Table  Potential Savings Year
+2025 (GWh) PEE Cumulative Savings 2016- 2025 (GWh) PEE Energy Efficiency
+Initiatives (Industry) Implementation Period 12 Industry Program 2015 - 2025 786
+,966 Expected Contribution to % National Target 786 The companies that make up
+Bahrain’ industry sector are heterogeneous, and as such the manner in which they
+deliver savings under the Industry Program initiative will differ In some cases,
+the energy savings contributed by an energy efficiency project will count
+directly to the target; in other cases,  reduction in  company’ energy intensity
+arising from  plant expansion (where the production rises at  rate faster than
+the plant’ energy consumption) can be converted into  savings figure The
+reduction in  company’ primary energy consumption arising from the installation
+of solar PV (for example), will also be counted, as each kWh of PV produced
+decreases the demand for grid electricity and thereby reduces primary energy
+consumed The industry sector will be encouraged to implement and achieve ISO
+50001 certification, which is the Energy Management Standard, released in June
+ISO 50001 provides  robust framework for optimizing energy efficiency in public
+and private sector organizations Certification to this standard recognizes an
+organization’ efforts of continual improvement in energy management Furthermore,
+the implementation of ISO 50001 will enable organizations to lead by example
+within their respective industries The commitment by industry to deliver an
+additional % energy reduction each year is substantial and, because the sector
+accounts for such  large percentage of Bahrain’ energy use, the sector’
+contribution to the national energy efficiency target is significant 57 12
+Industry Program Objective This initiative aims to drive  % improvement in
+annual energy consumption to reach  % energy efficiency improvement by 2020
+Expected Energy Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Identified Savings (Final Energy)  162 323 485 646 1615 GWh
+Identified Savings (PEE)  466 933 1399 1866 4664 GWh Target Savings (PEE)  197
+393 590 786 1966 GWh Contribution to % National Target 14% 12% % Expected
+Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings    14 19 46 BHD mn Government Savings      13
+BHD mn Consumer Savings    10 14 33 BHD mn Target Sectors & Key Stakeholders
+Target Group Industrial Companies & Large Consumers Lead Ministry/Agency NOGA
+(Oil & Gas) and SEU (non Oil) Status & Implementation Timeline Planned Timeline
+2017 2018 2019 2020 Initiative Industry Program
+Design and Initiation Develop industry specific energy efficiency indicators
+Agree baseline consumption according to these indicators Identify reporting
+system and methodology Prepare draft of compact to be signed with specific
+industry groups Prepare concept note for "Large Energy Network" Review concept
+note and proposed plan of activities with stakeholders Develop communication and
+awareness raising plan Prepare training material on industry specific EE
+indicators Implementation Sign compact with industries Deliver trainings Execute
+network activities as agreed in the plan Execute communication and awareness
+raising plan Monitoring and Evaluation Develop monitoring and evaluation scheme
+Data collection and analysis of effectiveness of industry program Prepare
+recommendations for improvement of industry program The implementation timeline
+has been projected till year 2020 only It will be constantly reviewed with
+concerned stakeholders and is subject to change 58  ELECTRICITY OVERVIEW The
+natural gas used in making electricity accounts for almost half of Bahrain’
+total primary energy supply [], therefore the efficiency of supply (the
+production, transmission and distribution of electricity) is as important as
+demand side energy efficiency initiatives Electricity supply consumed an average
+of 91,700 GWh of primary energy per annum during the 2009 – 2013 baseline period
+In the 20 years from 1993 to 2013, the consumption of natural gas for
+electricity production, transmission and distribution grew from 44,159 GWh to
+97,448, an increase of 120% or % per annum (compared to GDP growth of %) During
+the same period, total electricity consumed rose by % per annum, from 11,339 GWh
+to 24,516 GWh [] The ratio of natural gas used to electricity produced is
+calculated to be  during the 2009 – 2013 baseline period, higher than the GCC
+average of , and takes into account the energy used in the co-production of
+desalinated water [] This is partly structural (the type and efficiency of the
+power plants in Bahrain’ energy system) and partly operational (for example, the
+level of ‘spinning reserve’ provided to ensure the reliable operation of the
+system) In any case, it points to  significant opportunity to deliver energy
+savings by optimizing the ratio between natural gas in and electricity out
+PROPOSED SECTOR INITIATIVES Four initiatives to improve efficiency in
+electricity supply are summarized in Table  All of these initiatives are led by
+the Electricity and Water Authority, and are in the implementation phase Table :
+Energy Efficiency Initiatives for the Electricity Sector Table  Potential
+Savings Year 2025 (GWh) PEE Cumulative Savings 2016- 2025 (GWh) PEE Energy
+Efficiency Initiatives (Electricity Supply) Implementation Period 13 Electricity
+Production Efficiency 2017 - 2025 386 773 14 Electricity & Efficiency 2017 -
+2025 37 93 15 Power Factor Correction 2015 - 2025 468 ,978 16 Smart Metering
+Program 2016 - 2025 84 365 Expected Contribution to % National Target 975
+Current CCGT (combined cycle gas turbine) electrical efficiencies range from 45%
+- 60% The commissioning of CCGTs during the period  has raised the average
+efficiency of electricity generation in Bahrain, from 28% to around 44% [29] 59
+The Electricity Production Efficiency initiative aims to deliver  % improvement
+by 2025 in the efficiency by which natural gas is converted into electricity
+International programs typically include the following elements: • Reducing the
+reliance on the least efficient power plants, some of which are operated
+primarily to desalinate water; • Utilizing aggregated demand reduction/response
+as an alternative to new capacity; • Utilizing demand side frequency response as
+an alternative to spinning reserve; • The use of real-time tariffs to better
+utilize the existing capacity; and •  benchmarking exercise to compare the level
+of spinning reserve against the best-in-class Bahrain has  relatively efficient
+transmission and distribution system, with losses of % [] compared to  GCC
+average of % over the baseline period [] The Electricity & Efficiency Program
+initiative aims to improve the efficiency of the system Similar programs
+internationally typically include the following elements: conducting  dynamic
+line rating trial; undertaking  feasibility study into the use of capacity banks
+and battery storage in managing the system; or conductor, transformer and cable
+upgrading Electricity can be divided into three types: • Working power, KW
+(actual, real or active power); • Reactive power, KVAR (the power that magnetic
+equipment need to produce the magnetizing flux); and • Apparent power, KVA (the
+vector summation of KW and KVAR) 60 The power factor is the ratio of working
+power to apparent power  low power factor can result in overheating of equipment
+(conductors and devices); low efficiency of connected devices; high voltage
+drops in alternators and transformers in the supply network; and overall higher
+electricity consumption The Power Factor Correction Program initiative aims to
+improve the power factor to be  or greater In February 2011, Ministerial Order
+No /2011 was issued requiring the overall power factor for customer electrical
+installations to not be less than , otherwise the excess reactive power
+consumption will be calculated based on power factor value of  The order has
+been implemented for commercial, government and industry sectors If the power
+factor is less than , then the excess reactive power consumed is charged at 016
+BHD KVARh The charges are included in the monthly customer bill There are
+multiple benefits to  smart metering program: more accurate meter reading, more
+efficient billing and ability to manage debtors; and better ability to manage
+daytime consumption peaks and electricity consumption through the use of real-
+time pricing In addition,  more detailed understanding of consumer usage
+patterns is possible Bahrain has 360,000 meters fitted in the network [] The
+Smart Metering Program initiative will initially target the implementation of
+smart meters for high consumers and new developments, before the implementation
+is rolled out to all consumers 61 13 Electricity Production Efficiency Objective
+This initiative aims to deliver  % improvement by 2020 in the efficiency by
+which natural gas is converted into electricity Expected Energy Savings 2016-
+2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified
+Savings (Final Energy)  26 79 157 262 524 GWh Identified Savings (PEE)  92 275
+550 917 1834 GWh Target Savings (PEE)  39 116 232 386 773 GWh Contribution to %
+National Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021
+2022- 2023 2024- 2025 Cumulative UNIT Financial Savings      13 BHD mn
+Government Savings      13 BHD mn Consumer Savings       BHD mn Target Sectors &
+Key Stakeholders Target Group Electricity & Water Authority Lead Ministry/Agency
+Electricity & Water Authority Status & Implementation Timeline Planned Timeline
+2017 2018 2019 2020 Initiative Electricity Production Efficiency
+Design and Initiation To be designed by EWA Implementation Implement identified
+measures Monitoring and Evaluation Develop monitoring and evaluation scheme Data
+collection and estimation of energy savings The implementation timeline has been
+projected till year 2020 only It will be constantly reviewed with concerned
+stakeholders and is subject to change 62 14 Electricity & Efficiency Objective
+This initiative aims to improve efficiency in the transmission and distribution
+system by reducing losses equivalent to % of the transmission and distribution
+losses during the baseline period Expected Energy Savings 2016- 2017 2018- 2019
+2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final
+Energy)   13 19 25 63 GWh Identified Savings (PEE)  22 44 66 88 221 GWh Target
+Savings (PEE)   19 28 37 93 GWh Contribution to % National Target % % % Expected
+Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings       BHD mn Government Savings       BHD mn
+Consumer Savings       BHD mn Target Sectors & Key Stakeholders Target Group
+Electricity & Water Authority Lead Ministry/Agency Electricity & Water Authority
+Status & Implementation Timeline Planned Timeline 2017 2018 2019 2020 Initiative
+Electricity Transmission & Distribution Efficiency
+Design and Initiation To be designed by EWA Implementation Implement identified
+measures Monitoring and Evaluation Develop monitoring and evaluation scheme Data
+collection and estimation of energy savings The implementation timeline has been
+projected till year 2020 only It will be constantly reviewed with concerned
+stakeholders and is subject to change 63 15 Power Factor Correction Objective
+This initiative aims to enhance efficiency in the power supply system by
+improving the power factor to be >  Expected Energy Savings 2016- 2017 2018-
+2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final
+Energy) 185 263 280 297 317 1341 GWh Identified Savings (PEE) 646 919 979 1040
+1110 4693 GWh Target Savings (PEE) 272 387 412 438 468 1978 GWh Contribution to
+% National Target % 12% % Expected Monetary Savings 2016- 2017 2018- 2019 2020-
+2021 2022- 2023 2024- 2025 Cumulative UNIT Financial Savings   10 11 12 46 BHD
+mn Government Savings      16 BHD mn Consumer Savings      30 BHD mn Target
+Sectors & Key Stakeholders Target Group Commercial, government, and industrial
+users Lead Ministry/Agency Electricity & Water Authority Status & Implementation
+Timeline Under implementation Timeline 2017 2018 2019 2020 Initiative Power
+Factor Correction                                                 Design and
+Initiation Preparation phase has been completed by EWA Implementation Apply
+Power Factor Correction Charge Monitoring and Evaluation Develop monitoring and
+evaluation scheme Data collection and estimation of energy savings The
+implementation timeline has been projected till year 2020 only It will be
+constantly reviewed with concerned stakeholders and is subject to change 64 16
+Smart Metering Objective This initiative aims to reduce electricity peak demand
+by installing smart meters, first for industry, then government and commercial
+users, and lastly residential users Expected Energy Savings 2016- 2017 2018-
+2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final
+Energy) 43 46 49 53 57 247 GWh Identified Savings (PEE) 149 160 172 185 199 865
+GWh Target Savings (PEE) 63 68 73 78 84 365 GWh Contribution to % National
+Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022-
+2023 2024- 2025 Cumulative UNIT Financial Savings       BHD mn Government
+Savings       BHD mn Consumer Savings       BHD mn Target Sectors & Key
+Stakeholders Target Group All customers Lead Ministry/Agency Electricity & Water
+Authority Status & Implementation Timeline Under implementation Timeline 2017
+2018 2019 2020 Initiative Smart Metering
+Design and Initiation Preparation phase has been completed by EWA Implementation
+Install and commission smart meters and software Execute communication and
+awareness raising activities Monitoring and Evaluation Data collection and
+estimation of energy savings Prepare feasibility study on introducing time of
+use tariffs The implementation timeline has been projected till year 2020 only
+It will be constantly reviewed with concerned stakeholders and is subject to
+change 65  TRANSPORT OVERVIEW The transport sector consumed an average of 12,253
+GWh per annum of final energy during the 2009 – 2013 baseline period, accounting
+for 31% of total final energy use In the 20 years from 1993 to 2013, the
+transport sector’ final energy use grew from 394 ktoe to ,113 ktoe, an increase
+of 182% or % per annum, faster than GDP growth of % [] Energy use in transport
+depends on three elements, ranging from long-term to short-term: () the mode of
+travel (for example, rail versus road); () the technology (for example,  fuel
+efficient or electric car versus an inefficient light truck); and () driver
+behavior and choices The initiatives underway and proposed address all three
+aspects  train line to Saudi Arabia is in planning; the government recently
+invested in  new bus fleet and extended the network to cover  greater percentage
+of the population; and the 2016 changes to the fuel price will have both  short-
+term impact on fuel consumption and will drive alternative vehicle choices in
+the medium to long term Bahrain has in the last two years invested significantly
+in its public transport network The bus network has been extended and upgraded,
+with new, fuel efficient, wifi-enabled and affordable buses servicing  wider
+percentage of Bahrain and with increased frequency The Ministry of Transport is
+promoting the use of public transport, which currently accounts for less than %
+of all journeys The number of buses has expanded from 35 to 140, coverage has
+risen from 25% to 77% and the number of routes from 13 to Daily use has risen
+from 16,000 journeys per day in 2015, to 28,000 journeys per day by the start of
+2016 [30] The continued improvement of the public bus service is  key national
+project Additional elements in the development of  more comprehensive transport
+network will focus on the development of  more holistic approach, incorporating
+taxi terminals, and park and ride facilities Plans are being progressed to
+develop  light rail network, and Bahrain is working with its GCC neighbors on
+the development of  diesel-powered GCC rail link which will help reduce the
+energy intensity of goods transported within the GCC 66 PROPOSED SECTOR
+INITIATIVES It is  government policy to diversify the modal and fuel mix of the
+transport sector, as well as to maximize the efficient use of energy Planned
+initiatives seek to decouple energy use from growth in activity and demand in
+the sector Table : Energy Efficiency Initiatives for the Transport Sector Table
+Identified Savings Year 2025 (GWh) PEE Cumulative Savings 2016- 2025 (GWh) PEE
+Energy Efficiency Initiatives (Transport) Implementation Period 17 Transport
+Subsidy Reform 2016 - 2025 192 462 18 Vehicle Efficiency Standards & Labeling
+2017 - 2025 61 181 Expected Contribution to % National Target 253 In the medium
+to long term, higher fuel prices encourages road users to purchase more
+efficient vehicles The Transport Subsidy Reform initiative is in the
+implementation phase In January 2016, Bahrain made significant modifications to
+the pricing of transport fuel which had remained unchanged for 33 years The
+price was increased by up to 60%, with the price of 95 Octane (Mumtaz)
+increasing from 100 fils to 160 fils (USD 42) per litre, and the price of 91
+octane (Jayyid) increasing from 80 fils to 125 fils (USD 33) per litre [30] This
+initiative targets  transport fuel reduction of % (as  percentage of the
+baseline) The Vehicle Efficiency Standards & Labeling initiative will introduce
+minimum energy performance standards and labeling for all vehicles to transform
+the market towards vehicles with higher fuel efficiencies The initiative
+consists of four parts: setting the minimum standards; confirming the vehicle
+performance at the point of importation; working with dealers to ensure that the
+labels are appropriately displayed; and increasing consumer awareness by
+providing information The policy objectives in relation to transport encompass
+maximizing the efficiency of the transport network, reducing transport
+emissions, and improving the accessibility and affordability of transport Energy
+demand reduction is  major driver, and for this reason, all savings realized
+under initiatives such as subsidy reform and new modes of transport (for
+example, light rail) will be included in the assessment of progress in achieving
+the national energy efficiency target 67 17 Transport Subsidy Reform Objective
+This initiative aims to reduce the subsidisation of transport fuel in order
+drive more efficient consumption of fuel Expected Energy Savings 2016- 2017
+2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings
+(Final Energy) 47 107 188 299 455 1097 GWh Identified Savings (PEE) 47 107 188
+299 455 1097 GWh Target Savings (PEE) 20 45 79 126 192 462 GWh Contribution to %
+National Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021
+2022- 2023 2024- 2025 Cumulative UNIT Financial Savings      21 BHD mn
+Government Savings       BHD mn Consumer Savings      16 BHD mn Target Sectors &
+Key Stakeholders Target Group Vehicle users Lead Ministry/Agency Ministry of
+Finance Status & Implementation Timeline Under implementation Timeline 2017 2018
+2019 2020 Initiative Transport Subsidy Reform
+Design and Initiation No preparatory phase - Fuel price increases have taken
+place Implementation Apply increased fuel prices Monitoring and Evaluation
+Develop indicators & methodology to evaluate impact Data collection and analysis
+of data (estimation of energy savings) The implementation timeline has been
+projected till year 2020 only It will be constantly reviewed with concerned
+stakeholders and is subject to change 68 18 Vehicle Efficiency Standards &
+Labeling Objective This initiative aims to improve efficiency in the transport
+sector by () setting minimum energy performance standards for vehicles; and ()
+making the energy performance of the vehicle an explicit part of the purchase
+decision through the use of fuel efficiency labeling Expected Energy Savings
+2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT
+Identified Savings (Final Energy)   141 143 145 428 GWh Identified Savings (PEE)
+141 143 145 428 GWh Target Savings (PEE)   59 60 61 181 GWh Contribution to %
+National Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021
+2022- 2023 2024- 2025 Cumulative UNIT Financial Savings       BHD mn Government
+Savings       BHD mn Consumer Savings       BHD mn Target Sectors & Key
+Stakeholders Target Group Car manufacturers, importers, suppliers and buyers
+Lead Ministry/Agency Supreme Council for Transport Status & Implementation
+Timeline Planned Timeline 2017 2018 2019 2020 Initiative Vehicle Efficiency
+Standards & Labeling                                                 Design and
+Initiation Conduct market research to establish vehicle fuel economy baseline
+Identify vehicle types subject to minimum efficiency standards Determine MEPS
+level based on international best practice Determine EE categories and Label
+design for vehicles Prepare draft regulations containing MEPS for vehicles
+Obtain government approval of MEPS for vehicles Prepare implementation and
+enforcement scheme Prepare training material for enforcement officers Develop
+communication and awareness raising plan Identify compliance verification scheme
+(product testing) Prepare database of vehicles compliant with MEPS
+Implementation Technical training for programme and enforcement officers Execute
+communication and awareness raising activities Enforce minimum efficiency
+standards & labeling Execute compliance verification scheme (vehicle sampling
+and testing) Update vehicles compliant with minimum efficiency standards
+Monitoring and Evaluation Develop monitoring and evaluation scheme Data
+collection and analysis of effectiveness of MEPS Prepare recommendations for
+further update of MEPS The implementation timeline has been projected till year
+2020 only It will be constantly reviewed with concerned stakeholders and is
+subject to change 69  CROSS SECTORAL OVERVIEW The challenges faced in delivering
+energy efficiency are common to multiple sectors of the economy such as lack of
+awareness, competing priorities, hidden costs, financial barriers, and access to
+timely and accurate information In order for Bahrain to meet its national
+target, the background conditions must be correct Policies, institutional
+support, and market conditions can support energy efficiency initiatives by
+making sure the information is available and ensuring that signals and
+incentives are in place to reward the right choice These enabling conditions are
+created by measures and policies that cut across all sectors of the economy
+PROPOSED INITIATIVES Four initiatives are considered cross-sectoral as they
+relate to more than one sector as summarized in Table  Table : Cross Sectoral
+Energy Efficiency Initiatives Table  Identified Savings Year 2025 (GWh) PEE
+Cumulative Savings 2016- 2025 (GWh) PEE Energy Efficiency Initiatives (Cross
+Sectoral) Implementation Period 19 Electricity Subsidy Reform 2016 - 2025 367
+997 20 Raising Awareness & Information Dissemination 2017 - 2025 42 149 21
+Training for Market Actors 2017 - 2025 52 186 22 Institutional Infrastructure
+2017 - 2025   Expected Contribution to % National Target 460 The Electricity
+Subsidy Reform initiative is in the implementation phase In March 2016, Bahrain
+made significant modifications to the pricing of electricity and  new tariff
+schedule was published After taking expected inflation into account, and in the
+absence of any other measures to reduce electricity use, the initiative could
+result in  14% reduction in use compared to the 2009 – 2013 baseline  public
+program to raise awareness and disseminate information on energy efficiency
+complements the other initiatives proposed by increasing relevant knowledge and
+support amongst all stakeholders, including households and businesses
+Information about the financial, environmental, and social benefits of energy
+efficiency can be communicated in various ways, such as via social media, mass
+media campaigns, pamphlets and stickers, and in-person interactions (including
+seminars, workshops, and presentations) The Awareness Raising initiative will
+focus on energy use, habits, and behaviors, and target energy-consuming
+equipment and appliances Any efforts will not replace communication campaigns
+already under way, but instead complement them 70 The Training for Market Actors
+initiative aims to build and increase capacity in the market to enable
+workforce to develop and implement energy efficiency initiatives, and perform
+monitoring and impact evaluations In particular, the initiative aims to
+establish energy efficiency training, accreditation and certification scheme for
+energy auditors, energy managers and energy service providers It is proposed
+that this initiative will be delivered in conjunction with Tamkeen to maximize
+employment opportunities for Bahrainis The Institutional Infrastructure
+initiative will build and enhance the institutional capabilities necessary for
+the successful achievement of Bahrain’ national energy efficiency target
+Responsibility for the implementation of the initiatives is divided between
+multiple ministries, given their respective focus areas, and reflects how the
+NEEAP requires concerted action from all stakeholders This diversified
+responsibility could create challenges for accountability, coordination,
+funding, and delivery of the expected energy savings To this end, SEU is the
+designated agency to lead the coordination of the NEEAP, and as such needs to be
+properly resourced, in terms of staffing to implement the initiatives under its
+responsibility; to support the implementation of the other initiatives; and to
+measure and verify the associated savings In addition to the specific
+initiatives functions, SEU requires the following capacity: • Strategy, action
+plan and policy development; • Initiative design and evaluation, including
+technical know-how; • Implementation support, including coordination of
+stakeholder engagement; • Research and analysis, including cost-benefit analysis
+and financial modelling; • Statistics function, including energy savings
+measurement, monitoring and verification, to report on progress compared to the
+baseline; • Capacity building and training activities support for stakeholders
+Along with SEU functions and capabilities, the following will facilitate the
+achievement of the national energy efficiency target: • Adoption and oversight
+of the specific initiatives within respective government organizations,
+including dedicated staffing and budget allocations for energy efficiency •
+Relationships with end users (for example, through billing); and fostering
+public- private partnerships for awareness raising and collaboration; 71 •
+Access to capital sourced locally (or from the Green Climate Fund or other
+international financial mechanism) through  central fund or dedicated
+instruments (for example,  pay-as-you-save credit facility; or green sukuk) to
+encourage take up of energy efficient products and services, • Timely official
+data on energy supply and consumption, as well as forecast demand, including
+peak demand The data resource should also include  dataset of key statistics
+such as population; GDP; building stock; vehicle stock; and include an energy
+balance Energy efficiency resources including staffing and funding should also
+be reported on and captured as part of national data • An evaluation culture
+whereby impact, process, market and cost evaluation is embedded in the
+implementation and oversight of each initiative 72 19 Electricity Subsidy Reform
+Objective This initiative aims to gradually increase electricity tariffs so they
+reflect the cost of power generation, in order to drive more efficient
+consumption of electricity Expected Energy Savings 2016- 2017 2018- 2019 2020-
+2021 2022- 2023 2024- 2025 Cumulative UNIT Identified Savings (Final Energy) 24
+57 125 221 249 676 GWh Identified Savings (PEE) 85 200 436 775 870 2366 GWh
+Target Savings (PEE) 36 84 184 326 367 997 GWh Contribution to % National Target
+% % % Expected Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023
+2024- 2025 Cumulative UNIT Financial Savings      24 BHD mn Government Savings
+BHD mn Consumer Savings      17 BHD mn Target Sectors & Key Stakeholders Target
+Group Commercial, government, industrial & residential customers Lead
+Ministry/Agency Ministry of Finance Status & Implementation Timeline Under
+implementation Timeline 2017 2018 2019 2020 Initiative Electricity Subsidy
+Reform                                                 Design and Initiation No
+prep phase - Electricity Tariff increases have taken place Implementation Apply
+increased electricity tariffs Monitoring and Evaluation Develop monitoring and
+evaluation scheme Data collection and estimation of energy savings The
+implementation timeline has been projected till year 2020 only It will be
+constantly reviewed with concerned stakeholders and is subject to change 73 20
+Awareness Raising Objective This initiative aims to encourage energy efficiency
+behavior by raising awareness on the importance and benefits of energy
+efficiency, and disseminating information on specific energy efficiency
+intiatives Expected Energy Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023
+2024- 2025 Cumulative UNIT Identified Savings (Final Energy)  24 26 28 30 107
+GWh Identified Savings (PEE)  79 85 91 98 353 GWh Target Savings (PEE)  33 36 38
+42 149 GWh Contribution to % National Target % % % Expected Monetary Savings
+2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT Financial
+Savings       BHD mn Government Savings       BHD mn Consumer Savings       BHD
+mn Target Sectors & Key Stakeholders Target Group All energy users in Bahrain
+Lead Ministry/Agency SEU Status & Implementation Timeline Planned Timeline 2017
+2018 2019 2020 Initiative Awareness Raising
+Design and Initiation Prepare awareness raising and information dissemination
+plan Develop logo, branding and marketing material Develop SEU website
+Implementation Launch website and media campaign Execute awareness raising and
+info dissemination activities Continuous update of the website Monitoring and
+Evaluation Develop program evaluation methodology Data collection and analysis
+of effectiveness of the campaign Prepare recommendations for improvement of the
+next campaign The implementation timeline has been projected till year 2020 only
+It will be constantly reviewed with concerned stakeholders and is subject to
+change 74 21 Training for Market Actors Objective This initiative aims to
+increase the capacity in the market to develop and implement EE initiatives, and
+perform monitoring and evaluations It aims to establish EE training,
+accreditation and certification scheme for market actors Expected Energy Savings
+2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT
+Identified Savings (Final Energy)  28 30 33 35 126 GWh Identified Savings (PEE)
+98 106 114 123 441 GWh Target Savings (PEE)  41 45 48 52 186 GWh Contribution to
+% National Target % % % Expected Monetary Savings 2016- 2017 2018- 2019 2020-
+2021 2022- 2023 2024- 2025 Cumulative UNIT Financial Savings       BHD mn
+Government Savings       BHD mn Consumer Savings       BHD mn Target Sectors &
+Key Stakeholders Target Group Professionals interested in training Lead
+Ministry/Agency SEU Status & Implementation Timeline Planned Timeline 2017 2018
+2019 2020 Initiative Training for Market Actors
+Design and Initiation Identify entities to host and deliver the training courses
+Draft proposal for  permanent energy auditor training program Evaluate options
+and develop an action plan Conduct training of trainers Develop  database of
+certified energy auditors Implementation Deliver pilot training course for
+certified energy auditors Revise the program based on feedback from the pilot
+course Deliver training courses Monitoring and Evaluation Develop program
+evaluation methodology Prepare recommendations for improvement of the training
+courses The implementation timeline has been projected till year 2020 only It
+will be constantly reviewed with concerned stakeholders and is subject to change
+75 22 Institutional Infrastructure Objective This initiative aims to build and
+strengthen the institutional infrastructure necessary for the successful
+achievement of the NEEAP target, through proper design and implementative of the
+initiatives, and monitoring and evaluation of the impacts Expected Energy
+Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025 Cumulative UNIT
+Identified Savings (Final Energy)       GWh Identified Savings (PEE)       GWh
+Target Savings (PEE)       GWh Contribution to % National Target % % % Expected
+Monetary Savings 2016- 2017 2018- 2019 2020- 2021 2022- 2023 2024- 2025
+Cumulative UNIT Financial Savings       BHD mn Government Savings       BHD mn
+Consumer Savings       BHD mn Target Sectors & Key Stakeholders Target Group All
+government ministries & agencies Lead Ministry/Agency SEU Status &
+Implementation Timeline Planned Timeline 2017 2018 2019 2020 Initiative
+Institutional Infrastructure
+Design and Initiation Determine what institutional gaps exist for effective EE
+governance Based on the analysis, identify partner institutions to address the
+gaps Develop action plan to address the gaps Implementation Implement activities
+according to the action plan Monitoring and Evaluation Develop monitoring and
+evaluation scheme Update gap analysis to determine effectiveness of actions
+Prepare recommendations for further institutional improvements The
+implementation timeline has been projected till year 2020 only It will be
+constantly reviewed with concerned stakeholders and is subject to change 76
+GOING FORWARD  number of factors must come together to ensure that the National
+Energy Efficiency Action Plan effectively transitions from  desk document, to
+actions that capitalize on the potential benefits described: -  governance
+structure that provides guidance and executive sponsorship; - Incorporation of
+energy efficiency initiatives in ministries’ action plans and work programs; -
+Tools enabling deployment of energy efficiency initiatives; - Funding for
+projects and activities  IMPLEMENTATION There are 22 initiatives defined under
+this Action Plan, with multiple parties involved in implementing the initiatives
+Many are currently being implemented; others still need to be designed,
+resourced and implemented by the relevant parties Other actions will be added
+over the course of the plan and will contribute to the achievement of the target
+The following entities will be directly engaged in the implementation of the
+initiatives: - Electricity and Water Authority - Ministry of Works,
+Municipalities and Urban Planning - Ministry of Industry and Commerce - Ministry
+of Housing - Ministry of Transportation and Telecommunication - Directorate of
+Traffic Services - Large industrial companies such as ALBA, BAPCO, Tatweer,
+GPIC, Foulath Holding Careful coordination and open, transparent collaboration
+between all relevant stakeholders will be required to deliver the savings set
+out in this action plan, and to enable the measures and savings to be adequately
+monitored and evaluated 77  COORDINATION SEU is the designated agency for
+promoting sustainable energy policies and practices in the Kingdom of Bahrain As
+such, SEU will lead the coordination efforts in implementing the NEEAP, and will
+provide technical assistance in the design and implementation of specific
+initiatives Responsibilities: - Coordinate implementation activities among all
+stakeholders through developing partnerships and organizing regular coordination
+meetings - Inform stakeholders on the progress of implementation of the NEEAP -
+Draft energy efficiency policies and regulations and standard operating
+procedures for their implementation - Conduct monitoring and evaluation of
+initiatives, and calculate energy and monetary savings - Carry out feasibility
+studies, cost-benefit analysis of various technology options and business
+models, as well as overseeing the implementation of pilot projects - Provide
+technical assistance in developing tendering documents, drafting requests for
+proposals, and assessing outcomes of pilot projects - Carry out information
+dissemination and awareness raising campaigns through launching  dedicated
+website, organizing press conferences, promoting energy efficiency at various
+public events - Organize and support capacity building and training activities
+for government and non-government stakeholders  OVERSIGHT The NEEAP
+Implementation Follow Up Committee will be established to oversee the
+implementation process This Committee will be composed of high-level
+representatives of key government and non-government institutions who would play
+the role of change agents to provide guidance, support and oversight The
+Committee will be chaired by the Minister of Electricity and Water Affairs, and
+may include representatives from the Electricity and Water Authority, the
+Ministry of Finance, the Office of the First Deputy Prime Minister, the Ministry
+of Industry and Commerce, the Ministry of Housing, the Ministry of Works, Urban
+Planning and Municipalities, the Ministry of Oil, and the Supreme Council for
+Environment The Committee will meet on  quarterly basis 78 Responsibilities: -
+Oversee implementation of the NEEAP and facilitate its execution; - Identify
+action items to overcome implementation issues and challenges; - Put
+recommendations and suggest actions to relevant ministries; - Decide on making
+changes in the NEEAP if required; - Discuss the progress in the implementation
+process SEU will assist in preparing the agenda of the meeting, the minutes,
+including the action list; the progress report on the status of the
+implementation process since the last meeting; and any other documents to be
+discussed or considered during the meeting  MONITORING AND EVALUATION METHODS
+FOR CALCULATING ENERGY SAVINGS The EU’ Energy Efficiency Directive sets out four
+methods for calculating savings: deemed savings; metered savings; scaled
+savings; and surveyed savings [31] It is anticipated that all methods will be
+utilized under the NEEAP: Deemed Savings: savings made by reference to the
+results of previous independently monitored energy improvements in similar
+installations (ex-ante), for example, the street lighting refurbishment Metered
+Savings: the savings from the installation of  measure, or package of measures,
+is determined by recording the actual reduction in energy use, taking due
+account of factors such as additionality, occupancy, production levels and the
+weather which may affect consumption (ex-post) An example could be the savings
+arising from the energy upgrade of  government building 79 Scaled Savings: where
+engineering estimates of savings are used This approach may only be used where
+establishing robust measured data for  specific installation is difficult or
+disproportionately expensive, for example, replacing  compressor or electric
+motor with  different kWh rating than that for which independent information on
+savings has been measured This could be an industrial savings project whereby
+the new energy reduction equipment is different in scale to the equipment for
+which well referenced savings are available Surveyed Savings: where consumers’
+response to advice, information campaigns, labeling or certification schemes, or
+smart metering is determined This approach may only be used for savings
+resulting from changes in consumer behavior It may not be used for savings
+resulting from the installation of physical measures PROGRAM AND MEASURE
+EVALUATION Separately from the identification of savings, it will be necessary
+to evaluate each initiative to determine if it has cost effectively achieved its
+objectives  less formal evaluation will be conducted after an initiative is in
+the implementation phase, to confirm that the initiative is on track to yield
+the expected results In this way, deficiencies can be detected early and
+corrected to streamline delivery and maximize effectiveness 80 REFERENCES []
+IEA, Statistics,  [] NOGA, Bahrain Oil and Gas Statistics, Jan – Dec 2014 []
+Bahrain Economic Development Board, Maximizing the Economic Value of Bahrain’
+Natural Gas Resources, 2015 [] Information & -Government Authority, 2015 Annual
+Report [] Prof Ibrahim Abdel Gelil, Energy Situation in Bahrain: Updated Gap
+Analysis,2016 [] World Bank, World Development Indicators, 2016 [] World Bank,
+Delivering Energy Efficiency in the Middle East and North Africa, 2016 [] World
+Bank, Kingdom of Bahrain Energy Efficiency Program (KEEP), 2016 [] EWA,
+Statistics [10] EWA, Electricity and Water Tariffs, 2016 [11] Bahrain Intended
+Nationally Determined Contribution (INDC), November 2015 [12] United Nations,
+General Assembly Resolution /RES/ Transforming our world: the 2030 Agenda for
+Sustainable Development, September 2015 [13] Arab Ministerial Council for
+Electricity, League of Arab States, The Arab Guideline for Improving Electricity
+Efficiency and Rationalizing its Consumption at The End User, 2010 [14] Bahrain
+Economic Vision 2030 [15] Government Action Plan  [16] Cabinet Resolution No
+/2238 on the Establishment of the Sustainable Energy Unit [17] IEA, Energy
+Efficiency Market Report, 2016 [18] EWA, Energy Efficiency Action Plan for the
+Kingdom of Bahrain  (EWA-EEAP), 2016 [19] Arab Union of Electricity, Statistical
+Bulletin [20] Sustainable Energy for All, Building Efficiency Accelerator, 2015
+[21] EDB, Bahrain Economic Quarterly, Q3 2011 [22] UNEP, Developing Minimum
+Energy Performance Standards for Lighting Products, June 2015 [23] Strategy &,
+Unlocking the potential of district cooling, 2012 [24] UNIDO, Practical Guide
+for Implementing an Energy Management System, 2015 [25] World Bank, Energy-
+Efficient Streetlights in Bahrain:  Policy Note, May 2016 [26] Tender Board,
+Annual Report  [27] World Bank, Commodity Markets Outlook, January 2016 [28]
+LMRA, Labour Market Indicators, 2014 [29] Mahendra Vermaut, Tractebel
+Engineering, Improving Generation Efficiency of Power Plants in Arab Countries,
+December 2014 [30] Ministry of Transport & Telecommunications, Statistics [31]
+European Commission, EU Energy Efficiency Directive, Annex , () to (), 2012 81
+82 83 inquiry@seugovbh +973 17319429  Box 26814 Kingdom of Bahrain 84

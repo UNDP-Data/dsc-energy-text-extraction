@@ -1,0 +1,354 @@
+Understanding Gender Gaps in Wages, Employment and Career Trajectories in the
+Energy Sector – Analysis - IEA IEA Close Search Search About News Events
+Programmes Help centre IEA Skip navigation Search Energy system  Chevron down
+Explore the energy system by fuel, technology or sector Fossil Fuels Renewables
+Electricity Low-Emission Fuels Transport Industry Buildings Energy Efficiency
+and Demand Carbon Capture, Utilisation and Storage Decarbonisation Enablers
+Buildings Energy Efficiency and Demand Carbon Capture, Utilisation and Storage
+Decarbonisation Enablers Explore all Topics   Chevron down Understand the
+biggest energy challenges The IEA's 50th Anniversary Climate Change Global
+Energy Transitions Stocktake Critical Minerals Russia's War on Ukraine Global
+Energy Crisis Investment Saving Energy Energy Security Net Zero Emissions
+Investment Saving Energy Energy Security Net Zero Emissions Energy Efficiency
+Energy and Water Energy Subsidies Renewable Integration Energy Access Energy and
+Gender Covid-19 All topics Countries  Chevron down Explore the energy system by
+country or region Member countries Australia Austria Belgium Canada Czechia
+Denmark Estonia Finland France Germany Greece Hungary Ireland Italy Japan Korea
+Lithuania Luxembourg Mexico New Zealand Norway Poland Portugal Slovak Republic
+Spain Sweden Switzerland The Netherlands Türkiye United Kingdom United States
+Accession countries Chile Colombia Costa Rica Israel Latvia Association
+countries Argentina Brazil China Egypt India Indonesia Kenya Morocco Senegal
+Singapore South Africa Thailand Ukraine All Countries and Regions Data Chevron
+down Use, download and buy global energy data Data explorers Understand and
+manipulate data with easy to use explorers and trackers Data explorers Data sets
+Free and paid data sets from across the energy system available for download
+Data sets Policies database Past, existing or planned government policies and
+measures Policies database Chart Library Access every chart published across all
+IEA reports and analysis Chart All data Reports  Chevron down Read the latest
+analysis from the IEA Oil Market Report - February 2024                     Fuel
+report — February 2024                  Electricity 2024 Analysis and forecast
+to 2026                     Fuel report — January 2024                  World
+Energy Outlook 2023                     Flagship report — October 2023
+Net Zero Roadmap: A Global Pathway to Keep the 1.5 °C Goal in Reach 2023 Update
+Flagship report — September 2023                  All reports Search Bag 1 User
+Profile Search Sign In Flyout close   Email                    * Error Password
+* Forgot password? Error Checkbox Remember me Sign in Sign in Create an account
+Create a free IEA account to download our reports or subcribe to a paid service.
+Join for free Join for free Understanding Gender Gaps in Wages, Employment and
+Career Trajectories in the Energy Sector                     Report
+19 August 2022                                  License                  CC BY
+4.0 Introduction This  report  draws upon matched employer-employee data
+collected as part of the  OECD LinkEED project . Bringing together employer and
+employee data in a single framework allows for the analysis of the role of the
+firm in determining workers' wages, as well as the role of worker
+characteristics such as skills and gender for firm-level outcomes. In the
+context of this  report , the focus is on the extent of gender bias that exists
+in the energy sector – a sector that has been lacking in gender diversity since
+its creation and that is currently making considerable efforts to change this
+imbalance. [See for example the Reference to C3E initiative (now the  Equality
+in Energy Transitions Initiative ) and the Clean Energy Ministerial’s  Equal by
+30 Campaign .] The data cover Austria, France, Germany, Portugal and Spain. 1
+Unless otherwise stated, the figures are aggregated data of all five countries.
+For Austria and Portugal, the data cover the full population of firms and
+workers in the corporate sector, whereas for France, Germany and Spain, the data
+cover a large representative sample of workers. For the purposes of this paper,
+the energy sector is defined at the three-digit level using ISIC and NACE
+classifications. 2 The years covered in the data are: Austria (2000‑2018),
+France (2002‑2018), Germany (2002-2018), Portugal (2002‑2017), and Spain
+(2006-2018). Firms in the energy sector are systematically compared with other
+firms, referred to as the non-energy sector. The firms in the non-energy sector
+represent 98% of firms in the full sample. Energy firms are approximately 50%
+larger on average than non-energy firms, in terms of employment, and wages are
+9% higher. The wage gap between the sectors cannot be explained by the skill
+composition of the workforce, since controlling for skills actually increases
+the difference to 12%. High wages in energy firms instead reflect the importance
+of rents shared with workers. Wage premia in energy firms, i.e., the average
+firm wage after abstracting from workforce composition, are 8% greater on
+average than for the economy as a whole. 3  Dispersion of the wage premia is
+also greater. The relative importance of wage premia in energy firms may reflect
+a variety of factors, including the employees’ average performance related to
+productivity, capital-intensity or profits, the wage-setting power of firms, and
+the nature of wage-setting institutions. Significantly, the ability to set wages
+differently from their competitors for similarly qualified workers increases the
+potential for firms to discriminate between workers with different
+characteristics, including demographic attributes such as gender, underlining
+the importance of looking at potential bias in the energy sector. The energy
+sector is male-dominated and women earn lower wages than men In line with
+previous studies, we find significantly fewer women working in the energy sector
+compared to men. In relative terms the gap is more than twice as large as it is
+the case in the non-energy sector. In addition, we see that wages for female
+employees are almost 20% lower than for male employees, with the gap being
+somewhat greater than in non-energy firms. Significantly, the wage gap remains
+approximately the same when the effects of skill composition in terms of
+ability, education and potential experience are accounted for, indicating that
+the gap is not a function of gender differences in skill levels within firms. 4
+Average gender wage and employment gaps by sector Open expand Exploiting the
+linked nature of the dataset we are able to assess the extent to which the wage
+gap between similarly skilled men and women reflects the tendency of men and
+women to work in different firms offering different wage premia (“between
+firms”) or differences in pay between similarly skilled men and women within
+individual firms (“within firms”). 5  It is interesting to note that while the
+within-firm component is relatively more important, it is approximately the same
+for energy and non-energy firms. However, the between-firm component is
+considerably larger for energy firms than for non-energy firms. In other words,
+women in the energy sector are working in firms with relatively lower wage
+premia than men, and more so than women working in non-energy firms. Average
+gender wage gaps within and between firms, non-energy vs. energy sectors Open
+expand It is also possible to compare the importance of wage gaps for different
+ages of employees. There is a generally increasing gender wage gap with age for
+both energy and non-energy firms amongst workers 40 years of age and younger.
+However, in the energy sector the gender wage gap continues to increase with age
+until almost 50 years of age. The evolution of the gender wage gap with age is a
+function of both “within-firm” and “between-firm” channels. In both the energy
+and non-energy sectors, for younger employees the within-firm component has the
+strongest effect on the wage gap, while for older employees the between-firm
+component is more important Gender wage gap, within and between firms, by age in
+the energy sector Open expand Gender wage gap, within and between firms, by age
+in the non-energy sector Open expand Gender wage gaps arise from wage structures
+within firms and from access to firms that pay high wages The finding that the
+between-firm component is relatively more important for energy firms motivates
+an interest to identify the mechanisms through which such “sorting” of
+employment between firms arises, building off the work of  Card et al . This
+sorting can arise either through differences in the percentage of male and
+female employees in firms with different average wages (allocation component),
+and/or through differences in the gender-specific wage structure of firms
+(dispersion component). In order to disentangle the effects of these two
+different channels, a counterfactual was created based on the mapping of the
+gender composition of the workforce in non-energy firms onto energy firms. In
+effect the objective is to measure the sorting component in the energy sector if
+the firm wage premium dispersion was the same as on average in the country,
+holding constant the allocation of men and women. The figure below shows that
+the relatively greater role of sorting in energy firms in comparison with non-
+energy firms is largely, but not exclusively, explained by the fact that in the
+energy sector wage premia differences between firms are more pronounced
+(dispersion component), rather than by the tendency of women to work in low-wage
+firms (allocation component). This result is confirmed with a further comparison
+in which the counterfactual is based on the mapping of the wage structure from
+non-energy firms onto energy firms. Gender wage gap decomposition by sorting,
+dispersion and allocation for the energy and non-energy sectors Open expand
+Returning to the role of skills using the International Standard Classification
+of Occupations ( ISCO)  we see that the gender wage gap is higher for high-
+skilled workers. This may reflect both general access barriers to high-wage
+occupations within firms (the glass ceiling), but also differences in wages for
+work of equal value due to the greater importance of individual bargaining,
+discrimination and networking, with women at a disadvantage. In addition, the
+between-firm component of the wage gap is much more important for low-skill
+workers than it is for high-skill workers in the energy sector. This suggests
+that access to desirable energy firms is particularly an issue for low-skilled
+women.  Average gender wage gap by skills in the energy sector Open expand
+Average gender wage gap by skills in the non-energy sector Open expand Women are
+more likely to leave energy sector firms for jobs outside the sector In light of
+these results, we now decompose the gender wage gap within firms, following
+Card et al ., into differences in tasks and responsibilities and differences in
+bargaining and discrimination. 6  This is a critical distinction because the
+public and corporate policies to address the two cases may be very different. On
+the one hand, the “division of responsibilities” has important implications for
+both recruitment and advancement practices. On the other hand, issues related to
+negotiations and wage-setting stem most notably from gender norms and biases of
+both employers and employees. It is interesting to see that the bargaining and
+discrimination component is relatively more important in the energy sector than
+in the non-energy sector. Gender wage gap decomposition by tasks and
+responsibilities, bargaining and discrimination, and sorting for the energy and
+non-energy sectors Open expand As a final contribution, we focus on career
+trajectories. The data show that women in the energy sector are less likely to
+remain at a given firm than men at all ages, a trend which is not present in the
+non-energy sector. For employees that leave their firms there are three possible
+destinations: i) leaving the labour market; ii) going to another firm in the
+energy sector; and, iii) going to a firm in the non-energy sector. In the first
+instance we find that women are more likely than men to leave the labour market
+at all ages in both the energy sector and non-energy sector, though the gender
+gap is more visible and consistent for energy.  In addition, women employed in
+the energy sector are much less likely than men to leave for another firm within
+the sector at all ages, something which is less evident in the non-energy
+sector. Men advance in their careers by moving to more productive and high-wage
+firms within the sector, while women tend to stay behind, increasing the gender
+wage gap between firms with age. We also see that there is a consistent (albeit
+minimal) gap showing that a higher share of women are leaving the energy sector
+for other sectors compared to men. It is interesting to note that the opposite
+is true for the non-energy sector.  Average share of firm stayers by age and sex
+in the energy and non-energy sectors Open expand Average share of labour market
+exits by age and sex in the energy and non-energy sectors Open expand Average
+share of between sector firm change by age and sex in the energy and non-energy
+sectors Open expand Average share of within sector firm change by age and sex in
+the energy and non-energy sectors Open expand Conclusions The evidence presented
+indicates that the energy sector has a relatively low percentage of female
+workers relative to other parts of the corporate sector, signalling issues of
+attracting and/or retaining a diverse workforce. It also reveals that rents are
+relatively high, underscoring the importance of assessing how these rents are
+shared with men and women in the same firm, and how sorting of employees across
+firms with different rents and wage-setting practices contributes to the gender
+wage gap. The key findings presented can be summarised as: Gender wage gaps are
+greater in the energy sector than in the non-energy sector. Much of the gender
+wage gap is explained by differences in pay between men and women with similar
+skills within firms, but it is interesting that the between-firm component is
+markedly greater than it is in the non-energy sector due to the concentration of
+women in low-wage energy firms.   Moreover, the between-firm element of the
+gender wage gap is particularly important for low-skilled workers in the energy
+sector whereas it is of relatively little importance for workers in the non-
+energy sector, regardless of skill level. A counterfactual experiment reveals
+that wage dispersion between firms plays a greater role than differences in
+gender shares in explaining the gender wage gap between firms. While it is found
+that differences in tasks and responsibilities have a significant impact on the
+gender wage gap in all firms, in the energy sector the role of bargaining and
+discrimination (and thus firm-level wage-setting practices) is markedly greater
+than in the non-energy sector.  Women are more likely than men to leave the
+labour market at all ages in the energy sector. In addition, women employed in
+the energy sector are much less likely than men to leave for another firm within
+the sector, and they are more likely to leave the energy sector for another
+sector.  What do these results mean for policymakers? Firstly, the relatively
+low employment rates of women in energy firms and the concentration of women in
+low-wage firms (sorting) and occupations (segregation) underscore the importance
+of ensuring that recruitment and promotion practices in the sector are unbiased.
+These trends are interlinked, since higher representation of women in low-wage
+firms and occupations is likely to be contributing to the low employment levels
+of women in the energy sector more generally. In particular, the findings
+suggest a lack of career mobility and advancement for women in energy jobs
+compared to those in other sectors, which will affect both the attraction and
+retention of a diverse workforce. If women are not advancing in the energy
+sector, there will be fewer female role models and mentors to attract more
+women. Furthermore, if women working in the energy sector are unable to advance
+in their careers, they will be motivated to change sectors.  The low employment
+rate of women in the energy sector is also certainly in part due to a pipeline
+problem, since there is still a disproportionately low number of women with
+STEM degrees , reducing the pool of potential female applicants for some firms
+and occupations.   Specialisation differences  between men and women can be
+explained most notably by gender norms and expectations, which are further
+enforced by the lack of female role models. Thus, measures taken to ensure
+transparency and fairness in recruitment and performance assessment will
+contribute to both attracting and retaining more women in the energy sector.
+Corporate training on unconscious gender bias, particularly amongst managers,
+can also play an important role in establishing equitable recruitment practices
+and performance assessments. Secondly, elements related to the quality of the
+work environment can also have significant negative impacts on the career
+trajectories of female employees in the sector.   Measures taken  – above and
+beyond wage incentives – to help women meet and balance their career and
+personal objectives are essential. Such measures include focussing on improving
+work-life balance through the provision of adequate parental leave, affordable
+and quality child care, flexible working arrangements, but also creating a more
+supportive environment through the use of mentoring programmes, career guidance
+and training. Awareness building on unconscious gender bias and appropriate
+workplace behaviour can also be key to ensuring a safe and attractive workplace
+for women and men. In addition, effective sexual harassment policies are
+essential. While many such measures may be nominally gender-neutral they can
+have disproportionately more important benefits for female employees. And
+finally, the relatively high pay gap in the energy sector between men and women
+with similar skills due to discrimination and bargaining underscores the
+importance of ensuring that workers (and others) are guarded against
+discriminatory practices. As a high-rent sector, there are greater returns on
+bargaining efforts and scope for discrimination. While we are not in a position
+to assess the importance of the factors that drive gender differences in
+bargaining and discrimination, gender bias in corporate practices related to
+wage setting may play a role. A number of countries have introduced  “pay
+transparency tools ” to help close the gender wage gap. In some cases, these
+focus on information provision, but in other cases sanctions can be imposed for
+firms in which the gap is particularly significant. In addition,  collective
+bargaining  can play an important role in reducing the scope for discriminatory
+policies, including those related to gender.  There is also  evidence  that
+women are less likely to demand wages that reflect their true contributions to
+firm rents. Looking at the employer side, a recent  study  shows that while
+women and men are equally likely to request a raise, men are more likely to
+succeed with their request even when controlling for background factors like
+education, tenure and contract type. These explanations apply to the entire
+workforce, thus it is worth investigating why such issues might be more
+prominent in the energy sector compared to the non-energy sector.  In
+conclusion, this paper has reported on the analysis of quantitative data related
+to employee and firm characteristics and market structure on gender gaps in
+employment, career trajectories and wages. However, assessing the implications
+of discriminatory practices as well as the benefits of policies to address them
+requires complementary work, eliciting qualitative information directly from
+those affected. Such research was recently conducted by the Nuclear Energy
+Agency, which surveyed over 8 000 women working in the nuclear energy sector
+across the world in 2021. The reported key barriers facing women in the sector
+are a lack of pay transparency and fairness, workplace sexual harassment, a lack
+of female role models, and absence of measures to help with work-life balance,
+particularly concerning pregnancy and family related-duties. All of the barriers
+were identified to have a negative impact on gender wage gaps and career
+trajectories. These findings are  consistent  with those of  other sectors  that
+have historically employed mostly men and that are also facing a challenge of
+retaining women.  The authors responsible for this research are Antton
+Haramboure and Alex Hijzen from the Employment, Labour and Social Affairs
+Directorate of the OECD, as well as Ashley Acker and Nick Johnstone from the
+Energy Data Centre of the IEA. ﻿ References France This work is supported by a
+public grant overseen by the French National Research Agency (ANR) as part of
+the “Investissements d’Avenir” programme (reference: ANR-10-EQPX-17 - Centre
+d’acces securise aux donnees – CASD). Germany The data access to the SIEED was
+provided via on-site use at Centre Secure Data Access Center (CASD) of the
+National Institute of Statistics and Economic Studies (INSEE) and subsequently
+remote data access via the Josua platform from the Research Data Centre (FDZ) of
+the German Federal Employment Agency (BA). SIEED Citation:  Berge, Philipp vom;
+Schmidtlein, Lisa; Seth, Stefan; Graf, Tobias; Grießemer, Stephan; Kaimer,
+Steffen; Köhler, Markus; Lehnert, Claudia; Oertel, Martina; Seysen, Christian
+(2020): "The Sample of Integrated Employer-Employee Data (SIEED): SIEED 7518,
+Version 1". Research Data Centre of the Federal Employment Agency (BA) at the
+Institute for Employment Research (IAB). DOI: 10.5164/IAB.SIEED7518.de.en.v1
+Energy sector ISIC/NACE selection: 051 Mining of hard coal, 052 Mining of
+lignite, 061 Extraction of crude petroleum, 062 Extraction of natural gas, 072
+Mining of non-ferrous metal ores, 091 Support activities for petroleum and
+natural gas extraction, 191 Manufacture of coke oven products, 192 Manufacture
+of refined petroleum products, 351 Electric power generation, transmission and
+distribution, 352 Manufacture of gas; distribution of gaseous fuels through
+mains, 353 Steam and air conditioning supply, 473 Retail sale of automotive fuel
+in specialized stores, 493 Transport via pipeline. Workforce composition is
+controlled for through the inclusion of worker fixed effects and “flexible”
+experience earnings profiles.  Worker fixed effects and flexible experience
+earnings profiles by gender. The sample used to generate gender wage gap
+breakdowns (bargaining, sorting, etc.) is more restrictive than that used to
+generate the overall gender wage gaps by sector. Specifically, the decomposition
+can only be carried out on firms with gender diverse data (i.e. at least one
+male and one female employee) which are connected to other firms by at least one
+man and one woman who changed firm during the period of time studied.
+Methodologically this is done by capturing the effects of bargaining and
+discrimination through firm fixed effects by gender, and positing that
+conditional on worker fixed effects, the difference between the estimated gaps
+in firm fixed effects relative to a model without firm fixed effects can be
+attributed to differences in tasks and responsibilities.  Reference 1 Close
+dialog France This work is supported by a public grant overseen by the French
+National Research Agency (ANR) as part of the “Investissements d’Avenir”
+programme (reference: ANR-10-EQPX-17 - Centre d’acces securise aux donnees –
+CASD). Germany The data access to the SIEED was provided via on-site use at
+Centre Secure Data Access Center (CASD) of the National Institute of Statistics
+and Economic Studies (INSEE) and subsequently remote data access via the Josua
+platform from the Research Data Centre (FDZ) of the German Federal Employment
+Agency (BA). SIEED Citation:  Berge, Philipp vom; Schmidtlein, Lisa; Seth,
+Stefan; Graf, Tobias; Grießemer, Stephan; Kaimer, Steffen; Köhler, Markus;
+Lehnert, Claudia; Oertel, Martina; Seysen, Christian (2020): "The Sample of
+Integrated Employer-Employee Data (SIEED): SIEED 7518, Version 1". Research Data
+Centre of the Federal Employment Agency (BA) at the Institute for Employment
+Research (IAB). DOI: 10.5164/IAB.SIEED7518.de.en.v1 Reference 2 Close dialog
+Energy sector ISIC/NACE selection: 051 Mining of hard coal, 052 Mining of
+lignite, 061 Extraction of crude petroleum, 062 Extraction of natural gas, 072
+Mining of non-ferrous metal ores, 091 Support activities for petroleum and
+natural gas extraction, 191 Manufacture of coke oven products, 192 Manufacture
+of refined petroleum products, 351 Electric power generation, transmission and
+distribution, 352 Manufacture of gas; distribution of gaseous fuels through
+mains, 353 Steam and air conditioning supply, 473 Retail sale of automotive fuel
+in specialized stores, 493 Transport via pipeline. Reference 3 Close dialog
+Workforce composition is controlled for through the inclusion of worker fixed
+effects and “flexible” experience earnings profiles.  Reference 4 Close dialog
+Worker fixed effects and flexible experience earnings profiles by gender.
+Reference 5 Close dialog The sample used to generate gender wage gap breakdowns
+(bargaining, sorting, etc.) is more restrictive than that used to generate the
+overall gender wage gaps by sector. Specifically, the decomposition can only be
+carried out on firms with gender diverse data (i.e. at least one male and one
+female employee) which are connected to other firms by at least one man and one
+woman who changed firm during the period of time studied. Reference 6 Close
+dialog  Methodologically this is done by capturing the effects of bargaining and
+discrimination through firm fixed effects by gender, and positing that
+conditional on worker fixed effects, the difference between the estimated gaps
+in firm fixed effects relative to a model without firm fixed effects can be
+attributed to differences in tasks and responsibilities.          Data explorers
+All data explorers circle-arrow Gender and Energy Data Explorer Detailed data on
+gender gaps in the energy sector in employment and wages, senior management,
+entrepreneurship and innovation Data explorer card data set         Related
+content      All results circle-arrow Gender and Energy Data Explorer Detailed
+data on gender gaps in the energy sector in employment and wages, senior
+management, entrepreneurship and innovation Data explorer card data set The
+Energy Mix Get updates on the IEA’s latest news, analysis, data and events
+delivered twice monthly. Error Subscribe View sample Explore our other
+newsletters Browse Topics Countries & regions Energy system Programmes Explore
+Reports Data & statistics Learn About News and commentaries Events Connect
+Contact Press Jobs arrow-north-east Delegates arrow-north-east Follow x
+(formally twitter) facebook linkedin youtube instagram IEA ©IEA 2024 Terms
+Privacy Back to top Subscription successful Close dialog Thank you for
+subscribing. You can unsubscribe at any time by clicking the link at the bottom
+of any IEA newsletter.

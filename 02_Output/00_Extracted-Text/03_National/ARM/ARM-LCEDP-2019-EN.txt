@@ -1,0 +1,553 @@
+ARMENIA LEAST COST ENERGY
+DEVELOPMENT PLAN: 2020 - 2036
+MARKET LIBERALIZATION AND 
+ELECTRICITY TRADE 
+PROGRAM
+Yerevan, Armenia
+November 19, 2019
+OBJECTIVES
+The Least Cost Energy Development Plan (LCEDP) for Armenia was realized using The 
+Integrated MARKAL-EFOM System (TIMES) software developed by the International Energy 
+Agency and used in more than 70 countries.
+The LCEDP for Armenia covering the period up to 2036 allows us to 
+examine scenarios and to analyze various pathways to: 
+• Strengthen the energy security and independence of the country
+• Bring a reliable supply of energy to meet all consumer needs at the lowest 
+cost possible
+• Realize energy efficiency and renewable energy potentials
+• Assess the effectiveness of existing generation and consumption technologies 
+available in the market
+2
+TIMES MODEL STRUCTURE
+Energy 
+Balance
+Planning Horizon & 
+System Settings
+Energy Service
+Demand Projections
+Future 
+Resource
+Supply and 
+Technologies
+Fuel and
+National 
+Model
+Market  Share 
+Limits
+Supply Sector
+Demand Sectors
+Resources and Imports
+Agriculture
+Industry
+T
+r
+a
+n
+s
+p
+o
+r
+t
+Power & Heat
+Residential
+Commercial
+3
+Main Assumptions for TIMES-Armenia (1 of 2)
+➢GDP growth was set at 6.75% in 2018, 4.65% in 2020 and held 
+constant after 2022 at 4.5% per year
+➢Population has a small negative growth and will slightly decrease 
+over the planning period, although residential demand for energy 
+will still grow on average 1.7% per year.
+➢The commercial sector is the main contributor to demand for 
+useful energy, with average annual growth of over 4.4%
+➢The agriculture and industrial sectors contribute less to the growth 
+of demand for useful energy, with average annual growth rates of 
+around 0.2% and 2.2%, respectively
+➢The border gas price is assumed to increase, reaching the European 
+prices level in 2027 (US$ 299/1000 m3) and growing at the same 
+rate thereafter
+4
+Main Assumptions for TIMES-Armenia (2 of 2)
+➢Electricity losses decline to a total of 8.2% for the transmission and 
+distribution systems in 2028 and remain constant thereafter.
+➢Net electricity imports/exports are held constant at the 2018 levels 
+for the planning horizon:  Export to the South as 1,515.2 GWh; 
+Import from Georgia as 74.5 GWh; Import from Artsakhenergo
+as17.2 GWh.
+➢Both Yerevan CCGT2 (RENCO) gas-fired thermal plant and Masrik-
+1 grid-connected solar PV plant are introduced in the system at 
+their respective Commercial Operation Dates.  
+➢The Armenia Nuclear Power Plant is assumed decommissioned 
+from 2027 and the old Hrazdan thermal PP from 2021.
+➢No other technical limitations are imposed on the introduction of 
+new power generation candidate technologies in the system for the 
+planning horizon.
+5
+INITIAL UNCONSTRAINED BASELINE SCENARIO
+IU BASE
+Other 
+Nuclear
+Gas price
+Import/Export
+The gas price is 
+assumed to increase, 
+reaching the European 
+prices level in 2027 
+(US$ 299/1000 m3) 
+and growing at the 
+same rate thereafter
+Yerevan CCGT2 
+(RENCO) thermal plant 
+and Masrik-1 grid 
+connected solar PV plant 
+are introduced to system
+Electricity 
+import/export held 
+constant at 2018 level 
+through the end of 
+planning period (2036)
+ANPP life time 
+extension through 
+2026
+6
+ECONOMIC PARAMETERS
+Structure of Total Discounted System Cost to 2036 (US$ Million, %)
+Total: US$ 40.5 billion
+Investments, 
+18198, 45%
+Variable costs 
+without fuel costs, 
+5495, 13%
+Fixed costs, 
+5526, 14%
+Expenditure on fuel, 
+11297, 28%
+Total Discounted GDP to 2036:  $375.4 billion
+7
+NEW GENERATION ENTRY TO THE SYSTEM
+8
+BASELINE-REFERENCE SCENARIO
+BASE-R
+Further investigation of all additional scenarios formed have been done in comparison to the BASE-R scenario
+Nuclear
+Gas price
+Other 
+Import/Export
+Yerevan CCGT2 (RENCO) 
+thermal plant and Masrik-1 
+grid connected solar PV 
+plant are introduced to 
+system
+ANPP life time 
+extension through 
+2026
+Electricity 
+import/export held 
+constant at 2018 level 
+through the end of 
+planning period (2036)
+The gas price is 
+assumed to increase, 
+reaching the European 
+prices level in 2027 
+(US$ 299/1000 m3) 
+and growing at the 
+same rate thereafter
+Introduction of new VRES 
+generation capacity is 
+limited to 1,500 MW for 
+solar PV and 500 MW of 
+wind
+Annual maximum new 
+capacity additions are 
+capped at 100 MW for 
+central solar PV, 4/5 MW 
+for Residential/ 
+Commercial rooftop PV, 
+and 50 MW for wind
+9
+BASE-R: ECONOMIC PARAMETERS
+Structure of Total Discounted System Cost to 2036 (US$ Million, %)
+Total: US$ 41,029 million ($513 million higher than in IU BASE)
+Variable costs without 
+fuel costs, 5607, 14%
+Fixed costs, 5535, 13%
+Investments, 17439, 
+43%
+Expenditure on fuel, 
+12449, 30%
+Natural Gas Fuel 
+Expenditure for 
+Generation
+M$2015
+4,251
+Power Plant
+Builds
+Power Plant
+Investment
+Scenario
+MW
+2,498
+M$2015
+1,897
+Baseline Reference (BASE-R)
+10
+NEW GENERATION ENTRY TO THE SYSTEM
+The fact that the full constrained amount of solar and wind capacity is selected by the model as part 
+of the least cost solution for new generation under this (and all) scenario(s) underscores the 
+importance to Armenia of ensuring a policy and institutional environment that supports realization 
+of new VRES generation to the maximum extent practicable, not only to ensure the lowest cost 
+generation but also to minimize reliance on other imported energy sources and to strengthen 
+Armenia’s energy security and competitiveness.
+11
+BASE-R: GDP GROWTH SENSITIVITY ANALYSES
+GDP
+Nuclear
+Other 
+Gas price
+Import/Export
+Yerevan CCGT2 (RENCO) 
+thermal plant and Masrik-1 
+grid connected solar PV 
+plant are introduced to 
+system
+The border gas 
+price is assumed 
+to increase, 
+reaching the 
+European prices 
+level in 2027 (US$ 
+299/1000 m3) and 
+growing at the 
+same rate 
+thereafter
++/- 50% 
+growth as 
+compared to 
+BASE-R 
+scenario
+Electricity 
+import/export held 
+constant at 2018 level 
+through the end of 
+planning period (2036)
+ANPP life time 
+extension through 
+2026
+Hrazdan TTP 
+decommissioned in 2021
+Introduction of new VRES 
+generation capacity is 
+limited to 1,500 MW for 
+solar PV and 500 MW for 
+wind
+Annual maximum new 
+capacity additions are 
+capped at 100 MW for 
+central solar PV, 4/5 MW 
+for Residential/ 
+Commercial rooftop PV, 
+and 50 MW for wind
+12
+BASE-R GROWTH SENSITIVITIES: MAIN RESULTS
+13
+ADDITIONAL SCENARIOS
+IDENTIFIED BY 
+STAKEHOLDERS
+14
+NUCLEAR DEVELOPMENT SCENARIOS
+Nuclear
+Other 
+Gas price
+Import/Export
+Forced implementation of a new 
+nuclear unit with installed capacity 
+300 MW
+Yerevan CCGT2 (RENCO) thermal 
+plant and Masrik-1 grid connected 
+solar PV plant are introduced to 
+system
+The gas price is 
+assumed to 
+increase, reaching 
+the European 
+prices level in 
+2027 (US$ 
+299/1000 m3) and 
+growing at the 
+same rate 
+thereafter
+Electricity 
+import/ export 
+held constant 
+at 2018 level 
+through the 
+end of planning 
+period (2036)
+Forced implementation of a new 
+nuclear unit with installed capacity 
+600 MW
+Introduction of new VRES 
+generation capacity is limited to 1.5 
+GW for solar PV and 0.5 GW of 
+wind
+Operating life extension of the ANPP 
+for an additional 5 years after 2027 -
+up to 2032 with additional $300 
+million investment
+Annual maximum new VRES capacity 
+additions are capped at 100 MW for 
+central solar PV, 4/5 MW for 
+Residential/Commercial rooftop PV, 
+and 50 MW for wind
+Operating life extension of the ANPP 
+for an additional 10 years after 2027 -
+up to 2037 with additional $600 
+million investment
+15
+NUCLEAR SCENARIOS: FURTHER RESULTS
+16
+DIFFERENT  TRENDS IN IMPORTED GAS PRICES 
+Nuclear
+Import/Export
+Other 
+Gas price
+Electricity 
+import/export 
+held constant at 
+2018 level 
+through the end 
+of planning 
+period (2036)
+Yerevan CCGT2 (RENCO) 
+thermal plant and Masrik-1 grid 
+connected solar PV plant are 
+introduced to system
+The gas price applies the EU trend growth 
+rate over the entire period to 2036
+ANPP life time 
+extension 
+through 2026
+The gas price is assumed to grow to US$ 
+180 per 1000 m3 by 2027, and then to 
+remain fixed at that level until the end of 
+the planning period
+Introduction of new VRES 
+generation capacity is limited to 1.5 
+GW for solar PV and 0.5 GW of 
+wind
+Annual maximum new capacity 
+additions are capped at 100 MW 
+for central solar PV, 4/5 MW for 
+Residential/Commercial rooftop 
+PV, and 50 MW for wind
+=>  1,500 MW solar
+500 MW wind
+17
+GAS PRICE SCENARIOS: MAIN RESULTS
+18
+FUEL SWITCHING FROM GAS TO ELECTRICITY
+Gas4Electricity
+Other 
+Gas price
+Import/Export
+Increase in the penetration level 
+for use of electric vehicles to 
+25% in 2027 and to 50% by 
+2036
+Yerevan CCGT2 (RENCO) thermal 
+plant and Masrik-1 grid connected 
+solar PV plant are introduced to 
+system
+The gas price is 
+assumed to 
+increase, reaching 
+the European 
+prices level in 
+2027 (US$ 
+299/1000 m3) and 
+growing at the 
+same rate 
+thereafter
+Electricity 
+import/ export 
+held constant 
+at 2018 level 
+through the 
+end of planning 
+period (2036)
+Increase in the penetration level 
+for the use of electricity in 
+residential heating to 25% in 
+2027 and to 50% by 2036
+Introduction of new VRES 
+generation capacity is limited to 1.5 
+GW for solar PV and 0.5 GW of 
+wind
+Both of above scenarios 
+combined
+Annual maximum new capacity 
+additions are capped at 100 MW for 
+central solar PV, 4/5 MW for 
+Residential/Commercial rooftop PV, 
+and 50 MW for wind
+19
+GAS TO ELECTRICITY: MAIN RESULTS
+20
+REDUCED GHG EMISSIONS SCENARIOS
+GHG
+Gas price
+Nuclear
+Other 
+Import/Export
+The gas price is 
+assumed to increase, 
+reaching the 
+European prices 
+level in 2027 (US$ 
+299/1000 m3) and 
+growing at the same 
+rate thereafter
+Yerevan CCGT2 (RENCO) 
+thermal plant and Masrik-1 grid 
+connected solar PV plant are 
+introduced to system
+ANPP life time 
+extension through 
+2026
+Cumulative 
+GHG 127 Mt
+Electricity import/export 
+held constant at 2018 
+level through the end of 
+planning period (2036)
+GHG Target 
+by 2030
+Introduction of new VRES 
+generation capacity is limited to 
+1.5 GW for solar PV and 0.5 
+GW of wind
+Annual maximum new capacity 
+additions are capped at 100 MW 
+for central solar PV, 4/5 MW for 
+Residential/ Commercial rooftop 
+PV, and 50 MW for wind
+21
+REDUCED GHG EMISSIONS: MAIN RESULTS
+22
+FORCED IMPLEMENTATION OF ENERGY 
+EFFICIENCY TARGETS SCENARIOS
+Gas price
+Nuclear
+Other 
+EE
+Import/Export
+The gas price is assumed 
+to increase, reaching the 
+European prices level in 
+2027 (US$ 299/1000 m3) 
+and growing at the same 
+rate thereafter
+Yerevan CCGT2 (RENCO) 
+thermal plant and Masrik-1 grid 
+connected solar PV plant are 
+introduced to system
+Electricity 
+import/export held 
+constant at 2018 
+level through the 
+end of planning 
+period (2036)
+ANPP life time 
+extension 
+through 2026
+25% 
+reduced 
+FEC
+Introduction of new VRES 
+generation capacity is limited to 
+1.5 GW for solar PV and 0.5 
+GW of wind
+Annual maximum new capacity 
+additions are capped at 100 
+MW for central solar PV, 4/5 
+MW for Residential/ 
+Commercial rooftop PV, and 50 
+MW for wind
+23
+ENERGY EFFICIENCY: MAIN RESULTS
+Economic Sector
+GHG, kt CO2eq
+- 9,486
+- 5,299
+- 3,322
+- 100
+0
+467
+Share in total
+53%
+30%
+19%
+1%
+0%
+-3%
+Transport
+Residential
+Commercial
+Industry
+Agriculture
+Power Sector
+24
+SUMMARY AND CONCLUSIONS   (1/3)
+• The LCEDP results emphasize the importance to Armenia of 
+ensuring a policy and institutional environment to support 
+realization of new VRES generation to the maximum extent 
+practicable.
+• This will not only ensure the lowest cost generation but also minimize 
+reliance on other energy sources and strengthen Armenia’s energy 
+security and competitiveness
+• Evaluating higher levels of economic growth introduced no differences 
+in new power plant capacities in level or by type required to cover 
+electricity demand through 2036 compared to the baseline. 
+• The only effect of higher income growth was in increased use of 
+existing installed capacity of both VRES and gas-fired thermal power 
+plants, with a concomitant increase in expenditures on natural gas fuel.
+25
+SUMMARY AND CONCLUSIONS (2/3)
+• Scenarios for life extension of the ANPP decrease total system cost 
+and reduce GHG emissions and imports of natural gas for electricity 
+generation, while they increase total investment costs for new 
+generation capacity by around 12 - 15% compared to BASE-R. 
+• Scenarios with new nuclear units to replace the ANPP from 2027 
+increase total system cost and reduce GHG emissions and imports of 
+natural gas for electricity generation, while they significantly increase
+the required total investment costs for new power generation by 116 -
+164%, compared to BASE-R.
+• While life extension of the ANPP represents a least-cost 
+policy choice for continuing to maintain nuclear capacity in 
+Armenia’ energy mix, such life extensions must first and 
+foremost always ensure that all measures required for the 
+continued safe and reliable operation of this older plant are 
+fulfilled.
+26
+SUMMARY AND CONCLUSIONS (3/3)
+• While low gas prices reduce total energy costs, the increased 
+use of cheaper gas maintains and deepens Armenia’s 
+dependence on imported energy. 
+• Scenarios which imposed GHG emissions reduction targets to meet 
+the level defined in Armenia’s NDC largely mirror the “new nuclear” 
+scenarios, increasing total system cost and reducing in GHG emissions 
+and imports of natural gas for electricity generation, while leading to 
+even larger total investment costs for new power generation capacity 
+than the nuclear scenarios.
+• Policies that would promote increased deployment of electric 
+vehicles and electricity for heating increase the utilization of 
+expanded domestic VRES, reduce reliance on imported  gas and 
+strengthen Armenia’s energy security.
+27
+Thank You for Your Attention
+This presentation is made possible by the support of the American People through the 
+United States Agency for International Development (USAID).  The contents of this 
+presentation are the sole responsibility of  Tetra Tech ES, Inc.  and do not necessarily 
+reflect the views of USAID or the United States Government.
+28
