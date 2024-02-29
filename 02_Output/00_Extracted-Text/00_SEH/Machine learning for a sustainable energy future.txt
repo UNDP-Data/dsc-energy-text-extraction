@@ -32,35 +32,34 @@ applying ML to the development of energy harvesting (photovoltaics), storage
 (batteries), conversion (electrocatalysis) and management (smart grids).
 Finally, we offer an overview of potential research areas in the energy field
 that stand to benefit further from the application of ML. Similar content being
-viewed by others Automated discovery of algorithms from data Article 19 February
-2024 Paul J. Blazek, Kesavan Venkatesh & Milo M. Lin Scientific discovery in the
-age of artificial intelligence Article 02 August 2023 Hanchen Wang, Tianfan Fu,
-… Marinka Zitnik The role of artificial intelligence in achieving the
-Sustainable Development Goals Article Open access 13 January 2020 Ricardo
-Vinuesa, Hossein Azizpour, … Francesco Fuso Nerini Introduction The combustion
-of fossil fuels, used to fulfill approximately 80% of the world’s energy needs,
-is the largest single source of rising greenhouse gas emissions and global
-temperature 1 . The increased use of renewable sources of energy, notably solar
-and wind power, is an economically viable path towards meeting the climate goals
-of the Paris Agreement 2 . However, the rate at which renewable energy has grown
-has been outpaced by ever-growing energy demand, and as a result the fraction of
-total energy produced by renewable sources has remained constant since 2000
-(ref. 3 ). It is thus essential to accelerate the transition towards sustainable
-sources of energy 4 . Achieving this transition requires energy technologies,
-infrastructure and policies that enable and promote the harvest, storage,
-conversion and management of renewable energy. In sustainable energy research,
-suitable material candidates (such as photovoltaic materials) must first be
-chosen from the combinatorial space of possible materials, then synthesized at a
-high enough yield and quality for use in devices (such as solar panels). The
-time frame of a representative materials discovery process is 15–20 years 5 , 6
-, leaving considerable room for improvement. Furthermore, the devices have to be
-optimized for robustness and reproducibility to be incorporated into energy
-systems (such as in solar farms) 7 , where management of energy usage and
-generation patterns is needed to further guarantee commercial success. Here we
-explore the extent to which  machine learning  (ML) techniques can help to
-address many of these challenges 8 , 9 , 10 . ML models can be used to predict
-specific properties of new materials without the need for costly
-characterization; they can generate new material structures with desired
+viewed by others A review of the recent progress in battery informatics Article
+Open access 18 February 2022 Chen Ling Predicting the state of charge and health
+of batteries using data-driven machine learning Article 02 March 2020 Man-Fai
+Ng, Jin Zhao, … Zhi Wei Seh Fundamental theory on multiple energy resources and
+related case studies Article Open access 06 July 2023 A. J. Jin Introduction The
+combustion of fossil fuels, used to fulfill approximately 80% of the world’s
+energy needs, is the largest single source of rising greenhouse gas emissions
+and global temperature 1 . The increased use of renewable sources of energy,
+notably solar and wind power, is an economically viable path towards meeting the
+climate goals of the Paris Agreement 2 . However, the rate at which renewable
+energy has grown has been outpaced by ever-growing energy demand, and as a
+result the fraction of total energy produced by renewable sources has remained
+constant since 2000 (ref. 3 ). It is thus essential to accelerate the transition
+towards sustainable sources of energy 4 . Achieving this transition requires
+energy technologies, infrastructure and policies that enable and promote the
+harvest, storage, conversion and management of renewable energy. In sustainable
+energy research, suitable material candidates (such as photovoltaic materials)
+must first be chosen from the combinatorial space of possible materials, then
+synthesized at a high enough yield and quality for use in devices (such as solar
+panels). The time frame of a representative materials discovery process is
+15–20 years 5 , 6 , leaving considerable room for improvement. Furthermore, the
+devices have to be optimized for robustness and reproducibility to be
+incorporated into energy systems (such as in solar farms) 7 , where management
+of energy usage and generation patterns is needed to further guarantee
+commercial success. Here we explore the extent to which  machine learning  (ML)
+techniques can help to address many of these challenges 8 , 9 , 10 . ML models
+can be used to predict specific properties of new materials without the need for
+costly characterization; they can generate new material structures with desired
 properties; they can understand patterns in renewable energy usage and
 generation; and they can help to inform energy policy by optimizing energy
 management at both device and grid levels. In this Perspective, we introduce
